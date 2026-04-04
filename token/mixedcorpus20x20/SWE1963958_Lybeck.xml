@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SWE1963958" xml:lang="sw">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ett mosaikarbete: ELTeC-utgåvan</title>
+    <author ref="viaf:27363638">Lybeck, Mikael (1864-1925)</author>
+    <respStmt>
+     <resp>ELTeC encoding</resp>
+      <name>Cai Alfredson</name>
+      <name>Ljubica Miočević</name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="pages">117</measure>
+    <measure unit="words">11875</measure>
+   </extent>
+   <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271663">ELTeC-swe</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4679350">ELTeC-swe release 0.7.1</ref>
+</publicationStmt>
+   
+   <sourceDesc><bibl type="digitalSource">
+     <title>Ett mosaikarbete</title>
+     <ref target="https://litteraturbanken.se/författare/LybeckM/titlar/EttMosaikarbete/sida/1/etext?om-boken"/>
+    </bibl><bibl type="firstEdition">
+     <title>Ett mosaikarbete.</title>
+     <publisher>Helsingfors. Söderström &amp; C:o Förlagsaktiebolag. <date>1892.</date></publisher>
+     <idno type="libris">https://libris.kb.se/bib/1963958</idno>
+     <!-- <ref target="http://example.com/thisbook.pdf">PDF version</ref> -->
+     <note>Det exemplar som ligger till grund för Litteraturbankens utgåva tillhör Göteborgs universitetsbibliotek (Litt. Sv.).</note>    
+    </bibl></sourceDesc>
+   
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="swe"/>
+   </langUsage>
+   <textDesc>
+    <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+    <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+    <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+   </textDesc>
+    </profileDesc>
+  <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
+   <change when="2020-11-13">LB updated</change>
+   <!-- revision information -->
+  </revisionDesc>
+ </teiHeader>
+
+ <text>
+  <front>
+  <div type="titlepage">
+<pb n="1"/>
+<p>ETT</p> 
+<p>MOSAIKARBETE</p> 
+<p>AF</p> 
+<p>MIKAEL LYBECK.</p>  
+<gap unit="graphic"/>  
+<p>HELSINGFORS.</p>
+<p>SÖDERSTRÖM &amp; C:o</p>
+<p>FÖRLAGSAKTIEBOLAG.</p>
+<pb n="2"/>           
+<p>HELSINGFORS,</p>
+<p>J. SIMELII ARFVINGARS BOKTRYCKERI AKTIEBOLAG,</p>
+<p>1892.</p>
+</div>
+</front>
+<body>
+<div type="chapter">
+<pb n="3"/>
+<p>En dag i augusti mottog jag följande bref:</p>
+<p><hi>„Helsingfors d. ⅛ -91.</hi></p> 
+<p>— — — </p> 
+<p><hi>Lyckan var en gång meddelsam, du mins. Eftersom du fortfarande är enträgen, måste jag väl härmedels ge dig rätt att svika mitt förtroende, så mycket du näns. Och jag går ju långt i offervillighet, när jag utlofvar några skriftliga tillägg, hvilka göra meddelandet fullständigt. Emellertid befarar jag att arbetet kommer att intressera endast ett fåtal; men det blir din ensak. Kalla det <hi>Tillgifvenhet</hi> — af tillgifva; man har altför ofta vågat missbruka det ord jag afser.</hi></p>
+<p><hi>Vännen * * * “.</hi></p> 
+<p>Tack — platsen i skuggan är bekväm, jag tänder min cigarr och tycker mig åter höra den välbekanta rösten.</p>
+<p>M. L.</p><pb n="4"/>   
+
+
+</div>
+<div type="chapter">
+<pb n="5"/>   
+<head>TILLGIFVENHET.</head>    <pb n="6"/>   
+
+
+<pb n="7"/>
+<gap unit="graphic"/>    
+<head>1.</head>
+<p><hi>J</hi>ag kallar henne Céri — namnet, som hon gifvit sig själf.</p> 
+<p>Det sista bestrider hon skrattande:</p>
+<p>„Du måtte kunna ett nytt, okändt och gåtfullt språk, Jarl“... </p> 
+<p>Ja, hvem vet? Men endast till henne.</p> 
+<milestone unit="*"/> 
+<p>Om jag alls skall förmås att berätta dig något, så måste du låta mig göra det på mitt eget sätt. Du måste ha tålamod.<pb n="8"/> Vi ha ju natten för oss — tänk, att det funnits en tid, då jag blindt och tröstlöst trodde på sagan om solens slocknande och vandringen mot mörkret ... för alla, i djup mening. Nu inser jag, att vi människor måste vara modiga, ty lyckan är feg, feg — hon flyr, om vi icke fängsla henne i frihet.</p> 
+<p>Nästan hvar dag, det kommandes budbärare, rymde sommarskämt under molnfri himmel — tillfälligheternas sorglösa lek vid gränsen af framtidens äfventyrsland. Vi voro inga teckentydare. Och jag talar ur minnet som vore alt blott ett minne; allvaret tvingar mig.</p> 
+<p>Jag var äldre än hon, huru mycket vet jag knapt, men väl att vi båda voro unga. Gammal var endast bekantskapen, tykte hon. Och kamratskapet.</p><pb n="9"/>
+<p>Ett fiskeläge vid hafvet — stora och små stugor i lä — rödgrå klippstränder, med tallar, enar och hafstorn — och hafvet! Det nämde jag redan. Hvarje reflex ur dess kvällslugna spegel väcker erinringar till lif, erinringar om den trolska stämning, som gärna vaknar vid vågornas sömngång. Men äfven andra; stunden var ofta så glad, så underbart öfverdådig i smyg, att skrattet blef en förtrogen, som teg. Det var tillgifvenhetens omedvetna barndom, ett lockande förspel.</p> 
+<p>När mörka tankar båda oro och agg, vill jag lyssna till ekot af dessa första, sprittande, hemliga anslag.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="10"/>
+<gap unit="graphic"/>    
+<head>2.</head> 
+<p><hi>C</hi>éri är en intagande, ny värklighet, och jag kan icke nog ofta öfvertyga mig därom. Yrvakna föreställningar om tillvarans blifvande fest leka mig i hågen som amoriner — skola de lyda och lugna sig, när arbetets allvar kallar?</p> 
+<p>Jag tror af erfarenhet att glädjen, lifvets senfödda dotter, är sorgens arftagerska och yngre syster, icke tvärtom.<pb n="11"/> De ha icke samma mor, ty sorgen härstammar från döden.</p> 
+<p>Glädjen är oberäknelig. Hon är själavandringen, af hvilken vi se en skymt i tusen olika gestalter. Hon är alla årstiders vildblomma, som vissnar i morgon eller öfverlefver olyckans strängaste vintrar.</p> 
+<p>Jag behöfver blott sluta mina ögon, och genast ser jag i fantasin huru Céri kommer emot mig med ett stort fång af glädje. Hon sprider den omkring sig, och jag skyndar att rycka till mig min andel med pojkaktighetens själftagna rätt, under skämtsamma upptåg.</p> 
+<p>Icke sant: det är roligt att ibland få vara en riktigt stor tok? Ja, och det voro vi båda med besked ... och med små missförstånd. Kvicka infall? Nej, nej, tro<pb n="12"/> aldrig det! Men ändå tordes hon en gång ge en liten vink om, att jag inte alltid var så alldeles ... Jag tackar. Därför finge jag ingalunda gå åstad och inbilla mig någonting, det skulle jag vackert låta bli med. Och så bar det af igen utför backen af obetydligheter, i tyst sken ... älskvärda obetydligheter, med muntra ord till sommarens rika melodi.</p>
+
+<milestone unit="*"/> 
+<p>Du, där borta i skuggan — gärna ville jag taga en handfull af dessa skämtets bagateller och strö dem omkring mig; men det vore förrädiskt. De skulle förlora sin betydelse, sitt goda lynne, den ständigt växlande lösen, som för ögonblicket gaf dem rätt att passera. Och mot det förflutna bör jag icke visa mig otacksam.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="13"/>
+<gap unit="graphic"/>    
+<head>3.</head> 
+<p><hi>D</hi>u frågar om hennes anhöriga? Numera lefva endast modern och två småsystrar. Tänk dig dem tillstädes, en eller alla, när och huru du finner för godt. </p> 
+<p>Jag saknar ofta hennes äldre bror, en förträfflig kamrat, död för ett tiotal år sedan. Vi voro nästan dagligen tillsammans, stämde väl öfverens, och genom honom blef jag bekant med familjen.</p><pb n="14"/>
+<p>Merendels strax efter middagen var jag väntad; genast valde han gungstolen för egen räkning, smålog och öfverlät soffan åt mig. Ibland kom då en liten flicka inrusande — den tidens Céri — alltid i något rysligt brådskande ärende, såsom hvart mamma gått just nyss, alltid halft förläget, halft nyfiket stannande innanför tröskeln och alltid lämnande dörren öppen efter sig vid reträtten. Ty brodern passade gärna på att hinna bli så förargad som möjligt — eller be henne hämta in lite punsch.</p> 
+<p>En gång blef det alldeles för svårt att låta bli ... och så räcker hon mig beslutsamt sin ena hand för att jag skall se huru underligt två fina, blå ådror löpa i bredd uppåt armen.</p>
+<p>„Hva betyder det?“</p><pb n="15"/>
+<p>Mitt svar var ett uppmuntrande:</p>
+<p>„Åh ... en mycket god vän.“</p>
+<p>„Hur snart?“</p>
+<p>„Längre fram“ — jag sköt upp ärmen — „ser du, där förena de sig.“</p>
+<p>Ett par bruna, spelande ögon betraktade mig intresseradt.</p>
+<p>„Och hva betyder det?“</p>
+<p>„Gissa!“</p>
+<p>Hon kunde knapt stå stilla — drog skrattande handen till sig och tvekade.</p>
+<p>„Jag kan inte.“</p>
+<p>„Försök.“</p>
+<p>„Nej, nej ... det är ändå inte sant.“ — — — </p> 
+<p>Naturligtvis var det hon, som öppnade tamburdörren, när jag följande dag ringde på i skymningen, senare än vanligt. Ingen var hemma, förklarade hon<pb n="16"/> modstulet, men trodde att stora bror snart skulle komma. Jag ämnade just vända om, då det oförmodadt föll mig in att stanna. Hvarför? Céri, den tidens Céri, höjde sig på tå för att hjälpa öfverrocken af mig, darrande af ifver, och i salen gjorde hon sig mycket omak med att tända lampan, släcka tändsticksglöden mellan fingrarna ... och bränna sig.</p> 
+<p>Det är konstigt att gissa en sådan där flickhjärnas tankar. Följaktligen sporde jag höfviskt, hvad hon ansåg att vi borde roa oss med. Det viste hon inte riktigt, men ... om vi skulle leka? Javisst, men hvad?</p> 
+<p>Någon gick i köksdörren, och tvärt lämnades jag åt mitt öde för en stund.</p><pb n="17"/>
+<p>Alt mera högljudda hviskningar: „Jeannette ... snälla Jeannette, får jag inte bjuda något?“... Debatten fortsattes i angränsande rum, och så hörde jag ett otåligt:</p>
+<p>„Frun kommer väl strax ... Herre Gud, låt det vara till dess!“</p> 
+<p>Céri såg en smula brydd och villrådig ut efter sin förolyckade expedition. Men det är sant: vi skulle ju leka. Ah, nu vet hon! Det gladde mig. Lampan måste obetingadt afstå sin ljusröda skärm till krona. Hvad det betyder? Jo, nu är hon en prinsessa. Förträffligt! Gungstolen utsågs till tron, och jag måste böja knä och skjuta en pall under Hennes Höghets fötter. Jag gjorde det med mycken förnöjelse, ty hon var värkligen lustig att åse, där hon satt, draperad i en stor, skotsk<pb n="18"/> sjal — en fulländad, liten skådespelerska i min och fasoner.</p> 
+<p>„Nu är prinsessan alldeles ensam i ett gammalt slott“, påstod hon. — Nå, men hvad skulle jag föreställa?</p>
+<p>„Ett elakt ... ett troll, som vill röfva bort prinsessan.“</p> 
+<p>När sedan modern kom hem, frågade mig min lekkamrat om vi inte haft roligt? Visst hade vi det.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="19"/>
+<gap unit="graphic"/>    
+<head>4.</head> 
+<p><hi>B</hi>rodern dog, som sagdt, och snart förlorade jag systern ur sikte. Jag fann det helt märkvärdigt att möta henne igen — i ny gestalt och i nya förhållanden.</p> 
+<p>Paerman frågade mig om jag kände den vackra, unga fröken förut? Naturligtvis. — Paerman skulle bli präst. Han hyrde rum i samma stuga som jag, hos enkan Lammer. Den företagsamma flickan<pb n="20"/> med den ljusa halsduken och den ljusa flätan var dennas dotter. En mycket företagsam dotter! Paerman läste med henne alla söndagar, och jag skämtade med honom, af idel välbefinnande, och kallade dem brud och brudgum af Lammermoor.</p> 
+<p>Bakom fiskeläget och dess röda klippor, således ett stycke inåt den stora, på fastlandssidan af stadsbor bebygda holmen, öppnade sig ett delvis sankt fält, troligen en gammal vikbotten. Vore jag akvarellist, så hade jag för länge sedan målat af den, för färgernas skull. Här och där var marken brun af gytja och vissen starr — i klöfspåren efter korna blänkte regnbågsskiftande vatten bredvid fläckar af mörk och frodig grönska — feta, årsgamla altelningar, med klibbiga blad, vågade sig på egen hand ut i växtvärlden<pb n="21"/> — gula vassrör, som gått i land och gått vilse, bildade en gles, bruten linje borta i skogsbrynet — och öfver denna brokigt nedsmorda palett tågade ängsullen som en segrande här af strån, med hvita, svajande fjäderbuskar. Invid de röda klipporna, där viden gaf skugga i naturliga löfsalar, skulle jag erbjudit plats som staffage, en riktigt bekväm plats, åt den gråklädda, bleka kvinnan, Céris mor, som jag så ofta påträffat där med sitt arbete ... tyst, stilla och allvarsam. Som vanligt skulle de båda små fått leka i solbaddet framför henne. — Oh, jag ser ännu huru de blå sländorna hänga orörliga i luften, hör insekternas surr. Och från stranden nedanför de bortskymda stugorna tränger den starka lukten af fiskbragder, tjära, fisk och tång — från hamnarna, där de uppdragna skötbåtarna te<pb n="22"/> sig så grofva och fula mot min lilla, propra enmastare.</p> 
+<p>I denna omgifning fann jag åter min prinsessa.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="23"/>
+<gap unit="graphic"/>    
+<head>5.</head> 
+<p><hi>V</hi>issa perioder af vår samvara, hennes och min, ser jag likasom i stark förkortning: ett mycket nyckfullt perspektiv. Tiden har ofta stor elasticitet; jag menar det så, att den kanske i mina ord kommer att tyckas dig knapp från sommar till sommar, men däremot lång från dag till dag. — — —  Du, där borta i skuggan ... att jag i kväll gör uteslutningar är både förklarligt och berättigadt, ty jag afser ingen åskådlighet, endast stämning.</p><pb n="24"/>
+<p>Nå — numera förefaller mig begynnelsen närmare än förr, om jag nämligen alls kan tala om en begynnelse. Låt mig emellertid försöka.</p> 
+<p>Hon hade kastat sig ned i det solbrända gräset ofvan en sandsluttning mot sjön, med den mörkblå mössan öfver ögonen — de vackra, bruna ögonen! — och armarna under nacken. Hon smålog vid ljudet af mina steg, utan att röra sig, smålog till hälsning; och ofrivilligt måste jag märka och medge för mig själf, att detta säkra, snabba igenkännande gladde mig ... egendomligt. Jag borde rätteligen ha blifvit förväxlad med någon annan, tykte jag, någon af lotslärlingarna, hvem som hälst — vanliga gångstigen till brunnen gick ju långs stranden nedanför oss. Men jag blef det icke.</p><pb n="25"/>
+<p>Följaktligen stannade jag bredvid henne och teg. Hon jämkade förstulet mössan från pannan — leendet dröjde kvar i mungiporna. Det var jag, som frågade:</p>
+<p>„Siesta med fantasier, eller hur ... liten?“</p>
+<p>„Hva menar du?“... blicken tog mig i förhör. „Ja, jag är visst bra barnslig, mycket barnsligare än du ... Herr domine!“</p> 
+<p>Synbarligen retade henne min för tillfället envist allvarsamma min, som genast misstänktes skyla den mest skoningslösa, invärtes förnöjelse, ty hon reste sig, såg ännu en gång på mig och utbrast därpå häftigt:</p>
+<p>„Jarl — <hi>du</hi> får inte kalla mig barn.“</p> 
+<p>„Hvarför inte?“</p><pb n="26"/>
+<p>„Därför att bara jag själf ... begriper du?“</p>
+<p>„Naturligtvis.“ — Nå, nu lär jag väl ha skrattat.</p>
+<p><hi>„Au revoir.“</hi></p>
+<p>„Går du, Céri?“</p>
+<p>„Ja, eftersom jag inte fick vara i fred.“</p>
+<p>Jag ämnade svara, då hon i detsamma häjdade sig och långsamt, tvekande kom emot mig, med mycket förändradt uttryck i sitt ansikte. Tonfallen kan jag icke återge:</p>
+<p>„Jarl, jag ber dig, du ska inte onödigtvis ... förminska mig; det är ibland så pinsamt att ständigt vara aflägsen, på nära håll. Du vinner ju inte större erfarenhet genom att göra kamraten till ett barn — och det är jag ändå inte i den grad du tror. Ja, vi få väl se ... det<pb n="27"/> gäller ingalunda den här gången och alla gånger — du förstår nog. Jag låg just och tänkte ... men tro nu inte att jag ... eller rättare: Jarl, ska vi reta hvarandra mindre, och i stället vara mer värkligt uppriktiga? Du blir visserligen yngre därigenom, men“... </p> 
+<p>Till hälften bortvänd och redan ett stycke ifrån mig, tillade hon: „Att vara så bekant, och ändå så rädd och främmande för dig ... Herr domine!“</p>
+
+<milestone unit="*"/> 
+<p>Väntade du dig något storartadt?</p>
+<p>Jag blickade efter henne, undrande. Hvilken lätt och spänstig gång!</p>
+<p>Numera förefaller mig denna lilla begynnelse mycket närmare än förr.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="28"/>
+<gap unit="graphic"/>    
+<head>6.</head> 
+<p>„<hi>H</hi>allå, Jarl, kom hit!“</p>
+<p>Jag hörsammade kallelsen med bibehållen värdighet.</p>
+<p>Kring båthamnarna böjde sig en arm af nakna klippor ut mot brottsjön, som under stormdagar vräkte sitt skum ända upp öfver dess skuldra. Vinden röt och frustade i remnorna, med munnen full af sälta ur luften, klarade tidtals strupen till ett gält hvin och borrade sig sedan djupare in bland skären.</p><pb n="29"/>
+<p>„Se till att du inte halkar“, ropade jag åt Céri. Allehanda små försåt bland slippriga, våta stenar hindrade mig ej från att med fägnad iakttaga hennes käcka hållning, där hon stod nära branten och vågsvallet ... kroppens ena sida bildande en smidig kontur, den andra förtagen af dräktens fladdrande flikar.</p> 
+<p>Samma friska, starkvuxna vind, som lockat till stranden, dref oss in under tak igen. Men det dånande motståndet där ute, klippornas obändiga trots, måtte omedvetet inom mig ha väkt en lust till opposition, som kamraten blef varse. Jag anade icke då, huru väl hon skulle veta att begagna sig däraf; tänk dig, hon frågade helt oskyldigt, likasom i förbifarten, innan jag ens hunnit skaka vattenstänket af rocken:</p><pb n="30"/>
+<p>„Kommer du ihåg, Jarl, hvem som påstått att kvinnorna hälst vilja bli <hi>tagna?“</hi></p> 
+<p>Nej, det kom jag ingalunda ihåg och tykte att frågan för tillfället var opåkallad. Men jag kände mig icke desto mindre uppfyld af den mest tvärsäkra öfvertygelse om, att påståendet var falskt; att det låg någonting nedsättande i detta påstående; och att detta samma påstående borde motsägas på det kraftigaste.</p> 
+<p>Det var just detta jag gjorde — icke utan en viss, demonstrerande vältalighet. Jag kastade öfverrocken häftigt i en vrå, rustade mig nästan i yttre åtbörder till angrepp med en ifver, som åtminstone i början icke stod i något rimligt förhållande till mitt intresse. Och Céri? Hon<pb n="31"/> stirrade hela tiden envist ut genom fönstret.</p> 
+<p>Jag talade mig varm. Jag talade mig vek. Jag sade att den okände sagesmannen borde straffas.</p> 
+<p>Kvinnorna hälst vilja bli tagna! Aldrig!..  de vilja gifva sig. I triumfens högsta ögonblick vilja de gifva sig ... af egen drift ... till belöning ... af förbarmande.</p> 
+<p>Céri vände sig om, jag tystnade och blef uppmärksam. Utan att brista i skratt, var hon långt ifrån allvarsam.</p>
+<p>„Och det där är din värkliga mening, Jarl?“</p>
+<p>„Obetingadt.“</p><pb n="32"/>
+<p>„Alltid?..  nåja, det är detsamma“ — afbröt hon sig — „kvinnorna ha ju så olika böjelser. I alla fall tycker jag om att höra dig försvara hva jag själf så gärna vill tro ... utan förbehåll.“</p>
+<p>„Du är inte något barn, du, Céri.“</p>
+<p>„Nej“ — och nu skrattade hon.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="33"/>
+<gap unit="graphic"/>    
+<head>7.</head> 
+<p><hi>D</hi>et är löjligt — jag hade valt kammaren innanför Paermans till min, för tapeternas skull.</p> 
+<p>Om mönstret var rikt? Döm själf: infattad i olivgröna bladornament, fans där en kvarn, med drypande vattenhjul, och som motstycke därtill ett fartyg i stiltje ... ett redlöst, vrakblifvet fartyg, med en enda, mystisk sjöman ombord. Jag har gladt mig åt dessa vanföra bilder<pb n="34"/> som ett leksakslystet barn, och om lynnet vid sängdags var nedstämdt, blef sjömannen gärna identisk med min egen person. Äfven Céri känner denna inbillade olyckskamrat, ständigt lika öfvergifven, lika mystisk i sin enformiga omväxling med kvarnen — och hvad mera är, hon har af en händelse lärt sig att nästan hålla af honom ... </p> 
+<p>Sent en afton väkte jag Paerman, som redan lagt sig — en mycket stor ångare hade kastat ankar nära udden. Han vädjade till mina bättre känslor:</p>
+<p>„Jag sof så godt; låt mig vara, hör du.“</p>
+<p>„Dumheter!..  sätt dig opp, så kan du se lanternorna.“</p>
+<p>„Låt mig sofva, kära vän — inte vill jag se dem.“</p><pb n="35"/>
+<p>„Det vill du visst“... </p>
+<p>„Låt mig sofva.“</p>
+<p>„Seså — nå, om vi ta den vackra, unga fröken med oss?“</p>
+<p>Han spratt till, vände sig mot väggen och begrof hufvudet i dynan:</p>
+<p>„Du borde vara försiktig“ — mumlade han — „det borde du värkligen.“</p> 
+<p>I farstun såg jag en hvit skymt af bruden af Lammermoor, nickade åt denna hvita skymt, som svarade med ett skratt, och begaf mig långs den daggiga gångstigen i riktning mot lotsstugan. Jag räknade minst ett tjog grodor, feta, förskräkta grodor, som flydde för mig i långa skutt, innan jag stannade framför Céris fönster. Det var stängdt; men vid mitt tillrop drog hon undan halfgardinen och visade sig fullklädd bakom rutan.</p><pb n="36"/>
+<p>„Skynda dig!“ Jag gjorde en teatergest utåt hamnarna och hafvet — gick sedan i förväg ned till stranden. En stund senare hördes brådskande steg, och just när jag sträkte mig efter årorna, lades en hand lätt på min axel och någon hoppade i båten. Det var Céri. Skämtsamt tog jag henne om lifvet och fordrade en kyss för mitt besvär. Hon var nära att bli förargad, det förstod jag strax af minförändringen; emellertid frågade hon endast h varför jag var så ostyrig?</p> 
+<p>„Därför att jag ska ro.“ — Och så bestämde jag mig för att vara en inföding från Söderhafsöarna, på färd till en engelsk örlogsman, i kanot. Fredlig byteshandel lämpade sig bättre för mig än blodsutgjutelse, och kunde jag få några örringar eller hälst en droppe eldvatten<pb n="37"/> för en så liten hustru, så ... <hi>à la bonheur!</hi></p> 
+<p>I detsamma ljödo från ångarens fördäck de gälla tonerna af ett dragspel, som dock genast tystnade för att efterträdas af en långsam, klagande sång:</p>
+<l>„På afstånd sjömannen spanar</l>
+<l>förutan ro efter land;</l>
+<l>ofvan Östersjöns öde yta</l>
+<l>där höjer sig ändtligt en strand.</l> 
+<l>Han känner igen den stranden,</l>
+<l>men sinnet får ingen ro.</l>
+<l>Du mitt allra käraste hjärta,</l>
+<l>hvi hafver du svikit din tro?</l> 
+<l>Ja, är det sant att du brutit</l>
+<l>den lofven jag en gång vann —</l>
+<l>så vare det sista gången</l>
+<l>jag skådar denna strand.“</l> 
+<p>En vacker, bekant melodi ... en sorglig visa! — Céri blickade tigande upp mot den mörka fartygsrelingen ofvanför oss.</p><pb n="38"/>
+<p>„Hva tänker du på, Jarl?“</p>
+<p>„Kan man inte bli nedstämd med mindre? Stackars karl!..  lika mystisk som öfvergifven. — —  Hvarför får man inte vara glad? Ser du, först sticker månen, den tragikern, sin blanka, skinande hjässa genom refvorna i molnridån och ber en sufflera. Nåväl, låtom oss göra det. O, du min vördade mästare i svårmod och svärmeri, vet du inte än att hafvet i natt önskar mörker och fred? Såg du inte nyss hur det sände sina sista, sömniga dyningar upp i vikar och sund med de strängaste påbud? Och ändå djärfs du hänga din glödlampa ut öfver scenen, så att sjöormen vaknar där borta i de djupa vattnen och kommer rullande som ett ångvidunder, med röda och gröna ögon. — Och sen drifva trollen sitt spel och oroa oss med sorgliga visor.“</p><pb n="39"/>
+<p>„Låt det nu vara nog, jag vill ha glada drömmar.“</p>
+<p>„Eller inga; nej, nej, du har rätt: glada drömmar.“ — — — </p> 
+<p>Nästa morgon var ångaren försvunnen.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="40"/>
+<gap unit="graphic"/>    
+<head>8.</head> 
+<p><hi>I</hi> den fortlöpande serien af erinringar från denna tid är måhända alt lika väsentligt eller oväsentligt, hvad vet jag, som själf anser hvarje detalj som en liten klenod. Det hela är ju en variation öfver ett mångtusenårigt tema; jag slår an ett akkord här, ett annat där — nåja, du måste ha tålamod.</p> 
+<p>Hvarför skulle hon säga det just åt mig och i Paermans närvara? Det var ett<pb n="41"/> retligt yttrande, och <hi>naturligtvis</hi> med afsikt. Jag viste icke med mig att jag varit närgången, och ändå måtte hon ha syftat på någonting dylikt.</p> 
+<p>Eftermiddagen kom, och med den ett slags kylig ursäkt från min sida, en invit om att jag uppfattat. — Du skulle ha sett huru förvånad hon blef! Först en hastig, spörjande blick, sedan nedslagen tystnad, tils hon steg upp, tog sitt arbete och lämnade trappan. Jag fördjupade mig ånyo i min tidning, med en stark förnimmelse af att vara en gentleman ... ända i fingerspetsarna en gentleman.</p> 
+<p>På aftonen talade jag ganska otvunget, inbillar jag mig, då jag med ens märkte att hon icke hörde på. Det var<pb n="42"/> ett frånvarande, spändt uttryck i hennes ansikte, sådant jag såg det i profil mot dagern.</p>
+<p>„Jarl, hur kunde du ta mina ord på det sättet!“ Och hon böjde sig djupare ned öfver sömnaden, med en så enkel, nästan ödmjuk rörelse, att jag genast kände mig mycket ångerfull, följde ögonblickets impuls och räkte henne handen.</p>
+<p>„Jag är fäst vid dig, ser du, och därför misstänksam.“</p> 
+<p>Så hon rodnade! Själf var jag oväntadt nära att bli generad, helt plötsligt, utan anledning. Då gjorde hon en värkligen heroisk ansträngning för att säga något, rädd för den plågsamma förvirring, som hon fruktade skulle stegras, och det lyste en skälmsk glimt i blicken, när hon utbrast:</p><pb n="43"/>
+<p>„Det är bra att du bryr dig om hva kamraten säger.“</p> 
+<p>Efter kvällsvarden måste jag nödvändigt tälja två barkbåtar åt de båda små, men var så tankspridd, att jag skar mig.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="44"/>
+<gap unit="graphic"/>    
+<head>9.</head> 
+<p><hi>V</hi>et du hvad, det är kanske bäst att jag fortfar med att emellanåt göra utdrag ur min dagbok, så blir tidsföljden riktigare. Datum och dylikt kunna vi undvara.</p> 
+<p>Se här hvad jag antecknat om en söndag i augusti:</p> 
+<p>— Min vän Paerman torde med fog äga anspråk på att åter bli ihågkommen. Det är sant, jag gör honom mycken onödig<pb n="45"/> förtret, men han förlåter mig så gärna. Tack, Paerman! Hvad som är bortkastadt på min retsamma oefterrättlighet, hoppas jag skall lända andra till godo. Det är alltid sabbat i din närhet, du lyckliga själ, lycklig i din fasta, färdiga tro på människors påfund och människors traktan.</p> 
+<p>Fortfarande vindstilla och mulen himmel. Skurtrasan har haft ett styft arbete i de stora och små stugorna, och ute söker jag förgäfves upptäcka pärtkorgar eller fjärdingar; de ha alla gömts undan i bodarna vid sjön. En mast står upprätt mot lotsfars båthusvägg för att låta seglet torka efter nattens regn. — Huru jag hatar fiskfjäll! Deras smygande framfart tyckes värkligen omöjlig att häjda, och jag börjar nästan få ett intryck af att de direkt spolas upp ur hafvets innersta. De<pb n="46"/> halka öfver kiseln i oräknelighet, haka sig fast i gräset, för att undgå kvastarnas räfst, och tränga oemotståndligt in öfver trappor och trösklar. Huru jag hatar fiskfjäll!</p> 
+<p>Tulljakten, vår gamla bekanta med det svarta skrofvet och den röda randen, ligger orörlig på sin färd till de inre fjärdarna. Man har funnit den likna en riggad ämbetsmössa, och genast har man gifvit öfveruppsyningsmannen namnet Kokarden. Här lär man sig snart att ge särskilda namn åt alt. Jag tror för resten att Kokarden hyser vissa känslor af ömhet för bruden af Lammermoor. Just nu kommer han roende i land till förmiddagens andakt i det fria, jämte tvänne af besättningen. Långa, högtidliga årtag, hvilka antagligen svara mot minerna, dem<pb n="47"/> jag icke kan se. — Äfven jag vill åhöra gudstjänsten.</p> 
+<p>Först bad Paerman en kort bön om nåd och välsignelse. — Jag gaf akt på huru fast han höll händerna knäpta kring en korsprydd, inbunden bok. Sedan talade han om Gud, den helige i Israel, som gifver stora gåfvor för intet. „Gud gifver, men oss tillhör det att emottaga. Och hva är att emottaga! Det är att nalkas den helige, att klart se oss själfva, att känna syndens förbannelse och bryta med våra begär, som förleda, vårt fåfänga lefverne, som tär; det är slutligen att hafva hunger och törst efter frälsningens gåfva. Guds rike på jorden“... </p> 
+<p>Helt oafsiktligt vände jag mig till Céri, vid hvilkens sida jag satt på gräsvallen:</p><pb n="48"/>
+<p>„Altså ... jag hör till de fattige. Vår vän är en ärlig förkunnare, det tycker jag mig våga tro. Han förefaller själf så afundsvärdt säker på sin läras sanning och sammanhang, och dock är en lång, lång lifstid inte nog för en samvetsgrann, personlig granskning af urkunderna. Hur många äga dessutom möjlighet därtill, utan att svälta ihjäl?..  och det har ju ingen lof till. — Grundtanken är sublim, såväl i sig själf som i vissa af sina följder, hvarifrån den än leder sitt ursprung, men hur förfalskad, hur vanstäld! — Nej, vi ska inte tala därom.“</p> 
+<p>Céri såg på mig — hvilken sorgsen, nästan skrämd blick!</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="49"/>
+<gap unit="graphic"/>    
+<head>10.</head> 
+<p><hi>D</hi>u, där borta i skuggan ... måste man ångra hvad man icke förbrutit?</p> 
+<p>Hvarför får ej den enskildes frihet vara oförkränkt? Förstår du mig? — Hvarje min tanke, hvarje min känsla betraktar jag som en lefvande individ. De födas, ge upphof åt nya och dö; några stämma öfverens, de flesta stå i strid med hvarandra. Tillsammans bilda de personligheten<pb n="50"/>, den inre — ett rike, hvars oberoende det är min plikt och min rättighet att värna. Utan att träda någon för nära, sträfvar jag att utvidga egna gränser genom eget arbete, ärligt och allena; men så komma där främmande eröfrare, med yttre förhållanden som mäktiga bundsförvandter. Hänsynslöst vilja de påtvinga mig sitt förmynderskap och fordra blind tro och lydnad. — Hvarför får ej den enskildes frihet vara oförkränkt? Må man akta sig för att framkalla ett själfförsvar, som sårar ömsesidigt!</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="51"/>
+<gap unit="graphic"/>    
+<head>11.</head> 
+<p><hi>V</hi>i stodo bland strandhafren, som i ymnighet stack upp sina blågröna ax ur sandvallarna i väster. Solen gick guldröd ned i hafvet.</p>
+<p>„Har du gråtit, Céri?“ Jag tillade genast: „Du önskar kanske vara allena ... eller är jag möjligen skulden?“</p> 
+<p>Hon såg tyst och undvikande åt sidan.</p><pb n="52"/>
+<p>„Med afsikt har jag inte sårat dig.“</p>
+<p>„Det vet jag.“</p>
+<p>„Vill du inte ge någon förklaring?“</p>
+<p>„Jag tror det är bättre att vi lämna den.“</p>
+<p>„Hvarför?“</p>
+<p>„Emedan ... emedan jag alls ingen rätt har att döma.“</p>
+<p>„Céri, har du förtroende för mig?“</p>
+<p>„Jo — alltid, Jarl. Men du tycker väl att altsammans är af ingen betydelse.“</p>
+<p>„Hur menar du?“</p>
+<p>Hon lyfte hufvudet och kinderna fingo högre färg.</p>
+<p>„Mins du ditt yttrande till mig i söndags? Jag är ju nästan säker ... ja, jag tror inte att du ville håna, men det lät så öfvermodigt.“ Rösten darrade af återhållna tårar.</p>
+<p>„Säg då hällre tröstlöst.“</p><pb n="53"/>
+<p>„Nåja, det är möjligt — jag använder emellertid dina egna ord: man är misstänksam mot dem, som man fäst sig vid. Tänk blott på de många, för hvilka just detta samma ... detta ... är dyrbart och heligt — hur det kunnat inge kraft och tålamod under de svåraste pröfningar!“</p>
+<p>„Och om jag tänker på ännu mer? Hvarje uppriktig öfvertygelse aktar jag högt, låt vara att jag inte kan dela den. Du är onaturligt upprörd, Céri, och därför orättvis. Du tar mitt yttrande alldeles för strängt, emedan du omedvetet, kanske som kvinna, njuter af att skapa dig ett lidande, ett slags martyrskap, som gör mitt sorgsna tvifvel till ett brott ... och dig själf besinningslös och fanatisk. Hädanefter ska jag gärna undvika alt, som ... ja, för din skull. Det blir inte svårt, jag vill ju ingenting annat än enhvars<pb n="54"/> frihet från tvång. Är du nöjd med det löftet? Nu, när du blifvit lugnare?“ „Hva rätt har jag att döma, Jarl!“ — — — </p>  
+<p>Paerman! Åh, jag blef visst icke förvånad — naturligtvis kom Paerman i detsamma fram ur småskogen, efter att dittils ha sökt oss förgäfves. Paerman är ett omtänksamt, ständigt återkommande intermezzo. Han afbröt oss med en värkligen rörande oskuld — hade vi hört något om segelfärden till hafs?..  från villorna på andra sidan holmen. Ämnade vi deltaga?</p>
+<p>„Ämnar du själf?“</p>
+<p>„Nej ... hva tänker du på!“</p>
+<p>„Godt, då fara Céri och jag ensamma.“</p><pb n="55"/>
+<p>Ett förebrående ögonkast — jag blef förargad:</p>
+<p>„Kom med, min vän! I så fall blir det nog tillåten glädje, och vi ska roa oss förträffligt.“</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="56"/>
+<gap unit="graphic"/>    
+<head>12.</head>
+<p><hi>O</hi>m det friska lifvet bland hafvets fångstmän har jag ingenting berättat. Icke om skötfärderna till sjös, när måsarnas varnande klagan ljöd gäll och vågorna yrde af ifver och ansträngning; icke häller om lugnet. Med tvänne af fiskelägets tystlåtna, raska karlar har jag vakat en natt vid osynliga grund, vaggad af maktlösa dyningar. Huru enväldigt herskade icke ödslighetens ökenstorhet! Omöjligt att<pb n="57"/> upptäcka land, hvart man än såg, endast fyrfartygets mörka konturer på afstånd och ett trettiotal fiskarbåtar i svängd linje, liknande jätteflöten långs telnen af ett jättenät. Därtill en halfklar skymning, med bleka, förtonande dagrar, och en hemlighetsfull tystnad ... tystnaden mellan himmel och haf, som fredligt mötas vid gränsen af vidderna.</p> 
+<p>Men det är ju endast om tillgifvenheten jag vill tala. Endast! — Tillgifvenheten är icke <hi>en</hi> känsla, den är tusende.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="58"/>
+<gap unit="graphic"/>    
+<head>13.</head> 
+<p>„<hi>D</hi>u kan gärna ligga kvar i hängmattan, Céri — är det en norsk <hi>Fortælling?.. </hi> ah-seså, boken undanbedes! Herr Jarl är i dag en öfverhöfvan frispråkig tok ... förlåt, att han tar plats bredvid dig i gräset. Det ser värkligen ut som skulle vår lekfulla samvara lida mot sitt slut; att jag kommer att sakna dig ... ja, det kan inte hjälpas. Vi ha ju haft det ganska bra tillsammans — eller hur?..  i all enkelhet<pb n="59"/>. Du stannar kvar, jag reser. Vill du veta hvarför, så betänk blott att det ges någonting ytterst problematiskt, som kallas en ung mans framtid. Denna framtid är en tyrann. Jag ämnar bli grufarbetare — i arkiv, se du, i Stockholm — och ditt vänliga deltagande tar jag med mig som säkerhetslampa ... är liknelsen uppskrufvad? Men innan jag gräfver mig altför djupt ner i min värksamhet, får du bref. Där ska jag bland annat säga dig, på ett mycket värdigt och vördnadsfullt vis, att du är en klok och präktig flicka; att du dessutom är mycket intagande ... jaså, jag får inte fortsätta. Nå, då låter jag naturligtvis bli. — —  Hör du, Céri, om Paerman efter min afresa skulle förefalla mystisk och öfvergifven, så sök att trösta honom. Säg att jag tror på hans stora, vanmäktiga välmening och min egen stora<pb n="60"/> gemenhet, änskönt denna ibland har sina ljusa stunder ... när han är frånvarande, tyvärr. Får jag inte häller tala på det sättet? Nå, då låter jag naturligtvis bli. — Är jag dig obekant? Talar jag aldrig om mig själf? Det var märkvärdigt — jag gör ju ingenting annat. Åh, vet du, herr Jarl tänker sällan och ogärna; i stället känner han så mycket oftare lust att kyssa en viss liten hand ... två fina, blå ådror, som löpa i bredd uppåt armen“... </p> 
+<p>„Men det är inte tillåtet.“</p> 
+<p>„Nej, jag kan väl tro det. Eller månne inte en naturlig impuls af tillgifvenhet äger några små rättigheter i ett kamratskap, sådant som vårt? Det vore roligt att ha reda på ... när vi träffas nästa sommar.“</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="61"/>
+<gap unit="graphic"/>    
+<head>14.</head> 
+<p><hi>V</hi>i återvände ensamma — hvarför vänta på följe, när det redan var så sent? Trött och tankspridd, efter en lång dag bland främlingar, satt jag vid rodret och lyssnade till ljudlöshetens entoniga, söfvande sång.</p> 
+<p>„Hur mycket är klockan?“</p>
+<p>„Snart tolf; fryser du, Céri?“</p>
+<p>„Nej, nej.“</p><pb n="62"/>
+<p>Nattvinden var mycket svag, men kylig. Rätt framför oss, i väster, glödde en falnande molnbrand; fjärdstränderna drogo på afstånd en skarp, tandad gräns mellan luft och vatten, båda af samma gulhvita glans, och för inbillningen utbredde sig båtens mörka segel som vingarna af en stor, dagskygg och vidunderlig fågel, utan kraft att höja sig med sitt rof.</p> 
+<p>Hon flyttade sig, min kamrat, tog plats längre ifrån mig och lägre; endast otydligt kunde jag skilja ansiktets fina oval ur den omgifvande skuggan. Jag lutade mig framåt och svepte en pläd kring hennes knän.</p>
+<p>„Tack. — Tror du det blir mörkare?“</p>
+<p>„Föga.“</p>
+<p>„Det är visst af ovana: jag ser ingenting<pb n="63"/> nu“... Och efter ett ögonblicks tvekan: „Hva måste ersätta synen, när man är blind, Jarl?“</p>
+<p>„Vakna drömmar, till exempel — men försök hällre att sofva, om du kan.“</p>
+<p>„Nej, låt mig tala? Du behöfver ju inte ge något svar.“</p>
+<p>— — — — — — — — — — — </p> 
+<p>Nåja — jag märker att jag darrar ännu vid minnet af hennes skymningsord till ljudlöshetens bortdöende sång:</p>
+<p>„Jag är så ängsligt, ängsligt rädd för att vara feg, Jarl, emedan jag i fegheten fruktar och afskyr en lömsk fiende till min ärlighet. Därför är det nästan oundvikligt ... ja, jag felar ju alt oftare mot gällande regler och stöter af trots ifrån mig dem, hvilkas tillit jag ville förtjäna genom öppet och tacksamt förtroende<pb n="64"/>. Bör jag väl blygas öfver att vara en stor fantast och öfver att gladt kunna visa mig sådan för dig, Jarl, dig, som jag inte kan låta bli att ... Ja, kamrat, du ser hur jag bjuder till att vara modig! Äfven jag måste ha rätt att våga, utan skyldighet till ånger, hva hjärta och förstånd säga mig att aldrig, aldrig af naturen är orätt. Skulden är ju inte min ... </p> 
+<p>Du undrade en gång hur en ung flicka ska tänkas bli ... hur hon egentligen känner den stora förändringen, när den inträdt? Jag stälde mig okunnig, och det var fegt — jag medger det nu. Oh, Jarl ... hon erfar en undrande, vild glädje, ofta i tårar, men lider samtidigt af en pinsam ömtålighet gentemot — den andre. För oss, unga kvinnor, är ju mannen tils vidare två personligheter: sådan vi se och höra honom, och sådan han värkligen är.<pb n="65"/> Tyvärr — och hvems är felet? När bökkerna tala om er brokiga förtid, mena vi genast att detta gäller de flesta, inte alla. När den, som fängslat vår håg, träder oss eller andra för nära, söka vi ur vår fattiga erfarenhet försvar för hans ord eller gärning. Men det plågar oss ändå ... stundom länge och bittert. Tils fantasin, med sitt försonande skimmer, räcker handen till vår hjälp och ställer honom åter i den lysande dagern: god, trots alt — svag endast mot oss, i medvetandet om sin styrka — handlingskraftig — sann. Och skyggheten, som i mörker och ensamhet rodnar öfver sin glädje och tanken på det kommande, ger långsamt, motvilligt gärna vika för hängifvenhetens lyckliga själfuppoffring — den mest skygga blir den mest öppenhjärtiga ... </p><pb n="66"/>
+<p>Nu har jag väl gjort bot nog för min tidigare feghet, Jarl — de mångas feghet, som jag fruktar och ... afskyr.“</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="67"/>
+<gap unit="graphic"/>    
+<head>15.</head> 
+<p><hi>M</hi>ot himmelns gulhvita grund en fantastisk bild af ödet ... en stor, dagskygg och vidunderlig fågel, utan kraft att höja sig med sitt rof.</p> 
+<p>Jag satt orörlig. Misstänksamheten kröp fram ur sitt snäckhus af länge sedan svikna förhoppningar för att underhandla med godtköpsironin om samfäldt angrepp, men blygdes och drog sig tillbaka<pb n="68"/>. Hvad jag velat säga, föranledt af ögonblickets vackra allvar, dog en bråd, kvalfull död på vägen från tanke till ord.</p> 
+<p>— Céri ... ödmjukt, bevekande ödmjukt hade jag velat vädja till dig själf. Låt icke din känsliga ungdom bli farlig. Se till att den vakna reflexion, hvaraf du är mäktig, när du vill, äfven denna gång icke blir tystad. — Märker du själf hvilket förtroende du visar mig? Jag åtminstone känner det djupt, och så visst som jag hittils icke förtjänat det framför andra, så visst skall jag framdeles söka att blifva det värd. Jag utesluter alt personligt ur dina modiga ord; just till följd af de ensamhetens tankar, som du nyss vågade antyda, har en förväxling skett mellan drömda ideal ... och den af dina vänner, som i naturell står dig närmast. — Seså,<pb n="69"/> Céri, ska inte vi två ärliga människor fortfarande kunna se hvarandra frimodigt i ögonen ... du med ett litet, skälmskt leende genom tårarna ... så att jag i all vänlighet får le med?</p> 
+<p>Hvad som kommer att ske vet ingen — icke du, icke jag. Hvar finnes väl lyckan? Akta dig för att uppkonstruera någon inbillad lifskonflikt af hvad ditt fantasteri förledt dig att tro om dig själf och hvad du känner. Jag djärfdes icke räkna mig som din vän, om jag ej framstälde detta med öfverdrift, nästan brutalt, så att du kan bli sårad, djupt sårad, om du vill. Och dock måste du snart förstå hvad jag menar — och huru väl jag menar med min egen kamrat. Ja, jag är stolt öfver dig!“</p>
+
+  <milestone unit="*"/><pb n="70"/>
+<p>Innanför den skyddande armen af nakna klippor lät jag ankaret falla; en sömnig lotslärling rodde ut efter oss.</p> 
+<p>„Glöm inte pläden.“</p>
+<p>„Nej, nej; godnatt, Céri!“</p>
+<p>„Godnatt.“ — Hastigt hviskade hon: „Inga drömmar ... dina egna ord en afton. Jag har inte förstått dem förut.“</p>
+<p>„Ceri!“.. </p>
+<p>„Ja — godnatt, Jarl.“</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="71"/>
+<gap unit="graphic"/>    
+<head>16.</head> 
+<p><hi>I</hi> lotsfars nytimrade båthus var min lilla, propra enmastare redan i godt förvar för vintern. „Ni kommer nog igen“, sade bruden af Lammermoor. — Hvarifrån en så glad tillförsikt?</p> 
+<p>Hvad jag beredt mig på att säga, vid afskedet från Céri, blef aldrig sagdt, tyvärr. Var jag orolig? Åh, så onödigt! Visserligen fann jag henne något allvarsammare<pb n="72"/> och mera upptagen än vanligt; men det var kanske ett misstag. Hon blickade mig lugnt och frimodigt i ögonen: „Jag är ju inte det minsta sentimental, Jarl, och tänker inte häller bli det. Som du vet, så resa vi andra efter en vecka — mamma, småsyskonen och jag. Skrif då någon gång till mig under gamla adressen ... skrif någonting om dig själf, någonting roligt, så att jag får skratta åt dig ... nu ser du altför högtidlig ut. Och tack för all sommarvänlighet ... och alt slags tålamod!“ „Tålamod? Tack själf ... solglimt!“ Hon vände sig plötsligt bort — gick med lätta, spänstiga steg öfver vägen, som skilde oss från lotsstugans trappa, stannade lika plötsligt ...</p>
+<p>„Du är ju stora gossen, du, vet jag ... man törs väl låta dig fara på egen hand?“</p><pb n="73"/>
+<p>„Följ med!“</p>
+<p>„Nej tack ... Herr domine! En annan gång.“ — Därpå nickade hon och försvann.</p> 
+
+<milestone unit="*"/> 
+<p>Paerman gaf mig följande förmaning, när vi skildes:</p>
+<p>„Du har ett hårdt och högmodigt sinne och borde därför noga ge akt på dess yttringar, för att lära dig undergifvenhet. Tro mig, utan denna är alt annat af ringa värde. Vi anse oss något vara och förhäfva oss öfver världslig klokskap, som till intet gagnar, om den strider mot“... här afbröt han sig.</p>
+<p>„Nå-å, hva nu, Paerman?“</p>
+<p>„Du får inte bli ledsen ... naturligtvis tror jag att du alltid varit aktsam<pb n="74"/> ... och det fins ju ingenting, som du behöfver ångra, jag menar från din vistelse här ute? Ni likna hvarandra så mycket, hon och du, ha samma fantasi, lifliga fantasi ... ja, ja, du får inte bli ledsen.“</p> 
+<p>Han klappade sakta min hand. — Jag skulle säkert tycka ännu mera om honom — „ja, ja, du får inte bli ledsen“ — ifall han icke så ofta haft för vana att vilja klappa mina händer.</p> 
+<p>Lotsfar själf förde mig i sin skötbåt till fastlandet.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="75"/>
+<gap unit="graphic"/>    
+<head>17.</head> 
+<p><hi>I</hi> min dagbok finner jag här en allegori. — Det är sant, minnet har stundom strängar, så känsliga, att välljudets slumrande ursprungston icke kan väckas utan att blifva en dissonans. Må den då slumra! Hemlighetsfullt som tystnaden vill jag göra min bekännelse — förklädd som på maskerad, till harpolekare, till minnesångare, till hvad du vill.</p><pb n="76"/>
+<p>Du, där borta i skuggan — yttrar den förklädde — en gång vann jag en ung prinsessas förtroende. Jag gjorde mig till gyckelmakare, härmade uggla och uf, klingade med narrens klockor ... och hon log emot mig ... solen gick guldröd upp ur hafvet. Hvarför blef hon allvarsam? Jag följde henne i blommande rosengårdar, letade efter pärlor långs stränderna, spelade kung på altanen. Men hon log icke mera. Ängslig, jag viste ej hvarför, rymde jag en mörk natt från slottet och blef eremit. Då besökte mig saknaden. Åter såg jag de klara ögonen, hörde den vänliga rösten, kände icke igen mig själf. Alt mera ängslig, drog jag på upptäktsfärd i mitt eget väsen och mötte märkliga förebud. Nya tankar, med sällsam flykt, nya känslor af sällsam värme, rika strömdrag i ett fattigt lif förkunnade att ett oupptäkt<pb n="77"/> land var nära. Du, där borta i skuggan — jag fann det!..  fann det i den fordrande tillgifvenhet, som bär kärlekens stolta, missbrukade namn.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="78"/>
+<gap unit="graphic"/>    
+<head>18.</head> 
+<p><hi>F</hi>ör mig blef det halfår, som följde, en uppgörelsens tid. Jag vill icke nämna något vidare.</p> 
+<p>I mitt första och enda bref till Céri förklarade jag mig vara <hi>in statu quo.</hi> Var det sant? Åtminstone lät det både parlamentariskt och trovärdigt — just min afsikt. „Emedan de flesta förhållanden bära korsett“ — skref jag — „bli hjärtats rörelser<pb n="79"/> så ofta hämmade. Hafsluft hälsosam; låtom oss följa rådet!“</p>
+
+<milestone unit="*"/> 
+<p>Vårvintern var fortfarande kall. Efter ett två månaders afbrott i samfärdseln med Sverge, blef det ändtligen ångbåtslägenhet i april. Afgångstiden, i Stockholm, var utsatt till klockan nio på kvällen.</p> 
+<p>Mina svenska vänner och bekanta sade jag farväl vid en sen middag. Vinet var godt, och de bådo mig hälsa gamla Finland. — Så bar det af till Skeppsbron, i kvällsmörkret. Hytt hade jag bestält förut, och mig återstod således intet annat än att taga den i besittning.</p> 
+<p>När inspirationen är vaken, kostar det ingen ansträngning att berätta, påstår<pb n="80"/> man. Mycket möjligt. Jag känner mig för tillfället i stånd att klart skildra den synliga omgifningen, huru otydlig den än tyktes mig i början, alla dess små egendomligheter ... skildra desamma just så, som iakttagelsen blef dem varse. Men denna gång intresserar mig endast resultatet — min egen sinnesstämning. Alt hvad mitt känslolif tidigare icke ägt eller måhända velat dölja, förband sig oemotståndligt med utgången af denna länge fördröjda färd, detta vågade försök att trotsa vinterns hinder. Altsammans föreföll mig ytterst ovisst och dunkelt i skenet från lyktorna ombord och utmed kajen, där en stor människohop stod tätt packad i nyfiken väntan. Vid landgången tog man afsked af hvarandra som om resan gält evigheten, och jag måste medge att totalintrycket var föga uppmuntrande. Någonting<pb n="81"/> mystiskt, jag vet ej hvad, sökte bana sig fram i mitt medvetande — dessutom plågade mig en svensk profresandes efterhängsenhet — och jag tänkte på mina nya förhoppningars framtid med en vidskeplig mans fruktan för alt slags varsel och dålig spådom. — Jag kände mig mycket öfvergifven.</p> 
+<p>Nere i salongen voro hyttdörrarna prydda med målade girlander, liknande stora frågetecken; från fördäck trängde ett jämt, gnisslande buller ... alt irriterade mig. Jag var allena, satte mig beslutsamt vid pianinot och anslog några toner af en vacker, bekant melodi ... ett af mina sommarminnen.</p> 
+<p>Då hörde jag en kär, oväntad stämma yttra bakom mig:</p><pb n="82"/>
+<p>„Nej, värkligen!..  jag tror att trollen drifva sitt spel och oroa oss med sorgliga visor?“</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="83"/>
+<gap unit="graphic"/>    
+<head>19.</head> 
+<p>„<hi>C</hi>éri!“.. </p> 
+<p>Hon smålog gladt åt min öfverraskning.</p>
+<p>„I Stockholm! Hur är du här, prinsessa?“</p>
+<p>„Af tvång, förstås“ —</p>
+<p>„Och du har inte sökt reda på mig?“</p>
+<p>»Nej.“</p>
+<p>„Så ovänligt!“</p><pb n="84"/>
+<p>„Bry dig inte om ... ser du, en af småsyskonen blef sjuk, och. strax efter nyår följde jag henne hit för att rådfråga läkare ... för resten ska vi tala sakta, hon har just somnat.“</p>
+<p>„Och nu återvänder du med mig?“</p>
+<p>„Nåja — på sätt och vis.“</p>
+<p>„Kom, vi ska inte stanna här nere!“</p> 
+<p>Min glädje var obeskriflig. Lekfullt stödde jag henne i trappan, med ena armen om hennes lif.</p> 
+<p>I detsamma öppnades dörren till röksalongen, glas klingade, ett bullrande skratt häjdade oss, och så ljöd en hånfull replik från ett soffhörn där inne:</p>
+<p>„Ja, du har rätt ... jag kan inte hålla af en kvinna utan att på samma gång hålla om henne.“</p><pb n="85"/>
+<p>Céri drog sig hastigt undan i skuggan; jag såg en harmfull blick och hörde hennes halfkväfda utrop:</p>
+<p>„Fy ... så gement!“ Därpå lämnade hon mig, efter att flyktigt ha räkt handen.</p> 
+<p>Ingen af sällskapet hade blifvit oss varse i mörkret. Men huru hatade jag icke den illvilliga slump, som tillät en ordlek att blifva skiljedomare för lång tid framåt!</p> 
+
+<milestone unit="*"/> 
+<p>Isen blef hvarje ansträngning för stark; ångbåten nödgades vända om och söka sig en ny farled genom skärgården.</p> 
+<p>Att se det lockande, mörkblå hafvet i frihet helt nära, och icke kunna nå<pb n="86"/> det! — Kaptenen var rastlös i sin ifver; utan afbrott arbetade manskapet den följande natten. Sågningen tog mångas krafter i anspråk, och några återvändande emigranter gåfvo villigt till bistånd. Klockan åtta på morgonen slog propellern sitt första slag, efter tolf timmars hvila ... vi hade segrat! Ett godt omen.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="87"/>
+<gap unit="graphic"/>    
+<head>20.</head> 
+<p><hi>B</hi>ogskärs fyr, som middagstiden passerades, lockade alla ur hytterna, äfven Céri. Jag fann henne på akterdäck, i samspråk med en af besättningen. Undvek hon mig? — Jag kände ett djupt missmod, när jag nästan tveksamt närmade mig och höfviskt bad att få göra en fråga:</p>
+<p>„Är du ledsen på mig, Céri?“</p>
+<p>Hon smålog. „Nej, för all del; hvarför skulle jag vara det?“</p><pb n="88"/>
+<p>„Jag tänkte endast ... du har hållit dig så på afstånd.“</p> 
+<p>Hon betraktade mig med en vänligt allvarsam blick, som jag altför väl kände.</p>
+<p>„Vi två ha ingenting obytt med hvarandra, Jarl.“</p> 
+<p>Ah!..  hade jag icke varit så feg, så skulle jag ha svarat:</p>
+<p>„Jo, Céri ... en symbol — en ring.“</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="89"/>
+<gap unit="graphic"/>    
+<head>21.</head> 
+<p><hi>S</hi>å är det, i sanning,... tiden har ofta stor elasticitet; i mina ord kommer den säkert att tyckas dig knapp från årstid till årstid, men däremot lång från dag till dag.</p> 
+<p>I medlet af juni voro vi åter samlade där ute vid hafvet — <hi>hafvet,</hi> du vet — alla, med undantag af Paerman. Hvar<pb n="90"/> han vistades? Det hade ingen reda på. Glömma honom vill jag icke; hågkomsten af hans fasta, färdiga personlighet är en sannskyldig plikt och en tillåten glädje.</p> 
+<p>Kokarden har haft framgång hos bruden af Lammermoor; det förstod jag strax af hennes leende. Hon hälsade mig med glad tillförsikt; „eftersom han ville, så“... </p>
+<p>„Nåja, naturligtvis.“</p> 
+
+<milestone unit="*"/> 
+<p>Att Céri, nutidens Céri, icke velat återvända till fiskeläget, hörde jag tillfälligtvis och först senare. Hon hade ingen orsak angifvit — endast lindat armarna kring moderns hals och kyst henne.</p><pb n="91"/>
+<p>Detta gaf mig mycket att tänka på. Jag tror nästan att det gladde mig. Alldeles riktigt ... nå, vi få väl se. Själf väntade jag ju alt af denna sommar.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="92"/>
+<gap unit="graphic"/>    
+<head>22.</head> 
+<p>—: Vägen förde oss genom ungskog af björk och barrträn. Stundom blef mängden af kvistar och rötter altför hinderlig, omöjligt att gå i bredd, och då lämnade jag mig ett par steg efter, otålig ... åh, ännu var ju ingenting för sent, jag hade blott att lägga band på mig en liten stund till, ett par minuter ... </p>
+<p>„Hva har Ni i sinnet, min herre?“ sporde Céri med en förvånad blick, utan att stanna.</p><pb n="93"/>
+<p>Ingenting, jag försäkrar. Endast en ren bagatell — ett mycket obetydligt beslut, som händelsevis fattats för länge sedan och nu är oåterkalleligt. Javisst, låtom oss gå ännu ett stycke tillsammans på detta tysta, kamratliga vis, utan att du anar förändringen. Ser du den hvita stranden där borta?..  hafvet glittrande mellan stammarna nedanför oss, långt, långt ute i en enda oändlighet af ljus. Ser du vallen af vildblommor? Där ... där har jag någonting att säga dig.</p> 
+<p>Hon har kastat sig ned i det mjuka gräset, med mössan öfver ögonen — de vackra, bruna ögonen! — och armarna under nacken. Hon småler. Jag lutar mig oförberedt närmare, hviskar några ord i hennes öra. Då hon blir skrämd, kvarhåller jag henne ... barn, barn, jag<pb n="94"/> frågade ju blott om du har mod och tålamod att bli min hustru?</p>
+<p>„Du bör inte vara rädd, Céri, jag talar lugnt och beherskadt. Vi låta alla de vanliga, vackra orden vara utdöda, de angå oss inte, och så söka vi i stället att få något varaktigt fram för det kommande ur en enda, förtroendefull blick ... ja ... inte sant?“</p> 
+<p>Jag ser huru ljudlöst hennes läppar röra sig; hon sänker hufvudet och jag kysser hennes kind. Jag märker icke att den är kall, icke de slutna ögonen, icke att hon darrar. Plötsligt vaknar inom mig ett vanvettigt jubel, pojkaktigheten tar fart och rusar i tyst sken utför backen af obetydligheter — ett skämtsamt skratt, en ny hviskning ... förtjusningens alt och intet.</p><pb n="95"/>
+<p>„Jarl, du tror visst att jag är mycket bättre än värkligheten kommer att utvisa; jag är både nyckfull ock ... </p>
+<p>„— intagande, ja, ock alldeles förvirrad och bortkommen. Jag ska säga dig: det här är en högst brydsam och ovan belägenhet.“</p>
+<p>„Skämta inte — jag vore i stånd att gråta, jag — förstår mig inte själf, känner mig så half alt igenom.“</p>
+<p>Naturligtvis tar pojkaktigheten ny fart, färdig till riktiga krumsprång, och mitt öfverdåd vet af inga gränser:</p>
+<p>„Förträffligt!..  då får jag bli andra hälften. — Javisst, jag är ett troll, som röfvar bort prinsessan.“</p>
+<p>Äfven nu ser jag endast huru intagande hon är, icke de slutna ögonen, icke huru hon darrar.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="96"/>
+<gap unit="graphic"/>    
+<head>23.</head> 
+<p><hi>E</hi>tt aningsfullt vemod fick makt med mig. — Säg, är det väl en egenhet hos glädjen, min glädje, att den i sitt öfvermått vill vara utan vittnen? Och dock misstror jag ensamheten, just för detta vemods skull.</p> 
+<p>Ännu samma afton skref jag några rader till Céri. När jag fick veta att hon för en stund sedan gått bort till sandvallarna i väster, lade jag obemärkt min hälsning<pb n="97"/> till godnatt på hennes bord och återvände långsamt hem, utan att vilja störa henne.</p> 
+<p>„Min egen hustru ... jag har intet namn för dig, intet, som icke blifvit nämdt af andra, tusen gånger, och det är endast <hi>ett</hi> jag vill gifva dig, nytt, okändt och gåtfullt — tacksamhetens stora hemlighet. Låt hvarje min gärning, som gläder din rättskänsla, föra denna tacksamhets talan. — Är det icke så: med skonsamt, förstående leende vilja vi se förbi hvarandra, när så fordras, ibland, ofta?..  vi två människor. Och vi måste det. Äger icke ordet människa en vacker innebörd?</p> 
+<p>Yrvakna föreställningar om tillvarans blifvande fest leka mig i hågen som amoriner — segerns lusteldar tändas ... Céri,<pb n="98"/> jag längtar efter dig, längtar, längtar, ty för mig är du från och med nu och för alltid min hustru.“</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="99"/>
+<gap unit="graphic"/>    
+<head>24.</head> 
+<p><hi>N</hi>ästa dag fick jag icke träffa henne — hon hade feber och var trött efter en sömnlös natt; likaså den följande. Men morgonen därpå kom hon redan tidigt och sökte mig. Jag, egoist, som i min glädje icke förstått att hysa någon särskild oro, snarare endast förvåning, blef skrämd af huru blek hon var, skrämd af hennes stilla, undergifna sätt, som på samma gång var nervöst upprördt.</p><pb n="100"/>
+<p>„Följ mig ett stycke, så få vi vara allena — jag har någonting att“... och så tystnade hon.</p>
+<p>„Jarl, Jarl, jag är rof för en dödlig ångest, starkare än min vilja; hur ska jag kunna säga dig alt, och hur ska du någonsin kunna förlåta mig? Oh, jag finner att jag hvarken känt eller kanske känner mig själf, är ju knapt vid mina sinnen, och kan ändå inte handla annorlunda än jag gör. Du får inte betrakta mig som din, Jarl ... nej, nej, nej, hör du!..  jag är endast ett barn, ett fegt, straffvärdt barn, som straffar sig själf ... du vet inte, du, hur hårdt! Jag har döfvat min stolthet, min känsla af plikt, länge, altför länge — jag längtade ju så outsägligt efter den drömda lyckan, och nu ... nu har jag inte mod att hålla henne kvar, Jarl, får<pb n="101"/> inte hålla henne kvar — vi måste gå skilda vägar. Först af din sista hälsning förstod jag det klart. Har du väl rätt att skrifva <hi>så.</hi>..  därför att du begär mig till hustru? Jag vet det inte; mitt hufvud svindlar, jag är rädd för dig, och dock är du mig så kär, så kär! Jag kommer ständigt att vackla mellan min plikt och min ... oh, Jarl, Jarl, hur ska jag våga förkasta det värn, som hittils gifvit karaktären styrka och lifvet ändamål? Det offret <hi>kan</hi> du inte ersätta. Aldrig skulle jag känna mig lycklig vid tanken på att vi endast en tid, en kort tid, finge lefva tillsammans ... i lifvet ... jag ville ju vara hos dig i all evighet. Inför människor vore jag din hustru, själf nödgades jag betrakta mig som — —  ack, Jarl, din solglimt slocknar! Och likväl har jag inte bedragit dig. Du har förmågan att arbeta, du, att<pb n="102"/> fylla din dag med bitterhet, tils ögonblickets tomhet försvunnit; jag har alltid varit så ensam ... förut ... och framdeles; tillgif mig, Jarl, och gif mig fri!“</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="103"/>
+<gap unit="graphic"/>    
+<head>25.</head> 
+<p><hi>S</hi>orgen är brutal som döden — nej, nej, jag vill icke visa mig otacksam: stundom kan hon äfven vara en grym välgörarinna. Ett ögonblick, ett enda, har jag stått inför henne förtviflad, seende mig omkring efter vapen till mitt försvar. Det var som om natten, en mörk, ogenomtränglig natt, hade öfverraskat mig vid dagens inbrott; när jag blef faran varse, värjde jag mig.</p><pb n="104"/>
+<p>Vi människor måste vara modiga, ty lyckan är feg. Låt mig djupt, djupt i glömskans skattkammare gömma denna minnets svarta diamant!</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="105"/>
+<gap unit="graphic"/>    
+<head>26.</head> 
+<p><hi>R</hi>eaktionen hos hennes känsliga ungdom, som vågat vara sig själf, var ju endast det konventionellas hämd, och denna fruktade jag icke. Andra fiender hade jag att bekämpa, aggande som mina egna oroliga tankar. Hade jag väl något utbrott af häftighet att ångra? Var icke all vår tvekan ett missförstånd? Ödet måste tvingas att höja sig med sitt rof — välan <hi>...en garde!</hi></p><pb n="106"/>
+<p>Sällsamt! Ånyo fick ett aningsfullt vemod makt med mig ... vårnattens purpurdimma öfver glittrande dagg af tårar. voro vi icke två stora barn, som gömde sig för hvarandra?</p> 
+<p>Hon <hi>måste</hi> förstå mig. Det offer hon talat om hade jag aldrig begärt och aldrig velat. För resten: hvad viste hon väl om min tro och min öfvertygelse?</p> 
+
+<milestone unit="*"/> 
+<p>Det är redan sent — jag skall snart ha slutat. Vi ha ju icke mera natten för oss; morgonen gryr.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="107"/>
+<gap unit="graphic"/>    
+<head>27.</head> 
+<p>— „<hi>D</hi>e ungas religion? — Céri, jag ville att du denna gång kunde läsa mina tankar utan ord, ty jag bryter mot mig själf, när jag bryter min tystnad.</p> 
+<p>Oh, I samfundsmänniskor, hvilka utan hänsyn brännmärkt den ensamma vandringens hälgd och stolta ansvar — huru borde jag icke hata er! När jag sökte<pb n="108"/> sanningens upphof, medveten om rätt och orätt, korsade mina vägar andras, och jag såg de vanhälgande stängsel, som eder egenmäktighet djärfts resa under tidernas lopp. Ofta stannande, för att ej bland mängdens hyckleri trampa den uppriktiga tron, ville jag ut i naturen, som är sund, äfven om den kräfver sin rätt. Mina irrfärder äro många. Jag <hi>vill</hi> icke gå andras tankegång, ty jag känner mig mäktig utvecklingens arbete och älskar själfständighet, Céri, som jag älskar dig!“</p> 
+
+<milestone unit="*"/> 
+<p>„Hvarje stjärnklar natt, i det fria, påminner mig om oändlighetens stora lag. Denna är icke en skrift af döda bokstäfver — nej, en lefvande världstanke ... alltid och öfveralt. Och dock behöfver jag icke<pb n="109"/> böja mig; jag lyder med stolthet, ty mitt försvinnande väsen är en del af det hela.</p> 
+<p>Döden är brutal som den råa styrkan. Men trots tanken på detta oundvikliga, som rufvar öfver tillvarans största hemlighet, har jag mod att stå upprätt. Urkrafternas enhet, Lifvet, är sanningens upphof och min Gud. Är han icke äfven din, Céri?..  namn äro endast namn. Emedan jag är människa, ger jag honom personlighetens form, och då jag i dag vädjar till hans dom, sker det utan fruktan, ty min innersta vilja har sanningen till mål, om äfven värket är en krympling.</p>
+<p>Céri, hade icke du för mig blifvit ett lifsvilkor, så vore döden liktydig med förintelsen. Och jag skulle utan saknad fogat mig däri. Nu är det stundens skönhet att hoppas på en evighet, där jag<pb n="110"/> med den odödliga tillgifvenhetens rätt skall vara hos dig. <hi>Der er kun én Ur-Religion i Verden — Kærlighedens.</hi> Denna religion är min.“</p> 
+
+<milestone unit="*"/> 
+<p>„Om döden icke lönnmördar, och plågorna på dess läger unna mig stunder af lugn, så lär väl barnaårens lydiga tro vilja bedjande sluta sig till min friska mandoms öfvertygelse och förhoppningar. Denna reflex från oansvarighetens tid är som norrskenets osäkra ljus — innan medvetslöshetens mörker inträdt fullständigt. Min flyktande tanke skall känna igen detta skimmer med samma vördnad, som jag hembär min moders minne, och tacksamt erkänna det trohjärtadt rörande ... rörande likt kyrkklockornas<pb n="111"/> klang på landet, när hälgen går in en lördagsafton.</p> 
+<p>Så vågar jag möta det kommande, Céri ... vågar du?“</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="112"/>
+<gap unit="graphic"/>    
+<head>28.</head> 
+<p><hi>O</hi>m jag kunde, så ville jag skrifva en bok om ärligheten. Försök det någon gång, du, som har mera själfförtroende än jag. Men hvad du är fattig på lyckans klenoder! Och nu vill du samla smulorna från den rikes bord.</p> 
+<p>Mänsklighetens idoler, stora, märkliga personligheter, som jag aldrig blir i tillfälle att granska, äro mig icke sympatiska<pb n="113"/>. Först när jag upptäcker fel, ärliga fel, träda de mig närmare, och jag kan fästa mig vid dem. I mitt nya rike äro vi endast två ... försvinnande ringa. Jag känner hvardera väl, hvarderas brister. — Om jag kunde, så ville jag skrifva en bok om ärligheten.</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="114"/>
+<gap unit="graphic"/>    
+<head>29.</head> 
+<p><hi>N</hi>är jag nästa gång träffade Céri, yttrade jag ödmjukt och bedjande:</p>
+<p>„Tro ingalunda att jag <hi>nu</hi> väntar svar, eller ens i den närmaste framtiden. Tänk noga öfver ditt beslut, så att du inte ånyo förhastar dig. Kanske drages du till det okända, eftersom du en gång påstod dig inte känna din egen, gamle kamrat. Gre akt på mig och döm strängt, om du vill, men glöm inte rättvisan ... och var<pb n="115"/> inte onaturlig. Anser du dig slutligen våga steget, så låt mig veta det som ett gammalt, godt förtroende mellan oss två; jag ska söka att inte bli uppbrusande vild af glädje, endast kyssa de fina, blå ådrorna på din hand och hviska att det var ... modigt af dig.“</p>
+<p>„Jarl — jag har gjort dig mycket, mycket ondt, mot min vilja.“</p>
+<p>„Nej, nej, så oförståndigt får du inte tala. Du har varit ett ljust sommarmoln, utan hvilket min himmel vore tom.“</p>  
+<milestone unit="________"/>
+</div>
+<div type="chapter"><pb n="116"/>
+<gap unit="graphic"/>    
+<head>30.</head> 
+<p><hi>Å</hi>ter blef året slut, vinter gick, vår kom — och åter en ny sommar.</p> 
+<p>Ett fiskeläge vid hafvet — stora och små stugor i lä — rödgrå klippstränder, med tallar, enar och hafstorn — och hafvet!</p> 
+<p>Skymningen har inträdt tidigt, men borta i väster är det ovanligt klart ... en<pb n="117"/> underbar, strålande klarhet, som jag aldrig glömmer.</p> 
+<p>Ljudlöst afbryter jag rodden, springer i land och drar den lätta, lilla båten in mellan strandens stenar.</p>
+<p>„Seså, Céri!“..  och jag sträcker ut mina armar efter henne. Smidig och intagande mot det blekblå hafvet, står hon redan framme i förn — böjer sig emot mig och säger allvarligt, betydelsefullt:</p>
+<p>„Ja, ja — jag kommer, Jarl!“</p>
+<p>Hon kysser mig sakta på pannan. Sedan gå vi tysta i bredd uppför sluttningen, bort till de stora och små stugorna.</p>   
+
+<gap unit="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

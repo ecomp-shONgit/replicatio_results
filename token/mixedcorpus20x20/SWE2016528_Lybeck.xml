@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SWE2016528" xml:lang="sw">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Den starkare: ELTeC-utgåvan</title>
+    <author ref="viaf:27363638">Lybeck, Mikael (1864-1925)</author>
+    <respStmt>
+     <resp>ELTeC encoding</resp>
+      <name>Cai Alfredson</name>
+      <name>Ljubica Miočević</name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="pages">194</measure>
+    <measure unit="words">28472</measure>
+   </extent>
+   <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271663">ELTeC-swe</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4679350">ELTeC-swe release 0.7.1</ref>
+</publicationStmt>
+   
+   <sourceDesc><bibl type="digitalSource">
+     <title>Den starkare</title>
+     <ref target="https://litteraturbanken.se/författare/LybeckM/titlar/DenStarkare/sida/3/etext?om-boken"/>
+    </bibl><bibl type="firstEdition">
+     <title>Den starkare.</title>
+     <publisher>Waseniuska bokhandeln, Helsingfors <date>1900.</date></publisher>
+     <idno type="libris">https://libris.kb.se/bib/2016528</idno>
+     <ref target="https://www.doria.fi/handle/10024/100713">PDF version</ref>
+     <note>Det exemplar som ligger till grund för Litteraturbankens utgåva tillhör Göteborgs universitetsbibliotek (Litt. Sv.). – Litteraturbankens utgåva är baserad på material som tillhandahållits av Svenska litteratursällskapet i Finland.</note>    
+    </bibl></sourceDesc>
+   
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="swe"/>
+   </langUsage>
+   <textDesc>
+    <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+    <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+    <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+   </textDesc>
+    </profileDesc>
+  <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
+   <change when="2020-11-13">LB updated</change>
+   <!-- revision information -->
+  </revisionDesc>
+ </teiHeader>
+
+ <text>
+  <front>
+  <div type="titlepage">
+<pb n="3"/>   
+<p>MIKAEL LYBECK</p>   
+<p>DEN STARKARE</p>   
+<gap unit="graphic"/> 
+<p>HELSINGFORS</p>
+<p>WASENIUSKA BOKHANDELN</p>
+<pb n="4"/>     
+<p><hi>All rätt till öfversättning förbehållen.</hi></p>      
+<p>HELSINGFORS 1900</p>
+<p>AKTIEB. F. TILGMANNS BOK- OCH STENTRYCKERI SAMT KEMIGRAFI</p>
+</div>
+</front>
+<body>
+<div type="chapter">
+<pb n="5"/>          
+<head>DEN STARKARE</head>
+ <pb n="6"/>   <pb n="7"/> 
+<gap unit="graphic"/>
+<head>1</head> 
+<p><hi>E</hi>n afton i slutet af årets första månad.</p>
+<p>Öfver hamnisarna drifver hvass yrsnö genom mörkret in långs hufvudstadens gator, öfver torgen i hvirflande moln, in på gårdarna, in öfver trappor och trösklar. All spårvägstrafik har upphört. Af husraderna ser man föga annat än de upplysta fönstren, alls inga konturer, och vid hvar vindstöt huka sig lyktornas små, blinkande lågor ned i rören, tils faran är öfver.<pb n="8"/> Esplanadernas trän svikta och vrida sig, och fotgängare, som måste öfver strandgatorna, stanna ofta och vända sig om, med fladdrande öfverplagg och ryggen mot blåsten. Ropar då någon kusk, rycka de till och springa förskräkta åt sidan.</p>
+<p>I societetshusets vestibul står portiern och talar med en pälsklädd resande. En af dörrarna mot torget är på glänt, och likasom med luftdraget slinker en telegrambärare utifrån in i ljusskenet. Portiern tar emot telegrammet, utan att låta störa sig. Han gestikulerar ifrigt, vädjar med en vid armrörelse till tabellerna inne på kontoret, blir häftig, ser sig tillfälligtvis omkring, upptäcker mannen, som väntar på kvittot, upptäcker garderobvaktmästaren och en städerska, samt ett par hotellkarlar med en koffert, och läser då högt adressatens namn, efter en sidoblick mot nummertaflan:</p><pb n="9"/>
+<p>»Robert Viding – javisst ... riktigt.»</p>
+<p>En hvitblond kypare ur de enskilda rummen, som samtidigt passerar, hållande en stor assiettbricka högt på vänstra handens utspärrade fingrar, banar sig brådskande väg förbi gruppen, men hinner ändå göra sin röst hörd på utpräglad Stockholms-svenska:</p>
+<p>»Han sitter inne i matsalen. Det är herrn med den mörka, gulbruna hyn och svart, spetsigt helskägg» – han för den lediga handen i betecknande vinkel kring hakan och försvinner genom glasdörren.</p>
+<p>Ur konsertsalen, i våningen ofvanför, tränga enstaka, lösrykta takter af orkestermusiken, därefter svaga applåder, och så höras röster och steg i trappnedgången. Några rökande militärer stanna och luta sig mot väggen, i ifrigt samspråk, med cigarretterna vippande upp och ned i mungipan.</p><pb n="10"/>
+<p>I kaféet ha tils vidare endast få gäster tagit plats. Klockan visar half tio. Vid ena långväggen igenkännas stamkunderna, medelålders och äldre herrar, som regelbundet sammanträffa, enhvar på sitt bestämda klockslag. Stödd mot en pelare sitter en resande främling med sitt te och sin Times, och vid ett bord midt på golfvet en klick ungdomar, heta och högljudda efter en sen middag. Längst borta i den halfmörka matsalen, under en tänd gaskrona, superar ett ensamt par. Damen, klädd i ljus sällskapsdräkt, har ansiktet vändt inåt rummet.</p>
+<p>Robert Viding sträcker leende sitt glas emot henne, och hon klingar med honom gladt och ifrigt – några droppar af vinet skumma öfver på handleden.</p>
+<p>Han säger:</p>
+<p>»Du är en klok kvinna, Edit ... blir du därtill en god hustru?»</p><pb n="11"/>
+<p>Hon håller servietten trykt mot läpparna och jakar med en skälmsk, blinkande glimt i ögonen.</p>
+<p>»Jag vet nämligen» – tillägger han – »att jag i vissa afseenden dömer mycket gammalmodigt.»</p>
+<p>»Du!.. du, som är så modern. Du har ju en fläkt af två världsdelar öfver dig – det vackraste af Asien i ansiktet och halfva Europa i kläderna.»</p>
+<p>»Tack, min vän» – Viding småler ofrivilligt – »men det är ändå som jag säger. Du får se själf.»</p>
+<p>»Ja, det hoppas jag.»</p>
+<p>»Och så är jag ingen fantasimänniska; saknar entusiasm. Men jag beklagar mig på intet vis, så länge värkligheten har din gestalt – och dina ögon lofva så mycket.»</p>
+<p>»Undrar du inte, om jag är i stånd att infria deras löften?»</p><pb n="12"/>
+<p>»Nej. Jag tror dig.»</p>
+<p>»Du blir en god äkta man, Robert. Och mins, att du får inga andra afgudar göra dig, än mig allena!»</p>
+<p>Han fullföljer sin förra tankegång: »Men det är därför inte alltid tillräckligt för mig att vara en välgörande motsats, förstår du. Jag önskade ibland att kunna följa dig ett stycke, när du ger dig af på dina drömmarefärder ... följa dig, utan att altför mycket trötta oss båda.»</p>
+<p>»Oh, hvad du kan!»</p>
+<p>»Jag har kommit ur vanan. Hvad jag i den vägen presterade som barn, och det var ingalunda små smulor, skämdes jag senare för så grundligt, att det egentligen är endast skammen jag erinrar mig nu, när alt det där andra och vackra vore af nöden.»</p>
+<p>»Och det tror du? Jag vänder mig ju beständigt om och ser efter, att jag har<pb n="13"/> dig riktigt säkert i närheten. Inte sant? Men du vill åt annat håll. Och då är det jag, som följer – det har du mycket väl reda på.»</p>
+<p>»Vill åt annat håll? Det tror jag knapt» – han betraktar henne frågande – »men kanske andra vägar någon gång. Man får inte drömma, när man räknar. Betänk, att jag är affärsman ... och har konsulstitel!»</p>
+<p>»Åja, det förvånar mig ofta.»</p>
+<p>»Mig också – fast inte fullt så ofta. Jag tvekade länge, ser du, hade för många andra intressen, och rötterna finnas kvar inom mig. Men de multna förträffligt – i den jord, där jag arbetar. Du känner inte onkel Nils ... javisst, gamla Nils Waack, min vän i fars ställe och förmyndare i tiden – han höll alltid på, att jag ren som gosse skulle på kontor. Jag borde bli min fars<pb n="14"/> efterträdare, när jag var min fars son. Och till sist har han fått sin vilja igenom, gubevars, men inte helt och hållet, fast han inom affären är en mycket despotisk herre, en herre med traditioner. Följaktligen vill jag ganska ofta inte som han, vill inte häller motsätta mig, och då bruka vi vanligen erinra oss, att ett eller annat viktigt aftal bör personligen träffas med våra vänner i utlandet. Så skaka vi hand i godt samförstånd, och jag blir borta – tils jag återvänder. Öfvertar jag en gång ledningen allena ...»</p>
+<p>Hofmästaren närmar sig diskret och räcker Viding telegrammet. Denne lägger hastigt gaffeln ifrån sig, tar fram en guldbågad pincenez, läser och viker sedan långsamt ihop papperet. Då han ingenting yttrar, bugar sig hofmästaren och går.</p>
+<p>»Från hvem var det, Robert?»</p><pb n="15"/>
+<p>»Från min mor.» Och med en knapt märkbar darrning i rösten tillägger han sakta: »Låt oss gå, Edit! Det blir ett långt samtal, och här är inte rätta stället. Inte för att mitt hotellrum är mycket att föredra.»</p>
+<p>»Du kan ju komma till mig ... ja, gör det» – hennes ansikte lyser upp af varm glädje.</p>
+<p>»Kan jag?»</p>
+<p>»Hvarför frågar du? Du har ju ännu inte sett hur jag bor.»</p>
+<p>»Jag vet det.»</p>
+<p>»Ja, det är ditt eget fel. Det heter ju hvar gång, att du är här bara på genomresa, och då har du så brådt, att vi knapt träffas.»</p>
+<p>»Det blir snart annorlunda, Edit.»</p>
+<p>»Ja, ja, min vän ... jag bär olyckan manligt, riktigt manligt, som du ser» – hon nickar åt honom med ett retsamt litet leende. Så utbrister hon:</p><pb n="16"/>
+<p>»Jag bor helt storartadt, vet du, sen jag kom hit i höstas – två rum med egen ingång från trappan, så du behöfver inte vara rädd för att genera någon annan än dig själf.»</p>
+<p>»Tack, det är bra för mina trettiåtta år. Jag kommer.»</p>
+<p>Han betalar, och de aflägsna sig genom kaféet. Genast reser sig från stambordet en liten, puckelryggig herre för att få tillfälle att skaka hand med Viding. Tonfallet uttrycker glad, nyfiken förvåning:</p>
+<p>»Hur är du här! När har du kommit?»</p>
+<p>»I går.»</p>
+<p>»Öfver Stockholm?»</p>
+<p>»Ja, öfver Stockholm.»</p>
+<p>»Affärer, hva? Och nu ämnar du gifta dig? Det är ju hon, som ...»</p>
+<p>» – som väntar i tamburen, ja» – Viding gör omärkligt sin hand fri, i det han vänligt ursäktar sig.</p><pb n="17"/>
+<p>»Javisst, naturligtvis ... och när blir bröllopet, om man törs fråga?»</p>
+<p>Viding småler. »Altså – till härnäst.»</p>
+<p>»Ja-ja, javisst ...»</p>
+<p>Vid stambordet är härmed ett nytt uppslag gifvet, och det tröga, tynande samtalet har fått en smula fart. Jaså ... så-å – det där var Robert Viding! Är han värkligen så gammal? Eller så ung? Ett par af dem kommer ju godt ihåg honom från studenttiden.</p>
+<p>»Hur var det riktigt, tog han sin examen?»</p>
+<p>»Jag vill minnas det; men jag känner honom inte, han är yngre och var mest utomlands. Rik mans son.»</p>
+<p>Puckelryggen har intagit sin förra plats och tömmer toddyglaset med halftillfredsstäldt eftersinnande min. Han har hört de sista orden och sträcker sig framåt i länstolen.</p>
+<p>»Ja, Waack &amp; Viding, ni vet, en af landets älsta affärer.»</p><pb n="18"/>
+<p>»Det är sant ... där uppe ... Waack &amp; Viding.»</p>
+<p>»Han är seg som spanskrör – Waack menar jag, gamla kommerserådet. Lefver alt ännu. Gamla Viding är död för länge sen, sonen gör de årliga resorna. De ha stora intressen att bevaka, främst i England, har jag hört.»</p>
+<p>»Och han är förlofvad?»</p>
+<p>»Du såg ju henne.»</p>
+<p>»Heter hon inte Hernmark? Fadern var visst jordbrukare nånstans här nere?»</p>
+<p>»Alldeles riktigt ... jordbrukare.» Puckelryggen krymper ihop sig i den rymliga länstolen – »Herre Gud, det var för bedröfligt med föräldrarna! Brändes inne ... båda två.»</p>
+<p>»Jaså, <hi>den</hi> Hernmark; det stod ju vidlyftigt om det i tidningarna.»</p>
+<p>»Nu mins jag – för några år sen.»</p><pb n="19"/>
+<p>»Spelar hon inte violin?»</p>
+<p>»Hvem ... dottern?»</p>
+<p>»Åja, det gör hon.»</p>
+<p>Nu resa de sig allesamman, några mycket långsamt och knaggligt, och vandra i klunga in i matsalen. En kypare glider på mjuka sulor fram från sin tröskel och reserverar platserna.</p>
+<p>De unga vid grannbordet slitas om resterna af samtalsämnet. Visst är hon mycket yngre än han, elfva år yngre ... ja, just Edit Hernmark ... det vet man ju nog. Och det är rätta proportionen, just så ska det vara, det vet man ju nog. Vacker är hon med sin raka profil och sitt hår, sitt präktiga hår!</p>
+<p>»Har hon pängar?»</p>
+<p>»Knappast ... eller hvem vet? Ett par år i utlandet, det kostar.»</p>
+<p>En af dem vräker sig bakåt i stolen<pb n="20"/> och plirar med ögonen: »Det är väl inte hon, som betalar» – de öfriga skratta.</p>
+<p>»Har hon uppträdt offentligt?»</p>
+<p>»Nej; men det var säkert meningen ... framdeles ... eftersom hon for till Paris. Där gjorde de bekantskap, tror jag.»</p>
+<p>»Aha – Paris!»</p>
+<p>En altför liflig gest stöter omkull någonting på likörbrickan, en tesked klingar ursinnigt mot ett glas ...</p>
+<p>Om hon har syskon? Bara en äldre syster, och hon är diakonissa. Diakonissa! Äh, för fanden ... det är altför allvarligt, altför svartklädt, egentligen ingenting roligt – någon erinrar sig i detsamma en ljuslett en, hon är på cigarrhandel –</p> 
+<p>Med ens blir det buller och brådt vid buffeten, och full belysning öfveralt. Men endast ett litet fåtal af konsertpubliken<pb n="21"/> infinner sig, damer och några herrar i spridda grupper, trippande skygt och försiktigt genom kaféet till matsalen. Tre, fyra militärer klirra öfver golfvet till ett särskildt bestäldt smörgåsbord. Genast rätar hofmästaren på sig, med skospetsarna bredt utåt och minen förbindligt förnäm. Så tar han några afmätta steg framåt, glättar vecken på en duk, flyttar ett saltkar, vrider sig helt om på klackarna och lägger ena handen i sidan. Nu kan gärna hvad som hälst inträffa – han är beredd.</p> 
+<gap unit="graphic"/> <pb n="22"/> 
+<gap unit="graphic"/>
+
+</div>
+<div type="chapter">
+<head>2</head> 
+<p><hi>S</hi>amma afton. – Ute fortfar snön att hopa sig i alt högre drifvor. Den hvassa, bitande vinden är som hemma i de breda gatorna, den har tagit god fart på alla öppna platser, huru små de än gjort sig i mörkret, och rusar nu blindt med hufvudet i vägg, tumlar öfver ända, snurrar rundt ett hvarf och kilar sedan förargad om hörnet. Och de få gående, den möter, vada mödosamt framåt, stampande och krokiga.</p><pb n="23"/>
+<p>Ett hastigt ljussken faller ut öfver trottoaren genom en öppnad dörr, som brådt slås igen. Utanför, på torget, skymta hyrkuskraderna glesa i snöyran, hästarna stå hopsjunkna under böljande täcken; så ljuder en gäll hvissling, och med ett piskrapp och ett rop ryckes den främsta upp ur sin dvala.</p>
+<p>Edit Hernmark stöder sig mot Vidings arm, medan de åka – han sitter till hälften vänd emot henne, med pälskragen uppslagen mot blåsten. Framför porten hjälper han henne ur släden.</p>
+<p>När de tigande hunnit till andra våningen, stannar hon och drar djupt efter andan.</p>
+<p>»Ja, här bor din tjänarinna» – säger hon sakta, nästan vekt, med en lekfullt antagen högtidlighet – »var välkommen till riket, mitt hjärtas utkorade herskare!»<pb n="24"/> Och när de inträdt i den lilla tamburen, där en mattlysande, gammaldags hornlykta brinner i taket, och han lyft kappan af hennes axlar, lutar hon sig hastigt emot honom med slutna ögon:</p>
+<p>»Än en gång välkommen!»</p>
+<p>Inne i det yttre och större af rummen tänder hon brådskande den höga golflampan, samt två ljus på skrifbordet, dem hon dock genast släcker. Hon stänger det gamla klaveret, sticker ett fång noter i deras fack på hyllan bredvid, och blir stående nära dörren i glad väntan.</p>
+<p>Men Viding, som långsamt följt efter, ser sig flyktigt omkring, utan att säga något, och sätter sig därpå i en af korgstolarna vid det breda, utbygda fönstret.</p>
+<p>»Du är säkert trött efter resan, Robert» – hon känner sig en smula besviken af hans tystnad ... icke ett enda litet ord<pb n="25"/> för den hemtrefna omgifningen, som anger så mycken och medveten smak. Han märker det, märker det genast, och sträcker handen vänligt emot henne.</p>
+<p>»Ja, ja, förlåt mig, min vän – men mina tankar ha i kväll intet val.»</p>
+<p>»Hvad innehöll telegrammet?»</p>
+<p>»Det kallar mig till min mor.»</p>
+<p>»Är hon sjuk?»</p>
+<p>»Ja, hon är sjuk.»</p>
+<p>»Farligt?»</p>
+<p>»Ja.»</p>
+<p>Edit Hernmark går tyst fram vid sidan af honom och tar plats helt nära, framåtlutad, med armbågarna mot knäna och hufvudet hvilande i ena handen.</p>
+<p>Hon utbrister dämpadt, instinktivt:</p>
+<p>»Robert – förläng inte skuggorna ... in öfver solstrimman i framtiden!» Men då han ingenting svarar, nästan urskuldar hon sig:</p><pb n="26"/>
+<p>»Jag följer gärna med dig, om du vill.»</p>
+<p>»Tack – det trodde jag. Det ville jag.»</p>
+<p>»Hur viste hon, hvar du fans?»</p>
+<p>»Mycket enkelt. Jag skref för en vecka sen om min hitkomst.»</p>
+<p>»Och hvem är hos henne?»</p>
+<p>Vidings ansikte mörknar, uttrycket blir oroligt. Han svarar undvikande:</p>
+<p>»Doktorn, naturligtvis, och kanske onkel Nils. Hvem annan, när jag är borta?.. vi ha inga närskylda. Tyvärr går det tåg först på eftermiddagen – i morgon.»</p>
+<p>»Och stället där uppe ... Vidingfors ... det är ju där hon insjuknat?»</p>
+<p>»Ja, ja, Vidingfors, nära två mil från stan. Det är mors enkesäte, där har jag växt upp, dit har jag återvändt både vinter och sommar, från skolan och senare. Dit återvänder jag alltid. Midt öfver, på andra sidan ån, ligger prästgården.»</p><pb n="27"/>
+<p>»Hvarför nämner du det?»</p>
+<p>»Det har sin betydelse. Jag har tänkt det länge.»</p>
+<p>Hon märker igen samma oro inom honom. Då låter hon sin hand helt sakta och skygt glida öfver hans – »Så får jag då följa med dig, Robert!»</p>
+<p>Och efter en stund säger hon:</p>
+<p>»En kväll, när du talade om din mor, var det första gången jag kände, hur kär du skulle bli mig. Du blef så varm, som aldrig eljes, och du var så vacker, och dina tankar och tonfall liksom togo henne i famn. Jag mins enskilda uttryck du använde, jag mins dina ord: hon är min tro i lifvet.»</p>
+<p>Viding sänker hufvudet. »Hon har så önskat se dig, Edit – gör det än.»</p>
+<p>»Hur menar du?»</p>
+<p>»Att <hi>jag</hi> ren mist henne» – rösten sjunker ned till en hviskning. »Och att<pb n="28"/> därvid någonting brustit inom mig, som gör mig rädd för mig själf. – Telegrammet lydde: Gud kallar mig.»</p>
+<p>»Jag förstår dig inte.»</p>
+<p>Han reser sig häftigt, går ett kort slag öfver golfvet och stannar.</p>
+<p>»Nej, du kan omöjligt fatta, hvad de tre orden ge till känna ... af henne. Jag vet ju, att min egen, egen mor ligger för döden – hon är gammal, dö måste vi alla, och hon och jag ha helt lugnt talat därom, talat om hur slutet kommer och kan komma. Men detta» – orden prässas fram mellan tänderna – »detta: Gud kallar ... den möjligheten fans för ingendera af oss två.»</p>
+<p>Och med ett uttryck af nästan lidelsefull harm i sina ögon, sätter han sig på den låga bänken framför eldstaden. Han gör sig bittra själfförebråelser – hvarför har han icke återvändt tidigare! Säkert<pb n="29"/> hade alt då ännu kunnat afvändas. Nu har hon, modern, varit ensam i sitt motstånd, ensam mot denna påflugna förkunnare, som han ju känner och dock icke känner, denna »hysteriska person», som till och med Waack omnämde i sitt sista affärsbref. Att hon redan före jul legat sjuk en tid, kroppsligt sjuk, icke ens det har han vetat!.. läpparna darra af sinnesrörelse.</p>
+<p>»Ser du, Edit» – han för handen tungt öfver pannan – »hon har varit mig mer än mor och hvad man för en mor känner. Inte blott förr, i uppväxtåren, jag erfor detsamma oförändradt, lika djupt, när jag reste för tre månader sen – ja, hon är så lång, att jag aldrig behöft böja mig, när hon kysser mig på kinden vid afskedet. Hon har synts mig så ovanlig, så stark och modig och klarseende, att ingen, ingen i mitt tycke kunnat jämföras. Har jag<pb n="30"/> gentemot henne aldrig haft kritik ... det är möjligt, jag vet det inte ... så har jag dess tydligare haft förnimmelsen af, hvad denna min beundran, detta undantag, varit för mig. Mors sinne, intrycken af hennes personlighet, försonade mig med mitt eget missmod, som en gång höll på att helt och hållet ta makten af mig – ja, det lär jag väl inte ha talat om för dig, kanhända. Jag var utan vilja och utan värde. Då gaf känslan för mor åt tillvaran hjärta, hon kom så enkelt och hjälpande emot mig, medan det ännu var tid, och hennes lifssyn såg utväg för mig också. Vi följdes åt – jag är ju hennes enda son, enda, enda barn.»</p>
+<p>Edit sitter orörlig, med händerna trykta mot ögonen.</p>
+<p>»Och far mins jag knapt. Det är väl förlåtligt, eftersom han dog så tidigt. Man<pb n="31"/> säger, att han var en redbar människa, en en god affärsman och annat mer. Det tror jag gärna, och jag är honom tack skyldig för mitt oberoende – hvars nytta för mig jag emellertid betviflar. Men jag känner honom inte. Mor däremot!.. jag litade på henne och hennes stolta föredöme i det sista ... mångdubbelt mer än på mig själf, som ändå har afgörandets stund på afstånd tils vidare. Hon brukade säga: ett är af nöden, min gosse, förlora aldrig modet, om du tänker lefva! – Har det modet svikit inför lifvets motsats?»</p>
+<p>»Så får du inte minnas henne, Robert!»</p>
+<p>»Hur undgå det?.. däri ligger brodden. Aldrig glömmer jag hennes ord en afton, jag hör dem: – Alt hvad jag vet, Rob, är ju ringa eller intet att räkna, alt hvad jag kan likaså, men ändå vill jag inte ge tapt, det är naturligast och bäst som det<pb n="32"/> är, eftersom mina medel till kunskap varit ur stånd till mer. Hvarför låta sig dåras af tro och gissningar, som inte göra en klokare eller bättre, hvarför hoppas, när tron är mer ovärklig än lögnen, och hoppet bedrar som den? Och hvad ska jag hoppas? Att lefva, sen jag är död? Nåja, låt oss hoppas det, ifall ett följande lif har rikare gåfvor att ge mig. Men det få vi ju veta ... först efteråt.»</p>
+<p>Edit frågar tvekande: »Och nu?»</p>
+<p>Han dröjer med svaret.</p>
+<p>»Hon är inte densamma. Tre månader, det tycks vara en kort tid. Men omvändelsen sker ju på några minuter, om det gäller ... anser man. För vår stora, odödliga räddhågas skull.»</p>
+<p>»Hvad har hon då skrifvit till dig?»</p>
+<p>»Ett bref, ett enda.»</p>
+<p>»När?»</p><pb n="33"/>
+<p>»Jultiden. Och det helt kort, som om hon känt sig trött och utpinad. Hon sade mig däri bland annat, att vi säkerligen farit mycket vilse, vi två, men att Gud ändå varit nådig mot henne. – Hela tonen var så ny och främmande, gjorde mig så öfverraskad, så bittert ondt, att jag drog mig för att genast resa hem, i synnerhet som åtskilligt återstod att uträtta. Men just det hade jag bort göra. Nu är det för sent.»</p>
+<p>»Så besynnerligt! Och hvad är orsaken? Hur har alt gått till?»</p>
+<p>»Orsaken?» Ett hånfullt drag visar sig i Vidings ansikte. »Den torde visst heta Kurt Hedelius.»</p>
+<p>»Hvem är det?»</p>
+<p>»En gammal kamrat. En hel historia.»</p>
+<p>»Den har du aldrig talat om.»</p>
+<p>»Jag känner den så ofullständigt. Jag har inte sett mannen på elfva år. Nu bor<pb n="34"/> han på Vidingfors, skref mor, och hon har till och med tagit en af hans ungar till sig ... vid namn Abel.»</p>
+<p>»Är han gift?»</p>
+<p>»Gift! Ånej – det behöfs inte.»</p>
+<p>»Och det är alt hvad du vet om honom?.. ja, jag bör ju komma in i förhållandena.»</p>
+<p>»Han är son till gamla prosten, Kurt Hedelius den äldre – modern dog, när han föddes. Och så bara det, att vi på sätt och vis växt upp tillsammans. Men bäst trifdes han med prästgårdsdrängarna och traktens bondungdom ... af båda könen ... något som jag godt kan förstå, jag afundades honom ofta. Han var den tiden en blek och liten och ljushårig pojke. Han gick barfota, han kunde gå på händerna, han tordes tugga glas, ingen spottade som han, ingen sprang<pb n="35"/> fortare. Och hufvudet var lika kvikt som benen.»</p>
+<p>»Det där tycker jag om.»</p>
+<p>»Jaså – nåja, jag med. Bland de andra pojkarna var han höfding, det föll af sig själf, mot mig däremot ytterst underdånig, nästan krypande. En gång misstänkte jag något slags agg, men det förnekade han. Vi följdes åt i stadsskolan, sen skildes han därifrån – det var någonting mycket opassande, naturligtvis, som han låtit komma sig till last. I synnerhet för en prästson ... att vara så tidigt utvecklad!.. lärarna grufvade sig och saken hölls hemlig. Student blef han emellertid, samma år som jag.»</p>
+<p>»Och sen?»</p>
+<p>»Sen bodde vi tillsammans de två första terminerna. Mor var mycket emot det, hon.»</p>
+<p>»Ni skildes väl inte som ovänner?»</p><pb n="36"/>
+<p>»Nej. – Jag läste på min rättsexamen, han skulle bli medicinare. Och jag var honom till stor nytta, framdeles också; då sökte han alltid vänligt upp mig, när han behöfde pängar. Så försvann han, kom på slarf, for till sjöss, jag kan inte ge närmare besked – ingen skref något om honom, och själf var jag utomlands. Det gick år efter år, många år, och slutligen hörde jag nämnas, alldeles tillfälligt, att han blifvit en af de plötsligt utvalda ... de heligas samfund, syndernas förlåtelse ... hur det kallas? Och just innan jag reste i höstas, lär han ha kommit tillbaka till sin faders hus. Jag såg honom inte.»</p> 
+<p>I detsamma afbryter han sig tvärt: »Vet din syster af, att jag anländt?» Han tar fram sin pincenez och synar glasen mot lampskenet.</p><pb n="37"/>
+<p>Edit spritter till och lyfter oroligt blicken – »Du frågar efter Agneta?..» hon erinrar sig sitt senaste, pinsamma samtal med systern, och blodet stiger henne till kinderna.</p>
+<p>»Ja ... inte sant» – han gör ett otåligt kast med hufvudet – »en annan af samfundet? Ha ni inte träffats?»</p>
+<p>Hon ser oafvändt på honom.</p>
+<p>»Ånej ... nej, det är mycket länge sen vi träffats.»</p>
+<p>»Det är ju underligt» – han ämnar fortsätta, men tiger, och stirrar likgiltigt framför sig på mattan.</p> 
+<p>Edit söker förgäfves värja sig mot en alt tydligare känsla af fruktan och ångest. Hon reser sig ur sin nedböjda ställning, stryker håret ur pannan med båda händerna – de darra, så att hon maktlöst låter dem falla. Ja, hon är ytterligt upprörd, bröstet<pb n="38"/> höjer och sänker sig starkt vid hvart andetag, och då hon slutligen icke längre förmår beherska sig, kastar hon sig ned på knä vid Vidings sida, skyler ansiktet med armarna.</p>
+<p>»Nej, nej, Edit lilla ... hvad är nu på färde?» – han böjer sig deltagande öfver henne, lägger handen på hennes skuldra, och känner då huru hon skakar af återhållen gråt.</p>
+<p>»Edit!»</p>
+<p>»Ja, ja, Robert, du får inte bli ledsen.»</p>
+<p>»Ledsen! På dig? Det har jag ingen anledning till.»</p>
+<p>»Nej – men på henne. Och ändå ... hon <hi>är</hi> ond och hjärtlös, Agneta!»</p>
+<p>»Ska vi inte hällre erinra oss, min vän, att man aldrig är för ro skull hvad man är? Kom ihåg – efter hennes mening har du förälskat dig mot bättre vetande och tio Guds bud.»</p><pb n="39"/>
+<p>»Ja, det säger du, Robert, du tar i försvar ... för min skull» – hon gör ett skygt försök att möta hans vänliga blick – »men du anar inte hvad hon är i stånd till! Hon är ond, ond ... jag kan inte tro annat, sen jag sist var hos henne.»</p>
+<p>»Hvad talade ni om?»</p>
+<p>»Hon ville – nej, nej, döm ändå inte för strängt, hon har aldrig varit sådan förr ... aldrig så obarmhertig! Men jag känner, att vi blifvit märkta för lifstiden, vi systrar – efter den förfärliga natten, du vet. Jag är långt ifrån så rask, som det ser ut, ibland kan det allra minsta skrämma mig, och då blir jag genast som förvandlad, känner annorlunda, tänker annorlunda. Och hon är visst mer sjuk än jag.»</p>
+<p>»Du får lof att sköta om dig förnuftigt, Edit, och det så snart som möjligt.»</p><pb n="40"/>
+<p>»Ja, ja, naturligtvis, det borde jag – men låt mig berätta till slut, eftersom du ... jag har inte numera styrka att bära förbannelsen ensam. Ja, just förbannelsen! Hon ville, Agneta» – rösten ljuder entonig, och han fäster sig vid huru ansträngdt hon söker att riktigt återge ordalagen – »hon undrade, Agneta, om jag var alldeles okunnig om, hvem det är, som lockat mig bort från de minas tro, hvem det är, som förledt mig till flärd och gjort mig mer ondt, än alt annat i världen? Eller tänkte jag måhända, att Guds afsikter kunde bringas på skam ... Guds afsikter, dem vi systrar så påtagligt fått erfara? Hon förbannade hvar stund af min lycka – den syndiga, jordiska kärlek, som är de förtappades arfvedel. Med den förbannelsen ville hon ingå i det eviga lifvet.»</p><pb n="41"/>
+<p>En lång, mycket lång tystnad uppstår.</p>
+<p>Så upprepar Viding helt sakta, nästan för sig själf, i en ton af undrande vemod: »Jaså – mer ondt, än alt annat i världen?»</p>
+<p>Edit ger icke akt därpå, utbryter med stegrad lidelse:</p>
+<p>»Och till sist frågade hon mig, om jag viste hvad man berättade om oss? Om jag viste hvad du gjort mig till ... åtminstone i dina tankar och begär ... fört mig bort med dig, långt bort, för att undgå –»</p>
+<p>Hon rätar på sig med en stolt, spänstig rörelse och kramar näsduken hårdt mellan sina hvita fingrar; tår efter tår rinner omärkligt utför kinderna.</p>
+<p>»Så ville jag hällre ... att det vore sant!.. Robert.»</p>
+<p>Äfven Viding har rest sig. Han är blekare än förut, så blek, som det för hans mörka, sydländska hy är möjligt. Men<pb n="42"/> kring munnen, som slutit sig i en stel, oböjlig linje, segrar långsamt ett alt vackrare leende, blicken ljusnar, och med ens sprider sig ett skimmer af ung, blodfull glädje öfver de eljes så allvarsamma dragen, hon hör sitt namn nämnas med tonfall, hvilkas innerlighet är djupt rörande, och han trycker henne häftigt intill sig, kysser hennes tinning, hennes hals, hennes skälfvande läppar.</p>
+<p>Men lika hastigt betvingar han sig.</p>
+<p>»Nej, nej ... förlåt mig! – Du bad mig nyss om att inte förlänga skuggorna» – hans röst darrar – »in öfver solstrimman i framtiden ... tack för den och tack för i dag! I morgon afhämtar jag dig till resan.»</p>
+<p>Hon ser på honom, med ögonen fylda af tårar, utan att vilja låta honom gå; och först då tillägger han motsträfvigt:</p><pb n="43"/>
+<p>»Din syster vet inte hvad hon gör. De flesta människor lefva och dö utan att veta hvad de göra.»</p>
+<p>Strax därpå lämnar han henne allena.</p> 
+<gap unit="graphic"/> <pb n="44"/> 
+<gap unit="graphic"/>
+
+</div>
+<div type="chapter">
+<head>3</head> 
+<p><hi>K</hi>orta hvisslingar, hvassa som knifsuddar, långa, ihållande signaler – ljussken blixtra förbi fönstren i kvällsmörkret, det knäpper i skenfogarna, vaggonerna darra och rycka vid bromsningen, och lokomotivet stannar för att frusta ut hvit ånga åt båda sidor. Dörrarna slås upp för folk i snövåta pälsar, armbågar bana väg i trängseln, smått och stort resgods myllrar för fötterna. Ur postvagnen kastas säckar i flygande fläng, en barhufvad karl<pb n="45"/> löper omkring på perrongen med en lykta. Inne i restaurationen har diskfrun andnöd öfver att ej hinna växla en tiomarkssedel. Men inspektorn är trygg och trankil. Han axlar sin uniformerade kappa, håller ihop den öfver magen med ena handen, och ger en vink åt konduktören med den andra.</p>
+<p>Då sätter sig tåget långsamt i gång. Igenkänningsscener växla med dumt stirrande, tidningar vecklas ut och vikas samman, cigarrer tändas, tuggas, slockna och tändas på nytt. Någon frågar efter spelkort. Hva-fan ... det är ju alldeles för trångt! Ventilerna i taket undersökas och skrufvas, kinderna bli heta och röda, luften blir rök. Men färden fortgår som förut – nya hvisslingar ljuda, nya ljusglimtar jaga hvarandra, ny station!</p>
+<p>Ändtligen tystare. De flesta resande ha stigit ur, häst och släde ha väntat<pb n="46"/> vid vägbommen bakom stationsbyggnaden, drängen har burit nattsäcken. Vagnar kopplas af. Klockan har blifvit elfva, klockan blir tolf. Trögt och motsträfvigt lösgör sig hvar stund ur tiden, närmar sig, faller undan i samma nu.</p> 
+<p>Och norrut går färden, alt längre norrut. Några enstaka ljus blinka sömnigt efter det förbirasslande tåget, så släckas äfven de. Afstånden förlängas, farten minskas. Snön ligger djup och i jämna vallar utmed banan, här och där sticka gärdesgårdarna upp sina störar, en omtöcknad måne trefvar sig fram bakom drifvande moln. Skogen är dunkel, än tyckes den träda närmare med sin taggiga rand, än viker den tillbaka och flyter samman med de aflägsna slätterna. Vinternatten hvilar stor och tung öfver ödemarkernas ro.</p><pb n="47"/>
+<p>Robert Viding sätter sig otåligt upp ur sin liggande ställning och kastar pläden åt sidan, det är omöjligt för honom att få sömn. Han är alldeles ensam. Edit har gått in till sig i den afskilda damkupén, sofvagnar finnas icke. Vaggonens sakta skakning märkes ej längre, den har uppgått i tystnaden, i känslan af en ängslande stillhet, en enda, enda tanke –</p>
+<p>Till sin mors dödsbädd!</p>
+<p>Den tanken har intet förbarmande. Den tanken är en sorg med för djupa och starka rötter; därför har den intet förbarmande.</p>
+<p>Han sluter ögonen, han vill icke gråta, kan det icke. Ett lif mindre – det är ju en gåta mindre. Hvilken tröst! Och bort från det oundvikliga i hvad som förestår blickar han sökande tillbaka på det förflutna.</p><pb n="48"/>
+<p>Ja, det är redan en lång väg han har bakom sig. Men alt plågsamt, och alt det han upplefvat ute i världen, alt är i natt likasom bortskymdt och glömdt. Ljus och jämn slingrar sig vägen, sådan han ser den i en räcka af år, fram mellan hembygdens gårdar och fält till hemmets hvita byggnad vid åstranden. Och där är modern – modern och han. Det är som om han aldrig varit borta, aldrig så länge och ofta som han varit det på sina färder; det är som om han alltid stannat hos henne, alltid sett henne.</p>
+<p>Mor, mor, mor!</p>
+<p>Men sådan som förr skall han icke mera finna henne.</p>
+<p>Rak och reslig och utan stöd har hon gått den kända vägen mellan gårdarna och fälten, gått den med sin stolta och stilla gång. Pröfvande mötte hennes ögon de<pb n="49"/> mötandes, rösten var vänlig och lugn, handslaget alltid så fast. Och vida omkring, långt utom de hvita grindarna, stod lydnaden själfmant redo vid hvart hennes steg. Då lyste till tack den soligaste blicken ur de goda, vackra ögonen – du har så vackra ögon, mor!</p>
+<p>Och tanken på henne, modern, innesluter hemmet i en ram af sommarminnen, idel sommarminnen! – Ute är vintern den dystra värkligheten lik.</p> 
+<p>Han sitter igen – som för länge, länge sedan – uppklättrad på en af grindstolparna och spanar sig ifrigt omkring. Bönder köra förbi på landsvägen, det dammar kring hjulen, ett föl springer bredvid en af kärrorna och kommer fram till honom på sina långa ben. Ja, du är en rolig en, du! Innanför stenmuren, i beteshagen, gå<pb n="50"/> två kalfvar och glo på de saftiga, mjuka bladen framför sig, och grodungar sprattla i vattendiket. Det surrar af humlor, det surrar af mygg. Men det bryr han sig inte om, nej. Ty bortom och öfver alt detta, som blicken närmast omfattar, höja sig stora äfventyrscentra, stora och gamla uthus med farlighetsfulla vindar – stall och vedlider, bryggstuga och drängkammare. Där rusa halfvuxna pojkar in och ut, han och en annan, bittida och sent; de snafva i trappstegen, gömma sig bakom tunnor och kar ... hvilka upptåg, hvilka märkliga rön! I vedlidret uppgjordes planerna, man tänkte så djärft och så listigt, medan man skar i en trästicka eller täljde pilar till sprättbågen. Kurt var en mästare i tusende småkonster, det måste medges, och hans påhitt emellanåt oöfverträffliga.</p><pb n="51"/>
+<p>Han hasar sig ned från grindstolpen och skyndar öfver lindan i höga språng. Ängsblommor i gult och rödt vaja bland gräsen och nicka sitt villigaste bifall, blåklockorna ringa, tisteln är retad och ond. Men det bryr han sig inte om, nej; må den tuktas en annan gång! Nu gäller det att hinna öfver bäcken. Lömskt och försåtligt gräfver den sig undan i en bred bukt, därpå bakom bodarna och badstugan alt snabbare nedför branten, tils den utmynnar. Förr fick man gäddor i den tidigt om vårarna, och alla så genomdumma och bortkomna, att de kunde fångas nästan med händerna. Eller man stod på klappbryggan och metade löjor, eller var satans i vägen, när drängen tjärade båtarna.</p>
+<p>Kurt ropar: »Hvart ska du?» Och han svarar andtrutet, utan att häjda farten:</p><pb n="52"/>
+<p>»Ingenstans. Det är bara en af kaninerna, som rymmer ...»</p>
+<p>Så löpa de tillsammans.</p>
+<p>Helt nära ån stå mäjeriet och fähuset. Men med dem är det ingenting bevändt, de bygdes och ombygdes så nyligen, gjordes så fina och tråkiga, att med dem är det ingenting bevändt. De ha ingenting att förtälja. Annat är det med trägården, mot hvilken karaktärsbyggnaden vänder sin tvåvåningsfasad. Där gå gångarna om hvarandra med bud om alt slags krig och örlig, ända inifrån hummelsalen och bort till potatislandet, rundt kejsarkronorna, rundt drifbänken, ibland åt vänster, ibland åt höger, och så rakt fram. Var då faran öfverhängande, så flydde man uppför brandstegen, med busktaggar i skinnet och byxorna fläckiga, upp på det branta, brutna tegeltaket. Man såg så<pb n="53"/> långt därifrån, så förfärligt långt – byn på motsatta stranden, kyrkbyn, som i än spridda, än hopgyttrade gårdar, med lummigt grönt emellan och rior och lador, breder ut sig i en halfkrets kring prästgården. Och så åkrar och ängar och skogen, riktiga skogen.</p>
+<p>Där kommer mor, hon har vattnat de nysatta plantorna och ställer sprutkannan ifrån sig. Han springer emot henne, och hon stryker honom öfver det svettiga håret och frågar leende, hvar han har sin mössa? Mössan? Det är sant ... ja, han vet inte alls, hvar han har sin mössa.</p>
+<p>»Än hufvudet då? Har du tappat hufvudet också?»</p>
+<p>»Nej, visst inte, mamma – här!..» han pekar sig på pannan, med ögonbrynen betänksamt hopdragna och blicken nyfiket förvånad.</p><pb n="54"/>
+<p>Solen står lågt mellan alarna på andra sidan ån. Sommardagen varar länge där hemma, arbetet går säkert och trygt i bestämda gängor, och hvilan har med sig en trygg och säker fred. Aftonen närmar sig stilla och utan starka ljud, sysslorna afstanna dröjande och likasom af sig själfva. När grötskeden är lagd till sidan och kvällsmålet slut, går förvaltaren säfligt ur köket. Han ser sig af vana mönstrande omkring, medan tändstickan flammar i piphufvudet – någon rör sig borta i allén, en af ladugårdspigorna bär det sista ämbaret till fähuset. Alt folket är så vänligt och förnöjdt, med skämtsamma ord i beredskap för enhvar i närheten, eller de ropa dem öfver till hvarandra från drängkammartrappan till badstugan, och därifrån samma väg tillbaka. Vallgossen sköljer händerna i en bleckskopa<pb n="55"/> vid brunnen. Solen står lågt mellan alarna på andra sidan ån.</p>
+<p>Det är tid att stänga dörrarna till farstukvisten; och några pelargonier, som nyss flyttades ut i regnet, ställas försiktigt in på sina hyllor och bord. Ett svagt drag, mättadt af blomsterångor, fläktar genom hela huset, där nästan alla fönster stå öppna och hvart golf bär spår af hans pojkklackar, från och till tamburen. Därifrån leda de två nötta, gulmålade trapporna, en vid hvar sin vägg, upp till öfre våningen, och mellan dem är ingången till salen. Den är styf och stel, med tunga mahognymöbler och rödrandiga gångmattor i kors – likasom bara till att gå igenom. Och då kommer man till vänster in i det ljusa förmaket och till mors sängkammare. Matsalen är till höger, och där regerar Gamla-Johanna med flughåfven under de hetaste timmarna. Det är<pb n="56"/> på kökssidan. Gästrummen finnas i den motsatta flygeln, med dörr till tamburen och en skild liten förstuga.</p>
+<p>Huru väl förstår han ej sin kärvordna vana att bli öfver natten på Vidingfors, så ofta tid och tillfälle medge det. Aldrig har han i sina fem nyinredda rum inne i staden, i kontorsgården, känt sig så lugn och glad till sinnes som i detta gammaldags hem på landet. Och hans egen, välbekanta takkammare, uppe i södra gafveln, har fortfarande alla lockelser kvar. Främst utsikten – ån, med båtarna ofvanför forsen, och de grönskande stränderna – och sedan, när midnattsskymningen faller på, den breda, låga, snidade träsängen, som alls icke passar till det öfriga bohaget. Men den söfver så sundt och stärkande, utan drömmar, och de hemväfda, gröna gardinerna skydda så varligt och vant mot den inbrytande dagern.<pb n="57"/> Framför fönstret står ett klaffbord, med skåror af pennknif öfveralt i masurskifvan, och på den ett blomglas med hvita syrener. Ofvanför pinnsoffan hänger Napoleon till häst, och på väggen midt emot, mellan bokreolen och hörnskåpet, en vy af Livorno i färglagdt stålstick.</p>
+<p>Så följer det ena minnet det andra i obruten rad, alla förstorade af år och afstånd, af stillheten, af tanken på det hem, där döden väntar.</p>
+<p>Mor har varit så ensam, tyvärr, mor umgås med nästan ingen. Endast onkel Nils kommer hvar söndag ut till middagen, körande själf i sin ensitsiga schäs eller i smalsläden, och då drickes det alltid ett glas godt, gammalt vin efter steken. När sedan bordet är afdukadt, sitta de båda kusinerna och småprata om gångna tider med en viss sirlig munterhet och många<pb n="58"/> roliga skratt – hon i gungstolen, han i den hala tagelsoffan under vägguret. Eller de tala i allvarliga ämnen, enhvar på sitt särskilda vis.</p>
+<p>»Sa du sorgen, bästa kusin?..» Waack fnyser i sin korta, hvita mustasch. »Ja, du får ursäkta – mig generar den. Jag medger, att man får olika nummer af den, men man väljer inte. Sorgen hör afgjordt till debetsidan af lifvet, fast det fins praktiskt folk, som slår mynt af den, och andra lika praktiska, som skölja upp den i en skvätt tårar och bära den ånyo, hvar gång de gå i kyrkan. Men som sagdt – mig generar den.»</p>
+<p>Och modern svarar:</p>
+<p>»Hvarför göra ett nummer af den?.. då är den motbjudande. För mig är sorgen lik aftonhimmeln; man kan af den lära känna morgondagen som af intet annat.»</p><pb n="59"/>
+<p>Morgondagen! Ack, mor, mor!</p>
+<p>Robert Viding sträcker på sig och lyssnar. Jaså, det är konduktören, som passerar vaggonerna – han kommer närmare, synar flyktigt gaslågan i kupan under taket, utan att efteråt tillsluta skärmarna, samt aflägsnar sig.</p>
+<p>I detsamma skjutes en dörr sakta åt sidan, och Edit träder ut. Viding har just vändt sig mot fönstret. Hon står bredvid honom, när han varseblir henne.</p>
+<p>»Jag får ju stanna här en stund?»</p>
+<p>Det vackra, mörka håret är vårdslöst viradt samman i en tung knut; det tyckes plåga henne, och sedan hon tagit plats, söker hon med en otålig rörelse jämka det bättre till rätta för nacken.</p>
+<p>»Gärna. Är det dåligt med sömnen igen?»</p>
+<p>En jakande, nästan omärklig nick. »Men det tar väl någon gång slut, detta!»</p><pb n="60"/>
+<p>»Half fem, enligt tabellerna. Du hinner godt hvila dig än, om du bjuder till. Sen ha vi ungefär en timmes åktur från stationen.»</p>
+<p>Han rullar långsamt en cigarrett, tänder den och fortfar med små afbrott:</p>
+<p>»Jag telegraferade i morse till stadsläkarn där hemma ... Vesterberg ... fick genast svar. De ha skaffat sjuksköterska. Och ingenting kan göras ... bara vänta. Men den väntan kan räcka länge.»</p>
+<p>Tåget skakar och bullrar mera än förut. Båda sitta tysta. En hes hvissling från lokomotivet tänjer ut sig i ett alt tunnare ljud, som upphör med en skärande stegring.</p>
+<p>Edit flyttar sig närmare, det lugnar henne att ha någon bredvid sig. Hon stirrar mot den mörka, isiga rutan – tankar från föregående natt, då hon låg vaken, efter det att Viding lämnat henne på kvällen,<pb n="61"/> ha envist stannat kvar sedan dess, och obestämda farhågor växa sig starka i inbillningen, uppjagade ur sina gömslen, där de aldrig helt varit dolda. Ja, ja, ja ... någonting afgörande förestår henne – men hvad?</p>
+<p>»Han måtte äga en stor, hemlighetsfull makt, Robert!»</p>
+<p>»Hvem?»</p>
+<p>»Mannen du talade om i går.»</p>
+<p>»Kurt! Åh, tänk på någonting annat, min vän, ifall du inte kan undvara tankar.»</p>
+<p>»Jag tykte mig se honom så tydligt nyss, när jag låg där inne. Han gaf mig ingen ro att sofva.»</p>
+<p>Viding böjer sig framåt och säger bevekande:</p>
+<p>»Seså – inte mer om honom. Gör mig nu snält till viljes, Edit!»</p>
+<p>»Plågar det dig, om jag talar?»</p><pb n="62"/>
+<p>»Hvarför en så ovänlig fråga!»</p>
+<p>»Eller ska jag gå?»</p>
+<p>»Nej ... gör alldeles som du själf vill» – han fogar sig stilla efter hennes önskningar.</p>
+<p>Hon betraktar honom länge med en orörlig, frånvarande min.</p>
+<p>»Jag får inte mer hans ansiktsuttryck klart för mig» – hon skakar hufvudet eftersinnande. »Och ändå ... hans blick var omöjlig att undfly.»</p>
+<p>Mellan Vidings ögon bildar sig ett skarpt veck, men rösten är saktmodig:</p>
+<p>»Han talade väl till dig – förmodligen?»</p>
+<p>»Ja ... det är visst ett bibelspråk: frukta dig icke för något ... något som du lida skall, ty din hjälp, din salighet är nära.»</p>
+<p>Viding släcker cigarretten.</p>
+<p>»Du är ibland ett stort, envist barn, Edit. Försök nu att somna! Det är en tröttande och pinsam resa.»</p><pb n="63"/>
+<p>Hon svarar ingenting, och han lutar sig tillbaka i soffhörnet.</p>
+<p>Men efter en stund, när han redan tror att hon slumrat in, återkommer hon till samma ämne i en ängslig, klagande ton:</p>
+<p>»Jag är rädd, Robert! Det kan inte hjälpas, du har skrämt mig med dina ord, och jag har ingenting att hålla mig till. Jag har aldrig sett någon dö.»</p> 
+<gap unit="graphic"/> <pb n="64"/> 
+<gap unit="graphic"/>
+
+</div>
+<div type="chapter">
+<head>4</head> 
+<p><hi>D</hi>et är fortfarande mörkt, när bjällrorna höras i lindallén, som för upp till gården. Förvaltaren, Salomon Hägg eller Häggen, som själf varit emot dem i den tidiga vintermorgonen, vrider ovigt sig tunga kropp från kusksätet och slår snön af knäna med tömmarna. Han står krokig och plirar, med ögonen som springor, men vana vid mörkret – den andra släden har blifvit efter, lasset slingrar just i kröken borta på landsvägen. Vid närmaste<pb n="65"/> uthusväggen hänger en lykta med sotigt glas; han ropar åt någon, som rör sig inne i stallet, att raska på, och då kommer en af drängarna halkande öfver den isiga backen kring vattenkaret.</p>
+<p>Gamla-Johanna öppnar tamburdörren. Hon är en liten gumma med ett aflångt, fylligt ansikte, klädd i en förunderligt tillklipt, mörkblå tröja, svart duk på hufvudet, samt svart förkläde. Att konsuln klappar henne på axeln ... klappar henne alldeles som förr – det är så svårt att bära, så tungt denna gång; ja, hon kan icke stå ut med det, tårarna börja rinna. Och gråten tar bara till, då hon riktigt skall säga välkommen.</p>
+<p>»Fröken ska inte se sig omkring, här är ingalunda som det brukar vara. Men allting blir en så onödigt och omöjligt, man liksom tappar hela farten, bäst man<pb n="66"/> går och bjuder till. Nog pekar ju doktorn och för sånt ljud med sig, konsuln vet» – rösten går af på midten, hon nästan snyftar fram: »det fins kaffe med färskbröd ... i matsalen ... om herrskapet behagar.»</p>
+<p>Gumman är så uppskakad, att det gång på gång misslyckas för henne att hänga upp Edits pälskappa, som hon hela tiden hållit framför sig på armarna.</p>
+<p>I kakelugnen flammar en nyss tänd björkvedsbrasa, och samma sprakande höres genom den halföppna dörren till vänster. Det är rummet, där fröken Edit ska bo, förklarar Gamla-Johanna omständligt, i hopp om godkännande; sköterskan har det med bruna tapeterna, det som är innanför, bredvid fruns sängkammare.</p>
+<p>Förvaltaren och en dräng bära in koffertarna och en kappsäck, dem de ställa ned vid köksväggen. Viding blir genast hviskande<pb n="67"/> åtspord och rådfrågad – Häggen anstränger sig med att komma ihåg altsammans, det är så mycket att bestämma för de följande dagarna. Drängen bullrar i kvisttrappan vid bortgåendet –</p>
+<p>»Sakramentskade karl ... att han inte kan se sig för!»</p>
+<p>Edit har stigit in i salen och låter sin blick långsamt glida från det ena föremålet till det andra, utan att något förmår kvarhålla hennes uppmärksamhet. Hon känner sig kall och mera främmande, än hon vågar tillstå för sig själf, trots det att känslan af det sorgliga, som föranledt och påskyndat resan, är djup och oförändrad. Men det är väl trötthet, endast trötthet efter en sömnlös natt. Hon vänder sig om ett par gånger, oroligt och väntande – nej ... nej, ännu ingen Kurt Hedelius! Synbarligen plågar det henne, att medvetandet<pb n="68"/> om dennes närhet, samt fruktan därför, fortfarande ger stoff åt tankarna mot hennes vilja.</p>
+<p>Alla rullgardiner för fönstren mot ån äro uppdragna, och en svag, begynnande dager ljusnar mellan de nakna stammarna i trägården. Gamla-Johanna stultar omkring i bortkommen ifver, mestadels med brandstaken från brasa till brasa – skenet ur kakelugnarna darrar i röda reflexer öfver golfven. På divansbordet brinner ett drypande ljus i staken, och där duken är undanskjuten och skifvan bar, står ett stort silfverskriftyg, med pennskaft och färdigrifna receptlappar här och där bland postpappersarken. I ankomstens hast och förvirring har någon stält ifrån sig en hög nymangladt duktyg på en af stolarna och glömt att lägga mattan till rätta. En tjänsteflicka rör sig inne i förmaket; hon har<pb n="69"/> brådt med att slutföra städningen, men stannar ändå och niger, tils hon blir uppmärksammad.</p>
+<p>Gamla-Johanna torkar oupphörligt sina ögon med tröjärmen – »ja, ja ... fröken ska inte se sig omkring, här är ingalunda som det brukar vara.» Samtidigt slås en dörr häftigt igen där ute, och förvaltarens röst ropar någontmg på gården. Ur köket tränger ett kort, skrällande ljud af ett bleckkärl, som faller.</p>
+<p>Herre, Du min skapare, hvilken pröfningens tid att lefva i och ta lärdom af!.. den gamla trotjänarinnan står alldeles hopsjunken under den tanken, medan hon ur matsalsskänken radar fram några tallrikar och glas på klaffen. Hon är allena. Men då Robert Viding kommer ned från sin gafvelkammare, bjuder hon till att hämta sig, lämnar följaktligen halfgjordt hvad<pb n="70"/> hon håller på med och samlar ihop sin stickning och sitt ullgarnsnystan, som blifvit liggande på bordet.</p>
+<p>Han serverar sig själf – stående framåtlutad, så att skenet från taklampan belyser en del af ansiktet.</p>
+<p>»Är fröken i sitt rum, Johanna?»</p>
+<p>»Ja, det är hon; jag var nyss inne med brickan. Bedröfvelsen går henne så till hjärtat ... fast hon väl trodde, att jag inte märkte det.»</p>
+<p>Hon lägger armarna i kors under bröstet och betraktar konsuln med en mycket bekymrad min. Åldrats har han, det tycker hon, under de månader han varit borta; vecken kring ögonen ha blifvit så skarpa.</p>
+<p>»Herr Hedelius bor ju här ... inte sant?..» han drar en af stolarna till sig.</p>
+<p>»Jo, här ofvanför ... i norra gafveln – alt sen fadern dog före julen.»</p><pb n="71"/>
+<p>Viding vänder sig hastigt emot henne med ett förvånadt spörsmål i blicken: » – dog före julen?..» men häjdar sig. Han vill ogärna förråda, huru få och knapphändiga underrättelser han denna gång haft att hålla sig till. Men det går ett sting igenom honom – gamla prosten död!.. och icke en rad därom, fastän dödsfallet kunnat utgöra ett slags förklaring – han tänker på Kurts flyttning till Vidingfors, som modern skref om. Notisen i tidningarna har han icke sett.</p>
+<p>Han erinrar sig den gamle med värklig saknad – prosten Hedelius var förr en sådan skämtsam och lefnadsglad gubbe, präst en dag i veckan, jägare de öfriga. »Det är förkylningarna, som knäkt mig», brukade han säga; och under de sista åren syntes han aldrig ute. Nästan orörlig satt han i sin länstol från morgon till kväll,<pb n="72"/> med sina minnen och sin pipa – och adjunkten. Att det såg tarfligt och tomt ut omkring honom, det kunde han ju icke dölja; men händerna stack han skyndsamt bakom ryggen, om någon ibland sökte upp honom och trädde in oförmodadt – de stackars händerna, med krokiga, förvridna fingrar, som voro honom en sådan styggelse; han hade alltid haft mycket sinne för hvad som vackert var. Sin son – ja, många anmärkte, att sonen tog han icke på det rätta sättet.</p>
+<p>Gamla-Johanna suckar.</p>
+<p>»Gud ske lof, att han fick sluta, det var inte för bitti. Lite och ingenting lämnar han efter sig; men det var en så vacker begrafning. Sonen talade, det är enda gången jag hört honom, och nog har han gåfvor.»</p>
+<p>»Har han varit här nere än?»</p><pb n="73"/>
+<p>»Han gick ut för en stund sen – till nämdemans, där han brukar ha söndagsförsamling; det räcker ibland ända till kvälln. Han sa till om det, ifall konsuln skulle fråga efter honom.»</p>
+<p>»Jaså – fråga efter honom!»</p>
+<p>»Det gör di så ofta, några här; han får ett värkligt frisamfund, det får han» – hon nickar bekräftande. »Men minsann jag snart har reda på hvart han hör, fast jag mins honom från det han inte var större än alnstickan. Han lär färdas med något slags egen kristendom, där Heliga Anden har mesta besväret; di gillar inte gammalt folks tro och fundament, di vill liksom jämföttes in i himmelriket ... nu för tiden.»</p>
+<p>»Jag kan tänka mig det, Johanna.»</p>
+<p>»Men underligast var det med frun. Hon blef så annorlunda och för sig själf, hon.»</p><pb n="74"/>
+<p>Viding ser åt sidan; huru frestande att göra frågor! Men nej ... modern har icke förtrott sig åt någon i hans frånvara, och hvad tjänstfolket tykt sig förmärka, bör vara honom likgiltigt. Han svarar därför endast:</p>
+<p>»Ensam var hon ju alltid.»</p>
+<p>»Och nu talar hon inte mer. Säkerligen kände hon af det på något vis ... i förgår ... eftersom hon tog afsked af mig ...»</p>
+<p>Här blir hon afbruten. – Midt under tårarna, som nästan förblinda de gamla ögonen, stötes köksdörren upp med bullrande fart, och en mager, storhufvad pojke tar språng öfver tröskeln. De snäfva, illa medfarna byxorna äro instuckna i stöfvelskaften och sulorna lämna snöspår efter sig på golfvet. Han stannar tvärt, stirrande på den mörka, främmande herrn.</p><pb n="75"/>
+<p>Gamla-Johanna går nedtystande emot honom – »hyss, hyss ... hvad tänker du på!» – hon sväljer gråten och snyter sig.</p>
+<p>Viding frågar:</p>
+<p>»Är det den där, han har med sig?»</p>
+<p>»Ja, det är Abel ... han brukar ibland få äta här inne ...»</p>
+<p>Pojken vrider sig undan – det hjälper icke, att hon söker hålla honom i armen, han öfverröstar hennes påbörjade ursäkter med gäll stämma:</p>
+<p>»Hvem är han, som har min plats?»</p>
+<p>»Ja, säg det ...» Viding tar utan brådska fram sin pincenez – »men du låter kanske bli att föra oljud ... så mycket du vet.»</p>
+<p>»Hvad har du att befalla öfver mig?» – Förgäfves gör Gamla-Johanna tecken och miner, hon hinner icke komma till ordet. Viding blir otålig –</p><pb n="76"/>
+<p>»För ut honom ... och se till, att han är försiktigare en annan gång. Jag vill inte ha honom inpå mig.»</p>
+<p>»Det ska jag tala om för pappa!»</p>
+<p>»Ja, gör det. Seså – låt det gå fortare!»</p>
+<p>»Konsuln ska förlåta honom» – den gamla tjänarinnan är mycket olycklig och förskräkt, men tillika förnärmad, medan hon föser pojken framför sig med båda händerna – »konsuln ska förlåta honom ... det är inte hans fel.»</p>
+<p>I detsamma höras Edits steg i salen. Viding stiger upp och går emot henne.</p>
+<p>Hon bemödar sig af all makt att synas lugn. Men det lyckas icke; hon skakar emellanåt som af kyla.</p>
+<p>»Förlåt, att du fått vänta, Robert!»</p>
+<p>I stället för svar lägger han sakta sin arm omkring henne; småler vemodigt, till<pb n="77"/> uppmuntran – »vi ha ju blifvit starkare nu, inte sant?»</p>
+<p>»Åjo ... kanske; jag skulle så önska det, åtminstone för din skull.»</p>
+<p>»Edit –»</p>
+<p>»Ja, jag hör.»</p>
+<p>»Mor sofver. Men låt oss gå in ändå!»</p>
+<p>»Sofver?»</p>
+<p>»Ja.»</p>
+<p>Hon ser honom i ögonen, rösten är osäker: »Säg mig ... vaknar hon nånsin mer ... tror du?»</p>
+<p>Viding tiger.</p>
+<p>»Hvem vet, om inte ... ja, jag har börjat tänka, att det varit lyckligare för dig, Robert, kanske för oss båda, om du rest allena ... utan mig, som ... missförstå mig nu inte!»</p>
+<p>»Du har rätt» – han drar ofrivilligt armen till sig – »det är en sorglig hemkomst ... för oss båda.»</p><pb n="78"/>
+<p>Då tar hon darrande och hastigt hans hand, lyfter den till sin kind – »stackars min vän!»</p> 
+<p>Sjukrummet är stort och rymligt. En torr, varm luft slår emot dem vid inträdet. Viding fäster sig genast vid förändringarna, i en enda, sökande blick – det låga, mörklackerade skrifbordet, med de många lådorna, ha de flyttat till en annan vägg, och soffan är borttagen, mors lilla, bekväma soffa för två. För resten är nästan allting orördt och sig likt. Bredvid några flaskor på byrån brinner en lampa med dämpadt sken, och snedt framför gafvelfönstret står en hög afdelningsskärm, så att sängen äfven vid dager är i skymning.</p>
+<p>Sköterskan reser sig, tyst och allvarlig. Viding frågar någonting hviskande, och hon svarar: »nej – doktorn tyktes<pb n="79"/> i går mena, att inte kommer hon till medvetande.»</p>
+<p>»Altså ... för sent» – endast med en ytterlig viljeansträngning beherskar han sin rörelse. – »Tack ... jag ska kalla på er om en stund.»</p>
+<p>Så sätter han sig helt stilla vid sängen; böjer sig ned öfver moderns ena hand och kysser den. Länge och uppmärksamt betraktar han hennes tärda, förändrade drag, och fastän han vet, att hon icke kan uppfatta orden, säger han halfhögt:</p>
+<p>»Ja, här är hon – mor!»</p> 
+<p>Edit står stum och orörlig på litet afstånd. Hon har icke mod att närma sig, icke styrka att öfvervinna det plötsliga, plågande, besvikna intryck hon erfar. – Är denna tunna, hopfallna gestalt, sådan den otydligt aftecknar sig under täcket,<pb n="80"/> detta stela, hårdtskurna hufvud, med dess öppna mun och gulbleka, öfver pannan stramt spända hud – är det värkligen Robert Vidings mor? Hon, om hvilken han berättat henne så ofta och så beundrande?</p>
+<p>Den sjuka hvilar på rygg, för andhämtningens skull i nästan sittande ställning, understödd af dynor, med armarna slapt utefter sidorna. Ansiktet är till hälften bortvändt, de se henne i profil: en skarpt markerad, kantig linje, som alls icke ger någon föreställning om, huru mjukt formad och fin den en gång varit. Kinden är insjunken, med heta feberfläckar, halsen onaturligt mager, och det glesnade, grå håret klibbar vid tinningen. Emellanåt rycker det i ögonlocken.</p>
+<p>Edit känner en hemsk kyla smyga sig kring hjärtat. Aldrig tillförene har hon stått vid någon dödsbädd, men hon har<pb n="81"/> tänkt sig gamla fru Viding ... Roberts mor – ja, hon har tänkt sig alt så annorlunda, så fantastiskt ... det är som om någonting stort och högtidligt vackert toges ifrån henne med brutalt våld – nu är ju döden vid sitt annalkande allenast ful! Eller är hon i sin oerfarenhet grymmare mot värkligheten än andra?</p>
+<p>Det är möjligt, att Viding anar hennes tankar. Åtminstone afbryter han dem med ett tonlöst:</p>
+<p>»Du ska inte plåga dig längre, Edit.»</p>
+<p>Hon tvekar; hvad ville hon icke gifva, för att enkelt och lugnt kunna förklara ... förklara sig så, att intet kunde misstydas, intet såra! Men hon kan det icke; hvar skulle hon finna de riktiga orden? Och dock vet hon med sig själf, att hon icke är okänsligare än andra ... nej, nej! – Blek, utan att gråta, men<pb n="82"/> med starkt glänsande blick, prässar hon läpparna samman; hon vågar icke ens kasta sig på knä vid hans sida, icke ånyo lägga hans hand mot sin kind – den handen, som alltid tykts henne så tryggande, så riktigt hennes egen.</p>
+<p>»Förlåt mig ...»</p>
+<p>Med ett underligt frånvarande uttryck i sina ögon har Viding lutat hufvudet i händerna; när han lyfter det, har hon ljudlöst lämnat rummet. Dagern lyser matt in genom en springa under en af gardinerna.</p>
+<p>Då vänder han sig åter mot bädden. Och den tröstlösa stund han sitter ensam kvar hos modern, den stunden är han helt och odeladt hennes som förr ... med tysta, tysta och skälfvande ord till farväl:</p>
+<p>– Ja, här är jag ändtligen ... du ser mig icke, mor, men jag är här ändå. Tack för din ständiga godhet emot mig! Jag<pb n="83"/> har varit upprörd i djupet af min själ – du vet hvarför – men jag behöfver endast se dig igen, och jag dömer icke. Vi trodde ju en gång, för länge, länge sedan, att vi skulle kunna följas åt till det sista, du och jag ... icke sant? Det var en sällsam tro! Icke ens det, som skilt oss, vet jag eller vill jag numera veta. Nej – jag vill det icke! Den, som skall lefva, förstår icke den, som skall dö. Du böjde af vid det sista steget – gjorde du icke det?.. men du skall ha tack, mor, du skall alltid ha tack för att du varit god emot mig –</p> 
+<gap unit="graphic"/> <pb n="84"/> 
+<gap unit="graphic"/>
+
+</div>
+<div type="chapter">
+<head>5</head> 
+<p><hi>S</hi>om sagdt, med den vändning sjukdomen tagit ... tja, ja, det är tråkiga historier ... du vet hvad det leder till» – doktorn har ena armen i pälsen, Viding hjälper honom. Edit och kommerserådet Waack – »onkel Nils» – stå innanför salsdörren; det är samma dag, en stund efter frukosten.</p>
+<p>Doktor Vesterberg är en lång karl, icke fet, men med framskjutande mage. Han rör sig med stort besvär, drar ena benet<pb n="85"/> efter sig och pratar hela tiden, bullrande, men en smula otydligt, med saliven flytande i mungiporna.</p>
+<p>Han fortsätter:</p>
+<p>»Me-e-n ... hvad det beträffar, att du måste till stan, så ser jag ingenting som hindrar, bara du är tillbaka på kvälln. Jag väntar inte slutet förrän kanske i morgon – tidigast. Det fins motståndskraft kvar, mer än man skulle tro.»</p>
+<p>Nu kommer kusken för att leda ut honom. Doktorn gör en ovig bugning, afsedd för dem i salen, skakar sedan hand med Viding och tillägger:</p>
+<p>»Nåja, i hvarje händelse behöfver du inte skicka efter mig; jag kan ingenting göra. Dessutom är sköterskan van och vet besked.»</p>
+<p>Viding återvänder till de andra.</p>
+<p>Edit har satt sig i en af fåtöljerna. Ett stycke ifrån henne, med ryggen vänd mot<pb n="86"/> det mellersta fönstret, står gamle Nils Waack – en liten, något korpulent herre, med ett par små, hvassa ögon under hvita, buskiga bryn. Mustascherna och de gråsprängda hårtestarna ofvan öronen äro omsorgsfullt borstade, och den utsökt prudentliga kostymen af engelskt stoff uppbäres med rak och värdig hållning. Ena handen håller han bakom ryggen, den andra innanför det breda västuppslaget af tjock sammet.</p>
+<p>Efter att en lång stund ha varit försjunken i sig själf, rycker han plötsligt på axlarna, som ville han genom ett raskt beslut söka öfvervinna sin obenägenhet för att yttra sig. Han tar några precisa, afmätta steg utåt golfvet – ett fast, resolut grepp om närmaste stolkarm, hostar, samt vrider otåligt halsen i den trånga kragen för att få mera andrum.</p><pb n="87"/>
+<p>»Ja, det är nu så ... hur ska jag uttrycka mig?.. jag kan ju inte låta bli att göra henne till viljes, naturligtvis, men det vore lättare, mycket lättare ... har du ingenting att fråga, Robert?»</p>
+<p>»Nej. Du kan ändå inte svara mig – i en annans ställe.»</p>
+<p>Waack drar stolen närmare, slår med sin blåröda näsduk ett lätt slag öfver sitsens storblommiga damast, alldeles som han brukar det, innan han tar plats vid kontorspulpeten.</p>
+<p>»Du har visst rätt, Robert» – han sätter sig.</p>
+<p>»Förmodligen. Annars skulle du inte medge det, onkel.» Viding går af och an långs en af gångmattorna.</p>
+<p>»Ja, ja, du har visst rätt, Robert; men det var någonting annat jag ville komma till, därför ska du inte afbryta mig. Jag<pb n="88"/> talade nämligen med Edit, min unga, värderade ... din blifvande ... hon, som» – en liten bugning och en diskret handrörelse</p>
+<p>– »ja, jag nämde nyss om ett samtal, som jag i förgår hade med din mor.»</p>
+<p>»Om mig?»</p>
+<p>»Inte direkte. Men det berörde dig på sätt och vis.»</p>
+<p>»Jag hoppas, onkel, att jag inte ska afbryta dig.»</p>
+<p>»Tack, jag hoppas detsamma. Ja, det är nu så ... hur ska jag uttrycka mig?.. så svårt för mig att återge – det vill säga, jag kan helt enkelt inte återge det. Åtminstone inte fullständigt. Emellertid tror jag mig ha förstått henne riktigt, främst tack vare ögonen, du vet, hennes underbara ögon, rösten däremot var mycket svag – men hvad jag inte har att upprepa ord för ord, det ... det måste få vara, tänker<pb n="89"/> jag. Ser du, Robert, när jag sist var hos henne – talet föll på en viss hysterisk person ...»</p>
+<p>»Jag har inte träffat honom.»</p>
+<p>»Godt. Så här ungefär lydde hennes ord: bed Robert från mig, att han får stanna, tils jag är i jorden. – Som kusin torde påminna sig, tillade hon senare och i delvis annat sammanhang, är han son till bådas vår gamla vän Hedelius, och det är mer än antagligt att han nu behöfver hjälp, hälst penninghjälp, i synnerhet för gossens skull – vill inte kusin, när jag är borta, ha besvär med det för min räkning?»</p>
+<p>»Är det alt?»</p>
+<p>»Om honom? Jag vill minnas det.»</p>
+<p>Viding stannar.</p>
+<p>»Låt oss då öfvergå till annat, onkel; att vi två lyda henne blindt och obetingadt, det vet hon.»</p><pb n="90"/>
+<p>»Åja, det viste hon.» Kommerserådet Waack känner sig synbarligen innerligt väl till freds med den tanken; han tar sig om hakan med ett par smala, hvita fingrar och upprepar: »åja, det viste hon ... åja. Men det är sant – till begrafningen skulle inga andra inbjudas, än bärarna, och det hela försiggå så obemärkt som möjligt.»</p>
+<p>Viding endast nickar, till tecken att han uppmärksammat yttrandet.</p>
+<p>»Du undrar kanske, Robert ... ja, jag är alldeles bragt ur min vanliga fattning, afskedet upprörde mig till den grad, att jag knapt tänker på någonting annat. Och oförändrad var hon ju inte. Stundtals blef hon liksom så aflägsen ... väntande, lyssnande, om jag så får säga. Jag föreställer mig, att hon hvart ögonblick hoppades på en afgörande förnimmelse, en snar förkänsla af, på hvilken sida om gränsen bedrägeriet<pb n="91"/> är förborgadt; därom ägde jag ingen upplysning att lämna henne. Just förut hade vi två gamla, vi barndomsvänner, gjort upp vårt mellanhafvande, och det tog inte lång tid, fastän det varat en människoålder. Hon har ju förmågan att uttrycka alt i en enda blick, hon – ja, Herre Gud, hvad är jag inte skyldig henne!»</p>
+<p>Det är så mycken, länge och mödosamt undertrykt rörelse att söka dölja, därför dröjer fortsättningen –</p>
+<p>»Naturligtvis ... jag är ingen vän af sorgen, däri liknar jag de flesta; dock nödgas jag medge, att den någon gång har nästan gudom öfver sig. Jag inser till fullo, och jag har alltid insett det, Robert, att din far ... att han i alla afseenden var långt värdigare den stora, stora lyckan ... och det sökte jag visa honom – altnog, hvad hon därjämte varit för en ensam<pb n="92"/> man som jag ... men det tillhör mig allena. Gud välsigne henne ... och hennes minne ... när hon inte längre är till!»</p>
+<p>Härmed är samtalet afslutadt. Kommerserådet Waack låtsar envist betrakta utsikten öfver trägården mot ån och andra stranden.</p>
+<p>Sedan begär han att ännu en gång få gå in till den sjuka. – Sköterskan reser sig, tyst och allvarlig; ingen lampa är tänd, eljes alt som förut. Gamle Nils Waack närmar sig försiktigt sängen, lutar sig framåt, för att bättre kunna urskilja anletsdragen, skakar sitt hufvud och suckar hörbart. Men han dröjer icke länge där inne. Viding blir kvar efter de öfriga.</p>
+<p>Middagen serveras tidigt. Strax därpå afresa de båda herrarna, och Edit drar sig tillbaka till sitt rum.</p><pb n="93"/>
+<p>Hon stannar midt på golfvet, sluter ögonen, böjer sig bakåt med utbredda armar; så trycker hon händerna knutna mot pannan, och hela hennes smärta, resliga kropp skälfver.</p>
+<p>Ja, ja, ja, någonting afgörande förestår – men när?</p>
+<p>Hon lägger sig på soffan. Utan att somna, blickar hon stelt och drömmande mot fönstret – ser huru hastigt skymningen växer där ute. En takås, med skorsten och vindflöjel, aftecknar sig skarpt mot eftermiddagshimmeln, och grenarna af de första träna i allén sticka fram ur ramen till höger som ett fint nätvärk.</p>
+<p>Snart skall mörkret bli fullständigt. Men medan skuggorna utanför smälta samman alt tätare, förlänga sig andra skuggor inom henne, oemotståndligt, hinna långt framom hennes tankar, närma sig solstrimman ...<pb n="94"/> solstrimman i framtiden. Hon igenkänner dem; det är skuggorna ur hennes barnaår och tidigaste ungdom.</p>
+<p>Och hon låter sig omhvärfvas; må de taga henne i sitt våld ånyo.</p>
+<p>Hvilken dyster tid! Synd var alt hvad hon tänkte, synd var alt hvad hon gjorde. Och gjorde hon om det och annorlunda – det var synd också. »Bären fram Herranom ära och starkhet!»</p>
+<p>Hvar skymt af glädje blef till stöld, och som en ständig ransakningsfånge gick hon omkring i hemmet bland de sina. Far, mor, syster – det var en förfärande gudsfruktan öfver och i dem. Och när hon om morgonen drog upp gardinen, såg hon kyrkan och grafgården på något afstånd. Där skulle tankarna för dagen begynna; där skulle de lägga sig till ro om kvällen.</p>
+<p>Men om de vägrade! Om de i smyg<pb n="95"/> listade sig ut ur fängelset, ut till all den härlighet, som hon måste tänka sig, ty själf hade hon ju intet däraf fått erfara. Och lifvet var väl icke öfveralt så uselt, att det ej någonstädes fans en lyckofyld dal? Dit ville hon.</p>
+<p>Föräldrarna kunde ju icke med visshet läsa hennes tankar; icke häller Agneta kunde det. Men leendet måste bort ... synden är kommen i världen – »bären fram Herranom ära och starkhet!»</p>
+<p>Så nödgades hon då lefva i sin fantasi, så godt hon det förmådde. Den uppjagades till öfverspändhet. Än under tysta saknadens tårar, än under gränslös själfanklagelse och bön.</p>
+<p>Af modern lärde hon sig spela på det gamla, ledbrutna klaveret; men endast psalmer, alt annat var förbjudet. Sångröst saknade hon. Och de värkliga anlag för musik, som gömdes inom henne, försummades<pb n="96"/>; lusten tolkades som världsligt sinne.</p>
+<p>Men det finnes en punkt, som är mörkare, sjukare, än hvarje annan.</p>
+<p>När befrielsen kom – när de första, ohyggliga veckorna förflutit efter den förskräckelsens natt, då hemmets väggar instörtade i askregn och eld, och endast Agneta och hon själf blefvo räddade – när hon ändtligen hämtat mod, så att hon vågade förstå hvad som skett och blicka framåt – då erfor hon en känsla, för hvars skull hon för visso en gång måste straffas till lifvet. Där hjälper ingen ånger.</p>
+<p>Först tordes hon icke tänka på det, icke alls. Det gafs så mycket att taga igen, hon greps af ett rastlöst begär efter värksamhet, annan värksamhet än där hemma på landet. Och då man tillika underrättade henne om, att hon snart, rätt snart,<pb n="97"/> ägde att förfoga öfver ett litet kapital, som kunde sätta henne i tillfälle att studera – studera musik, framför alt violinspel ... tänk, violinspel!.. då egnade hon sig däråt med all den ungdomliga energi, som fans sparad inom henne. Och sålunda lärde hon sig att glömma – för en tid.</p>
+<p>Härvid hade hon god hjälp i en krets af nya bekantskaper; några visserligen ganska flyktiga, bland dem Robert Viding. Hon minnes ännu den kväll, då hon första gången träffade honom. Det var på en tillställning för välgörande ändamål, där hon stått som drottning i en af tablåerna. Hon hade då redan fylt tjugo år; men huru naiv och oerfaren!</p>
+<p>Han gjorde strax ett djupt intryck på henne, lång och mörk och afmätt säker som han var, med en sådan utländsk prägel öfver sig. Hvad han måtte ha rest mycket,<pb n="98"/> tänkte hon; och hvad han måtte ha lärt mycket! Hon frågade ifrigt af en väninna, som kände honom, men fick just ingenting veta.</p>
+<p>Då han sedermera, nästan af en händelse, blef henne förestäld – »jaså, af en händelse» brukar han upprepa, när hon efteråt påmint honom därom – nåja, hon beslöt med mycken tvärsäkerhet, att inte låta sig förintas af hans höga nåd. Därför underrättade hon honom tämligen hastigt om, att hon snart ämnade bli en stor konstnärinna.</p>
+<p>Javisst, han log; men det var icke ett elakt eller öfvermodigt leende. Tvärtom, det gladde henne. Och han svarade:</p>
+<p>»Jag kan tro fröken om hvad som hälst.»</p>
+<p>Det där kunde ju tydas på mera än ett, sätt. Men hon märkte genast af hans min,<pb n="99"/> att han menade det väl, menade det som ett tack för godt och vänligt förtroende.</p>
+<p>Hon bar länge detta i minnet som en uppmuntran på vägen. Och när denna längre fram förde henne till utlandet, äfven Paris – så fann hon honom där. Att han icke helt och hållet glömt den naiva tjugoåringen från landet, framgick af, att han nästan strax sökte upp henne.</p>
+<p>Senaste vår, när de återvände på samma ångbåt – hon erinrar sig särskildt en afton ombord och ett yttrande, han då fälde. En ovanlig stillhet rådde omkring dem, en stillhet, fyld af stort vemod, och samtalet afstannade ofta, för att plötsligt fortsättas i få och lågmälda ord. Det hade varit fråga om hans mor, och han tillade, efter en lång tystnad:</p>
+<p>»Jag har aldrig riktigt förstått att vara glad öfver min rikedom ... och dess många<pb n="100"/> möjligheter; men nu är jag det. Du ska inte behöfva sakna någonting, Edit, det hoppas jag. Lär dig därför i tid att önska!»</p>
+<p>Hon lära sig önska! Oh, den konsten kunde hon redan i sina tidigaste år. Emellertid såg hon ut öfver hafvet, som låg spegelblankt framför dem – solen gick just ned i rödt och guld – och önskade, att hon aldrig, aldrig, icke ens omedvetet, måtte förorsaka honom någon sorg i lifvet.</p> 
+<p>Och nu? Hvad tänker han väl nu om henne?</p>
+<p>Ack, alt sedan det sista samtalet med systern, har hon oftare än förut varit rof för de mest växlande, motsatta föreställningar, och i ensamheten ha alltid de mörkaste instält sig. Men ingen har upprört henne så gränslöst, som det outplånliga, förlamande intrycket af att redan från födelsen<pb n="101"/> vara bestämd till dyster försakelse. Ingenting sedan barndomen har kunnat förtaga medvetandet härom, tvärtom har det fördjupats och vuxit med åren, finnande bekräftelse i sig själf och i alt omkring sig, oaktadt det tidtals förmätet skjutits åt sidan. Javisst – i ungdomligt öfvermod har hon ju stundom inbillat sig vara befriad, vunnen för lifvets glädje, och rusig i sin starka känsla af kommande lycka sträkt armarna mot framtiden och ljuset – men se, tviflet har alltid återvändt, och var dess röst ibland icke säker nog, så ha andra funnits, hvilkas sjukliga ruelseton sökt ingifva visshet. Hemmets och det inlärdas lifsbehof af martyrskapets salighet ligger henne i blodet; och hvad de senaste dygnen medfört, är tydligen en förberedelse och en varsel. Hon vet, att hon smugit sig in på förbjuden mark, för att<pb n="102"/> plocka förbjudna frukter, som icke äro till för henne, huru nära hon än kommit dem. Och det behöfves blott, att den skrämmande tanken förkroppsligas – och hon skall underkasta sig, utan att se, utan att tänka, utan att känna något annat än sitt väntade, oundvikliga öde.</p> 
+<gap unit="graphic"/> <pb n="103"/> 
+<gap unit="graphic"/>
+
+</div>
+<div type="chapter">
+<head>6</head> 
+<p><hi>D</hi>et lider redan mot kvällen. Edit kommer från isen uppför strandsluttningen, går förbi köksgafveln, där ett ljus lyser bakom halfgardinerna i ett af fönstren, och stannar på kvisttrappan. Hon ser sig om och lyssnar – inga bjällror! Nej, det är visst för tidigt att vänta.</p>
+<p>Luften är kall och hon fryser. Öfveralt snö, massor af snö i långa, vågiga drifvor, som fylla vägarna; därtill en stillhet, som vet af ingen vind. Men nere på<pb n="104"/> isen leder en buktande linje af djupa fotspår öfver ån, det såg hon nyss; de förlora sig i mörkret på andra sidan. Himmeln är hög och klar, med gnistrande stjärnor.</p>
+<p>Äfven inne är det stilla och ljudlöst tyst; hela det hvita huset tiger. Vid afdelningsskärmen i fruns rum sitter sköterskan, böjd öfver en uppslagen andaktsbok, medan ögonen alt emellanåt höja sig till den sofvandes ansikte, som är vändt emot henne ur skuggan. Eller hon går sakta fram till sängen och lyssnar.</p>
+<p>Edit tänder lampan på förmaksbordet och tar plats i den mjuka, högkarmade hvilstolen nära kakelugnen. Klockan slår i matsalen. Allting är egnadt att skrämma henne i afton – hon känner sig fortfarande omhvärfd af luften i sjukrummet, där hon nyss var inne. Och som vanligt ger ensamheten fart åt inbillningen.</p><pb n="105"/>
+<p>Tänk, om det förfärande just nu skulle inträffa. Om döden, döden själf, stege öfver tröskeln och ginge förbi henne ... dit in! Hvad skulle hon taga sig till? – Med en rysning sveper hon sjalen tätare kring axlarna och blundar, för att ingenting bli varse.</p>
+<p>Går icke någon nu i tamburdörren? Men det är säkert Gamla-Johanna. – Hvad alt är hemlighetsfullt i den omgifvande tystnaden!</p>
+<p>Hon andas lugnt och långsamt. Oron lägger sig småningom själfmant till ro, och hon har en dunkel föreställning om att medvetandet likasom vacklar ... vacklar högt uppe på en kal bärgspets, med farliga bråddjup, hvart hon än ser. Nedanför vidga sig hvita, ödsliga snöfält, utan synliga gränser; de närma sig, lyftas alt mera i samma plan – hvita, ödsliga snöfält, öfver<pb n="106"/> hvilka en buktande linje af djupa fotspår leder. Mödosamt har någon gått den vägen, alt längre och längre, och hon tvekar att följa. Det mörknar. – Då öfverraskar henne sömnen och allting utplånas.</p>
+<p>Men hon vaknar nästan genast, så förefaller det henne, och sätter sig upp, påvärkad af en blick, som hon icke förmår uthärda. En man af medellängd står borta vid väggen – Kurt Hedelius – hon inser strax, att det är han.</p>
+<p>Ja, det är han. Och sådan har hon visst tänkt sig honom.</p>
+<p>Sakta vaggande åt sidorna, som om han vore fastvuxen vid golfvet och sviktade under en tung börda, har han stannat ett stycke ifrån henne. Dräkten hänger i lösa veck kring hans tunna gestalt; en nött, svart långrock, väst och benkläder af ett brunaktigt, simpelt tyg. Skjortan är ostärkt,<pb n="107"/> kragen nedviken, sammanhållen om halsen af en smal, hvit duk. Det är dräkten.</p>
+<p>Ja, sådan har hon visst tänkt sig honom: ansiktet magert, nästan infallet, och otroligt blekt. Den breda pannan, med ett ärr vid tinningen, går öfver i ett ljust hår, som från en hvirfvel öfverst på hjässan faller slätt ned, slutande sig i en lockig krans intill öronen och nacken. Hakan bär ett kort, tudeladt skägg, öfverläppen några glesa fjun, som endast vid mungiporna skymma munnens svängda, rörliga linjer. Ögonen blinka sällan, nästan aldrig, i stället tyckas pupillerna darra; hvitan är blodsprängd.</p>
+<p>Med en känsla af värklig rädsla väntar hon, att han skall säga till henne de ord, som hon senaste natt trodde sig höra. Dock yttrar han intet, allenast ser på henne oafvändt.</p><pb n="108"/>
+<p>Intrycket häraf blir henne öfvermäktigt. Hon känner att hon måste bryta tystnaden, för att återvinna makten öfver sig själf. Men hon endast reser sig, utan att få fram ett ord.</p>
+<p>Då tilltalar han henne med stor vänlighet, formande stafvelserna långsamt och uttrycksfullt noggrant:</p>
+<p>»Ja – jag är Kurt, din broder, delaktig i bedröfvelsen och i riket.»</p>
+<p>Hans stämma har fasthet och klang, men framför alt en bevekande innerlighet; och ett förvirrande, oförlikneligt leende visar sig plötsligt och försvinner.</p>
+<p>»Det är ledsamt, att du skall gå ... hvart går du? – Nej, nej, stanna! Utanför oss äro alla de, som älska och göra lögnen.»</p>
+<p>Hon stannar. – Att han uttrycker sig så ovanligt och med sådan frimodig,<pb n="109"/> själftagen rätt till förtrolighet, väcker hvarken hennes undran eller ovilja. Hon finner det helt naturligt – just sådan måste han vara, just sådan är han människors lydnad värd. Hvarför då fästa sig vid andra, rent yttre intryck, som först göra sig gällande?</p>
+<p>Han drar djupt och besväradt efter andan.</p>
+<p>»Härintill ... ja, ja, icke längre! Här går gränsen för hvad egen kraft förmår. Icke sant? – Så låt mig hjälpa dig! Dödens närhet är bättre än födelsens stund, och ännu är intet för sent, intet; till och med djuren söka sig till vattnet i solnedgången.»</p>
+<p>»Jag förstår er inte.»</p>
+<p>»Du skall göra det. Haf tålamod ... tålamod såsom den, hvilken lefver evigt. Helig, helig Ande, allsmäktig Gud, som<pb n="110"/> förlossat och sändt mig – ack, Han skall låta den nya dagen uppgå äfven för dig. Naken och arm skall du träda inför Honom, men ingen vara så skön som du. Så vill jag hjälpa dig.»</p>
+<p>Hon gör en afvärjande åtbörd – »nej, nej ... ser ni då inte, att jag är rädd för er?»</p>
+<p>Åter samma förvirrande leende, som försvinner lika plötsligt som det visar sig.</p>
+<p>»Rimfrosten täcker marken – hvem rädes för den? Endast de fåvitska. Ty de, som rädas för rimfrosten, öfver dem varder fallande snö. Si, jag är den starkare. Jag har druckit ur den källan, efter hvilken du törstar, och det är till den jag vill föra dig; därför är makten min, och ingifvelsen min till att vittna. Då skall hastig förskräckelse icke skrämma dig, ej häller de ogudaktigas storm, när han kommer. Ack,<pb n="111"/> han varder kommande rätt snart och med stor myndighet såsom alltid. Syster, kära syster, lyssna altså till mitt tal! En man stod inför sin undergång, utan att blifva den varse, ändock han icke viste, hvart han skulle vända sig. Då slog honom Herren, att han vardt seende. Och han såg.»</p>
+<p>»Hvad såg han?»</p>
+<p>»Vägen för sig och andra; så stälde han sina steg därefter. Och igen gick ett år – men mot målet.»</p>
+<p>De stå båda orörliga, tysta, utan att någondera väjer med blicken.</p>
+<p>»Si, Herrans ord kom till Elias: statt upp och gack till Zarpat, som vid Zidon ligger, och blif där; ty jag hafver befalt en enka, att hon skall gifva dig skygd. – Herre, Herre, jag förstod Dig icke. Det finnes ett trä i skogarna, som är större<pb n="112"/> och skönare än andra trän. Du har låtit mig se det. Men bär det icke frukt efter Ditt sinne, så skall det förtäras af eld. Och finner jag en sällsynt växt framför mig, där torfvan har ringa näring och Din goda grönska är död ännu ... en sällsynt härlig växt, hvars blomningstid just är inne – visserligen sträcker jag ut min hand för att taga den, på det att fullkomningen må varda Din viljas uppfyllelse.»</p>
+<p>Edit har tvekat – det är henne omöjligt att frigöra sig från hans heta, skälfvande iakttagelse; nu söker hon med handen armstödet bakom sig och sjunker helt stilla tillbaka i stolen.</p>
+<p>»Ni betraktar mig så underligt, jag är ovan vid att man ... men jag har inte hjärta att bli ledsen, ni menar kanhända väl på ert vis.»</p><pb n="113"/>
+<p>Han skjuter fram halsen, läpparna darra, mellan hvar mening höres ett afbrutet, kort andetag.</p>
+<p>»Är du ovan vid att man betraktar dig?.. du, som med gyckelspel och slik färdighet vill draga alla sinnen till dig. Käraste syster, akta dig för det förgängligaste af alt förgängligt – dess frestelser rymmas i små rum, och dess röst sjunger förledande under din stråke. Jag vet det. Men kasta dess redskap ifrån dig, att det må krossas!»</p>
+<p>»Violinen! Menar ni den?»</p>
+<p>»Du förgiftar din varelses kärna. Det ljuder eviga röster inom dig, som däraf varda tystade. De stiga mot himmeln som lågorna. Lyssna till dem!»</p>
+<p>Hennes ängslan växer med hvar stund; hon upprepar mekaniskt – »lågorna!»</p>
+<p>»Hör du icke än deras väckelserop?<pb n="114"/> Och dock ha de glödande tungor i sina munnar. Det susar omkring dig – och du hör det icke.»</p>
+<p>»Ni ... ni också!»</p>
+<p>»Jag stod upp om morgonen och bad: Herre, varkunna Dig öfver mig! Nu knäpper jag mina händer samman till tack och till välsignelse.»</p>
+<p>»Hvad vill ni af mig?»</p>
+<p>»Jag har vetat, att du skulle komma. Nu ser jag dig. Jag har sett på dig länge, och du bär tecknet.»</p>
+<p>»Jag vet af intet, intet tecken.»</p>
+<p>»Den rösten är icke din.»</p>
+<p>»Hvem tillhör den?»</p>
+<p>»Om jag toge din själs innersta själ till vittne – hon skulle vittna emot dig. Men om jag nämde hädelsens namn – du viste det, mig förutan. Och det namnet vill du göra till ditt!»</p><pb n="115"/>
+<p>Hon försöker att svara lugnt, fastän upphetsningen sjuder inom henne:</p>
+<p>»Ni hatar honom! Robert Viding har varit er en pålitlig vän. Och honom hatar ni.»</p>
+<p>För första gången blinka hans ögon så att hon märker det. »Jag hatar ingen. Ändock han timligen varit den mycket gynnade, den öfvermodige, hvaremot jag ... Hvad har han sagt om mig?»</p>
+<p>»Att han känt er, men att era vägar skilts åt.»</p>
+<p>»Det är sant. Men det är icke alt.»</p>
+<p>»I förgår var det första gången jag hörde ert namn nämnas.»</p>
+<p>»Så har det visserligen icke skett för intet. Lifvet är en kedja med länk vid länk. Jag förstår, att han har gjort dig mera ondt, än alt annat i världen.»</p>
+<p>Hon rycker till, nästan utom sig:</p>
+<p>»Hvem har sagt er det?»</p><pb n="116"/>
+<p>»Jag känner honom; och må han komma.»</p>
+<p>»Ja, ja, måtte han komma!»</p>
+<p>Kurt lyfter högra handen öfver sitt hufvud.</p>
+<p>»Si, jag såg en stjärna falla af himmelen på jorden, och för henne vardt öppnad afgrundens port. Den leder till lifvets glädje. Vid och hvälfd är den, och nedanför trappstegen ser du guldet i hög på hög. Men hvilket guld! Tager du det i din hand, så smulas det till grus mellan dina fingrar, och äfven handen skall falla sönder och varda till mull. Ty de heliga äro förminskade och få de trogna bland människors barn. Och dock vill Han, Herren, som besöker det onda, göra mörkret ljust.»</p>
+<p>»Jag ber er ... tala tydligare!»</p>
+<p>»Ack, du måste förstå mig, sådan jag är. Och du måste än större ting» – han<pb n="117"/> stryker håret ur pannan med en hastig rörelse. »Lägg märke till mina ord! Jag for öfver hafvet och kom till ett främmande land, en främmande stad. Sent på aftonen tog jag in i ett härbärge, där jag drack mycket i skänkstugan. Och ond lusta kom öfver mig. Där fans en ung flicka, hon gick gästerna tillhanda, och då jag senare fann henne inne i mitt rum, begärde jag henne. Men hon vred sig ur mina händer och flydde, och jag kunde icke följa, ty jag var drucken. Så föll jag i dörren och slog mig, så att tinningen blödde starkt; och jag blef liggande medvetslös. På natten vaknade jag i stor ångest, men hade dock kraft att släpa mig till min bädd. Och vinångorna hade öfvergifvit mig, så att jag tänkte klart. Somna kunde jag icke. Ändtligen började dagern gry, och ju mera det ljusnade, desto tydligare<pb n="118"/> urskilde mina ögon hvad som stod skrifvet på den gråhvita väggen framför mig. Jag läste: Frukta dig icke för något, som du lida skall, ty din hjälp, din salighet är nära.»</p>
+<p>»De orden, just de orden?»</p>
+<p>»Ja. Men de sade mig intet. Mitt hufvud värkte, jag kände feber i blodet och betogs af stor rädsla. Därför stod jag bittida upp, betalade för mig med mina sista penningar, och gick långs flodstranden tillbaka ombord på fartyget, som skulle återvända, så snart morgondimman lättat. Kort efter afresan insjuknade jag och vardt som från mina sinnen; när jag igen kom till sans, befann jag mig i en stor, hvit sal, med många sängar.»</p>
+<p>»Ett sjukhus?»</p>
+<p>»Och en hälgedom. Ty hon, som vakade vid mitt läger och lindrade min<pb n="119"/> nöd, hon skall blifva en af de yppersta vid tidernas ände. Sanna och rätta äro Dina domar, Herre Gud allsvåldig; Dina afsikter komma icke på skam. Min tunga bad om en styrkande dryck; hon gaf mig den. Min själ var lik ett blödande sår; hon läkte det. Min skuld var stor inför Gud och inför människor; hon lät mig icke gå ohulpen ifrån sig. Och hon bär dina drag, ändock du är större och skönare än hon.»</p>
+<p>Edit blir icke förskräkt; men med en känsla af ohygglig visshet gömmer hon ansiktet i händerna – »Agneta!»</p>
+<p>»Jag sträkte ut min hand och sade: hjälp mig alt framgent, att jag icke må falla! Hon skakade sitt hufvud: icke jag – en annan.»</p>
+<p>Edit frågar andlöst: »Hvem?»</p>
+<p>»Du vet det.»</p><pb n="120"/>
+<p>»Nej ... nej, nej!»</p>
+<p>»Jag behöfver <hi>din</hi> hjälp, såsom du <hi>min.</hi>»</p>
+<p>»Det tror jag inte. Det kan jag inte.»</p>
+<p>»Du kan det.»</p>
+<p>»Ser ni då vägen – hvart den leder?»</p>
+<p>»Jag ser den. Till lidandet, hvars tecken du bär.»</p>
+<p>»Alltid lidandet! Ack, hvarför alltid lidandet?»</p>
+<p>»Och det spörjer du!»</p>
+<p>»Ja – hvarför, hvarför?»</p>
+<p>»Jag vill gifva dig dödsglädjen, lifsens krona.»</p> 
+<p>Robert Viding inträder genom salen med lätta, skyndsamma steg; ingendera af dem har hört tamburdörren öppnas.</p>
+<p>Han stannar innanför tröskeln och rätar på sig. Ansiktsuttrycket undergår hastiga förändringar – så låter han hufvudet<pb n="121"/> sjunka, ler ett höfligt, mångtydigt leende och vänder sig till Edit. Men innan han yttrar något, lyfter han än en gång blicken mot Kurt; och den blicken kan icke misstydas.</p>
+<p>»God-afton, Edit!..» han ser forskande på henne, anslår samtidigt en bekymmerslös ton. »Nå – är du plågad eller uppbygd af hvad som passerat?»</p>
+<p>Hennes läppar röra sig till en hälsning, men hon svarar icke. Däremot reser hon sig genast, nästan utan att veta af det, lämnar sin plats och ställer sig vid det bortersta fönstret; hon stirrar ut i mörkret, urskiljer ingenting, endast lyssnar.</p>
+<p>Kurt bryter tystnaden.</p>
+<p>»Herren utrote alt skrymteri och de tungor, som stora ord tala! Men om du kommer med frid, Robert Viding, så hafver Han varit mäktig genom mig.»</p><pb n="122"/>
+<p>»Vänta, vänta» – Viding går förbi honom och in i sjukrummet, utan att göra sig någon brådska. Efter en stund återvänder han, stänger dörren omsorgsfullt, men ljudlöst, sätter sig till rätta i den högkarmade hvilstolen och kastar det ena benet öfver det andra.</p>
+<p>»Du sa någonting om hvad Herren gjort med dig, Kurt Hedelius?»</p>
+<p>»Ja.»</p>
+<p>»Eller kanske hvad du själf uträttat ... den sista tiden?»</p>
+<p>»Ack, det ligger många år mellan nu och fordom.»</p>
+<p>»Obestridligen. Och vore det endast år, men det är mer än så.»</p>
+<p>»Ja, det är mera än så. Ty de offer, som Gudi behaga, äro en bedröfvad ande.»</p>
+<p>»Och de offer, som behaga dig – det är kvinnorna. Inte sant?»</p><pb n="123"/>
+<p>»Jag ser, att du är dig lik, Robert Viding.»</p>
+<p>»Det räknar jag mig till förtjänst. Du är däremot magrare, mycket magrare; och ändå heter det, att den, som förlitar sig uppå Herren, han varder fet.»</p>
+<p>Kurts vaggande rörelse af öfverkroppen blir starkare. Han frågar hastigt, i en låg hviskning:</p>
+<p>»Ger du mig icke handen?»</p>
+<p>»Nej.»</p>
+<p>»Och hvarför icke?»</p>
+<p>»Hvad skulle det tjäna till?.. det motsvarar ju inte alls hvad jag känner. Jag säger dig intet välkommen.»</p>
+<p>»Robert Viding – jag mins två gossar, som lekte tillsammans ... i detta hus.»</p>
+<p>»Tänk, jag mins dem också. Men kommer du ihåg, hur den ena var falsk! Det fans inte den lek, där han var att lita på.»</p><pb n="124"/>
+<p>»Och det menar du värkligen?»</p>
+<p>»Javisst. Och det hjälpte inte, att han ofta fick stryk på bar gärning; det hörde till hans natur att ljuga.»</p>
+<p>Med ens sträcker Kurt fram sina hvita, afmagrade händer: »Hvarför är du ond på mig?»</p>
+<p>»Ond!»</p>
+<p>»Ja.»</p>
+<p>»Det är väl inte det riktiga ordet, föreställer jag mig. Ett gränslöst obehag – i alla afseenden – ett obehag, som jag inte kan befria mig ifrån ...»</p>
+<p>Edit afbryter:</p>
+<p>»Jag känner inte igen dig, Robert! Med hvad rätt är du så hånfull och öfvermodig?»</p>
+<p>Viding tar emot anmärkningen med en erkännsam böjning af hufvudet; det är som låtsade han djupsinnigt öfverlägga med sig själf om svaret.</p><pb n="125"/>
+<p>»Så vidt jag förstår» – säger han slutligen – »är det inte jag, som uppsökt herr Hedelius för att göra mina tankar och tycken gällande. Dem behåller jag i allmänhet hälst för mig själf. Men så påträngande som förhållandena gestaltat sig just nu, kan du väl inte förtänka, om jag söker att rätta mig efter dem så ... tillämpligt som möjligt.»</p>
+<p>Ett ögonblicks tystnad, hvarunder Kurt Hedelius betraktar Edit med en ihärdighet, full af oro. Hon märker det icke. Han vrider sina fingrar om hvarandra och trycker emellanåt spetsarna mot panna och tinningar.</p>
+<p>»Viding, Robert Viding» – rösten ljuder klagande – »om Herren tuktar, så var icke otålig, utan ödmjuka dig, då han straffar!»</p>
+<p>»Seså, låt det vara nog med skenhelighet!»</p><pb n="126"/>
+<p>Den andres ögonlock sluta sig, han prässar läpparna samman, hela hans gängliga kropp får stadga, nästan växer. Dock sjunker den genast ihop ånyo, armarna hänga slappa, och det förvirrande, plötsliga leendet visar sig.</p>
+<p>»Ack, som alltid ... du behandlar mig som alltid. Likvisst är jag glad öfver, att du böjer dina öron till mitt tal. Ett hörande öra och ett seende öga, Herren gör dem båda.»</p>
+<p>»Gör han?»</p>
+<p>»Din moder ... hon vet det nu.»</p>
+<p>Viding griper hårdt om armstöden –</p>
+<p>»Jag varnar dig, Kurt – om henne vill jag af din mun ingenting höra, ingenting veta ... ingenting! Förstår du?»</p>
+<p>»Hon har varit god emot mig.»</p>
+<p>»Det var hon mot alla.»</p>
+<p>»Icke alltid. Men nu har hon vunnit lifsens krona.»</p><pb n="127"/>
+<p>»Genom ... genom dig?»</p>
+<p>»Ja. Af Guds nåd är jag den jag är. Men Han, Herren, är den förste och den siste.»</p>
+<p>Viding svarar icke strax; tigande stiger han upp, skjuter undan stolen och lutar sig mot kakelugnen, med armarna korslagda öfver bröstet. Så säger han långsamt:</p>
+<p>»Ett ogement närgånget släkte ... du och dina likar, prästerna!»</p>
+<p>»Jag är icke präst.»</p>
+<p>»Själflärd i saligmakeri eller inte, det är för mig detsamma.»</p>
+<p>»Du vet icke hvad du talar; du vill icke veta det. Herre, Herre Zebaot, Din är ingifvelsen jag undfått till att vittna. Anden, Din Ande, är Gud och Gud är Anden. Och Andens barn skola vara människornas ledare, efter Din vilja, salighetens<pb n="128"/> eller fördömelsens förkunnare, efter Din vilja. Tänken på Honom, som korsfästes! Heter det icke i ett af evangelierna: när Maria var trolofvad Josef, förrän de kommo samman, fans hon vara hafvandc af den Heliga Ande.»</p>
+<p>»Du formligen kippar efter Anden, Kurt.»</p>
+<p>Edit utbrister bönfallande: »Robert, du får inte!..» nästan en snyftning är förnimbar i tonfallet.</p>
+<p>»Åh, var lugn, min vän, du vet ju att det står dig fritt att lämna oss, när hälst du själf vill» – förklaringen afges utan hetta, men med stegrad otålighet. »Jag och han där borta ha kanske ett eller annat ord att tillägga, innan vi skiljas. Människorna födas ju till jordelifvet, för att bli blanka och rena genom slitningen mot hvarandra. Så har man lärt mig.»</p><pb n="129"/>
+<p>Kurt andas häftigt.</p>
+<p>»En rik man tycker, att han är vis, men en fattig förståndig märker honom. Du hör till dem, Robert Viding, som hafva hufvuden, med hvilka de skada göra, ändock du varit ämnad till en stor kraft i Andens tjänst. I stället skall du dricka af Guds vredes vin, ty du hafver icke behållit din krona, ditt hufvud bär hädelsens namn.»</p>
+<p>»Tror du? Ånej, hvad skulle hädelse gagna till! Men du, Kurt ... hvar är nu de heligas tålamod? Du, som syndat med händer och tänder och mer till.»</p>
+<p>»Si, jag förgäter det till rygga är, och sträcker mig till det, som frammantill är.»</p>
+<p>Viding skrattar – ett kort, föraktfullt skratt.</p>
+<p>»Ja, ja, just så, särdeles bekvämt och användbart ... riktigt de vanliga talesätten<pb n="130"/> och gesterna! I en handvändning utplånas lefvernets vittnesbörd, när man glidit så långt utför, att endast ansvaret återstår, ansvaret – och en vrå, stor nog för ett knäfall. Är det sistnämda undangjordt och nåden kvitterad, så kan man resa sig igen och börja om på nytt. Ja, man kan än mer ... kan fördöma dem, som ingen allmosa begära, dem, som inte skjuta sin skuld ifrån sig, dem, som blygas för att hyckla. – Du är oärlig, Kurt Hedelius, jag känner dig tillräckligt, mig lyckas du aldrig dupera. Din ekstas är ihålig, man ser igenom den; men det stärker förmodligen att ta ett segerrus på förhand. Som sagdt, mig för du aldrig bakom ljuset – allra minst med att påstå, att du undfått himmelsk ingifvelse till att vittna. Ty det heter, som du väl vet: jag hafver försökt dem, som säga sig vara apostlar, och<pb n="131"/> hafver befunnit dem ljugare! I mina ögon är du ett sjukt djur, intet annat; ett falskt, ett farligt djur – det är det hela. Annars ...»</p>
+<p>Undergifvet och stilla, som det tyckes, men med den sällsamma darrningen synlig i pupillerna, riktar Kurt blicken mot Edit; samtidigt förråder stämmans klang, att han väntat och omärkligt velat framkalla den andres häftighet.</p>
+<p>»Icke vredgas, syster! Hafver jag ej sagt dig, att han varder kommande med allsköns myndighet, såsom fiendens sed är. Och dock knäpper jag nu mina händer tillhopa i bön och i tacksägelse.»</p>
+<p>»Hvad är det där för en opåkallad förtrolighet, Edit?..» Vidings ansikte mörknar och rynkorna i pannan bli djupare.</p>
+<p>Hon svarar med ansträngning, knappast hörbart:</p><pb n="132"/>
+<p>»Låt honom vara, Robert ... jag har inte nekat ... och nu får han göra det.»</p>
+<p>I detsamma kommer Gamla-Johanna ur matsalen, stannande nära förmaksdörren, och säger tveksamt till om att kvällsvarden är serverad.</p>
+<p>Kurt Hedelius tar sig om hufvudet, som vaknade han ur ett slags bedöfning. Med ett otydligt: »jag har redan ätit» smyger han sig ur rummet. De höra honom skynda uppför tamburtrappan i ett par språng och snafvande leta sig fram öfver vinden; några af golfplankorna knarra. En skarp, torr hosta – så slås en dörr igen.</p> 
+<gap unit="graphic"/> <pb n="133"/> 
+<gap unit="graphic"/>
+
+</div>
+<div type="chapter">
+<head>7</head> 
+<p><hi>P</hi>å natten vaknar Edit af ett lätt buller, en knackning på dörren, sätter sig yrvaken upp i sängen och trefvar med handen efter tändstickorna, utan att finna dem. Rullgardinen är nedfäld, mörkret ogenomträngligt. Hvar är hon? Jaså, ja-ja ... hon påminner sig. Men hvems var rösten – rösten, som kallade – Kurts eller Robert Vidings? Det vet hon icke. Tre gånger hördes emellertid hennes namn alldeles tydligt:</p>
+<p>»Edit, Edit, Edit!»</p><pb n="134"/>
+<p>Hvad har händt? Har något händt? Hvad skall hon tro? – Ur stånd att hålla tankarna samlade, ger hon viljelöst vika för tröttheten. Fantastiska drömbilder jaga hvarandra genom hennes hjärna, förändra sig, försvinna och komma blixtlikt åter, oberoende af värkligheten, som inga konturer äger. Hon igenkänner fotspåren öfver vida fält af snö, de utplånas, en främmande stad skjuter upp ur jorden, hon träder in i en låg skänkstuga, möter en drucken man. Strax omhvärfvas de af eldslågor, som bära dem, hon lyftes alt högre mot himmeln, sväfvande ofvan en stor afgrund, i hvars djup oräkneliga människor röra sig i meningslöst virrvarr. Medvetandet klarnar. Intrycken från gårdagens afton bli lefvande ånyo, men redigare, hon minnes hvart ord och hvart tonfall, hon minnes kvällsvarden, som intogs under<pb n="135"/> pinsam tystnad – har hon alls sofvit sedan dess? I detsamma spritter hon till och vaknar för andra gången.</p>
+<p>Ansträngande sin hörsel till det yttersta, tycker hon sig uppfånga svaga, obestämbara ljud från gården; då tänder hon ljus, sticker fötterna i ett par tofflor och skyndar till fönstret, därvid darrande mera af ängslan än af kyla. När ögonen något vant sig vid mörkret, ser hon att en släde är framdragen. Det blåser starkt, träna i allén skaka oroligt sina grenar, och en lykta, som någon stält ifrån sig på drängkammartrappan, är vid hvar vindstöt i fara att slockna. En hund börjar tjuta, utdraget och klagande, men tystas ned. Två mörka, framåtböjda gestalter, en karl och en kvinna, vika om hörnet af stallbyggnaden, vadande i snö, och gå sedan utför backsluttningen ned mot köket.</p><pb n="136"/>
+<p>Edit vänder sig hastigt om, lyssnande med förnyad uppmärksamhet – steg halta genom tamburen, korta, ojämna steg, hvarpå en späd stämma ropar ur förstugan: »Är Häggen där?.. Häggen!.. nej, nej, ni behöfver inte fara efter doktorn!»</p>
+<p>Har den förfärande stunden kommit? – Hon klär sig med feberaktig brådska, efter att otåligt ha ordnat håret framför spegeln; fingrarna lyda nästan motsträfvigt, så uppskakad är hon. Men blott för ett ögonblick, ett enda, sjunka armarna maktlösa ned i skötet, en rysning genomilar henne, och hon ser som i en spöksyn hvad som förestår ... nu, just nu, har döden stigit in öfver husets tröskel!</p>
+<p>När hon är färdig, sveper hon en sjal kring axlarna, släcker ljuset och smyger sig på tå ur rummet.</p>
+<p>Dörren står på vid gafvel till köket,<pb n="137"/> som är aflångt och mycket stort. Tydligen är nästan alt gårdens folk församladt där inne, kanske äfven några ur grannstugorna. Eld sprakar i spiselhällen. De flesta sitta högtidligt utmed ena långväggen, och fåordiga hviskningar utbytas stilla och försynt mellan de älsta ibland dem, vägledda af det matta skenet från en lampa under taket. Ett ålderstiget, gråhårigt par har skilt sig från de öfriga och tagit plats i tamburen. Vid deras sida snyftar en halfvuxen flicka öfverljudt, och Abel-pojken, gråblek af sömntyngd förskräckelse, gör sig så liten som möjligt mellan henne och de gamla.</p>
+<p>Edit går vidare till salen, ljudlöst och med återhållen andedräkt. På kakelugnsfrisen brinner ett ljus i hög mässingsstake, och på mattan leker en kattunge med ett ullgarnsnystan, dragande stickningen som<pb n="138"/> ett långt, långt släp efter sig under soffan. Förmaket är mörkt, matsalen däremot svagt upplyst af en slocknande brasa; framför denna, öfver en stolkarm, sängkläder och ett täcke för att värmas.</p>
+<p>Ingen är synlig, ingen af dem hon söker. Hon känner ångesten växa, känner en brännande hetta i kinderna, kastar af sig sin sjal. Plötsligt tränger genom tystnaden ett hemskt, afbrutet skrik; det upprepas två gånger, som i yttersta andnöd.</p>
+<p>Ur köket strömma alla till tamburen, skocka sig vid ingången mellan vindstrapporna och lyssna; kvinnorna under sakta jämmer, somliga med psalmboken i händerna. – »Ack Gud, min Gud, min Gud!»</p> 
+<p>Gamla-Johanna kommer krokig och alldeles förkrossad ur sjukrummet. Just förut har Edit vågat sig dit in – fasan<pb n="139"/> för att bli vittne till dödskampens kval har nödgats ge vika. Hon segnar ned på en stol i den tätaste skuggan; att hon nyss gripit tag i en dörrpost, för att icke falla, är alt hvad hon vet om de sista minuterna.</p>
+<p>Och motståndslöst låter hon ruelsen leda sina intryck. Hvad tjänar det till att spjärna mot udden? Endast ett är af nöden – det gäller att icke förhärda sig, icke förhärda sig, botgöringens väg är hennes och portarna till straffets förgård stå öppna. Ja, så är det – hon måste straffas! Inför all dödens grymhet måste hon ställas, på det att hvarje dess vånda må bli hennes egen och själfviskhetens rottrådar uppryckas med ens. Hvem är väl hon, att hon skulle befrias från domen? Om människor finnas – och de finnas många – hvilka aldrig, aldrig sett annat än lyckans sol på sin himmel, hvar de än<pb n="140"/> gått och hvad de än förbrutit, icke tillhör det henne att klaga eller strida emot sin bestämmelse. Se, huru allting böjer sig! Se, huru Guds finger, den gode Gudens finger, ristat lidandets eviga tecken på den döendes panna! Den blöder. Eller är det hennes eget hjärta, som blöder? – Herre, förbarma Dig!</p> 
+<p>Tätt intill sängen, mellan denna och väggen, sitter Robert Viding, stödjande modern med sin vänstra arm. Hennes hufvud hvilar tungt mot hans skuldra, och hans högra hand håller hennes omsluten – en ställning, som anstränger honom, men han ändrar den icke. Äfven modern förblir orörlig. Dragen kring den infallna munnen ha förmildrats; andhämtningen är mödosam, stundom tyckes den helt och hållet ha afstannat.</p><pb n="141"/>
+<p>Som i en glödande brännpunkt samla sig Vidings tankar kring detta enda: är medvetandet fullständigt utslocknadt? Erfar hon alls intet?.. icke ens nu, när det slutliga afgörandet så tydligt närmar sig. Draga ej flammande syner genom hennes själ, syner af en värklig eller inbillad tillvara, förfluten eller kommande? Väntar förvandling eller förintelse? – Nej ... icke en skymt af återsken, icke det minsta svar; gåtan är olösligt densamma, lika mörk och lika förrädisk. Att döden är viss och gemensam för alla, hvad hälst som skilt lif och åsikter åt – därmed måste han nöja sig.</p>
+<p>Sköterskan stiger upp, tar en liten spritlampa från byrån och återvänder till sin plats vid ett lågt bord, belamradt med allehanda föremål – flaskor, ett fat med is, ett spetsglas champagne, en stor svamp i<pb n="142"/> en skål. Hon kastar en flyktig blick åt sidan. Nära afdelningsskärmen ligger Kurt Hedelius framstupa på golfvet, med pannan nästan berörande tiljorna.</p>
+<p>Natten fortskrider långsamt, som vore den utmattad af sin egen tyngd. Söndagen är förbi, det nya dygnet har för länge sedan börjat. Ute hviner blåsten i häjdlös fart genom trägården, hvirflande snö och lösslitna kvistar mot rutorna.</p>
+<p>Dörren till förmaket är halföppen, och Häggen närmar sig tröskeln, tvekande vid hvarje steg; han prässar skinnmössan hårdt mot munnen, för att kunna beherska sig. Gamla-Johannas snyftningar höras ur mörkret bakom honom.</p>
+<p>Hviskande och utan att lyfta blicken, riktar Viding en fråga till sköterskan; hon svarar lika sakta. Han tillägger något, men läpparna äro så torra, rösten så låg,<pb n="143"/> att hon icke förmår uppfatta hvad han säger. Då upprepar han orden tydligare:</p>
+<p>»Jag vill ... vill att han lämnar oss ... allena!»</p>
+<p>»Hvem?»</p>
+<p>»Han, som ...»</p>
+<p>Kurt Hedelius har rest sig, strykande håret bakåt vid tinningarna. – I ett enda, smidigt språng står han midt framför sänggafveln, med de utbredda fingrarna trykta mot bröstet. Ansiktet är uppåtvändt i vild ekstas, krampaktiga ryckningar skaka axlarna.</p>
+<p>»Ve, ve dem, som bo på jorden!..» flämtande stöter han fram hvar stafvelse. »Si, jag ser döden nalkas. Herre, allsvåldige Herre, slå oss blodiga med Ditt gissel till vår sista stund, på det att befrielsen må varda ljuf och full af salighet! Din åsyn är den stormodige till skräck; alla<pb n="144"/> ogärningsmän hatar Du. Och hvem af oss fogar en enda dag till sitt lif? Ingen. Din är makten, Herre – se därför i nåd till den kvinna, som i natt skall bedja vid foten af Din tron! Skänk henne en evighet i himlarnas himmel, ty hon hafver undfått dödsglädjen efter Ditt sinne. Välsignad vare hon! Men ve, ve den, som förblindat sin egen moder!»</p>
+<p>Han vaggar af och an, utmattad som efter en våldsam kraftansträngning. I nästa ögonblick är han borta.</p>
+<p>Robert Viding har icke ändrat en min. Ej ens den minsta skiftning, som om han väjde för ett lömskt slag, förråder hvad som rört sig i hans inre. Hvar tanke i hans själ, hvar känsla, är hos modern. Vaknar hon? Hennes ögon öppna sig till hälften, en kort, häftig darrning fortlöper från nacken nedåt ryggraden, hufvudet<pb n="145"/> har glidit mot kudden, det är som gjorde hon ett orkeslöst försök att hålla plågorna tillbaka, bröstet höjer sig rosslande i en djup, utdragen suck; sedan blir kroppen tyngre i hans arm, underkäkens muskler slappas. Sköterskan låter med ett stilla tecken de öfriga förstå, att slutet kommit.</p>
+<p>Ingen har mod att närma sig, icke ett ljud förnimmes, hela det hvita huset tiger. Viding lägger varligt den döda till rätta i bädden, kysser hennes panna och sjunker på knä – »ack, mor, mor, mor!»</p>
+<p>Just då slår klockan i matsalen tre; från vinden höres en skarp, ihållande hosta.</p> 
+<p>En timme senare aflägsna sig de flesta af gårdsfolket, jämte grannarna. Två gamla, erfarna bygummor ha själfmant erbjudit sin hjälp vid de gröfsta sysslorna inne i likrummet – nu dricka de kaffe ute i<pb n="146"/> köket, under tårar, snytningar och gudfruktigt tal. Kort därpå släckas ljusen öfveralt i våningen, utom det i salen, som fortfarande brinner i sin höga mässingsstake.</p>
+<p>Viding går vänligt fram till Edit, ingen af tjänarna är i närheten. Han frågar sakta:</p>
+<p>»Jag stör väl inte?»</p>
+<p>Hon sträcker sin ena hand emot honom, utan att svara.</p>
+<p>»Du förstår, min vän» – han bemödar sig synbart om att tala lugnt och långsamt – »ja, hon har varit mig mer än mor och hvad man för en mor känner. – Har du intet att säga mig?»</p>
+<p>»Hvad vill du att jag ska säga? Du vet ändå alt, Robert ... du, som förlorat alt. Och kan jag vara till någon tröst, jag? Mig behöfver du inte.»</p>
+<p>»Du är visst alldeles uppgifven af trötthet, Edit?»</p><pb n="147"/>
+<p>»Nej, nej – låt oss glömma det! Men mins du din mors ord: vi ha säkerligen farit mycket vilse, vi två?»</p>
+<p>Han betraktar henne under tystnad. De skiljas.</p> 
+<gap unit="graphic"/> <pb n="148"/> 
+<gap unit="graphic"/>
+
+</div>
+<div type="chapter">
+<head>8</head> 
+<p><hi>N</hi>atten är förbi; klar himmel ute. Klockan är tio på förmiddagen.</p> 
+<p>Redan för tre timmar sedan har Kurt Hedelius lämnat gården och gått till byn, för att hålla morgongudstjänst. Det var hans egna ord till Gamla-Johanna, som mötte honom i dörren. Hon står just och räknar efter, för att inte glömma något ... det är sant, han sa till om lite middagsmat på en bricka, oppe i kammarn; han<pb n="149"/> viste inte säkert, när han skulle hinna tillbaka. Så gick han.</p>
+<p>Gamla-Johannas uppsyn är tröstlöst bedröfvad.</p>
+<p>Någon berättade nyss i köket – erinrar hon sig – att han i går varit inrest till stan med kyrkfolk från grannsocknen. Nåja, ville hon säga hvad hon tänker ... men nej, hon säger ingenting. Han är ju en svag, mänsklig varelse, han som andra, sorgen är för somliga inte till att stå ut med, det vet hon, återfall i synden har man ofta sett förr; visst är emellertid – brännvin hade han druckit i morse, det kände hon på lukten. Herre, Du min skapare, hvilken stygg värld att lefva i och ta varning af! Hvar förvarar han det åt sig? Och hvad blir slutet?</p>
+<p>Hon sätter sig igen att gråta.</p>
+<p>Obekymrad härom, strör vintersolen sitt<pb n="150"/> gladaste glitter in öfver mattan framför henne, skimrar i salskronans kristaller, så att regnbågsgranna reflexer dansa på väggarna, flyttar sig nyfiket och snabt från ställe till ställe. Ack, det är länge sedan den sist visat sig! I trägården lyser snön bländande hvit mellan stammarnas långa, blåvioletta skuggor. Två skator ha slagit sig ned på fähustaket – lapphunden skäller ursinnigt. Än hit, än dit jagas af blåsten några nedfallna hötappar bort utmed stranden och skingras.</p> 
+<p>Robert Viding kommer frysande in från likrummet, som är alldeles utkyldt, med fönstren öppna. Han stannar för att värma händerna mot kakelugnen i förmaket.</p>
+<p>»Ropade konsuln?..» trotjänarinnan går just genom salen, med den svarta duken knuten hårdt under hakan.</p><pb n="151"/>
+<p>Viding vänder sig om.</p>
+<p>»Jaså, är det du, Johanna» – vanan gör, att han omedvetet dämpar rösten – »var snäll och låt fröken Hernmark veta, att jag väntar här inne.»</p>
+<p>När han är allena, andas han djupt några gånger, sträcker på sig och tar fram en liten fickspegel, i hvilken han uppmärksamt granskar sitt ansikte, särskildt ögonen. Nej, ingen kan se på honom, att han vakat hela natten, hela morgonen, alt sedan dödsfallet. – I dagningen gjorde han en lång vandring utåt landsvägen; för resten har han skrifvit några bref och gått af och an, af och an i sin trånga vindskammare.</p>
+<p>Huru ofta under de senaste timmarna har ej sorgen öfver moderns bortgång varit nära att göra honom förtviflad, göra honom likgiltig för alt annat! Nu måste<pb n="152"/> den skjutas åt sidan. Ensamheten är farlig, tyckes det, hvarje yttring af svaghet farlig – det gäller ju lycka och framtid för tvänne.</p>
+<p>Och än en gång andas han djupt, med bröstet vidgadt och hållningen fast beslutsam.</p> 
+<p>Edit infinner sig – till det yttre fullkomligt lugn. Viding iakttar henne stillatigande. Vänligt, men tillika för att helt tillvinna sig uppmärksamhet, kvarhåller han hennes framräkta hand i sin, beredd att gifva den fri, när hälst hon önskar det. De taga plats, med det lilla sybordet emellan sig.</p>
+<p>Han säger:</p>
+<p>»Min vän – hvad jag har att föreslå kommer säkert att bli dig en lättnad. Du mins, att du i går morse ansåg det ha<pb n="153"/> varit bättre för oss båda, om jag rest allena? Jag menar hit ... till Vidingfors.»</p>
+<p>Och hon svarar entonigt:</p>
+<p>»Ja, jag mins.»</p>
+<p>»Nu har jag bestämt mig. Strax efter frukosten far jag till stan, och återvänder om torsdag, inte förr. Då blir begrafningen.»</p>
+<p>Hon upprepar:</p>
+<p>»Ja, jag mins ... du har väl själf sagt det, förmodligen. Eller det är jag, som misstar mig. Far du? Hvarför det? Ja, ja, naturligtvis, du har mycket att ombesörja.»</p>
+<p>»Jag hoppas du följer med.»</p>
+<p>»Jag!..» hon tystnar tvärt och drar handen till sig. Så tillägger hon hastigt, som undskyllning: »jag känner ju ingen där borta och vill inte träffa främmande människor.»</p><pb n="154"/>
+<p>»Det behöfver du inte.»</p>
+<p>»Hvar skulle jag då bo?»</p>
+<p>»Där jag gör det – i ditt eget, blifvande hem ... hos mig. Om någon behagar finna anordningen värd förtal, så lugnar mig medvetandet om, att slikt inte hittils bragt dig ur fattningen. Och det är jag mycket tacksam för. Men vill du, så flyttar jag – ingenting är enklare.»</p>
+<p>»Det är onödigt.»</p>
+<p>»Du följer således?»</p>
+<p>»Nej, Robert.»</p>
+<p>En kort paus. Viding lutar sig bakåt i stolen.</p>
+<p>»Var nu inte omedgörlig, Edit! Det är ju bara för tre dar framåt. Bara tre dar!»</p>
+<p>»Nej, Robert ... jag kan inte.»</p>
+<p>»Hvad är det, som hindrar?»</p>
+<p>»Jag kan inte.»</p><pb n="155"/>
+<p>»Nå – om jag ber onkel Nils ge dig tak öfver hufvudet ... tils vidare ... ett riktigt farfaderligt gammalt tak? Då torde väl ingen ha något att anmärka? Eller hur?»</p>
+<p>»Du missförstår mig.»</p>
+<p>»Så nedlåt dig till en förklaring!»</p>
+<p>Edit tiger. Hon stöder armbågarna mot bordet och betraktar med trött min det vackra landskapet utanför. – Snön i trägården har skiftat färgton. Snedt öfver ån flyga de två skatorna med dröjande vingslag i riktning mot byn, därifrån ljusröda pelare af rök stiga rätt upp i den klara luften.</p>
+<p>Viding böjer sig framåt:</p>
+<p>»Ännu en gång, Edit – hvad är det, som hindrar? Gör mig inte orolig!»</p>
+<p>»Jag bör stanna här.»</p>
+<p>»Ensam? Det menar du inte. Eller rättare – ja, din egen känsla har visst<pb n="156"/> sagt dig, att det för mig är omöjligt att bli kvar under nuvarande förhållanden ... efter uppträdet i natt vid dödsbädden. <hi>Han</hi> går inte frivilligt ur vägen, naturligtvis, och jag är bunden af mitt löfte, följaktligen ...»</p>
+<p>»Jag måste stanna, Robert.»</p>
+<p>»Måste! För hans skull? Är det hans befallning?» Vecket mellan ögonen blir skarpare.</p>
+<p>»Nej.»</p>
+<p>»Tack – det åtminstone gläder mig. Men du har i stället gjort den iakttagelsen, inte sant, att jag för närvarande är så oberörd af hvad som händt, att jag förtjänar allvarsamt motsägas? Och ändå lider jag under slaget så djupt, att någonting brustit inom mig, som gör mig rädd för mig själf. Det vet du och det borde du kanske ta hänsyn till, när jag ber dig. Jag tål inte<pb n="157"/> den tanken, att du och han träffas. Den är mig outhärdlig; så gammalmodigt dömer jag i vissa afseenden. Han är som husflugan ... han fläckar alt hvad han vidrör. Om inte i handling, så i ord.»</p>
+<p>»Jag måste få tala med honom. En enda, afgörande gång. Men innan det sker, vill jag vara allena och i stillhet, för att söka komma till klarhet öfver mig själf.»</p>
+<p>»Anser du inte, min vän, att det funnits anledning därtill för länge sen?»</p>
+<p>»Du har rätt; men du känner inte förutbestämmelsen af mitt lif, dess allmakt och dess hjärtlöshet, du fattar inte de senaste dagarnas innebörd. Vid hvar ny påminnelse har motståndet i min vilja blifvit svagare. Jag måste. Och ännu är det ju inte för sent, Robert ... om det är oundvikligt? Vill du förstå mig? Och törs jag inte anföra till mitt försvar, att jag alltid<pb n="158"/> varit ärlig, när jag trott mig äga en lefvande, en glad visshet om lycka ... äfven för mig ... den visshet, som varit en annans?»</p>
+<p>»Hvems?»</p>
+<p>»Det behöfver du inte fråga.»</p>
+<p>»Altså» – skymten af ett tviflande, nästan spefullt löje leker kring munnen – »tre dars ensamhet, plus ett samtal, ska ge dig en egen?»</p>
+<p>»Hur näns du! Jag har länge, länge haft en egen, fast jag inte velat lyssna till den.»</p>
+<p>»Så mycket mer skäl att ta min i öfvervägande, medan det är tid. Af ensamheten har du intet annat att vänta, än själfbedrägeri; och för vissa af dina drömmar borde du akta dig. Utsätt dig inte för sjukliga inflytelser! Att jag saknar fantasimänniskans lätta flykt ofvan värkligheten,<pb n="159"/> det är ju onekligen en mycket ledsam brist, men den bristen har det goda med sig, att jag inte genast låter mig förvirras. Och det, som för ögonblicket syns dig så mystiskt nödvändigt – anar du alls, hvart det kan leda?»</p>
+<p>»Ja.»</p>
+<p>»Det tror jag inte, Edit. Till lidande – lifslångt lidande.»</p>
+<p>»Du har igen rätt: lifslångt lidande.»</p>
+<p>»Och det längtar du efter?»</p>
+<p>»Nej. Men jag kan inte undgå det.»</p>
+<p>Viding springer häftigt upp från sin stol: »Du kan! Se på mig ... du kan!»</p>
+<p>Äfven Edit reser sig – långsamt, tungt stödd på armarna, som om hon icke hade styrka att annorlunda hålla sig upprätt. En djup, inre rörelse afspeglar sig i ögonens fuktiga glans, ehuru blicken tillika är skrämd och orolig. Slutligen<pb n="160"/> möter den Vidings med ett bedjande uttryck:</p>
+<p>»Var god emot mig!.. hvad du än må tänka.»</p>
+<p>»Du önskar då själf, att jag lämnar dig?»</p>
+<p>»Ja.»</p>
+<p>»Som du vill» – han vänder sig bort.</p>
+<p>Hon fortfar, i början ansträngdt och med många uppehåll:</p>
+<p>»Gör mig inte upprörd, Robert!.. jag får inte bli upprörd. Och inga hårda ord, inga onda ord ... var barmhertig!.. jag har så länge sökt värja mig ... så långt utöfver mina krafter. Ingen, ingen kan hjälpa den människa, som själf känner sig dömd från begynnelsen. Men du ska alltid minnas, Robert, att känslan för dig, <hi>min</hi> känsla för dig, är oföränderlig, och att medvetandet om, att den blifvit besvarad,<pb n="161"/> innebär all jordisk lycka jag ägt och vågar äga. Just därför fordrar jag att bli tagen på allvar, när jag säger dig, att hur jag än handlar, så sker det af inre nödvändighet, oryggligt – det gäller att finna ro för min själ. Så olösligt är jag bunden vid de föreställningar, som höra min tidigaste ungdom till. Ty nu har jag sett döden.»</p>
+<p>Därefter tillägger hon lugnare:</p>
+<p>»Robert – att jag är trött, gränslöst trött, får inte förringa betydelsen af mina ord. Jag väntar ju inte, att du nu ger mig rätt ... nej, ånej ... men jag vet i stället, att du utan agg ger mig fri, när hvarje tvifvel försvunnit inom mig.»</p> 
+<p>En isande stelhet har lagt sig öfver Robert Vidings drag. Rösten är dock den vanliga, endast en smula lägre, när han frågar:</p><pb n="162"/>
+<p>»Tror du, min vän, att den är värd att ha ägt en kvinnas kärlek, som alltid förstått, att han kan förlora den?»</p>
+<p>Hon tiger.</p>
+<p>»Jag har förstått det, jag, Edit. Men aldrig har jag tänkt mig en uppgörelse, sådan som denna ... mellan oss två.»</p>
+<p>»Hvad jag sagt ska inte häller upprepas, Robert, det lofvar jag dig. Om och när jag vunnit den klarhet, som öfvergår alt förstånd – du kommer att se svaret, utan att ord behöfvas.»</p>
+<p>»Som du vill; jag ämnar inte plåga dig längre. Här är jag öfverflödig. Och ändå» – det är som talade han halfhögt till sig själf – »ja, han är <hi>ändå</hi> inte den starkare!»</p>
+<p>Vid tanken på Kurt stiger plötsligt en stickande hetta till Vidings kinder, och högra handen hvitnar i sitt grepp om stolkarmen framför honom. Men han beherskar<pb n="163"/> sig; ansiktet återfår sin prägel af inåtvänd bitterhet.</p>
+<p>I dörren stannar han ännu en gång.</p>
+<p>»Edit?»</p>
+<p>Hon skakar sorgset sitt hufvud.</p> 
+<gap unit="graphic"/> <pb n="164"/> 
+<gap unit="graphic"/>
+
+</div>
+<div type="chapter">
+<head>9</head> 
+<p><hi>T</hi>vå dagar ha gått – två vackra, soliga vinterdagar. Och snart blir det afton igen, afton för tredje gången.</p>
+<p>I morgon är begrafningen. Svept i hvit, veckad skrud, ligger den döda rak och stel i sin kista, med händerna korslagda öfver bröstet. Höga bladväxter stå i halfkrets kring hufvudgärden, locket är lagdt mellan två stolar vid en vägg. Lakan hänga för fönstren.</p>
+<p>En ifrig värksamhet – en värksamhet<pb n="165"/> på tå, afbruten af låga hviskningar – har varit rådande öfveralt i huset. Redan när sköterskan reste, och det skedde morgonen efter dödsfallet, anlände från staden en mager, liten fru i svart bindmössa, tre eller fyra hjälpkvinnor med henne. Låt vara, att endast bärarna inbjudas ... herrejess, det fans ju ändå så mycket att städa och ställa i ordning, så mycket att efterse, att hvad som måste göras, måste göras strax; det viste hon, herrejess, hon har varit där förr. – Alla mattor äro uttagna, golfven lysa rena och nyskurade. Lukten af hackadt granris fyller rummen.</p>
+<p>Bjällror!.. barhufvad springer Abel ut på trappan. Men det är bara en ny sändning från konsuln, någonting, som blef glömdt i morse – Häggen bär en aflång trälåda till köket. Den frånspända hästen vältrar sig i en af snödrifvorna,<pb n="166"/> stalldrängen står otålig bredvid med grimskaftet.</p>
+<p>Gamla-Johanna och den magra, lilla frun i svart bindmössa söka och finna hvarandra än här, än där. Hvar gång börja öfverläggningarna om från början. Och hvar gång sluta de djupt inne i matsalsskänken. Det är för utomstående svårt att få reda på, hvad som passerar, frågorna löpa beständigt i kapp, utan att invänta svaren, och meningsutbytet sprider sig öfver ett så ansenligt fält, med många gropar, där invändningarna ligga på lur, att sammanhanget oförmärkt tar till flykten. Erinrar sig härvid någon af dem utgångspunkten, så återvända båda förvånade till den. Stillestånd. Gamla-Johanna önskar uppskjuta afgörandet, önskar hämta sig, det är ju för närvarande en sådan bedröfvelsens tid inne, att hennes uppmärksamhet<pb n="167"/> icke tål vid att splittras, och nu har den redan råkat fästa sig vid några stråomspunna flaskor i en aflång trälåda. Ett papper eller en förteckning rådfrågas ängsligt genom två par glasögon – ett papper med konsul Vidings lättlästa, rediga stil.</p>
+<p>Under alt detta förhåller sig Abel mycket tyst och tillbakadraget. Han är iförd nya, mörka och hela kläder, en omständighet, som jämte alt det andra märkvärdiga bidrar till att inge honom värklig respekt. Han tillåter sig ingen bullrande förströelse vid sidan af stundens allvar och högtidlighet, oaktadt tillfällen därtill erbjuda sig själfva – nu, när de stora och maktägande ha hvarken tid eller håg att bevaka hans rörelser. Ett enda och fattigt, litet påhitt är honom nog och skänker den nödiga jämvikten. Med orubbligt sorgsen min och med väl afvägda mellantider klappar<pb n="168"/> han Gamla-Johanna helt sakta med alnstickan i ryggen, ser på henne, utan att blinka – ja, hon brister i gråt, naturligtvis ... villiga, strida och villiga tårar. Det kallar han i sitt stilla sinne att leka »Moses och hällebärget.»</p>
+<p>Men hvar dröjer Kurt Hedelius? Ännu har han icke återvändt. Och i förgår stod brickan med middagsmat orörd i hans kammare ända till kvällen. Nu talar Gamla-Johanna icke mera om honom, ingen i gården talar om honom, så att Edit hör det.</p>
+<p>Skymning och stillhet breda ut sig öfveralt; en enformig, tigande, hälgdagslik stillhet, den nästan intet afbryter – ibland några dämpade steg genom rummen, ibland röster ur köket, där tjänstfolket trängt ihop sig i ett hörn.</p>
+<p>Edit Hernmark har hälst och oftast suttit ensam, utan att inlåta sig i några<pb n="169"/> uppbyggliga samtal eller värksamt deltaga i förberedelserna för morgondagen. De första timmarnas känsla af undergifvet lugn har altför hastigt förbytts i otålig väntan, i undran och oro. Hvar dröjer Kurt?.. han, det utvalda sändebudet, förkunnaren, på hvilkens maning hon redan brutit med så mycket. Hvarför har han så plötsligt och så länge blifvit borta? Vill han gifva henne tid till besinning? Hyser han ett så stort förtroende till hennes vilja, hennes goda vilja, och till sin egen makt? Tänk, huru nära hon varit att svikta redan nu! Senast i morse, när förvaltaren steg i släden, kunde hon endast med möda afhålla sig från att följa. Och dock motstod hon frestelsen, motstod den i en barndomens bön om hjälp – orden kommo likasom af sig själfva, vällande fram ur själens innersta brunnar, dem egenrättfärdighetens slam<pb n="170"/> fylt igen. Smakade vattnet i förstone bittert och bäskt, så var det visserligen därför, att det så länge stått grumladt i ofruktbar jord. Men så får det icke förblifva!</p>
+<p>Hon blickar stelt ut framför sig. – Huru ofta under dessa dagar har hon icke ransakat sig själf och sitt öde, för att ändtligen komma till klarhet! Ärligt och innerligt har hon sökt sanningen. Och att gifva sig själf, helt sig själf, är ju det enda värdiga uttrycket för en människas förhållande till hvad högre är. Så har man sagt henne, och så har hon förstått det. Men är då sanningen alltid densamma, växlar den icke för olika tider och olika människor? Ack, för henne är den numera en stor, helig, rouppfyld känsla, som öfvergår alt förstånd. Den <hi>måste</hi> finnas, om lifvet är evigheten värdt. Men hvar? I blind underkastelse och tro? Nåväl, så skall hon tro! Och<pb n="171"/> om jordisk kärlek är ett hinder, en de förtappades arfvedel, så skall hon skjuta den ifrån sig, huru oföränderligt hjärtat än talar däremot. Skall hon icke? Barmhertige Gud!.. vissheten, hvar finnes visshet?</p>
+<p>Tystnaden inomhus kännes tryckande, hon kastar pälskappan kring axlarna och smyger sig ut.</p>
+<p>Beslutsamt går hon ned till stranden, därifrån långs den upptrampade stigen öfver ån, samt skyndar sedan uppför branten på motsatta sidan. En smal fördjupning mellan sneda, tättstående trästammar utgör vägen, och ofvan den sträcka sig grenarna ut i båge, flätade samman till ett genombrutet hvalf, i hvars bortersta ljusöppning hon urskiljer konturen af en fallfärdig ria. Två småflickor möta henne, stanna och niga. Edit frågar efter nämdemansgården – jaså, tack, den tredje till höger.</p><pb n="172"/>
+<p>När hon är framme, tvekar hon ett ögonblick, med handen redan vid låset, men stiger därpå raskt in i den mörka farstun. I detsamma öppnas en dörr, och förskräkt viker hon undan mot väggen. Stegen gå långsamt förbi henne, tunga, släpande gubbsteg, som med ens dö bort i den mjuka snön; ena klackjärnet slår klingande mot stenbron framför tröskeln.</p>
+<p>Inne i stugan sitter en krokryggig karl vid ett af fönstren. Han röker ihärdigt och bolmande, det knastrar i den lilla träsnuggan, och glöden ur den lyser upp skäggstubben kring munnen.</p>
+<p>Edit hälsar vänligt vid inträdet. Karlen spottar, lägger benen i kors och stirrar på henne.</p>
+<p>»Kan ni säga mig ... har Kurt Hedelius, jag menar herr Kurt ... har han varit här i afton? Jag menar i dag?»</p><pb n="173"/>
+<p>»Nä.»</p>
+<p>»Är det nämdeman jag talar med?»</p>
+<p>»Nä – han är borta.»</p>
+<p>»Hvar?»</p>
+<p>»Di gick ut tillsammans» – igen en stråle tobakssaft i riktning mot spiseln – »di gick ut tillsammans, och inte kom han hem i natt, inte.»</p>
+<p>»Åkte de till stan?»</p>
+<p>Ett bredt grin mellan två rökskyar: »jag tänker väl det.»</p>
+<p>Edit stänger dörren efter sig; där är ingenting mera att få veta, ingenting, som för henne vore nöjaktig förklaring.</p>
+<p>I stället inväntas hon redan i tamburen af Gamla-Johanna, som synbarligen har något viktigt att meddela. Gumman tar med mycken ifver emot öfverplagget, sväljer gång på gång och kan omöjligt hålla sig stilla. Så hviskar hon:</p><pb n="174"/>
+<p>»Nu har han kommit! Men det är bäst, att låta honom sköta sig själf i kväll, fröken.»</p>
+<p>»Är han sjuk?»</p>
+<p>»Ingalunda ... hvad vet jag! Han packar in sina saker.»</p>
+<p>»Då har Johanna träffat honom?»</p>
+<p>Hon nickar – »Och hvad konsuln ville, det framförde jag riktigt.»</p>
+<p>»Hvad då?»</p>
+<p>»Konsuln sa: efter begrafningen ska den mannen ur gården, säg honom det!»</p>
+<p>Edit gör en ofrivillig rörelse af förbittring, tårarna stiga henne i ögonen och hon går hastigt in i sitt rum.</p>
+<p>Nästan snyftande kastar hon sig ned på en stol, gömmer ansiktet i händerna – nej, nej, nej, hon måste beherska sig! Agg får icke slå giftig rot i hennes hjärta. Ödmjukt och tacksamt upprepar hon sakta<pb n="175"/> för sig själf, att nu har han kommit, nu har han ändtligen kommit! Snart skall hvar rest af tvifvel försvinna, äfven den sista, och tanken på försakelsens börda bli mindre skrämmande; men sättet och stunden väljer Herren Gud allena. Hon tycker sig höra en ropandes röst, den kallar på henne ängsligt och bedjande, hon tycker sig se de tärda, lidande dragen. Och han, just han, som är starkare än de andra, fastän fattig och kroppsligt bruten, med ett barn, ett oskyldigt barn, att skydda – honom vilja de jaga ifrån sig som ett falskt, ett farligt djur!</p>
+<p>Hennes beslut är fattadt.</p>
+<p>Men då Kurt Hedelius icke infinner sig vid kvällsvarden, utan låter svara, såsom ofta förut, att han redan ätit, då sviker modet ånyo. Hållningen är icke längre densamma, icke så säker som nyss, kinderna<pb n="176"/> färgas af djup rodnad. Och dock – hon måste få tala med honom! Här gälla inga vanliga hänsyn, här är botgöringens väg tydligt utstakad, och själfförödmjukelse det första steget på den.</p>
+<p>Huru annorlunda har hon icke tänkt sig framtiden! Men det var öfvermod; sådant <hi>är</hi> icke lifvet, sådant vill Du icke hafva det, Herre Gud allsmäktig! Sanna och rätta äro Dina domar; Dina afsikter komma icke på skam.</p>
+<p>Klockan visar en kvart öfver tio. Bordet i matsalen är afdukadt, lampan släkt, och tjänarna ha tidigt dragit sig tillbaka, för morgondagens skull. Edit är ensam, åter ensam. Plötsligt lämnar hon sin soffa, stannar på tröskeln till tamburen och lyssnar, med hvar nerv i spänning – så ilar hon tyst uppför vindstrappan.</p>
+<p>En ljusspringa leder hennes steg öfver<pb n="177"/> de ojämna golfplankorna, och hon flyttar fötterna med rädd varsamhet, för att icke snafva. Hjärtklappningen har tilltagit, hon håller in andan, blott med värkligt våld på sin natur kan hon förmå sig att knacka på dörren.</p>
+<p>Intet svar.</p>
+<p>En ny knackning. – Gungstolen tystnar där inne, någonting tungt skjutes undan mot en vägg, hon hör en spröd klang af ett glas, som faller och går sönder, därpå ett retligt: »är någon där? Hvem söker mig?»</p>
+<p>Edit tiger.</p>
+<p>Än en gång och starkare: »Hvem söker mig?» – Då frågan icke häller nu besvaras, trefvar Kurt efter regelnyckeln och öppnar.</p>
+<p>Han böjer sig framåt, för att bättre kunna urskilja konturerna i mörkret, men<pb n="178"/> gör det förunderligt styft och långsamt, nästan som om han fruktade att förlora balansen. Ah!.. skall han väl tro sina egna sinnen? Javisst, naturligtvis ... han ser ju henne ... tankarna trängas i hans hjärna, innan de få tid att ordna sig, det förvirrande leendet bryter fram och skyler öfverraskningen, han kastar hufvudet bakåt, ovan vid att icke strax finna ord. Slutligen har han namnet på tungan, känner det som en söt, ljuflig smak –</p>
+<p>»Edit!.. Edit, hvilket är uttydt: den beskärda, den förlänade!» Och hastigt drar han henne in i sin kammare.</p>
+<p>Där blir hon stående, i början lutad mot dörrposten, med ena handen krampaktigt sluten om en stolkarm; skrällen af låset ljuder som ett doft hot bakom henne.</p>
+<p>Ljuset är stäldt på byrån, hvars alla lådor hänga ut, den öfversta halffyld med<pb n="179"/> tidningar. Det råder stor oreda i rummet, på golfvet ligga en väska och en sliten sälskinnskappsäck, i den några böcker och klädesplagg, mattorna hopgyttrade nära kakelugnen. Och i ett hörn af sängen sofver Abel, med knäna högt under hakan och täcket öfver öronen.</p>
+<p>Kurts första ingifvelse är att få flaskorna bort från bordet, en hel rad af ölflaskor – hans ögon spana lönligen efter ett gömställe. Men så ändrar han sig, finner det vara för sent och barnsligt, slår ut med armen i en stor, hopplös gest, som skall förklara altsammans, och låter sig tungt falla ned på en låg bänk vid sin sida. Tår efter tår rinner stilla utför kinderna, men det är icke gråt, och han gitter icke hålla dem tillbaka.</p>
+<p>Ännu en plågsam minut af slö liknöjdhet – omedelbart därpå blir ansiktsuttrycket<pb n="180"/> iakttagande som vanligt. Se, se ... hvad hon är vacker, Edit, hvad hon är vacker och sinligt retande, där hon står! Tänk, han har icke alls kommit ihåg henne i afton ... icke alls ... att hon är så vacker och förledande! Tafatt för han fingrarna genom sitt svettiga hår, i det han troskyldigt försäkrar:</p>
+<p>»Nej, nej ... ingalunda ... jag har ingenting att fördölja.»</p>
+<p>Edit blickar sig omkring, utan att fatta hans sinnesrörelse eller hans tårar, hon förstår dem helt enkelt icke, förstår icke sammanhanget, därtill är hon altför litet misstänksam, altför upptagen af striden i sitt eget inre. Men känslan af varmt deltagande stegras ofrivilligt inom henne, hon erfar ett rörande intryck af mannens armod och stora öfvergifvenhet, sällsamt blandadt med minnet af hans hemlighetsfulla makt.<pb n="181"/> Därför frågar hon, utan den minsta förebråelse i tonen, endast djupt allvarligt:</p>
+<p>»Har ni värkligen tänkt lämna mig?»</p>
+<p>Kurt Hedelius reser sig; från och med nu är han stämningen instinktlikt vuxen, tyckes det. I skenet af den fladdrande ljuslågan förråder honom intet i hans utseende, rösten blir alt klarare, medan han talar, allenast inbillningskraften är vild och oberäknelig.</p>
+<p>»Allsmäktige, evige Gud och helig Ande!.. Du, som lyft mig ur ett svart mörker för Ditt namns äras skull, hvarför stöter Du mig åter ifrån Dig, när frestelserna tränga mig hårdast uppå? Si, så hafver det varit i dag och i går och många dagar – hjälp mig! Sorgen är en blomma på hög stängel, dess kalk är fyld med ett farligt vin. Och dricker jag af det vinet till fördömelse, så sker det för min stora sjuklighets<pb n="182"/> skull, och för min synds skull och allas våra synders från far till son. Edit, Edit, Edit ... jag kallar på dig, du är mig en täckelig Herrans gåfva, hvarför skulle jag då öfvergifva dig? Heter det icke profetiskt: han sökte den säden, som af Gud tillsagd var? Och om jag sträcker mig fram emot dig, så är det för att kvarhålla tiden med mina händer, tvinga den att stanna. Ty mitt lifs flod är snarligen utrunnen, jag kan ibland känna Guds Andes närhet lägga dess starkaste vågor till ro. Men dem, som härintils stått mig emot, dem vill jag på sistone drifva därhän, att de skola komma och tillbedja för dina fötter och skola veta, att jag hafver älskat dig!»</p>
+<p>Och han utbryter våldsamt:</p>
+<p>»Si, min upprinnelse var såsom ett mörkt vatten, vildmarkens skuggor täkte mig, och skuggorna äro min förtids förvillelser<pb n="183"/>. Där växte fördärfliga blomster omkring mig, hatört och tvistefrö växte där. Mina lustar voro onda och roflystna djur, som nu äro utdöda, deras kroppar oformliga som bärg, deras svalg oformliga. Och släkte jag icke deras törst om natten, så grofvo de upp dyn ur djupet och gjorde hvar droppe oren inom mig. Tils Guds Ande sväfvade öfver vattnet och rymden vardt ljus. Då svälde mina ådror af nyvunnen kraft, jag steg öfver bräddarna och famnade jorden för himmelen. Och rann där en källa i närheten, en klar, lefvande källa, som ingen väg viste, så drog jag henne till min bädd; och min makt ökades, ty Herren gick framför mig mot hafvet. Si, jag är när dig, kvinna – de flöden, som kunna fylla ditt lif till välsignelse, de finnas i mig ... och i mig allena!»</p>
+<p>Edit har plötsligt rykt till – det nästan<pb n="184"/> skymmer för hennes blick och hon trycker sig tätt intill väggen. En svindlande rädsla förlamar henne. Det är som om allting i rummet med ens förändrades, krympte ihop, lefde, vidgade sig och förvandlades till ohyggliga djurhamnar med flämtande gap – foster af en upphetsad inbillning. Är hon, sig själf ovetande, i en annans våld, underkastad en främmande hjärnas inflytande, rof för en främmande mans lystnad, utan möjlighet till motstånd eller befrielse? – Ansträngande sin vilja till det yttersta, jagar hon hvar tanke ifrån sig, af fruktan för att den är henne ingifven, ingifven och fläckad af hans, hör icke sin egen stämma, icke sitt utrop af förfäran:</p>
+<p>»Hvem är du?.. hvad vill du?»</p>
+<p>Kurt andas häftigt; tilltalsordets omedvetna förtrolighet berusar honom. Han hviskar:</p><pb n="185"/>
+<p>»Säger icke Salomo: kom, låt oss gå ut på marken och vistas i landsbyarna! Och sätt mig såsom ett insegel på ditt hjärta och såsom ett insegel på din arm; ty kärleken är stark som döden. Edit, min syster, kära brud, låt mig taga dig på mitt knä och var icke altför mycket rättfärdig, ej häller altför vis, att du icke fördärfvar dig! Kan väl någon behålla eld i barmen, att hans sinnen icke brinna ...»</p>
+<p>Med ett minspel af obeherskad åtrå hukar han sig ned – i nästa sekund bränner hans mun mot hennes hals i en het sugning, och händerna trefva vid hennes bröst, men skälfva, så att han icke lyckas slita upp dräkten. Ur den oordnade sängen stirrar Abel på dem med vakna, vidöppna ögon.</p>
+<p>Edit kastar sig åt sidan, stöter upp dörren –</p><pb n="186"/>
+<p>Kurt ropar efter henne:</p>
+<p>»Nej, nej ... mig tyktes du bar en knif vid barmen ... jag ville dig intet ondt!»</p>
+<p>Hon flyr – flyr öfver vinden och nedför trapporna, flyr i ångest, halkar, griper tag i ledstången och glider på knä. Steg? Är hon förföljd? Nej ... alt är stilla och tyst omkring henne. Hon försöker att resa sig – då öfverväldigar henne vissheten, vissheten: ja, domen är fäld från begynnelsen, ödet sin fullbordan nära. Ohörd, utan att våga försvara sig, skall hon straffas till lifvet. Fläckad!.. fläckad i ord och handling, fläckad alt intill vämjelse i ett barns åsyn – – Jesus Kristus, Guds son, varkunna Dig öfver mig!</p>
+<p>I detsamma tycker hon sig se en hvit, framåtböjd gestalt träda emot sig ur mörkret.<pb n="187"/> Hon kväfver ett skri – är det den döda?.. hon, som i natt ligger lik i huset? Eller är det –</p>
+<p>»Agneta!.. jag kommer, Agneta!»</p>
+<p>Så förlorar hon medvetandet.</p> 
+<gap unit="graphic"/> <pb n="188"/> 
+<gap unit="graphic"/>
+
+</div>
+<div type="chapter">
+<head>10</head> 
+<p>»<hi>D</hi>et är så olika stäldt här i världen, så fasligt olika ... somliga hjärtan mjukna i pröfningen, andra inte» – den magra, lilla frun i svart bindmössa lutar sig bakåt i soffan och suckar; hon är trött efter den långvariga åkningen på förmiddagen. Begrafningskringlan och litet konfekt, som sparas för de hemmavarande, har hon på en stor, hopviken sjal bredvid sig.</p>
+<p>Dagern är tröstlöst mörk och dyster. Ute blidväder, plötsligt och oförberedt blidväder<pb n="189"/>, med jämnmulen himmel och takdropp. Nere på isen bilda sig ljusbruna fläckar af flödvatten långs stränderna, uppförsbacken därifrån och till gården är rinnande hal, gården en gråhvit snösörja, sönderskuren af medspår i alla riktningar, så att granriset skingrats eller sjunkit in. Kommerserådets smalsläde står ensam kvar framför trappan. Hästen hänger hufvudet och småsofver, medan den väntar, och mellan köket och vedlidret går lapphunden af och an, våt och olustig, utan att kunna besluta sig för någon liggplats. Genom träkronorna ett svagt drag af en tynande vind.</p>
+<p>Den magra, lilla frun i svart bindmössa makar pallen säkrare under fötterna. I morgon ska fattigfolket bespisas – folk, som frun kände i trakten ... herrejess, ja. Men fy, sånt väder! Och i all den vätan<pb n="190"/> traskade prostens Kurt till byn, skral och eländig, med pojken vid handen; nämdemans-Jutt var nyss efter sakerna.</p>
+<p>Gamla-Johannas ögon söka beständigt konsuln, som emellanåt blir synlig i förmaksdörren. Hon är rädd, riktigt rädd, det är hon; så underligt hård och skrämmande har hon aldrig sett honom förr. Men då hon i morse hade några frågor att göra honom, svarade han helt vänligt, fastän bara ett par ord. Det kan inte vara sorgen öfver moderns bortgång allenast, ånej – det är någonting annat tillika. Och ändå vet han inte, hvad som hände i natt ... hur fröken Edit var sjuk och ifrån sig, nästan omöjlig att lugna. Besynnerligt, att ingen annan i huset vaknade! Stackars fröken Edit! Hon bad så innerligt, innerligt, att konsuln inte skulle oroas. – Herre, Du min skapare, hvilken bedröfvelsens<pb n="191"/> tid att lefva i!.. trotjänarinnan samlar ihop glas och koppar från det hvitdukade bordet i matsalen.</p>
+<p>De få inbjudna gästerna ha rest, endast gamle Nils Waack sitter kvar i förmaket tillsammans med Edit och Robert Viding. Ur den mjuka, högkarmade hvilstolen betraktar han än den ena, än den andra af de två, likasom för att finna en ledtråd. Han undrar inom sig ... de må väl aldrig tro, att han är så lätt narrad – Edits utseende och hållning ge ju anledning till värkligt bekymmer. Har något allvarsamt passerat dem emellan? – Hela hans varelse är genomträngd af en välvilja, hans sätt af en grannlagenhet, som han själf benämner ålderdomstecken och nästan generar sig för att visa. Men det vore honom obeskrifligt kärt, det måste han erkänna, om han kunde förmå de sorgsna ansiktena<pb n="192"/> att klarna en smula, tankarna att rikta sig framåt, i stället för tillbaka. Och med märkliga, mycket märkliga försök att synas oberörd af den trykta stämningen, bjuder han på alt vis till att vara underhållande, letar och väljer bland sina många minnen, innan han berättar något, och anslår därvid en dämpad ton af enkel, okonstlad glädtighet.</p>
+<p>Nej, ingendera hör på honom med någon riktig uppmärksamhet.</p>
+<p>»Jag kommer ihåg en annan gång, Robert – vi hade för sed, far din och jag ... ja, han var inte gift då än, men på god väg att bli det, alldeles som ...»</p>
+<p>Nej, ingendera hör på honom med någon riktig uppmärksamhet. Då lämnar han fortsättningen och ser otåligt på klockan.</p>
+<p>»Just hvad jag gissade» – nickar han<pb n="193"/> – »det är tid för en gammal man att bege sig hem. Nej tack, jag stannar inte öfver natten. Men vi träffas snart. Och jag hoppas af hjärtat – ja, du vet hvad jag önskar och hoppas för er båda, Robert!»</p>
+<p>Denne vänder sig tigande om mot Edit. Det är tyst en lång, lång stund. Hon ändrar icke ställning, lyfter icke blicken.</p>
+<p>Viding rätar på sig och drar djupt efter andan; uttrycket i ögonen är kallt, nästan hånfullt.</p>
+<p>»Låt oss således» – säger han afgörande – »låt oss således inte mer vidröra det ämnet, onkel. Du förstår: aldrig!»</p>
+<p>Waack hostar och vrider halsen i den trånga kragen; två heta, rödflammiga fläckar brinna på kinderna.</p>
+<p>»Vi få kanske ... hm ... tala närmare på kontoret om måndag, Robert?»</p>
+<p>»Du menar i affärer?»</p><pb n="194"/>
+<p>»Ja, ja, det är sant ... naturligtvis ... i affärer.»</p>
+<p>»Tack!»</p>
+<p>Ett besväradt afsked i största hast; Viding följer till tamburen.</p>
+<p>När han ånyo inträder i förmaket, frågar han med egendomligt torr, främmande stämma:</p>
+<p>»Nå – hvad har du beslutit för den närmaste framtiden, Edit?»</p>
+<p>Hon endast sänker hufvudet, läpparna äro hårdt slutna.</p>
+<p>»Det är inte af vanlig nyfikenhet jag frågar. Du tror väl mina ord?»</p>
+<p>»Ja.» Efter ett kort uppehåll: »Min syster har väntat mig länge, länge ... väntat förgäfves.»</p>
+<p>»Och violinen? Är den glömd? Eller återvänder du till ... hit till ... ja, hvad vill du jag ska kalla honom?»</p><pb n="195"/>
+<p>Hon svarar icke.</p>
+<p>»Jag antar nämligen, att du numera äger den fasta, lefvande visshet, som jag inte haft att ge dig – och då är du sannerligen mycket afundsvärd. Det gäller ju framför alt att tro någonting, likgiltigt hvad ... en lögn eller annat. Däri ligger styrkan. Men segrat har han inte, förstår du; det är bara jag, som förlorat. Och han är i stånd till alt!.. jag vet det sen förr, du behöfver ingenting säga. I ditt sinne tar jag aldrig arf efter den mannen.»</p>
+<p>Icke häller nu svarar hon. Då för han handen öfver pannan och yttrar hastigt:</p>
+<p>»Förlåt hvad jag sagt!.. om det gör dig ondt?»</p>
+<p>Och efter en stund:</p>
+<p>»På hvad tänker du, Edit?»</p>
+<p>Hon blickar skygt upp från sidan.</p>
+<p>»Jag tänker på dig, Robert.»</p><pb n="196"/>
+<p>»På mig!»</p>
+<p>»Ja.»</p>
+<p>»Hvarför det? Bry dig inte om mig!» Han tvekar. »Men om jag någon gång i mitt ... mitt hvardagslif kan vara dig till hjälp, så mins, att du öfvar barmhertighet genom att låta mig veta det.»</p>
+<p>Och han tillägger sakta:</p>
+<p>»Så är då den sagan slut, Edit.»</p>
+<p>Hon reser sig långsamt från sin undanskymda plats – hviskar, med händerna hopknäpta:</p>
+<p>»Ja, ja, ja – det är domen. Herren välsigne dig och bevare dig! Herren upplyse sitt ansikte öfver dig och vare dig nådig! Herren vände sitt ansikte till dig och gifve dig en evig frid!»</p> 
+<gap unit="graphic"/> 
+</div>
+</body>
+</text>
+</TEI>
