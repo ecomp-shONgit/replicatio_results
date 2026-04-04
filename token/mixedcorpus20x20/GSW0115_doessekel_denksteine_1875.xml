@@ -1,0 +1,2004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GSW0115" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Denksteine und Wegweiser: ELTeC Ausgabe</title>
+        <author ref="viaf:34816990 wikidata:Q55133094">Dössekel, Eduard (1810-1890)</author>
+        <respStmt>
+          <resp>ELTeC conversion</resp>
+          <name>Automatic Script</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="pages">158</measure>
+        <measure unit="words">22469</measure>
+      </extent>
+      <publicationStmt>
+        <p><date>2021-12-14</date></p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <respStmt>
+            <resp>Transcription</resp>
+            <name>UB Basel</name>
+          </respStmt></bibl>
+        <bibl type="digitalSource">
+          <respStmt>
+            <resp>Scan</resp>
+            <name>UB Basel</name>
+          </respStmt></bibl>
+        <bibl type="firstEdition">
+          <title>Denksteine und Wegweiser</title>
+          <author>Dössekel, Eduard</author>
+          <publisher>Kommissions-Verlag von J.J. Christen</publisher>
+          <pubPlace>Aarau</pubPlace>
+          <date>1875</date>
+          <!-- this title has been retrodigitised as part of the project “High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century”  -->
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc n="eltec-0">
+      <p>The text was transcribed from the transcription from UB Basel, which is based on the 1875
+        edition. The page breaks, chapter divisions and chapters were taken from scan from UB Basel,
+        which is based on the 1875 edition.</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">German</language>
+      </langUsage>
+      <textDesc>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+      </textDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2023-03-09">Ines Bracht added TEI Header and removed noise.The Scan is used only
+        to insert page beginnings, paragraphs, chapters and heads.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="chapter">
+        <p>#31, GAD Katalog <pb/> Voywork a </p>
+        <p>„ So weit ih zurüddenkfe, waren mir Bücher bie beiten Freunde, jie waren mir Trojt im
+          Un:glü und SGejelljchaft in der Cinfamfkeit, erfebten mir in der Dürftigkeit den
+          Reichthum, in der Verbannung das Vaterland, bewahrten mir in:mitten politijdher Stürme die
+          Heiterfeit des Ge:müths, Weder Vermögen, noch Macht, noch Rang mürde id taufcdhen für den
+          Genuß, den mir meine Bücher dadır$ gewähren, daß fie mir den Uınz gang jidhern mit den
+          qrößten Genien entjhwunz dener Jahrhunderte, mir leuchten auf der Bahn zum Wahren und
+          Schönen und mir daz Vorrecht geben, zu verkehren mit dem Fernen und Unficht-baren, mit dem
+          Vergangenen und Zufünftigen.“</p>
+        <p>Dieje Worte des englijchen Seldhichtjhreiber8 Macauleny habe ih vor vielen Xahren in
+          meine <pb/>Auszüge eingetragen, weil fie eine Anerkennung au8jprehen, die au th von je
+          tief empfunden habe. "8 freut un8 doppelt, wenn ein berühmter Mann, mit dem mir uns in
+          feiner Weije ver:gleichen dürfen, einen Gedanken ausfpricht, Der fi in unfjerm eignen
+          Innern ebenfallzZ erzeugt hat, denn diejer AuzZfjpruch erhält dadurch Die Weihe der
+          Autorität. Die Annahme wird wohl auch Feine verfehlte fein, daß Der angeführten Stelle
+          noch Viele auZ eigener Erfahrung von Her:zen beiftimmen.</p>
+        <p>Diefen finnvermandten Bücherfreunden biete id meinen Gruß indem ich Ihnen eine
+          Blüthenlefe meiner vieljährigen Lectüre darbringe.</p>
+        <p>Eine vormiegend contemplative Natur, genährt von einer Kugend, in der mich Keinerlei
+          Sunft anläcelte, gequält von einem Sehnen und Ringen,das ih mit den äußern Verhältniffen
+          nie in Ein AMang zu bringen vermochte, führte mid zu jenen Freunden, deren Zuverläffigfeit
+          unvergänglich if.XS ergab mich der Lectüre, ohne Midhtung auf SelehHrtheit; e&amp; war mir
+          darum zu hun, das mir von der Natur BVerliehene auszuweiten, meinen VBerftand aufzuklären,
+          meine Urtheilsfraft zu Iben,meine Empfindungen und Gefühle zu reinigen, den <pb/>Bulsihlag
+          meines Herzenz warm zu Halten und den Dlik nah dem Höhern nie verdunkeln zu fajfen. Traf
+          ich bei meiner jeweiligen Lectüre auf Stellen, bie einen befondern Eindruck auf mid
+          machten, fo jtridh ih diejelben an, trug fie in mein Heft ein und fo entftand im Lauf der
+          Yahre all-mülig eine größere Sammlung, ganz ohne äußern Bed, ledigliH nur mir felbit
+          Denkiteine des in:nern Lebens zu feben. Die ausgezogenen Stellen jiteben alle meijt in
+          Beziehung zu meinen perjön-(figen Zujtänden. Bald fand ich einen Gedanken in Klarheit
+          ausgefprocdhen, der in meinem Kopfe wohl werdeluftig vorhanden, aber noch nicht
+          heran-gereift mar, bald {Höpfte ich in gedrücter Stim:mung Troft und Aufrihtung, und
+          SiegeSgefühl,bald trat eine Stelle mit gehobenem Hinger war-nend vor mich, und wieder fanı
+          gerade zur rechten Stunde ein Bud mir in die Hand, mir an irgend einem Scheidberveg den
+          richtigen Weg zu weijen ber freilid nicht immer eingejöÖlagen wurde. So hat fidj bet mir
+          ein ganz eigenthümlidher Glaube gebildet, daß eine liebende, marnende, Itrafende
+          VBorfehung audy in der Zuführung der Bücher walte; mir fam e8 zuweilen vor, als fönnte id
+          die aus den Wolfen Hängende Schrift mit Teiblichen <pb/>Mugen lejen, als JHölle der Ruf
+          der Borfehung vernehmlih an mein irdijhes Dhr. So hat diefe Sammlung allerdingS das
+          nächite Interejfe nur für den Herausgeber, aber e8 darf angenom-men werden, e&amp; werde
+          eine Berlenfhnur fhöner Stellen von bevorzugten Geijtern aud Andern willfommen fein.</p>
+        <p>Man kann freilig und nicht ohne Grund gegen folde Sammlungen einwenden, daß fie nur Zerz
+          ftückeltes geben, doch dürften. fie au einen Vor:zug Haben, Man Ht nicht immer hei Zeit
+          und Stimmung, ein ganzes Buch zu lefen und den geiftigen Erirag Daraus einzuheimfen; Doch
+          einen guten Auzfjpruch voll innerer Wahrheit und Schön:heit begrüßt man jeder Zeit. Sin
+          folder Uu8-fpruch Kann feinen Segen auf den ganzen Zag,auf die ganze Woche eines Menjchen
+          legen, ja zuweilen für da3 ganze Leben von durchflagender Wirkung fein. S3 fet hier alS
+          Beleg eine Stelle aus S. H. Lewes, dem. berühmten enalijchen Bio-graphen Goethes
+          angeführt: „Sin Studium kann fehr unjyftematijh und doch fehr fruchtbringend fein, eine
+          einzige Wendung kann befruchten, wenn fie auf den rechten Boden fällt, Gemwiz Hat jeder e8
+          an fih felber erlebt, daß ein Gedanke, der ihm <pb/>vereinzelt ganz zufällig aufgeftoßen,
+          den dauerndften Sinffuß auf feinen Geiit gelbt Hat, Für mich perfönlich ijt die zufällige
+          Anführung eines Satzes aus Spinoza ein Ereigniß gewefjen und bis auf den heutigen Tag
+          erinnere ih) mich der Stelle, wo ih Hn a8 und der förmlihen Revolution, die er in meinen
+          Gedanken heroorbrachte.“ € genüge diefes Citat, der Herausgabe diefer Sammlung das Wort zu
+          reden. IH Habe mich. gefragt, ob nicht eine Dislokation der nach und nach entitanz denen
+          Eintragungen vorzunehmen und diefelbe in gewiffe Kathegorien, 3. B. Religiöles,
+          Cthijhes,Üithetijches, VPäbagogijches u. |. mw. einzutheilen jet;aber ih bin davon
+          abgegangen, weil id davon feinen befondern Gewinn für den Lefer erjehen fonnte, und ih von
+          der Reihenfolge der Eintra-gungen nicht abgehen mochte,</p>
+        <p>@&amp;8 hat übrigen3 diefe Herausgabe zunächft zum 3wed, den bekannten Freunden eine Gabe
+          des Dankes für treue Anhänglichteit darzureidhen, den unbekannten Freunden aber ein Signal
+          des Das jeinS zu entfenden. Den unbekannten Freunden ?Wer find die? SE begegnet nicht
+          felten Menfchen,weldhe ihre Fühler fuchend und tajtend nach Jfinnz vermandten NMaturen
+          ausrecden, daß fie in einer <pb/>Ungebung eben müffen, die dem nicht entjpricht,welfen ihr
+          bedürftige Gemüth verlangt, daß fie,was daz innere Leben betrifft, Diefer Umgebung jo zu
+          fagen fremd bleiben, mährend in der großen Weite. der Welt Biele Iebhen, die auf gleiche
+          Weile da3 Kdeal ihres Herzenz juchen, ES genügte eine Stunde Zufammentreffen8, um, ohne
+          zurücgelegte gemeinjame Vergangenheit, ohne Proben und Brüfungen, mit ihnen einen
+          unverbrüchlichen Freundfhaftsbund zu {hHließen, meil Die gegen:jeitige Nebereinftimmung
+          auf einem Naturgefeß beruht, meil ein gemeinjames Ziel alle Uusfirah-Tungen des SGeijtes
+          und Gemüths in einen Brenn-punkt zufanunenzieht und einigt. Sin langes Leben fann
+          Sahinfließen, wir bekommen Dieje finwvers wandten Naturen nie zu SGejicht, wir haben nidt
+          einmal eine Mbnung von ihrer Erijtenz. AYoer gleichwohl bilden diefe GeifteSgenoffen eine
+          unjicht-bare Gemeinde. Ein fhöner Gedanke, eine edle That, ein rührendes Schicffal berührt
+          telegraphitd ihre Seelen bis über den fernften Dcean. Die Senoffen diefer unfidhtbaren
+          Gemeinde find .e3, die gemeint jind, wenn ih von unbekannten Freunden Ipredhe.</p>
+        <p>Sb diefe Sammlung von einem alınftiagen <pb/>Winde getragen in. die Gärten folcher
+          Freunde gelange, muß ih höherer Hührung anheinıftellen,</p>
+        <p>3 Anhang habe ich mir dann erlaubt, einen Nachtrag von Sedanken und Betrachtungen aus dem
+          Eigenen anzureihen.</p>
+        <p>Seon, im Xuli 1875,</p>
+        <p>&amp;d. Dößekel. <pb/> Das Tängere Leben bringt überhaupt dahin, das Himmelreich
+          Feinesweg3 in einer einzelnen Handlung,ginem Befehlufje, einem Ereignijfje zu Juchen;
+          fondern e8 mo nit nach dem Tode zu erwarten, e8 doch in diefer Beitlichfeit au3 gar vielen
+          VBerhältnifjen, Zwe:den, Thätigkeiten u. f. w. zufammenzufeben und aufs
+          suerbauen.1.Daumer.</p>
+        <p>Immer hat die tiefer liegende Wahrheit das Wort gewebe gegen fih; e8 {ft der Inftinkk des
+          Buchfta:ben, die Vernunft unter fihH zu bringen.SJakoßi.</p>
+        <p>Wahrhaft über fi felbjt erhebt den MenfdhHen nur fein Herz, welches das eigentlide
+          Vermögen der dee, der nicht leeren, ift,<pb n="19"/>Lieben Fann man einen in der erften
+          Stunde;aber eine8 Freund werden, das ift eine andere Sache,Da muß MenfhH mit Menfch in
+          dringenden Ange:fegenheiten oft und lang verwidelt werden, der Eine am Andern vielfältig
+          fi erproben, Denkungsart und Handlungsweife zu einem unauflöslidgen Semwebe fich in
+          einander fhlingen, und jene Anhänglichkeit an den ganzen Menfchen entftehen, die nach
+          nichts mehr fragt, und von fid nicht weiß, mweber woher noch wohin Liebe, die fih nicht
+          ewig weiß und ewig erwiedert, das ift Keine Liebe, das ift blos Ergöbung,Blumenfreude,
+          Tanz und Spiel. -</p>
+        <p>Wir nennen eine Seele fhön und jHöner, wenn fie Veit und Leiter durch die Hülle dringt,
+          überall Seele offenbar macht; fo empfangen wir von dem beffern Menfhen, ohne zu wijjen
+          wie, den Saamen feiner Nehnlichkeit; er ftrahlt ung fein Bild ins SemüthH und wir lernen,
+          wie man fig felbft im AUnfdhauen eines Andern verliert, lernen Freund:ihaft, Neligion,
+          Patriotizmus, jede Tugend, alle Wahrheit.“</p>
+        <p>Wenige Menfchen wifjen, was daz für eine Stille und Stetigkeit in die Seele bringt, wenn
+          man vor allen andern die eigentliden Gefühle des Herzens zu Ihärfen und fie empor zu
+          bringen weiß: wie fehr <pb/>1,bass alles fchon Heitert, wenn Fräftigere Megungen den
+          Meutereien der Eitelkeit ein Ende madhen und man nur anfängt in fig einen Mittelpunkt zu
+          finz den, bei weldem Stand zu halten ift.Jaßobi.</p>
+        <p>Das Eine erkannte ih, daß fo lange meine Seele dh mit höhern Gedanken befhäftigte, fie fo
+          lange wenigften3 jene niedern Neigungen gar nicht auf:fommen ließ, jondern ernftlih uur an
+          dem neuen Bebensplane hing, und gerade bie gereichte mir zu großem Trofte, Denn id erjah
+          daraus, daß jene Uebel doch nicht fo befhaffen feien,. daß. fein Mittel dagegen wäre. Und
+          obgleid anfangs diefe Hellen 3wifjdgenräume felten waren und nur Kurze Zeit dauerten, fo
+          Famen fie doch, fo wie iQ das wahre Sut mehr und mehr Fennen lernte, Häufiger und hielten
+          länger an, befonders feit ih einfah, daß der Erwerb des Geldes, daz Streben nad finnlidher
+          nit und die Chrbegierde fo Tange fhädlih feien, als man bie Objekte nicht als Mittel,
+          -fondern als Zwed behandle.Sy'no20.<pb/>Auf die Frage, mwelde Staataverfaflung er für die
+          Hefte Halte, ermiderte Sarillus: Diejenige, in weldjer die meiften mit einander als Bürger
+          in der Tugend wetteifern, ohne Barteifucht, -</p>
+        <p>Wir Haben im Parzival und Triftan unfere da:malige Kunft auf ihrer Höchften Höhe gefehen.
+          Die Nation und ihre Digtung ft aus dem Zuftande des GSemeingefühl8 und der Unbewußtheit
+          hHerausgetreten,dies febte an die Stelle des Charakter des alten Volksepos einen geradezu
+          entgegenftehenden. Statt daß früher die Menfchen ihre moralifhen Sefinnun:gen wie ihre
+          poetifhen Productionen ohne Befragung des Berftandes nach dem bloßen. Triebe der Natur
+          heaten und pflegten, fo lernen fie fih jebt erfennen und vergleihen und fhaffen fi
+          SGrundläße und Regeln. Allein bei dem erften Verlafjen der Natur und dem Uebergange zur
+          Bildung, bei der Kluft der frühern Stärke des Inftinkts und dem Auffuchen von Brincipien
+          geräth der Men immer auf Wbmwege,traut auf die Eingebungen des einfeitig, erft tHätig
+          werdenden Verftandes und verläßt die Einfachheit der natürligen Empfindung, bis erft
+          almälig und fpät fi@ die neu aufgehende Erfenntniß fo ausbildet und <pb/>x erweitert, daß
+          fie fi mit der urfprüngliden Natur und Einfalt wieder ausgleicht oder zu ihr
+          zurückfehrt.OGerviuus.</p>
+        <p>Uebermaaß des Senuffes umpft ab, und was fanın ber Weltling, der nie Begriffe von wahrer
+          Sreundfhaft und Häuslidem Glück, vom Vergnügen der Zurücgezogenheit in die Stile der Natur
+          und den Sefhäften des Aıntes für fein Vaterland, oder unter Büchern, und am allerwenigften
+          Begriffe von der Hohen Wohlluft, feine Begriffe zu berichtigen haben fann, mwa8 Kann er
+          anders empfinden als Rangeweile.Weder Democrit.</p>
+        <p>Che der DidHter c&amp; unternimmt, die Vortrefflihen ju rühren, foll er e8 zu feinem
+          erften und wichfigften SefHäft machen, feine Individualität felbft zur rein:ten und
+          vortrefflihften Menfchheit Hinaufzuläutern.</p>
+        <p>Schiller.</p>
+        <p>Die Wahrheit offenbart fiH nidgt im Sturm 100 Teuer, nod) Erdbeben, fondern ein fanftes
+          Säufeln ift ihre Stimme,</p>
+        <p>Hamann.<pb/>x Wüßte ih docH ein Mittel, Shnen ein recht wah-ve Bild von mir zu geben!
+          Weil ich fajt immer mit Affert Handle und rede, fo Handle und rede ich darum nit immer aus
+          Affekt. Die Menge tiefer Leiden hat mein Inneres zu einer eigenen Art von Unterthänigkeit
+          zeıfniriht. . Nicht daß iQ mir Ge:fühle geben und nehmen, fie nach eigener Willführ
+          [Hmwächen oder verftärfen Konnte, fondern mir it mur eine Fähigkeit und Fertigkeit
+          geworden, gewifjermaßen feine Notiz von ihnen zu nehmen, und ihnen zuzu:fehen, al8 wenn
+          fie nit zu mir gehörten. Was für fonderbare Contrafte diefes ermorbene Phlegma (wovon au
+          fon der Keim in einem angegebenen Tieffinne lag) mit meinem Feuer, wovon ich nodh nicht
+          das mindefte verloren Habe, machen muß, und ihr gegenfeitiges. Spiel mit einander, fönnen
+          fie un:gefähr fi vorftellen. Mit lauten, braufenden, un:ruhigen Menfhen mit auffahrenden
+          (eS jet in Begierde oder Ab{hHeu, Liebe oder Haß) fann iM ohne Neberwindung nit umgehen.
+          Verfhlofjene Menidhen fanın ih nicht Lieben, weil ih felbft im Hödhften Srade offenherzig
+          bin. Unter allen Affekten bin id zur Rachfucht am mwenigjten und zum Unwilen am mehrften
+          geneigt. Aber geneigt ift nidht das rechte Wort, fondern Unwille und Eeel Ht das3, was id
+          <pb/>A7 am ftärfiten, und Nacdhlucht, was ih am IHwächften empfinde. Uebrigen3 bin ih
+          durdhHanus fo befchaffen,daß id von dem Schönen und Guten weit mehr als von dem Häßlidhen
+          und Böjen gerührt werde, folg-li aud jenes mehr fuche al8 diefem aus dem Wege gehe. Doch
+          fange‘ ih an, von diefer Seite einige Veränderung zu fpüren, die id dem Herannahenden
+          Alter zufhreibe. Indeß ift mir alles Calcul in et:wa3 wichtigen Dingen, noch ‚immer ebenfo
+          zuwider und wird e8 mahrfheinlidh bis an das Ende meines Lebdenz hleiben. So viel für
+          diefes mal, von mei:nem natürlidgen Menfdhen.SZacobi an Hamanı.</p>
+        <p>Zumweilen, wenn er von feinen Freunden und von Hreundfhaft, Liebe oder irgend einer
+          andern edlern Empfindung des HerzenZ fprach, Fonnten feine Aus:drücke Zweifel über feine
+          Grundfäge und den Edel:finn feines Gemüths erregen. Das Gefühl des Augenblids gab ihm die
+          Worte ein, und dazıı kam noch, daß er gern. die Molle des Sonderling3 zu:weilen aud) wohl
+          noch eine fHlimmere vorzüglich gegen diejenigen jpielte, die er in Verdacht Hatte,daß fie
+          e8 darauf anlegten, Entdefungen über feinen wahren Charakter zu maden; aber nur
+          untergeord-9)<pb/>iQ nete Seelen und oberflächlide Beobachter Fonnten fich in feiner
+          Beurtheilung täufhen. Man mußte noth:wendig feine Handlungen beobachten, um den
+          Wider:iprudy zwifgen ihnen und feinen Worten zu bemerken;man mußte Zeuge gemwiffer
+          Augenblide bei ihm fein,in melden ihn eine unvorhergefehene und unwillfür:lie Aufwallung
+          nöthigte, fi ganz feinen Gefühlen hinzugeben; und wer ihr da ins Auge faßte, über:zeugte
+          fiG von dem Schabe reicher Empfindung nnd inniger Herzensgüte, die in feiner großen Seele
+          lag,Bemerkungen einer Fran über Yuron,</p>
+        <p>Ein edler Sinn für Gerechtigkeit, ein freier und offener Charakter verpflichtet, dreift
+          diejenigen zurüd-zumeifen, melche übertriebene Forderungen machen.</p>
+        <p>Ein heilig Feuer, das in div, ruht,Schlag aus in lidhte hohe Sluth,Doch daß das Leben,
+          das dich treibt,Immer bei Holden Kräften bleibt;Hab ih deinem innern Wefen Nahrung und
+          Balfam auserlefen,Daß deine Seel fei wonnereich </p>
+        <p>Einer. Knofpe im Thaue aleich.<pb n="19"/>Da zeigt fie ihm Hinter feinem Haus Heimlich
+          zur Hinterthür hinaus,In dem engumzäunten Sarten Ein hHoldes Mägdlein fikend warten Am
+          Bächlein beim Holunderftraudh;Mit abgefenkten Haupt und Aug,Sigt unter einem Apfelbaum.Und
+          fpürt die Welt ringsum fiH kaum,Hat Rofen in ihren Schooß gepflückt Und bindet ein
+          Kränzlein fehr gefdhickt,Mit Hellen Knofpen und Blättern drein:Für wen mag wohl das
+          Kränzel fein?So fibt fie in fi@ felbft geneigt,In Hoffnungsfülle ihr Bufen fteigt,Ihr
+          Wefen ift fo aHnevoll,Weiß nicht was fie fi® wünfghen fol,Und unter vieler Grillen Lauf
+          Steigt wohl einmal ein Seufzer auf.Warum ift deine Stirn fo trüb!Das was dich dränget,
+          füße Lieb,Iit volle Wonn und Seligkeit ,Die dir in Einem ift bereit,Der mandes Schicfal
+          wirrevoll In deinem Auge fih lindern fol,<pb/>x8 Der durg mand wonnigliden Kuß </p>
+        <p>Wiedergeboren werden muß,</p>
+        <p>Wie er den IHlanken Leib umfaßt,</p>
+        <p>Bon aller Mühe findet Raft,</p>
+        <p>Wie er in8 Hiebe Ärmlein finkt,</p>
+        <p>Neue LebenStag und Kräfte trinkt,</p>
+        <p>Und dir Kehrt neues Lebenzglück,</p>
+        <p>Deine Schalkheit Fehret dir zurüg.</p>
+        <p>Mit Keen und mandhen Schelmereien </p>
+        <p>Wirft ihn bald nagen, bald erfreuen,</p>
+        <p>So wird die Liebe nimmer alt </p>
+        <p>Und wird der Diyter nimmer Kalt,Auf Hans Sadis aus ©öfhe.</p>
+        <p>Denn jeder Menfch hat angeborne Schwäden,Die Gnade nur, nicht Kraft kann
+          überwinden.Shakespeare.</p>
+        <p>Nie fann der Menfch, wie viel er auch vollende,Wie Kühn er fei, fih zeigen al8 ein Ganzes
+          Und was er ausführt, gleicht e&amp; nicht am Ende Berftreuten Blumen eines großen
+            Kranzes,Xfaten.<pb n="74"/>Der Menidh vermag Manches durch zwedmößigen Sebrauch
+          einzelner Kräfte, Außerordentliches durch Verbindung mehrerer Fähigkeiten, das Einzige und
+          Unermartete dur Vereinigung fämmtlicher Cigen-Ichaften.Soefhe.</p>
+        <p>Diefer fHöne Begriff von Macht und Schranken,von Willkühr und Sefeb, von Treiheit und
+          Maß,von beweglidjer Ordnung, Vorzug und Mangel, er-Freue dich hoch: die Heilige Mufe
+          bringt Harmonifch ihıt dir, mit fanftem Zwange belehrend.</p>
+        <p>Keinen Höhern Begriff erringt der fittlige Den-ver, feinen ber thätige Mann, der
+          dichtende Künftlerz der Herricher, der verdient e8 zu fein; erfreut nur durch ihn fih der
+          Krone. Freu? dich, hHöcdhftes Se:Iöpf der Natur, du fühleft dich fühig, ihr den höchiten
+          Gedanken, zu dem’ fie fhaffend fi aufs idwang, nachzudenken.Soefhe.</p>
+        <p>Diefe Begierde, die Pyramide meines Dafeins,deren Bafis mir angegeben und gegründet ift,
+          fo hoch als möglich in die Luft zu fpiken, überwiegt alles andere und läßt Kaum
+          augenbliclihes BVergeffen zu.</p>
+        <p>Goethe.<pb/>DD Die Natur treibt im Menfhen die verfhiedenen Zweige. feiner Entwicklung in
+          pertobifcher Folge; fie (äßt Religion, Kunft, die praktifchen Thätigkeiten aller Art und
+          die Philofophie nad einander wachfen.Sie will aber nicht, daß ein Zweig um den andern
+          abdürre. Wenn fie den einen jemweilen begünftigt, fo grünt der andere weiter und e8 wird
+          dem ganzen Baume des Lebens daz SGedeihlichfte fein, wenn neben dem von der Vahreszeit
+          geförderten Schoffe die zu-rücßgedrängten weder unzeitig wetteifernd nachtreiben,noch auch
+          der Saft ihnen ganz entzogen wird.</p>
+        <p>OGervinus.Mühfam und wirklich oft wider allen Dank muß ich eine Laune, eine dichterifche
+          Stimmung hervor:arbeiten, die mich in zehn Minuten bei einem gut denkenden Freunde felbjt
+          anwmandelt, oft auch bei zinem vortreffligen Buche, oder cinem offnen Him-mel. € Igheint,
+          Gedanken laffen fi nur durch Se:danken Locfen und unfere Seiftesfraft miüfje. wie die
+          Saiten eines Inftrument8 durch Seifter- gefpielt wer:den. Wie groß muß aljo das
+          Original-Genie fein,das weder in feinem HimmelsftriH und Erdreich,noch in feinem
+          gefellfehaftlidhen Kreis Aufmunterung findet und auZ der Barbarei felbft
+          hHervorfpringt.</p>
+        <p>Schiller in Mannheim.<pb/>Fi.Dem Slükligen kann e&amp; an nichts gebrechen,</p>
+        <p>Der dies SGefhenk mit ftiller Seele nimmt;</p>
+        <p>Aus Morgenduft gewebt und Sonnenklarheit </p>
+        <p>Der Didgtung Schleier auS der Hand der Wahrheit.Goethe.</p>
+        <p>Wir wifjen alle, daß unfern Zeiten. mit Recht der Borwmurf gemacht wird, daß nicht wie in
+          den alten und ältejten Zeiten unfere Weisheit im Leben ausgedrückt wird und von Sitten
+          ausgehend auf die Sitten zurüdfehrt. Sie wohnt bei unz mehr im Kopf als im Herzen und Hat
+          meijtenz mehr unfer Sedächtniß bereichert al unfere Denkart und Sin:neSart gebildet. - Die
+          unermeßlihe‘ Lururie in den Wiflenfhaften, ihre faft unabfehbare Vermehrung hat un8 zu
+          Sclaven des Wiffens gemacht, oft ohne alle Selbitbildbung; mie mande Iugendfeele ging im
+          rl:gerifchen Ocean der Vielwijjenheit, der ANgelehrfam:leit, an einer Sceylla, bei einer
+          Carybde oder auf glatter Woge unter. Herder.</p>
+        <p>Nicht das Was allein, fondern audH das Wie entidheidet über den Werth der Handlungen; der
+          Han:delnde Menfch Hängt wie der Arzt und der Neuerer von Umftänden und nicht blos von fi
+          fTelbit ab;<pb/>DA wie die Bolitik fo ift au die Moral eine Materie,die fo fehr in
+          Verhältnifle, Lebensbedingungen und Beweggründe verwickelt ift, daß €S unmöglich wird,fie
+          in allentfheidende Srundfäße zu bringen und daß in den manigfaltigen Collifionen der
+          Pflihten das Abmwägen zwifhen Menfh und Menfch, zwijghen Sf:fentlidjer und Privatpfliht,
+          zwifgen FJall und Fall unumgänglich wird.Gerpinus.</p>
+        <p>Aufmand des Seift8 in [HmählidHer Berfhwendung ift Quft in Thatz und eh fie That geworden
+          ijt Luft meineidig , treulo3, voll Verblendung mild, blutig, wüft und roh, bereit zum
+          Morden.Senofjen kaum, wird fie verfmäht fogleich finnlo8 erftrebt, und wieder, kaum
+          gehafht,finnlos gehaßt; dem tückifjhen Köder gleich,Der den toll madhen fol, der ihn
+          benafcht,Toll in Begehren, im Befigß zumal;ihr Seftern wüft, ihr Morgen und ihr Heute,im
+          Koften Wonne, und gefoftet Qual,im Ausgang Trug, nur in der Ausfiht Freude.</p>
+        <p>AM dieß weiß alle Welt; dohH Keiner meidet </p>
+        <p>Den Himmel, der zu diefer Hölle leitet.Shakespeare.<pb/>)R Ich thät e8 gern, doch ift
+          fein eigner Feind Der edle Mann, dem Ieder edel {heint.Shakespeare Timon.</p>
+        <p>Und weiter fommt bei SGroßmuth nichts heraus,Wer Geld nicht hüten kann, der Hüte
+          8'Haus.Derfelbe.</p>
+        <p>Rohe Schulen,Nachjingt der Staar, was nur er Hört,Doch wie zufammen e8 gehört,</p>
+        <p>Hat er noch nicht begriffen.</p>
+        <p>Und durcheinander freuz und quer </p>
+        <p>Wird alles nadhgepfiffen.</p>
+        <p>Aus vielen Weifen bringt er her </p>
+        <p>Die lieblihiten der Stellen,</p>
+        <p>Und mitten drin beginnet er </p>
+        <p>Zu grunzen und zu hellen.3 rößlich.</p>
+        <p>Das Studiren, was man nidHt liebt, Heißt mit dem Erfel, der Langeweile und dem Ueberdruß
+          käm:pfen, um ein Gut zu erhalten, das man nicht be:ehrt; das Heißt, die Kräfte, die fiH zu
+          etwas anz <pb/>If derm gefhaffen fühlen, umfonft an eine Sache ver:jhwenden, wo man nicht
+          weit kommt und fie den Sachen ‚entziehen, in denen man Fortgang machen würde. AWber eben
+          dadurch verdienft du dir Brod. Dies ift der elende Einwurf, der dagegen gemacht werden
+          kann. IH wüßte Feine Sache in der Welt,durch die man fiG nicht Brod erwerben Könnte. Auch
+          weiß ich nicht, ob id in dem mein Brod erwerben werde, wozu id Feine Kräfte fühle, Feine
+          Luft em pfinde und in weldem ich alfo unmöglich Fortgänge machen fann, oder in dem, in
+          mweldem mein Ver:gnügen mid anfpornt, meine Kräfte mir forthelfen.Dean Yanl.</p>
+        <p>Ohne Anfang fein’ Bollbringen;Ohne Mühe kein Semwinnuft,Ohne Sorgfalt fein Selingen;Ohne
+          Segen Fein Verdienft.So wie Mofes, kaum geboren,</p>
+        <p>Semiffem Tode beftimmt,</p>
+        <p>Wunderbar ward gerettet |</p>
+        <p>So mander, IHon Halb verloren,</p>
+        <p>Da der Feind eindrang, ergrimmt,</p>
+        <p>Ward wieder froh und glücklich gebettet.Siröhlid.<pb/>a </p>
+        <p>Sie wundern fihH, daß eine Licbe zur DBelHäfti-zung mit Empfindungen, eine Milde und
+          Zartheit in denfelben, ein Eingehen in fremde Gemüthsftim:mungen, mir unter vielen und
+          abziehenden Sejhäften geblieben ift. Das kommt doch nur daher, daß jenes eigentlig die
+          natürlidhe Befdhaffenheit meines Se:müth8 ift, und daß eS mir immer eigen gewefen
+          ift,gegen das. innere eigentlide Sein, die Se{häfte nur mie eine Art Nebenfadhe zu
+          behandeln, immer ihrer mächtig zu bleiben, ftatt mich von ihnen beherrfhen zu lafjen. Man
+          macht fie darum und auf diefe Weile nur defto beffer. Und das was den MenfhH als Menfgh
+          berührt, die Gefühle, die ihn erfüllen, die fi in ihm drängen und ftoßen, Haben inımer
+          einen Hauptfädhlihen Reiz für mid gehabt. IH Habe zuerft damit angefangen, mid felbft zu
+          Ffennen und mid jelbft zu beherrfhen und Fein Menfdh Fann fih Harer durchichauen , ‚Feiner
+          fig mehr in feiner Semwalt haz ben als ih. Ich Habe dabei immer nach zwei Dingen geftrebt;
+          mid empfänglid zu Halten für jede Freude des Leben3, und dennohH durchaus in allem, was
+          ich mir nicht felbft geben Kann, unabhängig zu bleiben,niemandes zu bedürfen, au nicht der
+          Begünftigungen des Schiefjal, fondern auf mir allein zu ftehen und mein Glücg in mir und
+          durgH mid zu bauen. Beides <pb/>IQ gabe ih in hohem Grade erreicht. Über Feine Freude und
+          feinen Genuß. deg Lebens bir ih hinweg, wie e8 die Leute nennen, die einfachfte Sache,
+          wenn fie nur, etwas Anmüthiges oder Höheres an fidh trägt,oder wenn fie mir durch irgend
+          etwas befonder3 zu:jagt, gewährt mir reine Freude, Daher Niemand fo dankbar ift al ih,
+          weil wirklihH au wenig MenfHen fo viel Grund zur Dankbarkeit Haben,Theil8 begegnet ihHnen
+          vielleicht weniger Erfreuliches,theil8 aber finden fie auch in dem, was ihnen bes geguet,
+          Das Erfreulidhe nicht fo Heraus und genießen e8 nicht wie fie fönnten. Über fein Menfch
+          ift auch jo wenig bedürftig als ih und darauf beruht ein großer Theil. meines Glücks, denn
+          jedes Bedürfnik ift, wie e8 befriedigt wird, nur eigentlig Stilung eines Schmerzes und
+          alles, mas darauf. verwendet wird, geht dem reinen, ruhigen, ftillen Genuß ab.38, D.
+          Sumboldt an eine Freundin.</p>
+        <p>Das Slük vergeht und läßt in der Seele kaum eine flade Spur zurück, und ijt oft gar Fein
+          Olüd zu nennen, da man dauernd dadurch nicht. gewinnt.Das Unglück vergeht au (und das ift
+          ein aroßer <pb/>I Troft), läßt aber tiefe Spuren Zzurüg, und wenn man e8 wohl zu benußen
+          weiß, Heiljame und ift oft zin fehr Hohes Glück, da e8 Vänutert und frärkt.Dann {ft e8
+          eine eigene Sadhe im Leben, daß, wenn man gar nicht an Glück oder Unglück denkt, fondern
+          nur an firenge, fi nicht fHonende Pflichterfüllung.das Stüc fig von felbit, au bei
+          entbehrender,mühevoller Lebensweife einftellt.Derfelbe.</p>
+        <p>3e mehr id die Umgebungen Ffennen lerne, in denen Sie aufwuchfen, je mehr io Sie mir
+          darin denfe, Defto manigfaltiger bewegt {Hweben mir die Züge vor, an die meine
+          Einbildungskraft immer gern und FieblidH geheftet ift. Solden Genuß der Phantafie rechne
+          iQ zu den Hödhften, die den Menfjhen gegeben find, und in vieler Hinfiht ziehe 9) ihn der
+          Wirklichkeit vor. In diefe fann im:mer leicht etwas jtörend eintreten, aber jene nähert id
+          den Ideen, und das Größte und Schönfte,das Menjchen zu erfennen im Stande find, bleiben
+          Joch die reinen, nur mit dem innern Bli erfenn:baren Ideen. In ihnen zu leben ift
+          eigentlidH der <pb/>IC mahre "Senuß, daz Glück, was man ohne DBeimi:{dung irgend einer
+          Trübheit in fig aufnimmt. Nur haben wenig Menidhen eigentlig Sinn dafır. Denn e8 gehört
+          dazu eine Neigung der Befhauung, die in Menfhen unmöglich ift, bei denen Sinnlidfeit und
+          innere moralifche Empfindung in Verlangen zur MWirk-lichkeit und zum Genuß übergehen. I
+          bin von diefem Verlangen mein ganzes Leben hindurch fehr frei gewefen und Habe‘ daher mehr
+          dur den Anblie am Innern und Neußern genofjen, und in beiden RNücfidhten mehr die Wahrheit
+          der Dinge erkannt,ohne mid Täufhungen Hinzugeben.Derfelbe.</p>
+        <p>8 giebt unleugbar Perfonen, welchen mehr Wi:derwärtiges alz Slüclihes begegnet, und auch
+          die jehr Stüclidhen Haben Küirzere oder längere Perioden,wo ber Verlauf der Umftände ihnen
+          nicht zufagt,und fie gegen den Strom zu fHwimmen genöthigt find. Das Kegt aber, auch ob e8
+          gar nicht eigene Schuld, oder Folge unridhtig beredneter Berfahrungs:mweife ift, in der
+          natürlidhen VBerkettung der Umftände,mo das allgemein Nothwendige oder unvermeidliche den:
+          Interejfe des Einzelnen widerfpridht. Sehr oft,<pb n="34"/>und dies ijt mir bei weitem
+          wahrfheinliher, kann :8 aud Fügung der mit mweifer und immer wohl:tätiger Strenge heilfam
+          züchtigenden und prüfenden Vorfehung fein; denn die ZüdHtigung überirdifher und
+          übermenfchlidher Weisheit fekt nicht gerade immer Zhuld voraus, E€8 kann in den Wegen und
+          Pfaden der über ale menfhlide Bernunft hinaus reidenden Finfiht liegen, au ohne
+          Berfhulden, zur bloßen heiljamen Zurücführung au den ganz Schuldlofen zu züchtigen. Auch
+          {ft der Beite, wenn er. nur die Selbitorüfung mit gehöriger Strenge anftellt, nidt vom
+          Flecden rein, und eS Fönnen in feine bewußtlojen Empfindungen foldje liegen, die ihn zur
+          Schuld füh-ren mürden, wo aber der Schuld durch die Heilfam augebradhte Züchtigung
+          vorgebeugt wird. Der Menich je(bit ift zu Kurzfichtig und fein Bli zu trübe, dies
+          inzufehen; allein die in der Höhe waltende Macht durch haut e8 und weiß e3S zu lenken und
+          zum Beften nt Fehren. Alles dies pflege ih mir zu fagen, oft ahne äußere Veranlafiung,
+          allein aud) befonders da,mo, wie’3 aud) mir gefhieht, das Schiefal den BWünfhen
+          entgegenwirkt- und eine Periode der Wider:wärtigfeit oder des wahren Unglücks- eintritt,
+          IH merde dann vorfihtiger als fonft im Handeln und hie mich im gerinaften beugen oder
+          betrüben zu <pb/>4)laffen, fuhe ih durchzufteuern, fo gut es gehen will,Wenn ih fage ohne
+          mid zu betrüben, fo meine ich damit nicht, daß mich die einzelnen Fälle nicht be:trüben
+          follten (ma8 unvermeidlich ift), fondern nur,daß ih ihr Eintreten überhaupt, die Wendung
+          von Stüg zum Segentheil nicht als etwas TFeindjeliges,fondern als etwas Natlürlidhes mit
+          dem Weltgang und der men/dhliden Natur eng Verbundenes oft fo:gar Heilbringendes
+          nehme.Derfelbe.</p>
+        <p>Der Propyläen drittes und lebtes Stück wird bei zrichwerter Fortfekung aufgegeben. Wie
+          fich bis:artige Menfhen diefem Unternehmen entgegengeftellt,Fol wohl zum Trofte unferer
+          Enkel, denen e8 nidjt befier gehen wird, gelegentlid näher bezeichnet werden.</p>
+        <p>Goethe.</p>
+        <p>Die ganze VBeredlung des Wefens, die möglidhfte Erhebung der Sefinnung, die größte
+          Erweiterung der innern DBeftrebungen ift ebenfowohl die Aufgabe,die her Menfch zu köfen
+          Hat, als die Reinheit feiner Handlungen. Es gibt au im Sittliden Dinge,die fih nit blos
+          unter den Maakftab des Pflidt-mäßigen und Pflichtwidrigen bringen lafjen, Tondern
+          <pb/>:inen Höhern. fordern. E83 gibt eine fittlide Sdhön:heit, die, fowie die Körperliche
+          der Sefichtszüge, eine Berfmelzung aller Sefinnungen und Gefühle, einen freiwilligen
+          Zufammenhang derfelben zu geiftiger Ein:heit erheifht, die fihtbar zeigt, daß alles
+          Einzelne darin aus Sinem au8 der innerften Natur ftam:menden Streben nach himmlifdHer
+          Bolendung quillt und daß der Seele ein Bild unendliHer Größe,Süte und Schönheit
+          vorfdhwebt, daz fie zwar nie:mals erreiden fanır, aber von da immer zur Nach ziferung
+          begeiftert zum Nebergang in höheres Dafein würdig wird. Auch die Entwicfelung der
+          intellek=tnellen Fähigkeiten bis zu einem gewiffen Grade ge:hört zu der allgemeinen
+          Veredlung. Aber ih bin ganz Ihrer Meinung, daß dazu nicht gerade vieles Wifien und
+          Bücherbildung gehört. Das aber ift wirklich Pflicht und it au dem natürlichen Streben
+          jedes nicht blos an der irdijchen Welt, ihrem Gewirre und Land hängenden Menfchen, eigen,
+          in den Kreis von Begriffen, den er befibt, Klarheit, Beftimmtheit und Deutlichkeit zu
+          bringen und nichts darin zu ulden, mas nit auf diefe Weife begründet {ft Das kann man wohl
+          das Denken im Menidhen nenz nen. Dazu ift da3 Wiffen nur das Material. Es pat Feinen
+          abfoluten Werth in fih, fondern nur einen 3 <pb/>A relativen in Beziehung auf das Denken.
+          Der Menid jollte nit ander8 lernen als um fein Denken zu zrweitern und zu üben und Denken
+          und Wiffen foll-ten immer gleiden Schritt Halten. Das Wiffen Bleibt fonft todt und
+          unfrudhtbar.Sumboldt.</p>
+        <p>Wenn behauptet wird, e&amp; gehe jebt von mandhen Seiten Strafungs = oder
+          Berdammungswürdiges vor,fo ift dabei doch die Frage, ob darum die Sefinnung der Menfchen
+          jet fOlimmer und unmoralifdher {ft Ih möchte es bezweifeln. €8 fheint mir weit mehr eine
+          Verkehrtheit der Meinungen, eine Verdrehung der Begriffe zu fein. Chemals war mehr und
+          weiter verbreitete Frivolität, Die fdheint jebt doch weniger und feltener. Gerade die
+          Frivolität aber untergräbt alle Moralität und Käßt Keinen tiefen Gedanken und fein reines
+          und tiefes Gefühl auffonmen. E83 Fönnen fig damit natürliH gutmüthige und fanfte
+          Empfin:dungen verbinden, aber es&amp; kann in foldher Seelen:Himmung nit aus Grundfägen
+          hervorgehen, und an Selojtüberwindung und Aufopferung ift nicht zu denken. IFebt Herrfht
+          doch der Ernit, der zum Nach:<pb/>}</p>
+        <p>%denfen führt, und der auf das Semüth zurücmirkend,ziner Anerkennung des Willens fähig
+          ift, und auch wirffanı Bleibt, wo der Entfchluß Neberwindung foitet.Aumboldt.</p>
+        <p>Das Wachfein des Seiftes, feine Fruchtbarkeit an Borftellungen, die er bald au der äußern
+          Beobadh-hing der Dinge und MenfjhHen, bald aus Jeinem Innern [Höpft, oder das fejte
+          Fortrücen in längft begonnenen, vielleiHt durd einen Theil des Lebens
+          gindurcdhgefchlungenen Ideenreihyen, ft das wahre dem menfhlidhen Dafjein erft Werth
+          verleihende Glück 5e8 Lebens, und zwar nicht blo8 für intellektueller organifirte, Höher
+          gebildete, mehr dem Denken erge:dene MenjhHen, fondern für AWe. Denn jeder Hat zinen
+          innern Kreis von Ideen und Sefühlen, Wahr:heiten und Borurtheilen, Phantafien und
+          Träumen,in dem er wach und regfam bleiben und den er al8 innere BefHäftigung weiter
+          ausfpinnen will,</p>
+        <p>Derlelbe.</p>
+        <p>Sache der Seele ift e8, die innere Heiterkeit 10 fange und immer in dem Srade zu
+          erhalten, al8 es <pb/>möglich ift. Wer fih heiter zu erhalten fucht, der forgt nicht bloß
+          für fein Glück, fondern er Übt wirk:li eine Tugend. Denn die Heiterkeit, felbjt die
+          mwehmüthige macht zu allem Guten aufgelegter und gibt dem SGemüthe Kraft, fh felbft mehr
+          aufzu-erlegen und mehr für Andere zu Teiften., Die Er:Haltung der Heiterkeit, felbjt unter
+          weniger günftigen Umftänden, zeugt au von einem genügfamen an:fpruchlofen SGemüth, das
+          nicht felbftfüchtig immer fid vor Augen hat und was ihm begegnet, für größer und
+          merfwürbdiger Hält, al3 mas Andern zufiößt.3 ift überhaupt ein fHöner, erfreuklicher Sinn,
+          der die Einigkeit mit feinem Sefdhide fo weit als es möglich ift, erhält, die Freuden
+          Heraushebt, die Jedem 6leiben, und fie zu fammeln und zu genießen ver:fteht. € bewährt
+          fihH auch hier, daß das moralijd Schönfte und Cdelfte auch das am meijften SGlüc bringende
+          ift und am fiherften das GemüthH in ruhi:ger und befonnener Thätigkeit erhält.
+          .Derlelbe.</p>
+        <p>Wer mit den Augen winket fhmiedet Böfes; und wer ihn Fennt Hält fi fern von ihm. Vor
+          Deinen Augen verfüßt er feine Rede und bewundert deine <pb/>I Worte; Hinterher aber
+          verkehrt er deine Mede und legt dir durch deine Worte Fallen. BViele8 hHafle ich,ıber
+          nichts vergleide id ihn, au der Herr hHaffet ‚On.Sirad) XXVIL 25.</p>
+        <p>€ wäre mir leid, 5i8 heut gelebt zu Haben,ohne daß die Erfahrung mich gelehrt Hätte, daß
+          der Zwet des Lebens nicht auf die Gewöhnung an diefe oder jene LebenZweife Hinausläuft;
+          fondern daß das Betentlidhe immer Lleibt, durch fo viele neue Ber:Jältnifje, in melde mir
+          geworfen werden, immer mieder von einer andern Seite auf un8 zurückgehen zu müffen, uns
+          felbft immer näher und inniger fennen zu lernen uns8 in diefer Kenntnik felbft im:mer
+          humaner und volllommener zu werden. Freilich meiß id nicht, wo e8 mit dem MeuifhHen Hinaus
+          mil allein, wenn au) mit Diefenn Leben alle8 ge:det fein folltez fo ift doch nur Eins in
+          der Welt,508 glüclidh, das Heißt zufrieden maden ann; daß id nämlidh immer mid felbit
+          adten fönne.Sorffer.<pb/>Ye Fin MenfH nimmt aus der Welt mehr oder minder Licht,Die Form
+          au8 feinem Stand und aus fi fein Sewicht.Nüdert.</p>
+        <p>Das Eifen, wenn fiH ihn des Feuer? Kraft vereint,</p>
+        <p>Roth glüht c8, daß e8 wie cin Cheljtein erfdheint.</p>
+        <p>Der roth von Jelber ift, der feurige Rubin </p>
+        <p>Erfcheint dagegen blaß, glüht man im Feuer ihn.</p>
+        <p>So hat des Menjhen Sinn, von LeidenfHaft beraufcht </p>
+        <p>Sein Eigne8, auf den Schein, um Fremdes ausge:taufcht,Doch, wenn erkaltet, wird das Eifen
+          wieder dunkel Und mieder hell, wie er gewefen, der Karfunkel.Yüßerf.</p>
+        <p>Hüte dih, daß du nicht betrogen und nicht un:alüclich mwerdeft durch deinen
+          Frohjfinn.</p>
+        <p>Dränge dihH nicht zu, damit du nicht zurücge:ftoßen und fiche nicht zu fern, damit du
+          Nicht ver;gefjen werdeft.Gef. Sirad.<pb/>a4 Dem ift ein fHöner Tag genug Den Morgen Bein
+          und Sram begleiten.Miliam QWordsworfh 1770.</p>
+        <p>Die Sffentlide Meinung hat dies mit der Chemie gemein, Daß fie, mwofern ihre Gährung
+          nicht Künft-fi gehemmt wird, das Wefjen der Dinge von ihren Zufälligfeiten, das gebiegene
+          Metall von feinen Schladen, den Gebrauch von dem Mißbrauch fHeidet,und wenn Ddiefe
+          Scheidung genauer beachtet würde,jo fönnte man gewaltjamen Veränderungen begegnen.Denn fo
+          ift einmal der Dinge Fluß. Mag ihr Ur-prung noch fo qut fein, bald mifhen fig mit dem
+          urjprünglidhen Clement die Einffüfje der Ufer. Doch reinigt c8 fich mieder im OYccan, in
+          weldhen e8 zus (lebt itrömt.Mefenberg.</p>
+        <p>Diele Schönheit, die Schönheit des reifen Alters ift die Höchfte der men!hlidhen
+          Erfheinung; die For men find fatt, daß Gefäß ijft ganz ausgefüllt; fie haben jebt erft den
+          Ausdrud des SGemwollten, des Figenthums8 und Ddienftwilligen Draanz, worin <pb/>(4 fi der
+          Seift eingewohnt; diefer ijft ebenfalls erfüllt in8 Leben Hineingewachfen; die erwartete
+          Unendlich:feit hat fih befgränkfen müffen;z allein nur in der Befhränkung wird das Höchfte
+          erreicht. Die Ibee als Berfönlichfeit ift nun erft wirklich reif, ganz Gegenwart. Auf der
+          Hochebene diejer dauerhaften Rebenftufe folgt allmälig das Sreijenalter.Dildier,
+          YWefthetik.</p>
+        <p>€ wird fünftig noch bemwiefen werden, daß die menjhlidhe Seele auch in diefem Leben in
+          einer un:auflö8lidh gefnüpften Gemeinfhaft mit allen imma:teriellen Naturen der
+          SGeifte8welt ftehen, daß fie wechtelmeije in diefe mwirke und von ihnen Eindrücke
+          zmpfange. Abgefchiedene Seifter können zwar nie:mals unfern äußern Sinnen gegenwärtig
+          fein, aber wohl auf den SGeift des Menfchen wirken, mit dem fe zu einer großen Mepublif
+          gehören, fo daß die Vorftellungen, melde fie erwecen, id nad dem Ge:jeße feiner Fantafie
+          in vermandte Bilder Heiden und die Apparenz der ihnen gemäßen Segenjtände als außer ihnen
+            erregen.Kant.<pb n="4"/>Will der weife Mann Zur Buße Härten diefen zarten Körper, .So
+          fömmt mir’8 vor, als wollt’ er mit der Schneide Des Lotosblattes Holz zum Opfer
+          fällen.Nicht Toll man unbedachtjam Nıben fordern Bon dem, was fchön zu fein allein
+          beftimmt.Sakßuntala.</p>
+        <p>Das fHlechtejte Rad am Wagen macht den mei:iten Lärm.</p>
+        <p>Dem du gibjt, der [Hreibt’S auf Sand; dem du nimmit, auf Stahl.</p>
+        <p>Man empfängt Jeden nah feiner Kleidung und zntläßt ihn nad feinem VBeritande.</p>
+        <p>Das erjte ift immer, daß wir unZ rechtfertigen dor un8 felbit. DanadH fer un Liebe und
+          Achtung der ÜUndern milliommen. Gern opfern wir ihren Schwächen, ihren Vorurtheilen den
+          zwanglofen Ges nuß unjerer natürlichen Freiheitz nur müffen fie nicht fordern, daß wir um
+          der conventionellen For:met willen, womit fie jidhH belaftet haben, auf das <pb/>wahre
+          Slücg des Lebens verzichten, welches fo felten angetroffen wird, daß wir € mit
+          BDorbeigehung der Falten GemoHnheitsverhHältniffe nicht zu fheuer erkau-fen; e8 ift fein
+          erfreuliches Bild der Menfehheit,weldhe8 fie in diefer Abhängigkeit von felbftgemadhten
+          und den frohen, reinen Lebenzgenuß tödtenden Po:panzen fchildert; wer kann ihr Helfen,
+          wenn fie fid felbft beftiehlt, um reider zu fein! Kinder, fucht glücklich zu fein, fo daß
+          ihr e8 immer bleibt, das ift, behaltet eure ganze Empfänglichtfeit unter Auf:fiht der
+          Vernunft, die nur immer die Naturgemäß:heit eurer Gefühle prüfe. Iatur des MenjdHen {ft
+          zug) ja uur euer SGanzeS, euer fo reich organijirtes,mit fo vielen göttliden Kräften zum
+          SIüg ausge:rüftetes Ganze. Laßt e8 immer in fih felbft har:monijdh bleiben und bleibt euch
+          felbft immer übrig;dann fönnt ihr wohl Andere, die fich felbjt verloren haben, bedauern,
+          daß ihre Zahl fo groß ift, aber fiher Tein, den Zweck eures Dafeins volllommen zu
+          erreichen.Siorfer.</p>
+        <p>Feder MenthH muß in das Sroße und Ganze wirfen; nur was dies Große und Sanze genannt
+          wird, darin liegt meinem Sefühle nach noch fo viel <pb/>Täufhung. Mir Heißt in das Sroße
+          und Ganze mwirfen, auf den Charakter der Menfchheit wirken,und darauf wirkt Jeder, fobald
+          er auf fi und blos auf fih wirkt.3S, Humboldt.</p>
+        <p>Für mic ift der Kreis, in dem ih jebt Lebe, der angenehmfte; e8 ift der, den id am
+          Dbeften auszu-füllen vermag, und Jollte e8 nicht wichtiger fein feinen Kreis wie groß oder
+          Hein auszufüllen al8 gerade diefen oder jenen zu Haben? Zühle ich ja mehr Kräfte, als
+          diejer Kreis fordert, nun fo Ändet fihH vielleicht auch ein größerer. Allein {Hıyer-li
+          wird daz je der Fall feinz je mehr man hut,defto mehr ficht man zu thıum noch vor fig. Die
+          intenfive Größe ift gerade diejenige, melde man nie erfhöpft und dennoch, wie jonderbar,
+          fuchen die Menfchen immer die extenfive, als wären fie mit jener {on fertig. Statt zu
+          fragen, mie viel an dem Zweck, an dem fie find, noch zu thun ift, eilen fie ihon nad einem
+          andern Hin. Wenn dies, wie es mir fcheint, den Geift nothwendig zerftreut, fo muß er bei
+          jenem Verweilen an Tiefe und Stärke ae:<pb/>iA winnen und ih geftehe Ihnen gern, daß ih
+          für diefen Seminn allein Sinn habe.WB, Sumboldt.</p>
+        <p>8 feben Edle Höher ftet8 ihr Biel.</p>
+        <p>So ftößt der MenfhH mit Füßen oft fein SGlüc,</p>
+        <p>Weil Finfternif die Seele ihm umfhwebt.</p>
+        <p>Der Blinde fhüttelt ab vom Haupt den Kranz </p>
+        <p>Des Glücks, den ihm ein Wahn als Schlange malte.Sakßunfala.</p>
+        <p>Bei Scherern, den ich geftern fprach, ft mir eine Bemerkung wieder eingefallen, die Sie
+          mir voriges Sahı über ihn machten. E83 ift eine. ganz gemüth:lofe Natur, und fo glatt, daß
+          man fie nirgends fajfien fann. Bei folden Natürellen it e8 recht Hihlbar, daß das Gemüth
+          eigentlich die MenfgHheit in dem Menidhen macht, denn man fann fi folchen Seuten gegenüber
+          nur an Sachen erinnern, und das Menfchlide in einem felbft ganz und gar nirgends
+          Hinthun.Schiller an Goethe Bd. 4. S. 266.<pb/>In des Herzen8 heilig ftile Räume .Mußt du
+          fliehen auZ des Lebens Drang,Hreiheit {ft nur in dem Reich der Träume Und das Schöne blüht
+          nur im Gefang.Schiller.</p>
+        <p>Wenn Zimmermann in feinem Buch über die Sinlamfeit von einer Dame fpricht, die er mit
+          Plus tarchs Lebensbefhreibungen von HyjterijhHen Zuftänden furirt und dem Hauswejfen und
+          der Küche wieder gewonnen Habe, fo läßt fig in gleidher Weife auch von den Schriften von
+          Bigius jagen, daß fie un8 nicht nur mie reine Bergluft und Herrlide Natur mit erhöhter
+          Lebens: und Strebeluft erfüllen; fondern daß fie un8 wichtige Impulie fürs Leben geben,
+          daß mir von ihrer Lectüre weg nicht blos mit Luft an jebe Arbeit gehen Können, mas immer
+          ein Kennzeichen gefunder Bücher iftz fondern daß wir auch, von ihnen angeregt gleichfam
+          neue Fittide fühlen, unfer Leben mit frijdem Sinn neu zu ordnen und zu geftalten,mit dem
+          Pfunde zu wuchern, das Vedem, dem Klein-ten wie dem SGrößten anvertraut ift, und die
+          manig=jaden Kräfte in un8 zu entwideln, deren Nebung <pb/>(6 und Entfaltung zu möglichjter
+          Bollfommenheit wir al8 unfere Höchfte Beftimmung erkennen müflen,Dr. Manuel.</p>
+        <p>Die Poefie {Heint in ihren Verbindungen eben fo eigenfinnig mie die Sffentlidge Meinung.
+          Sie vermält fih eben fo oft mit der Heiterkeit wie mit dem Trübfinn. Wenn wir an das
+          Schiekfal und den Charakter ihrer Angehörigen denken, fo fcheint es unmöglidh , daß ein fo
+          eigenthümlidHes Wefjen mit fo entgegengefebten Nidtungen des SGeiftes und Zügen des
+          Semüths verträglich fein Könne. Oleich den geheimnißvollen Verbindungen des Lichts, weldes
+          der Cypreffe einen grünliden Schatten und der Wolke einen rofigen Hau verleiht, indem e8
+          durch eine teudtende Ausftrömung unzählige Tinten hervor:Sringt, fo affimilirt fi der
+          SGeift der Poefie mit jeder Spielart des menfHlihen Semüths, von den tief ften Schatten
+          des MenfhHenhHaffe3 bis zu den frifdeften Blüthen des Entzückens.Bhomas Ioore.</p>
+        <pb n="17"/>
+        <p>Die deutfhe Sprache ift auf einen fo Hohen Srad der Ausbildung gelangt, daß einem Keden
+          gegeben ift, fowohl in‘ Profa als in NRhytmen und Reimen, fiO dem Segenftand, wie der
+          Empfindung gemäß, nach feinem Vermögen glücliH auszudrücken.Hieraus folgt nun, daß Feder,
+          welcher durH Hören und Lefen fi auf einen gewiffen Srad gebildet hat, wo er fih felbft
+          einigermaßen Deutlich wird,Äc alsbald gedrängt fühlt, jeine Gedanken und Urtheile, fein
+          Erfennen und Fühlen mit einer ge:mwifjen Leichtigkeit mitzutheilen. Schwer, vielleicht
+          unmöglih, wird e8 aber dem Jüngern einzufehen,daß Hierdurg im Höhern Sinne nodh wenig
+          gethan it. Viele, die auf demfelben Wege gehen, werden Rh zufammen gefeXen und eine
+          freudige Wanderung zujammen antreten, ohne fi zu prüfen, ob nicht ihr Biel allzufern im
+          Blauen liege. Denn leider Hat ein mwohlmollender Beobachter gar bald zu bemerken, Ddaß ein
+          inneres jugendlihes Be:Gagen auf einmal abnimmt, daß Trauer Über ver:idwundene Freuden,
+          Shmachten nah dem VBerlornen,Sehnfucht nad dem Unbekannten, Unerreihbaren,MißmnuthH, Neid
+          und Verfolgung die Mare Quelle irübt, und fo fehen wir die Heitere SGefellfhaft {ich
+          vereinzeln und fich zerftreuen in mifantropifhe Cre:<pb/>An miten. Wie fhwer {ft c8 daher,
+          dem Talent jeder Art und jedes Grades begreiflih zu machen: daß bie Mufe daz Leben zwar
+          gern begleitet, aber eS Feines:weg8 zu leiten verfteht. Wenn wir beim Eintritt in das
+          thätige und Fräftige, mitunter unerfreuliche Leben, wo wir un8 alle, wie wir find, al8
+          ab:hHängig von einem großen Sanzen empfinden müflen,alle frühern Wünfhe, Träume,
+          Hoffnungen und die Behaglichkeiten früherer Märchen zurücfordern, da entfernt fig die Mufe
+          und fucht die SGefellichaft des heiter Entjagenden, fih leicht Wicderherftellenden auf,der
+          jeder VahreSzeit etwas abzugewinnen weiß, der Eisbahu wie dem Rofengarten. Der junge
+          Dichter fprecdhe nur aus, wa8 Lebt und fortwirkt, unter wel:Dherlei Seftalt es au fein
+          möge; ev befeitige ftreng allen Widergeift, alles Migwollen, Mißreden und was nur vereinen
+          fannz denn dabei kommt nichts Heraus.Poeti]jdher Schalt ift Gehalt des eigenen Lebens, den
+          fann uns Niemand geben, vielleicht verdüftern aber nicht verfümmern. Alles mas Eitelfeit
+          d. h. Selbft:gefälliges, ohne Fundament .ift, wird [Olimmer als jemals behandelt werden.
+          Man Halte fih ans fort:jreitende Leben und prüfe fih bei Gelegenheiten; denn da beweist
+          fihs im Augenblif, ob wir lebendig find,und bei fpäterer Betrachtung ob wir Lebendig
+            waren,Soethe.<pb n="1"/>Die ew’ge Welt, an die der Glänb’ge glaubt,Ift jenes Haus auf
+          fteilem Felfenhaupt;</p>
+        <p>Und diefe wechjelreidhe, flücht’ge Welt </p>
+        <p>Boll Luft wie Leiden, ift das Dornenfeld.</p>
+        <p>Sie zählt die Athemzüge, die du thuft,</p>
+        <p>Ob früh, ob fpäter du im Grabe ruhft.</p>
+        <p>Um Ende wird ein Erdftoß fich erheben,Dann Laffen feufzend wir all unfer Streben Und
+          Müh'n auf diefem Dornenfeld zurück </p>
+        <p>Und ridhten auf das fejte Haus den Blic,</p>
+        <p>Sin Andrer Foftet unfrer Mühen Frucht,</p>
+        <p>Doch er auch zieht vorbei in rafher Flucht;So wars von je, fo wirds für immerdar </p>
+        <p>8 fein, und diefer Spruch bleibt ewig wahr:Vollbrachten wir der guten Thaten viel,</p>
+        <p>So wird un8 Ruhm an unferm Reifeziel;Doch waren wir verderbt, fo kommt die Kunde Davon zu
+          Tag in unfrer lebten Stunde,</p>
+        <p>Ob unfer Schloß au hoch den Scheitel trug Bis zum Saturn nicht8 als das Leidhentuch Wird
+          unz zulebt; der Kühnfte wird erfhreckt Wenn Bruft und Haupt ihm fHmarzer Staub
+          bedeckt,Zirdufi.<pb/>()Preis fei dem Herrn, der. alle Dinge {Huf Xhm, der das Große wie
+          Seringe IOHuf.</p>
+        <p>Das Sein fo wie daz Nichts verneigt fih ihm,Er ift der Einz’ge, Nichts verneigt ih
+          ihm.Zum Zweiten werde der Prophet gepriefen,Und alle melde fiH ihHm treu bewiefen.</p>
+        <p>Da jene Edlen von der Welt gefHwunden,</p>
+        <p>So rechne nicht auf Dauer deiner Stunden.Wo kam der Thron des größten Königs hin?Wo find
+          die Großen al von Heldenfinn ?</p>
+        <p>Wo find die Weifen all und die Gelehrten?Die raftlos ihren Seift mit Wiffen nährten ?Wo
+          find mit ihrer Stimme Janftem Ton </p>
+        <p>Und ihrem Reiz die Schönen Hingefloh’n?</p>
+        <p>Wo die Bedrängten, die in Bergesfihlucdhten Stend und ruhHmlos eine Zuflucht fuchten
+          ?</p>
+        <p>Und jene, die den wilden Lömen jagten?</p>
+        <p>Sie wurden allgefammt des Todes RKeute.</p>
+        <p>Heil dem, der nur die Saat des Suten freute!Bon Erde find, zu Erde werden wir,</p>
+        <p>Voll Angft und Kummer find auf Erden wir.Du gehft von Hinnen, doch c&amp; währt die
+          Welt,Und Feiner Hat ihr RNäthfel aufgehellt.</p>
+        <p>Voll weifer Lehren ift für unz ihr Lauf,Warum denn addten wir fo wenig drauf?Sirduli.<pb
+            n="31"/>VBerläumdung,</p>
+        <p>Sie {Oneidet [Härfer als das Schwert; ihr Mund Bergiftet mehr als alles Nilgewürm,Ir Wort
+          fährt auf dem Sturmwind und belügt Jedweden Erdfirih: Kaifer, Königinnen,Sürften,
+          Matronen, Iungfraun, ja in Grabes Seheimniß wühlt das Natterngift VBerläumdung:</p>
+        <p>Cymbelin Bd. 12. S. 296.</p>
+        <p>Was find wir für SGejdHöpfe, wenn wir unfern zignen Wea gehen.SHARESPLALE.</p>
+        <p>Kür alle muß in Freuden </p>
+        <p>Mein treues Herze glüh'n.</p>
+        <p>Hür alle muß id leiden,</p>
+        <p>Zür alle muß iO blüh'n,</p>
+        <p>Und wenn die Blüthen Früchte Haben,Da Haben fie mich längft begraben.„Hichendorf.<pb
+            n="39"/>Ein Künftler der nicht mehr [Heinen will als er wirklich ift, der in feinem
+          Schaffen fi nicht ab-ängftigt, mehr zu werden, als er nah Sottes Sabe zu werden vermag;
+          der nicht über fih hinaus will,der feine Werke, nidHt feine Perfon in den VBorber-grund
+          ftellt, ein Mann, der überall zu brauden if und darum gerade nirgends recht ankommt, ein
+          nicht 6lo8 perfönlih, fondern auch äfthetifch befchetdenes Talent. Diefe Heut zu Tage fo
+          feltene Erfchei:nung war Lortfing.Riehl „Mufikal. Charakterköpfe.”</p>
+        <p>Die Wahrheit ift freilid wie der Verfaffer im 83. KYahre, nad fehSzigjährigem Studium,
+          immer deutlicher einficht, nicht immer erreichbar, wenn von objectiver Wahrheit die Rede
+          ift;z allein die jubjective Wahrheit, d. H. die Vermeidung alles defjen, was nicht den
+          Schriftfteller durch und durch befeelt, fon:dern nur für das Publikum, deffen Bedürfniß
+          oder Vorurtheil man berücfichtigt, gelten fann, ift aller dingS erreichbar. In diefer
+          Nückficht gerade ift das Studium der Alten, weldhes. jeßt fo fehr vernadh-fäffigt wird, fo
+          ungemein wichtig, weil Ddiefe weder <pb n="533"/>Recenfenten, noch Studenten, noch Weiber,
+          noch die Sefer von Iournalen Gerücfichtigten. Das ift e8,wa8 der VBerfaffer nicht für das
+          große Publikum,Tondern für die Wenigen, denen Wahrheit zınd Recht,und Tugend aufrichtig.
+          am Herzen Regen, hier vor:auSzufchicden nöthig findet.3. SG. Schloffer.</p>
+        <p>Die medhanifden Künfte Haben fih länger ge:halten, weil die Urt des Fleißes, welche Kein
+          Nach:denken erfordert, fondern das Werk der Nebung und Sewöhnung ift, pflegmatifden
+          Völkern zur andern Natur werden kann. Ihre Eyiftenz ift in diefer, wie in jeder RückfihHt
+          mafhinenmäßiger als die Eryiftenz ber lebhaften, geiftreichern Menjdhen, deren unftätes
+          Welen mehr von eigenen Antrieben abhängt und daher Sfters die Erfheinung des Mürjfigangs
+          bewirkt,</p>
+        <p>©. Siorfler.Mus d. Anfichten vo. Niederrbein.</p>
+        <p>Die Nüglichkeit ift nicht das einzige Bedürfniß unferer Natur, fie ft nicht der einzige
+          SGefichtspunkt,uf welden alle Thätigkfeit unferer Intelligenz fie <pb/>zurückführen läßt.
+          Zum RKRuhme unferer Natur murzeln noch andere Bedürfniffe in ihr, die einer hHöhern
+          Ordnung angehören, die, fo zu Tagen, im Segenfabe zu dem bloß Nüglidhen fih geltend machen
+          € gibt eine ideale Hierarchie der Eryiftenzen, welche,murzelnd in der Erdentiefe, in der
+          SeifteSswelt aus:gipfelt. Die Idee des Wahren und Schönen ift dem Menfdhengeifte nicht
+          weniger angeboren, al8 die des Niüglidjen; welde von beiden ihn aber am meiften adelt, und
+          feinem Ur]prunge, wie feiner endlichen Beftimmung am meiften entfpricht, welde von beiden
+          dienen, welche Herrchen foll, diefe Frage Kann, fo follte man glauben, im Ernite faum
+          aufgeworfen werden,Auguffl Reichen perger.</p>
+        <p>Die Kunft, diefe Hödhfte und allgemeinfte Sprache,ift, mie überhaupt alle Sprade ein in
+          die Sichtbar-feit tretendes Geiftesleben, ein Ausftrahlen des Seiftes, weldhes je nach dem
+          Standpunkte, welchen feine Träger einnehmen, belebend und veredelnd, oder aber vermirrend
+          und umnebelnd auf Ddiefelbe zurüd:Jällt,Derfelbe.<pb/>SR 8 ift doch in der Welt alles
+          eitel und Täufdhung,Jowohl was man genießen, al8 was man thun fanın,nur das Häusliche
+          Leben nidt, Was man auf diefem ftillen Wege gute8 wirkt, das bleibt: für die wenigen
+          Seelen kann man wirklich etwas fein und etwas bedeutendes leiften.Schleiermadher.</p>
+        <p>Was aber den Schein betrift, fo habe ih darüber meine eigenen ©rundfäge; id glaube, daß
+          e8 meinem Stande geradezu obliegt, ihn zu verachten; ich meine nit aus Leidigem UebermuthH
+          Dinge zu thun, die man fonft nit thun mürde, nur um zu zeigen, daß man fi aus der gemeinen
+          Meinung nichts macht,jondern das, daß, To oft e&amp; HineinreiHende Gründe gibt etwas zu
+          thun, man nad) dem Schein dabei nichts fragen müffe. Das ift wie mir fheint, fehr nöthig
+          und ganz eigentligd Pfliht.... € Kiegt fehr tief im meiner Natur, daß ih mid immer genauer
+          an Frauen anfehließen werde, al8 an Männer; denn 28 {ft vieles in meinem SGemüthH was
+          diefe felten verftehn.... In der Gemeine (Herrnhut) wird der Menfch gebildet durgd
+          Einfamkeit und ftilles Nach:<pb/>SG denken; in der Welt fann e8 aber nur werden durch die
+          manigfaltigfte und zufanımengefebtefte Thätigkeit.8 find zwei verjchiedene Wege, aber
+          beide find gut und jeder Menfch Hat nur darauf zu Jehen, daß er den einfhlage, der feiner
+          Natur am angemeffenften ift und daß er fi denn auch Hübfeh dahin ftelle, wo er diefen
+          befolgen Fan.Schleiermacher.</p>
+        <p>Wahılih, man hat, mas daz innere Leben der Kinder betrifft, nichts zu thım als
+          abzuhalten, daß fie nicht geftört werden; und dann wiederum fie zu:jehen zu Xlaffen dem
+          Wirken der Kiebe und der Regierung des Verftandes im Leben um fie her,Was fo nidht gut
+          wird, dem ift gewiß auf keinem andern Wege was Sute8 anzuerziehen und etwas Böfe8
+          auszutreiben. Das bejfjere Sefühl, was man auf diefem Wege gewinnt von dem Leben mit den
+          jungen Geiftern ift wohl reichlich die Teeren Einbil-dungen mwerth, welde alles Gute in
+          dem Menfchen für das Werk der Erziehung Halten. Einbildungen,die eigentlid dem Srundjage
+          nad, der in iYnen liegt, jedes Höhere Bewußtfein zerftören.</p>
+        <p>Schleiermacher,<pb/>"</p>
+        <p>IH meines Cheil8 Halte wenig auf das nübliche.Wenn man das Leben nur für das nimmt, was
+          der Menfh in der großen Maße auf fie wirkt, fo ift e8 in Der That nicht der Mühe werth. IS
+          nehme aber bie menfHlihe Natur al8 eine noth:mwendige Stufe des geiftigen Lebens, die eben
+          da fein muß, und von diefer Seite betrachtet {ft Fein Menfh unbedeutend, der etwas
+          eigenthümlidhes hat, der die menfdlidhe Natur von einer eigenen Seite darftellt,Indeß ft
+          e8 mit dem Nuben auch eine mißliche Sache. . Du fiehft ja, wie die Menfdhen fiH gegen mid)
+          vermahren oder Alles von fih ftoßen, was id thue. Das macht mid wie du weißt nicht irre
+          und verbittert mir das Leben, nicht, aber e8 fann do) au nicht Helfen, daß ih auf meinen
+          Nuben ein aroßes Scewicht leae.Derfelbe.</p>
+        <p>DO trunknes Schietfal! mweldhes Saufkelfpiel </p>
+        <p>Treibfit du mit uns! Du weißt der Künfte viel!</p>
+        <p>Mit Sturm und WolfenbruH Hinweg uns raffft du,</p>
+        <p>Mit DoldH und Schwert uns aus Ö Leben Ihaffft u,</p>
+        <p>Den Ehlen tödtejt du durd SchurkenhHände,</p>
+        <p>Nach Laune nur vertheilft du deine Spende,<pb/>&gt;Bald Krone, Thron. und Schäbe fhenkft
+          du uns,</p>
+        <p>Xn Kerker bald und Sram verfenffit dır uns </p>
+        <p>Der Weife münfdht, ev wäre nie geboren,</p>
+        <p>Kon Hätte nie im Erbenfroft gefroren </p>
+        <p>Und niemal8 ihn die SGiuthH der Welt verfengt;</p>
+        <p>Unheil nur wird durch die Geburt verhängt,ur Wechfel Herricht und Trübfal hier auf
+          Erden,</p>
+        <p>Drum ift e8 befjer, nit gezeugt zu werden.Firdulfi.</p>
+        <p>Sei dennoch unverzagt! Sib dennoch unverloren!</p>
+        <p>Weich feinem Slücke nicht! Steh Höher als der Neid!</p>
+        <p>Vergnlüge dihH an dir, und acht es für kein Leid,</p>
+        <p>Hat fich gleich wider diH Glück, Ort und Beit ver:{Hmworen ,</p>
+        <p>Was dich betrübt und Iabt, Halt alles für erkoren.</p>
+        <p>Nimm dein Verhängniß an. Laß alles unbereut;</p>
+        <p>Thu, mas gethan muß fein, und eh man dies gebeut,</p>
+        <p>Was dır noch hoffen fannjt, das wird noch ftet ge boren. .</p>
+        <p>Was FMagt, mas lebt man doch! Sein Unglück und fein Glüce </p>
+        <p>If fh ein Feder felbft, Shan alle Sachen an,</p>
+        <p>Dies AUile8 ft in dir! Laß deinen eitlen Wahn.<pb/>Und eh’ du fürder gehft, fo geh in diH
+          zurüce!Wer fein felbft Meifter ift und fihH beherrihen Kann Dem ift die-weite Welt und
+          Alles unterthan.</p>
+        <p>Xaul Silemming.</p>
+        <p>Einzelne MenfhHen und felbjt ganze Bölfer denken menig daran, daß, indem fie, ein jedes
+          nach feinem Sinne und einer oft wider den andern, ihre eigene Abficht verfolgen, fie
+          unbemerkt an der Naturabjidht,die ihnen felbft unbekannt ift, al8 an einem Leitfaden
+          fortgehen, und an derfelben Beförderung arbeiten, an welcher felbft wenn fie ihnen Gekanut
+          mürde, ihnen doch wenig gelegen fein würde.Kauf.</p>
+        <p>Eine geiftige Athmofphäre, wie die Äußere, um:giebt die Welt und jeden ihrer heile,
+          umgiebt das Jahrhundert und den Zag. In fie verbreiten fich alle Lebendigen Wirkungen des
+          einzelnen, zu einem Ganzen; aus ihr wirken fie, ihm unbewußt, auf den Einzelnen zurüd;
+          Gedanken, Empfindungen, Bor-jteNungSweifen fhmeben ungefehn in der Athmojphäre,wir athmen
+          fie ein, aflimiliren fie und heilen fie <pb/>mit, ohne ung diefer Vorgänge deutlich bewußt
+          zu fein. Mann Könnte fie die äußere Seele der Welt nennen: der Geift der Zeit ift ihr
+          Refler und das merfmürdige Phänomen der Mode eine Fata-Morgana diefes Luftfreifes. €E€3
+          umgiebt auch die einzelnen Heinern Kreife der SGefjfelljchaft, und wie eine zarte
+          Contagion Töfen fi Sedanken in ihm auf, und influenziven auf diejenigen, die wir unfere
+          eigenften mwähnen. SIft er glei das natur-nothmendige Er-gebniß der organifhen Wirkungen
+          eines Ganzen, fo bemerkt der genaue Beobachter doch bald wie vor:zug3mweife Die
+          LebenzZenergie eines Einzelnen ihn be:ftimmt, ihn zum Träger feiner Denkweije und diefe
+          dadurch zu dem feiner Umgebung macht.v. Sieunctersfeben,</p>
+        <p>Pfalm 1,Das3Z Loos des Frommen und des Sottlofen.Heil dem, der nicht mit SGottvergeffenen
+          einig geht,Der nit an Weg der Sünder fteht,NochH fiet im Kreis der Syötter:Sondern feine
+          Luft hat an Jehovas Lehre Und über defjen SGefeb finnt Tag und Nacht!<pb n="51"/>Wie ein
+          Baum ft er, gepflanzt an Wafferbächen ,Der feine Frucht darbringt zu feiner Zeit </p>
+        <p>Und deffien Laub nicht welt; i </p>
+        <p>Und alles ma8 er [Hafft gelingt ihm wohl.Nicht fo die Sottvergefjenen.Sondern wie Spreu,
+          die der Wind verweht.Darum beftehen die Sottlofen nicht im Seridht,Und die Sünder nicht in
+          der Gemeinde der Gerechten Denn Jehova achtet wohl auf den Weg der SGerechten,Über den
+          Frevker lenkt er inz Verderben.</p>
+        <p>Durch Reif und Froft.</p>
+        <p>Durch Reif und Froft im falben Hage Schreit id dahin bet rauhem Wehn,So fühl ih add durch
+          meine Tage Mit leifer Klage </p>
+        <p>Des HerbiteS KKihle Schauer gehn.Wo bift du reiche Iugendwonne,</p>
+        <p>Du trunkner Glanz mir im Semüth,Ach, bleih und läffig hängt die Sonne Im Nebel, die fo
+          IHön gealüht.<pb/>Die Freuden brechen auf und“ wandern Buguögelfhmwärme , fern hinab Und
+          eine Hoffnung nad) der andern Vällt welt vom Bann des Lebens ab.Nur du gedämpfte
+          LiedeSweife,</p>
+        <p>Du meiner Sehnfucdht tröftlig Wort,Du bleihft mir treu und raufcheft Leife Auch unterm
+          Eife </p>
+        <p>Wie eine Heiße Quelle fort.„Sm, Geibel.</p>
+        <p>Nicht durch SGelübde oder weibifche Gebete. erlangt man die Hülfe der Götter,
+          Wachfamkeit, Chätigkeit,Klugheit fichern in allen Dingen den Erfolg; wenn dır di der
+          Trägheit und Feigheit ergiebft, rufft du vergebens die Götter an; erzürnt und feindfelig
+          wen:den fie ih ab.Seneca.</p>
+        <p>IH freue mid mit einer {trebenden und in den Mefultaten noch nit gefangenen Kugend von
+          Neuem <pb/>En zu fireben; aber auch al8 älterer Freund Hefonnen und ernft ihr die Heiligen
+          Ziele der Menfhen und der Chriften zu zeigen, ohne melde au das Kultur:(eben volirte
+          Barbarei und das Studium iInteller-tncller Schwindel wird. Unfer Ziel ift nicht das
+          Willen, fondern edle Menfehlichkeit; unfer Ziel ift über ung allen, hoch über der arınen
+          Sterblichkeit,Bott der Lebendige.Dr. Ybheod. Keim, „Akadem. Antrittsrede,“</p>
+        <p>Der größte SGegenftand in der Welt, fagt ein großer Pbhikofoph, it ein redhtihaffener
+          Mann, der mit Widermärtiakeiten fämpft.Mlpenrofen 1566.</p>
+        <p>Wie die Pflanze die Kräfte ihrer NMeproduktion an Light und Luft nicht nur übt, fondern
+          in diefem Prozeffe zugleich ihre Nahrung einfaugt: fo muß der Stoff, an dem fih der
+          Berftand und das Vermögen der Seele überhaupt entwielt und übt, zugleich eine Nahrung
+          fein.Hegel.</p>
+        <pb n="24"/>
+        <p>Uns gegeben </p>
+        <p>Bum Troft ift holder Wahn, und wo entrathen </p>
+        <p>Muß foldhen edlen Sporns ein trübes Leben,</p>
+        <p>Muß rühmliches Bemühen.</p>
+        <p>In träge Ruh’ fi wenden und verglühn.Oiacomo Leopardi.</p>
+        <p>Doch mil ih gleichwohl, weil ih noch Hier trage diefes Leibes Joch,Auch nicht gar ftille
+          [mweigen.Mein Herze fol fidh fort und fort An diefem und. an allem Ort Bu deinem Lobe
+          neigen.Hilf nur und fegne meinen Seift Mit Segen, der. vom Himmel feußt.Daß id dir ftetig
+          blühe.Sib, daß der Sommer deiner Snad In meiner Secle früh und fpat Viel Slaubensfrucht
+          erziehe.Mach in mir deinem SGeifte Raum,Daß ih dir werd ein guter Baum,Und laß mid wohl
+          bekleiden;Verleihe, daß zu deinem Ruhm,IM deines SGartenz {Höne Blum Und Pflanze möge
+          bleiben.us Yanl Gerfard’s ‚„„Sommergefang.“<pb/>AR Wie ein Vater feinem Kinde Niemals ganz
+          fein Herz entzeucht,Ob e8 glei bisweilen Sünde EThut und au3 der Bahne weicht,Alfo Hält au
+          mein Verbrechen Mir mein frommer Gott zu gut,Wil mein Fehlen mit der Ruth’Und nidt mit dem
+          Schwerte rächen;Seine Straffen, feine Schläge,Ob fie mir glei bitter feynd!Dennoch, wenn
+          ich’8 recht erwege,Synd es Beiden, daß mein Freund,Der mich liebet, mein gedenke,Und mid
+          von der fHnöden Welt,Die un8 Hart gefangen Hält,DurghH das Kreuse zu ihm lenke.Alles Ding
+          währt feine Zeit,Sottes Lieb in Ewigkeit.</p>
+        <p>Aus dem Lobgefang von S, Gerhard.</p>
+        <p>Feigee Gedanken Bänglihes Schwanken,Weibilches Zagen,Nenaftlidhes Klagen <pb/>fr Wendet
+          Fein Elend,Macht diH nicht frei.Allen SGewalten </p>
+        <p>Zum Troß fih erhalten,Nimmer fih beugen,Kräftig fi zeigen,Rufet die Arme </p>
+        <p>Der Götter herbei.Soefhe.</p>
+        <p>Indem fo der Menfjch den göttlidHen Seift in {id wohnend Hat, wird er vom Seifte
+          getrieben.“. „Die der Seift Gottes trübet, die find Kinder Gottes.“ Der Böfe geht gegen
+          feine innerfte Natur, dagegen wird ihm das Sute zur (andern) Natur. Auf diefer hHöchften
+          Stufe des fittlidHen Lebens vollzieht fi dann die fittlidhHe Forderung, wie eine
+          Naturforderung, die Tugend -erfheint als das Kampflofe Herausfeken des in der
+          MenfchHenfeele Kiegenden göttliHen Schalts,der Menfch fiegt über das Böfe durch fein
+          Herz,nicht feinem Herzen zu Trog, und alles Handeln geht aus Dem unmittelbaren: Drang der
+          ganzen,Sotterfüllten Menfhennatur Hervor, ohne daß man jeden Augenblit ängftlihH fragen
+          müßte: wa8 ver:<pb/>A jangt jeßt die Moral von mir. Welche von beiden Seiten des
+          fittlidhen Lebenz, der Kampf um das Xdeal, oder die ruhige Harmonie des Natürlihen und
+          Sittligen das vorherrfchende bei einem Menfchen fei;z das Hängt von feiner NMaturanlage
+          und geiftigen Organifation ab, und e8 ift einer der folgenjHwerften Frrthümer der.
+          altkircdhliden Anfhanung, von weldhem die ganze Geftalt der orthodoren Dogmatik bedingt
+          ift, alle Menfchen in einen Tiegel der SündhHaftigkeit zu merfen, und daher von allen die
+          gleide Form und den gleihen Weg der fittlidhen Wiedergeburt zu verlangen: S. Sang.</p>
+        <p>Wäre e8 möglich die Stimmung, aus weldher bie Fanft: Dihtung Hervorgegangen ift, mit
+          einem einzigen Wort zu bezeichnen, Io wäre e8 jenes Wort,auf weldhes Göthe die Denkweije
+          Hamans zurücführt.“Alles mas der MenfdhH zu Teiften unternimmt, es werde nun durch hat
+          oder Wort oder Jonft hervor:gebradt, muß aus fämmtlidhen vereinigten Kräften zntfpringen ;
+          alles vereinzelte ift verwerflich.</p>
+        <p>5. Setiner.<pb/>6?Wer darf ihn nennen </p>
+        <p>Und mer bekennen </p>
+        <p>Sch glaub’ ihn.</p>
+        <p>Wer empfinden </p>
+        <p>Und fig unterwminden </p>
+        <p>Zu Jagen : ih glaub ihn nicht?</p>
+        <p>Der Allumfafjer ,</p>
+        <p>Der Allerhakter,</p>
+        <p>Faßt und erhält er nicht </p>
+        <p>DihH, mich, fih felbft?</p>
+        <p>Wölbt fih der Himmel nicht da droben?Liegt die Erde nicht hier unten feft?Und fteigen
+          freundlich blidend </p>
+        <p>Ewige Sterne nicht herauf ?</p>
+        <p>Schau id nit Aug in Auge dir </p>
+        <p>Und drängt nicht alles </p>
+        <p>Nah Haupt und Herzen dir?</p>
+        <p>Srfüll’ davon dein Herz, fo groß eS fei Und wenn du ganz in dem Sefühle felig bift Nenn’
+          e8 dann wie du willft,</p>
+        <p>Nenn’s Glück, Herz! Liebe! Gott!Ich habe feinen Namen </p>
+        <p>Dafür. Gefühl ift alles,</p>
+        <p>Name {ft Schall und Rau,Umnebelnd Himmelsaluth. Goethe.<pb/>AQ VBergänglichkeit,Wer jung
+          ins Grab fih bettet, den beweine nicht,Und daß das Leben ein Gewinn, das meine nicht.Dir
+          faugt der Geier Schmerz an deinem frifgen Blut,Doch quält er der Verftorbenen Gebeine
+          nicht.Sie ruh’n: fein Schrei der Sehnfucht gellt fie aus dem Schlaf!Beneidenzwerthes Loos!
+          E8 ift das deine nicht.Du fibeft fröhliH nimmer an des Lebenz Mal,Freujt dih an feinem
+          golddurhaglühten Weine nidgt,Denn bitt’re Tropfen [Ywimmen drin: wen trifft e8 bald?Der
+          Tod fhreckt auch vor fröhligHem Vereine nit,Und (Häumt des Lchenz Fülle durch die Säfte au
+          Dein fhon geprüftes Herz, e8 traut dem Scheine nicht.Und folürfelt du des Augenblids
+          Vergeffenheit,Sri fhrichft du auf: die Freude war die deine nicht,Drum wein’ um deines
+          Lebens wechfelvolle Noth,Doch für die Todten unterm Leihenfteine niGt! </p>
+        <p>In unfer8 Bufens Reine wogt ein Streben,Sid einem Höhern, Reinern, Unbekannten Aus
+          Dankbarkeit freimillig hinzugeben <pb n="3"/>(Enträthfelnd fih dem ewig Ungenannten,</p>
+        <p>Wir heißen: fromm fein! Soldjer feligen Höhe </p>
+        <p>Hihl ih mid theilhaft, wenn id vor ihr ftehe. -OGoefhe.</p>
+        <p>Wenn der Gott der Willführ und der Wunder für mi auffört, glaubwürdig zu fein, Toll 1 aud
+          an den night glauben, der fi mir offenbart in den Sefeben und Ordnungen der Welt, der vor
+          meinen Augen täglig fein Weltgeridht übt in den Sefdhicfen der Völfer, der in meinem
+          SGemwifjen mit mir redet al8 der Heilige und Serechte, verfolgend jede Ueber:tretung
+          ‚Jeiner Gefebe mit feiner unerbittlichen Strafe,der, fobald ich wieder einlenke in die
+          Geleife des Suten, fi mir zu fühlen gibt al8 der Gnäbige, der daz reuige Kind mit feurigen
+          Armen an fein Herz zieht, ihm zuruftz Friede fei mit dir! Das Alte ift vergangen, e8 Joll
+          Alles neu mwerden;“ und die Seele füllet mit Freud und Wonne. Diefen Gott der religiöfen
+          Erfahrung folte ich nicht glauben fönnen? glauben müßen? Wer darf fagen: ich glaub Shn
+          nicht in dem wir doch keben, weben und find.</p>
+        <p>Heinz. Sang.<pb/>OD wir tragen Unfraut,Wenn [Harfer Wind un8 IHont, und wer un8
+          tadelt,Der n»flüct uns um.Shakespeare. (Antonins.)</p>
+        <p>Und erfenn e8 far Wie alles [Hmwankfend und gefahrvoll ift Im Menfdhenleben. Slück und
+          Mißgefchiek.Wer frei von Schmerz ift, blide hin auf’3 Leid Und wer im O©lück lebt, der fei
+          vor Allem Auf feiner Hut vor undbenerftem Sturz.Sophokles. (Philoktet.)</p>
+        <p>Timotheus wurde durch einen Beldhluß der Cpho-ren au3 Sparta verbannt, weil er der Lyra
+          noch drei Saiten zugegeben.</p>
+        <p>DBefenntnifje des Heil. Auguftin: Und es gehen die Menfdhen hin und bewundern Hohe Berge
+          und weite Meeresfluthen und mächtig dahin raufdhende Ströme und den Ocean und den Lauf der
+          SGeftirne und verlaffen fi felbit barob.<pb/>+4)Wenn man diefe Sonette und Canzonen und
+          bazwifhen die wunderfamen Bruchftücke des Tage:6uchs feiner Iugend aufmerfjam lie8t, fo
+          er] eint 28 al8 ob daz ganze Mittelalter hindurch alle Didter fi felbft gemieden. Er
+          (Dante) zuerft fi felbit aufgefucht habe,DBaurkard.</p>
+        <p>Der Roman Pamela, der im Jahr 1740, Ger au3 fam, Hatte Nihardfons Ruf auf den Höchften
+          Sipfel erhoben. Diefes Buch, meldhes Stellen enhält,bie un8 Heut fehr unfohiclidh
+          erfheinen würden, wurde damals fogar von der Kanzel Herab anempfohlen.</p>
+        <p>Unter den edlen Männern, die mit Muth und Einfiot unferer Zeit den Spiegel beffen, was
+          fie war und Deffen was fie werden foll vorzuhalten wagten, verdient Schloffer die erfte
+          Erwähnung,Waz unz in feinen Schriften zunächft mwohlthätig berührt, ift die völlige
+          Rückfichtslofigkeit, mit der er die Wahrheit und zwar die ganze volle Wahrheit nad) allen
+          Seiten hin aus]pricht. Weder die Scheu <pb n="73"/>vor einem Verftoß gegen irgend eine
+          äußere Autorität,no der Eindruck der allgemeinern Stimmung hat je auf ihn gewirkt. In dem
+          ftolzen Gefühle feines Werth3 und der Unfträflichkeit feines Gemwifjens ftand or allein.
+          Er verwifdht Feine Thatfacdhen, er mildert Feine Schwäche,3. Schmidt.</p>
+        <p>€ ijft nicht3 leichter, al8 aus dem Bilde einer urfprünglidgen Natur alle Größe
+          wegzumwifchen, man barf nur fein Leben in die einzelnen Tage zerlegen und den verbindenden
+          Faden fallen Kaffen.Der Obige.</p>
+        <p>Du prahHiit fo laut mit deinem Glück «nd ladeft dadurch das Unalück in dein Haus.</p>
+        <p>Reich ift an eigner Tugend, wer die fremde ‚rt.<pb/>Bu Sclaven macht uns unbejhränkfte
+          Freiheit,</p>
+        <p>Ein Herz, das wohl mir. will, fhäß ich nod mehr al3 meines Bruders Blut.X, Syrus (griech.
+          Dichter).</p>
+        <p>Toute casse Tout se casse Tout passe.Benny Lind,</p>
+        <p>Was die Didhter der neuern Schule vor unfern ältern Uyrifern unter[heidet, ift, daß fie
+          niemals bei der Sache find. Die Kunft Hat die Aufgabe,den Segenftand in finnlicher
+          Klarheit zu zeigen, nidt verwirrt durch anderweitige Borftellungen. E83 ij in der Malerei
+          ebenfo. Der Künftler Kann die glän:zendften Farben und Linien anmenden, fie werden feinen
+          Eindruck machen, wenn fie nicht der Sache angemefjen find und wenn fie die Einheit der
+          Stim:mung {tören. Faft in feinem Zweige der Kunit wird <pb/>7m die Übweichung von diefen
+          Sefeß fo inz Große ge:trieben, wie in der Lyrik. Man gebraucht den Gegen-ftand faft
+          Lediglich dazı, eine Meihe glänzender Sil-der, Meflerionen, Gefühle daran zu nlpfen, ohne
+          fi darum zu Ffümmern, ob fie in irgend einem Verhältniß zum SGegenftande ftehen. Daher die
+          Styllofigkeit der Form, das breite cogette Verweilen bei NMebenfadhen und dıe
+          leichtfertige Haft in der Darftellung der Hauptfadhe, endlihH Unklarheit und
+          NRathlofigkeit in der fittlidhen Färbung. Der wirkliche Dichter ft immer objektiv, d. hH.
+          er wählt immer die realen Charaktere und Ereignifje fo wie er fie für Tein Ideal braucht
+          und wendet diejenigen Farben und Striche an, die dazu geeignet find, Ddiefem Ideal Leben
+          zu verleihen. Wir Haben immer das Gefühl der innern NothHwendigkeit, weldhes der
+          mwefentliche Prüfftein für den Werth eines Sedichtes ift. Heut zu Tage ift e8 unfern
+          Didhtern unmöglihH, fih auf längere Zeit in einen Segenftand mit Andacht zu vertiefen; fie
+          nüffen bei diefer Gelegenheit ihre An:fidten über Sott und Welt, ihre Kenntniffje über die
+          Naturmifienihaft und den Contrapunkt, ihre metas phyfifgen SGrundläge und die
+          NMeminiscenzen aus dem Salongefhwäß anbringen. .</p>
+        <p>3. Schmidf.<pb/>"Ce Nachdem das Volk die Sebichte Virgils gehört hatte, erhob es fih in
+          Mafle und erwies dem zu:fällig anmefenden Dichter ebenfo wie dem Auguitus feine Chre.</p>
+        <p>Man Iaffe jeden nicht nur nach feiner Facon jelig werden, fondern au fhon auf Erden
+          möglichft nach) feiner Facon glüclih fein.- Niel.</p>
+        <p>Ueber Grab und Srabkult haben die eilenden VahHrhHunderte und alle Neuerungen, die fie
+          mit fih führen, nur geringe Macht. Ihre Symbolik in den älteiten Anfdauungen unferes
+          Sefhlechts wurzelnd,reicht. unverändert, menn auch zulekt nicht mehr ver:jtanden, hinab in
+          die Zeiten des finkenden Chriften:thums und über diefe hinauZ in das neue Weltjahr,das
+          Chrifti Menfdhwerdung eröffnet hat. Späte und frühere SGefcdledhter treten in unmittelbare
+          Berührung und mit der Bedenutungskofigkeit zeitliher Trennung verbindet ih diejenige
+          volfliHer Berfhiedenheit und räumlicher Entfernung. Liefert für jene dasz Ei:<pb/>ymbol
+          ein Höchft merkmürdiges Beifpiel, fo Fritt die (ebtere in dem feilfledhtenden Denus, den
+          Yegypten,Mfien, Griechenland und Italien in gleicher Weife fennt, nicht weniger
+          überrafhend hervor. Die große Bedeutung, weldhe die alte Gräbermelt gerade durch diefen
+          Charakter der Stetigkeit und Unwandelbarkeit gewinnt, wird durch den Einbli, den fie uns
+          in die ihönfte Seite des antiken Geiftes eröffnet, noch er:pöht. Vermögen andere Theile
+          der Alterthumswifjen-haft unfern Verftand zu fefjeln, fo gewinnt die Be:irachtung der
+          Nekropolen unfer Herz und vermag nicht nur unfer Wiffen zu bereichern, fondern auch
+          tiefern Bedürfnifjen - Nahrung zu gewähren. IH habe, wo fig Gelegenheit dazır bot, nicht
+          unterlafjen auch diefer Seite meine Betrachtung zuzumwenden und jo viel an mir lag, jene
+          Gedanken wieder zum Be:mußtfein zu bringen gefucht, deren Füke und Hoheit an der Stähte
+          des Todes nur das Symbol, nicht die Sprache, darzulegen vermag. Dadurch bin ih vor allem
+          einem Bedürfniß meiner eigenen Natur gerecht geworden, vielleicht aber au dem Höchften
+          Biele aller Alterthumsforfhung, die Ibeen früherer Befdhlechter einer Zeit, die der
+          Erfrifhung gar fehr bedarf, in ihrer Hohen Schönheit zu erfchließen, näher zefommen al8 e8
+          an einer der. Form und der Ober:<pb n="7"/>ffäcde der Dinge Haftenden Betrachtung
+          erringbar ift. Die ridhtige Verknüpfung des Befondern und des Agemeinen ift das Scheimnif,
+          worin alles BVerftändnif ruht. Ift diefes für fih mwerthlos, fo bilden fie dagegen durch
+          ihren Verein ein Sanzes, das beiden Seiten de3 menfHlidHen Seiftes, feinem Be:dürfnik nach
+          Manigfaktigkeit und feinem Streben nad Einheit, gleidhermweife genügt.3. 3... Bachofen
+          über SGräberfymbolik der Alten.</p>
+        <p>Magft dur den Feind mit Liebe aud behandeln,Du wirft ihn nie zum wahren Freund
+          verwandeln.Sirduß.</p>
+        <p>Der Menfch fällt nur gar zu Leicht in den SFrrtyum,dasjenige für groß, für mächtig zu
+          Halten, was mit itarfen Eindrücken auf feine Sinne wirkt und Teicht gibt er fi Der
+          Täufgung hin, daß dasjenige aud unbedeutend fei, was unbemerkt und geräufhlos,aber ftetiqa
+          im Stillen wirkt.Schleiden.<pb/>”Q </p>
+        <p>Des Herren Auge dürtgt das Land.</p>
+        <p>Der griechifhe Künftler Dinokrates, oder wie ihn ındere nennen Nafikrates, der Erbauer
+          Alerandriens,irat einft vor Alerander den Sroßen hin und tadelte die Künftler, welde den
+          gewaltigen Welteroberer bis:ger in Farben, Erz und Marmor Herzuftellen verfucht,da doch
+          foldhe Bildchen, die gekauft, geftohlen und ingefHmolzen werden Könnten, nicht® weniger
+          als nürdige Denkmäler feiner Größe feien. Ih dagegen jJabe mir vorgenommen, {prad) er, in
+          einem unver:gänglidhen und lebendigen, ewig fejtwurzelnden Stoffe in Abbild unbewegbar und
+          unerfHüttert für die Swigkeit hHinzuftellen. Der thrakijde Berg Athos,da wo er am Hödhften
+          und fihtbarften über dem Meere auffteigt, fol durch meine Kunft zu einem Standbilde
+          umgewandelt merden, das Alexander mwürz dig, mit den Füßen daz Meer, mit dem Haupte die
+          Wolfen berührt; in der rechten Hand eine volfreiche Stadt tiragend, mit der linken aber
+          einen immer Tießenden Bergftrom auZ einer Opferfhaale in das Meer ausgießend.<pb/>ACC Wo
+          du deine Zeitgenofjen findeft, umgieb fie mit edeln, mit großen, mit geiftreiden Formen,
+          fHlicke fie ving8 um mit den Symbolen des VBortrefflichen ein, bis der Schein die.
+          Wirklichkeit und die Kunft die Natur überwindet.Schiller.</p>
+        <p>Der Schmerz ift eine Frucht, Gott "yäßt fie nidt gedeihen Am Zweige der zu IHwahH noch
+          wäre für die Laft.DT, Hugo.</p>
+        <p>Die wahre Tugend ift, daß Ieder jede Frift Das thut, wozu er taugt und tüchtigq ift.</p>
+        <p>1523 ftarb ‚auf feiner unbefejtiaten Burg Land:ftubl Franz von Sidingen. Hutten prie8
+          feine Schlöffler al8: Herbergen der Gerechtigkeit. Da find die. Männer rechte Männer, da
+          wird Gutes und Böles an- feinen gebührenden Drt geftellt, jedes gilt <pb n="4"/>was e8
+          werth ift. Da Herrfchen Sottesfurht und Menfchenliebe, die Tugend fteht in Chren; Habfucht
+          Ändet Feine Stätte, der Chrgeiz ift verbannt, Treu-(ofigfeit und Bosheit find weit
+          entfernt; da find die Männer nicht nur frei, fondern au Hohherzig;man geht dem Rechte nach
+          und flieht das Unrecht mit Abiheu; man Hält Verträge, bewahrt die Treue,verehrt das
+          Heilige, fhirmt die UnfHuld.</p>
+        <p>‚..Die dritte Kategorie hefteht aus einer fpecififchen Ybart der „beiten Männer“, welde
+          ihrem Egoismus die Maste der Selehrfamkeit auffebt. Zunfimäßige Nachbeter fHolaftijdher
+          Weisheit, zeihnen fie fic dur ihren Dünkel aus, der nur von ihrer, dureh hohles Wiffen
+          gepflegten Charakterfofigkeit, überboten wird. Ihnen gilt jener Sas, weißer den
+          überflüffiz zen Ballaft und das obligate Rothwelih verjhmäht,um das NMefultat der Forfhung
+          in bürgerlicher Rede:weile vorzutragen, für unwiffenfhHaftlich. Diefe Baalspfaffen der
+          Wiffen[hHaft, die weder die Logifche Kraft befigen, ihre Ideen felbftftändig zu
+          bilden,noch das fprachlide Vermögen, ihren Gedanken ein zigenes Gewand zu IHaffen, Halten
+          fiHd für gewiegte A <pb n="39"/>AMeifter, wenn fie die Formeln der Schule breit
+          treten.</p>
+        <p>Mer daz, was er fagen will, nicht in gemein,verftändlidher Sprache fagen kannt, der
+          verfteht fidh felbft nicht; der Hat eine fremde Formel im Kopfe,die vielleicht gefeßmäßig
+          gebildet ift, Die er jedoch im Strome des wirkenden LebenZ nicht ffüßig zu machen müßte,
+          und deren wahren Werth er nit darzuftellen vermag. Die Denkwijfenfchaft bedarf nidht
+          diefes Formenkram8, der ihrem eigenften Wefen zuwider Hr und nur den Mangel an Inhalt
+          verdefen Hilft,3. fan.</p>
+        <p>Treten Künftler in einem Lande auf, ift die Rraft derfelben fo umfaffend und tief, daß
+          ihre Schöpfungen zu einem heile des allgemeinen geifli:gen RNeichthHums werden; dann
+          Hietet die Stellung,welche folge Männer einnehmen, Feinen Maßfjtab für die Behandlung
+          weniger begabter Naturen. Weder ir hoher Mang (wenn er ihnen eingeräumt wird)no ihre
+          Verlafjenheit (menn ihnen diefe zu Theil wird) gibt für Andere ein Präjudiz ab. Solde
+          Seifter Haben ihre eigenen unberechenbaren Schicklale.<pb/>=Meijtentheils ft e8 großen
+          Dichtern und Künftlern zlend genug ergangen. Daran ift weder die Bosheit der Menfchen,
+          noch die fehlerhafte Einrichtung des Staatsorganismus fhuld gemwefen. Der Srund liegt
+          darin: daß foldde Männer dem praktijhHen Leben des Tages nicht3 bieten können. Während fie
+          an die Kahrhunderte denkend, den Tag vergeffen, rächt fich der Tag und verweigert ihnen
+          das, was er denen fo reichlich gewährt, weldhe ohne Sebdanken an nach:her und vorher, der
+          Gegenwart mit allen Kräften zu dienen beitrebt find.nermt. Orimm.</p>
+        <p>Die Hervorhebung der Eigenthümlichkeiten des Ipantfden Dramas, namentlig feiner
+          VBermifdhung des Komifhen und Tragijdhen war e8, welche Leffing auf das wichtige Zhema von
+          der NMadHahHmung der Natur durch die Kunft führte.</p>
+        <p>In der neuern NWefthetit ift jene Frage dahin zrledigt, daß die Kunft eben die
+          Erfheinung, weldje die Natur gefhaffen,. aber im SGedränge des ftörenden Zufallzg
+          Trübungen jeder Art ausgefeßt Hat, auf die Reinheit zurücführt und fo gereinigt in einem
+          idealen Scheinbilde wiederholt, während fie in der Zurück:<pb/>führung felbjt das Vorbild
+          mit der Beftimmtheit feiner Formen und der Wärme feiner Lebendigkeit nacheifernd im Auge
+          behält.</p>
+        <p>Lefage,. der des Morgen bald nad Sonnenaufs gang aufftund, murde Lebhafter,
+          tHeilnehmenbder und Fräftiger, jemehr fi die Sonne dem Meridian näherte;aber fo wie fie
+          fid zum Untergange neigte, verän:derten fiG Empfindungsfähigkeit, Klarheit des SGeiftes
+          und Fähigkeit der Sinne ganz in demfelbden Maaße al8 er bald nad Sonnenuntergang in eine
+          Art von Lethargie verfiel, aus der man ihn nicht einmal zu erwedden vermochte.</p>
+        <p>Eine Brantweinfäuferin litt an einer volllomme-nen Lähmung des rechten Aıms. Al ihr eines
+          Tages ihr Enkel erzählte; Der Arzt Habe gefagt,daß ihr Saufen wohl die Urfache ihres
+          Nebel8, jeden:fall8 aber die angeftellten Heilverfuche vereitle, gerieth fie in heftigen
+          Zorn, daß fie dem Knaben eine Fräftige Mauljchelle mit dem gelähmten Arm gab,defien
+          Lähmung von Grund au3 gehoben war.</p>
+        <p>Dr. $. Wald.<pb n="35"/>Wie! das Bedenken, was man glauben Könne,Sollt Euch ein gutes
+          Werk zu thun verhindern?Nein, Handeln wir nur ftet3 nad unfrer Pflicht Und fümmern uns um
+          Feine andere Sorge.Yoliere.</p>
+        <p>Bernt Tugend unterf[Heiden von dem Schein,</p>
+        <p>Seid nie zu {nel zur Hand mit Eurer Addtung,</p>
+        <p>Und mo ihr zweifelt mählt den Mittelweg.</p>
+        <p>Man fol zu leicht nicht jedem Trug vertrau'n,</p>
+        <p>Und doch die feltnen Suten nicht verfennen.</p>
+        <p>Und müßt ih mid für ein Eytrem entfhließen ,</p>
+        <p>So fehlt ih Keber durch zu viel Vertrau'n.Doliere.</p>
+        <p>Dante wußte noch nicht, daß die Erde fih um die Sonne bewege, gleichwohl Hatte er
+          bedeutende Renntnifje in der Ajtronomie, und feine NMaturbe:raddtung war nad allen Seiten
+          geöffnet. Heute fennt Jedermann den Sang der Erde, aber allge:meine Sfeichgiltigkfeit
+          macht den Werth erweiterter Renntniß leblos und fruchtlos.<pb n="26"/>Anftatt dem Himmel
+          zu danken, wenn man nicht zu erforjhen braucht, wie und mit welchen Kämpfen ein Dihter das
+          Unvergänglide aus feiner Umgebung und au8 feinem armen Leben Heraus ins Sichere bradite,
+          Hat man aus feinen Reliquien ( Betrarcas)eine Lebenzgefchihte zufammengeftellt, welche
+          einer Anklage ähnlich fieht.Rurkardf.</p>
+        <p>Darwin fucht zu beweifen, daß die ganze orga-ni[He Welt in einer unaufhörliden Wandelung
+          be:griffen ift, in Folge deren fi die heutigen, wenn auch noch fo Hoch organifirten Thiere
+          und Pflanzen au8 einer oder einigen einfachen Urformen entwidelt haben. Da daz Pflanzen:
+          und hierreih auf ihren unterften Stufen in einander übergehen, fo ift die Annahme eine8
+          einzigen primitiven nach obigen An:deutungen ohne Zuthat eines SchöpferS entjtandenen
+          Organismus mahr[heinlicdher, aus welcher fih fpäter zahlreihe Formen in den zwei
+          Hauptrihtungen der organijdHen Meiche Herausgebildet Haben.<pb n="3"/>4 Goethe macht die
+          Entdetkung, daß auch der Menfch zinen Zwifhenknochen der obern Kinnlade (os
+          inter-mascillare) habe. Bis zu diefer Entdekung hatte man angenommen, daß der Knochenbau
+          des MenfHen von dem des Thieres felbft auf feiner Höhften Entwicklungs:Rufe, dur den
+          Mangel diefes Knochenz fih unter:Igeide. Goethe gelangte zu diefer Entdeckung durch
+          Ber:gleiden von Thier= und MenfhenfhHäbeln und durch die Ahnung der durhaechenden Einheit
+          der Natur.</p>
+        <p>Daz Denken, das den Willen in der Bildung des Charakter3 leitet, Halt in der Sefühlstiefe
+          wieder,wird Sefinnung. Die Sefinnung bewegt mächtig die Welt der Triebe und Leidenfhaften
+          und Hält fie zugleich zur Cinheit des geiftigen Gefekes zufammen.Mit diefer geiftigen
+          Wärme die Welt in fiG und fig in der Welt vernehmend, heißt der Charakter SemüthH und dies
+          gibt ihm zur Schneide die Innig-feit. Wenn wir die zufjammengehaltene, im eigenen Bentrum
+          unendlich webende und diefes Centrum zum Welteinflange erweiternde Sefühlstiefe des
+          Charakters Semüth nennen, fo wende man nicht ein, der große Mann. der eneraiflch
+          Entichiedene fei nicht gemüthlidh.<pb/>3Q Gemüthlichfeit, was wir fo nennen ift cS nidht,
+          wo:von wir reden; diefe8 Element einer hHalbfinnlichen,wohligen Behaglichkeit bezeichnet
+          FeineSwegS jene im Kampfe errungene Umbildung, jene geiftige Liebe,um die e8 fi Hier
+          Handelt, vielmehr ftedt gewöhlich nur Das’ ungebildete Herz dahinter, das gutmüthig ift,
+          fo lange e&amp;8 nicht boshaft, aufgeräumt fo lange e8 nicht Taunifh ft. Das SGemüth ift
+          tief, fejt und treu, denn e8 gründet im Willen. Die ächte Innig-Ffeit ift e&amp;8, durch
+          die wir im Anbhlig des Charakters den Eindruck Haben, zu Haufe zu fein, denn er’ ift_feine
+          eigene Welt und Hat in diefe feine Welt die Welt aufgenommen und ans Herz gefchloffen, ift
+          alfo eine Angel der Welt und der Zufhauer ruht an ihm aus, weil er die Unendlichkeit
+          findet. Semüthlichkeit geräth bei der näcften Gelegenheit außer fih, Se:müth bleibt in
+          fich.Sir. Difßher (Lefthetid).</p>
+        <p>Sut Brutus, du bift edel, doch ich fehe </p>
+        <p>Dein Löblidhes Semüth kann feiner Art </p>
+        <p>Entfremdet werden. Darum ziemt e8 fidh,</p>
+        <p>Daß Eble fi zu Edlen immer Halten,</p>
+        <p>Wer ift jo fejt, den nichts verführen kann.Shakespeare.<pb/>:Q Bleib bei un gnädig, reft’
+          dein Chr,</p>
+        <p>Erhalt dein Wort und Heilfam Lehr.</p>
+        <p>Du Haft doch allen Swalt -und Macht,</p>
+        <p>Dbgleih die Welt dein nicht viel adht,</p>
+        <p>Was iit die Welt, was it ihr Kunft,</p>
+        <p>Was ift ihr Phantafei und Dunit!</p>
+        <p>Wer dein Wort Hat, derfelb befteht,</p>
+        <p>Sunft, Kunft, Stolz, Muth, Troß, OÖmwalt vergeht,N. Seluedker 1530,</p>
+        <p>Ö’we was find verfgmwunden allin minin Sahr!Xit mir mein Leben getraumet oder it e&amp;
+          wahr?</p>
+        <p>Alters-Freude und Abentfhin Mögen wohl gelih einander fin.Sie troeftnet wol und varent
+          hin,Als ime regen ein muedin bin.MBMalter von der Bogekweide.</p>
+        <p>Saelsfield gab dem Kertbeny auf die Bemerkung,aß er ein urächtes Deutih {chreibe, troßdem
+          er in <pb n="90"/>frühefter Jugend dem deutfchen Boden, dem deutfchen Klange entrüct
+          worden fei, zur Antwort: Sehı richtig da3 Niterarifhe Deutfdh feit wenigftens zwei
+          Kahrhunderten ging aus Iateiniicher Bildung hervor,ahınte des Römifhen oder gar des
+          Küchenlateins,dann des Franzöfijhen Beugungen nad. Ih dagegen ging aus dem Englijdhen
+          zurücg ins Deutfche. Das Englifhe aber, troß feiner Vermifjhung mit gallifcdhen Worten,
+          ift in feinen Grundbau angelfäch fifch, dänijd oder weiß Sott fonft mas, aber jedenfalls
+          reiner germanifd erhalten. Ih madte daher nicht8, als ich fhrieb mit deutfhen Worten
+          englifch, nach englifdhen Conftruktionsbedingungen , und fiehe da das war denn deutfcher,
+          als das Iateinifhe Selehrten:Deut{h.</p>
+        <p>Wer die Sefhihte durdhforfcht, muß die Poefie al8 einen der mächtigften Hebel zur
+          Erhöhung des Menfhengefhledht3, ja alz wefentligHes Erforderniß für deffen Auffdwung
+          anerfennen; denn wenn jedes Bolke8 eigenthümlide Sprache der Stamm ift, an dem alle feine
+          innerften Kennzeidhen fi darthun und entfalten, [o geht ihm erft in der Dichtung die
+          feines WadhHzthum8 und Sedeihenz auf: Voefie ft das,<pb/>wodurch uns unfere Sprache nit
+          nur lieb und Heuer, fondern woran fie un8 auch fein und zart mird, ein fi auf fie
+          niederfebßender geiftiger Duft.Fines VBoltes Sprache, weldem Keine Dichler auf:zrjtanden
+          find, ftodt und beginnt almälig zu welfen,mie da3 Bolt felbft, dem foldhe Begeifterung
+          nicht zu Theil ward, zurück gefebt und odnmächtig erfcheint,gegenüber den andern fih daran
+          erfreuenden. Der zinzelne Dichter ift e8 alfo, in dem fihH die volle Natur des Volks,
+          weldhem er angehört, ausdrückt,gleichfam einfleifht, al defjen Genius ihn die Nach=welt
+          anfdhauen wird, auf den wir Mitlebenden aber ion mit den Fingern zeigen, weil er unfere.
+          Herzen gerührt, unfern Gedanken Wärme und Kühlenden Schatten verliehen, einen des Lebeuz
+          SGeheimnijfe aufdrehenden Schlüfjel gereicht hat.Zakß. Orimm.</p>
+        <p>Am lang verfchleierten Gemälde bleichen </p>
+        <p>Die Farben endlich ab, melf wird die Blüthe,</p>
+        <p>Die fi umfonft nad Lit und Sonne mühte,</p>
+        <p>Die Kraft verfiegt, Kanır fie nicht Muhm erreichen.3. £ingg.<pb/>)°8 ift ein Wunder und
+          fehr ärgerliH Ding, daß,nachdem die rechte und reine Lehre des Evangeliums wieder an den
+          Tag gefommen ift, die Welt immer ärger geworden ift. Iebermann zieht die AHriftlihe
+          Freiheit nur auf fleihlidgen Mutywillen. Darum ijt des Teufel8 und des Papftes. Reich, was
+          das äußerlide Megiment anbelangt, am Deften für die Welt, denn hiemit will fie regiert
+          fein, mit firengen Sefeben und Rechten und mit AWerglauben. Durdh die Lehre von Sottes
+          Gnade wird fie ärger. Ad!Welt bleibt Welt! Hat ihr unjer Herr Iejus night Gelfen Können,
+          fo mwerdenz wir au Dabei bleiben (afjen und fie immer hinfahren kajfen, wohin fie ge:Hört:
+          zum Teufel!Sufher.</p>
+        <p>KXeder arbeite für das Volk, morunter ihn fein Schietfal geworfen und er die. Iugend
+          verlebt Hat,juche deffen Herz zu erfhüttern und mit WohNAuft und Entzücen zu fHmwellen,
+          fuche deffen Luft und Wohl zu verftärfen und zu veredeln und Helfe ihm weinen,menn e8
+          mweinet.Geinfe.<pb/>Das Hauptvergnügen an einem Kunftwert für zinen weifen Beobachter madt
+          immer am Ende das Herz und der SGeift des Künftlers8 felbft und nit die voraeftellten
+          Sachen.Obiager.</p>
+        <p>Schulplan des tHalmudifch=rabbinifhen Unterrichts vom -Kahr 1650.</p>
+        <p>Nahe bei der berühmten pradtvollen Synagoge ift das Schulhaus mit fechs Klafflen. In
+          jeder Klafie ift ein Lehrer; in der erften lernen die Kinder hebräifh lefen; in der
+          zweiten die fünf Bücher Mofes mit dem dabei üblihen Recitativ;z in der Dritten überfeßen
+          fie Die fünf Bücher Mofes mit dem Commentar des RMafdhdi, in der vierten lernen ie die
+          Hiftorijhen und prophetilHen Hücher der Reihe nad mit dem Recitativ, ein Knabe liest einen
+          hebräifhen Vers, überfebt ihn, die Andern Hören au u, ff, in der fünften Kaffe gewöhnt man
+          die Knaben den gefeblidhen Theil des Thalmuds (Halacdha)von felbit zu Lefen und zu
+          verftehen, hier fprehen fie num in Hebräifher Sprache, die Halaha auszgenom:men, die in
+          die Landesvrache Überlebt wird, auch <pb/>Q4 fernen fie hier gründlih Srammatit und
+          fäglihH eine Aohandlung auz dem Thalmud (der Semera), beim Herannahen eines Fejtes werden
+          die Meblichkeiten diefes Feftes in dem NRitualbuche ftudirt. Von hier Fommen dan die
+          Schüler in die fedhste Kaffe, auf die Hohe Schule zum Präfidenten des Nabbinerfolle:gium8,
+          hier lernen fie täglich einen Ab{Hnitt in der Srammatik und in den verfhiedenen
+          Commentatoren,Halten Disputationen über Mainonides und andere Dogmatiker und Haben eine
+          reich verfehene Bibliothek die ihnen zur freien Benugung im Haufe zu Gebothe fteht. Die
+          Unterrichtszeit ift für alle Klaffen gleich,Morgenz von 711 und Mittags von 25 Uhr,im
+          Winter zur Zeit des Abendgebetes.Spinoza, Bd. 1, S. 25,</p>
+        <p>Die SGefchidhte der MenfHheit ftellt unz die Be:wegung des menfdhlidhen Seiftes aus
+          feiner Natür-likeit Heraus zum göttliden Seijte dar, fie zeigt un8, mie der Menfch
+          anfänglihH in die tieffte Natür-(ichkeit verfunkfen, der Natur, außer ihm unterthan, in
+          jeinem Handeln durH die wenn au von Anfang gottbegabte, alfo nit thierijde Natur in
+          ihm,<pb/>GR dur) bloße Naturantriebe Geftimmt, allmälig durch Religion, Sitten und Gefege
+          die Sinnlichkeit bändigt,die Schranken des Bodens und Mimas bis auf einen gewifjen Grad
+          durcdHbricht und aus dem Weben des natürlichen Triebes fiH zum Leben des GSeiftes em:por
+          arbeitet. Auf Feinem Punkte diefer Entwicklungs:dahn ift der MenfdH nur der Menfh nur der
+          endliche Ichlechte, gottentfrembdete, unvernünftige, das Göttliche it ihm immer
+          gegenwärtig, weil die göttlige Chen:6ildlichkeit zu feinem Wefen gehört; daz der
+          menfch-lien Natur von Haufe aus einwohnende Göttliche,das in’8 natürlide MenfchenhHerz
+          gefhrieben, göttliche Sefeg (Nöm. 2. 14.) beginnt feine Entfaltung mit dem Anfang der
+          menfHlihen Entwidlung und ver:Ihafft fi einen Ausdruck in den Religionen, Mytho-logien,
+          Poefien, Sefegen, Sitten und übrigen Lebens-Tormen felbft der ungebildetften Voller. Diele
+          Entwicelung. des menfhlidhen Geifte8 vom Niedern zum Höhern muß einerfeit8 betrachtet
+          werden als die jelbiteigene That des MenfhHen, als feine almälige Entfaltung aus dem Traum
+          des natlrlidhen, finnlidhen Lebens, in weldem er anfang8 befangen ift, zur vollen Freiheit
+          und Unendlichkeit des SGeifteS; e8 ft die Sefdhichte der fi bildenden und entwidelnden
+          Vernunft, deren ThHätigkeit wir au wieder finden,<pb/>2]a wo ihre Produkte unferer jebigen
+          Erfenntnif ganz fremd und unvernünftig erfheinen, wie in den Mytho:fogien der alten
+          Bölfer, in den Dogmen und Kirdhen:gefhihtlihen Kämpfen des Mittelalters. Nur bei diefer
+          Betrachtung erfcheint die Sejdhichte des menjdh-chen SGeiftes nicht bloß als eine
+          Gejdhihte der trauig-ten unbegreiflichften Berirrungen, nicht als eine Rum:pelfammer de8
+          Unfinn8 und YNoermikes, nicht als ein finnlofes Wirken KHMeinlicher perfönliher Motive und
+          äußerer Zufälle, wie der rationaliftijdhe Sefhichtsprag-matigmu8 fie betrachtet Hatte,
+          fondern al? eine organijde Bewegung, al8 eine, wenn auch nicht ftetige, dog im Sanzen
+          geordnete NMeihe von Entwicfelungen, die im Trieb des SGeiftes begründet find, das ganze
+          geiftige und natürlide Univerfum mehr und mehr al8 feine Wirklichkeit, als Spiegel feiner
+          felbft zu erkennen, als eine innere. Nothmwendigkeit, die fig in dem trüben Spiel äußerer
+          Zufälligkeiten und menfhliher Willfür immer wieder zu behaupten weiß.$% Lang. Sang durdy
+          die Hriftf. Welt.<pb/>A“</p>
+        <p>Und Schönes {ft ja Götrliches, Teicht verhüllt Durch einen For, den un8 des Denkers
+          Weljen erfor]hendes Auge Wftet.Daten.</p>
+        <p>Walter Scott macht die Sittlihkeit zur Bafız aller Xunft. Iede unfittliche Anregung Haßt
+          er und mit Recht, Aus feinen Werken, die nie und nirgend ud) nur von Ferne das Unedle in
+          Schuß nehmen,dürfte fih daS vorausfeben lafjen. Allein e8 Könnte im Stoffe, im Talente des
+          Verfafjer8 liegen, daß er Rippen zufällig mied, die fo mandje unferer Schrift:iteller
+          aufzufuchen Jheinen. Um fo mehr erfreut uns jet dieje Reinheit feiner Werke, da wir
+          finden, daß fie aus begründeter Kunftanfiht hervorgeht. Wäre gier der Ort dazu, eS Kieße
+          fih Manches über diefes Thema fagen und thäte noth, daß e8 gejagt würde.68 ift wahr, die
+          Theorien Haben viele Winkelzüge aufgefunden, gewiffen Ausfhweifungen in das Gebiet der
+          Unjittlichfeit, die fie durch das Vorbild der größe:ten Meifter zu rechtfertigen fuchen,
+          al8 ein der Runft angehöriges Recht zu erweifen. Winkelzüge die nicht Keicht und nicht aus
+          dem Steareif zu wider <pb/>3?(egen find. Man möchte in diefer Beziehung mandjen
+          ScHriftftellern des Heutigen Tages ftatt aller Fritifdhen Sründe, Goethes Wort
+          ‘zurufen:</p>
+        <p>Wollt ihr erfahren mas ih ziemt,</p>
+        <p>So fraget nur bei edlen Frauen an.</p>
+        <p>„.. Denn der Sinn für das Schöne hängt ftreng mit dem fittligen Sefihl zufammen; einem
+          reinen Semüth verfhmikzt beides in Eins. Wer fi daher am Semeinen in der Kunft erfreut,
+          der fet arg:möhnifdh gegen feine Sefinnung in Leben und That...</p>
+        <p>Daz große Sejebe, nach dem alle äußern Be:ftimmungen und Formen fih überleben und
+          zerfallen müflen, weil der Seift, in emwiger Verjüngung und Fortfchreitung fie auswächst
+          und zerfprengt, diefes Sefeb, nad dem fih fogar das Recht ändert, dem fi Könige und
+          Völker, ja die Religion felbjt beugen muß, das waltet au in der Kunft, die fih noch feiner
+          ewigen Form zu rühmen gehabt hat und nie rühmen wird...‚..£aßt die großen Früchte des
+          vorigen IJahr-Yundert8 nicht verdorrend auf dem Speicher liegen.Lefet euch denn leider
+          gefhieht e8&amp; wenig! mit Eifer in die großen Kunftanfihten eines Leffing,Herder,
+          Goethe, Schiller, Auguft Wilhelm Schlegel,<pb/>JO Jean Bank und Tief Hinein, aber flieht
+          mißtrauifch bie feichte Kritit unferer Tage und Tagesblätter, wo unter Haufen Spreu felten
+          ein Waizenkorn anzu:treffen it,Sudw. Neflfkaß.</p>
+        <p>Hiebei befenne ih, daß mir von je her die große und fo bedeutend FMingende Aufgabe:
+          erkenne did Telbft, immer verbächtig vorfam, al8 eine Lift ge:geim verbündeter Priefter,
+          die den Menfhen durch unerreichbare Forderungen verwirren und von der Thätigfeit "gegen
+          die Außenwelt zu einer innern alien Befchaulihkeit verleiten wollten. Der Men fennt nur
+          fich felbjt, infofern er die Welt Kennt, die r nur in fig und fi nur in ihr gewahr
+          wird.Zeder neue Gegenftand, wohl befhaut, fchließt ein neue8 Organ in un8 auf. Id habe in
+          reifern Jahren große Aufmerkffamfeit gehegt, inwiefern andere mich wohl erfennen möchten,
+          damit id in und an Onen, wie an fo viel Spiegeln, über mid felbft und über mein Inneres
+          deutlidjer werden Könnte. Wider:lacher Fommen nicht in Betracht, denn mein Dafein ift Ynen
+          verhaßt, fie vermerfen die Zwede, nad) weldhen <pb n="100"/>mein Thun gerichtet ft und die
+          Mittel dazu achten fie für ebenfoviel fallhes Beftreben. Ih weije fie daher ab und
+          ignorivre fie, denn fie fönnen mid nicht fördern und das ift’8, worauf im Leben alles
+          anfonmt; von Freunden aber lafle ih mid ebenfo gern bedingen al8 in’3 Unendlihe Hinweifen,
+          {ftet8 merke id auf fie mit reinem Zutrauen zu mwahrhafter Erbauung.ÖSuoethe.</p>
+        <p>X habe mid in den Monologen felbft idealifirt und nun meinen die Guten, ih bin fo.
+          Nämlich ich bin fo, c8 ift meine innerfte Gefinnung, mein wahres Wefen, ja freilidH aber
+          das Wefen kommt ja nie rein hHerau8 in die Erfheinung; c8 ift immer getrübt in diefen
+          armen Leben und dies SGetrühte fteht nicht in den Monologen.Schletermacher.</p>
+        <p>Das {(Hönfte Glück des denkenden Menfdhen ift:das Erforjhlidhe erforfcht zu haben und das
+          Uner-forfHliche ruhig zu verehren.%oeffe.<pb/>LO Wer alle überlegt hat, der wird fi nicht
+          irre machen laffen durch das banale Gerede einficht8lofer Vhilifter: Wozu unfere Jugend
+          mit Lehrgegenftänden quälen, die fie im fünftigen Leben bo nicht mehr brauchen? Zugegeben,
+          daß die Mehrzahl im Lchen ihre Claffifer nicht mehr anfieht, fo behält doc der Austpruch
+          fein volles Gewicht; Multa discimus in futuram oblivionem. Den Livius, Tacitus,Homer und
+          Sophofles lelen das braucht der Jüngling, der fein Abfolutorium in der Talcdhe hat,der
+          Theologe, Iurift, Mediziner allerdings nicht;aber diefe Claffifer einmal gelefen zu Haben
+          das tut Yın noth und davon behält er die fegensreihen Yolgen fein Leben lang; denn diefe
+          Lectüre Hat feinem Seift und SGemüthH und SGejHmak in der Zeit der höditen
+          Bildungsfähigkeit eine Richtung und ein Sepräge gegeben, das nie wieder verloren geht; fie
+          hat einen Menichen aus ihın gemacht, der er fonit nicht geworden wäre, einen gebildeten,
+          Harmonifdh gebildeten Menfjhen, mit fittlih = äfthetijdhem Semwifen, mit Sinn für Edles
+          und Großes, einen Menfdhen, der mit dem Heautontimorumenos des Terenz fpricht:</p>
+        <p>Homo sum, nihil humani a me alienum Duto.Brofichüre über das babr. Ghmnafialtvefen.<pb
+            n="9"/>Mit. (Hönen Worten prie8 Fichte das Schicffal bes großen Schriftftellers:
+          „Unabhängig von der MWandelbarkeit IpridHt fein Buchftabe in allen Zeit:altern an alle
+          Menfehen, welche diefen Buchftaben zu beleben vermögen und begeiftert, erhebt und veredelt
+          Bi8 an das Ende der Tage.</p>
+        <p>Alles wa8 unflern Seift befreit, ohne un die Herrihaft über uns felbit zu geben, ift
+          verderbliq.Nur das Gefeß kann uns die Freiheit geben.</p>
+        <p>Hefe.</p>
+        <p>8 fieht wahrhaftig auf dem deutfhen Parnafie ‚benfo toll au8, als in der europäilden
+          Politik.Sott fei bei unz. IH mußte den gefpreißten Mangel perdauen, der damit auftrat,
+          befheidentlihH Soethe Thlecht zu madhen und den geipreißten Srabbe,der befcheidentliH
+          Shakespeare Ihleht macht und die Bhilofophen, die Schiller zu Ffrivol finden. If Ihnen
+          denn dies neuere, hHochfahrende, unerfreuliche Wefen, diefer widermärtige Cynismu8 auch fo
+          fatal wie mir? Und find fie mit mir einer Meinung,<pb/>A daß eS die erfte Bedingung zu
+          einem Künftler fei,daß er Mefpekt vor dem Großen habe und fich davor beuge, damit das
+          Heine Talgliht ein wenig Heller leuchte. Wenn einer das Große nicht fühlt, fo möchte ic
+          wiffen, wie er e8&amp; mich fühlen laffen kann und wenn all’ die Leute mit ihrer vornehmen
+          Ber:actung endlih felbft nur NadahHmungen diefer oder jener Menßerlichteit Hervorzubringen
+          wiffen, ohne Ahnung von jenem freien, frifhen Schaffen, unbe fjorgt um die Leute, um die
+          Nefthetit, um die Borz heile, um die ganze andere Welt, ;SS, Mendelsohn-Bartholdi.</p>
+        <p>Sewalt’ge Leidenfchaften Hat zuerft un Gott ins Herz gepflanzt.</p>
+        <p>Dann fagt er un8: „Ih ftrafe dihH, wenn du fie nicht bemeiftern Fannft.“</p>
+        <p>Wir Armen! Spricht ein Vater wohl: „Die Schale Ffehre um mein Kind.“</p>
+        <p>Und ftraft fodann das Söhndhen, wenn der Inhalt auf den Boden rinnt?“</p>
+        <p>Amer Ehyam. Verf. Dichter.<pb/>A C++Die Bezeichnung des SGegenfaßes zwifhen den Drtodoren
+          und Reformern dur „Sefühlsridtung“und „Berftandesrihtung“ {ft al8 einfeitig und
+          irre:leitend, abzulehnen. Die Religion ift un auch Sefühl und Semüthsbemwegung, weil ein
+          alfeitiger VebenSprozeß. Denn fie Yjt die freie That des Io,die im Denken alz Höchfte
+          Wahrheit anerkannte, im Sefühl als tieffter LebenSgehalt empfundene, im Willen als
+          reinftes Lebensinterefje aufgenommene Offenbarung des Unendlidhen in ununterbrochener
+          DurhHdringung von Denken und Fühlen und Wollen als Lebenzmacht über fih zu feßen. Und die
+          Gegner gebrauchen, um den Sehalt ihres reli:giöfen SGefihls zu Begriffen zu geftalten, den
+          Verz ftand nicht weniger als wir, nur daß ihr Berftand in den VBorftellungen Überlieferter
+          Sagungen be:Fangen ift, während wir den unfrigen von folcher Befangenheit frei zu Halten
+          Juchen.</p>
+        <p>5. Sana.</p>
+        <p>OO meine Freunde, diefe Beharrlichkeit, diefer unerfchütterlide Glaube, diefe durdy, kein
+          Mißlingen zu tilgende Bereitmwilligkeit immer wieder das unfriae <pb n="3"/>u thunm zur
+          Befferung der Menfchen, ift ja das inzige, wodurch wir un um fie ein Verdienft er:werben
+          Können, das in etwas mehr Gefteht, al8 in guten Wünfchen; e8 ift ja das einzige, modurch
+          wir tauglidhe Werkzeuge des Herrn werden Können, der,wie er felbft um zu lehren und zu
+          Heiligen, menfdH:fie Natur an fig genommen hat, fo auch bei feinen verborgenen Heiligenden
+          und Gefeligenden Wirkungen auf die Gemüther der MenfhHen fiH immer menfhli-her Kräfte
+          bedient und au der unfrigen fi Scdienen will, wenn gleich wir das, was gefdhiecht,nicht
+          aus dem, wa8 wir gethan haben, begreifen fönnen, fondern eS immer nur ihm und feiner
+          wun:derbaren göttlidHen Kraft zufhreiben müflen. Ihm jet alfo zu diefemnm Behufe immer
+          alles, was in un8 it, geheiligt und Fein lieberes Sejhäft gebe ec8 für un8, al8 feinen
+          Winken zu folgen. Dann fönnen wir iger fein, daß Er fih unferer auch bedienen wird hier
+          und da um andere zu einem befjern Leben zu aweden und“ fie größere Herrlichfeiten genießen
+          zu laflen al8 die, welche fie bald erfhöpft haben mürden.Schleiermacer.<pb/>L </p>
+        <p>65 Söethe und Schiller find nicht blos die dihterifchen Befreier der Deutfhen, fondern
+          weit mehr noch die fittlichen. Die Nebermindung der Sturm: und Drang-periode war die
+          Zügelung der entfeffelten dunklen Semüthsmädte zu freier Selbitbeherrfihung, der Nebergang
+          von der Sophiftik zur Sophorfyne, von ber Freigeifterei der Leidenfhaft zur verföhnten in
+          fi Bbefriedigten Befonnenheit. Indem die Dichter fi felbft erzogen, haben fie die
+          MenfHhHeit erzogen.Und ift vielleicht, mie e8 MenfcdenHickjal ift, die eigene
+          Perfönlichteit zuweilen Hinter diefem Höchften Biel zurücdgeblieben, der Begriff des
+          reinen und freien Menfdhenthum3 war wieder erobert. Die Natur, weldhe Rouffean und die
+          jungen Stürmer und Dränger fo nadhdrüclidh gewollt und erfirebt Hatten ift gerettet, aber
+          nicht die rohe, ungeberdig, felbft:Jüchtige, fondern die geläuterte, die mit Freiheit.
+          ficdh Jelbft beherridhenbe, die mit den SGeleben und For:berungen der fittliden Vernunft
+          Übereinitimmende.Die Einfeitigkeit des BZeitalter8 der Aufflärung und die Einfeitigkeit-
+          der Sturm: und Drangperiode find in einer Höhern gemeinfamen Eihheit verföhnt.</p>
+        <p>€ mar die, Erhebung des hHöhern deals vollen:deter Bildungsharmonie oder mie die
+          Schulfprade lagt, des Ideals vollendeter und reiner Humanität.<pb n="1107"/>Rad
+          Jahrhunderte langer Selbftentfremdung Hatte ich der Menfch endlich felbft
+          wiedergefunden.5. SGettner.</p>
+        <p>Weil’s der Brauch verfügt!Doch wenn fih alles vor Gebräuchen {Hmiegt,Wird nie der Staub
+          des Alters abgeftreift,Berghoher Irrthum wird fo aufgehäuft,Daß Wahrheit nie ihn
+          überragt.Shakespeare (Coriolan).</p>
+        <p>Ruhm ift nur Rauch, gejagt von allen Winden,Dem Rauche aleich, der in die Augen
+          beißt.</p>
+        <p>Waitwill. MichH däudht, Sie wollen fagen, der Bater müfle Ihnen gar zu viel vergeben und
+          weil m das nicht anders als fauer werden könne, fo machten fie fi ein SGewiffen, feine
+          Vergebung an unehmen. Wenn Sie daz meinen, fo fagen fie mir <pb n="108"/>doch, ift denn
+          nicht das Vergeben für ein gutes Herz ein Vergnügen? IH bin in meinem Leben fo glüd-lich
+          nicht gewefen, daß ich diefes Vergnügen oft em:pfunden Hätte. Weber die wenigen Male, die
+          ih e8 empfunden Habe, erinnere ih mid) noch immer gern.Ich fühlte fo etwas fanfte8, fo
+          etwas beruhigendes, fo etmas himmlifdhes dabei, daß id midh nidht entbrechen Eonute, an
+          die große überfhmwenglidhe Seligkeit Gottes zu benfen, defjen ganze Erhaltung der elenden
+          Menfchen ein immermährendes Vergeben ift. Ih wünfhe mir alle Augenblie verzeihen zu fönnen
+          und fjHCmte mich,daß ih nur foldhe Kleinigkeiten zu verzeihen Hatte.Recht [Hmerzlidhe
+          Beleidigungen, recht töbtlidhe Kränk-ungen zu vergeben, fagt’ ih zu mir felbjt, muß eine
+          Wolluft fein, in der die ganze Seele zerfließt. Und nun Miß, wollen fie eine fo große
+          Woluft ihrem Vater nicht adnnen.Seffina (Miß Sara Sampfon)</p>
+        <p>Sind dann au Dinge, die mir nicht anftehen,fo fomme ih darüber gar leicht weg, weil e8
+          ein Mrtifel meines Glaubens ift, daß wir durh Stand:haftigfeit und Treue in dem
+          gegenmärtigen Zuftande <pb n="109"/>ganz allein der Höhern Stufe eines folgenden werth und
+          fie zu betreten fähig merden, e8 fei nun zeitlich hier oder Dort ewig.oeihe.</p>
+        <p>Spinoza erflärt in feiner Ethif: daß jeder Menth je nad Anlage feine8 Sehirnz über die
+          Außenwelt urtheilt oder daß ihHım vielmehr feine perfönlichen Eindrücke ftatt der Dinge
+          gelten. E8 ift daher auch beiläuftg gejagt nicht zu vermwundern, daß fo viele
+          Meinungsver]hHiedenheiten unter den Menfdhen hHerr-[den, woraus denn endlid der
+          Scepticismus erwadhs jen ift. Denn obwohl die Körper der Menfchen in vielen Punkten
+          einander gleichen, in den meiften find fie doch verfchieden und darum fcheint dem einen
+          [hleht, was dem andern gut, diejem geordnet, was jenem vermworren, diefem angenehm, was
+          dem andern unanaenhem.</p>
+        <pb n="10"/>
+        <p>Wenn in deines HerzenZ Tiefe nur die Saat der Liebe fprießt,</p>
+        <p>Sleich ift’S, ob du in Mojdheen oder Gößen:tempeln fnieft;</p>
+        <p>Haft du in das Buch der Liebe deinen Namen eingefHrieben,</p>
+        <p>Nicht mehr denkft du dann an Strafe oder an Belohnung drüben.</p>
+        <p>Omar Chnam.</p>
+        <p>Soethe fuchte den Segenjaß von Slaubeu und Wiffen fo auszugleihHen: Beim Stauden komme
+          alles darauf an, daß man glaube; wa3 man glaube, fei völlig gleiGgültig. Der Glaube fet
+          ein großes Ge:fühl von Sicherheit für die Gegenwart und Zukunft und dieje Sicherheit
+          entfpringe aus dem Zutrauen auf ein übergroßeS, Übermächtiges, unerfor[H liches Wefen; wie
+          man e8 denke, das Hänge von unfern übrigen Fähigkeiten, ja von den Umftänden ab und jei
+          ganz gleichgültig. Der Glaube fei ein Heiliges Sefäß, in welches ein Ieder fein Gefühl,
+          feinen VBerftand, feine Einbildungskraft fo gut als ‚er ver:möge zu opfern bereit ftehe.
+          Mit dem Wijjen fei es <pb/>„4 da8 gerade Segentheil; e8 komme nit darauf an,daß man wifje,
+          fondern was man wifje, wie gut und mie viel man wife. Daher könne ınman Über as Wiffen
+          ftreiten, weil e8 fi berichtigen, fi er weitern und verengern lafle, aber über den Glauben
+          nicht, ;</p>
+        <p>© welche lange, lange Zeit nad un3 noch wird die Welt beftehn!</p>
+        <p>Im Wind wird jede Spur von un8, wird unfer Name felbit verwehen.</p>
+        <p>Bor unferer Seburt behalf die Welt ganz gut fich ohne uns,</p>
+        <p>Und Feine Lüce wird entfteh'n, wenn wieder wir von dannen gehn.</p>
+        <p>Omar Shnyamt.</p>
+        <p>Durch Fehler fagt man find die beften Menfdhen Sebildet, werden meift um fo viel beffer
+          Als fie vorher ein wenig fHlimm.</p>
+        <p>Shakespeare (Maaß um Maaß).<pb/>{1 </p>
+        <p>‘)</p>
+        <p>HerrligH und in Freuden! Alfo nicht von jenem heiligen Leiden, durch welde nad) dem
+          [Hönen Worte der Schrift Gott diejenigen züchtigt, weldhe er lich hat, die unfere Seele
+          Iöfen und das Salz des Geiftes find, Nidt8 von jenem Leid, das durch jede edlere Seele
+          zieht über die eigene Unvollfommenbeit, über die Mipklänge des LebenzZ, über die Leerheit
+          und Nichtigkeit der DVDinge. Nichtz von jenen füßen Schmerzen, unter welden der nah
+          Wahrheit rin-gende Seift fih LoSreißt von Irrthümern und Bor:urtheilen und das nach
+          Gerechtigkeit dürftende Herz den Troß der Eigenwünfdhe bricht und dem Odem des göttliden
+          Lebenz fih Öffnet! Ift das nicht ein in vollem Sinne des Wortes gottlofes Leben! die
+          vollftändige Knechtumg des SGeiftes durch das Sicht:bare? Die ftumpffinnige
+          Welttreundfhaft, die zur SotteSfeindihaft geworden if.%. Sana.</p>
+        <p>Se TeidenfhHaftlidher und ungeftümer das Iugend-leben Soethes von dem Kampf und
+          Widerfprudh zwifdhen dem Überfhmwellenden Unendlichkeitsgefiihl des Heißblütigen Herzen
+          und der undurhbrehbaren Enge <pb/>1...</p>
+        <p>&lt;q der Wirklichkeit bewegt und durchglüht mar, um fo mehr wurde ihm die zunehmende
+          Lebenserfahrung und der Eintritt in bedeutende Weltverhältniffe der Srund ernfter
+          Selbjtprüfung und Selbftbeftimmung.Die erfien Jahre in Weimar beginnen diefe Ent:widlung,
+          die italienifde Reife bringt fie zum Ab-idluß, der dunkle Drang, den vollen und ganzen
+          Menfchen aus fih HYerauszubilden, begrenzte und ver Hefte fih zu einer umfajjenden
+          Vielfeitigkeit und Tiefe der Bildung, wie Fein anderer Menich fie jez mal8 erreidt Hat und
+          zugleich zu einer fittliden Maßbeldhränkung und innern Harmonie, zu einer Sophrofyne und
+          Kalokagathie im fhbnen antiken Sinne des Wortes, die ihn, mwa8 die unverftändige Menge
+          auch fagen mag, zu einem der größten und veijejten aller MenfdhHen, zu einem Urbild und
+          Vor:yild fHönften reinften MenfhHenthum3 macht. „Bon der Gewalt, die alle Wefen bindet,
+          befreit der Menfdh ich, der fihH überwindet,“ Die Fortfebung und Ber:Dhnung des Werther
+          ift Taflo und Wilhelm Meifter.Der willensfräftige und Marbewußte Künftler feines Gebens
+          wird auf der Heitern und Haren Höhe feines fittliden Ideals der Dichter der modernen
+          Bildungs-fämpfe und wie er fi gerne felbjt nennt, der Dichter der Herzensirrungen. OSoethe
+          kommt Shakespeare Q <pb/>\ 14 nicht gleidh an fefter Sicherheit und elementarer Kraft bes
+          bidterifhen SGeftaltens; aber an Tiefe und Weite bes geiftigen Gehalts, an Hoheit und
+          Reinheit des Seelenleben3 überragt er ihn, wie die neue deutfhe PHilofophie die
+          Philofophie Bacons überragt.</p>
+        <p>Herm. Setiner.</p>
+        <p>Die urtiefe Kraft der Organifation fefjelt, troß ziner gemwiffen Freiwilligkeit im
+          Enfalten einzelner Theile, alle thierifjhe und vegetabilifhe Seftaltung an fefte, ewig
+          wiederkehrende Typen; fie befitimmt in jeder Zone den ihr eingeprägten, eigenthümlihen
+          Charakter, d. i. die Phyfiognomik der Natur.Deßhalb gehört e&amp; unter die {Hönften
+          Früchte euro:yäifher Bölkerbildung, daß es dem MenichHen möglich geworden, fi faft
+          überall, wo ihn fOmerzlide Ent:behrung bedroht, dur Cultur und Oruppirung exotijdjer
+          SGewächfe, durch den Zauber der LandjHaft-malerei und durch die Kraft des begeifterten
+          Wortes einen Theil des Naturgenuffes zu verfhaffen, den auf fernen, oft gefahHrvoNlen
+          Reifen durhH das Innere der Continente die wirklige Anfhauung gewährt.</p>
+        <p>X. Sumboldt (Kosmos).<pb n="15"/>Über au in dem jebigen unvollfommenen Zu-Aande Bilblider
+          Darfielungen der Landfhaft, die unfere Reifeberidhte als Kupfer begleiten, ja nur zu oft
+          verunftalten, Haben fie doch nit wenig zur hylognomifden Kenntnif ferner Zonen, zu dem
+          Dange nad) Reifen in der Tropenwelt und zu thätiz gerem Naturftudium beigetragen. Die
+          Bervollfomm:nung der LandfHaftmalerei in großen Dimenfionen (als DecorationZmalerei, als
+          Panorama, Diorama und Neorama) Hat in neueren Beiten zugleich die Allgemeinheit und die
+          Stärke des Eindruckes ver:mehrt. Was BVBitruvins und der Megyptier Kulius Pollur als
+          Ländlige Verzierungen der Bühne 19 dern, mas in ber Mitte des fechözehnten Kahrhun:dert8,
+          durch Serlio’8 Coufkiffen = Einrichtungen, die Sinnestäufhung vermehrte, fann jebt, feit
+          Prevoft’s und Daguerre’8 Meifterwerken, in Parker hen Rund zemälden, die Wanderung durch
+          verfhiedene Klimate iaft erfeßen. Die Rundgemälde Keiften mehr als die Bühnentehnik, weil
+          der Befhauer, wie in einen magifden Kreis gebannt, und aller ftörenden Nea-tät entzogen,
+          fi® von der fremden Natur felbft umgeben mähnt. Sie lafjen Erinnerungen zurück,die nad
+          Jahren fihH vor die Seele mit den wirkliH gefehenen NMaturfcenen munderfam vermenaen.
+          Bisher <pb/>A </p>
+        <p>üG find Banoramen, welche nur wirken, wenn fie einen großen Durdmefjfer Haben, mehr auf
+          Anfidten von Städten und bewohnten Segenden als auf foldhe Scenen angewendet morden, in
+          denen die Natur in wilder Neppigkeit und Lebenzfülle prangt. Voyfiogno:mifde Studien, an
+          den fHroffen Berggehängen des Himalaya und der Cordilleren oder in dem Innern der
+          indifjhHen und fübamerikanifjhen Flußwelt ‚ent:worfen, ja durch Lichtbilder berichtigt, in
+          denen nicht das Laubdach, aber die Form der Miefenftämme und ber Harafteriftijghen
+          VBerzweigung fih unübertrefflich barftellt, würden einen magijhden Effekt
+          hervor:bringen.Alle diefe Mittel, deren Aufzählung recht wejent:lid in ein Buch vom Kosmos
+          gehört, find vorzüglich geeignet, die Liebe zum Naturftudium zu erhöhen, ja die Kenntniß
+          und das Gefühl von der erhabenen Größe der Schöpfung würden Kräftig. vermehrt wer:den,
+          wenn man in großen Städten neben den Mufeen,und wie diefe dem Volke frei geöffnet, eine
+          Zahl von Rundgebäuden aufführte, ‚melde wedhjelnd Land-[Haften aus verjhiedenen Höhezonen
+          darftellten. Der Begriff eines Naturganzen, daz Gefühl der Einheit des Harmonijdhen
+          Einkflanges im Kosmos werden um fo lebendiger unter den Menichen, als fihH die <pb/>(14
+          Mittel vervielfältigen, die Gelammtheit der Natur:riheinungen zu anfdaulihen Bildern zu
+          geftalten.X. Sumboldt.</p>
+        <p>In Wahrheit ift die Kunft zu fagen was ich leide nur wenigen und felbft den Meiftern nur
+          in jeltenen Augenblifen gegeben. Der Grund ift leicht arfennbar. Nicht allein, daß die
+          Forderung den Gehalt 'n fnappe und zutreffende Worte auszuprägen, Hier bes londers fharf
+          hHeruortritt, da bei dem geringen Umfange ion ein faljcher oder pulslofer Ausdruck die
+          Wirkung des Ganzen zerftören kanırz diefe Worte mülfen au durch die rHytmifdhe Bewegung
+          und die Klangfarbe des Berfes gleihtam in Mufik gejeßt und folder Weife wie:der in die
+          Empfindungen aufgelöst fein, aus der fie autiprungen find; in feiner Wirkung foll das
+          Iyrifche Sedicht den Lejfer man geftatte den Ausdruck zugleid eine Offenbarung und eine
+          Erlöfung oder mindejftenS eine SenugthHung gewähren, die ev fih jelbjt nicht Hätte geben
+          Fönnen, fei e8 nun, daß es unfere Anfdauung und Empfindung in ungeahnter Weije erweitert
+          und in die Tiefe führt, oder was 9alb bewußt in Duft und Dämmer in un8 lag, in <pb/>Arc
+          überrafhender Klarheit erfheinen läßt. Bei einem Liede gilt es eine Perle zu finden und
+          nur wenige Mıufdheln Haben Perlen. Heine fagt fehr richtig:Sin Lied ift das Kriterium der
+          Urfprünglichkeit.DVheodor Storm.</p>
+        <p>An die Barzen,Nur Einen Sommer gönnt, ihr SGemwaltigen!Und Einen Herbit zu reifem
+          SGefange mir,Daß williger mein Herz, vom füßen </p>
+        <p>Spiele gefättigt, danır mir fterbe.Die Seele, der im Leben ihr göttlich Recht </p>
+        <p>Nicht ward, fie reift au drunten im Orkus nicht,Doch ift mir einft das Heil’ge, das am </p>
+        <p>Herzen mir liegt, das SGebidhHt gelungen.Willlommen denn, o Stille der Schattenwelt!</p>
+        <p>Zufrieden bin ih, wenn au mein Saittenfpiel </p>
+        <p>Mich nicht Hinabbegleitet; Einmal </p>
+        <p>Vebt ih, wie Götter, und mehr bedarf’8 nidHt.Siriedr. Hölderlin.<pb/>4C Bei unferer
+          jebigen BefHulungsweife ift es. Kaum möglih, aus dem jungen Menfchen etwas Tüchtiges a
+          machen; Die geiftige Selbftftändigkeit und eine zediegene Ausprägung des Charakter8 wird
+          faft un:möglih gemacht. Ih Habe fhon die Klage gehört,daß man unter unfern Beamten zwar
+          viele tüchtige Arbeiter, aber fehr wenige dur Charaktertüchtigkeit imponirende
+          Perfönlichkeiten finde, wie fie zur Leitung der einzelnen SejdhHäftkreife unumgänglich
+          nöthig find.Sehr richtig ift e8, was ih einmal, ih weiß nicht mo, gelefen habe, daß unfere
+          jebige Schulbildung zinem Profrufte8bette glei fei. Was zu Iang ift,wird abgefhnitten und
+          das zu Kurz Scheinende fo lang gedehnt, bis e8 die beliebte Mittelmäßigkeit er-langt hat.
+          Dabei verkommen die Leute TeiblihH und geijtig. Die alte Schulmethode mag auch ihre Fehler
+          gehabt haben, aber fie mar naturhafter, fie madhte zine felbftftändige Entwicklung des
+          SGeiftes möglich.X war achtzehn Jahre alt und Konnte fo gut wie Jar nichts, Meine Lehrer
+          glaubten au nicht, daß 28 viel mit mir werden mürde, und hat ja doch noch jo gut gethan.
+          Wäre ih der jebigen Schulbildung in die Hände gefallen, Jo wäre id leibliH und geiftig zu
+          Grunde gegangen.</p>
+        <p>Bei unferer geiftigen Kochkunft gilt das Sprich:<pb/>A </p>
+        <p>20 wort: SDViele Köche verderben den Brei. Ieder der Herren Lehrer Hat fein beftimmtes
+          Jah; in diefem jeden feiner Schüler zu einem Virtuofen Heranzu-bilden, Hält er für feine
+          Heiligfte Pflicht. Cr thul dabei, unbefümmert .um die andern ganz fo, ‘al8 ob der Schüler
+          nur da fei, um in diejem Segenftand Meifter zu werden. Der fogenannte gute Kopf hält da3
+          nun wohl aus, cr pfropft feinen SGeift voll auf Koften feiner Herzens: und
+          Charakterbildung. Er wird ftolz und aufgeblafen von feinem BWiffensdurft und meift ganz
+          unpraftifigh zum Berufe des Lebens,Der Mittelmäßige wird von alledem fo dumm, als ging ihm
+          ein Mühlrad im Kopf herum. Statt Al:ger wird er alle Tag dümmer. Man fönnte diefe Art der
+          Bildung, wenn man ein etwas runderes Bild brauchen wollte, mit dem Nudeln (Stopfen) der
+          Sänfe vergleichen. Es febt fid) blos Fett an, aber Fein gute8, gefundes Fleifd. An
+          WachHsthum ift nicht zu denken. Eine mit fid abgefchloffene Selbftzufrie:denheit, ein
+          nafemeifes Aburtheilen über Alles, das find in Folge davon Hauptzüge unferer Iugend. IH
+          habe mehrfadh Selegenheit genommen, mit hoch:geftellten und einflußreihen Männern, die auf
+          Ab-Hülfe hätten hinmirfen Können, zu fpredhen. Ale waren‘ mit mir .einverftanden; aber
+          doch ift zur Wo-<pb/>DA gülfe no nichts gefehen und -.e8 beftätigt fih hier wieder, was
+          ich irgendwo gelefen Habe: In Deutfh-(and gehören netto zwei FahrHunderte, um eine
+          Dummheit abzufhaffen, nämlich eines, um fie einzu:jehen, das andere aber, um fie zu
+          Gefeitigen.</p>
+        <p>X. 9. Sumboldf.</p>
+        <p>Wenn man bedenkt, wie viele neuere Produkte des Auslandes und Inlandes mit Gier
+          verfhlungen werden und hat man fie gelefen, ift man fo arın und leer mie zuvor dann muß
+          man doch dem heutigen Sejhlechte zurufen: Lerne die Schwierig feiten und
+          Abhfonderlichkeiten Jean Pauls überwinden,und du wirft Feine8 feiner Bücher weglegen, ohne
+          zin befjerer Mienfdh geworden zu fein. Mandhes Wort wird dir ins Gemwiffen dringen und
+          dihH zur zhrlidgen Selbfterkenntniß erwecden. .</p>
+        <p>Über vor allem muß unfer Heutiges Sefchlecht,und zumal die Frauenwelt, mieder Lernen,
+          beim Moz mente zu verweilen, nicht immer von Effekt zu Effekt zu hafgen und zu drängen,
+          wodurch alle Poefte, oder was man eben fo nennt, zum gröbften und roheften Mechanismus
+          wird, fo daß man bei Beendigung der <pb n="99"/>Lectüre eines Didhterwerk3 oder dem
+          Anfchauen eines modernen Dramas nicht mehr Hat, al8 bei Auf:Töfung eines fünftliH
+          gefhürzten RNäthfels. Iede Iyrifge Ausbreitung in einem Drama, jede tiefere Motivirung in
+          einer Erzählung gilt Heute für lang:weilig. Unterhaltung! Zeitvertreib! ift die Parole,Und
+          dafür läßt man fig in ernften DidHtungen alle Ungeheuerlihteiten pfychHologifher und
+          thatjäch-lider Inconfequenz und in fogenannten Heiteren alle Frivolität und allen Unfinn
+          gefallen. „Wir haben ung doch amiüfirt“, Heißt e8 dann. DVieles „doch“ ift eine
+          Kundgebung, daß das äfthetifhe Ge:wijjen doch noch nicht ganz wegamufirt ift.Ynerbach.
+          Deutfehe Abende,</p>
+        <p>Die Natur ift dem MenfhHen, der in ihr lebt,nicht blos nüßliH oder IHäblich, al3
+          nährende, hilf reihe Macht oder als feindliche zerftörende Gewalt,fie nimmt ‚nicht blos
+          feine werkthätige Kraftanftren-gung oder wiffen[HaftlidhH feinen Scharffinn und
+          Er-forfOungStrieb in Anfpruch, au mit feiner dichHteri-Ien Anlage, feinem Schönheitsfinne
+          findet er fih auf ihre Schönheit, die milde und die erhabene hin:gewiefen. Er fudht in ihr
+          nicht blos SGleichniß,Sinnbild, Farbenfhmuck, fondern, was all diefem </p>
+        <pb n="1"/>
+        <p>'J ft bie poetifde Weihe giebt, das tiefere Einver:tändnif, vermöge deffen fie für jede
+          Megung feines Innern einen Spiegel, eine antwortende Stimme gat. E83 ift nidt
+          Selbfttäufhung eines empfind-jamen SZeitalter8, daß LenzeshHauch und Maiengrün,Morgen= und
+          Abendroth, Sonnenaufgang, Mond:jhein und Sternenglanz das SGemüth erfrifhen, rüh-ren,
+          beruhigen, daß der Anblick des Meeres, daß Sturm und Gewitter den SGeift zum Ernite
+          ftimmen.Chen die jugendkräftige Poefie der unverbildeten Bölfer ft von Ddiefen
+          Einwirkungen durHdrungen.Sage man immerhin, der Menfch verlege nur feine Stimmung in die
+          fühllofe Natur , er kann nichts in die Natur übertragen, wenn fie nicht von ihrer Seite
+          auffordernd, felbftthHätig anregend, entgegenfommt.Die wiffenfHaftlide Forfhung hat
+          überall den Schein jerftört, der alte Glaube an die götterbefeelte Natur it Yängft
+          gebrochen, und deunoc bleibt jene Befreunz dung des GemüthHes mit der Natur eine
+          Wahrheit;das Mitgefühl, das in ihr geahnt wurde, rückt nur weiter hinauf, in den Schöpfer,
+          der über dem Ganz jen waltend die MenfHenjeele mit der f{Hönen Natur um Einflang verbunden
+          hat und damit fih felbft dem empfänglidjen Sinne ftündlidh nahe bringt.Dlland. Abhandlung
+          über Volkslieder.<pb/>[</p>
+        <p>A Tas aber die Sprachen betrifft, fo ft die Art,wie fie betrieben werden, in den bei
+          meitenı aller:meiften Fällen zu einer formalen Bildung des Seijtes au nicht im
+          entfernteften geeignet, entweder wird nach den Leiftungen unferer Schulen überhaupt eine
+          Bollfommenheit in der Sprache gar nicht erreicht und das Stundennehmen mird bis in die
+          erften Jahre des ehelichen Leben ftoßweife fo oft von Neuem wieder:Holt, als eine
+          anmefende Franzöfin oder ein franzöfi:[Ges Schaufpiel, oder eine Reife nad) Frankreich und
+          England dringende Veranlafjung bieten, oder man hat bei ganz geläufigem Sprechen, doch
+          anftatt des Seifte8 der franzöfijhen Sprache, nur den Seift der franzöfilgen Bonne fi
+          angeeignet. Nicht zu ge:denken, daß durch dies mühlame und Ängftlihe Stre:den nad) dem
+          Erwerb der fremden Sprache, vollends durch frühzeitige Bonnenwirthjhaft, wo das Kind
+          zuglei die fremde mit der Mutterfprache erlernt,alle Slarheit und Energie, gefdweige
+          Orginalität des ANusdruckes, alfo au des Denkens verloren geht,während eine fleißige und
+          grüudlidhe Lectüre der Nationalliteratur fogar die leßtere Leicht begqünftigt,indem ein
+          Claffifer vor andern zum Lieblingzautor und unwillfürlih zum Mufter des Ausdruckes
+          wird.Yan findet zuweilen Damen, die weder franzöfildh <pb/>f FR och englifd) fpredhen, in
+          ihren Briefen aber ohne es zu mwifjen, treu und doch frei ganz im Leffingfhen Stil
+          jmreiben, weil er in ihren beften Kahren der Ent:wicklung ihr Lieblingsdichter war.</p>
+        <p>„Sazarıts. (Das Leben der Seele.)</p>
+        <p>Wollt ihr viele Hülfe haben, fo müßt ihr nur feiner bedürfen.</p>
+        <p>Die Poefie fheint in ihren Verbindungen eben fo zigenfinnig mie die Sffentlige Meinung.
+          Sie ver mählt fig ebenfalls fo oft mit der Heiterkeit wie mit dem Trübfinn. Wenn wir an
+          das Schicfal und den Eharakter ihrer Angehörigen denken, fo fcOeint e8 un8 unmöglich, daß
+          ein fo eigenthümlidhes Wefjen mit jo entgegengefeßten Nidhtungen des Seiftes und Zügen des
+          SGemüthes verträgligH fein könne. Gleich den geheimnißvollen Verbindungen des Lichtes,
+          weldhes der Cypreffe einen grünlidten Schatten und der Wolke zinen rofigen Hau verleiht,
+          indem e8 durch eine leuchtende Ausitrömung unzählige Tinten hHervorbringt,<pb/>19ß6 fo
+          affimilirt fiH der SGeift der Poefie mit jeder Spielart des menfHliden Semüths von den
+          tiefften Schatten des Menfdhenhaffes, bis zu den frifdheften Blüthen des Entzücens.Kenty
+          Wheodor Vuckermann.</p>
+        <p>A m <pb/>Anhang,</p>
+        <p>Aus dem Eigenen. <pb/> YWir werden zu Zeiten ganz von unferer Er:yungenfhaft an Bbefferer
+          Einficht zurücg ver[Olagen und verlieren, umdüftert von Trübfinn, Leiden[hHaft oder
+          Zerftrenung, das Tängft ar Erfhaute wieder aus den Augen. So gebietet ung die Einfidht in
+          die fittlige Weltordunng, fiH in fein Loos zu fügen,8 als Fingerzeig der Gottheit
+          anzufehen und doch fommen wir zuweilen von diefer Betradhtungsweife ganz ab. Daher ift es
+          nicht müffig, das in Maren Stunden Sedachte und Empfundene niederzu[hHreiben,fünftigen
+          Tagen zum Merkzeicdhen.</p>
+        <p>Wo e8 au fehlen mag, man Hilft mit Salben dir und MManden,Doch ad) der Seele Schmerz
+          bleibt meiftenS unver:ftanden.<pb/>[. 4)</p>
+        <p>Ein Werk der Vahre ift die innerfte Kultur,In wenig Monden gibt die Welt dir Politur. </p>
+        <p>Die Klugheit nimm zum Schild, die Energie zu Wehr,Wohin du ftreben magft, es führt zu
+          Sieg und Chr </p>
+        <p>Du mödhteft wiffen wohl wie einer von dir denkt,8 wird dir offenbar, fobald du ihn
+          aekränkt.</p>
+        <p>Nah WohHltHun brauchjt du Ängitlih nicht zu jagen 8 findet fiH Seleaenheit in allen
+          Lagen.</p>
+        <p>Streu aus die Saat des Guten und des Schönen,Set e8 in Wort, in That, mit Binfel oder
+          Zönen.<pb/>| 3A O banfe Gott für jeden Tag,Der dih verfHont mit StigH und Schlag.</p>
+        <p>Dein Glück, dein Schieffal leidet BrudG auf Bruc,So lang du Hegft den innern
+          Widerfpruch.</p>
+        <p>Ber trägt nach dem was ihHın verfagt Verlangen,Kann nimmermehr zu Fried’ und Ruhy
+          gelangen.</p>
+        <p>5 bietet Hand und Aım dir die Gelegenheit.Und feindlih ftellt ein Bein dir die
+          Berleaenheit.</p>
+        <p>Wenn e8 dein Loos ift, daß dich die Ungunft der Welt drücken foll, fo gefhieht dies,
+          damit du zum Nachdenken über den Werth der menfHlidhen Dinge and fomit zur Weisheit
+          angetrieben werdeft.<pb/>SA a </p>
+        <p>Man braucht in der Herrlichften Frühlingsland-[haft nur eine Herdenglode zu Hören und die
+          Augen zuzuhalten, fo glaubt man fi® mitten im Herbite,Ein Beweis, daß auf dem Hervorheben
+          des Charat:teriftilgHen die Hauptwirkung aller Darftellung XKiegt.</p>
+        <p>Reftanation ift die Philofophie des Befiegten.</p>
+        <p>It eine Thorheit abgethan So nimmt man eine andere an.</p>
+        <p>Warum follte nit aus der unbeftreitbaren Thatfache des Ankündens Sterbender eine neue
+          Entdenng im Gebiete der menfhlidhen Seele {id machen Iafien, fo gut als man aus dem
+          Leuchten be8 Kriftallfpates auf das Licht und den Kern ge:wifjer Sterne gefOloffen hat und
+          zur Entdefung gefommen ift.<pb/>A TWenn der Sturm Iosbricht, Hört man die nächften Slocken
+          aus der entgegengefebten Ridtung nit mehr.</p>
+        <p>Wenn der Sturm nachläßt, werden die Aefte in hre gewohnte Richtung zurückkehren.</p>
+        <p>Meligion ijft eine Angelegenheit des Semüthes;der Menfh von tiefen GemüthH hat immer
+          einen Zug nad) dem Söttlidhen, fein Leben ift ein ewiges Suchen darnad) in der Natur, in
+          MenfhHen= und Bölferfhichfalen. Er fultivirt aus innerem Drange das religiöje Clement in
+          feiner Natur und verabläumt darob die Beobachtung äußerlicher Meligionzübungen,das
+          Kirchlidhe, während der Welt und Berufsmenfch nehr an das Lekbtere fih Hält und des
+          NMadhdenkens über fo unpraftifjge Angelegenheiten gerne fi ent ‘lägt.</p>
+        <p>Im gewöhnlichen Leben ift man nur zu Diel jeneigt, wohl auch gezwungen, mit dem Seifte
+          par ;erre zu wohnen.<pb/>AS </p>
+        <p>‚A </p>
+        <p>Richt deiner Wünfche- ftolzen Fkug Nicht nah dem Wolkenberge,Denn aud das riefige Phantom
+          Wird in der Näh’ zum Zwerge.</p>
+        <p>Der Dichter Hat nidht die Intelligenz zu ver:treten, fondern die Fülle, Wärme und ewige
+          Iugend-(ihfeit der Gefühle, gegenüber dem vernüchternden,engherzigflugen Profaleben.</p>
+        <p>Die Seele guter, aber fOmwacher Menfdhen hat viel Nehnlichkeit mit dem Wefen des Rauches,
+          der,wenn er feiner natürliHen Richtung folgen Kann,immer aufwärts fteigt, aber von jedem
+          Windhauche auf die Seite aetrieben wird.</p>
+        <p>Das Sichtbare ift nur ein verförpertes Unfidcht:bares.<pb/>Wie lange brauchte e&amp; bi8
+          das Sefeb zur Herr:‘ajt gelangte, melde rohe und wilde Zeiten find Ihn vorausgegangen. In
+          der Fülle des Senuffes der gefebliden Sicherheit aber wollen fie das An-ichen desjelben
+          wieder unteraraben.</p>
+        <p>Entfagung ift dir auferlegt,Halt feflt und bleibe unentwegt.</p>
+        <p>Der erfte Eindruk eines Sefichts ift immer von ntfcheidender Bedeutung‘ und wenn man auch
+          beim Beginne einer nähern BekanntfhHaft von diefen Ein:drude mandheS zu mobdificiven
+          geneigt fein mag, fo vird man am Ende doch wieder finden, daß derfelbe ichtig gewefen fei.
+          €E8 ift wunderbar, wie das tief:jerborgene innere Wefen eines Menfchen auf feiner
+          Bhyftognomie fich abprägt. Der Harakterifirende und ndividualifirende Ausdruck gines
+          Seficht8 Kiegt aber at nur in den feften heilen desfelben, wie Stirne,Rafe, Mund, Kinn,
+          fondern eben fo fehr in den einen, unbefchreiblidhen Linien, welde über den veidhern,
+          fleifdhigern Theilen fhweben. Dies ge:<pb/>A wahrt man am Beften, wenn man ein Seficht von
+          der Seite hefieht. Wie der Geift über den Wafjern,fo Tmwebt und fpielt das allereigentfte
+          des Menfchen über diefen Linien und Zügen. Härte oder Weich:heit, Wohlwollen oder
+          Scheelfucht, Seradheit oder Bosheit, Geiz oder Leichtfinn, Bornirtheit oder
+          Seift,PHilifterhHaftigkeit oder Idealität alle diefe Se:müths = und Seifteseigenheiten
+          lagern fi oft in den jeltfamften, [OHeindar nit vereinbaren, Mijdhungen in der Miene ab,
+          mworunter man eben den Aus:druck, der über dem beweglidhen Spiel aller Züge idwebt,
+          verfteht. Daher Hit e&amp; unmöglich, die Phy-fognomie in fejte Theorie zu bringen, denn
+          wer will die ffüchtige Geiftigkeit eines Sefihts Haffificiven,wer will die Luft mıt einem
+          Faden zufammenbinden.Diefe nicht erhafhbaren und ungreifbaren SGeifter faffen fi dayer au
+          von der Photographie nidt fangen; au8 Ddiefem Grunde können dieje Schatten:bilder, mweldhe
+          nur die Maffe aufnehmen, niemals ganz genügen, um Seele und geiftiges Leben eines
+          Menicdhenantlikes abzufpiegeln.</p>
+        <p>Wie fehr trügen die Worte und mie leicht werden fie ander3 auZgeleat, als e8 dabei
+          gemeint mar. IH <pb/>Lo preche nicht von’ jenen Fällen, wo ein abfidhtliher Mißbraud mit
+          denfelben getrieben wird und fie dazır dienen follen, über die wahre Sefinnung Sand zu
+          treuen. Nein, felbft wenn c8 dem MenihHen aufs richtig darum zu fhun ift, feinen innern
+          Vorgängen und Gedanken den richtigen Ausdruck zu geben, ge fingt e8 idm nur fdwer, oft nur
+          annähernd, unvoll-fommen. Ia au, wenn er in ruhiger Sammlung Teine Gedanken fOriftlich
+          mittheilt, erfordert e8 forgz fie Wahl und Selbitüberwadhung, den Kern deffen,mag
+          eigentlich ausgefprocen werden will, fejtzuhalten und ihu genau und faßlihH auszuprägen;
+          man läßt cd von einem entgegenfommenden Bilde, von einer auftauchenden Nebenidee
+          verleiten, geräth auf Ab-wege und in die Irre und fpridht ganz andere Dinge au8 al8 man
+          urfpritnglich beabfichtigte. Wie um fo meniger find die Worte ganz zuverläffig, wenn {id
+          die ruhigen Tiefen der Seele zu Fräufeln beginnen,wenn Bewegung, Schwankung und Yufruhr
+          ent:iteht, wenn ÜebermuthH, Laune, Sereiztheit, Zorn,Haß mit den Worten zu fpielen
+          beginnen. Der Uebermuth wirft die Worte wie Raketen aus, ohne a fragen, wo fie
+          nicderfallen und zünden, die Laune mürfelt fie durcheinander und braucht fie nad
+          Zufall,die Gereiztheit ihärft fie zu Nadeljpiken, Haß und <pb n="10"/>Born tauchen fie in
+          Sift ein und zielen damit auf das Herz des Segners. Aber ein großer Cheil deı alfo
+          gebrauchten und mißbrauchten Worte haben kaum für den erften Augenblif eine volle
+          SGiltigkeit, Kaum ausgefprodhen und der Luft ausgefebt, verlieren fie ihren fharfen
+          Geruch. Biele folder Worte [Hwimmen wie Korfkzapfen Xfofe auf der Oberfläche herum,
+          an:dere find nur fhwacdh angewachlen und weniger als man glauben follte, Hört man der
+          Ausfprüche, die gleich der Seelilie aus der Tiefe des Seelengrundes heraufgewacdhfen find.
+          . Daz alles will überleat fein,wenn man über die Worte des Menfchen zu Sericht fißt.</p>
+        <p>Der MenfgH ift nach Unten eine Reafumtion aller Erdenbildung, nad Oben ein Anfang der
+          SGeifter:welt.</p>
+        <p>Sein Talent zum Wohle der MenfHheit anzu:wenden, ift die eigentliche Lebensaufgabe eine8
+          eben.Worin diefes Talent beftehe, in melden Wirkungsfreis e5 geftellt fei, das ift ganz
+          gleihgültig. In dem großen Ganzen greifen die wirkenden Kräfte alle. in <pb/>L.inander;
+          aud) der Mang derfelben it nit nad der außern Erideinung abzumefjen. Die raufhenden zroßen
+          Räder find oft nur die Jefundäre Folge einer im Dunkel arbeitenden Kraft. Die Schwingungen
+          zineS in der Einfamfteit gefundenen Sedankens, einer in der Stille geübten That, Können in
+          die weitefte gerne gehen. Die helltönendfte That erftirbt oft mit ihrem Klange in ewige
+          VBerlorenheit,</p>
+        <p>FreundfhHaft, Kunft, Natur, WifienfhHaft find die reinften, erhabenften und
+          beruhigendften SGenüffe, die un8 diefe Erde bietet. AWber wir dürfen ung dem Wahne nicht
+          hHingeben, daz Leben ganz nur. mit diefen Sütern ausfüllen zu wollen. Nein, der
+          eigentliche Srundton unferes Daijeins ft: Anftrengung, Hemm=niß, Verwiclung, Kampf,
+          ANtäglichkeit, und jene Blüthen ranken fi nur al8 Bierwerk zwifdhen dur. D, daß mir ein
+          für allemal an diefer Anfhanung jefthielten, mie mandje Unzufriedenheit würde unters
+          drückt, mie mandjem Migverhältnik vorgebeugt werden.<pb/>‘N Die meijten beurtheilen den
+          Menfchen nur aus dem Erfolge feines Wirkens. Wenige Haben Tiefblick genug, die innere
+          Triebkraft, deren Erzeugnifß der Erfolg ift, noch in ihrer Ifolirtheit zu erfennen. Und
+          doch it der Erfolg oft nur Sache des Zufalls der VBerhältnifje. Schiefe Urtheile über eine
+          mißverftanz dene Perfönlichtfeit, zumal in deren Iurgendzeit, verz Frünneln zuweilen ein
+          ganzes Menfchenleben.</p>
+        <p>Was immer und immer bleibt, Jobald ih unfer Wefen von der DurchHeinanderrüttlung der
+          Uußenwelt wieder feht, daz t’8, mas die Bafis unjeres Dafeins au8macht, der wir um allen
+          Preis treu bleiben müffen.Denn außer Dderfelben fpielen wir nur eine fremde Rerfon, und
+          unferm Chun fehlt der inere Antrieb.</p>
+        <p>Was am meiften an mahrer Seiftesbildung, an gründlidher Einfiht fördert, it das völlige
+          Durdh-ftudiven eines einzelnen Werkes der Vortrefflichkeit und zwar von feiner geiftigen
+          SGefammtanlage bis zu feinen Feinften einzelnen Theilen. Hinter dem <pb n="141"/>Finzelnen
+          liegt das Äbfolute verftedt, und 10 weit an8 in jenem das Verftändniß aufgegangen ift,
+          führt un8 das Gefeß der Gleichheit, oder der Analogie die Sinficht in andere Erfheinungen
+          entgegen. Sehen wir dagegen vom Allgemeinen zum Befondern, von Theorie zur Anwendung über,
+          fo vermwifht fih ehr leicht unter lauter Eintheilungsfucht das Mare natürz liche YA6bild
+          des Lebens. Können wir auf dem angegebenen Wege au nicht zu der umfangreichen Belefenheit
+          gelangen , die man 10 oft bewundert, fo idadet dies gar nidht8. Dem ächten Menfchen ift e8
+          nicht darum zu hun, über vieles fhmaben zu fönnen, fondern feinen SGeift je mehr und mehr
+          an wahrer Erfennntniß zu erweitern, und fih in feinem Rebensfache tücdhtig zu machen.</p>
+        <p>Eine Quelle manigfaltigen Nebel ijt bei Phan-tafie-Menfhen die Sucht, au der Imagination
+          zu urtheilen, Auz einzelnen Losgeriffenen Erfheinungen,tragen fie fih {nel und willfürlig
+          ein Gejammtbilb,zin Phantom zufammen. “Treten fie dann mit dem-jelden in nähere reale
+          Beziehungen, fo- kann e$ nicht anders fein, als daß nah und nach dieje Ilufionen <pb/>fo
+          IHwinden; das geträumte Ideal fOrumpft dann nicht bloß zur ganz natürliden Wirklichkeit
+          herab, fondern jener Dämon der Verfhönerungsfucht tritt nun in veränderter Seftalt auf,
+          und miffennt an dem bis:herigen Traumbilde fogar die wirklich vorhandenen Eigenfhaften. So
+          fommt diefe Art Menfchen felten in das ruhige Gleichgewicht dauernder Verhältniffe.Daher
+          fahren ruhige befonnene RNaturen im Leben beffer; fie meffen zuerft au8 und niht Hinterher
+          und ftellen überall auf einen Tolid erfundenen Grund ab, auf dem feine Täufchung
+          erwächst.</p>
+        <p>Das erfte und Höchfte Biel alles menfhlihen Strebens fol Bildung fein, mworunter ih die
+          Er:meiterung des geiftigen SGefichtsfreifes, verbunden mit der Nidhtung unferes Wefens zum
+          Schönen und Wahren wverftehe. Um Ddiejem Ziele zu nähern,müffen mir Mittel und Wege
+          Kfennen. Die ganze Welt, daz täglidHe Lchen, VBerhältnifje und Umgang und vor Allem Kunft
+          und WiffenfhHaften find Bil:dungsquellen. Ih erwähne unter den Lebtern insbefondere: der
+          Sefchichte, der Naturkunde und der Boefie. Die Sefchidhte zeigt. un8 das Walten der </p>
+        <pb n="1"/>
+        <p>N &lt;Gottheit im Gange der menihlighen Schietfale. Die Naturkunde lehrt uns die Sebilde
+          der Schöpfung al8 bie Offenbarung der (Haffenden Urkraft erkennen und die Boefie ft, al
+          die Pythia unferer reinften und Jeligften Empfindungen, vor allem berufen, das Semüth zu
+          veredeln, das Leben dur Weisheit und Shönheitsfinn zu heben. Zur Hörderung des Ein:zelnen
+          fomımt e8 aber vorzüglich darauf an, daß Keder erfenne, was ihın gemäß fei, aus welden
+          Zuftänden und Wiffenfhaften er den meiften Bildungsitoff für feine befondere Richtung
+          fhHöpfe. Denn da wir mu innerhalb unferes individuellen Talents unz entwickeln fönnen, fo
+          gemährt Hauptfächlih das wahren Fort:Iritt, was mit diefem Kreife im ZufammenhHang und
+          VBerwandtihHaft fteht. ES {ft daher fehr wichtig, daß wir uus hier orientiren und immer an
+          dem Mittel:punkt unferer Individualität fefthalten, um von diefem Stamm-Marfe au3 unfere
+          Jahresringe zu erweitern.Dazu ijft aber erforderlich, daß unfer Lebensgang von ziner
+          gewifjen Planmüäßigkeit regiert werde! daß wir nicht Läflig dem Zufalle anheimftellen,
+          wohin er un8 treibe. Nur au8 der befonnenen Vereinigung aller Kräfte zu einem Geftimmten
+          Ziele, kann ein nach-haltiges Ergebniß entftehen,<pb n="144"/>Wedung und Verfeinerung des
+          Schönheitsfinnes it eine8 der mefentlichften Bildungsmittel der Men:en. Bon ihm Gerührt,
+          veredelt fih, mas Leben und Seftalt hat. Der Sinn für das Schöne fteht au mit dem
+          Sittlidhguten in naher Beziehung.Denn eine Seele, die von ihm Lbeherrfht wird, ift der
+          RoHhHeit und Gemeinheit von felbft enthoben; und boch dürfen mir ung diejem Sinne nicht
+          ausfchließlich hingehen. So fehr er unfere Empfindung verfeinert,jo führt er doch nicht
+          über die Gefahren der Selbft-fucht hinaus, ja eher Ddenfelben entgegen, wie man mit der
+          Lebensgefchichte fo vieler ächter Künftler belegen Fönnte. Das Schöne macht Feine
+          Anfprüche an unfere Kraft, e8 feßt fi in Feinen Widerfpruc mit unferm Wollen, e8 Käßt ung
+          in einem Yether jeliger Harmonie weilen. YWber damit kommt der Men in den Wechfeln des
+          LebenZ nicht aus. Ein anderer Anker muß in Bereitfhaft gefebt werden. 3 ift die Pflege,
+          die ernfte Ausbildung des Ethijhen im Menfdhen. Die mweife Befhränkung unteres Be:gehrens
+          unter die Gefebe der Vernunft, die Kräftigung der Seele zu den Tugenden der Aufopferung,
+          die bem finnligen Behagen nicht entfpreden. Nur auf diefem Wege gelangt der Menfch zur
+          eigentlichften Blüthe aller Bildung, zur Humanität; denn daß der <pb/>14h Menfh cdel und
+          gut fei, ift do am Ende die Hauptfache, und Alles andere nur Beimert. Am Srabe eines
+          Sefchicdenen wird Charakter und Wollen weit über das Wiffen hervorgehoben.</p>
+        <p>Wir ftoßen in unfern Bildungsbeftrebungen auf HörderungS: und HinderungsSmittel. Sie
+          Wnnen in der Lebenslage, im Umgange mit Perfonen, in Büchern,furz in allem, was auf unfere
+          fittlige und geiftige Entwidiung einen Einfluß auszuüben geeignet i{ft,ren Srund
+          haben.</p>
+        <p>Biel {priht man über die Wahl des Umgangs mit Perfonen; und in der That ift diefe Wahl
+          von großer Wichtigkeit. Iede Perfon, die zu uns in be:itimmte Berhältnijje tritt, bt, wenn
+          fie nicht ganz One Bedeutung ft, gewiffle Einflüfie auf un8 aus.Wir nehmen von dem einen
+          Freunde das, von einem Sreunde oder Genofjen etwas ander8, bewußt oder unbewußt, in un8
+          auf. € wäre fehr förderlich,dies in unjerm Lebensgange genau nachgewiefen zu haben, und e8
+          überfehen zu fönnen, wie alles, was wir gegenwärtig find, al das Ergebnif des
+          Zufam:menftrömens folder Einwirkungen dafteht, In wel:</p>
+        <p>10 <pb n="14"/> f her Weife daher Yemand auf unz Einfluß üben werde, bedarf aller
+          Beachtung, aber Keider kommen wir Hierin, wenigftenz auf eigenem Wege, ziemlich Ipät zur
+          höheren Einfidht,</p>
+        <p>Weit weniger wird ein anderer Umgang in Be:tracht gezogen, Deffen Einflüffle und
+          Wirkungen viel:Leit noch umfangreider und nachhaltiger find, als die der Perfonen, e8 ift
+          derjenige mit Büchern. In unbeadhteter Stille, wo das SemüthH alle Ein:drüce inniger
+          aufnimmt, mit dem Anfehen einer gewifjen Autorität fommt das Buch in die Hand des Lefer8,
+          nnd theilt im mit der eindringliden Sprache jHöner Darftelung, Ideen, Srundfäße, Anfidhten
+          und Sefühle mit, die oft eine völlige Cpodhe im Leben eines Menfhen bilden. Wer die
+          geheimen Fäden des Schicfalganges eines Menfdhen verfolgen fönnte, würde oft die Quelle
+          verfehlter Richtung,verfehrter Sefinnung und fHlimmer Handlungsweife in irgend einem Buche
+          finden, das zur unrechten Stunde in unzeitigem Alter gelefen wurde. Und wer allen
+          Wirkungen eines Buches in der Breite der Welt nadhfehen Könnte, mürde wohl oft über ihren
+          Umfang und ihre Folgen erftaunen. Und doch läßt man eben Hierin den blinden Zufall am
+          unbeforg:teften walten. Bon fo vielen werden hen die Bücher <pb/>AN gelefen, weldje ihnen
+          gerade eine einfiHtslofe Ge:legenheit zuführt. So fan e8 dann nur zu Leicht gefehen, daß
+          die unbebachte Wahllofigkeit den Ver:berber einführt. Auch ein feinem eigentliden Zwede
+          nad) vortrefflides Buch kann, wenn der Lefer nicht die nöthige Bildung, Urtheilsreife,
+          Charaktergebie:genheit hinzubringt, (HädlidH wirken, wie um {fo mehr die ganze Fluth fader
+          und fHlechter Werke, wie fie in Leihbibliothefen ab- und zufirömt,</p>
+        <p>Sanz befonders die Lektüre follte von einer durch:dachten Wahl gelenkt werden, und diefe
+          Wahl müßte wie jede andere, von einer richtigen Selbfterkenntniß zusgehen, Der Lejer
+          follte fi vor allem fragen,welche Lektüre, feiner hefondern Seiftesanlage und Semüthsart
+          gemäß, für ihn die gewinnreichfte fei,welche feine fittlide und geiftige Entwiclung am
+          meiften fördere, und vor allem beachten, auf weldjer ihwaden Seite er etwa gegen
+          verführerifde ECinz drüde auf der Hut fein müffe. Er follte, bevor er ein Buch zu lefen fi
+          entfHließt, Prüfung Halten,ob e8 möglicdherweife feinen Zwedfen entfpredhe, ob es nicht
+          etwa in feinen Bildungsgang ftörend eingreife;zr follte, naddem e3 gelefen it,
+          überfhlagen, welches das Hauptergebnif des Inhalte fet, und welchen Zufluß für feine
+          Bildung er darausS gefhöpft habe,<pb n="145"/>So würde nicht nur das Ernfte, das
+          Lehrhafte, fonz dern aud daz Erheiternde, das Eraöblihe feinen Ächern Ertrag abwerfen.</p>
+        <p>Die Weltliteratur hat des BVBortrefflihen, des Kaffiigen in Scherz und Ernft einen jo
+          reihen Schaß aufzumeifen, und doch wird. der Modetand des Cphemeren fo gerne vorgezogen.
+          Möchte der Sinn auf Ddiefes Kiaffijhe fi wenden, das eben dadurdh flalfild it, daß eS zu
+          wahrer und ächter Menfchen:bildung einen Beitrag leiftet. Hier am Beften den Seift
+          erweitern, das Herz veredeln, den Charakter tärken, einen fihern Halktpunkt der Klarheit
+          und Rraft erfafien gegen die Trübungen des täglichen Zeben8, das märe der eigentlide
+          Geminn, den uns Bücher bringen follten.</p>
+        <p>Und wie die Lektüre nicht mahllos fein darf,jo fol fie aud nit im eitles und.
+          genußfüchtiges Viel= und Durcheinanderlefen ausarten. Ein ein:zige8 gutes Buch gründlih,
+          mit Nachdenken über feinen Plan, Sang und Endzwek durchlefen, fördert weit mehr Einfiht
+          und Bildung, al das flüchtige Aothun einer halben Bibliothek. Diefe Art hin:träumenden
+          oder meggaloppirenden Lefenz verwirrt nur ben Kopf, mißleitet das Herz, entführt die
+          Vhantafie, hinterläßt den Dünkel Hohler Ab{precherei,<pb/>{ACC und die Vernachläffigung
+          der erften und wicHhtigiten Pflichten.</p>
+        <p>Sutaeleitete, mwohlverftandene Lektüre dagegen ift zine8 der fHönften Sefchenke des
+          Himmels. E83 hat den hHöchften Reiz, zu vernehmen, wie die glüclichften Köpfe, die
+          edelften Gemüther gedacht und empfunden haben, Im Umgange mit den TreffliHen aller Zei:ten
+          werden wir felbfit allmälig edler, wir nähern un8 unvermertt jener Höchften Bildung, die
+          fichH weniger in wohltönenden Reden Kund gibt, als in Handel und Wandel, weldhe der
+          unverfälfhte Abdruck un:jerer innerften Sefinnung find.</p>
+        <p>Unjer Leben ift ein fortgeleßter Gang zwilden BelhHränkungen. eberall findet unfer
+          individuelles Sein, Wüniden und Wollen Widerftand- und Rei:sung. €8 liegt in diefer
+          Befchränkung eine Höhere Borforge; denn ohne fie, wie ftände e8 mit der fo nöthigen
+          Bezähmung der Leidenfchaften? Ieder Hat jeinen Theil davon, der hHerauSbrechen würde,
+          fobald er in einem durchaus freien Elemente fih bewegen fönnte. Das einzufehen, das
+          Hemmnif als Fiügung <pb n="190"/>zu betrachten, die Befhränkung in freie Mefignation
+          umzugeftalten und freiwillig feinem Individuum fo-weit Abbruch zu fun, al e8 mit der
+          Behauptung unferer eigenen Erijtenz verträglich ift: da3 wäre zine glüdlidge ErrungenfHaft
+          tieferer Bildung.</p>
+        <p>Die umgekehrte LebenZzweife MHarakterifirt den Sgoiften. Ueberall Heftet er fein Selbft
+          zum Bole jeiner Umgebung und ift nur glüclih, wenn diefe ihn umfreist. Ans diejem
+          Mittelpunkte der Selbft:Iucht fließen alle Strahlen, die den RadiuZ feines Wejens. bilden.
+          Er richtet fi nach Niemanden, er it Feiner Aufopferung fähig; er kennt feine Duldung
+          Fremder Anfdauungsweifez er adtet nicht fremdes VBerdienft und feßt an die Stelle der
+          Anerkennung den Neid. Was Wunder, daß ein foldger Menfch feine Bufenfreunde hat.</p>
+        <p>Man follte in unfern Tagen nidt mehr von einem . WiderfpruchH zwifhen Ideal und
+          Wirklichkeit iprehen. Was {ft denn die Wirklichkeit anderes als das Ergebniß vielfacher
+          zufammenwirkender Urfadhen,a3 ein Iogifdhes Naturprodutt? Sie erzeugt und entwicfelt fiH
+          nad) den ewigen Sefegen von Urfache <pb/>al und Wirkung. Die Wirklichkeit ift ehrwürdig,
+          denn fie fommt aus der Hand der weltverwaltenden Vor Tehung, Io gut wie der Sturmwind, das
+          Wehen des Frühlings, das AÜbfterben des Herbftes, In diefer Wirklichkeit liegt aber au
+          eine üppige Fülle idealen Stoffes; diefen Herauszulöjen, geiftig zu verarbeiten,ifn ins
+          Lit der Idee zu ftellen, fjei die Aufgabe des Menichen von idealem Streben. Man wird
+          un:ferer Zeit die Anerkennung nicht verfagen Können,daß fie diefe Arbeit mit nie
+          dagewefenem Eifer an die Hand genommen Hat. Auf allen Lebenzgebieten :in den
+          WiffenfHaften, in den großen und Heinen Werkftätten menfchlidher Thätigkeit, ift der
+          SGeift des Fort{hritte8 eingedrungen, jenes Fortfchrittes, der au gemwecdtem Denkvermögen,
+          aus der Befreiung von übertragenen Anfhauungen, die fih überlebt ha:ben, hervorgeht. So
+          Hat in der MechtswiffenfHaft und in der Rechtspflege eine Heilfame Wendung be:gonnen. Die
+          RNMechtslehrer des vorigen Jahrhunderts und au noch des jebigen, zogen. eine fharfe Grenze
+          zwifgen Recht und Billigkeit, und auf die lebtere Jah man mit Herablafjung. It daz nicht
+          anders geworden? Kommt die Billigkeit die Billigkeit,die in der Tiefe des SGemlüthz3 und
+          des Mitgefühls mwurzelt nicht mehr und mehr zu Chren? Liegt <pb/>1:</p>
+        <p>1 diefem Zuge nicht- die Einführung der ShHwurgerichte,der Ruf nad der Civiljury, nad)
+          Handelsgerichten,nach einer freiern Bemweistheorie, zu Grunde? Die Rechtspflege folk dem
+          Leben, dem ungetrübten Necht3=finne, der Volksanfiht näher gebracht merden. Sie fol nicht
+          Selbftzweck, fondern nur Mittel zum Zweck nämligh zu Nealifirung der hohen Idee der
+          Ge:rechtigfeit fein, In den NMaturwiffenfHaften iftet fi dem ernften Forjdhertriebe ein
+          Schleier um den andern, wenn auch der leßte, [Hmerfte Vorhang nie aufgerollt merden wird.
+          Wie mehren fihH die großartigen Anftalten zu Erleichterung des Verkehrs und des
+          Sedankenaustaufhes unter den Menfchen verfdhiedener Länder, ja Welttheile. Wie hat die
+          immer fi vervollfommnende Photographie unz die Kunftidhäße der großen Städte zugänglidH
+          gemacht!Neue Sildungsanftalten erftehen von Land zu Land:Frobel’IHe Kindergärten,
+          HandwerkerfHulen, Sekunz darfhulen, ftaatlidhe Töchterinftitute, Polytedniken,Mufeen
+          alüberall das Lebendigfte Beftreben, daz gewonnene Wiffen dem Volke näher zu bringen und
+          ijın nußbar zu madhen, die Menfdhen au3 dem dumpfen Dahinleben aufzumecen und ihnen die
+          Mit-tel zur Berufstüchtigkeit, zur Bildung und zu einem menfdenwürdigen Dafein an die Hand
+          zu aeben.<pb n="15"/>:Und auf dem Höchften, Gebiete menjGliher Intereffen,dem religiöfen,
+          da gährt ja gewaltig, unter der Führung tapferer Kämpfer, das Werden einer neuen
+          Beitperiode, das Ringen, veraltete Formen und Anz üchten abzufhlütteln, das Streben, ein
+          neues Kleid anzuziehen, da3 den ‚durH Wedung des Geiftes gerbeigeführten Veränderungen der
+          religiöfen Bedürfz niffe entfpricht. Wie unbegründet {ft im großen Sanzen genommen die fo
+          oft vorgebrachte Klage über Abnahme des religibfen Sinnes. Ya, wer den reliz gtöfen Sinn
+          nur im fleißigen Kirdgenbefudh, in äußern Andadhtsiübungen fucht, dem mag €8 fo fetz nen.
+          BVBielfach werden diefe vernacdhläffigt, hHauptfäch=ih aus dem Grunde, weil der äußere,
+          gotteSdienft=liche Kultus nidt die gefuchte religiöfe Nahrung darbietet, weil die
+          vorgetragenen Lehren mit den jelbfterrungenen Neberzeugungen des Zuhörer8 nicht im
+          Einflang ftehen, weil der Zuhörer fid in eine Zeit zurücdverfeben muß, der er nicht
+          angehört, Die 3 hinter fi hat, Wer jedoch den religiöfen Sinn mehr. in die SGefinnung und
+          die Handlungsweife :ine8 MenfhHen verlegt, der wird die erwähnte Klage wohl, menn nit
+          zurücnehmen, doc zu befhränkfen geneigt fein. Dder weist denn etwa unfere Zeit (Olimmere
+          moralifihe Zuftände auf als die früherer <pb n="134"/>Kahrhunderte? Sehr das Segentheil!
+          Man durdh-gehe doch die Sittenge[hichte jener Tage, wo die firgligen Uebungen am
+          ftrengften beobachtet worden find, mo eigene Behörden den KirdhHenbefuchH auch der
+          Ermwachfenen, der Väter und Mütter, überwachten,wo SGefeggebungen diefen Befuch
+          vorfchrieben und bie Nebertretungen mit empfindligen Strafen be:drohten wie ftund e8 denn
+          damals mit dem fitt-fien Leben des Volkes? Darauf Könnte eine Sta:tiftif der
+          Kriminalverbredhen die fMlagenbfte Antwort geben. An fOmweren und fMOeußlidhen Verbrechen,
+          an Mord durch Gift und Dolch, an Unzucht jeder Art,an Haarfiräubenden Semaltthätigkfeiten
+          überbieten fie unfere Zeit bei weitem, trok der barbarifhen Strenge damaliger Strafgefege.
+          Das hHäuslidhe Leben, die Kinderzucht diefer Vorfahren Könnten ebenfowenig als Borbild
+          dienen. Wenn nun unfere Zeit, ohne Frage,an Humanität Höher jtebt, wem ift denn diefer
+          Fort:jhritt zu verdanken; doch nad dem Sefagten nicht dem Kirchenbefuch, nidt den
+          vorgefhriebenen An:vachtsiübungen, fondern den bevorzugten Seiftern. und Kämpfern, mweldhe
+          erweiterte Erfenntnig und Höhere Sefinnung unter die Menfchen gebracht haben. Und eben
+          diefe erweiterte Erfenntniß beanfprucht mit Necht im religiöfen Leben eine ihr
+          entipredhende Reform.<pb/>EA Alfo allüberall vollanf zu thun für Solche, die guten Willenz
+          find: die nadj Maßgabe ihrer Kräfte am großen Werke der MenfhHenerziehung und
+          Men:jdenbeglücung mitarbeiten mödhten. Die Wirklich:feit frif anzufaffen und fie dem Ideal
+          entgegenzus führen, das ift die Aufgabe. Damit ift die Muft zwilchen Wirklihkeit und Ideal
+          zugedeckt, an der ein Rouffeau und andere zu Grunde gegangen find.</p>
+        <p>Welch’ ein fhöne8 und ergiebiges Arbeitsfeld thut RO auf! Wahrlih,. das läßt Feine Zeit
+          zu Klagen über die Verworrenheit diefer Welt, über das Dunkle und Zrübe des
+          MenfhHenkoofe8, Keine Zeit zu eitler Selbftbefhauung und weltfhmerzlidhen Sedanken.Wie
+          undankbar find aber auch folge Klagen! DO Menfh, fiehlt du denn nicht, wie eine
+          allwaltende Süte dihH vor allen Erdengefhöpfen bevorzugt hat?Wie fie deinen Körper fhön
+          geformet, dihH mit hHerr-lien Gaben des Seiftes und des Gemüthes aus:geftattet Hat, um
+          Deiner SGenußfähigkeit nad allen Seiten ein weiteS Feld zu Sffnen, wie fie die Erde,bein
+          Wohnhaus, mit allen Reizen gef mlct Hat.Die Farbenpradht der Blumen ziert Garten,
+          BWiefe,Feld und Wald; KiebliHe Düfte durhwehen die Luft.Auf den Bäumen figen die Sänger
+          und heben wett:zifernd ihre Lieder an; am Waldhang flötet die <pb/>e Amel; von Hügel zu
+          Hügel dehnt fih das wein:und freudenfpendende Rebgelände, der ernfte Wald offenbart dem
+          Eintretenden feine dunklen Myfjterien;drüben lächelt der See, e8 gurgeln und fpringen die
+          Quellen vom Berghang; rofige Wolfen ziehen wie Vhantafieträume am hohen. Gewölbe dahin;
+          Berg:rücden und Firnen [Oüßen das liebliHe hal. Wo nur immer dein Bli fih. Hinwendet,
+          überall Schön heit, Fülle, Segen, Vorforge für den MenfhHen und feine Nebengefhöpfe. Nicht
+          genug an diefer fidht-baren, wundervollen SGotteswelt, au ein unficht-bares Neid wird dem
+          Menfchen aufgethan, nidht weniger wundervoll. Dur eine andere Eingangs:pforte zu Deinem
+          Seelenleben, durch das Ohr, geht der Zauber Himmlifcher Töne ein. Was das Wort des Redners
+          und Dichters nicht auszufpredhen ver:mag, dem verleiht die Mufik ihre Mangvolle Stimme,Aus
+          den tiefften Tiefen menfchliHen Empfindens Holt fie ihre Schöpfungen und im Labyrinth der
+          Brujft mwiderhallen ihre Melodien. Bom anmuthenden VBolfksliede an bis Hinauf zur rei: und
+          weitange-legten Hang: und fturmdurhmwogten Symphonie, meld’eine unerfOhöpflide Fülle über
+          Welt und Leben erhe:benden Senufjes. Und für diefe8 Hehre SGefhentk Tollte der MenfidH
+          nicht dankbar fein! Aber noch fo <pb n="157"/>viel Anderes ift geboten: Liebe,
+          Freundfhaft, Wiffen:Ichaft, Kunft, geboten Jedem, der fi um bdiefe edlen Güter bemüht.
+          Leer geht Feiner aus, der den Kampf mit dem Dafein aufnimmt.</p>
+        <p>Kampf? Allerdings! Kampf muß fein, er unter:Hält deine Kräfte, deine Frijhe, Keiner gebe
+          diefen Kampf auf, fei er fo Hochgeftellt als er wolle, Haft du über enge, zufOnürende
+          Verhältniffe zu Hagen,will dein. beftes Streben nie vet zum Durchbruch fommen, [legt dir.
+          Mißgunft einen Verhau in den Weg, wideln dih die Fehler deines Temperamentes in
+          Befümmernifie, alle diefe Nebel finden ihre Ver-föhnung in einem edlen feftgehaltenen
+          Beftreben,Wirf deine Cheilnahme auf die ganze Sefellfchaft,lebe mit ihren hHöhern
+          Interejfen fort, wirke Hinein,wo du Gelegenheit findeft und Kraft fühlft. Und wenn du auch
+          nicht groß unter den MenfchHen glän=zen Fannft, edles Streben und gute That jHÖmwingen fi®
+          in ungeahnte Ferne fort. Das DBeifpiel, die Wirkung geht auf andere über, von diefen auf
+          dritte und vierte und fo fort. Der Geilt einer Ort{dhHaft (äßt fih zuweilen auf einen
+          längft dahingegangenen wadern, zu Lebzeiten einflußreidhen Bürger zurücz führen... Bon
+          einem Zündhölzhen aus erleuchten fih alle Sasflammen des Drts. Unter den Menichen
+          <pb/>©find die aufgewedten Köpfe, die empfänglidhen Ge:müther diefe Gasflammen. Wohlan
+          entzünde foldhe,wo dur immer Kfannft.</p>
+        <p>So wird in nimmerraftender Thätigkeit die welt:[Hmerzlige Stimmung verdunften. Liebe und
+          Dank-barkeit werden früher oder fpäter das Bemühen um Andere Kohnen und deine guten Werke
+          folgen dir nach, wenn längft der Srabhiügel die Mefte deines Dafeins deckt,</p>
+      </div>
+    </body>
+  </text>
+</TEI>

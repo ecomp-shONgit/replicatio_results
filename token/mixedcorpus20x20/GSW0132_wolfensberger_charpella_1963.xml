@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GSW0132" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Die Seuche von Charpella: ELTeC Ausgabe</title>
+        <author ref="viaf:42647118 wikidata:Q1749167">Wolfensberger, William (1889-1918)</author>
+        <respStmt>
+          <resp>ELTeC conversion</resp>
+          <name>Automatic Script</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="pages">31</measure>
+        <measure unit="words">7510</measure>
+      </extent>
+      <publicationStmt>
+        <p><date>2021-12-14</date></p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <respStmt>
+            <resp>Transcription</resp>
+            <name>UB Basel</name>
+          </respStmt></bibl>
+        <bibl type="digitalSource">
+          <respStmt>
+            <resp>Scan</resp>
+            <name>UB Basel</name>
+          </respStmt></bibl>
+        <bibl type="firstEdition">
+          <title>Die Seuche von Charpella</title>
+          <author>Wolfensberger, William</author>
+          <publisher>Schweizerisches Jugendschriftenwerk</publisher>
+          <pubPlace>Zürich</pubPlace>
+          <date>1963</date>
+          <!-- this title has been retrodigitised as part of the project “High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century”  -->
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc n="eltec-0">
+      <p>The text was transcribed from the transcription from UB Basel, which is based on the 1963
+        edition. The page breaks, chapter divisions and chapters were taken from scan from UB Basel,
+        which is based on the 1963 edition.</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">German</language>
+      </langUsage>
+      <textDesc>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+      </textDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2023-03-14">Ines Bracht added TEI Header and removed noise.The Scan is used only
+        to insert page beginnings, paragraphs, chapters and heads.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="chapter">
+        <head>Die Seuche von Charpella</head>
+        <p>Die Seuche von Charpella William Wolfensberger Umschlagbild und Zeichnungen Albert Saner
+          CD Pädagogiscl C&amp; g0gi che NA Dokumentationsstelle Erziehungsdepartement V J des
+          Kantons Basel-Stadt .Padagogische €N okun enelonsstelle X DD &lt;SW Schweizerisches
+          Jugendschriftenwerk Zürich Nr. 803 \ 1,<pb/>© 1963 Schweizerisches Jugendschriftenwerk
+          Zürich <pb/>Nach Charpella führt ein fast verwachsener Weg. Er geht von Pranöv aus eine
+          starke Stunde dem Hang entlang, bald ein wenig hinauf,bald geradeaus, hinunter nie, und
+          man muss unterwegs über man-ches Wasser springen, weil ja die Bäche in Hunderten zu Tale
+          schäu-men, die Bäche, welche in der Nacht mit den Fichten und Föhren,den Arven und den
+          endlosen Lärchenwäldern zusammen jenen selt-samen tiefen Gesang singen, dass es einem
+          manchmal scheint, als bete die Erde den flimmernden Himmel an, oder als singe das
+          flim-mernde Firmament des Hochgebirges, welches sich in heller Klar-heit ob den
+          schattenschweren Niederungen des Tales wölbt, im Wandel seiner Lichter kalt und fremd ein
+          märchentiefes Lied.</p>
+        <p>Der Weg, der hoch ob dem Tal an der Höhe von Pranöv nach Charpella führt und schon nach
+          den ersten Schneefällen im Okto-ber oder November unfindbar und ungangbar wird, ist auch
+          im Sommer so mühsam zu begehen, dass er eigentlich eher den Namen Pfad als Weg verdiente.
+          Denn es fällt natürlich keinem ein, ihn irgendwie ein wenig instand zu halten. Er wird
+          auch selten mehr begangen. Früher hatten die Bewohner von Charpella auf ihm ihre Kühe nach
+          Pranöv getrieben, wenn sie dieselben zum Stiere brach-ten. Oder sie waren im Juli mit den
+          Tieren hinübergekommen, um sie gemeinsam mit denen von Pranöv auf denselben Alpen zu
+          söm-mern.</p>
+        <p>Doch pflegte dies nur dann der Fall zu sein, wenn die von Pranöv und Charpella nicht im
+          Streit hintereinander waren. Das aber ge-schah seit Menschengedenken regelmässig alle vier
+          bis fünf Jahre.Offenbar hatte sich während dieser Zeit unter dem einsilbigen Berg-volk so
+          viel verhockter Kolder angesammelt, dass sie es wie eine Art guter, rasch verlaufender
+          Blutreinigung empfanden, diesen Groll in einem rechten Streite loszuwerden, um dann nach
+          dieser wirk-samen Purganz* leicht- und freigewordenen Sinnes ohne Beschwer wiederum einige
+          Jährlein in Bruderschaft und Minne durch dieses holperige Dasein zu kutschieren.</p>
+        <p>1 Blutreinigung.<pb/>Von den vier Höfen auf Charpella, darin das unruhige Völklein
+          wohnte, waren dann freilich vor Jahren durch eine tückische Brunst zwei eingeäschert
+          worden. Sie konnten nicht wiederaufgebaut wer-den, und so blieben nur die beiden einzigen
+          Häuser übrig, deren Be-sitzer das Land der anderen zwei, welche sich unten im Tale
+          nieder-liessen, so wohlfeil wie möglich an sich gerissen hatten.</p>
+        <p>Simmi Pazeller und Matthias Burtel, so hiessen die beiden Bauern,waren damals einmütigen
+          Sinnes tapfer zusammengestanden, und sie hatten bei der Sache auch ein nettes Händelchen
+          gemacht in aller Einigkeit und Verschwiegenheit, wie sie es gehofft hatten, und die
+          billigen Fettwiesen, welche sie auf solche Art ergatterten, hatten <pb/>ihrem hungrigen
+          Bauernmagen wohlgetan, wie ein Möcklein durch-zogener Speck einem wohltut um die
+          Neunuhrzeit.</p>
+        <p>Aber wie es dann unter den lieben Menschenkindern so oft geht:Die Einigkeit, welche um
+          des Gewinnes und der verborgenen Inter-essen willen damals so fest gewesen war, hatte dann
+          bald einen Riss bekommen.</p>
+        <p>Denn nun erwachte unter ihnen selber der Neid. Wie zwischen zwei Füchsen, die auf
+          einsamer, schneebedeckter Höhe ein ange-schossenes Schneehuhn verenden sahen und mit
+          gewandter Kraft ge-meinsam das hungrige Rabenpack von dem leckeren Frasse scheuch-ten;
+          aber dann in Gier und Neid sich selber hinterher zerfetzen und als fauchende Feinde
+          ineinander verbissen sich wild verknäuelt bal-gen, dass der pulverige Schnee aufstäubt und
+          sich rötet; bis beide zuletzt ohne Gewinn vor dem gemeinsamen Jäger, welcher seiner Beute
+          nachstrich, fliehen müssen.</p>
+        <p>Zudem machte die Weltabgeschiedenheit und Einsamkeit, in der die beiden Familien auf
+          Charpella wohnten, ihren Gesichtskreis noch viel enger, so dass der Neid dermassen gross
+          wurde, dass er die Wur-zel alles Bösen ward und sie in lauter Ungemach und Not bringen
+          musste.</p>
+        <p>Der Anstoss, der die angesammelte Masse von Neid in Bewegung und Tätigkeit brachte, wurde
+          durch eine scheinbar geringfügige Ursache hervorgerufen.</p>
+        <p>Matthias Burtel hatte nämlich eine Frau, die eine besondere Vor-liebe für bunte Farben
+          hatte. Und da sie nun in den Jahren ziemlich habliche Bauern geworden waren und auch mit
+          ihren fetten Alpwie-sen schön vorwärtskamen bei den hohen Viehpreisen, schien es der Frau,
+          sie sollten das doch auch in irgendeiner Weise zeigen können.</p>
+        <p>Die Frage war nur, wie dies am wirksamsten geschehen. könnte.Wenn sie zum Exempel beim
+          Peter Höfler in Valdür einen Hut kau-fen würde, einen besseren natürlich, mit Rosen oder
+          Blauveilchen darauf? Aber sie dachte wieder, dass sie dabei nicht so leichten Kau-fes
+          davonkommen würde. Unter vier, fünf, ja vielleicht sogar sechs <pb/>Franken war diese
+          Sache nicht zu machen, und da fragte es sich halt doch sehr, was der Matthias dazu sagen
+          würde. Er war eher nüchter-ner Art und hatte nicht grosses Interesse an derlei, und es
+          wäre wohl schwer, ihm die Notwendigkeit einer solch aussergewöhnlichen An-schaffung
+          darzulegen. So liess sie dieses Projekt bald wieder fallen,namentlich auch aus der
+          Erwägung, dass sie selber ja nur selten in das Tal hinunter könnte, um den Hut zu zeigen,
+          und somit wäre eigent-lich der zutiefst liegende Wunsch, warum Frau Burtel diese
+          persön-liche Verschönerung vornehmen wollte, unerfüllt geblieben, und die Sache wäre
+          wieder gewesen wie vorher: Kein Mensch hätte eine Ahnung, ja nicht einmal den Schimmer
+          einer Ahnung davon gehabt,dass man in Charpella Fortschritte mache und es mit den Burtels
+          auf-wärtsgehe.</p>
+        <p>Weil nun aber die Frau des Matthias Burtel von ziemlich zäher Ge-mütsbeschaffenheit war,
+          gab sie nicht so schnell nach mit ihren Ge-danken. Und wie es bei so gearteten Menschen
+          ist: Sie fand einen Weg, der ihr zusagte, weil er geradewegs auf ihr Ziel zuführte, und
+          der ihr auch gangbar schien im Hinblick auf ihren Mann.</p>
+        <p>Als sie nämlich das letzte Mal nach Ursulinendorf in das Tal hin-untergegangen war, hatte
+          sie gesehen, wie man den Gartenzaun um des Herrn Lehrers Haus herum neu bestrich, so dass
+          er wahrhaft vor-nehm ausgesehen hatte, wunderschön blau.</p>
+        <p>Das war jetzt der Zapfen, der auf ihre Flasche passte! Zwar hatten sie keinen Zaun um
+          ihren Pflanzplätz, aber ihre findige Natur hatte bald den rechten Seitenweg gefunden.</p>
+        <p>Schon am Morgen nach der Nacht, in welcher sie auf den Gedan-ken geraten war, begann sie
+          ihm den Boden vorzubereiten.</p>
+        <p>Der Wind hatte über Nacht die Fensterläden von den Haken ge-löst. Sie stand während des
+          Morgenessens auf und hakte sie fest. Da-bei machte sie ihren Matthias aufmerksam, dass das
+          Ladenholz ganz brüchig und zerrissen worden sei.</p>
+        <p>«He nun», sagte er, «was willst du anderes, wo wir so in der Sonne sitzen?»</p>
+        <p>6 <pb/>Just auf diese Antwort hatte sie gewartet.</p>
+        <p>Man könnte eigentlich, meinte sie bedächtig, mit wenig Rappen die Läden vor
+          weitergehendem Schaden bewahren: Mit ein bisschen Farbentinte einölen, das sei doch immer
+          noch das beste gewesen ge-gen Sonne und Wetter.</p>
+        <p>Matthias schaute ganz erstaunt von seiner Kaffeeschüssel nach sei-ner klugen Frau
+          hin.</p>
+        <p>«Wahr ist es», sagte er.</p>
+        <p>Die Frau verlor kein Wort mehr über die Sache.</p>
+        <p>«Zu viele Worte schaden nur», dachte sie. «Und einer Schraube,die gut sitzen soll, darf
+          man nicht zu tief vorbohren.»</p>
+        <p>Als sie jedoch am nächsten Sonntag in das Tal hinunter zur Predigt ging, kehrte sie auf
+          dem Heimweg bei Peter Höfler in der Handlung ein und kaufte um ein billiges Geld einen
+          Topf roter Farbe, von der hellsten, die sie hatten, samt einem währschaften Pinsel.</p>
+        <p>Sie trug das Paket vergnügt unter dem Arm nach Charpella hin-auf und lächelte zufrieden
+          vor sich hin.</p>
+        <p>«Vorher hat sich kein Hund zu uns hinauf verirrt», dachte sie. «Das wird jetzt anders
+          werden. Die roten Fensterläden werden denen un-ten schon einleuchten.»</p>
+        <p>Ja ihre Gedanken liefen noch weiter und gingen ihr ungeduldig voraus:</p>
+        <p>«Was wohl der Nachbar Simmi für ein Gesicht schneiden wird?Viel will er ja nicht mit uns
+          zu tun haben, und manchmal tut er, wie wenn unsereins räudig wäre. Dem wird es nun
+          zünden!»</p>
+        <p>Die gute Frau vergass dabei, dass an dem zurückgezogenen Still-schweigen des Nachbars
+          eigentlich sie selber ein gut Teil schuldig war, hatte sie doch nie genug sticheln können
+          auf dies und das, wenn sie mit Simmi Pazellers Frau am Brunnen zusammentraf. Bald
+          be-dauerte sie lebhaft und voller Mitleid, dass Simmis Kühe so elend aussähen, gewiss sei
+          ihnen das Heu wieder einmal ein wenig brandig geworden im Stock? Und dann hätten sie halt
+          auch ein wenig zu früh mit Heuen begonnen letztes Jahr und seien eben just in den ersten
+          <pb/>acht Tagen in den Regen geraten, es sei wirklich schad. Sie selber,Burtels, hätten es
+          doch bedeutend besser getroffen; sie hätten zu-gewartet und das Dreinfahren anderen Leuten
+          überlassen, damit seien sie gut gefahren.</p>
+        <p>Oder sie putzte, wenn Simmi Pazellers Frau am Brunnen ge-waschen hatte, nachher so
+          übereifrig den Wassertrog aus, als sei weiss Gott was für ein Dreck hineingekommen.</p>
+        <p>Dass Simmi Pazellers Frau, welche halt in Gottes Namen auch kein Heiligenbildchen war,
+          sondern aus Weiberblut und Frauenart be-stand, dann hinwiederum die Antworten nicht
+          schuldig blieb und wacker herausgab, soviel sie konnte, ja auch ein rechtes Zustüpflein
+          gerne obendrein gab, erschien Burtels Frau als Unrecht und Verfeh-lung, und darum freute
+          es sie nun, den Nachbarn zeigen zu können,dass sie es vermöchten, die Fensterläden rot zu
+          bemalen.</p>
+        <p>Am darauffolgenden Sonntag war der Kirchgang an Simmi Pa-zeller. Er ging auch samt seiner
+          ganzen Familie.</p>
+        <p>Man muss nämlich wissen, dass die Einwohner von Charpella nie zusammen in die Predigt
+          gingen, wegen der ihnen innewohnen-den eigentümlichen Gemütsart, welche ihnen nicht
+          gestattete, ihr Christentum in übertriebener Weise zu bestätigen und sich mit einem
+          unzweifelhaft minderwertigen Nachbarn in die gleiche Kirchenbank zu setzen. So hatte sich
+          im Laufe der Jahre eine stillschweigende Re-gel herausgebildet: An dem einen Sonntage
+          gingen die Burtels, am anderen die Pazeller.</p>
+        <p>Kaum waren sie unter der Wegkehre verschwunden, kam es in Matthias Burtels Frau wie Feuer
+          und Begeisterung. Sie holte den Farbkübel hervor und fing ohne Verzug an zu rühren und zu
+          mi-schen. Und als es in Ursulinendorf zum drittenmal zu läuten begann,zum Zeichen, dass
+          jetzt der Pfarrer den Gottesdienst alsobald begin-nen werde, hatte sie vom ersten Laden
+          schon dieInnenseite bestrichen.</p>
+        <p>Die Buben mussten ihr einen Laden nach dem andern aus den ver-rosteten Angeln
+          herausheben. Mit einer weiten Schürze umgetan,vollzog sie an einem jeden ihr Kunstwerk.
+          Und richtig brachte sie es <pb/>fertig, dass schon beim Ausläuten alle sechs Läden der
+          Vorderseite und die vier der Seitenfenster eingehängt waren und mit feuerroten Bak-ken in
+          das Tal hinunterprangten.</p>
+        <p>Das war nun in der Tat eine respektable Leistung, denn mehr als eine halbe Stunde dauerte
+          die Predigt des Pfarrers von Ursulinen-dorf nie; ja die Ursulinendörfler pflegten mit
+          einem Seitenblick auf seine Pfeiferbacken zu spotten: der Atem gehe ihrem Pfarrer
+          schnel-ler aus beim Predigen als bei den Taufmählern, an welchen er mit grosser Vorliebe
+          teilnahm und sich zum Ärger seiner Schäfchen nie-mals entschuldigte.</p>
+        <p>C <pb/>Zufrieden wischte sich die Burtlin in der Küche das verschwitzte Gesicht ab.
+          Umsonst wusch sie sich die Hände.</p>
+        <p>«Das verteufelte Rot ist nicht wegzubringen, eine gute Farbe ist es», knurrte sie in
+          zufriedenem Unmut.</p>
+        <p>Dann stand sie samt den Buben seitwärts hinter dem Stubenfenster und wartete ab, bis der
+          Simmi Pazeller mit seiner Familie herauf-käme. Sie musste vor Aufregung den Kopf doch ein
+          wenig vorstrek-ken, als der kleinste Bub, der offenbar die Grösse des Augenblickes gut
+          erfasst hatte, vom Fenster in die Stube brüllte:</p>
+        <p>«Sie kommen, ich sehesie!»</p>
+        <p>Richtig, da waren sie alle. Die Burtels sahen auch deutlich, wie das ältere Mädchen des
+          Nachbars den Vater, der in sich gekehrt ein-herging, am Arme zupfte und auf die roten
+          Läden deutete. Der tat einen Blick und einen längeren zu seiner Frau hinüber und ging
+          dann,ohne ein Wort mit ihr zu wechseln, in sein Haus hinein.</p>
+        <p>«Hast du gesehen?» flismete die Frau zu Matthias, «die werden jetzt reden drüben!»</p>
+        <p>Matthias Burtel antwortete nichts. Er sah jetzt schon deutlich, wo hinaus sie gewollt
+          hatte mit dem Verbessern der Fensterläden.</p>
+        <p>Obwohl ihn die Sache halb freute, war ihm doch nur halb wohl dabei.</p>
+        <p>Es war eine Weibergeschichte und blieb es vorerst noch. Das sah man am Tage darauf.</p>
+        <p>Der helle Morgen lag klar und rein über dem Tal, und die stolzen,scharfen Linien der
+          schneebedeckten Kuppen hoben sich weiss von dem tief blauen Himmel des erwachten Tages
+          ab.</p>
+        <p>Die Frau des Matthias sah die Nachbarin zum Brunnen gehen. Da hielt sie es im Hause nicht
+          mehr aus. Eilig raffte sie einen Blecheimer voll schmutziger Lappen zusammen und ging auch
+          waschen. Nicht zwei Minuten waren vorüber, so war das Gespräch schon im Gange:</p>
+        <p>«Nachbarin, waren gestern viel Leute in der Kirche?»</p>
+        <p>«Ja, ziemlich viel, aber die fürnehmsten haben halt doch gefehlt!»</p>
+        <p>LO <pb/>«Nun», entschuldigte die Burtlin flink, «sie werden es eben nicht so nötig gehabt
+          haben hinzugehen. Man wäscht sich schliesslich nur,wenn man es nötig hat.»</p>
+        <p>Die Simmin richtete sich auf, nahm ihr Wäschebündel zusammen und sagte, im Gehen einen
+          flüchtigen Blick auf die rotgestrichenen Läden des Nachbars hinüberwerfend:</p>
+        <p>«Ihr habt gestern eure Sau gemetzget? Es ist nicht gut, solches an einem heiligen
+          Sonntage zu tun, Nachbarin. Oder dann hättet Ihr wenigstens das Blut von den Fensterläden
+          abwaschen können!»</p>
+        <p>Sprach’s und ging.</p>
+        <p>Die Burtlin stand da wie auf das Maul geschlagen. So dick hatte sie es doch nicht
+          erwartet. Aber sie fasste sich rasch, und ihre gesamte Redekunst zu bestmöglichem Schlage
+          zusammenraffend, brüllte sie der enteilenden Nachbarin nach:</p>
+        <p>«Es ist nur der Neid, selb weiss man schon! Halt weil Euere Bude daneben ausschaut wie
+          eine geräucherte Speckseite!»</p>
+        <p>Zornwütigen Sinnes flotschte sie noch eine Weile am Brunnen und koselte die Socken ihres
+          Mannes aus. Dann ging sie in das Haus und schüttete vor ihrem Matthias brühwarm ihren Zorn
+          und Miss-mut aus. Denn sie war unbefriedigt über ihre Antwort. Sie war nicht rasch genug
+          und zu wenig räss gewesen.</p>
+        <p>Auch den Matthias würgte es natürlich. Er hatte solchen Respekt vor seinem Weibe, dass es
+          ihn von vornherein mit Bangen erfüllte,auch nur zu hören, dass ihr eine andere über
+          sei.</p>
+        <p>Kurz und gut, auf ihre Schadenfreude, über der sie beide wie über einer guten Schüssel
+          gesessen, hatten beide nun hinterher zur Ver-dauung der Kost ein Glöschen Wermut
+          bekommen.</p>
+        <p>Matthias hatte in jener Woche kein gutes Leben. Wie eine wilde Katze schnäuzte sein Weib
+          im Hause umher. Er war sonst nicht leicht aus der Fassung zu bringen, denn er gehörte zu
+          jenen ruhigen, schwer beweglichen Naturen, an denen man zehnmal stossen muss, ehe sie ins
+          Rollen kommen. Er war schweren Felsklötzen an. den Stein-wänden von Charpella gleich,
+          welche scheinbar losgelöst sind von 11 <pb/>den Rotzen und die doch jahrelang in der Höhe
+          hangen. Schlägt aber einmal in einer Wetternacht ein recht Gewitter los und werden sie
+          frei, dann bellern sie zu Tal und zerschlagen in blindem Gang Stadel und Brücke, die im
+          Wege stehen.</p>
+        <p>Losgelöst hatte sich der Klotz Matthias Burtel noch nicht. Seiner innersten Anlage nach
+          hatte er einen natürlichen Hang zur Fried-fertigkeit. Seine Art war: Nimm die Dinge ruhig,
+          Matthias Burtel,hastige Bewegungen schaffen zuviel Hitze. Aber, Matthias, profi-tiere von
+          allem das Beste. Er war an Verschlagenheit dem Nachbar und den meisten im Tale über, und
+          das wollte etwas heissen!</p>
+        <p>Das Gekär und die Graulerei seiner Frau waren dem Matthias zu-wider. Zwar sagte er
+          nichts, er kannte sie. Und obschon er nicht un-bedingt auf der Seite seiner Frau stand, da
+          sie ihn diesmal, seiner eige-nen Schläue zum Trotz, mit der roten Farbe eigentlich doch
+          über-listet hatte und er auch sonst eher geneigt war, wieder einzulenken da man doch
+          wirklich nicht wissen konnte, ob man den Nachbar nicht einmal wieder nötig habe für
+          irgendeine Sache, begann ernun dennoch dem Nachbar ernsthaft zu zürnen. Nicht etwa wegen
+          des bösen Wortes von der Metzg am Sonntag, sondern einfach aus Un-zufriedenheit darüber,
+          dass er jetzt ein böses Weib hatte, das zornig den ganzen Tag im Haus umherfuhrwerkte, als
+          wenn im Stall der einjährige Stier von der Kette losgekommen wäre.</p>
+        <p>Da er aber, wie jeder Mann, natürlicherweise mit einem Bein im-mer auf dem Land seiner
+          Frau stand, zog er nun langsam und be-dächtig das andere zurück, das auf des Nachbars
+          Grund war, und stellte sich innerlich ganz auf die Seite seiner Frau, wie es nun einmal
+          menschliche Eigenheit ist, dass man den Acker bestellt, von dem man die grössten
+          Kartoffeln erwartet.</p>
+        <p>So ungefähr stand die Sache am Sonntag darauf, als die Burtels,der Regel gemäss, hinunter
+          nach Ursulinendorf zur Kirche pilgerten.</p>
+        <p>Als nun aber auch die von Ursulinendorf über die roten Läden spöttelten und der
+          versoffene Josias sogar den Mut hatte, zu fragen,ob sie jetzt in Charpella die roten
+          Bettanzüge den ganzen Tag zum {2 <pb/>Auslüften draussen hängen hätten, da fuhr der
+          Matthias zum ersten-mal in Sachen dieser Geschichte aus seiner Ruhe auf und sagte
+          be-dächtig und bissig: Nein, sie hätten eben die Fensterläden gestrichen,aber leider sei
+          die Farbe nicht so gut ausgefallen wie diejenige, welche er, der Josias, für seine Nase
+          verwendet habe.</p>
+        <p>Diesmal hatte er die Lacher auf seiner Seite.</p>
+        <p>Ein paar Wochen war es still.</p>
+        <p>An einem Sonntagmorgen aber, es ging gegen Ende Juni man dachte schon an das Heuen, und
+          bereits hatte Matthias die alten,schadhaften Gabeln und Rechen zurechtgeflickt , geschah
+          das, was den Haken noch ganz bog.</p>
+        <p>Die Frau des Matthias stand ganz starr am Zimmerfenster: An Simmi Pazellers Haus waren
+          alle Läden geschlossen und leuchteten im schönsten Dunkelgrün!</p>
+        <p>Nicht wenig verdutzt sassen sie und Matthias am Morgenessen und sagten nicht viel, so
+          sehr würgte es sie. Erst als sie von ihren Kaf-feekacheln aufstanden, seufzte sie ganz
+          geknickt zu ihrem Manne hinüber: «Was werden die unten im Tal sagen?»</p>
+        <p>Wieder trat sie zum Fenster und schaute hinüber. Wie gestochen fuhr sie diesmal zurück
+          und setzte sich laut weinend auf die Ofen-bank.</p>
+        <p>«So sag, was ist denn?» murrte Matthias und trat ans Fenster.</p>
+        <p>Simmi Pazellers Fenster standen nun weit geöffnet und leuchteten von der Innenseite im
+          hellsten Blau in das Grün der saftigen Wiese hinaus!</p>
+        <p>Sie sahen, dass sie übertrumpft waren. Diese doppelfarbigen Läden schlugen sie ganz zu
+          Boden. Zum erstenmal seit Jahren mieden sie den Gang zur Kirche. So fassungslos waren
+          sie!</p>
+        <p>Matthias Burtel hätte gerne Nadeln abgebissen vor Zorn. Tag und Nacht liess es ihm keine
+          Ruhe mehr. Selbstverständlich liess er Simmi Pazeller nichts davon merken. Je zorniger es
+          in ihm kochte, ein um so glatteres Gesicht konnte er machen. Das hatte er so gelernt im
+          Laufe der Jahre und gefunden, dass man gut dabei fahre.</p>
+        <p>I?<pb/>Nun aber stand es dennoch ganz fest für ihn: Diesen Schlag wollte er zurückgeben.
+          Er war es sich und seiner armen Frauschuldig! Denn sie jammerte Tag um Tag: Sie getraue
+          sich nicht mehr nach Ursu-linendorf hinunter, man dürfe sich ja nirgends mehr zeigen wegen
+          der Schande. Gewiss rede das ganze Tal davon.</p>
+        <p>Das war nun soweit ganz richtig gedacht. Wer den Nachteil hat,braucht für den Spott nie
+          zu sorgen. Kam sie einmal in das Dorf hin-unter, war auch gleich einer zur Seite: «Wollt
+          Ihr Farbe einkaufen gehen, Gevatterin? Gibt es wieder etwas anzustreichen ?»</p>
+        <p>War das zu ertragen? Konnten sie eine solch unerträgliche Last herumschleppen? Waren sie
+          nicht gezwungen, etwas zu tun, damit die Leute denn doch merkten, dass die Burtels nicht
+          im Wacholder geboren waren?</p>
+        <p>Wenn der Teufel einmal den Haken gemacht hat, findet er immer auch das Löchlein, um ihn
+          einzuhängen.</p>
+        <p>Matthias und Simmi mieden sich. Beide wussten, dass es nun bei der ersten Gelegenheit
+          Ernst gelte.</p>
+        <p>Hatten die Frauen das lustige Vorspiel gemacht, so traten jetzt die Männer auf den Plan,
+          um mit harten Fäusten die Sache gründlicher zu regeln.</p>
+        <p>Noch gingen sie einander aus dem Wege, wo sie konnten, und begegneten sie sich einmal,
+          gingen sie mit kurzem Gruss aneinander vorbei. Aber sie waren sich abhold wie zwei
+          Schwarzspechte, die an demselben Stamme hämmern.</p>
+        <p>Wie wenn auf einer Alpweide hoch in den Bergen unter dem Galt-vich ein Stier abseits
+          ruhig zuschaut, wie die Tiere mit harten Stirnen sich stossen. Der Mittag liegt heiss über
+          den Matten, und der starke Odem der duftenden Kräuter steigt empor. Da kommt von der
+          an-grenzenden Alp ein zweiter Stier, der den Zaun durchbrach, und schreitet mitten in die
+          Herde. Da steht er gelassen auf in der Fülle der Kraft und geht dem Rivalen entgegen, und
+          schnaubend stehen sie eine Weile mit gesenkten Häuptern hart voreinander, ehe der zähe
+          Kampf zwischen ihnen beginnt.</p>
+        <p>LA <pb/>Matthias Burtel tat den ersten Stoss bei dem Kampfe, der nun anhob.</p>
+        <p>Der Brunnen nämlich, der zwischen ihren Häusern stand, und aus welchem sie gemeinsam ihre
+          Viehhabe tränkten, bekam sein Wasser von einer Quelle, die auf einem Acker Burtels
+          entsprang, etwa eine gute halbe Stunde ob den Häusern. Diese Quelle leitete er nun ohne
+          viel Schwierigkeit so ab, dass sie in das Bett eines der zahlreichen Rinnsale floss, die
+          nur anfangs Sommer Wasser bringen, wenn der Schnee der Höhen schmilzt, und dann den ganzen
+          Rest des Jahres über trocken daliegen. Eines derselben ging hart an der Hinterseite von
+          Burtels Haus vorüber.</p>
+        <p>Damit hatte er nun erreicht, dass der alte Brunnen schon am Abend ohne Wasser stand, und
+          Simmi Pazeller musste zum Tränken mit seinem Vieh um Matthias Burtels Haus herum, wenn er
+          seinen Tieren das Wasser nicht in den Stall tragen wollte.</p>
+        <p>Lächelnd, die Hände im Hosensack, stand Matthias am Abend neben seinem Haus, wo der Simmi
+          aus dem neuen Brunnentrog seines feindlichen Nachbars tränken musste.</p>
+        <p>Simmi rief ihm nach dem Tränken mit bleichem Gesicht zu:</p>
+        <p>«Einmal hast du mir das Wasser abgegraben. Jetzt schau nur zu, ob du es mir nicht wieder
+          zuleitest!»</p>
+        <p>«So sorget es, Nachbar», rief Burtel, «aber schaffet es gut!»</p>
+        <p>Damit war nun die Ursache geschaffen, an die sich eine unabseh-bare Kette der
+          folgenschwersten Ereignisse knüpfte, die für beide Teile eitel Leid und Not
+          bedeuteten.</p>
+        <p>Simmi Pazeller, welcher sich in dieser Wasserfrage mit sicherem Instinkte im Rechte
+          wähnte, gedachte in der Sache nicht lange hin-und herzufackeln. Darum machte er sie
+          alsbald vor Gericht anhängig.</p>
+        <p>Die beiden Widersacher hatten nun, wie es Brauch und Sitte ist,zuerst vor dem sogenannten
+          Vermittler zu erscheinen, ehe sie den eigentlichen Prozessweg begehen konnten. Dieser
+          Friedensrichter hatte die Aufgabe, zu versuchen, die streitenden Parteien zu einer </p>
+        <p>1%<pb/>freiwilligen Regelung des Zwistes zu bewegen und die ganze Sache gütlich und
+          verständig beizulegen.</p>
+        <p>Aber es war schwer, hier zu Vernunft und Entgegenkommen zu mahnen. Der Zorn hatte die
+          beiden Köpfe so gehärtet, dass bei jedem Annäherungsversuch nur Funken springen konnten.
+          Simmi Pazeller beharrte darauf, dass niemand in der Welt das Recht habe, ihm das Wasser in
+          ein anderes Bett abzuleiten, welches seit Menschengeden-ken so und so geflossen sei und
+          woraus er und sein Vieh seit ihrer Geburt immer gesoffen hätten. Matthias Burtel jedoch
+          erklärte kur-zerhand, er könne mit der Quelle, die auf seinem Grund und nicht auf des
+          Nachbars Boden entspringe, machen, was ihm beliebe, und niemand in der Welt habe ihm
+          dareinzureden, kein Nachbar und kein Bundesrat.</p>
+        <p>Ja, als der Friedensrichter ruhig einwarf, vielleicht sei eben die Sache doch nicht ganz
+          so einfach, wie er meine, fuhr er auf wie ein bissiger Hund, den man zwickt: Er wolle dann
+          doch sehen, ob er nicht recht bekomme, und wenn er bis vor das Bundesgericht gehen müsse,
+          das sage er jetzt schon!</p>
+        <p>Und dann leerte er seinen ganzen Giftsack jählings aus in einer wahren Flut von
+          Verwünschungen gegen den neidischen Nachbar,welcher stumm zuhörte, und dessen Gesicht sich
+          zu einem spötti-schen Lächeln verzog, als Matthias Burtel zuletzt noch wütend
+          her-ausplatzte: «Und Euere zweifarbenen Fensterläden schauen auch aus wie eine Sau mit
+          einem Sattel, das sehen sie, wie eine Sau mit einem Sattel!»</p>
+        <p>Obwohl auf diese Weise unerwartet und in geradezu grotesker Art der eigentliche Grund der
+          Zuleidewerkerei an das Licht sprang und es dem Friedensrichter ganz klar war, dass alles
+          im Grunde ge-nommen nur eine hämische Sache der Eifersucht sei, in der beide Teile
+          wechselweise gefehlt, wie es in dem engen Tal von Ursulinen-dorf bis Surom häufig genug
+          war, gelang es ihm trotz des redlichsten Bemühens doch nicht, die beiden törichten
+          Menschen zusammenzu-bringen. So musste er dem Verfahren den Lauf lassen.</p>
+        <p>I6 <pb/>vr A <pb/>Nun aber war gar nicht zu erwarten, dass diese leide Sache vor Gericht
+          so rasch entschieden werden würde. Denn die Gerichts-barkeit geht in Ursulinendorf, dem
+          ganzen Leben des Tales und der schwerfälligen Art seiner Einwohner entsprechend, auf
+          lang-samen Füssen.</p>
+        <p>Beide Gegner wussten auch recht wohl, dass ihre Sache nun erst zwei oder drei Jahre
+          liegenbleiben würde, bevor es zu einem Urteil kommen konnte.</p>
+        <p>Angesichts dieser langen Wartezeit, welche vor ihnen lag, benah-men sich die beiden
+          Männer grundverschieden.</p>
+        <p>Simmi Pazeller, welcher ohne Zweifel die gröbere, ungeschlach-tere, aber im Grunde doch
+          die kräftigere und ehrlichere Natur war,übergab seine ganze Angelegenheit in der
+          darauffolgenden Woche einfach dem Advokaten Mohr, der ihm mit vergnügtem Augen-zwinkern
+          zuhörte und ihm sagte, die Sache sei ja sonnenklar: Sein böser Nachbar könne sein altes
+          Wasserrecht nicht einfach beiseite schieben.</p>
+        <p>Mit dieser Auskunft war Simmi Pazeller vollkommen beruhigt und stieg wieder nach
+          Charpella hinauf. Wie gewohnt war er von früh bis spät hinter seiner Arbeit her.</p>
+        <p>Matthias Burtels gänzlich verschiedene Art zeigte sich auch in dieser Sache.</p>
+        <p>Er verschmähte es, zu einem Rechtsanwalt zu gehen. Die Sache sei ja mehr als sternenklar
+          für einen, der gesunden Menschenverstand besitze. Darum führe er seinen Prozess selber,
+          und am Fertigwerden zweifle er nicht.</p>
+        <p>Immerhin war es bedeutungsvoll, dass er von nun an‘mehr als früher nach Ursulinendorf
+          hinunterging, um sich mit diesem oder jenem wegen seiner Sache zu bereden und die Meinung
+          anderer zu hören. Ja, was die anderen zu der Sache sagten und werweissten, ge-wann für ihn
+          immer grösseres Gewicht, so dass es ihm von höchster Wichtigkeit erschien, ihre Auffassung
+          in allen Stücken genau ken-nenzulernen.</p>
+        <p>IS <pb/>Er begann an den Wirtstischen das grosse Wort zu führen und ge-riet in die Hände
+          der Hocker und Faulenzer, die bei Tabak und Schnaps die Welt verbessern. Der krummbeinige
+          Jonin war darunter,von dem es nicht zu Unrecht hiess, er habe das wüsteste Maul im Tal.
+          Sieben Lügen gingen bei ihm auf eine halbe Wahrheit. Er hatte darum alljahr sein
+          Prozesschen und wegen der Langsamkeit des Verfahrens bei dem Gericht stets mehrere Eisen
+          zugleich im Feuer.</p>
+        <p>Desgleichen war der Bastian Pitschen. Pott da, der sich an den Wirtstischen wie ein
+          Gessler gebärdete und tat, als ob er das ganze Tal im Sacke hätte, und von dem doch jedes
+          Kind wusste, dass er daheim in seiner Burg der Sklave von zwei Weibern war: seiner gelben
+          Schwiegermutter, unter deren Bettlade die Geldkiste, das Heiligtum des Hauses, geborgen
+          war, und der eigenen Frau. Keines dieser beiden holden Wesen gab dem andern etwas nach an
+          Zungen-fertigkeit, und vermöge ihrer robusten Entschlossenheit lenkten sie den Karren, an
+          welchem Bastian Pitschen Pott die Deichsel war,stets nach ihrem Belieben.</p>
+        <p>Auch ein paar pfiffige Winkeladvokaten, wie es in Ursulinendorf einige hatte, setzten
+          sich hie und da zu ihnen und redeten Matthias Burtel mit gesetzeskundigen Worten zu best.
+          Wussten sie doch, dass er zuletzt dann die Zeche bezahlte, bevor er mit heissem Kopf den
+          steilen Weg nach Charpella wieder unter die Füsse nahm.</p>
+        <p>Da war einmal der glatzköpfige Barba Rudolf Grass, der in jungen Jahren versucht hatte,
+          die heilige Gottesgelehrsamkeit zu studieren, dann aber früh zu der Einsicht gekommen war,
+          dass sei-nem Heimattale Advokaten nötiger als Gottesmänner seien, und der nun als Redaktor
+          des «Talboten» (welcher jeden Samstag in der Woche die weltumstürzenden Lokalgeschehnisse
+          buchte) und als Bauer und Rechtskundiger ein nicht so übles Dasein fristete. Kam er
+          während der Unterhaltung einmal in Verlegenheit, oder hatte ihn einer der pfiffigen Bauern
+          bei seinen großsprecherischen Be-hauptungen in die Enge getrieben, pflegte er sich auf
+          sein Bäuchlein </p>
+        <p>)IC <pb/>zu schlagen und zu rufen: «Sancta simplicitas!* Das versteht Ihr nicht, nein,
+          meiner Treu! Ihr sitzet zuviel in der Kirche, Gevatter,aber die Kinder der Welt sind
+          klüger als die Kinder des Lichtes!»Gewöhnlich fand sich in dieser erlesenen Gesellschaft
+          auch der hagere Johann Nursett von Pralöng ein, der am Tage über seine </p>
+        <p>Krampfadern ächzte und an den Wirtstischen beim Schnaps hoch 1 Heilige Einfalt!</p>
+        <p>0 <pb/>und heilig versicherte, ein schlimmeres Übel als seiniges habe beim heiligsten Eid
+          dann schon keiner. Er würde gerne arbeiten, Arbeit sei ihm das Liebste vom Leben, es gebe
+          nichts Schöneres als getane Arbeit; aber nun müsse er einfach seines Leidens wegen sitzen
+          oder liegen. Es sei nun bald so weit, dass er jede Woche zweimal zu der alten Anetta gehen
+          müsse, um sich zur Ader zu lassen, trotzdem ihn das über alle Massen schwäche; aber wenn
+          er diese Wunderdoktorin nicht hätte, wüsste er nicht was anfangen mit seinen
+          Krampfadern.</p>
+        <p>Er hatte daheim zwei greise Eltern, welche die verlotterte und verschuldete
+          Landwirtschaft so lange über Wasser hielten, als sie konnten. Bastian Pitschen Pott
+          spannte schon lange auf das Haus,welches ihm für seine benachbarten Güter als
+          Pächtersgaden nicht übel gepasst hätte. Darum war er auch unermüdlich daran, seinen
+          «lieben Nachbarn» stets von neuem in die tabakdunstige Luft des «Steinbocks» oder des
+          «Adlers» zu locken, denn jeder verspielte Tag seines Opfers bedeutete für ihn einen Gewinn
+          und einen kleinen,aber in seiner Bedeutungslosigkeit doch sicheren Fortschritt zur
+          Ver-wirklichung seines gaunerhaften Vorhabens.</p>
+        <p>Derweilen Matthias Burtel auf solchen Wegen trieb, blieb daheim manches liegen, was
+          besser getan worden wäre. Infolgedessen gab es manchmal zwischen ihm und seiner Frau böse
+          Worte, und weil er es nicht an der Rede haben wollte, dass es durch seine Schuld in
+          einem-fort rückwärtsgehe und er alles schlitten lasse, wie es wolle, machten ihm die bösen
+          Worte seiner Frau böses Blut, und binnen wenig Mo-naten war die leide Sache in seinem
+          Hause so weit gediehen, dass kein Tag verging, ohne dass sie sich um einer nichtigen
+          Angelegen-heit willen oder auch nur wegen einer Kärerei in den Haaren lagen.</p>
+        <p>Dies wiederum war der Grund, dass Matthias immer häufiger das Bedürfnis empfand, nach
+          Ursulinendorf hinunterzugehen, um Aussprache mit verständigeren Leuten, als seine Frau
+          war, zu pflegen,und immer bessere Freundschaft mit seinen Wirtshausbrüdernschloss.</p>
+        <p>Nur in einer Sache waren Matthias Burtel und Simmi Pazeller trotz aller sonstigen
+          Verschiedenheiten durchaus einig und glichen </p>
+        <p>2.1 <pb/>sich darin wie zwei Tannzapfen: in der Überzeugung, dass sie ein-ander nun
+          zuleidwerken müssten, wo und wie sie konnten.</p>
+        <p>Ja, wenn einer es fertigbrachte, dem anderen beim Heuen durch eine zu spät geräumte, noch
+          ungemähte Fettwiese zu fahren, so hatte er eine Galgenfreude.und schlief gewiss in jener
+          Nacht besser als sonst irgendeinmal.</p>
+        <p>Das ging so Jahr und Tag, und die Gehässigkeit der beiden Char-peller wurde fast
+          sprichwörtlich. im Tal. In jener Zeit war es wohl,dass jenes gemünzte Wort geprägt wurde,
+          welches man wohlmei-nend zweien entgegenhielt, wenn sie um einer lumpigen Sache willen in
+          Händel geraten wollten: «Besinn dich zweimal, bevor du die Fensterläden anstreichst!»</p>
+        <p>In die ganze Sachlage kam keine nennenswerte Veränderung, bis im Winter des zweiten
+          Jahres etwas geschah, was den beiden Fein-den die ganze Geschichte grell beleuchtete, als
+          wenn das Geschick ihnen nochmals hätte zeigen wollen, was sie zusammen angerichtet hatten,
+          um dann nachher die ganze Sache jäh zu einem unerwarteten Ende zu führen.</p>
+        <p>Gegen Herbst hin, zur Zeit der ersten starken Nachtfröste, begann Simmi Pazellers Frau zu
+          kränkeln. Sie trieb es zuerst noch einige Wochen mit Grochsen und Hüsteln, drosch trotz
+          Kreuzschmerzen und Fieber mit Simmi noch die ganze Gerste im zügigen Tenn; aber in den
+          ersten Tagen des Novembers musste sie sich zu Bett legen.</p>
+        <p>Simmi Pazeller erschrak nicht wenig darob. Es musste schon bös mit seinem Weibe bestellt
+          sein, ehe dieses sich niederlegte. Seit der letzten Kindbette war das nicht mehr
+          vorgekommen.</p>
+        <p>Er vergass den Groll gegen seinen Nachbar mehr und mehr, wel-cher monatelang in ihm
+          obenan gewesen war. Es ist kein Spass, eine kranke Frau zu haben in der Winterzeit, wo die
+          Ställe voll Vieh stehen, wo bis zur Weihnachtszeit eine Kuh nach der anderen zum Kalbern
+          kommt und eine Menge Milch verbuttert und verkäst wer-den sollte.</p>
+        <p>7 <pb/>Er besann sich nicht lange und holte von Valdür den alten Doktor Hitz. Der
+          untersuchte und klopfte an ihr herum und sagte dann sehr ernst zu Simmi:</p>
+        <p>«Pazeller, habt Eurer Frau Sorge, es ist not!»</p>
+        <p>Begreif licherweise geriet Simmi noch mehr in Unruhe.</p>
+        <p>Es ist eine alte Sache: Wenn ein schwerer Klotz in das Wanken gerät, kommt er schnell in
+          das Kollern. Simmi Pazeller war uner-müdlich um seine Frau, wusste er doch nur zu gut, was
+          er an ihr hatte. Gab es überhaupt noch eine, die so schaffen konnte wie sie?Die
+          Treuherzigkeit in ihm kam wieder obenauf und schien hell durch seine äussere grobe
+          Art.</p>
+        <p>Es rückte gegen Ende November, und der Schnee war zwei Tage und zwei Nächte gefallen. Am
+          zweiten Tag, um die Einnachtzeit herum, kam vom Tirol her ein hinkendes Weiblein
+          halbverfroren vor Simmis Haus und bat um Gottes willen um ein barmherzig Obdach; sie sei
+          von ihrem Hof im Tirol drüben am Morgen fort und möchte am andern Tag nach Valdür hinunter
+          zum Doktor Hitz wegen ihres kranken Kindes.</p>
+        <p>Simmi Pazeller sah sie an in ihrem Elend. Er traute sonst solchen Nächtigern nicht. Wäre
+          er nicht in den letzten Wochen überhaupt weicher gestimmt gewesen, hätte er die Frau
+          vielleicht mit barschem Wort weggeschickt.</p>
+        <p>Nun aber brachte er es nicht über sich und wies das Weiblein in die Scheune.</p>
+        <p>Er selber ging in den Stall hinunter und warf den Mist aus der Öffnung auf den Stock
+          hinaus.</p>
+        <p>Als er fertiggemolken hatte, kam ihm das Weiblein wieder in den Sinn. Das mochte heute
+          doch einen weiten Weg gehabt haben durch diesen Neuschnee stundenlang unterwegs in dem
+          elenden Wetter.Vielleicht nähme es gerne eine Schüssel Milch.</p>
+        <p>Er rüstete den mittleren Holznapf und wollte ihn in die Scheune hinübertragen. Beim
+          Verlassen des Stalles schlug ihm die rauhe Schneeluft schon im Heugang entgegen.</p>
+        <p>2? <pb/> Er dachte: «Ich kann sie nicht draussen liegen lassen die ganze Nacht. Wer
+          weiss, vielleicht ist sie auch nicht recht daran, wie meine.»</p>
+        <p>Er rief in die dunkle Scheune hinaus, indem er die Laterne hoch-hielt:</p>
+        <p>«He, kommet, Ihr könnet da im Stall schlafen, Ihr bleibet besser im Stall, es wird eine
+          kalte Nacht, wenn es aufhört mit Schneien.,Und da wäre auch eine Milch, wenn Ihr zulangen
+          möget.»</p>
+        <p>Sie rutschte vom Heustock hinunter, in welchem sie sich schon eingegraben hatte, und
+          hinkte mühsam in den Stall hinein, mit einem leisen Vergeltsgott.</p>
+        <p>Als er am frühen Morgen in den Stall kam, war sie schon davon-geschlüpft. Er sah ihre
+          Spur draussen im Schnee, sie wies gegen Vadür hin.</p>
+        <p>Drei Tage nach dieser Begebenheit geschah es, dass das jüngste der Kälber mitten im
+          Wiederkäuen aufsprang, an der Kette zerrte und dann zusammenbrach. Bis Mitternacht lagen
+          drei der schönsten Kälber verendet.</p>
+        <p>Nun wusste Simmi Pazeller, dass er die Seuche im Stalle habe.Er untersuchte das
+          Grossvieh. Er sah, dass da nichts mehr helfen würde. Der Stall war durchseucht.</p>
+        <p>Er stiess einen halblauten Fluch aus und ging in die Stube hinauf an das Bett seiner
+          Frau:</p>
+        <p>«Die Tirolerin hat uns die Seuche gebracht.»</p>
+        <p>«So helf uns Gott, dann wird es ein schlimmer Winter. Zeige es gerade an, geh lieber
+          schon heute hinunter als erst morgen; mit dem Heimlichhalten gewinnt man nichts als
+          Unmuss.»</p>
+        <p>An jenem Abend dachte Simmi Pazeller seit Wochen wieder zum erstenmal so recht an den
+          alten Hass. «Nun wird der da drüben lachen», dachte er. Eine ohnmächtige Wut schäumte in
+          ihm auf,denn es tut nichts so weh wie die Schadenfreude eines bösen Nach-bars.</p>
+        <p>Aber nein! Noch sollte der nicht lachen! Noch war es nicht daran!2%<pb/>Mit schlauer List
+          spann sich ein Gedanke an den andern: Wenn er nur zwei Tage mit der Anzeige zuwarten
+          würde, und wenn er nur in diesen zwei Tagen es so einrichten könnte, dass er jeweils
+          zuerst am Brunnen war beim Tränken, so war es so gut wie sicher, dass der Matthias Burtel
+          auch in seinem Stalle die Bescherung hatte.</p>
+        <p>In Simmi Pazeller stieg eine wohlige Freude auf. Eigentlich war sie ganz gut gekommen,
+          diese Seuche. Nun konnte er dem drüben doch das antun, was einem rechten Bauer am wehesten
+          tut: ihm in den Stall greifen, ohne dass er sich wehren konnte!</p>
+        <p>Die Unzufriedenheit der vergangenen Monate und Jahre, der Hass und die Schadenfreude des
+          Schädigers stiegen in ihm auf und durchklopften ihn wild. Aus diesem verhassten
+          Satansbrunnen sollte sich der da drüben die Pest holen! Wie würde der fluchen, wenn er
+          dahinterkam, dass sein Vieh aus dem eigenen Brunnen, auf den er sich soviel zugute tat,
+          sich die Krankheit gesoffen hatte! Herrgott noch einmal! In allem Unglück drin-war es doch
+          ein rarer Spass!</p>
+        <p>Simmi Pazeller hatte eine unruhige Nacht.</p>
+        <p>Denn die ganze Leidwerkerei, die sie seit Jahren gegenseitig be-trieben hatten, mit Eifer
+          und bösem Bedacht, und die er in den letzten Wochen in Sorgen um seine Frau etwas
+          vergessen hatte, kam nun deutlich bis auf das kleinste Pünktlein wieder vor sein Auge.Aber
+          mag es nun sein, dass der bessere Teil in ihm wach geworden war durch die schwere
+          Erkrankung seiner Frau, oder dass sich in ihm der Mannesstolz auflehnte, dem im Kampf der
+          Hakenschlag von hinten feige und verächtlich erschien; oder fühlte er sich in der
+          Wassergeschichte so sicher im Recht, dass er auch den Rechtsspruch ruhig abwarten konnte;
+          kurzum, das eine merkte Simmi Pazeller deutlich: Es war ihm nicht wohl bei der Sache, die
+          er nun mit schlauen, aber unsauberen Händen angattigen wollte. Was war denn die Folge? Was
+          hatten sie beide eigentlich zuletzt stets gehabt von ihren Neideleien?</p>
+        <p>Es stieg in ihm ein Gefühl der Beschimung auf. Zwar rechtfertigte er sich rasch selber.
+          Mit dem Brunnen da war er im Recht, das </p>
+        <p>26 <pb/>Wasser musste sich niemand abgraben lassen. Aber der Brunnen plagte ihn nicht.
+          Die Kögeleien, der Unfriede, der da in den beiden einzigen Häusern von Charpella
+          herrschte, plagten ihn.</p>
+        <p>Mit einemmal fiel es Simmi Pazeller auch schwer auf die Seele,dass sie nicht nur
+          untereinander Streit hatten, sondern dass die Bur-tels drüben im eigenen Hause in
+          Zwietracht waren, seitdem die beiden Familien in Hader lebten. War er nicht mit schuld
+          daran,dass sie drüben rückwärtsgingen und alles zu lottern anfing, weil des Matthias Hand
+          lieber nach dem Schnapsglas denn nach Hammer,Zange und Werkzeug griff?</p>
+        <p>Es begann Simmi Pazeller nun geradezu zu quälen mit grausigen Bildern. Er sah, wie in
+          Matthias Burtels Haus alles noch liederlicher werden musste, wenn er ihnen das antun
+          wollte, was er vorhatte.Er sah Matthias noch mehr im Trunk versinken und hörte das
+          zän-kische Gekeif seines hilflosen Weibes.</p>
+        <p>Früh am Morgen stand Simmi Pazeller am Fenster. Er schaute zum Haus des Nachbars
+          hinüber.</p>
+        <p>Als er sah, dass die Stubenfenster hell wurden, hepte und schrie er hinaus.</p>
+        <p>Der struppige Kopf Burtels erschien.</p>
+        <p>«Ich wollte Euch nur sagen, tränkt heute nicht am Brunnen,sondern oberhalb am Bachbett,
+          oder traget es den Tieren in den Stall. In meinem Stall ist die Krankheit
+          ausgebrochen.»</p>
+        <p>Ohne ein Wort der Erwiderung hatte ihn der Matthias Burtel angestarrt, als hätte er ihn
+          nur halb verstanden. Simmi schloss das Fenster und sah, wie der Nachbar in der
+          Morgendämmerung die Tiere durch den hohen Schnee auf weitem Umweg nach dem obe-ren Bach
+          hinauftrieb.</p>
+        <p>Eine Stunde nachher war er schon auf dem Wege nach Ursulinen-dorf, um die Klauenseuche
+          anzuzeigen und von dort zugleich den Doktor Hitz zu benachrichtigen, er möge doch bald
+          wieder hin-auf kommen, um nach seiner Frau zu sehen, mit der es keinen Weg vorwärtsgehen
+          wolle.</p>
+        <p>27 <pb/>Matthias Burtel hatte indes keinen leichten Tag. Dass ihn der feindliche,
+          todverhasste Nachbar vor der Seuche gewarnt hatte,hatte ihn mehr getroffen als alles Böse,
+          das er ihm angetan. Gegen die kleinen und grossen Feindseligkeiten hatte er sich schützen
+          kön-nen, und durch alle Feindseligkeiten hatte er immer wieder das Recht bekommen, wacker
+          und mit einem rechten Zins obendrein zu vergelten, mit harter Bauernfaust.</p>
+        <p>Nun aber lag die Sache anders. Es war schwer, auf diesen Spruch des Nachbars die rechte
+          Antwort zu finden. Die Vergeltungsart der letzten Jahre, an welche er sich innerlich ganz
+          und gar gewöhnt hatte,versagte hier. Auch seine Frau, die sonst nicht so schnell verlegen
+          war,schwieg den ganzen Tag.</p>
+        <p>Matthias Burtel kam ungewollt in das Denken hinein.</p>
+        <p>Die ganze Hassgeschichte zog an ihm vorbei; er sah nun deutlich,wie er und der Pazeller
+          sich willig von ihren Weibern hatten in den Sumpf hineinreiten lassen, und wie es nun
+          schwer war, aus all dem Dreck herauszukommen.</p>
+        <p>Denn in der Sache mit dem Brunnen konnte er doch nicht mehr zurückkrebsen. Das ganze Tal
+          würde ja spötteln. Seiner Lebtag wäre ihm allenthalben dieses Brunnenwasser aufgetischt
+          worden,und er wäre dagestanden als einer, der die Flinte mit Geschick zu laden versteht,
+          aber aus Furcht vor der Zeigerkelle sich nicht getraut,den Schuss zu tun. Ein verlorener
+          Prozess kann eine Ehre sein für Sieger und Besiegten. Aber eine aufgegebene Streitsache
+          erschien lächerlich und feige zugleich.</p>
+        <p>Er konnte aus seinem engen Gedankennetz, in welchem er ge-fangen wie eine bissige Forelle
+          nach Luft schnappte, nicht mehr herauskommen und geriet in schlechte Laune.</p>
+        <p>Er hätte lieber gewollt, der Pazeller hätte ihm etwas Schlim-mes angetan. Da wäre die
+          Verhaltungsfrage bedeutend einfacher gewesen. So aber wusste einer nicht was tun. Es war
+          Matthias Burtel geradezu, wie wenn ihm die Hände gefesselt worden wä-Ion.2 „8 <pb/>Trotz
+          des hohen Schnees ging er am Abend nach Ursulinendorf hinunter. Im «Steinbock» traf er
+          seine Runde. Schweigsam und ver-bitterter als je hockte er hinter seinem Kranenbitter* und
+          hörte nur mit halbem Ohr zu, als seine Gesellen ihn warnten, er solle aufpas-sen, der
+          Pazeller habe die Seuche im Stalle.</p>
+        <p>Er zuckte mit keiner Miene und schwieg.</p>
+        <p>Aber zum erstenmal stieg eine leise Verachtung für diese Genossen und seiner selbst in
+          ihm auf. Und der Zorn, den er vorhin gegen seinen Nachbar empfunden hatte, wandte sich
+          innerlich gegen seine Kumpanen.</p>
+        <p>Gegen elf Uhr stand er auf.</p>
+        <p>Die Nacht war klar und hellgestirnt, und der Wind klagte wie ein wildes Tier, das von
+          einer Falle verletzt wurde und die Nacht durch-irrt. Er stapfte das enge Weglein
+          bergauf.</p>
+        <p>An der Wegkehre traf er Simmi Pazeller. Er wollte mit einem kurzen Gutenabend vorbei.
+          Aber unwillkürlich verlangsamte er seinen Schritt und sagte, halb über die Achsel weg, zu
+          ihm:</p>
+        <p>«Auch noch unterwegs?» und blieb dann stehen.</p>
+        <p>«Wie geht es mit Eurer Frau?»</p>
+        <p>Simmi Pazeller war offenbar müde. Er sei am Morgen nach Ur-sulinendorf gegangen, um die
+          Seuche anzuzeigen, und dann habe er von Valdür gleich den Doktor Hitz zur Frau
+          hinaufgenommen,sie habe ihm gar nicht gefallen, offenbar habe ihr die Nachricht von der
+          Seuche letz getan. Es stehe schlecht mit ihr, habe der Doktor ge-sagt. Schon morgen müsse
+          er mit ihr in das Tal hinunter, damit sie mit der Morgenpost über den Pass in das
+          Kreisspital geschafft werden könne.</p>
+        <p>Simmi Pazeller atmete schwer.</p>
+        <p>Aber, fuhr er fort, der Mensch sei und bleibe schlecht. Nun sei er mit dem Arzt heute
+          mittag sogleich nach Ursulinendorf hinunter-gegangen, um zwei Männer zu finden, die ihm am
+          Morgen bei der bösen Fuhr von Charpella bis Ursulinendorf helfen sollten. Aber </p>
+        <p>1 Schnaps.</p>
+        <p>20 <pb/>alle hätten jetzt Angst vor der Seuche. Bloss der versoffene Nottal,der kein
+          Stücklein Vieh mehr im Stalle habe, hätte ihm versprochen hinaufzukommen. «Aber das ist
+          schwerer Verlass. Mich hat es heuer hart getroffen», schloss er grollend.</p>
+        <p>Sie sprachen nichts mehr. Fünf Minuten von ihren Häusern ent-fernt, ging jeder mit einem
+          kurzen Gutenacht auf seinem eigenen Weglein heim.</p>
+        <p>Am andern Morgen, vor Tag schon, hörte Simmi Pazeller einen die Schuhe vor seiner Türe
+          abklopfen. Der Nottal kam doch zur Zeit! Er atmete auf.</p>
+        <p>30 <pb/>Es war aber nicht Nottal. Matthias Burtel erschien unter der Stubentüre.</p>
+        <p>Sie gaben sich die Hand.</p>
+        <p>«Nachbar», sagte Matthias, «was wir zusammen haben, ist eine Sache für sich, und die wird
+          sich entscheiden. Aber ich meine, wir wollen anfangen, einander das Gute zu tun und nicht
+          das Leide. Ihr habt begonnen, ich fahre fort. Wartet nicht auf den Nottal! Gestern sagtet
+          Ihr selber, das sei ein schlimmer Verlass, Wir schaffen Eure Frau selbzweit zu Tal, damit
+          Ihr mit ihr auf die Morgenpost könnet.»</p>
+        <p>Sie sahen einander an, die alten Feinde. Simmi Pazeller war bleich geworden.</p>
+        <p>Er sagte nur: «Nachbar, ich danke Euch für diesen Spruch und für Euere Hand.»</p>
+        <p>Eine gute Stunde später schafften sie auf dem Holzschlitten Simmi Pazellers Frau
+          hinunter. Einer sperrte vorn, der andere hielt hinten.</p>
+        <p>Drei Tage lang besorgte Burtel seinem abwesenden Nachbar den verseuchten Stall und
+          betreute die Tiere. Am vierten Tage kam Simmi heim mit guter Hoffnung.</p>
+        <p>Acht Tage später brach auch in Matthias Burtels Stall die Seuche aus, wie er es erwartet
+          hatte.</p>
+        <p>«Lasst nur das Klagen, Nachbar», sagte er fast wohlgemut zu Simmi Pazeller, «ich habe nun
+          wohl gleich Euch diese Pest im Haus.Aber ich meine, wir sind zusammen doch eine schlimmere
+          Seuche losgeworden.»</p>
+        <p>Im Mai, als die Hänge fast aper waren und nur noch auf den Tal-flächen Schnee war, holte
+          Simmi Pazeller seine Frau heim.</p>
+        <p>Wenige Wochen später fand der Wasserprozess statt. Es gab kein langes Hin und Her.
+          Matthias Burtel verlor ihn.</p>
+        <p>Für das schadenfrohe Völklein des Tales hatte der Prozess jedoch das Interesse fast
+          gänzlich verloren. Die Gerichtsgegnerschaft der Bauern von Charpella hatte nur solange
+          Wert und Sinn für das neuigkeitslüsterne Völklein gehabt, solange damit Hass und
+          Tod-feindschaft verbunden gewesen war.</p>
+        <p>31 <pb/>Als Matthias Burtel und Simmi Pazeller die Gerichtsstube ver-lassen hatten,
+          gingen sie zusammen heim. Auf dem Wege nach Charpella machten sie miteinander aus, dass
+          der versetzte Brunnen nach freiem Übereinkommen an seinem jetzigen Standorte ver-bleiben
+          sollte.</p>
+        <p>In jenem Jahr kamen sie sich wieder näher. Sie halfen einander aus, wo sie konnten,
+          lernten sich wieder‘achten und Freude am Er-folge des andern haben.</p>
+        <p>Und nachdem die beiden harten Menschen so die alte Seuche des Hasses in Not, Bedrängnis
+          und viel nutzlosem Kummer losgeworden waren und in ihnen wieder das starke Vertrauen der
+          Menschlichkeit wach geworden war und sie wie die gesunde Kraft eines neuen ver-jüngten
+          Blutes durchrann und durchpulste, ging es ihnen in den kommenden Jahren des
+          Zusammenarbeitens und der Freundschaft auf als die tiefste Wahrheit des Lebens: Dass nicht
+          allein der Hass um sich greift wie eine verseuchende Krankheit, sondern dass noch viel
+          mehr in der Liebe eine ansteckende Kraft wohnt, der sich keiner ganz entziehen kann,
+          welcher von ihr berührt wurde.</p>
+        <p>Ja, dass die Liebe von allem Besitz ergreift, darauf sie einmal ihre lebenswarme, gesunde
+          Hand legte.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GSW0130" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Todesglocken. Eine Erzählung für das Schweizervolk nebst einer Standrede auf den
+          Henker von Robert Weber: ELTeC Ausgabe</title>
+        <author ref="viaf:13077919 wikidata:Q122564">Weber, Robert (1824-1896)</author>
+        <respStmt>
+          <resp>ELTeC conversion</resp>
+          <name>Automatic Script</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="pages">42</measure>
+        <measure unit="words">17730</measure>
+      </extent>
+      <publicationStmt>
+        <p><date>2021-12-14</date></p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <respStmt>
+            <resp>Transcription</resp>
+            <name>UB Basel</name>
+          </respStmt></bibl>
+        <bibl type="digitalSource">
+          <respStmt>
+            <resp>Scan</resp>
+            <name>UB Basel</name>
+          </respStmt></bibl>
+        <bibl type="firstEdition">
+          <title>Todesglocken. Eine Erzählung für das Schweizervolk nebst einer Standrede auf den
+            Henker von Robert Weber</title>
+          <author>Weber, Robert</author>
+          <publisher>Druck und Verlag der Vereinsbuchdruckerei</publisher>
+          <pubPlace>Basel</pubPlace>
+          <date>1879</date>
+          <!-- this title has been retrodigitised as part of the project “High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century”  -->
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc n="eltec-0">
+      <p>The text was transcribed from the transcription from UB Basel, which is based on the 1879
+        edition. The page breaks, chapter divisions and chapters were taken from scan from UB Basel,
+        which is based on the 1879 edition.</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">German</language>
+      </langUsage>
+      <textDesc>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+      </textDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2023-03-14">Ines Bracht added TEI Header and removed noise.The Scan is used only
+        to insert page beginnings, paragraphs, chapters and heads.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="chapter">
+        <head>Toadesglocken.</head>
+        <p>Alle Rechte vorbehalten.<pb/>Vorwort.</p>
+        <p/>
+        <p>Als ich noch ein kleiner Knabe und die Stube meine einzige Welt war, da erzählte mir
+          meine Mutter einst die Geschichte vom „armen Schweizerseppli“. Ich weiß nicht, ob sie von
+          Christoph Schmid oder von unserm Vater Scheitlin herrührt; aber das weiß ich: die
+          Geschichte des armen Knaben ergriff mich so im Innersten, daß ich eine lange Zeit einzig
+          darin leibte und lebte. Die Mutter erzählte mir sie nur stückweise; jeder Tag brachte mir
+          von dem armen Büblein, das arm und verlassen durch's Land lief, etwas Neues. Meine
+          Phantasie war so rege und mein Gefühl so tief, daß ich heiße Thränen vergoß über das
+          Schicksal des armen Schweizerseppli; ich fühlte mit ihm das traurige Verloren- und
+          Verlassensein und schmiegte mich enger an das Herz der Mutter; ich hungerte in Gedanken
+          mit ihm und bettelte mit ihm vor den Thüren der Menschen herum, ich lag mit ihm auf dem
+          harten Stroh, auf das ihn ein mitleidiger Bauer gebettet, ich hatte eine unbeschreibliche
+          Freude, als er Helfer fand in der Noth, und ich war über die Maßen glücklich, wie er
+          selber, als ihm endlich die Sonne einer bessern Zukunft aufging. Die große Lehre aber
+          dieser kleinen Geschichte,die Lehre vom Menschenleiden auf Erden und von der
+          Menschenliebe, welche das Leiden mindert und besiegt, hat sich mit unverlöschlichen Zügen
+          schon in dieser zarten Jugend in meine Seele eingeprägt! </p>
+        <p>Ein paar Jahre später, als ich im ersten Monat zur Schnle ging, daheim aber das
+          Mütterchen immer um nene Geschichten plagte, da sagte die Gute:</p>
+        <p>„Du mußt jetzt fleißig sein und bald lesen lernen. Die Buchstaben habe ich dir ja zu
+          Hause gelehrt und die Silben kaunst du alle auch schon anssprechen; du kommst jetzt
+          schnell vorwärts und so bald du lesen kannst, kaufe ich dir ein schöues Buch, worin
+          herrliche Geschichten stehen, die du dann alle selbst lesen darfst.“</p>
+        <p>*) Diese Erzählung wurde schon vor Jahren geschrieben. Sie erscheint hier aber
+          vollstündig umgearbeitet, mit einem Vorwort versehen und mit neuen Motiven ausgerüstet,
+          die ich zum Theil der jüngsten Diskusston über die Todesstrafe in den eidgenössischen
+          Räthen und der einschlagenden Broschürenliteratur entnommen und verarbeitet habe. Die
+          poetische Form mußte an mancher Stelle dem batriotischen Zweck geopfert werden; in der
+          Republik darf die Kunst nicht Selbstzweck bleiben,hesonders wo es gilt, für große
+          Wahrheiten einzustehen.</p>
+        <p>D. B.<pb/>Wie aus den Wolken gefallen staunte ich die Mutter au. „Wer macht denn die
+          Bücher?“ brach ich endlich aus meiner Verwunderung los.</p>
+        <p>„Siehst du dort jenen freundlichen Mann“, antwortete sie nach einigem Besinnen, „der
+          zwischen den beiden andern Bildern an der Wand hängt?“</p>
+        <p>„Freilich, Mütterchen, aber er kann ja nicht laufen, er hat ja nur einen Kopf und ein
+          Herz, aber keine Beine!“</p>
+        <p>Die Mutter lächelte. Dann sagte sie: „Bei den Menschen, mein Kind, kommt es immer mehr
+          auf den Kopf und das Herz an, als auf die Beine. Darum malt man sie auch meist ohne Beine,
+          besonders die, welche man Ursache hat als große und gute Menschen zu betrachten. Sieh',
+          jener Mann war ein besonders weiser und edler Mann; er hat viele Bücher geschrieben, hat
+          viele Herzen erfreut und ist ein rechter Lehrer für die Menschen in allen Ländern
+          geworden.“</p>
+        <p>„Auch für die dort über dem Etzelberg und über dem Speer und dem Säntis?“</p>
+        <p>„Ja nud weiterhin, bis über das Meer.“</p>
+        <p>„Was ist das Meer, Mutter?“</p>
+        <p>„Ein großes, großes Wasser.“</p>
+        <p>„Größer als der Zürichsee ?“</p>
+        <p>„Viel tausend und tausend Mal größer.“</p>
+        <p>„Sind auch Fische darin?“</p>
+        <p>„Ja, so groß wie die Pappelbäume vor dem Haus.“</p>
+        <p>„Gibt's dort am Meer auch Menschen und lernen sie alle anch lesen und schreiben?“„Ja, das
+          sollen alle Menschen, damit sie gut und einsichtig werden!“</p>
+        <p>„Und hat sie alle jener Mann dort an der Wand gelehrt?“</p>
+        <p>Die Mutter lächelte.</p>
+        <p>„Ach Mütterchen, du lachst immer; bin ich denn so dumm?“</p>
+        <p>„Nein, du bist nicht dumm, und wenn du brav nund fleißig bist, so magst du vielleicht
+          einst auch die Lente lehren, wie jener Mann dort an der Wand.“</p>
+        <p>„Wie heißt er denn?“</p>
+        <p>„Heinrich Pestalozzi.“</p>
+        <p>„Pestalozzt? Das ist ein schöner Name, der gefällt mir.“</p>
+        <p>„Ja, und da fällt mir etwas ein von ihm ans seiner Jugendzeit, das will ich dir erzählen.
+          Pestalozzi war ein sehr lieber Knabe. Als ihn seine Mutter einst sammt seinen Geschwistern
+          malen lassen wollte, sagte der Kleine: „Ich will nicht bloß so leer auf einem Stuhl
+          sitzend gemalt sein, sondern mit einem großen Haufen Bücher um mich herum.““</p>
+        <p>„Ach, Mütterchen, das ist schön; ich möchte auch so gemalt sein!“ </p>
+        <p>Ein halbes Jahrhundert bald ist an mir vorübergezogen seit diesen Worten </p>
+        <p>Mütterchens, aber ihre Süßigkeit klingt mir heute noch im Ohr. Ich bin nie des <pb n="5"
+          />mit, einem Haufen von Büchern um mich herum gemalt worden; aber ich stimme ein in die
+          Worte des englischen Geschichtschreibers Macanley: Soweit ich zurückdenke,waren mir Bücher
+          die besten Freunde; sie waren mir Trost im Unglück und Gesellschaft in der Einsamkeit; sie
+          ersetzten wir in der Dürftigkeit den Reichthum, in der Verbannung das Vaterland, bewahrten
+          mir inmitten von politischen Stürmen die Heiterkeit des Gemüths. Weder Vermögen noch Macht
+          noch Raug würde ich tauschen für den Genuß, den mir meine Bücher dadurch gewähren, daß sie
+          mir den Umgang DDDDD0Bahn zum Wahren, Guten und Schönen und mir das Vorrecht geben, zu
+          verkehren mit dem Fernen und Unsichtbaren, mit dem Vergangenen und Znkünftigen! </p>
+        <p>Von den Lippen der Mutter empfing ich, wie ich eben erzählt, anch die erste Anregung zu
+          meiner spätern Begeisterung für jene zweite große Lehre: Volksbildung ist Volksbefreiung,
+          und je älter ich wurde, um so mehr ward mir die Pflicht klar, daß Jeder in seinem Kreise
+          gehalten und verbunden ist, an sich selbst und an der geistigen Hebung des gesammten
+          Volkes zu arbeiten. Menschenliebe und Bildung, Humanität und Aufklärung, das sind, nach
+          der Auffassung der größten und edelsten Söhne unseres Landes, die Grund- und Ecksteine
+          unsers Daseins, die Leitsterne unseres Staates, ohne welche wir der eigenen
+          Vernichtung,dem wesenlosen Schattenlande zusteuern! Denn die Demokratie, wenn sie gedeihen
+          und nach und nach ein Eigenthum aller Völker werden soll, stellt höhere Anforderungen, als
+          jede andere Staatsform an den Menschen. „Sie ist sittenstreng, arbeitsam, fordert viel
+          Tugend, schent den Lärm und verlangt zum Leben auch die Vertiefung des Geistes und der
+          Seele, nicht bloß den öffentlichen Platz und das Wirthshaus.“Das Schweizervolk hat seit
+          1798 eine langsame geistige und politische Wiedergeburt erfahren. Es verdankt dieselbe
+          hauptsächlich dem unter allen Stürmen und Gewittern nie ganz erloschenen Glauben an die
+          hehren Ideale der Gerechtigkeit, der Bruderliebe, der allgemeinen Bildung. Er ist schön
+          dieser Glaube, unsere Großväter hatten ihn noch, und er ist rührend ausgesprochen in Art.
+          4 der helvetischen Verfassung vom 12. April 1798, wo es heißt: „Die Auftärung ist dem
+          Wohlstand vorzuziehen“, aber er ist uns heute, in der Zeit des herzlosen
+          Manchesterthums,des heillosen Gründerschwindels und des frivolen Jagens nach bloßen
+          Kenntnissen ohne sittliche Fertigkeiten, zu einem guten Theil ab Handen gekommen.</p>
+        <p>Es läßt sich nicht läugnen, daß in Folge davon eine gewisse Fänulniß, eine Zersetzung der
+          gesunden Säfte im Organismus unseres Volkslebens begonnen hat.Aber was theils auf die
+          schon genannten Ursachen, theils auf die lange Periode der geschäftlichen Krisis, auf den
+          dadurch gesteigerten Nothstaud in allen europäischen nnd überseeischen Ländern und auf die
+          großen sittenverwildernden Kriege, auf mangelhafte Erziehung und vernachlässigte Herzens-
+          und Verstandesbildung der Einzelnen <pb n="8"/> zurückzuführen ist, das werfen heute die
+          Gegner der Demokratie, welche die ganze verschrobene Romantik des alten Patrizierthums
+          wieder herauf zu beschwören hoffen, und mit ihnen die, welche in ihrer parlamentarischen
+          Klugheit den Glauben au die Hochherzigkeit und die Einheit unseres Volkes verloren zu
+          haben scheinen, den von uns mit der Muttermilch eingesogenen Prinzipien und Idealen der
+          liberalen Republik vor! „Die Verbrechen“, rufen sie, haben furchtbar zugenommen.Daran
+          trägt der „Humanitätsschwindel“, der „Aufklärungsdusel“ der Demokraten die Schuld. Es gibt
+          kein anderes Mittel dagegen, als die Wiedereinführung der Todesstrafe. Das muthwillig
+          weggeworfene Richtschwert soll der „Obrigkeit“ wieder in die Hände gedrückt und Volk und
+          Land gerettet werden durch den Henker!“Die eidgenössischen Räthe haben in dieser
+          Angelegenheit bereits gesprochen, aber in einer Weise, die es jedem Unbefangenen zur
+          Pflicht macht, zur Belehrung des Volkes, das nun über diese hochwichtige Sache in nächster
+          Zeit zur Abstimmung gerufen werden soll, sein Möglichstes beizutragen. Ich thne es
+          meinerseits mit der oorliegenden Erzählung. Ich weiß nicht, welche Wirkung das schwache
+          Wort eines Einzelnen hat; aber ich wünsche von ganzem Herzen, daß sich der Ausspruch
+          unsers großen Geschichtsschreibers Joh. v. Müller bewähre: „Die Schweizer waren stets ein
+          gutes und redliches Volk, am größten aber in großen Gefahren!“Und in einer großen Gefahr
+          stehen wir gegenwärtig: in der Gefahr, die Ehre unsers Landes, den Ruhm unserer Geschichte
+          und die Ideale der Zukunft zu verlieren! </p>
+        <p>Der Waldbenz und seine Mutter.</p>
+        <p>Ueber dem Bantiger graute der Morgen. Auf den Straßen, die von allen Seiten der
+          Landschaft nach Bern führen, herrschte ein reges Leben. Allenthalben wirbelte von jenen
+          zahllosen kleinen Fuhrwerken, auf denen die Landleute ihre Waare zum Verkauf bringen, ein
+          dichter Staub empor. Es war heute nur ein gewöhnlicher Markttag; aber Feld und Wiese lagen
+          zum ersten Mal unter einem wolkenlosen Himmel im Frühlingsschmuck vor aller Augen, der
+          Wald hauchte seine Harzdüfte erfrischend in jede Brust, und Mancher, der seit Wochen die
+          luftigen Arkaden der Hanptstadt nicht mehr gesehen, wurde vom schönen Wetter verlockt, die
+          beschwerliche Feldarbeit zu Hause für dies Mal einzustellen. Als jetzt die Sonne ihre
+          ersten Strahlen über die stahlblauen und grünen Bergrücken in die Welt hineinsandte und
+          der goldene Tag die Herrlichkeit der jungen Saat enthüllte, da athmete manch' ein
+          Menschenherz auf und wurde froh im Innersten, weil es nach den Täuschungen der vergangenen
+          Jahre wieder einen reichen Ertrag an Banum und Feldfrüchten hoffen konnte. Sichtbar
+          erheiterten diese Gedanken au eine sorgenfreie Zukunft hier das Gemüth eines schwachen,
+          kranken Weibes, das die ersten Veilchen und Maiglöckchen <pb/>in einem Korbe stundenweit
+          zur Stadt trug; dort den gedrückten Geist eines weißhaarigen Alten, der sein mühsam
+          zusammengelesenes Holz auf einem elenden Karren dem kanm stärker bemittelten Kunden
+          zuschleppte. Im Ganzen aber schien der bunte Troß der meisten Landlente, die sich in der
+          Frühe aus dem entlegenen Thal von Goldwyl zusammenfanden, doch nicht bloß von dem Eindruck
+          der günstigen Witterung beherrscht zn werden. Wenigstens ertönte heute der fröhliche
+          Jodler, oder ein weithinschallender Jauchzer aus ungeübter Kehle seltener, als sonst, aus
+          den eifrig geführten Besprächen der Marktleute herans. Das hoffnungsreiche Anfwachen der
+          Natur konnte auch nicht Ursache davon sein, daß die stämmigen, schwarzgebräunten Männer,
+          ebenso wie die rothbackigen weiblichen Wagenlenker, so hitzig ihre Thiere antrieben,
+          rechts und links ohne sich zu grüßen vorüberstoben und einander fast Rad und Achse
+          abfuhren, um nur so bald als möglich die Wipfel der hundertjährigen Lindenbäume und den
+          Münsterthurm in Sicht zu bekommen, der majestätisch über die Felsen der Plattform in die
+          reine Luft dieses klaren Apriltages hineinragte.</p>
+        <p>In der That, etwas Anderes führte heute so vieles Volk zu Fuß und zu Wagen nach Bern. Es
+          wurde der Menge wieder eines jener blutigen Schanspiele gegeben, die ihre dämonische
+          Anziehungskraft auf die rohern und sinnlichern Naturen immer noch beibehalten haben, es
+          fand eine Hinrichtung statt.</p>
+        <p>In dem mehrere Stunden von Bern entfernten Thale von Goldwyl war das Opfer geboren, das
+          heut auf dem Richtplatz verbluten sollte. Es war ein noch junger Mann von zweiundzwanzig
+          Jahren, den man in der ganzen Umgegend nur unter dem Namen „Waldbenz“ kannte. Die
+          Geschichte des Unglücklichen fällt zusammen mit derjenigen aller Verbrecher überhaupt, von
+          denen konstatirt ist, daß sie meist alle schon in ihrer frühen Kindheit die Mutter oder
+          den Vater oder beide Eltern verloren, oder daß Vater oder Mutter oder beide Eltern
+          Verbrecher oder Säufer oder sonst liederliche und verkommene oder geistig gestörte
+          Menschen waren. Es ist traurig,aber die Anklage muß hente mit allem Nachdruck erhoben
+          werden, daß die menschliche Gesellschaft selber durch ihre sträflichen Unterlassungssünden
+          einen großen Theil der Verbrecher erzengt, welche ihre Sicherheit und ihre Existenz
+          bedrohen, dieselbe Gesellschaft, die sich das Recht anmaßen will, einem Mitmenschen zur
+          Sühne seines Verbrechens das Leben zu nehmen!</p>
+        <p>Schon die Mutter des Waldbenz verkam als ein Opfer der Schlechtigkeit des ersten
+          Vorstehers von Goldwyl. Das Lisabethli war armer Leute Kind gewesen und früh ein Waislein
+          geworden. Die Gemeinde hatte das Mödchen einer geringen Taunerfamilie übergeben, bei der
+          es aufwuchs, ohne zu einer bestimmten Arbeit oder zu einem ausschließlichen Beruf
+          angehalten zu werden. Für die Landarbeit taugte es nicht viel; nicht weil es faul war,
+          aber es wurde auf dem Feld bei der kleinsten Anstrengung bald müde, obgleich es Backen
+          hatte wie Rosen und aussah wie die Gesundheit selber. Es war eine schnell und hoch
+          aufgeschossene Blume; als es <pb n="3"/> unterwiesen wurde, ragte es um einen ganzen Kopf
+          unter seinen Gespielinnen hervor.Dabei hatte es ein angenehmes, munteres Wesen; seine
+          großen, dicken Zöpfe schlenkerten ihm anmuthig über den Rücken herunter und seine
+          schwarzen Schlehenangen lugten klug und fröhlich in der weiten Welt herum.</p>
+        <p>Nun traf es sich, daß einige Wochen nach Ostern der Postbote der weit umherzerstreuten
+          Gemeinde das Zeitliche segnete. Er war nicht mehr gnt herumgekommen,der alte Pandur; Viele
+          hatten längst gemurrt über seine sprüchwörtlich gewordeue Langsamkeit und Saumseligkeit
+          und es war ihnen recht, daß der Postdienst jetzt von jüngern Beinen besorgt werden sollte.
+          Nun gab es wohl einige alte Bränzer, die sich darum bewarben; aber es konnte von diesen
+          schlaffen, verserbelten Lumpen keine Rede sein und jüngere Bursche schämten sich, dazu
+          sich herzugeben. Da kam der Tauner auf den Einfall, das Lisabethli könnte vielleicht den
+          Dienst besorgen und damit ein hübsches Stück Geld verdienen; auf dem Feld könne man es
+          doch nicht brauchen und man müsse ihm Zeit lassen, sich auszuwachsen, sonst habe es
+          nächstens die Schwindsucht am Hals. Beim Botendienst könne es hübsch herumspazieren, das
+          sei ihm gesund; auf den entlegenern Höfen erhalte es zu essen und zu trinken in Hülle und
+          Fülle, dann sei zu Hause ein Maul weniger zu füttern nud das Kostgeld habe er dann halb
+          umsonst; auch komme es so in der halben Welt herum und werde zuletzt eine lebendige
+          Chronik, so daß das zu seinem fernern Glück vielleicht ein erster Schritt sei. Mit diesen
+          Gedanken wanderte unser Taunerlein, ohne dem Lisabethli Etwas davon zu sagen,
+          schnurstracks zum gestrengen Ammaun der Gemeinde.</p>
+        <p>„Er sei eigentlich noch etwas verwandt mit dem Lisabethli“, meinte der Ammann, „so aus
+          der siebenten Suppe ein Tünklein; er wolle dem Kind nicht vor dem Brod sein; es sei hübsch
+          und manierlich, fast wie ein Herrenkind aus der Stadt,und seinetwegen könne es die Stelle
+          haben. Treu und verschwiegen werde es wohl auch sein, denn das gehöre dazu; es gebe
+          Sachen, die nicht Jeder zu wissen brauche,und wenn man in alle Häuser komme, so sei es gar
+          nicht nöthig, daß man Alles,was man sehe und höre, wieder regelmäßig herumsage.“</p>
+        <p>Der Tauner rühmte das Lisabethli gar hoch und auf den Antrag des Ammanus machte der
+          Gemeinderath das achtzehnjährige Mädchen zur Bötin. Es vergingen aber nur ein paar Jahre,
+          bis es, grundverdorben und durch die Schuld des genannten Vorstehers in's Unglück
+          gestürzt, die Stelle, die es nie hätte antreten sollen, wieder verlor. Im Anfang machte
+          sich Alles gut, denn das Lisabethli war ein gelenkes,windschnelles Ding, das seine
+          Aufträge pünktlich ausrichtete. Mit der Sicherheit in seinen Verrichtungen und der
+          Zufriedenheit der Leute stellte sich indessen bei ihm nach und nach ein gewisses Gefühl
+          geistiger Ueberlegenheit über Seinesgleichen ein,während auf der andern Seite der ewig
+          gleiche Lauf seiner Tagereisen ihm schon nach einigen Monaten langweilig vorkam und
+          irgendwelche Zerstreuung forderte. So geschah es, daß sein Zünglein bald mehr als nöthig
+          sich in Bewegung setzte und sich <pb n="9"/>in der verschiedensten Beurtheilung der
+          Dorfbewohner erging. Wenn es einen weiten Weg in einen der entlegeuern Höfe gemacht,
+          setzten ihm die Leute fast regelmäßig ein Glas Brauntwein und Brod vor, wohl etwa auch ein
+          Restchen von einem Schinken oder so Etwas. „Trink' nur“, hieß es dann, „und iß; du bist
+          jetzt müd' und mast sauft; sei nicht so dumm und ruh' ein wenig aus, du hast ja nicht mehr
+          viel Briefe in der Tasche und kommst wohl noch herum.“ Und daun wurde gefrägelt und
+          geplandert und erzählt, daß es eine Art hatte. Nur leise, wie mit Sammetpfotchen wurden
+          diese Unterhaltungsgegenstände aufäuglich berührt; aber je weiter man dieselben spann, je
+          länger man sich kannte und je öfter man zusammen kam, um so gründlicher wurden sie
+          verhandelt. Es konnte nicht fehlen, daß das Lisabethli nach kurzer Zeit wirklich die
+          lebendige Chronik von Goldwyl wurde. Dabei gefiel ihm der Schnapps immer besser und ging
+          ihm bald ein wie Wasser; es fühlte sich wohl und glücklich in der heitern Aufregung und
+          rosigen Stimmung, die er ihm verschaffte, und bei dem spöttischen Muthwillen, womit er ihm
+          die Zunge löste, so daß es auf Alles eine Antwort hatte und sie Keinem, der es foppen oder
+          necken wollte, schuldig bleiben mußte.</p>
+        <p>Jedermann hatte zu dieser Frist noch das allezeit fröhliche Lisabethli gerne.Mauch kecker
+          Bursche that ihm schön und suchte sich mit ihm einzulassen; aber das Meitschi lachte sie
+          aus und ließ sie wieder laufen. Und doch ward immer mehr klar,daß der stets häufiger
+          genossene Branntwein bei ihm in anzüglichen Redensarten und unbändigen Mauieren wie ein
+          unheimliches Feuer emporflackerte und daß eine mächtig erwachte Sinnlichkeit verzehrend in
+          seinem Innern brannte. Niemand hatte das so schnell heraus wie der Ammann von Goldwyl, der
+          alte Sünder. Ein verschmitzter, hinterlistiger Kopf war er, das mußte ihm auch der Neid
+          lassen. Schon vor zwanzig Jahren, als er noch Knecht beim alten Pfarrer war, hatte er ein
+          Mädchen aus dem Dorf zum Opfer seiner Lüsternheit gemacht und war, da er es nicht
+          heirathen wollte, nach Amerika ausgewandert. Nach längerer Zeit, als Gras über die
+          Geschichte gewachsen war, kehrte er als ein geriebener Schlaukopf zurück und schwang sich
+          langsam und auf Schleichwegen zu seiner jetzigen Stellung empor, heirathete eine
+          wohlhabende Frau, die aber starb, nachdem sie ihm zwei Töchter geschenkt.Er war jetzt
+          schon seit zehn Jahren Wittwer, besaß Haus und Hof und betrieb eine im Herbst und Winter
+          sehr gangbare Wirthschaft, die aber im Sommer Tags über,hesonders zur Zeit der Heu- und
+          Kornernte, leer stand und dann wie ausgestorben war. Da der briefliche Verkehr mit dem
+          Ammann der Gemeinde einer der regsten im Dorfe war, so kam das Lisabethli natürlich alle
+          Tage in's Haus. Es mußte alle Briefe im Hinterstübli beim Ammann selber abgeben, der immer
+          sehr freundlich mit ihm that, sobald es Niemand sah. Oefters, wenn seine Töchter dranßen
+          auf der Wiese mit den Knechten und Mägden gabelten und zappelten, wenn kein Gast im Hause
+          und der Ammann mutterseelenallein im Hinterstübli war, holte er eine <pb/> 10 Flasche
+          Pworner und ein Stück Käse oder Schinken aus dem Keller, nöthigte das Lisabethlt zum Essen
+          und zum Trinken und führte gar verwunderliche Reden.Schmeichelet und tückische
+          Wohlmeinenheit verbargen anfänglich sein unehrliches Gelüsten; aber immer wüster brach
+          dasselbe aus der wildlustigen Stimmung hervor,in welche der Wein die Beiden von Zeit zu
+          Zeit versetzte. Das Lisabethli erlag endlich wehrlos dem Audrängen des Wüstlings, und die
+          Frucht einer dieser unseligen,einsamen Stunden war der Waldbenz.</p>
+        <p>Der Ammann hatte dem Lisabethli Berge Goldes versprochen, wenn es schweige.Es hielt auch
+          wirklich reinen Mund, obgleich der wahre Sachverhalt ziemlich offenkundig war. Wer wollte
+          den allmächtigen Vorsteher, dessen lederfarbenes Gesicht so gescheidt lächelte und dessen
+          pechschwarze Haare so kluge, stechende Augen beschatteten, zur Rede stellen? Solche
+          ehrgeizige und schlechte Vorgesetzte vermögen eben sehr bald eine ganze Ortschaft zu
+          verderben; ganz heimlich und langsam schleicht das Gift der bösen Nachahmung durch die
+          Gemeinde und der gefräßige Wurm einer bloß geheuchelten Zucht und Ehrbarkeit bohrt sich
+          tief in's Herz anch der kommenden Geschlechter! </p>
+        <p>Das Lisabethli kam jetzt durch die weise und salbungsvolle Fürsorge seines weitläufigen
+          Vetters und Beschützers mit seinem Kinde zuerst in den Gemeindespittel.Es erhielt aber vor
+          dieser wohlthätigen Anstalt einen so heiligen Respekt, daß es mit Zusammenraffung all
+          seiner Kraft es durchsetzte, wieder bei der Taunerfamilie wohnen zu dürfen, wo es für sich
+          und sein Büblein das Kostgeld bezahlte. Um dieses zu erübrigen, wurde es Bötin nach Bern,
+          krämerte und grämpelte daneben lustig auf allen Märkten des Kantons herum und führte von
+          nun an immer mehr das wechselvolle Leben einer zügellosen Dirne. Von der frühern
+          jugendlichen Anmuth seines Gesichtes waren nur noch geringe Spuren vorhanden; seine Züůge
+          streiften mehr und mehr an Frechheit und das Laster der Trunksucht verhunzte vollends
+          seinen schwachen Charakter zum traurigen Zerrbild eines völlig verloren gegangenen
+          Menschen.Sechs Jahre später fand das Lisabethli an einem verkommenen, prahlhansigen
+          Elsäsferkrämer einen ihm ebenbürtigen Lebensgefährten. Als ihn der Ammann fragte,ob er
+          glaube sich mit dem Lisabethli durchschlagen zu können, gab der struppige Blonsenmann,
+          aufgebracht über eine so ehrenrührige Rede, zur Antwort: „Gott verdummi, ich wärd' doch
+          khönne en Froü ärrholte!“ Damit war die Sache abgethau.Der Krämer steckte die sechzig
+          Thaler, womit ihm die Goldwyler ein für allemal auch das Kind Lisabethli's, den kleinen
+          Benzli, zur Aufnahme in seine elsässische Heimatsgemeinde überbanden, vergnügt in den Sack
+          und klimperte damit auf der Straße und im Wirthshaus, als ob er ein Fabrikant oder ein
+          reicher Müller wäre.Um dieses Geld war es offenbar dem Elsässer hauptsächlich zu thun; es
+          reichte gerade hin, einige Schulden zu bezahlen und mit dem kleinen Rest sich über die
+          Hochzeitstage gütlich zu thun. </p>
+        <p>Wieder ein Jahr war vergangen seit der Abreise Lisabethli's in's Elsaß, da <pb n="1"/>
+          langte eines Abends in Goldwyl mit der Post, von einem Landjäger aus Bern begleitet, ein
+          Büblein an, das der Gemeinde gehöre und als Bettler und Vagabund in der Nähe von Basel
+          aufgegriffen worden sei. Polizeiliche Nachforschungen hatten ergeben, daß es das Kind
+          Lisabethli's war. Da der Krämer die von den Goldwylern erhaltene Summe für Verpflegung des
+          Knaben in seinen eigenen Sack gesteckt und nach der Heirath sich jeder weitern
+          Verpflichtung für enthoben gehalten, so hatte die elsässische Gemeinde das Büblein
+          abgewiesen und dessen Aufenthalt nur unter der Bedingung gestattet, daß ein Heimatschein
+          für dasselbe eingelegt werde.</p>
+        <p>„Das werde jetzt bim Donuerschieß öppe nit so pressiren“, meinte das Lisabethli. „Das
+          Geld ist fort und ich muß mich schämen wie ein Hund, wenn wir das Kind jetzt schon der
+          Gemeinde zuschicken oder von ihr Schriften begehren.“ So blieb der Benzli einstweilen bei
+          seinem Stiefvater im Elsaß. Von Erziehung war da freilich keine Rede. Der Krämer
+          behandelte ihn übel; wenn seine Frau allein auf den Märkten herumschlampete, so bekam der
+          Benzli von ihm zu Hause mehr Schläge als zu essen; bisweilen sperrte er ihn in ein
+          feuchtes Kellerloch und ließ ihn erst am folgenden Tag wieder heraus. Waren beide Ehelente
+          fort, so blieb das arme Kind sich selbst überlassen; mitleidige Nachbarn gaben ihm zu
+          essen, wenn es hungerte, und die Worte, die dabei ausgestoßen wurden, fielen bei dem
+          Knaben, so jung er war, auf fruchtbares Erdreich. Wunderbar kräftig entwickelten sich bei
+          ihm die bösen Triebe, und welch' muthiger Wille in dem siebenjährigen Büblein steckte,das
+          zeigte sich erst, als dasselbe nach einer neuen harten Züchtigung durch seinen Stiefvater
+          eines Morgens auf- und davonlief und sich bettelnd von Thüre zu Thüre durch's Land trieb.
+          Es fand bald da bald dort aus Barmherzigkeit der Leute einen längern oder kürzern
+          Unterschlupf; es plagte sich in den Ställen beim Vieh kümmerlich durch die Welt, geschnpft
+          und gestoßen, bald da bald dort von der Polizei aufgegriffen, mit Verbrechern und
+          Vagabunden zusammengebracht, was Wunder, daß es in erschreckend kurzer Zeit verwilderte
+          und verlotterte! Als es vom Landjäger nach Goldwyl gebracht wurde, hatte es seit
+          Jahresfrist in keinem Bett mehr gelegen.</p>
+        <p>Ist vielleicht dieses arme Wesen das einzige im Land, das durch die Lieblosigkeit der
+          Seinen jämmerlich verkümmert und in spätern Jahren zum Verbrecher wird?Und meint man
+          solche Schäden unsers gesellschaftlichen Lebens durch das Henkerbeil zu heilen? Sind nicht
+          im letzten Jahr aus einer einzigen Gemeinde des St. Gällischen Rheinthals von vierzig
+          Schülern sechsundzwanzig in's Schwabenland gewandert, um sich dort über den Sommer zu
+          verdingen, darunter neun 7sgjährige Büblein? Zu allem Unglück aber kommt noch (so klagt
+          man mit Recht), daß ein geistiger Verkehr zwischen ihnen und ihrer Heimat nicht besteht.
+          Kein Brieflein wechselt zwischen Mutter und Kind; sehr selten kommt ein Bericht aus
+          Deutschland,es sei denn etwa der Todtenschein von irgend einem Kind, das fern von
+          elterlicher eiebe erkrankte und starb. Unsere erwachsenen Töchter, die wir in's Welschland
+            <pb n="12"/>schicken, erkranken oft am Heimweh; sie weinen die halbe Nacht bei
+          gespickten Koffern,bei Schinken und St. Gallerwürsten; am Morgen werden fie von der
+          „Madame“getröstet und von lustigen Gespielinnen erheitert, und von Hause kommen Briefe
+          voll süßer Trostesworte; aber das sieben- bis achtjährige Büblein steht mutterseelenallein
+          auf ferner, fremder Aue und hütet die Gänse! Und wie auf dem Lande, so gibt es auch in
+          unsern Städten Eltern und Vormünder, die, statt das geistige und körperliche Gedeihen
+          ihrer Pflegebefohlenen in's Auge zu fassen, nur darnach trachten, den Besitz der ihnen
+          Anvertrauten möglichst zu kapitalisiren; es gibt Rabeneltern,welche die Kleinen
+          hinausstoßen in die kalte Welt, um das Erbarmen der ihnen begegnenden Mitmenschen zu
+          erregen, welche dieselben, wie sie zu sagen pflegen, in's Verdienen schicken, nur um zu
+          Hause in aller Gemüthsruhe bei diesem einträglichen Geschäft allen Lastern zu fröhnen!
+          Gibt's in unserm Lande keine Leute, die Brod und Arbeit hätten für solche Kinder und die
+          ihnen die Segnungen der Schule nicht vorenthalten würden? Protestanten und Katholiken
+          opfern jährlich Hunderttausende von Franken für Zwecke, die ihnen nicht klar sind; warum
+          vergessen sie über der Noth jenseits der Berge und jenseits der Meere das Elend in der
+          Nähe? Als Benzli mit dem Landjäger nach Goldwyl zurückkam, war großer Aerger im Land. Aber
+          was nützte das? Die Versteigerung der Waisenkinder an die Meistbietenden war gerade wieder
+          vor der Thür und so traf denn auch den Benzli dieses Schicksal. Das Loos verschlug ihn zu
+          blutarmen Leuten, in eine schmutzige Hütte,die draußen wie ein böses Gewissen am Rande des
+          großen Gemeindewaldes lag.Hunger leiden mußte er hier nicht; so viel Verstand hatten seine
+          Pflegeeltern, welche Beide als Taglöhner streng arbeiteten und gewohnt waren, regelmäßig
+          ein ordentliches Essen einzunehmen. Aber von einer Erziehung und Wegleitung war weiter
+          keine Spur. Der Knabe war, wie früher, fast ganz sich selber überlassen; die Schule
+          besuchte er kaum die Hälfte Zeit. Am liebsten machte er müßige Streifereien in das einsame
+          Feld oder in die Tiefe des Waldes, für welche er bald einen in der Nähe wohnenden ältern
+          Knaben, den Peter Christen in der Moosrüti, zum Kameraden erhielt. Verwegen bis zur
+          Tollkühnheit schreckte der Waldbenzli (so nannte man ihn allgemein) schon jetzt vor keinem
+          Wagniß zurück. Er saß rittlings am Rande des Abgrunds auf dem spitzigen Felsblock, auf den
+          er mit Lebensgefahr sich hinaufgeschwungen. Von dort schaute er ohne zu schwindeln in die
+          furchtbare Tiefe,wo das Auge den Boden nicht mehr erkannte und der Ton des an der Waud
+          sich losmachenden Gerölls ungehört verhallte. Sah er irgendwo auf höchster Wettertanne ein
+          Nest, das seine Neugierde reizte, er mußte hinauf, wenn gleich die schwankenden Aeste über
+          dem gähnenden Schlund irgend eines grausen Tobels hinhingen, um die Brutstätte der armen
+          Vögel als todbringender Ränber zu überfallen.Hatte er mit den ausgenommenen Eiern eine
+          Zeit lang gespielt, so zerschmetterte er <pb n="13"/>sie, wenn ihn zufällig ein in die
+          Augen fallendes Ziel reizte, nubarmherzig am nächsten Felsen. Waren es Junge, die er, noch
+          nackt und unbefiedert, in seine Gewalt gebracht, so riß er ihnen wohl die kleinen, noch
+          ungefügen Glieder wie prüfend auseinander, um sie gleich hernach den jammernden, mit
+          stürmischem Flägelschlag amherflatternden Alten kaltsinnig nachzuwerfen. Die rohe Freude
+          an derartigen GHransamkeiten ließ das wenige Gute, das Schnle und Kirche in sein
+          verhärtetes Herz zu streuen vermochten, nicht aufkommen; es erstickte unter den Dornen der
+          Verwilderung.</p>
+        <p>Nur einmal vielleicht in seinem Leben erwachte im Waldbenz für kurze Zeit eine höhere
+          seelische Stimmung, welche die Rohheit seiner Sitten etwas zu mildern schien. Er zählte
+          achtzehn Jahre und war inzwischen zu einem strammen Burschen aufgeschossen; er war der
+          Schule und Kirche glücklich entronnen, um jetzt mit seinen pflegeeltern da und dort zu
+          arbeiten, denn als Knechtlein wollte ihn Niemand ansttellen. Gleichwohl kam das Gefühl der
+          Freiheit, die er jetzt so recht in vollen Athemzügen empfand und genoß, mit einer Kraft
+          über ihn, welche seine Tage zum ersten Mal mit einem schwachen Schimmer von Glück
+          verklärte. Und nun zog auch noch die Liebe ein in sein armes, junges Herz, unerwartet, wie
+          ein greller rother Blitz, der in schwüler Sommernacht über die Wälder hinzuckt, und den
+          dunkeln Hintergrund eines ganzen Thals für einen Angenblick unheimlich erleuchtet.</p>
+        <p>Es war an einem Samstag Abend im Sommer, als Benz allein im Wald eine abgestorbene junge
+          Tanue fällte. Der kräftige Schlag seiner Art widerhallte weit in die Runde und die Amseln
+          sangen dazu ihre tiefen, flötenstimmigen Lieder.Müde von der Arbeit hatte Benz sich eben
+          niedergesetzt und sein Abendbrod verzehrt,als auf einem der engen Waldwege vom Dorfe her
+          ein Zigeunermädchen schritt, das alsbald vor dem Burschen still stand, ihn mit großen
+          Augen betrachtete und ihn endlich fragte: „Soll ich dir wahrsagen?“</p>
+        <p>Ja“, versetzte der Waldbenz, „aber etwas Gutes.“</p>
+        <p>„Zeig' mir deine Hand“, sagte sie und trat ganz zu ihm heran.</p>
+        <p>„Du hast böse Tage erlebt. Du bist ein ächtes Waldkind, wie wir, frisch und frei, wie der
+          Vogel in der Luft; der böse Wind und der Regen und Schnee haben dich abgehärtet.“</p>
+        <p>Des Burschen Augen leuchteten auf und seine Hand zitterte leise in der des schoöͤnen
+          Mädchens.</p>
+        <p>„Zwar“, fuhr sie fort, „deine Lebenslinie hier ist kurz; aber habe guten Muth,du bist zu
+          etwas Höherm geboren. Du wirst Soldat und, wenn ich recht sehe, gar General werden. Aber
+          hier sehe ich Blut, o weh, nicht auf dem rauchenden Schlachtfelde, du wirst es in einem
+          Hinterhalt verspritzen für die Andern, die nicht so muthig und so tapfer sind, wie
+          du.“</p>
+        <p>„Woher weißt du denn das Alles?“<pb n="4"/>„Hier steht's geschrieben in deiner Hand und
+          so wird's kommen, so wahr ich's gut meine mit dir.“</p>
+        <p>„Du gefällst mir; wie heißest du?“</p>
+        <p>„Mira. Hast mich gern? Schenk' mir was!“</p>
+        <p>„Ich habe kein Geld.“</p>
+        <p>„Aber Wein dort im Krug; ich habe Durst.“</p>
+        <p>„Wein nicht, Brauntwein. Hier, trink' ein Glas, und da ist Brod; setz' dich auf diesen
+          Holzblock und erzähl' mir etwas von dir und deinen Leuten. Wo sind sie und wo kommt ihr
+          her?“</p>
+        <p>Mira erzählte von ihren Zickzackmärschen aus Ungarn herauf, von den Sitten ihres
+          Volksstammes, vom Tod ihrer Mutter, die sie vor ein paar Monaten verloren und die im
+          Vorarlberg in einem großen Wald begraben liege. „Wir haben keine Heimat; die ganze Welt
+          ist unser, die Sonne scheint überall, die Winde wehen, die Wolken ziehen und die Sterne
+          leuchten wieder, wenn sie vorübergezogen.“</p>
+        <p>Der Waldbenz hatte Zeit, während dieser Erzählung, die er öfters durch Fragen unterbrach,
+          die Reize des trotzigen Naturkindes zu bewundern. Mira hatte siebenzehn Sommer; ihre
+          schlanke Gestalt, ihr pechschwarzes Haar, das in wildem Gelock die Schultern umflatterte,
+          ihre großen, feurigen Angen, die feingeschnittene Nase und der üppige Mund mit der
+          glänzenden Perlenreihe von Zähnen, dazu das beredte Zünglein und die Aumuth ihrer ganzen
+          Erscheinnng übten einen berauschenden Einfluß auf den Burschen. Plötzlich sprang er auf
+          und wollte sie in glühender Leidenschaft umschlingen; aber sie entschlüpfte ihm,
+          blitzschnell, wie ein gehetztes Reh. „Komm zu uns herüber“, rief sie ihm aus der Ferne zu,
+          „dorthin, ... dorthin, eine halbe Stunde von hier“, dann verschwand sie im Gebüsch.</p>
+        <p>Das war die erste Liebe des Waldbenz, eine ungestüme, wilde Waldliebe, die ihn mit
+          verzehrender Gluth erfüllte. Zehn Tage hatten sich die Zigeuner in der Gegend aufgehalten
+          und jede Nacht war Benz ihrem Zeltlager gefolgt. Nur zu bald hatte er Mira wieder gesehen,
+          die Gefallen an dem Burschen fand; beim Schrei des Uhu's kamen sie an abgelegenem Orte
+          zusammen und ihre Sinnlichkeit loderte in wilden Flammen empor. Eine Zeit lang hatte der
+          Waldbenz im Sinn, sich der Bande anzuschließen und mit ihr das Loos einer durch alle
+          Schicksalsstürme verkümmerten Freiheit zu tragen; dann wieder wollte Mira, welche bei
+          ihren Volksgenossen keinen näheren Verwandten mehr besaß und sich allen Zufällen
+          preisgegeben glaubte, hier im Laude zurückbleiben und heimlich mit dem Waldbenz in eine
+          andere Gegend, vielleicht nach dem Elsaß, entfliehen. Dieser letztere Plen wurde
+          gutgeheißen und es ward verabredet, ihn am nächsten Tage schon auszuführen.</p>
+        <p>Aber ein altes Zigeunerweib war Mira nachgeschlichen, hatte die Liebenden belauscht und
+          die ganze Geschichte dem Hauptmann verrathen. In der Nacht noch ceß dieser die Zelte
+          abbrechen; Mira wurde auf einen Karren gebunden, und vor<pb n="15"/>wärts ging es durch
+          die vom Vollmond erlenchteten Wälder in weitem endlosen Marsche. Als die Sonne aufging,
+          lag die Grenze des Kantons Bern längst hinter dem brannen Trupp, der noch vor dem Abend
+          des angebrochenen Tages die Schluchten des Jura erreichte. Erst jetzt wurde das Mädchen
+          seiner Fesseln entledigt, aber sorgsam bewacht, bis Zeit und Gewohnheit es augenscheinlich
+          wieder in den gleichmäßigen Gang der frühern Lebensart zurückgelenkt hatten.</p>
+        <p>Für den Waldbenz lief die Sache nicht so glatt ab. Als er am folgenden Tag zur
+          verabredeten Stelle kam und Mira nicht erschien, war ihm gleich Alles llar. Er hatte seine
+          besten Kleider an und das wenige Geld, das er verdient, bei sich; die übrigen
+          Habseligkeiten trug er in einem alten Wachstüchlein unter dem Arm.Was sollte er beginnen?
+          Er eilte auf den frühern Lagerplatz der Zigeunerbande jenseits des Gehölzes; die Zelte
+          waren verschwunden und nur Thierknochen, verkohlte Holzstücke und einige verdorbene
+          Speisereste gaben noch Kunde von dem Aufenthalt,den die braunen Waldsöhne hier genommen.
+          Wie ein heißer Blitzstrahl in brandende Uferwogen fiel es in Benzens Seele. Sehnsucht,
+          Wuth und Verzweiflung tochten in ihm durcheinander; dann weinte er Thränen bittersten
+          Schmerzes. Der schönste Traum seines Lebens war ihm entschwunden, wie ein verlorenes
+          Gut.Eine ganze Stunde saß er wie gelähmt am Bord eines Grabens. Und jetzt tauchten die
+          Worte Mira's wie rosige Wölklein am verdüsterten Horizont seiner Seele auf:„Du bist zu
+          etwas Höherem geboren; du wirst Soldat, vielleicht gar General werden!“Sein Entschluß war
+          gefaßt. Er schlug den Weg nach Bern ein, wo er nebst Andern einem Werber in die Hände fiel
+          und Handgeld nach holländisch Indien nahm, da eben der Krieg gegen die wilden Atschinesen
+          wieder ausgebrochen war. Er betäubte mit seinen neuen Kameraden sein Herz durch Wein,
+          Schnapps und rohe Scherze;nur einmal schlich er sich bewegt hinaus, als Jene das Lied
+          anstimmten: „Das hat ihr falsches Lieben vertrieben!“ </p>
+        <p>Benz hielt es nicht lange aus auf Sumatra. Der Aufenthalt in einer vervallisadirten
+          Waldfestung, auf welche die Atschinesen meist nur nächtliche Angriffe machten, bei denen
+          regelmäßig ein halbes Dutzend Enropäer abgeschlachtet wurden,war allerdings nicht
+          besonders einladend. Indessen galt der Waldbenz bei seiner Mannschaft als der tapferste
+          Soldat; er war verwegen bis zur Tollkühnheit, lauerte halbe Nächte, Katzen gleich, in der
+          Nähe der Festung, wenn man einen neuen Ueberfall befürchtete, alarmirte das Wachthaus und
+          gab mehr als einmal den Entscheid im Gefecht, so daß er zum Unteroffizier befördert wurde.
+          Warum starb er nicht draußen im Getümmel, unter dem Röcheln und Stöhnen niedergehauener
+          Feinde?Warum floß sein Blut nicht in den Graben, der die ungesunde Waldfestung umgab? </p>
+        <p>Ungefähr ein Jahr war vergangen, da erkrankte daselbst der höchst verdiente deutsche
+          Feldarzt. Weil derselbe für seine Gesundheit ein anderes Klima und bessere <pb n="16"
+          />Pflege wünschte und auf's Bestimmteste verlangte, in die nächste Stadt, die ein paar
+          Tagreisen entfernt war, zurückgebracht zu werden, woselbst er alle seine gemachten
+          Ersparnisse bei einer holländischen Bank verwahrt hatte, so wurde Benz nebst ein paar
+          handfesten gemeinen Soldaten zu dieser mit unsäglichen Gefahren verbundenen Expedition
+          beordert. Nach vier Tagen brachten die Männer den Kranken glücklich an den Ort ihrer
+          Bestimmung. Aber Jener war so hinfällig, daß er den Waldbenz kaum noch mit einer Vollmacht
+          zur Rückforderung seines Geldes an das Bankhaus absenden konnte, um alsbald in einen
+          ohumachtähnlichen Zustand zu verfallen, aus dem er zwei Tage lang nicht erwachte. Während
+          dieser Zeit machte Benz Pläne für seine Zukunft; er faßte deun Entschluß zu desertiren und
+          nach Europa zurückzukehren. Er hatte die fünfhundert holländischen Dukaten des Arztes in
+          seinem Beutel;davon nahm er hundert für sich, die er als eine Belohnung für die gelungene,
+          lebensgefährliche Ueberführung betrachtete, händigte die andern vierhundert dem Wirth
+          ein,bei dem sie Herberge genommen, ließ sich von ihm dafür einen Schein ausstellen,den er
+          den beiden Soldaten mit dem Befehl übergab, ihn dem Kranken vorznweisen,sobald dieser aus
+          seinem todähnlichen Schlaf erwacht wäre. Daunn eutfloh er unter irgend einem Vorwande,
+          kaufte sich andere Kleider, schlich sich auf ein eben abfahrendes Schiff ein und langte
+          nach fast zweijähriger Abwesenheit wieder in seinem Vaterlande an. Hier traf er das Elend
+          in einer neuen Gestalt, in der seiner Mutter.Das Lisabethli war während Benzens
+          Abwesenheit nach Goldwyl zurückgekommen;sein Mann, der Elsässerkrämer, hatte es betrogen
+          und war heimlich nach Amerika ausgewandert, ohne ihm einen rothen Kreuzer zu geben. Da
+          stnund es nun, verlassen von dem prahlhansigen, schmutzigen Schelm, verlassen von Gott und
+          der Welt, verlassen von sich selber! Es hätte können in den Boden hineinsinken; Tag und
+          Nacht weinte es, daß ein Stein sich hätte erbarmen mögen. Darauf kehrte es bettelnd in
+          seine einstige Heimatsgemeinde zurück. Die Verzweiflung trieb es geraden Weges zu seinem
+          einstigen Freund und Vetter in's Hinterstübli. Es that jetzt nicht mehr so zimperlich wie
+          ehemals; im Gegentheil, es brauchte sein Maul nicht übel, schlug mit der Faust auf den
+          Tisch, daß die Fenster zitterten und drohte dem Ammann, Alles und Jedes an den Tag zu
+          bringen. Der Ammann hatte schon seit längerer Zeit sein Amt niedergelegt und war
+          Kornhändler geworden;aber seine so viele Jahre zur Schau getragene Würde verließ ihn
+          keinen Augeublick. Er erklärte dem Lisabethli mit strengen Worten, wenn es nicht ruhig und
+          vernünftig sei, so werde er es in dieser Stunde noch durch den Landjäger verhaften und
+          nach dem Elsaß zurückbringen lassen, denn in Goldwyl habe es jetzt nichts mehr zu thun, da
+          mit seiner Heirath sein Bürgerrecht für immer verloren gegangen.</p>
+        <p>Betänbt stand das Lisabethli da. Weinen konnte es nicht mehr, die Zunge war ihm wie
+          gelähmt, sonst hätte es weiter geflucht und lamentirt. Jetzt aber <pb/>wurde ihm schwach
+          und mechanisch ließ es sich an der Ecke des schweren eichenen Tisches auf die Bank am
+          Feuster nieder. Der Ammaun sah es und zog etwas mildere Saiten auf. Er ging hinaus, holte
+          ein großes Glas Branntwein, schnitt ein Stück Brod ab und stellte es dem Lisabethli
+          vor.</p>
+        <p>„Da, nimm einen Schluck“, sagte er, „und iß, wenn du Hunger hast“.Dann legte er einen
+          blanken Fünfliberthaler auf den Tisch und fuhr fort: „Hier hast Etwas für dein Anskommen;
+          am Besten ist es, du gehst damit wieder in das Elsaß zurück, sie müssen dort für dich
+          sorgen. Wenn du aber um Alles hier bleiben willst, so kannst du vielleicht den Botendienst
+          nach Bern wieder versehen, wie früher; ich will dafür reden. Aber sobald ich höre, daß du
+          das Maul wider mich aufreißest, so fahre ich mit dir auf eine Art ab, daß du daran
+          denkst.“ Das war Lisabethli's Willkomm beim Ammann in Goldwyl.</p>
+        <p>Es hatte darauf ein Unterkommen gefunden bei Benzli's Pflegeeltern am Wald,die
+          mitleidiger waren, als der Vetter Ammann. Und nun besorgte es wieder zwei Mal in der Woche
+          den Botendienst nach Bern, um seinen Unterhalt zu verdienen.Aber du lieber Himmel, was war
+          das für ein Leben! Ich will einen Schleier ziehen darüber und nur erzählen, was zum
+          Verständniß dieser Geschichte durchaus nothwendig ist.</p>
+        <p>Es war an einem Markttag Abend, als der Waldbenz von Bern her dem Thale von Goldwyl
+          zuwanderte. Seine Gedanken waren umflort, wie der Himmel,der sich langsam zum Regnen
+          anschickte. Links und rechts standen die Bäume und das Gras matt und verstaubt an den
+          Straßen; eine drückende Hitze hatte heut auf dem Lande gebrütet. Kein Wunder, daß die
+          heimkehrenden Marktleute an jedem Orte, durch den sie kamen, wieder Halt machten, um den
+          brennenden Durst mit einem neuen Trunk zu löschen. Eine halbe Stunde von Goldwyl entfernt
+          liegt ein Wirthshaus an der Straße, dem jetzt auch der müde Benz mit immer kürzer
+          werdenden Schritten zusteuerte. Es ging lustig zu da drinnen, denn von ferne schon hörte
+          man Gesang, Gläserklang und wieherndes Gelächter. Benz trat in die große Stube, wo mehrere
+          Gruppen von Landleuten unter allerlei Gesprächen an oerschiedenen Tischen sich gütlich
+          thaten. Er setzte sich zu hinterst in eine Ecke, aus welcher er die ganze Herrlichkeit
+          überschauen konnte. Der Mittelpunkt der schönen Unterhaltung dieser Gäste war ein
+          Weibsbild, dem einige Bauern Schnapps zahlten, indem sie es beständig zum Singen
+          aufforderten und sich dabei listig mit den Augen zubltnzelten. „Nimm umme, sagte der Eine,
+          „Mach' us“, der Andere und „Du mast no eis“ der Dritte. Das Weib hatte ein rothes, aber
+          verschrumpftes Gesicht, wie eine Birne im Winter; in seinem Ransch machte es ganz
+          lächerliche, unbeholfene Bewegungen und wenn es nicht sang und dazn wie in tändelndem
+          Blödsinn tanzte, stierte es mit glanzlosen Augen träumend in die Stube hinaus. Plötzlich
+          schienen finstere Bilder in ihm aufzutanchen, denen es in <pb n="18"/>bösen, affenartigen
+          Grimassen Ausdruck gab; da sagte Einer der mit ihm Zechenden: „Jetzt mußt du noch die
+          Geschichte vom Goldwyler Ammann erzählen!“Und die Züge des Weibes erheiterten sich wieder,
+          aber nicht vor Freude, sondern wie von einem Rachestrahl; es schüttete in einem Zug ein
+          großes Glas hinunter,dann fing es an zu singen und zu jauchzen und zu tanzen, und zwischen
+          hinein antwortete es auf alle Fragen der Banern, schimpfte über den „Vetter Ammann“und
+          rühmte sich in ausführlicher Schilderung frohlockend seiner Schande. Was thut der Mensch,
+          wenn er im Schmutze des Lebeuns versunken ist? Jetzt erst erkannte Benz seine Mutter und
+          vernahm zum ersten Mal mit einem innern Schander das Geheimniß seiner eigenen Herkunft! </p>
+        <p>Der Waldbenz sah auf diese Menschen hin wie ein Wolf aus dem Gebüsch auf eine Heerde
+          weidender Ziegen glotzt. Plötzlich sagte einer der ausgelassenen Kerle, er glaube beim
+          Douner, das dort sei der Waldbenz; die Augen und Statur habe er, der Bart verstelle ihn,
+          aber er sei es sicherlich. Unter diesen Umständen fand die Gesellschaft für gut
+          aufzubrechen; ein paar Minnten und die Gäste waren sämmtlich wie im Wind zerstoben. Ich
+          will nicht erzählen, wie Mutter und Sohn, nachdem das Lisabethli in der Nebenstube seinen
+          Dusel etwas ausgeschlafen,einander sich vorstellten und dann erst bei dunkler Nacht und
+          bei strömendem Regen in der schmutzigen Hütte am Waldrand mit einander anlangten. </p>
+        <p>Anderthalb Jahre waren seit diesem Wiederfinden vorübergegangen. Benz war zu seiner
+          Mutter gezogen. Er hatte auf dem Schiff, mit dem er nach Europa zurückgekehrt, Arbeit
+          gefunden, indem mehrere Matrosen nacheinander an einem tückischen Fieber starben; so hatte
+          ihn die Reise nicht viel gekostet und er brachte noch mehr als achtzig Dukaten in seinem
+          Beutel heim. Da nun der Tauner am Wald aus seinem durch Arbeit und Sparsamkeit erübrigten
+          Vermögen auf einer andern Seite der Gemeinde ein kleines Heimwesen kaufte, so überließ er
+          dem Benz und seiner Mutter für das Geld, das jener noch besaß, die alte, baufällige Hütte
+          sammt einem kleinen Stück Feld, welches aber nicht ausreichte, die Beiden zu ernähren.
+          Indessen rief doch der eigene Kochtopf auch in ihrer Brust ein ächtes Heimatsgefühl
+          wach.Benz ging daueben in's Tagwerk, Lisabethli besorgte seinen Botendienst nach Bern,und
+          man mußte ihm nachsagen, daß es seit der Rückkehr des Sohnes sich in Acht nahm, allzuarg
+          über die Schnur zu hanen. Die Leute glaubten, es hätte sich gebessert; aber es versäumte
+          nicht, heimlich, so viel es konnte, seinen Begierden zu fröhnen und seine Gelüste zu
+          befriedigen.</p>
+        <p>Nun kam aber ein für die Landwirthschaft ganz gefehltes, höchst unfruchtbares Jahr. Ueber
+          den Herbst gab es für Benz wenig zu thun und im Winter stiegen die Kornpreise so hoch, daß
+          das Brod für arme Leute kaum mehr zu erschwingen war. Mehrfach half der Peter ans der
+          Moosrüti seinem Freund ans der bittersten Noth. Aber eines Tages sagte er zu ihm: „Du bist
+          ein Narr, wenn du dich schämst.<pb/></p>
+      </div>
+      <div type="chapter">
+        <head>— 19 —</head>
+        <p> 19 eiumal mit dem Ammann ein Wort zu reden und ihn, der durch seinen Kornhandel
+          Hunderttausende verdient, um rechtschaffene Hülfe anzusprechen. Er ist dein Vater,das weiß
+          die ganze Welt und du brauchst dir deßwegen keinen Vorwurf zu machen;das ist nun einmal,
+          wie es ist und du kannst es nicht ändern. Halte dem Wucherer nur keck sein Sündenregister
+          vor und du wirst sehen, wenn du recht keck mit ihm redest, so gibt er nach.“</p>
+        <p>Benz grübelte über diesen Worten, wo er ging und stand. Er wurde wortkarger als je und
+          machte viele einsame Gänge; Tage lang war kein freundliches Wort aus hm herauszubringen.
+          Er schlug sich noch ein paar Monate durch; als aber das Elend stieg, da stellte er den
+          „Vetter“ Ammann, als er eines Abends mit gefüllter Geldkatze vom Kornmarkt heimkehrte, in
+          einem vor Goldwyl liegenden Gehölz zur Rede. Was die Beiden mit einander gesprochen, ist
+          nie ganz über Benzen's Lippen gekommen. Es entspann sich zwischen ihnen ein heftiger
+          Wortwechsel, der bald in thätlichen Streit überging, in welchem der Waldbenz den Ammann
+          mit einem dicken Knotenstock erschlug. Von dem Arm der öffentlichen Gerechtigkeit
+          ergriffen, bekannte er ohne weiteres die Unthat, bestritt aber bis zu seinem Ende, daß er
+          den Alten tödtlich habe treffen wollen. Mit einer Stimme Mehrheit wurde er zum Tode
+          durch's Schwert verurtheilt. Das ist die Geschichte vom Waldbenz und seiner Mutter. </p>
+        <p>Alle diese Umstände waren den Bewohnern der Thalgegend, aus welcher der Waldbenz stammte,
+          wohl bekaunt. Ein Theil derselben hatte sich, sei es aus bloßer Neugierde, sei es aus
+          einem gewissen Mitleid, das sich aus dem frühern Zusammensein mit ihm und seiner Mutter
+          herschrieb, schon um Mitternacht aufgemacht, um den Unglücklichen aus dem Leben scheiden
+          zu sehen. Was ich soeben erzählt, bildete den Inhalt ihrer Gespräche. Sie durchgingen die
+          frühere Lage des noch so jungen Verbrechers; Jeder wußte bei dieser Unterhaltung noch
+          etwas Besonderes anzubringen,Jeder auf Etwas aufmerksam zu machen, warum es so habe kommen
+          müssen. Gespaunten Ohres horchten die Andern, welche nach und nach aus den benachbarten
+          Ortschaften sich augeschlossen, und Alle eilten, um die Zeit der Ausführung zum Richtplatz
+          nicht zu verfehlen.</p>
+        <p>Der Gang zum Tode.Als die Marktkarawaue, die sich auf der Straße wie eine Lawine
+          vergrößert hatte, bis auf eine Viertelstunde in die Nähe der Stadt gekommen, wurde sie
+          plötzlich durch ein ans weiter Ferne ihr nachjagendes Fuhrwerk überholt, dessen Räder wie
+          ein nahendes Gewitter donnerten und in ihrem blitzschnellen Ilug eine ganze Staubwolke
+          aufwirbelten. Der Wagen war leer; vorne auf demselben stand ein Mann </p>
+        <p>2 <pb n="20"/>von ungewöhnlicher Größe und Gestalt, der unaufhaltsam sein Roß mit der
+          Peitsche antrieb. Wie ein Wagenleuker aus alter Zeit staud er da droben, wußte aus dem
+          Knäuel der sich drängenden Fuhrwerke geschickt zu entrinnen und links und rechts
+          auszubengen, ohne die eigenen, vom rasenden Lauf erhitzten Achsen zu beschädigen.Seine
+          Kleidung erinnerte an nichts weniger als an das klassische Alterthum, denn er trug einen
+          kurzen Rock von der bei den Berner Bauern so beliebten rothbraunen Naturfarbe, Hosen von
+          demselben Stoff, eine schwarze Weste und einen breitkrämpigen Filzhut. Wie der wilde Jäger
+          Türst jagte er daher. Wer ihn in dem Augenblick, wo er vorüberschoß, genauer betrachtete,
+          der sah, daß seine Seele grollte; die vom Wein gerötheten Augen glühten in einem wilden
+          Feuer und schossen Blicke der Verachtung auf die Menge herab.</p>
+        <p>„Seht“, rief eine Stimme, „das ist der Peter Christen ans der Moosrüti.Der hat auch Eile,
+          um seinen Freund Benz noch einmal zu sehen.“</p>
+        <p>„Ja“, versetzte ein alter Mann mit stechenden, grauen Augen, „es wäre kein Schade, wenn
+          alle beide denselben Weg gingen. Aber was nicht ist, kann noch werden; der Christen ist um
+          keinen Heller besser als der Waldbenz.“</p>
+        <p>Jedensfalls, milderte ein Dritter, sei der Peter auf einem bösen Weg; aber man solle
+          nicht solche Reden führen; es sei an dem einen Unglück schon genng und es lebe Gottlob
+          noch Einer, der den Peter auf eine bessere Bahn bringen könne,wenn es sein müsse.</p>
+        <p>Wenn das möglich gewesen wäre, warfen ein paar redselige Weiber zwischen hinein, so hätte
+          es wohl das Vreneli, seine Frau, am besten gekonnt; aber der Peter sei ein wüster, einen
+          wüstern gebe es nicht. Er sollte sich nur besinnen, wie er das Vreneli bekommen, das würde
+          ihm, wenn er noch einen Funken Ehre im Leib hätte,schon andere Gedanken machen; aber an
+          ihm seien eben Hopfen und Malz verloren,man werde es noch erleben.</p>
+        <p>Manche Weiber haben eine böse Zunge und nehmen es nicht immer genau mit der Wahrheit.
+          Lassen wir darum die Marktleute und sehen wir zu, was aus Peter Christen geworden.</p>
+        <p>Dort an der jenseitigen Höhe des Aarekessels, ans dem sich das stolze Bern mit seinen in
+          der Morgensonne blitzenden Scheiben wie in einem silbernen Pauzer erhebt, sprengt er
+          heruuter. Schon ist er beim neuen Bärengraben angelangt; schon hält er vor dem Stalle des
+          Gasthauses zum Klösterli, wo er gewöhnlich einzukehren pflegt und überläßt einem der
+          Knechte das Geschäft des Ausspannens, das er sonst selber verrichtet, mit dem Befehl, das
+          vom Schweiß triefende Roß abzutrocknen. In einem Nu ist er in der Gaststube; mit ein paar
+          Zůgen stürzt er eben so viele Gläser hinunter. In der nächsten Minnte eilt er mit starken
+          Schritten über die große steinerne Nydeckbrücke. Die Armensünderglocke beginnt eben X
+          länten. Inmitten einer hastenden Menge, die wie ein aufwärtsfließender Strom gegen den
+          Zeitich <pb n="21"/> glockenthurm hin ergießt, dessen Zeiger in diesem Augeunblick auf
+          sechs Uhr stehen,macht sich Peter Christen mit auswärtsgestemmten Armen Bahn. Noch eine
+          Minute und er hat sich durchgedrängt bis zum Käfigthurm; eine zweite, und ihn erwartet ein
+          herzzerreißendes Schanspiel. Eine Abtheilung Militär hält mit Mühe das Volk zurück, das
+          sich von der obern und der untern Stadt her wie zwei Keile in die Straße eingeschoben hat
+          und fortwährend den freigebliebenen Raum noch verkleinert. Schulter an Schulter stehen sie
+          da, dicht gedrängt, die Köpfe streckend; von Sekunde zu Sekunde steigt die Spannung der
+          zusammengelaufenen Massen, die nicht vor, nicht rückwärts können. Die Fenster der Häuser
+          am Bärenplatz und an der Spitalgasse sind in allen Stockwerken von oben bis unten besetzt;
+          hundert Leiber dehnen,R Blicke sind nach dem bewachten Ausgang des Thurmes gerichtet;
+          tansend andere schweifen an den festen Mauern des alterthümlichen Gefängnisses hinauf,
+          dessen wenige, enge Fensterlncken nicht verrathen, was da driunen vorgeht. Endlich
+          vernimmt man von den Vordersten den Ruf: „Sie kommen!“ und durch die Reihen fliegt mit
+          Windeseile das dumpfe Gemurmel: „Sie kommen! Sie kommen!“</p>
+        <p>In diesem Augenblick öffnet sich die Thüre des Staatsgefängnisses, neben welchem Christen
+          Peter verstört sich aufgepflanzt hat. Er will, er muß den unglücklichen Genossen noch
+          einmal. sehen, vielleicht noch sprechen! Aus dem geöffneten pförtlein des Thurmes treten
+          in schwarzer Kleidung, den zweispitzigen Hut auf dem Haupt, den Degen an der Seite, der
+          Amtsstatthalter und zwei höhere Gerichtspersonen sammt den in die Standesfarbe gekleideten
+          Weibeln. Jetzt wankt über die Schwelle ein blasser, bartloser, hochstämmiger Mann, dessen
+          Augen hohl und matt,dessen Gesichtszüge Furchen des Jammers geworden sind. Es ist der
+          Waldbenz;aber Peter Christen erkennt ihn nicht wieder. Die Hände sind ihm mit Stricken
+          gebunden; in Hose und Hemd, baarhaupt und baarfuß tritt er seinen letzten Gang an. In
+          seiner Brust wühlt der Schmerz des Abschiedes. Tief athmet er auf uud scheint im nächsten
+          Augeublick in die Kniee zu sinken, in sich zusammenzubrechen.Mechanisch und wie todt
+          gleitet sein Blick über die Menge hin und wieder zurück,als suchte er etwas Festes, woran
+          er sich in der Angst seiner Seele heften und halten könnte. Da sieht er den Christen an
+          seiner Seite. Diese Entdeckung scheint ihm einigen Halt zu geben. Die Hand kann er ihm
+          nicht reichen, denn sie ist gebunden; aber er blickt ihn mit einem Blick voll grenzenlosen
+          Kummers an und sagt mit einem Ton, der eine ganze Rede aufwiegt, zu ihm: „Leb' wohl,
+          Peter,. ...zum letzten Mal leb' wohl und vergiß meine Mutter nicht!“</p>
+        <p>Christen ist nicht im Stand zu antworten. Das Wort erstirbt ihm in der Kehle. Er hätte
+          dem Benz am liebsten mit einem kräftigen Händedruck gesagt, daß ihm das Herz brenne bei
+          seinem Unglück; aber das ging nicht an. Er, der derbe und sogar bis auf einen gewissen
+          Grad ruchlose Peter Christen hätte weinen mögen <pb n="22"/>wie ein Kind. Sprachlos nickt
+          er darnm auch nur dem bleichen Manne zu mit dem Kopf und macht mit der Rechten eine
+          langsame, fast feierliche Abschiedsbewegung,während er mit der Linken das Schnupftuch
+          sucht, die ungewohnte Rührung zu verbergen. All' das ist das Werk eines Augenblickes.
+          Dicht hinter Benz treten in ihren weißen, steifen Rundkragen die zwei Geistlichen herans,
+          deren traurige Pflicht es ist, den Verurtheilten zum Richtplatz zu begleiten. Sie nehmen
+          den Armen in die Mitte. Eine Abtheilung Militär hat den Paß nach der obern Seite
+          geöffnet;der Zug beginnt. Hinter Benz schreitet der Scharfrichter, das lange Schwert unter
+          dem rothen Mantel verbergend; ihm zur Linken und Rechten seine rohen Gehülfen im blutigen
+          Handwerk. Eine zweite Abtheilung Militär schließt den Zug, während die Masse des Volkes
+          zur Seite und von hinten in unaufhaltsamem Stoße nachdrängt und die ganze Breite der
+          Straße und die Arkaden überfluthet.</p>
+        <p>Hinaus wogt es unter dem dumpfen Klang der Armensünderglocke am Bürgerspital vorüber, wo
+          die Fenster besetzt sind von Gebrechlichen, Invaliden und Leidenden jeder Art, die hier
+          ein rnhiges Asyl gefunden und dadurch vor Noth und Verderben bewahrt geblieben sind.
+          Hinaus geht's durch's obere Thor, von welchem herab die beiden kolossalen Bären mit ihrem
+          wildem, fast hyäuenartigen Ausdruck der Menge grimmig nachfletschen. Die steinernen
+          Bestien haben ja kein fühlendes Herz, keine menschliche Empfindung. In dem Augenblick, wo
+          der „Ausgeführte“ durch's Thor tritt, verstummt der Ton der Glocke. Benz athmet auf; es
+          ist ihm, als ob mit dem schrecklichen Klang die Stimme seines Gewissens schwiege. Vom
+          Brückendamm schaut er einen Momeut links auf den großen Teich hinunter, auf dem ein paar
+          Schwäne rudern, und weiterhin über die tiefliegende Fläche des Hirschengrabens, wo junge
+          Rehe friedlich grasen, stetsfort munter mit ihren kurzen Schweifen wedelnd und bisweilen
+          in kühnem Sprung über den Rasen setzend, dessen erste Gräser sie mit Wohlbehagen Tag um
+          Tag hart am Boden wegätzen. Wehmüthig wendet der Waldbenz seinen Blick ab von dem einsamen
+          Garten der schlanken Thiere, der auf allen Seiten von hohen Mauern umfriedet ist und in
+          dessen idyllischer Tieflage der Jammer und das Elend nicht zu Hanse sind. Sein Paradies
+          ist verloren, oder vielmehr, er hatte nie ein anderes als den Wald, wo er ungebunden dem
+          Gelüsten seiner verwilderten Natur nachhing und dabei sich glücklich fühlte. Vorwärts,
+          vorwärts geht der Zug durch die Villette unter dem prächtigen jungen Laubschmuck der
+          dunklen Kastanien- und der hellen Lindenbäume hin. Alles Leben ist im Hauch dieses
+          Frühlingsmorgens erwacht; die Vögel singen, die Pflanzenwelt sendet süße Düfte zum Himmel
+          empor. Armer Waldbenz! Tränmerisch blöde gleiten deine hohlen Blicke an der lebendigen
+          schönen Gotteswelt vorüber. Du verstehst sie nicht mehr; diese Lebensströme, die von allen
+          Seiten auf dich eindringen, sie stacheln dich nicht auf zum Fluch über die, welche dir das
+          Leben nehmen, ohne es dir gegeben zu haben, denn deine Seele ist schon auf der Flucht
+          begriffen; matt nur kreist das <pb/>Blut in den Adern, wo es bald gerinnen soll! Haben
+          sie's doch selbst gesagt, deine standhaften Tröster, die in der letzten Nacht noch
+          abwechselnd bei dir wachten, daß dein Inneres zerknirscht, deine eherne Kraft gebrochen,
+          dein Mark von der verzehrenden Gluth des Gewissens ausgebraunt und vertrocknet sei; aber
+          sie vermochten nicht, dir Gnade zu erwirken mit jenem Wort: „Ich will nicht den Tod des
+          Sünders, sondern daß er sich bekehre und lebe!“ </p>
+        <p>Eine Viertelstunde anßerhalb der obern Stadt, links von der Straße liegt das
+          Galgenhübeli. Dort hinaus wogt der Zug. Wie eine breite, riesige Schlange wälzt sich die
+          Henkerprozession durch die Villette fort; rechts und links steht eine lebendige Hecke von
+          Zuschauern in unabsehbarer Länge. Verwegene Buben haben sich einen Sitz auf niedrigen
+          Dächern und Bäumen erklommen, von wo herab sie ihre Neugierde mit rohem Geschwätz und
+          frechem Gelächter befriedigen. Denn dort in ihrer Nähe an einer Dornhecke saß ein Weib mit
+          gläsernen Augen und weißer Nase mit einem Schnappsrausch, das mit unsiunigen Geberden die
+          Menge belustigte und von Zeit zu Zeit in sonderbaren Ausrufen sich Luft machte. Einer der
+          dienstthuenden Landjäger wollte es wegführen; es gelang ihm aber nicht. „Mach', daß du
+          fortkommst“, fuhr ihn das Weib an, „du dolders Narr mit deinem gewichsten Schnauz und
+          deinen weißledernen Haudschuhen; ich habe hier Platz so gut wie du in dem Theater.“ In
+          diesem Augenblick kam der Ausgeführte in der Mitte der beiden Geistlichen vorüber. „Adie,
+          Benzli“, schrie jetzt das Weib; „umme nit g'sprengt bei der Hochzeit; fahr langsam, daß
+          der Cholt nit umleert! Grüß mer d'r Vetter Amme n thue-nim eis z'Bscheid, i chumme bald
+          nahe!“ Entsetzt hörten die Umstehenden diese Reden. Der Waldbenz aber sandte ein paar
+          Blicke hinauf voll tödtlichen Jammers; dann brach er zusammen und mußte zum Schaffot
+          getragen werden. Das Weib aber wurde in die Stadt in's Narrenhaus verbracht. Es war das
+          Lisabethli, das ob all seinem Jammer und Elend für immer dem Wahnsinn verfallen war!Ich
+          werfe einen Schleier über die letzten Augenblicke des Waldbenz. Ich will den Leser nicht
+          herausführen zum Galgenhübeli, zu dem traurigen Todeshügel, wo jeder Delinquent vor seinem
+          Ende noch einen Rundblick thun kann auf die Schönheit dieser Welt, um im letzten
+          Augenblick den Stachel der Reue doppelt zu empfinden!</p>
+        <p>Wenn in einer dunklen Nacht die Sturmglocke ertönt, der Ruf des Fenerhorns uns durch Mark
+          und Bein dringt, die Flamme am Himmel emporschlägt und wie ein unersättlicher Drache mit
+          heißer Gier Hof und Hütten verzehrt, dann wird in der Brust der vom Schlaf aufgescheuchten
+          Bewohner die Bruderliebe wach; die Seelen der Hunderte, durch deren Hande der Fenereimer
+          geht, die Herzen der Muthigen,welche die Zurückgebliebenen aus dem Flammentode reißen, die
+          Gemüther Aller, welche bange zitternd aus der Ferne der allmäligen Bezwingung des rasenden
+          Elementes zuschanen, sie werden wie in einem Gluthofen geläutert; der Engel der <pb n="24"
+          /> Barmherzigkeit hat in ihnen jenes Feuer angefacht, welches Zeugniß gibt von der höhern
+          Natur des Menschen, jene Liebe, welche erst die Erfüllung des Gesetzes ist.Macht
+          vielleicht das Schauspiel einer Hinrichtung auf die um den Rabenstein versammelte Menge
+          einen ähnlichen Eindruck? Der Leser wird die Autwort auf diese Frage in den folgenden
+          Betrachtungen über die Todesstrafe finden. </p>
+        <p>Eine Standrede auf den Henker.Die Todesstrafe hat nach meiner Ueberzeugung für den
+          Schweizer nur noch eine Berechtigung in der Geschichte, keineswegs aber besitzt sie eine
+          solche für die Gegenwart oder Zukuuft unseres öffentlichen Lebens.</p>
+        <p>Eine der Grundsäulen des geordneten Staates ist das Recht. Durch das Recht wird die
+          natürliche Freiheit des einzelnen Menschen beschränkt und damit die Wohlfahrt Aller
+          bezweckt und gesichert. Die Freiheit der Einzelnen ist im geordneten Staate keineswegs
+          unendlich und unbegrenzt; ich darf nicht thun,was ich nur immer will, denn ich bin nicht
+          allein in der Welt, ich bin in der Mitte der Uebrigen. Wohl hat Jeder das unbedingte Recht
+          seiner Exristenz;ich habe das Recht, mich so auszuleben, wie mich die Natur gebildet hat
+          und die in mir liegenden eigenthümlichen Gaben und Fähigkeiten zur Geltung zu bringen,denn
+          darin finde ich das wahre Glück; aber ich erfahre sofort und muß bedenken, daß jeder
+          Audere das gleiche Recht hat, wie ich, und wenn ich mit den Uebrigen leben will, so kann
+          ich das (so sagt mir meine Vernunft) nicht anders,als wenn ich anerkenne, daß auch alle
+          übrigen Menschen das Recht haben zu existiren,ein Jeder in seiner Weise. Aus dieser
+          Anerkennung fließt die Idee der Gerechtigkeit. Ich habe das Recht zu leben, aber ich habe
+          auch die Pflicht, den Andern leben zu lassen; ich darf ihn nicht beeinträchtigen, nicht
+          schädigen, nicht verletzen, nicht tödten. Die altrömischen Rechtsbücher sagen darum schön
+          von der Gerechtigkeit (justitia): „Die Gere chtigkeit ist der beharrliche und
+          ununterbrochene Wille, Jedem das Seine zu geben.“</p>
+        <p>Wären wir Menschen nun alle in uns gleich harmonisch gebildet, würden unsere Neigungen,
+          unsere Triebe und Leidenschaften durch ein wohlthätiges Gleichgewicht gebändigt und
+          gezügelt, so würde alle Gerechtigkeit auf Erden leicht erfüllt. Allein wir sind Alle
+          grundverschieden von einander, und wie es nicht zwei Blätter im Walde gibt, die einander
+          völlig gleich wären, so hat es auch nie zwei völlig gleiche Menschen gegeben! Kein Wunder,
+          daß wir, die wir Alle in der Natur unserer Triebe und Leidenschaften, in der Art unserer
+          Gefühle und Gesinnungen, durch <pb n="25"/>Bernf, Lebensstellung, Schicksale und Erziehuug
+          uns so ungleich sind, kein Wunder,sage ich, daß wir uns gegenseitig oft nicht verstehen,
+          kränken, verletzen, beleidigen und beeinträchtigen, kein Wunder, daß unter den Menschen
+          anch das höchste Verbrechen,daß anch der Mord nie ausstirbt, welcher ja eben nur als die
+          schrankenlose Willkür erscheint, die das Recht gewissenlos zur Seite stößt und dadurch zum
+          höchsten Unrecht wird. Es erwächst unter diesen Umständen dem Staate die Pflicht,das Recht
+          zu schützen und das Unrecht zurückzudrängen; er befindet sich im Zustande der Nothwehr und
+          die Selbsterhaltung gebietet ihm, den Schuldigen zu bestrafen. Die Gerechtigkeit wird
+          hergestellt und die sittliche Macht stets auf's Neue proklamirt durch die Strafe. Auf
+          diese Weise ist die Strafgesetzgebung entstanden. Ein jedes Volk hat sie nach seinen
+          Bedürfnissen, Sitten und Zuständen, nach seiner Bildung und politischen Einsicht für sich
+          in's Leben eingeführt.In frühern Zeiten z. B. wurde auf eine ganze Menge von Verbrechen
+          die Todesstrafe gesetzt, während sie für dieselben heute beseitigt ist. Woher kommt das?
+          Daher,weil das, was die Menschen das Recht nennen, nicht ewig sich gleich bleibt. „Alles
+          Verfassungs- und Gesetzesrecht ist geschichtlich eutstanden und deßhalb auch der Wandlung
+          der Geschichte unterworfen. Das Recht hat wohl einen dauernden Charakter,aber keinen
+          Anspruch auf Ewigkeit. Die Politik bestimmt das fortschreitende deben eines jeden Volkes,
+          das der veralteten Regel der Vergangenheit entwachsen ist.“)Bei den Negervölkern im innern
+          Afrika erscheint der Staat heute noch als die oollendete Willkür nach oben und nach unten,
+          indem der Konig, stets vom Scharfrichter begleitet, Rerr über Leben und Eigenthum seiner
+          Unterthanen ist. Der Mensch,wo er erst am Anfang der Civilisation steht, ermangelt eben
+          noch fast ganz der gesellschaftlichen Tugenden. So ist es bei allen Kulturvölkern des
+          Alterthums und der nenern Zeit gewesen: sie haben sich stnfenweise erhoben, und mit ihrer
+          geistigen and sittlichen Erhebung haben sich auch ihre Strafgesetze veredelt und
+          gemildert. Es geschah dies keineswegs durch das strenge Festhalten an der Idee der bloßen
+          Gerechtigkeit, sondern durch die mächtige Eutfaltung eines zweiten, höhern Lebensprinzipes
+          in der Geschichte, durch die Menschenliebe. Nicht selten hat sich gerade an den Opferu der
+          Gerechtigkeit das edle Feuer dieser Liebe entzündet.Im alten Indien wurde diese geistige
+          Revolntion, schon ein halb Jahrtausend vor Christus, durch das siegreiche Auftreten des
+          Buddhismus eingeleitet, bei den Juden durch die religibsen Reformer des Mosaismus, durch
+          die Propheten.</p>
+        <p>Während Moses die Blutrache und selbst die Tödtung einzuschränken sucht, um der
+          sittlichen Rohheit des Volkes so viel Opfer als möglich zu entreißen, verkündigen die
+          Propheten ihrerseits bereits die Morgenröthe einer anbrechenden neuen Weltanschauung.
+          „Aug' um Auge, Zahn um Zahn“, hieß es allerdings in der mosaischen 1 J. C.Bluntschli.
+          Politik als Wissenschaft. J. G. Cotta, 1876 po. 24 ff <pb n="26"/>Gesetzgebung und „Wer
+          Menscheublut vergießt, dessen Blut soll (auf Fügung Gottes?)wieder durch Menschen
+          vergossen werden“, der Prophet Hesekiel aber verkündet:„So wahr ich lebe, spricht Gott,
+          der Herr: Ich habe keinen Gefallen am Tode des Gottlosen, sondern daß er sich bekehre und
+          lebe!“ Und ans dem Weisheitsschatze der alttestamentlichen Spruchsammlung (24, 11 und
+          12)tönt das gewichtige Wort zu uns herüber:</p>
+        <p>Rette, die zum Tode geführt werden,</p>
+        <p>Und die zur Richtstatt wanken, o halte sie zurück!</p>
+        <p>Sprächest du: „Siehe, wir kennen den nicht“,</p>
+        <p>Meinst du nicht, der die Herzen wägt, er wird sie kennen,</p>
+        <p>Und der deine Seele geschaffen, er wird sie durchschanen,</p>
+        <p>Und daß Er vergibt dem Menschen nach seinem Thun?!“) </p>
+        <p>Der Stifter des Christenthums spricht sich in der Bergpredigt wie in der Geschichte von
+          der Ehebrecherin (Joh. 8) gegen die Todesstrafe aus. Die älteste christliche Kirche war
+          derselben drei Jahrhunderte lang feindlich gesinnt; war ihr doch Christus selber und so
+          viele seiner Bekenner erlegen! Arbogast, der erste Bischof von Straßburg, ließ sich unter
+          dem Galgen begraben, um dadurch sowohl seinen Abscheu vor der blutigen menschlichen
+          Gerechtigkeit und sein inniges Mitleid mit ihren Opfern auszudrücken, als auch um den
+          Abgrund ausznfüllen, der im Volksbewußtsein den „ehrlichen“ Menschen vom „nuehrlichen“
+          trennt!!?“)Erst der religiöse Fanatismus verband sich mit dem Henker, um gemeinschaftlich
+          mit dem Staat die „Ketzer“ auszurotten. Papst Nikolaus J. beglückwünscht die Kaiserin
+          Theodora, daß sie 100,000 der „ketzerisch“ gesinnten Paulicianer gekreuzigt,enthauptet und
+          ersäuft habe. Ju dem von Innocenz gegen die Albigenser ausgeschriebenen Kreuzzug gingen
+          wohl eine Million Menschen zu Grunde! Und in diese Zustände hinein brachte die Reformation
+          keine Besserung. Wenn Luther die dentschen Fürsten im Bauernkriege ermahnt, die
+          aufrührerischen Bauern wie tolle Hunde todtzuschlagen und meint, ein guter Christ müßte
+          sich nicht scheuen,in Ermanglung eines Scharfrichters ein Todesurtheil selbst zu
+          vollstrecken, so begreift man, daß von da an eine zweihundertjährige Nacht über das
+          Strafrecht herabsinken konnte. Und was für eine Nacht! Die Freunde der Todesstrafe müssen
+          selber zugeben, daß in dieser Zeit das Schwert der „Gerechtigkeit“ zum ,
+          Mörderbeil“geworden war. „Alle Mörder der ganzen Welt zusammen waren nie so gräßlich als
+          Eine mordende Obrigkeit! Ueber 100.000 Menschenleben haben die Hexenprozesse gekostet. In
+          England wurden unter Heinrich VIII. 72,000, unter Elisabeth (1558 - 1563) 89,000 Menschen
+          hingerichtet. Der Vater des modernen Strafi) Vgl. auch Jesaia 42, 1-7.) A. Bitzius, die
+          Todesstrafe, gekrönte Preisschrift. Berlin, 1870.<pb n="27"/>rechtes, Carpzow, hat in den
+          Jahren 1620 1666 angeblich 20,000 Todesurtheile unterzeichnet. Dabei war die Todesstrafe
+          geschärft durch alle möglichen Gransamkeiten, welche eine verthierte Phantasie nur
+          erfinden kann. Und erst die blutigen Ausschreitungen der französischen Revolution! Von
+          diesen Flammen des Schreckens ist die edle Begeisternug angefacht worden, welche für die
+          Menschenrechte in die Schranken trat und die Abschaffung der Todesstrafe verlangte, weil
+          sie keine Berechtigung habe.“)</p>
+        <p>In der That, nicht die Kirche, sondern der Humanismus, die Apostel der Menschenrechte,
+          die Vertheidiger der Menschenwürde haben uns bessere Zustände zebracht! Und unter diesen
+          finden wir (abgesehen von berühmten Kriminalisten wie Henke, Zöpfl, Köstlin, Holtzeundorf,
+          Glaser, Berner u. A.) die Namen eines Voltaire,Beccaria, Herder, Fichte, Schleiermacher,
+          Lamartine und Viktor Hugo!</p>
+        <p>Nein, nicht bloß ein paar Gelehrte sind es, nicht bloß einige von Hallucinationen
+          befallene Schwärmer, wie gewisse Freunde der Todesstrafe in ihrer abgestandenen
+          Kathederweisheit gerne glauben machen möchten, sondern schöpferische Genien ihres
+          Jahrhunderts sind es, Die edelsten Freunde und Fortbildner der Menschheit waren es, welche
+          von ihrem Zeitalter die Abschaffung der Todesstrafe gefordert und bis jetzt auch
+          theilweise erlangt haben! </p>
+        <p>Nicht bloß kleinere Staaten wie Portugal, Holland, Rumänien, die Schweiz (im Jahr 1874)
+          Toskana, Louisiana, Rhode-Island und Otahaiti, sondern auch Oesterreich unter Joseph II.
+          (1787) und die beiden großen, aus dem allgemeinen Stimmrecht hervorgegangenen deutschen
+          Parlamente zu Frankfurt und Berlin haben gleichzeitig (am 4. Angust 1848) ersteres mit 288
+          gegen 146, letzteres sogar mit 294 gegen 27 Stimmen die Todesstrafe aufgehoben. In
+          Oesterreich wurde sie mit dem Umschwung der politischen Verhältnisse im Jahr 1795, in
+          Deutschland 1870 mit 127 gegen 119 Stimmen wieder eingeführt, weil man von oben
+          erklärte,das neue milder Strafgesetz würde nicht sanktionirt, wenn der Reichstag die
+          Todesstrafe streiche. Und dennoch, trotz dieser Wiederherstellung, ist in Preußen (und
+          ebenso in andern Ländern, welche die Todesstrafe haben) von 1873-1877 die Zahl der
+          Vergehen und Verbrechen um 40 Prozent gestiegen!! Gibt es einen schlagenderen Beweis
+          dafür, daß die Zunahme der Verbrecher nicht vom Vorhandensein der Todesstrafe abhange? </p>
+        <p>Es kann gar kein Zweifel darüber herrschen, daß die Abschaffung der Todes-strafe ein
+          sittlicher und politischer Fortschritt in unserer Zeit ist. Im Laufe der Geschichte hat
+          sich eben vielfach gezeigt, daß die „Gerechtigkeit“ dem Einzelnen nie ganz gerecht worden
+          ist, ja sich häufig in ihr Gegentheil verkehrt hat. Das allgemeine Wohlwollen, „die Liebe
+          erst ist des Gesetzes Erfüllung“. Diese reale Macht hat schon bei den Römern das Recht des
+          Einzelnen (brivatrecht)</p>
+        <p>9 Freufer. Bericht der Mehrheit der ständeräthlichen Kommission. Schaffhausen, C. Schoch,
+            1879.<pb n="28"/>ungemein erweitert, und der Zug der modernen Welt geht völlig dahin,
+          den Einzelnen so frei als möglich zu machen und ihm alle Rechte zu gewähren, die sein Wohl
+          fördern. Es ist anzuerkennen, daß diese Strömung längst sich auch auf dem Gebiete der
+          Strafgesetzgebung gelteud gemacht hat, so daß heute die Todesstrafe von ihren
+          Vertheidigern nur mehr noch für den mit Vorbedacht ausgeführten Mord gefordert wird. Wenn
+          der Verbrecher der Stimme der Leidenschaft folgt und nicht der Stimme der Vernunft, so ist
+          das, vom Standpunkt der Gerechtigkeit aus angesehen, seine Schuld; aber wenn die Stimme
+          der Leidenschaft bei ihm stärker ist, als die der Vernunft, so ist das vom Standpunkt der
+          Menschenliebe aus betrachtet, nur zu oft Unsere Schnld, die Schuld der Eltern, der
+          Gemeinde, des Staates! Sollte dies weniger der Fall sein bei Dem, der mit Vorbedacht
+          mordet? Ich glanbe, es gibt auch einen Wahnsinn der Vernunft, der sogar epidemisch und mit
+          dämonischer Gewalt auftritt; man denke an den Wahnwitz der römischen Cäsaren, der ebenso
+          mit raffinirter Lust wie mit kaltem Blute mordet,an die sogenannten Diener der
+          Gerechtigkeit bei der Inquisition und den Hexenprozessen und an ihre blutigen Hekatomben
+          und Scheiterhaufen, an den obenerwähnten Inristen Carpzow! Wenn dem so ist, so hält es
+          schwer, zwischen dem mit Vorbedacht vollführten und dem im Affekt begangenen Mord noch
+          eine Grenze aufzustellen und man kommt dazu, auch für den Mörder der ersten Art' als
+          Strafe nicht den Tod, sondern nur die Entziehung der Freiheit, nur lebenslängliches
+          Gefängniß zu fordern. Außerdem sagt uns ja ein unabweisbares inneres Gefühl,daß die
+          Menschenwürde auch im Verbrecher anerkannt werden soll, daß das Menschenleben etwas
+          Heiliges und Unverletzliches ist und nur für einen heiligen Zweck,wie z. B. die
+          Vertheidigung des Vaterlandes, die Aufopfernng für einen geliebten Menschen, die Rettung
+          eines mit dem Tode Ringenden ist, in die Schanze geschlagen werden darf. Wer in der Welt
+          glaubt, mit einer so schrankenlosen Willkür handeln zu dürfen, als ob er allein da sei,
+          den trifft die völlig adäquate Strafe,daß er isolirt, d. h. allein in die Einsamkeit, in
+          Einzelhaft gesetzt wird. Die Todesstrafe dagegen ist ungerecht, weil sie die ganze
+          Existenz des Verbrechers vernichtet; sie überschreitet die Pflicht der Nothwehr und sie
+          ist überdies nicht vernünftig, weil sie den Zweck der Strafe, die Besserung,
+          abschneidet.</p>
+        <p>Aus solchen und ähnlichen Gründen hat man am 19. April 1874 auch bei nus die Todesstrafe
+          abgeschafft. Ihre Abschaffung aber ist zu allen Zeiten die Probe für ein Volk, ob seine
+          Knltur wirklich auf der Achtung vor dem Menschen als solchem beruht, auch in dessen
+          niedrigsten und verdorbensten Erscheinung.) Mit 340,000 gegen 198,000 Stimmen hat das
+          Schweizervolk im Jahre 1874 diese Probe in wahrhaft erhebender Weise bestanden! Schon
+          früher erklärte unser schweizerische konservative Staatsmann Hr. v. Segesser in Luzern mit
+          auerkennenswerthem l) Dr. C. Hilty, „Ueber die Wiedereinführung der Todesstrafe“. Bern.
+          Otto Kaäser. 1879.<pb/>Freimuth: „Ich bin im Grundsatz Geguer der Todesstrafe; ich glaube
+          nicht, daß Gott dem Menschen das Recht über das Leben seiner Nebenmenschen gegeben
+          hat.Indem wir alle Berechtigung der Obrigkeit vom Volke ableiten, können wir noch weniger
+          eine Berechtigung über das Leben eines Menschen in Anspruch nehmen, als Diejenigen, welche
+          ihre Gewalt unmittelbar von Gottes Gnade ableiten.“!)Diese gewichtigen Worte bernhen
+          durchaus auf der Ansicht, daß jeder einzelne Mensch irgendwie das Produkt der Gesammtheit
+          ausmacht und daß das Verbrechen die Eiterbenle ist am Koörper des Volkes und der
+          Gesellschaft, die man nicht abschneiden,sondern abdorren lassen soll; sie beruhen auf der
+          richtigen Wahrnehmung, daß Blut ein eigener Saft ist, und daß Wolf und Hyäne nur um so
+          durstiger werden, je mehr sie davon saufen! </p>
+        <p>Es ist leider eine Thatsache, daß die gegenwärtige Agitation zu Gunsten der Todesstrafe
+          viel Schlamm mit sich führt; als Triebfedern machen sich vielfach gemeine Rachsucht und
+          abstoßende Rohheit geltend! Wenn solche Ausbrüche jetzt schon vorhanden sind, hofft man
+          sie vielleicht durch die Wiedereinführung der Todesstrafe zurückzndämmen,?? Glaubt man
+          diese Dünste der Grausamkeit durch die Sonne der „öffentlichen Gerechtigkeit“ zu
+          vertreiben? Werden erneuerte Hinrichtungsscenen, die man dem Volke von Zeit zu Zeit
+          bereitet, seine Sitten bessern? O nein; traurige Widersprüche, traurige Leidenschaften
+          sind es nur, die durch solche Exekutionen im Herzen der Menge sich enthüllen! Stirbt das
+          Opfer fest und kühn, so ermuthigt es die Schlechten und bestärkt sie in ihrem Thun. Ist es
+          niedergeschlagen, aufgelöst,in Thränen gebadet, so erweicht sein Zustand die Herzen der
+          Guten, die ihm nicht helfen können. Steht es kalt und fühllos vor dem zu erwartenden
+          Streich, so zerstört der Ausdruck seiner Züge die Lehren, welche sein Tod der Welt hätte
+          geben können.Ist der Verurtheilte reuig, ruft er das göttliche Erbarmen an und erblickt er
+          im Henker gewissermaßen nur den schrecklichen Priester, der mit dem Opfermesser vor dem
+          Blutaltar ihm die Thüre des Himmels öffnet, dann erscheint das Gesetz, das diesen Tod
+          fordert, als eine brutale Gewalt, als ein Fluch, den das Andenken an das Kreuz auf
+          Golgatha längst hätte verbannen sollen, namentlich aber hinwegnehmen soll in einer Zeit,
+          wo man das Hauptgewicht der Religion (völlig im ursprünglichen Geiste des Christenthums)
+          nicht mehr in der Phrase von der stellvertretenden Genngthuung, sondern allein wieder in
+          der sittlichen Erhebung des Herzens sucht!!Darum fort mit dem Henker, fort mit jenen
+          blutigen Bildern, die uns mit ihrer Scheußlichkeit selbst bis in unsere Träume hinein
+          verfolgen. Fort mit diesen Schanstücken, mit diesen kannibalischen Festen, von denen
+          Einzelne mit dem Dolch in der Faust sich wegschleichen, um ihn im Blut eines neuen Opfers
+          zu röthen und </p>
+        <p>9 Bundesrevisionsdebatte vom 20. Dez. 1871. Hr. Segesser sprach sich sogar gegen die
+          Beibehaltung der Todesstrafe im Militärstrafgesetz aus. <pb/></p>
+      </div>
+      <div type="chapter">
+        <head>30 —</head>
+        <p>30 wo Weiber, schwache Weiber nur zu oft schon die Manie zum Tödten empfangen haben, ohne
+          es zu wissen und gegen den Willen ihres eigenes Herzens! Die Freiheit eines
+          republikanischen Volkes bedarf zu ihrem Schutze nicht des Henkerbeiles, sondern unr der
+          bessernden Gerechtigkeit an der Hand der verzeihenden Bruderliebe!</p>
+        <p>Die Todesstrafe schreckt nicht ab, sie bessert nicht, sie sichert nicht und vermindert
+          die Verbrechen nicht; dagegen hat sie in ihrem Gefolge zu allen Zeiten eine Menge von
+          Justizmorden gehabt (in manchen Fällen ist ja nicht einmal das Geständniß eine absolnte
+          Garantie für die Schuld und daher für die Richtigkeit des Todesurtheils), sie widerspricht
+          dem wahren Christenthum, sie ist das Prodnkt eines überwundenen Kulturstandpunktes, einer
+          überwundeuen Weltanschauung, welche mit unserer ganzen jetzigen, im Jahr 1874 vom
+          Schweizervolke angenommenen Bundesverfassung im Widerspruche steht. „Es ist durchaus keine
+          Nothwendigkeit weder für das Rechtsbewußtsein des Volkes, noch für die Wohlfahrt des
+          Staates, sie wieder einzuführen.“ </p>
+        <p>Darum wenn ich eine Kanzel hätte, so hoch wie der Moutblauc, und man könnte mich
+          verstehen auf allen Bergen und Hochebenen und drunten im Thal in allen Gauen, an den Ufern
+          der Flüsse, die wie Silberbänder sich durch's Land ziehen und an den Gestaden der Seen, in
+          denen unsere Jugend sich badet, um gesund und stark zu werden an Leib nud Seele, so würde
+          ich rufen: Mein liebes Schweizervolk,verwirf das blutige Geschenk, das man dir hente im
+          Namen der Gerechtigkeit und der Religion wieder anbietet. Fordere von deinen Räthen ein
+          einheitliches Strafgesetz mit kantonaler Rechtsprechung; verbessere deine Zuchthäuser so,
+          daß sie nicht erst recht eigentlich zu Hochschulen des Verbrechens werden; beschränke den
+          übermäßigen Genuß des Alkohol's; hege und pflege das Gemüthsleben in deinen Kindern;
+          überwache die öffentlichen Schaustellungen und literarischen Produkte, die deine Seele
+          vergiften; verurtheile den Festschwindel mit seinen hohlen und leeren Phrasen, aber stelle
+          den großen Staatsgedanken einer regenerirten Eidgenossenschaft nicht dadurch auf den Kopf,
+          daß du den Henker wieder anstellst und sein rostiges Richtschwert,das bereits eine
+          historische Antiquität geworden, wieder blank fegen lässest! Fort mit der Todesstrafe,
+          fort mit dem Henker!! </p>
+        <p>Irrfahrten.Die Schaaren, welche hinausgeströmt waren, um Benzens Tod mitanzusehen,hatten
+          sich nach Beendigung der üblichen Standrede wieder gegen die Stadt zu ergossen und sich im
+          lärmenden Marktgetümmel verloren. Man schien diese Zu<pb n="31"/>schauer unter der übrigen
+          Menge fast herausfinden zu können; ein düsteres Sinnen,fast wie eine geistige Betäubung,
+          machte sich auf ihrer Stirne sichtbar und des Erzählens und Händeverwerfens bei ihren
+          Bekannten und Verwandten, die zu spät gekommen, war kein Ende. Hunderte nahmen heute vor
+          der Zeit eine tüchtige Herzensstärkung im Wirthshaus zu sich, um wieder in's Geleise zu
+          kommen, das wüste Bild aus der Seele zu verscheuchen und dann wieder ihren gewöhnlichen
+          Geschäften sich zuzuwenden. Manchem gelang es aber nicht so leicht und dem Peter Christen
+          glückte es den ganzen Tag nicht, aus seinem innern Sturm herauszukommen.Er hatte kaum den
+          alten Christoffelthurm im Rücken, als er der ersten besten Pinte an der Spitalgasse
+          zusteuerte. Hier war schon Alles Leben und Bewegung.Die Wirthin schoß hin und her wie ein
+          Hummel, trieb das Roseli, die etwas schläfrige Kellnerin an, das dampfende Erbsmues und
+          die Portionen schneller zu bringen und schimpfte über ihren Mann, der auch hinausgegangen
+          sei, während sie doch alle Hände voll zu thun habe. Es könnte ihr eigentlich gleich sein,
+          weun alle Tage eine Hinrichtung wäre, die Welt würde dann hoffentlich bald etwas
+          besser,wenn man das schlechte Gesindel mit Extrapost in die Ewigkeit hinüberschickte.
+          Unterdessen hätten die Wirthe auch Etwas zu verdienen; es seien jetzt mehr als fünfhundert
+          Wirthschaften in der Stadt und da sähe es manchmal in so einer Stube leer genug aus, wenn
+          nichts Besonderes vorfiele in der Welt. Aber gerade eine Hinrichtung sei für das
+          Bauernvolk wie eine Predigt. Nachher möge man auch Etwas essen? so Etwas mache halt
+          Appetit und nachher vertrage man das Trinken auch eher.Christen hatte sich bei diesen
+          Reden der Wirthin unwirsch in eine Ecke gesetzt und übersah mit einem tauben Blick die
+          frühzeitige Kundsame. Er hatte einen Schoppen Rothen befohlen; als ihn das Roseli brachte,
+          schnauzte er es an: „Ig suufe hüt kei rothe; gät mer wiiße.“ Es war ihm öde und leer um's
+          Herz, darum folgte er dem Beispiel anderer Gäste und verlangte eine Portion „Voressen.“
+          Aber er zwang es mit Mühe hinunter. Es war ihm, als ob er ein Stück von dem Leibe des
+          Waldbenz unter den Zähnen hätte; es grauste ihm ordentlich, so daß er die Hälfte unberührt
+          liegen ließ und nur auf die Gespräche der Andern horchte. Männer,Weiber und Kinder saßen
+          in bunten Gruppen da, um sich von dem Schreckensanblick zu erholen. Jedes von ihnen hatte
+          etwas Besonderes zu erzählen, und sie thaten es in reichlichem Maße, die Einen mitleidig,
+          die Andern lieblos und mit Hohn. Das konnte Christen nicht leiden. Es war ihm, als ob ihn
+          eine Natter stäche; mit weithinherrschender Stimme schoß er heraus: Das sei denn notabene
+          eine Sünde und eine Schande, daß man den Benz nicht begnadigt habe; es sei schon Mancher
+          begnadigt worden, der an einem einzigen Haar schlechter gewesen,aus Benz am ganzen Leibe.
+          Er habe auch den getödteten Ammann gekannt, der <pb n="32"/>am Ende, nachdem er die Banern
+          lange genug geschunden und betrogen, sich bloß noch auf das Ankaufen von Frucht verlegt
+          und damit ein Sündengeld erworben habe. Es sei eigentlich nicht Schade um so Einen, der
+          den Leuten das Brod noch vor'm Mund um die Hälfte vertheure. Um den Benz aber thue es ihm
+          leid;er habe ihn notabene ganz gut gekannt; wäre er im Großeu Rathe gesessen, er hätte
+          doch beim Donner sehen wollen, ob er nicht dem Benz das Leben gerettet hätte!In dieser
+          Weise unterhielt Christen die Pintengäste läuger als eine Stunde.Endlich aber machte er es
+          einem Müller zu bunt, der ihn denn auch gehörig abtrumpfte. Christen's Gesicht wurde roth
+          und röther; er hatte schon den vierten Schoppen vor sich, seine Augen funkelten, der Grimm
+          fuhr ihm in die Faust und er schlug mit derselben, um sich bei dem Gegner gehörig in
+          Respekt zu setzen,auf den Tisch, daß die Gläser klirrten.</p>
+        <p>Das möchte sie denn aber nicht, fuhr jetzt die Wirthin, nachdem sie dem Ding eine Weile
+          zugesehen, mit gellender Stimme dazwischen, das möchte sie nicht,daß man ihr alle Gäste
+          vertriebe; es könne Jeder denken und glauben, was er wolle, die Gaststube sei für
+          Jedermann da und wenn er Händel suche, so könne er sie draußen auf der Straße ausmachen.
+          Der Müller bestellte jetzt eine Flasche für sich und die Wirthin, blinzelte dieser
+          heimlich mit dem linken Auge zu und lachte auf den Stockzähnen, als sie jetzt noch einmal
+          anfing und darauflosfeuerte, daß es eine Art hatte. Der wie mit kaltem Wasser
+          überschüttete Christen wollte eben sein grobes Geschütz in den Kampf führen, als der Wirth
+          mit einem Trupp Landleuten von der Gasse her eintrat. Da hielt es Christen für gerathener,
+          zu schweigen. Er schluckte seinen Aeger hinunter, zahlte die Zeche und ging hinaus, indem
+          er die Thüre hinter sich zuschlng, daß die Fenster zitterten. Die entschlossene Amazone
+          riß sie aber im Nu wieder auf und sendete dem vertriebenen Feind einen Hagel von
+          Kartätschen nach, so daß selbst ihr Mann sich an den wohlgezielten Schüssen weidlich
+          ergötzte und lachend dem Müller sein Glas zutrank. </p>
+        <p>Draußen war ein Gewirr' und Gewoge von Leuten, daß man kaum durchkam. Es schien heut
+          Alles auf den Beinen zu sein. Christen sah da und dort einen Bekanuten; aber es dänchte
+          ihn, als ob ihn Alle mit sonderbaren Augen ansähen. Als ihn einer fragte: „Bist du in's
+          Leid gekommen, Christen?“ und dabei seine schwarze Weste mit langem Blicke maß, war das
+          Räthsel gelöst. „Ja“,antwortete er kurz und drückte sich weiter durch die Menge. Die Frage
+          hatte indessen in seinem Kopf allerlei Gedanken heraufbeschworen, denen er trüb
+          nachhing.Er hatte absichtlich keine Waare mit sich zu Markte gebracht, um an diesem
+          Unglückstag frei von Geschäften zu sein; jetzt beschloß er, den Tod des Waldbenz dadurch
+          zu ehren, daß er, als der Uebriggebliebene, sich einen tüchtigen Rausch antrinke, was ihm
+          auch das leichteste Mittel schien, sein eigenes, tief aufgeregtes Innere zu be<pb/>täuben.
+          Zur Verwirklichung dieses Vorsatzes hatte er bereits einen ordentlichen Ansatz gemacht,
+          und es konnte ihm am wenigsten an einem Markttag in Bern fehlen, sein Ziel gründlich zu
+          erreichen.</p>
+        <p>So durchwanderte denn Peter die verschiedenen großen Stapelplätze des „Märits“und
+          versäumte nicht, in der Nähe eines jeden, wie ihn der Zufall und sein Gelüste zogen, Etwas
+          auf den Zahn zu nehmen. Er lungerte auf dem Holzmarkt herum,wo sich der Baner und
+          Landarbeiter gewöhnlich seine höhere Wissenschaft holt. Hier,wenn irgendwo, macht er seine
+          fleißigsten Stylübungen, der Eine am Rechenstiel,der Aundere am Hauenstiel. Da wird
+          geprüft, ob keine rauhen Formen sich darin finden, da wird hin- und hergedreht, um zu
+          erfahren, ob Alles kunstgerecht abgerundet und des Preises würdig sei. Christen ließ heute
+          die Rechen und Gabeln stehen; er trank dafür beim „Andres“ einen Schoppen Guten und
+          schickte sich dann an, die unabsehbaren Wagenburgen der Zeughausgasse zu durchbrechen. Es
+          ist bekannt, daß in Bern mehr Rosse zu Markt kommen, als auderwärts Bauern; aber heute war
+          auch gar ein unverschämtes Stoßen und Drängen, und wer noch gar etwas stark geladen hatte,
+          wie der lange Peter, der erhielt weidlich seinen Theil au Püffen und Stößen. Christen
+          drängte ordentlich durch bis gegen die Mitte der Gasse; da war er plötzlich wieder in
+          einer neuen Pinte verschwunden. Schon ging's dem spätern Nachmittage zu. Hundert und
+          Hundert Marktwägelein und Kärrlein verließen stündlich und in allen Richtungen die Stadt.
+          Die Gemüshänd-lerinnen vom Christoffelthurm bis zum Gerechtigkeitsbrunnen hinnnter waren
+          längst mit ihren leeren Körben davon, die fremden Schuhhändler, Grempler und
+          Burgunderhemmlikrämer hatten ihre Barrikaden an der Spitalgasse und auf dem Weibermarkt
+          über dem Stadtbach abgerissen, der Ton der großen Treichlen und der kleinern Kuhglocken
+          wurde nicht mehr probirt, die Göllerkettelistände waren vereinsamt, die Herrlichkeit des
+          Tages war vorüber. Da und dort sah man ein paar Betrunkene sich prügeln oder einen eben
+          ertappten Dieb von dem Polizeidiener anf die Hauptwache geführt; zwischeuhinein krähte der
+          Hahn der Thurmuhr am „Zeitglocken“;der alte Saturn fletschte seine Zähne und schwenkte
+          langsam die Sanduhr, während zu seinen Füßen die drolligen Mutzen mit ihren Hellebarden
+          den von der Kunst des Meisters vorgeschriebenen Umzug hielten. Es war fünf Uhr Abends.
+          Christen hörte den Stundenschlag nicht, denn er saß drüben im Koruhauskeller. Wohl hörte
+          er, wie von den Marktknechten die großen, leeren Kornstanden über dem weiten Keller
+          herumgeworfen und wieder an Ort und Stelle gerückt wurden, daß es in den hohlen Ränmen des
+          gewaltigen unterirdischen Lokales dröhnte wie der dumpfe Donner eines machtvoll
+          anziehenden Gewitters; aber er achtete dieses Zeichen des anbrechenden Feierabends nicht.
+          Er schrie und brüllte sich heiser im Streite mit aier handfesten Burschen, denen er, der
+          hochstämmige Christen, weder an Kraft noch u der Rede mehr gewachsen war und die, als er
+          im höchsten Ausbruch der Trunken</p>
+        <pb n="34"/>
+        <p> D die Treppe hinauftrugen und ihn so lang und breit er war, auf die Straße warfen. Es
+          war ein Höllenspektakel, der Alt und Jung aus der Nähe herbeilockte. Die Männer standen
+          hochathmend da und schnauften vor Wuth. Christen, der wieder auf den Beinen war, fluchte
+          mörderlich; in Lachen erregenden, unbehilflichen Schwenkungen suchte er seinen Hut, der
+          endlich aus der Haud einer robusten Magd mit einem Scheltwort begleitet von der
+          Thüröffnung des Kellers her in die Luft heraufgeflogen kam.Unglücklicher Weise aber
+          gerieth derselbe nicht sofort in Christens ruhigen Besitz.Von der Keßlergasse und dem
+          Zeitglocken her war nämlich in diesem Anugenblick schief über den Kachelimärit der
+          „Tübeler“ gekommen, ringsum mit Kräzen behangen. Er hatte einen guten Tag gehabt; die
+          Taubenkäfige waren leer, er selber war voll geworden. Hinter ihm her wirbelte eine Schaar
+          von Gassenjungen wie ein Heer von losen Vögeln. Unter diese hinein fiel Christens Hut. Das
+          war für die Buben das Signal zu einem erhöhten Ausbruch ihrer Marktlaune. Einer derselben
+          ergriff den Hut unter stürmischem Jauchzen und Zuruf der Andern und warf ihn dem „Tübeler“
+          auf die leeren Kräzen, wo er nun mitten drin saß, wie ein todter Uhn. Jetzt erhob sich
+          unter den Buben ein Heidenlärm, der noch größer wurde, als der „Tübeler“, der ohne Zweifel
+          sich von Seite der ihn verfolgenden Plagegeister im höchsten Maße bedroht glaubte, ganze
+          Wendung gegen seine Peiniger machte und so den Hut dem Publikum auch nach der andern Seite
+          zeigte. Christen entdeckte in diesem Moment den Gegenstand seiner Sehnsucht und schritt
+          langsam und schwankend auf den „Tübeler“ zu, welcher nun in voller Weinseligkeit selber
+          mitlachte, indem er sofort in dem betrunkenen langen Peter einen Blitzableiter für den
+          Muthwillen der Jungen entdeckte. Zu diesen gewendet und mit dem Finger auf Christen
+          zeigend, gurgelte er mit Anstrengung einige Worte hervor, welche den Buben die neue
+          Sachlage klar machen sollte. Aber der Peter ließ nicht mit sich spassen. Er faßte den
+          „Tübeler“ an einer der seitwärts hängenden Taubenkräzen und drehte ihn in einem Ruck
+          herum, so daß der Arme rücklings auf seine Käfige fiel und sich erst nach langen
+          Austrengungen erheben konnte. Christen war wieder im Besitz seines Hutes und hatte sich
+          langsam gegen den Zeitglockenthurm herüber retirirt; unterdessen beschäftigte der
+          „Tübeler“ die Aufmerksamkeit und die Lachlust der Anwesenden und ließ so dem Christen
+          Zeit, unbehindert zu entweichen. In einem Zustande, welcher Keinem der ihm Begegnenden
+          beneidenswerth schien, trat Christen jetzt eine neue Irrfahrt nach verschiedenen
+          abgelegenen Winkeln an, die nicht eiumal den Namen „Kneipen“ mehr verdienen. Hier trug das
+          feile Laster offen seine verbuhlten Reize zur Schau. Christen bezahlte den Anwesenden zu
+          trinken und wäre ohne Zweifel auch sonst noch gehörig ausgebeutet worden, wenn er sich
+          nunr noch ordentlich hätte auf den Beinen halten können. Da er aber mit der Zunge lallte
+          und mit den Füßen gar sonderbare Schneckentänze machte, so entlediate <pb n="35"/> man
+          sich seiner so gut es ging, und er stand überall bald wieder auf der Gasse.Endlich dachte
+          er an die Heimkehr. Er steuerte der nutern Stadt zu, bestärkte sich aber in dem
+          Euntschluß, bevor er über die Brücke schritt, jedenfalls noch ein Glas ächten
+          Erdäpfelbranntwein zu nehmen. Er trat also in eine Stube zu ebener Erde,wo ihm ein
+          sonderbarer Gesang von dünnen, heisern Stimmen entgegenschallte, dessen zweifelhafte,
+          näselnde Töne ihn in seinem Dusel an die alte versunkene Welt der Bergmännchen gemahnte.
+          Als Christen sich vorsichtig und langsam auf einen Stuhl niederließ und mit einem einzigen
+          barschen Wort (denn mehr konnte er nicht hervorbringen) seine Forderung stellte, schaute
+          ihn die dicke Wirthin mit ihrem zinnoberrothen Gesicht zuerst zweifelhaft an; als sie aber
+          mit einem Blick Peters Kleidung gemustert, konnte sie darüber nicht im Zweifel sein, daß
+          sich heute ein Gast von der bessern Sorte zu ihr verirrt habe, und sie holte
+          angenblicklich das Verlangte.Und so war es ja auch; denn im nüchternen Leben hätte sich
+          Christen kaum zu diesen Gästen gezählt, er war ein Ehrenmitglied des Vagautenleistes
+          geworden!Wer kennt sie nicht, diese blutarmen, verlumpten Kerle mit ihren halbsteifen, zur
+          Arbeit nicht mehr tanglichen Gliedern, mit ihren zerrissenen und zerfetzten,
+          buntscheckigen Kleidern, mit ihren struppigen Bärten und blassen Schnappsgesichtern!Genius
+          der Menschheit, gehe trauernd vorüber an diesen brodlosen Ausgestoßenen der menschlichen
+          Gesellschaft! Die ehrenwerthe Bande war vom Kartoffelgeist besessen und in ihrer
+          unbeholfenen Weise eben damit beschäftigt, die Hinrichtung vom heutigen Tag nachzuäffen.
+          Christen hatte sein Glas in einem Znug herunter gestürzt; bald nahm er wenig mehr von der
+          Außenwelt wahr; was um ihn her vorging, das däuchte seiner müden Phantasie vielleicht ein
+          bloßes Schattenspiel an der Wand. Er fühlte ein heftiges Brausen im Kopf; es war ihm
+          einige Minuten, als läge er im Mastkorb eines Schiffes, das von den Wellen bald gegen die
+          Wolken geschleudert, bald in den Grund des Meeres versenkt würde. Jetzt wurde er von einem
+          dumpfen Schlaf übermannt und blieb mit auf die Brust herabgesunkenem Kopf in dieser
+          Stellung wohl zwei Stunden sitzen, ohne von Jemandem belästigt oder gestört zu werden.
+          Sein Gesicht war nicht mehr roth; es war todtenbleich geworden und die Haut wie von einem
+          kalten Duft augehaucht.</p>
+        <p>Die Thurmuhr an der Nydeckkirche schlug eilf Uhr, als Christen ziemlich unsanft
+          aufgeschüttelt wurde. Es war die Wirthin, die jetzt mit ihren Gästen wenig Umstände mehr
+          machte und auch dem Christen ziemlich grob auf's Pflaster half.Der Schlaf hatte ihm gut
+          gethan; er war wieder etwas zu sich selber gekommen und die kühle Nachtluft erfrischte
+          seine Sinne so, daß er wenigstens wußte,was er jetzt zu thun habe. So machte er sich denn
+          über die nutere Brücke dem Klösterli zu, wo Roß und Wagen standen. Der Stallknecht spannte
+          ihm an, sobald er Zeit hatte, half ihm auf den Sitz, drückte ihm das Leitseil in die Hand,
+          zündete noch einmal mit der Laterne um zu sehen. oh Alles in Ordnung sei nud gab <pb
+            n="36"/> schließlich dem betrunkeuen Christen den Rath, ordentlich festzusitzen und
+          immer die Mitte der Straße einzuhalten. Jetzt versetzte der Peter seinem Roß ein paar
+          tüchtige Geiselhiebe und fuhr ab. Das arme Thier hatte zu Mittag auf Befehl seines
+          Meisters nur das halbe Futter erhalten, und als der Knecht beim Eiuspannen fragte,ob er
+          ihm noch etwas geben solle, meinte Christen, er habe heute früh gut gefuttert;es sei nicht
+          nothwendig, sie werden schon heimkommen.</p>
+        <p>Die Heimkehr.Es mochte ungefähr eine Stunde vorüber sein, als das Fuhrwerk mit seinem
+          Inhalt an eine kleine Anhöhe gelangte. Der Boden war hier mit frischem Kies besäet; das
+          Pferd wich deßhalb von der Mitte des Weges ab und schnaufte an der linken Seite hart am
+          Graben der Straße hinanf. Da es nun langsamer und etwas holperig ging, so erwachte
+          Christen, der bisher geschlafen und sich ganz dem nüchternen Verstande seines Thieres
+          auvertraut hatte. „Bestie“, murmelte er, „wart',ich will dich lanfen lehren“ und hieb
+          unbarmherzig auf das Roß ein. Dieses kam aber nicht schneller vorwärts, und so meinte
+          Christen, es fehle etwas an dem Lederzeng oder am linken Wagenrad; vielleicht habe ihm der
+          Stallknecht eine Tücke gespielt, weil er ihm kein Trinkgeld gegeben. Aber in dem
+          Augenblick, wo er sich erhob, schwaukte er, verlor das Gleichgewicht und stürzte köpflings
+          mit einem gewaltigen Plumps in den Graben. Glücklicher Weise hatte er im Fallen das
+          Leitseil losgelassen; das Roß blieb stehen und wieherte, als ob es ein Unglück ahne, hell
+          in die Nacht hinaus. Christen aber blieb bewußtlos liegen und gab kein Zeichen des Lebens
+          mehr von sich. Werfen wir unterdessen einen Blick auf sein bisheriges Leben. </p>
+        <p>Die Moosrüti war ein großer, aber in Abgang gekommener Hof, etwas abwärts von Goldwyl
+          gelegen. Es hatten früher weite Strecken von Wald nud Wiesen, von Ried und Ackerland dazu
+          gehört, aber Peters Vater hatte seine Frau frühe verloren, aus Gram darüber sich nach und
+          nach dem Trunk ergeben und so sein Besitzthuin vernachlässigt. Er behalf sich mit Knechten
+          und Mägden, die ihm seine Sache veruntrenten und während seiner Abwesenheit sich gütlich
+          thaten. Den kleinen Peter, bei dessen Geburt die Mutter gestorben, versorgte der alte
+          Christen bei einer nahen Base, bis er in's zehnte Jahr ging; daun nahm er ihn auf die
+          Moosrüti, wo er neben der Schule in der Gesellschaft von Knechten und Mägden war und in
+          dieser Weise eine bedenkliche Erziehnng erhielt. Er war schon in diesem zarten Alter ein
+          meisterloser Bube, der Niemanden etwas nachfragte, selbst dem </p>
+        <pb n="37"/>
+        <p>Vater nicht, den er übrigens selten zu sehen bekam, denn der war in Geschäften bald da,
+          bald dort. Peterli schoß nach einigen Jahren rasch auf nud war bald kein Peterli mehr,
+          sondern ein langer „styfer“ Bengel. Er fand an Benzli, dessen pflegeeltern in der Nähe der
+          Moosrüti wohnten, ein ihm völlig ebenbürtiges Talent,das ihn nur im Punkte der Frechheit
+          und Tollkühnheit noch übertraf. Die Flegeliahre gingen dem Peter hin, wie sie noch heute
+          Tausenden hingehen. Der junge Bursche lerute rauchen, etwas später wurde er unterwiesen,
+          dann ging es an's Kilten, Spielen und Kegeln, an's Exerziren, Trinken und Tanzen. Als Beuz
+          Handgeld nahm, fühlte der junge Christen sich vereinsamt. Er hatte keinen andern Freund,
+          denn die bessern jungen Bursche hatten sich nie mit ihm einlassen wollen.Jedermann wußte
+          auch, daß auf der Moosrüti bös geschaltet und gewaltet werde,daß es mit der ganzen
+          dortigen Wirthschaft den Krebsgang gehe und daß die besten Grundstücke längst vom
+          Moosrütihof abgelöst und in andern Händen waren. Da fiel eines Tages, es war im Henet, der
+          alte Moosrütibaner von der Henbühne in's Tenn herab. Er hatte zu viel in's Glas geschant,
+          zerquetschte sich durch den Fall die Hirnschale und blieb auf der Stelle todt. Peter
+          grämte sich über den Tod des Vaters gerade nicht besonders; aber er dachte jetzt an's
+          Heirathen. Die amtliche Uutersuchung der Vermögensverhältnisse machte ihm freilich, was
+          seine Ausprüche und Hoffnungen betraf, in diesem Punkt einen gewaltigen Strich durch die
+          Rechunug. Es trat jetzt zu Tage, daß der Moosrütibauer seit vielen Jahren schlecht
+          gewirthschaftet; dem Sohne blieb nichts mehr, als ein ganz kleines Heimwesen, das freilich
+          eine fleißige Bauernfamilie hinreichend ernähren konnte, aber nicht ausreichte zu
+          Bedürfnissen, wie Peter sie sich angewöhnt hatte. Er ging also auf eine reiche Frau ans;
+          aber wo er anklopfte, da mußte er mit lauger Nase wieder abziehen.Das machte ihn eudlich
+          wüthend und er beschloß, sich zu rächen. Geheirathet mußte werden, das war bei ihm ein
+          fester Beschluß, und nun fiel es ihm erst ein, daß ganz in der Nähe der Moosrüti das
+          Moosbrugger-Vreueli wohne, ein Mädchen wie Milch und Blut, freundlich und lentselig, eine
+          ächte blühende Moosrose, aber arm wie eine Kirchenmaus. Peter hatte es zum zweiten und
+          dritten Mal auf dem Tanzboden gesehen, aber immer nur in Begleitung seiner alten Base, bei
+          der es wohnte und die ihm längst durch ein Testament ihr kleines Erbe von ein paar huudert
+          Kronen hatte zusichern lassen. Die Sache hatte aber einen Hacken. Ein
+          hübscher,wohlhabender Bursche aus einer Nachbargemeinde sah das Vreueli gerun, tanzte auch
+          öfter mit ihm, als mit Andern, und das Meitschi hatte, wie es schien, an dem Sämi von der
+          Langenegg nicht minder Gefallen. Peter merkte, daß er auch dies Mal wieder den Kürzern
+          zöge, wenn er unicht außerordentliche Hebel in Bewegung setzte. Da kam ihm denn die
+          Rückkehr des Benz aus Indien wie gewünscht. Es wurde unter ihnen im Geheimen abgemacht,
+          das Vreueli dem Sämi zu verleiden.Der Plan gelang. Das Vreneli wurde in der Meinnug Sämi's
+          durch Ver<pb n="38"/>läumditngen verdächtigt und untergraben; Beuz sorgte dafür, daß die
+          Fäden dieses Lügengewebes hübsch angesponnen wurden und durch allerlei Nebenumstände einen
+          Schein von Wahrheit erhielten. Als das Mädchen weinte und die alte Base schimpfte über die
+          gottlose Welt, vor deren giftigem Stich auch der Beste nicht verschont bleibe, da brachte
+          der lange Peter vorsichtig und ohne mit der Thür in's Haus zu fallen seine Bewerbung an.
+          Es war ein Intriguenstück, wie leider manches gespielt wird; der Schluß davon der, daß
+          Peter heirathete, aber auch, daß bald auskam,wie arg dem Vreneli mitgespielt worden.</p>
+        <p>Dieses hingegen war froh, unter solchen Umständen noch unter die Haube gekommen zu sein;
+          anch liebte es den Peter aufrichtig und war vom besten Willen beseelt, ihm eine tüchtige
+          Hansfrau zu werden und dadurch den Moosrütihof wieder empor zu bringen. Aber als die
+          Flitterwochen zu Ende gingen, da waren auch die schönen Hoffunugen und Träume der jungen
+          Frau zerstoben. Peter arbeitete nicht;er spielte, trank über den Durst, trieb sich an deun
+          Jahrmärkten herum und versprengte sein Geld an den Musterungen und im Militärdienst, wo er
+          den Freigebigen machte; wenn er heimkam, war er unwirsch und taub und wurde erst wieder
+          guter Dinge, wenn er aus irgend einem neuen Anlaß den Moosrütihof im Rücken hatte. Das
+          Vreneli schenkte dem rauhen Mann nach Jahr und Tag ein Mädchen,das schön und wohlgestaltet
+          war, wie es selber; aber der Peter hätte lieber einen Buben gehabt. Das Kind starb und mit
+          ihm Vreneli's einzige Freude auf dieser Welt. Gerne wäre es jetzt wieder in die ärmliche
+          Hütte seiner Base zurückgezogen;aber diese war ja schon ein halbes Jahr nach seiner
+          Hochzeit zur Ruhe gegangen.Es dünkte das Vreneli oft, es möchte zu dem alten, treuen
+          Herzen, das Mutterstelle an ihm vertreten, in den Boden hineinschlüpfen! Peter sah, wie es
+          immer rothgeweinte Augen hatte; aber er besaß keinen Sinn, um den Schmerz zu ermessen,der
+          in der Brust seines Weibes nagte.</p>
+        <p>Nun geschah Etwas, das eine völlige Veränderung in diesen Verhältnissen zu Wege brachte.
+          Peter Christen war auf dem Heimweg von einer Musterung;unterwegs kehrte er mit seinen
+          Kameraden in mehrern Wirthshäusern ein. Der Zufall wollte es, daß an ihrem letzten
+          Rastort, wo es ziemlich lärmend herging,auch der LaugeneggSämi sich einfand. Christen trug
+          einen glühenden Haß gegen ihn im Herzen; denn Sämi war unter den Vieren gewesen, welche
+          ihn aus dem Kornhauskeller heraufgetragen und auf die Straße geworfen hatten. Ohne Zweifel
+          hatte derselbe die Andern dazu aufgehetzt; Christen aber hatte geschworen, es ihm bei der
+          ersten Gelegenheit einzuträuken. So kam es zu Sticheleien, dann als der Wein noch mehr in
+          die Köpfe gestiegen, zu heftigem Wortwechsel, zu wüstem Lärm und Gebrüll und endlich zu
+          einem Handgemenge, worin Christen freilich dies Mal Sieger blieb, aber erst nachdem er dem
+          Sämi sein Messer in den Leib gestoßen, so daß dieser nach wenigen Augenblicken lautlos
+          zusammensank.</p>
+        <pb n="39"/>
+        <p>Die That, im Soldatenkleid begangen, wurde selbigen Tages noch in der ganzen Gegend
+          ruchbar und der lange Peter gefänglich eingezogen. Es wurde ihm in aller Strenge der
+          Prozeß gemacht; das Urtheil ward gefällt, es lautete auf Tod durch's Schwert.</p>
+        <p>Christen saß im Käfigthurm zu Bern wie einst Beuz. Welche Gefühle bemächtigen sich seiner
+          in den Wochen seiner Haft, wenn er durch eine der engen Fensterlucken auf den Bärenplatz,
+          auf die ab- und zugehende Bevölkerung der Hauptstadt, auf das Gewoge eines Markttages
+          hinuntersah! Sein blutiger Tag nahte heran. Christen war fassungslos; im Innersten
+          geknickt und zerschmettert, trat er den letzten Gang an. So wie damals bei der Ausführung
+          des Waldbenz stund jetzt das schaulustige Volk auf Straßen, Bäumen und Dächern. Jetzt
+          hörte er,während er baarfuß, den Strick um die Hände, im Zuge lief, die Glocken
+          ertönen,nicht eine einzige, sondern alle Glocken des Münsters und der Heil.
+          Geistkirche.Sie klangen so dumpf nuud schauerlich, daß ihn eine nie geahnte, namenlose
+          Angst nud Bangigkeit überfiel. Es war, als ob ihn ihr vom Wind getragener Ton mit sich
+          fort durch die Lüfte nehmen wollte, schneller und immer schneller, hinaus zum
+          Galgenhübeli, zum letzten Gebet, zum letzten Augenblick, zum letzten Lebewohl! Die Brust
+          wollte ihm vor Schmerz zerspringen; diese innere Qual schien ihm ein Tod vor dem Tode zu
+          sein. Jetzt betrat er die Richtstätte, jetzt betete er mit verbundenen Augen, jetzt pfiff
+          das Schwert durch die Luft, er empfing den tödtlichen Streich und erwachte! Christen hatte
+          geträumt, sein ganzes verworfenes Leben vorausgeträumt und die Erinnerungen des
+          vergangenen Tages mit den Gebilden seiner Phantasie zusammengeschlungen. Er lag noch immer
+          draußen im Graben an der Straße; Roß und Wagen stunden neben ihm uud das kluge Thier
+          wieherte von Zeit zu Zeit, halb aus Hunger, halb aus Augst in die dunkle Gegend
+          hinaus.</p>
+        <p>Christens Rausch war vorüber; aber eine Todesmattigkeit hatte sich auf seine Glieder
+          gelagert. Er konnte sich nicht regen und bewegen. Jetzt griff er langsam an den Kopf, der
+          ihm wehe that; er fühlte, daß er blutete. Jetzt wollte er eine leise Anstrengung machen,
+          um aufzustehen; aber ein wüthender Schmerz im rechten Bein schnellte ihn angenblicklich
+          wieder in die vorige Lage zurück. Das Merkwürdigste war, daß er immerfort auch im wachen
+          Zustande noch die Glockentöne seines Traumes hörte. Er war deßhalb einen Augenblick im
+          Zweifel mit sich, ob er wirklich wache oder träunme. Endlich ging ihm über diese
+          sonderbare Erscheinung ein Licht auf.Er war bei seinem Sturz an eine Telegraphenstange
+          geworfen worden und lag auch mit dem stark beschädigten Kopf hart an derselben.</p>
+        <p>Nun mußte sich seit einiger Zeit ein leiser Luftzug erhoben haben, der die Drähte der
+          Telegraphenleitung in Schwingung versetzte; der Leser weiß, daß dadurch in der Stange ein
+          vielstimmiges Glockengeläute entsteht, welches oft in völlig harmonischen Töuen sich
+          bewegt und aus der Tiefe des Basses bisweilen zu den sanften </p>
+        <pb n="40"/>
+        <p>Tönen der Aeolsharfe heraufsteigt, je nachdem der Wind in scharfem Zug oder bloß in
+          schmeichelndem Wehen die metall'nen Zungen berührt, welche den Gedanken des Menschen mit
+          der Schnelligkeit des Blitzes in die entlegensten Theile der Erde tragen.Und wie manchmal
+          äußerliche Einwirkungen in unsere Träume hinüberspielen, so hatte Christen das
+          Glockengeläute der Telegraphenstange, unter der er lag, im Tranme vernommen und mit den
+          trüben Bildern seiner erhitzten Einbildungskraft in Eins zusammengewoben. Als er jetzt im
+          Wachen seinen hülflosen Zustaud gewahr wurde,seufzte er tief auf. Ob ihn auch sein Kopf
+          schmerzte und das Bein ihm so wehe that, wie wenn man es mit Messern durchwühlte, eine
+          Zentnerlast war gleichwohl von seinem Herzen gefallen! Er hatte ihn nicht gethan, den
+          uuheilvollen Stoß,er war bewahrt geblieben von der tiefsten Schmach, frei von der Wucht
+          eines zermalmenden Gewissens. Wie dankbar wogte es in seiner Brust! Und horch', jetzt
+          fingen die Glocken in der Stange wieder an zu tönen. Er lauschte ihnen mit Gefühlen, die
+          ihm lange, lauge abhanden gekommen. Obgleich die Nacht feucht und dunkel aus den Bergen
+          quoll und die Sterne sich verhüllten, ihm war's, als wäre es Sonntag, als flöge Lichtglanz
+          um seine Augen, als brauste der Geist des Himmels wie Osterglocken über den stillen See
+          seines Gemüthes, als nickten träumend die Blüthenzweige der Sehnsucht am sonnigen Ufer
+          seiner lächelnden Seele! Dann wieder war es, als vernähme er bloß ein sanftes Abendgeläute
+          aus weiter Ferue,zur Zeit wenn die Sonne verglimmend über den Bergen steht und das braune
+          Rietgras im Thal vergoldet und einen wehmüthigen Scheideblick auf die dämm'rige Erde
+          wirft. Und wieder war es ihm, als grüßten ihn jene Feierklänge, die er einst oernommen,
+          als er zu halten schwur die Gebote Dessen, der vor Zeiten gesprochen:„Ich bin der Weg, die
+          Wahrheit und das Leben.“ Wie Klänge einer bessern Welt zogen diese Töne au Christeus Ohr
+          vorüber und drangen in der Einsamkeit der Nacht tief in sein Herz hinab. Er dachte an das
+          Vreueli, an sein gestorbenes Kind, an Benzens Mutter, an Sämi, an die Erlebnisse des
+          vergangenen Tages, und still weinte er seine Thränen, als ein glühendes Opfer der Reue,
+          als einen sein inneres Leben befruchtenden Than, der bald in der Morgenröthe einer
+          wirklichen Bessernug erglänzen sollte!</p>
+        <p>Läugere Zeit hatte Christen diesen mit Macht auf ihn einstürmenden Gefühlen sich
+          überlassen, als er endlich die letzten Kräfte sammelte, um aus dem Graben zu kommen. Er
+          kroch auf beiden Häuden und dem linken Knie heraus auf die Straße,indem er das rechte Bein
+          unter großen Schmerzen nachschleppte. Endlich gelang es ihm, sich auf das linke Bein zu
+          stellen und mit beiden Armen sich auf den Wagensitz heraufzustemmen. Nach dieser
+          Austrengung sank er vor Erschöpfung zusammen,raffte sich aber von Neuem wieder aunf, um
+          nach einiger Zeit das Leitseil zu ergreifen. Anf seinen schwachen Ruf ging das Roß jetzt
+          bergan; Christen schlug es nicht mehr. Als das Gefährt auf dem Moosrütthof anlangte, stieß
+          der Tag an <pb n="41"/> den Himmel. Christen hatte unterwegs viel gelitten. Er war vor
+          Schmerz bewußtlos in den Wagen zurückgesunken.</p>
+        <p>Vreneli konnte die Nacht über wenig schlafen und war früh vor Tag aufgestanden.Als es das
+          Wägelein langsam heranfahren sah, ahnte es sogleich, daß hier etwas Unrichtiges sei. Mit
+          dem Rufe: „Herr Jesus, es hat ein Unglück gegeben“, weckte es die Magd und das Knechtlein
+          und stürzte voraus, dem Fnuhrwerk entgegen.</p>
+        <p>Ich überlasse dem Leser, die jetzt folgende Scene sich selber auszumalen.Thristen wurde
+          zu Bett gebracht. Er ächzte und stöhnte. Dem Vreneli hatte er die Hand gedrückt und leise
+          zu ihm gesagt: „Vergib mir Alles, wenn du kannst!“Wie wohl thaten ihm diese Worte! Es
+          pflegte ihn auch mit einer rührenden Sorgfalt und Geduld. Angenblicklich hatte es das
+          Knechtlein nach dem Doktor ausgeschickt,der im nächsten Dorf wohnte. Als endlich Beide
+          nach drei langen Stunden anlangten, dieser sich von Christen sein Begebniß erzählen ließ
+          und das Bein untersuchte, zeigte sich's, daß dasselbe doppelt gebrochen war. Der Doktor
+          schüttelte bedenklich den Kopf, und sah mit einem fast vorwurfsvollen Blick auf Peter,
+          denn die Einziehung und der Verband des Beines schienen ihm nach einer mühevollen Stunde
+          nur halbgelungen. Der zu reichliche Weingenuß, die körperlichen Anstrengungen Christens
+          nach dem Bruch und die lange Frist, welche von dieser Zeit an bis zum Verband verstrichen
+          war, hatten bereits eine so heftige Geschwulst, verbunden mit starkem Fieber, erzeugt, daß
+          der Arzt nach zwei Tagen schon dem Vreneli eröffnete, der Brand sei hinzugetreten und es
+          bleibe nichts übrig, als in Gottes Namen das Bein abzunehmen. Das junge Weib rang die
+          Hände und schwamm in Thränen; Christen unterwarf sich muthig der gefährlichen Operation;
+          sein Körper überwand die Qualen,seine gesunde Natur siegte über die tödtliche
+          Erschöpfung.</p>
+        <p>Es waren bittere Stunden, trübe Tage, welche jetzt über die Bewohner des Moosrütihofes
+          hereinbrachen. Vreneli gönnte sich keine Ruhe. Mehr als zwei Mal war Peter dem Tode nahe
+          und wartete es ihm zum Ende. Es härmte sich dabei ab und lebte wieder auf, wenn die
+          Krankheit sich zum Bessern wandte. Es kounte dem Peter Alles thun, denn er war jetzt so
+          sanft und still geworden, wie er nie gewesen. Er sprach mit Vreneli stundenlang von seiner
+          Vergangenheit und der Zuknuft, worin er Alles nachholen und besser machen wolle, was er
+          früher versäumt und gefehlt habe. Aber es ging lange, lange bis der arme Peter wieder
+          aufkam. Die heißen Sommermonate waren endlich vorüber. Und wie im Feld die Erndte gelb
+          geworden im Strahl der heißen Sonne, so ward im Feuer der Geduld und im Schmelztigel der
+          Prüfung anf dem Moosrütihof ein Herz reif, das schon der Fänlniß verfallen schien, aber
+          dazu bestimmt war, noch bessere Früchte zu bringen.Kühler strich der Nachtwind schon über
+          Felder und Wälder; die Mauerschwalben waren schon auf die Fahrt nach ihren
+          Winterquartieren gegangen, die Hausschwalben <pb/>sammelten sich und übten sich
+          schaarenweise im Flug, um ihnen bald nachzufolgen.Die Zeit der Stallfütterung war für das
+          Vieh vorüber; der Klang der Heerdeglocken auf den Weiden tönte anmuthig und wehmüthig
+          zugleich an das Ohr des Wauderers,als wär' es das Grabgeläute der noch in allen Farben
+          prangenden, aber bald hinwelkenden Natur. An einem Herbsttage war's, daß Peter Christen
+          wieder zum ersten Mal mit seinem Vreneli auf der Bank vor dem Hause saß und sich der
+          lieben Sonne und des Kuhgeläutes nicht minder als seiner Genesnung erfreute. Er hatte ein
+          hölzernes Bein, das er noch nicht gar besonders geschickt zu gebrauchen wußte;er konnte
+          nicht mehr zu Acker fahren, denn sein Stelzfuß ging zu tief in die Erde,er konnte nicht
+          mehr Tannen fällen im Wald und keine Musterungen mehr mitmachen, aber Christen hatte das
+          Laster der Trunksucht abgelegt! Die Scholle seines verhärteten Gemüthes war umgepflügt von
+          jenem Ackermaun, der lauter guten Saamen streut in die Herzen der Menschen, und in seinem
+          künftigen Leben ging eine Saat auf, die davon Zeugniß gab, daß auch das Herz des
+          Bösewichts sich zu andern und zu bessern vermag. Christen hatte seit Monaten einen
+          Meisterknecht einstellen müssen, dem er einen ordentlichen jährlichen Lohn ausrichtete;
+          aber weil er selber zu Hause blieb und überall nachsah und leichtere Arbeit selber
+          verrichten half,so gedieh ihm jetzt Alles. Er verbesserte seinen Hof binnen kurzer Zeit um
+          das Doppelte und kanfte auch einige veräußerte Grundstücke wieder zurück. Vreneli war
+          glücklich; erst jetzt sah es alle die frühern muthwilligen Vorspiegelungen und
+          Versprechungen Christens zu wirklichen Erfüllnungen geworden. Und als nach Jahr und Tag
+          der holden Mutter ein frischer und gesunder Knabe lächelnd die Häudchen entgegenstreckte,
+          da platzte es mit eigenthümlicher Offenheit heraus: „Es ist doch fast ein Glück gewesen,
+          Peter, daß du das Bein gebrochen hast.“ „Ja“, fügte Christen hinzu,„in jener Nacht wurden
+          meinem alten Menschen die Todesglocken geläutet; in jener Nacht habe ich mir diesen
+          Stelzfuß, aber damit ein besseres Herz und ein neues Leben geholt!“</p>
+      </div>
+    </body>
+  </text>
+</TEI>

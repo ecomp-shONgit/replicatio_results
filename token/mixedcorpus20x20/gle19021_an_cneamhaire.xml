@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="eltec-0.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gle19021" xml:lang="ga">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Cneamhaire: ELTeC edition</title>
+                <!-- For author names, use standardised names from ainm.ie -->
+                <author ref="viaf:232444194">Úna Ní Fhaircheallaigh (1874-1951)
+                    <!-- Surname, Forenames (born-died)-->
+                </author>
+                <respStmt>
+                    <resp>ELTeC transcription and encoding</resp>
+                    <name>Justin Tonra</name>
+                    <name>Pádraig Ó Mathúna</name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <measure unit="words">7859</measure>
+                <measure unit="pages">36</measure>
+            </extent>
+            <publicationStmt>
+                <publisher ref="https://distant-reading.net">COST Action "Distant Reading for
+                    European Literary History" (CA16204)</publisher>
+                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+                <date when="2022-04-08"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+                <!-- Add further collections refs, as available -->
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="firstEdition">
+                    <title>An Cneamhaire</title>
+                    <author>Úna Ní Fhaircheallaigh, M.A.</author>
+                    <publisher>An Cló-chumann, agus M. H. Gill agus a Mhac</publisher>
+                    <date>1902</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc n="eltec-0">
+            <p/>
+        </encodingDesc>
+        <profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+            <langUsage>
+                <language ident="gle"/>
+            </langUsage>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <!-- use worldcat for 1970-2009 reprint count -->
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2023-07-06">Initial conversion to ELTeC level 0.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="titlepage">
+                <pb n="1"/>
+                <p>An Cneamhaire</p>
+                <p>(Úirsgéal).</p>
+
+                <p>Úna Ní Fhaircheallaigh, M.A.,</p>
+                <p>Do Sgríobh</p>
+
+                <p>An Cló-Chumann</p>
+                <p>agus</p>
+                <p> M.H. Gill agus a mhac,</p>
+                <p>Baile Átha Cliath</p>
+            </div>
+            <div type="liminal">
+                <pb n="2"/>
+                <p>An Cló-Chumann, Sráid na Trágha Móire, Áth-Cliath</p>
+
+                <pb n="3"/>
+                <p>Clár an Leabhair</p>
+                <p>Caib. I – “Cumh Chroidhe Chailín”… …5</p>
+                <p>Caib. II – “Cailín deas crúidhte na mbó.” …9</p>
+                <p>Caib. III – “ ‘S í mo bheatha-sa pian is athtuirse” 21</p>
+                <p>Caib. IV – “Is goire cabhair Dé ‘ná an doras” 33</p>
+
+                <pb n="4"/>
+                <p>Dom’ Mháthair Dhílis</p>
+            </div>
+        </front>
+
+        <body>
+            <div type="chapter">
+                <pb n="5"/>
+                <head>AN CNEAMHAIRE.</head>
+                <head>CAIBIDIL A hAON.</head>
+                <head>"CUMHA CHROIDHE CHAILÍN."</head>
+
+                <l>"'S í Máire Ní hÉidhin an stáid-bhean bhéasach</l>
+                <l>Ba dheise méin agus b'áilne gnaoi;</l>
+                <l>Dhá chéad cléireach 's a gcur le chéile</l>
+                <l>Agus trian a tréithe ní fhéadfadh 'sgríobh'."</l>
+
+                <p>Ba chailín deas í, agus bhí sí i mborradh agus i mbláth a hóige. Do bhí an rann
+                    soin thuas dá ghabháil aici agus í ag bualadh síos an bóthar I ngar do theach na
+                    sgoile i nInismeadhon. Bhí cliabh ar a druim aici agus soitheach maide i n-a
+                    láimh.</p>
+                <p>Tráthnóna Lughnasa do b’eadh é. Ar chúlaibh an oileáin ó thuaidh do bhí an ghrian
+                    ag dul faoi.</p>
+                <p>Do bhí dathanna an bhogha bháisdighe le feicsint ar an uisge leath-‘s-tiar, agus
+                    do stad Máire Ní Fhlaithbheartaigh le breathnughadh ar an amharc thaitneamhach
+                    do bhí os comhair a súl amach.</p>
+                <p>Máire Chatach tugadh uirri ‘san oileán mar gheall ar an ngruaig dhuibh chasta do
+                    bhí uirri. Do ghlaodhaidís na buachaillí Máire Bhán uirri freisin, toisg finne a
+                    cionnaighthe.</p>
+                <pb n="6"/>
+                <p>Gé go raibh focla an amhráin ghrádha úd dá gcanadh aici, bhí sí báin-ghnéitheach
+                    a dóthain ag bualadh isteach dhí ar chasán do bhí ag dul thar na
+                    cairrgeacha.</p>
+
+                <l>“tá a folt ag casadh léi ar dath na sméara</l>
+                <l>Na soilse rae-gheal ‘n-a diaidh ‘san drúcht.”</l>
+
+                <p>“‘Ar ndó’, a Mháire, is ort-sa a bhí an Reachtabhrach ag smuaineadh nuair do
+                    chuir sé an t-amhrán sin le chéile.” A deireadh Peadar Fada léithi go minic ag
+                    leagadh bhairr a mhéir ar cheann do na dlaoithibh dréimreacha do bhíodh i
+                    gcomhnuidhe ag tuitim le n-a súile.</p>
+                <p>Is ar Pheadar do bhí sise ag smuaineadh agus í ag tiomáint léithi thar na
+                    leacracha. D’árduigh sí a ceann agus chraith sí siar dlaoi dá dlaoithibh dubha
+                    do bhí ag cosg a radhairc uirri. Agus leis an gcrathabh soin do sgaoil an deór
+                    do bhí fa n-a súil D’airigh sí é ag tuitim ar chúl a láimhe. “Nach amaideach an
+                    cailín mé?” Ars’ sise ós árd; agus, ‘gá rádh soin dí, do ghread sí níos tapaidhe
+                    ar a haghaidh ag déanamh iarrachta ar ghabháil fhuinn arís:</p>
+
+                <l>“A séaltain an tsholuis agus a ghrian an fhoghmhair,</l>
+                <l>A chúilfhionn ómra agus a chuid do’n tshaoigheal,</l>
+                <l>An ngluaisfeá liom-sa faoi chomhair an Domhnaigh,</l>
+                <l>Nó go ndéanmuid comhairle cá mbeidh ar suidhe;</l>
+                <l>Níor mhór liom ceól duit&#x2014;&#x2014;”</l>
+
+                <p>Do cuireadh deireadh leis an amhrán go hobann.</p>
+                <p>Do theilg Máire an cliabh dá druim do phreib, agus leag sí an soitheach ar an
+                    gcarraig loim le n-a hais. Chaith sí í féin síos ceann ar aghaidh ar leic agus í
+                    ag gol is ag osnadhail ar a láin-dícheall:</p>
+                <p>“A Pheadair, a rúin! Bhfuil sé d’fhiachaibh orm thú ’fhágbháil im’ dhiaidh, nó
+                    céard do-ghéanad nuair a bhéas<pb n="7"/>mé i bhfad uait? Céard do-ghéana mé gan
+                    thú ’fheiceáil ó Luan go Domhnach? Ó! A Dhia, gabh truagh orainn! Céard
+                    do-ghéana mé? – céard do-ghéana mé?”</p>
+                <p>Go ceann I bhfad bhí an cailín bocht mar duine as a mheamhair; urnuighe i ndiaidh
+                    urnuighe do chuir sí suas chum na bhflaitheas, agus ar feadh na tréimhse sin
+                    níor airigh sí an aimsear ag sleamhnughadh uaithi.</p>
+                <p>Bhí an ghaoth ag séideadh rud beag i mbéal na fairrge, agus bhí an fhairrge
+                    cháithte le feicsint i n-áiteachaibh, acht níor chuir sí ean-tshuim ionnta.</p>
+                <p>B’fhurus a aithint go raibh aimsear an rabharta ag casadh timchioll, agus foghar
+                    na tuinne le cloisint ag tuargaint fa na hailltreachaibh taoibh thiar do’n
+                    oileán. Sin comhartha ag na sean-daoinibh go mbeidh an fhairrge ag borradh go
+                    mór sul má dtí i bhfad – comhartha contabharta amuigh ar an uisge nuair bhéas na
+                    hiasgairí ag cur fútha i gcomhair na hoidhche.</p>
+                <p>Bhí an ghrian imthighthe ar amharc ar fad agus bhí na tonnta ag briseadh go
+                    torannach thíos ar an tráigh, acht níor airigh Máire Bhán é.</p>
+                <p>Bhí an fhairrge féin ag iompodh dubh fa néaltaibh na hoidhche, agus bhí sgáile na
+                    ndathann n-áluinn ag fágbháil na spéire i ndiaidh a chéile, acht ba chuma é an
+                    t-iomshlán leis an gcailín do bhí caithte ’n-a pleist ar an talamh, fa bhrón
+                    agus fa bhuaidhirt.</p>
+                <p>Le n-a hais bhí carraig mhór fhánach, agus ar an taoibh thiar dhi bhí sean-fhear
+                    i n-a shuidhe ag caitheamh a phíopa ar a shuaimhneas.</p>
+                <p>Sean-fhear gránda, leadhbach, muthalach do b’eadh é, a<pb n="8"/>ghruag bhán,
+                    ghliobach ag sileadh siar síos leis agus thar a dhá shúil, agus féasóg fhada
+                    shopach air nár bearradh le fada an lá.</p>
+                <p>Fear tanaidh, fad-lámhach, cam-shúileach do bhí ann, agus ní hiongnadh é go
+                    mbíodh na páisdí ag rith ar éigin uaidh le neart a bhfaitcheasa. An cneámhaire –
+                    b’shin é an t-ainm do bhí air ’san oileán. Acht nuair bhíthí ag caint leis
+                    tugtaoi Séamas air. Ní raibh a fhios ag éinneach cár bh’as é, ná cad ba shloinne
+                    dhó, ná dadamh i n-a thaoibh, acht amháin go dtáinig sé go hÁrainn ó’n tír mhóir
+                    bliadhain na gortan, agus gur fhan sé ’n-a chomhnaidhe ann i dtigh bheag i
+                    n’aonar ó’n am soin anuas. Nuair chualaidh an sean-fhear glór an chailín ag
+                    caoi, d’éirigh sé ’n-a sheasamh, agus bhuail sé timchioll na cairrge go mall le
+                    fios-fáth an sgéil d’fhaghbháil dhó féin. Peampútaí b’eadh do bhí ar a chosaibh
+                    aige, agus níor airigh Máire é ag druidim léithi.</p>
+                <p>Do stad sé tamall ag breathnughadh uirri agus ag éisteacht léithi, a phíopa ’n-a
+                    láimh, agus a shúile cama ar leathadh air. Fiú an fhocail ní dhubhairt sé, acht
+                    fa dheireadh is fa dheoidh d’iompuigh sé ar a shála, agus thiomáin sé leis thar
+                    na leacracha sleamhna d’ionnsaidhe na fairrge.</p>
+                <p>Do tharraing sé an píopa as a bhéal i ndeireadh na dálach, agus thug sé a aghaidh
+                    siar.</p>
+                <p>“Aimeiriocá, arís,” ars’ seisean, ag amharc thar na tonntracha móra amach.
+                    “Aimeiriocá! Mo sheacht míle mallachtan ort mar Oileán Úr.”</p>
+                <p>Do sháith sé an píopa isteach i n-a bhéal arís, agus seo ar aghaidh é i n-a thost
+                    síos go dtí an Caladh Mór.</p>
+            </div>
+
+            <div type="chapter">
+                <pb n="9"/>
+                <head>CAIBIDIL A DÓ.</head>
+                <head>"CAILÍN DEAS CRÚIDHTE NA MBÓ."</head>
+                <p>Ní raibh an cneámhaire imighthe i bhfad nuair d’éirigh Máire ar a glúinibh. Bhí a
+                    héadan fliuch attha ó neart an chaoinidh, agus shamhlaigh sí bheith as a
+                    treóir.</p>
+                <p>Chonnaic sí an cliabh agus an soitheach le n-a hais, agus rigne sí iarracht ar
+                    theacht chuici féin arís. I gceann tamaill d’éirigh léithi, agus níor bh’fhada
+                    go raibh sí ag gabháil síos thar na leacracha, agus tríd na garrdhacha beaga ar
+                    lorg a bó.</p>
+                <p>Ar ndul suas ar árdán dí, chonaic sí an cneámhaire thíos uaithi, agus é ag
+                    déanamh ar an gCaladh Mhór.</p>
+                <p>“Is mór an náire dhom bbheith ag béiceadh mar seo,” ars’ sise léithe féin. “Fág
+                    go bhfuil roinnt airgid aige siúd, nach bhfuil níos mó do chúram an tshaoghail
+                    ag goilleadh air ’ná mar atá orm-sa, gan a rádh freisin go bhfuil sé ’n-a
+                    shean-fhear aonaránach agus gan duine dhá mhuinntir aige le haire ’tabhairt dó.
+                    Tabhair maitheamhnas dam, a Dhia, faoi bheith ag gearán is ag casaoidh!”</p>
+                <p>Do shroic sí ‘sa deireadh páirc bheag fa leith agus do dhruid sí leis an mbuin do
+                    bhí innte.</p>
+                <p>Gan a fhios aici go díreach cad fa ndeara é d’imthigh suaimhneas agus socrachd
+                    inntne, a bheag nó a mhór, uirri nuair chualaidh sí géimneach an bheathaidhigh
+                    neimh-chiallmhair.</p>
+                <p>“Ní fada uainn anois, a mhuirnín,” ars’ sise, ag tabhairt phóige dhí ar an
+                    muineál, “go mbéidh duine eicínt eile ag tabhairt aire dhuit.”</p>
+                <pb n="10"/>
+                <p>Do chrom Máire ag bleaghan na bó ‘sa soitheach do bhí ’n-a láimh aici. Anois is
+                    arís do dhoirteadh sí an bainne isteach ’sa soitheach mhór bhí ’sa gcliabh le
+                    n-a hais.</p>
+                <p>Do bhí sí ag crónán go sámh feadh na haimsire, mar ba ghnáthach léithi.</p>
+                <p>Bhí críochnuighthe aici beagnach nuair do phreab an bhó i leathtaoibh do phas, ag
+                    dortadh, dá bharr, an bhainne do bhí ’sa soitheach bheag.</p>
+                <p>“Greadadh chugat mar bhó.” Arsa Máire, ag éirghe ’n-a seasamh, agus ag crathadh
+                    an bhainne dá háprún; mura buidheach díom thú acht an mhéid sin, go deimhin. Is
+                    maith an mhaise duit é; is maith, muis! Seas go réidh anois!</p>
+                <p>Le linn a ráidhte sin, d’éirigh sí mar a raibh an bhó.</p>
+
+                <l>“Greadadh croidhe cráidhte ort, a bheathaidhigh ghránda,</l>
+                <l>Do rug uaim an bainne bán gléigeal!”</l>
+
+                <p>Ar a cúl chualaidh sí guth ag gabháil fhuinn, agus dhearc sí ’n-a timchioll ar an
+                    mball.</p>
+                <p>Chonnaic sí buachaill breagh láidir le n-a hais agus é ag mion-gháire. Rug sé ar
+                    láimh uirri.</p>
+                <p>“Ní fhuil éan-iongantas orm, muis, go raibh faitcheas ar an gcréatúr bhocht,
+                    bhalbh, agus radhb mar tusa bhualadh amach os a comhair go hobann,” arsa Máire,
+                    díreach is dá mbeadh fearg uathbhásach uirri. “An ag magadh fúm atá tú, a
+                    bhitheamhnaigh an domhain?”</p>
+                <p>“Ní headh, mhaisge!” D’fhreagair an fear óg, agus é ag gáire. “Nár chuala tú ‘An
+                    Maidrín Ruadh,’ riamh?”</p>
+                <p>“Chualas, ar ndó’ go minic; Acht níor airigheas <pb n="11"/>éan-trácht ann riamh
+                    faoi bhainne doirthte ná a leithéidí sin.”</p>
+                <p>“Ná bac leis sin, a chuid! Sin mar do chuala mise i gConndae an Chláir é an lá
+                    cheana agus mé ag déanamh turais Tobair Dheigh-Bhríghde.”</p>
+                <p>“Ara, ’Pheadair, abair liom an raibh aimsear mhaith agaibh amuigh annsin?”</p>
+                <p>Do bhí an deismireacht ag imirt a chomh mór soin ar Mháire go ndearna sí dearmad
+                    ar bheith feargach mar ’adh eadh.</p>
+                <p>“Réasúnta,” arsa Peadar.</p>
+                <p>“Raibh mórán daoine ann as Árainn Mhóir?”</p>
+                <p>“Ní raibh, ná as Inismeadhon acht an oiread; acht bhí mór-chuid do mhuinntir
+                    Inisthoir láithreach agus an-dúil aca ’sa sgléip agus ’sa ngreann, mar is
+                    gnáthach leó i gcomhnaidhe.”</p>
+                <p>“Raibh Cáit Ní Chonghaile ann?”</p>
+                <p>“Bhí, agus í ag breathnughadh go gleoite.”</p>
+                <p>“’Raibh, muis?” agus thug Peadar fa deara gur thosaigh a chochall ag éirghe
+                    arís.</p>
+                <p>“seo ribín fuaras led’ aghaidh, a stóirín,” agus, leis sin, do tharraing sé
+                    páipéar ar a phóca, agus thaisbeán sé ribín leathan craorag dí.</p>
+                <p>Do bhí a fhios ag Máire nach n-oirfeadh ribín dearg dí ar chor ar bith; acht do
+                    b’amhlaidh go raibh sí ró-dheagh-mhúinte le n-a chur soin i n-iúl do
+                    Pheadar.</p>
+                <p>“Ó! A Pheadair, tugaim maitheamhnas duit. Is Cuma liom é an ribín, acht tú bheith
+                    ag smuaineadh orm amuigh faoi’n tír mhóir agus cailíní do dhóthaint agat ann –
+                    cailíní i bhfad níos deise ’ná mise.”</p>
+
+                <pb n="12"/>
+                <p>D’árduigh sí a ceann, agus d’fhéach sí ’n-a dhá shúil. B’fhurus a fheicsint go
+                    raibh lán-mhuinighin agus ionn-taobh aici as.</p>
+                <p>“Leig dam a chur ort, a mhaoin,” arsa Peadar, ag breith ar an ribín. Do cheangail
+                    sé timchioll ar a muineál é. Annsin do sheas sé amach uaithi, agus do leag sé
+                    rinn a rosg uirri.</p>
+                <p>“Is tú péarla na mban, a Mháire, a chroidhe! Badh mhaith liom dá mbeinn i n-ann
+                    gúna síoda ’cur ort. Badh mhaith liom gan tada agat le déanamh ó Luan go chéile
+                    agus tú bheith i d’bhainríoghain ar a bhfuil do mhnáibh ‘sa domhan ar fad.”</p>
+                <p>“Tá ’fhios agam sin, a Pheadair, a stóir! Tá ’fhios agam sin.”</p>
+                <p>Níor fhéad sí focal ‘sa bhreis do rádh. Chuir na focla grádhmhara so ó’n
+                    mbuachaill óg i gcuimhne dhí cionnas mar do bhí an sgéal aici. Do bhí na deóra
+                    fa n-a súilibh, agus bhí sí ag breathnughadh amach thar an bhfairrge mhóir.</p>
+                <p>“Féach, a Pheadair! Féach ar an bhfairrge mhilltigh a bhéas eadrainn faoi
+                    sgathamh bheag; tusa annseo agus mise ansiúd thall.”</p>
+                <p>D’fhan Peadar tamall i n-a thost. Bhí sé corruighthe go mór i n-a inntinn. Ag
+                    caint le Máire dhó agus ag teacht thar an uile ní léithi, do bhí sé chomh sona
+                    soin gur bheag nach raibh dearmadtha aige ar an sgaramhain do bhí i ndán
+                    dóibh.</p>
+                <p>Anois, ar an toirt, do luigh an phian ar a chroidhe; an phian ghránda úd gan
+                    leigheas, gan bhiseach, do réir an uile dheallraimh.</p>
+                <pb n="13"/>
+
+                <p>“Ach! A Mháire!” ars’ seisean ’sa deireadh, “nach brónach é an focal sin agat?
+                    Cia an sórt mí-ágha atá orainn, chor ar bith? – nó ’bhfuil sé d’fhiachaibh
+                    orainn an sruth do chur eadrainn?”</p>
+                <p>“ ’S é toil Dé atá ann, a Pheadair.”</p>
+                <p>“Ní hé toil Dé acht toil an duine atá ann, a Mháire. ’S é m’athair ar ciontach
+                    leis, agus tá faitcheas orm go bhfuil do thoil féin ag cuidiughadh leis chomh
+                    maith céadhna.”</p>
+                <p>“Ní fhuil! Agus tá! B’fhearr liom míle uair fanacht leat-sa i nInismeadhon dhá
+                    mbeadh roinnt airgid agam, acht níor mhaith liom, mar atá ’fhios agat, dul
+                    isteach chugat gan mhaoin gan spréidh, ná fiú an chóta mhaith agam, mar a
+                    déarthá, le cur ar mo dhruim. Níor mhaith liom leigint do na comhursanaibh a
+                    rádh go ndéanfainn a leithéid ort, agus níor mhaith liom a bheith ar chumas
+                    d’athar a rádh sin, ná ar chumas do dheirbhsheathar acht an oiread.”</p>
+                <p>“Tá tú ró-phostamhail i bhfad, a Mháire! Nach Cuma céard a déarthaoi dhá mbéimís
+                    i n-éinfheacht agus muid ’bheith i n-ann congnamh ’thabhairt dá chéile.”</p>
+                <p>“Ní Cuma liom-sa é, ar éan-nós; b’fhéidir gur taidhbhseamhail mé; acht ní bheinn
+                    toilteanach le fanacht ’sa mbaile a choidhche agus gan agam acht an dá láimh seo
+                    chum mo bheathadh ’bhaint amach.”</p>
+                <p>“Agus céard a bhéas agat ’san tír úd thall, a Mháire, seachas do dhá láimh?
+                    Caithfidh tú do bheatha ’shaothrughadh ansiúd ar an mbealach céadna, agus go
+                    minic i slighidh níos cruaidhe fós.”</p>
+                <p>“Ní baoghal go gcaithfead! Ní bhíonn éan-sglábhaidheacht<pb n="14"/>orra I
+                    nAimeiriocá mar a bhíonns ’san áit seo! Ní bhíonn acht obair éadtrom aca le
+                    déanamh istigh is na bailtibh móra – ag nigheachán nó ag cócaireacht nó ag
+                    freastal ar an teach. Is fada an lá a bhéitheá thall sul má bheadh ort cliabh
+                    feamainne nó ualach éisg do tharraing ar do dhruim ó’n tráigh aníos, nó bualadh
+                    amach faoi na cairrgeacha maidin gheimhridh le bleaghan na bó.”</p>
+                <p>“Beannacht Dé ort, a Mháire, a chroidhe. Nach sonntach simplidhe atá tú. Chuala
+                    mé an lá cheana ó Mhícheál Sheagháin Mhicil nach bhfuil sclábhuidhe ’sa domhan
+                    mór acht an cailín aimsire bocht is na bailtibh móra ann. Bíonn sí i gcomhnaidhe
+                    ar a cosaibh ag bualadh anonn agus anall do réir mar a thaitnigheanns le n-a
+                    máighistreás. Is úr é an t-aer agat annseo, cibé sgéal é; tá do dhóthaint bídh
+                    agus dighe agat; agus, rud níos fearr i bhfad, tá do cháirde agus do dhaoine
+                    muinnteardha led’ ais. Má tá éan-chathughadh ort, tá siadsan taoibh leat, agus
+                    réidh le congnamh ’tabhairt duit.”</p>
+                <p>“Is furust sin a rádh, a Pheadair! Ca bhfios duit? Tá súil ag Mícheál im’
+                    dhiaidh, agus badh mhaith leis nach n-imtheóghainn chor ar bith.”</p>
+                <p>“Níor chuimhnigheas air sin, muis – an somachán! Badh mhaith leis, is dócha. Tá
+                    siad ar fad ag rith i ndiaidh mo chailín féin! Acht,” agus d’ísligh a ghuth ’ghá
+                    rádh, “ní cabhair dóibh é, a mhuirnín.”</p>
+                <p>“Ní fhuil ’fhios agat sin.” Do chraith Máire a ceann ar nós na gcailín n-óg. “Ná
+                    bí ró-chinnte i n-a thaoibh fós.”</p>
+                <p>Do leag sé a lámh ar a gualainn, agus d’fhéach sé uirri.</p>
+                <pb n="15"/>
+
+                <p>“Táim chomh cinnte sin ’n-a thaobh, a Mháire, is nach gcreidfinn rud ar bith i
+                    n’aghaidh ód’ bhéal féin.”</p>
+                <p>Níor labhródh focal eatorra go ceann sgathaimh bhig i n-a dhiaidh sin. Ní raibh
+                    éan-torann le cloisint ’san ngarrdha bheag uaigneach a rabhadar i n-a seasamh
+                    acht síon na gaoithe mór-dtimchioll.</p>
+                <p>“Bí cinnte ’n-a thaoibh, a stóir, mar sin,” ars an cailín fa dheoidh, is na deóra
+                    ag éirghe fa n-a súile. “Ní ceart ná cóir dam bheith ag déanamh fonmhaid’ agus
+                    muid ar tí sgartha ó n-a chéile.”</p>
+                <p>“A Mháire! ’Mháire! Iarraim ort arís gan imtheacht uaim,” ars an fear óg go
+                    dúthrachtach, ag breith ar a dá láimh. “Machtnuigh go géar ar laethibh an
+                    tshamhraidh agus ar oidhcheantaibh fada an gheimhridh, mise annso agus túsa
+                    ansiúd; an chumha chéadna ag imirt orainn araon, agus gan éin-leigheas againn ar
+                    an bpian acht amháin bheith foighdeach. Machtnuigh fós ar na bliadhantaibh
+                    imtheóghas thart i ndiaidh a chéile, an ghruaig ag éirghe liath orainn, agus na
+                    croidhthe ionainn ag éirghe fuar. I n-a dhiaidh sin agus uile tiocfaidh tusa a
+                    bhaile, má mhairir beó chomh fada sin. Tiocfaidh tú abhaile; ceithre fichid nó
+                    b’fhéidir céad punnt i dtaisge agat, agus bosca mór earraidhe i n-a theanntaibh.
+                    Tiocfaidh tú abhaile gan bhrígh ná fuinneamh ionat, acht, ’n-a leabaidh sin, an
+                    droch-shláinte ag gabháil duit. B’fhéidir go mbeinn réidh led’ phósadh an t-am
+                    sin. B’fhéidir go mbeadh bád agam dam féin agus paiste talmhan. Acht, a Mháire,
+                    a chuid do’n tshaoghal, an measann tú go mbádh pósadh ceart é pósadh dá
+                    leithéid; - beirt sean-daoine do thréig a<pb n="16"/>chéile i mbláth na hóige,
+                    agus do chaith an chuid do b’fhearr dá mbeathaidh ag cnuasach airgid agus maoine
+                    i n-aghaidh lae na fearthainne! ’Ar ndó’, ní bheith beannacht Dé ar dhaoinibh a
+                    bheadh chomh sanntach sin.”</p>
+                <p>Do b’é sin an píosa cainte ba mhó dár thuit uaidh i gcaitheamh a shaoghail; acht
+                    bhí sé corruighthe go mór, agus bhí a anam agus a inntinn le n-a ndubhairt
+                    sé.</p>
+                <p>Ar n-a chloisint sin do Mháire, is amhlaidh go raibh sí, a bheag nó a mhór, as a
+                    treóir. Acht má bhi Peadar ag coinne le go ngeabhadh sí atharrach inntne, níor
+                    chabhair dhó é. Níor bh’fhéidir léithi a bhréagnughadh ar an bhfód; agus, dá
+                    dhruim sin, b’é rud do rigne sí ioná a ndubhairt sé do leigean thairste.</p>
+                <p>“Tá ’fhios againn go maith gur breagh iad na sléibhte i bhfad uainn, acht cibé
+                    sgéal é, a Pheadair, ní bheadh d’athair sásta tú dhom’ phósadh-sa. Caithfidh sé
+                    dá-fhichid punnt ’fhaghbháil leis an gcailín a thiocfas isteach ’sa teach aige.
+                    Tá an t-airgead ag teastáil uaidh mar spréidh do Cháit agus ní mise a bhéas ag
+                    teacht idir do dheirbhshiúr agus a spréidh, muis!”</p>
+                <p>Do thosuigh Peadar ar fheadghail. Bhí sé míoshásta go mór agus gan freagra réidh
+                    aige. Do bhí an-chion aige ar a athair, sean-fhear a raibh meas ag gach uile
+                    dhuine ’san oileán air. Ní raibh éan-chlampar ná fiú an fhocail gan foghnamh
+                    eatorra go dtí go dtug Peadar grádh do Mháire Bháin, an inghean ba shine dá
+                    raibh ag Nóra Ní Chonghailigh, baintreabhach do bhí i n-a comhnaidhe thiar i
+                    gCionn an Bhaile i n-aice na n-ailltreach. Ba bhocht í an bhaintreabhach agus
+                    bhí muirighin uirri, agus bhí a fhios ag an domhan nach mbeadh pingin ruadh do
+                    spréid ag Máire.</p>
+                <pb n="17"/>
+
+                <p>Cailín stuamdha do b’eadh í Máire, agus deireadh na sean-daoine nach mbeadh a
+                    leithéid do mhnaoi tighe is na trí hoileánaibh ar ball.</p>
+                <p>Acht nuair nach mbíonn acht éan-mhac amháin ag fear agus é ag súil le n-a phósadh
+                    go maith, bíonn a mhalairt do chaoi ar an sgéal. Agus fós nuair bhíos paiste
+                    talmhan ag fear nach maith an aghaidh air é bheith ag brath air roinnt airgid
+                    d’fhaghbháil le haghaidh a hinghine do shochrughadh ’sa saoghal? Deirtear go
+                    mbíonn dá thaoibh ar gach sgéal.</p>
+                <p>D’fhan Peadar ag feadghail ar feadh sgathaimh mhaith.</p>
+                <p>“Sin é an chaoi a mbíonn an saoghal ag imtheacht,” ars’ seisean ’sa deireadh,
+                    “m’athair ag iarraidh airgid ’fhaghbháil le n-a thabhairt mar aon le Cáit do
+                    Thomás Sheagháin Ruaidhrí mar gheall ar an bhfeilm atá aigesean, agus Cáit gan
+                    éan-tshuim aici ann acht an oiread le bonn mo bhróige. Ní chuireann sí éin-spéis
+                    ann; acht, ’n-a leabaidh sin, ’s é a bhíonns sí ag rádh i gcomhnaidhe, go
+                    rachadh sí go hAimeiriocá sul a bpósfadh sí é. B’fhearr le Cáit barr méire Mhic
+                    Uí Dhonnchadha ’ná a mbaineann go homshlán le Tomás Sheagháin Ruaidhrí.”</p>
+                <p>“Acht céard do-ghéana sise, nó céard do-ghéana mé féin muna dtéidhmid go
+                    hAmeiriocá?”</p>
+                <p>“Tig libh fanacht mar a bhfuil sibh, agus b’fhéidir, le congnamh Dé, go ngabhfadh
+                    m’athair malrait inntne.”</p>
+                <p>“Ní ghabhfaidh a choidhche! Tá sé ag éirghe aosta, agus is annamh é atharrughadh
+                    i gclaontaibh na sean-daoine.”</p>
+                <p>“Tá sé ag éirghe aosta. Is fíor dhuit an mhéid sin,<pb n="18"/>agus ní fhuil sé i
+                    n-ann dul amach i mbád ’san oidhche, mar a bhíodh. Caithfidh mise dul ’n-a
+                    leabaidh. Bhí sé i n’athair mhaith dham riamh, agus ní ceart ná foileamhnach
+                    dham é ’thréigint anois. Acht sin amháin, ní hé tusa bhéadh ag braith ar dul go
+                    hAimeiriocá acht mise. Má’s rud é go bhfuil ar cheachtar againn imtheacht nach
+                    mise an duine ar cheart dó slighe bheathadh ’fhaghbháil amach dúinn araon. Acht
+                    cibé ar domhan é, ní fhuil sé d’fhiachaibh ort imtheacht chor ar bith. Tá tú ag
+                    teastáil go mór ó d’mhathair, agus anois ó tá múinteoir mná le teacht do’n
+                    oileán béidh tú i n-ann ’chuile chineál cearc agus lachan ’fhaghbháil, agus
+                    airgead ’dhéanamh asta. Tig leat congnamh beag ’thabhairt do d’mhuinntir ar an
+                    mbealach sin. Feicfimid a chéile ’ch uile lá ’sa mbliadhain, agus nach mór dúinn
+                    é an méid sin féin? Ná himthigh, a Mháire! Ná himthigh uaim?”</p>
+                <p>Do bhí Máire corruighthe go mór i n-a hinntinn, agus do chrom sí ar smuaineadh ar
+                    a ndubhairt sé. Do chuir sí é seo agus é siúd le chéile, agus ’sa deireadh bhí
+                    leath-inntinn aici a chomhairle do chur le n-a croidhe. D’árduigh sí a ceann,
+                    ámhach, agus cad a bhfeiceadh sí acht long mhór ag gabháil thart ar an
+                    bhfairrge; long bhreagh, áluinn ag snámh ar bharr na dtonn amuigh i n-aice
+                    Chonnamara. Bhuail a lán smuainte chuici; smuainte thar na bailte móra i
+                    nAimeiriocá agus thar na gúnaí deasa do bhíodh dá gcaitheamh ag na cailíníbh
+                    ann; agus smuainte ar na boscaíbh móra earraidhe do bhíodh ag cailíníbh
+                    Inismeadhoin ag filleadh a bhaile dóibh. Do bhuail smuaineadh eile chuici
+                    freisin, i dtaoibh<pb n="19"/>a chomh sona agus do bheadh Peadar féin nuair
+                    thiocfadh sí i dtír ag an bhfánán, agus céad punnt b’fhéidir i dtaisgidh aici.
+                    B’fhiú go mór é, dar léithi, dul go hAimeiriocá, cibé rud adéaradh sé. Do b’fhiú
+                    shi fós an domhan mór d’fheicsin chomh maith le daoine óga eile.</p>
+                <p>“Rachadh, a Pheadair. Ní fhuil éan-úsáid duit bheith ag tathbhant orm.
+                    Seachtmhain ó’n lá indiu bead ar an sáile le congnamh Dé agus Muire, cibé rud a
+                    thiocfas as.”</p>
+                <p>Chuir an buachaill cnead as, agus ó shoin amach ní dhubhairt sé focal i n-a
+                    coinne.</p>
+                <p>Thomáin sé an bhó isteach i bpáirc eile agus do chuir sé na clocha ’sa mbearnáin
+                    i n-a diaidh. Annsin d’arduigh sé an cliabh agus an soitheach bainne ann ar a
+                    dhruim.</p>
+                <p>“Feicim an Cneamhaire thíos ag an gCaladh Mór,” ars’ seisean ar ball agus iad ag
+                    filleadh a bhaile le chéile sin é an sórt fir badh mhaith leat a bheith
+                    ionam-sa; fear a mbeadh a chroidhe ’san airgead agus nach mbeadh éan-ghrádh aige
+                    do Dhia ná do dhuine. Tá rian na sainnte air. I gcruthanas, féach mar a bhíonns
+                    a chuid súl ag preabadh as a cheann.”</p>
+                <p>“Ní fhuil duine, dá olcas é,” arsa Máire, “nach mbeadh duine níos measa le
+                    faghbháil dá gcuirimis bun leis. Sin mar adeir mo mháthair go minic agus ní
+                    baoghal nach fíor é. Ca bhfios dúinn cad as adhbhar do’n tshainnt agus do’n
+                    chruadhálacht atá ag imirt ar a chroidhe”</p>
+                <p>“Mar sin duit i gcomhnaidhe, ag glacadh a leithsgéil. Ní fiú é a leithéid, chor
+                    ar bith. Ní thuiteann<pb n="20"/>focal síbhialta as a bhéal acht amháin nuair a
+                    bhíonns sé ag labhairt leat-sa nó id’thaoibh.”</p>
+                <p>“B’fhéidir go bhfuil aithne níos fearr agam-sa air ’ná mar atá ag éinne’ eile.
+                    Atá a theach greamuighthe do’n teach seo ághainne, agus tuige nach mbuailfinn
+                    isteach chuige anois agus arís le congnamh, a bheag nó a mhór, ’thabhairt do’n
+                    chréatúr bhocht!”</p>
+                <p>“Ní maith le héan-duine eile ’san oileán baint ná páirt bheith aige leis – acht,
+                    is dóigh liom go bhfuil an ceart agat, cibé ar domhan é.”</p>
+                <p>Do bhíodar ag siubhal feadh na haimsire seo agus iad ag comhchaint, an cliabh ag
+                    Peadar ar a dhruim, agus an soitheach beag dhá iomchur ’n-a láimh ag Máire.</p>
+                <p>“Tabhair aire dhuit féin anois,” adeireadh seisean léithi anois agus arís, agus é
+                    ag tabhairt congnaimh dhí ag dul thar na sgailpreacha.</p>
+                <p>“Tá meas ag an gCeamhaire ort, muis, agus ní hiongnadh liom sin, óir níor
+                    bh’fhéidir do dhuine ar bith eolas ’bheith aige ar do cháilidheachtaibh gan
+                    grádh ’thabhairt duit – acht, feicim m’athair thuas ag caint leis an máighistir
+                    sgoile. Caithfidh mé imtheacht liom sul má bhfeicidh sé mé. Tá brón orm, a
+                    Mháire, gan a bheith ar mo chumas an cliabh ’iomchur níos fuide dhuit.”</p>
+                <p>Ní luaite do bhí ráidhte aige nár leag sé an cliabh ar lár, agus as go bráth leis
+                    fa sgáth na gcarraig.</p>
+
+            </div>
+
+            <div type="chapter">
+                <pb n="21"/>
+                <head>CAIBIDIL A TRÍ.</head>
+                <head>"'S Í MO BHEATH-SA PIAN IS ATHTUIRSE."</head>
+                <p>Bhí an “Tórramh Aimeiriocánach” ar lán-tshiubhal dtigh na baintreabhaighe ag
+                    Cionn an Bhaile.</p>
+                <p>Bhí Máire Bhán agus triúr nó ceathrar do chailíníbh eile le himtheacht as an
+                    oileán lá ar n-a bhárach. Ní baoghal nach raibh croidhe trom ag a máthair, dá
+                    chionn soin; acht seo, ar an am gcéadna, í ag cur fáilte roimh na comhursanaibh
+                    do réir mar do bhuaileadar isteach chuici. Mar is gnáthach leis na
+                    hÉireannchaibh, cibé brónach áthasach iad, bhí sí ag déanamh croidhe a díchill
+                    leis an ngreann do chur ar aghaibh.</p>
+                <p>“Céad fáilte romhat, a Michil – is ag dul i n-óige atá tú, muis! Agus an tusa atá
+                    ann, ‘Mháirgréad? Nach agat atá an meisneach agus a mheas gur bhuail tú amach
+                    ’san oidhche! Suidh síos ’sa gcúinne! Béad i n-aondaidh leat nuair a bhéas an
+                    citeal crochta ar an teine agam! Och! Is romhat-sa atá fáilte is fiche, a
+                    Shéamais, a mhic ó. ’Seadh, ’mhaisce!”</p>
+                <p>Do bhreathnaigh a raibh do láthair ann ar an gCneamhaire. Ní gabhadh nach raibh
+                    iongantas an domhain orra nuair d’airigheadar ag bualadh isteach chuca é. Gé go
+                    raibh Séamus i n-a measg le leithchéad bhliadhan, níor leag sé cos ar urlár
+                    tighe ’san oileán rith na haimsire sin.</p>
+                <p> Do rith na páisdí ar éigin uaidh isteach ’sa gcúinne ba shia ó’n doras, agus
+                    níor bh’iongnadh sin d’fhéach<pb n="22"/>sé mar do bheadh fear feadhain, a
+                    ghruag bhán ag tuitim le n-a éadan, agus cóta mór air síos go dtí a shála.</p>
+                <p>Do leag an bhaintreabhach stól le n-aghaidh i gclúid sheasgair cois na teineadh,
+                    agus shuidh sé síos air gan focal ar a bhéal aige.</p>
+                <p>Do dhearc sé go géar timchioll na cisdine. Annsin thug sé a aghaidh ar mhnaoi an
+                    tighe. “Cá bhfuil Máire?” ars’ seisean go hobann.</p>
+                <p>“Chuaidh sí síos go dtí bean an iasgaire ag iarraidh blas’ ime le haghaidh an
+                    tae. Béidh sí annso arís i leagadh súl.”</p>
+                <p>“Uch! Is mar sin duit i gcomhnaidhe,” ars an sean-fhear go searbh. “Is Máire
+                    annseo agus Máire annsiúd agat ó mhaidin go hoidhche. Tá d’iachall uirrisean ’ch
+                    uile rud ’dhéanamh agus lán an tighe do dhaoinibh leisgeamhla agaibh annseo ag
+                    leigint bhur sgíthe. Ní fhuil iongantas ar bith orm go bhfuil sí ar tí
+                    imtheacht’ uait, a bhean chóir! ’Tabhairt aire dhaoibh féin a bhíonns sibh i
+                    gcomhnaidhe.”</p>
+                <p>Ní thug an bhaintreabhach bhocht éin-fhreagra air. Do bhí a fhios ag an domhan
+                    gur dhuine crosda do bhí ann, agus níor cuireadh mórán suime i n-a chuid
+                    ghearáin riamh.</p>
+                <p>Do luigheadar ar an rinnceóireacht i n-a dhiaidh sin, agus níor bhaoghal nach
+                    raibh sgléip a ndóthain aca an fhad do bhí sin ar siubhal aca. Do b’é ceól do
+                    bhí aca, fear do bheith ag feadghail dóibh, agus gan ar a chumas cur suas de,
+                    nóimeant, go dtí go mbíodh an ríl nó an cor thart.</p>
+                <pb n="23"/>
+
+                <p>Tar éis tamaill d’iompuigheadar ar an ngabháil fhuinn. Níor bhfhada gur glaodhadh
+                    ar Pheadar Fhada. Ba dheas an guth do bhí aige agus níor eitigh sé a chion féin
+                    do dhéanamh chomh maith le cách. D’éirigh leis go maith do dtí go dtárla dhó ar
+                    na líníbh seo: -</p>
+
+                <l>“Is iomdha bealach fliuch agus bóithrín cam</l>
+                <l>Tá idir mé ’gus an baile a bhfuil mo stúirín ann.”</l>
+
+                <p>Do stad sé go hobann.</p>
+                <p>“Tá rud eicínt im’ sgórnach,” ars’ seisean, agus dar ndóigh níor fiafruigheadh
+                    dhe cad do bhí air.</p>
+                <p>Do bhí an Cneamhaire i n-a shuidhe ar a aghaidh go díreach, agus níor thóg sé a
+                    chuid súl do’n bhuachaill as soin suas, acht bheith ag amharc air go glinn a
+                    gan-fhios dó.</p>
+                <p>Ar ball nuair shaoil sé nach raibh éinneach ag aireachas air, do chuimil Peadar
+                    bocht a shúile le muinchille a bháinín.</p>
+                <p>Leis sin, do bhain an Cneamhaire an píopa as a bhéal agus, ag cromadh ar a
+                    aghaidh chuige, do thairg sé dhó é.</p>
+                <p>“Seo gal tobac duit! Is maith an rud do’n sgórnach é.</p>
+                <p>Níor bheag an mhéad soin ó’n gCeamhaire agus bhí iongantas thar bharr ar Pheadar
+                    nuair do ghabh sé an píopa uaidh…</p>
+                <p>Bhí neart sgéalta dá n-aithris ag na sean-daoinibh; sgéalta thar an aimsir do bhí
+                    caithte aca; sgéalta ag baint leis na daoine maithe agus a leithéide eile.</p>
+                <p>“Innseóchaidh mise sgéal daoibh,” ars an Cneamhaire<pb n="24"/>i ndiaidh tamaill,
+                    “agus mise ’mo bhannaidhe nach sgéal bréagach ’ná sgéal gan brath atá ann acht
+                    an oiread.”</p>
+                <p>D’amharc na comhursain ar a chéile. Chuir an tairsgin seo ó’n gCneamhaire
+                    iongantas agus anfadh mór orra go léir. Níor labhair éinneach focal go ceann
+                    nóimint. Annsoin, ámh, do thuig an bhean-tighe go raibh uirri rud éigin do
+                    rádh.</p>
+                <p>“Badh mhaith linn, a Shéamais,” ars’ sise fa dheoidh, “an sgéal a chloisint agus
+                    bhéadh muid buidheach dhíot faoi; lean leat, ma’s é do thoil é!”</p>
+                <p>Do dhruid an Cneamhaire a shúile agus thosuigh sé ar a sgéal:</p>
+                <p>“Thíos i gCondae Mhuighe-Eó ’san áit a rugadh mise, bhí bean i n-a comhnaidhe trí
+                    fichid bliadhan ó shoin. Ní rabhas acht ag fás suas im’ ghasúr an t-am sin. Bhí
+                    sise agus a fear ag dul ar aghaidh go mór ‘sa saoghal; beagán airgid i dtaisge
+                    aca ’sa mbannc agus roinnt eile i gcúram aca i siopa bheag leó do bhí ar thaoibh
+                    an bhóthair.</p>
+                <p>“Díreach mar na daoine eile nuair a bhíonns siad ag dul i saidhbhreas bhí mo
+                    bhean mhacánta ag éirghe postamhail agus thosuigh sí ar chorr-fhocal do’n
+                    Bhéarla a phiocadh suas chomh maith is do b’fhéidir léithi.</p>
+                <p>“Is beag Béarla bhí ag muintir na tuaithe an uair úd, acht, mar sin féin, bhí
+                    náire ’teacht ar na daoinibh seasgra faoi’n nGaedhilge a labhairt. Ba mhaith
+                    leóbhtha bheith ag déanamh aithrise ar na Sasanchaibh a bhíodh ag treasgairt na
+                    ndaoine bochta agus ag tabhairt masla orra.</p>
+                <p>Bhíodh sin mar atá, bhí an bhean seo taidhbhseamhail a<pb n="25"/>dóthaint as a
+                    cuid maoin’ agus as an méid Béarla shíl sí ’bheith aici.</p>
+                <p>“Bhí sí ag caint, lá, leis an sagart; agus rith na haimsire, cad do-ghéanadh sí
+                    acht tagairt dá fear pósta bhí thar éis dul ar an margadh le him a dhíol.
+                    B’amhlaidh a bhí sé ag imtheacht dó, ag marcaigheacht ar chapall agus an ciseán
+                    ime ar a bhéal amach aige.</p>
+                <p>“‘Throth, ye’r reverence,’ adúbhairt sí, ‘John went to the market (ní abróchadh
+                    sí Seaghán chor ar bith) and he brought the ciseán of butther on his mouth.’</p>
+                <p>“Chuaidh an sgéal sin timchioll an pharáisde ar mo bhean bhocht agus ní raibh
+                    suaimhneas ná síothcháin aici riamh i n-a dhiaidh sin, acht na daoine ag tagairt
+                    i gcomhnaidhe dhá ndubhairt sí agus ag gáire faoi; geallaim díbh nár chualathas
+                    focal Béarla as a béal ó’n lá sin amach.”</p>
+                <p>Cuid do na daoinibh do bhí ag éisteacht, do thuigeadar an Béarla agus chromadar
+                    ag gáire. Do mhínigheadar-san ar an mball do na daoinibh nár thuig an Béarla
+                    cionnas mar do bhí an sgéal, agus ba ghearr an mhoill orra go rabhadar a
+                    n-iomlán ag sgairteadh gáire.</p>
+                <p>“’Mbéidh an sgéal céadna agaibh-se ar ball?” ars an sean-fhear go géar nimhneach,
+                    ag amharc i n-a thimcheall. “’Mbéidh náire oraibh faoi’n nGaedhilge ’labhairt
+                    agus gan acht Béarla briste agaibh ’n-a leabaidh?”</p>
+                <p>Ní tugadh freagra ar an gceist seo ar feadh achair bhig. Cuireadh ró-iongantas
+                    orra.</p>
+                <p>Séamas Cneamhaire do bhí i n-a measg le cianta agus é i n-a stráinséar
+                    droch-mhúinte stailceach ghruamdha leó ar feadh na haimsire sin. Seo ar cuairt
+                    agus ar céilidh aca é agus sgéal aige dhá insint ar nós na<pb n="26"/>ndaoine
+                    eile. Ag tabhairt droch-aoide dhóibh ‘s eadh do bhí sé, b’fhéidir; acht, i n-a
+                    dhiaidh sin agus eile, ní beag an rud é go bhfuil sé i n-aondaidh leó ar an
+                    tórramh Aimeiriocánach. Ní gan adhbhar d’fhanadar i n-a dtost ag amharc ar a
+                    chéile.</p>
+                <p>“Má’s é do thoil é,” arsa buachaill beag bídeach, fa dheireadh, ag preabadh amach
+                    ar an urlár ar aghaidh an Chneamhaire agus ag cur suas a láimhe ar nós na
+                    sgoláirí ar sgoil. “Tá mise i n-ann freagairt ar an gceist sin.”</p>
+                <p>Ruaidhrí beag Mac Donnchadha, dearbhráthair do leannán Cháit, do bhí ann. Acht do
+                    ghabh eagla é nuair do bhreathnuigh sé i ngnúis sheirbh an Chneamhaire.</p>
+                <p>“Lean leat,” ars’ an sean-fhear, ag baint a phíopa as a bhéal. “An dtuigeann
+                    tú?”</p>
+                <p>“Tuigim,” ars an páisde.</p>
+                <p>“’Ar ndó’, is ’mó rud a thuigeanns tú, a mhic,” ars’ seisean, ag breathnughadh
+                    air go géar. “Tuigeann tú céard é an bealach is fearr le clocha ’chaitheadh le
+                    mo dhoras-sa. Agus tuigeann tú, freisin, gurab é ‘An Cneamhaire’ atá mar
+                    leas-ainm orm. Is millteach ar fad an mhéad a thuigeanns tú, a bhuachaill
+                    ó!”</p>
+                <p>Do chrom Ruaidhrí a cheann, agus thosuigh sé ag láimhseál an chaipín do bhí i n-a
+                    láimh aige.</p>
+                <p>“Leig dó, a Shéamais,” arsa bean an tighe, ag breith ar láimh ar an bpáisde, le
+                    misneach do thabhairt dó. “Ná bac leis, a Ruaidhrín; is ag magadh fút atá
+                    sé.”</p>
+                <p>Ní mór le rádh í sgeim na ngarlach, acht, mar sin féin, b’fhearr le Ruaidhrí go
+                    mór gan a bheith ar an láthair sin.</p>
+                <pb n="27"/>
+                <p>Ní headh go raibh cathughadh i n-a dhiaidh air. Ní headh, maiseadh. Do b’é an
+                    t-aon ní amháin do bhí ag goilleamhain air, a fhios do bheith aige go raibh a
+                    athair láithreach. Cheana féin d’airigh sé ar a dhruim rian an mhaide chaoil do
+                    bhíodh I gcomhnaidhe thuas ar an lochta aige-sean le haghaidh an aos óig.</p>
+                <p>“Labhair amach a Ruaidhrí,” ars’ an maighistir sgoile. “Nach bhfuil ’fhios agat
+                    go maith gurab ag cabaireacht atá Séamas,” agus, ’gá rádh so, thug sé sméideadh
+                    súl i n-a thimchioll.</p>
+                <p>“Bhí mé le n-a rádh, a mhaighistir” arsa Ruaidhrí, ag glacadh mhisnigh arís,
+                    “nach mbéidh an sgéal mar sin annseo a choidhche. Béidh an Béarla againn ’n-a
+                    cheart nuair a mhúinfear thríd an nGaedhilge dhúinn é. ’S é adeir m’athair i
+                    gcomhnaidhe, gur fearr dhúinn gan éan-Bhéarla againn ná bheith ag labhairt
+                    drabhfhuighill Bhéarla.”</p>
+                <p>“Maith an buachaill,” ars’ an Cneamhaire go ciúin socair; “gasúr fad-cheannach
+                    géarchúiseach atá ionat, go saoghluighe Dia thú!”</p>
+                <p>Sháith sé an píopa ’n-a bhéal arís; chuir sé splanc theineadh air, agus ó shoin
+                    amach níor bhain éinneach focal as.</p>
+                <p>Do chrom ceann do na buachaillíbh ar chasadh phuirt, agus bhí na daoine óga ar a
+                    mbonnaibh gan mhoill arís.</p>
+                <p>Suas an casán leis ag déanamh ar thaoibh na n-ailltreach do’n oileán. Thiomáin sé
+                    air go dtí go raibh sé ar bharr na tulcha. Do stad sé annsin. Gé<pb n="28"/>gur
+                    thréan láidir an fear é, do bhí an aois ag teannadh go daingean air, agus níor
+                    mhisde dhó a sgíth do leigean.</p>
+                <p>Bhí an ghealach go hárd ’sa spéir, agus do b’fhéidir an t-oileán agus an fhairrge
+                    d’fheicsin go glan soiléir.</p>
+                <p>Do b’áluinn ciúin an t-amharc do bhí os a chomhair amach, acht istigh i gcroidhe
+                    an tshean-fhir do bhí anfadh ar siubhal. B’amhlaidh nár airigh sé a chomh deas
+                    is do shamhlaigh an domhan i n-a thimchioll. Ní raibh a fhios acht ag Dia amháin
+                    cad do bhí ’gá shuathadh.</p>
+                <p>Chraith sé a lámha os cionn a chinn, agus adubhairt os árd:</p>
+                <p>“Liom féin is eadh é! Liom-sa amháin! Ní fhuil éan-bhaint ag duine ar bith eile
+                    leis. D’íocas go maith as-go dian-mhaith!”</p>
+                <p>Ar aghaidh leis arís ag siubhal agus ag sír-shiubhal, díreach is dá mbeadh ’n-a
+                    aigneadh, stoirm a chroidhe do laghdughadh ar an nós soin.</p>
+                <p>Níor bh’fhada dhó ag imtheacht mar sin go dtí go raibh sé i ngar do na
+                    hailltreachaibh.</p>
+                <p>Annsoin do stad sé go hobann, mar ba dhóigh leis go gcualaibh sé guth duine
+                    éigin. Chuir sé cluas le héisteacht air féin, agus do b’amhlaidh d’éis agadh
+                    d’amsir go raibh sé cinnte ’n-a thaoibh. Guth mná ag caoi do b’eadh é, gan
+                    ghó.</p>
+                <p>Ar mbreathnughadh dhó ar an áird as a dtáinig an fhuaim, ba léir dhó, sgathamh
+                    beag uaidh, duine éigin leagtha leis an gclaidhe.</p>
+                <p>Dhruid sé leis an áit, agus d’airigh sé gan mhoill gur bh’í Máire Bhán do bhí ann
+                    roimhe.</p>
+                <p>Ní raibh a fhios aici duine ná daondaidhe do bheith i n-a<pb n="29"/>haice, agus
+                    do phreab sí le neart sgeóin nuair do leag sé a lámh ar a ceann.</p>
+                <p>“Ná corruigh, leanaibh. Ná bíodh faitcheas ort, chor ar bith!”</p>
+                <p>Ní dhubhairt Máire focal, agus seo ar aghaidh é le n-a chuid chainte.</p>
+                <p>“Ní ceart duit, a Mháire, a stóir, bheith amuigh i n-aonraic agus an oidhche atá
+                    ann. Tá an comhluadar ag fuireacht leat ’sa gcisdin.”</p>
+                <p>Ní mheasfadh éinneach gur bh’é an Cneamhaire do bí ag caint.</p>
+                <p>“Uch! a Shéamais! An tusa atá ann? Ná bac liom! Caithfidh mé leigint dom’ chuid
+                    bróin. Béad níos fearr dá bhárr i gceann tamaill.”</p>
+                <p>“Acht dubhradar liom, a Mháire, gur tú féin as ciontach leis an turas agus an
+                    aisdear seo. Tuige nach bhfanfá ag do mháthair ’sa mbaile agus ag Peadar
+                    Fada!”</p>
+                <p>“Tuige, a n-eadh? Tá fáth go leór leis, muis, acht cia an mhaith bheith ag caint
+                    anois?” Ar an toirt, do shil na deóra léithi agus chrom sí ar ghul arís.</p>
+                <p>Níor chuir an Cneamhaire isteach uirri an fhaid do lean sí ar bheith ag caoi,
+                    acht nuair d’éirigh sí níos ciúine ar ball d’fhiarfruigh sé dhi cia an fáth dhí
+                    bheith ag imtheacht ar Éirinn.</p>
+                <p>“Ná ceil orm éin-cheó do’n fhírinne” ars’ seisean fa dheóidh. “Cad faoi ndeara go
+                    bhfuil tú ag imtheacht uainn?”</p>
+                <p>“Do bhrígh go bhfuil easbaidh airgid orm” ars an cailín bocht.</p>
+                <p>“An t-airgead! An t-airgead!” ars an Cneamhaire<pb n="30"/>go neamhfhoighdeach,
+                    “’S é an sgéal céadna é i gcomnaidhe; acht bíodh ’fhios agat, a chailín, go
+                    bhfuil a lán rudaí ’sa domhan níos fearr i bhfad ’ná an t-airgead féin.”</p>
+                <p>Ní thug Máire freagra ar bith air, do bhí an oiread soin iongantais uirri.</p>
+                <p>“Nach bhfuil an grádh agat! “ars’ seisean “agus nach leór duit é sin?”</p>
+                <p>“Tá – an grádh – agam; is fíor dhuit é, “arsa Máire i ndeireadh na dálach, “acht
+                    – ní thuigim thú. Nach bhfuil dúil agat féin ’san airgead? Gabhaim párdún agat,
+                    a Shéamais; ní ’ghá chasadh leat atáim, chor ar bith.”</p>
+                <p>“Ní fhuil focal bréige ann, a inghean ó. Is mór í mo dhúil ’san airgead le
+                    leath-chéad bhliadhan, acht ní raibh an sgéal mar sin agam riamh. Bhí lá eile
+                    agam. Bhí mé óg agus bhíos i ngrádh chomh maith leat-sa, agus b’fhéidir níos
+                    doimhne ’ná mar athair-se. Bhíos bocht, agus bhí sise bocht, freisin. D’fhágbhas
+                    mo chéad slán aici agus do bhailigheas liom go hAimeiriocá le carnán airgid do
+                    chur ar mhuin a chéile agus le bean uasal do dhéanamh dom’ spéir-bhean.
+                    D’imthigheas liom siar gur shroicheas Iarthar na Stát nAontuighthe. Chaitheas
+                    roinnt bhliadanta ann agus d’éirigh an saoghal liom go geal. Is annamh a
+                    ghéibhinn leitir ó Éirinn acht amháin cúpla focal anois agus arís uaithi-sean,
+                    ’ghá rádh go raibh sí go maith agus a leithéidí sin.</p>
+                <p>“Aon uair amháin chuaidh bliadhain tharainn agus gan focal agam uaithi. Níor
+                    bh’fhéidir liom a fhulang bheith gan tuairisg uirri, agus ó tharla an t-am sin
+                    go raibh roinnt<pb n="31"/>mhaith airgid i dtaisgidh agam, thug mé aghaidh ar an
+                    mbaile arís. Och? Mo léan géar is mo lomadh luain! Ní raibh romham acht a
+                    huaigh. ’San uaigh chéadna cuireadh na comhursain uilig nach mór, bliadhain na
+                    gorta. Sáitheadh isteach le chéile iad i n-éan-pholl amháin.</p>
+                <p>“Ó a Dhia na ngrásta! í ag fadhbháil bháis leis an ocras ar thaoibh an bhóthair
+                    agus mise i bhfad uaithi agus gan sméaróid eólais agam ar a cás! Sise gan rud le
+                    cur i n-a béal aici agus mise thall i nAimeiriocá, mo phóca lán go béal
+                    d’airgead.”</p>
+                <p>Do shamhlaigh éadan an tsean-fhir go mílítheach fa sholas na gealaighe.
+                    D’iompuigh sé uaithi beagán agus chrom sé ar amharc amach thar an bhfairrge ó
+                    thuaidh.</p>
+                <p>Bhí a fhios ag Máire go raibh sé ag déanamh marantha ar uaigh mhóir bhliadhna na
+                    gortan thuas i gCondae Mhuigheó agus níor leig sí focal ar lár. I n-a leabaidh
+                    sin, is amhlaidh go rug sí ar láimh air. D’airigh sí fuar gan bhrígh gan
+                    fuinneamh é.</p>
+                <p>Bhí an cailín ag baillchrith acht ní fuacht na hoidhche fa ndeara é. Níor bh’é an
+                    Cneamhaire do bhí os a comhair acht taidhbhse d’éirigh chuici as laetheanntaibh
+                    a óige.</p>
+                <p>“A Shéamais bhoicht! A Shéamais bhoicht!” ars’ sise os íseal. Níor chuir an
+                    sean-fhear éan-tshuim innti, acht d’fhan sé ag amharc amach uaidh chum áirde an
+                    dá bhinn déag gan corraighe as.</p>
+                <p>Bhiodar mar sin ar feadh tamaill mhaith aimsire.</p>
+                <p>“B’fhéidir gurab é an fáth go bhfuil dúil agam ’san airgead,” ars an Cneamhaire
+                    fa dheireadh, “gur<pb n="32"/>íocas chomh daor sin as. Bíonn an t-airgead mar
+                    fuil os comhair mo dhá shúil – go dearg, go dearg i gcomhnaidhe. Is mar sin a
+                    chím-se é.”</p>
+                <p>Do chrom Máire a ceann síos agus phóg sí a láimh. D’airigh Séamas deór ag tuitim
+                    léithi.</p>
+                <p>Bhíodar araon i n-a dtost go ceann tamaill.</p>
+                <p>“Ní imtheóghad as an oileán, chor ar bith,” arsa Máire go haibidh.</p>
+                <p>“Ní imtheógha tú, an n-eadh? An é sin a n-abrann tú? Acht an dtuigeann tú ’n-a
+                    cheart méad na bochtanachta a bhéas ag goilleadh ort annseo, má fhanair?”</p>
+                <p>“Ní fhuil duine ’sa domhan a thuigeanns níos fearr ’ná mise chomh trom agus a
+                    bhíonns an ganntar agus an bhochtanacht ag gabháil do mhinntir Árann – acht ’n-a
+                    dhiaidh sin féin fanfad ’sa mbaile i n-ainm Dé.”</p>
+                <p>“Tá go maith,” ars an Cneamhaire.”</p>
+            </div>
+
+            <div type="chapter">
+                <pb n="33"/>
+                <head>CAIBIDIL A CEATHAIR.</head>
+                <head>"IS GOIRE CABHAIR DÉ 'NÁ AN DORAS."</head>
+                <p>Ar maidin lá ar n-a bhárach chuadhdar muinntear an oileáin i ndiaidh a chéile
+                    soir go dtí an fánán.</p>
+                <p>Bhí na curacha i gcóir chum na gcailíní do bhí le dul thar lear do bhreith ar
+                    bhord an long-ghaile.</p>
+                <p>“Tuige go bhfuil tusa ag caoineadh?” arsa Peadar Fada nuair d’árduigh Máire Bhán
+                    a guth chomh maith le cách. “Is muid-ne a bhéas ag caoineadh in do dhiaidh.”</p>
+                <p>“Táim ag caoineadh i ndiaidh na gcailíní atá ar tí imtheacht’ uainn,” arsa
+                    Máire.</p>
+                <p>“An dá ríribh atá tú, a Mháire? ’Ar ndó’, ní ceart duit bheith ag fonmhaid fúm
+                    indiu agus ualach ar mo chroidhe.”</p>
+                <p>“Ní ag déanamh fonmhaid’ fút atáim, muis. Tá m’inntinn socair agam ar fanacht
+                    leat, cibé bocht saidhbhir thú, nó cibé an fhad a chaithfimid bheith ag
+                    feitheamh le n-a chéile.”</p>
+                <p>Ní chreidfeadh Peadar a chluasa féin.</p>
+                <p>“Is ag magadh fúm atá tú, tá mé ag ceapadh.”</p>
+                <p>“Ní headh go deimhin! Ní dhéanfainn a leithéid ort ar an domhan.”</p>
+                <p>“Creidim thú anois, muis. Acht ní thuigim an sgéal chor ar bith. Cad a thug ort
+                    an t-atharrughadh inntinn’ seo?”</p>
+                <p>“Aisling a bhí agam aréir, a Pheadair, nó brionglóid, mar adéarthá. Shaoileas go
+                    raibh tusa id’shean-fhear<pb n="34"/>chrosda gan fuinneamh i do ghéagaibh ná
+                    grádh d’éinne’ i do chroidhe. Bhí tú id’iasgaire chomportamhail annseo. Bhí mise
+                    th’éis Aimeiriocá, clóca síoda orm agus hata gléasta go deas le ribí ní agus a
+                    leithéidí eile, airgead mo dhóthaint im’ sparán agam agus ’chuile chineál maoin’
+                    im’ sheilbh. Bhíos-sa ag gabháilt suas an bóithrín i n-aice na roilig’ agus mé
+                    ag teacht abhaile. Casadh dham annsin thú, acht níor aithin tú mé, chor ar
+                    bith.”</p>
+                <p>“‘Mise Máire Bhán,’ adubhras leat</p>
+                <p>“‘Ní tú,’ arsa tusa go feargach; ‘ní tú go deimhin. Bhí Máire – mo Mháire-se – i
+                    n-a cailín óg shlachtmhar, agus cad mar gheall ort-sa? Sean-bhean phostamhail
+                    ghránda thú atá córuighthe mar phéacóig i ngioblachaibh sróil. Ní tusa Máire go
+                    deimhin.’</p>
+                <p>“D’fhéachas síos i bpoll uisge a bhí taoibh liom agus do b’é sin an chéad uair
+                    d’airigheas mé féin aosda gránda; bhí an ceart agat.</p>
+                <p>“‘Is mise Máire Bhán,’ adubhras arís.</p>
+                <p>“D’fhéach tú orm annsin idir an dá shúil agus an fhad a bhíos mar aon leat níor
+                    thóg tú do shúile dhíom.</p>
+                <p>“‘Is amhlaidh adeir tú,’ arsa tusa, ‘acht ní chreidim thú – ní tusa an Mháire a
+                    dtugas grádh dí fad ó. Thíos ’san roilig úd b’fhearr liom í ’bheith ’ná bheith
+                    mar tusa anois. Ní aithnighim thú chor ar bith.’ Agus ’gá rádh sin, as go bráth
+                    leat. Bhíos fágtha im’ aonarán go brónach. Sin í an bhrionglóid a bhí agam. Nach
+                    aisteach é?”</p>
+                <p>‘Ní fhuil tú id’ shean-bhean fós, a rúin! Do b’ághmharach an bhrionglóid damh-sa
+                    í, cibé sgéal é. Agus, <pb n="35"/>an n-abrann tú, a Mháire, gur bhrionglóid a
+                    thug ort fanacht ’sa mbaile?”</p>
+                <p>Níor mheas Máire gur cheart dí sgéal an Chneamhaire d’innsint gan cead aici
+                    uaidh. Mar sin adubhairt sí :-</p>
+                <p>“É sin agus rudaí eile.”</p>
+                <p>“Buidheachas mór do Dhia,” arsa Peadar.</p>
+                <p> * * * * * * </p>
+                <p>Nach mór an t-iongantas nach mbéitheá ag braith le do dhíol mná ’fhaghbháil?”
+                    adubhairt athair Pheadair leis cúpla lá i n-a dhiaidh sin. “Nach deas dathamhail
+                    an cailín í Máire Chatach, inghean na baintreabhaighe thiar i gCionn an
+                    Bhaile?”</p>
+                <p>Chuir Peadar cluas le héisteacht air féin. Dá mba gur thuit an ghrian anuas as an
+                    spéir ní chuirfeadh sé níos mó iongantais air.</p>
+                <p>Ní raibh sé i n-innimh oiread le focal do rádh.</p>
+                <p>“Tá sé i n-am do Cháit, freisin, cur fúithi i n-áit dí féin. Ní rachadh beirt
+                    mháighistreás le chéile i n-éin-teach amháin. Cad é do mheas ar Mhac Uí
+                    Dhonnchadha. Ní fhuil fód talmhan aige, acht mar sin féin, ’ar ndó’, is breagh
+                    láidir an buachaill é. Daoine macánta a bhí i n-a sheacht sinsir roimhe.”</p>
+                <p>Níor fhéad Peadar focal do chur as, agus níor thuig sé staid na ceiste chuige ’ná
+                    ar éan-chor. Go deimhin, níor thuig acht an oiread le ceap bhróige, mar
+                    adéarthá, acht dá mbíodh sé do láthair ’sa seomra bheag taoibh thiar do’n
+                    chisdin sgathamh beag i n-a dhiaidh sin is dócha go dtuigfeadh sé an t-iomshlán
+                    go dian-mhaith<pb n="36"/>Is sean-fhocal é, agus is fíor, go dtaisbeánann
+                    tráithnín treó na gaoithe.</p>
+                <p>Ar ball nuair do bhí an t-aos óg thíos ar an Muirbheach, seo é an Cneamhaire
+                    isteach chum athar Pheadair agus mála aige i n-a láimh.</p>
+                <p>Seo é ag tarraing láin a ghlaice do phíosaíbh óir amach as an mála, agus ag
+                    áireamh trí fichid punnt ar an gclár os a chomhair, agus seo é fós ’gá rádh,
+                    agus é ag féachain go glinn géar ar an bhfear eile:</p>
+                <p>“Ní chuirfidh Tomás Sheagháin Ruaidhrí barr a mhéire salaighe ar mo chuid airgid
+                    go deó. Dar fiadh, ní chuirfidh. Is do’n ghrádh agus do’n óige a thiubhras mé
+                    é.”</p>
+            </div>
+        </body>
+    </text>
+</TEI>

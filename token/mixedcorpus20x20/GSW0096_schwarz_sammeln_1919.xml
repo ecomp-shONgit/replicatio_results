@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GSW0096" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sammeln oder Zerstreuen? Eine Geschichte vom Sonntag: ELTeC Ausgabe</title>
+                <author ref="viaf:30311594">Schwarz, Rudolf (1879-1945)</author>
+                <respStmt>
+                    <resp>ELTeC conversion</resp>
+                    <name>Automatic Script</name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <measure unit="pages">15</measure>
+                <measure unit="words">3497</measure>
+            </extent>
+            <publicationStmt>
+                <p><date>2022-04-22</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                    <respStmt>
+                        <resp>Transcription</resp>
+                        <name>UB Basel</name>
+                    </respStmt></bibl>
+                <bibl type="digitalSource">
+                    <respStmt>
+                        <resp>Scan</resp>
+                        <name>UB Basel</name>
+                    </respStmt></bibl>
+                <bibl type="firstEdition">
+                    <title>Sammeln oder Zerstreuen? Eine Geschichte vom Sonntag</title>
+                    <author>Schwarz, Rudolf</author>
+                    <publisher>Frobenius</publisher>
+                    <pubPlace>Basel</pubPlace>
+                    <date>1919</date>
+                    <!-- this title has been retrodigitised as part of the project “High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century”  -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc n="eltec-0">
+            <p>The text was transcribed from the transcription from UB Basel, which is based on the
+                1919 edition. The page breaks, chapter divisions and chapters were taken from scan
+                from UB Basel, which is based on the 1919 edition.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2022-05-21">Svenja Schär added TEI Header and removed noise.The Scan is
+                used only to insert page beginnings, paragraphs, chapters and heads.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="chapter">
+                <p>49497 <pb/>Draußen in dem hübschen, alten Landhaus vor dem Städtchen lebte seit
+                    etwa anderthalb Jahren ein Mann, der viel zu reden gab,obwohl er ein sehr
+                    stilles Leben führte. Der „Amerikaner“, wie ihn Sroß uund Klein nannte, war ein
+                    noch recht rüftiger Herr, Mitte der sechziger Jahre, ging mit seiner schönen,
+                    rassereinen dänischen Dogge viel spazieren und unterhielt sich freundlich mit
+                    Jedermann, den er traf. Wer ihn reden hörte, merkte gleich, daß sein Äbername
+                    nicht seine Herkunft, sondern nur einen langen Aufenthalt in der neuen Welt
+                    bezeichnete.</p>
+                <p>Herr Andreas Markhofner war sogar ein Kind des Städtchens selbst, ein Sohn des
+                    Kupferschmieds Markhofner am obern Tor, den die ältern Leute alle noch gekannt
+                    hatten. Sr selbst war schon als junger Bursche ausgewandert; man hatte 45 Jjahre
+                    lang nichts mehr von ihm gehört und nun war er auf einmal wieder da als reicher
+                    Mann. Freilich die drei großen Möbelwagen, mit denen er ankam,waren nicht, wie
+                    die Jugend des Städtchens erwartet hatte, ganz voll Soldsäcke und
+                    Banknotenpäckchen gewesen, sondern hatten nur guten Hausrat geborgen. Aber
+                    immerhin das Steuer-Kapital des Städtleins hatte durch die Rückkehr dieses fast
+                    verschollenen Bürgers doch einen außerordentlich erwünschten großen Zuwachs
+                    bekommen und, wo etwas freiwillig gesteuert wurde, da verhielt sich der
+                    Amerikaner durchaus anständig, weder knorzig noch protzig; er gab reichlich und
+                    gern, dabei ohne Seschrei und Aufsehen.</p>
+                <p>Die notwendige Reparatur der Kirchenorgel war infolge seines Zuschusses nun
+                    endlich fest beschlossen; der Verkehrsverein hatte seit seinem Beitritt
+                    sämtliche Bänke am StadtbergWeg neu streichen lassen; die Tuberkulose-Liga
+                    konnte unbesorgter als vorher Kranken und Sefährdeten Srholungskuren bewilligen,
+                    denn Herr Markhofner <pb/>hatte dem Kassier gesagt, für so etwas sei er immer zu
+                    haben. Der Männerchor schließlich, der vor seinem 50jährigen Jubiläum
+                    stand,hatte eine so wirklich uberraschend X es schnöder Andank hätte heißen
+                    müssen, wenn das schöne Fest nicht in geziemender Weise zur Huldigung für den
+                    hochherzigen Sönner geworden wäre. Die Aberreichung der wundervoll
+                    kalligraphierten EhrenmitgliedsArkunde an ihn sollte im Festakt sozusagen den
+                    von Reden und Sesängen umrahmten Höhepunkt bilden.</p>
+                <p>Aber ach, Herr Andreas Markhofner war trotz höflichster Einladung nicht
+                    erschienen und, da damit niemand gerechnet hatte,so war einige Derwirrung ins
+                    Festprogramm gekommen und noch am MontagAbend, als die Häupter des Männerchors
+                    bei Küfer Hutzinger zur Nachfeier beisammensaßen, wurde nicht ohne einigen Arger
+                    davon gesprochen.</p>
+                <p>„Hat er sein Nicht-Erscheinen denn irgendwie begründet, als Sie ihm die Arkunde
+                    ins Haus brachten?“, fragte der junge Lehrer Brödli den Dereinspräsidenten
+                    Oberrichter Holzmann.</p>
+                <p>Der zuckte die Achseln: „Begründet? ja oder Nein, wie man will. Sr hat gesagt, es
+                    sei sehr freundlich von uns gewesen, ihn einzuladen, aber er bleibe eben
+                    Sonntags grundjsätzlich daheim. Das ist doch kein vernünftiger Srund, nicht
+                    wahr, meine Herren?“</p>
+                <p>Alles nickte Heren Holzmann beistimmend zu und Metzger Mayfelder lachte
+                    grimmig:</p>
+                <p>a, einen Sonntagsrappel hat er, der Amerikaner; das hab'ich bitter genug
+                    erfahren.“</p>
+                <p>Man drängte ihn, seine Srfahrung zu erzählen.</p>
+                <p>„Ja, als ich hörte, daß so ein Soldvogel sich bei uns niederließe, da hab' ich
+                    mich, wie alle unsere Professionisten, herzlich gefreut, und als seine
+                    Haushälterin übrigens ein Frauenzimmer, das weiß, was ein gutes Stũck ist den
+                    ersten Sonntagsbraten für ihn bestellte, da wollt ich Ehre einlegen und schnitt
+                    das Allerfeinste heraus und versprach es zu schicken. Am Sonntag früh trägt der
+                    Franz, mein Lehrbub, das Brätlein hinaus, samt den Bratwürsten <pb/>für Ihre
+                    Frau, Herr Oberrichter es ist ja ein Weg und bringts wieder heim. Die jungfer
+                    habe gesagt, sie wollten den XEhab ich mich geärgert! Sesagt hatte sie's, das
+                    war wahr; aber ich hatte gedacht, es gehe wie hier üblich. And nicht einmal
+                    entschuldigen konnt' ich mich; denn ein volles Jahr kam die Jungfer Salome
+                    keinen Schritt mehr in meinen Laden. Srst seit ein paar Wochen ist der
+                    Amerikaner wieder mein Kunde und zwar ein guter, das muß ich sagen, und ich
+                    sorge dafür, daß er den Sonntagsbraten am SamstagAbend kriegt.“</p>
+                <p>Man lachte und Herr Mayfelder setzte dazu:</p>
+                <p>„Weiß der Teufel, ob er ein Jahr lang Kraut gefressen hat oder wo er sein Fleisch
+                    herbezog; hier hat er's nicht genommen, das weiß sch, weder beim „Schwanenwirt“
+                    noch beim „Schwartensepp.“</p>
+                <p>Posthalter Hügi schmunzelte und sagte: „Das kann ich dir schon sagen, Jjakob,
+                    ohne das Postgeheimnis zu verletzen. Jeden Tag kam,bis eben vor ein paar Wochen,
+                    ein sauberes Kistlein an, das als Absender den Namen einer sehr renommierten
+                    Sroßmetzgerei aus der Stadt zeigte. Natürlich Sonntags ausgenommen, aber das
+                    Samotago-paket war jedesmal doppelt so schwer!“</p>
+                <p>„So, so,“ grollte der Metzger, „aus der Stadt hat er's kommen lassen müssen, als
+                    ob wir nicht grad so gut schlachteten!“</p>
+                <p>„Ja, aber eben der Sonntag war's, Maufelder, nicht die Qualitãt,“ lachte wieder
+                    der Posthalter und er setzte dazu: Vbrigens das muß man dem Amerikaner lassen,
+                    er hält seine Srundsätze auch aufrecht, wo es ihn trifft. Auch die Post, die
+                    Zeitungen und Briefe will er Somitags nicht; es sind noch kaum vierzehn Tage,
+                    daß er einen eingeschriebenen Expreßbrief aus Amerika einfach nicht annahm am
+                    VLonntag.“</p>
+                <p>Auch Bäcker Leibundgut gestand, daß er mit den Frühstücks-weggen die gleiche
+                    Srfahrung gemacht wie Mayfelder, und Herr Brödli sagte spottend: „Ja, der nimmt
+                    Euch Seschäftsleute in die kKur und dressiert Euch, wie er will; das tut Euch
+                    nur gut.“<pb/>Das reizte den Metzger. Sr schlug mit der Faust auf den Tisch und
+                    schimpfte: „Schikane war's und ist's! And Hochmut! Der Narr will's einfach
+                    anders haben als andere Leute!“</p>
+                <p>„Nun ein reicher Amerikaner ohne Schrulle, das wäre wie eine Rose ohne Dorn!“
+                    tröstete man ihn und suchte nun doch zu ergründen, warum der Amerikaner just aus
+                    dem Sonntag eine solche diebhaberei mache. Man ftellte fest, daß er kein
+                    „Stündeler“ sei;das habe sich an seinem ganzen Verhalten, namentlich auch an
+                    seiner schönen Sabe für den Männerchor gezeigt. Nicht einmal sonderlich
+                    kirchlich scheine er zu sein; er sei zwar einige Male in der Predigt gewesen,
+                    aber nicht allzuhäufig, jedenfalls nicht regelmäßig. Amso unerklärlicher schien
+                    den Herren die Sonntagsschrulle des Amerikaners.</p>
+                <p>Das Sespräch, das die Herren darüber auf dem hübschen, mit KübelOleandern
+                    umstandenen VDorplätzchen der Hutzingerschen Weinstube führten, wurde jäh
+                    unterbrochen, als um die Scke mit einem Mal Herrn Markhofners dänische Dogge
+                    auftauchte. Wie nun gleich darauf ihr Herr selbst folgte und mit freundlichem
+                    Sruß fragte, ob er auch sich bei ihnen niederlassen dürfe, da wurde es natürlich
+                    gern gestattet; aber es lag doch eine gewisse allgemeine Verlegenheit über den
+                    ersten Minuten, weil man nicht über das eben Sesprochene weiter reden wollte und
+                    Alle in ihren Sedanken doch nicht davon loskamen.</p>
+                <p>Herr Brodli, der diese Derlegenheit besonders peinlich empfand,weil er eine
+                    gerade, aufrichtige Art hatte, ertrug das Schweigen nicht länger.</p>
+                <p>„Herr Markhofner,“ sagte er, „wir haben gerade von Ihnen gesprochen. Wir konnten
+                    nicht recht begreifen, warum Sie gar so streng gegen alle Sonntags-Arbeit und
+                    alles Sonntags-Oer-gnügen sind.“</p>
+                <p>Der Angeredete lachte ein wenig und sagte dann: „Hab's wohl gemerkt, meine
+                    Herren, daß Sie mich eben in Arbeit hatten und konnte mir auch denken weshalb.
+                    Mein LonntugsFanatismus, oder wie Sie es nennen wollen, plagt Sie. Aber er ruht
+                    nicht bloß auf <pb/>einer Schrulle, sondern er ist das Ergebnis meiner
+                    Lebenserfahrung.Langweilt es Sie nicht, so will ich's Ihnen gern zu erklären
+                    versuchen.“Offen gestanden, die Mehrzahl der Herren war nicht besonders erfreut
+                    von diesem Angebot und ärgerte sich ein bischen, daß der Lehrer so offen ihr
+                    Sespräch verraten hatte. Aber es ging doch nicht wohl an, die Aufklärung
+                    abzulehnen, und so machte man sich bereit, sie mit Ergebung anzuhören.</p>
+                <p>„Fünfundvierzig Jahre,“ begann Herr Markhofner, „bin ich von hier fortgewesen,
+                    nicht die ganze Zeit in Amerika. Srst ging ich als junger Kaufmann nach
+                    Frankreich, ein paar Jjahre darauf nach Spanien und wieder nach ein paar
+                    Jährchen wechselte ich von Barcelona ins spanische Amerika hinũber. Fast ein
+                    Jahrzehnt habe ich teils im sũdlichen Brasilien, teils in Argentinien
+                    zugebracht, in sehr verschiedenen Stellungen. Derdient habe ich meist gut, aber
+                    vor mich gebracht doch nichts Rechtes, obwohl ich damals zeitweilig Werktags und
+                    Sonntags ganz gleich fortarbeitete. And wenn ich einmal in diesen Jahren am
+                    Lonntag nicht schaffte, so erholte ich mich, wie ich glaubte, um so gründlicher.
+                    In Wirklichkeit war's aber nie Erholung, sondern immer nur Zerstreuung. Ich
+                    zerstreute an diesen Lonn und Feiertagen, die ich mit allerlei Freunden bei den
+                    Dergnügungen südamerikanischer Sroßstädte oder auf Lustreisen zubrachte, viel
+                    meiner innern und äußern Kraft, ohne es selber groß zu merken.Klar wurde mir's
+                    erst, als mich Seschäftsbeziehungen und Lebensverhältnisse, die ich Ihnen hier
+                    nicht ins Einzelne schildern kann, in den Norden, in die VDereinigten Staaten,
+                    führten und zwar nach NewHampshire, ins richtige NeuEngland. Am ganzen Wechsel
+                    der Lebensart fiel mir am unangenehmsten zunächft der Sonntag auf, der Sonntag
+                    ohne alle meine bisherigen Zerstreuungen, ohne Theater,Konzert, ohne
+                    Seselligkeit und Dergnügen, der richtige “</p>
+                <p>„Englische Sonntag,“ fiel Posthalter Hügi ein, der vor Jahren <pb/>drei Wochen
+                    über dem Kanal gewesen war, „kenne das, trostlos langweilig. Puh, wenn ich nur
+                    dran denke!“</p>
+                <p>Ja, so kam's mir zuerst auch vor,“ sagte Herr Markhofner,„aber mit der Zeit
+                    lernte ich's anders auffassen. An den Vankees war mir von Anfang aufgefallen,
+                    wie viel frischer, energischer,stählerner der ganze Lebens und Arbeitsbetrieb
+                    war als bei den Leuten im Süden und in unserm alten Europa. Ss ging auch nicht
+                    allzulang, so fühlte ich mich in diesen sftarken Strom sozusagen mit
+                    hineingerissen und hatte Erfolg. Was ich erworben habe, so daß ich jetzt als
+                    behaglicher Hausbesitzer und Jubelgreis in der alten Heimat sitze, stammt aus
+                    meinen Jahren im Norden.“</p>
+                <p>ESr schwieg einen Augenblick, trank einen Schluck und fuhr fort:Wenn ich mich nun
+                    besinne, was meinem Leben die neue Art gab,was überhaupt der Srund der
+                    amerikanischen Frische und Tüchtig-keit ist, so spielt ja da vielerlei mit, aber
+                    nicht zum wenigsten eben die angelsächsische SLonntagsauffassung, der ich mich
+                    erst auch recht widerwillig gebeugt habe, die sich mir aber nach und nach als
+                    große Wohltat enthüllte.“</p>
+                <p>Herr Oberrichter Holzmann unterbrach ihn entrüftet: „Ansinn,herr Markhofner, so
+                    ein englischer langweiliger Heuchelsonntag, dieser Sipfel der Odigkeit, kann
+                    doch nicht anders als schädigend wirken;das ift meine feste Aberzeugung.“</p>
+                <p>„Mag sein, Herr Oberrichter, mag sein; nur steht Ihrer Äberzeugung meine
+                    Erfahrung gegenüber. Ich habe ja früher den Sonntag auch so verstanden, wie man
+                    ihn gewöhnlich versteht. Man will Erholung von ihm und das ift ganz richtig.
+                    Aber man sucht die Srholung draußen: in der Natur, in der Seselligkeit, im
+                    VDergnügungsbetrieb, in Konzert, Theater, Reisen usw. In meinen
+                    nordamerikanischen Jjahren habe ich ihn dann anders verstehen gelernt;auch als
+                    Srholungstag, aber eben nicht durch Zerftreuung, sondern durch Sammlung: in der
+                    Stille eigenen Nachdenkens, im Kreis der Familie. Zuerst kam mir's ja auch
+                    langweilig vor, gewiß, aber je mehr ich mich dran gewöhnte, desto mehr spürte
+                    ich auch die Kraft <pb/>dieser Sitte. Nach einem LSonntag der Zerstreuung, wie
+                    ich's früher gehabt, war mir der Montag immer nur ein halber Tag. Nach einem
+                    Sonntag der Sammlung ging die Arbeit am Montag doppelt leicht und für die ganze
+                    Woche wirkte die gesammelte Kraft nach.Dadurch wurde mein ganzes Schaffen
+                    frischer, erfolgreicher und dadurch auch froher, freudiger. Das ist meine
+                    Srfahrung mit dem Sonntag, der nicht der Arbeit und der Zerstreuung, sondern der
+                    innern Sammlung dient.“</p>
+                <p>„Lammiung, immer SRammlung? Was meinen Sie denn eigentlich damit?“ polterte
+                    Metzger Mayfelder. Sr hatte sich am meiften geärgert, daß nun ihr friedlicher
+                    Abendschoppen so ernst zu werden drohte, und da er im Ärger sein Schöpplein
+                    etwas rascher als sonst geleert hatte, so war er nun ein wenig schwer von
+                    Begriff und leicht von Zunge geworden.</p>
+                <p>„Sammlung?“ antwortete lächelnd der Amerikaner, „ja, wenn ich Ihnen das erst
+                    erklären muß, so werden Sie es wohl kaum verstehen.Aber versuchen will ich's
+                    doch. Als ich noch Seschäftsmann war wie LSie, da ging's mir wie es Ihnen wohl
+                    auch geht: ich hatte viel Arger. Angestellte, Kunden, Lieferanten waren oft wie
+                    verschworen,mich aufzuregen und ungeduldig zu machen und ich hätte oft die ganze
+                    Menschheit am liebsten dahin gewünscht, wo der Pfeffer wächst.“</p>
+                <p>Herr Maufelder staunte; er hätte einen solchen Sefühlsausbruch dem ruhigen,
+                    reichen Amerikaner gar nicht zugetraut; nun nickte er gewaltig und brummte sein
+                    Leibsprüchlein vor sich hin: „Mensch,ärgere mich nicht!“</p>
+                <p>„Wenn ich nun am Sonntag dieselbe Menschheit um mich zu zerstreuen, wie man sagt
+                    in SEisenbahnen und Tramwagen, auf Dampfern und Landstraßen, in übervollen
+                    Wirtschaften und Dergnügungslokalen wiedertreffe, so bin ich am Montag immer in
+                    genau derselben gereizten Stimmung ihr gegenüber wie am Samstag-Abend.Ich habe
+                    am Sonntag nichts gewonnen. Verbringe ich aber den Zonntag in aller Stille mit
+                    den Meinen, so ärgere ich mich erstens selber nicht, und zweitens, wenn ich
+                    mir's so überlege, so finde ich,<pb/>daß wahrscheinlich die Menschen nicht bloß
+                    mich geärgert haben,sondern ebenso ich sie und diese AÄberlegung macht mich
+                    ruhiger,milder, und ich gehe am Montag ganz anders in den notwendigen Verkehr
+                    mit Lieferanten, Kunden und Angestellten hinein ich habe mir Seduld gesammelt am
+                    Sonntag.“</p>
+                <p>„Hat sich was, hat sich was,“ lachte Oberrichter Holzmann,„ich hätt' mich heut
+                    morgen in der Audienz auch nicht so über den Prozeßhammel von Sroßhofbauern
+                    geärgert, wenn mir nicht von gestern der Jubiläumsrummel in den Sliedern
+                    gesteckt hätte!“</p>
+                <p>„Ss brauchen nicht einmal die Menschen zu sein,“ fuhr Herr Markhofner fort,
+                    „allein schon unser Seschäftsbetrieb an sich nimmt mit seinen Sorgen, seiner
+                    Arbeit, seinem Hundertlei von großen und kleinen Dingen unser ganzes geistiges
+                    Wesen, unser ganzes Nervensystem in Anspruch. Wenn ich jetzt am Sonntag einem
+                    Delorennen, einem FußballMatch oder dergleichen beiwohne, so ist das eben wohl
+                    eine Sache, die mich in ganz anderer Richtung in Anspruch nimmt, aber eben mich
+                    doch auch in Anspruch nimmt, meine Nerven fordert, mich mit Lärm und Aufregung
+                    umgibt: es ist Zerftreuung, aber nicht Sammlung. Sammlung ist's, wenn mich der
+                    Sonntag aus dem Lärm in die 8Stille führt, wenn ich wirklich ruhe,an einem
+                    schönen Buch mich erquicke, mit meinen Kindern mich freue.Dann habe ich Kraft
+                    gesammelt für die Woche. Derftehen Sie nun,was ich damit meine, Herr
+                    Mayfelder?“</p>
+                <p>Da der Angeredete auf diese Frage nur etwas Anverständliches brummte, fügte
+                    Markhofner noch bei: „Man kann natürlich keinem Menschen ein fertiges Rezept für
+                    seine Sonntagsfeier geben. Dem Sinen kann Sammlung sein, was dem Andern nur
+                    Zerstreuung ist,3. B. ein rechter Spaziergang. Aber im allgemeinen, was als
+                    Sonntagsvergnũgen heute unter uns gilt, ist meist nur Zerstreuung und sehr
+                    selten etwas von Sammlung dabei. Oder nicht, meine Herren?“</p>
+                <p>Zie mußten ihm im Srunde alle Recht geben, wenn sie an ihre gewõhnlichen Sonntage
+                    dachten und an den geftrigen insbesondere.</p>
+                <p>„Man sieht es ja an den Folgen,“ fuhr Herr Markhofner fort.<pb/>„Es war mir, seit
+                    ich wieder in unserm lieben Daterland weile,nichts so betrübend zu sehen, als
+                    die furchtbare VDerdrossenheit, mit der Anzãhlige an ihrer Wochen und
+                    Lebensarbeit stehen. And wissen Sie, was zum guten Teil daran schuld ist?“</p>
+                <p>Sr griff zu dem Zeitungshalter, der auf dem Tisch lag, weil die Herren vorhin
+                    geschaut hatten, ob schon ein Bericht über die Jubilãumsfeier im Blatt stehe.
+                    Die SonntagsNummer war auch noch da und Herr Markhofner hielt den AnzeigenTeil
+                    vor seine Tischgenossen hin. Es war kein SroßsftadtBlatt, sondern nur eine
+                    bescheidene Bezirkszeitung. Aber da standen außer der Sinladung zum
+                    jubiläumsKonzert des Männerchors noch der Kreisturntag in Knötliswil, eine
+                    TheaterAufführung „Jutta von Sternheim, oder:Blutige Rache“ in Afflikon,
+                    Tanzvergnügen in Hopsigen, Frauenhofen und Küßwangen, Preiskegeln im „Bären“ zu
+                    Neundorf, eine Bekanntmachung der EntenbachTalbahn über drei neu in den Fahrplan
+                    eingeschaltete Sonntagszüge, FreicKonzert des Musikvereins Tuthausen im
+                    „goldenen Sternen“, Kaninchen-Ausstellung in Küngelheim usw. usw.</p>
+                <p>„Ss ist ein wenig viel auf einmal,“ gab Herr Brödli zu, als der Amerikaner eine
+                    Anzeige nach der andern im Marktschreierton vorgelesen hatte.</p>
+                <p>„Ss ist zu viel,“ sagte Markhofner ernst, „es ist Dergeudung unserer Volkskraft,
+                    Zerstreuung, Zerstreuung, wo Lammlung nottäte,Lärm, wo wir Stille brauchten.
+                    Deshalb, mag man mich einen Sonntagsnarren nennen, meinetwegen! Ich will doch,
+                    soviel ich kann, dafür wirken, daß auch unser Schweizervolk den Sonntag als
+                    wirklichen Erholungstag, den Sonntag der Sammlung, nicht der Zerstreuung,
+                    wiederfinde.“</p>
+                <p>Lehrer Brödli hatte eine Sinwendung, die aus der Not seines Herzens stammte; denn
+                    er beschäftigte sich viel mit all den schweren Fragen des Menschenlebens; die
+                    Spannung z3wischen Kapitalismus und Sozialismus, die Sebundenheit unseres Dolkes
+                    in der Trinksitte und derlei Dinge gaben ihm zu schaffen. „Herr Markhofner, was
+                    <pb/>Sie sagen hat viel für sich, aber meinen Sie wirklich, die
+                    ArbeitsDerdrossenheit unserer Zeit mit mehr Sonntagsruhe heilen zu können?Deren
+                    Wurzeln liegen doch viel tiefer; der Kapitalismus und Mammonismus hat uns die
+                    Schaffensfreude geraubt. Durch den verfluchten SeldDienst ist unser Seschlecht
+                    so gehetzt, gejagt und geplagt,daß es nur Zerstreuung will und zur Lammlung gar
+                    nicht mehr fähig ist. Wie ist ein Sonntag der Sammlung möglich für die
+                    Vielen,Dielen, die kein Heim haben, wo sie einmal für sich sein können?Da müssen
+                    zuerst die VDerhältnisse anders werden, ehe Ihre Bestrebungen für einen bessern,
+                    edlern Sonntag einsetzen können.“Der Amerikaner streckte dem jungen Manne die
+                    Hand hin und drückte die Rechte, die Herr Brödli ihm bot, gewaltig. „Sie nehmen
+                    mir aus dem Munde, was ich sagen wollte. Natürlich alle Arbeit für einen
+                    wertvollern Sonntag hat nur dann Sinn, wenn sie in dem Willen wurzelt, der aufs
+                    Sanze geht, der nicht Flecken ausputzt,wo das ganze Kleid gewaschen und erneuert
+                    werden muß. Aber,nicht wahr, es ist doch gar zu bequem, jede Sinzelfrage aus der
+                    Not unseres Volkes von sich wegzuschieben mit dem großartigen Satz:Andert erst
+                    die allgemeinen Verhältnisse!“ Da heißts das Sine tun und das Andere nicht
+                    lassen! Arbeiten für die soziale Srneuerung unseres Volkes und jetzt schon tun
+                    für den bessern Sonntag, was auns möglich ist. Die Sonntagssache ja nicht mit
+                    der ganzen, großen Sache der Srneuerung verwechseln, aber ebenso wenig wegen der
+                    Serneuerung im allgemeinen die Sonntagssache gering achten!“</p>
+                <p>„Ja, was kann denn unsereiner für den Sonntag tun?“ fragte Herr Brodli.„Nun,
+                    zunächst einmal sich selbst den Sonntag der Sammlung an Stelle des
+                    Zerstreuungs-Sonntag setzen und dann sein Blick streifte Metzger Mayfelder und
+                    Bäcker Leibundgut dafür sorgen,daß Andere nicht durch uns unnötige
+                    Sonntagsarbeit und Sonntags-hetze bekommen!“</p>
+                <p>Die beiden Handwerker spürten, daß sie das anging, und, wäh<pb/>rend Mauyfelder
+                    wieder etwas brummte, ergriff nun Herr Leibundgut das Wort:Ja, Herr Markhofner,
+                    das ist alles ganz recht und Lie können sich schon einen arbeitsfreien Sonntag
+                    machen und altgebackene Wegglein essen; deswegen muß mein Lehrbub doch
+                    herumlaufen, die übrige Kundschaft will doch warme Weggen.“</p>
+                <p>„And wenn Sie die LSonntagspost nicht annehmen,“ sagte der Posthalter, „deswegen
+                    müssen die Briefträger doch ihre Austragung machen; was nützts, wenn Sie allein
+                    keine Briefe und Zeitungen wollen?“„Nicht viel, allerdings,“ erwiderte
+                    Markhofner, „aber zunächst für mich: ich habe doch ein sauberes Sewissen in
+                    dieser Sache, das ift schon ein Nutzen, und 3weitens müssen doch Sinzelne mit
+                    dem guten Beispiel anfangen. Dielleicht wirkts doch mit der Zeit. Wenn bei uns
+                    hier, nun etwa außer mir noch Sie, die Sie hier sind, dazu etwa der Herr
+                    Pfarrer, der Herr Doktor und ein paar Andere die Sonntagsbedienung von Metzger
+                    und Bäcker sich verbitten, glauben Sie nicht, daß dann bald Sie, Herr Maufelder,
+                    und Sie, Herr Leibundgut, sich und Ihren Lehrbuben am Sonntag-Morgen Ruhe gönnen
+                    könnten?“</p>
+                <p>Beide Handwerker nickten und auch die Andern gaben es zu,und mehrere nahmen sich
+                    vor, mit ihren Frauen über diesen Punkt zu reden.</p>
+                <p>„Abrigens,“ fuhr Markhofner fort, „für mich ist das nicht bloß eine Frage des
+                    Nutzens, sondern der Pflicht. Ich will meinen freien Sonntag haben, und da ich
+                    mich einen Christen heiße, so gilt doch auch mir das Wort des Meisters: „Was ihr
+                    wollt, das euch die Leute tun sollen, das tut auch ihr ihnen.“</p>
+                <p>Herr Oberrichter Holzmann wurde unruhig. Sr war als Präsident außerordentlich
+                    darauf erpicht, daß das nie verletzt werde, was man im Mãnnerchor die
+                    konfessionelle Neutralität nannte, und worunter die Meisten verstanden, nie auch
+                    nur im Sespräch etwas Religiöses aufkommen zu lassen. Sr schaute drum auch jetzt
+                    ängstlich auf die </p>
+                <p>3 <pb/>Ahr, als der Amerikaner so offen und unbedenklich ein Bibelwort am
+                    Wirtotisch anführte, beglich seine Zeche, erhob sich und gab damit das Zeichen
+                    zum allgemeinen Aufbruch. Während sich alle zerstreuten, dat Herr Brödli Herrn
+                    Markhofner, ob er ihn ein paar Schritte begleiten dürfe.</p>
+                <p>„Noch etwas möchte ich Sie fragen, Herr Markhofner; Sie haben jetzt in allem, was
+                    Sie vom Sonntag sagten, kein Wort von seiner religiösen Bedeutung gesprochen;
+                    das wird doch sonst von den Freunden der SonntagsSache in den Dordergrund
+                    gestellt. Was halten Sie denn davon?“</p>
+                <p>a, lieber Herr Lehrer, davon halte ich viel, nur mochte ich beim Abendschoppen
+                    nicht gerade das zuerst auspacken, sonst wäre der Herr Oberrichter schon viel
+                    früher nervös geworden,“ setzte er lächelnd dazu. Denn er war ein guter
+                    Menschenkenner und es entging ihm nicht leicht etwas von den Mienen und dem
+                    Benehmen der Menschen und dem, was sich dahinter verbarg.</p>
+                <p>„Sehen Sie, ich sprach vom Sonntag als dem Tag der Lammlung. Besser können wir
+                    uns nicht sammeln, besser nicht Kraft für die Woche finden, als wenn wir am
+                    Sonntag uns nicht nur aus dem Lärm in die Stille flüchten, sondern auch aus der
+                    Tiefe der Welt in die Höhe Sottes. Sie haben vorhin mit vollem Vecht darüber
+                    geklagt, daß so Diele in unserm Dolke kein Heim haben, wo sie den Sonntag recht
+                    feiern können. ja, Sott sei's geklagt! Aber Sott sei auch dafür gedankt, daß
+                    doch in jedem Dorf ein Haus ist,wo man am Sonntag eine Stunde der Sammlung haben
+                    kann, die Uirche. And wenn unsere evangelischen Kirchen nicht nur eine Stunde
+                    oder 3wei, sondern immer, wenigftens den ganzen Lonntag, offen stünden, so wär's
+                    noch besser! Ich hab's auch lang versucht, ohne Sott durchs Leben zu kommen und
+                    es war mir nie ganz wohl dabei. Da hat's mich dann auch der englische Lonntag
+                    gelehrt, was uns Sottes Wort an Kraft und Stärkung für unser tägliches Leben
+                    gibt. Nicht nur was ich äußerlich, sondern auch was ich innerlich geworden bin,
+                    danke ich dem Sonntag und dem Sott, der mir diesen <pb/>Tag gegeben. Bei unserer
+                    ganzen Stellung zum Lonntag dürfen wir uns nur nie in die Meinung verlieren,
+                    unsere Sonntagofeier sei ein harter Dienst, den wir Sott leifteten. 8So
+                    verstanden die Pharisäer ihren Sabbat, und diese Auffassung hat auch, übrigens
+                    zu Anrecht, den englischen Sonntag in Derruf gebracht. Im Segenteil,der Sonntag
+                    ist der größte Dienst, den Sott uns leistet, die größte Wohltat, die er uns
+                    erweist. Wenn wir das erfassen und nicht vergessen, so lernen wir den Sonntag
+                    erst recht mit Freuden feiern.“</p>
+                <p>Sie waren vor Herrn Markhofners Haus angekommen und es war spät geworden; drum
+                    verabschiedete sich Herr Brödli und der Amerikaner sagte ihm freundlich: „Sott
+                    gebe Ihnen, daß Sie seinen herrlichen Sonntag ganz erkennen in seiner Sröße und
+                    recht lieb bekommen.“</p>
+                <p>ESs ist eine merkwürdige Beobachtung, daß eine Sache, die wir einmal kennen
+                    gelernt haben, uns in allernächster Zeit unvermutet oft aufstößßt. Als Lehrer
+                    Brödli nach Hause kam, lag die Abendpost auf dem Tisch, und der 3weite Amschlag,
+                    den er öffnete, enthielt einen Bericht und Aufruf des „Sonntags-Vereins“. Noch
+                    gestern hätte er wohl mit dem Arteil „Stündeli-geug“ die Drucksache dem
+                    Dapierkorb übergeben. Nun war sein Sinn geweckt. Srulas das Heftchen aufmerksam
+                    durch und unter dem Eindruck des Sesprächs mit dem Amerikaner setzte er gleich
+                    unter die gedruckte Beitrittserklärung, die ihm aus dem Bericht entgegenfiel,
+                    seine Anterschrift.</p>
+                <p>Willft du es nicht auch tun, lieber Leser?</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="eltec-0.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gle19032" xml:lang="ga">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mac Fínghin Dubh: ELTeC edition</title>
+                <!-- For author names, use standardised names from ainm.ie -->
+                <author ref="viaf:296519051">Ó Séaghdha, Pádraig (1855–1928)
+                    <!-- Surname, Forenames (born-died)--></author>
+                <respStmt>
+                    <resp>ELTeC conversion</resp>
+                    <name>Justin Tonra</name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <measure unit="words">15842</measure>
+                <measure unit="pages">55</measure>
+            </extent>
+            <publicationStmt>
+                <publisher ref="https://distant-reading.net">COST Action "Distant Reading for
+                    European Literary History" (CA16204)</publisher>
+                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+                <date when="2022-04-08"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+                <!-- Add further collections refs, as available -->
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                    <title>Mac Fínghin Dubh: Foclóir Stairiúil Na
+                        Nua-Ghaeilge (FNG) / The Historical Dictionary of Modern Irish
+                        edition</title>
+                    <ref target="http://corpas.ria.ie/"/>
+                </bibl>
+                <bibl type="firstEdition">
+                    <title>Mac Fínghin Dubh</title>
+                    <author>Pádraig Ó Séaghdha</author>
+                    <publisher>The Irish Book Company</publisher>
+                    <date>1903</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc n="eltec-0">
+            <p/>
+        </encodingDesc>
+        <profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+            <langUsage>
+                <language ident="gle"/>
+            </langUsage>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <!-- use worldcat for 1970-2009 reprint count -->
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2021-10-06">Initial conversion to ELTeC level 0.</change>
+            <change when="2023-07-07">Updated Publication Statement and front matter.</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <front>
+            <div type="titlepage">
+                <p>MAC FÍNGHÍN DUBH</p>
+                
+                <p>CONÁN MAOL</p>
+                <p>do sgríobh.</p>
+                
+                <p>A STORY BY P. J. O'SHEA</p>
+                <p>WITH A VOCABULARY.</p>
+                <p>Dublin:</p>
+                <p>THE IRISH BOOK COMPANY,</p>
+                <p>6 D'OLIER STREET.</p>
+                <p>1903.</p>
+                <p>ALL RIGHTS RESERVED.</p>
+            </div>
+        </front>
+        
+        <body>
+            <div type="chapter">
+                <head>MAC FÍNGHÍN DUBH.</head>
+                <head>Caibidiol a h-Aon.</head>
+                <head>BEIRT MHARCACH.</head>
+                <p>Chuir Sléibhte Dúbha Cheachainn a gcaipíní ortha i gcómhair na h-oidhche. Shéid
+                    an ghaoth ghlan-fhuar earraigh tarsna an ghabhailín mara fá bhun an Doirín.
+                    Liúghaigh an cúirliún amuich sa chuan, leig an gaibhrín reóidh "methi-geg" as sa
+                    chorrach agus d'fhreagair an naos- gach é le "sic seaic, sic seaic," imeasg na
+                    seasga.</p>
+                <p>Bhuail marcach siar an sean-bhóthar cois bhruaich an chuain fá dhéin an Doirín.
+                    Fear calma do b'eadh é, claidheamh ar a cheathramhain aige, srón cham air a's
+                    rian gearradh uirthe, láir dhubh shleamhain fá agus crot maith air féin.
+                    Shelbourne nó Sleagánach do tug- thaidhe air. Bhí giolla le n-a chois ar
+                    chairiún ciar, cothuighthe. Michilín do b'ainm do'n ghiolla soin. Fear beag,
+                    buidhe do b'eadh an giolla, fabhraí dúbha air agus dhá shúilín franncaigh aige
+                    do chífeadh thré pholl meanuighthe.</p>
+                <p>"Ní gábhadh dhuit an deabhadh, a thighearna," arsa Michilín. "Beimíd ann a's as i
+                    n-am go leór."</p>
+                <pb n="4"/>
+                <p> "An fada as so an Doirín sin?" arsa Shelbourne.</p>
+                <p>"Suas le deich míle," ars' an fear eile.</p>
+                <p>"Pret!" arsa Shelbourne, "ní fiú trácht thairis. Ba cheart dúinn an méid sin do
+                    chur dínn i n-uair an chloig an chuid is lúgha dhé."</p>
+                <p>"Dar muine, mhaise, bhí an bóthar so fada go leór san tsean-aimsir. Deirthear
+                    liom gur chaith na Sasanaigh seachtmhain ag cur an méid seo dhíobh i n-aimsir
+                    Dhómhnaill Chaím agus 'na dhiaidh sin go mb'éi- gean dóibh filleadh ar n-ais gan
+                    bó, gan bleathach, gan buaidh, gan bárr, acht iomad bruighne a's easnaí brúighte
+                    brisde."</p>
+                <p>Chroth agus ghreamuigh an bhéalbhac i ngiallaibh na lárach duibhe, d'fháisg crobh
+                    Shelbourne ar a eachlasg gur bhánaigh a rúitíní, agus is suarach ná'r thiomáin
+                    sé a fhiacla thré n-a bhéal iochtair. Chas sé ar Mhichilín agus d'fhéach sé
+                    air.</p>
+                <p>"Ar bhiorán bhuidhe," ar seisean, "do chuirfinn bramstiallacha ort, a tháthaire
+                    bhig bhréin; is beag do chuirfeadh fhiachaibh ort féin bheith id' mhéirleach,
+                    agus d'á fheabhas atáim leat, a shuracháin, creidim go bhfuil cion agat ar Mhac
+                    Fínghín Dubh."</p>
+                <p>Dhruid Michilín i leath taoibh uaidh ar baill-chrith.</p>
+                <p>"Ná'r théidh mh'anam go Meg Mhichíl, a mháighistir, nách bhfuil an ceart agat
+                    agus gur ró-dhian ataoi orm 'na theannta soin. Gabhaim párdúna agat má chuireas
+                    fearg ort. Thugais alp orm sul a raibh críochnuighthe agam, mar bhíos chum a
+                    ráidhte gur síothchánta socair atáthar ar an mbóthar so anois, agus gur brisde,
+                    basgaighthe mar a thuilleadar, atá Muinntear Shúillea- bháin fád' riaghalachas
+                    féin."</p>
+                <p>"Seadh, má's mar sin é," ars'an Seilbórnach, agus do leig sé a ceann leis an láir
+                    dhuibh agus chrom sí ar shodar go tiugh.</p>
+                <p>Lean Mhichilín air 'gá shálaibh, agus é ag cur alluis de le h-eagla.</p>
+                <p>"Measaim ná h-inneósad a thuilleadh scéalta do'n bhioránach so, an bholgach air
+                    féin a's ar Mhuinntear <pb n="5"/> Shúilleabháin! Nách cuma liom-sa cia aca acht
+                    go bhfuighead adhbhar bidh a's annlain ó'n t-é 'tá i n-uach- tair díobh."</p>
+                <p>Do choisg Shelbourne a láir ag Árd Aodha.</p>
+                <p>"Cia leis an sean-chaisleán soin?" ar sé.</p>
+                <p>"Leat-sa, ambás," arsa Michilín.</p>
+                <p>"Cia chómhnuigheann ann, ámh?"</p>
+                <p>"Fear do Mhuinntear Shúilleabháin. Bhí riaghalachas, cíos, cáin ag an dtreibh sin
+                    aon uair amháin ó Neidín go Béara, ar an dtaobh so d'fhairrge a's ó Bhaile an
+                    Sgeilg soir ar an dtaobh thall."</p>
+                <p>"Is iongantach an seanchuidhe thu," arsa Shelbourne, ag crapadh a shróna.</p>
+                <p>"Measaim," arsa Michilín leis féin, "nách maith leis a chlos go rabhadar súd
+                    chúmhachtach lá. - Seadh, briseadh ar Aedh, a mháighistir, i n-aimsir
+                    bhainríoghna Élís, agus ní fhuil de'n treibh ar fad indiu acht Mac Fínghín Dubh
+                    agus is geárr a bheidh seisean suas."</p>
+                <p>D'fhéach Shelbourne isteach uaidh ar Chaisleán Áird Aodha.</p>
+                <p>"Is daingean láidir é fós, dar leat, gidh gur dócha go bhfuil sé brisde go leór i
+                    mballaibh. B'fhéidir go ndéanfamuis úsáid éigin dé."</p>
+                <p>"Mhaise, ní fhuil ann acht fathalach cloch, a mháighistir. Tá draoidheacht nó
+                    tubaiste éigin d'á leanamhaint. Tá an tsáile ag cise air gach aon bhliadhain.
+                    Tagann Dómhnall Ó Donnachúdha na nGeíbhleach atá fá dhraoi- dheacht i Loch Léin,
+                    tagann sé gach maidean Lae Bheal- taine de thall de loch annsoin ar Mhullac
+                    Leacaoin le n-a láir bháin féachaint an chaisleáin seo, mar deirtheas go
+                    n-imtheóchaidh an draoidheacht dé féin nuair do bhuaidhfidh an fhairrge ar Árd
+                    Aodha a's bhéar- faidh sí léi an chloch dheireannach dé."</p>
+                <p>"Nách greannamhar, piseógach na daoine sibh," ar Shelbourne, ag crapadh a shróna
+                    le tarcuisne, mar ba ghnáth leis. Phreab sé anuas de'n láir, chaith sé an srian
+                    agus a chlóca cába chum Mhichilín agus d'iompuigh sé isteach an bhearna fá dhéin
+                    an chaisleáin..</p>
+                <pb n="6"/>
+                <p> Is beag nách raibh tuitimín na h-oidhche ann, acht bhí an uain geal agus corrán
+                    gealuighe ins an domhan thiar. D'éaluigh an taoide go socair ar ghainimh na
+                    trágha agus shnáimh sí léi suas i gcoinnibh an árdáin; tharraing sí i ndiaidh a
+                    cúil arís le h-osna; leig puichín gaoithe fead aisde ag séide isteach thré
+                    chúinníbh folamha an chaisleáin agus chas sí ar n-ais le h-ochón; d'eiteall
+                    gobadán aníos ó'n gcuan, leath sé a sciatháin a's shín sé a chosa i ngearracht
+                    slaite d'fhárdorus an tsean- chaisleáin ar tí cur fá ann, acht d'eiteall sé sa
+                    n-aer le liúgh agus amach arís fá'n gcuan.</p>
+                <p>Bhí fear 'na sheasamh fá'n bhfárdorus úd, féasóg liath air, a cheann cromtha agus
+                    a smeigín ar a bhrághaid aige. Chualaidh sé mar a bhéadh glór beirte ag
+                    coimheas- gar le chéile. Chaith sé a cheann i n-áirde a's a chliabh amach agus
+                    do sheasaimh sé chómh díreach le gáinne. "Gobadáin na trágha," adeir sé leis
+                    féin, agus do chrom sé a cheann arís ag machtnamh leis féin. Acht níor bh'eadh.
+                    Chualaidh sé an gleó céadna arís, agus chuir sé cluas air féin.</p>
+                <p>Bhí fear óg ag cur dé cois phuirt na fairrge agus dhá gheirfhiadh fá'n oscuil
+                    aige. Bhuail Shelbourne 'na threó agus chuir aighneas air.</p>
+                <p>"Cad iad so agat, a dhíolmhúnaigh?"</p>
+                <p>"Nách cuma dhuit-se sin, a spreallaire? Druid as mo shlíghe nó cuirfeadh mo dhorn
+                    go scórnuigh id' chlab."</p>
+                <p>Do dhuibh a's do dhearg ag Shelbourne. Tharraing sé úirlis lámhacha as a chrios,
+                    dhírigh, agus sgaoil air go h-obann, acht i n-ionad an fhiaguighe dh'aimsiúghadh
+                    is eadh do ghnídh an pléar 'ná clais do thóch sa ghainimh, mar fuair Shelbourne
+                    pléasg do bhata droighin i gcnámh na h-uilleann ó fhear na féasóige léithe, agus
+                    bhí greim beag nách sa n-am chéadna ag fear na ngeirfhiadhthe ar ubhall
+                    scórnuighe air. Sul a raibh uain aige ar "Dia lem' anam," do rádh - má deireadh
+                    sé riamh é - bhí sé ar chnámh a dhroma agus glúin 'na bholg.</p>
+                <pb n="7"/>
+                <p> "Tacht é, a Philib! Is é an Sleagánach atá ann," ars'an fear liath.</p>
+                <p>D'fhosgail an Sleagánach a bhéal chum labhartha acht níos tháinig gíog as. Fear
+                    teann, téagartha do b'eadh é, agus d'únfairt sé a's do thiomháin sé an ghainimh
+                    sa n-aér le n-a shálaibh ag iarraidh eirighthe; léim na cnaipí ceangail as
+                    bhrághaid a chasóige leis an racht do chuir sé air féin, acht ba bheag an
+                    mhaitheas dó an saothar. D'fhág an luadháil a lámha go mall, bhog a ghreim de
+                    ghuailnibh Philib, dhruid a cheann siar síos ins an ngainimh go raibh a smeigín
+                    ar aghaidh na spéireach, leath a shúla le sgéan agus shín a's chroth a theanga
+                    amach as a bhéal ar nós earbaill éisg.</p>
+                <p>"Dar a páis fiadh, cad é seo? Bog de'n duine go déaghair!"</p>
+                <p>Scaoil Pilib a ghreim docht chómh tiugh a's dá gcuir- fídhe pléar thríd. Do
+                    phreab sé 'na shuidhe a's d'úmh- luigh sé.</p>
+                <p>"Is é an Sleagánach atá ann, a Mhíl Borra, agus muna mbeadh Diarmaid na Bolgaidhe
+                    bhíos am' chnap ag an scriosdóir; acht dar muine, is dóich nách bhfuil speach
+                    anois ann."</p>
+                <p>Chaith Míl Borra dhé a chasóg, chaith sé é féin ar a ghlúinibh, scaoil sé éadach
+                    muiníl an tSleagánaigh agus chuir sé an chasóg fá bhaic a mhuiníl.</p>
+                <p>"Rith leat, agus tóg an báiréad soin chum an tobair-fhíoruisge dia thiar de'n
+                    chaisleán."</p>
+                <p>Bhuail sé deárnacha an tSleagánaigh go tiugh le n-a bhais, chumail sé a mhailídhe
+                    leis an bhfíor-uisge, leig sé braon de ar a theangaidh, scaoil sé beagán de síos
+                    caol a dhroma agus dhoirt sé bas de ar a cheann. Fá dheireadh chuir an fear osna
+                    as.</p>
+                <p>"Buidheachas mór le Dia! Tá sé 'teacht chuige féin," arsa Míl Borra.</p>
+                <p>Do dhún na súla a's do bhuail an chuisle go mearbh- thallach, chorruigh na
+                    fabhraí, cuir an fear fann osna eile as agus i gcionn nóimite chrom se ar
+                    mhéanfuighigh. Chaith Míl Borra é féin fá agus leig sé an fear leath- thraochda
+                    anuas air ar a leath-uillinn.</p>
+                <pb n="8"/>
+                <p> "Cá bhfuilim?" ars'an Sleagánach i gcionn uair an chloig.</p>
+                <p>"Imeasg bráithre. Ná bíodh eagla ort," arsa Míl Borra. Thógadar ar a bhonnaibh é
+                    agus tháinig meireán air ar nós fir meisgigh.</p>
+                <p>Gaisgidheach do b'eadh Míl Borra, agus do rug sé ar an Sleagánach a's thóg sé
+                    leis ar a bhacalainn é. Seo suas fá dhéin an bhóthair mar a raibh Michilín ag
+                    fanamhaint go mí-fhoidhneach le n-a mháighistir, Míl Borra agus a ualach i
+                    dtosach agus Diarmaid agus Pilib ar deireadh. Bhí dhá láimh an tSleagánaigh
+                    snadhmtha ar chúl Mhíl borra agus a smeigín ar a ghualainn. Bhí Diarmaid na
+                    Bolgaidhe ag cur na súl thríd. Bhog an Sleagánach a ghreim, réidhtigh sé a lámh
+                    dheas agus leig sé ar sileadh leis í.</p>
+                <p>"Seachain, a Mhíl Borra," arsa Diarmaid.</p>
+                <p>"Cad tá ort, a dhuine?" arsa Pilib.</p>
+                <p>Acht tháinig Diarmaid de choiscéim suas leis an mbeirt. Seo mar do fuair sé an
+                    Sleagánach. Scian dhubh 'na truaill i gcrios ar a chaol, a dheárna ar dhornchúl
+                    na scine, agus a mhéireanna lúbtha ar tí breith uirthe. Thug Diarmaid ruthag
+                    air, ghreamuigh sé caol a lámha chómh docht a's do ghreamóchadh clab eascún í
+                    agus d'fhéach sé air le súilibh fiadhne.</p>
+                <p>"Caith uait é, a Mhíl Borra, agus saltair air; cruimh is eadh é!"</p>
+                <p>D'fhéach Míl Borra thar a ghualainn ar Dhiarmaid.</p>
+                <p>"Tá inntin ghéar aige," adeir sé leis féin, "acht cuireann an fhilídheacht soin
+                    ar buile uaireannta é.</p>
+                <p>"Caith uait é, adeirim leat! Tá sé ar tí do mhairbhthe."</p>
+                <p>Gháiridh Míl Borra go socair. "Ghia mhaise, a Dhiarmaid, a éigeas, leig dó. Tá an
+                    bochtán leath- mharbh."</p>
+                <p>"Ní fhuilim," ars' an Sleagánach, "ní fhuil easba anáile ná nirt orm anois, ná
+                    raibh maith agaibhse. Bog díom, a dhuine dheórata, agus dar so a's súd" - acht
+                    ní h-é sin do thug sé acht na mionna móra - <pb n="9"/> "bainfead sásamh de'n
+                    tsean-chladhaire seo. Is é an gaduidhe liath sin do bhain an tuisleadh asam le
+                    n-a bhata."</p>
+                <p>"Dar mo chlaidheamh gaisge," arsa Diarmaid, "ghéabhair cómhrac uaim-se má tá do
+                    bhrígh fillte ort. Ní fhuilim-se chómh críonna agus is dóich leat. Má táim liath
+                    ní le h-aois é agus níor chuir súmaire ded' bhuidhin mhalluighthe-se Diarmaid na
+                    Bolgaidhe ar teicheadh fós riamh."</p>
+                <p>"A bhodaigh mhóir," ars' an Sleagánach, "an dtabhar- fair ceart cómhraic domhsa?
+                    Nuair do chuirfead ar lár an dá spreasán so leat, troidfead leat féin d'á mhéid
+                    iad do ghuailne."</p>
+                <p>"Is dán an t-amadán thu," arsa Míl Borra. "Geallaim-se dhuit, ámh, gidh nách
+                    dtuilleann do theanga é, go bhfaghfair ceart a's cómhrac annso. Sáiseóchad féin
+                    thu, bh'fhéidir. Leig do Dhiarmaid; file is eadh é agus gidh go ndeirteas liom
+                    gur tighearna thusa do réir na ndlíghthe ngallda, is áirde eisean mar is do
+                    chraoibh na h-éigse é."</p>
+                <p>"Tá an oiread suime agam 'na chuid filídheachta a's bheadh agam i srann
+                    bhramaigh, acht beidh a chuid fola agam mar is é do thug an chéad bhuille dhom.
+                    Cá bhfuilir, a Mhichilín?"</p>
+                <p>"Sleagánach abú!" arsa Michilín, ag preabadh le n-a chairiún isteach ar an mbán.
+                    "A Rí na cruinne! Tá Míl Borra 'na measg a's beidh an Sleagánach caillte!"</p>
+                <p>Bhuail sé léas d'á lasg ar an gcairiún gciar, scaoil sé a cheann leis agus as go
+                    bráthach leis ar chos i n-áirde fá dhéin Neidín.</p>
+                <p>"Imtheacht gan teacht ort, a mhic ó," arsa Diarmaid, ag féachaint a ndiaidh
+                    Mhichilín 's ag cur scearta gáire as. Chuir an gáire sin ar a shocaracht é i
+                    gcóir an chleasa claidhimh do bhí chuige mar bhí na creatha air le h-iomad
+                    sainte chum an tSleagánaigh do threas- gairt lom láithreach i dtaobh a
+                    dhroch-chainte.</p>
+                <p>Bhain an Sleagánach seara as féin a's chrom sé ar <pb n="10"/> phoc-léimrigh a's
+                    ar a chlaidheamh do chasa, leis an gcodlagríbhthín do bhaint as a uillinn agus
+                    as a bhallaibh.</p>
+                <p>"Níor bh'é dearmhad Mhíl Borra a chlaidheamh caol fada thabhairt leis," arsa
+                    Pilib i gcogar. "Oireann sé sin dómhsa níos feárr 'ná an claidheamh mór, agus
+                    leig dom an fuacht do bhaint de'n tSleagánach."</p>
+                <p>Thug Diarmaid alp air mar fhreagra agus d'iarr ar Mhíl Borra druidim siar uatha.
+                    Bhris ar an bhfoidhne ag an Sleagánach leis, agus thug an bheirt aghaidh ar a
+                    chéile go feargach.</p>
+                <p>Ba chosmhail le chéile i ndéantas an bheirt chlaidh- mheach, acht amháin gur bh'é
+                    an Sleagánach an fear ba throime. Bhí sé dubh, dorcha, agus bhí sé níos sine 'ná
+                    Diarmaid, mar ní raibh seisean os cionn dáfhichead bliadhan gidh gur dhóich leat
+                    go dtí so go raibh sé trí fichid toisg go raibh sé buidhe-chroiceannach,
+                    bán-fholtach, agus rian na bolgaidhe ann. Bhí sé fuinneamhail, fuinnte,
+                    féithleógach agus bhí an fear eile foirtileach fearsadach fíochmhar.
+                    D'fhéachadar araon go fraochda, friochnamhach ar a chéile. Bhuaileadar bárr a
+                    gcosa deasa i gcoinnibh a chéile agus dhruideadar siar ó n-a chéile, a lámha
+                    cléith' dia thiar d'á ndrom ag druidim anonn 's anall ar nós stiúir báid fá
+                    sheól. Chaith an corrán gealuighe ins an domhan tiar léas fhann-sholuis trasna
+                    an chuain agus do chífeá scáil na bhfear-gcómh- raic sínte ar an bhfaithche, an
+                    bheirt fhear agus an dá scáil ag faire chum faill d'fhághail ar a chéile. Fuisc,
+                    arsa claidheamh an tSleagánaigh, nuair do thug sé suíns fá uillinn deis
+                    Diarmuda. Choisg seisean é agus thug fogha fá bhrághaid an tSleagánaigh, acht
+                    bhí súd aicillidhe; phreab sé i leath-taoibh. Lean Diarmaid coiscéim ar aghaidh
+                    agus d'fhóbair go ndíolfadh as, mar thug a namhaid tréan-bhuille fá dhéin an
+                    mhuiníl. Chlaon Diarmaid a cheann, d'árduigh sé bas a chlaidhimh go tiugh i n-am
+                    agus bhain na claidhmhte fuaim a's spréacha as a chéile.</p>
+                <p>Scaoil na fir amach agus d'éirigh a mbruth; d'éirigh <pb n="11"/> clár a n-uchta;
+                    tháinig a n-anál 'na séideánaibh thré phollaibh a srón, lúb a bhfabraí agus
+                    choigil lasair 'na súilibh.</p>
+                <p>"Bog, breágh! a Dhiarmaid, a chaithis, tá Míl Borra led' h-ais," ars' an fear
+                    soin féin. Dhéineadar ar a chéile arís. Bhí braon fola ar sileadh le cluais
+                    Dhiarmuda. Thug an Sleagánach fógha fá na súilibh le h-é dhalladh nó mhealladh;
+                    thuig Diarmaid an cleas agus d'árduigh sé bas a chlaidhimh. B'shin é do theas-
+                    duigh ó'n Sleagánach. Thiomáin sé rinn a chlaidhimh le fuinneamh fá dhéin an
+                    taoibh íochtair d'uillinn dheis Dhiarmuda, acht léim seisean coiscéim i ndiaidh
+                    a chúil. Lean an Sleagánach air, acht má lean níor éirigh leis, mar do rop
+                    Diarmaid rinn a chlaidhimh dhá órlach a's breis fá chroiceann a chuisleann.
+                    Bhéic an Sleagánach le pian. Chas sé a chlaidheamh ar buile os cionn cinn
+                    Diarmuda, acht bhuail seisean "baic-bhéim" 'sa n-uillinn air, agus léim
+                    claidheamh an tSleagánaigh le fead sa n-aer agus thuit sé féin ar a chromadh le
+                    búithre.</p>
+                <p>"Fuil do chroidhe, nó géill!" arsa Diarmaid.</p>
+                <p>"Géillim," ar seisean tré n-a fhiaclaibh.</p>
+                <p>"An bille leis," ars' Diarmaid.</p>
+                <p>"Bíodh sé agat," ars' an Sleagánach.</p>
+                <p>"Sín amach é thu féin, nó sciobfad an ceann díot."</p>
+                <p>Chuir an Sleagánach a lámh shlán 'na phóca agus shín an bille chum Dhiarmhuda go
+                    mall mí-choimheasach.</p>
+            </div>
+            <div type="chapter">
+                <head>Caibidiol a Dó</head>
+                <head>LÓISDÍN.</head>
+                <p>Tá tigh mór ar an nDoirín indiu. Cómhnuidheann an Marquis of Lansdowne ann. Bhí
+                    tigh mór farsaing chínn-tuighe ann an uair úd. Is iomdha mart méith agus torc
+                    taoibh-leathan do bruitheadh ann. Bíodh scata con seilg ann agus ba ghnáthach a
+                    gceól binn ag baint mhacalla as na cnocaibh.</p>
+                <pb n="12"/>
+                <p> D'fhosgail Diarmaid na Bolguidhe dorus sheómra bainne i n-aice tíghe mhóir an
+                    Doirín. Chaith sé beart luachra dhe i gcúinne an tseómra agus las sé
+                    buaiceas.</p>
+                <p>"Luigh annsoin," ar seisean leis an Sleagánach.</p>
+                <p>Shuidh an Sleagánach ar an mbeart go dubh, duairc. Chuir Míl Borra a cheann
+                    isteach.</p>
+                <p>"Tá do chapall sa scioból. Thugas dorn coirce dhi agus sop féir; tá sí go
+                    seasgair agus bí féin ar do shuaimhneas go maidin."</p>
+                <p>Ní dubhairt an Sleagánach 'seadh 'ná ní h-eadh.</p>
+                <p>"A Dhiarmaid," ar seisean, fá dheireadh, "cad í an saghas lóisdín í seo do dhuine
+                    uasal?"</p>
+                <p>"Ar mhaith leat dul isteach ins an tigh mhór?"</p>
+                <p>"Ní fheadar, acht ní maith liom codla ar thripill."</p>
+                <p>"Seo mar atá an scéal," arsa Diarmaid. "Ní fhuil cois baile slán acht mé fhéin
+                    agus Míl Borra agus an bhanaltra. Tá an t-éagcruas ar Mhac Fínghín Dubh, slán
+                    mar a n-inistear é. Ní fhuil buachaill 'ná cailín fá dhíon an tíghe an aimsir
+                    seo agus ní bheidh go ceann tamaill eile."</p>
+                <p>Chrith an Sleagánach idir chos agus lámh.</p>
+                <p>"Leig abhaile mé," ar sé.</p>
+                <p>"Níor chuireamar fios ort," ars' an fear eile, "agus ní leómhfair cor do chur
+                    díot as so go léighfidh Míl Borra an bille."</p>
+                <p>"Cionnus do bhí fhios agaibh go raibh an bille agam?"</p>
+                <p>"Mheasamar é."</p>
+                <p>"Léigh é mar sin. Tá sé id bheínn agat."</p>
+                <p>"Ní fhuil puinn eólais agam ar an mbéarla Gallda, agus ní thaithnigheann sé liom
+                    acht chómh beag."</p>
+                <p>Mhachtnuigh an Sleagánach go ceann tamaill.</p>
+                <p>"An léigheann Míl Borra an Béarla?"</p>
+                <p>"Léigheann go maith. Tá eólas aige-sean ar na seacht dteangacha." Chuir an
+                    Sleagánach cnead as.</p>
+                <p>"Bhfuil 'fhios agat chad do dhéanfad, a Dhiarmaid? Léighfead an bille dhuit má
+                    leigeann tu uait mé."</p>
+                <p>D'fhéach Diarmaid idir an dá shúil air.</p>
+                <p>"Léighfir é lom láithreach acht ní leigfead uaim thu," agus shín sé an bille
+                    chuige.</p>
+                <pb n="13"/>
+                <p> D'fhéach an Sleagánach ar an mbuaiceas.</p>
+                <p>"Dóigh é," arsa Diarmaid, "agus bainfead an lámh ó'n ngualainn díot!"</p>
+                <p>Shín an Sleagánach a chosa amach uaidh, chuir sé osna as mar bhí sé mín a
+                    dhóthain anois, agus thóg Diarmaid an solus os cionn a chinn.</p>
+                <p>Seo mar do léigh sé: -</p>
+                <p>"Chum ár dtíghearna grádhaigh, Shelbourne, cumann.</p>
+                <p>Bheirimíd duit cead le seilbh d'fhághail ó Mícheál Ó Súilleabháin ar a oighreacht
+                    ins an Doirín agus na bailtí i bhfogus do'n áit sin, agus d'á bhrígh go bhfuil
+                    an duine áirighthe sin úmhal dúinn le seal fada tuga- muid as croidhe cóir an
+                    Riaghaltais cead duit-se féar an méid bó is maith leat do thabhairt dó fá chíos
+                    ar choingíollaibh go mbeidh sé sár-úmhal feasda agus go séanfaidh sé féin agus a
+                    chlann 'na dhiaidh an tsean- tsloinneadh easúmhal Ghaedhealach soin "MacFínghín
+                    Dubh."</p>
+                <p>Tabhartha fá 'nár séala i 'nár gCaisleán i mBaile- Átha-Cliath, i mí an Mhárta
+                    ins an mbliadhain d'aois an Tighearna, 1738.</p>
+                <p>Cathcart, Fear Ionaid."</p>
+                <p>Bhí dath dubh ar Dhiarmaid. Sciob sé an bille ó'n Sleagánach.</p>
+                <p>"Dar na naoimh is áthmhar an fear thu."</p>
+                <p>"Cionnus soin?" ars' an Sleagánach.</p>
+                <p>"Mar dá léighfeadh Míl Borra an litir sin ní fhágfadh sé cnámh id' chorp gan
+                    briseadh."</p>
+                <p>Le n-a línn sin chuir an bhanaltra a ceann isteach.</p>
+                <p>"Tá an rádhail ar MhacFínghín Dubh. Tar isteach," ar sise.</p>
+                <p>"Ar do bhás ná corruigh go bhfillead," arsa Diar- maid.</p>
+                <p>"Ní chorróchadh," ars' an fear eile.</p>
+                <p>Acht ní túisge bhí drom Dhiarmuda leis 'ná gur éaluigh sé leis. Do mhéaduigh a
+                    bhrígh 's a dhóchas fá ghaoith ionnfhuar na h-oidhche agus do bheartuigh sé air
+                    chum siúbhail. "Is olc é mo thoisg, ámh," ar <pb n="14"/> seisean leis féin.
+                    "Lámh chréachda, easba fola, croidhe brúighte, agus bóthar deich míle ar faid.
+                    Tá an chéad mhíle thorm go h-áirighthe, agus má shroichim baile geallaim dhóibh
+                    seo nách mbeidh an buaidh leo an t-ath-uair."</p>
+                <p>Bhuail fear amach as díg an bhóthair fá n-a threó agus sheasaimh sé ar 'aghaidh
+                    amach.</p>
+                <p>"Fág mo shlíghe," ars' an Sleagánach go dán.</p>
+                <p>"Ná h-aithnigheann tu mé, a dhalta?" arsa Pilib, mar do b'é a bhí ann. Acht do
+                    léim an Sleagánach isteach air, ar nós cait fiadhaigh.</p>
+                <p>"Teasduigheann greas eile uait, aithníghim," arsa Pilib, ag breith ar phíobán
+                    air. Sgread an Sleagánach.</p>
+                <p>"Bog díom, agus fillfead leat," ar seisean.</p>
+                <p>"Is maith a chreidim thu," arsa Pilib, ag bogadh dhe. "Siúbhalaigh ort, mar sin.
+                    Bíonn an eagla ar an leanbh a dóigheadh." Agus d'fhilleadar ar n-ais agus an
+                    Sleagánach ag briseadh a chroidhe.</p>
+                <p>Chualadar fear ag séide go saotharach ag déanadh ortha. Do b'é Diarmaid do bhí
+                    ann. Rug sé ar chéascinn ar an Sleagánach ar tí é stolladh as a chéile. Bhí an
+                    fuadar imthighthe as an Sleagánach. Níor chuir sé cor de acht cnead do chur
+                    as.</p>
+                <p>"Leig do'n mhíolán. Tá sé chómh meathta le luich," arsa Pilib.</p>
+                <p>"Corruig ort," arsa Diarmaid, 'ghá stealladh roimis amach. "Cogar i leith, a
+                    Philib," agus bhí an bheirt aca dia thiar de'n tSleagánach ag cur 's a' cúiteamh
+                    le n-a chéile.</p>
+                <p>Nuair do shroicheadar an seómra bainne, do sholátha- ruigh Diarmaid cleite, dubh
+                    a's páipéar.</p>
+                <p>"Freagair an bille úd ó fhear Ionaid Shasana, luíghe na bhfód ort féin a's
+                    airsean!"</p>
+                <p>Thóg an Sleagánach an peann go mall.</p>
+                <p>"Éist liom anois," arsa Diarmaid. "Abair leis an bhfear nGallda soin gur
+                    thanguighis chum na Doirine, go raibh cómhrádh agat le MacFínghín Dubh, agus go
+                    bhfuil sé úmhal, creideamhnach, ceannasach, gur mór an <pb n="15"/> éagcóir
+                    amhras do bheith air agus d'éis cainte dhuit leis ná beidh an bhrath agat níos
+                    mó ar a chuid talmhan."</p>
+                <p>D'fhéach an Sleagánach air go mí-choimheasach.</p>
+                <p>"Nách bhfuil fhios agat go bhfuil mo lámh gan mhait i ndiaidh do chlaidhimh? Tá
+                    an crobh chómh h-ataighthe le lamhanán."</p>
+                <p>"Ambasa go bhfuil úsáid a dóthain innte; ní fiú biorán an scríob soin ort; ní
+                    fhuil innte acht cneas- scealabóg. Chím na méireanna ag corruighe agus tá an
+                    faisgeán go deas cruinn uirthe. Acht bíodh ort féin. Fágfad fá Mhíl Borra thu
+                    agus fanfair annso go mbeidh an lámh cneasuighthe."</p>
+                <p>Rug an Sleagánach ar an gcleite, thúm sé sa dubh é agus chuir sé golam teinnis as
+                    leis an iarracht. "Ní fhéadfainn focal do scríobhadh leis an láimh, dá mbeadh
+                    m'anam air."</p>
+                <p>"Seadh, fan mar a bhfuil agat," arsa Diarmaid go sásta.</p>
+                <p>Chrom an Sleagánach ar ghearán go cangcarach go rabhthas ró-chruaidh air.</p>
+                <p>"An leigfir uait mé," adeir sé sa deireadh, "má scríobhaim í?"</p>
+                <p>"Ní dhéanfad aon choingíol leat," adeir an fear eile.</p>
+                <p>Rug an Sleagánach ar an gcleite 'na láimh chléith go h-aicillídhe - scríobhnóir
+                    ciotach do b'eadh an buachaill seo - agus do chrom sé ar scríobhadh go
+                    tiugh.</p>
+                <p>"An ndéanfaidh sé sin an gnó?" ar seisean. Thóg Diarmaid an scríbhínn agus léigh.
+                    Bhí smigeadh gáire ar an Sleagánach ag faire air.</p>
+                <p>"Ag imirt chleas ataoi, a dhíolamhnaigh," arsa Diarmaid ag féachaint go
+                    mí-chéadthach air, agus do las sé an scríbhínn ar an mbuaiceas. "Tosnuigh arís.
+                    Tá níos mó eólais againne 'ná mar is dóich leat." Chrom an Sleagánach go brónach
+                    ar scríobhadh an dara h-uair. Shín sé an páipéar chum Diarmuda, léigh seisean é,
+                    d'fhill é, agus chuir 'ná bhrollach é.</p>
+                <pb n="16"/>
+                <p> "Anois geall do Mhíl Borra ná sanntóchair a thalamh ná pioc d'á mbaineann leis
+                    ar feadh do shaoghail agus cuir de chómhartha leis go dtugann tú an geall soin
+                    uait led' thoil féin agus le h-iomad carthannachta dhó. Ceap go maith é i gcás
+                    ná cuirfir thu féin chum na trioblóide an tarna h-uair." Rinne an Sleagánach
+                    crúnca dhe féin le buile; chrap sé a ghlúna, bhí a bhéal uachtair súighte idir a
+                    fhiaclaibh agus a fhabhraí fillte gur dhún a shúla. Níor leig Diarmaid air go
+                    bhfeacaidh sé é. "Dá ndéanfaidhe riléitheacha dhíom ní scríobhfad líne
+                    eile!"</p>
+                <p>"Tá poll maide shíos annso," arsa Pilib.</p>
+                <p>Bhí faobhar ar shúilibh Dhiarmuda, "Brostuigh ort, a bhrealláin, tá deabhadh
+                    orainn," ar seisean.</p>
+                <p>D'fhéachadar araon ar a chéile. Bhí súla glasa i nDiarmaid do rachadh thríot,
+                    agus chroth an Sleagánach ar nós cupóige lá gaoithe fá'n radharc roin. "Tabhair
+                    dhom an cleite;" agus chrom sé ar scríobhadh go lán- dícheallach.</p>
+                <p>"Déanfaidh sé sin an gnó," arsa Diarmaid, tar éis an pháipéir do léigheadh dhó.
+                    Rug sé ar bhónna casóige ar an Sleagánach, thug sé palltóg sa chúil- fheith dhó
+                    agus bhuail sé an dorus amach é. "A-bhaile leat," ar seisean, ag tabhairt speach
+                    ins an phrímpín dó agus ghread an Sleagánach leis ag easgainídhe fá n'
+                    fhiaclaibh.</p>
+            </div>
+            <div type="chapter">
+                <head>Caibidiol a Trí</head>
+                <head>AN TAOISEACH SEANDA.</head>
+                <p>Sheasaimh Míl Borra ag ceann na leapthan agus thug sé cogar d'á athair. "An
+                    aithnigheann tu mé, a dhaid?"</p>
+                <p>"Aithnighim," ars' an t-athair go fann. "Tabhair aire dhuit féin. Teasbántar dom
+                    go bhfuiltear ar do thí."</p>
+                <p>"Ná bac soin de. Ní fhuil baoghal orm-sa. Dún <pb n="17"/> do shúla 's codail
+                    greas. Tá sos agat, moladh le Dia!"</p>
+                <p>Dhún Mac Fínghín Dubh a shúla. Bhí sean shagart séimh cois chnaisde na leapthan
+                    a's do bhagair sé i leath-taoibh ar Mhíl Borra. "Is maith mar a thánaíghis.
+                    Thugais suaimhneas dó. Bhí an rádhail air ar do theacht isteach agus shíleas go
+                    sceinnfeadh an t-anam as. Mo ghrádh 's mo chumann a cheann liath! Bhí sé ag cur
+                    chatha Luimníghe thré n-a chéile 's ag gearradh 's ag cosgairt fá mar do bhí sé
+                    an lá dúbhach úd i n-Eachdruim."</p>
+                <p>"Is dócha é, a Athair Peadar. Bíonn an lá úd ag goilleamhaint air i gcómhnuidhe.
+                    Is minic d' innis sé dhómh-sa gur bh'iad na Francaigh do loit an scéal. Bhíodh
+                    sé deimhnightheach go ngeóbhaidís ar na Sasannaigh iad féin."</p>
+                <p>"Labhair ana-shocair, a Mhíl Borra. Má chodlann sé is é a bhuaic é. Goidfeam an
+                    claidheamh uaidh. Ghnídheas féin iarracht le n-a dhéanta, acht tá an paidrín
+                    casda air aige."</p>
+                <p>Corruigh an fear breóite. Chas sé a cheann ar an bpeiliúr, d'eirigh sé ar a
+                    leath-uillinn agus d'fhéach sé amach thríd an bhfuinneóig síos fá dhéin Chille
+                    Mac Ghiollóig mar a raibh a sheacht sinnsear curtha. Bhí lasair 'na shúilibh
+                    glasa a's faobhar ortha. Dhruid a mhac leis. "Ná bain leis go fóil," ars'an
+                    bhanaltra; agus chrom an sagart ar phaidreóireacht. Bhí an ghaoth ag eirghe a's
+                    na tonntacha 'gá n-umlasg féin le fothram ar an dtráigh. D'éist sé ar feadh
+                    tamaill. Chas sé an claidheamh.</p>
+                <p>"Ar aghaidh libh!" ar seisean do ghuth ghlórach. "Tá brisde ar bhuidhin
+                    Dhómhnaill óig! Dar Rí na nDúl caithfear an cor capall soin do chosg. Siné, a
+                    Fhínghín Ruaidh! Buailidh iad! Há! há! Bíodh an méid sin agaibh, a bhodacha an
+                    fheíll! Mo ghreidhn bhúr gcuisleanna, a churaídhe an laé chruaidh! Teanntaidhidh
+                    an cipe glas soin. Á! cá bhfuilir, a Sháirséalaigh? Brostuigh' a dhuine,
+                    brostuigh! Gread iad má tá an <pb n="18"/> mac mallachtain 'na cheann ortha.
+                    Cóirigh, a Fhínghín Ruaidh, beidh an lá linn fós. Ó! is olc é sin, acht
+                    raobfamuid iad. Siné! Mo chumann sibh! Á! cá bhfuilir, a fhínghín Ruaidh?
+                    Iarracht eile!"</p>
+                <p>Do bhain an sean laoch fuisc as a chlaidheamh a's do scaoil sé le fuinneamh an
+                    fhuinneóg amach é. D'fhéach sé i ndiaidh an chlaidhimh, agus cúbhar fuar-alluis
+                    ar sileadh leis. Thúm an sagart a mhéar sa n-uisge coisreacan agus spréach sé ar
+                    mhalainn an fhir bhreóite é. Thug an ghaoth isteach ar a druim léi thríd an
+                    tseómra dórdán na dtonntacha. Acht níor chualaidh Mac Fínghín Dubh an ceól, mar
+                    bhí sé marbh.</p>
+                <p>"A Rí na n-aingeal 's a chara na dtruagh-bhochtán! Déin díon d'á anam, a
+                    Bhanaltra an Uain ghil, bháin," arsa Mac Fínghín Dubh óg go brónach os cionn
+                    cuirp a athar.</p>
+            </div>
+            <div type="chapter">
+                <head>Caibidiol a Ceathair</head>
+                <head>AN CHEÁRDCHA.</head>
+                <p>"Séid, a dhalta, séid," arsa Tadhg gabha le ceann d'á bhuachaillibh. "Ní h-aon
+                    mhaitheas duit a rádh go bhfuil tairgne i mbeó aici, a Athair Peadar. Níor
+                    ghnídheas riamh a leithéid sin do thuathalacht. Féach! d'aithnígheas féin
+                    cionnus a bhí an scéal, a rúitín ataighthe; geallaim-se dhuit, a Athair Peadar,
+                    d'á mbéadh méaróg chloiche id' ladhair féin, má's cóir a rádh, go mbeitheá-sa
+                    bacach leis. Hó, fan socair, a láir dhuibh! Tabhair dhom an sobal bog - An bhail
+                    chéadna ortsa, a Dhiarmaid na Bolgaidhe."</p>
+                <p>"Ní fheadar," ars' an sagart, "an mbeithfear ag cur isteach ar MhacFínghín Dubh
+                    ar ball mar a bhíothas ar a athair roimis?"</p>
+                <p>"Ní baoghal dó an Sleagánach go h-áirighthe," arsa Diarmaid, ag féachaint ar an
+                    sagart, mar bhí fhios aige-sean cionnus d'eirigh leis an Sleagánach soin
+                    cheana.</p>
+                <pb n="19"/>
+                <p> "Ní fhuilim deimhnightheach air sin i n-aon chor. Bhí an feall riamh ins na
+                    Sasannacaibh," ars' an gabha, ag casadh a cheapóird agus ag tiomáint spréacha
+                    dearga as bharra iarrainn do bhí ar an inneóin aige. "Deirim- se leat, a
+                    Dhiarmaid, go gcaithfear iad do léasadh ar an gcuma soin."</p>
+                <p>"Ambás, a Thaidhg, ní gábhadh iad do bhogadh sa teine ar nós an iarrainn sin,"
+                    ars' an sagart.</p>
+                <p>"Ó, fear tagartha is eadh thusa, a Athair Peadar, acht is cuma 'sa deamhan liomsa
+                    cionnus do bhogfar iad acht go mbogfaid siad leó an poll amach uainn," ars' an
+                    gabha.</p>
+                <p>"Bain an chluas díom," arsa Diarmaid, "gur geárr go mbogfar iad."</p>
+                <p>D'fhéach an sagart amach fá'n gcuan thré dorus na ceárdchan.</p>
+                <p>"Táim ag éisteacht le caint de'n tsaghas soin ó bhíos am' gharsún," ar seisean.
+                    "Níor thángadar ar n-ais fós agus ní dóich go dtiocfaid siad go bráthach acht
+                    chómh beag. Tá na mílte fear imthighthe chum na Fraince 's chum na Gearmáine
+                    lem' chuímhne agus cad tá d'á bhárr againn ná fós aca féin? Marbhuigheadh na
+                    mílte móra aca i gcogaibh na Fraince le breis a's dáfhichead bliadhan agus tá
+                    Máire Terés ar lorg a thuilleadh aca orainn indiu! An bhliadhain seo 's an
+                    bhliadhain seo chúgainn bíonn siad le filleadh acht ní fhillean acht fo-cheann
+                    aca, a's cad do bhíonn uaidh sin féin? Tugtar céim éigin íseal shuarach sa n-arm
+                    thall dó agus seóltar anall é 'na phéacóig le ribíní, agus Franncach nó duine
+                    éigin deórata le n-a chois, agus meallaid siad leo le n-a gcuid éithig na
+                    h-amadáin chum a mairbhthe. Is cionntach atá Mac Fínghín Dubh agus a athair
+                    roimis leis sin agus ní bheidh rí 'ná rath orainn go mbeidh ciall againn."</p>
+                <p>"Is soth liom a leithéid sin do chlos as do bhéal, a Athair Peadar. Níor dhual
+                    duit é," arsa Diarmaid. "Fan go bhfeicfir na sluaighte Gaedheal a's na Francaig
+                    chlisde do thiocfaidh anall ar an mbliadhain seo chúgainn chum na nGallaphuic do
+                    thraochadh."</p>
+                <pb n="20"/>
+                <p> "'Gcead díbh-se, is beag ná cuirean an chaint sin ag úirlicean mé," ars' an
+                    sagart, agus lasadh 'na phluc le paiseóntacht. Láimhsigh sé a shrian, bhuail sé
+                    leidhb ar a shean-chapall macánta do bhain preab aisde agus seo chum siúbhail
+                    é.</p>
+                <p>"A ghabha, cad do ghnídhis leis an Athair Peadar?" arsa Mac Fínghín Dubh ar
+                    ghabháil isteach dó sa cheárd- chain chúca.</p>
+                <p>"Níor ghnídheas-sa pioc leis féin acht chuireas crudh fá na chapall," ars' an
+                    gabha, ag úmhlúghadh.</p>
+                <p>"Bhí sé ag cnáimhseáil a's 'gá rádh go bhfuilmíd ag dul ar aimhleas, a's ag
+                    seóladh na n-óigfhear thar sáile gan choinne le n-a dteacht thar n-ais," arsa
+                    Diarmaid.</p>
+                <p>"Ní bréag cuid dé sin," arsa Mac Fínghín Dubh, "acht ní fhuil leigheas air. Tá
+                    beagán de'n cheart aige, ámh. Is beag an chabhair atá ag na Francaigh d'á
+                    thabhairt dómh-sa mar chúiteamh as an méid fear do sheólas chúca. Mar sin féin
+                    ní fhuil sé 'nár gcumas fir do ghléasadh 's do chóiriúghadh annso a gan fhios de
+                    Shasana. Caithfear an méid sin do dhéanadh lasmuich. Féach, chím go bhfuil long
+                    Ghallda sa chuan. Tháinigh sí isteach tá uair an chloig ó shoin ag
+                    boladhthóireacht is dócha mar ba ghnáth. A Dhiarmaid, gléas féin a's Pilib an
+                    bád beag. Eirigh amach chúca a's abair leis an gcaptaen go bhfuil Ó Súilleabháin
+                    Doirín ag baile. Réidhteóchaidh an ainm sin leo níos feárr 'ná 'Mac Fínghín
+                    Dubh'."</p>
+                <p>"Na bodairí craosacha! Is feárr do réidhteóchaidh do chuid fíona leo, agus go
+                    ndeárnaidh sé nímh dóibh, isé mo ghuidhe," arsa Diarmaid.</p>
+                <p>Rug Mac Fínghín Dubh ar shoc ar an inneóin, thóg sé de'n cheap í, shín sé amach
+                    uaidh í go díreach le n-a leath-láimh agus bhuail sé siar ar an gceap arís
+                    í.</p>
+                <p>"Mo ghreidhn do chuisle! Ní fhuil fear eile i gCúige Múmhan do dhéanfadh a
+                    leithéid. Ní dóich liom go raibh aon fhear ar do chineadh féin do sháróchadh
+                    thu, acht chómh beag."</p>
+                <p>"Ní chuirfinn mé fhéin suas a's anuas le Buadhach <pb n="21"/> an Ghnímh 'ná le
+                    Muircheartach an Dranntáin. Bhí a saoghal súd níos úsáididhe 'ná mo shaoghal-sa.
+                    Is minic do chuímhníghim gur mhaith liom bheith ar a ngua- lainn mar cheap
+                    cosanta ag Dómhnall Cam ar an ngluaiseacht ó thuaidh go Brefni i lár an
+                    gheimhridh úd. Is dócha gur chualuighis mar do scoilt Buadhach an ceann práis úd
+                    sa chomórtas claidheamh ag rígh-theach Philib na Spáinne; acht d'á fheabhas é
+                    fuinneamh an bhuille sin is soth liom nách ar phlaosg Sasanaigh do thuirling sé.
+                    Acht mo dhíth, cad é mhaitheas gleó gan áird. Má bhuaileann slibirí d'fhuireann
+                    na loinge cogaidh sin isteach chúgat, agus tá gach aon deabhramh go mbuailfid -
+                    agus ní mar mhaithe leat é, acht ag spiaireacht ar do ghnó - teasbáin cleas na
+                    h-inneóine dhóibh," ar seisean, ag bualadh amach as an gceárdchain.</p>
+                <p>Ní raibh sé abhfad imthighthe nuair do líon an cheárdcha de mháirnéalachaibh agus
+                    claidhmhte aca, agus do chromadar ar chuardach abhus a's thall.</p>
+                <p>"Greadadh chúgaibh, cad tá uaibh?" ars' an gabha.</p>
+                <p>"Is clos dúinn gurab aicillídhe an fear thusa chum pícídhe do dhéanamh. Cá bhfuil
+                    siad?"</p>
+                <p>"Má's pícídhe dhá bheann atá uaibh chum féir do leathadh, tá ábhar aca amuich
+                    annso cois an fhalla," ars' an gabha, ag druidim leis amach. D'iadaigh sé an
+                    dorus 'na dhiaidh go h-obann, bhuail sé an lúb air, láimhsigh sé adharc
+                    bhúithrídhe a bhí a bpoll cois na táir- síghe, agus chrom sé ar i shéide le
+                    racht. Fá cheann nóimite bhí fir ag rith cois chlaidheacha, claidhmhte ag cuid
+                    aca, pícídhe a's tuaghanna 'gá thuilleadh. D'áirí- gheadh ó'n loing cogaidh an
+                    bailiúghadh soin, bhailigh sí suas a h-ancoire agus dhruid sí léi an poll amach.
+                    Chrom sí ar a cluigín do bhualadh 's ar phléaraibh do stealladh leis na fearaibh
+                    do bhí ag gabháil i leith. Níor chuir sin cosg le muintir Shúilleabháin agus
+                    d'éalui- gheadar ar aghaidh ar scáth na gclaidheacha go raibh trí fichid fear
+                    aca idir an ceárdcha 's an fhairrge.</p>
+                <p>Chrom na máirnéalaigh do bhí iadta ar ghlaodhach ar chabhair. Tháinig faitchíos
+                    ortha agus ní raibh sé de <pb n="22"/> mhisneach ortha an dorus do bhriseadh mar
+                    bhagair an gabha ortha muna nglacfaidís a suaimhneas ná fágfadh aon mhac máthar
+                    aca an láthair beó. Tháinig lán báid de mháirnéalacha eile ar tír chum iad
+                    d'fhuasgailt, acht do preabadh ortha go h-obann agus do tógadh iad. Fá dheiread
+                    chualaidh Mac Fínghín Dubh agus na h-oifigeacha a bhí suidhte chum cláir leis an
+                    uaill go léir agus phreabadar amach. Chroth seisean a úrla cas dubh go
+                    mí-shásta.</p>
+                <p>"Cuiridh uaibh, a chonairt!" ar seisean de ghuth do cloisfídhe ar an dtaobh thall
+                    de loch. "Níor bhaoghal dod' chuid fear d'á bhfágaidís a n-airm ar bórd," ar
+                    seisean le captaen na loinge, "agus muna dtógair leat ar bórd iad láithreach
+                    beidh fuil 'na sruthaibh againn.</p>
+                <p>Fear réidh do b'eadh an captaen úd. Rith sé síos ceann-lomnochta go béal an
+                    chuain, agus a lámha i n-áirde aige ag déanadh cómharthaí sórt, gidh go raibh
+                    pléir ó'n loing ag bualadh na gclaidheacha tímcheall air. Glaodhaidh sé chuige a
+                    cheann-dreama. "Bhrisea- mar an dlíghe, agus má ghearánann Mac Fínghín Dubh sin
+                    beidh an butún orainn." Labhair sé go feargach leis na máirnéalaigh agus
+                    dubhairt leó a gcuid arm do charthadh isteach ins na bádaibh gan mhoill agus gan
+                    aon bheart mí-íomchuir do dhéanadh nó go gcrochfadh sé iad láithreach. Is mór an
+                    nídh an úmhlacht. Is tairbheach é an smacht. Fá cheann leath-uaire an chloig do
+                    chífeá dream máirnéalach agus muintear na tuaithe ag rangcás agus ag rinnce le
+                    n-a chéile cois na ceárdchan, fear aca annso ag séide na mbolg do'n ghabha, agus
+                    fear eile ag liúradh an iarrainn dó ar an inneóin mar bhí seisean go gnóthach ag
+                    déanadh bacáin a's tuislídhe do dhóirsibh.</p>
+                <p>"Ní ad' shárúghadh-sa é, a ghabha, ní fhuil aon fhear beó do thógfadh an inneóin
+                    sin 'na leath-láimh."</p>
+                <p>Bhailigh a lán de na máirnéalaigh timcheall na h-inneóine agus chromadar ar í
+                    shuathadh. Fir théagar- tha do b'eadh a bhfurmhór. Cnámha garbha aca a's <pb
+                        n="23"/> lapaidhe móra beathuighthe. D'éirigh leis an bhfear ba threise aca,
+                    Cuit do b'ainm dó, an inneóin do thógáil le n-a dhá láimh, acht ní túisge chuir
+                    sé chum í shíneadh amach uaidh 'ná gur thuit sí uaidh a's bhain sí teine chreasa
+                    as an lic. "Leagfair an tsean-chabhlach anuas orm, a dhuine," ars' an gabha.</p>
+                <p>D'eirigh colg ar Chuit. Láimhsigh sé an t-órd mór. "Cuirfead le h-aon agaibh é
+                    seo," ar seisean. Chaith sé an t-órd go h-an-mhaith, acht bhuadhaigh triúr nó
+                    ceathrar de mhuintear Shúilleabháin air.</p>
+                <p>"Ní bhéarfaid an bárr uainn go deó," arsa Cuit. "Ní fhuil fear i n-Éirinn ná
+                    buadhfadh Mac Coll air agus cuirfeam fios ar bórd air láithreach."</p>
+                <p>Oifigeach loinge do b'eadh an Mac Coll soin; fear ruadh glas-shúileach, cumasach,
+                    as oileánaibh iarthair Albain; drom air chómh leathan le cómhlainn agus
+                    cuisleanna reamhra, cruadha, clúmhach aige.</p>
+                <p>"A thiarcais, nách é an phleist é! Is suarach nách bhfuil sé chómh deabhratach le
+                    Mac Fínghín Dubh féin," arsa cuid de na mnáibh. Nuair do nochtuigh Mac Coll a
+                    bhrághaid agus a chuisleanna i gcómhair an úird, chuir mná agus fir na tuaithe
+                    liúgh asda le h-aghaidh mis- nigh do chur air, agus bhuail na máirnéalaigh a
+                    mbosa mar an gcéadna. Níor ghábhadh dhóibh sin mar ar an dtríomhadh h-iarracht
+                    chuir sé an t-órd sa ghearradh do ghnídh Pilib Ó Súilleabháin, an
+                    t-iomaidhtheóir tosaigh, agus ar an gceathramhadh h-iarracht thiomáin sé é slat
+                    thairis. Do chloisfeá an poll anonn gárthaigh áthais na máirnéalach.</p>
+                <p>Chroth Mach Fínghín Dubh lámh le Mac Coll. "Ni fheaca do leithéid le fada. Bain
+                    casa eile as an órd shoin, a Philib."</p>
+                <p>Bhain Pilib casa eile agus casa eile fós as, agus gidh go raibh sé ag dul i
+                    bhfeabhas ní raibh maith dhó ann mar chuaidh Mac Coll i bhfeabhas leis. Chuir na
+                    máir- néalaigh an ciachán ortha féin ag béicigh, agus thógadar Mac Coll ar a
+                    nguailnibh síos a's suas an bán. "Faire go bráthach, a Mhac Fínghín Duibh," arsa
+                    Diar- maid na Bolgaidhe, "ná leig leo é."</p>
+                <pb n="24"/>
+                <p> "Taoi-se mór do dhóthain, a Mhac Fínghín Duibh, má taoi aicillídhe," ars' an
+                    captaen go meidhreach; "acht níor buadhadh riamh amuich 'ná i mbaile ar Mhac
+                    Coll agus ní dóich liom go bhfuil a bhuanna le fághail sa tír bhig seo."</p>
+                <p>"Is mór an focal é," arra Mac Fínghín Dubh, ag scaoileadh a chlóca dhé. Chas sé
+                    an t-órd; scaoil sé uaidh go saoráideach ar siúbhal é. Bhuail an ceann feadh go
+                    leith thar an rian do ghnídh Mac Coll agus chroth an chos anonn 's anall d'éis
+                    an fhuinnimh do bhí fúithe.</p>
+                <p>"A Chríostaighthe!" ars' an captaen, agus do leath na máirnéalaigh a gclabanna le
+                    h-iongantas. Thug Pilib ar n-ais an t-órd. "Buadhach an Ghnímh," ar seisean ag
+                    féachaint idir an dá shúil ar Mhac Fínghín Dubh. Chaith an taoiseach dhe
+                    casóigín chuirp phlainín bhí laistigh air, d'fhill sé muiniltrí a léine, scaoil
+                    sé an bónna agus dhing sé síos ar a chliabh é go raibh a bhrághaid leis;
+                    d'fháisg sé crios leathair bhí timcheall a chaoil agus d'fhéach sé ar charraig
+                    léith i gclaidhe naoi ráinne déag thar an gcómhartha do gheárr Mac Coll. Bhí an
+                    claidhe sin ar bhruach na fairrge. Chas sé an t-órd go bog ar dtúis, leig sé a
+                    cheann ar an dtalamh arís, d'fhéach sé uaidh ar an gcarraig léith sa chlaidhe,
+                    agus chrom sé annsoin ar an órd do chasa chum gur dhóich leat gur eascú é féin ó
+                    shál go baitheas, agus an t-órd mar rotha timcheall a chléibh. Scaoil sé uaidh
+                    sa n-aér fá dheireadh é ag feaduigheal, sheasaimh sé féin nós stalca ag
+                    féachaint i ndiaidh an úird sin, bior 'na radharc, luisne 'na phluc, a bhéal
+                    iadhta, an anál 'na séideánaibh as pollaibh a shróna, acht an t-órd ag triall
+                    mar phléar as gunna, amach leis os cionn na carraige léithe, amach leis gur
+                    bhuail sé an t-uisge agus gur árduigh sé steancán sáile fiche troigh 'na
+                    chúbhrán.</p>
+                <p>Níor labhradh gíog acht amháin go ndubhairt Mac Fínghín Dubh féin go mín,
+                    "Chaillis do órd, a Thaidhg gabha!"</p>
+                <pb n="25"/>
+                <p> Dhruid an captaen agus a mháirnéalaigh leo agus a súla ar leathadh ortha, agus
+                    fá cheann nóimite ní raibh aithid aca na raibh ar bórd loinge ag seóladh amach
+                    as an gcuan.</p>
+                <p>Fá thuitim na h-oidhche bhí na bóithre chum an Doirín dubh le daoinibh. Thángadar
+                    ós gach áird. Thángadar trasna an chuain ó'n Snaidhm agus ó Thathuille. Leath an
+                    scéal ar fuid na gceanntar go raibh bruighean ar an nDoirín agus gur
+                    marbhuigheadh ann fuireann loinge agus a lán de mhuintear Shúilleabháin leis.
+                    "Ní gábhadh dhíbh an fuadar," ars' an gabha, "ní fhuil máchaill air éinne'."</p>
+                <p>Thómhais a lán daoine urchar Mhac Fínghín Duibh le slabhra fir bóithre. Thómhais
+                    an t-Athair Peadar é le riaghail mhangaire, mar ní raibh sé láithreach ag an
+                    iomaidheacht agus bhí sé mórdhálach as Mhac Fínghín Dubh. "Ta deich slata a's
+                    trí fichid go fíor ó'n dtroigh go dtí carraig liath an chlaidhe; ní fios dúinn
+                    cá'r ghabh órd mór na ngaibhne 'na dhiaidh sin, acht bíodh so mar chómhartha
+                    comórtais go deó agaibh," ars' an t-Athair Peadar.</p>
+                <p>Chuireadar Mac Fínghín Dubh agus a éachta thré n-a chéile. D'ínnseadh agus
+                    d'ath-ínnseadh gur ghluais tarbh buile 'na dhiaidh féin 's a dheirbhshéar lá ar
+                    tí a mairbhthe, acht nuair do theanntuigh sé iad gur phreab an taoiseach i
+                    leath-taoibh uaidh, go rug sé ar adhairc ar an dtarbh mór úd gur bhuail sé ar
+                    phleasg a dhroma é a's gur gheárr se a scórnach gan mhoill.</p>
+                <p>"Glanaid libh abhaile anois," ars' an t-Athair Peadar, "ba chóra go mbeadh tochas
+                    i sróin Mhac Fínghín Duibh toisg an méid gleóidh atá agaibh 'na thaobh. Dá
+                    mbeadh 'fhios aige ní bheadh sé buidheach díbh. Tá sé ana láidir, Dia 'ghá
+                    bheannachadh, agus mín, macánta, freisin, cé go bhfeaca féin é la ar an dtaobh
+                    thall de loch annsoin feargach go leór nuair do chuir Risdheárd Óg Ó Mathghamhna
+                    as 'ainm é. D'eirigh an t-aighneas eatortha i dtaobh an chreidimh a's iad ag
+                    caint ar dhroichead Dóinneach (Dubhabhainneach). Thóg Mac <pb n="26"/> Fínghín
+                    Dubh ar chaol an fear eile a's shín sé amach thar shlait an droichid é. Níor
+                    bh'iongnadh go raibh sgeóin ar Risdeárd nuair do chonnaic sé an cúbhrán bán ar
+                    an uisge breis a's cheithre fichid troigh laistíos dé acht d'árduigh Mac Fínghín
+                    Dubh isteach ar an mbóthar arís é chómh réidh a's dá mbadh leanbh an fear borb
+                    úd.</p>
+            </div>
+            <div type="chapter">
+                <head>Caibidiol a Cúig</head>
+                <head>COIS NA TEINEADH AR NEIDÍN.</head>
+                <p>"Cad é an mhaitheas tú i n-aon chor, a Shleagánaigh?" arsa Seón Puxley. "Tá Mac
+                    Fínghín Dubh 'na bhuanna ó Neidín go Béara, agus cead agat-sa le sé bliadhan-
+                    aibh urchall do chur fá aon lá ba mhaith leat."</p>
+                <p>"Cad do dhéanfainn? Chuireas tuairisg chum an Riaghaltais go minic go mbíonn
+                    lasdaidhe branda a's fíona ag teacht isteach chuige gan cháin gach mí; go
+                    seólann sé adhbhar saighdiúirí chum na Fraince agus go bhfuil sé ag brath ar
+                    eirghe amach chómh luath a's bheidh caoi aige air. Cad é a bhfreagra orm?"</p>
+                <p>"Alp," arsa Seón Puxley, agus cuir sé féin alp as ar nós gadhair mar bhí sianthas
+                    'na bhéal uachtair do ghnídh balbh é.</p>
+                <p>"Seadh go díreach, tugaid siad alp orm. Is í an fhírinne í go bhfuil faitchíos nó
+                    meathtact ar an riaghal- tas. D'iarras ortha long cogaidh do chur anoir ó
+                    Chorcaigh acht i n-ionad breith ar Mhac Fínghín Dubh agus é chrochadh, is
+                    amhlaidh do chrom an captaen ar ólachán leis, agus an fhuireann ar rinnce le
+                    muintear na tuaithe. Shroich sé ar n-ais agus deir sé gurab é Mac Fínghín Dubh
+                    an fear is féile agus is breághdha d'ár bhuail riamh leis. Cuireadh mearbhthall
+                    éigin air 'na theannta soin, mar deir sé gur chaith an Mac Fínghín seo órd ó'n
+                    nDoirín go Baile-an-Sgeilg ar an dtaobh thall, rud ná déarfadh éinne acht duine
+                    éigin as a mheabhair."</p>
+                <pb n="27"/>
+                <p> "Cad é an brath atá agat ar leidhbán de'n tsaghas soin i n-aon chor chum
+                    cabhruighthe leat? Cad 'na thaobh ná téidheann tu féin siar agus an Mac Fínghín
+                    Dubh soin do chaitheadh amach ar mhullach cinn?"</p>
+                <p>Do ghruig an méid sin an Sleagánach. Phreab sé 'na shuidhe, rug sé ar chathaoir
+                    agus chas sé í. "A Sheóin Puxley, má chuireann tú chuige mé, bainfead an inchinn
+                    asat. Téidhre féin go dtí an Doirín a's caith amach é má theasduigheann a chuid
+                    talmhan uait."</p>
+                <p>"Go réidh, a Shleagánaigh," arsa Seón. "Gheallais dómhsa an Doirín 's a mbaineann
+                    leis sé bliadhna an taca so agus do dheirbhsiúr dhathamhail 'na theannta nuair
+                    do bheadh sí d'aois. Táim annso le n-a chur fhiachaibh ort do mhargadh do
+                    chómhlíonadh. Cloistear go rabhais ar aoidheacht ag Mac Fínghín Dubh ar feadh
+                    oidhche agus gur gheallais dó ná bainfeá leis ar feadh a shaoghail. A
+                    bhioránaigh, ní h-ar sin do ghoideas an t-udhacht ód' athair agus go bhfuarthas
+                    múchta é lá'r na bháireach 'na leabaidh."</p>
+                <p>Chrap srón an tSleagánaigh agus thug sé catsúil ar Sheón. "Dá n-aibeórainn focal
+                    do chrochfaidhe thu i n-ionad mo dheirbhshéar agus an Doirín d'fhághail!"</p>
+                <p>D'eirigh na féitheanna ar Sheón Puxley. "Cé cheil ar do dhearbhráthair go
+                    ndeárnadh oighre dhe? Cé thug an t-udhacht duit-se?"</p>
+                <p>"Udhacht go deimhin! Nárab mise an mac ba shine? Nárab liom-sa an
+                    oighreacht?"</p>
+                <p>"B'fhéidir nách leat fós an oighreacht soin, a bhuach- aill," arsa Seón, agus
+                    bagairt 'na ghuth bhalbh.</p>
+                <p>Chuir an Sleagánach gáire as ar nós shiutair capaill. "Ghoid muintear
+                    Shúilleabháin uaim an t-udhacht soin an oidhche úd ar an nDoirín, a's go mba
+                    mhaith an mhaise dhóibh é! Dhóigheadar é, mar shamhluigheadar gur bh'é mo gheall
+                    chum na gceanntar so é," agus chuir sé siutar eile as.</p>
+                <p>"Níor dhóigheadar go deimhin. Tá sé annso agam," arsa Seón go fonómhadach, ag cur
+                    a láimhe 'na bhrollach mar a raibh an t-udhacht agus piostol 'na theannta. <pb
+                        n="28"/> Do mhothuigh an Sleagánach é ag cur na súl thríd, agus níor chuir
+                    sé cor dé cé gur thug a chroidhe geit.</p>
+                <p>"Ní buan é cogadh na gcarad, a Sheóin, a dhalta," ar seisean le
+                    bréag-charthannacht, "tá fuacht orm ó bheith ag aighneas leat. Caith fód móna ar
+                    an dteine sin agus corruig í; acht fan, corróchad féin í." Rug sé ar an dtlúidh
+                    agus bhuail sé Seón go h-obann feadh 'na bhéil léi. Scaoil seisean pléar leis,
+                    acht bhí an Sleagánach ró-athchumair dó agus níor aimsígheadh é. Bhuail an
+                    Sleagánach fá ar an úrlár é agus chrom sé ar na balcaisidhe do stracadh dhé.</p>
+                <p>Biothamhnach ana láidir do b'eadh Puxley acht gur thánagthas a gan fhios air agus
+                    do chrom sé ar fhuirse agus ar chómhrac. Bhí a mheabhair aige gidh go raibh
+                    meibhreán air, agus leagadar an bórd a's bhriseadar na cathaoireacha ag únfairt
+                    a's ag tachtadh a chéile ar nós dhá mhadra.</p>
+                <p>Fá dheireadh chualaidh Martha Shelbourne, deirbhshiúr fhir-an-tíghe, an raobadh,
+                    agus ghlaodhaidh sí ar Mhichilín. Ritheadar araon isteach.</p>
+                <p>"Ar ghrádh Dé bogaidh d'á chéile," arsa Michilín, agus chaith an cailín óg í féin
+                    eatortha. Níor scuirea- dar dhí, agus leagadar agus ghortuigheadar í. Liúghaigh
+                    a dearbhráthair uirthe go mbeadh a h-anam aige dá mbainfeadh sí leis, mar bhí sé
+                    i n-uachtar, acht fá dheireadh chaith Seón sparán chúici. "Rith amach leis," ar
+                    seisean. Chuir an Sleagánach ulfhairt as fá mar do thabharfadh gadhar go sciobfá
+                    cnámh uaidh, agus léim sé i ndiaidh a dheirbhshéar a's bhain dí an
+                    t-udhacht.</p>
+                <p>Bhí Puxley tabhartha le h-easba fola a's anáile agus ní raibh aige acht cromadh
+                    ar chneadaigh agus ar mhionna- móra do thabhairt.</p>
+                <p>Bhuail an Sleagánach an glas ar an ndorus agus d'fhág sé Michilín agus Seón
+                    istigh i dteannta chéile.</p>
+                <p>"Cuimhnighím anois cionnus do fuair Seón an t-udhacht. Bhí sé i bpóca mo chlóca
+                    an oidhche úd ag Árd Aodha nuair do throideas, agus thug an dúradán bréan soin
+                    Michilín dó é. Cuirfead téad agus cloch fá mhuineál an choileáin sin ar
+                    maidin."</p>
+            </div>
+            <div type="chapter">
+                <pb n="29"/>
+                <head>Caibidiol a Sé</head>
+                <head>AR INNBHEAR SCÉINE.</head>
+                <p>Tráthnóna breágh do b'eadh é. Bhí curach déanta as seithídhe capall ag luasgadh i
+                    ngabhailín Chillmacghioll- óig agus beirt fhear 'na suidhe innte - an t-Athair
+                    Peadar agus Mac Fínghín Dubh - agus iad ag gléasadh dúbhán ar shlataibh
+                    iasgaigh. Fear beag, liath, séimh do b'eadh an t-Athair Peadar, cruaidh, lom,
+                    fuinneamhail, inntin thar bárr aige, súla glasa, meidhreacha aige acht súla do
+                    shilfeadh deóir, agus bhí deóra ionnta an tráthnóna úd agus tocht goil air, cé
+                    nár leig sé air é.</p>
+                <p>"Leig anall chúgam na maidídhe rámha soin, má's é do thoil é, a Athair Peadar,"
+                    agus le buille nó dó bhí an curach amach fá'n gcuan. Bhí Tigh Mhóir a's Tigh
+                    Dhuinn dia thiar díobh agus an fhairrge 'gá suathadh féin timcheall na
+                    bhfailleacha soin fá mar do bhí sí fadó nuair do báthadh Donn mac Míleadh
+                    ann.</p>
+                <p>Bhí Mac Fínghín Dubh ag iomramh leis agus an t-Athair Peadar ag féachaint air. Ba
+                    mhaith linn dá bhfágadh an t-Athair Peadar 'na dhiaidh aon scríbhín do
+                    thabharfadh tuairisg chruinn ar phearsa Mhac Fínghín Duibh, mar ní fhuil d'á
+                    thaobh againn acht fá mar adeir na seandaoine linn gur innis a n-athaireacha
+                    dhóibh. Fear luisneamhail do b'eadh é, gruaig chasda dhubh air, slinneáin air go
+                    suidhfeadh beirt fhear ortha, gais- gidheach 'na bhallaibh mar dubharthas,
+                    cúmtha, córach do réir a áirde agus an ceann aige ar aon fhear 'sa phobul gidh
+                    go rabh fir chumasacha ann le n-a línn.</p>
+                <p>"Airíghim nách bhfuil fonn iasgaireachta ort, a Athair Peadar. Taoi ag cur na súl
+                    tríom-sa. Tá cuid aca, dar leat, is dathamhla 'ná mé, acht ní h-ar son mé fhéin
+                    d'á rádh é, is beag duine aca níos treise 'ná mé," arsa Mac Fínghín Dubh go
+                    gealgháireatach, ag cur a mhéireanna thré 'na úrla cas dubh.</p>
+                <p>"Taoi mar do chruthuigh Dia thu, a Mhac Fínghín Duibh. Tá brón croidhe orm go
+                    bhfuilir ag dul thar sáile agus <pb n="30"/> is baoghalach go bhfuilir ag dul ar
+                    aimhleas chómh maith!"</p>
+                <p>"Nár leigidh Dia soin, a Athair Peadar! Tá brón croidhe orm féin leis, cé ná
+                    leigim orm é. Acht féach timcheall ort. Do ba lem' ghaolthaibh dhá thaobh an
+                    chuain seo; tá daingean Dhómhnaill Chaím i mBuidhe Bhéara brisde. Tá caisleán Uí
+                    Shúilleabháin Mhóir thuas i nDúnciaráin raobtha. Tá Árd Aodha ar an dtaobh so
+                    agus Ceapa na Coise ar an dtaobh thall de loch mar áit cómhnuidhthe ag
+                    gráinneógaibh. Cé ghnídh an obair sin ar fad acht na Sasanaigh!"</p>
+                <p>"Tá soin fíor, fóiríor," do ráidh an t-Athair Peadar, "acht cad tá de bhárr na
+                    gcogaidhe go léir againn? Ní admhóchad gur bhuaidh na Sasanaigh i gcómhrac
+                    orainn, mar do b'é an gábhatar do chreach sinn. Bhí an fhairrge agus na loingeas
+                    aca-san fá mar atá indiu, agus lón chum a chaithte acht níor fhágadar bó 'ná
+                    cearc againn-ne nár shladadar."</p>
+                <p>"Ní mar mhaithe linn ná déanfaidís an rud céadna indiu, acht nách bhfuil sé 'na
+                    gcumas. Ní fhuil agam-sa acht an Doirín indiu, agus féach tá droch-shúil an
+                    tSleagánaigh air."</p>
+                <p>"Tigeann an ghrian i ndiaidh na fearthainne. B'fhéidir go mbogfadh Dia croidhe an
+                    tSleagánaigh," ars'an seanduine.</p>
+                <p>"Is maith le Dia congnamh," ars'an taoiseach, ag féachaint isteach le súilibh
+                    fiadhne thré shúilibh géara, glasa an tsagairt. "Dá mbeadh mo cheann ar cheap,"
+                    ar seisean thré n-a fhiaclaibh iadhta, "agus tuagh ag am' námhaid os cionn mo
+                    mhuiníl, a ndéarfá- sa liom, "Bíodh foidhne agat; ná corruigh cos ná lámh nó
+                    taoi ag dul ar aimhleas, acht fan go mbuailfear thu'?"</p>
+                <p>"Ní déarfainn a leithéid sin!"</p>
+                <p>"Ní déarfá, acht ar m'anam gurab é seo adéarfá: "Preab id' shuidhe, a Mhac
+                    Fínghín Duibh! Tabhair aghaidh ar do namhaid fá mar a thabharfadh do shinnsear
+                    rómhat. Buail é mar bhuailfeadh Dómhnall Cam é. Má cistear <pb n="31"/> ort 'sa
+                    taobh theas d'Éirinn gluais go dtí an taobh thuaidh, a's buail annsúd é chómh
+                    fada a's bheidh claidheamh eile árduighthe i nÉirinn -'"</p>
+                <p>"Éist ar son Dé," ars' an seanduine, mar bhí faghairt 'na shúilibh féin ar nós an
+                    taoisigh. Rug sé ar shlait iasgaigh agus chrom sé ar iasgach go saotharach, mar
+                    'dh eadh.</p>
+                <p>"Cuir uait an tslat soin, a Athair Peadar; ní fhuil aon fhonn iasgaigh ort, agus
+                    ar aon chuma tá an uain ró-gheal."</p>
+                <p>"D'á ghileacht atá sí níor bh'iongna liom go mbeadh gaoth chúgainn," ars' an
+                    seanduine, ag cur cor' sa chaint mar bhí faitchíos air go n-admhóchadh sé go
+                    raibh an ceart ag an dtaoiseach.</p>
+                <p>"Ní maith liom filleadh folamh," ars' an taoiseach féin, ag caitheadh dúbháin,
+                    "ní mó 'ná ba mhaith liom filleadh folamh ó'n dtír mhór acht chómh beag. Fuaras
+                    scéala ó n-ár mbráthair Muircheartach Óg go ndeár- naidh an bhean-Ímpire captaen
+                    airm díom-sa agus d'eisean."</p>
+                <p>"Tá Máire Terés glic. Is dóich léi go gcuirfir-se agus Murtach Óg a thuilleadh
+                    saighdiúirí chuice agus tá rí na Fraince ar an intinn gcéadna. Tagann cnapán im'
+                    scórnuigh nuair do chuimhníghim ar na céadta fear do thugamair do na tíorthaibh
+                    iasachta soin. Nár bh'fhearra dhóibh bheith ag rómhar bháin nó ag aodhaireacht
+                    bhó 'ná bheith ag tabhairt a gcod' fola gan áird ar son Francach, nó Sasanach,
+                    nó Gearmánach!"</p>
+                <p>"Mo lámh a's mh'fhocal duit, a Athair Peadar, ná geobhaid siad a thuilleadh fear
+                    uainn lem' thoil-se. Má leigid siad linn a bhfuil thall d'ár bhfearaibh beimíd
+                    scartha leo feasda."</p>
+                <p>"Má leigid, ámhthach? Sin í an cheist."</p>
+                <p>"Seadh, scuirimís de'n scéal an cor so. Tabhair-se cómhairle do'n bhuidhin faid
+                    do bhead-sa amuich."</p>
+                <p>Dhruideadar leo abhaile, mar bhí an oidhche ag teacht agus an ghaoth ag
+                    eirighe.</p>
+                <p>"Cad tá uait, arú, a Mhichíl?" ars'an tAthair <pb n="32"/> Peadar le fear do bhí
+                    ar an bport rómpa agus dhá chapall aige, a chapall féin agus sean-chapall an
+                    tsagairt.</p>
+                <p>"Mo dhiachair!" ars'an fear. "Tá Cáit go h-an- donaidhe. Ní bhéarfair ar an anam
+                    innte."</p>
+                <p>"Dia go deó linn!" ars'an seanduine, ag dul de thruslóig ar muin a chapaill.
+                    Sciob Mac Fínghín Dubh a chlóca féin as an gcurach agus rith sé 'na dhiaidh.
+                    "Buail ort é seo. Tá báisdeach chúgainn."</p>
+                <p>"Ná bac é, ná bac é," ars'an seanduine, ag bailiú- ghadh leis. Chaith Mac Fínghín
+                    Dubh an clóca dh'á dhruim. "Mhaise, nách cúramach ataoi dhíomsa," adeir an sean-
+                    duine, ag priocadh a shean-chapaill chum siúbhail.</p>
+                <p>Chrom na h-éanlaithe ar ghrágarlaigh amuich sa bhfairrge; thosnuigh na scamaill
+                    ar ghluaiseacht 'na gcnocánaibh dorcha trasna na spéireach laistiar. Tháinig
+                    monga bhána abhus a's thall ar an uisge agus bhris an t-uisge sin le glug, glug
+                    suas i gcoinnibh na gcairrgeacha dúbha, sleamhaine, atá mar chír-cosanta ar na
+                    h-oileánaibh i mbéal cuain Chinnmara.</p>
+                <p>D'féach Bríghidh ní Shúilleabháin, an t-aon deirbhshiúr amháin do bhí ag Mac
+                    Fínghín Dubh, amach fá'n spéir ó thigh mór an Doirín. Tháinig sí ó n-a tigh féin
+                    i nGleann Fleisge le slán do thabhairt d'á dearbhráthair sul a n-imtheóchadh sé
+                    ar a thurus go tír mhór na h-Eórpa.</p>
+                <p>"Is cosmhail an tráthnóna so," ar sise, "leis an dtráthnóna úd gur báthadh na
+                    h-iasgairí (slán mar a n-innistear é!) ag an dTráigh Bháin nuair do bhris an
+                    fhilídheacht amach i nDiarmaid na Bolguidhe."</p>
+                <p>Sceart deirbhshiúr a céile, bean óg do mhuinntear Dhonnachúdha an Ghleanna, ar
+                    gháiríbh.</p>
+                <p>"Ní chreidfeá é, b'fhéidir," arsa Bríghid, "acht ní raibh i nDiarmaid roimh an
+                    oidhche úd acht mar a bheadh aon iasgaire eile. Bádóir maith do b'eadh é agus
+                    fear láidir, cráisteamhail leis. Níor chuir sé cos i mbád ó shoin, ámh.
+                    Iompuigheadh iad an oidhche úd agus níor saoradh aithid aca acht eisean amháin.
+                    Nuair <pb n="33"/> do bhí sé i nguais a bháidhte, d'eirig an múrdhuchán as an
+                    bhfairrge ar a aghaidh amach a's thóg sí léi é. Caitheadh aníos ar an ngainimh é
+                    lá'r na bhárach i gCuailleach. Bhí sé lá 's oidhche 'na shuan. Mheasadar é
+                    thórramh, acht dhúisigh sé fá dheireadh. Bhí a ghruaig chómh liath le broc, a's
+                    chúm sé altúghadh ar an láthair sin ins an bhfilidheacht is áilne do cualathas
+                    riamh!"</p>
+                <p>Chrom na préacháin ar ghárthaigh ar na cranaibh amuich. "Tá Mac Fínghín Dubh
+                    chúgainn," arsa Bríghid. "Is gnáthach leo an ciach-ghlór soin do chur asda nuair
+                    do chíd siad é, mar beathuigheann sé iad le coirce 's eórna, 's d'á gcaithfeadh
+                    fear oibre cloch leo, bheadh a anam ag Mac Fínghín Dubh."</p>
+                <p>Bhuail an taoiseach isteach chúca. Thóg sé Bríghid ar a bhacalainn, mar
+                    b'ionmhúin leis a dheirbhshiúr. Ansain rug sé barróg ar Nór' ní Dhonnchúdha, a's
+                    chuir an bhean óg soin bréag-liúgh aisde, agus bhí sult a's suairceas a's
+                    rangcás a's gáirídhe aca ar feadh tamaill.</p>
+                <p>"Beidh na h-iasgairí creachta d'éis na h-oidhche seo," arsa Diarmuid na
+                    Bolguidhe. "Tá na saidhnídhe curtha amuich 'sa chuan a's ní fhágfaidh an
+                    droch-uain seo luid díobh le chéile."</p>
+                <p>"Olc go leór," adeir Mac Fínghín Dubh, "acht ar a shon soin a's eile is measa
+                    liom má tá an t-Athair Peadar amuich fá'n ndoininn seo."</p>
+                <p>D'fhéach sé amach. Bhí an bháisdeach ag tuitim ar nós uisge thré chriathar. Bhí
+                    na caisídhe bána ag rómhar thré chumaraibh na gcnoc agus na tonntacha móra glasa
+                    ag rith ar a chéile amuich sa bhfairrge 's ag pléasgad i gcoinnibh na tíorach le
+                    fothram. D'fhulaing na h-oileáin bhun-dhaingeana annsúd an blosg-bhualadh céadna
+                    leis na mílte bliadhan agus tá rian an chómh- raic sin ortha mar tá an
+                    chloch-ghairbhídhe agus an chloch- ghréine 'na gcliathánaibh dúbha pollta le
+                    fuinneamh na dtonn.</p>
+                <p>"Moladh 's buidheachas le Dia!" ars' an taoiseach, "is buaidheartha atáid cuasáin
+                    Chinnmara anocht. D'éiri sin, a Nóra ní Dhonnchúdha, ní fhuil ceól ar <pb n="34"
+                    /> domhan is binne liom 'ná dórdán na dtonn ag briseadh ar tír. An gcloiseann tú
+                    a sranna 's a súrac ar imtheacht dóibh ar gcúl? Acht ba thruagh liom aon
+                    árthacht bocht do ráineóchadh 'na measg."</p>
+                <p>Gloinge - gloinge - gloinge - gloinge! arsa cluigín luinge ós cionn fothraim na
+                    doininne. Thug Mac Fínghín Dubh preab. D'fhéach sé ar a dheirbhshír.
+                    D'fhéachadar go léir ar a chéile. Rith an taoiseach chum an doruis.</p>
+                <p>"Tá sé 'na shoineann, agus an ghaoth ag maolúghadh," ar seisean. Chonnaic sé
+                    solus gorm abhfad amach. Chonnaic sé an solus fa mar do bheadh sé ar mhullach
+                    cnocháin agus ar an dara nóimit do foluigheadh an solus arís.</p>
+                <p>"Tá long seóil éigin i gcontabhairt. Cá bhfuil Pilib?"</p>
+                <p>"Na leig dó dul amach," arsa Nór' ní Dhonnchúdha.</p>
+                <p>Ní fhuil aon mhaitheas bheith leis," arsa Bríghid ní Shúilleabháin.</p>
+                <p>Sceinn sé féin a's Pilib leo chum na trágha agus mórán eile ar a sálaibh.</p>
+                <p>"Amach leis an mbád mbán," arsa Mac Fínghín Dubh; agus bhí triúr fear a's é féin
+                    istigh innte láithreach, agus na maidídhe rámha ag obair go dian. D'eirigh leis
+                    na rámhaidhthe go rángadar go béal an ghabhailín mar a raibh na tonntacha 'gha
+                    n-únfairt féin isteach 'na n-ualaighibh cúbhránacha.</p>
+                <p>"Tóg leis an mbórd dheas, a Philib! Sin é, a Mhichíl Óig! iarracht eile, mo
+                    chumann sibh!" ars' an taoiseach. Chrith an bád ban ar bárr tuinne, fá mar do
+                    bheadh anam innte; phreab sí le fánaidh, acht sul ar shroich sí an t-ísleán mar
+                    a raibh an t-uisge ag fiuchadh fúithe bhuail bolg-thonn ghorm í, thóg sí léi í,
+                    í féin a's a fuireann, fá mar do thógfadh sí gabhál do chipíní dreóighte, agus
+                    chaith sí glan amach ar an dtalamh dtirm an bád bán a's a raibh innte ar dhruim
+                    a chéile. Leónadh lámh Philib, suathadh an bheirt eile, acht níor imthigh pioc
+                    ar Mac Fínghín Dubh.</p>
+                <pb n="35"/>
+                <p> Níor chuir aon aca suím sa tubaiste acht amháin go ndubhradar go rachadh sé
+                    dhíobh an gabhailín do chur díobh go maolóchadh na tonna.</p>
+                <p>Chualadar arís cloigín na luinge; chonncadar a solus gorm agus arís a solus
+                    dearg. "Féach an dá sholus. Tá sí ag casadh. Tá a stiúir caillte aici. Faire go
+                    bráthach! Tá sí ag déanadh ar Chillmac- ghiollóig, a's tá na tonntacha 'gá
+                    tiomáint ar an Rinn Dhuibh!"</p>
+                <p>Chualadar ós cionn fothraim na dtonn glaodh na bhfear ar bórd go soiléir ag
+                    iarraidh conganta mar chonnaic an fuireann bhocht na soillsí ar tír.</p>
+                <p>"Cabhair Dé chúca!" arsa Mac Fínghín Dubh. "Má theangmhuighid leis an Rinn Dhuibh
+                    beidh a ngnó déanta. Má mheath an bád bán rachaidh an churach thríd an
+                    ngabhailín. Is le na leithéid do ghabh Dómhnall Cam trasna na Sionna 's an
+                    namhaid ag cur air."</p>
+                <p>Rith se i leath-taoibh chum tíghe na mbád. Tharraing sé amach an churach a's
+                    phreab sé isteach innte.</p>
+                <p>"Ní áitimheóchad ar éinne' gur cóir dó dul lem' chois, mar ní ceart dom é."</p>
+                <p>"Rachad-sa leat," arsa Bríghid ní Shúilleabháin.</p>
+                <p>"Ciall, a bhean," ars' a dearbhráthair go gruaimeach. Bhuail sean-chapall ar
+                    sodar fá n-a ndéin.</p>
+                <p>"Cad é seo?" ars' an t-Athair Peadar, agus é 'na lipín i ndiaidh na
+                    fearthainne.</p>
+                <p>"Daoine d'á mbáthadh!" arsa Mac Fínghín Dubh.</p>
+                <p>"Dia go deó linn!" ars' an seanduine, ag caitheadh a chlóca 's a chóta dhé. "Is
+                    ualach dom iad, ní fhéad- fainn bheith níos fliche 'na táim," ar seisean ag
+                    preabadh isteach sa churach. Thug deichneabhar aca na mionna ná leigfidís de'n
+                    tsean-shagart dul ar fairrge agus tharraigeadar dul 'na ionad go
+                    h-éasguidhe.</p>
+                <p>"Aithreacha leanbh is eadh sibhse. Bailigh leat, a Mhac Fínghín Duibh, agus ná
+                    bhí ag cur na súl thríom-sa," ars' an sean-laoch, ag breith ar mhaide rámha.</p>
+                <p>Chaith na daoine iad féin ar a nglúnaibh ar an dtráigh. Sceinn an churach léi ar
+                    nós lachan, sceinn sí <pb n="36"/> thríd an ngabhailín, bheartuigh sí í féin ar
+                    bhuaic, phreab sí le plub ar tóin tuinne agus d'eirigh sí arís le léim fá mar do
+                    bheadh sciatháin uirthe. Amach léi gur shroich sí an long seóil agus chualaidh
+                    an fhuireann an guth ba thréine i gCúige Múmhan ag fógairt ortha go raibh na
+                    cairrgeacha dúbha ar an mbórd chleith!</p>
+                <p>Long aon-chrainn do b'eadh í agus bhí fuinneamh fúithe ag gabháil thar an gcurach
+                    gur imthigh sí as a radharc sa doiricheacht. Connacathas go raibh sí gan stiúir
+                    agus gur gheárr uaithe.</p>
+                <p>Chuir an bheirt sa churach osna asda, agus má bhíodar ag guidhe ní chloisfeá gíog
+                    asda. Dhruideadar leó amach fá'n gcuan mar a raibh na tonntacha ag maolú-
+                    ghadh.</p>
+                <p>"Chualas mar a bheadh plub sa bhfairrge," ars' an t-Athair Peadar. "B'fhéidir gur
+                    thárluigh dhóibh bád do sháthadh amach." Acht ní raibh an focal as a bhéal nuair
+                    do chualadar pléasg agus cnagarnaigh, agus an long 'gá stealladh i gcoinnibh na
+                    gcairrgeacha dúbha, géara do mheil a's do strac í fá mar do stracfadh scata
+                    leomhan ampladhach caora.</p>
+                <p>D'fhéach an bheirt ar a chéile agus a gcroídhe 'na mbéal aca acht fá cheann
+                    nóimite 'na dhiaidh sin chonn- cadar ailp dhorcha ag déanadh ortha.</p>
+                <p>"Dar fiadh!" arsa Mac Fínghín Dubh, "is é an Róisteach atá ann. Ní bheadh sé i
+                    gcumas éinne eile bád do chur amach agus an fuadar do bhí fá'n loing úd."
+                    Deirthídhe gur ba foghluidhe mara an Róisteach. Do b'é bhí annsúd. D'eirigh sé i
+                    ndeireadh an bháid bhig a's chuir sé liúgh as i n-árd a chinn 's a ghotha, "A
+                    churacháin, ahú! Cá bhfuil gabhailín Chillmacghioll óig?" Acht leis sin bhris
+                    tonn dia thiar dé, spréachadh taosgán sáile air agus spriúchadh ar bhior a chinn
+                    amach fá'n bhfairrge é. Ar mheádhadh an bháid arís 'na dhiaidh d'iompuigheadh í
+                    béal fúithe! Do sgread a raibh innte; bhí an taoide ag trághadh go tiugh agus ar
+                    eirghe dhóibh ar bárr uisge do scaip na tonntacha abhus a's thall iad.</p>
+                <pb n="37"/>
+                <p> Ní raibh ann aca acht triúr máirnéalach, beirt theas- talaí, agus leanbh an
+                    Róistig. Thug Mac Fínghín Dubh sciob ar fhear bhí d'á bhreith thairis ag an
+                    dtaoide agus thóg sé le n-a leath-láimh isteach sa churach é. "Mo chara do
+                    chuisle, a Mhac Fínghín Duibh!" ars' an Róist- each. Sciob an t-Athair Peadar an
+                    leanbh isteach leis. Rug an Róisteach féin agus an t-Athair Peadar ar bheirt
+                    eile. Bhí fear eile d'á bhreith uatha agus é ag béicigh. Fuair Mac Fínghín Dubh
+                    greim ar chaol air agus thóg sé suas é fá mar do thógfá pisgín cait. Le n-a línn
+                    sin chuaidh clár de'n loing bhrisde i n-achrann do shoc an churacháin agus thóg
+                    tonn léi ar a druim an t-aon bhean amháin do bhí 'na measg. Chuir sí liúgh
+                    uamhnach, thruagh-chroidheach aisde.</p>
+                <p>"Máthair an leinbh!" arsa Mac Fínghín Dubh leis féin, agus léim sé ins an
+                    duibhegán gan mhoill. Ní raibh a leithéid do shnámhaidhe ar imeall-bhórdaibh
+                    Chiarruighe, agus ba gheárr gur shroich sé an bhean. Ar chasadh dhó, ar a shon
+                    soin, bhí an taoide ró-láidir dó agus thóg sí léi é fá mar ná' raibh ann acht
+                    brobh tuighe.</p>
+                <p>Do ghlaodhaidh sé ar an Athair Peadar agus freag- radh é. Ghlaodhaidh sé an dara
+                    h-uair acht chuaidh an tsáile le n-a anáil.</p>
+                <p>Do scuireadh an churach fá dheireadh le duadh, agus do leanadh an dá ghlaodh.
+                    D'iomraimh an t-Athair Peadar agus an Róisteach chum gur dhóich leat go rachadh
+                    a gcnámha thríd an gcroiceann, acht thóg an tonn a's an taoide an taoiseach agus
+                    a ualach uatha, mar chongaibh sé gréim le n-a láimh chléith ar bhrághaid na mná,
+                    agus chongaibh sise greim an duine bháidhte ar an láimh sin leis.</p>
+                <p>D'éis cuardaighthe dhóibh annso 's annsúd ins an doiricheacht agus iomramh a's
+                    glaodhach go rabhadar tnáithte agus an ciachán ortha, thugadar na maidídhe rámha
+                    do dhá mháirnéalach agus tuirsígheadh iad-san leis.</p>
+                <p>Chasadar ortha abhaile fá dheireadh agus croidhe an Athar Peadar ag briseadh le
+                    brón.</p>
+                <pb n="38"/>
+                <p> Nuair d'fhilleadar chum tíre i n-éaghmais Mhac Fínghín Duibh do casadh olagón
+                    nár chualathas a leithéid ar an nDoirín riamh ó shoin acht aon uair amháin eile
+                    'na dhiaidh súd. Do cloiseadh ós a gcionn go léir logóireacht bhinn bhrónach
+                    Bhríghde ní Shúilleabháin agus chabhruigh Nór' ní Dhonnchúdha léi, mar bhí mná
+                    caointe againn an uair sin.</p>
+                <p>Chualaidh Mac Fínghín Dubh amuich sa bhfairrge an t-olágón úd. Do chuir sé
+                    misneach air, agus do theasbáin sé dhó cad do b'é an ball de'n fhairrge go raibh
+                    sé féin ann. Ní raibh sé ag snámh i n-aon chor mar bhí fhios aige ná raibh aon
+                    mhaitheas dó ann.</p>
+                <p>Tháinig an barra-liobar ar mhéireanna ná mná agus scuir sí a greim, gidh go raibh
+                    seisean ag cur misnigh uirthe i gcómhnuidhe agus 'gá rádh léi go dtiocfadh an
+                    bád láithreach. Ní raibh an bád ag teacht, ná súil leis ag an dtaoiseach, acht
+                    go raibh sise 'gá thuirsiúghadh mar ba bhean bhreágh chumasach í. Mar sin féin
+                    níor chuímhnigh sé riamh dá leigfeadh sé uaidh í go raibh sé 'na chumas féin
+                    snámhadh chum puirt i n-áit éigin.</p>
+                <p>Shleamhnuigh clár as an loing bhrisde tharsa agus shnáimh an taoiseach 'na
+                    dhiaidh. "Is dócha go bhfuil deireadh linn," adeir sé leis féin. "Tá an clár
+                    soin ag imtheacht fá dhéin na fairrge coimhthigh. Dá mb'é toil Dé go mbuailfimís
+                    an caise-cúil a chuireann an trághadh taoide uaithe nuair bhuaileann sí na
+                    h-oileáin, b'fhéidir go mbeimís fuasgailte."</p>
+                <p>Tarraing sé chuige an bhean agus bhailigh sé leis i ndiaidh an chláir loinge.
+                    Táinig creatha fuachta ar an mnaoi. "Ná bíodh aon bhuaidheart ort," ar seisean.
+                    "Tá do leanaibhín saortha go h-áirighthe."</p>
+                <p>"Ní fhuilim-se pósta i n-aon chor," ar sise, ag crothadh a cinn chrothánaigh. "Is
+                    mise Martha Shel- bourne."</p>
+                <p>"Aililiú!" ar seisean, "is mise Mac Fínghín Dubh."</p>
+                <p>Thug a croidhe geit. Rith an fhuil thríthe agus chuaidh sí i neart. "Ní
+                    bháithfear i n-aon chor sinn le cong- namh Dé," ar sise. "Táim-se am'
+                    shnámhaidhe mhaith, <pb n="39"/> acht laguigh an sgannradh mé. Bog díom, acht
+                    fan am' aice agus cuir do lámh orm uaireannta."</p>
+                <p>Rinne, agus shnámhadar, agus shnámhadar. D'eirigh an ghealach, agus chiúinigh an
+                    uain, agus gheal an oidhche, agus shnáimh an bheirt leó taobh le taobh, agus
+                    d'fhéach Martha Shelbourne i leath-thaoibh ar Mhac Fínghín Dubh, luisne 'na sluc
+                    agus solus 'na súil, agus d'fhéach seisean uirthe sin agus gháireadar araon.</p>
+                <p>"Ar m'anam," ars' an taoiseach, "go bhfuil caise 'na taoide linn agus go bhfeicim
+                    Cillmacghiollóig!"</p>
+                <p>"Nár chaillir go deó Cillmacghiollóig 'ná do shíol id' dhiaidh," arsa Martha
+                    Shelbourne.</p>
+                <p>"Moladh a's buidheachas leat, a Rí na bhFlaitheas!" ar siad araon, nuair
+                    mhothuigheadar grean na trágha fá na gcosaibh. Bhí a leithéid sin de atal ar Mac
+                    Fínghín Dubh gur thóg sé an bhean óg ar a bhacalainn agus gur phóg sé í; agus
+                    phóg sise eisean leis, mar shaor sé ó'n nduibhegán í.</p>
+                <p>Shuidh sí síos annsoin ar charraig ar an dtráig agus ghoil sí go bog, mar bhí sí
+                    cortha 's thré na chéile.</p>
+                <p>Do b'éigean do'n taoiseach í thógaint ar a dhrom mar bhí faitchíos air go
+                    leathfaidhe í. Bhí a leaca fhluich le baic a mhuiníl agus a gruaig fhada
+                    fhionna-ruadh 'na slaodaibh ar a shlinneánaibh, agus é ag cur dé go tiugh, nuair
+                    do chas sé ar Bhríghid ní Shúilleabháin agus ar Philib na láimhe leóinte ag
+                    triall chum fairrge. Bhain an taoiseach preab asda, mar shíleadar gur bh'é a
+                    thaidhbhise bhí ann, acht labhair sé go meidhreach leó.</p>
+                <p>"An é mo chorp atá uaibh, a Bhríghid? Mar má's eadh, ta sé le fághail agaibh
+                    annso go leathan láidir, moladh le Dia 's le Muire Máthair."</p>
+                <p>"Má shaorais deirbhshiúr an tSleagánaigh," arsa Bríghid, "shaorais é féin chómh
+                    maith, mar tá sé go tirm te istigh againn."</p>
+                <p>"'Laistíos an bhliadhain dúinn,'" ars' an taoiseach. "Is beag an choinne bhí agam
+                    go raibh seisean 'na measg."</p>
+                <p>Ba shuairc an oidhche í siúd do chaitheadar ar an <pb n="40"/> nDoirín. Thug Mac
+                    Fínghín Dubh a ualach do'n bhantracht agus théitheadar í agus chuireadar a
+                    chodladh í. Bhí togha bídh a's díghe ar bórd ann agus sult sa teaghlach go
+                    breacadh an laé. D'ól an Sleagánach sláinte Mhac Fínghín Duibh agus gháir sé go
+                    h-árd nuair do theasbáin an Róisteach dhóibh go léir cionnus do sciob an
+                    taoiseach as an bhfairrge an bheirt aca.</p>
+                <p>Thug an taoiseach lá le conairt ag fiadhach ar chnoc dóibh, lá i gcoill ag
+                    lámhach, agus lá ar loch ag iasgach.</p>
+                <p>"Cionnus do mhothuighis ar dhrom Mhac Fínghín Duibh aréir?" arsa Nór' ní
+                    Dhonnchúdha.</p>
+                <p>"Go h-an-fhliuch," arsa Martha Shelbourn, agus gháir Bríghid ní Shúilleabháin
+                    fá'n bhfreagra go raibh na deóra ar sileadh léi.</p>
+                <p>Chuir an Róisteach agus na máirnéalaigh fútha ar an nDoirín go ceann tamaill,
+                    agus chuir an taoiseach dhá chapall abhaile go Neidín leis an mbeirt eile, agus
+                    thionnlaic sé féin tamall maith de'n bhóthar iad.</p>
+                <p>Ar scaramhaint leó d'fhéach sé 'na ndiaidh. "A bhuidheanach na gciabh n-áilne,"
+                    ar seisean, "nách mór an truagh do leithéid-se de dheirbhshiúr a bheith 'gá
+                    leith- éid sin de dhearbhráthair!"</p>
+                <p>Ar an am gcéadna d'fhéach sise siar air agus bhris trithídhe goile uirthe.</p>
+                <p>"Cad é fáth an phlubuighil?" ars' an Sleagánach go goirgeach.</p>
+                <p>"Níor chaitheas aon trí lá riamh mar an trí lá soin," ar sise.</p>
+                <p>"Caithfir mórán laetheannta ar an nDoirín."</p>
+                <p>"B'fhéidir é," ar sise. "Acht féach i leith orm. Ní chuirfir isteach ar Mac
+                    Fínghín Dubh go deo arís?"</p>
+                <p>"Caithfear an margadh le Seón Puxley do chómh- líonadh," ar seisean le golam.</p>
+                <p>D'fháisg sí béalbhach chapaill mhóir ghlais Mhac Fínghín Duibh gur eirigh an
+                    capall ar a chosaibh deiridh.</p>
+                <p>"A thighearna Sleagánach, ní fheaca lá suaimhnis ó fágadh an oighreacht soin
+                    agat-sa. Ní raibh riamh agam acht déisdin do Sheón Puxley, agus ní phósfainn i
+                    n-aon <pb n="41"/> chor é. Muna leigir do Mhac Fínghín Dubh feasda adeirim leat
+                    go mbead ins an bhfairrge arís agus ná beidh Mac Fínghín Dubh láimh liom!"</p>
+                <p>Chas an Sleagánach uirthe ar tí í bhualadh.</p>
+                <p>"Ní fhuil ionnam acht bean," ar sise, agus a súla 's a h-aghaidh ar lasadh le
+                    díomdha.</p>
+                <p>Tháinig náire air agus bhuail sé na spuir sa chapall. "Bhí cuid aca do tháinig
+                    rómhat ar buile," adeir sé, "agus is beag nách bhfuilir féin ar an gcruth
+                    gcéadna."</p>
+            </div>
+            <div type="chapter">
+                <head>Caibidiol a Seacht.</head>
+                <head>AN CÁBÁN.</head>
+                <p>Sheasaimh Riobárd muin-reamhar Ó Séagha i ndorus cábáin agus d'fhéach sé amach ar
+                    sholus na gealuighe ag taithneamh ar uisge na Prut.</p>
+                <p>Bhí na mílte fear 'na gcodladh i longphort fá na bhun agus mhachtnuigh sé ar
+                    feadh tamaill.</p>
+                <p>"Ní dóich liom," ar seisean, "gur féidir dúithchídhe Chairbre a's Bhéara do
+                    chosaint. Chuir Dómhnall Cam chuige cheana. Do b'fheárr eisean 'ná an cúigear
+                    againn-ne acht mar sin féin chuaidh sé dhé. Tá breis cuan ann do loingeas agus
+                    nuair do bhéas na h-árthaighe i gcómhgar do'n námhaid beidh biadh agus adhbhar
+                    cogaidh fá n-a láimh i gcómhnuidhe aige."</p>
+                <p>"Cad deirir leis an méid sin, a Mhuircheartaigh Óig?" arsa Mac Fínghín Dubh.</p>
+                <p>"Ní deirim ná go bhfuil an ceart aige i dtaobh Dhómhnaill Chaím. Ar a shon soin
+                    a's eile tá na cnoic annsúd. Ní chuirfimís go léir fúinn ann mar do b'éigean do
+                    Dhómhnall é. Tháinig na Sasanaigh ar fad anuas air fá dheireadh, mar bhí gach
+                    ball eile i gCúige Múmhan fá chois aca an uair sin, acht tabharfam-na beagán le
+                    déanadh dóibh i lár tuaithe an cor so."</p>
+                <pb n="42"/>
+                <p> "Ní fhuil aon bhrígh bheith ag brath ar na Francaigh. Tá a ngnó féin le déanadh
+                    acasan," arsa Mac Fínghín Dubh.</p>
+                <p>"Lean-sa go h-Éirinn Mac Fínghín Dubh, a Mhuiris Uí Shéagha," ars' an ceannphort
+                    Seághan Ó Súilleabháin; "caithfear ba seasga do mharbhúghadh a's do chur ar
+                    salann, agus an fheóil do chur i bhfolach i soitheachaibh imeasg na gcnoc agus
+                    fir 'gá feidhil. Is feárr an fheóil againn féin 'ná i mbolg na Sasanach. Reidh-
+                    tíghim le Mac Fínghín Dubh. Ní fhuil aon mhaitheas bheith ag feitheamh go
+                    dtugaidh na Francaigh cabhair dúinn."</p>
+                <p>"Má's féidir linn deich míle d'ár bhfearaibh féin do sheóladh go h-Éirinn - agus
+                    ambás gheóbhamuid árthaighe chum an méid sin - ní bheidh aon bheann againn ar na
+                    Sasanaigh," arsa Mac Fínghín Dubh.</p>
+                <p>"Do b'fheárr liomsa thusa féin mar cheann-urraid orainn 'ná Ó Briain," arsa
+                    Riobárd Ó Séagha, mar beidh gnó ag Saxe dé sin go fóil. Cloistear go bhfuil na
+                    Sasanaigh a's na Francaigh ag púiciúghadh chum a chéile agus go mbeidh an donas
+                    eatortha fá cheann mí i bhFlandrais."</p>
+                <p>"Tá an meirg ag teacht orm-sa annso," ar Muir- cheartach Óg. "Caithimís uainn ár
+                    n-úghdarás i n-Arm na h-Austria seo. Cloisim go bhfuil na Sasanaigh ag
+                    cabhrúghadh le Máire Terés indiu. Ní mar mhaithe léi é, ámh, mar níor chabhruigh
+                    an droch-aicme sin le h-aon duine riamh ar a shon. Níor bh'fheárr liom gnó
+                    bheadh agam 'ná cnap do bhualadh ortha annsúd, is cuma cá taobh go bhfuil siad.
+                    An dtiocfá lem' chois, a Mhac Fínghín Duibh?"</p>
+                <p>"Ní eiteóchainn cath acht chómh beag le fear eile," ars an taoiseach. Agus do
+                    chrom an cúigear ar Sáiridhe, mar bhí a gcroidhe óg a's lán de mhisneach.</p>
+                <p>Ó nách bhfuil fhios ag éinne againn cad tá 'na chómhair, ní mó 'ná bhí fhios ag
+                    éinne aca súd. Oifigeacha airm do b'eadh an cúigear - triúr de mhuintear
+                    Shúilleabháin agus beirt de mhuintear Shéagha.</p>
+                <p>Teasbántar dúinn sul a raibh an bhliadhain úd caithte <pb n="43"/> an ceannphort
+                    Seághan Ó Súilleabháin 'na stiúrthóir cogaidh ag Cormac Stíobhard i n-Albain.
+                    Cloisimíd teacht thairis i stair Shasana leis. Chímíd é ag cóiriú- ghadh na
+                    n-Albanach i gcathaibh Gladsmuir agus Chúil Éadain.</p>
+                <p>Faghamuid radharc leis ar Riobárd Ó Séagha i n-ár Chúil Éadain agus a sciath thar
+                    lorg Chormaic Stíobhaird agus Chlainn Dómhnaill, agus eachraidhe Shasana ag
+                    bagairt a's ag tabhairt ruthaig ortha d'éis an bhrise úd.</p>
+                <p>Chímíd Muiris Ó Séagha i gcogaibh na Fraince 'na dhiaidh súd agus i gcómhrac
+                    éin-fhir ins na h-Indiathaibh Thiar.</p>
+                <p>Acht téanam linn go h-Éirinn, a Mhuircheartaigh Óig Uí Shúilleabháin. Chímíd
+                    thusa mar leómhan i gcuibhreach ag cosaint do thíghe sa bhaile i gCuailleach
+                    agus na Sasanaigh nós scata gadhar lasmuich ag béicigh 'na gcuid fola le feabhas
+                    do phléar gur fhliuch an brathad- óir Scuilí do chuid púdair. Chímíd thú tógtha,
+                    agus téadán ar do mhuineál gheal agus an námhaid mhí- náireach ad' tharraing i
+                    ndiaidh loinge thríd an bhfairrge ó Chuailleach go Corcaigh. Acht sul a dtáinig
+                    an mí- thapadh soin ort chímíd thú féin agus Mac Fínghín Dubh ag cómhrádh roimh
+                    lá an t-aonmhadh lá déag do Bhealt- aine, 1745, leis an bhfear groidhe úd Ó
+                    Maolalaidh i gcoill cois Turnae agus sluaighte Cumberland ag déanadh oraibh.
+                    Buail iad, a bheirt ó Bhéara!</p>
+                <p>Tá sé riachtanach orainn geárr-thuairisg do thabhairt ar an gcath mar baineann sé
+                    le n-ár scéal.</p>
+                <p>Táid na sluaighte roinnte 'na dtrí ranna ag déanadh ar na Francaigh. Ní
+                    gheóbhaidh dhá rann aca an tslíghe seo go bráthach mar tá gunnaí móra suidhte ar
+                    dhún chré, agus díoga déanta ann le h-inntleacht Uí Mhaol- alaidh, gidh gur
+                    b'olc an cúiteamh do fuair sé ó na Francaigh 'na dhiaidh súd.</p>
+                <p>Scaoil ar an namhaid an luaidh, a bhuidheannta ó Éirinn, agus beidh ceól 'na
+                    gcluasaibh indiu go mbeidh cuímhne air ag an méid aca do mhairfidh, ar feadh a
+                    saoghal - ceól na ngunnaí móra nuair do rómharaid <pb n="44"/> an talamh,
+                    cnagarnaigh na ngunnaí geárra agus feaduigheal na bpléar, liúgh na bhfear
+                    bhfeargach agus siutraigh na gcapall, crainn na coille d'á mbrise le fuaim,
+                    sgread thall, cnead annso, agus osna annsúd, cosgairt agus fuil agus bás!</p>
+                <p>Ní fhuil sé i gcumas na n-Austriánach 'ná na nDúiseach gabháil mar seo, acht
+                    féach aníos na Sasanaigh, chúig míle dhéag aca, Éireannaigh, fóiríor! a leath,
+                    agus Cumberland ar a gceann, díng d'á tiomáint thré chroidhe na bhFrancach,
+                    teinteacha d'á spriúchadh as béal agus as cliathánaibh na dínge sin.</p>
+                <p>Buailtear cith de leathróidibh iarrainn as gunnaí móra ar an ndíng sin agus
+                    cuirtear bearna innte, acht dúntar an bhearna arís agus leantar ar aghaidh.
+                    Critheann an talamh le cos i n-áirde marcshluaigh Francach ag déanadh ar an
+                    ndíng. Cloistear fuisc a gclaidhmhte agus srann a gcapall, raobthar cliathán na
+                    dínge, acht meiltear an marcshluagh soin agus leanann an díng ar aghaidh.</p>
+                <p>"An gcoisgfear choidhche an ding raobach soin?" adeir Laoiseach rí na Fraince,
+                    creatha cos air, agus é ar tí teicheadh.</p>
+                <p>"Tá na h-Éireannaigh gan brise ortha fós," adeir Saxe.</p>
+                <p>Le h-allus a's duadh sroichseann na Sasanaigh mullaighe na n-árdán ag Fontenoy
+                    agus féachaid tim- cheall ortha imeasg na bhFrancach, ar nós scata tarbh.</p>
+                <p>"Tá an lá linn," adeir Cumberland, a's easba anáile air.</p>
+                <p>"Ní fhuil, a's ní bheidh go deó," adeir an Brianach agus a Éireannacha.</p>
+                <p>"Ná bainidh leo," adeir O Maolalaidh, "go mbeidh bhúr sleagha geala i mbéal a
+                    n-imliocán," agus briseann an taoide d'fhearaibh Gaedhealacha amach ortha -
+                    clann- maicne fear Luimneach, lasair 'na súilibh agus fuin- neam 'na ngéagaibh,
+                    faobhar ar a bhfiaclaibh, a gcroidhe ag brúchtaidh le gráin. Steallaid na
+                    Sasanaigh pléir ortha. Cloistear thré dheatach an phúdair gleó na <pb n="45"/>
+                    gcéadta fear. Cloistear "Cuimhníghidh ar Luimneach 's ar fheall na Sasanach!"
+                    Agus 'na dhiaidh sin ní chloistear acht easgainídhe a's mionna a's uaill, mar tá
+                    na sluaighte i n-achrann ag feanadh a chéile agus ag luasgadh amach 's isteach,
+                    na sleagha geala dearg go leór anois 'gá ropadh thre easnacha teanna agus
+                    cliabhlaigh.</p>
+                <p>Brisid na Sasanaigh fá dheireadh le fánaidh an chnoic agus rómharann na
+                    h-Éireannaigh thríotha ar nós na tuile.</p>
+                <p>Tá Mac Fínghín Dubh agus Murtach Óg 'na measg, mar ghnídheadar bearna dhearg thré
+                    dhíorma calma Sasanach darab ainm "The Coldstream Guards." Chuir an méid do bhí
+                    slán de'n díorma soin iad féin i n-eagar fá bhun an chnoic agus dhruideadar leo
+                    go tuirseach, tnáithte. Lean na h-Éireannaigh ortha 'gá raobadh. Chonnaic cor
+                    capall Francach iad agus i n-ionad scaoileadh isteach 'na measg is é do
+                    ghnídhea- dar 'ná iompáil ar na h-Éireannaigh, mar bhí a leithéid sin de
+                    mhearbhthall agus d'eagla ar na Francaigh nách raibh fhios aca cia'r bh'é an
+                    namhaid 'ná an cara. Tháiníg beirt aca le fothram ar Mac Fínghín Dubh agus é go
+                    gnóthach ag polladh thré "Ghárda na Glaise Fuaire." Thug marcach buile aca fogha
+                    fá. Chosain Mac Fínghín Dubh é féin ar an mbuille sin agus do sháthaidh sé go
+                    h-obann a shleagh gheal i sliasaid an mharcaigh sin agus do chaith sé ins an aer
+                    é fá mar do chaithfeá punann arbhair. Thug sé pléasg de fheac a ghunna ins an
+                    ucht do'n darna fear agus thuit seisean 'na phleist gan cor i gcois ná láimh
+                    leis.</p>
+                <p>Leis an iarracht soin do briseadh a ghunna. Ní raibh fhios aige cia mbadh leis an
+                    cor capall úd i n-aon chor agus tharraing sé chuige claidheamh mór do bhí aige -
+                    dubharthas gur bh'é Tadhg gabha do chúm an claidheamh úd as speil. Ní dócha gur
+                    bh'fhíor é sin, acht go h-áirighthe bhí an claidheamh chómh géar agus go mbeár-
+                    fadh sé duine, agus chóm trom soin gur bheag duine eile do chasfadh é.</p>
+                <pb n="46"/>
+                <p> Chonnaic triúr marcach an oíde do thug Mac Fínghín Dubh ar an mbeirt eile agus
+                    phreabadar 'na threó ar tí a chinn do scoltadh. Thug sé fá'n gcéad fhear aca
+                    acht d'eirigh an capall ar a cosaibh deiridh, d'aimsigh an buille sa mhuineál í
+                    agus baineadh an ceann dí ar an láthair sin.</p>
+                <p>Séideadh an stoc fá dheireadh agus coisgeadh na capaill Francacha úd. Chonnaic
+                    Maréchal Saxe an t-éirleach, agus chuir sé fios ar fhear an ghaisge mhóir d'éis
+                    an chatha. Fear mhairbhthe céad do b'eadh an Saxe so féin, téagartha, calma.</p>
+                <p>"Ní fheaca aon fhear riamh chómh taiceach leat-sa," ar seisean le Mac Fínghín
+                    Dubh, agus thóg sé leis isteach 'na chábán é.</p>
+                <p>Ní bhfuarthas amach riamh go cruinn cad do thárluigh eatortha, acht dubharthas
+                    gur gheall Saxe dó sul ar scaradar le chéile go dtiocfadh sé féin go h-Éirinn fá
+                    cheann na bliadhna le sluagh líonmhar, agus gur bhrostuigh sé Mac Fínghín Dubh
+                    abhaile fá cheann ráithe le h-aghaidh an bhóthair d'ullmhúghadh dhó.</p>
+            </div>
+            <div type="chapter">
+                <head>Caibidiol a h-Ocht.</head>
+                <head>TAIDHBHREAMH BEIRTE BAN.</head>
+                <p>"A Bhríghid ní Shúilleabháin," ars' Ó Donnchúdha an Ghleanna le n-a mhnaoi, "is
+                    mithid duit-se dul a chodladh. Tá Mac Fínghín Dubh féin tuirseach."</p>
+                <p>"Ní luidhfead ar leabaidh anocht," arsa Mac Fínghín Dubh. "Caithfead bheith thar
+                    n-ais ar an nDoirín fá mheádhon lae. Tá súil agam le teachtaire ó'n
+                    bhFrainc."</p>
+                <p>"Níor chreideas riamh," ars' Ó Donnchúdha an Ghleanna, "go dtiocfadh na Francaigh
+                    chum cabhruighthe linn, acht creidim anois go mbeidh an báire linn má leigthear
+                    d'ár bhfearaibh féin teacht ar n-ais. Dá <pb n="47"/> mbeinn-se ag brath ar na
+                    Francaigh ní bheadh an caisleán so Chillatha mar dhíon os mo chionn.</p>
+                <p>"Is fíor dhuit," arsa Mac Fínghín Dubh. "Is iad na Buachaillidhe Bána do
+                    chongaibh an ceann ar Éirinn. Réidhtighim leis an Athair Peadar gur bh'é an
+                    tubaiste is measa thuit amach riamh orainn an Sáirséalach d'im- theacht thar
+                    lear agus ár bhfir gcalma do thógaint leis. Acht tuigimíd uile anois an
+                    gnó."</p>
+                <p>"Do chognóchainn dorn mo chlaidhimh le mire, mar do ghnídh Conn Céad Cath, nuair
+                    a chuimhnighim air sin," ars' Ó Donnchúdha an Ghleanna. "Bheimís sgriosda glan
+                    amach muna mbeadh an dorn fear d'fhan ag baile i ndiaidh Luimníghe. Acht d'á
+                    bhfanfaidís go léir againn i n-ionad imtheacht leis an Sáirséalach ní bheadh sé
+                    de mhisneach ar Shasanaigh an fheíll a ngeall do bhrise."</p>
+                <p>"Seadh," arsa Mac Fínghín Dubh, "d'á olcas é an scéal is gearraid go mbeidh fir
+                    chóirighthe chalma d'ár gcuid fola féin fillte chúgainn, go mbeidh eólas ar
+                    chogadh aca. Beidh míle ceann de na Buacaillidhe Bána mar eólaidhthe againn agus
+                    beidh an donas leis an scéal muna gcuirfeam bearna i gclann an fheíll an cor
+                    so."</p>
+                <p>"Bíodh do cheann leat, a Mhac Fínghín Duibh," ars' Ó Donnchúdha an Ghleanna.
+                    "Beidh an Gleann Fleisge seo mar dhaingean againn chum bídh do chnuasughadh ann.
+                    Is é Dia do chúm an gleann so, agus is é Dia agus ár neart féin do chongaibh
+                    againn é i n-aindeóin aicme Chromil agus 'Liaim."</p>
+                <p>Mhachtnuígheadar araon ar feadh tamaill. "Caith- fead bheith ar siúbhal. Is geárr
+                    uainn an lá," arsa Mac Fínghín Dubh.</p>
+                <p>Tugadh amach a chapall glas mór cuthaigh chuige - an Síogaidhe do glaodhtaidhe
+                    uirthe. Chrom sí ar phram- sáil, agus phreab seisean ar a muin chómh h-éadtrom
+                    le h-éan. Siúd a's gur gheall le fathach i bhfearsa é, níor ghoill a mhéid ar an
+                    Síogaidhe, mar dubharthas nách raibh a leithéid de chapall i gCúige Mumhan an
+                    uair sin.</p>
+                <pb n="48"/>
+                <p> Chuaidh an solus i n-éag i gCillatha agus thiomáin an capall glas léi ag baint
+                    teine chreasa as an mbóthar mar bhí lúth 'na croidhe chómh maith agus bhí i
+                    gcroidhe a marcaigh.</p>
+                <p>Níor chuir scáileanna na gcrann ná scáileanna na bhfailleacha faitchíos uirthe;
+                    níor bhain éan ná girr- fhiadh ag dúiseacht go h-obann as a gcodla preab aisde;
+                    níor chuir gáir na gcearcfraoigh ar an gcnoc sgéan uirthe mar bhí muiníghin ag
+                    an gcapall nglas úd as a marcach.</p>
+                <p>Chualaidh an marcach soin canntaireacht na n-éan go moch ins na coilltibh
+                    mór-dtimcheall, mar bhí crainn go flúirseach annsúd an uair sin. Chonnaic sé an
+                    drúcht 'na shúilíníbh ar an nduilleabhar agus ar an bhféir nglas, agus ghabh
+                    boladhtha breágh chuige ar aér ionn- fhuar na maidne as srathaibh féir bhainte
+                    ar mhóinfhéar- aibh.</p>
+                <p>Chualaidh sé crónán na Fleasga ag snámhadh léi thairis go h-uaibhreach chum Locha
+                    Léin. Chualaidh sé glór bog binn na Fleasga soin ag briseadh thar chloch- aibh
+                    fá dhroichead thuas ag béal na gcnoc cois Chuím na nÉag. Chonnaic sé as soin ceó
+                    odhar mhaidne fhóghmhair ag eirghe thar bárr na gcnoc agus breac- sholus na
+                    maidne 'gá dhathúghadh le coinnle geala.</p>
+                <p>Chonnaic Martha Shelbourne ar an nóimit gcéadna, thiar ar Neidín deich míle ó
+                    bhaile, Mac Fínghín Dubh thré n-a codla ag tabhairt léim ó mhullach cnuic síos
+                    go bun, agus ag glaodhach uirthe féin téanuigheacht leis. Agus phreab sí as a
+                    leabaidh le sgread.</p>
+                <p>Chonnaic Bríghid ní Shúilleabháin thoir i gCillatha thré n-a codlasa n-am gcéadna
+                    madra mór dubh 'na luidhe ar an mbóthar i gCúm na nÉag. Súla lasracha ann,
+                    stranaídhe fiacal aige, craos ar dearg-leathadh air agus fuil ag sileadh as a
+                    theangain. Léim sí amach ar an úrlár i gan fhios d'á fear agus fuar-allus
+                    uirthe.</p>
+                <p>Chonnaic capall Mhac Fínghín Duibh rud ná'r bh'aisling i n-aon chor. Chaith sí a
+                    ceann i n-áirde, chrap sí a cluasa agus chuir sí srann aisde.</p>
+                <pb n="49"/>
+                <p> Ins an am gcéadna phreab fear 'na shuidhe ó bhun crainn dia thuas de bhóthar,
+                    chaith sé gunna uaidh agus rith sé an choill amach chómh maith agus bhí sé 'na
+                    chosaibh. Stad Mac Fínghín Dubh a chapall agus ghlaodhaidh ar an bhfear
+                    filleadh, acht sul a raibh an ghlaodh as a bhéal aimsígheadh ins an uillinn
+                    chléith é le pléar agus thuit an lámh leis gan luadháil. D'áirigh sé go raibh an
+                    lámhachaidhe laistíos de i móinfhéar agus chonnaic sé é go dícheallach ag
+                    pulcadh pléir eile isteach i bpíb an ghunna. Thug sé aghaidh an chapaill ghlais
+                    ar fhalla an bhóthair. Ghlan sí é mar a bheadh éan, agus bhí Mac Fínghín Dubh i
+                    ngaor de'n fhear sul a raibh uain aige ar phléar eile do chaitheamh. Phreab an
+                    fear 'na shuidhe agus thug sé iarracht fá'n marcach acht scaoileadh a ceann leis
+                    an gcapall, casadh an claidheamh mór, buaileadh sa bhaitheas an fear feíll agus
+                    scoilteadh é go béal an scéithín.</p>
+                <p>Mo chara do chuisle, a thíghearna na gceo-chnoc! Do dhéanfadh an buille sin, mar
+                    dubharthas 'na dhiaidh súd, dhá chuid d'fhear an fheíll muna mbeadh gur léim an
+                    capall glas amach thairis le sgéan.</p>
+                <p>As go bráthach léi agus an taoiseach ar leath-láimh ar a muin ag déanadh iarracht
+                    ar ghreim d'fhághail ar an tsrian do shleamhnuigh thar a cluasaibh.</p>
+                <p>Chum siúbhail leat, a chapaill mí-ádhmharaigh, taoi thar chumas "Mharcaigh na
+                    gCumann" an cor so, agus ar tí é leagadh i dtosach a shaoghail 's a n-árd a
+                    dhóchais.</p>
+                <p>Sceinn sí fiadhain síos chum na Fleasga, chas sí ar an mbóthar agus léim sí an
+                    falla arís. Ar bhuaileadh ar an mbóthar dí fuair sí barr-thuisleadh. Thuit sí ar
+                    a leath-ghlúin, agus do caitheadh Mac Fínghín Dubh as an ndiallait ar bhior a
+                    chinn isteach i ndíg dhoimhinn.</p>
+                <p>Chualaidh Bríghid ní Shúilleabháin cos i n-áirde capaill chúice ar an mbóthar,
+                    agus ríth an capall glas tháirse, a ceann sa n-aér, a h-earball i n-áirde, a
+                    srian ar sileadh léi, agus a bléan 's a béalbhach clúduighthe le cúbhrán
+                    bán.</p>
+                <p>Bhuail an bhean a dhá bais, liúghaidh sí ar an gcapall <pb n="50"/> mbuile cá'r
+                    fhág sí Mac Fínghín Dubh? Ghread sí a capall féin chum siúbhail agus fuair sí
+                    eisean sínte marbh - a mhuineál brisde sa díg!</p>
+                <p>Tháinig capall eile ar láthair ag cur cúbhar alluis dí. Léim Martha Shelbourne
+                    d'á muin, agus sgéan 'na radharc, agus chuir sí sgread bhrónach aisde do
+                    dhúisigh na cnuic.</p>
+                <p>Cabhruigh léi, a Bhríghid ní Shúilleabháin. Ní fhágfaidh an t-uchtlán éinne
+                    agaibh an dá lá dhéag a's do mhair- fidh sibh.</p>
+                <p>I lár a n-olagóin do shnáimh firín buidhe, suarach, mílítheach amach chúca agus
+                    chaith sé é féin ar a ghlúnaibh 'na bhfiadhnaise. "Is mise Michilín, acht níor
+                    chaitheas pléar leis," ar seisean le sgread.</p>
+                <p>Le n-a línn sin do tháinig Ó Donnchúdha an Ghleanna 'na bhfochair agus é
+                    leath-lomnochta ar muin capaill. Buail sé a dhá bhais.</p>
+                <p>"Ó mo sgrios, mo sgrios! Mac Fínghín Dubh ar lár! Shamhluigheas ná muirbheóchadh
+                    an saoghal thu!" agus thug Ó Donnchúdha an Ghleanna na móide dúbha nuair do
+                    chonnaic sé an fhuil ná codlóchadh sé féin ar leabaidh go mbeadh anam an
+                    tSleagánaigh aige. Acht chuir Michilín sgréach thruagh-mhéileach as, agus
+                    dubhairt sé leó go dteasbánfadh sé dhóibh corp Sheóin Puxley do ghnídh an choir
+                    agus do thug nimh do'n tSleagánach féin an oidhche roimh ré d'éis iomarbháidh
+                    eatortha i dtaobh Mhac Fínghín Duibh.</p>
+                <p>Rug Ó Donnchúdha an Ghleanna ar chéas cínn ar Mhichilín a's chaith sé isteach
+                    thar chlaidhe é ar nós ceirte shalaigh.</p>
+                <p>Thógadar leó go dtí an Doirín corp an taoisigh agus chroth an t-Athair Peadar an
+                    chré ar a chómhrainn i gCillmacghiollóg.</p>
+                <p>Sheasaimh Martha Shelbourne go ciúin cois na h-uaighe go raibh na mílte as gach
+                    áird do bhí sa tsochraid imthighthe abhaile. Shuidh sí síos annsoin a's d'fhan
+                    sí ann gur chuaidh an ghrian fá ins an mhór mhuir thiar. D'éaluigh an taoide
+                    aníos 'na mion-thonnaibh agus <pb n="51"/> chrom ar chogarnaigh i gcuasaibh
+                    abhus a's thall, agus chuir na cúirliúin agus éin na fairrge sgréach a's fead
+                    a's glaodhach asda amuich sa chuan, agus chodail Mac Fínghín Dubh imeasg a
+                    shinnsear.</p>
+                <p>"A chapaill ghlais, a ainmhídhe bhoicht, bhuile, is beag ort gur chreachais
+                    Éire," ars' Ó Donnchúdha an Ghleanna go dúbhach. Bhuail sé fá dhéin na h-uaighe
+                    agus thóg sé leis Martha Shelbourne go Cillatha. Níor ghearán sise a's níor
+                    gháir sí ar feadh a saoghail.</p>
+                <p>Do cloistidhe 'na dhiaidh súd ar oidhcheannta ciúine cos i n-áirde ar na
+                    bóithribh cois Chuím na n-Éag, agus deirthídhe gur bh'í Martha Shelbourne do
+                    bhíodh ann ag tabhairt rabhadh do Mhac Fínghín Dubh go raibh an marbhthóir ar an
+                    mbóthar ag feitheamh leis.</p>
+                <p>Nuair do bhíodar go léir imthighthe shuidh Diarmaid Ó Séagha na Bolguidhe ar
+                    uaigh Mhac Fínghín Duibh. D'fhan sé ann ar feadh na h-oidhche agus cheap sé an
+                    mairbhne seo do bhain na deóra ar shúilibh glasa le céad go-leith bliadhan agus
+                    breis.</p>
+                <!-- TAG AS <title> IN LEVEL 1; TAG NUMBER HEADINGS? -->
+                <p>MAIRBHNE MHAC FÍNGHÍN DUIBH.</p>
+                <p>I.</p>
+                <l>Mh'osna thré Luimneach, Connacht is Cláir fé chúmha</l>
+                <l>Is go Corcaig na loingeas, thar toinne d'á dtéidhinn de sgiúird,</l>
+                <l>Ár ngiúistís cuthaig, ár gcusba, ár laoch glan, clúdh'il</l>
+                <l>Ár gcara, ár gcura, ár gcumann, ár laoch fuair clú.</l>
+                <p>2.</p>
+                <l>Clú 'gus ceannas is acfuinn ó'n Rígh Cómhachtach</l>
+                <l>Do bhíodh ad' ghlaice, is fearta ó'n rí cóige</l>
+                <l>Ní fhuil dún 'ná cathair fá ghlasaibh ag rí Seóirse</l>
+                <l>Nach go dúbhach is' easbaidh is na bailtí go síor bhrónach.</l>
+                <pb n="52"/>
+                <p> 3.</p>
+                <l>Is brónach, atuirseach ó'n gCeachainn go Léim Láithreach</l>
+                <l>Is buaidheartha Banba ó Chaiseal go Béal Beárnais</l>
+                <l>Tá dúithchídhe Chairbre ar lasadh is ní fhuil scéimh áthais</l>
+                <l>I dtuaith Ráth-Chathail mar ar cailleadh ár laoch láidir.</l>
+                <p>4.</p>
+                <l>Ba láidir, cumais, ár gcura, ba leathan, lúthmhar,</l>
+                <l>A Mharcaig na gcumann go gcritheadh an talamh fútsa</l>
+                <l>Ní raibh eagla dlighthe 'ná clipe ar do bhaile dúthachais,</l>
+                <l>A Raobaigh mar Oscar do chuireadh gach creach ar chúlaibh.</l>
+                <p>5.</p>
+                <l>Ar chúlaibh chuirtídhe deachmhadha, tacsanna, siosmaighthe i gcúirt,</l>
+                <l>Do dhóirse ar leathadh gan glasa, gan iadhaigh ar trúnc,</l>
+                <l>Ba ghreann le cairdibh d'á maireadh i n-iarthar Múmhan</l>
+                <l>Led' gháire leathan, a Mharcaig na gcliadhar, mo chúmha!</l>
+                <p>6.</p>
+                <l>Mo chúmha, mo chreach, tu a'teacht go tréith lán-lag,</l>
+                <l>A Phlúr na bhfear ná'r mheath i n-aon bheárnain,</l>
+                <l>D'imthig ár rath, ár maith, is ár scéimh áthais,</l>
+                <l>Bhoch! ár gceart, ár neart, is ár ndlúith-cháirdibh.</l>
+                <p>7.</p>
+                <l>Cáirde d'imthig thar uisge 'gus fós níor fhíll,</l>
+                <l>D'fhág súd sinne go singil, gan chóir gan chrích,</l>
+                <l>Gan bórd, gan gloinne, gan corn, gan ceól, gan fíon,</l>
+                <l>Gan uaill ag conairt, gan cusba d'fhuil d'fhóirtheadh dínn.</l>
+                <p>8.</p>
+                <l>D'fhóirtheadh sinn, d'á dtigeadh thar sáile beó</l>
+                <l>Na leómhain-fhir ghroídhe ba bhínn i mbeárna 'n ghleóidh</l>
+                <l>I gcaismirt na gclaidheamh go striocfadh táinte dóibh</l>
+                <l>Is ná leómhfadh 'nár dtír aon dríghdear cáitheach beó.</l>
+                <pb n="53"/>
+                <p> 9.</p>
+                <l>Beó d'á dtigeadh aon phola dod' cháirdibh gaoil</l>
+                <l>Ba dhual bheith fhosgailte, soilbhir, cáidh mar bhís,</l>
+                <l>Do dhéanfadh cosaint i bpobal ár n-áit is díon</l>
+                <l>A leómhain d'fhuil Eochaidh chuthaig is Dhómhnaill Chaím.</l>
+                <p>10.</p>
+                <l>A Dhómhnaill Chaím is fíor ná'r staon do neart,</l>
+                <l>Iarla ó'n Inse do chríochnuigh Éire ar smacht;</l>
+                <l>Fáig is draoithe d'á áirde léighfeadh stair</l>
+                <l>Do thráchtfaidís thar nídh de thréighthe ár bhflaith.</l>
+                <p>11.</p>
+                <l>Flaith id' dhoirbheacht is id' ghníomhartha suilt</l>
+                <l>A Chogaraig! is tu osgaileadh gach snaidhm is broid;</l>
+                <l>A Chraoibh cosanta na bpobalach, ba ríoghamhail fuil,</l>
+                <l>Mo léan docharach id' chodla thu, a Mhac Fínghín Duibh!</l>
+                <p>12.</p>
+                <l>Is dubh, dorcha, doilbhir, duairc, ár scéal,</l>
+                <l>Eochair gach cathair ó Charn go Tuam'-an-Chléir;</l>
+                <l>Tar éis a scuiris de cheangalaibh cruadha is géar'</l>
+                <l>Is dona led' charaid tu marbh, is iad buan tar h-éis.</l>
+                <p>13.</p>
+                <l>Tar h-éis beidh bacaigh go h-atuirseach ag éigheamh is daíll</l>
+                <l>Is gach n-aon do thaithigh do phearsa, do mhéin, do ghnaoi,</l>
+                <l>Do chiabh-fholt casda, do ghlaice, do bheól ba bhínn</l>
+                <l>Do ráidhte meala is do mhaitheas go léir fé'n Líg!</l>
+                <p>14.</p>
+                <l>A Líg na h-aindise! mairg leat Éire ag cúmha?</l>
+                <l>Spéir ar lasadh! is na mairbh ag éigheamh 'sa' n-úir!</l>
+                <l>Tá fhéachaint dhealbh ar bhailthibh ó Chléir go Siúir,</l>
+                <l>A Bhénus Cheachainn ó shladais mar chéil' é chúghat!</l>
+                <pb n="54"/>
+                <p> 15.</p>
+                <l>Chúghat má shladais Fear Cheachainn, díth-náireach</l>
+                <l>An laoch ba chalma is an marcach ba bhinne cáile</l>
+                <l>Níorbh' iongna dá gcnagfadh do bhaitheas le scéimh- ghártha</l>
+                <l>Mo chúmha is m'atuirse mar do scaipeadar ár n-uile cáirde.</l>
+                <p>16.</p>
+                <l>Cáirde an Bhile gach cusba d'á uaisleacht díobh</l>
+                <l>Gac laoch do geineadh ó Philib is ó Bhuadhach-an-Ghnímh.</l>
+                <l>Do théidheadh sé an iomadh na righthe go fuamain bíonn</l>
+                <l>Is fuair "Trí Barra na Cruinne," mar dualgas thríd.</l>
+                <p>17.</p>
+                <l>Trí Barra fuair de sheanachus ó'r phríomhais ar dtúis</l>
+                <l>Bárr maitheasa, bárr gaisge, bárr féile is clú,</l>
+                <l>Bárr rathanna ar dhrom eachanna ba thréan, neart, lúth,</l>
+                <l>Mo ghéar-atuirse fé ghlasaibh thu is do thréad go dúbhach.</l>
+                <p>18.</p>
+                <l>Is dúbhach do charaid 's is atuirseach tláith a bhíd</l>
+                <l>Gan súil abhaile do thaisdeal go bráthach arís</l>
+                <l>Tá siad de mhachtnamh cia gur deacair do rádh 'ná mhaoidheamh</l>
+                <l>Go bhfuairis anaithe i gan fhios de chách 'sa' choíll.</l>
+                <p>19.</p>
+                <l>Tá do choill 'na dothair go socair gan gáir na n-éan</l>
+                <l>Gan taisdeal na mbruingheall ba mhinic thar lear i gcéin,</l>
+                <l>Gan fuaim do ghunna, uaill chonairt, 'ná ceól do phléar</l>
+                <l>Ó éag an Bile, mo thuirse, mo bhrón, mo léan!</l>
+                <pb n="55"/>
+                <l>Mo léan, mo thuirse, gan filleadh threm' aeibh anonn</l>
+                <l>Gan chú gan giolla ar chnocaibh na Sléibhte Dúbha;</l>
+                <l>I gcogadh na righthe ba bhinic a éirleach súd.</l>
+                <l>Mh'osna thré Luimneach, Connacht is Cláir fé chúmha!</l>
+                <trailer>Críoch</trailer>
+            </div>
+        </body>
+    </text>
+</TEI>

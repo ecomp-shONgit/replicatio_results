@@ -1,0 +1,1974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GSW0072" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peterli am Lift: ELTeC Ausgabe</title>
+                <author ref="viaf:81426726 wikidata:Q1990452">Bolt, Niklaus (1864-1947)</author>
+                <respStmt>
+                    <resp>ELTeC conversion</resp>
+                    <name>Automatic Script</name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <measure unit="pages">100</measure>
+                <measure unit="words">19561</measure>
+            </extent>
+            <publicationStmt>
+                <p><date>2022-01-11</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                    <respStmt>
+                        <resp>Transcription</resp>
+                        <name>UB Basel</name>
+                    </respStmt></bibl>
+                <bibl type="digitalSource">
+                    <respStmt>
+                        <resp>Scan</resp>
+                        <name>UB Basel</name>
+                    </respStmt></bibl>
+                <bibl type="firstEdition">
+                    <title>Peterli am Lift. Eine Erzählung für die Jugend und ihre Freunde.</title>
+                    <author>Bolt, Niklaus</author>
+                    <publisher>Art. Institut Orell Füssli</publisher>
+                    <pubPlace>Zürich</pubPlace>
+                    <date>1907</date>
+                    <!-- this title has been retrodigitised as part of the project “High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century”  -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc n="eltec-0">
+            <p>The text was transcribed from the transcription from UB Basel, which is based on the
+                1907 edition. The page breaks, chapter divisions and chapters were taken from scan
+                from UB Basel, which is based on the 1907 edition.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2022-05-11">Svenja Schär added TEI Header and removed noise.The Scan is
+                used only to insert page beginnings, paragraphs, chapters and heads.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="chapter">
+                <head>—</head>
+                <p>Katalos <pb/>meinen Nnichtchen undl neffen in der ferne. <pb/> Das Unglück ist
+                    nicht so grosz.</p>
+                <p>Ve Geduld, jetzt kommt er denn bald “. Das höl9 zerne Gesichtchen zeigte aber
+                    keine Spur von Ungegeduld. Die Worte waren an ein Holzpüppchen von abstoßender
+                    Häßlichkeit gerichtet, das weich gebettet in den sonngebräunten runden Äürmchen
+                    eines kleinen Mädchens lag.</p>
+                <p>Das Kind saß angelehnt an die niedrige, verwitterte Mauer des kleinen Friedhofes,
+                    der ein Alpkirchlein umgab.Hinter der Mauer summte und brummte es in der
+                    sommerlichen Wärme: die Bienen sogen den Honig aus den Grabblumen, ein Lebens-
+                    und Arbeitsfest feiernd auf der bergstillen Totenstätte.</p>
+                <p>„Hab' ich's nicht gesagt, jetzt kommt er,“ rief die Kleine und sprang auf. Die
+                    Alp herunter kam in lustigem Galopp ein Bub, in der Hand ein an den Zipfeln
+                    zusammengehaltenes Tuch schwenkend.</p>
+                <p>„Heut' hat's gut ausgegeben. Heut' werden sie zufrieden sein, auch der Vater!“
+                    rief er seinem Schwesterchen zu.</p>
+                <p>„Auch der Vater,“ wiederholte das Kind, faßte den Bruder bei der Hand und zog ihn
+                    mit fröhlichem Lachen <pb n="8"/> die steile Halde zum Gletscherbach hinab, der
+                    wie ein kleiner Sturm das Alptälchen durchbraust.</p>
+                <p>„Mach' jetzt 8Brückli,“ verlangte die Kleine. Fest trat der Bub auf einen
+                    Felsblock, da, wo der Bach zwischen Felsen eingezwängt war. Es war, als hätte
+                    hier die Natur den Anfang einer Brücke selbst geschaffen, um den Leuten einen
+                    weiten Umweg zu ersparen. Zwei Felsblöcke von ungefähr gleicher Höhe standen
+                    einander gegenüber. Mit ein paar Brettchen hätte man hier der Natur nachhelfen
+                    können.</p>
+                <p>Mit einem Schwung ergriff der Bruder mit seinen Händen den gegenüberstehenden
+                    Felsblock, seine nackten Füße fest an den ersten stemmend. Über das lebende und
+                    nicht ganz ungefährliche Brücklein trippelte die Kleine mit ihren zierlichen
+                    Füßchen langsam und behutsam, ihrem Holzpüppchen Mut einflößend. Es war aber ein
+                    Hauptspaß. Kaum drüben angelangt, sprang sie den Berg hinauf zur Mutter, um des
+                    Bruders Kommen zu melden.</p>
+                <p>Oben am Bergrand kehrte sie sich plötzlich um und rief: „'s ist Sonntag. D'Mutter
+                    hat Schuh' an.“</p>
+                <p>„Auch noch,“ murmelte der Bub. Und doch ging er rascher.</p>
+                <p>Da kam ihm wirklich die Mutter entgegen, sonntäglich angezogen, nicht nur in
+                    Schuhen, auf dem Kopfe auch die schwarze Kirchenhaube. Verstört und verweint sah
+                    sie aus.</p>
+                <p>„Petrin,“ rief sie, „komm, komm, es hat etwas gegeben. Der Vater liegt im Spital
+                    unten. Mitkommen mußt halt. Die Kleider hab' ich dir in die Kammer hingelegt.
+                    Geh' schnell und zieh' sie an.“<pb n="9"/>
+                </p>
+                <p>Lange ging's nicht, so stand der Petrin neben seiner Mutter, anch sonntäglich
+                    angezogen. Die neuen eingefetteten und schwerbenagelten Schuhe trug er in der
+                    Hand,um sie zu schonen. Die zog er erst an, wenn er nahe zum Dorf kam.</p>
+                <p>„Der Ursula habe ich einen Zettel in den Milchtopf gelegt,“ sagte die Mutter,
+                    „und 8'Kind stellen wir unten bei der Base ein.“</p>
+                <p>Zwischen den verwitterten Arven gingen sie den Bergpfad hinunter. In einem
+                    Häuschen bei der Brücke, wo die großen Wälder anfangen, brachten sie das Kind
+                    unter.</p>
+                <p>„Du, Stine,“ rief die Mutter in der größten Hast,„den Murezzi haben sie blutend
+                    ins Spital gebracht.Jesus , wenn er mir stirbt. B'halt 8'Kind, so lang wir fort
+                    sind.“</p>
+                <p>„Schrei' nicht so, Mengeli,“ wandte sie sich schnell noch an das Kind, „heut
+                    Abend kommen wir noch zurück,und dem Vater kann's wieder besser gehen.“</p>
+                <p>Stärker noch als der Mittagswind, der im Sommer durch das Engadin fährt, trieb
+                    Angst die beiden voran.Den Fußweg schlugen sie ein durch die Wiesen: grün
+                    schimmert's, pfaublau leuchtet der nahe See, feierlich rauscht es durch die
+                    schwarzgrünen Arvenwälder. Sie sehen aber nur starr vor sich hin. Nur einmal
+                    hebt die Mutter den Blick: „Gottlob, schon s'Kirchlein vom Bad.“</p>
+                <p>Und weiter stürmen sie zwischen den Kaufläden des Bades hindurch. „Wenn er nur
+                    nicht schon tot ist,“ sagte die Mutter.<pb n="5"/>
+                </p>
+                <p>„S'Unglück ist nicht so groß.“ Mit diesen Worten empfing die Oberschwester des
+                    Kreisspitales die beiden an der Türe. Schon beim bloßen Anblick von ihr wurde es
+                    einem wohl.</p>
+                <p>„Gut ist's, daß Ihr hier seid. Gleich hat er nach Euch gefragt, als er seine
+                    Augen aufschlug. Auch wünscht der Herr Doktor Euch zu sprechen. Kommt.“</p>
+                <p>„Euer Mann hat noch Glück im Unglück gehabt,“sagte der Doktor. „Der Rückgrat ist
+                    nicht gebrochen.Sonst hat's ihn schlimm mitgenommen. Mit dem Leben kommt er
+                    davon. Das ist jetzt sicher. Lang wird's schon gehen. Darauf macht Euch gefaßt.
+                    Wenigstens zwei Monate muß er hier bleiben.“</p>
+                <p>„Schwester, führen Sie die beiden zu dem Patienten.“</p>
+                <p>Aus schneeweißen Binden heraus blickten zwei schwarze Augen matt und müde den
+                    Kommenden entgegen.</p>
+                <p>„J han schon g'meint, ich seh' Euch nümme,“ sagte der Kranke, „min Gott, wie
+                    froh' bin i, daß Ihr hier seid. Zusammengeflickt hat mich der Doktor schon, aber
+                    ich fürcht', 8'wird lang gehen. Ein Unglück ist's, ein großes. Verdienen kann
+                    ich lang nichts mehr, und schweres Geld wird's hier kosten.“</p>
+                <p>„Komm du mit mir,“ wandte sich die Schwester an Petrin, als sie merkte, was für
+                    eine Wendung das Gespräch nahm. „Einem kleinen Patienten kannst du Gesellschaft
+                    leisten.“</p>
+                <p>Sie führte ihn in die Glaslaube hinaus, durch deren große Fenster die warme Sonne
+                    hereinstrahlte. Ihr zugewendet, lag ein kleiner Kranker da.<pb n="14"/>
+                </p>
+                <p>„Jetzt könnt Ihr beide Kaffee zusammentrinken und vom gestrigen Sonntagskuchen
+                    gibt es auch noch ein Stücklein.“ Sie ging hinaus, um dafür zu sorgen.</p>
+                <p>Stumm saß Petrin auf seinem Stuhle und schaute tiefbekümmert vor sich hin.</p>
+                <p>„Bist du auch krank?“ frug der andere nach langem Stillschweigen.</p>
+                <p>„Der Vater ist verunglückt,“ antwortete Perrin.</p>
+                <p>„Hat er Wunden?“</p>
+                <p>„Ich soll's meinen. Vom G'sicht sieht man nur den Bart und die Augen.“</p>
+                <p>„Hat er Wunden, dann ist's nicht so schlimm. Dann wird ihn die Sonne schon wieder
+                    gesund machen.“</p>
+                <p>„Die Sonne?“ rief Petrin ganz verwundert.</p>
+                <p>„Die Sonne. Die tupft mir meine Wunde hinten am Rücken mit ihren goldenen
+                    Fingern. Die tun mir nicht weh, wie die Finger vom Herrn Doktor. G'sund macht
+                    sie mich halt.“</p>
+                <p>Schüchtern und fragend hebt Petrin das Auge auf die Schwester, die eben mit dem
+                    Kaffeebrett hereinkam und die letzten Worte noch gehört hatte.</p>
+                <p>„Gewiß,“ sagte sie lächelnd, „die Bergsonne hat eine wunderbare Heilkraft. Unser
+                    Herr Doktor hat das ausgefunden. Hinter der Sonne steht aber der liebe Gott.Nur
+                    sein größter Engel ist sie. Deinem Vater wird sie auch helfen.“</p>
+                <p>Schweigend tranken die beiden Buben den Kaffee und ließen sich den Kuchen
+                    schmecken. Gesprochen wurde nichts;das hätte ja den Genuß verdorben.<pb n="12"/>
+                </p>
+                <p>Erst nach dem zweiten Schüsselchen Kaffee und dem zweiten Stücke Kuchen, und als
+                    die Schwester hinausgegangen war, fing Petrin wieder zu reden an:</p>
+                <p>„Wo kommst her?“</p>
+                <p>„Aus Bergün. Durch den Tunnel.“</p>
+                <p>„Herrschaft! Mit der Eisenbahn bist g'kommen!“</p>
+                <p>„Mit der Bahn' geh' ich wieder heim.“</p>
+                <p>„Hat dein Vater auch schon einen Bären geschossen 7“frug Petrin weiter.</p>
+                <p>„Gar nie,“ antwortete der kleine Bergüner wehmütig.</p>
+                <p>„Aber meiner. Im Museum ist 's Bärli ausgestopft.Dort schauen's auch die Leute.
+                    Einen Zettel trägt er am Hals. Drauf steht des Vaters Name: Murezzi
+                    Fluggi.Größer sind schon die Bären in St. Moritz oben, die ich nicht gesehen
+                    habe. Weiße hat's schöne drunter.“</p>
+                <p>„Wie weißt du's denn, wenn du's nicht gesehen hast?“</p>
+                <p>„G'sehen hab' ich sie schon, aber stehen bleiben durft ich nicht wegen dem Vater.
+                    Wir wußten nicht, ob er schon tot sei. Auf dem Heimweg will ich sie mir schon
+                    ansehen. Jetzt geht's ja dem Vater besser. Wundern tut's mich, wo die Weißen
+                    herkommen?“</p>
+                <p>„Wie den Schneehühnern geht's ihnen halt. Die sind grau im Sommer und werden
+                    schneeweiß im Winter,daß man sie auf dem Schnee gar nicht sehen soll.“</p>
+                <p>Lachend schüttelte Petrin den Kopf. Auch die Schwester,die wieder hereintrat,
+                    lachte über diese Erklärung.</p>
+                <p>„Die Bären, die du im Bad oben gesehen hast, sind Eisbären“, sagte sie. „Sie
+                    kommen weit vom Norden her.Du meinst wohl die großen prächtigen Felle, die vor
+                    dem Pelzladen draußen liegen? Die Felle mit den schönen <pb n="19"/>
+                </p>
+                <p>Köpfen? Die werden ausgestellt, damit die Badegäste sie sehen und kaufen sollen.
+                    Auf schöne Fußböden kommen sie dann als Teppiche.“</p>
+                <p>Jetzt stellte die Schwester einen Korb mit Alpenblumen auf den Tisch, um sie
+                    herauszunehmen und in kleine Sträußchen zu ordnen. Vor jedes Krankenbett wollte
+                    sie eins stellen.</p>
+                <p>„Die kommen aus Gottes schönstem Garten, aus dem Alpengarten, der bis zum ewigen
+                    Schnee hinaufreicht.Diese Farben! Ist das eine Pracht!“</p>
+                <p>Zu himmelblauen Vergißmeinnicht legte sie zart rosarote Bergnelken und
+                    goldstrahlende Gemsblumen, dazwischen schneeweiße Alpenlilien. Die dunkelblauen
+                    Genzianen aber legte sie besonders, um kleine Teller damit zu füllen. Hie und da
+                    hing an einem Stiele noch schwarze Erde, die sich die Pflänzchen hoch oben an
+                    den Felsen mit Müh und Not erobern.</p>
+                <p>„Wie die zarten Blumen,“ fing die Schwester nun an, vor sich
+                    hinzuflüstern:„Willig sich entfalten,</p>
+                <p>Und der Sonne stille halten:Laß mich so,</p>
+                <p>Still und froh,</p>
+                <p>Deine Strahlen fassen </p>
+                <p>Und dich wirken lassen!“„Wollt Ihr den schönen Vers lernen, Buben? Vorsagen will
+                    ich ihn Euch, bis Ihr ihn könnt.“</p>
+                <p>Als die Schwester mit den Blumen fertig war, konnten die beiden kleinen Bündner
+                    auch den schönen Vers. Platz hatten sie noch dafür in ihren Köpfen.</p>
+                <pb n="14"/>
+                <p>„Petrin, komm,“ winkte die Mutter unter der Türe.„Dank sag auch zur Schwester.“
+                    Und er dankte mit einem trockenen: „Dank auch,“ und einem warmen Blicke.„Hat der
+                    Bub aber ein paar Augen,“ sagte die Schwester nachher, „wenn er sie einmal
+                    aufhebt.“</p>
+                <p>Spät war's schon, Nacht, als die Mutter mit Petrin durch St. Moritz ging.</p>
+                <p>Vor einem verschlossenen Laden blieb der Bub stehen:„Da drinnen sind sie morgen,
+                    wenn ich den Vater besuche. Den besuch ich jetzt jeden Tag. Dann werd'ich sie
+                    mir aber recht ansehen die Bären.“ O weh!Es kam anders.</p>
+                <p>Stille Entrüstung.</p>
+                <p>E schlief Petrin auf diesen langen schweren Tag hin.</p>
+                <p>Schon quiekste die Kaffeemühle in der Küche, als er erwachte. Erst nach und nach
+                    besann er sich wieder auf das Unglück, das über sie gekommen war. Im Nu war er
+                    in Hemd und Hosen und unten bei Mutter und Schwester.</p>
+                <p>„Wie's jetzt gehen wird, weiß ich nicht,“ hörte er die Mutter zur Schwester
+                    sagen, deren Augen rot waren vom Weinen, und die eben wieder zu weinen
+                    anfing.</p>
+                <p>„Mußt nicht so weinen,“ tröstete er, „die Sonne macht den Vater schon wieder
+                        gesund.“<pb n="15"/>
+                </p>
+                <p>„Warum nicht gar,“ rief die Mutter, „die Sonne.Der Doktor, am ehesten der liebe
+                    Gott. Was schwatzest du da von der Sonne?“</p>
+                <p>Und nun erzählte Petrin, was er im Spital gehört hatte, wie die Sonne helfe,
+                    Wunden zu heilen. Natürlich steht der Herrgott dahinter. Das hat die im weißen
+                    Häubchen auch gesagt. Und wenn sie Blumen einstellt,sagt sie immer:„Wie die
+                    zarten Blumen Willig sich entfalten,</p>
+                <p>Und der Sonne stille halten:Laß mich so,</p>
+                <p>Still und froh,</p>
+                <p>Deine Strahlen fassen </p>
+                <p>Und dich wirken lassen.“</p>
+                <p>„Was meinst, Mutter, zu einem ganz großen Strauß Edelweiß für sie? Weißt von den
+                    schönen an der Edelweißhalde!“„Ja, ja,“ sagte die Mutter. Beim Gedanken an die
+                    Krankenschwester wurde ihr leichter ums Herz. Gut gepflegt wird er. Den
+                    Liedervers hatte sie gerne gehört.Es war ihr dabei, als hätte der Bub eine
+                    schöne Blume gepflückt und zu Haus in ein Glas gestellt.</p>
+                <p>Draußen war über den Gletschern die Sonne aufgegangen. Einer ihrer ersten
+                    siegreichen Strahlen fiel in die Küche. So früh am Tag fing sie schon zu trösten
+                    an.</p>
+                <p>„Jetzt heißt's aber keine Zeit verlieren,“ rief Petrin,vom Tisch aufstehend: „Tun
+                    muß ich jetzt, was der Vater gesagt hat.“<pb n="16"/>
+                </p>
+                <p>Mit.diesen Worten riß er den grünangestrichenen, für ihn ziemlich schweren
+                    Fischkasten von der Wand und schleppte ihn davon.</p>
+                <p>Ihm sprang das kleine Mengeli nach. In der allgemeinen Verwirrung hielt sich das
+                    Kind um so fester an ihn.</p>
+                <p>Unten im Bache lag an einer tiefen Stelle der Fischtrog. Durch seine Löcher floß
+                    das kalte Gletscherwasser.</p>
+                <p>Bedächtig, fast feierlich zog Petrin den rostigen Schlüssel aus seiner Tasche.
+                    Zum erstenmal durfte er aufschließen.Das hatte bis jetzt immer der Vater
+                    getan.</p>
+                <p>Die Kiste barg einen der besten Leckerbissen vom Engadin: handgroße Bachforellen.
+                    Behutsam hob er den Deckel des dunklen Gefängnisses auf. Die nahe Gefahr
+                    fühlend, schossen die kleinen Gefangenen von einer Wand zur andern, mit ihren
+                    Flossen hart anprallend. Silberige Wasserflöcklein glänzten im Frühsonnenschein.
+                    Silbern blitzten auch die Fischlein aus dem Wasser.</p>
+                <p>Eins nach dem andern nimmt er mit festem Griff heraus, damit ja keines ihm aus
+                    der Hand gleite. Es war die beste Art: der Rücken von einem bläulich spielenden
+                    Schimmer übergossen. Oben im Alpenseeli hatte er sie dem Vater fangen helfen.
+                    Wenn der stundenlang mit aufgestülpten Hosen frierend im Wasser stand, lag er
+                    auf einem Stein an der Sonne, bereit, aufzuspringen und jeden frischen
+                    Ankömmling in Empfang zu nehmen.</p>
+                <p>Der Vater im Spital unten!</p>
+                <p>Auf dem sonnendurchwärmten Rande des Troges saß die Kleine. Jedem Fischchen
+                    folgten ihre kristallklaren blauen Augen mit Entzücken. In kindlicher
+                    Sorglosigkeit <pb n="17"/> plätscherte sie mit ihren Füßchen im Bache und hielt
+                    sie wieder an die Sonne.</p>
+                <p>„Ich bin noch gar nicht gewaschen,“ rief sie auf einmal.</p>
+                <p>Schnell goß Petrin eine handvoll Wasser über das rosige Gesichtchen. Das Handtuch
+                    zum Trocknen war da oben die Sonne.</p>
+                <p>„Das wär jetzt die letzte,“ sagte Petrin und schloß den Trog wieder zu. „Jetzt
+                    kommt noch die Hauptsache:runter tragen müssen wir sie ins Hotel. Wärs nur schon
+                    getan!“</p>
+                <p>So frei er sich oben fühlte bei den Murmeltierchen,auf den Felsen, bei dem
+                    Alpseeli, so beklommen wurde es ihm unten bei den Leuten, an die er nicht
+                    gewöhnt war.</p>
+                <p>„Man kann sich den trotzigen, baumstarken Kerl gar nicht krank denken,“ sagte die
+                    Wirtin vom Hotel 714 zu ihrer Köchin, mit der sie alles besprach.</p>
+                <p>„Besser wärs noch gewesen,“ erwiderte diese, „sie hätten ihn tot aufgelesen, ein
+                    lebenslänglicher Krüppel soll er ja werden, wie die Postbotin meinte, die alles
+                    weiß.“</p>
+                <p>„Das Unglück verfolgt die Leute,“ fuhr die Wirtin fort. „Mit dem Murezzi bin ich
+                    in die Schule gegangen.“</p>
+                <p>Ein wilder war er, ein jähzorniger. Einen Bären den aber Zuckerbäcker wollte er
+                    werden. Nicht abzubringen war er davon.</p>
+                <p>„Der und Zuckerbäcker,“ lachte die Köchin, die gerade frischduftende Erdbeeren
+                    auf den zarten Schnee </p>
+                <p>Boli, Peterli am Lift.</p>
+                <p>2J <pb n="18"/>
+                </p>
+                <p> M einer Meringuetorte legte, eines ihrer Meisterstücke, mit dem sie sich bei den
+                    Gästen besonders beliebt machte.</p>
+                <p>„Bald genug hatte er das Handwerk an den Nagel hängen müssen. Zu grob faßte er
+                    alles an, zu derb schaffte er für den verwöhnten Gaumen der Leute von
+                    heutzutage. Die veralteten Formen, die er brauchte, hängen jetzt an seinen
+                    Küchenwänden neben dem Fischkasten, dem Gewehr und den Gemshörnern. Hell glänzen
+                    die Dete tut's nicht anders die kupfernen Drachen und andere Ungetüme.</p>
+                <p>„Jetzt back' ich halt nur noch für die eigenen Mäuler,“meinte er zu mir. „Und die
+                    verschmähen eure Kunst nicht,“ antwortete ich ihm.</p>
+                <p>„Wozu greift Ihr aber jetzt?“ fragte ich ihn. „Ein Vielseitiger seid Ihr ja.
+                    Einen Bären habt Ihr auch schon geschossen, das gab Euch einen großen Ruf durchs
+                    Tal.Den Engländer, den bergkranken, habt Ihr auf eurem Rücken den großen
+                    Gletscher 'runtergetragen. Jetzt aber fällt mir etwas ein: werdet patentierter
+                    Bergführer. Seht Ihr nicht, wie unsere Berge die Fremden immer mehr anziehen.
+                    Eine Berninabesteigung allein bringt Euch eure hundert Franken ein.“</p>
+                <p>Ich sah, wie ihm dieser glückliche Gedanke einleuchtete.Auf's Examen hat er sich
+                    dann vorbereitet. Übergescheit war er nie, aber daß er nicht einmal ein paar
+                    Namen im Kopf behalten konnte und sich so ungeschickt anstellte,hätte ich nicht
+                    gedacht.“</p>
+                <p>„Durchg'fallen bin i,“ stieß er aus, als er von Chur zurückkam, mit einem
+                    Ausdruck, wie ich ihn so bald nicht wieder in einem menschlichen Gesichte sehen
+                    möchte: die <pb n="19"/>
+                </p>
+                <p>Augen sprühend vor Zorn. Zum Fürchten war's. Und über die Herren von Chur fuhr er
+                    los. Als später einer der Herren bei mir abstieg, erfuhr ich, daß es ihm an
+                    Ortskenntnis gefehlt hätte. Auf der Karte konnte er sich nicht zurechtfinden.
+                    Nicht einmal eine Seilschlinge verstand er zu machen, was große Heiterkeit
+                    erregt habe.</p>
+                <p>Zu stolz war er, um als einfacher Träger den Führern XVV zuletzt nichts anderes
+                    übrig. Gewurmt hat's ihn aber,und die Dete weinte bei mir: er sei nicht mehr der
+                    Alte,den Mut hätte er verloren, wenn er nur nicht noch ins Trinken komme vor
+                    lauter Ärger. Und Verdienst sei auch wenig dabei. Es lange manchmal zum
+                    Nötigsten nicht.</p>
+                <p>Zusehen konnte ich nicht, wie's in dem Häuschen da oben abwärts ging.</p>
+                <p>Da kam mir der glückliche Gedanke, daß Murezzi als Fischlieferant ein schönes
+                    Stück Geld verdienen könnte.Ich allein brauche schon viel und im Kurhaus oben
+                    sprach ich mit dem Besitzer.</p>
+                <p>Auch im Bad unten versprachen sie mir, Fische von ihm zu nehmen. Die Sache kam in
+                    guten Gang. Schon schien es, als ob die Leute endlich auf einen grünen Zweig
+                    kämen und jetzt!“ </p>
+                <p>„Fisch bring i do.“</p>
+                <p>„Der Bub“ rief die Wirtin, „Petrin, wie geht's dem Vater?“</p>
+                <p>„G'rad so schlimm sei's nit, sagen sie im Spital unten. Wunden hat er. Weiß
+                    eingewickelt ist sein Gesicht.Fische kann er jetzt keine mehr fangen. Das sind
+                    die letzten. Das Geld für die aber muß ich gleich haben.“<pb n="20"/>
+                </p>
+                <p>„Ja, ja,“ sagte die Wirtin. Voll Mitleid sah sie auf das ernste bekümmerte
+                    Gesicht. Sie wog die Fische und zählte dem Kleinen das Geld in die Hand. Mit
+                    einem „Dank auch“, und dem Geld in der Hand sprang Petrin davon.</p>
+                <p>„Jammerschad ist's,“ sagte die Wirtin, „den besten Preis bezahlt ich ihm immer:
+                    Drei Franken fünfzig das Pfund.“Plötzlich rief sie, zum Fenster hinaus, dem
+                    Davoneilenden nach: „Petrin, Petrin, komm zurück!“</p>
+                <p>„Was will sie noch?“</p>
+                <p>„Petrin, ein glücklicher Gedanke ist mir gekommen.Geld werdet ihr jetzt wohl
+                    brauchen können. Mit dem Jvasuchen ist's doch nicht viel. Es gibt ja so
+                    wenig.Und man muß immer so weit gehen und immer höher hinauf, um die Plätzchen
+                    zu entdecken, wo es wächst. Und gefährlich ist's, es wächst ja nur an
+                    halsbrechenden AV0 ich, wenn ich einen Gast den blauen Likör behaglich schlürfen
+                    sehe: wüßtest du, mit wie viel Lebensgefahr die Blümchen da oben geholt werden
+                    müssen, so wolltest du nichts mehr davon trinken. Dein Vater hätte es nie
+                    verlangen sollen. Messer putzen könntest du hier. Fünfzig Rappen verdienen im
+                    Tag und 8'Essen. Aber was machst du für ein Gesicht? Willst du nicht
+                    kommen?“</p>
+                <p>„Selb denn schon nit, wenn i ieden Tag d'Vater b'suche muß im Spital, und 's Kind
+                    hüte, und ein drittes kam ihm nicht in den Sinn. Adie!“ Und fort war er.<pb
+                        n="21"/>
+                </p>
+                <p>Aber er kam nicht weit. Eine feste Hand packte ihn am Kragen und zog ihn zurück:
+                    „der Lehrer, der Lehrer!“ Der war den Sommer über Portier im Hotel.</p>
+                <p>Da waren die kleinen Bündner jeglichen Schulzwanges enthoben. Da gab's so viel
+                    andere Arbeit, daß niemand mehr an die Schule dachte. Und schwer war's, zu
+                    sagen,in welcher Stellung der Lehrer mehr Ansehen genoß bei den Kindern. Eher
+                    noch ehrerbietiger als im Winter gaben sie ihm im Sommer die Hand, wenn er in
+                    seiner blauen Uniform so aufrecht und stolz den Gang auf die Post machte.</p>
+                <p>Durch die offene Küchentüre hatte der Lehrer das gütige Anerbieten der Wirtin
+                    gehört und Petrins kurz ablehnende Antwort.</p>
+                <p>„Was hast du für Pflichten als Glied eines christlichen Hauses?“ frug er mit
+                    fester Stimme.</p>
+                <p>So stand Petrin zitternd vor seinem Lehrer und der 48. Frage des Katechismus.</p>
+                <p>„Ich soll in hohen Ehren halten Vater und Mutter,“fing er an, die Augen auf den
+                    Boden gerichtet.</p>
+                <p>„Weiter.“</p>
+                <p>„Oder ihre Stellvertreter lebenslang.“</p>
+                <p>„Weiter.“</p>
+                <p>„Mit gebührendem Gehorsam aller guten Lehre und Strafe mich unterziehen.“ Nun
+                    aber kam ihm das Weinen, nur mühsam fuhr er fort: „Liebreich,
+                    friedlich,dienstfertig und vertragsam sein gegen meine Geschwister,freundlich
+                    und bescheiden gegen jedermann“ und zuletzt kam nur noch schluchzend:
+                    „Gewissenhaft und treu auch in dienender Stellung.“<pb n="31"/>
+                </p>
+                <p>„Geh' du wieder hinein,“ riet der Lehrer, „und sage,du wollest gerne kommen.“</p>
+                <p>So kam es, daß Petrin noch einmal unter der Küchentüre erschien mit den Worten:
+                    „So komm i denn also morgen.“</p>
+                <p>„Gut, um sechs Uhr,“ sagte die Wirtin etwas verwundert, aber ihm freundlich
+                    zunickend.</p>
+                <p>Blitzblank glänzten die Messer. So stark rieb Petrin mit seinen kräftigen kleinen
+                    Händen darauf ein. Aber ein Gesicht machte er dazu, das wäre schwer zu
+                    beschreiben. Viel sah man auch nicht davon. Das Tischchen,an dem er saß, rückte
+                    wie von selbst immer weiter in die Ecke der Küche, wohin man durch's Fenster von
+                    der Straße aus nicht sehen konnte.</p>
+                <p>Zu sehen brauchten sie ihn nicht, wie er da saß mit der Schürze, die ihm die
+                    Köchin wie einem kleinen Kinde um den Hals gebunden, die Buben, wenn sie am
+                    Fenster vorbeistrichen. Genug zogen die ihn ohnehin auf,daß er ja gar nicht
+                    wachse und gewiß nie zu den Soldaten lomme.</p>
+                <p>Und vor ihnen allen war er doch schon auf der Bernina gewesen. Wie Silbertürme
+                    und -Zinnen trat es vor sein Auge und blendete ihn in der dunklen Küchenecke.Mit
+                    dem Vater war er oben gewesen der arme Vater!Der wird jetzt nie wieder auf einen
+                    Berg kommen.</p>
+                <p>Die Wirtin und die Köchin wechselten Blicke: dieser Fleiß! wie's dem ausgibt!<pb
+                        n="23"/>
+                </p>
+                <p>Nicht ab zu nahm der Eifer gegen das Ende der Woche.</p>
+                <p>Wie ein Lichtstreifen winkte der Sonntag. Die Tagesordnung war festgesetzt:
+                    Spätestens um 5 Uhr zur Edelweißhalde hinauf, zur Felsrinne, wo die
+                    allerschönsten standen. Ein Paar auf dem Hut und einen großen Strauß in der
+                    Hand, wollte er ins Spital hinunter.Jetzt, da er wußte, daß der Vater mit dem
+                    Leben davon kam, durfte er ja bei den Bären in St. Moritz wohl ein wenig stehen
+                    bleiben. Noch verschiedenes andere hatte ihn dort angezogen. Sicher würde sich
+                    dann der Vater übers Geld freuen, das er verdiente. In der Laube würde es dann
+                    wieder Kaffee und Kuchen geben mit dem Bergüner zusammen. Über diesen Aussichten
+                    hellte sich Petrins Gesicht zusehends auf.</p>
+                <p>Endlich kam der Samstagabend und der Augenblick,wo er frei war.</p>
+                <p>„Morgen ist Sonntag,“ sagte die Wirtin, als sie ihm den Lohn in die Hand zahlte.
+                    „Etwas strenger wird's da schon für dich werden. Mittags gibt's bei der table
+                    d'höto zwei Gänge mehr, abends einen mehr.“</p>
+                <p>Die Wirtin sah Petrins Tränen nicht. Sie tropften noch, als er den Zickzackweg
+                    durch die Arven hinaufging.Getrocknet wurden sie erst, als ein schriller Pfiff
+                    hinter ihm ertönte: Zachi, der Geißhirt! Vor dem durfte er nicht blären.Zachi
+                    hatte seine lustige Geißherde eben untergebracht.Alle Dorfgeißen waren ihm
+                    anvertraut. Schon fröhlich zogen die am Morgen mit ihm aus, aber wie übermütig
+                    kamen sie erst abends mit ihm zurück, von der luftigen Alp herunter.<pb n="24"/>
+                </p>
+                <p>Seine eigene ging ihm voraus. Von dem hellen Glockengebimmel noch das letzte
+                    Glöcklein.</p>
+                <p>Eine selbständige war die. Aufzupassen gab's nichts mehr: Selbst stieß sie mit
+                    ihren Hörnern die Stalltüre oben auf.</p>
+                <p>Bald holte heute Zachi den Petrin ein.</p>
+                <p>„Ist's wahr, daß du Messer putzest im Hotel unten?“</p>
+                <p>„Am Sonntag auch noch, da essen sie immer noch mehr.“</p>
+                <p>„Mir geht's auch schlecht.“</p>
+                <p>„Dir, mit dir würd' ich noch tauschen. Auf d'Alp hinauf kannst ja, auf den Felsen
+                    herumklettern, dir oben wohl sein lassen an der Sonne, von oben herabijodeln
+                    kannst.“</p>
+                <p>„So, wenn mir der ganze Sommer jetzt verdorben ist,und mir alles verleidet ist,
+                    wegen den Kopfnerven.“„Kopfnerven, was ist das?“</p>
+                <p>„Ja, das weiß ich auch nicht; nur daß ich sie halt zusammenschlagen möcht!“</p>
+                <p>„Ich helf dir auch.“</p>
+                <p>„Denk nur,“ fing nun Zachi mit leiserer Stimme zu erzählen an, „vor den Präses
+                    bin ich berufen worden. Es wird wegen dem Beinbruch der Weißschwarzen sein,
+                    dachte ich. Ich kann denn nichts dafür, hab' ich gleich gesagt:Nachgrutscht bin
+                    ich ihr, und wollte sie schnell am Fuß RD ist 's Bein.Jetzt hinkt sie hinter den
+                    andern drein. Warum ist sie eine so freche gewesen.“</p>
+                <p>Da hat der Präses gar nichts davon gewußt. Kommen lassen hat er mich, um mir 's
+                    Hörnliblasen am Morgen <pb n="25"/>
+                </p>
+                <p>„Mir geht's auch schlecht!“<pb n="26"/> zu verbieten. Fremde seien hier zur Kur
+                    mit Kopfnerven.G'rad extra laut hab ich noch geblasen, damit die 's auch hören
+                    sollten die Fremden. Jetzt wollen die, daß alles still zugehe, wie wenn einer
+                    begraben wird.“</p>
+                <p>„Gott behüt uns! diese Fremden, bis die genug gegessen und geschlafen haben.“</p>
+                <p>„Ist das ein Elend!“</p>
+                <p>Über den Weg klangen lachende Stimmen. Durch die Arvenäste flimmerten weiße
+                    Kleider: Die Fremden, die der Mond herausgelockt hat!</p>
+                <p>Die ahnten auch nicht, als die beiden kleinen Gestalten stumm an ihnen
+                    vorüberschritten, wie hier zwei über sie dachten.</p>
+                <p>Wieder ein glücklicher Gedanke, aber Petrin erschrickt.</p>
+                <p>De kurze Saison ging ihrem Ende zu: Menschen mit gesunder, bergbrauner
+                    Gesichtsfarbe und neuem Mut im Herzen, es mit dem Leben wieder aufzunehmen,
+                    füllten die Postwagen. Auf dem Bock thronten verwetterte Postillone,das Leitseil
+                    von fünf Pferden in den sicheren Händen haltend. Hie und da grüßte einer zu dem
+                    verunglückten Kameraden am Spitalfenster hinauf.</p>
+                <p>„Nun geht dem Bub sein Verdienst auch zu Ende,“seufzte der.<pb n="27"/>
+                </p>
+                <p>Bald genug war auch Petrin nicht mehr nötig. Das Hotel wurde geschlossen.über
+                    Fenster und Türen wurden Bretter genagelt. Petrin hämmerte noch mit.Drauflos
+                    schlug er.Es war, als ob sein Herz den Hammer führte. Nun war's überstanden. Nun
+                    war er frei.Alpdurstig sah er in die Höhe. Von den Felsen herunter knallten die
+                    Schüsse. Die Gemsjagd hatte begonnen. „Ob ihn der Pfarrer mitnähme? Läuten läßt
+                    er ihn ja auch im Kirchlein oben.“</p>
+                <p>Abfahrt.</p>
+                <p>„Du guter Bub,“ sagte die Wirtin, als sie ihm den letzten Lohn auszahlte. „Ein
+                    glücklicher Gedanke kommt mir.“ (Sie war voll glücklicher Gedanken.)</p>
+                <p>Erschrocken sah Petrin zu ihr auf.</p>
+                <p>„Mein Bruder ist Direktor eines großen Hotels am Meer in Italien. Gestern erhielt
+                    ich einen Brief von ihm: Selbst wolle er ins Engadin kommen, um sich Personal
+                    für den Winter zu suchen. Wundern tät's mich gar nicht, wenn er nicht auch ein
+                    Pöstchen für dich hätte.Sag daheim, ich komme diese Woche noch rauf, um mit dem
+                    Vater zu reden.“<pb n="28"/>
+                </p>
+                <p>„Du du Petrin,“ jubelte 's Mengeli dem Heimkehrenden entgegen. „Jetzt kommst
+                    wieder für ganz!“und zwei weiche braune Ärmlein umschlangen ihn.</p>
+                <p>„Au!“ schrie der. Der Kopf der hölzernen Puppe,die mitumarmen mußte, hatte sich
+                    allzu fest an seine Gurgel gedrückt.</p>
+                <p>„'s ist jemand beim Vater der böse Mann.“ sagte die Kleine ihm leise ins Ohr.</p>
+                <p>„Der Sandri!“Langsamer ging Petrin jetzt ins Steinhäuschen hinein.Niemand war in
+                    der Küche. Er stieß die Stubentüre auf und schaute scheu hinein. Niemand
+                    beachtete ihn.</p>
+                <p>Halb aufrecht im Bett saß der Vater. Seit sie ihn heimgebracht hatten vom Spital,
+                    wurde sein Bett in die Stube gestellt. Da liegt er nun beinah den ganzen XD
+                    mageres dürres Männlein, dem Vater eine Feder in die Hand drückend.„Wart noch,“
+                    rief die Mutter ängstlich, aber die Feder kratzte schon auf dem Papiere.</p>
+                <p>.So wären wir jetzt einig,“ sagte das Männlein, das Papier langsam und bedächtig
+                    faltend und in die innere Rocktasche steckend.</p>
+                <p>Die unruhigen, stechenden Augen heftete er durchs offene Fenster, auf die
+                    Gletscherpracht hinüber.</p>
+                <p>„Ein schöner Blick von hier aus!“</p>
+                <p>Beim Weggehen rieb er sich vor der Türe die Hände und warf Blicke umher, als ob
+                    er etwas ausrechnete.</p>
+                <p>Gedrückt saß Petrin in der Küche.<pb n="29"/>
+                </p>
+                <p>Steinhäuschen.</p>
+                <p>„Jetzt kannst hinein,“ sagte die Mutter aus der Stube kommend, „ich fürchte aber,
+                    der Vater bekommt wieder 's Fieber. Der Sandri hat ihn aufgeregt.“</p>
+                <p>Der Sandri! Beim bloßen Nennen dieses Namens kam eine Angst über die Kinder. Der
+                    Sandri war ein Unheimlicher, dem Groß und Klein am liebsten aus dem <pb n="30"/>
+                </p>
+                <p>Wege ging. Die Kinder sprangen zur Seite, wenn er daher kam. Sie wußten selbst
+                    nicht, warum. Daß sogar die Kleinsten ihn flohen, war wohl seine stärkste
+                    Verurteilung.Die großen Leute aber wußten wohl, warum sie ihn scheuten; nur
+                    konnten die ihm nicht so leicht wie die Kinder aus dem Wege gehen.</p>
+                <p>Der Wucherer verstand es, sich in zu vielen Häusern notwendig zu machen. Wie ein
+                    Spion spürte er Geldverlegenheiten nach, um Nutzen daraus für sich zu
+                    ziehen.</p>
+                <p>Manchem Unglücke folgte er wie ein schwarzer Schatten nach. Mitleid kannte er
+                    keins. Geldgier hatte jedes andere Gefühl in ihm ertötet.</p>
+                <p>Aus Großem und Kleinem suchte er Geld herauszuschlagen.Ganze Körbe von seltenen
+                    Alpenpflanzen mit den Wurzeln wußte er heimlich an Handelsgärtner in Großstädten
+                    zu senden, wo sie Mode wurden. Vergebens klammerten sich die Silbersternchen,
+                    die Edelweiß mit ihren weitgreifenden Wurzeln an Felskanten fest, als wollten
+                    sie sich nicht wegreißen lassen weder von Wind, noch von Menschenhand, als
+                    wollten sie flehen: Laß' uns, wo wir hingehören! Wie hätte der, der kein Gefühl
+                    für Menschen hatte, Gefühl für schöne Pflänzchen haben können!</p>
+                <p>Gegen das Verbot fing er Fische mit Netzen. Nicht selbst fing er sie, durch
+                    andere, fremde Gesellen, die sich in der Nähe herumtrieben, ließ er sie fangen.
+                    Die konnte er dann billiger liefern und so andern den Verdienst entziehen.<pb
+                        n="31"/>
+                </p>
+                <p>War irgendwo noch ein schönes altertümliches Möbel,eine geschnitzte Truhe u.
+                    dgl., so suchte er die Leute zu bereden, es ihm für eine Kleinigkeit abzutreten.
+                    Hie und da gelang es. Andere gaben die Stücke erst heraus, wenn Geldnot sie
+                    zwang. Tränen gab's hie und da, wenn die alten, teuren Familienandenken
+                    weggeführt wurden.Man sah dem Wägelchen manchmal beinah' wie dem Totenwägelchen
+                    nach. Was für Preise dafür der schlaue Sandri von dem Antiquar in Pontresina
+                    erhielt, ahnte man freilich nicht.</p>
+                <p>Ach, wären es nur Möbel gewesen. ohne die man leben konnte!</p>
+                <p>Auf ganze Heimwesen zielte der Alte. Wo er seine Hand einmal hinlegte, war es
+                    schwer, sich seinem Griffe wieder zu entziehen. Und unter diesem Griff stand
+                    schon seit Jahren der Murezzi.</p>
+                <p>Unerfahren war der in Geldsachen, und an Geld hat's ihm immer gefehlt.</p>
+                <p>Nach Sandris Weggang hatte niemand mehr Lust,viel zu reden in dem Steinhäuschen.
+                    Von dem Vorschlage der Wirtin sagte Petrin nichts, bis er sie langsam aber
+                    sicher einige Tage nachher den Zickzackweg heraufkommen sah.</p>
+                <p>„Die Wirtin hat dann etwas mit Euch zu besprechen,“rief er schnell in die Stube
+                    hinein, sprang aber hinaus und den Alpweg hinauf, als könnte er ihrem
+                    glücklichen Gedanken entrinnen.</p>
+                <p>„B'hütis, wie sieht's bei Euch noch aus, immer noch im Bett du, Murezzi;
+                    kreideweiß bist im Gesicht und du,Dete, so abgemagert!“<pb n="32"/>
+                </p>
+                <p>Nach diesen wenig ermutigenden Worten ging die Wirtin gleich auf Petrin über.</p>
+                <p>„Ein Glück ist's, daß mit Eurem Bub etwas anzufangen ist. So ein wackeres
+                    „Schafferli“, und ein gutes Herz hat er, wenn er noch so bös dreinschaut.</p>
+                <p>Mein Bruder kommt: er hätte das fremde Personal gründlich satt, schrieb er mir.
+                    Da sei kein Verlaß auf die Falschen mit den schönen schwarzen Augen.</p>
+                <p>Es geht ihm halt wie dem Papst selber. Der fühlt sich auch nur sicher, wenn er
+                    Schweizer um sich hat.Jetzt kommt der Bruder, um sich hier Leute auszusuchen.Da
+                    hab' ich gedacht, wird er schon für den Petrin auch ein Pöstchen haben.</p>
+                <p>„In solch' einem Hotel gibt's gute Trinkgelder.“</p>
+                <p>Eine Woche nach dem Besuche der Wirtin klopfte es an die Türe.</p>
+                <p>„Der Herr Direktor wird's sein,“ rief die Mutter,und der Vater richtete sich
+                    mühsam im Bette auf.</p>
+                <p>Herein trat ein schlanker Herr, der in der niedrigen Stube kaum aufrecht stehen
+                    konnte.</p>
+                <p>„Sie wissen wohl, warum ich komme?“ sagte er.„Meine Schwester hat mir von Ihrem
+                    Jungen gesprochen.Wie ich höre, sind Sie bereit, ihn gehen zu lassen. Kann ich
+                    ihn sehen? Ich brauche einen Liftiungen.“</p>
+                <p>„Ursula,“ rief der Vater in die Küche, „lauf schnell und ruf' dem Petrin! Sicher
+                    ist der am Bach unten!“</p>
+                <p>Mit hochgeröteten Wangen und außer Atem stand das Mädchen nach wenigen Minuten
+                    wieder da.<pb/>*</p>
+                <p>„Wo ist er?“ rief der Vater ungeduldig.</p>
+                <p>„Er kommt, er kommt! Auf dem Alpweg oben war er.“</p>
+                <p>So eilig aber hatte es Petrin nicht. Nur zögernd kam herein.</p>
+                <p>Fast laut mußte der Direktor lachen, als er den kleinen,vierschrötigen Knirps vor
+                    sich sah, nicht viel über vier Fuß hoch, das strenge, ernsthafte und doch so
+                    treuherzige Gesicht.</p>
+                <p>Dem Vater entging das Lächeln nicht. Ängstlich sah er den Dicektor an: „Klein ist
+                    er; aber da steckt Kraft drinn, und brav ist er auch.“</p>
+                <p>Eher wohlwollend lachte jetzt der Direktor den Kleinen an. </p>
+                <p>Das war ja, was er wollte: „Bündnerrasse“.</p>
+                <p>„Was meinst, willst mit, Kleiner?“ frug er.</p>
+                <p>Keine Antwort. Anstatt den Mund aufzutun, preßte Petrin die Lippen nur noch
+                    fester zusammen.</p>
+                <p>„Mit nach Italien?“</p>
+                <p>Immer noch keine Antwort.</p>
+                <p>„Kannst nit rede?“ rief jetzt der Vater. „Mitgehst!“Die Stimme klang wie rauher
+                    Befehl.</p>
+                <p>„Und i geh nit!“ stieß der Bub scheu und trotzig heraus. Da stieg dem Vater eine
+                    Blutwelle ins Gesicht.</p>
+                <p>„Zwingen wollen wir ihn um keinen Preis!“ sagte der Direktor.</p>
+                <p>„Gut hättest es bei mir gehabt. Spaß hätt's dir gemacht. die Gäste im Fahrstuhl
+                    auf- und abzuführen.“</p>
+                <p>Stumm blieb der Bub, mit den Augen auf den Boden starrend.</p>
+                <p>Der Direktor erhob sich und verabschiedete sich rasch.Bolt, Peterli am Lift.<pb
+                        n="34"/>
+                </p>
+                <p>Wie vor einem Gewittersturme die Ziegen in den Bergen sich in die Felsennischen
+                    flüchten und sich an die Wände drücken, so zogen sich jetzt die Kinder, eines
+                    nach dem andern, in den Schutz der Küche zurück, möglichst weit vom Bette des
+                    Vaters weg.</p>
+                <p>Zornausbrüche des Vaters hatten sie schon genug erlebt: gezuckt unter den
+                    schwarzen Blitzen, die seine Augen schleudern konnten, gezittert unter dem
+                    Donner seiner Stimme. Wie ein Unwetter war's in den Bergen, und eingeschlagen
+                    hatte es auch schon, mehr als einmal.</p>
+                <p>Auf den obersten Tritt der Hintertreppe, die zur Kammer hinaufführte, hatte sich
+                    das Mengeli geflüchtet mit dem Holzpüppchen, das sie unter den Umständen nicht
+                    zurücklassen wollte.</p>
+                <p>Jeden Augenblick konnte es losgehen.</p>
+                <p>„Der Vater will jetzt schlafen,“ sagte die Mutter, leise aus der Stube
+                    heraustretend.</p>
+                <p>Erleichtert aufatmend, setzten sich die Kinder au den Küchentisch zum Maisbrei
+                    und dem Schwarzbrote. Einen größeren Haufen als gewöhnlich schöpfte Ursula dem
+                    Petrin auf den Teller. Noch näher als gewöhnlich rückte das Mengeli zu ihm.</p>
+                <p>Damit wollten sie zeigen, auf welcher Seite sie waren.</p>
+                <p>In der Stube drinnen blieb es still. Auf den Zehenspitzen ging die Mutter noch
+                    einmal hinein und kam heraus mit dem „Himmlischen Vergnügen in Gott“ in der
+                    Hand.</p>
+                <p>Als die Kinder das in Schweinsleder gebundene altersbraune Buch sahen, atmeten
+                    sie vollends auf. Nicht,daß sie die altehrwürdigen Gebete darin immer verstanden
+                        <pb n="25"/> hätten, aber sie spürten, daß mit diesem alten Buche auch ein
+                    stürmischer Tag im Frieden schließen konnte. Sie verstanden die Hauptsache, daß
+                    die Mutter daraus betete.Beruhigend und erhebend, wie ein Regenbogen, hatte
+                    dieses Buch nach manchem Sturme schon auf viele Gemüter gewirkt.</p>
+                <p>„Jetzt noch 8'Seufzerli,“ kam des Mengelis müdes Stimmchen, nachdem die Mutter am
+                    Schlusse des Gebetes Amen gesagt hatte. Das Kind, dessen Augenlider am Zufallen
+                    waren, wußte, daß noch ein zweites Amen kommen werde. Klein, wie sie war, wußte
+                    sie doch schon, daß der kurze Spruch, der dem langen Gebete immer folgte,Seufzer
+                    hieß.</p>
+                <p>Heute lautete der Seufzer merkwürdig passend:</p>
+                <p>„In Jesu Namen schlaf ich ein;Der Feind mag lauter Donner sein.Ich werde darum
+                    nicht erwachen.Gott wendet einen jeden Schlag Und kann auf einen Donnerstag Die
+                    angenehmste Stille machen!“Noch lange blieb die Mutter am Küchentische allein
+                    sitzen; das spärliche Lichtflämmlein auf dem eisernen Lichtstocke, den man an
+                    eine von der Decke herunterhängende Kette befestigen konnte, warf sein bischen
+                    Licht auf das vergilbte große Buch, das ihr Murezzis Mutter als einziges
+                    Hochzeitsgeschenk hatte geben können. Zum Hausschatz war es ihr geworden, dieses
+                    Buch. Trost suchte und fand sie darin.</p>
+                <p>Der Seufzer hatte ihr besonders wohl getan. „Gott wendet einen jeden Schlag!“
+                    Hatte er nicht heute einen <pb n="368"/>
+                </p>
+                <p>Blitzschlag bei ihnen abgewendet mit sanfter Hand. Kann er nicht den großen
+                    Schlag abwenden, der ihnen vom Sandri droht?Die Hände hielt sie noch gefaltet,
+                    jetzt in neuem Gottoertrauen; still, nachtstill war es um sie her. Da was war
+                    das? über ihr knackte die Holzstiege. Von der Kammer herunter kommt der Petrin,
+                    so leise auftretend als möglich. Jetzt steht er vor ihr, der Bub, seine Augen
+                    weit geöffnet und auf sie gerichtet: „Mutter, muß i gehen?“</p>
+                <p>Was die Mutter ihm sagte, wirkte.</p>
+                <p>„Ich geh'!“ rief er entschlossen, und mit festerem Tritte ging er in sein Bett
+                    zurück.Am anderen Morgen ging er selber zum Herrn Direktor.Dem gefiel heute das
+                    Bürschlein noch besser.</p>
+                <p>„Viel zu laufen gibt's auch,“ meinte er. „Vor dem ist mir nicht angst,“
+                    antwortete der Kleine. Zum Schlusse versprach ihm der Herr Direktor eine
+                    Uniform, wenn er sich brav halte. Petrin tat, als ob er das letztere nicht
+                    gehört hätte.Zur weiteren Abmachung kam der Herr Direktor noch einmal ins
+                    Häuschen.</p>
+                <p>„Könnten Sie nicht auch noch die Ursula brauchen?“rückte der Vater heraus. An
+                    diesem Gedanken hatte er Nächte hindurch studiert. „Da wären die Kinder doch
+                    zusammen.“ meinte die Mutter leise.„Ein Zimmermädchen mehr kann ich schon noch
+                    brauchen,“ meinte der Herr Direktor. „Aber hat sie Lust. mitzukommen ?“<pb
+                        n="37"/>
+                </p>
+                <p>„Die sperrt sich nicht. Mit der hab' ich heut Morgen gesprochen. Die freut sich
+                    noch; die will gern einmal sehen,was hinter Maloja unten ist.“</p>
+                <p>Der Tag der Abreise wurde auf zwei Wochen später festgesetzt.</p>
+                <p>Wie ein Lauffeuerchen lief die Kunde das kleine Tal hinab und ins Dorf: „Der
+                    Murezzi schickt seine Kinder,die Ursula und den Petrin nach Italien in ein
+                    Hotel.“</p>
+                <p>„Behüt uns Gott so weit in die Welt hinaus,“riefen die Frauen.</p>
+                <p>Petrins Altersgenossen aber die Buben sammelten sich vor dem Steinhäuschen.
+                    Zachi, der Geißhirt, war schon da.„Sie“ (die Fremden meinte er), erklärte ihnen
+                    Petrin,„wollen nicht mehr die Treppen hinaufgehen. Jetzt werden sie in einen
+                    Kasten eingesperrt. Den muß ich an einem Seil 'raufziehen. Wenn der Herr
+                    Direktor mit mir zufrieden ist, so bekomme ich eine Uniform.“</p>
+                <p>„Dann komm ich noch vor euch ins Militär!“</p>
+                <p>Da zogen sie ab, ein Gesicht ausdrucksleerer, als das andere, die Hände in die
+                    Hosentaschen gesteckt.</p>
+                <p>Der Petrin aber verbarg sich hinter einer Arve, wo ihn niemand sehen konnte,
+                    hielt beide Hände vors Gesicht und flennte so heimwehartig war's ihm schon
+                        zumute.<pb n="38"/>
+                </p>
+                <p>Eine Einsprache, die zu spät kommt.</p>
+                <p>Wernn er nur nicht heftig wird!“ sagte die Frau Pfarrer von Sa77, als ihr Mann
+                    sich zum Gehen bereit machte. „Und wenn auch,“ antwortete ihr der Pfarrer,
+                    „Einsprache muß ich erheben; die beiden Kinder dürfen wir nicht so weit in die
+                    Welt hinauslassen.“</p>
+                <p>„Jetzt kommt wieder ein Herr den Berg herauf,“ meldete's Mengeli, „diesmal ein
+                    schwarzer.“ Vater und Mutter sahen einander an: „Der Herr Pfarrer!“</p>
+                <p>„So will sich der dreinmischen,“ brummte der Murezzi.„Helfen kann er uns ja doch
+                    nicht!“</p>
+                <p>„Was hör ich,“ fing der Pfarrer nach einigen teilnehmenden Worten an, sich an das
+                    Bett des Kranken setzend. Ängstlich stand die Mutter im Hintergrunde, die Hände
+                    hoch über der Brust gefaltet.</p>
+                <p>„Die Kinder wollt ihr fortschicken zu landsfremden Leuten nach Italien. Euere
+                    Ursula kommt mir vor, wie ein Bergblümchen von reinster Farbe. Dieses gar liebe
+                    Kind mit seinem unverdorbenen Gemüte wollt ihr in fremde Hände geben, in ein
+                    fremdes Land, dazu in ein Hotel,wo so vielerlei Menschen ein- und ausgehen. Und
+                    der Bub! keinen wüßt' ich von meinen Christenlehrbuben,den ich mir weniger in
+                    einer Hotelecke denken könnte. Den Alpburschen, wie geschaffen für die Freiheit,
+                    als Kind schon eingesperrt und eingezwängt. Ans Herz ist er mir gewachsen, der
+                    Petrin, mein Läuterbub. Einen Stich gibt's mir, wenn ich daran denke.“<pb
+                        n="220"/>
+                </p>
+                <p>„Zu fremden Leuten schick ich meine Kinder nicht,“unterbrach ihn der Murezzi.
+                    „Der Herr Direktor vom Hotel in Italien ist ein Bruder unserer Wirtin.“ Herb und
+                    aufgeregt klang die Stimme.</p>
+                <p>„Das weiß ich wohl, fremd aber ist deswegen doch alles. Habt ihr ihn zwingen
+                    müssen dazu?“</p>
+                <p>„Grad gern ging er nicht,“ antwortete der Vater. „In der Nacht aber hat er sich
+                    besonnen, ist'runter gekommen und hat erklärt: „Ich geh'!“</p>
+                <p>„Das gleicht ihm. Und daß er sich Mühe geben wird,könnt ihr sicher sein. Meine
+                    Frau sollt ihr über ihn hören!“„Er späht förmlich, wenn er bei uns ist, ob er
+                    etwas helfen könne. Und wie geschickt er alles anfaßt! Keiner dächt' es sich,
+                    wenn er den Buben beklommen und trotzig unter den Leuten dastehen sieht, die
+                    Augen scheu auf den Boden gerichtet, Augen, die doch so scharf sind, und die er
+                    auf der Alp oben weit herumstreifen läßt. Auf der Bernina oben wird er sie auch
+                    nicht gesenkt haben.“</p>
+                <p>„Selb schon nicht,“ lachte der Vater.</p>
+                <p>„Stolz war er darauf. Aber, daß man ihm glaubt,verlangt er, euer Bub. Zornig
+                    sprühten seine Augen, als seine Kameraden es ihm nicht glauben wollten, daß er
+                    oben war. An seiner empfindlichsten Stelle muß es ihn getroffen haben. „Was
+                    gibt's hier?“ rief ich, als ich dazu kam. Da wurde es still. „Ein Lugner soll
+                    ich sein,“ kam es entrüstet von Petrins Lippen. „Glauben wollen sie mir nicht,
+                    daß ich auf der Bernina war. Geschoben und gezogen hat mich manchmal der Vater
+                    schon; aber oben war ich“!“<pb n="5"/>
+                </p>
+                <p>„Oben warst du,“ sagte ich. „Dem Petrin darf man glauben.“</p>
+                <p>Einige Wochen später kam er strahlend zu mir mit </p>
+                <p>Worten: „Bewiesen ist jetzt halt.“</p>
+                <p>„Was meinst du?“</p>
+                <p>„Eben, daß ich oben war.“</p>
+                <p>„Wieso?“ frug ich verwundert.</p>
+                <p>„Bergführer hatten wir grad gespielt am kleinen Felsen hinter dem Dorf. Da kamen
+                    Führer von Pontresina her.Einer erkannte mich und lachte mich an: „Da ist ja der
+                    Berninabesteiger“, sagte er, „den ich auf der Spitze in die Luft gehoben und wie
+                    ein Schweizerfähnchen geschwenkt habe!“</p>
+                <p>Da haben sie's glauben müssen.</p>
+                <p>„Murezzi, geht's nicht anders, müssen denn die Kinder fort ?“</p>
+                <p>„Fort müssen sie. Anders gehts nicht. Abgemacht ist's.“</p>
+                <p>„Dann wollen wir sie Gottes Schutz anbefehlen. Es beruhigt mich schon, daß die
+                    Ursula mit dem Bruder geht.“„Fast noch mehr,“ fügte der Pfarrer lächelnd hinzu,
+                    „daß der Petrin mit der Ursula geht. Der Bub hat ein Paar Augen, die man unter
+                    Umständen fürchten muß.“</p>
+                <p>„Zu spät kam meine Einsprache,“ sagte der zurückkehrende Pfarrer zu seiner Frau.
+                    „Alles ist fest abgemacht. In allen Fällen hätt's nichts genutzt. Der Murezzi
+                    hat mir eher gefallen. Anfangs sah es aus, als wollte er heftig werden.
+                    Ängstlich stand die Frau hinter ihm.Aber er nahm sich zusammen. Seine Wunden
+                    heilen prächtig. Die Sonnenkur hat der Doktor mit ihm ver<pb n="41"/> sucht. Mir
+                    ist's aber, als hätte noch eine andere Sonne ihn innerlich bestrahlt.“</p>
+                <p>Die Oberschwester,“ meinte seine Frau. „Unter ihren sonnigen Blicken ist schon
+                    manches Herz warm geworden wie unter geduldigen Sonnenstrahlen.“</p>
+                <p>„Ja, von deiner Freundin hat er auch gesprochen. Sie hätte ihm gesagt, der
+                    Herrgott sei gar kein so grimmiger,wie er meine, der einem noch einen Stein
+                    nachwerfe, wenn man schon unten liege. Gott sei die Liebe. Innere Bewegung
+                    sprach aus seinen Worten.“</p>
+                <p>Im Steinhäuschen oben gab es jetzt allerlei zu tun.Eine kleine Aussteuer aus
+                    selbstgesponnener und gewobener Leinwand mußte fertig werden. Wie gut war es,
+                    daß Petrin seine Schuhe so sorgsam geschont hatte. Nun brauchte er keine neuen.
+                    Neu war nur der Anzug aus grauem Bündnertuch, wie ihn das ganze männliche
+                    Geschlecht des Tales trägt, schwer aus Schafwolle, nicht nur als Sonntagsstaat
+                    für den Kirchgang berechnet, sondern auch für den Kampf mit den Mächten des
+                    Hochgebirges.Neben dem Bett des Vaters stand jetzt die Kiste, mit der einst die
+                    Mutter aus dem Prätigau angekommen war:blauangestrichen, auf dem Deckel zwei
+                    rote Herzen, von Blumen umkränzt. Stück um Stück wanderte in die Kiste. Obenauf
+                    kamen weiß- und rotkarrierte, reichlich große Taschentücher. Die hatte die Frau
+                    Pfarrer dem Petrin geschickt und ihrem Liebling mit rotem Garn den Namen
+                    eingenäht. Am Vorabend der Abreise wurde die <pb n="42"/>
+                </p>
+                <p>Kiste fast feierlich den Berg hinuntergetragen. Ausgebreitet aber lagen oben in
+                    den Kammern die neuen Kleider.Auch der Hut der Ursula, der erste, den sie trug.
+                    Ohne viel Kopfzerbrechen hatte man sich da zu blauen Rosen und gelben
+                    Vergißmeinnicht entschieden.</p>
+                <p>Zeitig ging die Mutter nach Baselgia, um die Postplätze zu bestellen.Als sie
+                    zurückkam, bot sich ihr in der Küche ein rührender Anblick. Da stand der Murezzi
+                    gebückt vor dem Ofen. Seine Hände zitterten. Der Duft von Gebackenem drang ihr
+                    entgegen. Die mächtige Gestalt beugte sich eben über ein Blech, das er aus dem
+                    Ofen nahm.</p>
+                <p>Jetzt wußte sie, daß ihm der Abschied von den Kindern ans Herz ging.</p>
+                <p>Worte waren nie seine Sache. Er war ein innerlicher, wie sie immer sagte. Großen
+                    Gefühlen gab er Ausdruck, wenn er zum Rührlöffel und der Teigschüssel griff. So
+                    hat er tags vor der Hochzeit gebacken und vor jeder Kindstaufe.„Vater, sie
+                    kommen alle,“ rief Petrin hereinstürzend.Hinter ihm zeigten sich unter der Türe
+                    die Kameraden,eckige, ungelenke Gestalten. Keiner tat den Mund zum Reden auf.
+                    Den hatten sie nur zum Essen mitgebracht.Schmecken ließen sie sich des Vaters
+                    Gebäck. Erst als die letzte Krumme aufgegessen war, machten sie sich langsam zum
+                    Gehen auf. Keinem fiel es ein, dem Petrin ein Wort mehr zum Abschied zu sagen,
+                    als ein trockenes „Adie“. Die Hand aber drückten sie ihm fest. Wer aber bei dem
+                    schwachen Lichte in der Küche etwas näher in ihre <pb n="4"/>
+                </p>
+                <p>Augen geschaut hätte, dem wäre es nicht entgangen, was für bedeutsame Blicke sie
+                    ihm noch zum Schluß gaben.</p>
+                <p>Noch in die Nacht hinein saß Petrin bei der Mutter in der Küche. Den Kopf auf die
+                    Hand gestützt, sah er ihr zu. Sie schnitt dünne Scheiben von
+                    Bündnerfleisch;rubinrot funkelten sie vom Licht getroffen. Dieser Leckerbissen
+                    von daheim sollte die Kinder ein Stück Wegs begleiten. Etwas besseres werden sie
+                    auch draußen in der Welt nicht bekommen, als dieses in der reinen hohen Bergluft
+                    getrocknete Fleisch. Dazu legte sie ins Tüchlein große,gedörrte Birnen; das
+                    zarte Häutchen daran verriet die beste Sorte von der Nani aus dem Prätigau noch
+                    ein Abschiedsgruß.</p>
+                <p>Unverwandt hefteten sich Petrins Augen auf das ernste Gesicht der Mutter, als
+                    könnte er sich nicht davon losreißen.</p>
+                <p>„Bub, jetzt geh' ins Bett. Denk, wie früh du Morgen aufmußt.“ Zögernd stieg
+                    Petrin in seine Kammer hinauf.Da hörte er nebenan die Schwester schluchzen. Er
+                    ging zu ihr. Sie weinte in ihr Kissen hinein. „Warum flennst denn?“</p>
+                <p>„Angst hab ich halt. Geschlafen hab ich schon. Da sahen mich im Traum große
+                    schwarze Augen an. Aus lauter Furcht bin ich aufgewacht. Noch bin ich hier und
+                    die Augen sind nur die Äste im Arvenholz. Aber gehen muß ich jetzt, und fürchten
+                    tu ich mich.“</p>
+                <p>„Fürcht dich nit,“ tröstete Petrin, „aufpassen will ich schon.“</p>
+                <p>Aber auch ihm träumte es von Augen. Nicht von schwarzen, von zwei rotglühenden.
+                    Die glotzten ihn an,<pb n="44"/> verschwanden und erschienen wieder vergrößert.
+                    Ungeheures Brausen tönt heran. Jetzt ein schriller Pfiff wie von einem
+                    Murmeltierchen, nur vielviel-viel stärker. Die roten Augen blenden: im Traume
+                    hat er schon die Eisenbahn gesehen. Auf ihren schwarzen Rücken nahm die ihn,und
+                    sauste mit ihm davon, weit weg in ein großes, tiefes,unendliches Wasser hinein:
+                    das Meer. An seinem eigenen Schrei erwachte Petrin. Noch lag er im Bett im
+                    Fextal,aber naß vom Augstschweiß. Auf die andere Seite legte er sich, gegen die
+                    Wand zu, da hob ihn etwas sanft in die Höhe und ebenso sanft wieder hinunter,
+                    auf und ab,schneller und schneller. Es schwindelt ihm. Er erwacht.Im Lift war er
+                    schon gefahren.</p>
+                <p>Gegen Morgen kam um so festerer Schlaf nach all diesen aufregenden Träumen. Aber
+                    schon um fünf Uhr fiel ein großes Bündel getrockneter Arvennadeln höchst unsanft
+                    auf den Schläfer, Petrins Wecker, seine eigene Erfindung.Schnüre waren mit einer
+                    alten Wanduhr verbunden. Wer hätte in dem Alpbuben einen kleinen Mechaniker
+                    vermutet?Aber schon von klein auf setzte er durch allerlei kleine Kunstwerke,
+                    die unter seinen geschickten Händen entstanden,seine Umgebung in Erstaunen.
+                    Draht, Holzstücke, Nägel,und Schnüre trug er immer in der Tasche. Seine
+                    papierenen Drachen strebten im Ferxtal in die Höhe, und seine Segelschiffchen
+                    glitten munter den Bach hinunter in die Welt hinaus.</p>
+                <p>Nachdem der Wecker seine herbe Pflicht getan hatte,stand Petrin in kürzester Zeit
+                    unten in seinem neuen Anzug, den schwarzen Filzhut auf seinem Kopf,
+                    reisefertig.Hastig trank er sein Schüsselchen Milch. Dann trat er <pb n="45"/>
+                    an das Bett des Vaters, von dem die Ursula eben wegkam, mit der Hand die Tränen
+                    abwischend. „Gott behüt di,“ sagte der Vater, „bleib brav und tu, was sie dir
+                    sagen.“</p>
+                <p>Noch ein herzweher Blick auf das Bettchen in der Ecke. Gut war's, daß man von den
+                    kristallklaren Augen nichts sah. Noch waren die zarten Vorhänglein darüber
+                    gezogen. Im vollen Frieden schlief das Kind, im Händchen eine dicke Schnur
+                    zuversichtlich haltend, mit der es den Bruder am Morgen festanbinden wollte,
+                    damit er nicht fortkönne. O frühe Enttäuschung des Lebens!</p>
+                <p>Armes Mengeli, wie wird er dir fehlen!</p>
+                <p>Scheu verschlossest du dein Gemüt vor den Leuten.Du fühltest wohl, wie wenig Sinn
+                    sie für deine kleinen Anliegen hatten; wie wenig Unterschied es für sie
+                    machte,ob deine Juditha, das Holzpüppchen, das Werktag- oder das
+                    Sonntagsröcklein trug, wie wenig Mitgefühl sie hatten,wenn sie ernstlich krank
+                    wurde. Um so mehr aber öffnest du dich dem Einen, der dich verstand, dem
+                    Lebensretter der Juditha, der ihr einmal in den Bach nachgesprungen war, um sie
+                    vor dem Ertrinken zu retten.</p>
+                <p>Schwerster Abschied und erster Brief.</p>
+                <p>De Postillion hatte es eilig. Jetzt mußte es sein. Heftig drückte die Mutter die
+                    Kinder an ihr Herz und schob sie hastig in den Wagen.<pb n="45"/> 4 </p>
+                <p>„Habt Gott vor Augen und im Herzen,“ rief sie ihnen unter Thränen zu.</p>
+                <p>Durch die frische Morgenluft knallte die Peitsche. Unbarmherzig knallte sie durch
+                    das Herz der Mutter, die stehen blieb und der Maloja zusausenden Post
+                    nachschaute,bis der Talnebel sie einhüllte.</p>
+                <p>Da fiel ein erster Sonnenstrahl in den Nebel. Im Goldrauch kam die Post noch
+                    einmal zum Vorschein. Jetzt war's der Mutter, als ob ein Engel mitzöge, wie
+                    einst mit dem jungen Tobias, der auszog, um Hülfe für seinen Vater zu
+                    suchen.</p>
+                <p>Der gleiche Wunsch trug auch ihre Kinder in die Welt hinaus, in die fremde Welt,
+                    die dort unten bei den jäh abstürzenden Malojafelsen für sie anfing.</p>
+                <p>„Gottlob haben die Kinder doch einen schönen Tag,“dachte die Mutter immer wieder,
+                    als sie zurückkehrte. Der Weg führte sie durch die grünfrischen Wiesen, übersät
+                    von violetten Flämmchen, den Herbstzeitlosen, dem letzten Blümchen. Maultiere
+                    und Kuhherden weideten darauf. Melancholisch klang ihr Glockengeläute, an des
+                    Sommers Abschied mahnend. Blendend weiß hoben sich die Firnen vom
+                    kornblumenblauen Himmel ab. In rotem Feuer ließ die Morgensonne das wenige
+                    aufflammen, was hier oben die Farbe wechseln kann; Vogelbeer- und wilde
+                    Kirschbäume.Um so ernster standen die grünschwarzen Arven da, wie ein
+                    Ewigkeitsgedanke.</p>
+                <p>Heiß brannte die Sonne auf die Felsen hinter dem Dorfe, zwischen denen die Mutter
+                    nun hinaufging.</p>
+                <p>S Wetter wird sich ändern,“ sagte sie zu ihrem Manne,als sie heimkam. „Es ist
+                    wohl der letzte schöne Tag.“<pb n="47"/>
+                </p>
+                <p>Gebirgspost.</p>
+                <p>Über Nacht schon kam der Wetterumschlag. Der Himmel war am Morgen bewölkt. Ein
+                    kalter Wind brachte Schnee. Leise hob es zu schneien an und schneite und
+                    schneite. Bald lag das kleine Fextal im <pb n="18"/>
+                </p>
+                <p>Winterschlummer, das tags zuvor noch in hellem Grün geglänzt hatte, wie ein
+                    lebhaftes Kind, das plötzlich in Schlaf versinkt. Schlafen legten sich die
+                    lieblichen Alpenpflänzchen unter der weißen Decke. In mächtige weiße Mäntel
+                    eingehüllt, scheinen auch die Arven, die Wächter am Taleingang, einzuschlafen.
+                    Hoher Schnee häufte sich auf den Dächern und um die Häuser, und unablässig
+                    schneit es weiter.„Schneit's schon für gut,“ rief das Mengeli, in dessen Augen
+                    die Freude tanzte, wie die Schneeflocken draußen.Ihr Näschen drückte sie ans
+                    Fenster vor lauter Übermut.</p>
+                <p>Ans Fenster trat auch der Vater: „Gute Unterlage gibt's, um 's Wildheu
+                    'runterzuschaffen.“</p>
+                <p>Am dritten Tage schneite es noch immer. Alle dreie standen am Fenster und
+                    schauten dem Gejage des noch immer fallenden Schnees zu.</p>
+                <p>„Könnt ich ihr nur bahnen.“ sagte der Vater. Talabwärts schauten jetzt Vater und
+                    Mutter immer wieder,als suchten ihre Blicke etwas.</p>
+                <p>Erst am vierten Tag aber sahen sie im weißen Schnee einen schwarzen Vunkt
+                    auftauchen:</p>
+                <p>„Das eidgenössische Postgesetz arbeitet sich durch,“ rief der Vater. „Der Barbel
+                    gutes Herz“ die Mutter.</p>
+                <p>XVDkarte, in das entlegenste Häuschen des Hochtales getragen werden.</p>
+                <p>Früher war's nicht so schlimm. Zur Seltenheit gab's hie und da einen Brief von
+                    einem in die Ferne gezogenen Sohne.<pb n="19"/>
+                </p>
+                <p>Heutzutage aber schütteln sie in der Post zu Baselgia die Köpfe über die
+                    Zusendungen aller Art an hohe und immer höher gelegene Bestimmungsorte. Größere
+                    und kleinere Pakete wandern in den Tragkorb der Botin.</p>
+                <p>„'S rote Wochenblatt,“ blinzelt der Posthalter seinem Gehülfen zu. Und er hat
+                    recht: seit der Zeitgeist dieses Blatt bis über die Baumgrenze hinaufbläst,
+                    fallen die verlockenden Anzeigen auf empfänglichen Boden. Da ist so ein altes,
+                    steinaltes Mütterchen imstande, sich seinen Kaffee von Zürich kommen zu lassen,
+                    oder ein Wildheuer seinen Tabak von Bern. Schmunzelnd nehmen sie jeweilen die
+                    Sendungen aus den Händen der heraufkeuchenden Botenfrau in Empfang, die sie
+                    früher stundenweit selbst aus dem Tale heraufholen mußten.</p>
+                <p>Immer anstrengender wurde der Beruf. Den bösesten Streich aber noch spielte ihr
+                    der Sandri. Nicht bahnen wollte er ihr letzten Winter einmal. Den Tod wollte sie
+                    sich nicht holen in seinem Loch unten. So gab sie den Brief für ihn halt bei den
+                    nächsten Nachbarsleuten ab.Eilig verklagte sie das häßliche Männlein beim
+                    Posthalter.Der aber nahm ihre Partei. Da sann der Boshafte auf Rache, überwand
+                    seinen Geiz und abonnierte sich auf das täglich erscheinende
+                    Churer-Tagblatt.</p>
+                <p>Heute treibt und drängt wirklich das Herz die Botin noch mehr als das Gesetz, der
+                    Anteil an dem Geschick der Kinder, so weit in der Welt draußen. Durch den Schnee
+                    stampft und schwankt sie, bis sie endlich, ganz erschöpft, das Häuschen erreicht
+                    hat.</p>
+                <p>„Ein Brief!“ stieß sie heraus, in ihre tiefe Tasche greifend, „ein Brief mit
+                    italienischer Marke.“ „Gottlob,.“</p>
+                <p>Bolt, Peierli am Lift.<pb n="30"/>
+                </p>
+                <p>Man </p>
+                <p>Die Bötin.rief die Mutter, nahm den Brief und gab ihn dem Vater,der damit in die
+                    warme Stube ging, um ihn da bedächtig aufzumachen und zu lesen. Schnell griff
+                    die Mutter zum Besen und wischte den gröbsten Schnee von der guten Alten. „Jetzt
+                    an den warmen Ofen mit Euch und ein Schüsselchen Kaffee!“</p>
+                <p>Erst als die Botin auf dem Ofenbänklein behaglich den Kaffee schlürfte, die Füße
+                    in ein Paar der großen <pb n="51"/>
+                </p>
+                <p>Finken steckend, die unter dem Bänklein standen, während man ihre nassen Schuhe
+                    zum Trocknen stellte, ging man an das Lesen des Briefes.</p>
+                <p>„Lies du,“ sagte der Vater, „es flimmert noch alles vor meinen Augen,“ den Brief
+                    der Mutter hinreichend.</p>
+                <p>Mit offenem Munde, das Kaffeeschüsselchen neben sich aufs Bänklein abstellend,
+                    hörte die Botin zu. Sie wollte es genau haben, wie die Kinder gereist seien und
+                    wie es ihnen gefalle. Die Wirtin und andere warteten darauf,bis sie
+                    zurückkäme.</p>
+                <p>Es war Ursula, die schrieb:</p>
+                <p>„Liebe Eltern!</p>
+                <p>Wir sind hier gut angekommen. Bis nach Chiavenna hab'ich geweint. Von da an hab'
+                    ich mich aber ein bißchen auf Italien gefreut.</p>
+                <p>Der Postle hat uns richtig die Billette gelöst.</p>
+                <p>Als der Petrin den Zug kommen sah, rannte er ihm entgegen.Auch im Wagen sprang er
+                    von einem Fenster zum andern. Zuletzt saß er aber still und ist dann noch
+                    eingeschlafen. Ich durfte nicht schlafen, weil ich zu unsern Sachen aufpassen
+                    mußte. (Es wird scheint's viel in Italien gestohlen) Nacht war's schon, als wir
+                    nach Genua kamen und wieder umsteigen mußten. Aber da brannten helle Lichter.
+                    Angst hatte ich unter den vielen fremden Leuten. Noch ein Wunder ist's, daß wir
+                    einander nicht verloren haben. Am Rock hat er mich gehalten. Nachzerren mußt ich
+                    ihn,als er den König sah. Selber hätt' ich gern' länger hingeschaut:wie der
+                    glitzerte von Gold. Auf dem Helm trug er einen hohen Federbusch.</p>
+                <p>Einer, der deutsch verstand, half uns den Zug finden.</p>
+                <p>Was meint Ihr, wie wir in's Hotol gekommen sind? Mit dem Omnibus. Nun sind wir
+                    schon Post, Eisenbahn und Omnibus gefahren. „Steigt nur ein,“ sagte der Mann mit
+                    den <pb n="22"/>
+                </p>
+                <p>Goldknöpfen am Bahnhof. 'S ist sonst niemand gekommen. Soweit gefällt es uns
+                    gut.</p>
+                <p>Ist die Frau Direktor aber eine vornehme!</p>
+                <p>Gruß auch an alle. Geht's dem Vater auch besser? Wir beten jeden Tag für ihn.</p>
+                <p>Eure vielgeliebte Tochter Ursula.</p>
+                <p>Der Petrin steht schon am Lift. Schreiben wird er, sobald er Zeit hat. Grüßen
+                    läßt er.“</p>
+                <p>Weihnachten im Fextal.</p>
+                <p>Urun war der erste Winterschlaf noch gewesen. Noch mancher Sturm fuhr durch das
+                    weiße Tal und wirbelte im wilden Sausen den Schnee wieder auf oder zog von dem
+                    verhangenen Himmel neuen Schnee herunter,bis die Natur da oben endlich in festen
+                    tiefen Schlaf versank.In diesem Schlafe aber muß sie wunderbar träumen.Wie bei
+                    einem schönen Traume das Angesicht des Schlafenden sich verkärt, so gleitet hier
+                    über die schlafende Natur ein diamantner Glanz, eine silberne Verklärung, ein
+                    rosiger Hauch.</p>
+                <p>Rosig färbten sich auch die Eisblumen an den Fenstern des Steinhäuschens. Es ist
+                    der heilige Abend. An einem der Fenster saß der Murezzi. Auf eine der runden, in
+                    Blei gefaßten Scheiben hauchte er und kratzte mit den Fingern die daraufklebende
+                    Eisblume ab. Hinaussehen wollte er.<pb n="53"/>
+                </p>
+                <p>Nicht, um das Wintermärchen draußen zu sehen wundern tat's ihn, ob man sich schon
+                    zur Christfahrt rüste. „Drei Schlitten wird's wohl geben,“ meinte er,„und eine
+                    Gugelfuhre voll Kinder. Wie die schon johlen und meiner in der Welt draußen!
+                    D'Ursula auch,die wär jetzt schon mit der ledigen Jugend gegangen.“ Er seufzte.
+                    „Ob wir 's nächste Jahr noch hier sind?“und er seufzte noch tiefer.</p>
+                <p>„Nun packt's ihn auch,“ sagte die Mutter draußen in der Küche vor sich hin. Früh
+                    am Morgen hatte das Heimweh sie schon ergriffen und sie nicht mehr
+                    losgelassen.</p>
+                <p>„So gib mir denn jetzt Salz fürs Geißli,“ bettelte das Mengeli, dem es zu still
+                    und drückend wurde. „Und dann mußt du mich halt schon rüste.“</p>
+                <p>Das Händchen mit grobem Salz gefüllt, sprang sie nun in die Kälte hinaus, schob
+                    schnell den eisernen Riegel am Stalltürchen unten zurück und verschwand unter
+                    dem kleinen gemauerten Spitzbogen. Zärtliche Worte drangen bald aus dem Stalle
+                    und lebhaftes Meckern die erste fröhliche Bescheerung.</p>
+                <p>Die Mutter holte unterdessen das grüne Sonntagsröckchen herunter. Als die Kleine
+                    wieder in die Stube zu springen kam, nahm sie das Kind zum Ofen und wusch das
+                    frische Apfelgesichtchen, das von der Kälte gerötet war.Das hübsche goldblonde
+                    Lockenhaar nahm sie dann fest zwischen ihre Finger und ruhte nicht, bis sie jede
+                    Krause glattgestrichen und zwei steife Zöpfchen daraus geflochten hatte.</p>
+                <p>Die Kleine ertrug es geduldig. Erst als der Vater mit seinen zitternden Händen
+                    ihr den Rock hinten zu<pb n="54"/> knöpfte, während die Mutter sich bereit
+                    machte, stampfte sie: „Schnell, schnell, sonst kommen wir zu spät.“</p>
+                <p>ũberall tauchten auch schon Laternchen auf wie Glühwürmchen auf weißen Fluren. An
+                    der Stelle, wo die Schlitten standen, sammelten sich die Leute. Mutter und Kind
+                    schlossen sich ihnen an, der Vater war noch zu schwach, um mitzugehen. „Darf ich
+                    zu den Kindern?“rief 's Mengeli. „So komm “ und ein kräftiger Arm hob sie auf
+                    den zweiten Schlitten, wo die kleinen Leutchen bereits aufgeladen waren, auf der
+                    einen Seite saßen, wie in der Schule, die Buben, auf der andern die Mädchen,sich
+                    am Schlitten festhaltend.</p>
+                <p>Vorn saß ein starker Alpbursche, um zu steuern.Auf ein gegebenes Zeichen sausten
+                    die Schlitten davon.Blitzschnell war man unten im Dorf. Schon läuten die
+                    vierhundert Jahre alten Glocken der Kirche, weithin schallen die Klänge. Ja, es
+                    ist, als ob in den Bergen neues Geläute einfiele. Die Felsen nehmen die Töne auf
+                    und tragen die große selige Botschaft weiter.</p>
+                <p>Aus allen Häusern strömen Junge und Alte dem Schulhause zu. Selbst die Holzer,
+                    die Bergamasker,Männer von halbwildem Aussehen, treibt es heute herunter in
+                    Menschen- und Gottesnähe.</p>
+                <p>Eine klare, helle Christnacht ist's. Herabzusteigen scheinen die Sterne. Feuriger
+                    und größer funkeln sie auf dieser Höhe als im Tale. Neidisch könnten beinahe
+                    diese Sterne heute Abend werden. Nicht sie, trotz all ihrem Glanz, können die
+                    Herzen so hell und fröhlich machen wie die goldenen Papiersternchen am
+                    Christbaum drinnen im Schulhaus. Die machen Eindruck auf Jung und Alt.<pb n="55"
+                    />
+                </p>
+                <p>Übersät damit ist die kräftige schlanke Tanne von oben bis unten. In ihrer Mitte
+                    sind Äste herausgesägt, und an ihrer Stelle ist ein dreiteiliges Transparent
+                    eingefügt worden. Um ihre Krone schwebt ein Kränzlein weißer, goldbeflügelter
+                    Engelchen.</p>
+                <p>Wie geräuschvoll jung und alt in den Saal hereinpolterte, um so stiller wurde es
+                    angesichts des Baumes.Ja das war wundervoll!</p>
+                <p>Jetzt gab der Lehrer das Zeichen zum Anfang der Feier. Zugleich leuchtet der
+                    linke Flügel des Transparentes auf: Hirten sitzen auf dem Felde umher; helles
+                    Licht blitzt um sie mitten in der Nacht. Der Engel des Herrn steht vor ihnen:
+                    „Siehe, ich verkündige Euch große Freude,denn Euch ist heute der Heiland
+                    geboren, welcher ist Christus, der Herr, in der Stadt Davids.“ Aus dem Himmel
+                    schauen Engelsköpfe.</p>
+                <p>„Ehre sei Gott in der Höhe und Friede auf Erden und den Menschen ein
+                    Wohlgefallen,“ rauscht es von den Kinderlippen wie ein Wasserfall. Das Bild in
+                    der Mitte flammt auf: das Jesuskindlein in der Krippe! Bewillkommt wird es von
+                    den Kindern mit einem schmetternden:</p>
+                <p>„Sei uns mit Jubelschalle Christkindchen heut begrüßt,Wie freuen wir uns alle,Daß
+                    dein Geburtstag ist.Für uns zur Welt geboren,Lagst du auf Heu und Stroh,Sonst
+                    wären wir verloren,Nun aber sind wir froh.In reichem Farbenglanze erstrahlt nun
+                    auch der rechte Flügel: Die Anbetung der Weisen. Da haben die Augen <pb n="56"/>
+                    erst recht zu tun: der Mohrenkönig, der Goldapfel unter den Gaben, die Kamele im
+                    Hintergrund. In jede Einzelheit können die Kinder sich da gleich vertiefen, denn
+                    nicht sie fallen bei diesem Bilde mit einem Liede ein,die ledigen Burschen
+                    hatten mit dem Lehrer einen Gesang dazu eingeübt. Langsam und schwer wie im
+                    Bergschritt kommt es von ihren Lippen:</p>
+                <p>„Drei Könige waren im Morgenland,</p>
+                <p>An denen der Herr Gefallen fand;</p>
+                <p>Sie sahen den himmlischen Weihnachtsstern,</p>
+                <p>Sie zogen ihm nach, sie folgten ihm gern.“„Einen Redner haben wir keinen hier,“
+                    fing nun der Lehrer an. „Und doch ist einer da. Von unten herauf ist er zu uns
+                    gekommen, an andern Orten kommt er gewöhnlich von oben herab. Ein großer Redner
+                    ist es.“Verdutzt sahen die Leute einander an.</p>
+                <p>„Den Tannenbaum mein ich,“ fuhr der Lehrer fort.„Grün bleibt er bei allem
+                    Winterfrost. Immer grün soll auch 8' Menschenherz bleiben, nimmer welk werden,
+                    frischen Saft in sich aufnehmen auch in dieser heiligen Nacht.</p>
+                <p>Seht seinen Wuchs an. Unten breiten sich seine kräftigen Zweige aus, aber
+                    aufwärts strebt er. Nach oben spitzt er sich zu. Ein Wegweiser nach oben will er
+                    sein.An den Berghalden unten deuten die Tannen wie grüne Finger aufwärts.</p>
+                <p>Und bei uns, wohinauf sie nicht mehr steigen können,spitzen die Firnen sich zu.
+                    Mit weißen Fingern deuten sie aufwärts zum Himmel.</p>
+                <p>Um uns emporzuheben in die Richtung, wohin uns die Tannen und die Firnen weisen,
+                    ist die höchste Liebe <pb n="57"/>
+                </p>
+                <p>Mensch geworden. Das Christuskindlein ist gekommen,und mit ihm eine Liebe
+                    eingezogen in die Welt, die die gefallene Menschheit emporheben will.</p>
+                <p>Aber auch mit seinen Lichtern will der Christbaum uns etwas sagen:</p>
+                <p>Eine Flamme ist angezündet in der Welt, die hat die Kraft, zu wärmen wie hier
+                    oben die Sonne im Winter.Hört ihr's aber draußen leise rauschen über unsern
+                    Bergwänden? Der kalte Nordwind ist's, der Zwingherr, der uns ganz in seine
+                    Gewalt nehmen möchte; das warme Sonnenlicht kann er uns aber doch nicht
+                    ausblasen; die Sonne ist stärkker als er. So geht auch ein kalter Geist durch
+                    die Welt. Das warme Feuer der Liebe Jesu vermag er aber nicht mehr
+                    auszulöschen.</p>
+                <p>Der Jugend erzählt heute der Baum mit seinen erleuchteten Bildern die heilige
+                    Geschichte dieser Nacht.Nicht dem Ohr, dem Auge erzählt er sie. Durch euere
+                    Augen soll fie einziehen in euer Herz, daß sie in euch lebendig werde.</p>
+                <p>Eine selige, reine Welt leuchtet durch diese Bilder in unser aller Herzen
+                    hinein.“</p>
+                <p>Tiefe Andacht folgte den Worten des Lehrers. Des Christbaums große Rede ließ man
+                    ausklingen. Nur die Zünglein der Kerzen bewegten sich, als sängen sie ein leises
+                    Liedlein, das aber in seinem zarten Pianissimo bald überklungen wurde von einem
+                    gewaltig herausbrechenden,jubelnden: „O du fröhliche, o du selige,
+                    gnadenbringende Weihnachtszeit“. Auch die Alten stimmten mit ein, erfrischt und
+                    verjüngt.</p>
+                <p>Das war ein Augenblick zum Singen.<pb n="58"/>
+                </p>
+                <p>Still wurde es nach dem Gesange noch einmal in der Kinderschar, ganz still.
+                    Hundert frische Kinderaugen,glänzend vom Widerschein der Lichter, richteten sich
+                    nun gespannt nicht mehr auf den Baum, wohl aber auf die bedeckten Körbe
+                    dahinter. Der Buben Herz klopfte vor freudiger Erwartung. Die wußten, was kommen
+                    werde.Die Botin hatte es einem verraten länger konnte sie das Geheimnis nicht
+                    mehr behalten: krummschnabelige Hölzer seien angekommen, von einem Herrn in Chur
+                    gesandt. Der Lehrer war am vorigen Neujahr mit einem Paar ganz sonderbarer
+                    Hölzer von St. Moritz zurückgekommen. Am Tage nachher sah man ihn die
+                    Schneehalden hinter dem Dorf darauf heruntersausen.</p>
+                <p>Da hatten sie keine Ruhe mehr. Unablässig beobachteten sie den Lehrer. Nur einen
+                    Wunsch kannten sie noch:zu solchen Schneeschuhen zu kommen. Aber kein Vater noch
+                    Götti wollte mit dem Geld herausrücken. Schwach und immer schwächer wurden die
+                    Aussichten. Der Petrin riet noch beim Scheiden, sich alte Faßdauben unter die
+                    Füße zu binden.Nun sind die Buben so nahe am Ziel und können es kaum fassen. Die
+                    Hölzer kommen zum Vorschein.Die Liebe, die es vermochte, sich in die Herzen
+                    dieser Alpbuben zu versetzen, hatte die Gabe noch mit einem roten Bande
+                    weihnachtlich umwunden. Stumm und steif nehmen die Buben sie in Empfang; immer
+                    ausdrucksleerer werden die Gesichter, je größer der Freudensturm im Herzen ist.
+                    Der treibt und drängt hinaus. Erst unter freiem Sternenhimmel brach das freudige
+                    Gejohle aus.<pb/>FC F </p>
+                <p>„S'ist denn e Kistli für euch oben, d'rum kam ich zu spät zur Feier,“ raunte die
+                    Botin der Mutter beim Hinausgehen ins Ohr.</p>
+                <p>„Es wird nicht sein,“ rief die Mutter. „E Kistli vo de Kinde, e Kistli vo de
+                    Kinde!“ als wollte sie sagen:„macht mir Platz, ich hab' es eilig.“ S'Mengeli, in
+                    einem Ärmchen seine Bescherung festhaltend, konnte an der Hand der Mutter kaum
+                    nachkommen. Da nahm sie diese kurzweg auf den Arm. „Jeh, trägst mich wieder bis
+                    hinauf?“ rief das Kind aus, und suchte sich möglichst leicht zu machen. Das
+                    freie Ärmchen schlang sie um den Hals der Mutter und drückte sich fest an sie.
+                    So klopfte das kleine Herz an dem großen in dieser stillen, heiligen
+                    Christnacht.</p>
+                <p>„Eine Sendung aus Italien!“ Etwas weicher klang heute Abend Murezzis Stimme, als
+                    er aufmachte. Auf dem Küchentisch lag ein appetitlich aussehendes
+                    Holzkistchen.An der Adresse hatte der Vater lange herumstudiert, während sie
+                    unten Weihnachten feierten, immer wieder an das Kistchen hintretend.</p>
+                <p>„Die Adresse ist vom Maitli, das Kistchen ist aber gar nicht aus Italien. Auf den
+                    Marken ist ja die Helvetia.“</p>
+                <p>„Da macht man am besten gleich auf und sieht.“meinte die Mutter.</p>
+                <p>„Das ist denn noch schön gepackt,“ lachte der Vater,als er den Haufen bunter
+                    Papierschnitzel herauszog.</p>
+                <p>„Herrschaft, Pomeranzen, prächtige goldrote.“</p>
+                <p>„Gewiß vom Mund abgespart,“ rief die Mutter.</p>
+                <p>„Drei Paketchen und ein Brief, diesmal vom Petrin.“<pb n="60"/>
+                </p>
+                <p>„Nei au,“ rief die Mutter, als sie sich einen Augenblick später die buntfarbige
+                    Italienerschürze umband.„Potz tausend!“ rief der Vater, eine neue Art Pfeifchen
+                    mit Einlegearbeit an den bärtigen Mund haltend.S'Mengeli aber war schon am Boden
+                    bei dem mißglückten Versuch mit dem italienischen Holzsoccoli.„Zuletzt kam die
+                    Hauptsache, der Brief:</p>
+                <p>„Liebe Eltern!Werdet euch wundern, wie's mir geht. Gut geht es mir schon. Ihr
+                    braucht euch nicht zu kümmern.</p>
+                <p>Nur darf ich halt nicht weinen, wenn ich 's Heimweh habe.</p>
+                <p>Sonst, wenn sie 's sehen, verliere ich die Stelle.</p>
+                <p>Eine Uniform bekomme ich dann schon nicht. D'Ursi meint,Weihnachten sei noch die
+                    letzte Hoffnung.</p>
+                <p>Es grüßt euch zu Weihnachten Euer Petrin.</p>
+                <p>D'Ursula grüßt euch und wünscht euch fröhliche Weihnacht.Das Kistchen nimmt uns
+                    der Andres Flütsch mit. Der muß heimgehen.“</p>
+                <p>Die Mutter fuhr mit der Hand über die Augen,packte sorgfältig die Geschenklein
+                    wieder ein und bettete dem eingeschlafenen Mengeli am Ofen.</p>
+                <p>Ohne ein Wort zu sagen, ging der Vater ins Bett.</p>
+                <p>Am letzten Tage des Jahres klopfte sich einer draußen vor der Türe den Schnee von
+                    den Füßen. Polternd kam es herein in die Küche. Die Stubentüre wurde
+                    aufgerissen: Zachi. der Geißhirt! Was der für eine grimmige Kälte
+                    hereinbrachte!</p>
+                <p>Und doch war er willkommen. „Jetzt aber hab' ich auch einen,“ rief er, und dabei
+                    hob er ein schon recht beschmutztes Couvert in die Höhe.<pb n="61"/>
+                </p>
+                <p>Mit eintöniger, lauter Stimme fing er an, den Brief vorzulesen. Seit er hundert
+                    Geißen zu kommandieren hatte, schrie er überhaupt, als ob die ganze Welt
+                    übelhörig wäre.„Zachi, denkst auch noch an mich? Habt ihr's lustig diesen
+                    Winter? Geht's mit den Faßdauben? Jetzt steck ich in einer Uniform. Sag's den
+                    andern. Fremdländischer Dienst: Grůnrotgold. S'Herz drinn ist aber noch rotweiß,
+                    schwyzerisch.Drei Reihen Goldknöpfe hat sie. Eng genug ist sie. Eine Kappe
+                    gehört auch dazu. D'rauf steht „Lift“ mit Goldbuchstaben, weißt,wie auf dem
+                    weißen Band voriges Jahr am Christbaum im Schulhaus. S'lag alles auf dem Bett,
+                    neben dem Birnwecken von der Mutter, als ich am heiligen Abend hinaufkam.
+                    Schnell genug war ich drinn und noch einmal unten, wo ich mich zeigte.„Jetzt
+                    fehlt nur noch der Säbel, und du wärst ein Leutnant,“sagte dann einer der Gäste,
+                    der Herr General.</p>
+                <p>S'Salz ist aber teuer hier, 30 Rappen das Pfund. Der König soll scheint's davon
+                    leben. Da könnten dir deine Geißen lange nachbetteln.</p>
+                <p>Wenn du jetzt hier wärest, könnte ich dich eine halbe Stunde im Lift auf- und
+                    abfahren. S'müßt schon am Morgen sein,wenn sie noch schlafen. Hier könntest du
+                    's Hörnli auch nicht blasen.</p>
+                <p>Dein unvergeßlicher VPetrim“Der Geißbub stand noch, als er mit dem Brief fertig
+                    war. Erst jetzt setzte er sich auf's Ofenbänklein fest und breit. Den Mund
+                    sperrte er auf den brauchen sie hier oben nun einmal auch zum Hören ,
+                    abwartend,was sie dazu sagen würden:</p>
+                <p>Uniform, drei Reihen Goldknöpfe, goldgestickte Kappe!Was war dagegen sein
+                    abgetragener Hirtenkragen, die verlotterte Salztasche und das löcherige
+                        Filzhütchen.<pb n="82"/>
+                </p>
+                <p>Etwas nachdenklich machte ihn der Vergleich doch.Das Freundschaftsgefühl aber
+                    siegte. Aus den melancholischen Augen schimmerte sogar ein Strahl von
+                    Begeisterung.</p>
+                <p>Jedermann lächelt.</p>
+                <p>Joreenaun lächelt, nur er nicht. Unser Liftjunge.“ 92 So schrieb ein junger
+                    Kandidat von altem reichen Hamburgergeschlechte an seine Mutter. „Ernst, fast
+                    herb schaut er drein. Nur 18 Jahre alt, steckt das Kerlchen schon in einer
+                    Uniform. Und sie steht ihm gut.</p>
+                <p>Er weiß nicht, warum man lächelt, wenn er vorbeigeht, und will es auch nicht
+                    wissen. Seines Weges geht er, als wollte er sagen: Zur Unterhaltung bin ich
+                    nicht hier.“Ich hatte es gleich am ersten Abend mit ihm verdorben. „Nehmen Sie
+                    den Lift,“ sagte der freundliche Schweizerdirektor am Abend meiner Ankunft. „Der
+                    Peter wird Sie hinaufführen.“ „Hier ist ja niemand,“ sagte ich, die kleine
+                    Gestalt in der Ecke übersehend.</p>
+                <p>„Welches Stockwerk?“ klang es jetzt sehr bestimmt, und vor mir stand der Peter
+                    mit etwas finsterem Blick, die Augen-brauen zusammengezogen. Mit freundlicherem
+                    Tone sagte er aber schon wieder „Bitte“, als er das weiße Gittertürchen des
+                    Lifts zurückschob. Behende ergriff er meine Gepäckstücke und trug sie bis ans
+                    Ende des langen Ganges,<pb n="63"/>
+                </p>
+                <p>öffnete mein Zimmer und ließ mich eintreten. Mich zog es gleich ans offene
+                    Fenster, durch das frische Meerluft mir entgegenströmte. Das Hotel liegt günstig
+                    für meinen Hals. Eine große Terrasse ist ins Meer hinausgebaut.Wie wohl tat
+                    meinem Auge der erste Blick durch's offene Fenster: Die Sonne ging eben unter.
+                    Wie ein Feuerball sank sie in das goldene Meer. In der Ferne glitten Barken mit
+                    Rosasegeln, von der Abendbrise leicht geschwellt,dahin. Im Osten verloren sich
+                    die Berge in einem blaßvioletten Schleier.</p>
+                <p>Die Riemen meines Koffers waren bereits aufgeschnallt,als ich mich umwandte und
+                    ans Auspacken machte. Durch diese kleine Zuvorkommenheit hatte der Peter schon
+                    mein Herz gewonnen. Es war ein Tröpflein, das über seine Pflicht hinausging.</p>
+                <p>Ein lautes Stimmengewirr weckte mich am Morgen,daß ich nicht mehr schlafen
+                    konnte: das Donnern der Wogen, die sich an den Felsen hier brechen. Dann die
+                    kleinen Stimmen, die in die große Stimme hineinschrien: gackernde Hühner,
+                    schnatternde Enten, krähende Hähne und vor allem näsende Pfauen, deren weiße
+                    Schleppen zwischen den Palmen hindurch ich gestern abend mehr bewunderte, als am
+                    Morgen ihre Stimmen.Früh wurde auch schon an meine Türe geklopft:„D'Poscht,“
+                    rief es. Zugleich schob eine Hand mir Briefe und Zeitungen herein. Der
+                    willkommene Briefträger ist niemand anders als der Peter von gestern.
+                    „D'Poscht,“mußte ich willkürlich noch einmal zu mir selber sagen.Also ist er ein
+                        Schweizerkind.<pb n="64"/>
+                </p>
+                <p>Und der kleine Schweizer, das konnte ich bald merken, ist nicht nur Liftjunge,
+                    sondern auch Briefträger,Laufbursche und wohl noch manches andere.“</p>
+                <p>„Der Liftjunge interessiert dich. Du bittest mich, dir mehr von ihm zu
+                    erzählen.“</p>
+                <p>Gestern war ein hoher katholischer Feiertag, ein Mariatag.</p>
+                <p>Da fand ich den Peter gedrückt in der Ecke neben dem Lift sitzen. Ein Häufchen
+                    Elend. „Was fehlt Dir?“frug ich. „Keiner im Hotel bekommt heute Briefe.“ „Das
+                    wäre schön,“ sagte ich. (Ich erwartete gerade deinen letzten Brief.)</p>
+                <p>„Nicht glauben wollte mir der Herr Direktor, aber“leise fortfahrend „hören darf
+                    er 's nicht, sonst verlier' ich die Stelle. Ich wußte doch, daß die Post an
+                    Feiertagen eine halbe Stunde früher geschlossen wird als sonst. Aber als ich
+                    gehen wollte, sagte der Herr Direktor: „Unsinn, es ist noch nicht Zeit.“ Jetzt
+                    hat er's.Mit leeren Händen bin ich zurückgekommen. Die Post war geschlossen. Das
+                    ist noch 's Allerschlimmste, wenn man einem nicht glaubt.“</p>
+                <p>Was treff' ich da früh am Morgen, als die meisten Gäste noch im Schlafe lagen, im
+                    Hausflur? Einen wandelnden Haufen Tischwäsche. Darunter mit zerzaustem
+                    Krauskopf, eine grüne Schürze vorgebunden, den kleinen Peter. Ja, ist er denn
+                    auch Hausknecht?</p>
+                <p>Gewiß. Und in dieser Rolle einfach unwiderstehlich.Hier tritt sein gutmütiges
+                    Herz hervor. Die Amtsmiene,<pb n="3"/> mit der er sich in der Uniform
+                    Wichtigkeit gibt, hat er mit derselben abgestreift. Von Kellnern und
+                    Zimmermädchen läßt er sich jetzt herumbefehlen.</p>
+                <p>„Peter,“ ruft gebieterisch aus dem Speisesaal der Ober-kellner.</p>
+                <p>„Peeeter,“ bittend eine Frauenstimme vom zweiten Stock herunter. Auf und ab, hin
+                    und her eilt er. Unten in der Küche öffnet er dem Koche einen Korb Orangen.Schon
+                    taucht er wieder aus dem Erdgeschoß auf mit einer Schürze voll Schuhe, die er
+                    für den Portier vor die verschiedenen Türen stellt.</p>
+                <p>Bald schleppt er einem Zimmermädchen ein Tablet voll Geschirr herunter oder hilft
+                    dem Kellner im Speisesaal die Stühle ordnen. Nichts ist dem guten Hausgeistchen
+                    zu viel. Nur einmal, als von drei, vier Seiten zugleich gerufen wurde: „Peter,
+                    Peeter, Peterli,“ hörte ich ihn vor sich hinmurmeln: „Jkann nit überall si!“</p>
+                <p>Das packte mich. Als ich abends das Bürschchen mit dem Schlafe kämpfend am Lift
+                    sitzen sah, und er sich aufraffte, mich hinaufzuführen, fragte ich ihn: „Hast du
+                    auch manchmal frei, Peterli?“</p>
+                <p>„Gar nie und jetzt skien sie daheim.“</p>
+                <p>„Wo daheim?“</p>
+                <p>„Eben im Fextal.“</p>
+                <p>Also aus dem herrlichen Engadin kommt er. Jetzt ist mir alles klar. Ein Alpbub
+                    ist er, wie ich sie dort oben in den Bergen schon getroffen habe.</p>
+                <p>„Wäre es Dir eine Freude, einmal einen Ausflug mit mir zu machen? So etwa nach
+                    Genua. Der Herr Direktor wird's schon erlauben, wenn ich ihn frage.“</p>
+                <p>Bolt, Peterli am Lift.<pb n="66"/>
+                </p>
+                <p>Er sagte nichts, aber seine Augen leuchteten. Und in diesen Augen lag ein ganzes
+                    Kinderherz aufbewahrt. Am andern Morgen aber sagte mir Peters Schwester, mein
+                    Zimmermädchen, besonders freundlich: „Guten Morgen.“</p>
+                <p>Zu gleicher Zeit ging mit diesem Briefe nach Hamburg eine Postkarte ins Engadin
+                    ab. Da stand mit großen eckigen Zügen: „'s ist einer hier, der sieht mich an wie
+                    die Oberschwester im Spital. Jetzt will er mit mir nach Genua. Juhee! Jetzt han
+                    i halt a Freud.Euer Petrin.“ (Hier sagen sie mir PVeterli, ich muß es mir
+                    gefallen lassen.)</p>
+                <p>Auf der „Augusta Victoria“.</p>
+                <p>D schreibst: Lachen hättest Du müssen über das:99 „Ich kann nicht überall sein‘
+                    und ich sollte Dir über das Peterli so viel berichten als möglich.“</p>
+                <p>So schrieb im nächsten Brief Herr Kellinghusen an seine Mutter.</p>
+                <p>„Unser Ausflug kam zustande. „Gewiß‘, sagte der Herr Direktor, als ich ihn um
+                    einen freien Nachmittag für Peter frug. „Der Bub verdient es. Noch nie hat er um
+                    Urlaub g'fragt. Und ich fürchte, die anderen nutzen ihn ein wenig aus.“<pb n="2"
+                    /> 5 </p>
+                <p>1 </p>
+                <p>„Wohin wollen Sie mit ihm?“</p>
+                <p>„Nach Genua.“</p>
+                <p>„Wird der staunen,“ meinte der Direktor lächelnd. Und er hat überhaupt ein
+                    freundliches Lächeln. Und von diesem Lächeln heißt es nicht, wie auf den Bänken
+                    eines Kurortes im Berner Oberland: „Nur für Fremde“. Ein Herz hat er auch für
+                    seine Angestellten.</p>
+                <p>Als ich ihn frug, wie er zu diesem Alpbuben gekommen sei, sagte er, durch seine
+                    Schwester, in deren Hotel der Peter Messer putzte. Der Vater des Peters sei in
+                    den Bergen verunglückt, nun müßten die beiden Kinder etwas verdienen. Den Lohn
+                    der Schwester müsse er immer direkt ihren Eltern schicken. Sie erhalte sie
+                    offenbar durch den Winter. Der Peterli aber ziehe sein Löhnchen ein; Trinkgelder
+                    gebe es ja auch, aber er bringe ihm nie etwas zum Heimschicken. Die Schwester
+                    werde es wohl für ihn verwahren.</p>
+                <p>„Nun, Peterli, morgen gehen wir. Was willst denn sehen?“ frug ich ihn „'S ist mir
+                    gleich, numme möcht i halt gern e Dampfschiff sehen.“ Ich lachte.</p>
+                <p>Gespannt sah er auf mich. Es muß wohl ein kritischer Augenblick für ihn gewesen
+                    sein.“</p>
+                <p>Ja, es war ein kritischer Augenblick gewesen. Seit seine Segelschiffchen den
+                    Fexbach hinunter glitten, war ein Dampfschiff zu sehen, sein Traum. Tief im
+                    Verborgensten seines Herzens hatte ihm der Gedanke, dann in Italien wenigstens
+                    ein Dampfschiff zu sehen, den schweren Abschied von zuhause etwas erleichtert.
+                    Nun war er schon vier Monate hier, die Stadt Genua nur eine Stunde mit dem Tram
+                    entfernt. Und doch war's, als ob Genuga für <pb n="98"/> ihn am Ende der Welt
+                    läge. Gewiß sind alle großen Schiffe schon abgefahren.</p>
+                <p>„Nichts war leichter,“ schrieb der Herr Kandidat weiter an seine Mutter, „als
+                    Peterlis Wunsch zu erfüllen.“ Unserer Schiffsgesellschaft in Genuag schrieb ich
+                    ein Wort und erhielt gerade noch zur rechten Zeit ein Passe-par tout für zwei
+                    zur Besichtigung ihres großen Dampfers „Augusta Viktoria“, mit der Bemerkung,
+                    daß die „Augusta Viktoria“nur noch einen Tag vor Anker liege.</p>
+                <p>Der Regen peitschte an die Fensterscheiben, als ich am andern Morgen erwachte. „O
+                    weh!“ „Es kann sich schon noch aufheitern,“ meinte Peterli, am Fenster
+                    stehend,doch klang seine Stimme nicht sehr hoffnungsvoll.</p>
+                <p>„Bei uns zu Haus würd' 's schon nicht mehr aufhören, hier ist's aber noch im
+                    Stand, schön zu werden.“</p>
+                <p>Und er hatte recht. Gegen Mittag ließ der Regen nach, zwischen den zerrissenen
+                    Wolken zeigte sich ein Stück blauer Himmel. Bald kam auch die Sonne mit
+                    heißen,trocknenden Strahlen.</p>
+                <p>Vom Oberkellner bis zum Hausknecht herunter wurde ich freundlich angeschaut. Es
+                    lag wie Belohnung in ihren Blicken. Jeder gönnte dem Peterli einmal eine
+                    Freude.</p>
+                <p>So rasch wie dieses Mal wurde ich noch nie bedient.Der Oberkellner selbst
+                    servierte mir mein Gabelfrühstück und früher als den andern Gästen.</p>
+                <p>Um 12 Uhr läutete ich nach dem Jungen. Da kam er strahlend die Treppe hinauf. In
+                    Uniform? Nein. Als Bündnerbub, so wollte er seine Freiheit und Freude
+                    genießen.</p>
+                <p>Mir fiel unwillkürlich ein;<pb n="69"/>
+                </p>
+                <p>„Aber soll ich beten, danken,</p>
+                <p>Geb ich meine Liebe kund,</p>
+                <p>Meine seligsten Gedanken,</p>
+                <p>Sprech ich mit der Mutter Mund.“</p>
+                <p>Den groben, schafwollenen Anzug trug er, in dem er aus seinen Bergen angekommen
+                    war. Städtisch war nur ein weißer Hemdekragen und ein schottischer
+                    Seidenschlips,auf den er den Finger legte: „D' Schwester!“</p>
+                <p>Auf dem Platze bei der Palmenallee standen Omnibus und elektrischer Tram. Wieder
+                    fühlte ich sein Auge scharf auf mich gerichtet. Omnibus oder Tram? In der Post
+                    war er schon gefahren, wohl auch im Omnibus. Elektrisch aber noch nie.</p>
+                <p>Wir waren die ersten. Bald aber füllte sich der Tram.</p>
+                <p>Immer sprang er auf, so bald ein Gast aus unserem Hotel kam, um ihm die Türe auf
+                    und zuzuschieben. Die anderen konnten es selbst tun. Als der Tram sich in
+                    Bewegung setzte, schaute er unverwandt zum Fenster hinaus.Jetzt gehörte seine
+                    Zeit ihm. Jetzt fing er an, zu genießen.</p>
+                <p>Die belebte Straße, die Zollstation. Und dann die Kaserne, die Doppelwache der
+                    Karabiniere mit ihren großen wallenden Federbüschen davor, die eben vor einem
+                    höheren Offizier ins Gewehr trat. „Ach so“ staunte er. „Dann war's ja gar nicht
+                    der König, den ich am Bahnhof sah.“ Als das Großstadtleben anfing, die Häuser
+                    immer höher und höher wurden, vergaß er, wo er war. Er kniete auf seinem Sitze,
+                    die Arme verschlungen auf das heruntergelassene Fenster stemmend.</p>
+                <p>„Ach wie ist das schön,“ rief er plötzlich. Sein Auge hatte die Reiterstatue von
+                    Viktor Emanuel entdeckt.<pb n="70"/>
+                </p>
+                <p>Den Hut schwenkend, grüßt der König vom Pferde beim Einzug in Genua sein
+                    befreites Volk.</p>
+                <p>„Wollen wir eine Erfrischung nehmen?“ frug ich ihn,als wir aus dem Tram stiegen.
+                    „Bitte nicht, bis wir alles gesehen haben. Ich meine: Das Dampffschiff.“</p>
+                <p>Und fort ging's durch die Straße der großen Paläste,die ihn völlig kalt ließen.
+                    In der Straßenmenge tauchte ein deutscher Matrose auf. „Jetzt kommen schon die
+                    Matrosen!“ rief er und fing an, noch rascher auszuziehen.In ein enges Gäßchen
+                    bogen wir ein, über das Seile gespannt waren, lustige Matrosen-Wäsche daran
+                    baumelnd.</p>
+                <p>Bei einer Wendung des Gäßleins liegt plötzlich der weite Hafen vor uns: ein Wald
+                    von Masten, bunt beflaggt.</p>
+                <p>Eine kleine feste Hand kriecht in die meinige, als suche sie Beistand. Wie ein
+                    Kind läßt er sich führen, die breiten Steinstufen hinunter zum Anlegeplatz.</p>
+                <p>Unser stolzes Hamburgerschiff lag in majestätischer Ruhe vor Anker. Nur die
+                    schwarz-weiß-rote Flagge blähte sich und flatterte im Seewinde, als wäre sie
+                    ungeduldig.</p>
+                <p>„Dort ist's!“ rief Peterli.</p>
+                <p>Ein alter Fährmann nimmt uns in sein Boot.Geschickt windet sich unser Nachen
+                    durch unzählige Barken und Segelschiffe hindurch unserem Ziele zu.</p>
+                <p>Jetzt kommen wir näher, immer riesenhafter wird der Rumpf des Kolosses, bis er
+                    endlich turmhoch über uns steht. Unsere Nußschale fährt durch eine bogenförmige
+                    Offnung am Kiele. Des Alpbuben Augen werden größer und größer und gleiten an dem
+                    eisernen Rumpf hinauf.A einmal hinaufschweifen.<pb n="71"/>
+                </p>
+                <p>Einem Offizier, den ich zufällig kannte, gab ich unsern Paß.</p>
+                <p>Der lächelte, als er den kleinen Mann sah und schien die Lage zu verstehen.</p>
+                <p>„Wissen Sie was,“ sagte er, „ich zeige ihnen das Schiff selbst.“</p>
+                <p>Auf dem Verdeck beim Steuerhäuschen und der Kommandobrücke fing er an. Wie
+                    angewurzelt blieb Peterli schon beim Mastbaum stehen; hoch oben der Mastkorb für
+                    den Ausguck. Am liebsten wäre er gleich selbst die Wanten hinaufgeklettert.</p>
+                <p>Ich schob ihn weiter. Jetzt läßt er sich die Rettungsboote erklären. Mit Proviant
+                    und Süßwasser sind die versehen und können in wenigen Minuten hinuntergelassen
+                    werden.</p>
+                <p>Fragend sah er auf die Lücke dazwischen, wo der Sturm ein Rettungsboot
+                    weggerissen hatte. „Die letzte Fahrt war rauh gewesen,“ sagte der Offizier. Da
+                    gruselte es dem Kleinen, aber das gehörte fast dazu.</p>
+                <p>Arbeit hatte das Auge: Die Ventilatoren, die drei gelben Schornsteine. Kaum
+                    wegzubringen war er von dem Geländer, über das er in die ungeheure Tiefe des
+                    Schiffes hinunterschaute, wo die Verstauung der Ladung vor sich ging.</p>
+                <p>Und dann der Maschinenraum, in den er zitternd vor Erregung hinunterstieg.
+                    Zuletzt noch die Pracht der Säle,die reizenden Kabinen mit ihren runden
+                    Fensterchen. An jeder Ecke gab's was zu sehen. Ein verstohlener ehrfurchtsvoller
+                    Blick glitt durch die halboffene Türe in die Kajüte des Kapitäns, die mit Karten
+                    und Fernrohren gefüllt war.<pb n="72"/>
+                </p>
+                <p>Immer röter wurden die Backen, der Hut rutschte ihm immer weiter nach hinten.
+                    Plötzlich rief eine Stimme:„Selb ist ja der Peterli. Was tust denn du hier?“</p>
+                <p>„Ich geh' nach Amerika,“ rief der kleine Schalk, und der helle Übermut sprühte
+                    ihm aus den Augen. Ein Portier, der Fremden das Gepäck auf das Schiff trug,
+                    hatte seinen kleinen Kollegen erkannt.</p>
+                <p>Dem italienischen Fährmann dauerte es zu lange. Er schickte einen Boten nach uns:
+                    Die Stunde sei längst vorüber. Peterli konnte sich nirgends leicht
+                    losreißen.Sogar in die Küche streckte er schnell noch seine Nase.</p>
+                <p>In ausgelassener Stimmung kletterte er die schmale Treppe hinunter.</p>
+                <p>Wir waren schon ins Boot gestiegen, als der Offizier uns noch den Steward
+                    nachschickte mit Ansichten und einem Plane vom Schiff für den kleinen Schweizer
+                    als Erinnerung. Da dankte er und schwenkte den Hut immer wieder, wie er ihn
+                    Viktor Emanuel auf dem Denkmal schwenken sah.</p>
+                <p>„Und was willst Du jetzt noch sehen?“ frug ich ihn.</p>
+                <p>„Gar nichts mehr,“ meinte er. Genug hatte er gesehen. Genug schien es ihm für
+                    sein ganzes Leben. Zu viel, um reden zu können. Stumm schritten wir durch die
+                    Palmenallee dem Hotel zu. Worte des Dankes fand er nicht. Er sagte nur: „Die
+                    Reis' vergeß i nümme.“</p>
+                <p>Erst später löste sich Peterlis Zunge und erst in den unteren Regionen. Wie
+                    wortkarg er gegen den Herrn Kandidaten war, um so beredter wurde er unter dem
+                    Dienst<pb/>*8 9 2 8 8 0 </p>
+                <p>*SE.*3 2 2 <pb n="74"/> personal. Da hörte man ihn noch gegen elf Uhr mächtig
+                    raisonnieren.</p>
+                <p>Um drei Uhr am nächsten Nachmittag geschah das Unerhörte.</p>
+                <p>Eine Dame mußte drei, viermal dem Liftier läuten.</p>
+                <p>Draußen auf der Terrasse aber stand eine kleine Gestalt und schaute sinnend der
+                    immer heller werdenden Rauchsäule auf dem Meere nach, bis sie am blauen Himmel
+                    zerrann.</p>
+                <p>Das kam aber nur einmal vor. Den Gästen schien schien es, als ob sie jetzt noch
+                    schneller auf dem Lift befördert würden. Noch sorgfältiger wurden die Zeitungen
+                    geordnet. Noch williger läßt sich Peterli zu allen möglichen Dienstleistungen
+                    herbei. Jetzt scheint es wirklich,als könne er überall sein. Das Kinderherz ist
+                    nicht mehr bloß in seinem Auge aufbewahrt. Sein ganzes Wesen drückt die ihm
+                    gewordene Freude aus. Das Augenpaar lenchtet, als ob er aller Welt danken
+                    möchte.</p>
+                <p>Unter einer Wolke.</p>
+                <p>Ein Dieb, Peter, in meinem Hause?“ Die Gäste 959 - dürfen's nicht erfahren.</p>
+                <p>Die heftigen Worte des Direktors waren an meinen Schützling gerichtet. So laut
+                    hatte er selbst die Worte ausgerufen, daß ich sie nebenan im Salon hören
+                        konnte.<pb n="3"/>
+                </p>
+                <p>Da ich morgens nie schlafen kann, war ich schon frühe unten. Ich warf die Zeitung
+                    weg und ging hinein.Halbangezogen, die Hosenträger herunterhängend, das Haar
+                    unordentlich über die Stirne hängend, stand Peterli da mit weitgeöffneten Augen,
+                    entsetzt vor sich hinstarrend.</p>
+                <p>Sobald er mich sah, stürzte er auf mich zu: „Jetzt sind wir verloren. Jetzt hat's
+                    doch nichts genützt.“„Was meinst du,“ frug ich. „Eben daß ich von daheim fort
+                    bin. Bring ich's Geld nicht, hat die Mutter gesagt,so nimmt uns der Sandri das
+                    Häuschen.“ „So schlimm wird's nicht sein,“ rief der Direktor dazwischen. „Wenn's
+                    ihm verschrieben ist. Ins Armenhaus müssen wir jetzt und “, ein Tränenstrom
+                    erstickte jedes weitere Wort,nur „d'Mutter d'Mutter“ hörte man dazwischen noch
+                    heraus.</p>
+                <p>„Er behauptet, er sei bestohlen worden,“ wandte sich der Direktor nun an mich.
+                    „All' sein Geld sei ihm in der Nacht weggekommen. Es sei heute morgen nicht mehr
+                    unter dem Kissen gewesen, wo er es jede Nacht verwahre.“</p>
+                <p>„Ich habe gerade wieder vom Schiff geträumt,“ hob jetzt Peterli selber lebhaft
+                    an, die Tränen trocknend, „von der Augusta. Die Musik spielte noch so schön zum
+                    Abschied. Ich sah das Schiff abfahren. Die Leute winkten. Da sah ich auf einmal
+                    den Neapolitaner, der hier mit Orangen und Feigen herumgeht und dem ich halt
+                    nicht traue. Ein Säcklein hob er in die Höhe und winkte mir höhnisch damit zu.
+                    „Mein Geld!“ schrie ich und erwachte.</p>
+                <p>Da hätt' ich g'rad jauchzen mögen, weils nur ein Traum war. Ich lag ja auf meinem
+                    Geld. Mit der <pb n="76"/> Hand wollt' ich schnell darnach greifen. Da war's
+                    doch fort.“ Und von neuem flossen die Tränen.</p>
+                <p>„Komm, wir wollen sie oben scharf ins Verhör nehmen,“sagte der Direktor und
+                    schritt dem Lift zu. Peterli folgte.Ich schloß mich an. Neugierige Blicke
+                    folgten uns von allen Seiten.</p>
+                <p>Der Direktor zog den Lift selbst hinauf, Peterli war unfähig dazu, setzte sich
+                    sogar in seiner Verzweiflung auf's Bänklein, so daß zum erstenmal er als
+                    Fahrgast dasaß.</p>
+                <p>Oben angekommen, stiegen wir noch einige Treppen hinauf, zuletzt noch eine
+                    leiterähnliche, und traten in eine der weißgetünchten Dachkammern.</p>
+                <p>„Also hier soll's geschehen sein?“ rief der Direktor und riß hastig das Kissen
+                    vom Bett weg. Friedlich lag da ein Säcklein von grobem Zwilch: dick und
+                    voll.</p>
+                <p>„Da ist's ja!“</p>
+                <p>„Ja, da ist's wieder,“ rief Peterli, schoß darauf los und leerte das Säcklein
+                    aus. Ein Häuflein Geld glänzte auf dem Bettuche: Kupfer, Silber. sogar zwei
+                    große Goldstücke.</p>
+                <p>Vor dem Bette kniete er nieder und, alles um sich herum vergessend, fing er an,
+                    leise vor sich hinzuzählen.„Nichts fehlt,“ sagte er zu sich selbst, die Lippen
+                    aber fuhren fort, sich zu bewegen.</p>
+                <p>Er zählte nicht mehr, er betete. Die Hände hatte er gefaltet. Gerührt standen wir
+                    da.</p>
+                <p>.Im Traum kamst du noch herunter,“ meinte der Direktor und entfernte sich
+                    rasch.</p>
+                <p>„Das Geld war aber doch fort,“ sagte Peterli mit fester Stimme.<pb n="77"/>
+                    7*</p>
+                <p>Ich sah, was für einen Stich ihm das Wort des Direktors gegeben hatte.Auch ich
+                    dachte wie der Herr Direktor, daß es sich hier um eine Täuschung handle, und
+                    frug mich, ob nicht die Versetzung aus der hohen Bergstille in die aufregenden
+                    Verhältnisse des Hotellebens nicht zu viel für das Kind gewesen sei.</p>
+                <p>Nur klang seine Stimme, als er das eben sagte, merkwürdig fest und bestimmt. Und
+                    Peterlis ganze Art war nicht die eines bei Tage Träumenden.</p>
+                <p>Mir ist's ein Rätsel. Ich fürchte, der Kleine muß darunter leiden.“</p>
+                <p>Und der Herr Kandidat hatte recht.</p>
+                <p>Gedrückt ging der Kleine umher. Jeden Augenblick erwartete er, daß er
+                    weggeschickt würde. Das wäre denn eine Schande gewesen. Da hätt' ihn der Vater
+                    schön empfangen. Bekannt wär's geworden. Und die Buben hätten ihn ausgelacht.
+                    Die Pfarrers und die Wirtin hätten sich schämen müssen, daß sie so einen
+                    geschickt hatten.</p>
+                <p>Dem Direktor ging er aus dem Wege oder sah ihn angstlich von der Seite an, ob die
+                    Kündigung jetzt komme. In den untern Regionen war's ihm erst recht nicht
+                    wohl.„Hast jetzt dein Geld auch in Sicherheit 2 spöttelte der eine oder der
+                    andere. „Träumst noch?“ meinte ein Zimmermädchen, mit der Hand ihm unters Kinn
+                    greifend.Die kam aber schön an. Wegstieß er ihre Hand.<pb n="78"/>
+                </p>
+                <p>„Mehr Trinkgeld hat der Kleine schon bekommen als ich,“ meinte eine andere.</p>
+                <p>„Hat er eine Komödie spielen wollen, um Mitleid zu wecken,“ hörte er den Koch am
+                    Herd sagen, ein Gedanke,so schwarz, wie er ihm nie in Sinn gekommen wäre.Nur der
+                    Uli, der mächtige Portier aus Schwyz, der in der gleichen Kammer mit ihm schlief
+                    und ihm gut gesinnt war, sagte nichts. Auch als bei Tisch davon gesprochen
+                    wurde, sagte er kein Wort.</p>
+                <p>Tage und Wochen vergingen. Die Stellung hatte er nicht verloren. Nur das Geld
+                    hatte ihm der Herr Direktor noch am gleichen Tag abverlangt und ihm einen
+                    Empfangsschein dafür gegeben. Den trug er jetzt an der Stelle, wo er früher das
+                    Geldtäschchen trug. Noch stiller und treuer tat er jetzt seine Arbeit, aber ein
+                    Gesicht machte er dazu, daß sich ein Stein hätte erbarmen mögen. Vergeblich
+                    suchte ihn die Ursula zu trösten.</p>
+                <p>„Fort war's Geld doch, aber niemand glaubt mir's,“behauptete er steif und fest.
+                    „Jetzt sei nicht so störrisch,“meinte sie, „geirrt hast du dich halt.“ Es war
+                    hoffnungslos. Selbst die Ursula glaubte ihm nicht. So hatten sie ihm nicht
+                    geglaubt, daß er auf der Bernina war, so hatte ihm der Direktor nicht glauben
+                    wollen, daß die Post am Mariatag früher geschlossen werde. Und doch war er oben
+                    gewesen, und recht hatte er mit der Post gehabt. Und jetzt in dieser großen
+                    Sache wußte er selbst nicht, wie's zugegangen war, aber fort war's Geld gewesen.
+                    Und der Herr Kandidat, der ihm das Dampfschiff gezeigt hatte,für den er jeden
+                    Augenblick ins Wasser gesprungen wäre,was mußte der von ihm denken? Für einen
+                        „Lügner“<pb n="1"/> mußte der ihn jetzt auch halten. Vor dem schämte er sich
+                    noch am meisten. Er durfte ihn nicht mehr ansehen.Armer Peterli!</p>
+                <p>Frühlingssonnenschein.</p>
+                <p>De Saison war jetzt auf ihrem Höhepunkt. Jeden Tag stieg die Sonne etwas früher
+                    aus dem Meere auf.„Mit einemmal scheint es mir,“ schrieb der Herr Kandidat an
+                    seine Mutter, „als glänze die Sonne viel lachender und lustiger. Auf allen Wegen
+                    duftet es von Veilchen.Der südliche Frühling ist schon eingezogen; über
+                    Nacht,nach vorausgegangenem lauen Regen, als verdienten wir eine Überraschung,
+                    standen Rosawölklein über dem frischen Grün: Blühende Aprikosenbäumchen. In den
+                    Gärten flammt es in allen Farben auf: hellblau, grellweiß, karminrot. Ein
+                    Kistchen dieser bunten Lenzesboten ging heute an dich ab. Einen Vorfrühling
+                    sollen sie dir bringen in die wintermüde Großstadt. Sie sollen dir mein baldiges
+                    Kommen melden. Mit dem Frühling kommt auch wieder neue Kraft und Lebensfrische
+                    in mich. Die Stimme klingt wieder kräftig. Der Doktor ist sehr zufrieden. So
+                    kann ich bald meinem Herzenswunsche folgen und die Gemeinde im Arbeitsviertel
+                    übernehmen, die mich in Berührung mit dem Volke bringen wird.“Von Peterli stand
+                    in diesem Briefe nichts.<pb n="80"/>
+                </p>
+                <p>Bald folgte aber ein anderer.</p>
+                <p>„Du erkundigst dich warm nach dem Peterli. Zu traurig sei es, daß man ihm nicht
+                    geglaubt habe. Die Sache müsse sich noch irgendwie aufklären.</p>
+                <p>Viel ist nicht mehr von ihm zu sagen. Vergeblich suche ich ihn zu zerstreuen. In
+                    sich gekehrt, denkt er nur noch an seine Arbeit. Alle Freude im Auge ist wie
+                    ausgelöscht. Ein Wölklein hat sich auf seinem ohnehin ernsten Geficht zum
+                    Bleiben niedergelassen. Ich kann es nicht verscheuchen. Vielleicht könntest du
+                    es mit deinem mütterlichen Lächeln, wenn du hier wärest.“</p>
+                <p>„Jetzt ist das Wölklein weg,“ fing der nächste Brief an, „und der Himmel wieder
+                    klar und blau, wie der Alphimmel. unter dem er geboren war.</p>
+                <p>„Fort war das Geld gewesen. Der Uli, unser Portier, hatte es genommen und wieder
+                    hingelegt. Ehe er in den Militärdienst ging, bekannte er es. „Jeden Abend,“
+                    sagte er zum Direktor, „zählte der Kleine sein Geld, ehe er zu Bette ging.
+                    Manchmal mußte ich ihm kleineres für größeres umtauschen. Jedesmal sagte ich zu
+                    ihm: „Gib doch dein Geld im Bureau ab, sonst wird's dir noch gestohlen“. „So,“
+                    meinte er dann, „wenn ich's bei Tag auf meinem Leib' trage und nachts darauf
+                    schlafe,wie könnt's mir da gestohlen werden?“</p>
+                <p>„Zeigen wollt ich's ihm, wie leicht das möglich sei bei seinem steinfesten
+                    Schlafe; denn allerlei Leute schlafen oben.<pb n="1"/>
+                </p>
+                <p>Zustellen wollt ich ihm das Säcklein gleich wieder,aber er war schon unten. Daß
+                    er aber so heulen und halbangezogen hinuntereilen würde, dachte ich nicht. Es
+                    handelte sich auch nur um ein paar Minuten.“</p>
+                <p>„Warum haben Sie es denn nicht gleich gesagt?“ frug ihn der Direktor. „Gefürchtet
+                    hab' ich halt, meine Stelle zu verlieren, als ich sah, was für einen Aufruhr ich
+                    verursacht hatte. Das Geld war ja schon wieder unter dem Kissen, das war die
+                    Hauptsache. Jetzt, wo ich fortgehe,wollt ich's noch bekennen. Der Peterli hat
+                    also die Wahrheit gesagt, ein Traum war es nicht.“</p>
+                <p>Sofort klingelte der Direktor nach dem Peterli. „Der Uli bekennt mir soeben, daß
+                    er dir das Geld genommen hat, in guter Absicht, um dich zu warnen. „Verzeihen
+                    mußt mir,“ fiel der Uli ein, „daß ich so lange geschwiegen habe.“Man sah, daß
+                    der Kleine am liebsten aufgejubelt hätte. Treuherzig reichte er dem Uli die Hand
+                    und warf einen bedeutungsvollen Blick auf mich (auch mich hatte der Direktor
+                    kommen lassen, als Peterlis Freund): „Jetzt ist alles gut,“ rief er und stürzte
+                    hinaus.</p>
+                <p>„Jetzt, seit sich die Sache aufgeklärt hat, ist mir der Junge noch lieber. Und
+                    einen Odem aus den Schweizerbergen, die wir beide so lieben, brachte er mir
+                    täglich entgegen.“</p>
+                <p>Von der sich im hellen Frühlingslichte verjüngenden Natur ging ein Abglanz auf
+                    die Menschen über. Auch auf dem derben Bünduergesicht des Liftbuben liegt ein </p>
+                <p>Bolt, Peterli am Lift.<pb n="82"/>
+                </p>
+                <p>Leuchten, nicht ein Abglanz der Frühlingssonne, Lust und Mut von innen.</p>
+                <p>In seiner Arbeit ging er erst recht auf. Es war, als lägen stählerne Springfedern
+                    in diesem kleinen Körper,die unter noch so viel Arbeit nicht erschlaffen
+                    konnten.Sogar etwas Schwung kam in seine sonst so eckigen Bewegungen. Hie und da
+                    vergaß er sich soweit, daß er bei der Arbeit vor sich hin pfiff, als ob ein
+                    heller Gedanke ihn vorandränge.</p>
+                <p>Die Wirtin in Sils Maria hatte recht gehabt: Trinkgelder gab es reichlich. Und
+                    der Herr aus Hamburg war nicht unschuldig daran. An ihn wandten sich viele der
+                    Hotelgäste als an einen vielgereisten und mit den Hotelverhältnissen erfahrenen
+                    jungen Mann, um die Trinkgeldfrage mit ihm zu besprechen, diese große Sache, wo
+                    sogar selbständigen Naturen bekanntlich die Entscheidungskraft versagt.
+                    „Vergessen Sie nur den Peterli nicht,“ sagte dann immer der Herr Kandidat.
+                    „Wissen Sie, daß von seinem Verdienst das Schicksal einer ganzen Familie
+                    abhängt.</p>
+                <p>Der ist nicht zum Vergnügen hier. Mit Händen und Füßen soll er sich gesperrt
+                    haben, seine Bergheimat zu verlassen, bis ihm seine Mutter erklärte, nur auf
+                    diesem Wege könnten sie ihre Heimstätte retten.“ Er erzählte ihnen auch den
+                    Auftritt an jenem Morgen, als er glaubte,man hätte ihm sein Geld gestohlen. „Es
+                    scheint, daß ein schlauer Wucherer es auf das Häuschen abgesehen hat wegen
+                    seiner Lage den Gletschern gegenüber, wahrscheinlich, um eine Fremdenpension
+                    dort hinzustellen. Uns scheint die Summe, die in Betracht kommt, lächerlich
+                        klein,<pb n="33"/> aber sür die Leute da oben in ihren kleinlichen
+                    Verhältnissen wird sie beinahe zu einer Lebensfrage. Der Vater soll verunglückt
+                    sein und lange nichts mehr verdienen können.“</p>
+                <p>Manches Auge wurde feucht. Weiche Herzen drückten bei der Abreise um so mehr
+                    Hartes in die Hand des Liftbuben.„Wirst du aber reich, Peterli!“ lächelte ihm
+                    die Frau Direktor jeweilen am Abend zu, wenn er im Bureau mit großem Ernste sein
+                    Geld abgab. Immer größer wurden die Zahlen auf dem Empfangsschein, den er in
+                    freien Augenblicken hervorzog und studierte.</p>
+                <p>Anders war es schon, als er das Geld selbst jeden Abend durch seine Finger gehen
+                    ließ und das Kleingeld in Goldstücke umwechselte. Gewaschen hatte ex die
+                    Goldstücke sogar mit Seife im Waschbecken und abgetrocknet wie das Silber in
+                    Sils-Maria. Sauber wollte er die Dinger heimbringen, von denen ja doch alles
+                    abhing.Glänzen sollten sie wie Sonnenstrahlen; die würden dann den Vater noch
+                    gesunder machen als die vom Spital,von denen der Bergüner gesprochen.</p>
+                <p>„Er war der letzte,“ hieß es in einem weiteren Brief nach Hamburg, „von dem ich
+                    mich verabschiedete.“</p>
+                <p>„Auf dem Platze stand er, wo ich die Droschke nach Genua nahm. Kein Wort brachte
+                    er heraus. Da merkte ich, daß ihm der Abschied zu Herzen ging. Der Alpbub kam
+                    wieder ganz zum Vorschein. Ich war schon eine gute Strecke gefahren, als ich
+                    mich vergewissern wollte, ob mein <pb n="84"/>
+                </p>
+                <p>Schirm da sei und mich im Wagen umkehrte. Da stand die kleine Gestalt noch
+                    da.</p>
+                <p>Gott behüt dich, lieber Kleiner. Die Welt hier unten hat dir nicht schaden
+                    können. Und doch bete ich zu Gott:bring den wieder zurück, wo er hergekommen
+                    ist, und behalt ihn in deinen Bergen, so hoch oben als möglich.</p>
+                <p>Als ich nach meiner Ankunft hier den Koffer wieder auspackte, den mir der Peterli
+                    packen half, fand ich zwischen den Schuhen einen gefalteten Zettel. Auf dem
+                    stand,mit groben Zügen von Kinderhand geschrieben: „So gut,wie Ihr, war noch
+                    niemand zu mir. Fürs Dampfschiff dank ich Euch. Vergessen werd ichs nie. Wenn
+                    Ihr einmal ins Fextal kommt, führ ich Euch auf die Alp und bis auf die Bernina.
+                    Euer dankbarer Peter.“</p>
+                <p>Eine bessere Meinung hatte also Peterli von den Fremden bekommen, als er sie im
+                    Fextal hatte.</p>
+                <p>Nicht zu erleben aber war es, bis der letzte Gast abreiste.</p>
+                <p>Einigen Damen gefiel es noch immer. Und warum mußte sich auch der
+                    Fürst-Erzbischof von Prag auf seiner Romreise erkälten und mit Gefolge gerade
+                    ankommen, als man das Hotel schließen wollte.</p>
+                <p>„Ihre hochlöblichen Gnaden bleiben drei Wochen,“hieß es vom Bureau aus.</p>
+                <p>„Jetzt komm ich zu spät zum Läuten!“ rief der Peterli.</p>
+                <p>Wohl führte er den hohen Herrn mit dem violetten Seidenkäpplein unzählige Male im
+                    Lift auf und ab, aber dabei war er nicht mehr. Sein Gedanke flog schon aufwärts,
+                        heimwärts.<pb n="209"/>
+                </p>
+                <p>Endlich reiste auch der Erzbischof nach Rom weiter.</p>
+                <p>Sein Blick ruhte einen Augenblick bei der Abreise auf dem Peterli, warm und
+                    wohlwollend, wie segnend, und ein Päcklein ließ er ihm überreichen.</p>
+                <p>Der nahm das Päcklein und öffnete es im Lift unter dem elektrischen Licht.</p>
+                <p>Aus dem Papier heraus glänzte ihm ein silbernes Kruzifix entgegen. „Der Heiland!“
+                    Und ein Schimmer glitt durch sein Auge. Schnell packte er es wieder ein und
+                    steckte es zum Empfangsschein ins verborgene Täschchen.</p>
+                <p>„Juhuhuhui,“ klang es im Lift von der obersten Etage bis zur untersten, wie einer
+                    von der Alp herunterjodelt.</p>
+                <p>Im Bureau lachten der Herr Direktor und seine Frau.</p>
+                <p>Unten in der Küche lachte der Koch am Herd, daß er 3 </p>
+                <p>Von allen Seiten kamen sie zu springen: „Der Peterli goht!“</p>
+                <p>Aus dem Lift heraus tritt er im grauschafwollenen Anzug, den schwarzen Hut fest
+                    auf den Kopf gedrückt,niemand sah ihm an, daß er eben noch in einer Uniform
+                    gesteckt hatte. Sie lag jetzt oben auf dem Bett. „Die reut mich schon nicht,“
+                    meinte er, als er sich aus ihr herauszwängte. Zu enge war sie ihm geworden.</p>
+                <p>Zu enge auch die Liftecke. Zu eng auch die vier Mauern des Hotels. Hinaus in die
+                    Freiheit! Hinauf in die Berge! Zurück! Heim!<pb n="86"/>
+                </p>
+                <p>„Peterlin komm wieder, komm wieder!“ tönte es jetzt von denselben Lippen, die
+                    einst den Seufzer hervorgerufen hatten: „Ich kann nicht überall sein.“</p>
+                <p>„Selb denn schon nicht,“ dachte der Petrin, so hieß er nun wieder und davon
+                    schritt er neben der immer wieder zurückblickenden und winkenden Ursula
+                    fest,ernsthaft, ohne ein einzigesmal sich umzukehren.</p>
+                <p>Die blaue Kiste aber mit den zwei roten Herzen und den Blumenkränzchen wartete
+                    schon auf sie am Bahnhof.Die hatte der neue Portier schon früh morgens
+                    hingebracht.</p>
+                <p>Der Peterli hatte ihn darum gebeten. Und wie konnte er dem etwas abschlagen! Die
+                    Ursula wolle es so dumm! weil sie sich der beiden Herzen schäme, die ihm doch so
+                    gut gefallen.heimkehr.</p>
+                <p>7 einem großen Besen griff sie, die Sonne im Engadin,als sie endlich auch da oben
+                    aufräumen wollte mit dem Winter. Ihren wärmsten Blicken wollten die meterhohen
+                    Schneemassen nicht weichen. Nun fuhr sie mit dem Föhn über die Berge und durch's
+                    Tal. Es raunt und rauscht unter ihrem gewaltigen Fegen. Es tobt und heult in
+                    mächtigen Stößen durchs Tal hinab. Immer wieder setzt er an; ganze Halden werden
+                    freigeblasen. Im Wasser steht das Tal. Die eisverglasten Wände fangen an zu <pb
+                        n="87"/> tropfen, Bäche und Quellen werfen ihr kristall'nes Gewand ab.
+                    Schmutzige Wellen schleppt der Bergbach das Tal hinunter.</p>
+                <p>Auch im Steinhäuschen am Bergrand wird gekehrt.Die Mutter führt den Besen. Jetzt
+                    kommen sie bald und sauber soll's Häuschen sein. Unter's Wasser kommen die
+                    Holzböden im Häuschen, sogar der Geißstall, dessen Bewohner es höchst
+                    ungemütlich fanden. Die ausgehäugten Fenster standen im Brunnentrog. Eins nach
+                    dem andern nahm die Mutter in die Hand und wusch sie bis sie hell glänzten.</p>
+                <p>Durch Bächlein hindurchtretend, die über den Weg rieselten, kam eines Morgens die
+                    Botin den Berg herauf.Schon von weitem rief sie der Mutter zu: „Innerhalb zehn
+                    Tage kommen sie!“ eine Postkarte in die Höhe haltend.</p>
+                <p>Jetzt war 's Mengeli nicht mehr zu halten. Wie naß auch die Wege waren, so wollte
+                    es zur Poststraße hinunter,um die Geschwister abzuholen. Endlich mußte man es
+                    gehen lassen.„Da sind wir wieder,“ rief jeden Tag der Postillon,wenn er das
+                    kleine Persönchen auf einem Stein sitzen sah an der Stelle, wo er den Postsack
+                    ablieferte. Aber die rechten sind noch nicht eingestiegen.</p>
+                <p>Jetzt hatte sie noch mehr Grund, ihre Holzpüppchen ernstlich zur Geduld zu
+                    ermahnen.</p>
+                <p>Eines Tages aber lachte der Postillon vergnügt schon von weitem und deutete mit
+                    der Peitsche nach hinten.</p>
+                <p>Durchs Wagenfenster erkannte sie zuerst die Ursula,dann den Petrin. Vor Aufregung
+                    ließ sie sogar die Juditha fallen und streckte die Ärmchen aus.<pb n="88"/>
+                </p>
+                <p>Sils-Maria.</p>
+                <p>Im Sturmschritt der Freude gingen die Dreie dem Dorfe zu, in der Mitte die
+                    Kleine, von den Geschwistern geführt, quer über die grünschimmernden Wiesen, wo
+                    vor wenigen Tagen noch der letzte Schnee schmolz. Einen neuen leisen Schnee hat
+                    der Frühling hervorgezaubert:Tausende von weißen und zartlilafarbigen
+                    Krokusblümchen bedecken die Talsohle.</p>
+                <p>Engadiner Luft umsauste wieder die Ohren der Heimkehrenden, dünne, reine,
+                    bergfrische Luft. Heimatluft, die sie mit der Frende in ihrem Herzen vorwärts
+                    trieb. Die Wirtin sah sie kommen und winkte ihnen freundlich zu.Aufhalten wollte
+                    sie sie nicht.<pb n="329"/>
+                </p>
+                <p>„Jetzt aber,“ rief die Mutter, die draußen an der Arbeit war, dem Vater durchs
+                    Fenster zu und lief den Berg hinunter. Der trat vor die Türe und sah mit seinem
+                    scharfen Auge, wie die Mutter die Kinder an sich riß. Jetzt macht sich der
+                    Petrin zuerst aus der festen Umarmung los. Die Mutter hält ihn noch am
+                    Rockärmel. Er hat ihn gesehen und schreitet auf ihn zu. Macht der aber ein
+                    ernsthaftes Gesicht! Was steht er still?Unter's Hemd greift er mit der Hand. Ein
+                    ledernes Säcklein kommt zum Vorschein. „Da wär's,“ ruft er,und in seine Hand
+                    legt er das Säcklein, noch ehe er sie gedrückt hatte.</p>
+                <p>„Grüß' di Bub denn doch noch z'erst,“ sagte der Vater. „Zähl's,“ der Bub, und
+                    wollte ihn in die Stube stoßen.„'s Maitli muß i doch auch noch zuerst
+                    grüßen,“meinte der Vater: „Bist du eine große geworden,Ursula,“ und wacker hast
+                    du uns durch den Winter geholfen.“Dann aber ließ er sich auf dem Bänklein in der
+                    Stube hinter dem Tische nieder. „Soll' ich 's dir aufmachen,“sagte Petrin, dem
+                    es zu lange ging, bis der Vater mit seinen steifen, unbeholfenen Fingern die
+                    allerdings etwas lange und vielfach geknotete Schnur losmachte.</p>
+                <p>Der Vater gab ihm das Säcklein. Bald hatte er die Schnur los und fing nun selbst
+                    an, das Geld vorzuzählen.</p>
+                <p>Zwanzig vierzig sechzig siebzig hundert und so weiter ging es. Des Vaters Lippen
+                    bewegten sich,jede Zahl wiederholend. Zweihundert dreihundert vierhundert
+                    triumphierte Petrin.<pb n="4"/> 1J </p>
+                <p>„Gerettet sind wir jetzt,“ rief der Vater. „Gott im Himmel sei Dank,“ die Mutter
+                    und faltete die Hände.</p>
+                <p>Es war sein erster Ausgang. „Ich probier's,“ sagte er. Schon mit dem
+                    Frühlingsanfang, als die Bächlein draußen zu rieseln anfingen, schien es ihm,
+                    als ob auch neue Gesundheit durch sein Blut rieselte. Jetzt war auch der große
+                    Druck von ihm weggenommen und arbeitete die Freude in ihm. Die linke Hand auf
+                    dem Geldtäschchen in der Hosentasche haltend, mit der rechten sich fest auf den
+                    knorrigen Stock stützend, humpelte er den Weg hinunter ins Loch zum lotterigen
+                    Häuschen. Wie mühsam es noch ging, so fühlte er doch, daß er seine Glieder
+                    wieder brauchen konnte.</p>
+                <p>„Da wär i denn,“ sagte der Murezzi.</p>
+                <p>„Das seh ich,“ brummte der Alte.</p>
+                <p>„Eben noch vor dem Zahltag.“</p>
+                <p>„Mit dem Nötigen?“ frug der andere, einen stechenden Blick auf das Säcklein
+                    werfend.</p>
+                <p>„Selb denn schon. Gebt mir den Schuldschein heraus und ich geb' euch 's
+                    Geld.“</p>
+                <p>Zögernd nisterte der Alte in einer Truhe herum. Endlich brachte er den Schein,
+                    der zwischen seinen dürren Fingern zitterte wie ein Blatt im Winde. Die volle
+                    Summe zählte ihm der Murezzi auf den Tisch hin, die linke Hand noch schützend
+                    darüber haltend. Erst als er das gefürchtete Papier sicher in seiner Rechten
+                    hielt, schob er mit der Linken das Geld dem Sandri hin.</p>
+                <p>„Daß das Geld aber von Euch kommt,“ warf der bissig und verächtlich hin, „macht
+                    mir keiner weiß. Da steckt einer dahinter, dem's um Euer Häuschen zu tun
+                    ist.“<pb/>J </p>
+                <p>„Ich soll's meinen, steckt einer dahinter und dem ist's um's Häuschen zu tun,“
+                    schrie der Murezzi; ein Zornesflämmlein züngelt in seinem schwarzen Auge,
+                    verratend,daß es in ihm brannte „und sagen kann ich auch,wer's ist.“</p>
+                <p>„Mein Sohn,“ und den Arm ausstreckend wie nach dem Alten greifend „in Italien hat
+                    er 's ehrlich erworben.“</p>
+                <p>Im Augenblick, da er dies ausstieß, sah er seinen Buben im Geiste vor sich.</p>
+                <p>Eine tiefe, mächtige Rührung ergriff ihn. Tränen drängten sich in seine Augen und
+                    löschten das Zornesfeuer aus.</p>
+                <p>„So sind unsere Geschäfte erledigt,“ sagte er zu Sandri und ging still und
+                    langsam wieder den Berg hinauf.</p>
+                <p>Ein Tag zum Danken.</p>
+                <p>Ve zweimal im Jahr, im Frühling und im Herbst, um Pfingsten und nach dem Bettag,
+                    läutet das Glöcklein im Fextal. Durch das große Schweigen der Gebirgslandschaft
+                    läutet es und ruft die weithin zerstreuten Talleute herbei. Und alle folgen dem
+                    Rufe gerne. Nur Einer kann seinen Klang nicht ertragen: der Sandri. Um ihm
+                    auszuweichen, ging er heute schon früh auf einem Schmugglerweg über den
+                    Gletscher ins Puschlav hinüber. Aber sogar <pb n="92"/> am Gletscher oben hörte
+                    er plötzlich in der Morgenstille das ferne Läuten des Glöckleins, als ob es ihm
+                    nachginge und selbst ihn noch da oben suchte.</p>
+                <p>So laut aber wie heute hat das Glöcklein wohl noch nie gerufen. Hin und her
+                    schwingt es in dem offenen Türmchen.</p>
+                <p>Kirchlein im Gebirge.</p>
+                <p>Ja er zog, der Läuterbub, der Petrin, noch zur Zeit eingetroffen, um seines
+                    Ehrenamtes zu warten. Ein anderes Seil hatte er jetzt in Händen als das
+                    Liftseil, das Glockenseil, und an dem zog er noch mit ganz anderer Kraft.</p>
+                <p>Vor der Kirchentüre standen die Männer, mächtige,schwarzbärtige Gestalten. Sie
+                    warteten mit dem Hinein<pb n="93"/> gehen, wie sie es von Alters her gewohnt
+                    waren, bis es ausgeläutet hatte.</p>
+                <p>Etwas entfernt davon stand eine Gruppe Buben, darunter Zachi, der Geißhirt, der
+                    sich am Predigtsonntag durch ein altes Männchen von dem Dorfe bei seinen Geißen
+                    vertreten ließ.</p>
+                <p>Feierlich-ernst standen sie da, wie schon in Vorandacht.</p>
+                <p>Kein Gespräch wurde vor der Predigt angeknüpft.</p>
+                <p>Nur hie und da ein einzelnes Wort, eine kurze Begrüßung gab es.</p>
+                <p>Erst nach der Predigt wurden die Begebenheiten besprochen. An Gesprächsstoff
+                    hätte es nicht gefehlt. Saß nicht neben der Pfarrerin drinnen in der Kirche
+                    Eine! ja die war schwer zu beschreiben. Ein weißes Häubchen trug sie und sah aus
+                    wie eine Heilige.</p>
+                <p>Stand drüben an der Mauer nicht der Murezzi, von der Krankheit erstanden; aber
+                    weiß sticht sein Gesicht noch aus dem schwarzen Bart heraus!</p>
+                <p>Ging nicht soeben an der Seite der Mutter sein Töchterchen hinein: „die
+                    Italienerin“, die in ihrem einfachen Anzug doch keinen Anlaß zu dieser Benennung
+                    gab! Kam nicht bergauf die Wirtin, die immer interessant war: zu ihrer Linken
+                    die Köchin, auch so eine Art Respektsperson im Tal, sonntäglich
+                    herausgeputzt!</p>
+                <p>Verstohlen schielten die Buben hie und da nach dem Glockenturm hinüber. Jetzt
+                    mußte er dann herauskommen,aber man konnte nicht wissen: wie? Wird er sie tragen
+                    am Sonntag die Uniform mit den Goldknöpfen?Halb hofften sie's, halb fürchteten
+                        sie's.<pb n="94"/>
+                </p>
+                <p>Bummbummbumm ertönen die letzten Glockenmit stummen Blicken: nichts neues, nichts
+                    fremdartiges,als daß er ein Stück gewachsen ist.</p>
+                <p>Wie er es immer gewohnt war, schließt er sich ihnen an, als sie durch das
+                    Kirchlein nach dem kleinen Chor schreiten. Der alte Steinboden dröhnt unter
+                    ihren schwerbenagelten Schuhen.„Gott ist gegenwärtig: Lasset uns anbeten </p>
+                <p>Und in Ehrfurcht vor ihn treten.</p>
+                <p>Gott ist in der Mitte, alles in uns schweige </p>
+                <p>Und sich innigst vor ihm beuge </p>
+                <p>Wer ihn kennt, wer ihn nennt,</p>
+                <p>Schlagt die Augen nieder, gebt das Herz ihm wieder.“klingt es jetzt wie
+                    Bergwaldrauschen aus dem Kirchlein.</p>
+                <p>Demütig sitzen sie da. Die Augen gesenkt, nicht weil das Lied sie dazu
+                    auffordert. Von Jugend auf sind sie's so gewöhnt. Und Herztrieb ist es auch,
+                    sich in Gottes Gegenwart ehrfurchtsvoll zu beugen, hier oben so nah am
+                    Erhabensten der Schöpfung fühlen diese einfachen Herzen ihre Ohnmacht. Nur Einer
+                    wagt sein Auge zu heben und nur einen Augenblick. Als sie etwas bergrauh die
+                    zarten innigen Worte sangen:Wie die zarten Blumen </p>
+                <p>Willig sich entfalten,</p>
+                <p>Laß mich so </p>
+                <p>Still und froh </p>
+                <p>Deine Strahlen fassen </p>
+                <p>Und dich wirken lassen,sucht er mit seinem Blicke das weiße Häubchen, als wollte
+                    er sagen: Weißt noch auf der Laube!<pb/></p>
+                <p>Das Häubchen stach hervor, blendend weiß, wie der Firnschnee, der durch die
+                    Chorfenster hereinschaute und einen weißen heiligen Schimmer über die andächtige
+                    Gemeinde warf.</p>
+                <p>Mir ist's immer,“ fing der Pfarrer seine Predigt an,„als ob Gott selbst bei uns
+                    oben das Wort ergriffe.Winde macht er zu seinen Engeln und Flammen zu seinen
+                    Boten.</p>
+                <p>Eben jagte der Föhn noch durch unser Tal. An unsern Häusern und Fensterladen
+                    rüttelte er. Das Gebälke knarrte und die Dielen stöhnten. Wie ein Feind trat er
+                    auf,und unser größter Freund war er. Ein heißer Hauch nur aus dem Land der
+                    Sonne. Nicht, uns zu vernichten,nein, uns zu helfen, kam er, um in unser in
+                    Eisbanden liegendes Tal endlich den Frühling zu bringen. Wie eine Siegerin, die
+                    hinter Wolken Schlachten gewonnen hat,steht heute die Sonne da, ihr Gold auf
+                    Gletscher und Grashalm gießend.</p>
+                <p>So fährt manchmal Unglück durch ein Haus wie ein Föhnsturm. An den Herzen wird
+                    gerüttelt. Wie Zorn Gottes fährt's daher, wie Vernichtung, aber Liebe arbeitet
+                    dahinter. Untugenden sollen weggefegt werden,Hartes und Sprödes erweicht, ein
+                    verborgener Bann gelöst werden.</p>
+                <p>Triumphierend kann dann die Liebe Gottes in einem Herzen aufgehen und demütig
+                    eine Seele voll Dank bekennen: Denen, die Gott lieben, müssen alle Dinge zum
+                    Besten dienen.“<pb n="96"/>
+                </p>
+                <p>So kräftig eingeläutet wurde, so kräftig läutete es nun wieder aus. Rief vorher
+                    das Glöcklein: „Kommt, kommt,um Gottes Wort zu hören,“ so rief es jetzt: „Tragt
+                    ihn heim, tragt ihn heim, den Gottessegen.“</p>
+                <p>Umringt von Männern und Frauen stehen die Pfarrsleute und die Spitalschwester
+                    noch vor der Kirchtüre. Der Ursula streckt die Frau Pfarrer die Hand warm
+                    entgegen.Mit Wohlgefallen ruht ihr Auge auf ihr. Ein Alpenblümlein war sie
+                    geblieben, die Farbe rein und unvermischt, wie ein Vergißmeinnicht, ein
+                    bergblaues.</p>
+                <p>Stehen blieben sie, bis der letzte Glockenton verhallt war.</p>
+                <p>Gespannt sahen sie nach dem Glockentürmchen, von wo der Held des Tages zum
+                    Vorschein kommen sollte.</p>
+                <p>Gerötet von Anstrengung so stark hatte er wieder gezogen das sonnenbraune Gesicht
+                    aufleuchtend, trat er herbei.</p>
+                <p>Mit beiden Händen faßte ihn der Pfarrer und zog ihn in die Mitte. Beide Hände
+                    legte er ihm auf den Kopf, als wollte er ihn segnen und wieder für den
+                    Heimatboden beanspruchen.</p>
+                <p>Ehrerbietig stand Petrin da. Die Hand drückte ihm die Spitalschwester und gab ihm
+                    einen ihrer sonnigsten Blicke. Ja, die konnte sonnig blicken. Die hatte Sonne
+                    gefaßt und wirken lassen, darum konnte sie auch wieder ausstrahlen.Noch eine
+                    Gruppe wartete etwas abseits vom Kirchlein auf Petrin: die Buben, seine
+                    Kameraden. Wie angewurzelt standen die an der Halde unten, beide Hände in den
+                    Hosentaschen, so gleichgültig als möglich dreinschauend.<pb n="37"/>
+                </p>
+                <p>Grad neugierig wollten sie nicht sein, nur wär's jetzt halt eine gute Zeit
+                    gewesen, sich die Bilder vom Schiffe anzusehen, von denen das Gerücht schon zu
+                    ihnen gedrungen war.„Ich glaube, da unten warten sie auf dich“, sagte der Herr
+                    Pfarrer zum Petriu. In wenigen Sätzen sprang der nun die steile Halde
+                    hinunter.</p>
+                <p>„Einen Brief habe ich bekommen,“ wandte sich der Pfarrer rasch an den Murezzi und
+                    die Dete. „Der geht Euch an.“</p>
+                <p>Eine Dame aus Hamburg schreibt mir:</p>
+                <p>„Mein Sohn hat sich an der Riviera so ausgezeichnet erholt, daß es mich drängt,
+                    meiner Dankbarkeit gegen Gott Ausdruck zu geben. Nun hat mir mein Sohn in seinen
+                    Briefen von einem Liftbuben aus Ihrer Gemeinde erzählt. So anschaulich und
+                    lebendig suchte er ihn mir zu schildern, daß ich mich lebhaft für ihn
+                    interessiere. Er kam mir vor, wenn ich mir ihn im Lift hinter dem weißen
+                    Gittertürchen vorstellte, wie ein junger, in einen Käfig eingesperrter
+                    Bergadler, dem man die Flügel stutzte.Während des Winters aber, meinte mein
+                    Sohn, wuchsen sie ihm wieder, und als es Frühling wurde, breitete er sie aus,
+                    als wollte er den Käfig sprengen und sich aufwärts schwingen.</p>
+                <p>Nun bin ich dafür, daß man den kleinen Bergadler hoch in den Bergen läßt, wo er
+                    hingehört.</p>
+                <p>Der Peterli soll nach seiner strengen Winterarbeit wenigstens den Sommer über die
+                    volle Alpfreiheit genießen dürsen, noch einmal wieder ganz Kind sein, nach </p>
+                <p>Bolt, PVeterli am Lift.<pb n="38"/>
+                </p>
+                <p>Herzenslust herumstreifen bei den Geißen oben, den Murmeltierchen und dem
+                    Edelweiß.</p>
+                <p>Man soll ihn nicht wieder zwingen, Messer in einer Hotelküche zu putzen, oder ihn
+                    an einen Lift fesseln.</p>
+                <p>Um dies zu ermöglichen, füge ich jetzt schon eine kleine Summe bei. Sollte er
+                    später für irgendeinen besonderen Beruf Lust zeigen, so wenden Sie sich getrost
+                    an mich.Ich werde für Alles einstehen, nur daß Peterli nicht wieder gegen seine
+                    Natur zu etwas gezwungen wird.</p>
+                <p>Diesen Sommer gedenke ich nach St. Moritz zu kommen.Dann können wir mündlich
+                    alles besprechen. Den tapferen Peterli hoffe ich dann persönlich kennen zu
+                    lernen.“</p>
+                <p>Jetzt faltete die Mutter die Hände wie in der Kirche über all dem Guten und
+                    Wunderbaren und sie rief einmal über das andere aus: „Es ist zu viel, wie haben
+                    wir das verdient!“Der Murezzi aber brachte zuerst nichts heraus, ja, er war ein
+                    innerlicher, wie die Dete immer sagte, und konnte seine besten Gefühle nicht
+                    zeigen, über das bärtige Gesicht aber glitt ein Ausdruck, der dem Pfarrer schon
+                    einige Male an ihm aufgefallen war, seit sie ihn aus dem Spital zurückgebracht
+                    hatten, ein Ausdruck, der davon zeugte, daß hier Einer sich vor Gott beugte und
+                    ihm jetzt Dank und Ehre gab. Etwas aber brachte er doch heraus. Als er hinter
+                    der Ursula und der Dete unter dem prächtigen Alphimmel seinem Häuschen
+                    zuschritt, dem jetzt schuldenfreien, und das ihm heute wie neugeschenkt vorkam,
+                    und dabei auch das soeben Vernommene überdachte, meinte er: „Mit der Güte
+                    probiert er's halt jetzt mit mir, der Herrgott“.<pb n="99"/>
+                </p>
+                <p>Wieder auf der </p>
+                <p>Alp.</p>
+                <p>Auf der kleinen Bank vor dem Steinhäuschen saß das Mengeli auch ein
+                    Sonntagsbildchen: Die Kinder hatte es herausgenommen, daß sie 's Läuten hören
+                    sollten. Noch immer saß es da, stillvergnügt, im Schoß das neue Italiener
+                    Püppchen. Daneben angelehnt an der Mauer das alte Holzpüppchen, dem zum Trost
+                    ein neues Sonntagsschürzchen umgebunden war.</p>
+                <p>Schon ein erster heller Schmetterling umgaukelte die Dreie. Auf der grünen
+                    Bergwiese aber, nicht weit vom Haus, lagen sämtliche Buben ausgestreckt, die
+                    Ellbogen auf der Erde und mit den Fäusten unter dem Kinn den Kopf <pb n="100"/>
+                    stützend, die Augen einbohrend in die Bilder und Pläne der stolzen „Augusta
+                    Victoria“. Und das hatte Einer von ihnen gesehen. Das gab ihnen allen etwas
+                    Großes;denn hier oben halten sie fest zusammen. Was Einen trifft,trifft alle. In
+                    wahrhaft gehobener Stimmung gingen sie auseinander.„Die Dame schreibt, er solle
+                    keine Messer mehr putzen und an keinen Lift mehr,“ meinte die Wirtin bei Tisch
+                    zu ihren Gästen, den Pfarrsleuten und der Spitalschwester,und es zuckte dabei
+                    fast wie beleidigt um ihren Mund:„Wenn er aber nicht bei mir Messer geputzt
+                    hätte, und ich ihm nicht zur Liftstelle bei meinem Bruder verholfen,so würde der
+                    Herr aus Hamburg ihm eben auch nicht begegnet sein. Dem aber hat's Gott ins Herz
+                    gegeben,daß er an dem Büblein nicht vorbeiging.“</p>
+                <p>Jetzt strahlte ihr Gesicht wieder: „So war's doch ein glücklicher Gedanke
+                    gewesen.“</p>
+            </div>
+        </body>
+    </text>
+</TEI>

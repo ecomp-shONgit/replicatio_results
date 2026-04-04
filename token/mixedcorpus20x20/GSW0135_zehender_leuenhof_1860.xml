@@ -1,0 +1,1969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GSW0135" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Der Leuenhof. Eine Erzählung für das Volk von F. Zehender: ELTeC Ausgabe</title>
+        <author ref="viaf:102710293 wikidata:Q55127683">Zehender, Ferdinand (1829-1885)</author>
+        <respStmt>
+          <resp>ELTeC conversion</resp>
+          <name>Automatic Script</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="pages">119</measure>
+        <measure unit="words">24356</measure>
+      </extent>
+      <publicationStmt>
+        <p><date>2021-12-14</date></p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <respStmt>
+            <resp>Transcription</resp>
+            <name>UB Basel</name>
+          </respStmt></bibl>
+        <bibl type="digitalSource">
+          <respStmt>
+            <resp>Scan</resp>
+            <name>UB Basel</name>
+          </respStmt></bibl>
+        <bibl type="firstEdition">
+          <title>Der Leuenhof. Eine Erzählung für das Volk von F. Zehender</title>
+          <author>Zehender, Ferdinand</author>
+          <publisher>Druck und Verlag von Scheitlin und Zollikofer</publisher>
+          <pubPlace>St. Gallen</pubPlace>
+          <date>1860</date>
+          <!-- this title has been retrodigitised as part of the project “High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century”  -->
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc n="eltec-0">
+      <p>The text was transcribed from the transcription from UB Basel, which is based on the 1860
+        edition. The page breaks, chapter divisions and chapters were taken from scan from UB Basel,
+        which is based on the 1860 edition.</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">German</language>
+      </langUsage>
+      <textDesc>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+      </textDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2023-03-14">Ines Bracht added TEI Header and removed noise.The Scan is used only
+        to insert page beginnings, paragraphs, chapters and heads.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="chapter">
+        <head>Erstes Rapitel.</head>
+        <p>Erstes Rapitel.</p>
+        <p>Die alte Großmutter.</p>
+        <p>2. Tim. 8, 168. Weil du von Kind auf die heilige Schrift weißt, kann dich dieselbe
+          unterweisen zur Seligkeit durch den Glauben an Christum Jesum.Einer jener ersten rauhen
+          Wintertage, an welchen es scheint, als ob es gar nicht recht Tag werden wolle, war
+          angebrochen, und in stürmisch davonfliegenden Schaaren zogen die leichten Schneeflocken
+          aus den Bergen ins weite Land hinaus. Sonntag Morgen war es; in einem Dorfe der
+          nordöstlichen Schweiz saß eine alte Bauersfrau mit runzligem Gesichte einsam in der
+          Wohnstube ihres väterlichen Hauses, indeß alle übrigen Hausgenossen nach altem Brauch in
+          der Kirche das Wort Gottes hörten.Andächtig las sie in der alten Hausbibel, die auf ihren
+          ste aufgeschlagen, daß man sie für ein lebloses Bild hätte halten können, hätte nicht von
+          Zeit zu Zeit ein beifälliges </p>
+        <p>Zehender, der Leuenhof.<pb/>Nicken ihres Kopfes verrathen, ihre Seele sei mit dem Buche
+          in lebhaftem Gespräche begriffen. In der hellen,geraäumigen Stube war außer ihr kein
+          andres lebendes Wesen zu finden als eine wohlgenährte Katze, welche auf dem Fenstergesimse
+          saß und mit zufriedenem Schnurren den wirbelnden Flocken zusah, wovon einzelne, sobald sie
+          das äußere Fenster berührten, in durchsichtige Wassertropfen sich verwandelten. Ein
+          großer, grüner Ofen sprang weit vor in die Stube; oben war er mit saubern weiß und roth
+          gestreiften Vorhäͤngen umkränzt und an seiner rechten Seite von der Wand der Stube nur
+          durch eine kleine Treppe getrennt, welche zu der großen Essigflasche und andern
+          Geräathschaften führte, die hinter jenen Vorhängen ihren langjährigen Platz behaupteten.
+          Auf der linken Seite gränzte das ehrwürdige grüne Gebaäude an die Thür, welche die
+          angränzende Küche von der großen Wohnstube trennte, ja, um einen schnellern Verkehr
+          zwischen beiden Gemächern herzustellen, war des Ofens Bauart so eingerichtet, daß durch
+          ein kleines Thürchen auf einen Wink der Hausfrau Schüsseln und Teller auf dem kürzesten
+          Wege in die Stube gelangten. Ein solider eichener Tisch, in welchen eine viereckige,
+          geglättete Schieferplatte eingelegt war, stand in solcher Entfernung vom Fenster und der
+          einen Stubenecke, daß die der Wand entlang lauende Bank Demjenigen, welcher sich zu Tische
+          setzen <pb/></p>
+      </div>
+      <div type="chapter">
+        <head>wollte, den bequemsten Sitz darbot. Eine alte, in treuem</head>
+        <p>wollte, den bequemsten Sitz darbot. Eine alte, in treuem Dienste ergraute
+          Schwarzwälder-Uhr mit großgemalten Ziffern, in der entgegengesetzten Stubenecke
+          angebracht,unterbrach mit ihrem deutlich hörbaren Picken regelmäßig die feierliche
+          Sonntagsstille, welche dem alten Mütterchen mit seiner Bibel die liebe Wohnstube, die
+          sonst oft genug von des Werktags Lärm erschallte, zum Gotteshause machte.Sie schien auch
+          wirklich von der köstlichen Stunde des Alleinseins den vollsten Gebrauch machen zu wollen.
+          Es war nicht allein das Bibelwort, was ihre Gedanken beschääftigte, das war auf ihren
+          Zügen deutlich zu lesen; die Sorgen für diese Welt hatten sie noch nicht verlassen und
+          drängten sich trotz der Stille im Hause zwischen die Auf einmal schien sie bei einem Verse
+          stillzustehen; eine besondere Bewegung verrieth sich durch ihre Lippen, die sich
+          geberdeten, als wollten sie reden und doch keinen vernehmlichen Laut hervorbrachten;
+          endlich aber schien sie sich nicht mehr halten zu köönnen und las mit besonderm Nachdruck
+          den Spruch: Schicket euch in die Zeit, denn es ist böse Zeit, und wiederholte denselben
+          mehrmals mit bedeutsamem Kopfnicken. Und nachdem sie zuerst wie erschrocken sich
+          umgesehen, ob Niemand sie beobachte, überließ sie sich folgendem Selbstgespräch, das sie
+          vielleicht schon manchmal wider Willen in ihre Seele hatte zurückpressen müssen.<pb/>„Ja,
+          es ist böse Zeit, das ist wahr; aber schwer ist es,sich darein zu schicken! Wenn die guten
+          alten Sitten so ganz und gar zu Grunde gehen, wenn damit die Gottesfurcht und die
+          Frömmigkeit und das Bibellesen auch von Jahr zu Jahr abnimmt, muß man sich denn in alles
+          dieß schicken? Mit Noth habe ich heute das übermüthige junge Volk, das hoffärtige Liseli
+          mein' ich dabei besonders, dazu gebracht, daß sie wieder einmal in die Kirche giengen.Du
+          liebe Zeit, wieviel weltliche Gedanken stecken heutzutage der Jugend schon so früh im
+          Kopf! Da ist unsre ehrbare alte Tracht lange nicht mehr schön genug; Alles sollte seyn,
+          wie ste's in Zürich sehen an den Herrenleuten,und wenn so ein Jüngferchen jetzt nicht von
+          Seide glänzt,so gilt es schon nichts mehr. Das haben uns die Fabriken ins Land gebracht;
+          Gott Lob, daß man von ihnen noch nichts gewußt hat, als ich jung war. Wohl hatte ich keine
+          hoffärtigen Kleider und selten ein wenig baares Geld;aber sauber und nett kam ich doch in
+          dem selbstgepflanzten,selbstgesponnenen und selbstgebleichten Tuch und war gewiß nicht
+          weniger fröhlich, als man's jetzt ist und bildete mir auch etwas drauf ein, wenn ich im
+          Sonntagsstaat an den jungen Burschen vorübergieng. Aber in einer Viertelstunde war ich
+          fertig mit meinem ganzen Sonntagsputz; und unser Liseli, das Gänschen, steht eine ganze
+          Stunde vor dem Spiegel, bis es alle seine neumodigen <pb/>e </p>
+        <p>Narretheien sich angehängt hat, und wenn man meint,es sei fertig, so hat es doch noch
+          vergessen, den Schuh zu binden, oder weiß nicht, wo's sein Gesangbuch suchen soll,ja, das
+          wird mir dann eine schöne Andacht geben in der Kirche! Aber was hilft das Reden, und wenn
+          man's auch noch so gut meint; die Welt ist einmal eine ganz andre geworden, als sie war zu
+          unsrer Zeit, und die alte Großmutter hört man jetzt nicht mehr gern drein reden.Da klag'
+          ich's dann manchmal meinem lieben alten Bibelbuchz das versteht mich besser als die
+          jetzige Welt, und das ist nicht anders geworden und wird nicht anders werden, wenn man
+          auch die ganze Welt auf den Kopf stellt. Das redet immer noch die altetreuherzige Sprache,
+          ernsthaft und zum Erschrecken, wo's nöthig ist, aber auch wieder liebreich,frisch und
+          fröhlich ans Herz des reuigen Sünders, und ob Berge weichen und Hügel hinfallen, ob Himmel
+          und Erde vergehen, diese Worte werden nicht vergehen. Das bricht mir manchmal schier das
+          Herz, wenn ich so oft hören muß von den übermüthigen jungen Leuten, die ab und zugehen in
+          unserm Haus, die Weisheit der Bibel, die sei jetzt veraltet,die brauche man nicht mehr,
+          ohne die könne man's schon machen, da seien nichts als langweilige und alberne Dinge
+          drinn. Mein Gott! wenn mein seliger Vater ein solches Wort gehört hätte, er hätte
+          dergleichen luftigen Gesellen auf der Stelle gezeigt, wo der Zimmermann das Loch ge <pb
+            n="2"/> macht habe, und es gab eine Zeit, wo ich steif und fest geglaubt hätte, unser
+          Herrgott würdebei einem solchen Lästerwort sogleich einen Blitzstrahl vom Himmel
+          herabsenden und den Lästerer vertilgen. Aber so gehts! Man gewöhnt sich an Alles. Freilich
+          weh thut's mir doch, aber ich weiß,der Herr wird solche Sünden nicht ungestraft lassen.
+          Fast glaub' ich, er wird durch seine Gerichte das jetzige Geschlecht zwingen, wieder in
+          der Bibel einzukehren; man wird einst froh sein drüber, daß man nur ein solches Trostwort
+          noch hat, und drum will ich mich doch die Mühe nicht reuen lassen, es meinen Kindern und
+          Enkeln immer wieder ans Herz zu legen; wenn stie auch lachen über die gräͤmliche
+          Großmutter, ste werden mir's noch danken,wenn ich längst unter dem Boden bin. Aber nun
+          können sie jeden Augenblick aus der Kirche kommen und werden nicht wenig gefroren haben
+          bei diesem rauhen Wetter;dann thut's gut, wenn sie bald etwas Warmes bekommen.Drum will
+          ich, so gut ich's noch kann, den Tisch decken und nachsehen, ob das Fleisch im Kessel
+          genug gekocht hat, damit sie, wenn sie kommen, ohne Weiteres an den vollen Tisch sitzen
+          köünnen und sehen, daß man die alte Großmutter auch noch zu Etwas brauchen kann!“</p>
+        <p>Und nun legte sie die Bibel sorgsam an ihren Ort auf das hohe Gesims über der Wand,
+          öffnete Kasten und Schubladen, breitete ein sauberes, blendend weißes Tisch<pb/>tuch über
+          den Tisch, legte Bestecke und Teller an die verschiedenen Plätze, stellte Stühle an die
+          der Wand entgegengesetzte Seite des Tisches und schaute während dieses Geschäftes
+          ungeduldig zu wiederholten Malen in das Schneegestöber hinaus, ob sie die Leute noch nicht
+          vorüberwandeln sehe, die aus der Kirche nach Hause giengen.</p>
+        <p>Zweites Rapites.</p>
+        <p>Das Gespräch nach der Kirche.</p>
+        <p>Wenn du der Sünde den kleinen Finger gibst, so faßt sie bald deine ganze Hand.Endlich
+          zogen die Schaaren der Kirchgänger, theils mit Regenschirmen, theils mit Schürzen gegen
+          des Schneesturmes Heftigkeit sich vertheidigend, eilig am Hause vorüber. Die Hausthür
+          öͤffnete sich, Vater und Sohn schüttelten auf der Flur den Schnee von ihren Röcken und
+          ihren naäͤgelbeschlagenen Stiefeln, so daß die kräftigen Tritte weithin erschallten.
+          Mutter und Tochter kamen, unter des Hauses einzigen Regenschirm geduckt, alsbald auch zur
+          Hausthür herein und halfen unter Ausrufen des Er<pb/>staunens über dieß abscheuliche
+          Wetter den Männern an dem Werke ihrer Schneereinigung. Da öffnete die Großmutter
+          ungeduldig die Stubenthür und rief ihnen entgegen: „So macht doch, daß ihr endlich
+          hereinkommt! Ich glaubte schon vor einer Viertelstunde, ihr müßtet da sein,und immer
+          giengs länger und länger. Trocknet euch nun schnell und wärmt euch am Ofen, und dann soll
+          ein kräftiges Süppchen euch erquicken.“</p>
+        <p>„Ja, ich konnt' es heute nicht erwarten,“ sagte der Sohn Melchior, gewöhnlich Melcher
+          genannt, mit etwas rauher Betonung, „bis unser langweiliger Pfarrer sein Amen sagte; er
+          konnte heute auch gar nicht fertig werden und hätt' es doch allen Gesichtern ansehen
+          können, daß man allgemein wünschte, aus der unvernünftig kalten Kirche so schnell als
+          möglich wieder nach Hause zu kommen. Nein,Großmutter, das war nun wieder für lange Zeit
+          das erste und das letzte Mal, daß du mich in die Kirche bringst!“</p>
+        <p>„Und ich habe auch keinen großen Appetit nach mehr bekommen,“ fiel sogleich mit
+          spöttischem Tone die mehr städtisch als bäurisch aufgeputzte Tochter, das Liseli,
+          ein;„wenn da der Pfarrer so Wort für Wort von der Kanzel herabredet, als wäre Alles nur
+          auf Eines gemünzt, da erleidet es unser Einem, ihm zuzuhören. Es haben alle Menschen ihre
+          Fehler und unser Pfarrer auch ; warum will er denn, so oft ich in die Kirche komme, immer
+          das gleiche <pb/>se </p>
+        <p>Geleier bringen von der Hoffahrt und der Weltlust und von der verloren gegangenen
+          Einfachheit! Das weiß ich Alles schon lang; die Großmutter predigt mir's genug;wenn ich
+          doch nichts Andres zu hören bekomme, so ist's besser, ich bleibe zu Haus und lese ein
+          schoöͤönes Buch.“</p>
+        <p>„Haltet euer ungewaschenes Maul, ihr meisterlosen Kinder,“ rief jetzt mit gebieterischem
+          Tone der Vater zwischen sie herein, „ihr sollt mir den schönen Sonntag nicht verderben
+          durch eure naseweisen Reden; ein Wort zu seiner Zeit war's, was uuser Wohlehrwürdiger Herr
+          Pfarrer heut gesprochen hat; freilich hat er gerade das junge Volk von eurem Schlag
+          meisterlich gezeichnet, und das dank' ich ihm, und ihr hättet fürwahr eher Ursache, ein
+          bischen eure Augen niederzuschlagen, als so unverschämt eurer Spottlust und eurem
+          Uebermuth freien Lauf zu lassen. Geh,Melcher, damit dein heißer Kopf sich etwas abkühle,
+          und gib dem Vieh sein Futter, noch bevor wir an den Tisch sitzen, und du, Liseli, machst,
+          daß mir so bald als möglich deine neumodige Haube aus den Augen kommt, die mich während
+          der ganzen Predigt geärgert hat; wenn ich sie auf hundert Schritt weit noch einmal
+          irgendwo sehe, so muß sie ins Feuer, das geb' ich dir schriftlich, wenn du's verlangst,
+          und beide denkt ein wenig über eure albernen Reden nach, dann wollen wir, wenn ihr
+          wiederkommt,noch ein vernünftig Wörtchen mit einander reden.“<pb n="10"/>Beide merkten am
+          Tone des Vaters, daß es Ernst gelte: Liseli schlich sich beschänt und hochroth bis an die
+          Ohren in seine Kammer hinauf und verbarg die unglückliche Haube im hintersten Winkel ihres
+          Schranks; der derbe Melcher brachte zwar auch keine Widerrede mehr über seine Lippen, aber
+          mit deutlich hörbarem Brummen suchte er die Thür, ließ beim Herausgehen seinen ganzen Zorn
+          an ihr aus, so daß das Haus erdröhnte, als er sie zuwarf, und auch das Vieh im Stall bekam
+          wenig gute Worte; doch that er, wie ihm besohlen war, weil sich nicht spaßen ließ, wenn
+          der Vater mit solchem Ton seinen Willen aussprach.</p>
+        <p>In der Stube hatte die Großmutter sogleich von dem vorgefallenen Auftritt Veranlassung
+          genommen, ihrem Sohne, einem Bauersmann im kräftigsten Alter, das klagenreiche Herz
+          auszuschütten, ungefähr in der Weise, wie sie's schon allein in ihrem Selbstgespräch
+          gethan hatte.Dieser ließ sie nach seiner Art reden, so lange ste wollte;er hatte das
+          Gleiche schon hundertmal gehört, zog gemächlich seinen Sonntagsrock aus, holte aus dem
+          Schranke sein kurzes Pfeifchen und den Schwarzwälder-Tabak,stopfte es und, als er's
+          angezündet, sette er sich neben seine Mutter auf die Ofenbank, als wollte er jetzt erst
+          recht in Ruh ihrem unerschöpflichen Gespräch zuhbren.Als dieses aber endlich darauf
+          hinauslief, er sollte doch <pb/>J einmal als ein guter Hausvater seinen Kindern, nicht im
+          Zorn, denn das erbittere nur, sondern in Liebe und Freundlichkeit vorhalten, wie ihr
+          leichtfertiges und übermüthiges Wesen seit einiger Zeit ihm gar nicht gefalle,und wo's
+          eigentlich bei ihnen fehle, und wie's besser werden könne, da nahm er nach einigen
+          kräftigen Zügen das Pfeifchen aus dem Mund, besann sich eine Weile und sagte dann
+          entschlossen: „Ja, Mutier, du hast recht, und jetzt ist eben die rechte Zeit dazu. Die
+          heutige Predigt hat mich auch daran gemahnt und mir gerade die rechten Gedanken
+          eingegeben; sobald das Liseli und der Melcher wieder da sind, so will ich ihnen meine
+          Meinung sagen; vielleicht nehmen sie doch etwas an, wenn sie sehen, daß es aus warmem
+          Vaterherzen kommt.“</p>
+        <p>Der Sohn war nämlich vor kurzer Zeit in der neu errichteten Baumwollenfabrik des Dorfes
+          als Aufseher angestellt worden, hatte mit der Aussicht auf großen Lohn die ländliche
+          Beschäftigung des Vaters verlassen und verdiente sich nun ohne große Anstrengung ziemlich
+          viel baares Geld. Ganz nach Wunsch war es ihm aber bei seiner Anstellung nicht gegangen;
+          er hatte sich für eine noch einträglichere Stelle befähigt gehalten, und diese erhielt nun
+          ein Anderer. Das machte ihn mit seiner bei sparsamem Sinn recht vortheilhaften Stellung
+          unzufrieden. Zudem hatte er theils durch das viele baare Geld in der Tasche, <pb n="127"/>
+          theils durch seine Arbeitsgenossen in der Baumwollenfabrik viele neue Bedürfnisse kennen
+          gelernt: er war mit D Pfeife wurden nach neuer Mode Cigarren geraucht; nach abgelaufener
+          Arbeitszeit begab man sich oft noch bis spät in die Nacht in eine Schenke, und an
+          Sonntagen nahmen den Neuling seine vergnügungssüchtigen Freunde mit sich in das nur wenige
+          Stunden entfernte Zürich, wo ihm dann bald eine Mütze, bald ein Hut, bald eine neue
+          Weste,bald ein eleganter Spazierstock so in die Augen stach, daß er sein Geld dranwagte
+          und dann meist mit leerer Tasche,aber um so eingebildeterem Sinn aus der Hauptstadt
+          zurückkam. Um aber ein solches Leben auf die Länge durchzuführen, dazu reichte sein
+          Verdienst doch nicht hin, und so nistete sich bald mit der steigenden Menge von
+          Bedürfnissen die Unzufriedenheit in seinem Herzen ein und der Neid gegen Diejenigen,
+          welche Geld genug hätten, um sich Alles zu verschaffen, was ste nur wünschten und dabei
+          nicht wie er den ganzen lieben Tag lang den Staub der Fabrik einschlucken müßten. Bald
+          lernte er's auch Andern nachsagen, die Welt sei eigentlich ungerecht eingerichtet; es
+          sollten nicht die Einen ihr Brod so sauer verdienen müssen, während die Andern, ohne einen
+          Finger zur Arbeit zu rühren, in Saus und Braus leben könnten, und er war auf dem Sprung,
+          auch jener Behauptung zuzustim <pb n="13"/> men, die bisweilen in seiner Umgebung geäußert
+          wurde, vor der er aber stets innerlich noch geschaudert hatte, es herrsche eigentlich gar
+          kein Gott in der Welt, und drum sey jeder Mensch auf seinen Verstand angewiesen, müsse mit
+          diesem suchen ünd brauche es mit dem Gewissen und mit Recht und Unrecht nicht so genau zu
+          nehmen. Bei solchen Gedanken war es zu begreifen, daß er auf die Kirche nicht mehr viel
+          gab, daß er der alten Großmutter Worte in den Wind schlug, ja, daß es ihn oft juckte, über
+          religiöse Dinge in leichtfertigem, spöttischem Tone zu sprechen, selbst in Gegenwart des
+          ehrenfesten, kernfrommen Vaters. Dieser hatte auch zu der Berufsänderung seines Sohnes
+          sehr ungern seine Einwilligung gegeben; obwohl er sich keine klare Rechenschaft drüber
+          geben konnte, so witterte er doch von den Maschinen nichts Gutes für die ganze
+          Gemeinde;auch hatte er Felder genug, die bei fleißiger Bearbeitung zwei Familien hätten
+          nähren können. Aber da der Sohn keine große Lust zeigte an der sauren Arbeit des
+          Landmanns, dagegen auf die gute und sichere Einnahme hinweisen konnte, welche die Fabrik
+          ihm versprach, so wußte er gegen des Sohnes Entschluß nichts Triftiges einzuwenden, obwohl
+          ihm dann manchmal sich das Herz im Leibe fast umkehrte bei dem Gedanken, daß, während
+          seine Vorfahren seit Menschengedenken als freie Landleute </p>
+        <pb n="41"/>
+        <p>F fröhlich den Pflug durch die heimische Erde geführt hätten,sein einziger Sohn nun den
+          so schönen und mannigfaltigen Beruf in Gottes freier Luft mit dem einförmigen, mehr
+          entnervenden als stärkenden Geschäft im Dienste der Fabrik vertauscht habe. Mehr, als was
+          er befürchtet hatte,war nun eingetroffen: der Sohn war in Gefahr, duch den einfachen,
+          kräftig frommen Sinn des väͤterlichen Hauses zu verlieren.</p>
+        <p>Es soll damit nicht gesagt sein, daß die Fabrikarbeit überhaupt den Menschen nothwendig
+          ins Verderben führen und ihm den einfachen und frommen Sinn rauben müsse.Vielmehr ist es
+          gewiß nicht von ungefähr gekommen, sondern der liebe Gott hat es so gefügt, daß in unserm
+          Vaterland bei der immer zunehmenden Bevölkerung, die sich lange nicht hinreichend vom
+          Landbau erhalten könnte, viele Hande durch die Arbeit in den Fabriken das tägliche Brod
+          exwerben können; hätten wir diesen Erwerbszweig nicht,wie Viele wären brodlos! Aber es ist
+          nicht zu läugnen,daß mit dem Fabrikleben viele große Gefahren verbunden sind, die früher
+          unbekannt waren, daß der regelmäßige Erwerb von baarem Geld bei Manchen zur Versuchung
+          wird, viel auf einmal auszugeben, sich an unnöthige Bedürfnisse zu gewöhnen und ohne
+          Rücksicht auf die Zukunft in den Tag hineinzulebenz noch weniger ist zu läugnen,daß für
+          Kinder das Arbeiten in den Fabriken nur als ein </p>
+        <pb n="1"/>
+        <p>43 nothwendiges Uebel angesehen werden kann. Darum haben es Diejenigen, welche auf den
+          Verdienst in den Fabriken angewiesen sind, doppelt nöthig, jenen Versuchungen gegenüber
+          einen sparsamen, züchtigen und frommen Sinn zu bewahren, wenn sie nicht darin untergehen
+          wollen, und'für alle christliche Menschenfreunde ist es eine ernste, schwere, noch lange
+          nicht genug geloste Aufgabe,solchen Sinn in jenen Volksklassen zu wecken und zu pflegen
+          und jenen sittlichen Gefahren möglichst vorzubeugen. Aber Jeder, der die freie Wahl hat
+          zwischen Fabrikarbeit und dem Anbau von eigenem Grund und Boden,thut gewiß weitaus besser
+          und schafft sich ein befriedigenderes Lebensloos, wenn er des Landmanns schönen Beruf
+          erwählt; denn bei allem Schweiße seines Angesichts steht der Landmann doch in mancher
+          Beziehung als der freiste und selbstständigste Mann da.</p>
+        <p>Auch das Liseli war auf aäͤhnlichen Wegen. Es hätte von Natur eine leichte und geschickte
+          Hand; Alles, was es angriff, gelang ihm; die Arbeit war ihm ein Spiel;es blieb dabei immer
+          fröhlich und heiter, mochte es die Kühe melken, oder das Butterfaß rühren, die Hühner
+          füttern, oder den Stall fegen, immer sang es eine frohe Weise vor sich hin; auch war es
+          schlank und zierlich gewachsen und blühte wie eine Rose, und sein heitres Wesen gewann ihm
+          Jung und Alt. Die Mutter war nicht wenig <pb n="16"/> stolz auf ihre Tochter, die man ihr
+          von allen Seiten rühmte,und sprach unvorsichtig viel davon in ihrer Gegenwart,so sehr sich
+          auch der Vater drüber ärgerte, ja sie hatte eine närrische Freude, wenn dem Liseli ein
+          neues Mieder so gut saß, und sparte ihm heimlich manchmal ein Stück Geld zusammen, um ihm
+          am Jahrmarkt ein schönes Halstuch u. dgl. zu kaufen. Wie hätte es da am Putz nicht
+          Gefallen haben sollen! Die Großmutter aber schüttelte den Kopf dazu. Nun war im Dorfe die
+          Seidenindustrie eingeführt wordenʒ eine geschickte Arbeiterin konnte durch Seidenweben
+          weit mehr verdienen, als bei der angestrengtesten Arbeit mit Landbau und Hausgeschäften;
+          man brauchte nicht in eine Fabrik zu gehen, sondern konnte den Webstuhl zu Hause
+          aufstellen; viele Gefahren des Fabriklebens waren also damit vermieden. Die Einführung
+          dieser Industrie war wirklich für viele Haushaltungen eine große Wohlthat;es war dadurch
+          Gelegenheit gegeben, die müßigen Stunden zu Hause mit einer einträglichen und angenehmen
+          Arbeit auszufüllen; fleißige und geschickte Hände konnten es bald zu hohem Taglohne
+          bringen, und bei Ordnung und Sparsamkeit stieg der Wohlstand eines Hauses, ja einer ganzen
+          Gegend durch den reichlichen Erwerb ungewöhnlich schnell.Aber, da für den Menschen nichts
+          schwerer ist, als das Glück und gute Tage zu ertragen, so konnte der neue Verdienst statt
+          Segen und Wohlstand ebenso gut Eitelkeit, </p>
+        <pb n="4"/>
+        <p>Hoffahrt und Verschwendung bringen, wie alle Dinge,auch die edelsten und heiligsten,
+          durch die Sünde in unsern Händen gerade zum Gegentheil von Dem ausschlagen,wozu sie uns
+          von Gott in der besten Absicht gegeben sind.Viele Mädchen im Dorfe ergriffen die
+          Gelegenheit,auf diese angenehme Weise ihr Brod zu verdienen und vom Verdienste noch
+          manchen Franken zurückzulegen.Auch Liseli mit seiner geschickten Hand wurde
+          aufgefordert,es zu versuchen; wieder konnte der Vater ein Mißtrauen nicht unterdrücken; er
+          meinte, es müsse doch mehr Segen sein in dem, was man auf natürliche Weise durch Saat und
+          Ernte gewinne, es komme viel eher aus Gottes Hand aber das allgemeine Beispiel war
+          stärker, und Liseli fing auch an, eifrig Seide zu weben. Die neue Arbeit ging ihm so
+          leicht und schnell aus der Hand, daß Jedermann sich verwunderte, und das Gewebe fiel so
+          schön und tadellos aus, daß ihm bald unter allen Seideweberinnen im Dorfe der höchste Lohn
+          bezahlt wurde. Die Mutter hatte eine unsägliche Freude darüber und erhob die Tochter fast
+          bis in den Himmel; der Vater schüttelte den Kopf dazu.Das viele Geld verdrehte auch
+          alsbald dem Liseli seine bisher so einfachen und gesunden Gedanken; bisher hatte es selten
+          dran gedacht, daß es so hübsch sei; jetzt aber studirte es darüber nach, welche Farbe ihm
+          am besten stehe, welches Haargeflecht, welche Haube, welcher Schnitt Zehender, der
+          Leuenhof. 2 <pb n="18"/> am besten zu seiner Figur passe. Das erste neue Stück Anzug,
+          welches es kaufte, machte das zweite und dritte 0 oder der Mutter Händen kam, sondern
+          selbst erworben war, so steckten die neuen Kleider das noch nicht charakterfeste Liseli
+          mit dem Gift des Hochmuthes an; es dachte,nun stehe es auf eigenen Füßen, nun hätten ihm
+          Vater und Mutter nicht mehr viel zu befehlen; denn Nahrung und Kleidung erwerbe es sich ja
+          selbst, und im Uebrigen helfe ihm sein Verstand. Und während es ihm früher seine höchste
+          Freude gewesen war, am Sonntag Abend zu einem Vetter oder einer Base in die „Stubete“
+          (Abendgesellschaft) zu gehen, wo sich noch andere Töchter und junge Bursche einfanden und
+          der Abend auf ehrbare Weise in heitern Gespraäͤchen und Spielen zugebracht wurde, so war
+          ihm jetzt bald nichts mehr kurzweilig und unterhaltend genug im väterlichen Hause und in
+          dem altgewohnten Kreise, es wollte darüber hinaus, es wünschte sich rauschendere,
+          aufregendere Belustigungen, wie sie ihm von denen beschrieben wurden, die schon laäͤnger
+          das Seidengeschäft betrieben, aber auch, durch ihren reichen Erwerb verlockt, in der
+          Kleidung und im Leben mehr Aufwand gemacht hatten. Bei manchen derselben galt der
+          Grundsatz: Man muß das Leben genießen, so lange man jung ist, und man ist nicht immer
+          jung; was hat man <pb/>denn sonst auf dieser Welt, wenn man in der Jugend sich nicht
+          lustig macht! Und zu Liseli insbesondere sagten sie in verschiedener Weise ungefähr so:
+          Wär' ich, wie du, so jung und hübsch, so flink und allenthalben gerne gesehen,und hätte
+          dabei einen so schönen Verdienst, ich würde nicht immer so überbrav zu Hause sitzen, ich
+          würde die Jugend anders genießen! Damit war ein neues Gift dem Herzen Liselis
+          eingetröpfelt; wo es konnte in unbewachter Stunde, entschlüpfte es der Stille des
+          väterlichen Hauses und ging den noch unbekannten Genüssen und Freuden nach, welche ihm
+          seine Lehrmeisterinnen im Leichtsinn anpriesen und zeigten; war irgendwo Jahrmarkt oder
+          Tanz,so kam es später als sonst nach Haus, stand vorher Stundenlang vor den Spiegel, bis
+          es sich selber recht gefiel,glaubte, nun werde es auch bei Andern Aufsehen machen,und sah
+          dann dafür am andern Morgen um so verstörter und launischer aus, und immer mehr schwand
+          der natürliche Frohsinn, der früher auf sein ganzes Wesen einen so lieblichen Schein
+          geworfen hatte. Mit Verachtung sah es auf den Haushalt seiner Eltern; alles schien ihm zu
+          altmodisch und zu einfach; damit beging es zuerst in Gedanken und dann in Worten und
+          Werken manche Sünde gegen jenes ernste Gebot: Ehre Vater und Mutter! und an den
+          himmlischen Vater dachte es auch nicht mehr ernst<pb n="20"/>lich. An Allem war das Geld
+          Schuld; das hatte sein Herz im Leichtsinn gefangen.</p>
+        <p>Durch Alles dieß hatte sich beim Vater ein Strom von Aerger, Unwillen und Kummer
+          angesammelt; einmal mußte er losbrechen; jetzt schien dazu die Zeit gekommen;durch des
+          Predigers Mund hatte Gott zu dem bekümmerten Vaterherzen gesprochen und ihm die rechten
+          Worte eingegeben.</p>
+        <p>„Sag' kein Wort weder zum Melcher noch zum Liseli,wenn sie wieder in die Stube kommen,“
+          sagte der Bauersmann, indem er aufstand von der Ofenbank und mit tief ernstem Gesicht an
+          den Tisch trat, zu der Großmutter.„Und du auch nicht, Frau,“ sagte er zu der
+          Hausmutter,die eben die dampfende Suppenschüssel aus der Küche sen haben, so will ich dann
+          einmal den ungerathenen Kindern in allem Ernst meine Meinung heraussagen und dabei kein
+          Blatt vor den Mund nehmen, und sie fragen,ob sie auf diesem Weg fortfahren wollen und in
+          ihr eigenes Verderben rennen. Aber laßt mich zuerst allein machen und redet mir nicht
+          darein; wenn sich's schickt, so mögt ihr nachher auch noch das Eurige dazuthun!“ Und er
+          setzte sich oben an den Tisch an seinen gewohnten Platz.<pb n="21"/>Drittes NMapitel.</p>
+        <p>Das Mittagsmahl.</p>
+        <p>Matth. 10, 19. Sorget nicht, wie oder was ihr reden sollt; denn es soll euch zu der
+          Stunde gegeben werden,was ihr reden sollt.So still wie heute war's lange an keinem Sonntag
+          beim Essen zugegangen im Leuenhof; denn das war seit uralten Zeiten der Name des
+          Bauernhauses, in welchem unsere Geschichte vorgeht, und der Name des Besitzers war stets
+          gewesen: der Leuen bauer, warum, davon erzählt keine Chronik mehr. Vater, Mutter und
+          Großmutter saßen schon am Tisch und hatten sich die Suppe aus der dampfenden Schüssel in
+          ihre Teller geschöpft, als das Liseli ohne seine Haube zur Thür hereinkam, sich leise an
+          seinen Platz setzte und kaum aufzuschauen wagte. Als alle schon mit der Suppe fertig
+          waren, kam der Melcher erst; seine derben Schritte hörte man deutlich von weitem; aber er
+          machte die Thür sachte auf und zu; zwar fing er an, einige unwillige Worte zu brummen von
+          dem langweiligen Geschäfte,das ihn um die warme Suppe gebracht habe, aber des Vaters
+          ernstes Gesicht und die allgemeine Stille in der Stube bezwang sogleich den letzten
+          Ausbruch seines Unmuths,<pb/>und er setzte sich still an seinen Platz neben die Mutter,dem
+          Liseli gegenüber; dieses saß auf der rechten Seite der Großmutter, welche wiederum ihren
+          Sohn zur Linken hatte. Eine Magd und ein junger Bursche von etwa 14 Jahren, dessen
+          Hauptgeschäfte waren, den Stall zu putzen und die Schweine zu füttern, beide höchst
+          einfach aber sauber gekleidet, hatten ihre schmalen Plätze unten am Tisch. Nach der Suppe
+          brachte die Mutter ein großes Stück gesottenes Rindfleisch, zerlegte es in verschieden
+          große Theile, fügte zu jedem Theil ein entsprechendes Stück Speck und legte jedem
+          Tischgenossen seine bestimmte Portion, mit der Gabel die Stücke anspießend, auf den
+          Teller. Eine große Schüssel mit mehligen Kartoffeln,welche beim Sieden ihre Hüllen
+          gesprengt hatten, stand in der Mitte des Tisches, so daß Jedes nach Belieben seinen Bedarf
+          sich zulangen konnte. Dieß geschah auch mit großer Emsigkeit; der Haufen wurde zusehends
+          kleiner;die Gabeln und Messer bewegten sich ununterbrochen,aber man hörte nichts anderes
+          als ihre einformige Musik;kein Wort wurde gesprochen; der Hausvater schob bald den Teller
+          zurück und aß keinen Bissen mehr, sondern stützte nachdenklich den Kopf in die Hand. Da
+          der Sohn und die Tochter dieß sahen, wurde es ihnen immer mehr siedend heiß im Herzen; so
+          hatten sie den Vater lange nicht gesehen, und eine Stimme sagte ihnen, sie seien </p>
+        <pb n="23"/>
+        <p>Schuld daran. Das Essen wollte ihnen auch nicht recht schmecken, sie waren froh, als die
+          Magd anfing abzuräumen, und dachten darauf, unter irgend einem Vorwand bakß vom Tische
+          wegzukommen.</p>
+        <p>Dazu fand sich aber keine Gelegenheit mehr; sobald die Magd und der Dienstknabe, denen
+          die Hausfrau noch einige Aufträge gegeben und bis Anbruch der Nacht freie Zeit gestattet
+          hatte, nicht mehr in der Stube waren, fing der Leuenbauer an, einige Male zu husten, wie
+          er's zu thun pflegte, wenn er etwas besonders Wichtiges zu sagen hatte, faßte bald den
+          Sohn, bald die Tochter scharf ins Auge und sprach dann in ernstem und feierlichem Tone
+          folgendermaßen:</p>
+        <p>„Mein Vater, den Gott im Grabe noch segnen möge,hatte eine gute Gewohnheit; er hatte sie
+          noch von seinem seligen Vater geerbt. Jeden Sonntag nach dem Essen wiederholte er den
+          Seinigen, so viel ihm von der Morgenpredigt im Kopf geblieben war. Was er nicht mehr
+          wußte,fragte er die Mutter oder die Kinder, und wer sonst noch etwas gut behalten hatte,
+          mußte es auch sagen. Ich will für heute einmal diese gute Gewohnheit wieder einführen.Die
+          Predigt unseres Herrn Pfarrers ist mir recht zu Herzen gegangen. Schon als er den Text
+          verlas und anfing: „Es ist aber ein großer Gewinn, wer gottselig ist und läßt ihm
+          genügen,“ war's mir, als </p>
+        <pb n="1"/>
+        <p>3 </p>
+        <p>V Tage meines Lebens auslegen gehört. Erst nach der Predigt kam ich wieder darauf: es war
+          ungefähr vor dreißig Jahren; da war ich mit mir selber in keinem kleinen Streit.Da warst
+          du, meine liebe Frau, noch das Anneli in der Mühle und warst mir herzlich lieb, und ich
+          hätte dich gern zur Frau gehabt; denn ich wußte, daß du ehrbar und gottesfürchtig erzogen
+          seist und habest arbeiten gelernt, wie Wenige; aber, Aussteuer, sagtest du mir selbst,
+          köͤnne man dir wenig geben, und Vermögen habest du auch nicht viel von den Eltern zu
+          erwarten. Und zur gleichen Zeit zeigten mir meine Kameraden auf des Adlerwirths Tochter,
+          die hoffährtige Kathrine, und sagten: Die mußt du nehmen;bei der sind die Thaler schon
+          gezählt, die sie als Heirathsgut bekommt, und ihre Erbschaft ist einmal auch nicht zu
+          verachten, und du kannst ste haben, wenn du sie willst;sei doch kein Narr und laß das
+          Anneli fahren. Da schossen mir die Gedanken wild durch den Kopf, wie eben die
+          Schneeflocken vor dem Fenster, und bald war das Anneli oben und bald die Kathrine; ich
+          konnte die Nacht durch kein Auge zuthun, und wie im Fieber stand ich auf an einem Sonntag
+          Morgen. Als ich in die Kirche ging, ging das Fieber mit; aber eine Stimme sagte mir
+          inwendig:Vielleicht bekommst du hier eine Antwort, die den grausamen Streit zur Ruh
+          bringt, der dir im Herzen das Un <pb n="25"/> terste zu oberst kehrt. Und so war's. Unser
+          braver Herr Pfarrer, bei dem ich in den Unterricht gegangen war, und du auch, Frau, jetzt
+          ist er in der ewigen Ruh,aber ich dank's ihm heute noch der hielt eine Predigt über die
+          kurzen Worte: Es ist aber ein großer Gewinn,wer gottselig ist und läßt ihm genügen, und
+          das so schön und mit so deutlicher Auslegung und guten Exempeln,und als wüßt' er von dem
+          heißen Krieg und Streit in meinem Herzen, daß ich beim zweiten Theil fast nach jedem Satz
+          zu mir selber sagte: Der hat Recht; das Anneli mußt du nehmen und kein andres, und als ich
+          nach Haus kam, da stand's mir felsenfest, das sei Gottes Wille, und an des Adlerwirths
+          Tochter dachte ich mit keinem Gedanken mehr,und 8'war mir zu Muth, als wär' ich aus dem
+          Fegfeuer erlöst worden. Und wenn meine Kameraden spotten wollten über meine Braut, denn
+          sie hat sich nicht lang mehr besonnen, so war ich dagegen stolz auf mein Anneli und sagte
+          zu mir selbst: Es ist ja ein Gewinn,wenn man gottselig ist und genügsam, und das ist sie
+          beides, drum gewinne ich mehr mit ihr als mit der stolzen Kathrine, die beides nicht ist,
+          wenn auch ihre Thaler schon längst gezählt sind. Und ich hab's fürwahr nicht bereut,daß
+          ich mehr auf Gottes Wort gesehen habe, als auf das Geld; an Gottes Segen hat's uns nicht
+          gefehlt; der Gewinn ist gekommen, inwendig und auswendig; Liebe und </p>
+        <pb n="26"/>
+        <p>Frieden haben wir gehalten, und mit den Gütern sind wir auch nicht rückwärts gekommen:
+          Der Leuenhof steht Gottlob! noch so fest wie das Adlerwirthshaus drunten,und wenn sie's
+          auch viel höher treiben drin als wir, so möcht' ich doch die ganze Wirthschaft nicht
+          geschenkt mit all' dem Hader und Streit, den das leidige Geld dort anstiftet Tag für Tag.
+          O wie war mir leicht und froh zu Muth an jenem Sonntag, und wie dankte ich Gott von Herzen
+          dafür, daß er mir durch das freundliche Wort unsres lieben Pfarrers aus dem Streit
+          heraushalf. Aber nun, ihr lieben Kinder, als ich heut den lieben Text wieder hörte, da
+          hätte, wer dieß wußte, doch mit Recht erwarten sollen, ich würde mich von ganzem Herzen
+          drüber freuen. Aber nein, gerade das Gegentheil! Als ich die schöne Auslegung Wort für
+          Wort mit meinen Gedanken begleiD als damals über mich. Denn an euch mußte ich zugleich
+          denken, an dich, mein Melcher, und an dich, mein Liseli,und dabei hat sich mir beinahe das
+          Herz im Leibe umgekehrt; warum? das sagt euch euer Gewissen. Und dann eure leichtsinnigen
+          Worte nach der Kirche, die waren mir,ein jedes, noch ein Stich in die Seele, und wenn ihr
+          so fortmacht, so habe ich auf dieser Welt keine fröhliche Stunde mehr, und eure treue
+          Mutter auch nicht, und eure Großmutter wird dann mit Herzeleid in die Grube fahren und <pb
+            n="27"/> euch keinen Segen zurücklassen. Helfe mir Gott, daß ich nicht das
+          Allerschlimmste von euch denke, aber auf bösem Wege seid ihr beide, und was ich thun kann
+          als Vater,um euch noch zur Zeit davon zurückzubringen, will ich thunz ich muß es, denn
+          Gott wird auch von mir einst Rechenschaft fordern über eure Seelen. Vielleicht, daß nun
+          das Gotteswort, das mir einst aus der Noth geholfen,auch bei euch noch gute Frucht bringen
+          kann, wenn's euch recht warm an's Herz gelegt wird. Drum will ich's nach meines seligen
+          Vaters Brauch noch einmal mit euch durchgehen, wie's in der Predigt ausgelegt worden ist,
+          und meinen guten Rath an euch dazufügen. Frau, gib mir die alte Bibel dort von der Wand
+          herunter, die der Vater so manchmal aufgeschlagen hat, und such' mir den Text auf, er
+          steht, wenn ich's recht behalten habe, im ersten Brief an den Timotheus am sechssten und
+          fängt auch daselbst vom sechsten Vers an.“</p>
+        <p>Das Liseli hatte schon lange sein weißes Schnupftuch hervorgenommen und konnte nicht
+          genug die Thränen abwischen, die reichlich über seine rothen Wangen flossen,und kam in ein
+          überlautes Schluchzen hinein, bis ihm die Mutter einen Wink gab, sich zusammenzunehmen, da
+          sie wohl wußte, daß der Vater auf das „Gepläre und Gelätsch“, wie er's zu nennen pflegte,
+          nicht viel gebe. In dem viel rauheren Melcher arbeitete auch etwas in der Tiefe; <pb
+            n="28"/> das sah man ihm deutlich an, so gewaltig er sich auch anstrengte, es zu
+          verbergen; er wechselte seine Farbe jeden Augenblick, schaute bald zum Fenster hinaus den
+          Schneeflocken nach, bald starrte er gerade vor sich hin auf den Tisch, immer aber hielt er
+          sich so, als ob er nur mit halbem Ohr auf des Vaters Worte hörte, als ob er sich damit
+          noch gar nicht getroffen fühlte. Als nun die Bibel vor dem Vater aufgeschlagen dalag,
+          konnte er sich nicht enthalten,einen verächtlichen Blick nach derselben hinzuwerfen, als
+          ob's ihm unbehaglich wäre, auch das noch hören zu müssen;aber ein Blick des Vaters, der
+          ihn traf, zwang ihn von neuem, die Augen niederzuschlagen.</p>
+        <p>Viertes Rapitel.</p>
+        <p>Die Prredigt.</p>
+        <p>Matth. 13, 8. Etliches fiel auf ein gutes Land und trug Frucht, etliches hundertfältig,
+          etliches sechzigfältig, etliches dreißigfaltig.</p>
+        <p>Der Leuenbauer verlas nun langsam und feierlich die Textesworte: J. Tim. 6, 68. </p>
+        <pb n="29"/>
+        <p>6. Es ist aber ein großer Gewinn, wer gottselig ist und lässet ihm genügen.</p>
+        <p>7. Denn wir haben nichts in die Welt gebracht; darum offenbar ist, wir werden auch nichts
+          hinausbringen.</p>
+        <p>8. Wenn wir aber Nahrung und Kleider haben, so lasset uns begnügen.</p>
+        <p>„Das gefällt mir besonders,“ sagte er hierauf nach einigem Besinnen, „an den Predigten
+          unseres Herrn Pfarrers, daß er so viel Mal, wenn er etwas recht deutlich machen will, ein
+          Gleichniß oder Beispiel aus der biblischen und aus andern Geschichten vorausschickt; das
+          ist mir immer wie ein goldener Nagel im Gedächtniß für die gute Lehre, die ich beherzigen
+          soll. So hat er's auch heute gemacht und hat zuerst, wie ihr euch erinnern werdet, von
+          unsern Urahnen und Vorvätern, den alten Eidgenossen,erzählt, wie sie als Hirten so einfach
+          lebten in ihren Gebirgen, zufrieden mit dem Wenigen, was das rauhe Land und ihre Heerden
+          ihnen brachten, dabei fromm und gottesfürchtig und eben darum so stark, wenn es galt, die
+          liebe Heimath gegen die erzgewappneten Ritter auf den stolzen Rossen zu vertheidigen. Auf
+          die Kniee seien sie niedergefallen zum Gebete jedesmal, bevor sie in eine Schlacht zogen,
+          und eben weil sie freien Sinnes waren, hätten sie sich niemals gescheut, sich zu beugen
+          vor dem allerhöchsten Gott, der ihr schönes Land geschaffen. So lange sie nun <pb n="20"
+          />bei ihren einfachen Sitten blieben, habe Zufriedenheit und Eintracht unter ihnen
+          gewaltet, und sie konnten erfahren den großen Gewinn, gottselig zu sein und sich genügen
+          zu lassen; sobald sie aber von jenen Sitten abwichen, verführt durch ihr Kriegsglück,
+          durch reiche Beute,durch das verführerische fremde Gold, für das sie ihren Muth im
+          Söldnerdienst verkauften, riß sogleich Zwietracht unter ihnen ein und Verschwendung und
+          lasterhaftes Leben, und der Verlust war größer als der Gewinn. Nun kam der Herr Pfarrer
+          drauf, wie unsre jetzigen Sitten nicht bloß in den Städten, sondern auch auf dem Land so
+          himmelweit verschieden seien von der Lebensart jener alten Eidgenossen, wie wir viel
+          hundert Dinge als zum Leben nöthig betrachteten, von denen sie gar nichts wußten, zum
+          Exempel in der Kleidung, im Essen und Trinken, in der Einrichtung der Häuser, in der
+          Aufwartung bei Taufen und Hochzeiten, im Besuch der Wirthshäuser, in den verschiedenen
+          Arten, sich die Zeit zu vertreiben, Lustbarkeiten und dergl. Dingen. Er wolle nicht sagen,
+          man sollte präcis zu der Lebensweise der Alten wieder zurückkehren; aber zu ihren
+          Grundsätzen,welche auch die des Evangeliums seien. Eine Centnerlast seien für viele
+          Menschen die Menge von Bedürfnissen, an die sie gewöhnt sind, eine Last, schwerer, als
+          manche harte Arbeit; auch von die ser Last, die gewaltig auf unsere <pb n="31"/>
+          unsterbliche Seele drücke, wolle der Herr uns frei machen;denn der sei am freisten, der am
+          wenigsten bedürfe, der niedrig sein und hoch sein, satt sein und hungern, übrig haben und
+          Mangel leiden könne, wie der Apostel Paulus.So leitete er ungefähr die Predigt ein und
+          sagte dann, er wolle, um vor der Unzufriedenheit und Genußsucht der jetzigen Zeit zu
+          bewahren, die rechte evangelische Genügsamkeit beschreiben und zeigen, daß sie allein den
+          Menschen erstens wahrhaft reich,zweitens wahrhaft frei, und drittens wahrhaft glücklich
+          mache.</p>
+        <p>Nun leitete er diese drei Worte so deutlich und nett aus den drei Versen des Textes ab,
+          daß es eine wahre Freude war, zuzuhören, und ich nicht wenig darüber erstaunen mußte,
+          wieviel man doch nur aus einem so kleinen Stück der Bibel schöpfen könne. Man sieht doch
+          schon daran, daß man's hier mit etwas Göͤttlichem zu thun hat,das aus der Ewigkeit stammt.
+          Denn wenn ihr zum Exempel einen Beutel voll Thaler habt, dann wißt ihr genau,wann ihr an
+          den letzten kommt, und nehmt ihr diesen heraus, so ist der Beutel leer; mit dem Wort
+          Gottes ist's aber ganz anders; je mehrihr draus nehmen wollt,desto mehr findet ihr drinz
+          niemals heißt's: Jetzt sind wir am Letzten; das ist wie das Oelkrüglein der </p>
+        <pb n="232"/>
+        <p>Wittwe, das niemals leer werden wollte. Aber verzeiht mir nun, wenn mir von dem, was der
+          Herr Pfarrer in so schöner Ordnung sagte, Manches etwas durcheinander gekommen ist; ich
+          bin eben kein Gelehrter, und manchmal thu ich auch noch meinen eigenen Senf dazu, wenn's
+          ja nur wahr und heilsam ist, was ich euch sage.</p>
+        <p>Aus guten Gründen, so hieß es nun zuerst, hat der Apostel die Gottseligkeit und die
+          Genügsamkeit zusammengestellt; denn die letztere kommt aus der ersteren wie der Bach aus
+          der Quelle. Wer selig ist in seinem Gott, auf ihn sein ganzes Glück baut und fest glaubt,
+          es komme Alles, also auch das irdische Gut, aus seiner liebreichen Hand, der ist auch
+          genügsam; er will nicht mehr,als was Gott ihm beschieden hat; er weiß: Soviel als du
+          gerade hast, muß gut für dich sein, mehr wäre dir vom Uebel; würde es zu deinem Glücke
+          gereichen,so hätte es Gott dir gegebenz denn er hat es ja,er braucht nicht zu sparen,
+          seine Schatzkammern sind niemals leer. Seht, Kinder, mit dem hab' ich mich oft getrostet
+          und die begehrlichen Gedanken in mir zurückgewiesen, wenn mir ein schön'res Haus, ein
+          stolzeres Gespann Ochsen, ein besserer Rock eines Nächsten recht in die Augen stach. Wäre
+          es zu deinem Besten, du hättest's auch; nun aber, daß du's nicht hast, ist der beste
+          Beweis,daßes dir nicht gut wärez Gott hat es ja nicht für <pb n="322"/> gut befunden. Es
+          schmeckt freilich bitter, diesen Trost herunterzuschlucken, das weiß ich aus Erfahrung;
+          aber das ist nur im Anfang so; nachher hat man oft Ursache,Gott dafür zu danken, daß er
+          unsre eigenen Wünsche nicht erfüllte. Als ich mich mit meinem Anneli zur Hochzeit rüstete,
+          da wünscht' ich wohl, mein Vater möchte doppelt so viel Geld und Gut haben, als er besaß,
+          und, nicht wahr,Frau, du stimmtest damals auch damit überein; jetzt aber,da ich weiß, was
+          ich unterdeß gelernt habe, wünschte ich nicht, daß Gott uns einen Rappen mehr geschenkt
+          hatte;denn das Geld ist das gefährlichste Geschenk, was es gibt. Der scheint mir der
+          Reichste das sagte dann der Pfarrer weiter der so viel hat, als er zu seinem Glücke
+          braucht, und dieß auch selber fest und sicher glaubt;drum kann man sagen, die Genügsamkeit
+          mache wahrhaft reich. Wer aber auf diese Weise sich reich schätzt,der dankt Gott nicht
+          bloß für Haus und Hof und Nahrung und Kleidung, sondern noch vielmehr für Gesundheit und
+          Kraft und die Gaben des Verstandes und des Herzens und noch mehr dafür, daß er ihn
+          unsterblich geschaffen und durch Jesum Christum von der Sünde erlöst hat. Denn wer von
+          ganzem Herzen an Jesum Christum glaubt und aus seinem Leben und Leiden seinen einzigen
+          Trost im Leben und im Sterben schöpft, der tritt auch mit ihm in eine beständige herzliche
+          Gemeinschaft, und Zehender, der Leuenhoff. 3 <pb n="34"/>von Tag zu Tage fließen ihm aus
+          seiner Geistesfülle himmlische Kräfte zu, unermüdliche Liebe und Sanftmuth und Trost und
+          Geduld und Weisheit und unbeugsamer Muth;im vollen Besitze dieser Güter fühlt er sich
+          reich im höchsten Sinne. Aber Leute, die Millionen besitzen,haben oft gar keinen Begriff
+          davon, daß man sich in Ertenntniß und Liebe und Hoffnung auch r eich fühlen könne,und so
+          erfüllt sich jener Spruch:</p>
+        <p>Mancher ist arm bei großem Gut;</p>
+        <p>Mancher ist reich bei großer Armuth.</p>
+        <p>Da mußt' ich dran denken, wie meine Frau und ich in den ersten Jahren unseres Ehestands,
+          da wir noch fast mehr Schulden als Vermögen hatten, im baufälligen obern Stocke dieses
+          Hauses, das der Vater immer nicht repariren wollte, doch ein so glückliches Leben führten,
+          daß wir mit keinem Fürsten und Könige getauscht hätten. Weder das Geld noch die Kleider
+          haben uns damals glücklich gemacht;aber daß wir uns herzlich lieb hatten und in Eintracht
+          eifrig unsere Arbeit trieben im Acker und Weinberg und drauf vertrauten, Gottes Segen
+          werde nicht ausbleiben,das war's, was uns glücklich machte, wenn auch manchmal Wochen
+          vergingen, ohne daß ein Stücklein Fleisch oder ein Schöpplein Wein auf unsern Tisch
+          gekommen wäre, Manche hielten uns für arm, aber wir waren doch reich, denn wir waren
+          zufrieden und dankten Gott täglich <pb n="25"/> für unser Glück. Nun zeigte er auch recht
+          kräftig und eindringlich ich kann's nicht halb so gut sagen, wie's der Herr Pfarrer gesagt
+          hat, daß es geradezu arm mache und oft sogar an den Bettelstab bringe, wenn man ungenügsam
+          nach immer mehr Geld und Gut und Genuß und Lustbarkeiten trachte. Wer nicht zufrieden ist
+          mit dem,was Gott ihm gab, der kommt in dem Sorgen und Kümmern und Jagen nach Mehr niemals
+          zu einer ruhigen Stunde, in welcher er sich dessen, was er hat, recht herzlich freuen
+          kann. Weil er Alles haben will, so hat er eigentlich von Nichts den Genuß, und wenn ihm
+          auch einer seiner Wünsche erfüllt wird, so steckt hinter ihm schon wieder ein anderer
+          größerer, und der Hunger und Durst nach dessen Erfüllung geht von neuem an, und niemals
+          wird er gründlich gestillt. Der Habsüchtige schaut neidisch an den noch Reichern hinauf;
+          die Putzsüchtige will immer etwas noch Neueres, noch Schöͤneres; der Trinker sucht immer
+          stärkere Getränke, der Spieler setzt immer höhere Summen, kurz es paßt stets auf den
+          Ungenuügsamen das Sprüchlein:Je mehr er hat, je mehr er will,Nie schweigen seine Wünsche
+          still.</p>
+        <p>Diese Unruhe aber muß zuletzt das Herz verzehren,und worin liegt der tiefste Grund davon?
+          Darin, daß die Seele keine Ruhe gefunden hat in Gott, sondern in offenem oder verborgenem
+          Murren gegen ihn sich täglich versün<pb n="26"/>digt. Wo bleibt da Zeit, noch an ewige
+          Dinge zu denken?Man wird zu einem Erdenwurm, der nichts Höheres kennt,als seinem Futter
+          nachzugehen, und für das Schönste auf Erden, Liebe, Freundschaft, Erkenntniß der Wege
+          Gottes,dankbaren Genuß seiner Gaben hat man keinen Sinn mehr; vor Gott ist man arm, blind
+          und bloß, und sollte man plötzlich vor seinem Richterstuhl erscheinen, man stünde mitl ee
+          ren Händen vor ihm da und müßte zittern.“Hier hielt der Vater etwas inne, sah seine beiden
+          Kinder mit kummervollem Auge an und fuhr dann langsamer fort:„Bei diesen Worten, liebe
+          Kinder, ist mir ein schwerer Sorgenstein auf's Herz gefallen; ich mußte denken: dein Sohn
+          und deine Tochter sind auf diesem Wege. Du,Melcher, willst dir nicht genügen lassen an dem
+          schönen Bauerngewerbe, das ich dir einmal in bester Ordnung hinterlassen koönnte und in
+          dem deine Väͤter ihr ehrliches Brod gefunden, freilich im Schweiß ihres Angesichts. Du
+          willst höher hinaus, willst's den Herren gleich thun in Lebensart, in Kleidern, in
+          Manieren, und wirst doch höchstens ein halber Herr werden und aus halben Herren werden
+          leicht Lumpen; dagegen koönntest du, wolltest du meinem Rathe folgen, ein ganzer Bauer
+          werden, und der istauf Ehr'mehrwerth, als ein halber Herr.Treibst du's aber so weiter, wie
+          in der letzten Zeit, dann wirst du gewiß bald vom lieben Gott und von deinem Er<pb/>*löser
+          nichts mehr wissen wollen; du denkst: ich helfe mir selbst, aber wirst du noch so viel
+          einnehmen, es wird dir durch die Finger rinnen wie Sand, du wirst immer mehr brauchen und,
+          bekommst du's nicht auf geradem Weg, so wirst du's auf krummem zu bekommen suchen und
+          wirst ein schlimmes Ende nehmen. Dann wird es heißen: Des Leuenbauern Sohn, der's so gut
+          hätte haben können, wie alle seine Väter seit Menschengedenken, hat ein Herr werden wollen
+          und ist ein Strolch geworden, und am Spott wird's nicht fehlen, und, wenn ich dann noch
+          lebe,so wird die Schande mich unter den Boden bringen; doch wollt' ich, ich stürbe vorher.
+          Mein Rath wäre: Laß du die Fabrik und deine dortige Kameradschaft und kehr' zum Stande
+          deiner Väter zurück, so wird auch deiner Väter Segen auf dir ruh'n!“Der Melcher wollte
+          hier etwas sagen, doch brachte er die Worte nicht heraus, aber sein trotziges Wesen war
+          gebrochen; des Vaters Rede schien nicht auf den Weg gefallen zu sein. Nun wandte er sich
+          an's Liseli.„Du, Liseli,“ sagte er mit strengem Tone, „weißt gar nicht, wie viel Sorge und
+          Kummer du deinen Eltern und deiner Großmutter gemacht hast, seit du zur Seidenweberin
+          geworden bist. Mein Augapfel warst du vorher und der Großmutter ihres Alters Trostz jetzt
+          bist du mir täglich ein Dorn in den Augen und ihr verkürzest und verbitterst <pb n="38"
+          />du die wenigen Tage, die ihr von Gott auf Erden noch vergönnt sind. Von Allem, was
+          bisher in unserm Hause Brauch und Sitte war, thust du gerade das Gegentheil.Es war immer
+          deiner Mutter Stolz, in unsere alte schöne Landestracht recht stattlich und sauber sich zu
+          kleiden; dir ist das nicht mehr genug; jedes Band und jeden Fetzen,den du an einer
+          Stadtjungfer siehst, äffft du ihr nach,und das alte Liseli kenne ich gar nicht mehr in
+          seiner neumodigen Uniform. Es galt in unserm Haus von jeher als das Beste an einer
+          Bauerntochter, wenn sie Hausgeschäfte aller Art tüchtig verstehe und daran ihre Freude
+          habe; du läßt die Mutter allein machen und sitzest immer an deinem Webstuhl, und auch die
+          Großmutter muß sich noch plagen um deinetwillen; dir aber sind alle diese Geschäfte zu
+          gering. Sonst galt bei uns die gute Regel:„Sparein der Zeit, so hast duin der Noth!“ ohne
+          sie hätten wir's nie so weit gebracht, seit du aber so viel Geld in die Hände bekommen
+          hast, siehst du den Franken und den Thaler nicht mehr an, sondern lässest ste gedankenlos
+          einen dem andern nachfliegen und weißt gar nicht mehr, was du thust, weil dir die Hoffahrt
+          den Kopf verdreht hat. Sonst war's uns Allen wie ein Fest, wenn nach der sauren Arbeit der
+          Woche Vater und Mutter und Kinder um diesen Tisch herumsaßen und sich gemeinschaftlich
+          oder noch mit guten Nachbarn des Sonntags freuten;<pb/>jetzt, so oft man dich sucht, bist
+          du fort, streichst, wer weiß wo herum, sicher nicht auf guten Wegen, und der alte Sinn der
+          Freundlichkeit und Häuslichkeit ist bei dir verschwunden. Sonst waren deine Augen wie
+          helle Fenster,durch die dein Vater in deinem Herzen lesen konnte, und der Frohsinn schaute
+          draus heraus; jetzt sind die Fenster trüb und unrein; du schaust mich nicht mehr gerade
+          an;man hört selten ein gutes Wort von dir; ein böser Geist,der nicht in unser Haus paßt,
+          hat dein Herz gestohlen.Drum steht's auch innerlich bei dir nicht gut; ich, habe dich
+          lange nicht mehr mit aufrichtigem Herzen mitbeten sehen, wenn wir unser Morgen- und
+          Abendgebet verrichteten; du hast einen Widerwillen gegen alle ernsthaften Gedanken, und
+          früher wär' es dir nicht wohl gewesen,wenn du einmal einen Tag ohne herzliches Gebet zu
+          Gott angefangen hättest. An dem Allen ist Schuld das Geld,das du, wie man deutlich gesehen
+          hat, noch nicht regieren kannst; das hat dich mit einem unzufriedenen und übermüthigen
+          Sinn erfüllt; das bringt dir nichts als Verderben. Nun will ich nicht, daß du thöricht in
+          dein eigenes Verderben rennest; darum muß mir dein Seidenwebstuhl schon morgen aus dem
+          Haus und du sollst wieder wie früher der Mutter zur Seite stehen bei ihren Geschäften;denn
+          wenn du lauter Gold weben könntest, so waär's für dich doch lauter Gift; drum ist's
+          besser, man schafft <pb n="40"/>das Gift aus dem Hause fort, bevor es Tod und Verderben
+          angerichtet hat!“</p>
+        <p>Hatte Liseli schon früher wieder zu weinen und zu schluchzen angefangen, so konnte es
+          sich vollends gar nicht mehr halten bei dem gebieterischen Schluß der väterlichen Rede,
+          und man wußte nicht, galten seine Thränen dem Herzeleid des Vaters oder dem Abschied des
+          Webstuhls;denn Thränen aller Art waren bei ihm wohlfeil. Der Vater that, als ob ihn die
+          Thränen noch nicht besonders rührten. Die Mutter gab dem Liseli wieder ein Zeichen,und
+          nach einigen Augenblicken Stillschweigen fuhr der Leuenbauer weiter fort:</p>
+        <p>„Nun muß ich wieder an die Predigt: vom ersten Theile weiß ich nichts mehr; drum geh' ich
+          an den zweiten.Darin setzte der Herr Pfarrer auseinander, wie die Genügsamkeit wahrhaft
+          frei mache und knüpfte das an die Textesworte: Wir haben nichts in die Welt gebrachtz
+          darum offenbar ist, wir werden auch nichts hinaus bringen. Da erzählte er zuerst ein
+          lehrreiches Geschichtchen aus der alten Zeit, es habe ein weiser Mann in Griechenland
+          gelebt in einer großen Stadt, und die Stadt sei von Feinden belagert, erobert, angezündet
+          worden; doch hätten die Feinde den Bürgern erlaubt, abzuziehen und ihre beste Habe
+          mitzunehmen. Da hätten Alle aufgepackt, so viel sie tragen konnten; der weise Mann <pb
+            n="41"/>allein aber nahm nichts mit, sondern ging an seinem Stabe frei zum Thor hinaus.
+          Wenn ihn nun die Leute fragten, warum er allein nichts mit sich nehme, gab er zur Antwort:
+          Ich trage alles das Meinige in mir. Er meinte damit die Schätze seiner Weisheit. So
+          sollte, sagte nun der Herr Pfarrer, ein jeder wahrer Christ auch sagen können, und wenn er
+          auch alle irdische Habe verlöre: Ich trage alldas Meinige in mir. Denn unsern Glauben und
+          unsere Liebe und unsere geistigen Schätze haben wir ja allein als bleibenden Besitz; alles
+          Andere besitzen wir höchstens so lange als unsere Pilgerschaft auf Erden dauert; drum
+          sollten wir stets bereit sein, die Bande zu lösen, die uns an die irdischen Güter fesseln
+          und uns darin üben, so wenig als möglich davon durchaus nothwendig zu haben. Dann allein
+          sind wir wahrhaft frei, wie der Herr uns frei macht.</p>
+        <p>Und er will auch uns noch in einem höhern Sinne frei machen, wenn wir die Worte recht
+          erwägen: So euch nun der Sohn frei machet, so seid ihr recht frei. Er macht unser Gewissen
+          frei, nimmt ihm die Last der Schuld ab, die darauf drückte, und macht unsern Willen
+          frei,nimmt ihm die Fesseln der Sünde ab, die ihn zwang, das zu thun, was er eigentlich
+          nach der ihm eingepflanzten göttlichen Natur nicht will. So thun wir dann von seinem
+          Geiste getrieben aus freiem Willen mit Lust <pb n="12"/>und Liebe den Willen Gottes und
+          haben die größte Freude daran, und durch die Liebe, welche frei und fröͤhlich waltet,ist
+          es uns nicht mehr schwer, Gottes Gebote zu halten.Das ist die Freiheit, die uns Christus
+          gibt und neben der eine Knechtschaft unter dem vergänglichen Mammon nicht mehr bestehen
+          kann, das ist auch die Freiheit,die einen guten Schweizer am besten ziert. Damit hat unser
+          Pfarrer mir aus der Seele heraus geredet. Wieviel schwadroniren junge luftige Schwätzer,
+          auch solche, die in Gerichten sitzen, heutzutage von Freiheit und mißbrauchen das schöne
+          Wort und werden dabei doch von ihrer eigenen Lust, die sie zum Trunk oder Spiel oder
+          wüstem Wesen fortreißt, ärger geknechtet als Mancher, der den strengsten Konig hat.
+          Wahrlich, solche verdienten eine Maulschelle,wenn sie das Wort Freiheit nur auf die Zunge
+          nehmen.Da hat mir die Erzählung aus der Schweizergeschichte prächtig gefallen, die auch in
+          der Predigt vorkam, wie einst zwei hochangesehene Männer von der Eidgenossenschaft nach
+          Paris geschickt wurden, um einen Vertrag mit dem Könige von Frankreich zu schließen, ein
+          Herr von Hallwyl von Bern und Hans Waldmann von Zürich.Nun hätte der König von Frankreich
+          natürlich gern gesehen, wenn der Vertrag zu seinem Vortheil ausgefallen wäre, und that
+          drum den Gesandten alle Ehre an und schickte ihnen sogar prächtige Geschenke von
+          Silbergeschirr. </p>
+        <pb n="43"/>
+        <p>Da ward ihr freier eidgenössischer Sinn auf eine harte Probe gestellt, und nicht beide
+          hielten sie aus. Hans Waldmann nahm die Geschenke und stimmte nach des Koönigs Willen; der
+          Herr von Hallwyl aber, als er das Garn merkte, mit welchem man ihn fangen wollte, verließ
+          in aller Stille, als Spielmann verkleidet, das verführerische Paris und wanderte so,
+          ärmlich in seinem Aufzug,aber frei im Herzen, in sein Vaterland zurück. Der Waldmann ist
+          später in Zürich auf dem Schaffot gestorben er hatte durch allerlei harte Maßregeln das
+          Volk erbittert dem Hallwyl haben alle rechte Eidgenossen für seine Biederkeit gedankt. O
+          wie möcht' ich's doch allen jungen Burschen und Mädchen zurufen, sie sollten sich nicht an
+          die hunderterlei neuen Dinge gewöhnen, die man jetzt immer mehr in Lebensart und Nahrung
+          und Kleidung für nöthig hält! Das ist eine Last, die man sich selbst auflegt und später
+          kaum mehr weiter schleppen kann. Mit Kleinem fängt man an, und eh' man dran denkt, ist man
+          beim Großen und kann nicht mehr umkbehren. Zuerst setzt man kleine Herren und Tyrannen
+          über sich, sie verlangen nichts als etwa ein Kartenspiel, ein Gläschen Wein, eine Cigarre
+          oder ein neues Halsband, einen Spiegel, aber wenn sie das erhalten haben, so wollen sie
+          immer mehr, den ganzen Verdienst, alle deine Gedanken, dein Herz, deine Unschuld, das sind
+          die Tyrannen </p>
+        <pb n="32"/>
+        <p>Genußsucht und Hoffahrt und Wollust, die haben auf Ehre mehr Unheil angestiftet im
+          Schweizerland als seiner Zeit die herrschsüchtigen Landvogte. Ja, es ist heutzutage keine
+          Seltenheit: junge Bursche von noch nicht 25 Jahren,die schon Knechte der Trunksucht sind
+          und der Wollust,und junge Mädchen in noch geringerem Alter, Dienerinnen der Eitelkeit und
+          eines unzüchtigen liederlichen Sinnes und Wesens. Wie die Fliege im Spinngewebe liegen sie
+          im Netz der Sünde und verwickeln sich immer tiefer, und was kann man ihnen Anderes
+          voraussagen, als zeitliches und ewiges Verderben! O meine Kinder, bei euch ist's,Gott sei
+          Dank, noch nicht so weit gekommen, aber seit einiger Zeit habt ihr auch eure kleinen
+          Herren und Tyrannen; macht euch frei davon, so lang's noch Zeit ist; euer Vater müßte sich
+          alle Haare zum Kopf ausreißen, wenn er eines von euch so in der Knechtschaft der Sünde
+          verloren gehen sähe. Denkt euch dagegen, wie schön es ist,Gesundheit, Frohsinn, starke
+          Arme, ein frei Gemüth und ein reines Gewissen zu bewahren durch alle Lebensalter,sich vor
+          Niemand zu fürchten als vor Gott, der Güter des Lebens in Ehren sich zu freuen, wenn Gott
+          ste gibt, wie er sie unserm Hause bisher schenkte, aber auch mit dem Wenigsten sich
+          begnügen zu können, wenn ersie nimmt! Wer steht ehrenhafter da vor der Welt als dieser!
+          Glaubt's nur, kein Anderer hat mehr wahre Freude als er, und kein </p>
+        <pb n="15"/>
+        <p>Anderer wird einst ruhiger Abschied nehmen von der Welt und den Freuden des ewigen Lebens
+          entgegensehen.</p>
+        <p>Aber, daß ich nicht vergesse, was der Pfarrer noch vom Segendes Mittelstandes und der
+          Armuth gesagt hat; noch nie hab' ich besser begriffen, warum die Armuth doch auch ihr
+          Gutes hat auf Erden und eine gute Schule ist für viele Menschen, die ohne sie nichts
+          Rechtes geworden wäͤren. Man glaube doch nicht, sagte er, der Reichthum sei ein so großes
+          Glück; wer sich von diesem Irrthum kuriren will, der sehe nur, wie in den meisten reichen
+          Familien die Kinder erzogen werden. Man gewöhnt sie tagtäglich an viele Bedürfnisse, von
+          denen Andere kaum etwas wissen und meint, man thue ihnen den größten Gefallen und legt
+          ihnen damit gerade eine Last auf, an der sie ihr Lebenlang zu schleppen haben.Da traf er
+          in Vielem den Nagel gerade auf den Kopf;ich kann's nicht mehr so sagen wie er, aber zu
+          Allem mußte ich Ja sagen von ganzem Herzen; Vater und Mutter hielten uns knapp und rauh
+          und streng; doch dank' ich's ihnen heute noch; denn Wenige gibt's im Dorf, die's an Kraft
+          und Gesundheit und an Muth und Ausdauer, wo's gilt, mit mir aufnehmen.“Jetzt hielt der
+          Vater wieder eine Weile still, sah in die aufgeschlagene Bibel, besann sich und fagte
+          dann: „Nun sollte noch der drit te Theil kommen, welcher den Spruch <pb/>erklärte: So wir
+          Nahrung und Kleidung haben,so lasset uns genügenz aber ich sag's euch offen: die schweren
+          Gedanken, welche beim ersten und zweiten Theil in mir aufstiegen, stürmten mir so im Kopfe
+          hin und her,daß ich bis zum Amen nicht mehr recht Acht geben konnte und vielleicht hab'
+          ich bisher schon Einiges gesagt, was unser Pfarrer erst im dritten Theil vorbrachte. Kurz,
+          es handelte sich darum, wie glücklich jeden einzelnen Menschen und ganze Familien die
+          rechte Genügsamkeit mache,und wie dieß Glück der Genügsamkeit seine tiefste und alleinige
+          Quelle habe in der innern Ruhe und dem Frieden,den uns die Gewißheit des ewigen Lebens
+          gibt. Unter Anderm erinnere ich mich noch an den gewiß recht wahren Gedanken, dem Menschen
+          sei eine Anlage dazu gegeben,mit Wenigem zufrieden und glücklich zu sein; das sehe man an
+          den Kindern; wie unglaublich wenig brauche es oft, um sie in die glücklichste Stimmung zu
+          versetzen, nur müsse es mit Liebe gegeben sein, eine Geschichte, ein Spiel, etwas Neues,
+          was sie noch nie gesehen, ein Gericht,das sie besonders lieben, man könne damit Wunder
+          wirken an Kindern. O daß die Menschen diesen genügsamen kindlichen Sinn bewahrten, rief
+          hier der Pfarrer aus, daß sie darauf dächten, sich gegenseitig einfache und reine Freuden)
+          zu bereiten; sie würden bald merken, daß es dabei nicht ankommt auf das Wieviel <pb n="47"
+          /> und Wiegroß, sondern auf das Wie, auf den Sinn,mit dem es gegeben wird. Und solche
+          Freuden, die im Königspalast und im bürgerlichen Hause, im stattlichen Bauernhause und in
+          ärmlicher Hütte gefeiert werden konnen, sind die Familienfreuden, wenn Großeltern,Vater,
+          Mutter und Kinder in Frieden beisammensitzen an einem Festtag, an Ostern, an Pfingsten, an
+          einem Namenstag, bei einer Taufe, und vergnügt sind schon darum, weil sie die Liebe
+          fühlen, die eins ans andre bindet und weil sie einmal etwas größern und festlichern
+          Aufwand sich erlauben, als an den Tagen der sauren Arbeit. Aber nur,wer die saure Arbeit
+          kennt, kann solche Feste feiern; dann jedoch braucht es weder Pasteten noch Zuckerzeug, um
+          fröhlich zu sein; ein guter Bissen und ein gut Glas Wein erfreut dann genug des Menschen
+          Herz. Aber Liebe,Friede, Eintracht ist die Würze von Allem.</p>
+        <p>Er ermahnte zum Schluß mit warmen Worten dazu,die Liebe und den Frieden zurückzuführen in
+          die Haushaltungen, dann komme die Einfachheit und die Genügsamkeit auch wieder, und betete
+          noch zu Gott, er möchte diese Worte besonders an der Jugend reichlich segnen.Und wie er
+          das Amen sprach, dachte ich: Jetzt darfst du nicht länger schweigen; heute muß es heraus.
+          Nun ists heraus; Gott möge meine Worte segnen; es ist mir bitter und sauer geworden, so zu
+          euch zu reden, ihr Kinder, <pb n="48"/> aber ich hoffe, es gehe von heute ein neues Leben
+          an in unserm Hause, und wir feiern einen Tag der Versöhnung.“</p>
+        <p>Fünstes Rapitel.</p>
+        <p>Jer Predigt Frucht.</p>
+        <p>Psalm 126, 5. Die mit Thränen säen, werden mit Freuden ernten.Der Leuenbauer schaute bei
+          den letzten Worten zuerst den Sohn und dann die Tochter an, ob ihm aus ihren Blicken kein
+          Zeichen der Zustimmung entgegenkomme;auch die alte Großmutter richtete ihre Blicke auf
+          ste. Man fah ihr an, sie hatte, nachdem sie der Predigt aufmerksam zugehört, selbst eine
+          lange Predigt im Vorrath, die sie so gerne jetzt der vorangegangenen häͤtte nachfolgen
+          lassen;aber sie bezwang sich, der Weisung ihres Sohnes eingedenk und hielt Stillschweigen.
+          Liseli schwamm immer noch in Thränen und verbarg das Gesicht ins Schnupftuch;sein Bruder,
+          bei dem es seit Jahren nicht mehr zu Thränen gekommen war, schien ganz in Gedanken
+          versunken; wer ihn nicht kannte, merkte nichts von einer großen innern </p>
+        <pb n="49"/>
+        <p>Bewegung an ihm; wer sich aber auf seine Natur verstand, konnte aus seinem Blick und
+          seiner Haltung einen baldigen heftigen Ausbruch seiner Empfindungen voraussagen, aber noch
+          wußte Niemand, ob zum Guten oder zum Schlimmen, zur Reue oder zum Zorn. Aber des Vaters
+          warmes Wort war dießmal bei ihm nicht auf den Weg gefallen. Wie von einer
+          unwiderstehlichen innern Gewalt getrieben stand er plötzlich vom Tische auf, ging auf den
+          Vater zu, reichte ihm die Hand und sagte mit lauter heftiger Stimme: Vater, da nehmt mein
+          Wort:Ich will euer rechter Sohn bleiben, ich will wieder Bauer werden, ich will den alten
+          guten Namen unseres Hauses nicht beflecken, sondern euch nachschlagen und eure Stütze sein
+          im Alter, so gut ich kann! Vater, ich versprech's euch und will's halten, so wahr Gott mir
+          dazu helfe, sagte er mit großem Nachdruck und mit feuchten, leuchtenden Augen. Und euch
+          verspreche ich's auch, sagte er, die Hand der Mutter erfassend, und indem er der
+          Großmutter die Hand reichte: Euch auch! Erinnert mich daran, wenn ich mein Wort vergessen
+          sollte; aber es wird nicht nöthig sein. Der Herr segne deinen Entschluß, sagte der Vater
+          mit tiefem Ernste; wenn er Bestand hat, so will ich Gott dafür danken von
+          Herzensgrund.</p>
+        <p>Damit ihr seht, daß es mir wahrhaftig Ernst ist, nehme ich morgen meinen Abschied aus der
+          Fabrik und stehe dann </p>
+        <p>Zehender, der Leuenhof. 4 <pb n="50"/> wieder euch zur Seite bei allen Geschäften auf dem
+          Acker oder im Holz, in der Scheune oder im Stall; man soll mich Hans heißen, wenn ich
+          nicht bald wieder ein tüchtiger Bauer sein werde, trotz dem stärksten Burschen im
+          Dorf.Aber das sag' ich noch dazu: Des Liseli's Webstuhl muß morgen schon aus dem Haus und
+          seine abgeschmackten Stadthauben und Bändel und Zipfel und Fransen, die müssen mir aus den
+          Augen, und wenn's nicht gutwillig geschieht, so helf' ich selber dazu; s'war mir selber
+          schon lang ein geheimer Aerger, meine Schwester so eitel davonschwänzeln zu sehen wie die
+          Modeschwänze in der Stadt,über die ich mir oft schon den Buckel voll gelacht habe;aber ich
+          durfte nichts sagen, weil ich wohl fühlte, daß ich selber im gleichen Spital krank war.
+          Nun kehr' ich wieder zu meinem Baurenkittel zurück; dann möcht' ich aber auch wieder eine
+          Schwester haben, an der ich mich weidlich freuen kann, wenn ich sie vergleiche mit den
+          andern Bauerstöchtern im Dorf; und Gottlob ist unser Liseli vom lieben Gott so geschaffen,
+          daß es sich wohl sehen lassen darf vor den Leuten, und braucht alles das Narrenwerk nicht,
+          wofür es so viel Geld ausgegeben hat dummer Weis', braucht's nicht, wenn es will den
+          rechten Leuten gefallen. Mir wenigstens gefiel es immer tausendmal besser in seiner
+          einfachen Bauerntracht, und wenn einmal die fremden Fetzen fort sind und der Webstuhl mit
+          sammt dem vielen Geld <pb n="51"/> aus dem Haus, dann wird hoffentlich auch bald das alte
+          Liseli wieder da sein. Nicht wahr, Liseli, du thust mir's zum Gefallen? sagte er mit einem
+          zwar immer noch rauhen,aber nun doch von der brüderlichen Liebe mild durchklungenen Tone
+          und reichte ihm die Hand, um sein Wort darauf zu empfangen.</p>
+        <p>Zögernd und, wie man deutlich sah, nur mit halbem Herzen reichte die Schwester ihm die
+          Hand über den Tisch,halb verwundert ob dieser ganz ungewohnten Traulichkeit und halb
+          überrascht von der großen Zumuthung, die ihm gemacht wurde und der nachzukommen es noch
+          nicht entschieden im Sinne hatte. Das Geld und die Putzsachen und die neuen Lustbarkeiten
+          und die Genossinnen derselben,die zogen in diesem Augenblick an seiner Seele mit aller
+          Gewalt und ebenso stark als die Vater- und Mutter und Bruderliebe, und trotz der vielen
+          vergossenen Thränen hatten die warmen Worte der väterlichen Liebe das Gewicht seiner
+          leichtsinnigen Neigungen und Gedanken noch nicht überwogen; stark schwankte es noch
+          zwischen der göttlichen Traurigkeit und der Traurigkeit der Welt. Aber in diesem
+          Augenblicke, wo Alle es anschauten und einen guten Entschluß von ihm erwarteten, konnte es
+          dem Bruder seine Bitte doch unmöglich abschlagen; so gab es seine Hand hin; der Bruder
+          fühlte die Kälte wohl, die ihm noch im Herzen war und gar nicht zusammenstimmte mit <pb
+            n="52"/> der Wärme der feurigen Vorsätze, die jetzt glühten in seiner männlichen Brust.
+          Drum hielt er Liseli's Hand fest mit kräftigem Druck und sagte: Aber bedenk' wohl, was du
+          versprichst und denk an das Sprüuchlein:</p>
+        <p>Versprechen und Halten </p>
+        <p>Steht fein bei Jungen und Alten.Ich nehme dich bei deinem Wort, und wenn du's hältst,so
+          wirst du an mir einen Bruder haben, der's gut mit dir meint bis zum Tod. Liseli konnte
+          nicht mehr zurück, versprach auch bei sich selbst Alles in diesem Augenblick, wollte
+          reden, konnte aber nicht vor Schluchzen und war froh,als die Mutter das Wort ergriff und
+          sagte:</p>
+        <p>„Laßt ihm Zeit; ich weiß, es ist ihm leid; aber es kommt ihm jetzt zu viel auf einmal
+          zusammen. Es sieht gewiß seine Fehler ein und will sich bessern, denn es hat kein böses
+          Herz; aber ihr müßt ihm Zeit lassen und auch nicht zu viel auf einmal
+          verlangen.“Unterdefsen hatte die Großmutter zu wiederholten Malen den Vater angeschaut,
+          als ob ste ihm sagen wollte,sie habe auch noch etwas auf dem Herzen, was sie ihren Enkeln
+          an das nun erweichte Herz legen möchte; er war aber zu sehr ergriffen von dem, was
+          vorging, als daß er es bemerkte; endlich stieß sie ihn mit dem Ellbogen an;nun errieth er
+          sogleich ihr Begehr, nickte ihr zu und gab <pb n="53"/> mit den Augen noch sein deutliches
+          Zeichen der Zustimmung, und nun begann sie mit zitternder Stimme:Gott sei Lob und Dank für
+          die große Gnade, die er heute diesem Hause widerfahren läßt! Ja, er hat mein Gebet erhört;
+          er läßt die Hoffnung der Seinigen nicht zu Schanden werden; er kann thun über unser Bitten
+          und Verstehen; das habe ich heute von Neuem erfahren.Nur Er weiß es allein, was ich
+          ausgestanden habe in Sorgen und Kümmern um euch, meine lieben, lieben Enkel,und ich
+          bekenne es offen vor meinem Herrn, ich war schon kleingläͤubig geworden; ich glaubte
+          schon, es sei nun alles mein Klagen und Beten und Flehen vergebens, ich werde das schwere
+          Hauskreuz tragen muüssen, bis es mich zu Boden drücke, und dann werde ich mit Jammer
+          scheiden müssen aus diesem irdischen Jammerthal. Aber wenn die Noth am größten, ist Gottes
+          Hülfe amnächsten,das ist doch immer wieder wahr. Während ihr heut in der Kirche wart, bin
+          ich fast vergangen vor Kummer darüber,wie Alles so ganz anders, so viel hoffärtiger, ja
+          ich sag's gerad' heraus, so viel gottloser geworden sei in unserm Hause, und in der
+          gleichen Stunde hat unser gnädige Gott unserm braven Herren Pfarrer diese schöne Predigt
+          eingegeben, als hätte er sie für unser Haus bei ihm bestellt, und hat seine Gedanken auf
+          den Text gerichtet, der eurem Vater einmal so lieb und theuer geworden ist, und <pb n="34"
+          /> dadurch hat er's dem Vater eingegeben, er solle zu euch ein ernstes Wort reden, und hat
+          dann zu dem Wort seinen Segen gegeben; wenn man sieht, wie das Alles so zusammenstimmt, da
+          müßte Einer doch blind sein auf beiden Augen und ein Herz haben wie Kieselstein, der es
+          nicht eingestehen wollte, daß ein liebreicher, himmlischer Vater alle Dinge regiert, und
+          daß die Herzen der Menschen in seiner Hand sind wie Wasserbäche und Er sie leiten
+          kann,wohin Er will. O Melcher, wenn's dir damit Ernst ist,was du dem Vater versprochen
+          hast, und du, Liseli, auch Wort hältst, aber, aber, nicht bloß heut und morgen,sondern von
+          nun an immer Sonntag und Werktag so nehmt ihr euerer alten Großmutter einen
+          schweren,schweren Sorgenstein vom Herzen. Tag und Nacht hat er mich gedrückt seit einem
+          halben Jahr. Denkt, was mir kürzlich geträumt hat, ihr beide gehet an einem Sonntag mit
+          einander spazieren, und ich sehe, wie der schmale Weg euch an einem tiefen Abgrund
+          vorüberführt; das Liseli springt leicht und lustig voran und hört nicht, wie der Bruder
+          ruft, thut einen falschen Tritt, gleitet aus, und der Melcher will's noch halten da bin
+          ich erwacht. Ich glaube sonst nicht an Träume, halte es auch nicht für gut,wenn man
+          ängstlich darauf achtet; aber was unser Eins recht tief bekümmert, das kommt ihm auch im
+          Traum vor:so könnt ihr daran sehen, wie tief mir's zu Herzen ging, <pb n="55"/> daß ihr
+          beide unsre alten guten Sitten verlassen und verachtet habt. Eurem Vater hat's weh gethan,
+          das habt ihr heut merken können; mir noch viel mehr; denn so weit ich zurückdenken kann
+          und das sind nun bald siebzig Jahre ist's im Leuenhof sparsam und einfach, fromm und
+          gottselig, aber auch fröhlich und in Frieden zugegangen, und Gottes starker Arm hat drüber
+          gewaltet in guten und bosen Tagen. Und nun in diesem alten ehrbaren Haus Hoffahrt und
+          Uebermuth sehen müssen, leichtsinnige Reden und gar Lästerungen über Gott und sein Wort
+          hören müssen, glaubt mir, daß war mir in der Seele zuwider, das hätt' ich nicht lang
+          ertragen! Da mußt' ich jeden Tag denken: Womit hat denn der liebe Gott dieß an uns
+          verdient? Er wird seiner nicht spotten lassen; er wird einmal ein großes, schweres Gericht
+          über uns schicken.Aber nun läßt er nach seiner Barmherzigkeit das Gericht vorübergehen;
+          denn er hat heut einen Engel des Friedens ins Haus gesandt. Drum folgt seiner Stimme; ihr
+          könnt nichts Bessres thun; trachtet nicht nach hohen Dingen;bleibt bei dem schönen Stand
+          eurer Väter! Hab' ich doch nun über 70 Jahr die Welt gesehen, aber einen andern Stand
+          hätt' ich mir nie gewünscht. Das Brod essen, das man selbst gepflanzt hat, mit dem Hanf
+          und Flachs sich kleiden, den man selbst gesponnen hat, und bei Fleiß und Arbeit Niemand
+          nichts schuldig bleiben, Niemandes <pb/></p>
+      </div>
+      <div type="chapter">
+        <head>Knecht sein, das kam mir immer vor als das schönste</head>
+        <p>Knecht sein, das kam mir immer vor als das schönste Lebenz ich hätte mit keinem König
+          tauschen mögen. Das rauhe Brod und das frische Wasser dazu, unsre gesunde Milch von der
+          eigenen Kuh und der liebe Kaffee dabei,das hat mir, ich bin's versichert, immer besser
+          geschmeckt,als den großen Herren ihre Braten und Pasteten. Zu gut hab ich's nie gehabt,
+          und ich danke Gott dafür; er hat mich dadurch oftmals denken gelehrt an einen Ort, wo
+          wir's einmal noch besser haben werden, als hier unten auf der Erde, an sein Himmelreich;
+          hätt' ich's besser gehabt, wer weiß, ob ich nicht dann das Bestedrob vergessen hätte, das
+          ewige Leben, und um deßwillen sind wir ja eigentlich auf der Welt, und dorthin werden wir
+          nichts mitnehmen von allen weltlichen Dingen,wie es der Bibelspruch so schön sagt. Das,
+          ihr meine Enkel, muß ich euch noch vorhalten als eure Großmutter,die euch niemals aus den
+          Augen läßt: daß ihr ganz verlernt habt, in der Bibel zu lesen, das war auch Schuld an der
+          schlimmen Veränderung, die mit euch vorgegangen ist.Drum folget meinem Rathe, lest von nun
+          an wieder paarkräftige Sprüche nur, aber versäumt es niemals, es wird euch nicht gereuen;
+          ihr werdet den Segen davon in allen Dingen spüren, wie ihr ihn <pb n="57"/> hente gespürt
+          habt. Gleich jetzt fangt an mit mir; ich lese euch den schönen 103. Psalm. Feierlich
+          begann sie:</p>
+        <p>Lobe den Herrn, meine Seele, und wasin mir ist, sein heiligen Namen! Lobe den
+          Herrn,meineSeele, und vergiß nicht, was er dir Gutes gethanhat! Der dir alle deine Sünde
+          vergibt und heilet alle deine Gebrechen. Sie las den herrlichen Psalm bis zu Ende mit
+          immer steigendem Nachdruck; man merkte, daß sie schon oft im Leben Trost und Freudigkeit
+          daraus geschöpft hatte. Ihr in Folge des Alters und vieler mühsamer Arbeit von Falten
+          durchzogenes Antlitz hatte während des Lesens einen besonders würdigen und feierlichen
+          Ausdruck angenommen, und aus ihren Augen leuchtete eine himmlische Freude; es war für sie
+          einer der schönsten Augenblicke seit langer Zeit.Als sie geendet hatte, trat ein ernstes
+          Stillschweigen ein,ein solches, welches man hätte mit den Worten beschreiben können: Es
+          ging ein guter Engel durch die Stube. Dann erinnerte die Mutter daran, es sei nun doch
+          Zeit vom Tische aufzustehen; die Uhr zeige schon auf drei Uhr, da müsse sie gehen, den
+          Kaffee zuzubereiten; wenn Liseli helfen wolle, so gehe es noch einmal so schnell, denn der
+          Vater werde Durst haben nach dem langen Reden. Alle erhoben sich, Melcher verließ die
+          Stubez Liseli räͤumte flink den Tisch ab und flog willig hin und her in Stube und <pb
+            n="38"/>Küche; der Vater stopfte sein Pfeischen; die Großmutter setzte sich auf die
+          Ofenbank.dechstes Rapitel.</p>
+        <p>Die Haussonne.</p>
+        <p>Psalm 1833, 1. Siehe, wie fein und lieblich ist es, daß Brüder einträchtig bei einander
+          wohnen.Endlich hörte draußen das dichte Schneegestöber auf,alle Dächer hatte es mit der
+          weißen, reinlichen Decke überzogen, die Bäume bis auf ihre kleinsten Zweige hinaus
+          bekleidet und jedem Pflock an den Gartenzäunen ein Käppchen aufgesetzt; die hohe
+          Brunnensäule vor dem Hause aus halb verwittertem, grauem Holze hatte der Schnee mit einem
+          runden, schimmernden Turban geziert,dessen Spitze aber bei jedem Lufthauch, jeder kleinen
+          Erschütterung einzustürzen drohte. Nicht die gleiche, reinliche Farbe, vielmehr eine
+          gerade entgegengesetzte hatte die durchs Dorf führende Straße bekommen; nur ganz wenige
+          Menschen, welche tiefe Fußstapfen zurückließen, zeigten <pb n="59"/> sich darauf, von dem
+          feuchten Schneewind zur Eile angetrieben; den Kühen, welche zur Tränke kamen an den
+          Brunnen vor dem Hause, schien es auch unbehaglich zu sein, sie wateten so bald als möglich
+          wieder in die Wärme des Stalles zurück. Eine graue Wolkendecke verschleierte den Himmel;
+          doch jetzt zerriß sie an einzelnen Stellen,und schwache Sonnenstrahlen brachen durch,
+          ihren Weg zur Erde durch zarte Lichtstreifen bezeichnend. Endlich traf sich's, daß die
+          Sonne ganz die Wolken durchbrach und mit ihrem freundlichen Licht auf das Dorf in seinem
+          Schneekleid herabschien, so daß die Dächer strahlend erglänzten, als geschähe es dem
+          einziehenden Winter zu Ehren. In manche niedre Bauernstube sandte sie einen kurzen,
+          warmen, freundlichen Gruß und erfreute damit da und dort ein stilles um Vater und Mutter
+          geschaartes Häuflein, welches die doppelte Wohlthat der köstlichen Sonntagsruhe und der
+          wohlerwärmten Stube behaglich genoß. Während aber so die Sonne von außen hereinschien, war
+          in mancher Bauernstube gerade auch eine andere Sonne aufgegangen, welche täglich um diese
+          Zeit die Gemüther zu erwärmen und zu beleben pflegte und an manchem trüben und
+          verdrießlichen Geist schon Wunder gewirkt hat das war die blankgefegte zinnerne
+          Kaffeekanne mit glänzender messingener Haube, welche durch den ebenfalls gelbglänzenden
+          Schnabel die Wolken des <pb n="60"/>würzigen Dampfes aushauchte in die Stube, ein SchauV
+          bahnwagen im prächtigsten Bahnhof.</p>
+        <p>Auch im Leuenhof prangte diese Sonne auf dem Tische;dort ging sie fast so regelmäßig auf
+          und unter wie ihre Schwester draußen am Himmel; aber während diese die weite Reise um die
+          Welt zurücklegte, kam sie niemals weiter, als von der Küche in die Stube und aus der Stube
+          wieder in die Küche. Selten fiel eine Unregelmäßigkeit vor in diesem ihrem gewohnten
+          Laufe, und wenn dieß geschah, so stellte die exakte Großmutter alsbald die rechte Ordnung
+          wieder her. Wohlthätig und unberechenbar war ihre segensreiche Wirkung; wer es nicht
+          glaubt, hätte die beredte Großmutter hören sollen, wenn ste ihre Lobrede darüber hielt. Da
+          war sie nicht bloß eine Quelle der Gesundheit und eine Trösterin und Helferin in
+          Krankheit, in trüber Laune brachte sie den Frohsinn zurück, und die lange Weile besiegte
+          ste glücklich; sie weckte in Verlegenheit gute Gedanken, im häuslichen Kreise nützliche
+          und heilsame Gespräche, ja zu Allem dem war die liebe Kaffeekanne noch eine Versöhnerin
+          und Friedensstifterin, dafür hatte die Großmutter Exempel genug bereit für die, welche es
+          bezweifeln wollten. Es war kein gutes Zeichen, daß ihr seit geraumer Zeit der Kaffee nicht
+          mehr hatte schmecken wollen, daß ste immer <pb n="831"/> nur noch eine, ganz selten zwei
+          und nie mehr wie sonst am Sonntag gewöhnlich drei Tassen trank. Die Großmutter lebt nicht
+          mehr lang, sagte manchmal die Mutter zum Vater; du siehst, nicht einmal der Kaffee
+          schmeckt ihr mehr. Und wirklich war jenes Zeichen bedenklicher, als man hätte vermuthen
+          sollen. In jener trauten Stunde, da die beliebte Freundin auf dem Tische stand, war die
+          Großmutter stets die Seele des Gespräches gewesen: erfreute sie etwas, so mußte sie's
+          erzählen; gefiel ihr etwas nicht an den Enkeln, so sagte ste's im Scherze, und wenn's
+          nicht half, den Tag darauf im Ernste; die Neuigkeiten des Dorfes wurden verhandelt, und
+          hatte eins einen Verdruß, so war sie mit einem kräftigen, wohlgewürzten Troste bereit; sie
+          selbst machte sich's zur strengen Regel,immer mit heiterm Gesichte obenan zu sitzen; denn
+          hier führte ste nach altem Brauche den Vorsitz und ließ sich's nicht nehmen, wenn auch mit
+          zitternden Händen, ihren Nachbarn am Tische einzuschenken. War irgend ein festlicher
+          Anlaß, so überraschte sie die Ihrigen mit einem Eier oder Zwiebelkuchen und manchmal war's
+          ihr schon gelungen, in trüben Zeiten ihrem Sohne mit diesem seinem Lieblingsgerichte die
+          Sorgenwolken von der Stirne wegzuscheuchen oder ihn für ihre milden Trostworte
+          empfänglicher zu machen. Oft kamen auch Nachbarn oder Verwandte um diese Stunde, besonders
+          am Sonntag, und <pb n="62"/>tranken dann gerne ein Taäßchen mit. Seitdem nun aber Melcher
+          wegen seiner Fabrikgeschäfte gewöhnlich beim Kaffee fehlte und Liseli in seinem
+          Arbeitseifer beim Seidenweben sich kaum die Zeit gönnte, seine Tasse brühwarm
+          hinunterzustürzen, (was überdieß die Großmutter nicht leiden konnte, weil es schädlich sei
+          für die Zähne und den Magen) und, kaum war es recht an den Tisch gesessen,schon wieder
+          davonsprang, da war für das liebe Kaffeestündchen Freude und Gedeihen dahin, kein rechtes
+          Gespräch wollte mehr aufkommen, das Liseli that, als ob man ihm für jedes freundliche Wort
+          einen halben Batzen bieten müßte; so kam es oft zu gegenseitigen Vorwürfen; entweder stand
+          zuletzt der Vater auf und ging unwillig davon, oder das Liseli schlug die Thüre zu, daß
+          die Fenster klirrten, kurz, die Haussonne von ehemals wollte nicht mehr freundlich
+          strahlen, nicht mehr wohlthuend wärmen,und das war auch ein trübes, schlimmes Zeichen.</p>
+        <p>Heute aber hatte seit langer Zeit Liseli wieder zum ersten Male selber Hand angelegt, um
+          den braunen, stärkenden Trank zu bereiten. Mutter, laßt mich machen,sagte es freundlich,
+          ich versteh' mich noch so gut darauf wie früher; ihr macht ja euren schönen Sonntagsrock
+          staubig, und für meinen ist's nicht schade; er wird ja doch nun abgedankt, da ihn der
+          Vater nicht mehr leiden will.Also geht in die Stube und laßt mich hier allein; ihr sollt </p>
+        <pb n="83"/>
+        <p>Alle einen Kaffee bekommen, wie ihr lange keinen getrunken! Gerne überließ die Mutter der
+          Tochter ihr gewöhnliches Amt, und unter ihren Händen setzten sich die Pfannen beinahe
+          selbst über das Feuer, ja sie fand noch Zeit, in aller Geschwindigkeit einen Teller mit
+          kleinen Kuchen zu bereiten, wie sie die Großmutter besonders liebte. Als Alles fertig war,
+          brachte sie's mit freudestrahlendem Gesichte in die Stube, und nun strahlte wieder einmal
+          die blanke Kaffeekanne als treue Haussonne freundlich über den Tisch, und haätte sie
+          dießmal nicht erwärmt und erheitert wie ehemals, so hätte des Liseli's fröhliches Antlitz
+          an ihrer Statt dieß thun müssen; denn das mußte man ihm lassen, es war allerliebst und
+          hübsch zum Malen,wenn sein von Natur so fröhlicher Sinn frei aufquellend aus dem Herzen
+          seine Bewegungen, seine Worte und seine Züge belebte. Nun war es auch für die Großmutter
+          eine wahre Lust und Augenweide, ihm zuzusehn, wie flink es die Sonntagstassen mit den
+          gemalten Kränzchen oder Namen oder Sprüchen aus dem Schranke nahm und auf dem Tisch
+          herumstellte, und wie es dann mit heitern herzgewinnenden Worten Alle einlud, sich nun zu
+          Tische zu setzen, und zu probiren und zu entscheiden, ob es auch noch im Stande sei,
+          Kaffee und Kuchen zu machen, wie's sich gehöre. Aber wie schade, sagte es, als die Andern
+          saßen, daß der liebe Melcher noch nicht da ist, der versteht <pb n="14"/>sich ja so gut
+          darauf, was gut schmecke oder nicht; er könnte das beste Urtheil abgeben, und gewiß er
+          würde dießmal nicht verachten, was das ungeschickte Liseli zubereitet hat.Indeß dabei die
+          Großmutter dachte, es sei doch ein Unterschied, stärker als zwischen Tag und Nacht,
+          zwischen einem Menschen, wenn schlimme Laune und Mißmuth und ein böses Gewissen aus ihm
+          herausschaue und demselben Menschen, wenn der gute Wille und die Liebe ihn treibe,und dieß
+          auf's Liseli anwandte, trat Melcher rasch zur Thür herein, war freudig überrascht von dem
+          Anblick des wohlbesetzten Kaffeetisches und setzte sich mit einer selbstzufriedenen Miene
+          an seinen Platz, welche verrieth, daß er eine willkommne Neuigkeit auf der Zunge habe.
+          Nach seiner Gewohnheit aber platzte er nicht sogleich damit heraus, sondern seine erste
+          Sorge war, sich seine Tasse füllen zu lassen von der ungewöhnlich dienstfertigen
+          Schwester,welche auch nicht säumte, sein wohlerfahrenes Urtheil über ihre wieder erwachte
+          Haushaltungskunst keck herauszufordern. Mit Kennerblick stimmte er ein in das allgemeine
+          Lob; die Großmutter konnte in ihrer Gesprächigkeit kaum damit fertig werden; die Sonne
+          sandte dazu ihre letzten, matten, röthlichen Strahlen durch die niedern Fenster. Allen
+          aber war's als hätten nach einem Hochgewitter, das sich glücklich entladen, die Wolken
+          sich wieder verzogen, und in den Regentropfen am nassen Grase <pb/>*glänzte von Neuem das
+          Sonnenlicht so schien der alte Geist der herzlichen Liebe und ein heimeliges Wesen ins
+          Haus zurückgekehrt, und die Gespräche, die nun sich entspannen, legten davon das
+          deutlichste Zeugniß ab.</p>
+        <p>Der Melcher hat etwas hinter den Stockzähnen, sagte der Vater zur Großmutter gewendet,
+          seht nur, wie er sich zwingt, ein ernsthaftes Gesicht zu machen wie ein Rathsherr, und es
+          will ihm doch nicht recht gerathen; frisch heraus mit der Sprache, wir Andern wollen auch
+          wissen, was dir eben im Kopf herumgeht.</p>
+        <p>Nichts, als daß ich eben beim Fabrikaufseher gewesen bin, sagte Melcher mit zufriedenem
+          Gesicht, und meinen Abschied genommen habe; aber die Lektion hättet ihr hören sollen, die
+          er mir gab zur guten Letzt, wie ich nun wieder ein Bauerntoölpel werde und mein Glück mit
+          Füßen trete, wie's nicht lange gedauert hätte, so hätte ich fast den doppelten Lohn
+          bekommen, wie das ein schlimmes Beispiel sei für's ganze Dorf; denn zu Hause werde ich
+          doch nur auf der faulen Haut liegen und dergleichen Dinge mehr,daß mir das Blut schon in
+          den Kopf und das Prügelfieber in die Arme kommen wollte. Aber ich besann mich besser,nahm
+          meine neumodige, thalerwerthige Cigarrenbüchse,die ich doch nie recht hatte brauchen
+          koönnen, überreichte sie ihm und sagte, ich wollte sie ihm zum Geschenk machen zum Dank
+          für die vielen guten Lehren, die er mir gegeben </p>
+        <p>Zehender, der Leuenhof. 5 <pb/>*8 und die ich mir alle so bald als möglich wieder aus dem
+          Kopf schlagen wolle, und ging leicht und froh wieder davon. Glaubt ihr nun, Vater, daß es
+          mir wahrhaftig Ernst Ich seh', der Apfel ist doch nicht allzuweit vom Stamme gefallen; es
+          ist in dir auch etwas vom guten harten Eichenholz, aus dem uns're Väter und Vorväͤter
+          geschnitten waren; aber der Wurm wollte dran kommen und's war hohe Zeit, daß man ihm auf
+          die Spur gekommen ist. Nun ist er vertilgt, und wir wollen zu Gott hoffen, daß aus dir
+          wieder ein guter und gesunder Stamm werde. Aber nun nimmt mich doch Wunder, fuhr er
+          scherzhaft fort, was das Liseli mit seiner türkischen oder chinesischen oder französischen
+          Haube anfangen wird, in der es so scharmant ausgesehen hat, wie eine Nachteule mit
+          niedlichen, spitzigen Ohren?Die könnt ihr meinetwegen der Katze anziehen, erwiederte
+          Liseli sogleich ebenfalls in scherzhaftem Tone; oder nein, setzte sie schnell hinzu, ihr
+          bekommt sie nie mehr zu sehen; ihr würdet mich nur von Neuem auslachen, aber ich will
+          dafür sorgen, daß ste euch gewiß nie mehr ärgern soll.</p>
+        <p>Aber das ist erst Numero Eins deiner Variser Uniform, sagte der Vater weiter, auf die
+          Nachteulenhaube folgen die durchlöcherten Ermel und auf diese die mäusledernen Schühlein,
+          in denen der Fuß alle Tag um einen </p>
+        <pb n="687"/>
+        <p>Zoll kleiner wird, und darauf die durchsichtigen Halstücher von allen Regenbogenfarben,
+          und endlich noch das allerüberflüssigste Ding auf der Welt, der kleine Regenschirm gegen
+          den Sonnenschein, der kaum für ein jähriges Kind groß genug wäre und der mir immer als der
+          größte Beweis dafür gilt, daß die Eitelkeit den Menschen zum Narren macht.</p>
+        <p>O Vater, ihr seid doch ein rechter Spottvogel, unterAD gleichen scherzhaften Tone, aber
+          es war in Verlegenheit, was es weiter sagen sollte; denn der Kampf war bei ihm noch nicht
+          ausgekämpft, und schon waren wieder die Thränenbächlein bereit, über ihre Ufer zu treten
+          und der Freude Licht über dem jugendlichen Gesicht wieder zu löschen; da merkte es die
+          Mutter noch zur rechten Zeit und sagte:Vater, das gehört nun nicht vor die ganze
+          Haushaltung;das wollen mein Liseli und ich mit einander ausmachen;ihr müßt es nicht gar so
+          unbarmherzig plagen, es hat gewiß den guten Willen zu Allem, aber ihr müßt ihm Zeit dazu
+          lassen. Da steht der Teller voll Kuchen, die hat Liseli ganz allein herbeigehert; greift
+          zu und laßt's euch schmecken, laßt den Teller herumgehen, und wenn's euch Allen recht ist,
+          so will ich euch eine Geschichte dazu erzählen, die einmal mit solchen Kuchen passirt
+          ist.</p>
+        <p>Alle griffen zu, fanden die Kuchen trefflich zubereitet, <pb n="88"/> lobten das Liseli
+          und dankten ihm dafür, so daß die Wolke auf seiner Stirn sich wieder verzog und die Mutter
+          fing an vergnügt zu erzählen:</p>
+        <p>Es war vor mehr als hundert Jahren so hat man's mir erzäͤhlt, als ich noch ein Kind war,
+          ein schöner,schlanker und reicher Bursche im Dorf, der konnte nie mit sich einig werden
+          darüber, welches Mädchen er sich zur Braut erwählen sollte. Vater und Mutter ließen ihm
+          Tag und Nacht keine Ruhe, zaählten ihm eine Menge Bauerstöchter auf und priesen site ihm
+          an. Da sagte er zuletzt: Wißt ihr was, ich will drei Mädchen auslesen aus allen denen, die
+          ihr mir anpreist; mit diesen will ich eine Probe anstellen, und die, welche die Probe am
+          besten besteht, soll meine Braut sein. Er wählte zwei reiche Bauerstöchter und eine arme.
+          Dann ging er zu der ersten der beiden reichen und sagte zu ihr: Sei so gut und mache mir
+          Eierkuchen, aber laß mich zusehen, wie du das Ding angreifst! Und die Erste dachte: du
+          mußt ihm zeigen, daß du nicht zu sparen brauchst, und schlug eine Menge Eier zusammen und
+          that wenig Mehl an den Teig und machte Kuchen wie für eine Armee Soldaten und ließ sie im
+          Butter schwimmen, daß sie davon troffen, und streute einen Haufen Zucker darüber. Der
+          Freier aß davon nach Herzenslust bis er satt war und doch blieben noch viele auf dem
+          Teller übrig. Und er dachte: Das ist nicht die Rechte;<pb n="89"/>die treibt mir's zu
+          hoch! und ging zur Zweiten, die auch reich war, und sagte zu ihr: Sei so gut und mache mir
+          Eierkuchen, aber laß mich zusehen, wie du das Ding angreifst! Und die Zweite dachte: du
+          mußt ihm zeigen, wie du verstehst hauszuhalten, und nahm ein einziges Ei, und dazu ein
+          kleines, und schüttete Wasser daran und that eine große Menge Mehl dazu und brachte mit
+          großer Noth einen Teller voll Kuchen heraus und setzte ihn dem Freier vor, streute aber
+          kein Stäublein Zucker darauf. Und er aß davon, doch nur der Höflichkeit wegen, denn sie
+          wollten ihm nicht schmecken, und obgleich er alle gegessen hatte,ging er doch hungrig
+          davon und dachte: das ist auch nicht die Rechte; die ließe mich vor Sparsamkeit
+          verhungern.Endlich ging er zur Dritten; die war arm und wohnte in einem kleinen Häuschen;
+          zu der sagte er: Sei so gut und mache mir Eierkuchen, aber laß mich zusehen, wie du das
+          Ding angreifst! Und sie besann sich nicht lang, sondern holte hurtig drei schöne und
+          frische Eier aus ihrem kleinen Vorrath und schlug sie in den Topf und rührte gerade so
+          viel Mehl daran, als zu einem guten Teig gehört, und mit dem Butter traf sie's auch so
+          gut, daß die Kuchen schön braun wurden und doch trocken auf den Teller kamen, wie's sein
+          muß. Dann setzte sie ihm freundlich die wohlgerathenen Kuchen vor und stellte die
+          Zuckerbüchse daneben und sagte: Liebst du's süß, so streu dir selber <pb/>vy </p>
+        <p>Zucker drauf; uns schmecken sie so am besten. Und dem Freier schmeckte ohne Zucker eins
+          besser als das andre;die Köchin mußte mit zu Tische sitzen, und als sie gegessen hatten
+          und nicht eines übrig blieb, reichte er ihr die Hand und sprach: Habe Dank, liebes
+          Madchen, willst du meine Braut sein? Und sie besann sich wieder nicht lange und schlug
+          ein, und bald hielten sie Hochzeit und lebten lange mit einander in glücklicher Ehe. Dem
+          Burschen aber hat man den Namen „Füchslein“ gegeben und allen seinen Nachkommen bis auf
+          diesen Tag, weil ers so listig anfteng,um die rechte Hausfrau zu erkennen.</p>
+        <p>Merk dir's, Melcher, rief der Vater lachend, und du,Liseli, kannst auch etwas daraus
+          lernen. Doch waren deine Kuchen am meisten den letzten ähnlich, drum wird's dir einst,
+          wenn du so bleibst, wie Vater und Mutter dich erzogen haben, an einem wackern Mann nicht
+          fehlen.</p>
+        <p>An dieser Geschichte aber könnt ihr den Spruch der heutigen Predigt noch besser verstehen
+          lernen. Ihr seht daraus zuerst, daß Verschwendung und Großthun nicht zum Glücke führt, und
+          daß die klugen Menschen, auch wenn sie selbst reich genug stnd, um nicht jeden Thaler
+          ängstlich zurückhalten zu müssen, doch mit den Verschwendern nichts zu thun haben wollen;
+          denn sie wissen wohl,daß für den Verschwender meistens das größte Vermögen noch zu klein
+          ist. Ihr seht aber auch aus der Geschichte, <pb n="71"/> daß Geiz und Genügsamkeit nicht
+          dasselbe sind. Wer die Genügsamkeit ohne Gottseligkeit betreiben will, verfällt in den
+          Geiz; denn bei seinem Sparen und seinen Entbehrungen denkt er immer nur an das liebe Ich,
+          betet nicht um den Segen von Gott, legt die Entbehrungen sich nicht auf aus Liebe, sondern
+          aus Geldsucht, indem er berechnet, wieviel sich dadurch wieder an blanker Münze
+          zusammenscharren lasse, und weil er die Liebe zu Andern erstickt, so erstirbt in ihm auch
+          zuletzt die rechte Liebe zu sich selbst. An keinem Laster kann man so deutlich sehen, wie
+          die Sünde sich durch sich selbst straft,wie am Geiz. Der Geizhals hat wohl das Geld, aber
+          keinen fröhlichen Genuß davon, oder, wie einst Jemand sein Herr und Meister und
+          Gesetzgeber. Mit saurer Müh und heißer Begier hat er es gesammelt, und nun ist's das
+          gleiche Geld, was ihn eigentlich tyrannisirt, martert und quält, ihm die Ruhe des Schlafes
+          stört, ihm das Herz eiskalt macht gegen die Mitmenschen, aber auch die Mitmenschen kalt
+          gegen ihn; das Geld ist's, welches ihm verbietet, gesunde Nahrung zu genießen, warme
+          Kleider anzuschaffen, sich eine frohe Stunde zu bereiten, sich in Krankheit die nöthige
+          Pflege zu gönnen; das Alles kann und darf ein rechter Geizhals nicht; sein Gott, das Geld,
+          verbietet es ihn. Man weiß Beispiele genug von solchen <pb n="72"/>Unglücklichen. Da hab'
+          ich einst von Einem gehört, der hatte Geld genug, um bequem zu leben, und keine Familie zu
+          versorgen; aber das Geld reute ihn, um Holz anzuschaffen; lieber trug er an kalten Tagen
+          einen Klotz aus dem Keller bis zum Estrich, um sich zu erwärmen, und wieder zurück und so
+          fort Stundenlang. Das war mir stets das deutlichste Bild vom Elend des Geizes. Und das
+          Haßlichste daran ist noch dieß, daß der Geizige seine Güter auch für den Fall, daß er sie
+          verlassen muß im Tod und also nicht mehr braucht, doch seinem Mitmenschen, oft seinen
+          nächsten Verwandten nicht gönnen mag, sondern lieber ste vor dem Tode noch für ste
+          unbrauchbar macht,verbirgt, vergräbt. So schnürt das Geld das Herz zusammen, daß jeder
+          Gedanke von Liebe daraus entfliehen muß. Doch sollte man denken, wer nur einmal mit
+          gesundem Verstande das Bibelwort beherzigte: Wir haben nichts in die Welt gebracht, darum
+          offenbar ist, wir werden nichts hinausbringen, der müßte die ganze große Thorheit des
+          Geizes einsehn, müßte das Wort in seinem Innern wiederhallen hören: Du Thor, diese Nacht
+          wird man deine Seele von dir fordern und weß wird es sein, das du bereitet hast? Aber der
+          Geizige versteht das nicht mehr; er hat eben schon keinen gesunden Verstand mehr.Drum
+          ist's so nöthig, daß man in der Jugend lerne, die irdischen Güter, habe man wenig oder
+          viel, mit gottseligem </p>
+        <pb n="73"/>
+        <p>Sinne verwalten. Wenn man stets dabei denkt: Der Herr hat's gegeben, so denkt man auch an
+          die Rechenschaft, die drüber abgelegt werden muß, und dem Armen wiegt dann der Batzen so
+          schwer in der Hand, wie dem Reichen der Thaler; ferner man genießt dankbar, was man für
+          das Geld erhalten kann, und hat auch kein Bedenken, sich bisweilen eine kleine Freude zu
+          gönnen, wenn man's vor Gott verantworten kann. Ferner besinnt man sich dann auch nicht so
+          lange zu geben, wenn man von großer Noth hört, und sollte man auch nur so viel geben
+          können, als die Wittwe mit ihrem Scherflein z denn man weiß: Wo auch das Geld hinkommen
+          mag, ist's in Gottes Hand; er kann's auch wieder zu mir lenken,wenn's mir gut ist, und
+          wenn ich in Noth bin, so gehört ja der Reichthum der ganzen Erde ihm; viel ungemünztes
+          Gold und Silber liegt noch in seinen Schatzkammern; davon kann er geben, wem er will;warum
+          also verzagen? Auch der Arme, der Dürftige soll,freilich nach seinem Verhältniß ein Jeder,
+          frisch dem Sprüchlein trauen: Geben ist seliger denn Nehmen, und es manchmal auf gut Glück
+          versuchen, gewiß, er wird dabei nicht übel fahren. Aber die schöne Geschichte der Mutter
+          hat mich ganz wieder in den Eifer und ins Predigen hineingebracht. Unnütz ist's nicht,
+          wenn ihr's auch vier und stebenmal hoört, was für eine giftige Sache das <pb n="74"/>Geld
+          ist, wenn man's ohne Gott will erwerben und verwalten, und wiederum, wie viel man mit
+          Wenigem ausrichten kann, wenn Gottes Segen darauf ruht. Aber nun seh ich's der Großmutter
+          an, daß sie noch etwas sagen möchte.</p>
+        <p>Die Großmutter, die außerordentlicher Weise schon bei der dritten Tasse war und sich eben
+          noch einen Kuchen zugelangt hatte, sah mit aller Freundlichkeit, die aus ihrem liebevollen
+          Auge leuchten konnte, das Liseli an und sagte,vor Freude bewegt: Ich hab' es wohl bemerkt,
+          daß du meinetwegen die schönen Kuchen gebacken hastz du stehst, ich habe ihnen auch Ehre
+          angethan; es hat mir Kaffee und deine Kuchen dazu. Das war auch wieder einmal ein
+          Sonntagabend, wie er sein soll und wie er ehemals war. Könnte ich noch viele solche
+          Sonntage erleben, ich würde nicht einmal wünschen, die Erde so bald zu verlassen. Ich kann
+          aber nicht wissen, wie Gott dieß beschlossen hat. Diese Nacht schon könnte er mich ja
+          abrufen, und ich wäre bereit. Nimm nun von deiner treuen Großmutter für die Freude, die du
+          ihr bereitet hast, noch ein wohlgemeintes Wort an, wie sie's dir sagen würde, wenn sie im
+          nächsten Augenblick für's ganze Erdenleben von dir Abschied nehmen müßte. Ich bin auch
+          einmal jung gewesen wie du. Ich weiß, wie unbeständig das Herz ist in deinen <pb/>*</p>
+        <p>Jahren. Bald möcht' es alles Gute auf einmal versprechen,bald wollen alle böse Geister
+          mit ihm davonfliegen. Die Welt ist jetzt gefährlicher, als sie zu meiner Zeit war. Man
+          sieht mehr schlimme Beispiele vor Augen, viel Neues gibt's, wovon man nicht weiß, dient's
+          zum Guten oder bist eine Zeitlang nicht auf deiner Hut gewesen; drum hat die Welt dich
+          stark gepackt, du bist ein eitles, leichtstnniges und mürrisches Liseli geworden und warst
+          früher bescheiden und brav und freundlich gegen Jedermann. Der liebe Gott hat dir heut'
+          einen deutlichen Wink gegeben; er ist dir gewiß zu Herzen gegangen. Aber und hier hob ste
+          den Zeigefinger auf und sprach langsamer ich lese in deinem Herzen, daß die Versuchung
+          noch nicht überwunden ist, die dich allmählig gefangen hatte; ste wird alle Tage mehr als
+          einmal wiederkehren. Damit du sie besser bekämpfen kannst, will ich dir kurz erzählen, wie
+          ich in deinem Alter gegen solche Versuchung gekämpft habe. Wir waren unser neun Kinder und
+          wohnten in einem Hause,im Vergleiche zu dem dieß ein Herrenhaus heißen kann,hatten knapp
+          das tägliche Brod und mußten hart arbeiten,aber da die Eltern niemals klagten, und alle
+          Tage Gott für seine Güte dankten, so wußten wir eigentlich kaum recht, daß wir arm waren,
+          und schickten uns drein, als R <pb n="76"/> einen aufgeweckten Verstand gegeben, und als
+          ich nun,besonders im Unterricht bei unserm guten Herrn Pfarrer Gott hab ihn selig, den
+          braven Mann öfter unter die andern Kinder kam, da merkte ich bald den Unterschied wohl
+          zwischen Aermern und Reichern und wünschte mir natürlich nach Kindesart, recht reich zu
+          sein, und murrte auch manchmal drüber, daß unsre Familie zu den niedrigsten im Dorf
+          gehörte, und einige Andre stimmten mit ein. Das merkte vielleicht unser lieber Herr
+          Pfarrer, oder er hatte es sonst im Brauch kurz, er erklaärte uns manchmal und bewies es
+          mit vielen Zeugnissen aus der Schrift, die Armuth sei keine Schande, wenn man sie nicht
+          durch Faulheit und Müssiggang selbst verschuldet habe, ja manchmal sei ste noch eine Ehre;
+          oft sei ste schon der Weg zu großen Ehren auf Erden oder im Himmel geworden. Christus sei
+          ja selber arm gewesen und habe die Schmach der Armuth getheilt, drum stünden alle
+          Armen,Niedrigen und Geringen unter seinem besondern Schutze und lägen ihm am nächsten am
+          Herzen, drum habe er auch gesagt: Was ihr dem Geringsten unter diesen meinen
+          Brüderngethanhabt, das habt ihr mir gethan. Drum habe es etwas Schönes, wenn auch viel
+          Bittres damit verbunden sei, das gleiche Joch wie unser Erlöser zu tragen, und niemals
+          dürfe man versuchen,durch unrechte Mittel dieß Joch und Kreuz abzuwerfen; <pb n="74"/>
+          denn es sei auch ein Geschenk Gottes zu unserm Besten.Wenn wir daher in Versuchung kämen,
+          durch unrechte Mittel, Diebstahl, Betrug, Ungerechtigkeit und andre schlimme Dinge die
+          Armuth abzuschütteln, so sollen wir denken: Dein Heiland Jesus Christus steht dir zur
+          Seite,sein Schutz ist mehr werth, als irdisches, großes Gut;bleib'arm, aber bleib' in
+          seinem Schutze. Dann erinnerte er so gerne daran, welche große Gesellschaft von
+          gottergebenen, edlen, hochberühmten Armen wir einst im Himmel antreffen würden, die
+          Apostel alle, die Glaubensboten unter den Heiden, die Blutzeugen der Kirche, viele der
+          Reformatoren, viele große Jugendfreunde, viele verborgene christliche Dulder, die seien
+          alle dort mit dem Ordensstern der Armuth angethan, und wenn wir treu ausharrten, so werde
+          der uns einst auch zu Theil. Und wenn er das Höchste sagen wollte, was sein Herz am
+          tiefsten bewegte, so sagte er, unser Heiland sei arm geworden um unsertwillen, auf daß wir
+          durch seine Armuth reich würden; warum wir denn für diesen innern Reicht hum nicht auch
+          mit frohem Muth die äußere Armuth ertragen wollten? Und wenn er in guter Laune war, so
+          erzaählte er uns entweder von den ersten Christen, welche freiwillig arm wurden, um Andern
+          zu helfen oder um dem Evangelium desto treuer sein zu können, oder von einem Mönch in
+          Frankreich, der freiwillig auf die Galeeren ging,<pb/>4*um dort den Aermsten zu dienen,
+          oder von Mariin Luther,der als Knäblein hungern und frieren mußte, bis ihn eine liebreiche
+          Frau ins Haus aufnahm, oder von einem großen Kaiser, der als junger Bursche freiwillig ein
+          Zimmermannslehrling wurde, und so von vielen Andern, denen die Armuth, die Gewoöhnung an
+          Einfachheit und Entbehrungen die beste Schule war für einen zukünftigen schweren Beruf.
+          Und wenn wir recht Acht gegeben hatten und es ihm besonders froh ums Herz war, so erzählte
+          er uns seine Lebensgeschichte, die gut als eine Erklärung zu dem Worte passen konnte: Es
+          isteinem Mannegut, daß er sein Joch in der Jugend trage. Auch ich, liebe Kinder,pflegte er
+          zu sagen, habe die Armuth geschmeckt und aus ihrem bittern Kelch getrunken; drum rede ich
+          davon aus Erfahrung; aber ich nähme nicht tausend Gulden, wenn ich dafür nicht erfahren
+          haben sollte, was es heißt, arm sein. Dann erzählte er besonders gern von der täglichen
+          Liebe und Treue seiner Mutter, und wie sie oft gesagt habe: Jakob, wenn du fleißig und
+          gewissenhaft bist, so wirst du's einmal viel besser haben, als wir; aber ein großer Herr
+          wirst du nie werden, drum bleibe bei dem einfachen Leben, wie du's bei uns siehst, und es
+          mag dir gehen, wie's will, versprich mir, wer de n icht stolz. O wie gern hörten wir den
+          lieben Herrn Pfarrer von dieser Mutter erzählen, und zuletzt sagte er immer: Sie hat ge
+            <pb n="29"/> wiß einen Ehrenplatz im Himmel bekommen; aber hätte sie nicht in Armuth
+          gelebt, wie hätte sie so viel Geduld,Aufopferung, Treue und zärtliche Hingebung mir
+          erweisen können! Also die Armuthistauch ein Ehrenstand;drum, Kinder, braucht nie unrechte
+          Mittel, um sie abzuschütteln; Arme und Reiche müssen unter einander sein;der Herr hat ste
+          alle genacht.</p>
+        <p>Nun sag' ich dir, Liseli, wenn ich diese kostbaren Lehren nicht mit mir genommen hätte in
+          die Welt hinaus, ich wäͤre ein leichtsinnig, unglücklich, gottlos Geschöpf geworden wie
+          manche Andre. Der Vater sagte, als ich confirmirt war: Du bist von den neunen das älteste;
+          geh' nach Zürich in einen Dienst und erwirb dir selbst etwas; ich kann dir nichts mehr
+          geben. Ich ging und traf's gut; ich kam in ein vornehmes, steinreiches Haus, wo's vielen
+          Lohn gab; aber es hätte mir doch schlimm gehen können. Zwei Mägde waren außer mir im Haus
+          und ein Bedienter und ein Kutscher; ihr glaubt's nicht, was ich da Alles habe sehen und
+          hören müssen. Schmählen über die Herrschaft, ungezogene, wüste Reden, kleine Diebstähle
+          und grobe Lügen kamen fast alle Tage vor. Und ich war ein leichtes Blut wie du jetzt,
+          Liseli, das Geld hatte auch eine Gewalt über mich; in Kleidern wollte ich auch nicht gern
+          weniger sein als ein Andres, und einen lustigen Tag hätte ich auch manchmal gern gehabt;
+          dazu fehlte es mir nicht <pb n="80"/> an Verstand; und alle jene Dinge hätte ich haben
+          können in dem reichen Hause, hätt' ich's machen wollen wie die Andern. Wie manche Flasche
+          guter Wein spazierte in die Kammer des Bedienten und des Kutschers! Und wie manchmal war
+          nach einem großen Essen ein silberner Löffel fort, Niemand wußte, wohin er gekommen; ich
+          hätte es errathen koöͤnnen; aber man untersuchte nicht lange.Und wenn die Herrschaft auf
+          einer Reise war, wie gings da zu! Nach dem Sprichwort gings: Wenn die Katze fört ist,
+          tanzen die Maäuse. Da wurden Kuchen und Confekt gebacken, denn die Köchin wußte wohl, wo
+          der Zuckerstock und wo der Schmalzhafen stand; auch Gäste fehlten nicht aus der
+          Nachbarschaft, und der Bediente, der größte Spitzbub von allen, machte Musik mit einer
+          alten Flöte, daß die Mäuse und Ratten erschracken, und da wurde Walzer und Galopp getanzt
+          in der großen Küche, daß die Wände zitterten. Da war ich wie ein Schaf unter den
+          Wölfen,und es fehlte nicht viel, so hätte ich mit den Wölfen geheult. Aber der liebe Gott
+          und das Andenken an meinen lieben Pfarrer hat mich zurückgehalten. Schüttelt nicht die
+          Armuthab durch unrechte Mittel, sagte mir mein Gewissen, wenn ich auch Lust fühlte nach
+          verbotnem Gut, nach einem Ring, nach einem silbernen Löffel, und:Die Armen stehen alle in
+          des Herrn Jesu Schutz, der selber arm war, sagte ich zu mir im </p>
+        <pb n="81"/>
+        <p>Stillen, wenn sie über mich lachten und spotteten, daß ich nicht mithalten wollte. Da
+          gab's der Herr mir ein, daß ich gerade bei diesem schlechten Leben jeden Tag noch besser
+          einsehen lernte, was für ein Gift das Geld ist, wenn man seiner Lockung nicht widerstehen
+          kann, und was für ein Glück es ist, einfach gewöhnt zu sein und diese Schleckereien und
+          den übertriebenen Putz und die ausgelassenen Lustbarkeiten zu verachten. Glaube nicht,
+          Liseli, es sei leicht gewesen, dieß Alles durchzumachen; ich mußte oft hart und streng
+          kämpfen wider die Versuchung; aber der Gott der Armen hat mich nicht im Stich gelassen,
+          und wenn die Versuchung zur Unredlichkeit oder zu unzüchtigem Wesen oder zur
+          Unzufriedenheit mit Gott am schärfsten an mich kam, da stellte ich mir den Vater und die
+          Mutter und die acht Geschwister vor in ihrem kleinen Hause und dachte: Was würden die
+          sagen, wenn du hoffärtig oder ehrlos oder lügnerisch geworden wärest! und stellte mir
+          unsern lieben Herrn Pfarrer vor und dachte? Du dürftest ihm nicht mehr unter die Augen
+          kommen, wenn du seine Worte in den Wind schlügest! und endlich stellte ich mir unsern
+          Herrn und Heiland selber vor und dachte:Er ist um deinetwillen arm geworden, daß du reich
+          würdest an ewigem Gut; warum kannst du nicht auch arm und niedrig bleiben mit frohem Muth,
+          um an seinen Geboten zu halten und ihm Ehre zu machen als ein Glied an Zehender, der
+          Leuenhof. ß <pb n="32"/> seinem Leib? Und keine Versuchung war so stark, daß sie nicht vor
+          allen diesen guten Geistern, die mir zu Hülfe kamen, hätte zu Schanden werden müssen. So
+          bin ich arm, aber ehrlich und einfach geblieben in dem reichen Haus; denn der Herr hat mir
+          treulich durchgeholfen.Zuletzt konnt' ich bei dem boöͤsen Treiben nicht mehr schweigend
+          zusehn, das Gewissen trieb mich, es dem Hausherrn zu sagen, aber auch aus dem Haus den
+          Abschied zu nehmen. Der Hausherr gab mir ein gutes Zeugniß und machte mir ein schönes
+          Geschenk obendrein, und ich bekam bald einen bessern Dienst in einem bürgerlichen Hause,wo
+          mir's steben Jahr lang recht wohl war. Dann kam ich nach Haus und war durch nichts
+          verwöhnt worden;aber am wohlsten war's mir wieder auf dem Acker und im Rebberg und beim
+          Melkkübel, und ich war stolz darauf,daß der liebe Gott mich zu einem Bauernmaädchen und
+          nicht zu einer Stadtjungfer geschaffen hatte. Und da kam euer seliger Großvater und nahm
+          mich zur Frau; da hatten wir nicht mehr als Nahrung und Kleidung bei fleißiger Arbeit,
+          aber wir ließen uns begnügen, und wenn Jemand uns unzufrieden machen wollte, so erzählte
+          ich von dem reichen Haus in Zürich und welche Dinge da vorgegangen seien, und mit welchen
+          Narretheien die Stadtjüngferchen sich plagen müßten, bis sie nur recht gekleidet seien, um
+          in ihre Vistten zu gehen, und wie also <pb n="32"/> der Reichthum auch ein Kreuz sei, und
+          dann waren mein Mann und ich wieder zufrieden. Nun weiß ich wohl,Liseli, es streiten sich
+          noch allerlei gute und schlimme Gedanken um dein Herz, und die Hoffahrt hat sich darin
+          schon tief eingenistet, und du mußt viel kämpfen und piel beten, um diese Schlange zu
+          tödten. Aber du kannst auch viel, wenn du willst, mit deinem frischen Muth und deinen
+          flinken Händen. Sieh, es wäre ewig schade, wenn du, dem Geld und der Hoffahrt zu lieb,
+          etwas Anderes werden wolltest, als wozu Gott dich bestimmt hat. Folgst du des Vaters Rath
+          und kehrst zur ländlichen Sitte und Arbeit deiner Väter zurück, dann wartet deiner ein
+          stilles,einfaches, aber glückliches Leben; du wirst etwas gelten;du wirst die Freude und
+          der Stolz deiner Eltern sein; du wirst immer mehr erfahren, daß zum Glück nicht vor Allem
+          das Geld, sondern die Gottseligkeit und ein genügsamer Sinn gehört, und du wirst einmal
+          deinen eignen Heerd und deinen vollen Tisch haben, besser als Manche, die jetzt mit dem
+          Sonnenschirm herumspaziert, dafür ist mir nicht bange. Aber, sagte sie noch langsam mit
+          aufgehobenem Finger, ich warne dich vor der Schlange der Hoffahrt in deinem Herzen; sie
+          ist noch nicht todt, kämpf' gegen sie jeden Tag mit Gebet, mit Gottes Wort; denk' dabei an
+          den heutigen Tag, denk' an deine Großmutter. Armuthin <pb n="4"/>Ehren ist besser auls
+          Hoffahrt mit Schan de;z odaß dich Gott auf dem guten Weg erhalte!</p>
+        <p>Die letzten Worte waren kräftig, aber mit einem wehmuthsvollen Tone gesprochen; die
+          Großmutter hatte all'ihren Ernst und alle ihre Geisteskraft zusammengenommen,als käme es
+          auf diese Stunde an, ob das Gute bei Liseli Bestand haben könne oder nicht, und als wäre
+          es ihre Gewissenspflicht, zu seiner Rettung zu thun, was sie könnte.Liseli horte
+          aufmerksam zu; zuletzt kamen die Thränen,und tiefbewegt sagte es zur Großmutter: Habt
+          keine Angst,ich will ganz anders werden; es war mir heute schon so viel wohler, als seit
+          langer Zeit! Die Sonne war unterdessen untergegangen und die Dämmerung schon tief
+          hereingebrochen, als die Großmutter ausgeredet hatte; schon schimmerte ein Licht aus dem
+          Nachbarshause herüber; Liseli stund auf und trug flink das Kaffeegeschirr in die Küche und
+          stellte, was übrig war, der Magd und dem Dienstknaben auf den Heerd zur Wärme. Die
+          Großmutter aber wiederholte noch einige Male, heute habe ihr der Kaffee wieder einmal
+          geschmeckt wie sonst, und ein Geist des Friedens und der Versöhnung bewegte alle Gemüther. </p>
+        <pb n="85"/>
+        <p>Siebentes Rapitel.</p>
+        <p>Der Jorsschulmeister.</p>
+        <p>Matth. 18, 12. Ein jeglicher Schriftgelehrter zum Himmelreich gelehrt, ist gleich einem
+          Hausvater, der aus seinem Schatz Neues und Altes hervorträgt.Noch plauderten vertraulich
+          bei der Dammerung Vater und Sohn, Mutter und Großmutter in der niedrigen Bauernstube; da
+          trat, ohne anzuklopfen, tief gebückt und zitternd an einem Stabe gehend, ein alter Mann
+          herein mit tief eingefallenen Zügen, aber liebreichem Auge und ehrwürdigen, weißen Haaren.
+          Er zog seine Pelzkappe ab und grüßte mit keuchender Stimme Alle, die in der Stube saßen;
+          er wußte zum voraus, wen er zu dieser Stunde hier antreffen werde. Es war der alte, nun in
+          Ruhestand versetzte Schulmeister des Ortes; achtzig Lebensjahre trug er schon auf dem
+          Rücken, darunter fünfzig Jahre gewissenhafter Thätigkeit im Amte und zehn Jahre der Ruhe
+          von seiner schweren Arbeit, denn seitdem die „neue Lehre“, wie er die neue Schulordnung
+          nannte, eingeführt war, paßte er nicht mehr in die Schule hinein;seine Zeit war vorüber,
+          und Ruhe that ihm noth nach <pb n="36"/> einem so langen und mühevollen Berufsleben.
+          Schulmeister war er aber immer noch geblieben in seinem Herzen, und wenn er bei der Jugend
+          nun keine Gelegenheit mehr hatte zu wirken, so versuchte er's bei den Alten.Wo er hinkam,
+          war er gerne gesehen; denn die meisten Erwachsenen im Dorfe ehrten und liebten ihn noch
+          als ihren ehemaligen Lehrer, und Mancher sagte, wenn man von ihm sprach: Die neuen, jungen
+          Lehrer wissen mehr als er, das ist wahr, aber das Handwerk im Ganzen hat er doch besser
+          verstanden; denn meisterhaft hat er das iunge Volk in Gottesfurcht und Zucht und guter
+          Ordnung erhalten, und das ist auch nicht wenig. Reich war er nicht geworden in seinem
+          Beruf; kaum hatte er genug zum Leben; seine Frau war gestorben, und eigene Kinder hatte er
+          nie gehabt. Drum wetteiferten Viele, ihm manchmal einen Korb mit Obst oder mit Kartoffeln
+          oder einen Laib Brod in's Haus zu schicken, oder, wenn er in ein Haus trat, das ihn im
+          guten Andenken behielt, bot man ihm ein Gläschen alten Wein oder eine Tasse warmen Kaffee
+          an oder ein wenig gutes Kirschenwasser. Dann wollte er aber auch nicht bloß nehmen,
+          sondern auch geben,erzählte von den alten Zeiten, oder von Dem und Jenem im Dorf, wie er
+          noch jung gewesen, wie er in guter Zucht rechtschaffen aufgewachsen sei, oder warum dem
+          Einen Alles wohlgerathen, dem Andern Alles mißrathen sei, <pb n="87"/> oder er zog ein
+          geschriebenes Buch hervor, in welches er allerlei nützliche Lehren oder Historien, Sprüche
+          und Reime gesammelt hatte und las zur Kurzweil langsam, aber mit großem Ernst und
+          Nachdruck daraus vor. Das Buch ließ er nie aus seinen Händen; Viele schauten es mit
+          geheimnißvollen Blicken an, Vielen war es schon zum Trost und Noth- und Hülfsbuch
+          geworden; drum wenn er's aus seiner Seitentasche zog, erheiterten sich die Blicke, er
+          mochte sein, wo er wollte. Wo er hinkam, war er als Gast willkommen; in manchen Häusern
+          aber kehrte er regelmäßig an bestimmten Tagen ein, so auch im Leuenhof, da verging kein
+          Sonntag, an welchem er nicht „zwischen Feuer und Licht“, d. h. in der Dämmerung, zur
+          Stubenthür hereinEV Großmutter; was ste Niemand klagen konnte, klagte sie ihm im
+          Vertrauen; so war's ihm nicht unbekannt, was in der letzten Zeit im Leuenhof vorgegangen
+          war. In der Predigt, die er nie versäumte, hatte er sich daran erinnert,und den Tag durch
+          ging's ihm im Kopf herum, ob er nicht etwas fände in seinem alten Buch, womit er am Abend
+          im Leuenhof an die guten Lehren der Predigt erinnern könnte.Er fand, was er suchte; darum,
+          sein Weisheitsbuch in der Tasche, ging er heute mit einem gewissen amtlichen Schritt und
+          Bewußtsein nach dem wohlbekannten Leuenhof.<pb n="88"/>Mit besonderer Herzlichkeit
+          bewillkommten ihn der Leuenbauer und seine Frau, und zitternd drückte ihm die Großmutter
+          die ebenfalls zitternde Handz es lag etwas in diesem Händedruck, das der Schulmeister halb
+          verstand und halb doch nicht verstand. Er setzte sich auf seinen Lieblingsplatz, die
+          Ofenbank; man sprach von dem ersten Schneegestöber, von der jungen Saat, die nun bald eine
+          Decke habe zum Schutze vor des Winters Kälte, von dem neuen Schulhaus, das man vor des
+          Winters Anfung eingeweiht hatte mit großer Festlichkeit, und endlich kam das Gespräch auch
+          auf die Predigt, welche der alte Schulmeister nicht genug loben konnte. Nun brachte
+          Liseli, da es schon ganz dunkel geworden war, die angezündete Lampe herein und stellte sie
+          auf den Tischz jetzt erst konnte der wohlbekannte Gast den Leuten in der Stube ins Gesicht
+          schauen und verhehlte sich nicht, daß alle die Gesichter anders aussahen äls gewöhnlich.
+          Einen gewissen Ernst und doch auch wieder eine außerordentliche Freundlichkeit glaubte er
+          darauf zu lesen; beides hatte er in solcher Art lange Zeit nicht mehr im Leuenhof bemerkt.
+          Da er darüber verwundert schien, so sagte der Leuenbauer:</p>
+        <p>Ja, Vetter Schulmeister, die Predigt hat mir auch recht aus dem Herzen geredet; wir
+          sprachen viel davon,und sie hat schon ihre Frucht getragen, und wird sie, so Gott will,
+          noch tragen. </p>
+        <pb n="39"/>
+        <p>Wir haben heut erfahren, fügte die alte Großmutter bei, wie Gottes Wort kann Segen
+          bringen in ein Haus,wenn man's mit Andacht und gutem Willen anhört.</p>
+        <p>So? entgegnete der Schulmeister mit gedehnter Stimme ich glaube, ich verstehe, was ihr
+          meint. Hat etwa der Melcher und das Liseli sich etwas davon hinter's Ohr gesteckt? Ich
+          mußte bei mir selber denken: Das ist eine Predigt, wie für ste gemacht!“</p>
+        <p>Ja, lieber Vetter Schulmeister, sagte der Vater, sie haben sich's recht zu Herzen
+          genommen, und ich habe ihnen noch eine Predigt aus dem eigenen Sack dazu gegeben,wir
+          wollen jetzt nichts weiter drüber reden; es ist für heut genug; aber ihr werdet's an ihrem
+          künftigen Leben sehn,ob's gewirkt hat oder nicht.</p>
+        <p>Hab's doch gedacht, fieng der Schulmeister wieder an,wenn solche Worte unter die Dornen
+          fallen und ersticken könnten, dann müßte es doch gar schlimm und elend stehen in der Welt.
+          Ich habe schon manchen guten Prediger gehört, manchen Spruch den Kindern selber ausgelegt,
+          aber wenn ich einen Tert so auslegen höre, wie dießmal, so geh' ich gern, ich
+          achtzigiähriger Mann, noch als Schüler beim Worte Gottes in die Schule und lerne stets
+          noch etwas Neues. Mir ist die Predigt auch den ganzen Nachmittag im Kopf herumgegangen,
+          und da hab' ich in meinem lieben alten Buch, das ihr wohl kennt, etwas gefunden, <pb
+            n="590"/> was dazu paßt, wie der Pfeffer zum Salz: wenn's euch Freude macht, so will
+          ich's euch vorlesen zur Kurzweil.</p>
+        <p>Alle bezeugten ihm für dieß Anerbieten die größte Freude; man rückte den Tisch zur
+          Ofenbank, auf der er saß, stellte die Lampe in seine Nähe und setzte sich in aufmerksamer
+          Spannung um den Tisch herum. Auf einen Wink des Vaters verschwand Liseli und war bald
+          wieder da mit einem Kruge Wein und ein Paar Gläsern. Der Vater füllte ein Glas und stellte
+          es vor den Schulmeister hin, welcher schon seine Brille aufgesetzt und sein Buch zurecht
+          gelegt hatte.</p>
+        <p>Netzt euch vorher noch die Zunge an, lieber Vetter,sagte er zu ihm und reichte ihm das
+          Glas; wenn ihr dann fertig seid mit Lesen, wollen mir mit einander Gesundheit trinken.Gott
+          gebe, daß es euch Allen wohl bekomme, sagte dieser, das Glas ergreifend, that einige
+          bedächtliche Züge daraus und fieng darauf an zu lesen, wie folgt:Ein nützlich Gespräch
+          zwischen einem Rathsherrn und einem Bauer.Bauer (kommt in die Stube herein).Herr
+          Rathsherr, ich komm', euch den Zins zu bringen!s'hat mir so lang nicht wollen gelingen,Zu
+          verkaufen meinen sauren Wein;<pb n="7"/>1 </p>
+        <p>Sollt drum nicht böse darauf sein,</p>
+        <p>Daß ich in diesem Jahr komm' so spät:</p>
+        <p>Wißt ja, wie's uns armen Bauern geht!Rathsherr.</p>
+        <p>Was wollt ihr reden von armen Bauern!</p>
+        <p>Wahrlich, blutwenig thut ihr mich dauern!g'hat's Niemand besser als ihr auf der Welt!</p>
+        <p>Da kommt ihr, holt in der Stadt das Geld,</p>
+        <p>Kauft dafür Haus, Aecker, Pferde und Kühe,</p>
+        <p>Gebt euch aber gar wenig Mühe,</p>
+        <p>Den Zins zu bringen auf den Tag,</p>
+        <p>Und wir in der Stadt haben die leidige Plag',</p>
+        <p>Zu warten, zu mahnen, zu schreiben, zu treiben,</p>
+        <p>Daß die Zinsen uns nicht dahinten bleiben.</p>
+        <p>Hört, hättet ihr he ut wieder nichts gebracht,</p>
+        <p>Ich hätte kurzen Prozeß gemacht,</p>
+        <p>Hätt' euch sogleich meinen Weibel geschickt:</p>
+        <p>Der hätt' euch den Kopf schon zurecht gerückt!</p>
+        <p>Bauer.Herr Rathsherr, ich bitt' euch, wollt mir vergeben,Wir haben fürwahr kein
+          Herrenleben!</p>
+        <p>Es sind gegenwärtig recht böse Zeiten,</p>
+        <p>Da der Bauer muß fasten und Hunger leiden.</p>
+        <p>Zu trocken war es für das Gras </p>
+        <p>Und in der Ernte drauf zu naß;<pb n="92"/>Milch gibt's wenig; der Wein ward sauer:</p>
+        <p>Da steht's bbs um den armen Bauer!</p>
+        <p>Wenn er auch stets vor Tag aufsteht </p>
+        <p>Und fleißig hackt und pflügt und sä't,</p>
+        <p>Ist's doch, als wär' kein Segen drinn,</p>
+        <p>In Sorgen flieht das Jahr dahin,</p>
+        <p>Und am Ende hat man kaum zu leben </p>
+        <p>Und sollte den hohen Zins noch geben:</p>
+        <p>Herr Rathsherr, ich sag's euch rund heraus,</p>
+        <p>Ihr hieltet dieß Leben keine Woche aus!Rathsherr.</p>
+        <p>Hört, Michel, euch kenn' ich und eures Gleichen;</p>
+        <p>Ihr werdet so schnell mir das Herz nicht erweichen.</p>
+        <p>Immer habt ihr zu lamentiren,</p>
+        <p>Bald fehlt's am Wetter und bald an den Stieren,</p>
+        <p>Nie seid ihr zufrieden, wollt immer noch mehr,</p>
+        <p>Als wenn kein Gott im Himmel wär'.</p>
+        <p>Und doch, mein Michel, schaut man eüch an,</p>
+        <p>So seid ihr gar nicht so übel dran!</p>
+        <p>Eure frischen Backen sehn nicht aus,</p>
+        <p>Als ging' euch das Mehl im Kasten aus;</p>
+        <p>Auch steht ihr so kräftig und stattlich da,</p>
+        <p>Als gingen die Sorgen euch nicht so nah,</p>
+        <p>Und die rothe Weste, die steht euch so gut,</p>
+        <p>Und dazu der hohe dreieckige Hut, </p>
+        <pb n="93"/>
+        <p>Daß ihr denkt bei euch selber: Der komme mir her,Der ein besserer, schöͤnerer Bauersmann
+          wär'!Dagegen schaut einmal mich recht an!</p>
+        <p>Bin fürwahr nicht halb so wohl daran!</p>
+        <p>Fang' ich nicht schon an zu alten?</p>
+        <p>Seht die vielen Runzeln und Falten </p>
+        <p>Hier im Gesicht, wo kommt das her?</p>
+        <p>Von der Arbeit so hart und so schwer,</p>
+        <p>Die unser Einer in der Stadt </p>
+        <p>Bei Tag und bei Nacht zu verrichten hat,</p>
+        <p>Von dem Aerger und dem Verdruß,</p>
+        <p>Wenn man wohl hundertmal mahnen muß,</p>
+        <p>Bis es euch pfiffigen Bauern gefällt,</p>
+        <p>Auszurücken mit euerm Geld,</p>
+        <p>Euer armseliges Zinslein zu bringen </p>
+        <p>Und euer Klaglied dazu zu singen!</p>
+        <p>Da hab' ich oft bei mir selbst gedacht,</p>
+        <p>Wenn man mir großen Verdruß gemacht:</p>
+        <p>Ist's hier nicht wie eine Todtengruft?</p>
+        <p>Wie viel schöner in freier Luft,</p>
+        <p>Wo der glückliche Bauer pflügt und sä't,</p>
+        <p>Und die Sonne herrlich am Himmel steht.</p>
+        <p>Hier scheint der lieben Sonne Licht </p>
+        <p>Tagelang dir niemals in's Gesicht,Statt dessen Arbeit ohne Rast und Ruh'ꝛ* </p>
+        <pb n="984"/>
+        <p>Jeder Bauer hat's besser als du!</p>
+        <p>Und sagt es selbst: In alten Tagen,</p>
+        <p>Wenn man uns Stadtherrn muß schleppen und tragen,Wenn das Zahnweh uns plagt oder
+          Magenweh,Und der Doktor kommt mit Mixtur und Thee,Da geht so ein Bauer noch frisch und
+          gesund Aufs Feld in früher Morgenstund',</p>
+        <p>Arbeitet da mit frohem Muth,</p>
+        <p>Und was er ißt, das schmeckt ihm gut!</p>
+        <p>Da seht, wer sich muß stärker plagen,</p>
+        <p>Und hat die größ're Last zu tragen!</p>
+        <p>Ich glaub', wär' ich zum Tausch bereit,</p>
+        <p>Ihr besännet euch noch lange Zeit.</p>
+        <p>Bauer.Mit Verlaub, Herr Rathsherr, ich muß doch sagen,Ihr habt viel weniger Ursach' zu
+          klagen.</p>
+        <p>Wer solch ein Haus hat wie ein Schloß,</p>
+        <p>Und Scheun' und Stallung weit und groß,</p>
+        <p>Täglich kann in der Kutsche fahren,</p>
+        <p>An Essen und Trinken nichts braucht zu sparen Und Niemand zinsen muß dabei:</p>
+        <p>Ein solcher wär', bei meiner Treu!</p>
+        <p>Ein dreifacher Narr, und das über die Maaßen,Könnt' er sich's nicht recht wohl,sein
+            lassen.<pb n="95"/>Rathsherr.Michel, ich merk' an eurer Red':Ihr redet so gut, als ihr's
+          versteht!Wär't ihr acht Tag lang in mein em Karren,Ihr würdet diese Lobreden sparen Glaubt
+          ihr, das Glück sei so sehr zu beneiden,Sich jeden Tag nach der Mode zu kleiden Und am
+          wohlbesetzten Tische Braten zu speisen und Vögel und Fische?Von Weitem scheint das
+          herrlich und schön;Aber wenn es muß geschehen,Wenn man nicht anders darf und kann,Dann
+          geht erst das rechte Elend an.Was nützt mir das beste Mahl der Welt,Wenn der Appetit dazu
+          fehlt,Wenn lästige Geschäfte, wenn Rechnen und Schreiben Mir vorher den frohen Muth
+          vertreiben?Da wäär' ich oft lieber an eurer Statt Von der härtesten Arbeit müd und matt,Um
+          mit tüchtigem Hunger und Durst Zu verspeisen eine gesalzene Wurst;Würde mir manchmal
+          besser schmecken Als ein Gastmahl mit Wildpret und Austern und Schnecken!Und wenn meine
+          Frau vor den Spiegel sich stellt,Um nach dem Brauch der jetzigen Welt </p>
+        <pb n="96"/>
+        <p>Mit schoönen Kleidern sich zu zieren,</p>
+        <p>Und Stundenlang an sich laäͤßt herumfrisiren,Glaubt ihr, das Vergnügen sei so groß?Wie
+          oft war' sie gern dieser Plage los!</p>
+        <p>Aber ste dar f nicht anders mehr;</p>
+        <p>Denn ihr Mann ist ein reicher Herr,</p>
+        <p>Und das verlangt nun einmal ihr Stand.Würd' es in der Stadt bekannt,</p>
+        <p>Daß sie die neue Mode verachte </p>
+        <p>Und nach einfacher Kleidung trachte,</p>
+        <p>O wie bald würde sie gezwungen </p>
+        <p>Von viel scharfen und giftigen Zungen,Wieder vor ihren Spiegel zu stehn </p>
+        <p>Und wie die Andern einherzugehn!</p>
+        <p>Seht, Michel, von all dieser Narrethei </p>
+        <p>Seid ihr zum Glück auf dem Land noch frei;Drum glaubt's mir nur und laßt's euch sagen,Daß
+          wir in der Stadt unser Kreuzauch tragen.Bauer.Meinethalben, doch wir nicht minder!</p>
+        <p>Seht, lieber Herr, ich habe sechs Kinder,</p>
+        <p>Muß sie doch alle speisen und nähren;</p>
+        <p>Sechs junge Schnäbel, die mögen was verzehren.Drum wird mir auch das Zinsen schwer;</p>
+        <p>Also bitt' ich euch, lieber Herr,<pb/>t17 </p>
+        <p>Habt Geduld, wenn ich nicht Alles bezahle,Habt Geduld bis zum nächsten Male!Und gefällt
+          euch unser Leben so gut Und wird euch euer Kreuz hier zu schwer,Nun so faßt einen frischen
+          Muth Und erweist mir einmal die Ehr':Kommt zu mir auf's Land, lernt pflügen, lernt
+          schneiden,Lernt ein Bischen Hitze, Durst und Hunger leiden,Dann kommt euch von selber der
+          Appetit Und Gesundheit und Kraft und ein froh' Gemüth.Rathsherr (Cachend).Ja, ja, guter
+          Michel, ihr meint's mit mir gut;Zum Bauer fehlt mir bloß der dreieckige Hut!Nein, das
+          werd' ich wohl müssen bleiben lassen,Dazu würd' ich nicht gut mehr passen.Aber zeigt her,
+          was habt ihr gebracht?(Der Bauer nimmt seinen Beutel heraus, nimmt einige Thaler hervor
+          und gibt sie dem Rathsherrn.)Wartet, bis ich die Quittung gemacht!Setzt euch auf diesem
+          Sessel nieder!In einem Augenblick komm' ich wieder.(Geht zur Thür hinaus.)Bauer (setzt
+          sich auf den Lehnstuhl, in welchem er tief einsinkt, und schaut fich in der Stube um).Potz
+          Blitz, das ist ja so weich wie Brei!Zehender, der Leuenhof. </p>
+        <pb n="98"/>
+        <p>Da säß' ich nicht gut, bei meiner Treu!</p>
+        <p>Auf meiner Ofenbank zu Haus </p>
+        <p>Ruht sich's wahrhaftig besser aus.</p>
+        <p>Aber stein re ich muß der Herr Rathsherr sein!s'hat fast Alles hier einen goldigen
+          Schein!Die Bilder an der Wand, die prächtige Uhr,Der Schreibzeug da, dort die
+          Glockenschnur!So ein Herr zu sein ist doch nicht wenig:Kann's viel schöner sein bei einem
+          König?</p>
+        <p>Ich wüßte fürwahr nicht, was noch fehlt.Aber, was kostet das Alles für Geld!</p>
+        <p>Da muß mancher Bauer sein Zinslein bringen,Um diese Ausgaben zu erschwingen!</p>
+        <p>Und wer weiß, vielleicht hat er doch Recht?Schmeckt ihm dabei sein Essen schlecht,</p>
+        <p>Ist er nicht froh, nicht recht gesund,</p>
+        <p>Hat er im Tag keine ruhige Stund',</p>
+        <p>Da würd' ich das Glück alles wohlfeil geben Und lieber als armer Bauer leben!</p>
+        <p>Der liebe Gott muß seine Gründe haben,Wenn er die irdischen Güter und Gaben </p>
+        <p>So ungleich vertheilt an die Menschenkinder,Dem Einen mehr gibt, dem Andern minder.Zu
+          vielem Geld gibt er auch viele Müh',Versuchung, Sorge spaät und früh;<pb/>*199 </p>
+        <p>Bei wenigem Geld geht's einfach zu,</p>
+        <p>Auf heiße Arbeit folgt gute Ruh'.</p>
+        <p>Den Segen auf dem Ackerland,</p>
+        <p>Den nimmt man an aus Gottes Hand,</p>
+        <p>Und wird die Arbeit hart und schwer,</p>
+        <p>Freut man sich auf's Himmelreich um so mehr.WMach einigem Nachdenken.)</p>
+        <p>Du hast doch dumm geredet vorher,</p>
+        <p>Als wenn lauter Paradies hier wär'.</p>
+        <p>Was wird der Herr Rathsherr von dir denken!</p>
+        <p>Wird er dir wohl etwas am Zinse schenken?Rathsherr (it einer Quittung)Hier, Michel, nehmt
+          das Papier da mit!o'steht d'rauf, ihr seid des Zinses quitt.Was noch d'ran fehlt, das will
+          ich euch schenken,Wenn ihr drei Dinge wollt ernstlich bedenken.Erstlich dürft ihr nie mehr
+          kommen und klagen,Es habe das Land zu wenig getragen.Wie Gottes schickt, so ist's immer
+          recht Und ihn zu meistern steht euch schlecht.Zum Zweiten laßt es mich nimmermehr
+          hören,Die Glücklichsten seien die reichen Herren.Gott hat das Glück nicht nach dem Gelde
+          gemessen Und niemals ein's seiner Kinder vergessen.Zum Dritten bedenkt im ganzen Leben: </p>
+        <pb n="00"/>
+        <p>Gott hat jedem Menschen sein Kreuz gegeben,Gerade so schwerals er's kann ertragen;Drum
+          soll er's nicht abzuschütteln wagen.Ja, dürft' er ein anderes Kreuz sich erwählen,Er würde
+          das rechte stets verfehlen Und hielt' es zuletzt für das größte Glück,Gäbe Gott ihm wieder
+          das erste zurück.Also Michel, bleibt bei diesen drei Dingen,Und kommt ihr wieder, den Zins
+          zu bringen,So frag' ich darnach und ihr müßt ste wissen!Thut mir eure Frau und Kinder
+          grüßen!</p>
+        <p>Baueer (sich verabschiedend).Wohlweiser Herr Rathsherr, behüt' euch Gott!Und lohn' euch
+          die Guüte bis an den Tod!Schönen Dank für den Zins und die gute Lehr'!Ihr seid ein frommer
+          und kreuzbraver Herr!Alle hatten mit gespannter Aufmerksamkeit zugehört;die Großmutter
+          nickte nach ihrer Gewohnheit bei manchen Stellen beifällig mit dem Kopfe, und der
+          Hausvater wiederholte mehrere Male am Schlusse, damit sei der Nagel auf den Kopf
+          getroffen; er habe dieß und das auch schon so gedacht, was in dem Gespräch vorkomme, aber
+          er habe es nur nicht recht ausdrücken können; das sollte jeder Bauer lesen, dem's in
+          seinem Stande nicht mehr gefalle.<pb n="101"/>A ihm schwer werde, seine Schulden zu
+          verzinsen, doch st olz bleibe auf seinen Stand, der ihn so oft in Gottes schönem Haus, in
+          Feld und Flur herumführe, da habe er manche Freude, die der reiche Staädter mit all seinem
+          Gelde sich nicht erkaufen könnte. Auch der bedächtige Melcher stimmte mit kurzen Worten
+          ein, und des ehrwürdigen Schulmeisters Antlitz leuchtete vor Freude, als er sah, daß seine
+          Worte so guten Eingang gefunden hatten. Er fügte aus seiner reichen Erinnerung noch
+          manches Beispiel hinzu von Solchen, die aus Bauern hatten Herren werden wollen und nach
+          einem luftigen, liederlichen Leben nicht bloß bei den Herren, sondern auch bei den Bauern
+          selbst in die tiefste Verachtung sanken, und von Andern, die nach vielen Jahren saurer
+          ländlicher Arbeit ihre Güter schuldenfrei gemacht hatten und ein schönes Alter in Ruhe
+          genossen und ihren Kindern ein gutes Erbtheil hinterließen.</p>
+        <p>Auf eure Gesundheit, Vetter Schulmeister, sagte nun der Leuenbauer, nachdem er sich und
+          seinem Sohne Melcher auch die Gläser gefüllt hatte, und alle drei stießen fröhlich an mit
+          ihren Gläsern, um die vieljährige Freundschaft von Neuem zu befestigen. Der Bauernstand
+          sollleben, rief der Schulmeister, und Jeder, der ihm Ehre macht durch Arbeitsamkeit und
+          Treue! Die Andern <pb n="19"/> stimmten zu, und es war erhebend anzusehen, wie die drei
+          Menschenalter, der Greis und der Mann und der Jüngling, der eine aus reiflicher Erfahrung,
+          der andere, weil seine tägliche Arbeit es ihn lehrte, und der dritte, weil der gesunde
+          väterliche Sinn kräftig in ihm wieder erwacht war, einstimmig ihren von Gott gesetzten
+          Stand priesen.</p>
+        <p>Habt ihr nicht noch etwas in eurem lieben alten Buch,was ihr uns vorlesen könnt, sagte
+          nun die Hausmutter:zum Schulmeister; wir sitzen so vergnügt beisammen, und ich wüßte
+          nicht, was wir Besseres thun könnten, als euch zuhören; ich bitt' euch, thut es uns zu
+          Liebe!</p>
+        <p>Wenn ihr's gern hört, so werde ich schon noch Etwas finden, das zu unserm Gespräch paßt.
+          Da habe ich vor Kurzem einige lehrreiche Sprüche gefunden in einem alten Buch, welches zur
+          Zeit der Reformation oder Kirchenverbesserung gedruckt worden ist; in festes Schweinsleder
+          ist es gebunden und hat starke messingene Klammern, und wenn man's aufschlägt, so ist's,
+          als könnte man's ihm anriechen, daß es ein paar hundert Jahre alt sein muß. Ein
+          gottseliger Mann, der das menschliche Leben unter Hoch und Niedrig gewiß gut kannte, muß
+          es geschrieben haben;aber Manches drinn ist schwer zu fassen und es redet eine
+          alterthümliche Sprache. Es erklärt eine Menge alte Sprüche, unter andern auch den
+          sonderbaren Spruch:Alle Menschen, ein Mensch, der wie ein Räthsel <pb n="103"/> klingt,
+          der soll Gottes Gerechtigkeit gegen uns Menschen beweisen. Von dessen Erklärung habe ich
+          Folgendes in mein Buch aufgezeichnet:</p>
+        <p>So man alle Dinge wahrnimmt und im Grunde anstehet, so ist ein gleiches Leben auf Erden,
+          und hat der unpartheiische Gott alle Menschen gleich erschaffen und in ein gleiches Leben
+          gestellt und mit gleicher Lieb' nicht einen um ein Haar besser oder böser gemacht, sonst
+          hätten die Versäumten ab Gott zu klagen.</p>
+        <p>Derhalb wer einen natürlichen Menschen sieht, der stehet sie all. Alle Menschen, ein
+          Mensch. Es ist Alles Adam. Wer in einer Stadt ist, ist in der ganzen Welt,find't er schon
+          andere Sitten, Sprach', Kleidung, so ist doch das Gemüth, Herz, Sinn und Will' in allen
+          gleich.</p>
+        <p>Wer nun selig werden will, der muß den Menschen ausziehen, aus Gott wiedergeboren, ein
+          neu Mensch werden, sonst liegt er in gemeinem Verderben, Fluch und Verdammniß.</p>
+        <p>Wie nun alle Menschen einander gleich seh'n am Gemüth und allein der Unterschied am
+          äußern Ansehen ist,also sind alle Menschen einander gleich am Gut und ist nur der
+          Unterschied in dem äußern Anblick. Also wie ungleich wir einander sind äußerlich am Gut
+          vor den Augen der Menschen, so gleich leben wir in der Wahrheit vor Gott. Der Arme hat so
+          genug und <pb n="104"/>lebt so wohl, ob es wohl weder der Reich noch Arm glaubt, als der
+          Reich. Er liegt und schlaft auch so wohl;denn Gott ist wunderbarlich; was er nicht am Gut
+          gibt,das gibt er am Muthz was er nicht auf den Tisch gibt,das gibt er in den Mundz was er
+          nicht am Bett gibt,das gibt er am Schlaf.</p>
+        <p>Was ist es, daß der Fürst besser liegt, denn der Bauer,wenn er nur so wohl schlaft? Was
+          ist's, daß der Reich Fasanen und Kapaunen hat vor ihm stehen, so dem Armen sein Brei so
+          wohl schmeckt? Halt des Reichen leckerhaftigen, lüsternen Mund an seine Pasteten und des
+          Armen an seine Suppe, so findest du auf's wenigste gleichen Geschmack, wo nicht der Arme
+          besser lebt und ihm sein Kraut besser schmeckt, als jenem seine Fische. Der Unterschied
+          ist nur im Schein und der Speise, aber nicht im Geschmack und Mund. Der Hunger und Durst
+          macht aus Brod Lebkuchen und aus einem frischen Trunk Wasser Malvasier.Daß wir aber Alle
+          gleich leben, findet sich auch im Ausgang; denn der Arm lebt ebenso lang als der Reich,ja
+          länger und gesünder, was nicht geschähe, wo ihm etwas am Wohlleben abginge und er nicht so
+          wohl als der Reich zu leben hätte.</p>
+        <p>Paulus saget von den Christen: Es ist Alles euer das ist, es nützet und dienet euch
+          Alles. Also begibt es <pb n="103"/>IIVV nicht haben, und die im Schein nicht haben, Alles
+          haben in der Wahrheit.Das wird Niemand verstehen oder glauben, denn der aus Gott ist.Da
+          sind viel schwere Worte, setzte der Schulmeister hinzu; die geben viel nachzudenken, und
+          manche sind nicht leicht herunterzuschlucken; aber wer so viele Jahre, wie ich, den Lauf
+          der Welt betrachtet hat, der wird zu Allem Ja sagen und bekennen müssen, daß unser Gott
+          ein gerechter Gott ist gegen alle Menschen ohne Unterschied. Nun hört noch eine
+          Korallenschnur von guten und lustigen, wohlgereimten Sprüchen, eine Arznei für die Armen,
+          wenn sie wollen unzufrieden werden mit ihrem Schicksal, jeden Tag ein Sprüchlein
+          einzunehmen, und wenn man fertig ist, kann man wieder vorn anfangen,nämlich:Ein goldenes
+          ABC für die Armen.A. Armuth muß leiden Spott und Hohn,Aber kann auch bringen die
+          Ehrenkron'.B. Bet und arbeite! gilt auch dem armen Mann,Bettelvolk Gott nicht gefallen
+          kann. </p>
+        <pb n="15"/>
+        <p>6 </p>
+        <p>C. Christen dürfen in keiner Noth verzagen;Christus hat für uns Alle die Armuth
+          getragen.Diene gern, aber mit freiem Gewissen!Dienen in Liebe kann Trübsal
+          versüßen.Erdengut mag untergeh'n,</p>
+        <p>Ew'ges Gut wird stets besteh'n.</p>
+        <p>Frie de bringt zum einfachsten Mahl </p>
+        <p>Frohsinn und Freuden ohne Zahl.</p>
+        <p>Geben macht selig, macht nimmer arm,</p>
+        <p>Geld macht das Herz dir nimmer warm.</p>
+        <p>H. Hab und Gut sind nicht ewig dein;</p>
+        <p>Heut vielleicht muß schon geschieden sein.</p>
+        <p>Jung trag' dein Joch und wirf's nicht ab;</p>
+        <p>Je höher du strebst, desto tiefer hinab!</p>
+        <p>Könige und Kaiser beneide nie,</p>
+        <p>Kronen glänzen, doch drücken sie.</p>
+        <p>Liebe bereichert das aärmste Haus;</p>
+        <p>Leer wird der Palast, zieht die Liebe hinaus.Mancher ist arm bei großem Gut,</p>
+        <p>Mancher ist re ich bei großer Armuth.</p>
+        <p>Nichts hast du gebracht in diese Welt </p>
+        <p>Nicht s trägst du hinaus aus dem irdischen Zelt.Obenauf liegt der Welt Ehr', Glück und
+          Glanz:Ohne Demuth kein wahrer Ehrenkranz.</p>
+        <p>J.</p>
+        <p>K.</p>
+        <p>L.</p>
+        <p>M.</p>
+        <p>N.</p>
+        <p>O.<pb/>10.</p>
+        <p>P. Putz' nicht zu sehr deinen Leib von Staub;Auch im Purpur wird er des Todes Raub.</p>
+        <p>Q. Quält dich der Zweifel an Gottes Huld,Quillt in Gottes Wort dir der Quell der
+          Geduld.</p>
+        <p>R. Reisegeld durch die Welt ist dein irdisch Gut:Ruft der Herr, so laß es mit leichtem
+          Muth.Salz und Brod macht die Wangen roth,Silber und Gold bringt oft Sünd' und Tod.Trage
+          die Armuth, verfluche sie nicht!Tonnen Goldes sind auch kein leicht Gewicht.Unrecht Gut
+          brennt in den Händen Und entfliegt nach allen Enden.</p>
+        <p>V. Vertrau auf Gott in Hunger und Jammer;Voll ist seine ewige Vorrathskammer.</p>
+        <p>W. Wandle den Weg durch Weh und Schmerzen,Willst du gelangen zu Gottes Herzen.</p>
+        <p>Z. Zahl' deine Tage und miß deine Zeit!Zur Ewigkeit halte dich stets bereit!</p>
+        <p>Vetter Schulmeister, sagte der Leuenbauer, der mit größter Aufmerksamkeit zugehört hatte,
+          die Sprüche müßt ihr uns geschrieben geben, man sollte sie in Glas und Rahmen einfassen
+          und in der Stube aufhängen, daß Jedermann sie immer vor Augen hat. Wir wollten sie als ein
+          Andenken von euch in Ehren halten. </p>
+        <pb n="104"/>
+        <p>Ja, das müßt ihr thun, fügte die Mutter hinzu; wer weiß, wie bald ihr nun zum letzten Mal
+          am Sonntag Abend bei uns gewesen seid; denn vom Kirchhof seid ihr nicht mehr so weit weg.
+          O wie werden wir euch vermissen, wenn der liebe Gott einmal eure Augen zugedrückt hat zur
+          ewigen Ruhe! Da müssen wir etwas haben, was uns an euch und euren treuen guten Rath
+          erinnert. Drum schreibt uns das goldene ABC auf ein großes Blatt, so gut ihr's noch könnt
+          mit euren zitternden Händen, das hängen wir dann auf, und wenn wir's anschauen, so denken
+          wir an euch, wie ihr so manchmal unter uns da auf der Ofenbank saßet in den weißen Haaren
+          und mit der alten Brille, und aus eurem Weisheitsbuch uns vorlaset, und manches gute Wort
+          von euch wird uns dann wieder lebhaft in Erinnerung kommen.</p>
+        <p>Das will ich von Herzen gerne thun, liebe Base, sagte der Schulmeister hierauf; aber
+          schön kann ich's nicht mehr;das waren andre Zeiten, als ich noch einen
+          Zweifelstriche)machen konnte in einem Zug so verwickelt und so verschlungen, daß Niemand
+          weder den Anfang noch das Ende D die Kniee zittern mir und die Finger und das Gedächtniß
+          ist auch nicht mehr niet- und nagelfest, das bekümmert </p>
+        <p>) Eine Verzierung am Schlusse eines Abschnitts <pb n="15"/>mich am meisten; da werd' ich
+          wohl den Frühling nicht mehr erleben. Wenn Gott ruft, so bin ich bereit, kann doch nichts
+          mehr nützen in dieser Welt; aber wenn ihr mich im guten Andenken behaltet, so wird's mir
+          im Grabe noch wohlthun. Ich meine damit nicht meine Person; von der wird in zehn Jahren
+          Niemand mehr viel reden, ich meine die Worte der Wahrheit und der Erfahrung, die ich so
+          lange unter euch ausgestreut habez ich weiß es,wenn ihr dabei bleibt, so wird's euch wohl
+          geh'n. Dich Melcher und dich Liseli, euch mein' ich auch; bei euch muß sich's noch erst
+          entscheiden, was aus euch werden sollz aber für euch besonders wäre es ein Gewinn, wenn
+          ihr jenes goldne ABC nicht bloß läset, sondern recht zu Herzen nähmet. Versuchet nur
+          darnach zu leben, es soll euch nicht gereuen.</p>
+        <p>So sprach der Schulmeister noch weiter zu der Großmutter innigem Wohlgefallen; es war,
+          als hielte er seinen Schwanengesang, als wollte er noch sein geistliches Testament
+          niederlegen im Leuenhof, so kam er in mächtige innere Bewegung, und Ernst und Freude
+          strahlte ihm dabei feierlich vom Angesicht. Bald wendete er sich an die Großmutter, mit
+          welcher er in Kurzem in einer gröͤßern Familie über den Sternen zusammenzukommen DV0
+          Gottes Gnade und Hülfe während ihres bisherigen Le <pb n="110"/> bens erinnerte, bald an
+          deren Kinder, denen er mit aller Gewißheit eine schöne Zukunft weissagte, wenn sie den
+          Sinn und Geist bewahrten, der bisher im Leuenhof gewaltet habe. Unter solchen Reden und
+          Gesprächen, während welcher sie dem wärmenden Ofen immer näher zurückten, flossen die
+          Stunden des Abends ernst und freundlich dahin. Endlich stand der ehrwürdige
+          Dorfschulmeister auf, trank sein Glas aus, wünschte dem ganzen Hause,besonders dem Sohne
+          und der Tochter, Heil und Gottes Segen und gute Nacht und wankte an seinem Stabe nach
+          Hause. Im Leuenhof betete der Hausvater noch den Abendsegen und Alle legten sich zur Ruhe
+          mit Dank für das Gute, was an diesem Sonntage dem Hause widerfahren.</p>
+        <p>Achtes Rapitel.</p>
+        <p>UNach zehn Jahren.Alles Ding währt seine Zeit,Gottes Lieb' in Ewigkeit.Paul Gerhard.Viel
+          Zeit ist vergangen seit jenem Novembersonntag voll Schneegestöber und Sonnenschein z
+          zehnmal ist seit <pb n="111"/> dem der Pflug über die Stoppeln gegangen, zehnmal hat der
+          neue Wein im Fasse gegährt; aber der Leuenhof steht noch am alten Platze, doch neue,
+          schöngemalte Fensterladen zieren das Haus; es ist renovirt von unten bis oben, in welchem
+          Jahr, das ist am Hause selbst in großen Buchstaben und Zahlen zu lesen, und oben unter dem
+          Giebel sind deutlich die Worte gemalt und in einen Kranz eingefaßt: Es ist ein großer
+          Gewinn, wer gottselig ist und läässet ihm genügen. Wir kehren wieder an einem Sonntag zur
+          Kaffeezeit in der großen Bauernstube mit dem grünen Ofen ein und sehen uns zuerst um nach
+          der alten Großmutter. Aber sie ist nirgends mehr zu finden, weder auf der Ofenbank, noch
+          an ihrem Ehrenplatz am Raffeetische; sie ist schon längst zu ihres Herrn Freude
+          eingegangen, und ihr alter Freund, der Schulmeister, auch;ihre irdische Hülle ruht auf dem
+          nahen Kirchhof, und manche Rose ist schon drauf gewachsen von dankbarer Enkel Hand
+          gepflegt. Aber in der Stube regt sich's und bewegt sich's gar lebhaft; ein Mädchen von
+          acht Jahren stellt mit Sorgfalt die Tassen um den Tisch herum; zwei jüngere Brüderchen
+          sitzen auf der Treppe hinter dem Ofen und spielen mit Nüssen; ein ganz kleines Mädchen
+          spielt mit der alten Katze, die neugierig zum Fenster hinausschaut und zu des Kindes
+          Liebkosungen freundlich schnurrt,es ist ein heller Wintertag und die Sonne schaut freund
+            <pb n="112"/> lich wie ehemals zu den Fenstern herein. Die Kleine ist fertig mit ihrem
+          Geschäfte und ruft ihrer Mutter, die in der Küche am Heerde beschäftigt ist. Eine
+          stattliche Bauersfrau mit verständigem Gesichte, von hohem Wuchs,in ihrer einfachen, aber
+          malerischen Tracht ein Bild ländlicher Schönheit, trat herein, überzeugte sich davon, daß
+          Alles wohlgeordnet auf dem Tische stehe, hieß die Kleinen ihre Plätze einnehmen und sagte
+          zu dem ältesten Töchterchen: Geh', ruf' dem lieben Vater, er ist im Stalle und füttert,
+          und dann geh' in die obere Stube zu Großvater und Großmutter und frage sie, aber recht
+          artig, ob sie nicht heute bei uns den Kaffee trinken wollten, weil's Sonntag sei; es sei
+          Alles für sie bereit. Die Kleine sprang fröhlich zum Vater und dann die niedere Treppe
+          hinauf in den obern Stock zu den Großeltern und richtete wörtlich ihre Botschaften
+          aus.</p>
+        <p>Unterdessen trat ein kräftiger Bauersmann mit starkem Tritt zur Stube herein: es war der
+          Melcher, der jetzt als der Leuenbauer im ganzen Dorf in gutem Ruf und Ansehen stand; er
+          hatte in seiner Marei eine treffliche Hausfrau mit ordentlichem Vermögen gefunden und mit
+          U Kränzlein von Kindern erblühn, die ihm alle gesund und wohlgezogen entgegenschauten.
+          Seine Eltern hatten ihm den Leuenhof übergeben und sich selbst in die Altersruhe <pb/>I2
+          gesetzt und in den obern Stock zurückgezogen, wo sie ihren eignen Haushalt hatten; einige
+          Felder und einen Weingarten bearbeiteten sie noch selbst; den Haupttheil der Güter aber
+          hatten sie dem Sohne übergeben; er verwaltete sie musterhaft und zog gesegneten Ertrag
+          daraus.Er galt im Dorf für einen Bauer, der gut dran sei, und seine Stieren und Kühe
+          hatten sich vor keinen andern im Dorfe zu schämen, wenn sie zur Tränke an den Brunnen
+          kamen.Das kleine Töchterchen, Anneli hieß es, seiner Großmutter zu Ehren, brachte halb
+          athemlos die Nachricht, der Großvater und die Großmutter würden bald kommen,und die Base
+          Liseli auch, und die würde noch etwas Gutes zum Kaffee mitbringen. Ueber das Letztere war
+          die junge Schaar einstimmig hocherfreut, und der kleine Melcher,der älteste Knabe, sagte
+          pfiffig seinem Brüderchen ins Ohr, doch so, daß es Alle hören konnten, er wisse wohl,was
+          die Base Liseli bringe, es seien Eierküchli, er solle es aber Niemand sagen. Und wie war
+          es denn dem Liseli gegangen in den zehn Jahren? Warum wohnte es zu Hause bei seinen Eltern
+          und stand nicht auch als Hausfrau einer glücklichen Familie vor, wie seine Großmutter
+          gehofft hatte? Es ist traurig zu erzählen, es sei so kurz als möglich gesagt. Wohl hatte
+          es sich vorgenommen,anders zu werden an jenem Sonntag und von der Hof</p>
+        <p>Zehender, der Leuenhof. 8 <pb n="114"/>fahrt sich loszureißen; aber seine Reue hatte
+          nicht Bestand;das Geld und der Leichtsinn und die böse Lust waren stärker als die Bitten
+          und Rathschläge der Seinigen.Der Webstuhl wurde wohl fortgeschafft aus dem Hause;aber alle
+          seine hübschen Kleider wegzugeben, konnte es nicht über sich bringen, und an das stille
+          häusliche Leben mochte es sich nicht mehr recht gewöhnen, und mit seinen leichtsinnigen
+          Freundinnen wollte es den Verkehr auch nicht ganz abbrechen; da geschah, was stets
+          geschieht,wenn man mit der Reue und dem Bekämpfen des alten Menschen nicht ganz Ernst
+          macht; es wurde mit ihm ärger als zuvor, und der letzte Betrug war ärger als der erste.
+          Alle Bitten und Ermahnungen der bekümmerten Eltern halfen nichts. Bald ward es auf dem
+          Tanzboden gesehen, bald auf dem Jahrmarkt im Wirthshaus; endlich,da es mit den Eltern
+          nicht auskommen konnte, zog es aus dem Haus, warf ihnen den Sack vor die Thür und fing auf
+          eigene Rechnung wieder das Seidenweben an.Nun kam es gar in ein ungezogenes und
+          liederliches Leben hinein; es durfte sich im Dorfe kaum mehr blicken lassen,und als es gar
+          bekannt wurde, es habe ein uneheliches Kind zur Welt gebracht, da hätten die armen Eltern
+          sich die Haare aus dem Kopfe reißen mögen vor Kummer,und der Vater sprach acht Tage lang
+          fast kein Wort mehr,und der Melcher, dessen ehrenwerther, kräftiger Sinn in <pb n="118"
+          />der ganzen Gemeinde bekannt und hochgeschätzt war,mußte sich schämen, wo er hinkam, um
+          seiner ehrlosen Schwester willen. Das waren Jahre des tiefsten Herzeleids für die Leute im
+          Leuenhof; alle die Freude, welche Melchers Heirath gebracht hatte, wurde getrübt durch
+          diese Schande, welche das Liseli dem Haus angethan. Die Großmutter starb darüber hin; ihre
+          düstern Ahnungen waren in Erfüllung gegangen. Dem Liseli starb sein Kind, dessen sich kein
+          Vater hatte annehmen wollen; es hatte mit fast krankhafter Liebe an demselben gehangen,da
+          es sich sonst von Jedermann verlassen sah; sein Tod ging ihm tief zu Herzen und brachte
+          eine heilsame Veränderung in ihm hervor. Nach langem Kampfe mit sich selbst kam es, seine
+          Eltern um Verzeihung zu bitten; es wolle in Alles sich schicken, die härtesten Geschäfte
+          verrichten, wenn sie's nur wieder in's Haus aufnehmen wollten. Sie konnten seinem innigen
+          Flehen nicht widerstehen; denn jetzt waren es wahrhafte Thränen der Buße.So wohnte es bei
+          den Eltern im obern Stocke und wollte sich lange nicht blicken lassen im Dorfe; aber
+          unermüdlich war es, wenn es den Eltern eine Mühe abnehmen, eine Freude bereiten oder in
+          des Bruders sich vergrößernder Haushaltung thätige Hülfe leisten konnte. Nun war ihm keine
+          Last zu schwer, keine Mühe zu sauer. Einen Widerwillen hatte es gegen allen unndthigen
+          Putz Alles war <pb/></p>
+      </div>
+      <div type="chapter">
+        <head>4.</head>
+        <p>4.</p>
+        <p>18 ihm recht, wenn es nur ordentlich, sauber und nicht zerBibel vor; die Kleinen im
+          untern Stock lehrte es Sprüchlein und Verse auswendig. Sein harmlos fröhlicher Sinn von
+          früher war verschwunden; sein freundlicher Sinn aber kehrte doppelt zurück; drum hingen
+          des Bruders Kinder an ihm mit der größten Anhänglichkeit. Wenn die Base Liseli
+          herunterkam, ihnen eine Geschichte erzählte,Bilder zeigte, oder gar etwas Gutes auf den
+          Zahn brachte, so war der größte Jubel unter dem jungen Volk.In diesem hülfreichen Wirken
+          wurde ste innerlich wieder allein war, den Seufzer von ihren Lippen hören: Hätt'ich doch
+          früher dem Spruche geglaubt: Es ist ein großer Gewinn, wer gottselig ist und lässet ihm
+          genügen, wie glücklich könnte ich jetzt sein! Aber sie zwang sich,vor Vater und Mutter
+          nicht düster zu erscheinen, und als ihr wieder einige Zeit verflossen war im väterlichen
+          Hause,ließen weder der Bruder noch die Eltern ihr mehr etwas fühlen, worin sie einen
+          Vorwurf hätte erblicken können;sie wurde als willkommnes, hülfreiches und geschäätztes
+          Glied der Haushaltung betrachtet. J </p>
+        <p>Also kamen Größvater, Großmutter und die geliebte Base Liseli zum Sonntags-Kaffee in die
+          untere Stube,und die Letztere brachte mit sich einen hochgethürmten </p>
+        <pb n="117"/>
+        <p>Teller mit Eierkuchen, wie ste ehemals ihrer Großmutter Lieblingsgericht gewesen waren.
+          Da zupfte der Melcherli seinen Bruder am Ermel und sagte: Hab' ich's nicht errathen, und
+          ein Freudenstrahl flog über die kleinen Gesichter. Die Großeltern mußten obenan sitzen,
+          und Liseli nahm seinen Platz in der Mitte der Kinder, und als die Muiter jedem sein
+          Schüsselchen mit Kaffee und Milch gefüllt hatte, theilte ste der Ordnung nach die schönen
+          braunen Kuchen aus. Da schnabulierten sie lustig mit frohen Geberden, es war eine Lust
+          ihnen zuzusehen, und sagten dazwischen, wie brav die Base Liseli sei.</p>
+        <p>Wißt ihr auch, Vater, sagte nun der junge Leuenbauer,stolz das Häuflein seiner Kinder
+          überblickend, daß es heute zehn Jahr sind seit jenem Sonntag, da ihr mir so ins Herz
+          geredet habt? Noch dank' ich euch von Herzensgrund für jedes Wort; was wäre aus mir
+          geworden, wenn ihr mich damals nicht von meinen thörichten Gedanken auf den guten Weg
+          gelenkt hättet!</p>
+        <p>Ja, sagte der alte Vater, ich habe heute schon Gott gedankt für den Segen, den er damals
+          meinen schwachen Worten gab. Das kann ich dir sagen, nie ist mir im Leben ein Wort so
+          schwer geworden wie jenes, aber es war als ob Gott selbst mich dazu triebe, und ihm kann
+          Niemand widersteh'n. Danken wir ihm, daß er Alles so gelenkt hat, und du dank' ihm
+          besonders dadurch, daß du <pb/>II deine schönen, frischen Kinder da erziehst in seiner
+          Furcht und in der Einfachheit und Genügsamkeit unserer Väter,und deine Frau wird dir daran
+          helfen, und das Liseli wird auch das Seinige treulich thun, auch wenn wir Alten einmal
+          dorthin abreisen, wohin die liebe Großmutter uns schon lang vorangegangen ist. Ihr habt
+          ihr eigentlich Alles zu danken, was ich euch Gutes gelehrt habe; im Stillen ging sie ihren
+          Weg einfach und schlicht; aber gerade dadurch hat sie unserm Hause den Segen gebracht,der
+          jetzt auf ihm ruht. Drum denkt an die liebe Großmutter, so oft dieser Sonntag
+          wiederkehrt.</p>
+        <p>Und zu ihrem Andenken, sagte jetzt des alten Leuenbauers Frau, wollen wir, wenn der Tisch
+          abgeräumt ist,den schönen Psalm mit einander lesen, den ste damals vor zehn Jahren uns so
+          feierlich vorlas; mir ist's, als wär's erst gestern gewesen.</p>
+        <p>Alle freuten sich des Vorschlages. Unter vielen Erinnerungen an die sel. Großmutter
+          verging die liebe Kaffeestunde; flink half das kleine Anneli der Base beim Abräumen des
+          Tisches; dann holte Melcher die alte Familienbibel vom Gesims, schlug drin den 103. Psalm
+          auf und legte sie vor seine Mutter hin; die Kinder rund um den Tisch bis auf's kleinste
+          falteten ihre Händchen, wie ste's gewohnt waren, wenn jenes Buch auf den Tisch kam.Der
+          Abendsonne letzte Strahlen spielten freundlich an der <pb n="119"/>Wand, und bewegt begann
+          die Mutter: Lobe den Herrn, meine Seele, und was in mirist, seinen heiligen Namen; lobe
+          den Herrn, meine Seele,und vergiß nicht, was er dir Gutes gethan hat!und so fort bis zu
+          Ende, und noch manches Jahr erklangen am gleichen Sonntag im Leuenhof jenes Psalmes
+          trostund freudenreiche Worte.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

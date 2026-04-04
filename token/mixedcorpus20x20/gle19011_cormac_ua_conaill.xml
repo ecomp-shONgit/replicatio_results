@@ -1,0 +1,2135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="eltec-0.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="gle19011" xml:lang="ga">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cormac Ua Conaill: ELTeC edition</title>
+                <!-- Standardised author name from ainm.ie -->
+                <author ref="viaf:60607237">Ó Duinnín, Pádraig (1860-1934)
+                </author>
+                <respStmt>
+                    <resp>ELTeC conversion</resp>
+                    <name>Justin Tonra</name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <measure unit="words">24737</measure>
+                <measure unit="pages">90</measure>
+            </extent>
+            <publicationStmt>
+                <publisher ref="https://distant-reading.net">COST Action "Distant Reading for
+                    European Literary History" (CA16204)</publisher>
+                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+                <date when="2022-04-08"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+                <!-- Add further collections refs, as available -->
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                    <title>Cormac Ua Conaill: Foclóir Stairiúil Na Nua-Ghaeilge (FNG) / The
+                        Historical Dictionary of Modern Irish edition</title>
+                    <ref target="http://corpas.ria.ie/"/>
+                </bibl>
+                <bibl type="firstEdition">
+                    <title>Cormac Ua Conaill</title>
+                    <author>An tAthair Pádraig Ua Duinnín</author>
+                    <publisher>Connradh na Gaedhilge</publisher>
+                    <date>1901</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc n="eltec-0">
+            <p/>
+        </encodingDesc>
+        <profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+            <langUsage>
+                <language ident="gle"/>
+            </langUsage>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <!-- use worldcat for 1970-2009 reprint count -->
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2021-09-27">Initial conversion to ELTeC level 0.</change>
+            <change when="2023-07-03">Updated Publication Statement and front matter.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="titlepage">
+                <p>Cormac Ua Conaill</p>
+                <p>Sgéal bhaineas le hÉirghe Amach agus Díth-cheannadh Iarla na Dearmhumhan (A.D.
+                    1579-1583).</p>
+                <p>Leis an</p>
+                <p>ATHAIR PÁDRAIG UA DUINNÍN,</p>
+                <p>Máighistir ins na hEaladhnaibh,</p>
+                <p>Ughdar an dráma "Creideamh agus Gorta," Eagarthóir "Aodhagáin Uí Rathaille,"
+                    &amp;c.</p>
+                <p>Ar n-a chur amach</p>
+                <p>Ag</p>
+                <p>CONNRADH NA GAEDHILGE</p>
+                <p>I mBaile Átha Cliath.</p>
+                <p>1901.</p>
+            </div>
+            <div type="liminal">
+                <p>AN CLÁR.</p>
+                <p>Caibidil. Leathanach.</p>
+                <p>I. An Tarngaireacht ... ... ... ... ... 1</p>
+                <p>II. Ag Teicheamh ó'n mBár ... ... ... ... 12</p>
+                <p>III. An tAthach ... ... ... ... ... ... 22</p>
+                <p>IV. An Turas ... ... ... ... ... ... 30</p>
+                <p>V. An Dúnmharbhadh ... ... ... ... ... 35</p>
+                <p>VI. An tAthach ar Fán ... ... ... ... ... 45</p>
+                <p>VII. Coill tré Theinidh ... ... ... ... ... 49</p>
+                <p>VIII. An tIarla ... ... ... ... ... ... 55</p>
+                <p>IX. Príomh-ionad Comhnaidhthe an Árd-Taoisigh ... ... 63</p>
+                <p>X. I dTrearaibh na aArm ... ... ... ... 68</p>
+                <p>XI. An Gleann ... ... ... ... ... 72</p>
+                <p>XII. An Léir-sgrios ... ... ... ... ... 78</p>
+                <p>XIII. Marbhnadh Iarla na Dearmhumhan. ... ... ... 85</p>
+                <p>XIV. Deireadh ... ... ... .. ... ... 88</p>
+            </div>
+        </front>
+
+        <body>
+            <div type="chapter">
+                <pb n="1"/>
+                <head>AN CÉAD ALT.</head>
+                <head>AN TARNGAIREACHT.</head>
+                <p>I n-íochtar na seiseadh haoise déag nuair bhí Gearaltaigh na Mumhan ag
+                    síor-bhruighin le Bain- ríoghain Sagsana, do bhí buachaill óg ag gabháil an
+                    bhóthair idir Chill Áirne is Chaisleán na Mainge 'na shuaimhneas ó sgoil. Do
+                    bhuail fear sgoth-aosda i gcló bacaigh uime, is do labhair leis. Ba mhinic
+                    cheana do chonnaic sé an fear céadna i dtigh a athar, is uime sin d'aithin sé a
+                    ghnúis is a imtheacht, acht níor b'eól dó a ainm. “'Seadh, a Chormaic Uí
+                    Chonaill,” ar an fear aosda, “an bhfuilir ag teacht ó sgoil?” “Táim, ar Cormac.
+                    “Tá áthas orm go bhfuilir ag sgrúdadh léighinn; gheóbhair, geallaim dhuit, gnó
+                    dhi fós, is bhéarad-sa rud éigin duit ar a bhféadfair do chuid léighinn do chur
+                    chum críche.” Tar éis na bhfocal soin do rádh do'n tseanduine, d'aithris sé dó
+                    nó trí líne do rann le mire i n-áirde a chinn 's a ghotha, i gcás gur chuir sé
+                    iongnadh mór ar Chormac, is gur infhiúch an buachaill é ó cheann go talamh ar
+                    feadh tamaill.</p>
+                <p>“Innis dam anois, a bhuachaill léigheannta fháith- chliste,” ar an seanduine, “an
+                    dtuigeann tú na briathra soin?” D'fhreagair Cormac gur aithin sé <pb n="2"/>
+                    beagán focal dár labhair sé acht nár bh'ar fhóghnamh do thuig sé cia brígh bhí
+                    leó. “Tiocfaidh an ní seo go léir chum cinn le linn do shaoghail-se,” ar an
+                    seanduine, “agus fós coimhlíonfair féin mórán de.” Iar gclos na bhfocal soin dó,
+                    chuir Cormac breis suime 'na bhriathraibh, is do cheap sé rún na rann soin do
+                    chraoibhsgaoileadh dá mb'fhéidir. Ar an inntinn sin d'athchuir ar an tseanduine
+                    fíor-bhrígh na bhfocal do chur i n-umhail dó. Ar dtúis d'eitigh an seanóir go
+                    dána é, acht tar éis móráin tafaint d'aontuigh na focail do sgríobhadh i
+                    nduilleóig fholaimh bhí i measg leabhar an bhuachalla agus an sgríbhinn do
+                    thabhairt dó. D'fhair Cormac le mór-iongnadh, is ní gan faitchíos, an lámh
+                    chnámhach, thana, fhada úd an tseanduine ag sgríobhadh go mall is go socair an
+                    rann so: - </p>
+                <l>“Gaisgidheach oirdhearc leagtha le feall,</l>
+                <l>Oighreadh aithiseach taca na nGall,</l>
+                <l>Curadh ag a cháirdibh ceangailte i bpoll,</l>
+                <l>Críoch le treibh tar tuinn anall.”</l>
+                <p>Tar éis a chríochnuighthe dhó do thug sé an páipéar do'n bhuachaill is do chuir
+                    an cnoc amach de mar dhuine ar ghealtaigh.</p>
+                <p>Do bhí an sgríbhinn rúnach so anois 'na sheilbh ag Cormac, is ní sásda bhí a
+                    aigneadh go mbeadh fios bríghe na bhfocal soin aige. Do thuig sé ó chomhrádh an
+                    tsean- duine gur bha tarngaireacht éigin iad is ba mhinic roimhe sin do chuala
+                    sé tarngaireacht ar ionnarbadh na Sagsan as Éirinn; is anois do chreid sé gur
+                    do'n ní chéadna do thagair na focail:</p>
+                <p>“Críoch le treibh tar tuinn anall.”</p>
+                <p>Do réir an chraoibhsgaoilte sin, do bhí sé féin chum bheith 'na fhear
+                    chumhachtach ag ruagadh na Sagsan tar tuinn. Do chuir smuaineadh na neithe sin
+                    sgleóndar neamh- <pb n="3"/> chuibheasach air. Do lasadar a shúile le huabhar.
+                    Is dearbh ná raibh aon chaoi aige fios cinnte d'fhagháil ar an chuid eile do'n
+                    tarngaireacht is nár bh'eól do cia arbh' iad na fir dár thrácht an rann rúnach
+                    úd, is go deimhin ba chuma cia'rbh' é an curadh allmhurach do mill- fidhe dá
+                    dtabharfadh a oidheadh saoirse is síothcháin chum talmhan Éilge. </p>
+                <p>Cad iad na smuainte do rith tré n-a aigneadh ag dul a bhaile dhó an tráthnóna
+                    soin? Is uaibhreach árd-aim- neach do chuimhnigh sé ar an ghlóir do bhí le
+                    fagháil aige. Is tapa croidhe-luaimneach do chuir sé an bóthar dhe. Is minic do
+                    léigh sé an rann úd, is do mhachtnaimh ar an bhrígh do bhí léi go soilbhir,
+                    lán-tsásda leis féin is leis an domhan uile. Ar uairibh, amhach, do thagadh
+                    trom-thocht cathuighthe ar a chroidhe, is do ritheadh an fhliche ó n-a rosgaibh
+                    i gcaisíbh ag cuimhneamh dhó ar a athair bhocht ná béadh 'san mbaile roimhe, ná
+                    feaca sé le fada, is do bhí, dar leis, claoidhte le Gallaibh. “Dá mbeith
+                    m'athair anois romham,” ar sé leis féin, “caidé an t-áthas do chuirfinn ar a
+                    chroidhe leis an sgéal so! acht, fáiríor, ní fheicfidh sé go brath saoirse ar
+                    dtíre ná neamh-spleáchas ar gcreidimh!”</p>
+                <p>Do chaith sé an chuid eile do'n lá soin go ciúin ag machtnamh leis féin is níor
+                    leig sé air le muinntir a thighe go raibh aon ní ag déanamh buaidheartha dhó ar
+                    eagla go gcuirfeadh a mháthair cosg air, is go gcoing- bheóchadh sí 'san mbaile
+                    é gan chaoi do bheith aige an tarngaireacht do choimhlíonadh.</p>
+                <p>Ní hiongnadh gur chuir an t-óglách an oiread soin spéise 'san rann chrúna úd; do
+                    bhí a inntinn aibidh le léigheann is le machtnamh; do léigh sé le díoghrais
+                    seanchas na hÉireann is an éagcóir do rinneadh uirthi le Gallaibh; do léigh sé
+                    na bruighne do bhí idir <pb n="4"/> na taoisigh Gaedhealacha is do thuig sé go
+                    soilléir cad do bhí ar siubhal ag na Sagsanaibh an tan soin. Do thuig sé gur
+                    fhuathadar na taoisigh Gaedhealacha a chéile níos mó ná d'fhuathadar na
+                    Sagsanaigh is gur mhian leis na Sagsanaibh an creideamh Catoiliceach do dhíochur
+                    as Éirinn dá mb'fhéidir. Dá óige é, do bhí súil aige le fada go bhfeiceadh se a
+                    dhúthchas saor ó bhruid na nGall, is do chuir an tarngaireacht so an oiread soin
+                    misnighe air gur léim a chroidhe le háthas. </p>
+                <p>An tan sain do bhí ainm Éilíse cumhachtach 'san tír, is ba dhána an taoiseach do
+                    leómhfadh dul 'na haghaidh. Uime sin, gidh go raibh a lán mion-chogadh idir na
+                    flathaibh Éireannacha féin is annamh d'éirigh aon 'ne aca amach i gcoinnibh na
+                    Bainríoghna nó i gcoinnibh a duine ionaid. Dá n-éireóchadh taoiseach éigin 'na
+                    gcoinnibh do chaithfeadh sé coimheasgar le muinntir na hÉireann chomh maith le
+                    muinntir na Bainríoghna. Go deimhin is na neithibh do bhain le cogadh ba bheag
+                    le radh Éire mar dhúthchas coitcheann do chlannaibh Gaedheal is do na flathaibh
+                    Gaedhealacha; is, gan amhras, do lean na daoine a bhflatha. B'é Iarla na
+                    Deasmhumhan an taoiseach ba mhó misneach is preab chum seasaimh i n- aghaidh na
+                    nGall dá raibh i nÉirinn an tan soin. B'é do b'fheárr chum sásaimh do bhaint
+                    díobh ar na hach- mhusánaibh do chasaidís go coitcheann leis an gcreid- eamh
+                    Catoiliceach. Do bheartuigh Cormac, ní nach iongnadh, gurab é an tIarla féin nó
+                    duine éigin dá phór do choimhlíonfadh an tarngaireacht. Acht bhí fhios aige go
+                    raibh an tIarla ró-aosda is nach ar fóghnamh do bhí a eirghe amach ag dul chum
+                    cinn. Do chuimhnigh sé láithreach ar Sheaghán, dearbhráthair do'n Iarla. Bhí a
+                    fhios aige gur ró-aibidh an inntinn do bhí ag Seaghán gur bh' fhear
+                    coráisteamhail urrudhasach é, gidh ná feacaidh <pb n="5"/> sé riamh é. Ba mhinic
+                    cheana do mhianuigh caidreamh do dhéanamh air, acht anois do shíl sé ná raibh
+                    slighe ar bith eile chum a chuid féin do'n tarngaireacht do choimh- líonadh acht
+                    spionnadh is misneach do chur ar an laoch oirdhearc úd, is gur tré chabhair is
+                    chomhairle Sheagháin is fá n-a chomairce do basgfaidhe is do ruagfaidhe na
+                    Sagsanaigh ar fad as fódaibh Fáil. </p>
+                <p>Ar an ádhbhar soin, 'sé comhairle do cheap sé dul gan maill ag triall ar an
+                    nGearaltach cibé áit i n-a raibh sé agus a rádh leis go raibh sé féin ró-ullamh
+                    a thoil sin do leanmhaint agus a innsint dó chomh cinnte is d'fhéadfadh, gan
+                    fios na tarngaireachta do thabhairt dó, an t-ádhbhar fá deara gur leath a
+                    chroidhe air le dóchas agus gur bhrath sé go mbuaidhfidh seisean gan amhras fá
+                    dheireadh, agus gur le n-a chabhair is le n-a chéadfaidh is le cródhacht a
+                    chuallachta do cuirfidhe ionnarbadh is sgaipeadh, gan bailiughadh, gan filleadh,
+                    ar Shagsanachaibh as talamh chráidhte na hÉireann.</p>
+                <p>Ar eagla go gcuirfeadh a mháthair cosg air, dá n-in- neósadh se dhi cad do bhí
+                    ceapuighthe aige, do leig sé air go raibh sé ag dul ar cuairt chum duine muinn-
+                    teardha do bhí 'na chomhnaidhe leastiar ag a raibh leabhar láimhe gur mhór a
+                    b'fhiú, is do gheall dó é chum é d' ath- sgríobhadh. 'Nuair do bhí amhras a
+                    mháthar curtha dhe leis an sgéal soin do ghluais chum siubhail fá dhéin
+                    Chaisleáin na Mainge óir d'airigh go raibh Seaghán an Ghearaltaigh ag gabháil na
+                    sligheadh sin ó'n Daingean le sluagh mór cumachtach do bailigheadh ins na
+                    dúthaighibh iasachta. Dó nó trí mhíle ón gCaisleán do chonnaic sé ag teacht fá
+                    n-a dhéin beagán marcach. Do shíl sé, ní nár bh'iongnadh, go bhféadfadh duine
+                    éigin díobh tuairisg Sheagháin an Ghearaltaigh do thabhairt dó, acht 'na thaobh
+                    soin bhí eagla air go mbrathfaidís fáth a thurais. <pb n="6"/> Ar an ádhbhar
+                    soin ní fheadair sé cad ba cheart dó dhéanamh is bhí sé ag dian-mhachtnamh leis
+                    féin 'nuair thángadar suas leis. </p>
+                <p>Do labhair ceann do na marcachaibh go cneasda leis, is d'fhiafruigh dhe go
+                    muinnteardha cá raibh sé ag dul. “Táim,” ar Cormac, “ag dul tamall beag siar,
+                    acht b'áil liom bualadh um Sheagháin an Ghearal- taigh sul a n-iompóchainn chum
+                    baile.” “Ní deacair sin duit,” ar an marcach céadna, “óir atá Seaghán féin i
+                    measg na bhfear so; an bhfuil aithne agat air?” “Tá go deimhin,” ar Cormac,
+                    “acht ní tré radharc súl é. Tá taisg a cháile ar fuaid na hÉireann.” “Tá go
+                    maith,” ar an marcach; “toigh anois é as an mbuidhin seo má 's féidir leat é.”
+                    Tug an t-óglách gan maill súil mór-dtimcheall na buidhne sin agus ag infhiúchadh
+                    go géar an té bhí ag cainnt leis adubhairt, “Is fruisde é aithint má tá se
+                    láithreach, mar ní fheicim aon'ne annso ag freagairt dá cháil acht tú féin, a
+                    mharcaigh uasail, is má tá sé 'nar measg, amhail a- deirir, is tusa an
+                    fear.”</p>
+                <p>Ba ghéarchúiseach é Cormac, acht d'fhéadfadh duine bheadh maol go leór Seaghán an
+                    Ghearaltaigh do thoghadh as an mbuidhin sin mar cheann urraidh. Fear caol árd do
+                    b'eadh é. Níor chuir na bliadhanta fós cromadh ann. Do rachadh a shúile glasa,
+                    géara, doimhne thríot. Bhí ughdarthás i n-a fhéachaint. Ba thaitneamhach a ghné
+                    is ba mhilis cneasda a mhín-bhriathra.</p>
+                <p>Bhí an-áthas air gur thoigh Cormac chomh tapa soin é, as an bhfuirinn go léir,
+                    agus is grianmhar adubhairt, “Tá an ceart agat, a chara dhílis. Cad tá uait ó'n
+                    nGearaltach?” Is éasgaidh d' fhreagair Cormac go raibh náire air labhairt le
+                    duine chomh huasal, chomh honóireach soin ós comhair an oirid sin do dhaoinibh
+                        <pb n="7"/> iasachta. Ar chloisint sin do'n Ghearaltach d'orduigh sé do'n
+                    gcuid eile imtheacht roimhe, is do lean sé féin iad ag siubhal go mall is Cormac
+                    le n-'ais. </p>
+                <p>'Nuair do bhíodar as éisteacht na marcach, do sheas Cormac go hobann ar an
+                    mbóthar, agus, ag iompódh chum an fhir uasail, is déadla adubhairt: “Is mian
+                    liom fiafraighe dhíot, a churaidh chródha, an bhfuil se ceapuighthe agat ar dtír
+                    is ar gcreideamh do chosnamh o Ghallaibh; an bhfuil se ceapuighthe agat
+                    glan-ionnarbadh do thabhairt ar na Sagsanachaibh as iathaibh Fódla is taoisigh
+                    na Mumhan d'aontughadh is do chruinniughadh i n-aghaidh a námhad?” Bhí iongnadh
+                    mór ar Sheaghán 'nuair d'airigh se buachaill chomh h-óg soin ag cur ceisteann
+                    gcruaidh air leis an oiread soin dá ríribh. Ba léir dhó go raibh croidhe agus
+                    aigneadh an óig-fhir ar lasadh le grádh dá thír, is d' fhreagair go mall, “A
+                    chara dhílis mo chroidhe, bhéarad m'anam is anam na ndaoine atá ag cabhrughadh
+                    liom chum mo dhúthchas is mo chreideamh do chosnamh, is chum ceart is cóir mo
+                    charad i dtalamh Dheasmumhan do shaoradh ó ghéar-airc na nDanar. Acht mo bhrón!
+                    mo thubaist! nach beagh an mhaith sin! Féach mór-dtimcheall, ná feiceann tu
+                    flatha chúige Uladh is chuige Mumhan gan beinn ar ar ngleóthaibh is gan suim i
+                    n-ar gcúis, ag faire go bhfuighbhidís greim orm-sa. Fiú ar ndaoine féin, na
+                    Róistigh, na Barraigh, is Tighear- na na Lice, táid go léir dar séanadh, nó le
+                    dúthracht 'nar n-aghaidh. Ní fheicim splannc solais tré sgamall na daoirse is na
+                    ceó-bhruide atá ar leathadh ar iathaibh na hÉireann.” “'Na dhiaidh sin,” ar an
+                    buachaill, “glac meanma. Beidh iongnadh ort, acht geallaim-se dhuit go mbeidh an
+                    lá leat fá dheireadh, ciodh dubhach doilbh do sgéal anois. Bhéarthar sgeimhle is
+                    lán-ruagadh ar na Sagsanachaibh as críochaibh Éilge is ní fada go dtí sin. <pb
+                        n="8"/> Táim deimhneach ar an méid sin, is creidim gur tusa nó duine éigin
+                    dod' mhuinntir chuirfeas fán orra. Acht glac mar chomhartha gur dá ríribh atáim,
+                    go bhfuil- im ag athchuirt ort mé a ghlacadh id' bhuidhin i gcás go bhféadfainn
+                    cabhrughadh leat chum an obair sin do chur chum cinn. Ná fiafruigh dhíom cia an
+                    t-ádhbhar ar a bhfuilim cinnte ar an ní sin.” </p>
+                <p>Dá mhéid dúil do bhí ag an nGearaltach fios d'fhagháil ar na smuaintibh do bhí ag
+                    rith i n-aigneadh an bhuachalla ní fhuair sé ann féin é cheistiughadh mar do
+                    dhian-choisg féachaint Chormaic is fuaim a ghotha é; is thosnuigh láithreach ar
+                    thrácht tar neithibh eile. Ba ghearr do bhí a gcomhrádh ar bun 'nuair ba léir dó
+                    gur duine eólach, fáith-chliste go leór Cormac. Bhí eólas maith aige ar
+                    sheanchas a dhúthchais is ar an gcuma i n-a raibh na flatha deadhailte ó chéile,
+                    nó ag coimheasgar le chéile an tráth soin. Is lán-áthasach do gabh an Gearaltach
+                    leis é; is ní lugha an t-áthas do bhí ar Chormac féin. An tráthnóna soin do
+                    sgríobh sé chum a mháthar mar leanas: -</p>
+                <p>“A Mháthair Dhílis, a Chumainn mo Chléibh - Is uaibh- reach 's is áthasach
+                    sgríobhaim chugat sgéala maithe. Buidheachas le Dia táim fá dheireadh ar tí
+                    bheith i dtreasaibh na n-arm fá bhratach na nGearaltach ag tabhairt sgeimhle is
+                    fíor-ruagtha ar na Sagsanaibh, is ag cosnamh ar dtíre is ar gcreidimh le
+                    turrainn mo lámh, is lem' anam, má's é toil Dé é. Cuireann cuimhne m'athar,
+                    millte le Gallaib, náire orm ar bheith chomh mall, chomh aimhleisgeamhail, ag
+                    leanmhaint 'na chéimibh. Beidh an lá linn-ne, le congnamh Dé. Slán leat, a
+                    mháthair, a ghrádh ghil, ná gol deór, im' dhiaidh.</p>
+                <p>“Mise do mhac ró-urraimeamhail ró-umhal,</p>
+                <p>“Cormac Ua Conaill.”</p>
+                <p>
+                    <pb n="9"/> Le hordughadh ó Sheaghán Mac Gearailt do cuireadh Cormac i bhfochair
+                    bhuachalla eile dár bh'ainm Éamonn Cléireach a chomh-aois. B'éachtach é cúrsa an
+                    bhuachalla soin. Do fágadh go hóg é 'na dhílleacht. Ó Shagsana do b'eadh a
+                    mhuinntir, is i Sagsana do rugadh é féin; tháinig sé go hÉirinn i bhfochair
+                    buidhne do chuir an Bhainríoghan anall chum na nGearaltach do ghlanadh as an
+                    tír. Acht níor lean sé an sluagh tar éis teacht anall dó. Do mhair sé le déirc
+                    is le hobair fá mar d'fhéad sé ar feadh trí nó ceathair do bhliadhnaibh. Bhí sé
+                    glic géar-chúiseach, is b'iongantach an t-eólas do bhí aige ar neithibh na tíre.
+                    Bhí an oiread soin eólais aige ar rúnaibh na dtaoiseach gur bh'fhiú leis é féin
+                    do chur fá chomairce Phresident na Mumhan; is do ghlac an President a chongnamh
+                    'nuair ba léir dhó go raibh eólas a ghnótha aige mar bhrathadóir. </p>
+                <p>Tar éis a ghlactha leis an bPresident bhí sé lá i gcoimhdeacht buidhne na
+                    Bainríoghna bhí ag dul ag creich 's ag réabadh is ag losgadh fearann na
+                    nGearaltach. D'fhágadar 'na ndiaidh é, is theicheadar chomh luath is fuaradar
+                    radharc ar an námhaid Do tógadh Éamonn gan maill, is do cuireadh i ngéibhinn é.
+                    Ar na bhreith i láthair Sheagháin an Ghearaltaigh do dhearbhuigh sé gur de nam
+                    d'fhan sé i ndiaidh na buidhne, go raibh gráin aige ar na Sagsanaibh is ar an
+                    méid do chabhruigh leó; is gur b'é bhí uaidh iad do dhíbirt ar fad as Éirinn. Do
+                    léig sé air fós go raibh croidhe-rún muinntire na Bain- ríoghna aige - fios a
+                    gcuid airm, fios nirt a sluaigh, fios na comhairle do cheapadar le
+                    déidheanaighe. Meallta leis na cleasaibh sin do chongaibh an Gearal- tach i n-a
+                    fhochair féin é i ngéibhinn neamh-dhaingean.</p>
+                <p>Níor b'iongnadh go ndéanfadha leithéid sin muinntear- dhas le Cormac; is an chéad
+                    lá i n-ar theagmhuigheadar <pb n="10"/> le chéile ba chéileamhail cáirdeamhail a
+                    gcomhrádh is ba mhór aca a chéile roimh sgaradh dhóibh. Do léigh Éamonn meón
+                    Chormaic go soilléir, is cheap sé gan maill dul i n-achrann ann i gcló charad is
+                    thír-grádh- uightheóra; is uime sin tar éis beannuighthe dhó go blasda milis
+                    dubhairt: “Acht go deimhin, tá cathughadh orm t' fheicsint annso id' ghéimhleach
+                    ag an nGearaltach.” “Im' ghéimhleach! ní géimhleach mise, nó má 's eadh, tá mo
+                    choimeád orm féin.” “'Seadh, mar sin, ní le taobh na Bainríoghna thu?” “Taobh na
+                    Bainríoghna! cad a mheasann tu? Ní fada ó bhriseadh na foidhne agam ó luaidhis a
+                    hainm - mise le taobh na Bainríoghna! go bhfóiridh Dia orainn.” “'Seadh, gabh mo
+                    leath-sgéal. Féadfad-sa mar sin labhairt gan sgáth leat. Bhí eagla orm romhat
+                    acht chím anois go bhfuathann tú an Bhainríoghain, is teitheann mo chliabh leat
+                    'na thaobh soin. Fuathaim-se an Bhainríoghain! Tá cathugadh orm nach rud éigin
+                    eile níos treise na fuath atá agam dhi; acht le congnamh Dé ní fada go
+                    n-éirreóchaidh maidhm eadrainn. Measaim-se a chur i n-umhail di nach féad- faidh
+                    sí masladh do thabhairt dár gcreideamh is léir- sgrios do dhéanamh ar ar
+                    ndaoinibh gan díol go searbh as.” “Gan amhras, tuilleann sí é; acht tá daoine
+                    chom holc léi ar an dtaobh so fhairrge againn; an President úd na Mumhan, is
+                    tuilleadh aca na hair- mheóchainn; acht dála an President dá mbeith fios agat ar
+                    na cleasaibh diabhlaidhe atá meabhruighthe aige chum na Gearaltaigh do
+                    mhilleadh!” </p>
+                <p>Níor bheag soin. Do phreab croidhe Chormaic. Do mheas se 'na aigneadh gur
+                    thosnuigh cheana coimhlíonadh na tarngaireachta. “Agus an bhfuil aithne agat-sa
+                    ar an bPresident,” ar sé. “Si, si, tá, go ró-chinnte, is tá tuilleadh le rádh
+                    agam, acht uair éigin eile.” Is mar <pb n="11"/> sin do chuir Éamonn deireadh le
+                    n-a gcomhrádh an lá soin is d' fhág Cormac ar buile chum tuilleadh eólais
+                    d'fhagháil ar rún-chomhairle áir is fola an Phresident uathbhásaigh úd. Ba léir
+                    d'Éamonn go raibh Cormac lán do sgleóndar is nár dheacair é mhealladh. Dála
+                    Chormaic iar sgaradh le n-a charaid do luigh sé ar dhian-mhachtnamh cionnus do
+                    bhí an chúis, do chuir a chroidhe ag bualadh, is do bhain codladh na hoidhche
+                    dhe' ag dul ar aghaidh. Bhí anois 'na theannta duine ullamh caoitheamhail ag a
+                    raibh aithne ar an bPresident, is dár bh'eolach mórán dá rúnaibh. Bhí sé cinnte
+                    gur ceapadh Éamonn Cléireach chum an chúis sin do chur chum cinn. </p>
+            </div>
+            <div type="chapter">
+                <pb n="12"/>
+                <head> AN DARA hALT.</head>
+                <head>AG TEICHEADH Ó'N MBÁS</head>
+                <p>Níor bh'fada do'n bheirt seo i gcaidreamh a chéile nó gur chuir Éamonn sgéala i
+                    ganfhios chum an Phresident go raibh sé cinnte go raibh rún mór éigin ag Cormac
+                    ná féadfadh a dhícheall mhealladh uaidh; is go n-éalóchadh sé leis, a leithéid
+                    seo do lá, dá gcuirfeadh an Presi- dent gasradh fear 'na gcoinnibh chum iad do
+                    thógáil go Corcaigh.</p>
+                <p>'Nuair tháinig an lá bhí ceapuighthe leó dubhairt sé le Cormac go raibh an-dúil
+                    aige sean-fhotharach d'fheicsint bhí cúig míle uatha. Chuir sin áthas ar
+                    Chormac, óir ba mhinic ag labhairt é ar an tsean-fhotharach soin, is ar an
+                    tseanchas do bhain leis; agus is grianmhar do ghluais- eadar ar aon chum
+                    siubhail an mhaidin soin; is is mór- thuillteach do sgéith cainnt Chormaic ar
+                    feadh an bhóthair ag trácht tar an naomh lér fóirghneadh ar dtúis an fhoth-
+                    arach, is ar an chaismirt bhi idir Ghaedhealaibh is Danaraibh 'na thimcheall. Ba
+                    sgléipeach é ag aithris fearta na nGaedheal, 'nuair chonnacadar chuca gasradh
+                    marcach ag greadadh an bhóthair go lán-luath. Do léig Éamonn air go raibh eagla
+                    air rómpa is thug sé iarracht ar theicheadh, acht do sheas Cormac go dána i
+                    n-aghaidh na námhad. 'Nuair do chonnaic Éamonn é ag feitheamh go fearamhail
+                    neamh-eaglach leis na marcachaibh do ghlac meanma, mar dh'eadh, d'fhill tar
+                    n-ais is gan mhaill do tógadh iad ar aon is do coimeádadh i ngéibhinn an oidhche
+                    sin i gCaisleán na Mainge, nó go gcuirfidhe lá ar n-a bhárach go Corcaigh
+                    iad.</p>
+                <p>
+                    <pb n="13"/> Caidé mar ar ghoil Cormac; cad iad na hosnaidhe do léig se as;
+                    caidé an tocht bróin is uabhair do tháinig air 'nuair do mhothuigh sé é féin fá
+                    smacht na námhad, is d'aithin sé go raibh broid 'na chomhair nó ní badh mheasa
+                    fós. Ní hamhlaidh bhí sé lag-chroidheach ná eaglach roimh an mbás; acht gur
+                    thruagh leis an saoghal d'fhágáil gan an obair i n-a raibh a mheón go léir do
+                    chríochnughadh. Do luigh sé ar uall, ag cásamh díthe a dhúthchais chráidhte
+                    chéasda is an chreidimh do chongaibh sí gan teimheal gan spleádhachas dá
+                    námhaid. </p>
+                <p>Le gliocas iongantach do léig Éamonn air go raibh a shamhail sin do thocht
+                    cathuighthe air féin is do thuiteadar an bheirt ar mhuinéal a chéile, ag
+                    caoi-ghol go fuigheach is go daingean. Tháinig buaidheart Éamuinn 'na mhór-
+                    thrithíbh air. “An bhfuil an sgéal mar sin?” deireadh sé, tar éis lán-thocht
+                    uaill do chur de, “Mo bhrón! is beag a shíleas go rachadh an lá orainn fá
+                    dheireadh, acht glac misneach, is beidh buaidh againn fós.” “A chara dhílis,”
+                    deireadh sé, is a chainnt ag leathadh air le neart a osnadh, “bíodh foighne
+                    agat. Tá Dia láidir, cumhachtach, daonnachtach; is eólach dó an chuma i n-a
+                    bhfuilimid. Bíodh ar muinighin as Dia.” Le n-a leithéid sin do chomhrádh do
+                    chiúnuigh sé Cormac is iad ar aon dá n-ullmhughadh féin chum dul go Corcaigh i
+                    dtion- lacadh ghárda an Phresident. Is buaidheartha cráidhte doilbh do bhí
+                    Cormac cé gur cheil sé ar fhéad dá chumha. Acht dá aindheóin do sgéitheadar a
+                    osnaidhe 's a chuid uaill ar an dhoilgheas do bhí ag crádh a chroidhe gan
+                    suaimhneas.</p>
+                <p>Lá breágh fóghmhair do b'eadh é; bhí an ghrian árd 'san spéir, is a lán do
+                    dhrúcht na maidne tiormuighthe 'nuair ghluaiseadar ar aon ó Chaisleán na Mainge.
+                    Bhí a slighe le hais sléibhte is coillte is loch áluinn Cille <pb n="14"/>
+                    hÁirne; do las an ghrian fhóghmhair go lonnrach leacain na ngarbh-chnoc is
+                    uisgidhe na leathan-loch; bhí breacadh niamhrach, dathamhail, ag teacht ar
+                    dhuilleabhar na gcrann is na dtor is do líon guth na n-éan an spéir mór-
+                    dtimcheall le binneas ceóil. Bhí árd-sgáil na mór- shléibhte, badh dóigh leat,
+                    ag snámh ar an dtalamh íochtarach, nó ag leaghadh i measg réidh-thonnta Locha
+                    Léin. D'árduigheadar céad cnoc clúduighthe i bhfraoch riabhach soillseach a
+                    gcinn ríoghdha dána go huaibhreach mar athaigh ag tógáil comhairle ó n-a chéile
+                    is d'fhéach- adar anuas ar choilltibh, ar aibhnibh, ar fhotharachaibh, ar
+                    bhailtibh, go flaitheamhail is go mórdha. Ós árd, chomh fada is shroichfeadh do
+                    radharc, do sgread an fiolar ag leathadh a sgiatháin is ag eitill go lán-mhear ó
+                    aill go cumar; ar an loch ba shuanmhar an eala ag snámh. Bhí céad sruth dá
+                    radadh féin gan faosamh tar ghuailnibh na sléibhte is dá mbriseadh féin 'na
+                    gcubhar ghléigeal i measg cairrgibh 'na slighidh. Do shéid leóithne fionnfhuar ó
+                    oileánaibh boga, úra d'éirigh go niamhrach, fíor-ghlas, tré hucht an uisge.
+                    Annso is annsúd d'fheicfeá faolchú le hulfairt ocraigh ag déan- amh ar na
+                    coilltibh; do ghéim an fiadh is d' fhreagair an macalla tré shleasaibh na
+                    lán-chnoc. </p>
+                <p>Ba radharc é do líonfadh an croidhe le háthas is do ghríosfadh an aigneadh chum
+                    dian-mhachtnaimh. Do chleacht Cormac an radharc soin ó bhí se 'na leanbh; is ní
+                    hannamh do chuir a fhíor-áilne ag tál na ndeór é. Acht anois do cheap sé ná
+                    raibh sé go deó arís chum a shúile do leathadh ar choilltibh glasa ná ar
+                    oileánaibh úra Cille hÁirne. Ar uairibh d' iarr sé ar a choimeád- aidhibh cead
+                    seasaimh óir bhí an tocht cathuighthe ró-throm ar a chroidhe. Arís is arís eile
+                    do leath sé a shúil ar an radharc do bhí os a chomhair; is ní le sásamh folamh
+                        <pb n="15"/> an té lér thaitneamhach duilleabhar bog, glas, niamhrach na
+                    dtor is fuaim ceólmhar an uisge dá stealladh féin le dásacht ó thaobh chnuic;
+                    acht le croidhe do thuair buaidheart is donas dó féin is do'n tír do ghrádhuigh
+                    sé. Do bhrath sé go raibh a dhúthchas ar bhruach millte is daor-bhruide is do
+                    chan go fíor-uaigneach an laoidh seo: - </p>
+                <p>SLÁN LE CILL ÁIRNE.</p>
+                <l>Mo ghoin caidé an smúid seo ag dúnadh ar mo chroidhe,</l>
+                <l>Rinn' mo bhalla neamh-lúthmhar is d'fhúig mé gan brígh,</l>
+                <l>Do ghríosuigh mo shúile le dúthracht chum caoi,</l>
+                <l>Is an sruth leachta tiugh guirt dá múchadh síorraidhe?</l>
+                <l>Caidé an smuaineadh so chlaoidheas mé ó mhaidin go neón,</l>
+                <l>Is do shior-shuaitheann m'inntinn le mearbhail bróin?</l>
+                <l>Ag cuimhneamh ar chlaoin-bheartaibh Danar is gó,</l>
+                <l>Do sgíordann mo shíth uaim gan casadh go deó.</l>
+                <l>Is gorm iad na tonna ar bhruach Locha ghil Léin,</l>
+                <l>'Sis borb iad do thora-sa, a Mhuc-rois na n-éan!</l>
+                <l>Is soilbh le cloisint é sonnadh na g-craobh;</l>
+                <l>Acht mo dhochar! is doilbh dubhach dorcha mé!</l>
+                <l>Tá an t-óg-ghéis go suainmhear ag snámh ar an linn,</l>
+                <l>Is glór glaisí ag gluaiseacht trí bhántaib ró-bhinn,</l>
+                <l>Tá leóithne ag luasgadh na ngéag n-úr 'san choill,</l>
+                <l>Acht is ró-bheag mo shuaimhneas gan áthas a bhím!</l>
+                <l>Na sáir-fhir do dhoirt a gcuid fola i dtóir,</l>
+                <l>Is i lán-threas na ngorm-chlaidheamh gortadh tar fóir -</l>
+                <l>Is sámh é a gcodladh 's is socair fán bhfód,</l>
+                <l>Is mo chrádh is mo thurrainn ná codlaim-se leó.</l>
+                <pb n="16"/>
+                <l>'Sé do chnead chuir i bpéin mé, a thalaimh mo chroidhe,</l>
+                <l>Is do bhasgadh gan faosamh le haicme seo an fhill,</l>
+                <l>Do ghreadadh is do réabadh le lasair is claidheamh,</l>
+                <l>Is mo chreach is mé i ngéibhinn, 's gan cneasughadh ar do dhith.</l>
+                <l>Acht, a chara, glac meanma! - b'fhéidir le Críost</l>
+                <l>Go bpreabfadh chugainn gasradh 'on Ghréig-fhuil úd fhír,</l>
+                <l>Le feartaibh a n-arm gan éislinn, gan teimheal,</l>
+                <l>Ag treasgairt na nDanar, 's dá léir-chur tar tuinn.</l>
+                <l>Slán, slán leat, a Léin-Loch na bhféith ngorm n-úr,</l>
+                <l>Leanfaidh áilne do sgéimh' mé go dtéidhead-sa 'san úir,</l>
+                <l>Ná raibh cáim ar do shléibhtibh ná béim ar duilleabhar,</l>
+                <l>Ciodh fánach i gcéin mé im' thraochadh le búir.</l>
+                <l>A thalaimh na n-éan mbinn, na gcraobh n-úr, gan tlás,</l>
+                <l>Is fada gan réim duit, gan chéim mar ba ghnáth.</l>
+                <l>Fá sgamall, i ndaor-bhroid, gan chéile, gan pháirt,</l>
+                <l>'Sé do chartadh 's do réabadh do léanuigh mo lá.</l>
+                <p>D'fhanadar an oidhche sin i gCill Áirne; is ar maidin lá'r na bhárach bhíodar ag
+                    siubhal arís chum Corcaighe. Ar feadh an bhóthair do rinne sé buaidheart do
+                    Chormac is chuir sé mor-iongnadh air, an luighead do mheabhruigh na daoine an
+                    dlúth-thuirse bhí rómpa, is méid a n-áthais 'nuair d'amharcadar gasradh an
+                    Phresident, is 'nuair chualadar an buaidh bhí leó go déidheanach. Do chuaidh a
+                    ngártha 's a sgreadaigh tré n-a chroidhe mar bhior- ghaoithe. Bhí eolas cinnte
+                    ar mhuinntir a dhúthchais féin aige, is níor chreid go raibh grádh aca ar smacht
+                    na nGall do thugadh masladh laetheamhail dá gcreideamh; is bheartuigh sé i n-a
+                    aigneadh gurab é seo brígh bhí leis an <pb n="17"/> lúthgháir sin: “Ní féidir
+                    linn slabhradh na n-eachtrann do bhriseadh, is uime sin is cóir dhúinn cur suas
+                    leis, chomh maith is d'fhéadfam.” </p>
+                <p>Bhí milleán aige orra i dtaobh a n-easbaidh mean- man is misnighe lé'r mheasadar
+                    nár bh'fhéidir leó slabh- radh a ndaoirse do bhriseadh. Ba thruagh leis
+                    éisteacht le muinntir Charrthaigh, le muinntir Chaoimh,le muinntir Dhonnchadha,
+                    ag liúirigh do'n Phresident go guth-árd is go déadla, cé gur bhrath sé gur
+                    fhuathadar 'na gcroidhthe é féin is an Bhainríoghain do chuir chuca é, is ag
+                    labhairt go nimhneach neamh-thruaighmhéileach i gcoinnibh an Iarla úd do
+                    sheasaimh go fearamhail i n-aghaidh na nGall.</p>
+                <p>Ag smuaineadh is ag machtnamh mar sin dó, chuir duine do'n ghasraidh i n-umhail
+                    dó go raibh se i gCorcaigh - mar bhí a mheabhair ag oibriughadh chomh dian soin
+                    nár mhothuigh se an lá ag sleamhnughadh uaidh. Acht is gearr go dtug radharc na
+                    cathrach is fuaim na dtrucal chuige féin é. Do cuireadh fá ghlasaibh láithreach
+                    an bheirt i gcathair Chorcaighe.</p>
+                <p>Fad do bhíodar ar aon i bhfochair a chéile fá chomairce an Ghearaltaigh do bhrath
+                    Éamonn ar chomhrádh Chormaic amhail adubhramair go raibh rud éigin ar bun ag na
+                    Gearaltachaibh, go raibh súil aca go raghadh an lá ar na Sagsanaibh go
+                    athchumair, is go raibh congnamh éigin nár thuig sé 'na ngaor; acht níor fhéad
+                    sé a thuilleadh eólais d'fhagháil uaidh, dá mhéid a ghliocas. D'innis se do'n
+                    President ar aithin sé, is do rinne seisean mórán do'n eólas soin. Is é a shíl
+                    sé go rabhadar ag feitheamh le cabhair ó dhúthaigh éigin tar lear, is gur gheárr
+                    go mbeadh neart aca cogadh dian díoghbálach do chur ar aghaidh. D'orduigh sé
+                    Cormac 'na láthair, is cheistigh é i dtaobh rún-comhairle na nGearaltach, acht
+                    níor fhreagair Cormac focal dár fhiafruigh sé dhe. Do <pb n="18"/> bhagair sé
+                    pianta géara aithiseacha air, acht ní raibh brígh 'na ghlór. Níor bhain an
+                    trom-bhagairt sin gíog as. Fá dheireadh bhí briseadh ar an bhfoighne ag an
+                    bPresident go mór-mhor ó tháinig gach lá sgéala níos measa 'ná a chéile ó
+                    Chúigeadh Mumhan; is dhearbuigh sé go gcaithfeadh an t-óglách sgeitheadh ar
+                    rún-chomhairle na bhflaith nó bás aithiseach d'fhulaing. </p>
+                <p>I measg na gcoimeádaidhthe bhí fear do mhuinntir Chaoimh - Diarmaid ba hainm dhó
+                    - ag á raibh báidh mhór le Cormac. 'Nuair d'airigh sé ordughadh an Phresident do
+                    cheap sé a dhícheall do dhéanamh chum é do shaoradh; fiú a anam do thabhairt ar
+                    a shon, dá mbeith gábhadh leis. 'Nuair do bhí sé ag dul i n-athchumaireacht do'n
+                    lá i n-a raibh Cormac le crochadh do leig sé air gur bh'fada leis uaidh an lá
+                    soin i n-a dtabharfaidhe ar an gcladhaire ógláigh sin an ídeadh do bhí
+                    ró-thuillte aige. Ar maidin an lae úd do chuaidh sé go moch go beag- árus an
+                    óig-ghéibhligh chum a lámha do cheangal.</p>
+                <p>Ar feadh na haimsire seo go léir shíl Cormac ná raibh aon chaoi éalóidh aige is
+                    do bhí se lan-shásda bás d'fhagháil; is 'nuair d'osgail Mac Uí Chaoimh doras a
+                    bheag-áruis, an mhaidin soin, ba thruaighmhéileach an radharc ar ar luigheadar a
+                    shúile. Bhí an géibhleach ar a ghlúnaibh ag guidhe go ciúin is go socair. 'Nuair
+                    d'airigh sé an doras dá osgailt, is an fear ag teacht isteach, d'iompuigh se a
+                    cheann is adubhairt. “'Seadh, thángais chum cabhrughadh liom le haghaidh mo
+                    bháis. Ní'l cathu- ghadh orm go bhfuilim ag dul ar an saoghal eile, acht
+                    admhuighim go bhfuil brón is duairceas orm i ngeall ar anacraibh an tsaoghail
+                    seo. Is iomdha obair mhaith do cheapas a chur chum cinn acht anois, fáiríor
+                    géar, tá deireadh lem' chuid oibre go bráth.”</p>
+                <p>“Lean mo chomhairle-se,” ar Mac Uí Chaoimh “agus i <pb n="19"/> gcionn uaire do
+                    chlog béarad saor ó'n ngéibhinn seo thu; acht caithfir bheith ullamh is gan
+                    léigean do smuaintibh don tsórt soin teacht 'nar gcoinnibh. Táim-se chum do
+                    lámha do cheangal, acht chidheann tú go bhféadfair an ceangal so do bhriseadh
+                    acht é do bhualadh i gcoinnibh na talmhan nó earraidh éigin chruaidh; beidh
+                    doras na háite i n-a bhfuil an chroch gan glas. Ar bhagairt uaim-se, bris do
+                    gheit ceangal do lámh, is teich chomh mear is is féidir leat go dtí an doras.
+                    Rachad-sa ar tóir ad' dhiaidh, gan amhras, agus 'nuair bhéad ar an dtaobh 'muigh
+                    do'n doras dúnfad é i dtreó na beidh sé réidh le hosgailt im' dhiaidh; is dá
+                    réir sin béidh an fiadhach ar fad eadrainn féin ar dtúis; is 'nuair bheimid
+                    tamaill maith ó'n gcathair béarad tuilleadh orduighthe dhuit.” </p>
+                <p>Chuir an chainnt sin mór-iongnadh ar Chormac, acht d'aithin sé ar imtheacht is ar
+                    fhéachaint an fhir eile go raibh sé dá rírib, go mórmhór 'nuair do chonnaic sé
+                    go raibh an ceangal mar adubhairt sé, is d'fhill a mhór-dhóchas na thuile ar a
+                    aigneadh; do b'éigin dó síneadh ar an dtalamh le lagachar; bhí gach orlach dá
+                    chorp ar ball- chrith, is do rith caise deór ó n-a rosgaibh. Níor thaise do'n
+                    choimeádaidhe féin; do mhúch a chuid osnadh a ur- labhra; níor fhan táthadh 'na
+                    bhallaibh is do thuit sé ar nós leinbh bliadhna, le neart a chumhadh.</p>
+                <p>Bhí crochadh chomh coitcheann soin i gCorcaigh an tan soin nár bhailigh mórán
+                    daoine chum féachaint ar bhás Chormaic. Níor mhor an t-iongnadh do rinneadh de.
+                    Acht do chuir an President sgéala chuige go bun na croiche go maithfidhe dhó dá
+                    sgéithfeadh sé ar rúnaibh na nGearaltach. D'fhéach Cormac ar an teachtaire go
+                    tarcaisneach is badh dhóigh leat ar a chainnt is ar a fhéachaint go raibh rún
+                    éigin aige badh mhór a b'fhiu. <pb n="20"/> Acht má bhí ba léir do'n teachtaire
+                    go gcoingbheóchadh sé greim air, is d'imthigh sé air go neamh-shásda. Bhí gárda
+                    mór-dtimcheall ag faire go caoitheamhail a raibh ag dul ar aghaidh. Bhí a
+                    gcroidhthe níos mó leis an ngéibhleach ná bhraithfeá, acht b'éigin dóibh
+                    fanmhaint socair is gan a gcuid truaighe do thaisbeánadh ós comhair na ndaoine.
+                    Má bhí fear ann agá raibh mac 'san mbaile i ndeallradh Chormaic is dearbh gur
+                    ghoill an radharc soin air, acht b'éigin dó a shúile do thior- mughadh i
+                    ganfhios, is léigean dá chumha brughadh ar a chroidhe féin. </p>
+                <p>Thug Mac Uí Chaoimh an géibhleach go bun an sgáláin, is ba bheag nár mhithid dó
+                    bheith ag dul i n-airde mar do bhí an sgálánach go neamh-fhoighideach ag
+                    feitheamh leis. Do bhagair an coimeádaidhe ar an óglách is d'iompuigh uaidh chum
+                    féachaint an raibh na cláir curtha go daingean i dtalamh. Do gheit, d'airigheadh
+                    fuaim iarainn; bhí an ceangal sgaoilte, is Cormac ag déanamh ar an doras 'na
+                    lán-rith! Mar bhéadh draoidheacht air, do ghéill an doras dó, is do phreabh se
+                    amach is as go bráth leis. Do lean an coimeádaidhe é, is níor ghábhadh dhó
+                    léigean air go raibh deabhadh air, mar ba mhire Cormac 'ná a dhícheall. Mar do
+                    ceapadh leó do dhún sé an doras 'na dhiaidh i dtreó ná féadfaidhe é d'osgailt
+                    gan moill.</p>
+                <p>'Nuair do bhíodar tuairim le dhá mhíle ó'n gCathair do ghlaodhaigh an Caomhach
+                    chum Cormaic gan rith chomh mear soin óir bhí sé féin geall le bheith traochta,
+                    is a aghaidh do thabhairt soir ó thuaidh ar feadh tamaill. I gcionn míle eile
+                    dubhairt sé leis stad is ag féachaint timcheall dóibh chonnacadar, nó shíleadar
+                    go bhfeacadar, foireann mharcach ag teacht ar a lorg go lán-tapa. Gan maill
+                    nóimint do shleamhnuigheadar isteach i sgioból is le dréimre do phreabadar ar
+                    lochta ag <pb n="21"/> tarraing an dréimre 'na ndiaidh. Chuadhadar go daing- ean
+                    i bhfolach i bhféar úr do bhí ar an lochta. </p>
+                <p>Níor chian mar sin dóibh fá anaithe is bualadh croidhe 'nuair d'airigheadar fuaim
+                    na gcapall is láithreach do stad buidhean marcach os comhair an tighe le n-ar
+                    bhain an sgioból. Chuaidh na marcaigh isteach is do chuarduighea- dar an teach ó
+                    bhun go bárr gan tairbhe ar bith. Ní raibh istigh an tan soin acht sean-bhean
+                    bhodhar na féad- fadh tuairisg do thabhairt dóibh ar aon' ne. Fá dheireadh
+                    thángadar go dtí an sgioból is bhí deallramh neamh- dhíoghbhálach ar gach uile
+                    ní ann. Bhí gach ní go socair is go ciúin acht croidhthe na bhfear ar an lochta.
+                    “Ní'l siad ann so ar aon tslighidh,” ar duine do'n ghasraidh ag géar-infhiúchadh
+                    an tseomra dhorcha úd. “Táim cinnte go bhfuilid ins an tigh sin amuigh,” ar
+                    duine eile aca, “nach dtugabhar fá deara an sgannradh bhí ar an tsean-chailligh
+                    úd ar eagla go mbéarfaidhe orra?” “Is cuma liom- sa soin,” ar fear eile, “do
+                    chuarduigheamar an teach soin go mion, cheana, is ní aon maith dhuinn dul níos
+                    déine air. Imthighmís orainn, b'fhéidir go bhfuilid romhainn.” Ar an bhfocal
+                    soin do chasadar tar n-ais; is i g-cionn dó no trí neómantaidhe bhíodar as éis-
+                    teacht.</p>
+            </div>
+            <div type="chapter">
+                <pb n="22"/>
+                <head> AN TREAS ALT</head>
+                <head>AN tATHACH.</head>
+                <p>Tar éis tamaill bhig na dhiaidh sin do chogair an bheirt aran lochta le chéile,
+                    agus is é rún do cheapadar fanmhaint mar a rabhadar gan corraidhe go tuitim na
+                    hoidhche. Is cortha, cráidhte bhíodar 'nuair do thosnuigh solas an lae ar
+                    sgaipeadh fá dheireadh, is do thuit dor- chadas ar an tseomra doilbh úd, i gcuma
+                    na féadfá do lámh shínte d'fheicsint. Is socair d'éirigh an bheirt; chuireadar
+                    an dréimre mar a raibh sé, is thángadar chum talmhan. Is tapa do dhruid an
+                    Caomhach go dtí an doras, is aireach do sháthuigh sé a cheann amach 'is ró-mhear
+                    d'iompuigh sé ar a sháil is dubhairt le Cormac: “lean mé.”</p>
+                <p>Do lean Cormac gan gíog agus is tapa bhíodar ar aon arís ag síor-rith treasna na
+                    tíre. Do líon trom-sgamall dorchadais an spéir mór-dtimcheall acht siúd chum
+                    siubhail iad le mire iongantach tré fhéar nglas, tré choirce, tar chorrachaibh,
+                    tar ruaidhtibh, tar aibhnibh meara, láidre, ina raibh uisge go slinneánaibh
+                    ortha, gan sos, gan leisge. Do luigheadar ortha is gan fios aca cá raibh a
+                    n-aghaidh, acht go raibh an Caomhach cinnte go rabhadar ag druidim ó'n gCathair.
+                    Fá dheireadh do stadadar, agus is tnáithte teirce do chaitheadar iad féin ar an
+                    dtalamh. Ann san d'athruigheadar le chéile a gcasóga i gcás ná h-aithneóchaidhe
+                    iad is cheapadar gur mhithid dóibh imneamh do dhéanamh ar dhíon éigin d'fagháil
+                    go maidin.</p>
+                <p>Uime sin, i gcló bacach gan fuithin ó gharbh-shín na <pb n="23"/> hoidhche do
+                    bhuaileadar go cneasda doras botháin do thárla 'na slighidh i n-aice srotha i
+                    measg árd-chrann ngéag-chluthar. Ar dtúis níor freagradh; acht ar mbualadh arís
+                    is arís dóibh níos déine, d'airigheadh guth uathbhásach leastigh adubhairt: “Cia
+                    hé sin? Tar isteach.” D'osgail an Caomhach an doras, is ní gan faitchíos é, is
+                    isteach leó ar aon go haimh-leisgeamhail. </p>
+                <p>I bhfíor-lár an tseomra dár osgail an doras soin, bhi fear 'na sheasamh i n-a
+                    raibh aoirde iongantach. Ba dhubh é a aghaidh; bhí meagal fada feasóige air; bhí
+                    a fhorraidhe bog torach is ba fhiadhain sgeóinteamhail na súile do
+                    leath-fholaigheadh fútha. Bhí an teine ar an dteinteán nach mór caithte is le
+                    n-a hais bean sgoth-aosda ag suidhe ag fuagháil. D'iompuigh sí a ceann 'nuair a
+                    tháinig na deóraidh isteach is tar éis iad d'infhiúchadh go géar, do lean sí dá
+                    hobair. “Cia hiad sibh-se, nó cad tá uaibh?” ar an guth mar tóirneach do chuir
+                    sgannradh cheana orra. “Is bacaigh bochta sinn-ne,” ar an Caomhach, “ar ar thuit
+                    an oidhche gharbh so gan díon, gan fuithin, gan biadh, gan digh, ó chailleamar
+                    ar slighe. Táimíd lag le hocras. I n-ainm Dé tabhair dúinn fuithin go maidin, is
+                    beagán éigin le n-ithe.” “Táthaoi i n-aghaidh na Bainríoghna,” ar an guth
+                    éachtach céadna. “Ní fhuilimíd ag déanamh dadaimh 'na coinnibh,” ar an Caomhach.
+                    “Tá an chroch ró-mhaith dá námhadaibh,” ar an ghuth, “is go gcríochnuighthear
+                    iad uile uirthi; acht druididh chum na teineadh; a Cháit, faigh rud éigin le
+                    n-ithe.” Do dírígheadh na focail seo chum na mná; is d'éirigh sí láithreach 'na
+                    seasamh is chuaidh i seomra bheag fá leith. I gcionn tamaill do chas sí le harán
+                    mine coirce, is beagán éisg, is do chuir ar bhord bheag i láthair na mbacach le
+                    hais na teineadh, is annsoin do chuaidh sí ag iarraidh bainne dhóibh.</p>
+                <p>
+                    <pb n="24"/> Bhí an-dúil ag an mbeirt 'san mbiadh tar éis a gcuid anró is
+                    trosga. Do sheas an t-athach i leathtaoibh ar feadh na haimsire is gan focal as,
+                    acht mar a chuireadh ceist ortha, cad as iad, nó cad do b' ainm dóibh, nó mar
+                    soin. Ba léir dóibh nár chreid sé focal adubhradar, is tháinig lán-fhaitchíos
+                    orra. Acht b' éigin dóibh a gcuid faitchís do cheilt chomh maith is b' fhéidir
+                    leó. Bhí a lán do'n oidhche caithte nuair adubhairt an t-athach leó go
+                    garbh-ghothach é féin do leanmhaint is sháthuigh sé go tapa rompa i seomra
+                    léir-dhorcha; is neamh-chneasda do dheimhnigh sé dhóibh go raibh aon leabhaidh
+                    amháin annsoin 'na gcomhair, is d'fhág slán aca, do dhún an doras 'na dhiaidh,
+                    is do chuir glas air go daingean. </p>
+                <p>'Nuair d'airigh Mac Uí Caoimh fuaim na heochrach ag daingniughadh an dorais do
+                    theip a mhisneach, is d'éirigh osnadh chum a bhéil; acht níor ghéill sé dá
+                    chumha, is do choisg an bhrón-ghlothar 'na sgornaigh. Do chuarduigheadar
+                    mór-dtimcheall 'san dorchadas; is ó bhí an seomra beag níor deacair a raibh ann
+                    do sgrúdadh. Níor labhradar acht i gcogaraibh ciúine. D' airigheadar guth an
+                    athaigh ag tógáil comhairle, dar leó, ó n-a mhnaoi - acht níor bh'fhéidir leó na
+                    focail do thuigsint. Bhrathadar, amhach, gur ortha féin do bhí an choiste. Níor
+                    fhág an Caomhach poll ná ball 'san tseomra gan cuardach go raibh sé cinnte ná
+                    raibh duine 'na bheathaidh ann acht iad araon. Do bhuail sean-chomhra uime nár
+                    osgladh le fada is nár útuigheadh is dócha riamh. Tar éis bheith a bhfad ag
+                    utumáil níor theagmhuigh leis acht cirteacha ar chir- teachaibh as bhí sé ar tí
+                    léigean do 'nuair do mhothuigh se rud éigin ag priocadh a mhéir is do tharraing
+                    sé amach go socair gearr-chlaidheamh lán-fhaobhrach. Do shín sé an claidheamh so
+                    ar an leabaidh fá'n éadach le <pb n="25"/> hais na háite ina raibh se le luighe.
+                    Ann soin do luigheadar ar aon ar an leabaidh i n-a gcuid éadaigh. Ní chum
+                    codalta, amhach, cé go rabhadar tuirseach tnáite tar éis an lae. Acht do choisg
+                    faitchíos iadhadh na súl ortha. Do luigh an Caomhach ar an taobh amuigh is a
+                    chlaidheamh ullamh le n-a láimh. Do shín Cormac é féin leastigh. Níor labhradh
+                    gíog eatortha. </p>
+                <p>Bhí an oidhche ag dul tarsa go mall, is fá dheireadh do chiúinigh an chainnt 'san
+                    tseomra eile, is ní raibh fuaim le cloisint ar fuaid an tighe. Acht ní raibh Mac
+                    Uí Chaoimh sásda i n-a aigneadh. B' fhada uaidh é. Bhí eólas maith aige ar
+                    rúnaibh carcar is ar chleasaibh coimeádaidhthe; is ní raibh a dhroch-amhras gan
+                    fáth an tan soin.</p>
+                <p>Tar éis uair a chlog 'na luighe mar sin dóibh do tháinig néal beag solais tré
+                    ionad na heochrach 'san doras. Níor cailleadh an comhartha soin ar Mhac Uí
+                    Chaoimh is do ghlac sé a chlaidheam go dlúth 'na láimh. Do gheit d'iompuigheadh
+                    an eochair, d'osgluigheadh an doras, is láithreach bhí an t-athach 'san tseomra.
+                    Bhí solas is slabhradh iarainn i láimh leis; bhí arm faobhair 'na láimh eile.
+                    B'uaigneach é trom-fhothram an dorais ag dúnadh 'na dhiaidh. Do thaisbeáin an
+                    solas do'n Chaomhach mí-shlacht an tseomra i n-ar chaith sé an oiread soin do'n
+                    oidhche - a shalachar, a ghránnacht, na bhallaidhe ag lobhadh le haois is le
+                    fliche, an t-urlár dreóighte, tolluighthe, acht ní ar na neithibh sin do
+                    smuainigh sé anois. Comh luath is chonnaic sé an t-arm faobhair i láimh an
+                    athaigh do phreab sé ar a chosaibh mar phreabfadh leómhan, is thug fogha dá
+                    chlaidheamh ar láimh an athaigh i n-a raibh an solas. B'éigin dó soin le neart
+                    tinnis a ghreim do bhogadh. Do múchadh an choinneal is do thos- nuigh a
+                    ndlúth-fhuirse is a g-coimheasgar fá dhúr- <pb n="26"/> sgamallaibh na hoidhche.
+                    Gan moill noimeint do rug an Caomhach ar an slabhradh is do cheangail go docht
+                    lámha an athaigh leis; do chrom an t-athach ar oibriughadh go dian le n-a
+                    chosaibh is ins an iomrasgáil do bhuail buille ar Chormac do leag i gcoinnibh an
+                    bhalla é ag sgreadadh le pian. 'Nuair a tháinig an t-óglách chuige féin do
+                    chuarduigh sé an talamh is fuair sé an claidheamh do raid an Caomhach uaidh 'san
+                    bhfuirse; is leis an arm soin b'fhéidir leis an t-athach do coimeád socair fad
+                    bhítheas ag ceangailt a chos. </p>
+                <p>An tan mhothuigh an t-atach go rabhthas ag ceangailt a chos is ná raibh aon chaoi
+                    éaluighthe aige do sgread sé go huathbhásac mar do sgreadfadh tarbh do ghéar-
+                    ghoinfidhe. Acht ní raibh maitheas 'na ghlór. Tar éis é féin do chor le
+                    árd-bhéicigh do luigh sé ar athchairt ortha léigean dó féin, ná raibh sé chum
+                    aon díoghbhála do dhéanamh dóibh, go stiúróchadh sé iad go háit i n-a mbéidís
+                    slán, go raibh a lán eólais aige d'oirfeadh dóibh go mór. Is beag an toradh thug
+                    an Caomhach air acht fiafruighe go dána dhe cia nós a bhfuighbhidís solas. Do
+                    ghlaodhuigh an t-athach chum na mná solas do tha- bhairt chuca. Is ró-ghearr go
+                    dtáinigh sí go dtí an doras is coinneal ar lasadh 'na láimh. Do chrith sí le
+                    hanaithe is uamhain 'nuair do chonnaic sí an treó bhí ar an athach agus is
+                    truaighmhéileach d' iarr sí ar Mac Uí Chaoimh é thabhairt go dtí an teine bhí
+                    'san tseomra eile go léigfeadh sé a sgíos de. D'aontuigh Mac Uí Chaoimh is tar
+                    éis a lán unfairt do síneadh an tréan-fhear as comhair na teineadh chomh cneasda
+                    le huan.</p>
+                <p>'Nuair do bhí a namhaid fá dheireadh fá 'na smacht, d' orduigh an Caomhach do
+                    Chormac greas codalta do thógáil d'fhonn bheith ullamh neartmhar i n-aghaidh an
+                    lae <pb n="27"/> bhí rómpa. Tar éis dulchum suain don óglách d'éirigh
+                    réidh-chomhrádh idir an bheirt eile le hais na teineadh. Do bheartuigh an
+                    Caomhach nár mhisde dhó anois a eachtra féin is eachtra Chormaic d'innsint do'n
+                    athach. D'éist seisean go fíor-ionumhail is anois is arís do chnead se go
+                    truaighmhéileach. Ba huaigneach é fuaim a shlabhraidh 'nuair a thugadh iarracht
+                    ar na deóra teógha bhí ag sileadh le n-a shúilibh do cheilt le n-a gharbh-láimh.
+                    D'fhair an Caomhach gach cor do chuir sé dhe is thuig sé ó na chomharthaibh
+                    buaidheartha soin go raibh sé ag cur suime 'na sgéal. Dá bhrígh sin tar éis
+                    críochnuighthe dhó d' athchuir sé ar a sgéal féin d'innsint is a chur i n-umhail
+                    dó cad 'na thaobh gur chuir an t-eachtra an oiread soin bróin air. Tar éis
+                    lán-tocht cathuighthe do chur dá chroidhe do'n athach is na caisí deór do
+                    thaosgadh as a shúilibh adubhairt mar leanas: </p>
+                <p>“Atá sgéal éachtach agam-sa, leis, acht is mian liom é do ghiorrughadh. Goirthear
+                    orm Domhnall Dubh. Bhíos tamall i dtreasaibh na nGearaltach; is ba mhinic mé ag
+                    coimheasgar fá n-a mbratach; acht lá is mé ag déanamh creiche le hais Eochaille
+                    do sgiobadh mé óm' bhuidhin go hobann le gasraidh do mhuinntir na Bain- ríoghna.
+                    Feall-bheart do b'eadh í, is dóigh liom. Do rugadh mé i láthair an
+                    Phresident.</p>
+                <p>“Bhagair seisean an chroch orm muna n-inneósainn dó rún éigin do bheartuigh sé
+                    bheith agam; is fós, do gheall sé mórán saidhbhris dam dá ndéanfainn a thoil. Ní
+                    bhfuair se gíog asam is fá dheireadh bhítheas chum mé do chrochadh acht le
+                    congnamh coimeádaidhe éigin theicheas. B'fhada dham ag siubhal ó áit go háit i
+                    gan- fhios. Fá dheireadh do shocruigheas ins an chúinne uaig- nigh seo. Do rinne
+                    mo bhean amach annso mé is tá sí im' fhochair ó shoin. Tá roinnt airm agam is
+                    leó soin is <pb n="28"/> le neart mo lámh do chosnuigheas mé féin go dtí seo. Ní
+                    headh, ná go bhfuaireadh amach mé. Anois is arís do bhris isteach orm i meadhón
+                    oidhche cladhairí ar thí mo cheann do bhreith go dtí an President, acht níor
+                    fhill fear innste an sgéil díobh. Is deimhin gur cheapas go rabhabhar-se ar an
+                    teachtach chéadna agus is é do cheapas sibh do mhilleadh chomh maith leó. Acht
+                    bhíobhar-se ró-luath dham, is tá áthas orm na thaobh, óir do bheadh cathughadh
+                    orm tar éis bhur gcuid fola do dhortadh.” </p>
+                <p>Do chreid an Caomhach gach focal dár labhair sé. Acht ba mhaith leis eólas
+                    d'fagháil ar aon ní amháin. “Cad 'n-a thaobh,” ar sé le Domhnall Dubh, “a
+                    bhfuilir ag fan- mhaint i gcontabhairt mar so? Ná feiceann tú ná béadh maith id'
+                    arm 'ná id' neart anocht. Is éigin duit bheith claoidhte luath nó mall.”
+                    “Bh'fhéidir gur baois atá im' choimeád annso,” ar Domhnall, “acht ní fhuilim gan
+                    dóchas éigin le fanmhaint annso go mbuailfinn buille tubaisteach ar an namhaid
+                    ins an áit seo mar a bhfuil sé chomh tréan soin. B'fhéidir go bhfuil rún éigin
+                    'na theannta soin agam, acht ní hé seo an t-am é léigean amach.”</p>
+                <p>Ba chian ó chuaidh Cormac do chodhladh, acht do dhúisigh an chainnt é is do
+                    phreabh sé 'n-a shuidhe is ag seasamh ag doras an tseomra d'airigh se deireadh
+                    chomhráidh na beirte eile, is do chuir ar chlos ag dian-mhachtnamh é. “Agus an
+                    bhfuil duine eile mar mise?” ar sé leis féin, “árd-aimneach, lán-dóchasach, is
+                    gach beart ag dul 'na choinnibh, is é chomh fada soin ag iomarasgáil leis an
+                    mbás.” Do ghoill a chuid machtnaimh chomh trom soin air gur léig sé sgread as.
+                    Ar chloisint a ghotha is tapa bhí an Caomhach 'na theannta is do bhraith
+                    láithreach cad do bhí air. Do rug sé ar láimh air, is do rug i láthair an
+                    athaigh é do bhí ceangailte is sínte treasna <pb n="29"/> an teinteáin. Ba
+                    ghearr an mhaill eachtra Dhomhnaill do shlánughadh do Chormac. Is fá dheireadh
+                    do thuigeadar a dtriúr a chéile. </p>
+                <p>Do sgaoileadh Domhnall is do shuidh sé go sásda le hais na teineadh 'na
+                    bhfochair. 'Sí comhairle do ceapadh leó annsoin Domhnall do dhul le na gcois.
+                    Bhí Domh- nall féin ullamh chum a chion dá gcuid sóigh agus an- shóigh do
+                    ghlacadh; is níor bh'iongnadh go ndubhairt Cormac lán do sgleóndar gur ghearr go
+                    mbéadh sgéala maithe aca, is nár bh' fhada ó bhaile an té chabharóchadh go mór
+                    le hobair saoruighthe na hÉireann. B'fhéidir gur shíl Domhnall gur fáidh do
+                    labhair is gur thóg sé an tarn- -gaireacht soin chuige féin. Is é rún do
+                    cheapadar a dtriúr dul gan moill go dúthaigh na nGearaltach is buille éigin do
+                    bhualadh dá mb'fhéidir i n-aghaidh an námhad. Do rinne Domhnall socrughadh dá
+                    mhnaoi fad do bheadh sé amuigh, is do ghluaiseadar a dtriúr chum siubhail ar
+                    maidin go deiscréideach go crích na nGearaltach.</p>
+            </div>
+            <div type="chapter">
+                <pb n="30"/>
+                <head> AN CEATHRAMHADH hALT.</head>
+                <head>AN TURAS.</head>
+                <p>Ar maidin lá'r n-a bhárach do luigheadar ortha a dtriúr go mall is go
+                    seachnamhail tré ghleanntaibh na hAbhann Móire. Ar uairibh do chongbhadar le
+                    chéile ar eagla roimh namhaid, is ar uairibh do sgar- adar ó chéile ar feadh
+                    tamaill ar eagla go dtabhar- faidhe fá dheara iad. B' éigin dóibh go minic
+                    bheith gan lón ar eagla dá solátharóchadh siad é go mbéar- thaidhe go hobann
+                    ortha; is b'éigin dóibh codladh ins na coilltibh do thárla 'na slighidh. Is
+                    amhlaidh d'fhaireadh an bheirt aosda gach re tamall do'n oidhche i gcuma go
+                    mbeadh codladh na hoidhche ar fad ag Cormac.</p>
+                <p>Bhí an chríoch tré n-ar ghabhadar millte, sgri- osta tar fóir. Bhí guirt choirce
+                    is chruinneachta na gcosair easair, nó losguighthe gan bhrígh. Bhí na tighthe ar
+                    lár, na dóirse is na taobháin briste, an díon im- thighthe leis an ngaoith; bhí
+                    na daoine bochta lér bhain na tighthe seo 'na seicidiúraibh ag seasamh ar thaobh
+                    bhóthair is ag crith le fuacht gan balcaisíbh gan bhiadh gan digh' nó bailighthe
+                    fá géagaibh na gcrann, nó, fós, ag cuardach rud éigin bhainfeadh an t-ocras
+                    díobh tré garradhaibh loitighthe is tré mhóinfhéaraibh dubh-loisgthe Ba
+                    thruaighmhéileach an radharc na páistí beaga bochta tarlomnochta gan lúth 'na
+                    mballaibh, gan sméide ,na ngnúisibh' gan uaim ghrinn ná cheóil 'na mbéalaibh,
+                    gan sugradh ar bhántaibh mar ba ghnáth, acht 'na síománaigh fuirighthe fann ag
+                    bailiughadh na neanntóg nó ag suidhe cois bhallaidhe fuar is gan fiú na
+                    coisidheachta aca.</p>
+                <p>
+                    <pb n="31"/> Bhí an t-arbhar, áit nár loiteadh le teinidh é, ag aibiughadh is ag
+                    breacadh go lán-mhear. I n-áiteannaibh bhí sé gearrtha is curtha i bhfolach sul
+                    a bhfuaideóchadh muinntear an chogaidh é, is bhí fir ag faire gach lá ar na
+                    mullachaibh mór-dtimcheall. D'fhaireadar na ga- bháltaidhe a mbólacht ló is
+                    oidhche, is níor bheartuigh aon'ne gur bh'fhiú uair do chloig a bheatha ná a
+                    mhaoin. Bhí na daoine ag fagháil bháis go tiugh le hocras is le hanró is go
+                    minic ní raibh aon ne' chum iad d' adhnacadh. Níor bh'annamh le feicsint ablacha
+                    leath-lobhtha ar dhruim talmhan stollta as a chéile le gadharaibh. Níor
+                    bh'annamh le feicsint páistí óga bailighthe tim- cheall na n-ablach sain dá
+                    n-ithe go cíocrach is ag síor- bhruighean le chéile 'na dtaobh. Do leath an bás
+                    agus an t-ocras daol-bhrat bróin ar spéir is ar thalamh. Ní raibh séis na gotha
+                    daonna i dtigh ná gáir na n-éan i gcoill le cloisint lá grianmhar foghmhair ar
+                    feadh mílte do'n tslighidh. </p>
+                <p>Tráthnóna áirithe do bhíodar ins an tír idir fhuinse na hAbhann Móire is an
+                    tOileán. Do tháinig mór- shéideadh gaoithe is fearthainne ortha go hobann do
+                    rinn' oidhche do'n lá. Láithreach baill bhí na bóithre go léir fá thuile is na
+                    sruthair mór-dtimcheall do bhí i ndísg nach mór ar maidin anois 'na dtuiltibh
+                    móra ag cur a nglór i gcéin. Ar uairibh do las an spéir le splanncaibh
+                    lonnracha, is 'na ndiaidh d'airighthí fothram uathbhásach tóirnigh ag
+                    gluaiseacht, ag fil- leadh, is ag aith-fhilleadh idir na sléibhtibh mar fhuaim
+                    chogaidh na n-athach. Bhi an triúr anois fliuch isteach go dtí an croiceann, is
+                    a gcuid balcaisí chomh trom soin le fliuchán gur dheacair dóibh siubhal; 'na
+                    fhochair sin bhíodar lag-bhríoghach ó throsgadh an lae, is ba mhithid dóibh
+                    imshníomh do dhéanamh ar fhuithin éigin <pb n="32"/> d'fhagháil i gcomhair na
+                    hoidhche do bhí anois ag tuitim go dubh-sgamallach ar mhuir is ar thalamh. Ag
+                    machtnamh ar an chruaidh-cheist sin dóibh do chonnacadar os a gcomhair teach
+                    gabháltaidhe ar árd le hais an bhóthair; bhí na ballaidhe gealta le haol, is bhí
+                    díon cluthmhar seasgair air lasmuigh; acht ní mórán eile bhí le feiscint 'na
+                    thimcheall do chuireadh fonn ar lucht siubhail dul isteach chum a sgís do
+                    léigean díobh. Bhí ba is capaill i bhfearann le hais an tighe ag baint sgáith na
+                    gcladhthach dá chéile mar chomairce ó'n anfadh. </p>
+                <p>Do thógadar comhairle a chéile an rachaidís isteach ag iarraidh dín na hoidhche.
+                    Agus is í comhairle do cheapadar, d'aon mheón amháin, dul fá dhéin an tighe, gur
+                    bh'fheárr bheith i gcontabhairt bháis ó námhaid ná fanmhaint go fuar, fliuch,
+                    fann, fá gharbh-shín na oidhche. 'Nuair a thángadar go dtí an doras, do fuaradar
+                    leath-osgailte é, is chuadhadar isteach gan chuireadh, gan iarraidh. Bhíodar
+                    chomh fliuch, chomh fuar soin, chomh teirce le lagachar is le hocras go
+                    dtiocfadh truagh dhóibh i gcroidhe a námhad féin, dá chruaidh- chroidhighe
+                    neamh-thruaighmhéilighe é. Acht cibé eagla bhí ortha roimh mhuinntir an tighe
+                    níor lean sé i bhfad díobh. Do bhí fear d'aois timcheall an dá fhichead, is a
+                    bhean mórán níos óige is ceathrar leanbh 'na suidhe le hais teineadh do las ós a
+                    gcomhair go soillseach is go seasgair ar an teinnteán, gan bheann aca ar an
+                    anfadh. do bhí ag réabadh tor is ag tréan-luasgadh coillte lasmuigh. D'éirigh
+                    fear an tighe is a bhean i n-éinfheacht is chuireadar fáilte rómpa le hurraim is
+                    le cneas- dacht. Do labhair an Caomhach láithreach is dubhairt gur deoraidhthe
+                    iad do bhí ag dul i gcéin is go raibh sé do dhonas ortha garbh-anfadh do bhreith
+                    ortha ins an áit fhiadhain neamh-dhíonmhair soin, is go mbeidís buidheach <pb
+                        n="33"/> go deó dá dtabharfaidís dóibh cead fanamhna fa dhíon an tighe go
+                    maidin. Do bhí sé chum a thuilleadh d'aithris 'nuair chuir fear an tighe cosg
+                    air ag rádh go raibh céad fáilte rómpa, is gan maill do rinneadh gach ar
+                    bh'fhéidir chum cabhruighthe leó. Do luigh fear an tighe is a bhean ar bhreis
+                    teineadh do chórughadh chum a gcuid éadaigh do thiormughadh. Níor bh'fada gur
+                    shuidh- eadar na deóraidhthe chum bídh, do hullmhuigheadh le deithineas, acht
+                    bhíodar, 'na dhiaidh sin, milis soghail, tar éis a gcuid sgís is anró. Bhí
+                    Cormac chomh lag soin gur bh'éigin dó dul do chodladh gan moill. D'fhan an
+                    bheirt eile go ceann i bhfad do'n oidhche ag comhrádh le muinntir an tighe. Ba
+                    mhilis subháilceach a gcomhrádh le chéile, acht níor tharraing aon'ne aca chuige
+                    cúrsa an chogaidh ná aon rud eile ar a mbeith áiteamh nó dhá chéadfaidh. Fuair
+                    Cormac leabaidh i seómra bheag i mbarr an tighe, is do chodail an bheirt eile i
+                    seómra fá leith. Tar éis dul do chodladh don bheirt d'airigheadar muinntir an
+                    tighe go gnóthach ag ullmhughadh bídh, dar leó, do dheoraidhthibh éigin eile do
+                    tháinig chuca i lár na hoidhche. </p>
+                <p>Tar éis tamaill do chiúinigh an teach ar fad acht níor fhág soin an Caomhach gan
+                    eagla go n-imtheóchadh rud éigin ar Chormac. Níor dhún súil leis, cé gur sámh do
+                    chodail an t-athach le n'ais. Le neart a neamh-shuaimhnis d'éirigh sé 'na
+                    shuidhe go socair, is d'éaluigh go ciúin 'san dorchadas go doras an tseómra i
+                    n-a raibh Cormac. D'éist sé ar feadh tamaill ag an doras is d'airigh go soilléir
+                    osnaidhe is gearán an óglaigh. D'osgail sé an doras. Ní raibh splannc solais
+                    'san tseómra. Do tháinig crith-eagla air ag déanamh ar an leabaidh dó. Is geárr
+                    gur lámhuigh sé duine éigin ag tabhairt iarracht ar fhear na leapadh do
+                    thachtadh. Do sgread an t-óglách le pian. Do rug an Caomhach ar an té bhí <pb
+                        n="34"/> dhá thachtadh. Níor labhradar gíog le chéile acht dul i n-achrann i
+                    n-a chéile i ndian-fhuirse. 'Nuair do thosnuigh Cormac ar sgreadadh do bhog an
+                    rábaire dá ghreim, do strac sé é féin as lámhaibh an Chaomhaigh, is amach an
+                    doras leis 'san dorchadas is níor fhill ó shoin. Ar maidin ní raibh a thuairisg
+                    le fagháil. Do thuit Cormac i lagachar is d'imthigh cuimhne na hoidhche sin ar
+                    fad as a mheabhair, is b'éigin do'n bheirt eile gluaiseacht chum siubhail is é
+                    d'fhágáil 'na ndiaidh sínte ar leabaidh i bhfiabhras, tinn te trioblóideach.
+                </p>
+            </div>
+            <div type="chapter">
+                <pb n="35"/>
+                <head> AN CÚIGEADH hALT.</head>
+                <head>AN DÚNMHARBHADH.</head>
+                <p>Ba chiúin chumhra an mhaidean í - mar is gnáth i ndiaidh anfaidh - i n-ar ghluais
+                    an Caomhach agus Domhnall chum siubhail. D'airigheadar gur theich an tIarla go
+                    Sliabh Mis, agus is é cheapadar dul ag triall air is dá mb'fhéidir congnamh
+                    éigin do thabhairt dó. Bhí a slighe i dtosach tré réidhibh sléibhe, is tré
+                    ruadhtaibh úra, boga acht i gceann tamaill d'imthigheadar le fánaidh tré thalamh
+                    saidhbhir 'na raibh an féar rinn-árd, is gan duine chum a ghearrtha, ná bó ná
+                    capall chum a chraptha. Mór- dtimcheall bhí an fraoch loisgthe is na tighthe
+                    briste isteach is comharthaidhe áir is ghorta i gach aon bhall. Do thángadar go
+                    mbaile beag bhí go taisgithe i gclúid fá ghualainn sléibhe, acht ní raibh do
+                    dhaoinibh le feicsint lasmuigh acht fíor-bheagán, is ortha soin bhí drioch chomh
+                    dubhach, chomh doilbh sin gur dhóigh leat ná raibh focal 'na bpluic. Uatha soin
+                    d'airigh an bheirt go raibh an sgéal go dona tar barr ag an Iarla, gur thréig a
+                    cháirde é. is go raibh a bhuidhean go léir nach mór sgaipthe, gur bh'éigin dó
+                    dul i bhfolach, is nár bh'fhios cá raibh sé an tan soin. Dubhradh leó i
+                    n-'fhochair sin go raibh mór-chuid airgid tarraingthe ar a cheann, nár
+                    bh'fhéidir leis lean- mhaint do'n chogadh feasda, is go raibh muinntir na
+                    Bainríoghna ag déanamh a gcroidhe-dhíchill chum greim do bhreith air beó nó
+                    marbh.</p>
+                <p>Níor bh'ionann an chuma inar thógadar araon an sgéal so. Do'n Chaomhach ba gheall
+                    le fógairt bháis é. Níor fhan preab misnighe 'na chroidhe. Bhí deireadh leis an
+                    muinighin <pb n="36"/> sin as cúis a dhúthchais do mhúin Cormac dó. Do
+                    chuimhnigh sé láithreach ar Chormac, ar a fhéachaint fhearamhail i gcló leinbh,
+                    ar a dhian-mhachtnamh, ar a sholas-aigneadh - ar gach ar smuainigh sé, gach ar
+                    cheap sé - feasda gan tapa, gan bhrígh; ar Chormac anois go tréith le héagcruas,
+                    is slabhra na daoirse níos daingne ag brughadh is ag mil- leadh a dhúthchais
+                    dílis. Och! dá mbeith fios anois aige an treó bhí ar an Iarla bhocht, caidé mar
+                    a thuitfeadh sé i mbrón' cad iad na spioraid do thiocfadh air, cad iad na
+                    hosnaidhe do bainfidhe ó chroidhe as! </p>
+                <p>Dála Dhomhnaill níor bh'iad soin na smuainte do rith na aigneadh ar chloisint an
+                    sgéil sin dó. Is deimhin go raibh súil aige go mbuaidhfeadh cúis an Iarla fá
+                    dheireadh. B'fhada ag teicheadh ó'n dligheadh é, is dá mbuaidhfeadh an tIarla ní
+                    bhéadh baoghal air. Acht anois ó chuaidh an lá ar an Iarla ní raibh díon na
+                    tear- mann aige roimh mhuinntir na Bainríoghna. 'Na theann- ta soin, do
+                    cruadhadh a chroidhe leis an fhuil do dhoirt sé i meadhón oidhche fhuar,
+                    dhorcha, le hais na srotha uaignighe úd i gConndae Chorcaigh. Ní raibh anois aon
+                    leisge air roimh ghniomharthaibh fola, is dá mbeith féin do chneasóchaidhe a
+                    chogubhas leis an airgead do bhí gealltha don té mharbhóchadh an tIarla, is níor
+                    bh'fhada an mhoill air ceapadh in a aigneadh ionad comhnaidhthe an Iarla
+                    d'fhagháil amach, is, dá mb'fhéidir, an ceann do bhaint de, is an mhór-chuid
+                    airgid sin do thuilleamh. Ar an ádhbhar soin d'oir sé dhó chomh maith is d'oir
+                    sé do'n Chaomhach fios do bheith aige ar áit fholuighthe an Iarla is dá
+                    mb'féidir bheith 'na rún.</p>
+                <p>Do bhí an Caomhach géar-chúiseach go leór is bhí eólas maith aige ar cúrsaidhibh
+                    an tsaoghail, is cé nár aithin sé go cinnte na smuainte bhí i n-aigneadh an fhir
+                    eile, do mhothuigh sé go raibh rud éigin ag déanamh buaidheartha <pb n="37"/>
+                    dhó. Ó chomharthaibh beaga ná haireóchadh duine eile do bhrath sé go raibh rud
+                    éigin neamh-fhoghanta ar bun aige. Dála Dhomhnaill do bheartuigh sé gur léigh an
+                    Caomhach a mheón mar do léaghfá paipéar; agus is mar soin, gan iontaoibh aca as
+                    a chéile, do ghluaiseadar ortha. Níor bh'iongnadh gur theip a gcuid comhráidh
+                    ortha. Do than- gadar i ndeireadh an tráthnóna soin go tigh ósda is do
+                    chuadhadar isteach i gcomhair na hoidhche, mar ní raibh anois eagla ortha roimh
+                    na daoinibh. Do shuidheadhar le hais na teineadh mar ba ghnáth do lucht
+                    siubhail; bhí a lán eile do dheóraidhthibh ann rómpa is do shuidheadar 'na
+                    measg. </p>
+                <p>Ní raibh focal as an athach; do thuit a chion do'n chainnt chum an Chaomhaigh;
+                    acht níor bhríoghmar ná aibigh do labhair mar ba ghnáth leis. Bhí trácht
+                    eatortha ar an gcogadh do bhí anois geall le bheith críochnuighthe, is ar ráfla
+                    éigin d'airigheadh go déidheanach - go raibh na Spáinnigh ag teacht go cuantaibh
+                    an Daingin chum cabharuighthe leis an Iarla. Do labhair duine éigin ar ionad
+                    foluighthe an Iarla. “Ó mhaise, go gcabhruighidh Dia leis,” ar fear smutach
+                    teann 'san gcúinne, “cibé ball i n-a bhfuil sé. Ní bhéarthar go deó air, sin é
+                    mo thuairim. Táim deimhneach ná fuil fear 'san Mhumhain indiu do chealgfadh i
+                    lámhaibh a námhad é dá bhfaghadh sé na mílte púnt ar an mbeirt soin. Cionnos
+                    d'fhéadfadh aon'ne cuimhne ar an gcuradh aosda onórach soin do leagadh ar lár?
+                    Táim cinnte, dá mbeith fhios agam go raibh aon'ne chomh holc san 'san dúthaigh
+                    seo, go mallachtóch- ainn an phréamh as ar fhásamar go léir.” “Maith an
+                    buachaill,” ar fear caol dubh do shuidh ar an dtaobh thall do'n teinidh, “caidí
+                    an chainnt sin ort mar sin? Ná hinnis damh-sa é. Tá aithne mhaith agam-sa ort, a
+                    mhic mo chroidhe. Ní chealgfá-sa an tIarla, ní dhéanfá <pb n="38"/> leis, a
+                    ropaire bhitheamhnaigh, ní dhéanfá! Tá a fhios agam. Do dhéanfá mhaise! Táim
+                    cinnte go ndíolfá an tIarla i mbárach ar luach na dighe!” “Do dhíolfainn? an
+                    ndíolfainn, mhaise? Cá' bhfhios duit-se sin? Tugais do dhearg-éitheach; ní ceart
+                    ná cóir duit a léithéid sin d' asmhuchán do chasadh liom.” “Is dóigh liom gur
+                    cirte dhuit éisteacht is a shár-fhios atá againn go léir cad do dhéanfá ar
+                    airgead.” “Tá a fhios agaibh, an bhfuil fhios?” ar an fear eile, dá bhualadh le
+                    buille dá dhorn. do leag siar ar an urlár é, is do chuir a shrón ag tabhairt
+                    fola i gcaisibh. </p>
+                <p>As an ghníomh soin d'éirigh gleó eatortha i gcoit- cheann, gach duine ag
+                    cabhrughadh le n-a mhuinntir féin. Dála an Chaomhaigh níor chabhruigh sé le haon
+                    taobh, acht ag iarraidh síothchána do dhéanamh eatortha. Acht níor mar soin do'n
+                    athach, do luigh sé ar bhriseadh is ar bhualadh is ar réabhadh mór-dtimcheall,
+                    is ag cabhrughadh gan sgáth leis an bhfear teann do bhuail an chéad bhuille, is
+                    ag ná raibh acht beagán chum a chosanta. Acht bhuaidh neart is lúth an athaigh
+                    ar a raibh 'na aghaidh; is 'nuair bhíodar go léir smachtuighthe aige rinneadh
+                    síothcháin eatortha is ní gan fuil do bheith dortuighthe is cnámha leóinte, ar
+                    gach taobh.</p>
+                <p>Chuir gníomhartha an athaigh an oidhche sin buaidheart mhór ar a chompánach.
+                    B'fhollus gur namhaid do'n Iarla do chosnaimh sé, is b'olc an comhartha air é;
+                    acht d'fhan sé go ciúin is do léig sé a chuid amhrais brughadh ar a chroidhe
+                    féin.</p>
+                <p>Níor chosg an bhruighean a gcuid muinntearais ar fad is tar éis síothcháin do
+                    dhéanamh luigheadar ar chainnt arís i gcuma gur dhóigh leat ná raibh focal
+                    eatortha riamh.</p>
+                <p>Bhí a lán do'n oidhche caithte 'nuair do thaisbeáin an <pb n="39"/> fear ósda an
+                    suainlios dóibh. Do bhí seomra beag chum codalta ag gach duine. 'Nuair do
+                    taisbeáineadh a sheómra do Mhac Uí Chaoimh do bheartuigh sé go raibh an t-athach
+                    ag géar-infhiúchadh a ionaid suain is na háiteanna bhí le n'ais, acht níor léig
+                    sé air go bhfacaidh sé é, is do sgaradar go ciúin is go cneasda le chéile i
+                    gcomhair na hoidhche. Acht d'aithin Mac Uí Chaoimh ná raibh áit chodalta do na
+                    deóraidhthibh ar fad is gur bh'éigin do chuid aca suidhe cois na teineadh go
+                    maidin. Ar an ádhbhar soin tar éis tamaill, cad do rinne sé acht sleamhnughadh
+                    amach as a sheomra féin, is a rádh le duine dhíobh so bhí ag fanmhaint suas go
+                    mb'fheárr leis féin i bhfad suidhe cois na teineadh is go bhféadfadh seisean
+                    codladh 'na sheómra 'na ionad. D'aontuigh an fear eile go háthasach, agus is
+                    ciúin socair do rinne sé an seomra amach, is ó bhí tuirse ó'n mbruighin air is
+                    sámh an codladh do thuit 'na throm-néalaibh air gan maill. </p>
+                <p>Do luigh Domhnall Dubh ar a leabaidh, acht ní chum codalta é. Do mhachtnaimh is
+                    do chuimhnigh sé ar chéad ní do bhain leis an rud ba mheasa leis - cionnos do
+                    mharbhóchadh sé nó bhéarfadh sé 'na bheathaidh ar an Iarla? Níor bh'fuirisde an
+                    gníomh soin ar aon slighidh, acht anois bhí contabhairt roimhe nár mheabhruigh
+                    sé go dtí seo. Do bhrath sé go raibh droch-amhras cheana ag Mac Uí Chaoimh air,
+                    agus tar éis beart na hoidhche seo b'follus gur léig sé a mheón. Dá n-éireochadh
+                    an Caomhach as a leabaidh ar maidin do ghnáth ní fheadair sé ná go n-iompóchadh
+                    sé air is mharbhóchadh sé é, nó go gcuirfeadh suas duine éigin eile chum a
+                    dhéanta. An n-éireóchadh sé ar maidin? Ba chontabharthach an gnó é, bhí an
+                    oiread soin daoine 'na thimcheall is do thuit sé amach leis an oiread soin an
+                    oidhche sin. Acht caithfear tabhair fá'n <pb n="40"/> obair sin. Do sheas an
+                    Caomhach 'na shlighidh; ba dubh- sgamall ar a sholas é; ba nimh a bheathadh é;
+                    caithfear cos do luighe air; dá n-imtheochadh sé slán as an dtigh sin is dá
+                    sroichfeadh sé ionad foluighthe an Iarla bhéadh deireadh le n-a ghnó. 'Na
+                    theannta soin do theastuigh airgead uaidh is do chonnaic sé an oidhche sin mórán
+                    airgid ag an gCaomhach 'nuair a ghlan sé leis an bhfear ósda. Níor bh'fhéidir dó
+                    a chomhairle a chur chum cinn gan airgead is caithfear airgead do sholáthar. </p>
+                <p>Ag dian-mhachtnamh mar soin dó, bhris amach a raibh fiadhain
+                    neamh-thruaighmhéileach i n-a aigneadh, is níor bh'fhada go raibh sé ceapuighthe
+                    aige an gníomh do dhéanamh. Do rug sé ar an sgian do bhí taisgthe i bhfolach 'na
+                    chuid éadaigh is lér dhoirt sé reachtaidhe fola go minic cheana i meadhón dubh
+                    dorcha na hoidhche le hais na srotha úd, mar nár bh'annamh do bhain sé a námhaid
+                    dá threóir. Bhí an sgian úd géar-fhaobhrach is lán-ullamh chum léirsgrios do
+                    dhéanamh. Ní tháinig léic 'na mhean- main 'nuair a thug sé fobha léi mar a
+                    bheadh sé ag sáthadh an Chaoimigh. Bhí ciúineas mór-dtimcheall; ní raibh splannc
+                    solais ar fuaid an tighe, do shleamhnuigh sé go socair 'san dubh-dhorchadas go
+                    dtáinig sé chum an tseomra bhí uaidh. Ní raibh baoghal dul amugha air, mar is
+                    cruinn do thug sé fa deara an doras is a raibh le n- ais an oidhche sin. 'Nuair
+                    fuair sé amach an doras d'éist sé ar feadh tamaill gur airigh sé an té bhí
+                    istigh ag dian-shranntarnaigh. D'osgail sé an doras go ciúin is do chuaidh
+                    láithreach baill go dtí an leabaidh inar airigh sé an tsranntarnach; is le n-a
+                    thréan- neart, le fuinneamh, le dásacht, do sháthuigh sé an sgian tré chroidhe
+                    an té bhí ann, chomh tapa soin ná raibh uain aige músgailt, ná gearán ná ulfairt
+                    do chur as. Tar éis a sháithte do chorruigh fear na leapadh. Do <pb n="41"/>
+                    thug sé cnead múchta truaighmhéileach is do chiúinigh a ghlór go deó. </p>
+                <p>D' fhan an t-athach nóimeant nó dhó 'na dhiaidh sin ag taobh na leapan ag
+                    machtnamh leis féin. Do bhear- tuigh sé gur bh'fheárr an sgian fhuilmhear
+                    ghráineamhail sin d'fhágbháil 'san leabaidh 'na dhiaidh ar eagla go mbéadh sí
+                    mar fhiadhnaise 'na choinnibh lá éigin. Ann soin do chuarduigh sé éadach an
+                    mhairbh chum a chuid airgid d'fhagháil, acht, má chuarduigh, sin a raibh dhá
+                    bharr aige. Ní raibh réal 'na sparán. Is iomdhaeas gaine trom do leag sé ar
+                    cheann an mhairbh 'nuair a fuair sé a phóca folamh. 'Nuair bhí sé sásda go raibh
+                    sé marbh is ná raibh aon ní le fagháil dá bharr aige, d'fhill sé tar n-ais ag
+                    dúnadh an dorais 'na dhiaidh go haireach, is bhí láithreach 'na sheomra
+                    féin.</p>
+                <p>Do luigh sé ar an leabaidh, acht níor dhún súil leis. Cionnos d'fhéadfadh codladh
+                    a theacht ar dhuine láith- reach tar éis a leithéid sin do sgrios do dhéanamh?
+                    Cionnos d' fhéadfadh an inchinn do mheabhruigh bás gan trócaire d' fhear do bhí
+                    'na chodladh socrughadh i gcod- ladh sámh an oidhche chéadna? Ag luighe ann soin
+                    dó 'san dorchadas, do shíl sé gur airigh sé an chnead bháis sin do thugh an
+                    marbh tar éis na sgéine do dhul tríd. Bhí an chnead uaigneach úd 'na chluasaibh,
+                    is níor fhéad sé teicheadh uaidh. Fear dortuighthe fola do b'eadh é; bhí a
+                    chroidhe cruaidh, neamh-fhaitcheasach; acht níor bh' ion- ann an treó bhí an
+                    oidhche sin air is roimhe seo. Bhí anois 'na thimcheall buidhean d'fhuathaigh é,
+                    is cé go rabhadar 'na gcodladh an tan soin, ba ghearr go mbéadh siad go
+                    ró-aibidh ag baint sásaimh dhe. Do mharbh sé a chompánach is ba léir dó go
+                    mbéarfaidhe air chomh luath is d' aireóchaidhe an gníomh soin, is ní raibh caoi
+                    dul as aige. Bhí bás ar chroich i ndan dó. <pb n="42"/> Cad do dhéanfadh sé?
+                    Níor bh' fhéidir teicheadh 'san oidhche, óir bhí na dóirse fíor-iadhta is gan
+                    dul ar an eochair aige; is dá dtiubhradh sé iarracht ar dhoras éigin do
+                    bhriseadh le cumas a lámh, do dhúiseóchadh sé an teach ar fad. </p>
+                <p>Ar na hádhbharaibh sin, cé cráidhte bhí sé 'na aigneadh le feitheamh, 'sí
+                    comhairle do cheap sé fanamhaint 'na leabaidh go maidin, is chomh luath is
+                    bhéadh aon'ne ag corraighe is doras éigin osgailte, dul amach go ciúin is go
+                    socair is teicheadh. Ba chontabharthach an iar- racht í, acht ní raibh a
+                    mhalairt le déanamh aige. Bhí sé cinnte go gcreidfidhe gur bh'é do mhairbh a
+                    chompánach, is ná béadh an oiread is amhras an ghníomha soin ar aon eile.
+                    D'éaluigh se ó'n mbás go minic cheana, b'fhéidir go n-éalóchadh arís. Do
+                    mhéadhuigh sé an chontabhairt ar gach taobh ag luighe dhó gan suan gan
+                    suaimhneas 'na leabaidh.</p>
+                <p>Ag machtnamh mar sin dó is ag iarraidh na cruaidh- cheisteann do bheartuigh se
+                    'na chomhair do réidhteach, do chrith sé le hanaithe is uamhain nuair d'osgladh
+                    an doras go socair, is tháinig duine éigin isteach go mall is go ciúin is ar
+                    éigin ag tarraing na hanála. Do shiubhail sé anonn go dtí an leaba. Dá mbeith an
+                    sgian áir úd anois ag Domhnall, is dóigh go bpreab- fadh sé i gcoinnibh na
+                    námhad mar do preabadh 'na choinnibh féin cheana, acht ní raibh arm ar bith
+                    aige, bhí a lámha dearg tar éis an dúnmharbhtha is ní fheadair sé ná go
+                    bhfuaradh amach é is do chrith a chnámha le hanaithe an bháis, is do shéid
+                    fuar-allas ó n-a bhallaibh go léir. Do labhair an té tháinig isteach go cneasda
+                    is dubhairt: “A Dhomhnaill, an bhfuilir id' chodladh?” Ní raibh dar ndóigh. Do
+                    shíl sé gur aithin sé an guth úd is tháinig tuilleadh anaithe air - b'é an guth
+                    céadna <pb n="43"/> soin do chiúinigh sé uair do chlog ó shoin go bráth - an
+                    guth ná féadfadh sé cloisint go deó arís acht amháin i bhfíor-smuaineadh - is
+                    anois gan fíor-smuaineadh ar bith air. Níor fhreagair sé - ní fhéadfadh sé
+                    freagra le huamhain. Do glaodhadh arís air; is b'é an guth céadna do ghlaodhuigh
+                    is arís ar baill-chrith le heagla níor fhéad sé freagra. </p>
+                <p>Dála an fhir eile bhí iong nadh air gur chodail fear na leapadh chomh sámh soin.
+                    Is ó nár mhaith leis fothram do dhéanamh do las sé coinneal bhí na láimh is
+                    d'fhéach Domhnall ar ghnúis an té bheartuigh sé marbh gan lúth, mar is é an
+                    Caomhach do bhí ann.</p>
+                <p>Tá innsint sgéil go leór ar an anaithe is ar na crithibh báis do chuireann
+                    radharc spioraid ar dhuine, cé gur spiorad éigin do thiocfadh ar theachdas
+                    neamh- dhíoghbhálach ó'n saoghal eile. Acht cia fheadfadh trácht ar an
+                    gcrith-eagla, ar an uamhain do bhéadh ar dhuine do chífeadh ós a chomhair gan
+                    mearbhall an fear do mhairbh sé féin uair do chlog ó shoin beó, lán-aibigh, ag
+                    labhairt leis is ag glaodhach ar a ainm? Is iomdha duine do bhain Domhnall dá
+                    threóir i meadhón dubh dhorcha na hoidhche; acht níor fhill aon'ne dhíobh riamh
+                    chum sásaimh do bhaint de ina thaobh soin. Níor fhan lúth 'na chnámhaibh le
+                    heagla. Do chruaidheadar is do chrapadar a bhaill, do séideadh an fuar-allas 'na
+                    thuile ó n-a chorp go léir. Do shuidh sé aniar 'san leabaidh is do bhéic sé go
+                    fiadhain cráidhte, “Glan as mo radharc! Imthigh, a shíobhra! Ní'l leigheas
+                    agam-sa ort - míle mío-choth- rom ort! Imthigh! féach air - nach dúr dána é! Im-
+                    thigh, clúdúigh thu féin i gcré! cad tá uait annso?” Ag sgreadadh mar sin dó
+                    tháinig sgeón 'na shuilíbh is fiadhantas neamh-ghnáthac 'na ghnúis.</p>
+                <p>Dála an Chaomhaigh is amhlaidh tháinig sé chum labhartha <pb n="44"/> le n-a
+                    chompánach ar neithibh éigin do theasduigh uatha roimh imtheacht dóibh ar
+                    maidin; is bhí iongnadh a chroidhe air i dtaobh a bhfacaidh sé; mar níor thuig
+                    sé cúis an fhiadhantais sin do bhí ar Dhomhnall. Do rinne sé a dhícheall chum a
+                    chiúinighthe, acht ní raibh maitheas 'na glór, is amhlaidh bhí sé ag dul i
+                    n-olcas; is ó nár mian leis an teach do tharraing 'na thimcheall, do mhúch sé an
+                    choinneal is d'fhág an seómra ag dúnadh an dorais 'na dhiaidh. </p>
+                <p>'Nuair bhi an Caomhach imthighthe, do bheartuigh Domhnall go raibh sé saor anois
+                    ó'n spiorad do tháinig chum sgannraidh do chur air, is chuir sin misneach éigin
+                    air, is cé ná raibh aon dul ar chodladh aige bhí breis suaimhnis air. Do shín sé
+                    é féin arís ag unfairt 's ag dian- mhachtnamh. Dála an Chaomhaigh do shuidh sé
+                    lastíos cois na teineadh ag smuaineadh ar éachtaibh na hoidhche sin. Agus is mar
+                    sin bhí an bheirt chompánach ag faire tré íochtar mall na hoidhche is ag
+                    feitheamh go neamh- suaimhneasach le breacadh an lae.</p>
+            </div>
+            <div type="chapter">
+                <pb n="45"/>
+                <head> AN SEISEADH hALT.</head>
+                <head>AN tATHACH AR FÁN</head>
+                <p>Do tháinig splannc beag solais fá dheireadh tré fhuinneóig an tseómra
+                    bhuaidheartha soin, is do thuit go taitneamhach ar shúilibh aibighe an
+                    mhillteóra mhí- adhbharaigh úd do bhí ag feitheamh leis go croidhe-chráidhte.
+                    D'fhair sé le bualadh croidhe an solas ag gealadh. Da dhona an sgéal do bhí aige
+                    do chuir solas an lae mis- neach air, is i gcionn tamaill d'éirigh sé is do
+                    chuir uime a chuid éadaigh, is chuaidh sé amach is síos an staighre i
+                    léir-chrithibh eagla. Bhí deoraidhthe eile 'na suidhe roimhe ag an teinidh is ag
+                    cainnt eatortha féin ar dhálaibh na hoidhche.</p>
+                <p>'Nuair tháinig Domhnall 'na ngoire do bheannuigh sé dhóibh go cneasda, acht ní
+                    raibh fonn ortha puinn a labhairt leis; bhí an oiread soin smachta curtha aige
+                    orra gur bh'fheárr leó go mór bheith réidh leis ná bheith 'na chuideachtain. Is
+                    mall socair do shiubhail sé go dtí an doras gan léigean aon ní air; is
+                    neamh-iongantach do bhuail an doras amach is dhún 'na dhiaidh é. Tar éis dul
+                    amach dhó, do shiubhail ar a shuaimhneas ar feadh beagáin aimsire. Agus 'na
+                    dhiaidh sin, do bhrígh ná raibh aon'ne ag féachaint air, bhí sé chomh moch soin,
+                    do luigh sé ar rith chomh mear is d'fhéad sé.</p>
+                <p>Do rith sé le n-a léir-neart tré ghortaibh, tar chladh- thachaibh is féithibh. Do
+                    léim sé tar thoraibh is aibhnibh, d'fhorgaibh cnuic, is do raid é féin mar
+                    thóirneach le fánaidh; do bhris sé tré choilltibh, ar uairibh ag dul i n-achrann
+                    i dtoraibh, ar uairibh ag réabadh is ag stracadh <pb n="46"/> ó'n bpréimh is ag
+                    tarraing 'na dhiaidh géaga móra crann do thárla 'na shlighidh. Do rith sé le
+                    hanaithe an té bheadh ag teicheadh ó ghread-theinidh, le buile an té cheapfadh
+                    go raibh na mairbh ar a lorg chomh maith leis ar raibh beó, le dásacht an té
+                    bhéadh claon chum toirmisg is cíocrach chum tuilleadh fola do dhortadh. Do
+                    bhrath sé go raibh fear ar tí beirthe air i bhfolach i gach tor bhí 'na
+                    shlighidh. Bhí amhras aige go rabhadar na haodhairí eallaigh do bhí go
+                    haimhleisgeamhail ag siubhal tré bhán- taibh úr le drúcht na maidne ag tógáil
+                    comhairle ó chéile chum a thógtha. Ní raibh leóithne fionnfhuar ag séideadh ar
+                    dhruim chnuic, ní raibh caol-shruth ag cuaird tré mho gaibh go glórach éasgaidh,
+                    ní raibh é ag can- tain fá chlúid duilleabhair, ní raibh búir ag boin ná fead i
+                    mbéal buanaidhe nár labhair leis le guth an té do mhill sé, is nár nocht an
+                    léirsgrios do rinne sé do'n domhan go léir. </p>
+                <p>Ar uairibh do stadadh sé. Ba dhóigh leis go n-airigh- eadh sé an guth caoin
+                    cneasda úd do chiúinigh sé go deó. Ní raibh ann acht an ghaoth ag cromadh na
+                    dtor chum talmhan. Do thiormuigheadh sé an lán-allus dá leac in, is sgíordadh
+                    chum reatha arís gan sost, gan suaimhneas. Do bhí sé anois i bhfad o'n áit i n-a
+                    ndearna sé an fheall-bheart, is b'éigin dó é féin do chaitheamh ar an talamh le
+                    tuirse fá ghéagaibh crainn giumhaise i lár coille. Níor chian gur thuit a
+                    chodladh air, is fágfamuid annsoin é, óir is mithid dúinn filleadh chum an tighe
+                    i n-ar rinneadh an dúnmharbhadh.</p>
+                <p>Bhí iongnadh ar an muinntir do shuidh le hais na teineadh nár fhill Domhnall i
+                    dtráth, acht is gearr gur iompuigheadh a gcomhrádh ar neithibh eile, is
+                    d'imthigh sé as a gcuimhne. Níor mar sin do'n Caomhach do bhí 'na measg, is do
+                    bhí ag cainnt leó go cneasd. Do chuimh <pb n="47"/> nigh sé ar an mbuile bhí ar
+                    Dhomhnall 'san oidhche agus is buaidheartha bhí sé i n-'aigneadh na thaobh, is
+                    do theasduigh uaidh go mór é d'fheicsint is gach nídh chur i dtreó le haghaidh
+                    gluaiseachta dhóibh. Acht anois bhí a lán do'n mhaidin caithte is gan tuairisg
+                    air. </p>
+                <p>Do friotháladh bord chum bídh is bhíodar na deóraidhthe 'na suidhe go céileamhail
+                    grianmhar ag caitheamh lóin na maidne, 'nuair d'airigheadh an sgread uaigneach,
+                    truaighmhéileach ar fuaid an tighe, “Milleadh! Léir- sgrios! A Mhuire, cad é mar
+                    fheall-bheirt! Tá sé marbh, marbh gan bhrígh, gan phreab! Dia linn, Dia linn!”
+                    Do thosnuigh an liúir chráidhte sin 'san suan-lios is do leath sé ó sheomra go
+                    seomra, ag dul i neart is i mbrónaighe. “Tá fear treasgartha, marbh i ndiaidh
+                    millteóra éigin!” B'shin é an sgéal do leath ó bhéal go béal. Níor fhan focal i
+                    mbéal na ndeoraidhthe le hiongnadh is le huamhain. Chuir an sgéal soin an oiread
+                    soin mearbhaill ortha nár iarr aon'ne cia hé do marbhadh ná ca'nad do marbhadh
+                    é. Acht i gcionn tamaill b'fhollus gur i seomra Mhic Uí Chaoimh do rinneadh an
+                    léir-sgrios, agus, fós, gur bh'é an fear do bhuail an chéad bhuille an oidhche
+                    roimhe soin do marbhadh. Do thuit amhras na feall-bheirte sin láithreach ar an
+                    gCaomhach, ní nár bh'iongnadh, óir ní raibh caidreamh ag na daoinibh eile air.
+                    Ar órdughadh fir an tighe do cuireadh go dain- gean i ngéibhinn é go
+                    bhfaghfaidhe tuilleadh eólais ar an ghníomh soin; is níor labhair sé gíog 'na
+                    gcoinnibh acht fanmhaint go socair fá 'na ghéimhealaibh. Ba mhian leó breith ar
+                    Dhomhnall leis is an ceangal céadna do chur air, acht ní raibh Domhnall le
+                    fagháil.</p>
+                <p>B'é an céadfadh coitcheann eatortha gur cheapadar ar aon an dúnmharbhadh is gur
+                    ar an ádhbhar soin do thug an Caomhach a sheómra féin do'n bhfear do milleadh i
+                        <pb n="48"/> gcomhair na hoidhche. Agus, fós, adubhairt duine aca gur airigh
+                    sé féin an Caomhach ag dul suas an staighre i lár na hoidhche is ag osgailt
+                    dorais éigin, ní fheadair sé cia aca, 'san suan-lios. Do shíl mórán go raibh sé
+                    daor ar an bhfiadhnaise sin. Acht an fear eile cá raibh sé? Ba léir dóibh anois
+                    gur theich sé is da mbeith fios ag an gCaomhach go raibh an gníomh le déanamh no
+                    déanta, níor deallramhach go bhfanfadh sé chomh socair sin 'san tigh is a
+                    chompánach ag rith leis féin. 'Nuair bhí caoi aige air, d'innis an Caomhach ar
+                    aithin sé do bheathaidh Dhomhnaill Duibh, is níor cheil go raibh droch- amhras
+                    aige féin air le déidheanaighe, ná cionnos do chuaidh sé féin chum a sheomra i
+                    lár na hoidhche is an buile bhí air. D'éisteadar go haireach le n-a chomhrádh;
+                    do bhí deallramh ar a sgéal, is do rinn' a chneasdacht is a mhándacht a lán chum
+                    a shaoruighthe. Tar éis urlabh- ra an Chaomhaigh b'é an céadfadh coitcheann
+                    eatortha gur bh'é Domhnall do rinne an gníomh. Chreideadar go raibh sé chomh
+                    fiadhain, chomh dásachtach soin nár chóir aon iontaoibh do bheith as, is nár
+                    bhfios cia mharbhóchadh sé dá n-éireóchadh an buile dho. Níor leanadh Domhnall,
+                    mar is maith a bhí a fhios aca ná raibh aon chaoi beirthe air, bhí na daoine
+                    chomh mór soin i n-achrann i n-a chéile ins gach aon bhall. Do sgaoileadh
+                    géibheann an Chaomhaigh is d' fhan sé 'na bhfochair an oidhche sin, is ar maidin
+                    do ghluais chum siubhail agus is é do chuir sé roimhe Domhnall do chosg ar
+                    chealgadh an Iarla dá mb'fhéidir. </p>
+            </div>
+            <div type="chapter">
+                <pb n="49"/>
+                <head> AN SEACHTMHADH hALT.</head>
+                <head>COILL TRÉ THEINIDH.</head>
+                <p>Bhí a lán do'n lá caithte 'nuair do dhúisigh Domhnall Dubh as a shuan fá'n
+                    gcrann. Do shuidh sé aniar, is bhí mearbhall air mar a bheith ar fhear mheisge.
+                    Do chuimil sé a shúile is d'fhéach mor-dtimcheall. Ar dtúis ní fhacaidh sé aon
+                    ní. An raibh an oidhche ann cheana? Nó cad do leath an dubh-sgamall deataighe úd
+                    ar an spéir? D'fhéach sé arís is chonnaic sé soillse ar gach taobh. D'airigh sé
+                    fothram amhail le gaoith móir; do phreab sé 'na sheasamh, agus is amhlaidh bhí
+                    an choill mhór ina raibh sé, ar feadh a radhairc, tré theinidh!</p>
+                <p>Bhí teine ar gach taobh de; bhí na crainn mhóra mór- dtimcheall ar léir-lasadh,
+                    is a ngéaga dóighte, dubh- loisgthe ag síor-shileadh leó. Bhí an tréin-teine úd
+                    ag rith le mire tré an bhfásach do bhí cruinnighthe ar an dtalamh is tré
+                    dhrisleach do bhí chomh tirim le smólaibh. Ba thruaighmhéileach é béic na
+                    mbeathaidheach n-allta dá ngreadadh le lán-teas. Do ritheadar go fiadhain annso
+                    is annsúd ag troid le n-a chéile nó dá radadh féin ar léir-bhuile i lár na
+                    lasrach. B'uaigneach é sgread na n-éan 'nuair do dhruid an bhrothal leó, ag
+                    eitill ar mearbhall tré néaltaibh deataighe nó dá loisgeadh féin tar fóir i
+                    measg na ndearg-chraobh. D'éirigh lonnradh na lasrach go hárd 'san spéir. Bhí
+                    craobha solas-lagharacha ag tuitim 'na gceathaibh is dá bhfuadach le gaoith, is
+                    dá sgaipeadh mór-dtimcheall. Ba chosmhail fothram na lasrach le glór na hAbhann
+                    Móire fá dhearg-thuile.</p>
+                <p>
+                    <pb n="50"/> Ar amharc lán a shúl don radharc soin, níor bh'iongnadh go dtáinig
+                    gníomh na hoidhche aréir chum cuimhne Dhomhnaill, is gur chrith se le
+                    fíor-anaithe. Do ghluais sé chum siubhail, ní fheadair sé cia an tslighe fuair
+                    sé, tré fhásach dhearg-the, tré dhrisleach chas lán-achrannach, fá chrannaibh
+                    loisgthe is ar lasadh. Do dóigheadh a chasóg ar a dhrom. Ar uairibh do thuiteadh
+                    géag do chrann ar mhullach cinn airdá dhóghadh is dá lán-bhasgadh. Do shéideadh
+                    cipíní dearga luath-ghríosach is smóil fad- soillseach 'na aghaidh le
+                    garbh-ghaoith. Acht níor shos dó 'na thaobh soin. Do luigh sé air gan seasamh,
+                    gan féach- aint timcheall, gan fiú na hanála do tharraing, go breóighte brúighte
+                    cneas-loisgthe, go raibh sé glan as an gcoill. </p>
+                <p>Tar éis fágbháil na coille dhó, chaith sé é féin ar an dtalamh chum a chuid sgís
+                    do léigean de. Bhí sé go lag-bhríoghach le hanró is le hocras. Bhí sé
+                    leath-nocht- uighthe, óir do loisgeadh a lán dá chuid éadaigh 'san choill.
+                    'Nuair d'éirigh sé 'na sheasamh arís is d'fhéach sé timcheall do chonnaich sé
+                    sliabh árd as a chomhair - Sliabh Mis do b'eadh é - ar dhearg-lasadh. Do rith an
+                    lasair mór-dtimcheall leacan an tsléibhe, is ba thréan is ba lonnrach an bladhm
+                    d'éirigh suas 'san spéir ag cur a ghlóir i gcéin mar ghlór fiadhain-thonn na
+                    mara fá anfadh earraigh. Do ghabh sé an bóthar fá bhun an tsléibhe, is chonnaic
+                    sé na daoine, óg is aosda, ag teicheadh leó féin is ag caoi-ghul go hochlánach.
+                    D'fhágadar 'na ndiaidh a dtighthe, a gcuid arbhair, is a raibh aca 'san
+                    tsaoghal, dubh-dhóighte, is bhíodar féin is lucht a leanamhna gan biadh, gan
+                    fuithin, i gcomhair na hoidhche.</p>
+                <p>Níor bhog é croidhe Dhomhnaill, acht, dá chruadhacht é, chuir an radharc soin
+                    gruaim air. Do shiubhail sé tamall eile do'n bhóthar is chuaidh sé isteach i
+                    dtigh mhór fhairsing <pb n="51"/> ag iarraidh ruda éigin le n-ithe. Do bhí beirt
+                    nó triúr fear istigh ar leath-mheisge is óglach 'na bhfochair ag tabhairt aire
+                    dhóibh. Bhíodar 'na suidhe timcheall chláir, is ag cantain go súgach. </p>
+                <p>Níor b'iongnadh go raibh sgannradh ortha ar fheicsint an ídeadh bhí ar Dhomhnall,
+                    a chuid éadaigh dóighte, is dath an ghuail ar a chneis. “Ní mise do rinne é,” ar
+                    fear díobh. “Ní mise do dhóigh an choill,” ar fear eile, is thugadar iarracht ar
+                    shleamhnughadh go dtí an doras; acht do chongaibh Domhnall le n-a dhá
+                    gharbh-láimh go dain- gean iad. “Is cia hé, mar sin,” ar Domhnall, “do rinne an
+                    lán-sgrios úd?” “An t-óglách soin do rinne é,” ar fear eile. B'fhearr leis an
+                    óglách go sloig- feadh an talamh é an uair sin. Acht ní raibh caoi éaluighthe
+                    aighe. Gan moill nóimeint do dhruid an t-athach chum an dorais. Do dhún an
+                    doras; do raid sé uaidh i gcoinnibh na mballaidhe an bheirt bhí greamuighthe 'na
+                    ghlacaibh, mar do radfadh fóid móna. Do rug sé ar sgórnaigh ar an óglách is
+                    d'árduigh sé 'san aer é, mar d'árdóchadh buachaill coileáinín, is do leag chum
+                    talmhan é ar fhleasg a dhroma. 'Nuair tháinig sé chuige féin is cneasda
+                    d'fhiafruigh sé do'n athach cad do rinne sé féin as an slighidh nó caidé an
+                    chúis go dtug sé an ídeadh sin air. “A raispín!” ar Domhnall, “do dhóighis an
+                    choill is ba dhóbair duit mise a dhóghadh i n-a fochair.” “Tá cathughadh orm id'
+                    thaobh-sa,” ar an t-óglach, “acht tá súil agam go bhfuil an duine ceart dóighte
+                    ann.” “Cia hé an duine sin,” ar an t-athach? “Ná fuil a fhios agat?” ar an
+                    t-óglách, “de nam do rinneas an sgrios sin chum é a dhóghadh 'na bheathaidh nó é
+                    chluicheadh amach as an gcoill tiugh dhaingean úd, áit i n-ar dheacair é a
+                    thógbháil.” “Acht cia hé féin?” ar Domhnall arís. D'aithin an t-óglach ar
+                    fhéachaint an athaigh cad a bhí <pb n="52"/> uaidh' is dubhairt go
+                    neamh-eaglach, “An tIarla.” “Is cia hé thusa go bhfuilir chomh dian soin ar an
+                    Iarla?” “Is fada mise ag faire air féin is ar a mhuinntir; is fada anois ó
+                    chealgas dearbhráthair dó.” “An abrair gurab é thusa bhain Seaghán an
+                    Ghearaltaigh dá threóir?” “Is mé gan amhras.” “Agus cionnos a rinnis é?” </p>
+                <p>“'Seadh,” ar Éamonn, ag baint searra as féin, “ní thig liom mé féin do mholadh,
+                    acht is mar so do thuit an ní sin amach. Do bhíos-sa i gCorcaigh is bhí aithne
+                    mhaith agam ar Sheaghán an Ghearaltaigh. Do bhí sean-dhí- threabhach ró-dhiadha
+                    ró-chúramach, dár bh'ainm Tomás Scrabhadhta 'na bhuan-chomhnaidhe i lúibín
+                    coille i n-aice le príomh-áitreabh an Ghearaltaigh. Do chuireas ag faire an
+                    taoisigh é d'fhonn é shaoradh, mar dheadh, ó amhasaibh na Bainríoghna. Ar
+                    m'ordughadh-sa do thug Tomás sgéala chum Seagháin gur cóir dó dul ar cuairt lá
+                    áirithe chum fir mhuinnteardha dhó bhí 'na chomhnaidhe le hais Eóchaill, cois na
+                    hAbhann Móire. Lem' ordughadh- sa, leis, an lá céadna tháinig gasradh ó
+                    Chorcaigh lán- ullamh chum beirthe air. Do tháinig sé is gan acht duine amháin
+                    'na theannta, agus 'nuair fuair sé ró-dhéidheanach gur mealladh é, do sheas sé
+                    go dána i gcoinnibh an námhad. Do bhíos-sa féin le cois an tsluaigh. Do las mo
+                    chuid fola chum gníomha do dhéanamh. Ní raibh uaim acht an Gearaltach do
+                    bhualadh ar lár. Is lán-thapa do chuadhas fá n-a dhéin, is cruinn díreach
+                    d'aimsigheas é le buille marbhthach, is do threasgair an dheas-lámh so árd-
+                    taoiseach na nGearaltach.”</p>
+                <p>“Tugais do ghuais is do dhearg-éitheach, a fhollaire áir, ná marbhóchadh cat,” ar
+                    fear do bhí ag éisteacht leis an óráid seo. “Níor bhuailis buille acht teicheadh
+                    leat féin is dul i bhfolach chomh mear is b'fhéidir leat é, 'nuair do bhí an
+                    Gearaltach go lán-acfainneach ag <pb n="53"/> treasgairt námhad ar gach taobh
+                    de. Bhíos-sa féin ann. Is mise an díthreabhach diadha úd agus is mise do bhí le
+                    cois an Ghearaltaigh an lá úd. Acht, a ropaire na cnáibe, do mheallais sinn ar
+                    aon, is muna mbeith gur theichis leat féin ní bheith neart do ghníomhradh
+                    mhaoidheamh anois ionnat.” Leis sin do thug sé fobha fá Éamonn le lán-dásacht
+                    mar a thabharfadh duine ar ghealtaigh, is muna mbeith gur chuir Domhnall cosg ar
+                    an mbuille do threasgarfaidhe an t-óglách go talamh. Acht níor thaise do Tomás;
+                    do thug sé iarracht fá Dhomhnall féin. Do rugadar ar a chéile go cíocrach is do
+                    luigheadar ar stracadh a chéile le fraoch is feirg nimhe, is Éamonn ag féachaint
+                    ortha go sultmhar. Níor bh'fhuirisde Tomás do leagadh; bhí sé láidir, luath,
+                    agus ar buile chum sásaimh do bhaint d'Éamonn is dá fhear chosnamha; acht ní
+                    raibh caoi aige dul ó Dhomhnall, is treasgaradh chum talmhan fá dheireadh é. </p>
+                <p>Chomh luath is thuit Tomás do phreab Éamonn is do sáthaigh sé bior tré lár a
+                    chroidhe. Bhí a chuid fola ag spréachadh ar fuaid an úrláir is ar éadaigh an
+                    athaigh. Ba ghránna, uathbhásach é féachaint an athaigh, a chuid bal- caisí
+                    chomh dubh le gual ar sileadh leis, is an fhuil chródhearg 'na linntreachaibh ar
+                    fad air. D'iompuigh an t-athach láithreach ar Éamonn, is dubhairt, “Caidé an
+                    chúis gur mharbhais an fear soin is nár fhágais fúm-sa é?” “An cladhaire
+                    bréagach,” ar Éamonn, “is maith do thuill sé bheith treasgartha lem láimh-se. Is
+                    iomdha bréag do chuir sé orm.” “Do chuir, dar ndóigh,” ar Domhnall, ag cur gáire
+                    doíghte as. “Ní'l acht ar thuill sé faghálta aige, acht cá bhfuil an tIarla mar
+                    so?” “Muna bhfuil sé loisgthe 'san choill, tá sé fá chomairce tighe áirithe, áit
+                    ionar dhóbair damh-sa tamall ó shin cladhaire fleasgaighe do baint dá threóir.
+                    Acht <pb n="54"/> do-bhéarad iarracht faoi arís, is bíodh geall ná héalóch- aidh
+                    sé uaim chomh réidh sin.” </p>
+                <p>Cia'ca 'r thuig Domhnall nó nar thuig gur do Chormac do thagair sé, ba mhian leis
+                    Éamonn do bhréagadh chum na hoibre do bhí ceapuighthe aige do thabhairt chum
+                    cinn. Ar an ádhbhar soin do rinne sé muinnteardhas leis, is do cheapadar ar aon
+                    cionnus do gheobhaidís an tIarla muna raibh sé loisgthe cheana 'san choill.</p>
+            </div>
+            <div type="chapter">
+                <pb n="55"/>
+                <head> AN tOCHTMHADH hALT</head>
+                <head>AN tIARLA.</head>
+                <p>D'fhágamar Cormac ar a leabaidh go tréith le fiabh- ras. Do rinneadar muinntear
+                    an tighe gach ar bh'fhéidir leó chum a leighiste is a thabhartha chum cinn, Do
+                    bhí eagcruas trom air, do ghoill fliuchán is trosgadh an lae úd air, is go
+                    mór-mhór an t-anaithe do cuireadh air i lár na hoidhche amhail adubhramar cé gur
+                    imthigh cuimhne an ghníomha soin ar fad as a mheabhair. Ar feadh roinnt laethe
+                    do bhí spiriodaidhe air, is bhí sé do ghnáth ag unfairt 'san leabaidh. Bhí a
+                    chomhrádh do ghréis ar chúis a thíre, ar fheall na n-eachtrann, is ar mhilleadh
+                    na Mumhan. Do labhair sé go minic ar an Iarla is ar na Gearaltachaibh i
+                    gcoitcheann. D'éisteadar muinntear an tighe go haireach le gach ar chuir sé mar
+                    sin tré chéile 'na mhearbhall, is b'fhollas dóibh go raibh sé go sealbhuighthe
+                    ar thaobh na nGearaltach. Ba mhinic do rith a aigneadh ar a athair is ar a
+                    mháthair, is ar bhreághthacht na háite i n-ar chaith sé bliadhanta na hóige, is
+                    maidean áirighthe tar éis oidhche trioblóidighe d'aithris sé d'fhear an tighe an
+                    aisling seo: -</p>
+                <p>AISLING CHORMAIC UÍ CHONAILL.</p>
+                <p>RADHARC AR CHILL ÁIRNE.</p>
+                <!-- Line groups not encoded in Level 0 -->
+                <l>Do shuidheas ar shliabh, fó ghrian ro-ghléineach,</l>
+                <l>Bhí lóithne giar aniar ag séideadh,</l>
+                <l>An fraoch bhí úr ó dhrúcht na spéire,</l>
+                <l>Do líon go dlúth gach cuas dá bhraonaibh;</l>
+                <pb n="56"/>
+                <l>I gcian im' chluais bhí fuaim gan faoiseamh;</l>
+                <l>Ó sgata uan go buan ag béicigh,</l>
+                <l>Ó shluaightibh bán-mhionnán ag pléireacht</l>
+                <l>Ar feadh mo radhairc i n-adharc a chéile;</l>
+                <l>Bhí glór ba bhinn lem' chroidhe ag éanaibh,</l>
+                <l>Do bhainfeadh a sgíos do'n inntinn chéasda.</l>
+                <l>Guth na bfiadh go dian ag léir-sgread,</l>
+                <l>Is céad macalla dá bhfreagairt gan aon tsost.</l>
+                <l>Do chuala i n'fhochair sin fothram céad sruth</l>
+                <l>Gá stealladh go tuínn tar dhruim gach sléibhe,</l>
+                <l>Go neartmhar phreab gach eas i n-éinfheacht,</l>
+                <l>Ag sgaipeadh fras i bhfad 's ag spréachadh;</l>
+                <l>Chím im' thimcheall míle maol-chnoc,</l>
+                <l>Ag sáthadh a gceann go teann 'san spéir ghlain;</l>
+                <l>I gcian uaim thíos bhí coillte aerigh,</l>
+                <l>Stothadh ar a gcinn síorraidhe le gaothaibh;</l>
+                <l>A gcroinn 's a gcochaill ag cogar le chéile,</l>
+                <l>A nduilleabhar borb gan fochall i n-aonchor.</l>
+                <l>Do leath mo shúil anonn tar Léan-loch</l>
+                <l>Do bhí neamh-chiúin i gclúid an tsléibhe,</l>
+                <l>A thonna ar mire go crithneach ag taosgadh,</l>
+                <l>Mar a bheith coire ar theinidh ag sgéitheadh amach,</l>
+                <l>Ag fiuchadh 's ag bruighin ag rinnceadh is léimrigh</l>
+                <l>Ar bhruach gach inse míne géar-ghlais'.</l>
+                <l>Do luigh 'na bhrollach neamh-shocair go néamhrach,</l>
+                <l>Mar chodlóchadh leinbh go miochair fó éadach;</l>
+                <l>Ba mhinic na ndáil tig sgáil na néalta,</l>
+                <l>Ag fás 's ag feachadh 's ag sgaipeadh gan traochadh.</l>
+                <l>Ba gheal le solas an mothar ar thaobh</l>
+                <l>Thuirc Ar chaisleán Rosa bhí lonnradh na gréine,</l>
+                <l>Do las an talamh le taitneamh gan éislinn;</l>
+                <l>Ní raibh ceó ná brón ar aon rud,</l>
+                <l>Ó Mhuc-ros úr go Com na gcraobh gcas.</l>
+                <pb n="57"/>
+                <l>Do gheit do rith an chith ó néalaibh,</l>
+                <l>Bhí fothram tóirneach foirneart éachtach,</l>
+                <l>Do chrith an talamh, do lasadar spéartha,</l>
+                <l>Do rith an lasair thré shleasabh na sléibhte,</l>
+                <l>Do thuit an fhearthainn 'na freasaibh ar Léan-loch,</l>
+                <l>Do luigheadar sgamaill 'na srathaibh ar thaobh Tuirc,</l>
+                <l>Do cheil i bpian an ghrian a héadan,</l>
+                <l>Bhí coimheasgar catha le hanaithe ag éanaibh,</l>
+                <l>Do leath an ceó dubhrónach daol-dubh</l>
+                <l>Ar tuinn ar talamh 's ar leacain na maol-chnoc.</l>
+                <l>Do bhíodhgas suas óm' shuan gan faoiseamh</l>
+                <l>Le doilbh-chroidhe brúighte, múchta i ndéaraibh;</l>
+                <l>A bhfeaca im' shuan ba thuar ar Éirinn</l>
+                <l>Is ar a milleadh 'sa sgriosadh le faolchoin.</l>
+                <p>Tar éis coicthighise tháinig sé chuige féin, is ar dul i bhfeabhas dó tháinig
+                    cainnt is greann chuige. Bhíodh muinntear an tighe ag aithris dó éachta an
+                    chogaidh, is an t-éirleach do rinneadh le neart faobhair is teineadh ar
+                    thighthibh is ar ghortaibh arbhair. D'éist sé go fonnmhar leis na sgéalaibh sin.
+                    Ar dtúis d'fhair sé air féin, thug sé iarracht ar bheith deiscréideach ar eagla
+                    go ndéar- fadh sé aon ní do sgéithfeadh air, mar ní fheadair sé fós go cinnte
+                    ciaca taobh lér bhain muinntear an tighe sin. Acht nuair aithristí dhó bruighne,
+                    coimheasgair, tóir, réabadh, briseadh, gníomhartha faobhair is feill, do thagadh
+                    baill-chrith neamh chuibheasach air, i gcás gur dhóigh leat go raibh sé i lár an
+                    chogaidh is muinntear na Bain- ríoghna 'na dtreasaibh ós a chomhair i ngiorracht
+                    iar- rachta dhó. Tar éis foillsighthe mar sin dó an taoibhe do thógfadh sé 'san
+                    gcogadh ní raibh amhras feasda ag <pb n="58"/> muinntir an tighe air, is
+                    cheapadar ó shoin amach gan sgáth a bheith roimhe aca, acht fá mar a bhaineadh
+                    sé le n-a gcomplacht féin. </p>
+                <p>Do stiúruigheadh isteach 'na 'sheomra, lá, fear aosda, duine muinnteardha d'fhear
+                    an tighe adubhradh leis, lér bh'áil é d'fheicsint is caidreamh do bheith aige
+                    air. Do sheas sé go hárd. Níor mhórán do lúb na bliadhan- ta é; bhí a chuid
+                    féasóige liath go leór, is bathas a chinn nochtuighthe ar fad. Bhí ughdarthás is
+                    mandacht 'na ghnúis. Níor bhain aois ná buaidhirt ná anró a lán- sholas lonnrach
+                    dá ríogh-rosgaibh. Do lasadar tré ghruadhnaibh fuirighthe, feóidhte, liath, mar
+                    réilteanna tré sgamallaibh na hoidhche. Bhí a chuid éadaigh go neamh-fhuinte,
+                    neamh-fháisgighthe air; is ní raibh comhartha lasmuigh ar a mbrathfaidhe go
+                    raibh caidreamh aige ar threasaibh na n-arm. Ba bhlasda, binn, milis-bhriathrach
+                    a úrlabhra.</p>
+                <p>Do bheannuigh sé go céileamhail do'n óglách; do shuidh go muinnteardha le n-a
+                    ais, is do luigh sé ar sheanchaidh- eacht leis go lán-chneasda. Ar dtúis do
+                    thrácht sé ar an dtir i gcoitcheann, is 'na dhiaidh sin do tharraing- eadar
+                    chuca dála an chogaidh. D'innis an seanduine sgéal an choimheasgair do bhí go
+                    déidheanach ann leis an oiread soin feidhme gur las súile an ógánaigh le
+                    díoghrais, is go ndubhairt: “Agus an bhfeacais féin na bearta soin?” “Do
+                    chonnac, go deimhin,” ar an seanduine. “Agus cionnus d'fhéadfá iad d'fheicsint
+                    gan bheith i dtreasaibh na n-arm tú féin?” “Acht bhíos féin ann.” “Ní dóigh go
+                    raibh fear chomh haosda leat- sa i ndálaibh bruighne.” “Is iomdha bliadhain
+                    damh-sa anois ag deargadh mo lámh i mbruighin.”</p>
+                <p>Do rinne dian-mhachtnamh chomh géar-chúiseach soin Cormac ná raibh a thuilleadh
+                    uaidh agus is tapa d'fhios- <pb n="59"/> ruigh: “An tu Iarla na Deas-mhumhan?”
+                    Gan moill d'fhreagair an seanduine, “Is mé an tIarla.” </p>
+                <p>Ba dheacair le foillsiughadh na smuainte do rith tré mheabhair an óglaigh ar
+                    chloisint an t-admhughadh soin dó. Do bhí anois ós a chomhair an té le n-a raibh
+                    súil aige chum ceasnaimh a dhúthchais do réidhteach. Do bhí os a chomhair polla
+                    do'n phríomh-fhuil ó'n nGréig, fear calma cródha, fear do rug ar a chuid airm go
+                    neartmhar fad do bhí na bliadhanta ag fuaradh a chuid fola, is do sheas i
+                    n-aghaidh a námhad i gach muing is sliabh i g-Cúigeadh Mumhan, fear do lean do'n
+                    chogadh tar éis chealgtha a bhráthar is a mhil- leadh le beartaibh feill, fear
+                    nár chlódhadh riamh fós is b'fhéidir ná clódhfaidhe. Is fuar neamh-bhríoghmhar
+                    shamhluigheann na focail seo anois dá sgríobhadh. Acht caidé mar ar theitheadar
+                    na smuainte chialluigheann siad croidhe Chormaic an uair sin. Ba uair bhuaidhe é
+                    - uair bhuaidhe i measg buaidheartha dá mbeith fios aige - acht uair bhuaidhe
+                    mar an gcéadna. An grádh tíre is creid- imh do rinne teampall dó féin ins an
+                    gcorp chríonna chaithte onórach úd, b'fhéidir go gcuirfidhe fá chois é ar feadh
+                    tamaill, acht ní fuláir dó éirghe.</p>
+                <p>Is deimhin nár aithin Cormac an tan soin an treó bhí ar an tsean-ghaisgidheach
+                    soin, acht thuig sé mar thuigfeadh fáidh cúis na tíre ar fad. Mar caidé an
+                    bhrígh saoghal nó dhó i mbeathaidh tíre? Gheóbhaidh an curadh soin bás agus
+                    curadh eile 'na dhiaidh, acht luath nó mall éireó- chaid meanma na ndaoine chum
+                    neamh-spleádhachais is chum saoirse. D'aithriseadh do Chormac go minic cheana
+                    conntabhairt is cródhacht an Iarla agus an rath do lean é i gcoimheasgair; acht
+                    anois ba mhian leis tuilleadh eólais d'fhagháil ó n-a bhéal féin; is dá réir sin
+                    d'fhiaf- ruigh de go cneasda caidé an sgéal ag a bhuidhin é? An rabhadar
+                    cruinnighthe le chéile aige? An raibh an <pb n="60"/> námhaid i ngiorracht dó?
+                    An raibh coinne aige le cong- namh ó'n Spáinn? ar dhóigh leis go mbuaidhfeadh sé
+                    fa dheireadh? Do chuir sé na ceisteanna so leis an oiread soin dúthrachta go
+                    raibh iongnadh ar an Iarla Ar dtúis thug sé iarracht ar dhul uatha, is do
+                    labhair ar an mbruighin i gcoitcheann, acht níor shásuigh sin an t-óglách. Do
+                    theasduigh uaidh eólas cinnte d'fhagháil ar an dtreó 'na raibh a chuid airm is
+                    gárda. Do b'áil leis fios do bheith aige an raibh aon súil ag an sean- duine go
+                    saorfaidhe Éire ó dhubh-smacht na n-eachtrann. Do ghéill fá dheireadh dá
+                    athchuirt an seanóir is dubhairt: </p>
+                <p>“Ma chaithfear an fhírinne do rádh admhuighim go bhfuil ar gcúis caillte is go
+                    bhfuil ar dtír ag dul fá smacht is an-bhruid níos déine, níos géire, ná raibh
+                    riamh i nImpireacht na Rómha. Atá éadáil mór tarraingthe ar mo cheann-sa. Do
+                    thréig mo bhuidhean mé acht uathadh beag gan bhrígh. Ní fada uaim-se an uaigh is
+                    ní'l aon'ne dom' chinéal ullamh chum m'ionad do thógbháil. Ní bhrathaim go
+                    bhfuil aon chongnamh le faghbháil tar lear. Tá an Deas-mhumha go léir creachta
+                    millte. Ní'l fear as fiche ná fuil curtha chum báis le gorta nó le faobhar, is
+                    ní'l brígh ná meanma 'n-a bhfuil beó aca. Ní árd-taoiseach sluaigh mise feasda
+                    acht méirleach i n-aghaidh Bhainríoghna na Sagsan. Seanduine is eadh mé gan
+                    sluagh, gan buidhin, gan muinntir, gan caisleán, gan tigh, gan treabh. Ní'l agam
+                    chum mé do chosnamh ó náimh- dibh acht Dia amháin,agus an lámh dheas chríonda
+                    fuirighthe fann so. Acht in gach cruadhtain i n-a bhfuilim is é neartuigh- eann
+                    m'aigneadh go ndearnas mo dhícheall. Bhuaileas buille do chúis Dé is mo thíre
+                    fad do bhí lúth im' bhal- laibh. Do rinneas ar fhéadas chum síothcána do
+                    chongbháil acht ní síth do bhí ó na Sagsanaibh. Ba mhian leó mo chuid talmhan is
+                    mo chaisleáin do bhradughadh, is níor <pb n="61"/> bh'fhulair dom dul 'n-a
+                    n-aghaidh, is dá chríondacht mé tar éis glacadh claidhimh dam níor sguir sé
+                    riamh lem' ghlaic is ní sgarfaidh fad a bheidh neart im' ghéagaibh.” </p>
+                <p>Amhail adubhramar bhí inntleacht géarchúiseach ag Cormac. Do thuig sé cúis le
+                    mire fáidhe. Is deimhin go raibh buaidhirt air i dtaobh an treó bhí ar an Iarla,
+                    acht ag éisteacht dó leis an sgéal dona deacrach úd ó bhéal an té ar ar luigh an
+                    toirmeasg go daingean, do samhaluigheadh dó go raibh alt do sheanchus a thíre ag
+                    críochnughadh i ndonas is i ndorchadas. B'áil leis machtnamh ar an
+                    chríochnughadh mhí-ádhbhrach soin, b'áil leis machtnamh ar an seanóir onórach
+                    soin os a chomhair ag teicheadh mar mhac tíre na coille ó n-a námhaid, is tré
+                    gach cruadhtan is anacra ag seasamh go dána d'fhírinne agus do shaoirse.</p>
+                <p>Ag machtnamh mar sin dó - ní raibh ann acht obair nóimeint - do tháinig tocht
+                    cathuighthe ar a chroidhe, is tím-chrith neamh-ghnáthach 'na bhallaibh i gcuma
+                    nár fhéad sé labhairt ar feadh tamaill. Is maith do thuig an tIarla cad do bhí
+                    'n-a aigneadh, agus is fonnmhar do rinne sé ar bh'fhéidir chum a thabhartha
+                    chuige féin. 'Nuair do bhí a thocht curtha de ag an óglách, dubhairt an tIarla:
+                    “Caithfead-sa an áit seo d'fhágáil tar éis tuitme na hoidhche. Tá buidhean do
+                    mhuinntir na Bainríoghna ar mo lorg. Is dóigh liom go gcuardóchaid an teach so.
+                    Ní fuláir dom imtheacht. Tá roinnt fear liom i bhfad as so. Raghad ag triall
+                    ortha, is leanfad a gcomhairle. Beannacht leat, a pholla do'n fhíor-fhuil.”</p>
+                <p>Agá rádh soin dó bhí sé ar tí é phógadh, gur léim Cormac go luath-thapa is i
+                    n-ionad léigin dó é do phógadh do chaith sé é féin ar an dtalamh ag a chosaibh
+                    is d'ath- chuir air le tuilltibh deór nguirt é féin do thógáil i n-éinfheacht
+                    leis. “Táim láidir neartmhar anois,” ar sé, <pb n="62"/> “cabhróchad leat ag dul
+                    trasna na sléibhte. Fanfad id' fhochair, fairfead id' fhochair, fulaingeóchad
+                    id' fhochair, éagfad id' fhochair.” </p>
+                <p>Do labhair sé na focail seo chomh dian, chomh dúthrach- tach soin ná fuair an
+                    tIarla ann féin é d'eiteach. Socruigheadh eatortha ar an láthair sin go
+                    ngluaisfidís ar aon chum siubhail i dtosach na hoidhche trasna na sléibhte chum
+                    muinntire an Iarla.</p>
+            </div>
+            <div type="chapter">
+                <pb n="63"/>
+                <head> AN NAOMHADH hALT.</head>
+                <head>PRIOMH-IONAD COMHNAIDHTHE AN ÁRD-THAOISIGH.</head>
+                <p>Do thuit an oidhche, is, amhail a socruigheadh eatortha, do ghluais an bheirt
+                    chum siubhail, Ba neamh-chosmhail iad i n-aois, acht ba chosmhail i gcródhacht
+                    is i meanmain. Do bhí a slighe tré réidh sléibhe do bhí fliuch is garb fá n-a
+                    gcosaibh is ar feadh leacan chnuic is síos isteach i ngleann fhada, chaol, lán
+                    do charraigeachaibh. Cé go raibh an oidhche dorcha go leór is an tslighe
+                    deacair, b' éasgadh, lúthmhar é an seanduine ag gabháil tré imeallaibh corrach
+                    tré fraoch is fionnán is ag rith le fánaidh go lán-tapa. 'Nuair a sroicheadar an
+                    gleann do chonnaic Cormac léas beag solais tamall maith uatha. Bhí sgleóndar air
+                    ag taisbeánadh an solais sin do'n Iarla, agus dubhairt seisean, “Tá go maith -
+                    sin iad mo champánaigh-se. Tá siad leathta le fuacht ag feitheamh liom ar feadh
+                    na hoidhche.” Do chuaidh na focail sin tré chroidhe Chormaic mar do rachadh bior
+                    ghaoithe. “Mo champánaigh, gó bhfóiridh Dia orainn! an bhfuil acht soin? Ní
+                    sluagh, ní buidhean, ní gasradh atá romhainn acht campánaigh.” Do chnead sé le
+                    buaidheart, is d'éirigh osna i ndiaidh chum a bhéil, acht ar eagla go dtiubhradh
+                    an tIarla fá deara go raibh sé dubh-bhrónach do choisg sé dá chumha, is dubhairt
+                    go raibh áthas air go rabhadar chomh athchumair dóibh.</p>
+                <p>Taréis dul tamall níos sia dhóibh do léig an tIarla fead as. Do freagradh é, is
+                    ba ghearr go dtáinig beirt fhear 'na gcoinnibh. Do phógadar a lámha go
+                    urraimeamhail, is do chuireadar fáilte roimhe go ró- <pb n="64"/> chneasda. “Seo
+                    óig-fhear, cara damh-sa,” ar an tIarla, “do tháinig im' fhochair chum a chion
+                    dom' ádh nó dom' mhí- ádh do ghlacadh.” Ba ghairid uatha anois príomh-ionad
+                    comhnaiththe an árd-taoisigh. Ar mheas óglaigh árd-aimnigh mar Chormac ba
+                    shuarach an rud é. Bhí cábán mór leathta fá thaoibh árd-chairrige, is fá na
+                    chomairce sin do bhí fiche fear 'na suidhe ag comhrádh eatortha féin go
+                    sultmhar. Bhí áit fá leith 'san chábán mar a raibh an tIarla le codladh, is
+                    anois b'éigin dóibh a shamhail a dhéanamh don óglách, agus is fonnmhar tapa do
+                    thugadar fé is ba gheárr an mhaill ortha é do chríochnughadh is do
+                    shlachtughadh. </p>
+                <p>Taréis a chuid chomhráidh le Cormac do tháinig árd- mheanma i sean-chroidhe dhúr
+                    an Iarla. Ba gheall le hóglách é féin an oidhche sin. Níor fhan gruaim ná
+                    duairceas na haoise ann. Do sgaip an dubhcheó ó n-a chroidhe is bhí a ghnúis dá
+                    chrion-feóighte é ag léir-thaith- neamh le sult is le lán-sgléip. Do bheannuigh
+                    sé do gach n-aon dá champánachaibh fá leith. Is b'árd é guth an tsluaigh sin ag
+                    fáiltiughadh roimhe. Do bhí ar fad 'san ghasradh soin ceathrar is fiche. Do
+                    bhíodar ar feadh an lae soin go dícheallach ag soláthar bó is neithe eile bhí
+                    riachtanach dóibh agus ag dian-fhaire ar an námhaid 'na theannta soin. Acht
+                    anois fá chomairce dhubh- sgamaill na hoidhche do bhíodar go neamh-eaglach ag
+                    caitheamh aimsire dóibh fein is ag léigean a sgís díobh. Do bhíodar go léir nach
+                    mór i mbláth ná hóige. Do bhi taithighe ar anró is ar sgíos aca. Do bhíodar
+                    tuitighthe ar fad as muingín, agus - mar a ndeinid a leithéidí riamh - do
+                    bhíodar ag iarraidh a n-anacradh do cheilt fá shult ghlórach.</p>
+                <p>An oidhche seo bhí meidhir neamh-chuibheasach ortha, mar do roinn an tIarla
+                    ádhbhar leanna eatortha. Do shéid <pb n="65"/> an leann fútha, do las sé na
+                    féitheacha aca, is do sgaip sé an ghruaim as a gcroidhthibh le na lán-thuile. Dá
+                    réir sin d'fhanadar 'na suidhe go cionn tamaill mhaith do'n oidhche. Bhíodar
+                    cainnteach is meidhireach is bh'iomdha sgéal ghrinn d'aithriseadh eatortha. Ba
+                    bheag an taithighe do bhí ag Cormac ar an leitéid sin do chuideacht, is ar dtúis
+                    do thug sé fá deara go haireach gach a ndearna siad, is ní gan fuath 'na
+                    chroidhe dhóibh. Acht i gcionn tamaill do bhí sé ag teitheadh leó, cé nach mór
+                    do labhair sé. Bhí amhráin bruighin is grádh ag dul tim- cheall is 'nuair do
+                    glaodhadh ar Chormac ba mhall aimh- leisgeamhail é chum freagartha. Fá
+                    dheireadh, taréis moráin tathaint ó'n Iarla, dubhairt sé go raibh dán beag aige
+                    do mhúsgail sé féin, is gur chóir dóibh a leath- sgéal a ghabháil dá thaobh óir
+                    do bhí árd-mhuingín aige go saorfaidhe a thír 'nuair a cumadh an dán so. Tas-
+                    éis an méid sin a rádh 'na leath-sgéal do chan sé mar leanas: - </p>
+                <p>ÉIRE</p>
+                <!-- Line groups not encoded in level 0 -->
+                <l>'Éire, a shearc-bhuime, a bhanaltra shéim,</l>
+                <l>Inis na ngeal-chnoc, na nglaisidhe, 's na gcraobh,</l>
+                <l>Do bhasgadh 'seadh d'aibig gach peannaid im' thaobh;</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</l>
+                <l>'Éire, do ghéimhleachaibh céasda ag fuasgailt,</l>
+                <l>'Éire, na leasg, na tamáilte ag músgailt,</l>
+                <l>Do'n deóraidhe dubhach, doilbheach, do dhoras ag osgailt;</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</l>
+                <l>'Éire, ó Ghallaibh fuair basgadh 'gus milleadh,</l>
+                <l>'San braon brónach, bog, riamh led' rosgaibh ag sileadh,</l>
+                <l>Do chuid cumhachta imthighthe gan tuairisg, gan filleadh;</l>
+                <l>'Éire, 'sé do ghear-ghoin do chéas mo chroidhe.</l>
+                <pb n="66"/>
+                <l>'Éire, ní cuimhin leat-sa síothcáin do bhlaiseadh,</l>
+                <l>Is fada fá thár-bhruid, is fánach fá mhaise,</l>
+                <l>Le sealad ag léir-ghol, gan faoiseamh, gan taise;</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</l>
+                <l>Ba mhinic do shléibhte le caor-theinidh ar lasadh,</l>
+                <l>Ba mhinic do leómhain i ndeóraidheacht gan chasadh,</l>
+                <l>Ba mhinic do bhuailis go huaigneach do bhasa;</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</l>
+                <l>'Éire, do shaoirse is d'fhírinne sheasaibh,</l>
+                <l>Led' shluagh láidir chalma neartmhar i dtreasaibh,</l>
+                <l>Gan eagla roimh námhaid is gan beann ar a gcleasaibh;</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</l>
+                <l>Ba mhinic í d'fhíor-fhuil 'na caoin-sruith dá dortadh,</l>
+                <l>Ba mhinic go tláth thú le gábhtar is gorta,</l>
+                <l>Cathughadh id' cheóltaibh, ir bróndubh id' phortaibh;</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</l>
+                <l>'Éire, is tú d'fhulaing an milleadh ro-shearbh,</l>
+                <l>Is leat-sa do castaoi an t-asmhuchán garbh,</l>
+                <l>Is an t-éitheach do sgeitheadh ar do bheó is ar do mharbh;</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhé!</l>
+                <l>'Éire, is mithid duit misneach do ghlacadh,</l>
+                <l>Tá do sgamaill ag sgapaidh, do shamhradh ag breacadh,</l>
+                <l>Ná mothuigheann tú an léir-theas taréis éirlaighe an tseaca?</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</l>
+                <l>Tá bláth ar gach craobh úir, tá sgéimh ar an dtalamh,</l>
+                <l>Tá ceól agus aoibhneas i gcoilltibh bhí balbh;</l>
+                <l>Go deó, deó arís, ní bheir íseal ná dealbh;</l>
+                <l>'Éire, sé do ghéar-ghoin do chéas mo chroidhe,</l>
+                <p>
+                    <pb n="67"/> Ba thréan glan an guth do bhí ag Cormac i nós go n-aireochaidhe
+                    gach sioladh dár chan go cruinn ar fuaid an chábáin, is síos go bun an ghleanna
+                    uaignigh úd. Tháinig lán-iongnadh ar na fearaibh. Bhí deireadh le n-a gchuid
+                    racaireachta an oidhche sin, is do thuit ciúin- eas doilghíosach dubh-bhrónach
+                    ortha go léir. Do lean freangaidhe an ghotha uaignigh sin iad, is chuir dá
+                    n-aimh- dheóin ag dían-machtnamh iad ar an tuirse bhí rómpa. </p>
+            </div>
+            <div type="chapter">
+                <pb n="68"/>
+                <head> AN DEACHMHADH hALT.</head>
+                <head>I dTREASAIBH NA nARM.</head>
+                <p>I lár an tsos bhrónaigh úd do sgread go dian dána an aon fhear amháin faire do
+                    bhí leasmuigh. Cad do bhí air? Bhí buidhean armtha ag teacht go lán-thapa fá n-a
+                    ndéin! Bhí an ghealach 'na suidhe i dtreó ná féadfadh aon dearmad a bheith air.
+                    Láithreach bhí muinntear an Iarla go léir ar a mbunaibh, is le mire splainnc do
+                    luigheadar ar an cábán do leagadh ar fad is do sgaipeadh ó chéile, is na
+                    hearraidhe go léir a cheart- ughadh. I gcionn tamaill bhig ní raibh aon chábán
+                    le feicsint; leapacha, suidheacháin, áthraigh, cuireadh iad go léir i
+                    leath-taoibh, is 'na n-ionad bhí arm faobhair. Ba léir dóibh anois ná raibh 'san
+                    mbuidhin sin acht tim- cheall caogad fear. Ba mhinic ag sleamhanughadh idir na
+                    clocha iad, acht 'na dhiaidh sin bhíodar ag cur díobh gan ró-mhaill.</p>
+                <p>Ní ortha féin do bhí na fir ag cuimhne, acht ar an Iarla is ar an óglách. Ba
+                    bhreágh an rud le Cormac bás d'fagháil i dtreasaibh na n-arm ag breacadh fód a
+                    thíre le na chuid fola, acht anois b'éigin dó dul i bhfolach i bhfochair an
+                    Iarla i gcumar do bhí ag dul isteach fá'n gcarraig, fad do bhí an námhaid 'na
+                    dtimcheall. Dá aimhdheóin bhais do cuireadh d'fhiacaibh ar an Iarla dul i
+                    bhfolach; b'fhearr leis go mór seasamh go dána i n-aghaidh an námhad, acht
+                    dubhairt a champánaigh leis gur shuarach an ghlóir do bhí le fagháil ag seanóir
+                    ó bhás ar thaobh chnuich i meadhón oidhche i measg uathadh beag fear. Do
+                    chuireadar muinntear an Iarla i dtreó cosanta <pb n="69"/> iad féin, is ba
+                    shocair dána a seasamh ag feitheamh leis an námhaid. </p>
+                <p>Dála mhuinntire na Bainríoghna, is é do cheapadar teacht i gan-fhios ar an
+                    mbuidhin eile, is dá bhrígh sin is beag an t-áthas do bhí ortha 'nuair a
+                    chonnacadar iad ullamh gléasda chum comhraic; acht anois ní raibh leigheas air,
+                    caithfid dul 'na n-aghaidh. Is deimhin gur bh'fhusa ádhbhar fear 'na gcodladh
+                    gan sgáth, gan cosaint, do chlaoidheadh i lár na hoidhche, ná dul chum
+                    coimheasgair le buidhin aibidh, clisde, armtha, lán do mheanmain; acht bhí sé
+                    anois ró-dhéidheanach dóibh teicheamh. 'Nuair a bhíodar i ngearracht lámhaighe
+                    dá chéile chuir muinntear an Iarla maidhm do mhuscaitíbh 'na measg, do rinne
+                    manntach a dtreasa, acht do luigheadar ortha - an méid nár thuit diobh - go dána
+                    neamh-eaglach, agus is gearr go raibh an dá bhuidhin go daingean i n-achrann 'na
+                    chéile. Do líon fuaim a bhfuirse, a ngreadadh, a gcartadh is a sgreadaigh an
+                    gleann; d'aith-fhreagradar na cnuic i gach taobh i dtreó gur dhóigh leat go
+                    raibh mór-chogadh ar siubhal idir na sléibhte. Is ró-shoilléir d'airighead
+                    fothram an chogaidh 'san uaimh ina raibh an bheirt, is ní raibh Cormac sásda 'na
+                    aigneadh gan bheith i measg na gcuradh, is 'nuair bhí na turraingidhe ag dul i
+                    dtréine is na geóinte ag dul i n-aoirde bhí briseadh ar an bhfoidhne aige, is do
+                    sgíord amach fá'n ngleann. Do rug sé ar shleagh is do chaith sé é féin i measg
+                    na ngaisgidheach go lán-dásachtach is ní gan fuil do dhortadh é.</p>
+                <p>Is tapa do rinne sé amach óglách clúdaighthe le héadach pláta, ar nár dhóigh leat
+                    go raibh fonn comhraich, is do thug fogha dá sleagh fé. Do theip an céad urchar
+                    air. Do dhruid an fear eile leath taoibh is do rug ar an sleigh is do
+                    tharraingeadar ó chéile é go dian dásachtach. <pb n="70"/> Taréis tamaill níor
+                    thaitn an cleas soin leó is fá mar d'aontuighidís do raideadar araon uatha an
+                    shleagh is do ghreamadar a chéile i n-iomarsgáil chruaidh chas-ach- rannach.
+                    Taréis géar-chatha do síneadh Cormac ar an dtalamh le mór-thuairt, is 'nuair a
+                    bhí fear an éididh chum imshneamh do dhéanamh dá thurrainn do rug Cor- mac ar
+                    chois air, is do tharraing leis go talamh é. </p>
+                <p>Do bhíodar araon annsoin ar an dtalamh go daingean n-achrann 'na chéile mar dhá
+                    nathair nimhe, ag gearradh is ag stracadh a chéile, gan sost, gan suaimhneas,
+                    gan aoin'ne aca ag léigean do'n duine eile éirghe ná caoi éirghthe aige féin, ag
+                    féachaint ar a chéile le fuath is le dian-fheirg, ag unfairt is ag fuirseadh is
+                    ag fásgadh a chéile. Doirteadh fuil eatortha go lán-tiugh. Bíodar araon i
+                    léir-chrithibh báis le tachtadh is le múchadh is le géar-bhrughadh. Do
+                    snaidhmeadh Cormac cum talmhan le barróig fhir an éididh, is do snaidhmeadh
+                    eisean le barróig Chormaic gan caoi ar sgaoileadh ná ar bhfuas- gailt ag
+                    ceachtar díobh, go ráinig gur shatail fear do bhuidhin na Bainríoghna 'na
+                    dhlúth-choimheasgar le námhaid ar troigh fhir an éididh dá bhasgadh go daingean
+                    i dtreó gur b'éigin dó a ghreim a bhogadh. 'Nuair mhothuigh Cor- mac é féin
+                    sgaoilte do phreab sé ar a bhunaibh, do rug ar an shleigh do bhí ina aice ar an
+                    dtalamh is do dhian- sháthaigh an fear sínte tríd an muineál áit ná raibh díon
+                    an éididh aige. Níor chorruigh sé ó shoin amach.</p>
+                <p>Is beag ná raibh deireadh leis an mbruighin. Do claoidheadh muinntear na
+                    Bainríoghna, is ní morán díobh do chuaidh slán as an ngleó. Acht do rug an ceann
+                    urraid do bhí ortha a chnámha leis gan brughadh, gan basgadh. Fear mór groidhe
+                    do b'eadh é, agus is beag an tuirse bhí air ag cur an chnuic amach de taréis an
+                    iomaidh sin. Acht ní raibh fonn mór cogaidh air an <pb n="71"/> oidhche sin, óir
+                    ná feacaidh sé an tIarla i measg an námhad. Níor thuit acht cúigear ar fad do
+                    bhuidhin an Iarla. Ag gabháil timcheall do Chormac ag infhiúchadh na mharbh do
+                    baineadh geit as 'nuair tháinig sé chum an óglaigh do threasgair sé féin; mar
+                    cad a chífeadh sé fá'n éideadh acht corp Éamuinn! Go dtí an uair sin ní raibh
+                    aon fhios aige air fheall-bheartaibh Éamuinn. Ní raibh sé gan droch-amhras air
+                    le déidheanaighe, acht anois b'fhollas dó cad do bhí uaidh ó thúis. Cad iad na
+                    smaointe do rith i n-aigneadh Chormaic 'nuair do mhacht- naimh sé ar
+                    ghniomharthaibh an óglaigh úd, ar a ghliocais, ar a shleamhanacht, ar a urradhas
+                    aithiseach, ar a bhladair- eacht béil agus a chroidhe lán d'fheall. D'aithris sé
+                    do'n Iarla ciannos do theagmhuigheadar le chéile ar dtúis is ciannos do mealladh
+                    é féin leis. </p>
+                <p>Dála muinntire an Iarla do bheartuigheadar gur fáidh éigin Cormac do tháinig cum
+                    iad do shaoradh ó mhillead na nGall; mar b'ar a shon d'fhanadar suas chomh
+                    déidheanach an oidhche sin, fá mar a mbeith siad ag feitheamh de n-am ar an
+                    námhaid, agus nár mhairbh sé len' uillin féin an t-óglach úd an fheill. Do
+                    chuar- duigheadar balcasaidhe an óglaigh; is ó litreachaibh do fuaradar ionnta
+                    b'fhollas dóibh gurbh' cladhaire é, go raibh sé ag iarraidh ceann an Iarla
+                    d'fhagháil dó féin, is go raibh sé fá mhionna Cormac do mharbhadh, is gur bh'é
+                    Domhnall Dubh ceann urraid do bhí an oidhche sin ortha. Ní raibh aon trácht ar
+                    an gCaomhach, is cé gur mhór é a iontaoibh as, do chuir claon-bhearta na beirte
+                    eile droch-amhras in'aigne i dtaobh an Chaomhaigh. Bí eagla air go raibh seisean
+                    leis iompuighthe i gcoinnibh an Iarla.</p>
+            </div>
+            <div type="chapter">
+                <pb n="72"/>
+                <head> AN tAONMHADH hALT DÉAG.</head>
+                <head>AN GLEANN.</head>
+                <p>Do chuir an gradam do fuair sé i measg na bhfear so lán-áthas ar Chormac; acht ní
+                    gan brón do mhacht- naimh sé ar éachtaibh na hoidhche sin; ba léir anois dó go
+                    raibh nathar nimhe dá oileadh le fada aige 'na bhrollach is gur dhóbair dó
+                    bhéith cnaoidhte leis. An raibh na campánaigh do tháinig leis ó Chorcaigh go
+                    léir 'na gclaidhiridhe? Ba shearbh an rud leis fiú droch-amhras do bheith aige
+                    ortha. Acht níor bh'aon am machtnaimh é, is an oidhche geall le caithte.
+                    B'fhollas dóibh anois go bhfillfeadh an t-athach do bhí mar cheann ar an
+                    mbuidhin sin do ruaigeadh, le gasradh eile níos tréine is ná bheith neart aca
+                    iad féin a chosnamh ortha dá bhfanfaidís annsoin. Is í comhairle do cheapadar
+                    fanamhain mar a rabhadar go maidin is aistiriughadh lá'r na bhárach go gleann
+                    eile i gcéin. Dá bhrígh sin ar bhreacadh an lae do chuireadar beirt fhear rómpa
+                    chum ionad comhnuigh- the do shocrughadh dhóibh i gcomhair na hoidhche. D'fhil-
+                    leadar na fir tar n-ais, ag rádh ná raibh an námhaid le feicsint i n-aon bhall,
+                    go raibh bóthán beag déanta amach aca ina bhféadfadh an tIarla codladh, is gur
+                    chóir dóibh a n-aistir a dhéanamh i bhfíor-thosach na hoidhche.</p>
+                <p>Acht do faireadh an bheirt fhear so, is do cuireadh cúntas a dturais go dtí an
+                    athaigh. Do bhailigh Domhnall buidhean eile is do chuir sé féin is fear do
+                    mhuinntir Muircheartaigh a gcuid curadh le chéile. Bhí an Muir- cheartach ar
+                    lasadh chum díoghaltas a bhaint do'n Iarla ar mhasladh éigin a dubhradh gur
+                    chuir a mhuinntear sin <pb n="73"/> air. Do rinneadh dhá chuid do'n bhuidhin nua
+                    soin; do cuireadh roinnt aca chum faire, is d'orduigheadh do'n roinnt eile
+                    bheith ullamh chum siubhail go tapa i n-aghaidh an námhad. </p>
+                <p>Cé go raibh sé chomh mór aindeas soin, do toghadh an t-athach mar cheann ar an
+                    mbuidhin a bhí le faire, i ngeall ar an eólas a bhí aige ar na sléibhtibh is ar
+                    fheabhas a choisídheachta. Chuaidh an Muircheartach féin leis an chuid eile. Ar
+                    aistiriúghadh do mhuinntir an Iarla, um thráthnóna, do bhí an t-athach le n-a
+                    bhuidhin i bhfolach san bhfraoch ag tabhairt fá deara gach cor do chuireadar
+                    díobh. D'fhaireadar iad ag dul treasna na gcnoc ar thuitim na hoidhche is ag
+                    sleamhnughadh síos le fánaid gur cheil an mór-sgamall dorchadais do leath mór-
+                    dtimcheall ar fad iad. Acht ní raibh dearmad ortha i dtaoibh an tsligheadh do
+                    thógadar; bhí eólas cinnte ag Domhnall ar an ngleann ina bhfeacadar an bheirt
+                    fhear ar maidin. Is chomh luath is chonnaic sé an bhuidhean ag tabhairt a
+                    n-aghaidh ar an áit chéadna do cheap sé i n-a aigneadh an ball i n-ar
+                    dheallramhach go bhfanfaidis an oidhche sin; is 'nuair a bhíodar imthighthe as
+                    radharc do chuaidh sé le n-a bhuidhin fá dhéin muinntire an Muircheartaigh.</p>
+                <p>Ar chloisint an chúntais sin dóibh do tháinig lán-áthas 'na gcroidhe, agus is
+                    tapa d'ullmhuigheadar iad féin chum bheith i n-athchumaireact do'n ghleann soin
+                    ar theacht an lae. Bhí, go deimhin, cuid do'n bhuidhin sin is níor thaitn an
+                    obair a bhí rómpa leó, níor shanntuigheadar airgead na Bainríoghina, is níor
+                    mhian leó fuil an Iarla a dhortadh; acht b'éigin dóibh géilleadh do thoil a
+                    dtaoi- seach. Bhí tuilleadh aca ag brath ar airgead d'fhagháil, is ba chuma leó
+                    cia an nós, acht ní raibh 'san ghasradh soin aon fhear chomh sanntamhail chum
+                    airgid ná chomh <pb n="74"/> cíocrach chum fuil an Iarla do tharraing le
+                    Domhnall Dubh féin, ceann urraid na buidhne. Is fíor go dtug sé iarracht ar an
+                    bhfeall do bhí 'na chroidhe a cheilt; acht bhí an droch-fuadar do bhí fé
+                    ró-shoilléir, is níor bh'féidir sgáth a chur air. Bhí fuath ag a lán do'n
+                    bhuidhin dó, agus is mór gur bhfearr le cuid aca a sgórnach a ghearradh ná
+                    sgórnach an Iarla. </p>
+                <p>Dála mhuinntire an Iarla, is mall socair do ghluais- eadar le fánaidh, is cé go
+                    raibh dorchadas ró-mhór ann, níor theip ortha an cabán air ar cheapadar an
+                    bheirt ar maidin d'aimsiughadh. Cró follamh do b'eadh é, ceithre troighthe déag
+                    ar fhaid is deich troighthé ar leithead. Níor bh'fada ó cuireadh nuadh-dhíon
+                    air, is chuirtí caoirigh is gabhair ann i ngarbh-shíon. Níor shuarach an obair
+                    do na fearaibh slacht a chur ar do'n Iarla; acht is fonn- mhar do luigheadar ar
+                    an ngnó soin agus is gearr ná aithneochá an cabán soin do chóirigheadar chomh
+                    háluinn sin é. D'aduigheadh béithleach teineadh gan maill is d'ullmhuigheadh
+                    biadh. Do shuidh an tIarla chum bídh, lán do sgléip. Do sgéidh a chomhrádh uaidh
+                    'na tréan- thuile ag cur meanma is muinighín i gcroidhthibh na bhfear.</p>
+                <p>“Cad é an brígh mo bheatha-sa,” adeireadh sé, “táim- se anois ag druidim leis an
+                    uaigh; acht fanfaidh cúis mo chreidimh is mo thíre im' dhiaidh. Tógfar suas an
+                    chúis sin le daoinibh eile - daoine níos treise ná mise - Ná smuainigh, a mhic
+                    mo chroidhe,” ar sé, ag deimhniughadh do Chormac, “go bhfaghaidh an chuis atáim
+                    a chosnamh bás liom féin. Ná smuainigh gur ag brath orm-sa bhéidh sí chum í chur
+                    ar aghaidh. Táim-se ag déanamh mo dhíchill chum í thabhairt suas dóibh seo
+                    thiocfas im' dhiaidh gan teimheal. Tá mo charaid go léir imthighthe. Do thuit-
+                    eadar 'san mbruighin seo ar son a saoirse is a gcreid- <pb n="75"/> imh. Do
+                    b'fhearr liom” - agus ag rádh soin dó d'eirigh an sean-duine is shiubhail sé go
+                    dtí an taobh thall do'n tseomra chomh acfuinneach is dá mbeith lúth na hóige 'na
+                    chnámhaibh fós - “do b'fheárr liom tuitim i ngleó do thír is do chreideamh 'ná
+                    bheith beó taréis buaidh onóraigh. A Chormaic,” ar sé arís, ag deimhniughadh
+                    chum an óglaigh, “taoi-se léigheannta go leór. An gcualais riamh trácht tar
+                    fhear chríonna dár b'ainim Murchadh Liath? Do mhair sé tamall im' thigh, is ba
+                    mhór aige mo shean is mo shinsir. Fear do b'eadh é do shiubhail a lán is ní
+                    beagán léighinn a bhí 'na cheann. Bhí sé lán d'eachtraidhibh ar mo charaid - ar
+                    na sean-ghaisgidheachaibh a tháinig romham. Gan amhras do bhí beagán mhearbhaill
+                    air, agus taréis mo teach-sa d'fhágbháil do chomhnuigh sé, fá mar dubhradh liom,
+                    'san ghleann so, ag déanamh rann is tarngair- eachta ar nós na sean-shuadh. Do
+                    chualas féin tarn- gaireacht éigin do rinne sé ar mo mhuinntir, acht níor
+                    thuigeas riamh í.” </p>
+                <p>Do labhair fhear dhá bhuidhin do bhí ag éisteacht leis an sgéal soin, is dubhairt
+                    go raibh an fáidh úd go déidhean- ach 'san ghleann soin agus gurab ins an teach
+                    chéadna soin do chomhnuigheadh sé, go dtéidheadh sé i measg na gcomharsan ag
+                    iarraidh déirce is ag déanamh suilt dóibh le n-a chuid rann is tarngaireachta.
+                    “Agus cad d'imthigh air?” ar an tIarla, go neamh-shuaimhneasach. “Fuair sé bás
+                    ins an ghleann so, tá dó nó trí seacht- mhainidhe ó shin,” ar an fear eile; “do
+                    bhí sé ag siubhal ó thigh go tigh, lá, go dtáinig dorchadas na hoidhche air, is
+                    'nuair a thug sé iarracht ar a bhothán a dhéanamh amach chuaidh sé amugha, is
+                    lá'r na bhárach fuaradh sínte marbh é le hais mór-chairrige, is rann éigin
+                    rúnach tarngair- eachta fásgtha go daingean 'na dhorn.”</p>
+                <p>Níor fhan dath - acht dath gránna an bháis - i leacain <pb n="76"/> an Iarla,
+                    tháinig mór-thocht dóláis air - ní fheadair sé cad é a chúis. Níor fhan focal
+                    ann, cé go raibh sé nóim- eint ó shoin go meanmach meidhireach ag comhrádh is ag
+                    caitheamh aimsire le n-a champánachaibh. Do thug sé iarracht ar ghreann a
+                    dhéanamh is níor bh'fhéidir leis é. Do tháinig baill-chrith air is thuith sé
+                    siar ar an urlár go tréith is go lag-bhríoghach. Cad do dhoilbhigh é? An amhail
+                    an bhfeacaidh sé tuar a bháis féin ins an sgéal so? An fear a bhí chomh fada
+                    soin 'na thigh, do rinne an oiread soin tarngaireachta ar a charaid, do
+                    chomhnuigh tamall 'san mbothán chéadna soin, d'fhagháil bháis 'san gleann soin!
+                    Is ró-deallramhach gur b'é a smuaineadh ar na neithibh sin do chuir crith-eagla
+                    air, do bhain a chainnt de, is d'fhuadaigh a chuid fola as a leacain. </p>
+                <p>Dála Chormaic, do rinne sé níos mó do'n chomhrádh soin ná do léig sé air.
+                    B'fhollas dó anois gurab é faidh an ghleanna an fear céadna d'árduigh a mheanma
+                    féin le n-a chuid tarngaireachta an lá úd is é ag teacht ó sgoil, is do chuir
+                    cochal air chum ceasna a thíre do léigheas dá mb'fhéidir, is b'iongantach leis
+                    go raib sé san teach chéadna i n-ar mhair an sean-shuadh úd ins an ghleann i
+                    n-ar cailleadh é, is go raibh sé i bhfochair an taoisigh do seasaibh in' aonar i
+                    n-aghaidh námhad a thíre is a chreidimh. An sgéal céadna do chuir crith-eagla
+                    báis ar an Iarla do líon sé croidhe Chormaic le dóchas is le meanmain. Níor
+                    thagair sé riamh roimhe sin do,n fháidh sin 'na chomhrádh leis an Iarla, i
+                    ngeall ar an treó 'na bhfeaca sé é, is anois cé go raibh sé féin lán do meanmain
+                    níor lámhaigh sé trácht thairis ar eagla go gcuirfeadh sé tuilleadh buaidheartha
+                    ar an tseanduine.</p>
+                <p>Do caithead a lán do'n oidhche mar so eatortha, is fá dheireadh dubhairt duine
+                    éigin gur mhithid dul i chodladh. D'aontuigh an tIarla, acht ní le subhachas mar
+                    ba ghnáth <pb n="77"/> leis, agus ag breith ar láimh ar an óglách le muinn-
+                    teardhas dubhairt - “Do chuadhas-sa chum comhraic d'fonn mo dhuthchas is mo
+                    chreideamh do chosnamh ó Ghal- laibh; ní'lim tuirseach do'n ghleó, acht i dtaobh
+                    bhuaidh - tá sé ag brath ar thoil Dé. B'fhéidir ná tiocfaidh sé go fóill, acht
+                    fágaim le hudhacht agat-sa an chúis sin gan teimheal, gan éisling is ag gach
+                    n-aon ghrádhas fírinne is saoirse.” </p>
+                <p>Is dubhach, lán-chumhach do labhair an tIarla, is níor bh'féidir le Cormac
+                    freagradh le lán-tocht bróin. An tIarla do bheith doilbh is eadh chuir gruaim
+                    air; níor chuimhnigh sé i n-aonchor ar a cheasna féin; agus is mar sin do
+                    sgaradar ó chéile i gcomhair na hoidhche. Do chodladar araon 'san mbothán i
+                    leapachaibh deighilte ón-a chéile. Do chodail cuid do na fearaibh i gcabán
+                    leasmuigh; is b'éigin do chuid eile aca dul treasna an chnuic ag féachaint i
+                    ndiaidh bó. Do chodail an tIarla go sámh, agus ag dúiseacht dó roimh lá d'éirigh
+                    is do chuir a chuid éadaigh uime, is do luigh sé go lán-dícheal- lach ar
+                    theinidh d'adughadh. Bhí iongnadh a chroidhe ar Chormac é d'fheicsint ag éirghe
+                    chomh moch soin, is, ar eagla gur taom éigin a bhí air, d'eirigh sé féin go tapa
+                    'na dhiaidh. Do chaith an seanduine é féin ar a ghlúnaibh is do ghuidh sé go
+                    durachtach ar feadh tamaill. Bhí an teine d'adaigh sé 'na lán-lasadh is ag
+                    leathadh a chuid solais 'na thuile tríd an mothán bheag úd dá théitheadh is dá
+                    sheasgarughadh i gcúntas nár chleachth sé riamh.</p>
+            </div>
+            <div type="chapter">
+                <pb n="78"/>
+                <head> AN DARA hALT DÉAG.</head>
+                <head>AN LÉIR-SGRIOS.</head>
+                <p>Bhí an lá ag breacadh. Bhí spíce beag solais le feicsint leastoir ag dathughadh
+                    barr na sléibhte. Bhí lóithne fionn-fhuar garbh-ghéar ag séideadh is ag cronán
+                    go brónach, doilbheach tríd an ghleann. Ba dhiamhair uaigneach é radharc an
+                    ghleanna soin is an solas ag dul i neart, na tora muthallacha bána ag crothadh a
+                    gcochall coisne díobh féin le gach séidóig gaoithe, is dá lán-luasgadh fá
+                    chomairce na mor-chrann, is an talamh cruaidh-shleamhain ó'n sioc.</p>
+                <p>Bhí an tIarla tré n-a chéile i dtaobh na bhfear do chuaidh chum na beitheidhigh
+                    do sholáthar, is níor bh'annamh ag rádh é gurab iongantach ná rabhadar ag
+                    filleadh “Tá sé ró-luath fós,” a deireadh Cormac; “is ar éigin atá breacadh an
+                    lae ann. Ní dhéanaim amhras ná go mbéid siad annso láithreach.” Ag comhrádh mar
+                    sin dóibh do briseadh isteach doras an bhotháin le tréan-bhuille, is gan maill
+                    nóimenite bhí gasradh fear lán-armtha 'na seasamh ar an urlár. Ar dtúis do shíl
+                    an tIarla gur bh'iad a mhuinntear féin iad is bhí iongnadh air iad a theacht
+                    isteac chomh fiadhain sin. Acht níor fág a n-imtheacht aon amhras air 'na dtaobh
+                    agus is gearr gur bh'fhollas dó go raibh sé imeasg a námhad.</p>
+                <p>Ní raibh 'san mbothán an taca soin acht an tIarla féin is Cormac is seanóir eile.
+                    Ar thaobh an námhad b'shin é Domhnall Dub - níor b'fhéidir dearmad a dhéanámh
+                    ann - fíochmhar, feargach, garbh-fhiadhain, is go <pb n="79"/> léighfeá íota
+                    fola is óir 'na gharg-ghnúis dhroch- fhuadrach. Do labhair Cormac leis i nguth
+                    árd is dána, is dubhairt: “A Dhomhnaill, cad tá uait? Sáthaigh mise tré lár mo
+                    chroidhe is léig do'n taoiseach aosda onórach so,” - is ag rádh na bhfocal soin
+                    dó, chaith sé é féin idir an t-athach is an tIarla. Do dhruid Domhnall uaidh i
+                    leath-taoibh é, is dubhairt: “Bíodh foidhne agat, fan go mbéimid réidh leis an
+                    gcuradh ar dtúis, tá breith agat air, ní dhearmaidfear thu, ná bíodh eagla ort.”
+                    Is gan maill d'aimrigh sé buille ar cheann an Iarla. Do mharbhóchadh an buille
+                    sin é acht gur chosain sé é féin le n-a láimh. Do géar-ghoineadh a uilleann dá
+                    chur i sior-phiantaibh, acht ní thug sé braon fola. Cé gur mhór a chuid pianta
+                    níor liúigh is níor sgread an seanduine, agus is cródhach fearamhail adubhairt:
+                    “Suas ar do láimh! Is mise Iarla na Deasmhumhan! An im' mharbhadh ataoi, a
+                    chladhaire?” Cé gur léir do Dhomhnall gur bh'é an tIarla do bhuail sé, do chuir
+                    an t-adamhughadh soin breis mhisnighe air, is thug sé iarracht eile fé, dá
+                    ghearradh 'san mhuineál i gcuma gur rith an fhuil 'na caise go talamh ó'n
+                    gcneadh, </p>
+                <p>Tar éis an bhuille sin, cé nár thuit sé níor fhan lúth 'na bhallaibh, acht is
+                    soiléir d'airigheadh é ag rádh: “Éagaim d'onóir Chriosd is do shaoirse mo
+                    thíre.” Ba shaidhbhreas do Chormac na focail sin. Dá mhéid é a chuid cumhadh do
+                    chuireadar ag dian-mhachtnamh é ar an tuirse bhí roimh mhuinntir na hÉireann, is
+                    an dubh-cheó d'éirigh 'na shlighidh féin is chuir deireadh le n-a cuid dóchais
+                    go deó.</p>
+                <p>Ar feadh na haimsire seo do chongbhadar beirt fhear Cormac is ní gan duadh é. Do
+                    tharraingeadar an t-athach mór is beirt eile an tIarla amach tar dhoras is é ag
+                    tabhairt a chuid fola i dtréan-thuile. <pb n="80"/> Do shíneadar é ar an dtalamh
+                    amuigh tamall beag ó'n mbothán, is annsoin do buaileadh arís is arís eile é. Bhí
+                    cnead a mhuinéil anois chomh leathan soin, is bhí an fhuil ag gluaiseacht as
+                    chomh tiugh soin go raibh eagla ar an athach go gcaillfidhe é idir a dhá
+                    lámhaibh. Ar an adhbhar soin bhuail sé buille thuaigh air chum an ceann a bhaint
+                    de. Acht tháinig crith 'na láimh is níor fhéad sé a chuid nirt ar fad a chur
+                    'san mbuille. Do thug sé iarracht eile, agus leis an treas iarracht do bhí ceann
+                    Iarla na Deasmhumhan sgartha leis an gcorp go deó na ndeór. </p>
+                <p>An fhaid a bhí an léir-sgrios so dá dhéanamh bhí Cormac go neamh-shuaimhneasach
+                    fá ghreim ag an mbeirt úd is gan uaidh acht tuitim dá mb'fhéidir i dteannta an
+                    Iarla, is óir do theip sin air ba dhoilbh iad na hosnaidhe i n-ar labhair brón a
+                    chroidhe. Is ar cheann an Iarla do bhí Domhnall ag brath go bfaghadh sé an
+                    t-airgead. Is uime sin is aireach do ghlan sé an fhuil de, is do chas go
+                    ceanamhail i linn-éadaigh é, is do cheartuigh an cheartlinn sin i dtreó go
+                    bféadfadh sé é bhreith leis go háiseamhail go Caisleán na Mainge. Do sgaoil an
+                    bheirt Cormac uatha annsoin. Do rith an t-óglách go dian-chráidhte chum an
+                    choirp gan ceann do bhí smeartha le fuil agus d'fhan sé le n-ais ag síor- faire
+                    is ag dian-mhachtnamh ar a ghlúnaibh go brónach, lán-uaigneach, gan féachaint
+                    anonn ná anall, gan focal do labhart, gan deor do shileadh, gan na neithe do bhí
+                    ar siubhail timcheall air do thabhairt fá deara. Acht bhí sé ceapuighthe ag an
+                    athach é thógáil leis, is óir ba mhithid dóibh filleadh tar n-ais do chuir sé
+                    beirt fhear chum é a bhreith leó. Do liúigh Cormac chomh truaigh- mhéileach soin
+                    'nuair thugadar iarracht ar é tharraing leó ó'n gcorp go léighfeadh sé
+                    garbh-chlocha an tsléibhe chum truaigh is taise dhó.</p>
+                <p>
+                    <pb n="81"/> Is cruaidh an námhaid ná bogfadh chum truaigh ar fheicsint an
+                    óglaigh dubhaigh chráidhté úd dá chaitheamh féin ar an gcarnán cré is fola úd dá
+                    snaidhmeadh féin leis go dian-daingead, is ag rádh, “Fág, ó fág mé i bhfochair
+                    mo charad! - marbhaidh mise leis!” Ní fhuair na fir ionnta féin é a thabhairt
+                    leó. Acht níor mar sin do Dhomhnall - ní raibh an croidhe chomh bog soin aige.
+                    Bhí deithneas air. Bhí ceann an Iarla greamnighthe 'na láimh chle aige, agus is
+                    mar sin do tháinig sé chum na háite ina raibh Cormac ag fuirseadh leis na
+                    fearaibh. Do rug sé ar ghualainn air is d'árduigh leis é. Anois cá raibh an
+                    mhaitheas 'na chuid fuirse is únfairt is liuithrigh? </p>
+                <p>Acht féach! tá gasradh fear ag cur an ghleanna dhíobh go lán-mhear, ullamh,
+                    gléasda, chum comhraic, agus is deallramhach go bhfuilid ar thí an tIarla a
+                    sgiobadh leó beó nó marbh. Do chóirigh Domhnall a mhuinntir féin 'na n-aghaidh,
+                    is é féin ag congbháil greim ar Chormac, is dian-ghreim ar cheann an Iarla 'na
+                    dhá láimh. 'Nuair a thángadar na fir eile i ngearracht dóibh b'fhollas go raibh
+                    fonn comhraic ortha. Do bhí fear lúthmhar, tapa mar cheann urraid ortha. Ba
+                    mhear, dian, dána, do chuir sé an gleann de; is ní raibh dearmad ná him-
+                    theochadh sé gan droch-obair. 'Nuair bhí an dá bhuidhin os comhair a chéile do
+                    bhog an t-athach do gheit do Chor- mac, is do sgread sé mar tharbh allta.
+                    Dobhúir sé arís is arís eile, is, cé gur ró-dheacair leis é, do raid sé ceann an
+                    Iarla uaidh is do theich sé i lán-ghealtaigh, mar dob'é an Caomhach - an fear do
+                    mhairbh sé, mar ba dhóigh leis - do bhí 'na cheann ar an námhaid! Ní raibh eólas
+                    ag aoin'ne ar chúis a bhuile, is tháinig briseadh is mí-órdughadh ar a ghasradh,
+                    is do shleamhnuigh Cormac anonn go taobh an Chaomhaigh gan duine dá
+                    mhothughadh.</p>
+                <p>
+                    <pb n="82"/> Is beag an dúil i ngleó bhí ag gasradh an Chaomhaigh 'nuair
+                    fuaradar an tIarla marbh rómpa, is bhí gach taobh ullam chum siothcháin a
+                    dhéanamh go mór-mhór óir ná raibh an t-athach le fagháil - mar d'imthigh sé ar
+                    buile as a radharc ag béiceadh is ag dian-sgreadadh go fiadhain fraochmhar
+                    fíor-eaglach. Ar an ádhbhar soin, do rinneadh siothcháin láithreach eatortha is
+                    do ghluais muinntear na Bainríoghna ortha go Caisleán na Mainge ag breith cinn
+                    an Iarla leó is d'fhan gasradh an Chaomhaigh annsoin chum an corp d'anachadh is
+                    do fágadh Cormac i n-aenfheacht leó. </p>
+                <p>'Nuair a bhí a sháith caointe déanta ag an óglách os cionn chuirp an Iarla do
+                    chuir sé fáilte lán-chairde- amhail roimh an gCaomhach is do bheir sé
+                    buidheachas go taitneamhach leis an té do sgiob é an dara huair ó lámhaibh na
+                    n-eachtrann, is do luigheadar ar chainnt go céileamhail ar an gcuma i n-ar
+                    theagmhuigheadar le chéile arís. Ó d'fhág sé Cormac go tréith na leabaidh do bhí
+                    an Caomhach ar a dhícheall ag bailiughadh fear chum an tIarla a chosnamh, mar
+                    bhí a shár-fhios aige go raibh Domhnall ag faire air chum a thógtha nó a
+                    mharbhuighthe. Ar feadh a bhfad ní raibh fios aige ar ionad comhnaidhthe an
+                    Iarla, is ba dheacair fir d'fhagáil do chuirfeadh iad féin i gcontabhairt ar a
+                    shon. Do bhí beirt fhear leis ag faire ar an athach agus is uatha soin do fuair
+                    sé eolas ar a raibh ar bun an oidhche sin aige; is dá n-aontuigheadh Dia go
+                    dtiocfadh sé i n-am ar maidin bheith an tIarla slán beó 'na measg an tráth
+                    soin.</p>
+                <p>D'iompuigh a gcomhrádh ar Dhomhnall is ar an bhfeall a bhí 'na chroidhe, ar an
+                    Iarla is ar a mhuinntir. Ó theag- mhuigheadar ar dtúis le chéile ní raibh caoi
+                    aca ar thrácht ar a muinntir féin, is uime sin ní raibh eolas ag aoin'ne do'n
+                    bheirt ar ionad comhnaidhthe an fhir eile; acht anois <pb n="83"/> óir ba
+                    mhithid dóibh cuimhne ar dhul a bhaile b'éigin dóibh labhairt tar na neithibh
+                    seo. D'fhiafruigh an Caomhach do Chormac cár chomhnuigheadar a
+                    thúismightheóiridhe. “Maireann mo mháthair,” ar Cormac, “i gClais Doimhin acht
+                    tá m'athair le fada as baile. 'Nuair a bhris an bhuaidheart so amach ar dtúis,
+                    is iomdha bliadhain ó shoin, d'fhág m'athair an baile is as soin amach ní
+                    bhfuaramar aon tuairisg air. Is é mheas- aimíd go bhfuil sé marbh le fada riamh.
+                    A Dhia na ngrás, dá bhfeicinn m'athair arís is ró-shásda bhéidh m'intinn!” “Tá
+                    t'athchuinige fagháltha agat cheana,” ar an Caomhach, ag snaighmeadh a lámh
+                    timcheall air, “is mise an t-athair sin dob' áil leat fheicsint!” </p>
+                <p>Bhí Cormac, amhail adubharamar, géar-chúiseach, is anois is tapa do rith in'
+                    aigneadh na bearta cruadha ina raibh sé go déidheanach is cia an nós do
+                    shaoruigh Dia é ó gach ceasna, is do chuir a athair féin chuige chum a
+                    lán-bhruid a sgaoileadh is bheir sé buidheachas le Dia le saor-chroidhe. Acht cé
+                    gur mhor an t-áthas a chuir radharc a athar air níor thaise do'n tocht cumha do
+                    chuir a chroidhe fá smúid i ngeall ar íde an Iarla - do bhí riamh go daingean
+                    'na chuimhne. Ba dhubhach an obair a bhí rómpa. Do sgaoil an Caomhach -
+                    Conallach do b'eadh é - na fir a tháinig leis a bhaile acht amháin ádhbhar beag
+                    do chongaibh sé chum cabhruighthe leó i gcomhair anachaidh an Iarla.</p>
+                <p>D'fhaireadar an oidhche sin an corp úd gan ceann do bhí sínte go cóirighthe fá
+                    ghéagaibh árd-chrainn. Ba doilbh an tórramh é, ní raibh coinnealla ná soillse
+                    ann, acht réilte na spéire ag dian-thaitneamh as ag tuar cuisne i gcomhair na
+                    maidne; ní raibh uaill-ghol ban le cloisint acht doilbh-chronán na
+                    garbh-ghaoithe ag sios- mharnach go huaigneach tré ghéagaibh nochtuighthe na
+                    mór- <pb n="84"/> chrann, is ag réabadh drislighe is dá sgaipeadh i gcéin. Acht
+                    níor chuir sioc ná fuar-ghaoth Cormac ná athair Chormaic ó'n a ndian-fhairead le
+                    hais an chuirp tré íochtar mhall na hoidhche, ní mór a labharadar acht air
+                    uairibh ba thréan a ngéar-osnaidhe. Anois is arís do thagadh tocht cathuighthe
+                    ar Chormac i dtreó go gcluin- fidhe gach cnead doilbh-dhubhach uaidh ar fuaid an
+                    ghleanna is b'iongnadh nár éag sé le garbh-ghuais bróin. </p>
+                <p>Tar éis an tórraimh fhíor-uaignigh úd do rugadar an corp gan cheann go Cill na
+                    Manach, roilig do bhí tímcheall cheithre mhíle uatha, agus annsoin do cuireadh
+                    ar fhan i n-Éirinn d'Iarla na Deasmhumhan. An fhaidh a bhíothas dá chur síos
+                    'san uaigh is dá chlúdach le cré dubhradh urnaighthe dá anam is 'nuair bhí an
+                    obair críochnuighthe do chan Cormac le hárdh-ghuth go doilbheach buaidheartha an
+                    marbhnadh so.</p>
+            </div>
+            <div type="chapter">
+                <pb n="85"/>
+                <head>AN TREAS hALT DÉAG.</head>
+                <head>MARBHNADH IARLA NA DEASMUMHAN.</head>
+                <head>CORMAC UA CONAILL</head>
+                <head>DO CHAN.</head>
+                <!-- Line groups not encoded in Level 0 -->
+                <l>Dubh-chiac is pian mo chliabh do bhreóghann,</l>
+                <l>Tá gliag im' ghiagaibh dian le brón.</l>
+                <l>Ó ciapadh m'Iarla, a Dhia, tar fóir,</l>
+                <l>Groidhe-thriach, ró-fhial, ba thrian i ngleó.</l>
+                <l>An fhíor-fhuil chaoin do shíol ó'n nGréig,</l>
+                <l>Dlút-shnaidhm ar dtíre siorraidhe réidh,</l>
+                <l>Is fuígheach i bhfíor-lár chuimheasgair sgéidh,</l>
+                <l>Mo sgíos mar sgaoileadh síos faoi'n gcré.</l>
+                <l>Ná ceartaidh leac do raghadh i mughadh,</l>
+                <l>Ná beartaidh feart-laoidh leamh, gan chumha,</l>
+                <l>Ná fairidh leasg, gan phreabh, gan lúth -</l>
+                <l>Glacaidh bhur n-arm neartmhar dlúth.</l>
+                <l>Béidh fuaim a thuairisg uaibhrigh chaoin,</l>
+                <l>I nduantaibh suaidhte i n-uaim chirt mhín,</l>
+                <l>Beidh suadha suairc ar chruaidh-chruit bhinn,</l>
+                <l>Dá luadhadh go buan 'measg uaisle is buidhin.</l>
+                <l>Ní mian liom sian ar grian 'san spéir,</l>
+                <l>Ní mian liom giar-ghuth trian na n-éan,</l>
+                <l>Tá ciach ag iadhadh ar mo chliabh go léir,</l>
+                <l>Is m'aois is sia seacht mbliadhain ó'réir.</l>
+                <pb n="86"/>
+                <l>Acht ní croidhe-bhrughadh, ná cumha, ná deóir,</l>
+                <l>Dá chaoineadh súd 'san úir is cóir,</l>
+                <l>Acht dibhfhearg dlúth le lúth is tóir,</l>
+                <l>Is sgeimhle dubhach ar bhúir i ngleó.</l>
+                <l>A fhir-fhuil dhílis, chaoin, Dheasmhumhan,</l>
+                <l>Ná dísg i gcroidhe na tíre úir,</l>
+                <l>Go síolfaidh buidhean bheas fíochmar dlúth,</l>
+                <l>Ag díbirt námhaid tar tuinn anonn.</l>
+                <l>Beidh bláth an earraigh cluthmhar, ciúin,</l>
+                <l>Ag fás, 's ag gealadh, os do chionn,</l>
+                <l>Beidh sgáth ar maidin ag an ndrúcht,</l>
+                <l>As sgáil ó chrannaibh thart anonn.</l>
+                <l>Beidh cuach gan bhuaidheart, gan ghruaim, annsúd,</l>
+                <l>Beidh cuaird ag uanaibh buan 'san gclúid,</l>
+                <l>Beidh luasgadh luath, le fuaim duilleabhair,</l>
+                <l>'San suairc-fhear snuadh-gheal fuar 'san úir.</l>
+                <l>Do b'áil leis stair 'na cheart, is dréacht,</l>
+                <l>Do b'áil leis greas go deas ar chéis,</l>
+                <l>Do b'áil leis fras na n-eas ar shléibh,</l>
+                <l>As cantain greannta deas na gcraobh.</l>
+                <l>Ní'l aoibhneas ghrinn 'san tír, acht cumha,</l>
+                <l>An taoiseach groidhe ó shín 'san úir,</l>
+                <l>Tá a chuimhne sgríbhthe síos go dlúth</l>
+                <l>I mongaibh mín 's i gcríochaibh Mumhan.</l>
+                <l>Ba mhear a ghasradh óig-fhear groidhe,</l>
+                <l>Ar fhaithche ghlas 'sar chóir-chnuic mhín,</l>
+                <l>Ag basgadh Danar crón le claidheamh,</l>
+                <l>Ó Dhaingean theas go hEóchaill chaoin.</l>
+                <pb n="87"/>
+                <l>Acht chím go cruinn mo díth 'na éag,</l>
+                <l>Is cinnte sinn gan bhrígh 'na dhéidh,</l>
+                <l>Is fúidheach bhead síorraidhe ag caoi na n-déar,</l>
+                <l>Go sínfead síos 'ga thaoibh i gcré!</l>
+            </div>
+            <div type="chapter">
+                <pb n="88"/>
+                <head> AN CEATHRAMHADH hALT DÉAG.</head>
+                <head>DEIREADH</head>
+                <p>Ba dhoilbh é fuaim gotha Chormaich ag cantain an dáin sin go huaigneach i lár an
+                    roilige 'nuair a thagadh sé chum na bhfocal i n-ar fhógair sé ruagairt is lán-
+                    threasgairt ar na Gallaibh do sheasuigheadh sé, 'na lán- aoirde is do lasadh a
+                    ghnúis le dásacht is le neamh- spleáchas. Ní minic do casadh caoineadh le guth
+                    chomh dian, chom huaigneach soin.</p>
+                <p>Acht bhí an léir-fhaire is an dian-mhachtnamh soin ró-throm do Chormac agus tar
+                    éis an mharbhnaidh do chríochnughadh do tháinig garbh-ghuais neamh-chuibheasach
+                    air is do thuith sé i bhfantais ar an dtalamh. Do thóg a athair a bhaile é
+                    breóighte lag-bhríoghach, is do chuir i leabaidh é, is as an leabaidh sin níor
+                    éirigh sé riamh arís Ba mhinic ag labhairt é 'na mhearbhall tinnis ar na
+                    neithibh tré n-ar ghabh sé, is níor b'fhéidir leis an rann rúnach úd thug
+                    Murchadh Liath dhó a chur as a cheann. Bhíodh sé i gcomhnaidhe ag iarraidh é do
+                    chraoibhsgaoileadh, is i gcomhnaidhe ag casamh daor-bhruide na hÉireann. Acht
+                    níor b'fhada uaidh an deireadh anois. Do leath an tinneas tré n-a chnámhaibh, is
+                    tré n-a bhallaibh go léir. Do tháinig gluthar an báis 'na bhrághaid is d'árduigh
+                    sé é féin ar a ghlúnaibh le garbh-ghuais. 'San dtreó soin do leath sé a lámha is
+                    dubhairt: “A Dhia, beir m'anam leat go flaitheas is saoruigh mo thír ó
+                    throm-bhruid. Ní raibh uaim acht an lá d'feicsint i n-a gcuirfidhe lán- ruagadh
+                    ar Ghallaibh tar tuinn; acht ó 'sé do naomh- thoil glaodhach orm roimh an aimsir
+                    sin, atáim sásda an <pb n="89"/> saoghal d'fágáil. A Dhia, glac mé id' chúirt go
+                    deó!” Iar rád na bhfocal soin dó do tháinig lagachar air, is thuit sé siar is
+                    d'éag gan mhaill. Do chuireadh le hais an Iarla é, agus is sámh é a gcodladh i
+                    gCill na Manach le trí chéad bliadhan. </p>
+                <p>Roinnt bliadhanta i ndiaidh na neithe seo do bhí mathshluagh cruinnighthe le hais
+                    carchair i Sagsana. Bhí fear le crochadh agus ba léir go raibh grain ag an
+                    ngraisg sin air. Is iomdha fhear do mhairbh an méirleach soin agus anois b'éigin
+                    do díol as aon mharbhadh amháin. Do tógadh an groidhe-fhear soin amach idir a
+                    choimeadaidhe is ba dhuairc, ba dhoirbh a dhreach. D'féachadh sé mór-dtimcheall
+                    le crith-eagla mar a mbeith na mairbh dá taisbéanadh féin dó nó guth ó'n saoghal
+                    eile ag fógradh a chionnta dhó. B'fhiadhain, neamh-thruaigh- mhéileach é sgread
+                    an mhathshluaigh sin 'nuair a thuit sé marbh os a g-comhair.</p>
+                <p>Ní féidir linn acht sgéal gairid do dhéanamh do shaoghal athar Chormaic 'na
+                    dhiaidh sin. Do chuir an blaiseadh soin fuair sé do chleasaibh na n-arm, is an
+                    muiníghin do bhí aige a cúis a thíre, misneach air chum dul tar lear óir ná
+                    raibh glaodhach 'san mbaile air. Do chuaidh sé go dtí an Sbáinn, is níor bhfada
+                    gur éirigh sé go hárd 'san arm le n-a chródhacht is le n-a chalmacht. Acht bhí a
+                    chroidhe 'na dhiaidh i nÉirinn, agus is iomdha iarracht do thug sé ar theacht
+                    tar n-ais le buidhin neartmhar Sbáinneach chum na n-eachtrainn do ruagadh as
+                    fearannaibh na Mumhan. Bhí buidhean ullamh chum teacht leis i bhfochair an
+                    tsluaigh do ceapadh d' Aodh Ruadh Ua Domhnaill 'nuair do milleadh an curadh
+                    óirdhearc soin i mor-thuile a bheathadh le feall- bheart na nGall.</p>
+                <p>Do léigheadh sé go cíocrach na héachta do rinneadh <pb n="90"/> 'san mbaile na
+                    dhiaidh sin is go mór-mhór na neithe do bhain leis na Gearaltachaibh. Ar uairibh
+                    do ritheadh 'na aigneadh an rann rúnach úd do thug Murchadh Liath an fáidh buile
+                    do Chormac fad ó shoin, is, lá, 'nuair chuala sé bás Iarla an tSúgáin is an
+                    chumha i n-ar rugadh air do luigh sé ar mhachtnamh ar an gcrích do bhí le
+                    muinntir an tsean-Iarla. Cionnus do hoileadh a mhac 'na Shagsanach is tugadh go
+                    hÉirinn é chum na daoine do chur i gcoinnibh Iarla an tSúgáin, cionnus do
+                    bhailigh- eadar na daoine timcheall air go bhfuaradar amach gurbh Sagsanach é,
+                    is gur iompuigheadar uaidh annsoin le fuath is le feirg, is cionnus do milleadh
+                    i Londain é, le claon-bheart na n-eachtrann 'nuair ná raibh maith le baint as a
+                    bheathaidh aca, do bheartuigh sé leis féin go raibh deallramh éigin ar an rann
+                    úd Mhurchadha Léith: </p>
+                <l>“Gaisgídheach óirdhearc leagtha le feall.”</l>
+                <l>B'é sin an sean-Iarla é féin</l>
+                <l>“Oighreadh aithiseach taca na nGall.”</l>
+                <l>B'é sin a mhac do hoileadh na Shagsanach.</l>
+                <l>“Curadh ag a charaid ceangailte i bpoll.”</l>
+                <l>B'é sin Iarla an tSúgain ceangailte leis an gCuradh</l>
+                <l>Bhán i n-uaimh i n-a bhfuair se é.</l>
+                <l>“Críoch le treibh tar tuinn anall.”</l>
+                <trailer>CRÍOCH.</trailer>
+            </div>
+        </body>
+    </text>
+</TEI>

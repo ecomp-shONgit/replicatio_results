@@ -1,0 +1,2101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GSW0113" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reisebilder aus dem deutschen Norden: ELTeC Ausgabe</title>
+                <author ref="viaf:299780457 wikidata:Q61993424">Brenner-Kron, Emma
+                    (1823-1875)</author>
+                <respStmt>
+                    <resp>ELTeC conversion</resp>
+                    <name>Automatic Script</name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <measure unit="pages">82</measure>
+                <measure unit="words">22626</measure>
+            </extent>
+            <publicationStmt>
+                <p><date>2021-12-14</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                    <respStmt>
+                        <resp>Transcription</resp>
+                        <name>UB Basel</name>
+                    </respStmt></bibl>
+                <bibl type="digitalSource">
+                    <respStmt>
+                        <resp>Scan</resp>
+                        <name>UB Basel</name>
+                    </respStmt></bibl>
+                <bibl type="firstEdition">
+                    <title>Reisebilder aus dem deutschen Norden</title>
+                    <author>Brenner-Kron, Emma</author>
+                    <publisher>Felix Schneider</publisher>
+                    <pubPlace>Basel</pubPlace>
+                    <date>1873</date>
+                    <!-- this title has been retrodigitised as part of the project “High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century”  -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc n="eltec-0">
+            <p>The text was transcribed from the transcription from UB Basel, which is based on the
+                1873 edition. The page breaks, chapter divisions and chapters were taken from scan
+                from UB Basel, which is based on the 1873 edition.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2023-01-25">Ines Bracht added TEI Header and removed noise.The Scan is
+                used only to insert page beginnings, paragraphs, chapters and heads.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="chapter">
+                <p>Das rege Interesse, das den Erzählungen über meinen Aufenthalt im deutschen
+                    Norden im engern Kreise der Heimath zu Theil ward, ermuthigte mich, meine
+                    Eindrücke auch einem weitern Kreise mitzutheilen. So hatte ich denn diese
+                    Reisebilder einem geschätzten Schweizerblatte zugedacht. Im Gedanken an die
+                    Lieben im Vaterlande, die sie lesen würden, und in dankbarer Erinnerung an den
+                    mir lieb gewordenen Norden, schrieb ich sie nieder. Und die Bilder von
+                    Carlsburg, von Stralsund, von Usedom, von Swinemünde traten alle wieder frisch
+                    vor meine Seele hin. Ich sah den Strand, die Küste, sah das Meer: „Die blaue
+                    Fluth wogt' ruhig, sanft im Winde.“ Und das war in den Tagen bom 13. und 14.
+                    November! vielleicht zur Stunde, wo dies Meer,ein tobendes Ungeheuer, Land und
+                    Leute erbarmungslos verschlang.</p>
+                <p>Da erscholl der Hülferuf von der Ostseeküste, und über die deutschen Ebenen drang
+                    er auch bis nach den fernen Schweizerbergen. Die Ostseeküste, die deutschen
+                    Ebenen eine weite, schauerliche Wasserfläche: das Meer hatte sie
+                    überfluthet!<pb/> 4 Da wußte ich denn auch, daß meine Reisebilder, diesem Norden
+                    entnommen, diesem Norden angehörten. Möchten sie, niedergelegt auf den Altar der
+                    Menschenliebe, ein Scherflein werden, der Hülfe sich anzureihen, die, wie es
+                    gebührt, daß in den Tagen der Noth ein Volk sie dem andern, ein Mensch dem
+                    andern sie leiste,den Unglücklichen bereits auch geworden und noch werden
+                    kann.</p>
+                <p>
+                    <pb/>àa </p>
+                <p>Was auch die eig'ne Seele mag bewegen </p>
+                <p>An leisen Sorgen und an stillem Weh,</p>
+                <p>Trag' es hinaus! Auf sonnbestrahlten Wegen Hinaus in Gottes weite Schöpfung
+                    geh'l!</p>
+                <p>Und lerne hier im großen All empfinden,Lern', was es heißt: ein Theil des Ganzen
+                    sein!Dann wird das eig'ne kleine Ich verschwinden Und Friede kehrt in Deine
+                    Seele ein.Es war im August dieses Jahres, als ich meine Reise nach dem deutschen
+                    Norden antrat; das Ziel derselben war NeuVorPommern, wo treue Freundschaft
+                    meiner harrte. Die Gegend von Basel nach Frankfurt war mir bekannt und wußte
+                    ich,daß nachdem ich dem badischen Lande ein Lebewohl gesagt und der Stadt am
+                    Main einen letzten Gruß zugesandt, ich nun auch Abschied genommen von den
+                    saftig-grünen Wiesen, den waldigen AnDDDDD00 so ernst und doch so traut mich
+                    anschauten, als wollten sie mir sagen: „Du Kind Helvetiens, wie wird dir zu
+                    Muthe sein, wenn dein Auge, umsonst nach uns spähend, weit und breit nur die
+                    endlose Ebene erblickt? Wie wird dir da sein?“</p>
+                <p>Die Reise von Frankfurt nach Berlin bietet wenig Interessantes für uns Schweizer.
+                    Da wo am fernen Horizonte noch immer die blauen Linien der Berge sichtbar, und
+                    wenn sie entschwinden waldige Hügel eine theils grüne, theils mit Getreide
+                    bewachsene Ebene anmuthig überragen; wo auf dem noch <pb/> 6 stark bevölkerten
+                    Reichstheile Städte mit Dörfern, Kirchen mit Kastellen und andern sehenswerthen
+                    Bauwerken wechselnd, der ganzen Landschaft den Ausdruck muntern Lebens
+                    verleihen: da fühlen wir uns noch heimisch.</p>
+                <p>Je näher wir Berlin aber kommen, je öder erscheinen uns die Gefilde. Ich sah sie
+                    zur späten Abendzeit, jene Gegend, und die weiten Strecken hellen Sandes, der
+                    bald hügelig sich erhob,von niederm Strauchwerk bewachsen, bald flach und kahl
+                    vor meinen Blicken sich dehnte, schimmerten weiß im blassen Lichte des Vollmonds
+                    und hatten für mich etwas schier Grauenhaftes: es erfaßte mich das Gefühl
+                    unsäglicher Vereinsamung. Da aber schimmerten von Weitem, blinkend in die Wette
+                    mit den Lichtern des Himmels, schimmerten, wie ein Kranz funkelnder Sterne,die
+                    tausend und tausend Lichter der Kaiserstadt, und das immer lauter werdende
+                    Getöse, das Sausen und Brausen, das Klirren und Schwirren, das Lärmen und
+                    Schwärmen die Nähe der Menschen weckte mich aus meinen Träumen: es war Berlin,in
+                    das wir eingezogen. Ein Strom von Leben, ein Ocean von Beweglichkeit umtobte
+                    mich jetzt von allen Seiten.</p>
+                <p>Meines Bleibens war jedoch nicht in der Weltstadt; der folgende Tag schon führte
+                    früh mich mit eilendem Dampfrosse je mehr und mehr. dem Norden zu.</p>
+                <p>Wie ist sie schön, diese Stettiner-Bahn, die bis hinauf nach dem Seehafen
+                    Stralsund führt, mit ihren noch neu aussehenden Bahnhöfen, diesen festen,
+                    schmucken Backsteinbauten, die durch ihren rothen Stein hier grell abstechen vom
+                    dunkeln Hintergrunde des sie umgebenden Kiefernwaldes, dort, wie die Kornblumen
+                    zu ihren Füßen, fröhlichen Farbenwechsel bringen in das weithin sie
+                    umschwankende Weizenfeld.</p>
+                <p>Doch, nicht die Bahnhöfe waren es und nicht der fröhliche Farbenwechsel, was in
+                    dem Augenblick meine Aufmerksamkeit auf fich zog: das Kleine verschwand vor dem
+                    einen Großen, vor dem Anblick der mich umgebenden Landschaft, einer weiten
+                    endlosen Ebene. O, ihr Flächenbewohner, verzeiht, wenn ich hier <pb n="7"/>
+                    bekenne, daß ein unbeschreiblich Heimweh mich da ergriff, daß eine Thräne den
+                    Blick trübte, der, zum ersten Mal auf dieser euch so theuren Heimat ruhend, sich
+                    verlor in solcher Unendlichkeit!Und ihr werdet mir verzeihen, wenn ich euch
+                    sage, daß, einmal damit vertraut, eure Ebenen mir schön erschienen, schön in
+                    ihrer Art, ich meine: großartig, wie alles Unendliche, und ich sie lieb gewann
+                    nach und nach auch darum, weil es eure Ebenen.</p>
+                <p>Die Gegend von Berlin hinauf nach dem Norden wird jedoch, ihr werdet es zugeben,
+                    immer öder, immer kahler: Kornfelder und Sandhügel, und Sandhügel und
+                    Kornfelder, dann wieder weite Strecken dunkeln Waldes. Zur Linken, sieh! jetzt
+                    aber ein stiller blauer See, still wie die menschenleere Landschaft ringsumher.
+                    Ueber seinem blauen Spiegel kreisen die Wasservögel im Morgensonnengolde,
+                    silbern schimmern ihre langen Flügel.Und der Windhauch bewegt das Schilfrohr am
+                    Ufer und kräuselt die Gewässer des Sees. Doch vorbei, vorbei! schnell treibt das
+                    Dampfroß weiter.</p>
+                <p>Und hier, in der Gegend zerstreut, die Windmühlen, deren für uns so ungewohnter
+                    Anblick diese fremdartige Landschaft noch fremdartiger erscheinen läßt! Und
+                    jetzt noch dazu die Kanäle kleine Segelbote führen auf ihrem dunkeln Gewässer
+                    die Waaren von den entfernt liegenden Strömen dem Innern des Landes zu ernste,
+                    schwarze Streifen, welche die Ebäne durchkreuzen und ihr einen noch ernsteren
+                    Ausdruck verleihen. Aber auch da: vorhei, vorbei!Es war Mittag geworden. Ich
+                    wußte, daß der Ort meiner Bestimmung nicht mehr ferne; begierig, ihn zu
+                    entdecken, blickt'ich in die Gegend hinaus: Carlsburg, das seit Alters her in
+                    Pommern bekannte Schloß Carlsburg das Stammgut der Grafen von Bohlen und
+                    nunmehriges Besitzthum des Grafen von Bismark-Bohlen wo mocht es denn liegen und
+                    wie paßte es in diese öde Landschaft ? Ich suchte nach Wald, nach dem zu dem
+                    Bilde meiner Phantasie so unentbehrlichen Forste: ich sah nur Feld und Acker,
+                    ohne Baum, ohne Strauch. Da zeichneten <pb n="8"/>aber sich dunkle Umrisse gen
+                    Norden ein schwarzer Streifen auf dem gelben Plan die Waldungen von Carlsburg;
+                    denn die letzte Station, die ich zu erreichen hatte, war endlich Züssow, die
+                    nächste bei Carlsburg.</p>
+                <p>Wie pochte mir das Herz, da sollte mich ja Die begrüßen,um deretwillen ich so
+                    weit her gereist kam, meine Freundin und Anverwandte. Leichte Wolken hatten
+                    indeß den Himmel umzogen; ein feiner Regenschauer benetzte die trockene
+                    Erde.„Züssow“, erschallt jetzt die Stimme des Eisenbahnangestellten.Der Wagen
+                    hält. Ich steige aus. Ein scharfer Windhauch blies mir da in's Geficht und
+                    kühlte die heiße Stirn mir. Ist das dein Bote, du frostiger Norden, und heißest
+                    du so mich willkommen, oder willst du mich zurück treiben dahin, von wannen ich
+                    ausgieng? Ich konnte nicht lange rathen, denn sie nahm mich jetzt in Empfang,
+                    allen nordischen Boten zu lieb oder zu leide, meine gute, treue Louise.</p>
+                <p>Die gräflichen Pferde lenkten feldeinwärts und brachten, leicht über die Ebene
+                    dahin gleitend, uns Carlsburg je mehr und mehr nahe. Hoch und dunkel ragten
+                    jetzt die Wipfel seiner Bäume empor über den gelben Feldern, und durch das
+                    schattige Grün schimmerten bald auch die weißen Mauern des Hofes und die runden
+                    Säulen beim Eingange in denselben uns entgegen.</p>
+                <p>Carlsburg nicht ohne Rührung betrat ich die Stätte, welche im Laufe der Jahre
+                    derjenigen eine zweite Heimath geworden, die vor Zeiten, ein Kind schier noch,
+                    allein, auf Gottes Schutz und auf eigene Kraft angewiesen, in die Fremde zog, um
+                    gleich so vielen wackern Mädchen auch unseres Landes, fich dort durch Fleiß und
+                    Treue Gönner und Freunde zu erwerben: in wie weit dies meiner Anverwandten
+                    gelungen, mag die Reihe von Jahren bezeugen, die sie in Carlsburg schon
+                    weilt.</p>
+                <p>Der langgehegte Wunsch, mich in ihrer deutschen Heimath zu begrüßen, war nun
+                    erfüllt: Carlsburgs gastliche Pforten hatten sich mir geöffnet; freudig führte
+                    Louise, die getreue Wirthschafterin. des Schlosses, mich ein in die mir
+                    bestimmten <pb n="9"/>Räume, mich daselbst der Ruhe überlassend, der ich in
+                    diesem Augenblick so sehr bedurfte.</p>
+                <p>II.</p>
+                <p>O segensreiche Erntezeit!</p>
+                <p>O Sommermorgen, klar und rein!Wie wird bei deinem Sonnenschein Das enge Herz so
+                    groß, so weit!Das war das Gefühl meines ersten Erwachens in
+                    Carlsburg.Neugestärkt durch den erquickenden Schlummer in des Schlosses weiten
+                    Räumen, athmete ich sie ein, die nordische Frühluft. Sie war leicht und kühl
+                    diesen Morgen, wie sie es im Allgemeinen dort ist: ihr Säuseln weht uns den
+                    Hauch des nicht mehr fernen Meeres entgegen, den feuchten, salzigen Hauch, der
+                    es verwehrt,daß die Hitze des Tages zu drückend wird. Ich öffnete diesem Säuseln
+                    meine Fenster, und der Blick ruhte jetzt auf dem vor mir liegenden Park.</p>
+                <p>Dieser Park nie werde ich Carlsburgs gedenken, ohne daß sein Bild vor mich
+                    hintritt. Dieser Park mit seinen herrlichen Bäumen, wie oft erzählte er mir alte
+                    Geschichten! Er erzählte mir auch die Geschichte vom Schlosse Carlsburg. Doch
+                    nicht gleich am ersten Morgen meines dortigen Erwachens; so rasch geht das
+                    nicht: der Park ist ernst und verschlossen wie seine pommer'schen Landeskinder;
+                    er will erst wissen, womit er es zu thun hat. Und so ein heller Sommermorgen ist
+                    auch nicht die geeignete Zeit zum Erzählen alter Geschichten; es kommen noch
+                    passendere Stunden.</p>
+                <p>Jetzt machte ich Bekanntschaft mit seinen einzelnen Bäumen und vorerst mit der
+                    Riesentanne, die, meinen Fenstern gegenüber, durch ihre zierlichen Formen und
+                    ihr dunkles Grün meine Bewunderung erregte. O, wie viele Blicke hafteten auf
+                    ihr, lange <pb n="10"/>vor den meinen; Blicke lieber Augen, die längst das Grab
+                    nun deckt! Denn die Tanne ist ganz dazu geschaffen, ein Lieblingsbaum zu sein.
+                    Und ich wie oft sah ich nach ihr! Hoch oben in ihrem Wipfel sang der Häufling
+                    sein Lied laut und fröhlich hinaus in die Lüfte; an ihrem Stamme ab und auf
+                    kletterten die Eichkätzchen, sich im Spiele neckend, indeß auf bemooster Wurzel
+                    die ewigbewegliche Bachstelze ihre Insektenjagd eifrig fortsetzte,unbeirrt die
+                    Schaar junger Truthühner der Puten des Hofes die, den Hennen folgend, unter den
+                    lang herabhängenden Aesten des Baumes behaglich auf trockenem Grunde sich
+                    ergiengen;ihre piependen Laute drangen zu mir herauf. Und dort der stattliche
+                    Ahorn! Und hier die Edeleschen mit ihrem prächtig gezackten Laube! Und die Ulmen
+                    und Birken, die Akazien und Erlen,die Pappeln und Weiden mit den silbernen
+                    Blättern, neben der dunkeln Blutbuche; zierliche Gruppierungen, die durch ihren
+                    reichen Formen- und Farbenwechsel das Auge fesseln, bis es, von ihnen hinweg
+                    weiter und weiter hinaus spähend, über den grünen Rasenteppich hin, den sie
+                    umkränzen, nach dem entfernteren Teiche schweift, der, ein glänzender
+                    Wasserstreifen, als Grenzlinie des Parks, durch den Ausschnitt der Bäume
+                    schimmert. Jenseits seiner Fallbrücke dieses Störefrieds der kreisenden Schwäne
+                    liegen grüne Wiesen; sie bilden mit dem Himmel, der über ihnen blaut, und dem an
+                    sie stoßenden Forste, den Hintergrund zu diesem lieblich-ernsten Bilde. Durch
+                    die hohen Stämme des Forstes führt die breite Fahrstraße nach der zwei Meilen
+                    entfernten Stadt Anklam eine weiße Linie in's dunkle Grün des Waldes hinein.</p>
+                <p>Dies Bild war die Aussicht, die nach Osten von den Fenstern meines Schlafgemachs
+                    aus den Blicken sich wies; der nebenangrenzende Salon, dies kleine, hübsche
+                    Gelaß, bot aus seinem Fenster die Aussicht nach Norden auf einen andern Theil
+                    des Parks; immer die hohen, herrlichen Bäume, zwischen denen hier Blumenbeete
+                    lieblich dufteten bunt glänzten ihre Farben durch das grüne Laub. Den
+                    Hintergrund bildete das weithin wogende Aehrenfeld, begrenzt vom dunkeln Forste.
+                    Dort schwankte, wie <pb/> 1141 ich ankam, noch als reife Saat das üppige Korn,
+                    der Reichthum des Landes, harrend der fällenden Sichel. Bald sah ich von Fern
+                    Garbe an Garbe sich reihen. O segensreiche Erntezeit!Und als ich Abschied nahm
+                    von Carlsburg, und an jenem Sonntag der Blick zum letzten Mal aus diesem Fenster
+                    schweifte wehte der Herbstwind über die Stoppeln. Sie aber, die da an meiner
+                    Seite stand, und der diese Zimmer zu eigen, mag wissen,wie werth mir die Räume
+                    geworden. Und wenn sie nun hinaus blickt aus diesem Fenster, und der Nordwind
+                    weht eisig kalt ihr entgegen vom starrenden Schneefeld, ihr kühlend die
+                    jugendfrische Wange: dann möge sie denken, daß, so frostig sein Hauch, so warm
+                    meine Erinnerung.</p>
+                <p>Die innern Räume des Schlosses waren eben so sehr geeignet,stundenlang den Blick
+                    zu fesseln und tausend Gedanken wach zu rufen, als der sie umsäuselnde Park. Die
+                    vielen ineinandergehenden Zimmer, verbunden durch die weiten Gallerien mit ihren
+                    lebensgroßen Ahnenbildern, ihren plastischen Figuren, beleuchtet vom Strahle des
+                    durch die hohen Bogenfenster hereinbrechenden Lichtes was erzählten sie nicht
+                    alles der lauschenden Seele!Ist es der Flügelschlag einer vergangenen Zeit, was
+                    da uns umrauschet so seltsam? Kühl weht es uns an wie ein Hauch aus dem Reich
+                    längst entschwundener Tage.</p>
+                <p>III.</p>
+                <p>Und draußen die Welt!„Es geht durch sie ein frisch-erschaffend Wehen „In
+                    ungehemmtem Lauf,</p>
+                <p>„Und mit des Frühlings neuen Knospen gehen „Auch neue, große Herzen auf.“Ein
+                    warmer Erntetag glänzte über Wald und Feld! Die Mittagssonne spiegelte sich in
+                    den Fenstern des Schlosses, die, auf <pb/>IDd den Hof hinaus blickend, das
+                    alterthümliche Gebäude von dieser Seite her erleuchten.</p>
+                <p>Schloß Carlsburg zeichnet sich durch keinen schloßartigen Baustyl aus; es zieren
+                    dasselbe nicht Thürme, nicht Zinnen.Das ungewöhnlich hohe, gewölbte Dach der
+                    Seitengebände, der lange Mittelbau mit eben diesen beiden, denselben
+                    überragenden Seitenflügelñ, verleihen ihm einen eigenthümlichen, nicht aber
+                    schloßartigen Charakter. Ich habe es oft betrachtet, das Schloß,von seinem
+                    weiten Hofe, von dem großen, kahlen Rafenplatze inmitten desselben aus, und es
+                    gab mir viel zu denken, warum der Baumeister es gerade so gebaut. Aber stumm
+                    blicken den Beschauer die zwei bronzenen Hunde unten an den Stufen der großen
+                    Eingangspforte an, und still und verschlossen strahlen, hoch oben unter dem
+                    gewölbten Dache,“ die runden Fensterscheiben durch ihr verwittertes Glas das
+                    Sonnenlicht zurück: sie bleiben die Antwort ihm schuldig. Da wendet er sich um,
+                    und von rechts winken die rothen Backsteinhäuser, die Wohnhäuser der
+                    Oekonomiegebäude,ihm freundlich entgegen, von links die zierlichen Pferdeställe,
+                    wo,der Stolz des Hofes, über 60 Pferde sorgsam gehegt und gepflegt werden. Und
+                    dort die mächtigen, hohen Bäume, die Linden und wilden Kastanien, welche die
+                    drei breiten Eingangsstraßen in den Hof zu beiden Seiten in Reihe und Glied, wie
+                    alte, treue Wächter, umstehen! Und jenseits ihrer Schattengänge die übrigen
+                    herrlichen Stallungen und Höfe, und die Gärten und Gewächsehäuser, wo unterm
+                    schützenden Glase die Rebe grünt und blüht, und des Gärtners Kunst und Pflege
+                    dem kalten Norden abringt, was der Gestrenge gutwillig zu schenken
+                    verweigert.</p>
+                <p>Und weiter und immer weiter hinaus trieb es auch mich zur Stunde. Der Weg führte
+                    jetzt, nachdem der Hof zurückgelassen,vorbei an den Teichen, in deren Naß
+                    sämmtliche Thiere des Hofes ihren Durst stillen breite Wasserflächen, auf deren
+                    ruhigem Spiegel die Enten herumschwimmen, sich Kühlung schaffend bei der Hitze
+                    des Mittags. Still ist's ringsum. Der einförmige Laut der in entfernter Scheune
+                    arbeitenden Dreschmaschine <pb n="13"/>dringt, melancholischsingend, zu mir
+                    herüber. Vor den leeren Schafställen zwitschern Schaaren von Sperlingen und
+                    suchen in dem herumliegenden Stroh nach Futterkörnern; die ungeheuren Heerden
+                    weiden draußen im Felde. So nahe ich mich denn dem Dorfe Carlsburg.</p>
+                <p>Das Dorf hier bedarf es einer Erläuterung für den, dem die Verhältnisse dieses
+                    Landes fremd. Gewöhnt an die, das Gleichgewicht einigermaßen unterhaltende
+                    Zerstückelung des Bodens seiner Heimath, dieses in so viele Theile zerfallenden
+                    Grundbesitzes, hat er keinen Begriff von solchen Groß-Gütern, deren Boden oft,
+                    so weit das Auge reicht, mit Schloß und Dorf, mit Feld und Wald, mit Acker und
+                    Wiese, dem einen Herrn als Eigenthum angehört.</p>
+                <p>Solch ein Dorf besteht denn aber auch uur aus mehr oder weniger, theils einzeln
+                    stehenden, theils aneinander sich reihenden Häusern; alle einstöckig, ziemlich
+                    gleichförmig aus Backstein erbaut.Die Dächer meist mit dem hier so beliebten
+                    Röhricht bedeckt, was der Landschaft einen noch einförmigeren Charakter
+                    verleiht; einförmig, besonders für uns, die wir gewöhnt sind an das Weiß und
+                    Grüne unserer Häuser und Häuschen mit den grellen Ziegeldächern, der Rebe oder
+                    dem Birnbaum um's Fenster, und den vom hellen Gesimse herabhängenden Nelken und
+                    Geranien.</p>
+                <p>Solch ein Haus im Norden wird „Kathen“ genannt und ist,also als Eigenthum des
+                    Gutsbesitzers, die Wohnung der auf dem Gute beschäftigten Arbeiterfamilien. So
+                    ein Haus ist meist für zwei, oft auch für vier Familien eingerichtet. Jede
+                    Familie hat für ihren Bedarf 660 Quadratfuß Bodenfläche um den Hausboden herum,
+                    außerdem Stallung für Kuh, Schweine, Gänse und Hühner. Die Kuh wird mit den
+                    Kühen des Hofes auf die zu dem Gute gehörenden Weiden getrieben. Das Einkommen
+                    einer Arbeiterfamilie beträgt ungefähr 340 Reichsthaler, theils in baarem Gelde,
+                    theils in Naturalien und in Beneficien. Die selbe hat dagegen je zwei Arbeiter
+                    zu stellen, einen Mann und eine Frau. Solche Familien fallen dann aber, nachdem
+                    das <pb/> 14 Haupt derselben drei Jahre dem Gutsbesitzer gedient, mit allen
+                    Lasten diesem Gutsbesitzer anheim: er hat für die Kranken zu sorgen, die
+                    Arbeitsunfähigen zu erhalten; seiner Obhut bleiben auch die Greise und alten
+                    Mütterchen anvertraut, die unter seinem Dache den Rest ihres Lebens fristen, bis
+                    sie in seiner Erde auf dem stillen Friedhofe des Gutes die endliche Ruhe
+                    finden.Denn solche Familien bleiben oft da von Geschlecht zu Geschlecht.Andere
+                    freilich, vom Gedanken erfaßt, daß hier Nichts ihr Eigenthum: nicht der Grund,
+                    der sie ernährt, nicht der Herd, der sie erwärmt, nicht die Spanne Erde zum
+                    letzten, langen Schlaf wandern aus nach Amerika. Denn mit der zwar erst im Jahre
+                    1812 auch in Pommern erfolgten Aufhebung der Leibeigenschaft steht, wie dem
+                    Herrn, so auch dem Arbeiter das Recht zu, zu künden.</p>
+                <p>Es war stille und leblos um diese Tageszeit in den Wohnungen der Arbeiter: sie
+                    waren draußen auf dem Felde; die Ernte erfordert jede rüstige Hand. Hier nur
+                    liegt vor dem Häuschen im Korbe das Wiegenkind, das Urahne hütet. Dort spielt
+                    das blinde Schwesterchen im Sande mit dem Kätzchen; der Bruder bringt ihm
+                    Brombeeren heim aus dem Walde; und da auf der Bank sitzt der Junge mit den
+                    Krücken, den die Krankheit um das Bein gebracht. Im Schulhause drinnen aber
+                    erschallen muntere Kinderstimmen; sie haben eben Singstunde. Und durch die
+                    Fensterscheiben sieht man blonde Köpfe jetzt ungeduldig hin und her gaffen: die
+                    Zeit der Erlösung aus ihrer Haft hat eben geschlagen.</p>
+                <p>Im Kornfelde, das von den Häusern des Dorfes Carlsburg bis hinüber zu denen
+                    Zarnekow's sich dehnt, ist reges Leben. Die reichbeladenen Wagen mit den schönen
+                    Garben und dem stattlichen Viergespann, wie es hier allgemein, zeigen, daß man
+                    nicht müßig gewesen. Einen Kranz möchte ich winden, blau und roth, denn die
+                    Kornnelken und Rosen blühen am Wege, die goldenen Garben zu schmücken. Aber von
+                    Zarnekow's Kirchthurm her ertönt jetzt ein Klingen; ich zähle die Zeit zur
+                    Mittagtafel im Schlosse kann nicht fern mehr sein.<pb/> 15 Horch! horch! was
+                    erschallt denn von dort her, vom Schlosse?Welch fremdartiger Klang durchdringt
+                    die Luft? Es ist der übliche Ruf des, Tam Tam“, der, ertönt er zum ersten Mal,
+                    den Bewohnern kund thut, daß ihnen noch die nöthige Zeit gegeben zum Vollziehen
+                    ihres Anzugs; ertönt er zum zweiten Mal, ihnen sagt, daß die Tafel bereit. Tam
+                    Tam! Du Kind der heißen Zone! Du wunderliches Instrument, wie kommst du von
+                    Indiens lachenden Gestaden nach dem ernsten Norden hinauf? Je nun: es kam, und
+                    es ist da, und so lachend seine Heimath, so ernst ist sein Schall, so sehr paßt
+                    es zum Norden.</p>
+                <p>V.</p>
+                <p>„O, stilles Leben im Walde!„O, grüne Einsamkeit!“Zum Besitzthum Carlsburg gehören
+                    aber noch zwei Höfe:Jasedow und Stainfurth. Ich sollte dieselben auch kennen
+                    lernen,meinte die verehrte Frau, heute wieder, wie immer, bereit, Andere zu
+                    erfreuen. Und so gieng es denn mit eilenden Pferden dem Forste zu.Carlsburg's
+                    herrliche Waldungen erstrecken sich meilenweit in der Landschaft; breite,
+                    wohlunterhaltene Wege, hohe, schattige Hallen, führen Wagen und Reitpferde nach
+                    allen Richtungen in denselben umher. In eiligem Trabe geht's hinaus und hinüber,
+                    und nur das Knistern der unterm Rade berstenden Aeste unterbricht die tiefe
+                    Stille des Waldes.</p>
+                <p>Vorbei an den traulichen Ruheplätzchen unter den Wunderbäumen, den riesigen
+                    Buchen und Föhren, gieng's immer tiefer in den Forst hinein. Bald erweckte eine
+                    zierliche Umzäunung die Bewunderung: die Pflanzschule jungen Eichenschlags, bald
+                    der Buchwald, bald das Kiefernholz. Dann hielt der Wagen am Saume <pb/> 16 einer
+                    Waldwiese, die, rings von hohen Stämmen umkränzt, saftiggrün sich dehnt inmitten
+                    des Forstes; eine Heerde Rehe weidet da im Sonnengold ruhig schauen sie herüber
+                    nach den ruhenden Pferden, und erst als der Wagen sich wieder in Bewegung
+                    setzte, setzten auch sie in's Undurchdringliche hinein.</p>
+                <p>Und dort auf einem dieser breiten Waldwege was steht da plötzlich so lebensgroß,
+                    und blickt aus nächster Ferne uns an mit den braunen Augen, den klugen? Ein
+                    Hirsch ist's, ein zierlichgroßer! und jetzt noch ein zweiter, ihm folgend!
+                    Herrliches Rothwild, die beiden! Ein Augenblick nur, und ... sie entschwinden im
+                    Dickicht rauschende Blätter fallen unter'm Stoß hres Geweih's; aber der Schlag
+                    ihrer Hufe verhallt jetzt schon weit in der Ferne.</p>
+                <p>Es lichtet sich der Wald: Jasedow wird sichtbar. Dort draußen liegt es, das
+                    Gehöfte, umgeben von der kornbewachsenen Ebene. Seine stattlichen neuen Gebäude
+                    stehen da, bestrahlt von der Mittagsonne. Ach, noch kaum über ein Jahr, daß sie
+                    niederbrannten mit ihren reichen Vorräthen an Heu und an Getreide und mit ihren
+                    vielen Ochsen, welche, vom Schreck erfaßt, die hrennende Stätte nicht verlassen
+                    wollten. Sieh! dort grast heute eine zahlreiche Viehheerde, über 70 Stück Kühe,
+                    in Jasedow's nächster Umgebung. Vom Hofe her ertönt der Ruf des Hahn's;er steht
+                    auf dem niedern Gemäuer golden glänzt sein Gefieder im Somnenstrahl.</p>
+                <p>Wir aber lassen das Gehöfte rechts liegen und wenden uns Stainfurth zu. Wieder
+                    gieng's in den Forst hinein, wieder weite Strecken durch denselben. Und dort
+                    drüben denn, am Saume dieser pommer'schen Wälder, liegt ein einsamer Hof. Der
+                    Wegweiser steht auf erhöhtem Grund neben der Fahrstraße; sein Arm zeigt nach den
+                    Häusern am Wege: „Stainfurth“ nennt er sie dem Wanderer. Doch wir ziehen vorbei
+                    an den Häusern; das kleine Pförtchen der hölzernen Umzäunung öffnet sich, und
+                    wir betreten geweihte Erde: einen stillen Friedhof, die Begräbnißstätte der
+                    Einwohner Carlsburgs und der dazu gehörenden Höfe.<pb n="17"/>Im Hintergrunde
+                    steht, einfach und schmucklos, wie der gothische Baustyl es bedingt, erhaben
+                    jedoch eben durch diese Einfachheit, die Kapelle ein Bau der Jetztzeit. Durch
+                    die gemalten Fensterscheiben zeigt sich der Altar, ohne Prunk, ohne Tand; es
+                    schmücken ihn frische Blumen. In dieser Kapelle ruht der Sarg der entschlafenen
+                    Herrin von Carlsburg.</p>
+                <p>Und von der Kapelle hinweg schritten wir zwischen Grabhügeln dahin. Sie erhoben
+                    sich, zerstreut über dem kleinen Plane,bewachsen von Gras und Strauch, geziert
+                    von dem einfachen Steine, der, als letzte irdische Spur Derer, die da schlummern
+                    unterm Sande, ihren Namen trägt. Viele Steine mit der Jahres-zahl 1866 sind
+                    Erinnerungszeichen an die Tage, wo die Cholera,diese allseits verderbliche
+                    Seuche, auch in der pommer'schen Einsamkeit ihre Opfer suchte.</p>
+                <p>Wir schritten in's Gebüsche hinein. Dort, zwischen Strauch und Dorn ein Denkmal
+                    der Vorzeit steht eine zerfallene Kirche. Auf felsigem Grunde erbaut, wie so
+                    viele der ersten christlichen Kirchen im Norden, ragen ihre zertrümmerten
+                    Backsteinmauern mit den eingestürzten Bogenfenstern in die Wildniß empor; Epheu
+                    umrankt sie, und aus ihren Ritzen grünt Farrenkraut Leben aus Tod. Die
+                    zerfallene Kirche nach der Kapelle hinüber blickt sie: ein Gotteshaus hier, ein
+                    Gotteshaus dort: der Geist überdauernd die Form.</p>
+                <p>Und wieder über Gräber hinweg schritten wir dem Eingangspförtchen zu, um von der
+                    heiligen Stätte zu scheiden.</p>
+                <p>2 </p>
+                <pb n="13"/>
+                <p>„Aus der Jugendzeit, aus der Jugendzeit „Klingt ein Lied mir immerdar.</p>
+                <p>„O, wie liegt so weit, o, wie liegt so weit,„Was mein einst war!“Landwirthschaft!
+                    Klänge aus der Heimath, aus der Jugendzeit! Wie wachten da alte Erinnerungen in
+                    mir auf, wie prägten neue meinem Gedächtnisse sich ein! Pommer'sche
+                    Landwirthschaft ist eben wieder ganz andere, als schweizerische
+                    Landwirthschaft!Ueber wie Manches bedurfte es der Erklärung, der
+                    Berichtigung.Sie ward mir denn auch vollständig, Dank sei es dem mit Allem
+                    vertrauten Verwalter von Carlsburg und der trefflichen Wirthschafterin im
+                    Bereiche der Oekonomie, der liebenswürdigen Fräulein Hedwig M. Daß doch jeder
+                    Hausfrau ein Blick vergönnt wäre in Hedwigs Bereich, ich meine in die
+                    Vorrathskammern von Carlsburg, wo sie „Füllet mit Schätzen die duftenden
+                    Laden,</p>
+                <p>„Und dreht um die schnurrende Spindel den Faden,„Und sammelt im reinlich
+                    geglätteten Schrein </p>
+                <p>„Die schimmernde Wolle, den schneeichten Lein.“Diese Vorrathskammern sind
+                    wirklich großartig! Da liegt sie denn in tiefen Truhen aufgehäuft, die
+                    „schneeichte Leinwand“,auf Carlsburgs Boden entsprossen, auf Carlsburgs Webstuhl
+                    verfertigt, liegt neben der „schimmernden Wolle“, der Wolle von Carlsburgs
+                    Schafen, aus der die warmen Decken dort, die bunten,gewirkt werden. Und die
+                    Betten von den Dunen der Gänse, wie zierlich, wie weich, diese Betten! Dann
+                    wieder die Rauchkammern mit all ihren reichlichen Schätzen! Und die Töpfe mit
+                    Butter und Honigl Die Säfte und Weine in Flaschen! Und die Vorräthe an gedörrtem
+                    und eingekochtem Obst; nicht zu reden von den Kasten voll Mehls, voll all den
+                    aus Getreide bereiteten Nahrungsstoffen, wozu <pb n="19"/>„Der Scheunen gefüllte
+                    Räume,„Und die Speicher, vom Segen gebogen“,reichen Stoff liefern. Und von den
+                    Vorrathskammern zu den Bedientenstuben, zu den Gelassen der Mägde, und in die
+                    Backund Waschlokale, in's Milchgewölbe, in's Brauhaus, und bis in die Keller
+                    hinab überall hin und her, von oben bis unten in den Häusern, die Eß- und
+                    Wohnzimmer nicht zu vergessen mit Küche und Speisegemach: überall Ordnung und
+                    Umsicht, denn </p>
+                <p>„Sie füget zum Guten den Glanz und den Schimmer </p>
+                <p>„Und ruhet nimmer.“Aber es bedarf auch des Fleißes und der Ordnung, wie es großer
+                    Vorräthe bedarf: von den 254 Einwohnern Carlsburgs ist täglich eine bedeutende
+                    Anzahl den Tischen der sorgenden Hedwig zugetheilt.</p>
+                <p>Landwirthschaft! Bilder aus der Heimath! O Abendzeit, wie lieblich bist du
+                    allenthalben nach der Hitze des Tages; wie lieblich auch in Carlsburg! Schattig
+                    ist's jetzt unter der Veranda vor dem Hause, und gerne schweift der Blick
+                    hinüber nach den Höfen,wo so munteres Leben sich regt. Im Pferdestall wiehern
+                    die Stuten bei den Füllen; von der Weide kehren die Kühe zurück,die vielen,
+                    vielen Kühe. Siehe, dort drüben in dem weiten Raume werden sie gemolken unter
+                    freiem Himmel von den Mägden des Hofes! Ihr dumpfes Brüllen, und das Brüllen der
+                    Farren, und das Blöcken der Schafe, der dreitausend, die in allen Tonarten auch
+                    hre Heimkehr verkünden, und das Geschrei der Hühner und das Quacken der Enten:
+                    welch Bild landwirthschaftlichen Lebens führen sie vor uns auf!</p>
+                <p>Doch die Zeit verrinnt, und die freundliche Schwester des Verwalters harrt unser
+                    dort drüben in den trauten, häuslichen Räumen.Die Verwalterwohnung, diese
+                    hübsche, einstöckige Behausung mit den Fenstern nach Sonnenuntergang, war in dem
+                    Augenblick beleuchtet von der scheidenden Sonne: grellroth schimmerten die <pb
+                        n="20"/>Mauern, und die Fenster glänzten wie brennende Spiegel. Der Tisch
+                    wurde in den kleinen Garten vor dem Hause versetzt, denn umduftet von Reseden
+                    und Spätrosen, wollten wir unter freiem Himmel unser Mahl genießen. Und er war
+                    rein und klar, dieser Himmel, wie er weit, weit sich dehnte über der weiten,
+                    weiten Fläche, die vor uns, als ein unabsehbares Stoppelfeld, dalag im letzten
+                    Abendglühen. Dort im fernen Westen sank die Sonne,eine feurigrothe Kugel, am
+                    gelben Horizonte langsam hinab und malten sich in demselben die Pappeln des uns
+                    gegenüber liegenden fernen Nepzin eines anderen Rittergutes roth dessen
+                    Häuser,und im Abendwind spielten die langen Arme einer noch fernern
+                    Windmühle.</p>
+                <p>Ich blickle schweigend hinaus. Meine Seele bewegte der Gedanke an's Meer, das ich
+                    noch nie gesehen, dessen blos geahntes Bild beim Anblick dieser Unendlichkeit
+                    vor mich hintrat.Der Hauch, der mich umwehte, war er sein Gruß? Nicht weiß
+                    ich's, aber ein heißes Verlangen erwachte in mir, da, wo ich nur Himmel und Erde
+                    sah, einmal nur Wasser und Himmel zu sehen.</p>
+                <p>Jetzt aber zieht eine Staubwolke über das Stoppelfeld und rückt je näher und
+                    näher. Bald entwinden sich dieser Wolke kleine, weiße Wesen: mit langem Hals und
+                    wackeligem Gang kommt sie angezogen, die Gänseheerde des Dorfes, über tausend
+                    Stück an der Zahl; ihr lautes Geschnatter und leises Flügelschlagen unterbricht
+                    die Stille ringsum. Wo ist „die Gänsemagd“ mit den langen Zöpfen? Das Grimm'sche
+                    Märchen rauscht auf Windesflügeln in diesem Augenblicke an mir vorüber.Zwei
+                    muntere Jungen trieben indeß die Gänse dorfeinwärts.</p>
+                <p>Bald stieg die Nacht empor über der Landschaft, denn kurz nur währt um diese Zeit
+                    die Dämmerung. Auf unserm Tische brannten die Lampen, am Himmel die Sterne, und
+                    drüben überm Felde erglühten jetzt mit rothem Scheine die Lichter von Züssow,die
+                    Leuchten des Bahnhofes. Das schrille Pfeifen des abwärtstreibenden Zuges drang
+                    zu uns herüber; ein leises Heimweh <pb/> 21 ergriff mich. Heimweh ich kehrte
+                    nach dem Schlosse zurück,um im hellerleuchteten Saale, im Kreise der Familie,
+                    der Unterhaltung und Belehrung zu lauschen, die allein mich vergessen ließ, daß
+                    ich so weit von daheim.</p>
+                <p>2 </p>
+                <p>„O Wanderglück! o Wanderlust!„Dein will ich nun genießen!“Mein Verlangen, das
+                    Meer zu sehen, wurde indeß von mehr denn einer Seite herausgefühlt und, als sehr
+                    begründet, bald auch werkthätig unterstützt. Ich werde nie der Worte Dessen
+                    vergessen,der eines Tages zu mir sagte: „Und Sie, mit Ihrem regen Gemüthe, Sie
+                    sollten scheiden vom Norden, ohne der See einen Gruß zugesandt zu haben? Lassen
+                    Sie sich diesen hohen Genuß durch Nichts benehmen: sehn Sie das Meer!“ Er, der
+                    sonst mit seinem trefflichen Humor über gar Manches zu scherzen pflegte,er sagte
+                    dies so ernst, so überzeugend.</p>
+                <p>Da theilte ich denn der Gesellschaft den kleinen Reiseplan mit,den der
+                    freundliche Verwalter eben entworfen, er, dem es ein wahres Anliegen war als
+                    Strandgeborner mich mit der höchsten Schönheit seines Landes bekannt zu machen.
+                    Dieser Plan wurde denn auch, als ein wohlausgedachter, theilnehmend begrüßt.Die
+                    Seestadt Swinemünde sollte das Ziel des kleinen Ausfluges sein: Usedom jedoch
+                    als Raststätte uns dienen.</p>
+                <p>Bald leuchtete denn der Morgen des 6. Septembers drei frohen Reisenden zu ihrer
+                    muntern Fahrt: dem Verwalter, der netten Hedwig und meiner eigenen Person.
+                    Freudigdankbar reichte ich unserm Begleiter die Hand zum Morgen- und Reisegruß,
+                    als die Pferde leichthin uns auf breiter Fahrstraße nach dem nahegelegenen
+                    Forste brachten. Mit der Frühluft strömte der <pb n="22"/>Geruch des
+                    Kiefernholzes uns entgegen; die vom Thau benetzten Halme standen perlend am
+                    Wege, und über das dunkle Moos des Waldes schwebte der weiße Schmetterling, noch
+                    einmal seines kurzen Lebens sich freuend. Es war eine überaus heitere Fahrt:
+                    heiter der Himmel über uns, heiter die schöne Erde um uns herum, und heiter die
+                    Stimmung, die uns beseelte.</p>
+                <p>Diese stundenlange Fahrt im offenen Wagen, wie sie heutzutage so selten uns noch
+                    zu Theil wird, gestattet denn auch einen recht eingehenden Blick in die
+                    Landschaft. Die Wege führen dort zu Lande oft meilenweit über's Feld eigentliche
+                    Feldwege, wie sie bei uns kaum etwa streckenweis einmal befahren werden.
+                    Geräuschlos bewegt sich der Wagen da durch den tiefen, weichen Sand; sein Rollen
+                    stört nicht den Redefluß. Lebhaft sprachen wir uns aus über so Manches, was uns
+                    eben beschäftigte. Und der Schäfer im braunen Rocke mit dem kurzen Kragen
+                    erhielt wie er da, strickend die grobgesponnene Wolle seiner Schafe, im Feld die
+                    Heerde weidete so gut ein Wort der Erläuterung, als die Pflanzungen blühender
+                    Lupinen, dieses im Norden so beliebten SchafFutters, das mit seiner süßduftenden
+                    gelben Blüthe ein Schmuck der Landschaft zu nennen ist.</p>
+                <p>Und durch Wald und Feld, durch Anger und Wiese gieng's lustig weiter und weiter,
+                    vorbei an Schlössern und Höfen. Wie glänzen die Mauern, wie schimmern die
+                    Fenster hier rechts vom schattigen Wege! Denn jenseits des blauen Teichs mit den
+                    silberweißen Schwänen, gelehnt an den rasigen Abhang, lacht zu uns herüber das
+                    Eine der Schlösser. Aber das Andere dort links, versteckt halb und halb im
+                    Schatten der Bäume des etwas verwilderten Parkes ein zierlicher Backsteinbau
+                    ist's mit Thürmen und Zinnen blickt ernst über die grüne Umzäunung nach der
+                    staubigen Landstraße hinaus. Diese Straße, bald sich hebend, bald sich senkend,
+                    bringt uns je näher und näher der Fähre, die über einen Arm des Peene-Stromes
+                    uns von Neu-Vor-Pommern hinüber nach der Insel, Usedom bringen soll. Sie ist
+                    eine zierlich unterhaltene Straße: das sumpfige Erdreich, das zu beiden Seiten
+                    sich <pb n="23"/>dehnt mit seinen Weiden- und Erlenbüschen, erheischte das
+                    Pflastern dieses Wegtheils. Hier rasselt der Wagen denn zwischen den beiden
+                    Reihen der Ebereschen hindurch.</p>
+                <p>Munter zwitschern die Vögel in den Aesten der Bäume, deren rothe Beeren sie
+                    schaarenweise herbeilocken, indeß von Stamm zu Stamm die Spinnen ihre Netze
+                    ziehen „ihre Wäsche trocknen“,wie Hedwig in der Sprache ihrer nordischen Heimath
+                    sagt; silbern glänzen die Fäden im Morgenlicht und begegnen sich schwebend im
+                    Winde. Unter diesen hängenden Brücken blüht,zwischen dem Kiese des Weges, in
+                    zierlicherer Farbenpracht als ich sie je gesehen, die blaue Wegwarte, deren
+                    Wurzel auch hier zu Land, geröstet, dem Volke als Zusatz beim Kochen des
+                    Kaffee's dient.</p>
+                <p>Die blauen Wasser des Peene-Stromes zeigen jetzt wogend sich links in der Ferne;
+                    in nächster Nähe wogt das Rohrschilf,in langen Strecken sich breitend, her und
+                    hin. Diese Strecken werfen reichlichen Ertrag ab, und würde wohl keinem
+                    Befsitzer solch wässerigen Landtheils einfallen, deren Boden zu trainieren;denn
+                    das Röhricht, zur Dachdeckung verwendet, trägt auf diese Weise einen weit
+                    höheren Gewinn ein, als der beste Wiesengrund.</p>
+                <p>Immer deutlicher erscheint nun aber der Strom, und bald hält der Wagen vor den
+                    einzeln stehenden Häusern Wohnungen der Schiffer, Schuppen für Waaren u. s. w.;
+                    wir sind bei „Schwemmort“, der Fähre, angelangt. Die Pferde werden
+                    zurückgeschickt nach den Stallungen Carlsburgs; wir aber besteigen den Nachen,
+                    der an das jenseitige Ufer, nach Usedom, der Insel, uns tragen soll.</p>
+                <p>Die Fahrt dauert ungefähr eine Viertelstunde. In leiser Strömung quillen die
+                    Wasser dieses einen Armes des großen,breiten Flusses demselben entgegen, der
+                    unweit der Fähre sie aufnimmt. Die Farbe dieser ruhigen Gewässer ist grün-gelb:
+                    in ihrem nassen Schooße keimen zahllose Algen. Wir betrachteten diese kleinen
+                    Körperchen in einer Hand voll Wassers, die wir schöpften. Sie sahen aus für das
+                    bloße Auge wie Sonnen<pb n="24"/>stäubchen, erweckten aber als Zeugen von der
+                    Manigfaltigkeit der Schöpfung so gut unsere Bewunderung, als der Wald von
+                    Schilf, der gegen dem Ufer zu seine schlanken Rohre vor uns neigte. Schaaren von
+                    Schwalben bewegten diesen Schilfwald,bald in Schwärmen, die Luft verdunkelnd,
+                    drüber hin streifend,bald in seinem Röhricht sich bergend; ihr schrilles
+                    Gezwitscher belebte die Lüfte ringsum. Ach, sie beriethen sich über die weite
+                    Reise, die ihnen bevorstand! Sie wußten, daß sie über den Strom hin nach dem
+                    Meere, und über das Meer hin nach dem Lande,wo warmer Sonnenschein, nun bald die
+                    langen Flügel breiten würden! Und wir, wir wußten, daß mit den scheidenden
+                    Schwalben nun auch der Sommer von uns schied.</p>
+                <p>Der Nachen hielt am jenseitigen Ufer. Ein Wagen mußte von den nahestehenden
+                    Häusern herbeigeholt werden. Unser Reisebegleiter besorgte dies Geschäft, wir
+                    blieben zurück am Ufer.</p>
+                <p>Langsam, schier bewegungslos flossen auch hier die Wasser ihrem Ziele entgegen.
+                    Auf ihrer stillen Fläche trieben todte Fische dahin. Die Schuppen, losgetrennt
+                    vom leblosen Körper, bildeten lange Streifen auf der grün-gelben Fluth wie
+                    Regenbogenfarben schimmerten diese Streifen im Sonnenglanz. Und das Schilfrohr
+                    seufzte jetzt klagend im Winde zu dem Klirren der Ketten des am Strande
+                    festgebundenen Kahns. Durch unsere Seele zog, inmitten des Sonnenglanzes, ein
+                    leises Weh. War es der Eindruck dieses Strandbildes auf unser Gemüth? War es das
+                    Vorgefühl des herannnahenden Winters, an den die Schwalben uns erinnert, an
+                    dieses Absterben der ganzen Schöpfung?Oder war's der Nachhall eines ernsten,
+                    erst gepflogenen Gesprächs?Ich weiß es nicht; aber ein Ton, wie aus Lenau's
+                    Schilfliedern,klang zu uns her aus dem Schilfe, und erst als der Wagen auf der
+                    breiten, schönen Straße dahinrollte, zwischen den Kornfeldern und Wiesen der
+                    Insel Usedom, konnten wir den vorigen heitern Ton wieder finden.</p>
+                <p>Noch breiter und sichtbarer werden jetzt die Wasser des PeeneStromes. Auf ihren
+                    Wogen ziehen die Schiffe daher und dahin;<pb n="25"/>lustig bläßt der Wind in
+                    die Segel und bläht sie hoch auf. Vom jenseitigen Ufer blicken waldbewachsene
+                    Anhöhen; ja, und aus noch weiterer Ferne, sogar Berge zu uns herüber und
+                    verleihen der Landschaft einen lieblichen, malerischen Anblick.</p>
+                <p>Die Insel Usedom ist ein fruchtbarer Erdstrich von 8 bis 10 Quadratmeilen Landes
+                    (im Durchmesser). Zerrissen durch die Meerfluth, wird der Boden von deren
+                    salzigem Hauche genährt und getränkt, so daß Korn, Gras und Wald herrlich
+                    gedeihen.Usedom ist aber, gleich all diesen nordischen Landtheilen, wenig
+                    bevölkert. Und einen Grundzug zum ernsten Charakter dieser Gegenden bildet eben
+                    dieses Wenigbevölkertsein. Meilenweit läßt sich da wandern, ohne daß weder Stadt
+                    noch Dorf der einförmigen Landschaft Leben und Abwechslung verleihe. Und wenn
+                    auch hie und da ein einzelner Hof mit den dazu gehörenden „Kathen“ am Wege oder
+                    im naheliegenden Felde steht, so tönt nur das Blöcken der Schafe, das Gackern
+                    der Hühner und das Bellen der Hunde dem Wanderer entgegen, sonst Alles still und
+                    stumm. Im offenen Wagen fährt etwa der Gutsbesitzer oder sein Jäger oder sein
+                    Förster in Geschäften oder auch nach etwas mehr Zerstreuung verlangend an ihm
+                    vorüber, der fernliegenden Stadt zu; oder es begegnen ihm die Weiber des Hofes
+                    auf dem Rückweg von jener entlegenen Kirche, deren spitzer Thurm in die weite
+                    Ebene hinaus blickt.Wir kamen jetzt Usedom näher, Usedom, der kleinen Stadt mit
+                    den 2000 Einwohnern. Ihre Thürme und Mauern winkten grüßend uns zu. Denn in
+                    Usedom sollten wir also rasten bis zum morgenden Tage, der dann nach Swinemünde
+                    uns bringen wird. Es ist aber Mittag geworden derweil. Wir fahren ein zu dem
+                    alten Thore, ein in die nordische Stadt. Wie anders diese Städte, als die Städte
+                    Süddeutschlands und als unsere Landstädte! Von grauem Sandstein oder aus
+                    Backsteinen erbaut, sind die meisten der Häuser blos einstöckig. Andere auch
+                    sind da, wo über dem Erdgeschoße noch ein Stockwerk sich erhebt; alle aber in
+                    die Breite sich dehnend, nicht in die Höhe erbaut, viele von vier <pb n="26"
+                    />Seiten frei stehend. Inmitten der beiden Häuserreihen führt die breite
+                    Landstraße von dem einen Ende der Stadt zum andern,oder es führt eine andere
+                    breite Fahrstraße nach anderer Richtung; auch sie umstehn dieselben zwei Reihen
+                    niederer, aber reinlicher und durchaus nicht ärmlich aussehender Häuser. Hier
+                    blinkt ein deutscher, dort ein ssavischer Name uns entgegen mit Angabe des
+                    Berufs oder Gewerbes dessen, der diese Mauern bewohnt.</p>
+                <p>Warm brannte die Mittagssonne von wolkenlosem Himmel auf uns herab, und nicht
+                    wenig erwünscht war es uns, als endlich der Wagen vor einem freundlichen Hause
+                    hielt. Aus der Thür trat dessen gastliche Wirthin, die Tochter unseres
+                    Reisebegleiters,Frau Doctor R., mit dem Herrn Gemahl und den netten zwei
+                    Kinderchen, und hieß uns willkommen.</p>
+                <p>Des Hauses kühle Räume boten Frische den erhitzten Reisenden; die Herzlichkeit
+                    aber, die ihnen inne wohnt, erwärmte bald auch das Gemüth derer, die als ein
+                    Fremdling hier eintrat. Ein munteres Gespräch würzte das treffliche Mittagsmahl,
+                    an dem die Weitgereisten sich zwanglos erlabten. Rasch flogen die Stunden dahin.
+                    Und als der schöne Tag, in Nacht sich verwandelnd, im freundlichen Schlafgemach
+                    mit der Aussicht auf den Baumgarten und, über diesen hinweg, nach dem Strome mit
+                    den segelnden Schiffen den Müden die Augen schloß, trat auch der Schlaf hinzu
+                    und goß Stärkung über die Ruhenden aus. Die Nacht unter'm Dache des Arztes hatte
+                    heilsame Wirkung:wir erhoben uns vom Lager, frisch und froh, wie der lachende
+                    Tag, der in seiner ganzen Pracht uns weckte.<pb/></p>
+                <p>27 </p>
+                <p>AJ.</p>
+                <p>**</p>
+                <p>Und morgenfrisch und heiter,Als kaum die Nacht entschwand,Gieng's weiter jetzt
+                    und weiter,Die Sonne zum Begleiter,Hinaus in's liebe deutsche Land.O, diese
+                    reizende Fahrt im offenen Wagen! Wie schön die Welt überall! Leb wohl, Usedom,
+                    mit den Thürmen und Mauern dort hinten, mit den klappernden Windmühlen,
+                    getrieben vom Hauch,der da links über den Strom einhersaust, mit dem zierlichen
+                    Friedhofe auf der Anhöhe dort rechts, wo von der kleinen Kapelle aus im Schatten
+                    der Bäume, der Blick hinüber schweift nach dem herrlichen Haff, dem großen, das
+                    seine blauen Wogen, dem Peenestrom zum Trotze noch höher treibt und weiter dehnt
+                    als dieser, den es aufnimmt, ihn nach der salzigen Meerfluth zu tragen! Uns
+                    nimmt jetzt der Wald auf ein weiter, herrlicher Kiefernwald,in den es bald tief
+                    hinein geht auf der breiten Fahrstraße. Mit dem Duft seiner Moose und
+                    Wachholdersträuche trägt jetzt der Wind einen seltsamen Geruch uns entgegen,
+                    einen Geruch, wie von nicht ferner Brandstätte. Und wirklich wie uns eben
+                    erzählt wird stand vor wenigen Tagen dieser Forst in Flammen:ein schrecklicher
+                    Waldbrand setzte ganz Usedom in Bewegung und konnte nur mit ausdauernder Mühe
+                    und Arbeit gelöscht werden.Noch glühte die Asche im Sonnenstrahl, und zu uns
+                    herüber drang der Geruch des verkohlten Holzes.</p>
+                <p>Lange gieng's fort durch den riesigen Wald, gieng's Swinemünde entgegen. Und
+                    jetzt wechselt Feld und Acker mit grünen Wiesen und Hecken, Nadelgehölze mit
+                    zierlichem Buchenschlag, und am Weg rieseln rauschende Quellen: der Weg ist
+                    nicht mehr die staubige Landstraße, er ist ein lieblicher Feldweg geworden, der
+                    bald zu dem in jener Gegend so bekannten und beliebten „Golm“(Golmberg) führt.
+                    Auf der ganzen rechten Seite erheben sich <pb/> 28 höhere oder tiefere
+                    waldbewachsene Anhöhen. Der Wagen bleibt jetzt am Waldessaume zurück, und wir
+                    steigen den schattigen,etwas steilen, Pfad hinan. Wie versinkt da der Fuß im
+                    Sande,in dem tiefen, weißen Sand! Das ist ein seltsames Steigen für den
+                    Bergbewohner! Nicht die glatte, glänzende Sohle macht den Fuß hier unsicher, wie
+                    auf den felsigen Höhen, den breiten Weiden der Heimath, und doch ist er
+                    unsicher, der Fuß, und rückwärts stets gleitet der Körper. Endlich sind wir
+                    oben. Der Golm trägt auf seiner waldigen Höhe eine freundliche
+                    Gartenwirthschaft: Tische und Bänke zwischen den Bäumen für die Zuhörer und auch
+                    das Erforderliche für ein Orchester. Wie schön muß Musik erklingen hier in
+                    dieser Waldeinsamkeit! Dort das geschloßne Wirthschaftshäuschen zeigt an, daß es
+                    erst Morgen,und um diese Zeit herrscht Stille auf dem Golm.Aber auf seinem
+                    Gipfel, da, wo der Wald sich lichtet und wo von hölzerner Erhöhung aus das Auge
+                    in die Ferne schweift, welch ein Anblick da auf dem Golm!</p>
+                <p>Unten im Thal die weite Ebene, durch welche die breite Fahrstraße, eine gerade
+                    weiße Linie, nach der uns gegenüber liegenden Seestadt, Swinemünde, führt. Die
+                    Ebene, das königliche Moor ist's, diese unerschöpfliche Torfgrube, die Jahr
+                    aus,Jahr ein, seit langer, langer Zeit, ihren unterirdischen Reichthum den
+                    Menschenkindern über der Erde beut. Wie ernst sie da unten liegen, die zahllosen
+                    Torfwände, zwischen deren schwarzem Braun schmale helle Wasserstreifen glänzen:
+                    die Gräben, bestimmt, das Naß des sumpfigen Grundes abzuleiten; aber vom
+                    schwärzesten Braun bis in's Gelbe und Graue hinauf zeigt sich die Farbe der
+                    Soden, je nach der höhern oder tiefern Lage und je nach den Bestandtheilen des
+                    Torfs. Es ist ein wundersamer Anblick, dies königliche Moor; bis nahe vor
+                    Swinemünde erstreckt sich das ernste Gefilde. Die Seestadt jedoch liegt da im
+                    Morgenduft.Ein lichter Nebel hüllt, wie ein Schleier, sie ein; ich soll sie
+                    nicht sehen aus der Ferne: undeutlich nur zeigen sich durch sein Gewebe ihre
+                    Mauern, unklar ihre Wälle, und ganz verhüllt ist <pb n="29"/>der herrliche
+                    Leuchtthurm, der, ein Stern der Weisen, in dunkler Nacht die Schiffe leitet zum
+                    Heil. Und dort, über Swinemünde hinaus, jener lichtblaue Streifen am Himmel, mir
+                    erscheint er wie ferne Berge, die im Lichtblau des Aethers verschwimmen: es ist
+                    mein erster Anblick des Meeres! Aber laß Swinemünde und seine unendliche See
+                    dort drüben, vom Dufte umwoben, mein Blick, und wende dich hier gegenüber und
+                    sieh, was du lannst erschaun! Sieh dort den bläulichen langen Streifen, auf dem
+                    je mehr und mehr der grüne Wald sich jetzt zeichnet: es ist die Insel Wollin.
+                    Sie ist es, die mit Usedom das Haff von der Ostsee trennte, wenn nicht die
+                    Flüsse dort, sieh! die Swine, die Peene, die Divenow, drei Ausflüsse der Oder,
+                    das Haff mit dem Meere wieder verbänden. Wie schön, wie herrlich ist die
+                    Aussicht hier auf dem Golm! Bis weit hinab nach Stettin verliert sich der Blick
+                    in die Ferne, und was er nicht zu schauen vermag, das ahnt er: die Stadt an der
+                    Oder, Stettin, mit dem Schloß und dem Park, mit ihren Brücken und Thürmen und
+                    mit den Gebäuden all, die der Kunst und der Wissenschaft geweiht.</p>
+                <p>Noch weilt der Blick dort unten im Süden und der Gedanke bei mehr als Einem
+                    werthen Bekannten, deß' Vaterstadt die schöne, rege, blühende Stadt an der Oder.
+                    Da weist unser Reisebegleiter nach Osten hin und erzählt mir die Geschichte
+                    einer nicht eben so schönen, regen, blühenden Stadt, die Geschichte Vineta's,
+                    der Stadt auf dem Meeresgrund, der versunkenen Stadt. Im fünften Jahrhundert war
+                    Vineta die größte Veste des europäischen Nordens. Wenden, Vandalen, Sachsen und
+                    Griechen und viele fremde Kaufleute fristeten dort ein glückliches Dasein; denn
+                    Handel und Betriebsamkeit gedieh in Vineta. Und wie der Ruf ihres Wohlstandes,
+                    so scholl auch der Ruf der Sittlichkeit und Gastfreundschaft ihrer Bewohner bis
+                    weit in die Welt.Doch wo Menschen ihre Häuser bauen, da ziehen auch menschliche
+                    Begierden mit ein: die verschiedenen Völkerstämme stritten sich über den Vorrang
+                    im bürgerlichen Leben. Harald, der Schwedenkönig, und Hemming, der Dänenfürst,
+                    wurden von den Vandalen <pb n="30"/>zu Hilfe gerufen. Die Helfer kamen und
+                    zerstörten die Stadt 796). Im Anfang des elften Jahrhunderts jedoch stand sie
+                    wieder da an den Ufern der Ostsee, größer und mãchtiger denn zuvor. Da aber kam
+                    ein anderer Feind, gewaltiger noch im Zerstören als Könige und Fürsten: der
+                    Sturm. In seiner ganzen Macht brach er los. Himmelauf thürmten sich die Wasser,
+                    und hrausten laut und brausten hohl. Schwarze Nacht senkte sich über den
+                    Erdrund. Und, als der Morgen strahlte, als die Sonne aufstieg über den Wassern,
+                    da war Vineta untergegangen in der Meeresfluth, verschwunden vom Erdboden,
+                    spurlos dahin.</p>
+                <p>Führt heute dich der Weg am Strackelberg vorbei, hinab zur See, o Wanderer, dann
+                    sieh hinein in ihren blauen Spiegel,hinunter auf den tiefen Grund! Siehst du die
+                    Thürme dort, die Mauern und die Zinnen? Das ist Vineta, die versunkene Stadt. Ob
+                    du sie sehen wirst, weiß ich nicht; aber gestanden hat sie am Meeresstrand, das
+                    ist gewiß.</p>
+                <p>Aber die Zeit enteilt, und drüben in Swinemünde harrt man unser. Auf der weißen
+                    Straße durch's dunkle Moor fuhren wir ein in die Seestadt, diesen weitbekannten
+                    Hafen, wo Schiffe, so verschiedenen Weltgegenden zutreibend, hinausfahren in die
+                    offene See. Hier sah ich sie denn, diese mächtigen Dreimaster, diese Riesen der
+                    Meere, geschaffen, eine Riesenmacht zu bewältigen. Es ist ein ergreifender
+                    Anblick solch ein Schiff. Ruhig lagen sie zwar da vor Anker, mit eingezogenen
+                    Segeln, an diesem Tage,und nur ahnen ließ ihr Bau, was erst sie sein möchten,
+                    wenn in ihrer vollständig enthüllten Pracht sie trieben auf den Wogen der See.
+                    Ich konnte sie sattsam betrachten, denn sie lagen da vor den Fenstern des
+                    Hauses, das sein gastliches Dach über uns schätzten Rectorfamilie von
+                    Swinemünde; sie lagen da in den Wassern des Flusses, die sie hinaustragen
+                    sollten nach der unendlichen See.Auch uns trugen die Wasser der Swine hinaus
+                    nach der See. Es war im Laufe des Nachmittags, als wir, eine kleine,<pb n="31"/>
+                    muntere Gesellschaft, den Nachen bestiegen. Wer Swinemünde nicht kennt, dem
+                    bietet die kleine Seestadt, 8000 Einwohner, einen großartigen Anblick von der
+                    Seite des Hafens aus. Stark befestigt, zieht sie an beiden Ufern der breiten,
+                    tiefen Swine sich hin. Roth schimmern ihre Mauern, ihre Festungs- und
+                    Lootsenthürme mit den Zinnen und runden Fenstern hinab nach der blauen Fluth und
+                    hinaus nach den grünen Gestaden, wo Schanzen und Wälle sich dehnen bis weiter
+                    und weiter hinaus nach dem Meere. Und wenn wir sie betrachten, die Stadt, wie so
+                    kühn und o trotzig sie daliegt vor unsern Blicken, dann dürfen wir denken und
+                    hoffen, daß Swinemünde so leicht wohl nicht einzunehmen sei. Und die
+                    Kriegsschiffe dort draußen im Hafen, wo die jungen Seesoldaten gebildet werden,
+                    sagen sie uns nicht eben so beredt,wie diese Festungswerke, daß an der See man
+                    allzeit sich bereite,um jedem Sturme zu begegnen allzeit! Und der Leuchtthurm
+                    hier rechts! Wie ragt er empor mit seinem schlanken Baue,empor über allen
+                    Thürmen und Häusern und über dem grauen Gesteine der Molen! Die Molen aber! Zwei
+                    Riesendämme!Sieh, wie sie zu beiden Seiten der immer breiter werdenden Swine
+                    sich erheben über dem Wasserspiegel und weit hinaus sich erstrecken! Zwei
+                    felsenfeste Mauern in der tobenden Fluth! Ihr Ausgang, ihr breiter, führt in die
+                    offene See!</p>
+                <p>Anders fühlt jetzt sich das Schwanken des Kahnes: das leichte, unbestimmte
+                    Schaukeln wird zum festen, gleichmäßigen Wiegen, ein Auf- und Niedergleiten; in
+                    der Bewegung liegt schon der Ernst des Elementes, das jetzt den Nachen trägt, er
+                    treibt auf offener See!</p>
+                <p>Die offene See! Blick hinaus, so weit-das Auge reicht:Wasser und Wasser! Blick
+                    hinüber bis nach dem fernsten Horizonte: die unendliche Meeresfluth! Blick
+                    zurück: die entschwindenden Dämme, die in den Fluthen verschwimmende Stadt!</p>
+                <p>Die offene See! O Meeresfluth, o du endlose Fluth! Wer vermag dich zu malen? wer
+                    dich zu schildern? wer in Worte ihn zu fassen, den Zauber, den du ausübst auf
+                    jedes Gemüth? Immer <pb/> 32 bewegt, wie du bist, wirst du immer bewegen die
+                    Seele! Ja,wenn wir dich tausend Mal sehen, wird es tausend Mal uns ergreifen,
+                    und doch ui e mehr, wie zur Stunde, wo das Auge zum ersten Mal dich
+                    erblickt.</p>
+                <p>Zu dieser Stunde konnte nicht ich sagen: „das Meer erglänzte weit hinaus“; dunkle
+                    Wolken hatten den Himmel umzogen; es donnerte in der Ferne; es donnerte bald
+                    näher, bald ferner, und das Meer gab das Bild des Gewitterhimmels zurück:
+                    schwarzgrau lag sie da vor unsern Blicken, die endlose Wasserfläche. Und die
+                    Wogen, die von fern her immer näher und näher sich wälzten, um am Ufer zu
+                    zerschellen, sie waren weiß beschäumt, weiß wie die Flügel der Möven, die mit
+                    lautem Geschrei unruhig hin und her flogen, bald in den nassen Lüften die langen
+                    Schwingen badend, bald untertauchend in die salzige Fluth. Denn die Wasser des
+                    Himmels mischten sich jetzt mit den Wassern der See: in Strömen goß der Regen
+                    herab.</p>
+                <p>Am ünken Ufer prangte aber der zierliche Bau von Wilhelmsbad, dieses
+                    neuerrichteten Seebades. Seine Räume sollten uns Schutz bieten gegen das
+                    Unwetter. Der Nachen trieb dem Lande zu. Man stieg aus. Ich aber, o, wie gerne
+                    wäre ich zurückgekehrt mit dem einsamen Schiffer, zurück in die wogende See! Der
+                    Zauber ihrer ernsten, wilden Schönheit hielt mich umstrickt; wie mit Riesenarmen
+                    zog es mich zu ihr hin, unaufhaltsam, unwiderstehlich. Die kleine Gesellschaft
+                    war inzwischen in den schützenden Mauern des Baues geborgen. Da bat mich der
+                    besorgte Verwalter, der allein bei mir zurückgeblieben am Strande, bat mich,
+                    Gott nicht zu versuchen und ihm zu folgen an's Ufer. Er aber wußte, wie mir zu
+                    Muthe war in diesem Augenblick: nicht zum ersten Mal sah er den Eindruck der See
+                    auf ein empfänglich Gemüth; er hatte Aehnliches schon bei Andern erfahren. Und
+                    ihm, dem ich diesen Eindruck zunächst verdankte, folgte ich denn, wenn auch
+                    ungern, nach.</p>
+                <p>Aber aus den Fenstern von Wilhelmsbad sah ich noch lange,lange hinaus auf die
+                    See, sah in weiter Ferne die Schiffe <pb n="33"/>schwanken auf der schäumenden
+                    Fluth, sah sehnsüchtig dem Nachen nach, der, jetzt auf und nieder gleitend, bald
+                    nur noch wie ein winziger dunkler Punkt auf den weißen Wellen erschien. Und das
+                    Brechen der Wogen am Strande, dieses gleichmäßig tosende Branden, schlug den
+                    ernsten Takt zu der ernsten Weise, die da meine Seele durchzog.</p>
+                <p>Das Gewitter hatte ausgetobt und ein reiner Abendhimmel glänzte über unserm
+                    Heimwege nach Swinemünde. Wir legten zu Fuß die nicht weite Strecke zurück. Der
+                    herrliche Park von Wilhelmsbad führt bis dicht an die schöne, breite Straße der
+                    Stadt,wo eine Menge großer und kleiner Häuser mit Gärten und blumenumrankten
+                    Veranden, die alle die Inschrift: „zu vermiethen“ tragen, Swinemünde als viel
+                    besuchten Badeort zu erkennen geben.</p>
+                <p>Durch den tiefen Sand auf dem großen Platze dicht am Hafen an, wo die stattlichen
+                    Gasthöfe stehen, arbeiteten wir uns durch bis zu der freundlichen Wohnung des
+                    Rektors. Und wir können mit Recht sagen, daß wir „den Fuß nicht an einen Stein
+                    gestoßen; Engel haben uns zwar nicht auf den Händen getragen“,wohl aber uns
+                    begleitet im Gewande der Herzlichkeit und ächt deutscher Gemüthlichkeit, die uns
+                    umgab.</p>
+                <p>Ein genußreicher Abend in geistanregender Gesellschaft, welcher die liebliche
+                    Rektorsfrau, als Gastgeberin, in sinnigster Weise vorstand, krönte diesen
+                    schönen Tag.</p>
+                <p>8 <pb n="3"/>3</p>
+                <p>1 </p>
+                <p/>
+                <p>r </p>
+                <p>Ein ernstes Volk, ernst wie die tiefen Wälder Der Heimath; fest und unentwegt,
+                    dem Fels Im Sturme gleich am meerumbrausten Strand Der nord'schen Küste, ist
+                    dies Volk des Nordens.Nicht leicht entglüht's in jener leichten Gluth,Die nur
+                    des Wesens äußern Theil ergreift;Fällt aber von des ächten Feuers Schein,</p>
+                <p>Des göttlichen, ein Strahl in's Herz hinein,Wird nordisch Blut dies heil'ge Feuer
+                    wahren,Und mit dem Herzen nur die Gluth erstarren.</p>
+                <p>Der folgende Tag golden strahlte die Sonne herab auf die Thürme von Swinemünde.
+                    Es war Sonntag, und wie ein ächter Feiertag, lag er da, still und heilig, über
+                    der Seestadt, der frühe SonntagMorgen. In seinem frischen Hauche flatterten die
+                    Wimpel der Schiffe im Hafen, und über der blauen Fluth rauschte es dahin, wie
+                    ein Säuseln, und verklang im Winde: „Das ist der Tag des Herrn!Sechs Tage sollst
+                    du arbeiten, am siebenten aber“ .. Geschlossen waren die Kaufladen am Strande,
+                    geschlossen die Schulen und die Häuser alle, wo Fleiß und Pflichttreue die Woche
+                    über die Menschenkinder an's Tagewerk fesselt; geöffnet aber die Gotteshäuser,
+                    die kleinen in der Stadt, erbaut von Menschenhand, und das große draußen vor der
+                    Stadt, erbaut von Gotteshand.</p>
+                <p>Wir fuhren hinaus in die weite, herrliche Schöpfung. Und daß unserer Freude
+                    nichts fehle, hatten sich zu uns gesellt all die, die wir am heutigen Tage nur
+                    ungern vermißt hätten. Das war eine prächtige Fahrt! Unsere Wagen glitten längs
+                    dem Strande leicht und geräuschlos dahin; ja, längs dem Meeresstrand, im tiefen,
+                    weichen Sande, fuhren wir dicht an der See,dem Ziel unserer Reise, dem reizenden
+                    Seebade Heringsdorf, zu.</p>
+                <pb n="50"/>
+                <p>*</p>
+                <p>Das Meer! heute war es blau, tiefblau, wie der Himmel über uns. Weiße Schäumchen
+                    aber umrandeten, wie silberne Bänder, seine Wellen, die so lieblich daher
+                    rollten, daß man nur ungern der Lust widerstand, auf ihrem zierlichen Naß sich
+                    zu wiegen. Ueber Muscheln und Seetang fuhren wir weg.</p>
+                <p>Da, o des wundersamen Anblicks! Was ist's, das da schwimmt auf dem Wasser? Wie
+                    ein ausgespanntes Netzchen von feinster Gaze sieht es aus, so nebelhaft-duftig,
+                    so zart;bläulich-weiß von Farbe und in seiner Mitte ein blutrother Stern, der
+                    sich regt und bewegt voll Lebens. Ich konnte einen Ausbruch der Verwunderung
+                    nicht unterdrücken, und eh ich mich's versah, zitterten diese kleinen Wunder als
+                    eine durchsichtige, weiße Masse (eine Gallerte) in meiner Hand: es waren die so
+                    viel beschriebenen Quallen, mit denen ich Bekanntschaft machte, eine
+                    Bekanntschaft, die ich Dem stets verdanken werde dem jüngsten Bruder des Rektors
+                    der, mir selbst da noch unbekannt, mit den Reiterstiefeln in die See stieg und
+                    mir die Quallen vorstellte, ehe er mir noch vorgestellt worden.</p>
+                <p>Von ferne schimmerten jetzt mit ihren bewimpelten Brücken am sonnigen Strande die
+                    Badehäuser des auf waldiger Anhöhe liegenden Heringsdorf, das, noch verborgen im
+                    Schatten seiner Bäume, nur hie und da als einzelnes Haus aus dem Dickicht
+                    guckte, als wollt es den Wanderer necken, geizend mit dem Liebreiz seiner
+                    völligen Enthüllung.</p>
+                <p>Aber durch den schattigen Buchenwald gieng's nun bergan,und da, bald in dessen
+                    Dunkel verstreut, bald auf sonniger Anhöhe glänzend, zeigten sich die stolzen
+                    Villen und die niedlichen Landhäuser und -Häuschen dieses so beliebten und
+                    eleganten Badeortes der Ostsee.</p>
+                <p>Wir erfrischten uns unter den laubumrankten Säulen eines der zierlichen
+                    Gasthäuser, das von seiner Veranda aus, durch die hohen Bäume der Parkanlagen
+                    hindurch, einen Blick auf die See gewährt. Und nie hab ich wohl in meinem Leben
+                    zwischen einem frischeren Grün ein schöneres Blau je schimmern seh'n, als das
+                    Blau <pb n="24"/>der Ostsee durch die Buchen von Heringsdorf an diesem klaren
+                    Septembermorgen.</p>
+                <p>Und heiter, wie Himmel und Meer, war auch unsere Stimmung. Unter munterm Scherzen
+                    gieng's nun zu Fuß noch weiter bergan, hinauf durch den herrlichen Buchenwald,
+                    in dessen Schatten,wie das Allerheiligste in einem Riesendome, die hübsche,
+                    kleine Kirche verborgen liegt; ihre bunten Fenster strahlten das Bild der
+                    lispelnden Bäume zurück. Es gieng hinauf nach dem Höhepunkt des Berges, dem
+                    sogenannten Kulm, wo von einer dort angebrachten Estrade aus der Blick die weite
+                    See beherrscht.</p>
+                <p>So sollt ich denn heute sie einmal noch sehen die See, und zwar in ihrem
+                    schönsten Glanze; sie sehen mit den vielen Fahrzeugen, die, nah und fern, auf
+                    ihrer endlosen Fläche trieben. Die blaue Fluth wogt ruhig, sanft im Winde, der,
+                    ein sanfter Hauch,uns auf des Berges Höhe die heiße Stirne kühlt. Wir lassen ihn
+                    spielen mit den Halmen zu unsern Füßen und blicken hinaus und hinab. Tief unten
+                    am sandbedeckten, weißen Uferrand stößt ein niedliches Seegelboot lustig vom
+                    Strande, Musik erschallt zu uns herauf: eine muntere Gesellschaft hält
+                    Sonntagsfeier auf der See. Und hier ein Kahn und dort ein Nachen: ein emsiger
+                    Fischer breitet die Netze aus; für ihn ist nicht Feiertag: die Fische treiben
+                    vorbei, heute wie gestern; ihm blüht das Glück im Fange. Aber dort drüben,
+                    inmitten der blauen Fluth, dort zieht hinaus in die endlose Ferne, stolz wie der
+                    Held zum Kampf, ein stolzer Dreimaster. Sieh, wie er eilet! Weithin trägt ihn
+                    die Fluth auf dem Rücken, als wär er ein Spielzeug, und wiegt ihn so lieblich
+                    und fein, als gieng's zum heitersten Tanze. Glück zu!Glück zu, du herrliches
+                    Fahrzeug! und möge sie nie anders dich schaukeln als heute, die herrliche,
+                    mächtige See! Aber dort, wo der Himmel sich ihm vereint, dem Meere, wo sie
+                    verfließen in Eins, die beiden endlosen. Größen, was ist's, das so spitz dort
+                    empor ragt auf der letzten äußersten Grenze? Sind es Bäume,die so schlank und so
+                    fein sich zeichnen am Horizonte? und ist Land dort drüben vielleicht? Es ist
+                    kein Land, es sind keine <pb/> 37 Bäume dort drüben: die Masten sind es der
+                    Schiffe, die, dem Dreimaster gleich, dort hinausgesegelt in's Unendliche. Ein
+                    Augenblick noch, und sie sind entschwunden! weit und weiter fort zwischen Wasser
+                    und Himmel! Oder sieh dort: sie kommen näher und näher, Schiffe, die Swinemünde
+                    zutreiben, Swinemünde, dessen Leuchtthurm dort unten im Westen ihnen winkt,
+                    dessen Molen den Einzug ihnen ebnen. Jetzt rauscht ein stattlicher Dampfer
+                    daher;er nimmt jenes müde Fahrzeug in's Schlepptau, und leicht und lustig wird
+                    bald der Hafen erreicht sein. „Land“, aber, „Land“,grüßt da manch ein dankbar
+                    Gemüth.</p>
+                <p>O Meer! und ich habe bloß dich begrüßt, so muß ich scheiden von Dir, wer weiß auf
+                    wie lange! Die Stunde war da, die nicht nur vom Meere, sondern auch von den
+                    werthen Reisegefährten uns trennen sollte: sie kehrten nach Swinemünde zurück,
+                    wir nach Carlsburg. Noch ein Mal sahen wir hinaus nach der See:die blaue Fluth
+                    wogt ruhig, sanft im Winde; noch einmal hinab nach der Stadt: dort unten liegt
+                    sie im Mittagsonnenschein, weit,weit dort unten liegt Swinemünde: aber der
+                    Leuchtthurm glänzt,wie ein brennender Stern, zu uns herauf. Und drüben die Insel
+                    Wollin mit Misdroy, dem freundlichen Badeort! Und ferne, im Aether
+                    verschwimmend, nach Norden die Umrisse von Rügen. Und Berg und Wald, und Feld
+                    und Flur, sie grünten und blauten so heiter! Freude lachte überall und bot ihren
+                    Trank uns zur Labe. Aber in den Labetrank fiel ein Tropfen Wermuth, eine
+                    Scheidethräne. Ach, wer ist des Wiedersehens jemals gewiß!</p>
+                <p>Weniger Stunden bedarf es oft, um Menschen einander zu verbinden, indeß Jahre des
+                    Verkehrs andere einander fremd lassen.Jene Stunden werden, um mit dem
+                    geschätzten Manne zu reden,der die Worte aussprach „als grüner, duftender Strauß
+                    in der Erinnerung ewig fortleben.“</p>
+                <p>Als das Rollen des Wagens, das die Befreundeten davon trug, verschallt war,
+                    fühlten wir uns etwas vereinsamt unter der Schaar von Fremden, die den Badeort
+                    zu dieser schönen Herbstzeit noch belebten. Doch bald fesselte die nächste
+                    Umgebung un<pb n="38"/>sere Aufmerksamkeit: es war die Bude des Händlers, der
+                    die feinen Bernsteinwaaren dort zur Schau und zum Kaufe bot. Im Schatten der
+                    Buchen steht das kleine Haus, und von seinem erhöhten Plane schweift der Blick
+                    nach dem in nicht weiter Entfernung brandenden Meer.</p>
+                <p>Das Tosen der See verschmolz mit dem Anblick der gelben,glänzenden Waare, und
+                    eine Sprache entstand, der das Ohr an dieser Stätte willig lauschte. Sie
+                    erzählte uns von den dunkeln Wäldern, den tiefen, die vor langer, langer Frist
+                    mit ihren Nadelholzbäumen untergegangen im Strömen der ewig schaffenden und ewig
+                    zerstörenden Kraft, untergegangen wie so Manches vor ihnen und wie so Manches
+                    nach ihnen noch untergehen wird, nach ewig wandellosen Gesetzen. Sind sie tief
+                    unten auf dem Meeresgrunde,diese versunkenen Wälder? Wer vermag es zu sagen!
+                    Aber die See, gepeitscht von den tobenden Stürmen, wirft aus den BernD000 mit
+                    Muscheln und Seetang; dieser Stein liegt da in verschiedenen Formen, in
+                    rundlichen, abgestumpften Stücken, bald größer, bald kleiner; liegt da auch,
+                    fern von der Küste, als thonige Sandschicht gestaltet, oder auch im Herzen des
+                    Sandsteins verborgen.</p>
+                <p>Die kleine Mücke dort aber im Steine der künstlich verfertigten Nadel, die könnt'
+                    uns erzählen von dem Tage, wo sie lebend und munter, sich freuend im
+                    Sonnenglanz, von der harzigen Fluth überrascht und davon getragen, plötzlich
+                    erstarrte. Und wie die Fluth selber erstarrt, das Harz zu Stein geworden! Wie
+                    der Baum davongetragen und der Wald, und wie dieser spurlos versind darüber hin!
+                    Prange fort in deiner Bernsteingruft, du niedlich kleines Wesen! Tausend und,
+                    tausend Jahre werden wieder vergehen, und dort, wo die See braust und das
+                    versteinerte Harz der versunkenen Wälder an ihren Strand spühlt: was wird dann
+                    sich weisen dort drüben?</p>
+                <p>Und am Strande wandelten wir noch auf und nieder, suchten nach Bernstein, fanden
+                    aber nur Muscheln, die wir indeß auch <pb/> 39 als werthe Erinnerung mitnahmen.
+                    Die“ Küste bei Heringsdorf ist bis weit an's Land hinauf mit jenem tiefen,
+                    weißen Sande bedeckt, der im Sonnenschein wie ein Schneefeld schimmert. Der Sand
+                    am Meer, unzählbar wie die Sterne des Himmels, und ... und unbeschreiblich
+                    schön!</p>
+                <p>Es fiel uns schwer, das Meer und den Sand am Meere zu verlassen.</p>
+                <p>Wir hatten aber noch einen weiten Heimweg vor uns. Es galt, an diesem einen Tage
+                    über 9 Meilen zurückzulegen, was nur in diesen endlosen Ebenen und nur mit den
+                    Rossen möglich;immer in eilendem Trabe geht's fort und fort, oft auf schier
+                    ungebahnten Wegen, oft schier grausig, wenn man ängstlich wäre.</p>
+                <p>Bei dieser Rückfahrt sah ich noch ein Mal das Meer, Dank unserm Reisebegleiter.
+                    Wir waren auf einer Anhöhe; er bat mich zurückzusehen. Welch ein Anblick! Die
+                    See, jetzt ein schwarzblauer Streifen, verschwimmend im schwarzblauen Luftmeer,
+                    das war der ernste letzte Grund auf diesem wundervollen Bilde; zwischen dem
+                    Ocean und uns weite Kornfelder, Stoppelfelder, über die der Wind dahin zog und
+                    in unserer nächsten Nähe die Mühlen trieb, deren dunkle Arme im Abendsonnengold
+                    sich langsam bewegten. Von links herüber schimmerten hell die Dünen, der
+                    Strandhafer allein bewächst ihren losen Grund; aber über den weißen Hügeln
+                    ragten dunkel die Kiefern empor. Und über den Kiefern und Dünen glänzte schmuck
+                    von seiner Anhöhe herab noch einmal das zierliche Heringsdorf mit seinen Villen
+                    und Gärten,mit seinem grünen, herrlichen Park. Ein Blick noch, und Meer und
+                    Dünen, und Dorf und Park lagen hinter dem Hügel verborgen und vor uns erstreckte
+                    sich die Ebene, die vor nicht sehr langer Zeit noch ein weiter, weiter See, ein
+                    sumpfiger, trauriger Erdstrich, jetzt meilenweit grünt und gelbt, als Wiesen und
+                    Felder,bis nach dem fernen Usedom hinüber, ein frohes, gesegnetes Land heut.In
+                    Usedom ward nochmals gerastet, dies Mal freilich nur kurze Zeit, denn wir
+                    wollten vor Mitternacht zurück sein in Carls<pb/> 40 burg. Wohlverwahrt gegen
+                    die Frische der Herbstluft, von ärztlicher Hand selbst eingehüllt in die warme
+                    Bedeckung, gieng's nun hinaus in die Stille des Abends, und bald hinaus in die
+                    Kühle der Nacht.</p>
+                <p>Diese nächtliche Fahrt, nie werd ich sie vergessen. Wie ernst,wie düster sogar,
+                    scheint hier die Landschaft zur Nachtzeit! Gluthroth gieng wieder die Sonne
+                    unter, ein feuriger Ball, dort im Westen; gluthroth schimmerten die Wasser des
+                    Stromes, ein blutiges Meer, uns zur Rechten. Je mehr und mehr verschwammen jetzt
+                    Wiesen und Felder. Und wenn durch dünne, flüchtige Wolken des Mondes Scheibe,
+                    groß und voll, sich Bahn brach,bestrahlte das blasse Licht auch wieder die
+                    langen Arme der Windmühlen. Und fort gieng's in eilendem Trabe, fort durch die
+                    schweigsame Nacht.</p>
+                <p>Ist es ein Wunder, daß das nordische Volk so ernst, oft auch so geneigt zum
+                    Aberglauben? Huscht der Wind über die Haide,so rauschen die dürren Halme; braust
+                    er durch den Wald, so knistern die welken Blätter, und scheint das Mondlicht
+                    über die Triften, wirft lange Schatten jeder Baum, jeder Strauch. Und Schatten
+                    und Knistern und Rauschen das Geisterreich, welch duftig, neblicht Reich! Und
+                    das Unerhörte, das Unmögliche, welchen Reiz hat es nicht allenthalben für ein
+                    menschlich Gemüth.</p>
+                <pb n="41"/>
+                <p>8 </p>
+                <p>Horch! was will der Wind mir sagen,Wenn er durch die Wipfel zieht?Singt er mir
+                    von alten Tagen,Singt er mir ein altes Lied?</p>
+                <p>Ich will hören, ich will lauschen!Laß mich still und einsam hier!</p>
+                <p>Und was mir erzählt sein Rauschen,Will ich dann erzählen Dir!</p>
+                <p>Hat es der Wind mir erzählt? hat es der Park mir gesagt?Eine Geschichte hab ich
+                    vernommen aus alter, grauer Zeit: die Geschichte vom Schlosse Carlsburg.</p>
+                <p>Still war's und ruhig in seinen Hallen: über seinem Dache,wie über den weiten
+                    Gefilden, lag die Nacht, die große Ruhespenderin. In ihrem schwarzen Mantel
+                    birgt sie den Labetrank,den Schlaf, und gießt ihn aus über alle Müden: gießt ihn
+                    aus über den von der Arbeit erschöpften Tagelöhner, gießt ihn aus über den
+                    Denker, den Mann der Wissenschaft; ja, auch an's Lager des Leidenden tritt sie
+                    hin und schenkt ihm doch wenigstens eine Stunde der Erquickung, indeß, bei der
+                    einsam brennenden Leuchte,treue Liebe sorgend wacht über dem Schlummernden.</p>
+                <p>Schwarz war sie, die Nacht, und ernst wie das Grab; kein Sternlein am Himmel,
+                    nicht eines, zu sagen, daß über der Leuchte irdischer Nachtwache die ewige,
+                    himmmiische Liebe wacht.Doch wer wollt' es bezweifeln, auch wenn Nacht und
+                    Grauen ihre leuchtenden Sterne umhüllen?</p>
+                <p>Still war's und ruhig. Da pocht es an's Fenster. Horch!horch! · Ich öffne: „Komm
+                    mit! komm mit!“ lockt's herüber zu mir aus den Zweigen. Es ist der Ruf des
+                    Käutzchens, dieses allnächtlichen Gastes im Parke. Mein Licht hatte das kleine
+                    Thier angezogen; sein Flügelschlag mich an's Fenster gelockt. Nun aber stand ich
+                    da und schaute hinaus in die Nacht.<pb/>Wie es rauscht in den Wipfeln der Bäume!
+                    Sagt an, ihr hohen Häupter wir kennten uns doch, meine ich, nun lange genug
+                    schon! Hebt an, mir zu erzählen! Sagt, habt ihr immer wie heute dagestanden und
+                    hinüber geschaut nach diesen Fenstern?Ich seh, wie sie sich bewegen, die
+                    Häupter, seh auch durch's Dunkel der Nacht, sie winken: „Nein!“ Und ein Säuseln
+                    beginnt jetzt und ein Flüstern, erst leise, ja kaum vernehmbar, nun lauter und
+                    deutlicher aber, und ich höre genau ihre Sprache, höre, was sie mir erzählen,
+                    die Bäume des Parks:</p>
+                <p>„Vor langer, langer Zeit stand da, wo wir jetzt grünen, ein tiefer, schwarzer
+                    Wald. Und in dem Walde drinnen stand, alt und grau, ein Schloß. Dies Schloß aber
+                    hieß Gnatzkow,was ein slavischer Name und in unserer Sprache will sagen „Ort der
+                    Nacht“. Es war eben Nacht um das Schloß herum und in ihm drinnen. Dies finstere
+                    Haus nun aber kam im Laufe der Jahre, wie die Menschenkinder zu rechnen pflegen,
+                    in Mitte des 16. Jahrhunderts, als Besitzthum an die Herren von Normann.Und in
+                    den schwarzen Wäldern von Gnatzkow blühte jetzt eine weiße Rose: Maria Lucretia,
+                    des Hauses liebliche Tochter. Eines Tages aber zog des Weges daher ein edler
+                    Recke: Herr Christoph Olaf von Bohlen. Er sah die Rose. Und nicht zu schwarz
+                    erschienen ihm die Wälder von Gnatzkow; die Rose verbreitete solch hellen Glanz:
+                    er blieb dort haften. Die Rose wurde sein Ehgemahl. Und Gnatzkow gehörte von nun
+                    an den Reichsgrafen von Bohlen.</p>
+                <p>„Aber die Zeit gieng darüber hin. Die schwarzen Wälder von Gnatzkow lichteten
+                    sich allmählig, wie noch Manches sich zu lichten begann. Es grünte die Saat, es
+                    grünte das Gras herum um den „Ort der Nacht!“ Es grünten auch Hügel dazwischen:
+                    ein jung Geschlecht legte Kränze auf die Gräber der Ahnen. Aber auf den Feldern
+                    reifte die Saat; der Ackerbau blühte empor mit dem jungen Geschlechte und von
+                    Jahr zu Jahr füllte reicherer Segen die Scheunen. Da es war am 24. August des
+                    Jahres 1732 “<pb/> 43 Doch, was ist denn mit den Bäumen des Parks? Wie tief sie
+                    das Haupt jetzt neigen, als weinten sie, wie Menschen weinen!Und es seufzen die
+                    Pappeln und Weiden, und klagend rauscht's über die Flur. Horch! horch! sie
+                    erzählen jetzt weiter, die Bäume:</p>
+                <p>„Die Sturmglocke hallt im Schlosse! Feuer! Feuer! in Gnatzkow! Der ganze Hof
+                    steht in Flammen! Das Schloß, eine flammende Säule, ragte blutroth zum Himmel
+                    empor! Der Wind facht die Gluth an, Korn und Heu nährt sie! Wer soll hier
+                    retten, wer helfen? Es war am 24. August 1732, am 25. wehte der Wind über Schutt
+                    und Asche: Gnatzkow war niedergebrannt bis auf den Grund.</p>
+                <p>Aber die Zeit, die zerstört, baut auch wieder auf, oder vielmehr: Graf Carl
+                    Berend von Bohlen ließ das Schloß wieder aufbauen. Und im Jahre 1739 stand es
+                    da, wie es heutzutage noch dafteht. Nur da, wo wir jetzt grünen, da prangte ein
+                    zierlicher Blumenflor: des Morgenlands stolze Tulpen, seine Kaiserkronen und
+                    Hyazinthen, wie Italiens wohlriechende Nelken, wie seine Rosen und seine Lilien,
+                    alles blühte und duftete hier im nordischen Garten, ein ächt französischer
+                    Schmuck.</p>
+                <p>„Und der Name „Ort der Nacht“ wollte je länger je weniger mehr passen für das
+                    Schloß.</p>
+                <p>Wer aber ist der fremde Rittersmann, der an jenem Abend,es war im Jahre 1771, um
+                    Einlaß bittet im Schlosse? Carl Julius von Bohlen, der gastliche Besitzer des
+                    Hauses, bewirthet ihn auf's Beste. Der jugendliche Fremde, hier will er rasten
+                    die Nacht, die er ste auf schwedischem Boden wieder, denn pommer'sche Erde war
+                    dazumal schwedisches Land. Er kommt von weit her gezogen, ein lauter Ruf treibt
+                    ihn zurück nach der Heimath: der Ruf seines Volkes, das ihn zum Könige ernannt.
+                    Denn der fremde Rittersmann ist Gustav, der Sohn Adolf Friedrichs, und
+                    nunmehriger König von Schweden, Gustav III.</p>
+                <p>„Und sie sitzen beisammen, die Männer, bis tief in die Nacht.Gustav ist ein
+                    geistreicher, liebenswürdiger Gesellschafter. Und sie <pb n="44"/>reden und
+                    reden von so Manchem. Und der hohe Gast bittet den Herrn des Hauses, einen
+                    Wunsch auszusprechen, dessen Gewährung ihm eine frohe Erinnerung wäre an diese
+                    freudig verlebte Nacht.Da wäünscht denn Carl Julius von Bohlen, daß der künftige
+                    Schwedenkönig seinem Hause einen frohmüthigern Namen gebe zum Andenken an diese
+                    frohe Stunde, vielleicht seinen eigenen Namen.Gustav aber, in feiner
+                    Rittersitte, nennt Gnatzkow, den Ort der Nacht: Carlsburg, nach dem Namen seines
+                    edeln Wirths und Besitzers des Schlosses.“</p>
+                <p>Und unter Carlsburgs Dache schloß der künftige König von Schweden die Augen. Sohn
+                    Adolfs, ruhe sanft in den gastlichen Hallen des Schlosses, bevor der Hermelin
+                    noch Deine Schultern beschwert und die Krone Deine junge Stirn' drückt! Gustav
+                    von Schweden! hat kein fröstelnder Hauch, wie eine Ahnung ferner Tage, in jener
+                    Nacht Dich umsäuselt? Und ist der Name Ankarström, der Name Deines Mörders,
+                    Deinem Ohr nicht erklungen im Traume mit den Klängen einer rauschenden
+                    Tanzmusik?</p>
+                <p>Gewiß nicht! Sanft schläft sich's unter Carlsburgs Dache.</p>
+                <p>Auch ich schlief ein. Denn: leiser und leiser flüsterten jetzt die Bäume, und
+                    ferner und ferner erschien mir ihr Lispeln; ein Säuseln nur noch umrauschte
+                    mich, ein Wehen. War es die Erinnerung an Gustav III., den unglücklichen König
+                    der Schweden? Nicht weiß ich's. Aber als ich erwachte, wußt ich die Geschichte
+                    von Carlsburg und daß das Schloß durch die Vermählung der Gräfin Caroline von
+                    Bohlen seit 1828 das Besitzthum der Grafen von Bismark-Bohlen nun ist.</p>
+                <pb n="45"/>
+                <p>X.</p>
+                <p>O Meer!Wer nie dich sah, mag wünschen dich zu seh'n;Doch, wer dich sah, der möge
+                    nimmer wähnen,Gestillt zu haben seines Wünschens Drang!Denn, wie ein
+                    Liebekranker, sehnsuchtsbang,Wird er, nachdem er ein Mal, hochbeglückt,Dir tief
+                    in's tiefe blaue Aug' geblickt,Nach dir zurück, o Meer, sich ewig sehnen.</p>
+                <p>So ergieng es auch mir: seit meiner Reise nach dem Meere war ich seekrank, das
+                    heißt: krank von Sehnsucht nach der See,und meine Krankheit fand so viel
+                    Theilnahme, daß bald ein zweiter Reiseplan entworfen wurde. Dies Mal aber war
+                    das Ziel Rügen, Räügen, das Land der Sagen, der Träume, das allseits besungene
+                    Land, Rügen mit seiner Küste, der Stubbenkammer.</p>
+                <p>.Und wenn Sie ein Sonntagskind sfind, werden Sie sie seh'n,wie sie im Mondschein
+                    das blutige Tuch wascht in der Meerfluth,die wundersame Frau, „an Schönheit
+                    sondergleichen,““ sagte der Mann zu mir, der durch sein tiefes, gründliches
+                    Wissen ein verehrter Lehrer längst mir geworden, der über die gegenwärtigen
+                    Zustände seines Landes, wie über die der Vergangenheit, über die Beschaffenheit
+                    von dessen Boden, wie überhaupt über Alles, was in's Bereich der
+                    Naturwissenschaften oder der Geschichte einschlug,mich so freundlich
+                    unterrichtete; Er, dem in den Schreckenstagen des letzten Krieges sogar der
+                    erbitterte Feind die Anerkennung seines hohen Menschenwerthes nicht versagen
+                    konnte. In dankbarer Erinnerung werde ich stets dieser Belehrung gedenken, wie
+                    auch der Sorgfalt, womit er den kleinen Reiseplan entworfen, mit welchem
+                    ausgerüstet ich tgetrost und wohlgemuth nach dem Lande meiner Sehnsucht ziehen
+                    konnte. Freundliche Wünsche begleiteten mich.</p>
+                <p>Dies Mal gieng es mit der Eisenbahn nach Stralsund,<pb/> 46 das von Züssow aus in
+                    Zeit einer Stunde zu erreichen ist. (Stralsund zählt heut 30,000 Einwohner).
+                    Leider war der erst noch so wolkenlose Himmel jetzt trüb und grau, und in seinem
+                    düsteren Lichte erschien sie ernst, wie ihre große, ernste Vergangenheit, die
+                    alte, deutsche Stadt mit ihren hohen Häusern, deren Giebel und spitze Thürme ihr
+                    einen so imposanten Charakter verleihn. Von Carlsburg aus sorgsam empfohlen an
+                    werthe Bekannte in Stralsund, fühlte ich mich auch da nicht ganz fremd.</p>
+                <p>Die Fenster meiner Zimmer boten die Aussicht auf den großen Platz vor dem
+                    Rathhause, den sogenannten „alten Markt“;gegenüber denn das Rathshaus. Wie
+                    erhaben sein Anblick in jener Nacht! Durch schwarze, zerrissene Wolken brach das
+                    Mondlicht und beleuchtete die Fenster des alten, grauen Baues. Diese gothischen
+                    Thürme, diese zierlich gearbeiteten Fenster, die magische Mondbeleuchtung: das
+                    Rathhaus von Stralsund erschien dem Beschauer wie ein großes, herrliches
+                    Lichtbild, mit dessen Abbild er gerne in der Heimath seine eigenen Fenster
+                    geziert hätte. Aber dieser Anblick und die ernste Stille der Nacht, von Zeit zu
+                    Zeit nur unterbrochen vom Wirbeln der Trommeln der in der Festung weilenden
+                    Besatzung, beschworen noch andere Bilder aus ihren Gräbern herauf: ein ganzes
+                    Stück alter Geschichte entrollte sich dem geistigen Blick Stralsund's große
+                    Vergangenheit.</p>
+                <p>Aus dem Nebel der Tage von 1209 steigt sie empor, die Stadt, zur Zeit, wo Jaromar
+                    J. noch Fürst war auf Rügen;Stralow hieß sie bei ihrem Entstehen man nimmt an,
+                    nach der alten Insel Strela (später Dänholm). Aber der wendische Name wandelte
+                    sich bald in den deutschen Stralsund (Sund: Meerbusen oder Meerenge). Begünstigt
+                    durch die Rügen'schen Fürsten,durch ihre Lage und manch andere glückliche
+                    Verumständung, blühte sie rasch empor, die junge Stadt, und bald stand sie da,
+                    als eine der bedeutendsten Handelsstädte der nordischen Küste. Doch wer hat
+                    jemals die Gunst des Glückes genossen, ohne Neid zu erwecken? Es war Lübeck,
+                    die, den Glanz der Rivalin beneidend,im Jahre 1249, ermuthigt durch ihre Erfolge
+                    gegen die Dänen.<pb/> 47 Stralsund den Untergang schwur. Verderbenbringend
+                    rückte die feindliche Flotte heran, und Stralsund, kaum seines jungen Lebens
+                    sich freuend, wurde vernichtet, um jedoch größer und zierlicher denn zuvor nach
+                    kurzer Frist von Neuem aufgebaut zu werden. 1256 stand die Stadt wieder da und
+                    blickte heiter nach den Fluthen hinab, die das pommerische Land von Rügen
+                    trennen (Meerenge Gellen). Doch im Jahre 1271 nahte sich ihm ein anderer
+                    Feind:eine schreckliche Feuersbrunst brach aus. Erbarmungslos wütheten die
+                    Flammen, und bald war die meist aus Holz erbaute Stadt niedergebrannt ganz und
+                    gar. Aber fester und blühender erhob sie sich, ein Phönix aus der Asche, auch
+                    dies Mal wieder und strebte jetzt bis in die Wolken empor: himmelwärts ragten
+                    die Spitzen ihrer zierlichen Kirchen, der Nicolai-, der Jacobi und der
+                    Marienkirche.</p>
+                <p>Von jetzt an begann Stralsund zu gedeihen, je mehr und mehr. Allen Anfechtungen
+                    trotzend, den Kriegen mit Dänemark,den Fehden mit den Fürsten von Rügen, wie dem
+                    Zwiespalt im eigenen Innern, bewahrte es seine rühmliche Selbstständigkeit ein
+                    und ein halbes Jahrhundert hindurch und wurde mit den Hansestädten eine Macht,
+                    deren Arm, wirkend und bestimmend, in Vieles hineingriff.</p>
+                <p>Aber die Sonne des Glücks stand für Stralsund jetzt im Zenith; sie begann zu
+                    sinken, bevor noch das 15. Jahrhundert zu Ende. Fortwährende Kriege nach Außen
+                    und leider auch öftere Wirren im Innern nagten am Marke des Wohlstandes der
+                    Stadt,wie an ihrer Geltung nach Außen. Und der Verfall der Hansa zog auch den
+                    Verfall von Stralsunds Bedeutung nach sich.</p>
+                <p>Und nun zieht noch ein neues Gewitter über dem Haupte der Stadt zusammen:
+                    Wallenstein mit seiner gefürchteten Macht naht ihren Thoren: „Und wäre sie mit
+                    Ketten an den Himmel geschmiedet, ich nehme die Stadt,“ hatte der Held
+                    geschworen. Noch ein Mal loderte die alte Tapferkeit der Bürger von Stralsund
+                    wieder empor, und, wie ein Stern in dunkler Nacht, glänzte ihr Muth und ihre
+                    Hingebung, die, verbunden mit Schwedens Hülfe,<pb/> 48 den stolzen Friedländer
+                    besiegten. Alljährlich noch wird am 24. Juli die Aufhebung der Belagerung von
+                    Stralsund durch ein großes Vollksfest gefeiert. Und im „Hainholz“, eine
+                    Viertelstunde von der Stadt, vor dem Kriegerthore standen vor wenigen Jahren
+                    noch Tisch und Bank, wo, wie man erzählt, Wallenstein der Becher vom Munde soll
+                    weggeschossen worden sein.</p>
+                <p>Im Jahre 1648 fiel Stralsund im Westphälischen Frieden den Schweden zu. Und nun
+                    begannen neue Drangsale durch die schwedischen Kriege. Die Jahre 1678 und 1715
+                    waren Schreckenszeiten für die unglückliche Veste, der beide Mal gänzliche
+                    Zerstörung drohte und die erst gegen Ende des vorigen Jahrhunderts von all ihren
+                    Leiden sich zu erholen begann.</p>
+                <p>Der große Kaiser aber, dessen Fährte Rauch und dessen Fußstapfen Blut, brachte
+                    auch den Festungswerken Stralsunds Vernichtung (18007). Wer kennt sie nicht, die
+                    Napoleonische Schreckenszeit ? I </p>
+                <p>Diese Bilder alle zogen, eines nach dem andern, an mir vorüber. Wieder ertönte
+                    jetzt Trommelschlag in den Straßen, und von den Giebelhäusern der einen
+                    schweiften die Blicke nach der andern Straße hinüber und die Gedanken nach der
+                    Vergangenheit zurück: Ferdinand Schill! ist es Dein Sterberöcheln, das mit dem
+                    Wirbeln der Trommel zu mir herüberdringt? Dort unten die Erde Dein edles Blut
+                    trank und das Deiner Kampfgenossen.(1809). Ein Denkstein steht da, wo Du für
+                    Deutschlands Freiheit den Opfertod starbst, ein Denkstein in jedem deutschen
+                    Herzen und auf ihm der Name Ferdinand Schill. Ich aber will nach Stralsunds
+                    Friedhof hinauspilgern und mir ein ewig grünes Tannenreis brechen an jenem
+                    Grabe, das eben diesen Namen trägt.zur ewig grünen Erinnerung an Ferdinand
+                    Schill.</p>
+                <pb n="49"/>
+                <p>XI </p>
+                <p>„Der Schimmel trabt, die Peitsche schwirrt,„Laut schmettert Posthornton.“Wie
+                    schön ist der Hafen von Stralsund mit seinen unzählbaren Schiffen, den großen
+                    und den kleinen, mit seinen Teichen und Brücken, diesen Prachtwerken der
+                    Baukunst, welche die Stadt,rings von Wasser umgeben, mit dem Festlande
+                    verbinden. Wie schön ist die Stadt selbst, wenn sie im Morgendufte
+                    zurückbleibt,indeß wir mit dem kleinen Dampfer hinüber steuern nach der „Alten
+                    Fähre“, dem nächsten Landungspunkte auf Rügen. Golden flimmern im Sonnenstrahl
+                    die Spitzen der Kirchthürme. Aber rings auf den Wassern liegt Nebel, wie auf den
+                    Bauten der Stadt.Und so scheint sie, halb verborgen, halb sichtbar, aufzutauchen
+                    aus den Fluthen, und, wie erschreckend ob ihrer eigenen Schöne,sich einzuhüllen
+                    in den Mantel, den, aus Wolken gewoben, der Himmel ihr reicht. Aber Hiddensee
+                    und Ummanz und Zingst und Darß, die Inseln im Norden, und Dänholm, die Insel,
+                    die befestigte, nach Süden als lichtblaue Streifen winken sie ihr über die Fluth
+                    herüber, die wogend sie trennt. Und Rügen, das erst noch, gleich jenen, ein
+                    lichtblauer Streifen, wird sichtbar je mehr und mehr. Die kurze Fahrt über die
+                    Meerenge (Gellen) ist bald zurückgelegt. Noch wenige Minuten, und die
+                    weißschäumenden Wogen bespülen ein braunes Küstenland: das Gestade von Rügen
+                    ˖</p>
+                <p>Die breite Fahrstraße führt vom Strande nach den Häusern von „Alte Fähre“ hinauf.
+                    Dort steht denn auch der Postwagen bereit, die Reisenden nach dem Innern der
+                    Insel, der größten der deuschen Inseln, zu bringen. (Rügen, der nördlichste
+                    Streifen des deutschen Nordens, mißt 28 Quadratmeilen Flächenraumes und zählt
+                    45,000 Einwohner). Am freundlichen Posthause werden die Karten verabfolgt, und
+                    lustig geht's jetzt mit klingelnden Rossen, mit „schwirrender Peitsche“ und
+                    „schmetterndem Horn“<pb n="50"/>die leichte Anhöhe hinan, vorbei an Häusern und
+                    Gäarten, geht's mmer weiter und weiter, vorbei an den Dörfern Rambin und
+                    Samtens, auf ebener Straße durch Rügens weite Kornfelder,der Kreis und
+                    Hauptstadt Bergen zu.</p>
+                <p>Meilenweit fährt sich's von dieser Seite aber dahin, ohne daß irgend etwas
+                    Beachtenswerthes die Einförmigkeit der Landschaft unterbräche. Wohl
+                    durchschneidet das glänzende Eisen des Pfluges, vor den die zierlichen vier
+                    Pferde gespannt, die braune Erde; wohl steigt der Dampf des Locomobils, der dort
+                    im Feld die Dreschmaschine treibt, schwarzgrau in die Lüfte, und über die
+                    Stoppeln fliegen Schwärme von Krähen, welche mit lautem Geschrei nach
+                    ergiebigeren Futterstätten ausziehn: aber die kahlen Flächen, auf deren
+                    gesegneten Kornfeldern der Reichthum des dandes emporsprießt, ermüden darum
+                    nicht minder das Auge, und der Geist, durch nichts Wesentliches an die Gegenwart
+                    gefesselt,VVD0 langsame Drehen der Windmühlen im Felde, noch das gleichmäßige
+                    Schaukeln des Postwagens zu zerstreuen vermag. Und wenn nicht der Pferdewechsel
+                    bei der saubern Schenke am Wege und der muntere Ton des Posthorns ihn jetzt
+                    aufweckten, so verfiele der Leib bald in jenen Zustand, wo der Uebergang von
+                    Träumerei in wirklichen Traum ein so unbemerklicher, daß, ehe man sich's
+                    versieht, das ermüdete Auge sich schließt und kein Bild mehr von Außen her,sich
+                    darin abspiegelnd, nach der Seele zurück strahlt, dort bleibend zu haften.</p>
+                <p>Erndlich, endlich wechselte das ewige Gelb der Stoppelfelder:über den Sümpfen
+                    rechts am Wege erhoben sich Hügel und über den Hügeln blauten ferne Berge über
+                    fernen Wasserfluthen. Aber der Wagen lenkte jetzt ein in den Wald, und als
+                    dieser zurück blieb, grünten Busch und Wiese, und in nicht weiter Ferne zeigte
+                    sich von ihrer Anhöhe aus die Kirche von Bergen, deren Thurm auf ganz Rügen, ja
+                    sogar von den dänischen Inseln aus, sichtbar sein soll; roth schimmerten die
+                    Häuser der Stadt, die von der Ebene her nach der Anhöhe hinauf sich ziehend, den
+                    Namen <pb n="51"/>„Bergen“ wohl begründen. Leider goß jetzt „unendlicher Regen
+                    herab“, so daß an einen Spaziergang nach dem Raddas, dem hübschen Gehölze, der
+                    Parkanlage in nächster Nähe der Stadt, nicht zu denken war, noch weniger an
+                    einen dem Berge Rugard längst zugedachten Besuch, obschon dieser nur eine
+                    Viertelstunde von derselben entfernt liegt.</p>
+                <p>Und doch, wie gern hhätte ich von seiner Höhe aus der so Fuß über dem Meere) der
+                    letzte Ueberrest des einst so stark befestigten Schlosses der alten
+                    Rügen-Fürsten, er hätte mir erzählt von Jaromar L.,erzählt von den Tagen, wo
+                    1190 die Festungswerke, durch diesen Fürsten angelegt, stolz und kühn in die
+                    Lande hinausschauten und bis 1631 allen Stürmen trotzten. Heute grünt Strauch
+                    und Busch auf dem Rugard und wuchert so üppig aus seiner Erde empor, daß die
+                    Fernsicht nur in vereinzelten Bildern sich dem Blicke entrollt. Diese Bilder
+                    aber, wie herrlich ein jedes!Bis nach dem fernsten Norden, bis nach Arkona
+                    hinauf, reicht das Auge, und wieder hinab, bis wo fern im Süden die Thürme von
+                    Stralsund sich erheben. Und was alles dazwischen, all' die Buchten und Seen, die
+                    Inseln, die Halbinseln und Landzungen,deren das vielfach vom Wasser zerrissene
+                    Land so viele aufzuweisen hat! Und die Wälder und Felsen, die Schlösser und
+                    Kirchen! Dies Alles zeigt sich auf dem Rugard dem Auge,und glücklich wer des
+                    Anblicks genießen kann!</p>
+                <p>In Bergen selbst mocht ich nicht weilen; was sollte in Bergen mich fesseln? Ein
+                    schönes Altarblatt im Innern der Kirche, die Glasmalerei eines Fensters,
+                    Erinnerungen an das einstige Nonnenkloster, z. B. das Grab der Prinzessin
+                    Elisabeth von Pommern,der Schwester Bogislaw X., die im 15. Jahrhundert
+                    Aebtissin des Klosters zu Bergen war, oder das jetzige adelige Jungfrauenstift
+                    vielleicht gar auch in der Kirche die verdorrte Hand, hervorgewachsen aus dem
+                    Grabe eines Vatermörders! Das ist freilich des Beschauens werth für den, dem ein
+                    längerer Aufenthalt in Bergen gestattet. Doch nimmer scheide der Wanderer <pb
+                        n="52"/>von dem Hauptorte der Insel Rügen, ohne eine Stätte aufgesucht zu
+                    haben: den „Wendenfriedhof“ bei Krakow, am Wege nach Casnewitz.</p>
+                <p>Das ist eine weite Grabstätte, ein Friedhof, wie selten einer,denn er mißt nach
+                    Morgen Landes, deren mehrere zu seinem Bereiche zählen. Diese Hünengräber sanft
+                    wölbt sich der Hügel über der Erde, unter welcher sie ruhen, die Gebeine Derer,
+                    die hier wandelten vor Zeiten; oder es erheben sich riesige Steine über den
+                    „Steinbetten“, wo sie schlafen den Schlaf, den kein Traum je mehr stört. Diese
+                    Hünengräber zahlreicher sind sie auf Rügen als sonst irgendwo im Norden; an 200
+                    reicht ihre HZahl. Welcher Zeit gehören sie an, diese Grabstätten? Trafen die
+                    Wenden sie schon, als sie in's Land kamen, und reichen sie hinauf bis in die
+                    graue Zeit des Alt-Germanischen Stammes?Laßt Streitaxt erzählen und Messer, und
+                    Pfeilspitze und Aschenkrug! Laßt Spangen berichten, und Ketten und Ringe, wie
+                    sie liegen bei den Gebeinen im schweigenden Hünengrab: dem Forscher wird Manches
+                    kund. Doch, ob wendisch, ob germanisch ihre Herkunft: sie gehörten, wie die
+                    Gerippe, die Schädel, bei denen sie ruhen, einem Geschlecht an, das da gewünscht
+                    und begehrt, geliebt und gehaßt, gelitten und gestritten, das da gekämpft den
+                    Kampf des Lebens und das abgetreten vom Schauplatz, um einem andern die Stätte
+                    einzuräumen zu eben demselben Kampfe, wenn auch unter anderer Form.</p>
+                <p>Bergen bleibt zurück, und mit dem Postwagen geht es jetzt Sagard entgegen,
+                    Sagard, dem Marktflecken und Hauptorte der Halbinsel Jasmund. Die Halbinsel
+                    Jasmund aber ist der von der Natur so zierlich ausgestattete Landstreifen, denn
+                    auf seinem östlichen Theile trägt er die herrliche Küste, die vom Meere bespülte
+                    Stubbenkammer mit ihren Kreidefelsen und die Buchwaldungen der Stubbnitz.
+                    Jasmund ist an die Insel Rügen durch die Lietzower Fähre, dies Werk neuester
+                    Zeit, gekettet, die,eine künstlich hergestellte Verbindungsbrücke, Wagen und
+                    Fußgänger über den Jasmunder Bodden (Meerbusen) trägt. Von <pb n="53"/>Bergen
+                    bis Sagard ist das Land hügelig, das Einerlei der Kornfelder stets unterbrochen
+                    durch waldbewachsene Anhöhn, durch an der Fahrstraße liegende Höfe, durch Teiche
+                    und kleine Seen, bis zuletzt denn der Jasmunder Bodden je mehr und mehr sichtbar
+                    wird und die blaue Kette der Banzelwitzer Berge der Landschaft einen Reiz
+                    verleiht, den sie bis dahin entbehrt. Die weite Wasserfläche aber des
+                    Meerbusens, die hinauf und hinab sich dehnend,wie ein ruhiges Meer daliegt, das
+                    braune Küstenland, das sie umgiebt, und drüber hin ein grauer Himmel, durch
+                    dessen Wolkenflor die Sonne hie und da sich Bahn bricht und über den dunkeln
+                    Wasserspiegel goldene Streifen zieht: es ist ein düster Bild, das ich nicht
+                    weiter ausmalen will. Der Wagen rollt jetzt über die Lietzower Fähre dahin, und
+                    bald ist der Strand von Jasmund erreicht. An seine grünen Hügel lehnt sich das ‚
+                    Fährhaus“, ein willkommenes Wirthschaftsgebäude für müde Wanderer. Aber der
+                    Postwagen fährt rastlos die leichte Anhöhe hinan und durch das Gehölze hindurch,
+                    immer eiliger dem nicht mehr fernen Sagard entgegen. Und bald liegt denn auch
+                    der saubere Marktflecken vor uns; aus dem Grün seiner Bäume ragt Kirchthurm und
+                    Hausfirst hervor. Hier in Sagard endet die Postverbindung. Der trabende Schimmel
+                    wird nach dem Stalle geführt; die schwirrende Peitsche und das schmetternde Horn
+                    ruhen dort auf dem Tische in dem freundlichen Haus mit der steinernen Treppe vor
+                    der Thür:</p>
+                <p>„O Zeit des Paßgangs und des Trabs,Des Trinkgelds und des Trunks,Des
+                    Pferdestalls“ ......und der muntere Postillon läßt das Bier sich schmecken,
+                    indeß der Reisende nach einem Wagen sich umsieht, ihn von Sagard aus weiter.
+                    nach dem Ziel seiner Wünsche, zu bringen.</p>
+                <p>Hast Du, o Wanderer, gehört von dem Hügel, dem großen runden, der eine kurze
+                    Strecke von Sagard entfernt, an der Straße nach Putbus liegt? Es ist der
+                    Dubberworth, wohl das größte der Hünengräber auf Rügen. Und willst Du wissen,
+                    wie <pb n="54"/>er entstanden, dieser Hügel, frage die Leute in Sagard und auf
+                    ganz Jasmund, sie werden Dir die Geschichte erzählen vom Dubberworth, freilich
+                    etwas verschieden von dem, was die Jahrbücher darüber berichten, nach welchen
+                    eine Riesin darunter begraben liege.Auf Jasmund wird aber erzählt:Es lebt' vor
+                    alten Zeiten auf Jasmund's grünen Au'n Ein Riesenweib, gar mächtig, gar trotzig
+                    anzuschau'n,</p>
+                <p>Und Jasmund's Au'n und Triften, der ganze weite Plan,Fr war mit Land und Leuten
+                    dem Weibe unterthan.Wie groß auch ihre Stärke, wie groß auch ihre Macht,So hat
+                    noch größ're Stärke in Banden sie gebracht:Die hohe Riesenherrin, sie schleppt,
+                    gebunden, schwach,Wie kleine Menschenkinder, der Liebe Ketten nach.Es war ein
+                    Fürst auf Rügen, gar herrlich von Gestalt.Die Riesin sieht den Fürsten und
+                    sendet alsobald Hinüber ihm den Boten, thut kund ihm ihre Wahl,Trägt sich mit
+                    Land und Leuten ihm an als Ehgemahl.Der Fürst von Rügen aber verschmäht der
+                    Riesin Hand.</p>
+                <p>O Schmach und Hohn! Die Riefin, sie hört es wuthentbrannt,Und ihre Mannen alle
+                    ruft sie heran zur Wehr,</p>
+                <p>Zu tilgen ihre Schande, zu rächen ihre Ehr'.</p>
+                <p>Doch zwischen Jasmund's Triften und zwischen Rügen's Au'n Sah man, gleich einem
+                    Gürtel, die tiefe Meerfluth blau'n.Das war für Ross' und Mannen ein unbequemer
+                    Weg;</p>
+                <p>Wer baut uns da die Brücke, wer zimmert uns den Steg?Und zu der Stubbnitz eilt'
+                    sie, wo Erde, Sand und Stein,Die hohe Riesenherrin, und lud sich da allein </p>
+                <p>Die ungeheure Schürze voll Erde, Stein und Sand </p>
+                <p>Und lief damit behende hinüber nach dem Strand.Die Tiefe aufzufüllen, tritt sie
+                    beschwert heran,</p>
+                <p>Sieht freudig schon sich dehnen für Mann und Roß die Bahn,Schon sieht den Strand
+                    sie schimmern, bald ist sie, bald dabei:Da reißt die Wucht, die schwere, die
+                    Schürze ihr entzwei.</p>
+                <p>Und von den Steinen allen, von Sand und Erde schnell,Erhebt ein mächt'ger Hügel,
+                    ein runder, sich zur Stell'.</p>
+                <p>Noch ragt er heut zu Tage empor an selbem Ort,</p>
+                <p>Erzählt Dir von der Riesin und heißt der Dubberworth.</p>
+                <pb n="55"/>
+                <p>Was weiter mit der Riesin und ihrem Groll gescheh'n,Verschollen und verklungen
+                    ist's längst im Windesweh'n;Heut aber trägt behende von Jasmund's grünem Strand
+                    Dich die Lietzower-Fähre nach Rügen's Küstensand.Wer der Gunst des Himmels sich
+                    erfreuend, bei seinem heitern Lichte von Sagard aus, ob zu Wagen, ob zu Fuß,
+                    nach Stubbenkammer hinüber oder nach dem Fischerdorfe Saßnitz hinab lenkt, der
+                    wird oben auf der Anhöhe einer Fernsicht genießen,deren Schönheit sich seinem
+                    Gemüthe tief einprägen mag. Dort oben entfaltet vor dem erstaunten Blicke sich
+                    die See; es ist die Bucht des Prorer Wyk (Wyk: Meerbusen), welche die Küste der
+                    „schmalen Haide“ bespült. Wie glänzen aber dort rechts die Buchten des großen
+                    und kleinen Jasmunder Boddens aus dem Dunkel der Wälder hervor! Dann in
+                    weitester Ferne das Jagdschloß und die blaue Küste von Mönchgut, der Insel; in
+                    nächster Nähe die Häuser des Dorfes Mucran und die Waldungen von Lanken, dem
+                    zierlichen Gute.</p>
+                <p>Leider genoß ich dieser Gunst des Himmels nicht; der Regen dauerte fort. Trüb und
+                    grau lag jetzt, als der Wagen statt links hin nach Stubbenkammer, nun rechts
+                    gegen Saßnitz einbog, vor mir die offene See, trüb und grau, als wäre sie selbst
+                    eine endlos sich dehnende Regenwolke! Ach! sollt' ich so dich wieder finden,du
+                    Heißersehnte, du einst so Reine, so Blaue? Und willst du mir sagen, daß nicht
+                    leicht ein Glück sich Glück, das ungetrübt heiter, e in Mal sich uns bot? Ich
+                    gedachte eines Wortes, das ich in Carlsburg vernommen: „Besteht der Zauber der
+                    Freude nicht gerade darin, daß sie eben durch ihre kurze Dauer eine lange
+                    Sehnsucht im Herzen zurückläßt 2“ Leise bewegte sich die unendliche
+                    Wasserfläche; leise Winde zogen schwarze Furchen über dem düstern Plan. In den
+                    Bäumen im Felde regte sich kein Blatt; lautlos war's ringsum. Das
+                    Herniederträufeln des Regens in den Sand am Wege und der heisere Schrei der
+                    Raben, die vom nahen Acker aufflogen, unterbrach allein die öde Stille. Dunkel
+                    blickten die Forste der Stubbnitz </p>
+                <pb n="0"/>
+                <p>* *von links herüber; sie luden nicht ein, in ihre Schatten sich zu vertiefen zur
+                    Stunde. So düster auch der Anblick der See, ich zog es vor, in dem an ihrem
+                    Strande liegenden Saßnitz eine geeignetere Zeit abzuwarten, um den Kreidefelsen
+                    von Stubbenkammer meinen Besuch zu weihen. Bald lenkte der Wagen nach dem
+                    Fischerdorfe ein, wo das schirmende Dach des Gasthauses Schutz bot gegen den
+                    immer stärker herabströmenden Regen.</p>
+                <p>Saßnitz und Crampas, zwei bescheidene Fischerdörfer am Fuße der Stubbnitzer
+                    Forste, wie verschieden ist ihr Charakter von dem des zierlichen Heringsdorf!
+                    Dort Villen und Parke, Eleganz und Comfort, dort das glänzendere, raffinirtere
+                    Badeleben; hier einfache Gasthäuser, bescheidene Wohnungen, ein ungezwungenes,
+                    gemüthliches Strandleben, das aber gewiß, je nach den Anforderungen, dem Bedarf
+                    manches Badegastes wollständig entspricht und um der Mäßigkeit der Preise willen
+                    auch von manchem vorgezogen werden wird. Und so verschieden Wohnungen und
+                    Badeleben, so verschieden sind auch die Strandbilder.</p>
+                <p>Vergebens sucht das Auge hier nach den breiten Strecken Sandes mit ihren
+                    Bretterhütten und Bänken, wie es am Strande von Heringsdorf sie trifft. Hier
+                    führt ein schmaler Fußpfad bald dicht dem Meere entlang, oder es stehen
+                    Fischerhäuschen am Ufer;die ausgespannten Netze liegen zum Trocknen in der
+                    Sonne, und der Wind spielt mit den Astern und Reseden, welche hie und da ein
+                    einfaches Gemüsegärtchen zieren. Es ist ein reizender Weg,dieser Strandweg; er
+                    führt bis weit hinauf am Fuße der waldigen Stubbnitz. Schattige Bänkchen dienen
+                    dem Wanderer als Ruheplätze: rechts die See und links der Buchwald. Aber bevor
+                    noch dessen hohe Stämme Grund und Boden finden, um tiefe Wurzeln zu schlagen,
+                    grünt am abschüssigen Uferrand der niedrige Buchenschlag, der Haselstrauch und
+                    die Weide und neigen die Zweige herab auf das Haidekraut, das mit ihnen dies
+                    sandige Erdreich theilt. Und zwischen den Büschen und Reisern, welch zierlicher
+                    Strauch steht da oben! Graugrün und dicht sind die schmalen, spitzauslaufenden
+                    Blättchen; sie gleichen an Farbe und <pb n="57"/>Gestalt schier den Blättern des
+                    Rosmarin. Jetzt aber, vom Winde gehoben, wie schimmert silbern ihre Rückseite:
+                    ein feines, seidenes Haar bedeckt sie zum Schutz und zur Zierde. Und sieh!
+                    gefährlich schier droht dort am Zweig der schwarzbraune Dorn jetzt. Doch
+                    glänzend hell entwächst dem Holze die Beere, die kleine, und bildet,Beere an
+                    Beeren sich reihend, die zierliche sattgelbe Traube, die von weit her das Auge
+                    des Wanderers entzückt: dieser Strauch ist der Sanddorn (yppophæ rhamnoides). Du
+                    hast ihn schon geseh'n, ich denke, bald am Meeresstrand, bald auf einsamer
+                    sandiger Trift im Innern des Landes; auch im botanischen Garten gedeiht er. Doch
+                    kümmerlich und sparsam entwindet dort die Frucht sich dem Holze; warum? Die Hand
+                    des Gärtners, sie hegt ihn und pflegt ihn in üppig genährter Erde: der Kampf um
+                    das Dasein hat aufgehört für den Strauch und mit dem Kampf auch die schaffende
+                    Kraft.</p>
+                <p>J </p>
+                <p>„Ich trank in schnellen Zügen „Das Leben und den Tod </p>
+                <p>„Beim Königsstuhl auf Rügen „Am Strand im Morgenroth.“O, meine weisen Rathgeber
+                    in Carlsburg, was würden Sie sagen, wenn Sie mich hier eingeregnet wüßten in
+                    Saßnitz, so nah dem Ziele und doch so fern! Diese unberufene Haft war freilich
+                    nicht angemerkt auf dem Programme, dem wohldurchdachten Reiseplan.Da saß ich
+                    denn in den wohnlichen Räumen des „Fahrenbergs“, des gemüthlichen Gasthauses,
+                    das, erbaut am Waldessaum, von seiner Anhöhe herab den weiten Blick auf das Meer
+                    hinaus gewährt; da saß ich und sah dem Regen zu, der ungestüm <pb n="58"/>an's
+                    Fenster schlug, und lauschte dem gleichmäßigen Träufeln der Dachrinnen und dem
+                    Plätschern der Tropfen auf die Ziegel des über mir sich wölbenden Firstes, nicht
+                    eben sonderlich erbaut von den einförmigen Lauten, noch von dem Anblicke des
+                    endlosen Graues, in das Himmel und Meer gehüllt war. So viel aber stand fest,
+                    daß ich nicht zurück kehren würde nach Carlsburg, ohne die Stätte gesehn zu
+                    haben, um deretwillen ich hergereist kam, und von der nur drei Stunden Weges
+                    mich trennten.</p>
+                <p>Und der Tag war nicht ferne, dessen heiteres Licht mich begleiten sollte nach den
+                    ernsten Gefilden, nach der ersehnten Küste hinauf. Er kündigte sich an durch die
+                    Mondnacht. Ihr heller Glanz trieb den Schlummer vom Lager der Ruhenden und
+                    lockte an's Fenster.</p>
+                <p>„Leuchtend strahlte die See von dem Bild des sich spiegelnden Mondes,„Und in der
+                    schweigenden Nacht war es so hell wie des Tags;„Und zu den Ohren drang kein
+                    Laut, nirgends ein Rauschen,„Außer jenem der Fluth...“</p>
+                <p>Zwar kein dicht erblickt' ich von fern, „darin meine Flamme“,und kein Gestade, wo
+                    „mein Licht ich ersah“. Aber die lieblich fich kräuselnden Wogen, welche im
+                    Mondlicht glänzten, wie langes,gold'nes, gekräuseltes Haar, das auf den Fluthen
+                    zu schwimmen schien; die weite Fläche, wo der Blick sich verlor, wie der Gedanke
+                    im Reiche der Unendlichkeit; die Ruhe, die dabei die Seele überthaute, daß jedes
+                    Sehnen schwieg: ich grüßte sie, wie weiland der troische Schwimmer des Thurmes
+                    Leuchte begrüßte, als ein Zeichen naher Erfüllung sehnsüchtig gehegter
+                    Wünsche.</p>
+                <p>Der kommende Morgen sah uns auf dem Wege nach Stubbenkammer. Ich hatte mich einer
+                    kleinen Gesellschaft angeschlossen,die es vorzog, statt im Nachen auf etwas
+                    bewegter See den drei Stunden weiten Weg zu Fuß zurück zu legen. Er führte über
+                    Feld und Acker allmälig bergan. Bald lag Saßnitz weit unten im Thale. Aber der
+                    Blick haftete noch ein Mal auf dem stillen Dorfe, bevor der Fuß in des Waldes
+                    Dunkel sich verlor. Höher <pb n="59"/>und tiefer lagen die Häuser auf dem
+                    kleinen Plane zerstreut, die einen satt am Strande, die andern weiter davon
+                    entfernt. Zwischen ihren friedlichen Dächern erhoben sich grüne Hügel, an denen
+                    die Kühe graseten. Aus den Schornsteinen stieg Rauch auf. In die See hinaus
+                    stießen Fischerbote zum Heringsfang; sie wogten auf und nieder auf der bewegten
+                    Fluth. Ein Blick noch zurück nach dem Thale und hinaus auf die See: jetzt nimmt
+                    uns der X führt; erst das Tannengehölze und nun der Buchwald.</p>
+                <p>Ist es ein Heiligthum, in das wir hier eintreten, und weht ein Gotteshanch uns an
+                    in diesen weiten, ernsten Hallen? Das Wort erstirbt auf den Lippen, und wie ein
+                    Gebet entquillt es der Seele. Diese Riesenstämme, einer dem andern gleich, sie
+                    stehen da wie mächtige Säulen, fest genug, das Gewölbe des Himmels zu stützen.
+                    Weiß schimmert die Rinde und glänzend unterm Dunkel ihres Blätterdaches und
+                    kleidet herrlich den hohen zierlichen Baum.</p>
+                <p>Still ist's, wie in einem Gotteshause, in dem der Gesang verklungen, dem die
+                    Menge entströmt. Der Sommer ist vorbei,die tausend Stimmen in den Zweigen hoch
+                    oben und die tausend Stimmchen tief unten im Moose sind verstummt; schon fällt
+                    hie und da ein welkes Blatt zur Erde: es naht der Herbst, wo alle Blätter
+                    fallen. Aber das Rauschen des Windes in den Wipfeln und das Tosen des brandenden
+                    Meeres beleben die heil'ge Stille;es durchzieht sie ein Säuseln, wie der
+                    Flügelschlag der ewig erschaffenden und ewig zerstörenden Kraft. Und durch die
+                    grünen Aeste schimmert hier die blaue See, indeß dort zur Linken unabsehbar
+                    weit, sich Stamm an Stämme reihet und der Blick sich verliert in tiefer
+                    Waldesnacht.</p>
+                <p>So geht es fort, bald bergan, bald bergab, immer tiefer hinein in diese endlosen
+                    Forste; jetzt weiter vom Ufer hinweg: des Meeres Rauschen verhallt in der Ferne;
+                    jetzt wieder mehr der Lichtung der Bäume zu: blau schimmert Himmel und Fluth
+                    durch das zierliche Grün. Und nun bergab auf schmalem, schlüpfrigem Pfade, hinab
+                    in eine tiefe Schlucht! Da rauscht in lautloser <pb n="60"/>Waldeinsamkeit der
+                    Bach, der klare, rieselnde Quell, und benetzt mit seinem Schaume die
+                    Schachtelhalme, die dem feuchten Grunde entwachsend, ihre schlanken Stängel
+                    erheben über den Moosen und Pilzen; der Morgenhauch spielt mit den langen,
+                    haarfeinen Blättern und mit den Binsen und Gräsern am Quellenrand. Und ein
+                    zweiter Bach vereint sich jetzt lispelnd dem ersten;beide aber, ihre Wasser
+                    mischend, zieh'n rauschend über Gestrüpp und Gestein dem Meere zu, um in die
+                    große unendliche Fluth das kleine Sein zu ergießen. Und da, wo die Bäche dem
+                    Meere sich vereinen, da steht der Wanderer still und wendet rückwärts den Blick.
+                    Ein Ausruf des Erstaunens und der Bewunderung entfährt unwillkürlich den Lippen:
+                    die Kreidefelsen von Stubbenkammer! Eine mächtige Felswand, kahl und schroff und
+                    vielfach zerklüftet, ziehn sie da sich hinauf längs dem Meeresstrand; ihr
+                    wundersames Gefüge, blendend weiß und stellenweise durchzogen vom schwarzen
+                    Feuerstein, thürmt hoch sich empor über den Fluthen; zwischen den Zerklüftungen
+                    und auf den Höhen hoch oben grünt der Buchwald in herrlicher Pracht.</p>
+                <p>Aber wir kehren jetzt wieder zurück nach dem Walde, denn das Ziel ist noch nicht
+                    erreicht: unser Besuch gilt dem „Kbnigsstuhl“, der höchsten Spitze von,
+                    GroßStubbenkammer“. Und „die Pfeiler“, und „die zerklüftete Felswand“, und
+                    „KleinStubbenkammer“, und wie sie alle heißen, die schönsten Punkte des
+                    Vorgebirgs: sie müssen all' noch aufgesucht und bewundert werden an diesem Tage.
+                    Und über rieselnde Bäche und über moosbewachsenes Gestein, wieder bergan und
+                    bergab, geht's noch eine Weile fort; warm glühen der Sonne Strahlen. Jetzt aber
+                    weht ein frischer Hauch dem Wanderer entgegen; ein Augenblick noch hinauf auf
+                    schattigem Pfade und er ist oben auf der waldigen Höhe von KleinStubbenkammer.
+                    Weich breitet die Rasenbank ihren grünen Teppich vor ihm aus und ladet ihn ein,
+                    die müden Glieder auszuruhn. Und er läßt sich nieder, und er schaut hinaus und
+                    umher: vor ihm die See, ihm zur Seite der Wald. Aber wie heißt der Fels hier zur
+                    Linken, dieser mächtige Riese der Felsen,<pb/> 61 der in seiner ganzen Schöne
+                    den Fluthen des Meeres zu entsteigen scheint? Es ist der Königsstuhl.</p>
+                <p>O, Königsstuhl, du wundersamer Fels, du König unter den Felsen auf Rügen! Einsam
+                    stehest du da, getrennt von deinen Genossen, die du alle überragest an Pracht
+                    und Größe! Weiß glänzt und schimmert deine Gewandung, aber die Scheitel schmückt
+                    dir der Kranz von dunkelm Laube. Stolz und kühn ragt dein Haupt empor in die
+                    Lüfte, und zu deinen Füßen brauset das Meer, auf das du, wie ein Gebieter,
+                    hinabschaust! O Königsstuhl, du einsamer Fels, bist du das Bild eines Tyrannen,
+                    den die Genossen fliehn; groß aber schrecklich im Herrschen? Oder bist du einer
+                    jener Großen, jener Herrscher im Reiche des Geistes,die, ihre Genossen
+                    überragend, unverstanden, unbegriffen, einsam dastehn im Leben; einsam, aber
+                    fest wie der Fels im Meere?</p>
+                <p>Doch von Klein-Stubbenkammer geht's jetzt, immer auf schattigem Waldweg, hinüber
+                    nach Groß-Stubbenkammer und somit nach dem Königsstuhle selbst. Hier oben auf
+                    der höchsten Spitze des Vorgebirges (409“ über dem Meer) steht unter schattiger
+                    Buche die Bank von Granit. Hier laß uns rasten und ruhen,hier, wo es so heimlich
+                    rauscht im Blätterdache der hohen Bäume,wenn tief unter der Felswand die See
+                    ihre schäumenden Wellen am Strande bricht; hinter uns die dunkeln Forste der
+                    Stubbnitz,die stillen, heiligen Haine; vor uns die glänzende See, die ewig
+                    bewegliche Fläche, bis weit in unabsehbare Ferne hinaus. Und das Säuseln des
+                    Windes, und das Branden der Wogen zum Schlummerlied wird es, zum süßen: die
+                    Wirklichkeit sinkt dabei in Schlaf mit all' ihren Sorgen und Freuden. Und an die
+                    Ruhende hin tritt jetzt aus dem Reiche der Träume die Sage.Hier auf dem
+                    Königsstuhl, welche Bilder entrollt sie dem Blicke!Bilder aus alter ferner Zeit.
+                    Dort unten am Meere der Waschstein! Hast Du gehört die Sage von „der Jungfrau am
+                    Wasch-stein bei Stubbenkammer“:</p>
+                <pb n="62"/>
+                <p>Es geht von Mund zu Munde, es geht von Jahr zu Jahr Von Störtebeck die Kunde und
+                    seiner schwarzen Schaar,Von Stöortebeck, dem frechen, dem wilden Räubersmann,Den
+                    Jeder noch auf Rügen allnächtlich schauen kann.Am Strand der Stubbenkammer, da
+                    stehen, hoch und hehr,Die Felsen, weiß und glänzend, und starren in das Meer,Und
+                    tief in ihrem Schooße, tief unter Sand und Kies,diegt eine dunkle Höhle, ein
+                    tiefgeheim Verließ.</p>
+                <p>Da hausete vor Zeiten ein Räuber weltbekannt,</p>
+                <p>Mit seinen Raubgenossen, der Störtebeck genannt;</p>
+                <p>Der schloß in diefer Höhle, versteckt von Busch und Stein,Zu den geraubten
+                    Schätzen die schönste Jungfrau ein.Es hat der böse Räuber zu langem Herzeleid </p>
+                <p>Weit her aus fernem Lande gebracht die holde Maid;Und als er sie verborgen in
+                    Höhlennacht und Graus,Da stieß zu neuem Raube er in die See hinaus.</p>
+                <p>Von diesem Zuge aber kehrt er nicht mehr zurück;Verlassen hat ihn endlich sein
+                    langes Räuberglück:</p>
+                <p>In Hamburgs fernen Mauern bereit die Richtstatt war Für Störtebeck, den Räuber,
+                    und seine Räuberschaar.Wohl trieb stets Well' um Welle nach Rügens Küst' das
+                    Meer:Bringt keine denn zur Stelle den Retter ihr daher,</p>
+                <p>Der holden Maid, der Jungfrau, in tiefem Bergesschacht?</p>
+                <p>Soll zu des Grabes Dunkel ihr grau'n die Todesnacht? </p>
+                <p>Und Jahre sind vergangen, gekommen zu entflieh'n,Entfloh'n und neu gekommen: die
+                    Zeit, sie rauscht dahin.Ein Schiffer, nah dem Strande, zieht seine Netze ein;Es
+                    glänzen Meer und Lande im hellen Mondenschein.</p>
+                <p>Da neigt, so sieht's der Fischer, zur Meerfluth sich am Strand Ein Frauenbild,
+                    gar herrlich, wie er noch keines fand,Und taucht mit leisem Weinen tief in die
+                    Wasserfluth Ein schneeweiß Tuch, beflecket von dunkelrothem Blut,</p>
+                <p>Und wascht, und wascht: der Flecken, er ist und er bleibt roth.</p>
+                <p>Der Fischer faßt ein Herz sich, spricht grüßend: „Helf Dir Gott,Du schöne Maid!
+                    Was treibst Du beim blassen Mondenschein Am grausen Meeresstrande um Mitternacht
+                    allein ?“</p>
+                <pb n="63"/>
+                <p>Und nach den Kreidefelsen die Jungfrau schwebt hinauf Und winket mild dem Fischer
+                    zu folgen ihrem Lauf:„Weil Du Gott helf gesprochen, so ist gelöst der Bann;Du
+                    aber sei zur Stunde ein reichbelohnter Mann!“Und nach dem Höhlendunkel zieht fie
+                    ihn mit sich fort,Den Fischer, und mit Schätzen füllt sie den Krug ihm dort;Doch
+                    wie er dankend fasset nach ihrer weißen Hand,</p>
+                <p>Hört Ruderschlag er tönen vom nahen Meeresstrand:Ein Schiff mit schwarzen
+                    Wimpeln, ein schwarzes Todtenschiff,Kommt rauschend hergezogen zum weißen
+                    Felsenriff;</p>
+                <p>Des Schiffes Mannschaft aber, ein grausig dunkler Schwarm,Trägt, schwarz umhüllt,
+                    ein Jeder sein eigen Haupt im Arm;</p>
+                <p>Und ohne Wort und Laute allnächtlich zu der Stund'A Denn Störtebeck der Räuber,
+                    zu steter Straf' und Plag',Mit seiner Schaar muß zählen bis an den jüngsten
+                    Tag.</p>
+                <p>Die Jungfrau aber führt jetzt zum Kahne still zurück Den reichbeschenkten
+                    Fischer. Und wie sein scheuer Blick Noch einmal nach ihr spähet, sieht er im
+                    Mondlicht mild In Glanz und Duft zerfließen ein duftig Nebelbild.</p>
+                <p>Stundenlang ließe sich's weilen hier oben auf dem Königsstuhl, und jede Tageszeit
+                    böte neuen und verschiedenen Reiz; denn herrlich sind die Beleuchtungen von hier
+                    aus betrachtet, und ob im Glanze der Mittagssonne, ob im Abendglühen, ob beim
+                    blassen Lichte des Mondes, oder in dämmernder Morgenfrühe, bevor noch die Sonne
+                    emporsteigt über den Wassern: schön ist sie immer, die See, schön sind die
+                    Kreidefelsen, und ein Hauch weht hier oben durch die ganze Schöpfung, heilig wie
+                    ein Gebet, minniglich wie ein Liebeslied, und süßklingend wie ein Gedicht.</p>
+                <p>Doch wenn wir so dasteh'n und über die Brüstung hinab seh'n,tief hinab nach dem
+                    Meeresufer; wenn die Menschen, die dort unten wandeln, uns erscheinen wie
+                    Kinder, und die Granitblöcke im Wasser wie unbedeutende Steine: dann faßt uns
+                    ein Verlangen, selbst dort unten zu weilen und hinauf zu schau'n nach den
+                    Felsen, auf deren Häuptern wir wandeln. So zog denn auch meine Reise<pb n="64"
+                    />begleitung hinab nach dem Strande. Ich folgte von ferne, denn das niedliche ‚
+                    Schweizerhaus“, das Gasthaus auf Stubbenkammer,inmitten seiner dunkeln Bäume,
+                    die hübschen Parkanlagen, so ernst und geheimnißvoll mit ihren verborgenen
+                    Lauben, ihren schattigen Ruheplätzen, sie fesselten mich länger, und später erst
+                    folgte ich nach.</p>
+                <p>Ein zierlicher Pfad, theils auf Stufen, theils auf festgetretenem Sand und Kies,
+                    führt nach dem Strande hinab. Ich verfehlte ihn aber und gerieth in's Dickicht,
+                    in die tiefe Buchwaldung hinein, welche hier auch auf abschüssigem Grunde die
+                    hohen Stämme gen Himmel treibt. Unter den Füßen rauschten die dürren Blätter,die
+                    den Boden bedeckten, indeß das grüne Laub der Wipfel die Sonnenstrahlen nur
+                    spärlich durchließ: es war still und dunkel im Walde und ich allein. Da erklang
+                    eine liebliche Stimme und rief mich nach der Quelle hin, die ich jetzt deutlich
+                    rauschen hörte,und wo auch der von mir verlassene Pfad. Ich folgte, und vor mir
+                    stand eine schöne Frau. Die hohe, schlanke Gestalt, das blonde, zierliche Haar,
+                    das, mit weißen Blumen geschmückt, in breiten Zöpfen die weißen Schläfe umfieng,
+                    indeß der Locken Fülle wie eitel Gold darüber hinab wallte, der Glanz der blauen
+                    Augen,der Schmelz der rosigen Wangen, dazu die Gewandung, die der Formen
+                    Reinheit in ihrer ganzen Schöne zeigte: im Land der Sagen und der Dichtung, in
+                    Rügens Buchenhainen, am Quellenrande diese Erscheinung ist es ein Wunder, daß
+                    ich wähnte,eine jener nordischen Gottheiten zu erblicken, vielleicht Hertha
+                    selbst, die Göttin der Erde? Und doch war es ein Menschenkind,das zu mir sich
+                    gesellte, aber darum nicht minder eine holde Erscheinung und mein guter Genius
+                    zugleich, denn die schöne Frau führte mich zurück auf den richtigen Weg. Am
+                    Quellenrand, der Golchaquelle, reichten wir uns die Hand zum Abschied und „auf
+                    Wiedersehen“: sie stieg vom Meeresufer nach den Wohnungen hinauf; ich stieg von
+                    denselben hinab nach dem Strande.</p>
+                <p>Der Strand willst Du ruhen, o Wanderer, an herrlicher Stätte, so wähle den Strand
+                    bei Stubbenkammer. Dort setze Dich <pb/> 65 auf einen der Granitsteine, die das
+                    schäumende Meerwasser bespult; winde einen Kranz Dir von Seetang, vom Geäste der
+                    Meereiche, einen dunkel- und hellbraunen Kranz, ja, auch das rothe Gezweige ist
+                    zierlich; betrachte den laubartig ausgebreiteten Stamm mit seinen wundersamen
+                    Luftbläschen, und lege den Kranz zu dem ebenso wundersam geformten Kreide- oder
+                    Feuerstein, den Du zur Erinnerung Dir mitnimmst; dann aber laß Stein und Seetang
+                    und blicke noch einmal hinauf nach den Kreidefelsen, noch einmalkhinaus auf die
+                    See! Ruhig wogen dort in der Ferne die mächtigen Segler, die Dreimaster, und
+                    thürmen ihr stolzes Gebäude hoch in die Luft; ruhig treiben die Wellen an's Ufer
+                    und wieder zurück in die Weite; ruhig zieh'n die schneeweißen Wölkchen über den
+                    Wald hin: ruhig Himmel und Erde und auch das oft so stürmisch bewegte
+                    Menschengemüth. Jetzt ertönt der schrille Laut eines Seevogels; er fliegt auf
+                    dort und taucht unter. Hat er die Beute erhascht? Du grausamer Würger, warum
+                    erinnerst du den ruhigen, glücklichen Beschauer daran, daß überall Kampf und
+                    Vernichtung!</p>
+                <p>Aber von freundlicher Seite wurde ich nun erinnert, daß von den Wallfahrern nach
+                    der Stätte der Sagen und der Mythen dem Herthasee und seiner Umgebung noch ein
+                    Besuch zugedacht sei. Und die Sonne, immer mehr und mehr dem Westen zuneigend,
+                    ließ diese neue Pilgerfahrt freilich nicht länger aufschieben. Wer wollte auch
+                    Stubbenkammer besucht haben, ohne den Herthasee, die Herthaburg, die Opfersteine
+                    gesehn zu haben,Stätten, an die so wundersame Sagen sich knüpfen? Und wenn auch
+                    Tacitus in seiner Germania freilich nur erzählt, daß auf einer Insel der Ostsee
+                    in einem heiligen Haine die Göttin Hertha leigentlich Nerthus) von den
+                    Germanischen Völkerschaften verehrt werde: wer wollte nicht, und wäre es nur auf
+                    Augenblicke, indem er die Stätte besucht, die ihm als die geweihte bezeichnet
+                    wird,wer wollte nicht gerne annehmen, daß sie es wirklich sei, und dem Zauber
+                    ihres Einflusses auf das Gemüth sich hingeben, da,wo das Traditionelle so schön
+                    in den Rahmen der Wullihteit paßt?<pb n="66"/>So gieng es denn wieder
+                    strandaufwärts und den Wirthschaftsgebäuden zu. Dort schloß sich der kleinen
+                    Gesellschaft auch die schöne Frau von der GolchaQuelle an mit ihrer
+                    Begleitung.Und nun zogen wir aus, die Opfersteine aufzusuchen, an denen vorbei
+                    der Weg nach dem Herthasee führt, wieder ein zierlicher Pfad durch die weiten,
+                    ernsten Forste.</p>
+                <p>Und da, im Dunkel des Waldes, liegt der eine dieser steinernen Altäre, wo das
+                    rauchende Menschenblut als ein der Gottheit wohlgefälliger Opferrauch galt, und
+                    das Sterberöcheln des Geschlachteten, die göttlichen Ohren zu ergötzen, nach den
+                    Wipfeln der heiligen Buchen stieg. In diesen Stein ist eine Rinne eingegraben;
+                    an seinem Fuß steht eine Schaale, in die das Blut des Opfers floß. Heute
+                    schmückt Moos mit seinem grünen Teppich den Stein, und Epheu rankt lebensfrisch
+                    an ihm empor. Wenige Schritte von diesem ersten liegt der zweite Stein. Eine
+                    größere und eine kleinere Vertiefung sind darin sichtbar: die Abdrücke eines
+                    Mädchenfußes und eines Kinderfüßchens. Sinnend stehen wir da an dem Steine und
+                    hängen der Sage nach von Wunna, der Herthapriesterin, die das Gelübde gebrochen
+                    und irdischer Liebe Raum gab im Herzen, das sie, gezwungen durch des Vaters
+                    Willkühr, nur göttlicher Liebe zu weihen gelobt. Und wir sehen im Geist, wie der
+                    zürnende Priester, der wohl von? dem Verbrechen wußte, nicht aber den Namen der
+                    Schuldigen auskundschaften konnte, alle Herthajungfrauen aus dem Tempel in den
+                    Wald hinaus führt, und, die Schuldige zu entdecken, eine Jede nackten Fußes den
+                    Opferstein betreten läßt; sehen, wie der Stein aber makellos bleibt, bis Wunna,
+                    die jüngste und schönste von Allen,ihn zitternd betritt: von jener Stunde an
+                    trägt der Stein diese Fußspuren! Und Wunna, dem Tode geweiht, steht vor uns die
+                    blasse Priesterin mit dem dunkeln Blätterkranz im Haare. Wir lauschen, lauschen
+                    am Opferftein ... ein klagender Laut zieht durch die alten Buchen. Ist es der
+                    Windhauch? Zwei Raben fliegen jetzt krächzend auf aus dem Dickicht und der
+                    Lichtung des Waldes zu. Dort liegt der Herthasee; sein stilles, dunkles
+                        Gewässer,<pb n="67"/>bestrahlt von der sinkenden Sonne, schimmert bbutxoth
+                    durxch die Zweige. J Aber die Herthaburg ladet uns ein zum Besuche, bepor wir
+                    den Hain noch verlassen: mitten in dessen heiligen Schatten ein mächtiger
+                    Erdwall, der mit seinen Wänden einen runden Platz umschließt, zu dem ein
+                    schmaler Eingang führt. Wir wandeln still herum auf den Wällen; ein Tempel, eine
+                    Burg scheint uns wirklich dieser weite, stille Raum, dessen Wölbung die hohen
+                    Wipfel der alten rauschenden Buchen bilden. Geheimnißvoll, schier grauenhaft
+                    aber weht es uns an an dieser einsamen Stätte, und aus dem Dunkel hinaus treten
+                    wir jetzt an den See. *</p>
+                <p>Ueber seine ruhige Fläche säuselt der Abendwind und bewegt leise das dunkle
+                    Gewässer; weiß schimmern, von seinem Hauche berührt, die Blätter der Pappeln und
+                    Weiden, die rings den See umkränzen und das schwankende Haupt in den
+                    gekräuselten Fluthen jpiegeln. Im Schilfrohr taucht das Wasserhuhn unter,
+                    erschreckt vom Fuße des Wanderers, aber nach dem Wipfel der Erlen fliegt
+                    kreischend der Reiher auf und wiegt im Abendroth die silbernen Schwingeu.</p>
+                <p>Lange Schatten schweben jetzt über den Wassern, und in des Waldes Hallen herrscht
+                    dunkle Nacht, die je mehr und mehr über die Gefilde sich verbreitet. Doch sieh!
+                    welch' seltsame Flamme dort drüben am andern Gestade des Sees! Erst eine, dann
+                    zwei,jetzt drei und viere und noch mehr! Siehl wie sich neckend in toller Jagd,
+                    huscht eine der andern nach, bald über den Wassern schwebend, bald wieder längs
+                    dem Gestade. Bläulich-weiß ist ihr Schein; er gleicht schier dem Glanze des
+                    Mondes: Irrlich ter sind es, „die Seelen Derer, die ohne die christliche Taufe
+                    gestorben;sie müssen bis zum jüngsten Tage am Wasser herumirren.“ Ach,wie viele
+                    Seelen sind vielleicht hier unten begraben auf des Sees Grund, Seelen Derer, die
+                    ohne christliche Taufe aus dem Leben schieden!Arme Sklaven, die ihr genöthigt
+                    wart, den Wagen der Göttin der Erde, nachdem sie auf demselben durch's Land
+                    gefahren, gezogen von den zwei jungen Kühen, gefolgt von den Priestern, dem Volk
+                    zu <pb/> 68 Lust und Friede die ihr genöthigt wart, diesen Götterwagen hier in
+                    des Sees Fluthen zu waschen! Ihm entstieg Hertha, die Mutter aller Dinge, zu
+                    neuem Leben und Schaffen; euch aber verschlang der See, euch wurde zum Lohne der
+                    Tod in seiner bodenlosen Tiefe. Sind es eure Seelen, die am Wasser dort
+                    herumirren?</p>
+                <p>Und von den irrenden Seelen und von den Wassern hinweg,in die hinein wir im
+                    Geiste den Götterwagen begleitet, wandten wir uns ab und suchten die eigenen
+                    Wagen auf, die zurück uns nach Saßnitz bringen sollten. Durch Nacht und Grauen,
+                    durch des Waldes schwarze Tiefen gieng's nun dahin mit den eilenden Rossetn, oft
+                    steil und schaurig bergab auf steiniger, unwegsamer Bahn. Wir waren schweigsam:
+                    die Eindrücke des Tages, die Schatten der Nacht stimmten uns ernst,
+                    nachdenklich. Oft aber,wenn an Stein und Baumstrunk die Räder zu zerschellen
+                    drohten,fühlte ich eine weiche, weiße Hand die meinige erfassen und wie
+                    ängstlich drücken: es war die Hand der schönen Frau, die an meiner Seite saß und
+                    Namen und Wohnort mir jetzt nannte: wenn denn auch keine nordische Gottheit,
+                    doch immerhin ein Kind des Nordens.</p>
+                <pb n="69"/>
+                <p>XIII.</p>
+                <p>Es wechseln mit den Zeiten die Begriffe </p>
+                <p>Was gestern einer Welt als Wahrheit galt,Belächelt heute eine Welt als Wahn.</p>
+                <p>Der Götter Tempel liegen dort in Trümmern,Und sieh! auf den geborst'nen Stein
+                    gebaut,</p>
+                <p>Ein Kirchlein nach der blauen Meerfluth schaut.Die Glocken läuten, und nach
+                    seinen Hallen </p>
+                <p>Die frommen Christenbeter gläubig wallen. Es rauscht die Zeit daher, dahin; ihr
+                    Hauch,Wer weiß, wie bald, zerstört dies Kirchlein auch. Doch über Schutt und
+                    Moder ewig kreist </p>
+                <p>Der ewig wandellose Gottesgeist,</p>
+                <p>Und reiner wird aus der Vernichtung Wehen </p>
+                <p>Und größer stets sein Tempel auferstehen.</p>
+                <p>Wie heißt der Thurm dort am äußersten Ende der deutschen Erde? Leitend und
+                    warnend strahlt sein Licht hinaus in die See.Einsam steht er da auf der
+                    zerklüfteten Felswand, dem Kreidegestein der nördlichsten Küste Rügens, und
+                    blickt herab auf das tobende Meer zu seinen Füßen und hinaus in die Ferne. Kein
+                    Baum, kein Strauch stört diesen Blick; kahl und öde ist ringsum der Erdkreis:
+                    auf Wittow's sandigem Grund grünt der Wald nicht mehr. Dieser Thurm ist der
+                    Leuchttthurm von Arcona,dem Vorgebirge der Halbinsel Wittow, die mit Rügen nur
+                    verbunden durch die schmale Landzunge, die Schaabe genannt, ein 2ru/, Stunden
+                    langer Erdstrich, gebildet aus Meersand, öd und kahl, wie Wittow selbst. Und
+                    doch ist dieser unwohnliche Landstreifen, diese schmucklose Halbinsel, dies Land
+                    der Dünen und der Sandflächen, das von dem Pfade dicht am Ufer des Meeres aus
+                    hetrachtet, dem einsamen Wanderer wie eine Wüste erscheint, „der Kornboden
+                    Rügens“, dessen Waizen berühmt ist.</p>
+                <p>Und der Leuchtthurm, du siehst ihn von weit her, siehst ihn von der dänischen
+                    Küste drüben, siehst ihn vom fernen Süden der Insel Rügen, wie von Hiddensee
+                    aus. Und wie er dem Schiffer <pb n="70"/>als Wegweiser dient auf der pfadlosen
+                    Fläche, so winkt er dem Wanderer zu und ladet ihn ein in seiner Nähe zu weilen
+                    und sich erzählen zu lassen von Arcona, der alten Heidenveste, die bis gegen
+                    Ende des 12. Jahrhunderts eine so bedeutende Rolle gespielt in der Geschichte,
+                    deren Einnahme so oft vergebens versucht worden in den blutigen Kämpfen der
+                    wendischen Rügianer gegen die sie bekriegenden Danen, bis es endlich der
+                    eisernen Willenskraft König Wal demar's J. und seines ebenso ausdauernden
+                    Feldherrn,Bischof Absalon von Roes kilde, gelang, diese tapfere Veste zu
+                    bezwingen (1168). Die feindlichen Anstrengungen begünstigte eine in der Veste
+                    ausgebrochene Feuersbrunst.</p>
+                <p>Und der Burgwall, dessen Reste unweit des Leuchtthurms noch sichtbar! such' ihn
+                    auf, diesen alten Wall, bevor noch das hier zerstörende, dort aufbauende Meer,
+                    bevor Regenguß und Erdsturz seine Spuren gänzlich vertilgt, Spuren, die diesem
+                    Wühlen der Elemente Jahrhunderte schon trotzen, wie einst die Veste dem Anprall
+                    der feindlichen Menschengewalt fortdauernden Trotz bot.</p>
+                <p>Dieser Wall trug mit der Veste Arcona auch den berühmten Tempel des Swantewit
+                    (heiliger Streiter), des weithin gefürchteten Gottes der Wenden, des
+                    Lichtgottes, von dem alle Seelen ausglengen und zu deu sie durch stufenweises
+                    Aufsteigen wieder zurückkehrten. Sein Tempel, inmitten der Veste, war, wie das
+                    Bild des Gottes selbst, aus Holz gebaut. Er ruhte auf vier Säulen und hatte sein
+                    Allerheiligstes, das eine Vorhalle umgab. Diesen geweihten Raum betrat allein
+                    der Hohepriester. Dort stand die riesige Bildsäule des Gottes mit Schwert,
+                    Sattel und HZaum:auf vier Halsen saßen vier Köpfe; vier Gesichter blickten nach
+                    vier verschiedenen Richtungen hin, die Allgegeuwart und Allwissenheit des Gottes
+                    bezeichnend. In der Rechten hielt er ein großes, metallnes Horn; die Linke war
+                    gekrümmt gegen die Hüfte gestemmt.Auf einem hohen Thurme neben dem Tempel
+                    flatterte die Stanniza,das Banner des Gottes, das bei Kriegszügen dem Heere
+                    vorangetragen wurde. Bei wichtigen Entscheidungen diente das dem Gott geweihte
+                    heilige weiße Roß als Orakel: vom Hohenpriester ge<pb n="71"/>führt, war, je
+                    nachdem es den rechten oder den linken Fuß zuerst vorsetzte, die Bedeutung Glück
+                    oder Unglück. Den Glanzpunkt aber des Swantewitcultus bildete das alljährliche
+                    Erntefest. Aus weiter Ferne strömte die Menge herbei, um dem Gotte zu
+                    huldigen;selbst benachbarte Christenfürsten suchten durch Opfer die Gunst des
+                    gefürchteten Heidengottes zu erkaufen.</p>
+                <p>Und Gott und Tempel wurden ein Raub der Flammen, als Arcona in der Feinde Hand
+                    fiel. Und wie die Rügianer ihren Gott brennen sah'n, von dem sie so
+                    zuversichtlich erwartet, daß er fie retten würde, da wankte ihr Glaube und mit
+                    ihm ihr Muth;ihre Macht war gebrochen: ohne Widerstand fiel auch die alte und
+                    mit ihr zugleich giengen auch die übrigen Götzenbilder zu Grunde. Und die
+                    Bewohner von Rügen wurden endlich Christen.</p>
+                <p>Sinnend stehst Du da auf den Trümmern des Burgwalls von Arcona, o Wanderer,
+                    sinnend zurück nach alter Zeit und hinaus nach kommenden Tagen. Und vom Thurm
+                    her schlägt die Uhr, dumpf und tief: die Stimme der scheidenden Minuten,die dem
+                    Einen das Leben, dem Andern den Tod bringen in unaufhaltsamem Lauf.</p>
+                <p>Auch für uns trieb die Zeit dahin, „unaufhaltsam, unablässig“,und brachte zu den
+                    andern Stunden auch meine Scheidestunde.Wohl bot Rügen des Sehenswerthen noch
+                    Manches, von Arcona an bis hinab nach Putbus und hinüber nach Mönchguth, der
+                    Halbinsel, wo die Sitten so eigen, die Trachten so fremdartig und das Wesen der
+                    Einwohner so ernst ach, stets der Willkühr des Elementes ausgesetzt, das sie zu
+                    bewältigen haben, Fischer und Lootsen, und abgeschlossen von der übrigen Welt,
+                    wie sollte der Sinun da nicht ernst, das Wesen nicht eigenthümlich werden? wohl
+                    winkte von seinem Tempelberge“ herab nach Saßnitz hinuber das Ja gdschloß (des
+                    Fürsten von Putbus), dieser herrliche Bau mit Thürmen und Wartthum, umgeben von
+                    den dunkeln Waäldern der Granitz, mit seiner weitberühmten Fernsicht, seinen
+                    kunstvollen Gärten, seinem Wildpark mit allꝰ den zierlichen Ruhe<pb/> 72
+                    plätzen, von denen ein Jeder die Landschaft in schönem Bilde vor dem Beschauer,
+                    bis in die blauesten Fernen ausgebreitet zeigt, Land und Meer, den ganzen,
+                    weiten Plan; wohl lud es ein, zu gemeinsamen Ausflügen, zu Wasser, zu Wagen und
+                    zu Fuße. Aber mich trieb es nach bekannteren, mir lieb gewordenen Räumen
+                    zurück:alle Jagdschlösser und Schlösser, alle Häuser überhaupt, sind eben nur
+                    kalte Steinmassen für den Fremden, die fremd ihn anstarren,wenn er, an ihnen
+                    emporblickend, sich vereinsamt fühlt in der weiten Welt. Denn nicht die Räume,
+                    aber die Menschen machen das Haus, ob hoch, ob niedrig, duns zur Heimath.</p>
+                <p>Wehmüthig nahm ich freilich den Abschiedsstrauß in Empfang,den liebe Hand mir so
+                    sinnig gewunden, den Strauß von weißen Rosen, dem dunkeln Laube des Coleus und
+                    den silbergrauen Blättern der Centaurea, wie sie in letzter Stunde mir ihn bot,
+                    die schöne nordische Frau.</p>
+                <p>Allein fuhr ich nun von Saßnitz aus den weiten Weg nach Putbus hinüber. Es war an
+                    einem Herbstnachmittage, wo der Sommer noch einmal versuchte, sein Recht geltend
+                    zu machen:schwarze Gewitterwolken standen am Himmel, und ferner Donner rollte
+                    dumpf und hohl zu dem Rollen des Wagens; im Westen am Horizonte theilten die
+                    Blitze, als glühende Schlangen, die Wolken, indeß die Sonne noch mit hellem
+                    Schein die nächste Umgebung beleuchtete: die Häuser von. Crampas, die Lankener
+                    Waldungen und weiter hin, bei Mucran, dem einsamen Dorfe,die Hünengräber. Jetzt
+                    aber zieht eine Wolke an der Sonne vorüber; ein dunkler Schatten fällt über die
+                    Grabstätten ein Flor über die Begrabenen.</p>
+                <p>Wie öd und traurig wird nun die Landschaft hier drüben!Immer näher dem Meere zu
+                    führt die Straße an den Häuseru von NeuMucran vorbei: das kleine Fischerdorf
+                    liegt schier hart an der See. Seine wenigen, unscheinbaren Dächer lassen es kaum
+                    den Namen eines Dorfes beanspruchen. Und nun weilt der Blick lange, lange auf
+                    der See, denn die Straße führt meilenweit der Küste entlang; ihr Branden mischt
+                    seinen dumpfen Ton mit dem <pb n="73"/>des fernen Donners. Noch glänzen, vom
+                    Sonnenscheine bestrahlt,die grünen Gestade der Granitz, der waldbewachsenen
+                    Küste, und der Thurm des Jagdschlosses und die Inseln und Halbinseln bis weit in
+                    unabsahbare Ferne. Aber die Wogen der See sind tiefblau, ja schwarz oft, als
+                    drohte das grause Element mit nahem Verderben, und der weiße Schaum, der sie
+                    umrandet, mildert nicht ihr ernstes Aussehn. Was soll ich noch lange reden von
+                    dem drohenden Antlitz des Meeres, von den drohenden Gewitterwolken,von Feld und
+                    Acker, die einförmig längs der Küste meilenweit sich hinziehn? Es war eine
+                    ernste, freudlose Fahrt.</p>
+                <p>Jetzt führt der Weg wieder in den Wald, und jetzt lenkt er ein in die schmale
+                    Haide, diese Landzunge, welche die Halbinsel Jasmund mit Rügen verbindet, und,
+                    ein schmaler, weißer Gürtel,zwischen dem Prorer Wiek und dem kleinen Jasmunder
+                    Bodden sich hinzieht; niederes Strauchwerk, Ginster und Strandhafer entwachsen
+                    dem sandigen Grunde.</p>
+                <p>Das Gewitter hatte sich indeß verzogen; goldumsäumte Wolken trieben vom Westen
+                    her nach dem tiefblauen, dunkelnden Osten hinüber und spiegelten auf ihrer
+                    luftigen Fahrt die geisterhaften Formen in den Wassern der kleinen Bucht, die,
+                    ein regungsloser See, zur Rechten sich dehnte, indeß zur Linken Well um Well der
+                    großen Wasserfläche brandend an's Ufer schlug.</p>
+                <p>Aber die schmale Haide läuft aus in die weiten Forste von Putbus, die stundenlang
+                    sich erstrecken, bald als stolzer Hochwald,bald als niederes Gestrüppe.
+                    Unerschrocken grasen hier zwei Rehe am Wegesrand, indeß ein Rudel dort mit
+                    flinkem Sprunge über die Koppeln setzt und aus den Büschen ein Schwarm wilder
+                    Enten auffliegt;der heisere Ruf des Zugführers dringt zu mir herab aus den
+                    Lüften.</p>
+                <p>Immer dunkler wurde es auf den Fluren, immer undeutlicher erschienen die
+                    Gegenstände, die sie belebten oder schmückten.Eines aber war deutlich und klar:
+                    die Straße führte jetzt durch lange Baumalleen, und wenn der Mond durch die
+                    Zweige drang,konnte man das zierliche Laubwerk und die schönen Formen der Aeste
+                    betrachten. Jetzt aber glänzten die Lichter von Putbus in <pb n="74"/>der Ferne,
+                    glänzten auch bald näher und näher, und endlich hielt der Wagen vor dem Hause,
+                    das, Dank der freundlichen Worte,die mich dort einführten, mich auf's
+                    freundlichste aufnahm.</p>
+                <p>Ein wolkenloser Himmel wölbte sich über Putbus bei meinem Erwachen; ein Morgen
+                    stieg empor über der Meerfluth, ganz geeignet, der kleinen Fürstenstadt als
+                    Leuchte zu dienen, um ihren Glanz und Schimmer zu enthüllen. Es war alles
+                    harmonisch,alles stimmte und paßte, und man wußte nicht, war es der helle
+                    Morgenschein, der die Stadt so verklärte, oder war es die glänzende Stadt, die
+                    dem Morgen diesen Glanz lieh. Putbus ist schön, ist zierlich. Es ist die
+                    Residenz des Fürstenthums Putbus,das seine Besitzthümer auf Rügen weit ausdehnt.
+                    Schloß und Park stammen aus alter Zeit her; die Geschichte des Fürstenhauses
+                    reicht hinauf bis in's 13. Jahrhundert. Die Stadt aber trat erst im Jahre 1810
+                    in's Leben. Sie verdankt ihr Entstehn dem Fürften Malte zu Putbus, der die
+                    ersten Häuser für Colonisten erbauen und acht Jahre später auch das Bad daselbst
+                    errichten ließ. Die kleine Stadt zählt kaum 2000 Einwohner,zeichnet sich aber
+                    durch besondere Zierlichkeit aus: die Häuser sind hoch und breit, in gewähltem
+                    Style erbaut, nach Vorschrift alle weiß ausgeputzt; es zieren sie Terrassen und
+                    Gärten. Die wenigen breiten Straßen führen alle nach dem großen fürstlichen
+                    Parke hinaus, der, ein Schmuck der Stadt und Landschaft, seine dunkeln Kastanien
+                    und Lindenalleen weithin erstreckt. Ein reges Leben herrscht zur Sommerszeit in
+                    der kleinen Stadt: Putbus ist ein vielbesuchter Badeort und eben so sehr besucht
+                    von Reisenden aller Weltgegenden, die von da ausziehn,, die schönsten Punkte der
+                    Insel Rügen aufzusuchen.</p>
+                <p>Nicht will ich sie alle näher beschreiben, all' die Sehenswürdigkeiten von
+                    Putbus; der Besucher wird sie leicht auffinden:das neuerbaute Schloß, das über
+                    den Trümmern des im Jahre 1865 niedergebrannten alten Schlosses seinen stolzen
+                    Bau erhebt,sein Marstall, seine Orangerie, sein Park mit den langen, schattigen
+                    Laubgängen, der Küchengarten mit den Springbrunnen und <pb n="79"/>der Terrasse,
+                    deren Fernsicht auf das Meer so wundervoll, der Wildpark und die Fasanerie; dann
+                    der Circus mit seinem schönen,runden Platze, den der Obelisk ziert; das
+                    Pädagogium, dieser weite, stattliche Bau, das Schauspielhaus, und all' die
+                    großen und kleineren Gasthäuser, und wie sie alle heißen die Häuser und Plätze,
+                    deren Gesammteindruck Putbus wirklich als zierliche kleine Stadt erscheinen läßt
+                    leicht findet der Besucher sie auf. Und hat er sie sattsam beschaut, die Stadt,
+                    und ist er lange genug herumgewandelt in den breiten Straßen, den schattigen
+                    Gängen, den duftenden Gärten und auf den großen Plätzen, dann wandle oder fahre
+                    er, ihr ein letztes Lebewohl zuzuwinken, auf der zierlichen Straße nach
+                    Lauterbach, dem Landungsplatze von Putbus,hinab, der eine halbe Stunde von der
+                    Stadt entfernt liegt.</p>
+                <p>Schon wimmelt es dort unten von Menschen aller Art:Reisende, die des Dampfers
+                    harren, der sie hinab tragen soll nach Greifswald, das auf diesem Wege in 3
+                    Stunden zu erreichen;Kurgäste, die den linkshin von der Landungsbrücke liegenden
+                    Badehäusern zuwandern; Wagen und Pferde, Nachen und Kähne,Kutscher und Schiffer,
+                    ein bewegtes Leben am Strande, das Lauterbach als vielbesuchten Landungsplatz
+                    bezeichnet. Und zu dem Laufen und Rennen, dem Rasseln der Wagen, dem Klirren der
+                    Ketten der Bote, zu dem Rufen der Männer und dem Plaudern der Frauen noch das
+                    Tosen des Meeres; denn ziemlich bewegt wogt heute die See.</p>
+                <p>Und der Dampfer nimmt sie jetzt alle auf, die Passagiere,die von der großen
+                    Landungsbrücke aus seinem Verdecke zueilen,die einen hastig, die andern voll
+                    Ruhe, je nach ihrem Wesen. Und Gepäcke und Waaren und Alles, was mit soll, wird
+                    hinüber geschafft ein reges Treiben am Strande. Ein Augenblick noch,und es
+                    pustet der Dampf,“es dreh'n sich die Räder und theilen mit starken Armen die
+                    Fluth, die weißschäumend aufspritzt an die Flanken des Schiffs.</p>
+                <p>Schön erscheint Putbus dem Wanderer, wenn er an seinen glänzenden Häusern
+                    vorbeizieht; schön aber auch vom Kiele des <pb n="70"/>Schiffes aus betrachtet,
+                    wenn von grüner, stolzer Anhöhe herab die den, wenn hinter dem Städtchen der
+                    Wald grünt und vor ihm die See blaut, wenn links am Strande seine Badehäuser den
+                    zierlichen Bau im Wasser spiegeln, rechts jetzt Sand und Dünen,jetzt Feld und
+                    Acker, und Höhen und Ebenen, und Kirchen und Schlösser, das ganze weite
+                    Rügen'sche Land, in wechselnden Bildern an dem Beschauer vorüberzieht, bis
+                    Putbus, die lachende Stadt auf der Höhe, und hoch oben im Norden die ernste
+                    Kreideküste je mehr und mehr in den Fluthen verschwimmen, indeß das grüne Vilm,
+                    die Insel mit dem Urwald, und das blaue Mönschguth noch vor ihm sich dehnen, bis
+                    zuletzt auch sie entschwinden,und nur noch die unendliche See, vom Winde bewegt,
+                    jetzt immer höher und höher treibt, der Blick aber, durch nichts mehr
+                    gegefesselt, allein an ihrem Bilde noch haftet. Und welch' ein Bild!</p>
+                <p>Erst wenn das Land ganz entschwunden, erst wenn nach allen Seiten hin mnur Wasser
+                    und Himmel, oben das unendliche Luftmeer, unten die endlose Wassertiefe, erst
+                    dann zeigt das Meer jene Farbe, die so oft gemalt, so kviel besungen und
+                    beschrieben, und doch nie wiedergegeben wird, ganz wie sie ist jenes dichte und
+                    wieder so lichte Grün, das von seinem glänzendsten Hell bis in's dunkelste Grau,
+                    ja, bis in's Schwarze übergeht, womit die weiß beschäumten Wogen gefärbt sind,
+                    die jetzt, eine über die andere sich thürmend, als brausende Fluth daher rollen,
+                    um da, wo Widerstand ihnen entgegentritt, zu zerschellen. Ich stand an der
+                    Spitze des Schiffes und blickte hinaus und hinab auf diese rollenden Hügel; der
+                    Wind blies scharf und jagte den einen über den andern hinaus, ein prächtiges
+                    Jagen und ein so gewaltiges Sausen, daß man nur mit Müůhe sich festhielt am
+                    schützenden Holze. Da zerschellt am Kiel eine Welle;ihr weißer Gischt schlägt,
+                    ein Regenguß, auf's Verdeck und benetzt,was darauf ist. Ich nahm ihn heiter
+                    entgegen, diesen nassen Gruß des nassen Elementes, und gedachte freudig erregt
+                    im Hinblick auf die wogende See, beistimmend der Worte Dessen, der,<pb/> 77
+                    seinen Reiseplan mir überreichend, gesagt hatte: „Behalten Sie diese Fahrt auf
+                    der See für zuletzt. Das Ende muß immer das Ganze krönen, und ich glaube, Sie
+                    können kein schöneres Ende wählen als diese Meerfahrt.“</p>
+                <p>Er hatte Recht: sie war das Letzte, aber auch das Schönste dieser Tage; doch, wie
+                    alles Schönste,“ von kurzer Dauer nur.Rasch flog die Zeit dahin! Schon stiegen
+                    die fernen Umrisse einer Küste aus den Wassern; schon zeichneten sich grüne und
+                    weiße Streifen auf ihrem Grunde, Wald und Dünen, und aus dem blauen Duft glänzte
+                    golden die Spitze eines Kirchthurms und jetzt noch eines: Greif swald ist's, das
+                    dort unten im Süden aus den Fluthen empor taucht; seine Kirchen glänzen im
+                    Mittagssonnengold. Noch eine kurze Weile durchschneidet der Kiel die mählig auch
+                    farblos. Jetzt nähert das Schiff sich dem Hafen von Greifswald, dem Dorfe Wieck;
+                    der alte Wartthurm und die Spitzen der Windmühlen ragen über den rothen Dächern
+                    der Häuser empor. Dort drüben aber am andern Ufer des RysckFlussses, der bei
+                    Wieck in die See sich ergießt, steht ernst und grau die Ruine im Sonnenschein,
+                    die Ruine von El dena, dem einstigen Kloster, wo jetzt die. landwirthschaftliche
+                    Hochschule zu Greifswald. Im Jahre 1207 gegründet, war Eldena ein
+                    reiches,mächtiges Kloster, dessen Abt Greifswald erst im Jahre 1233 errichten
+                    ließ, als Marktplatz für die Erzeugnisse der weiten Besitzungen des Klosters.
+                    Die Stadt, nachdem sie sich von der klösterlichen Herrschaft frei gemacht (1250)
+                    blühte empor als bedeutende Hanssestadt. Ihre Kirchen wurden gegen Ende des 13.
+                    Jahrhunderts erbaut; ihre Universität 1456 gegründet.</p>
+                <p>Jetzt fährt das Schiff aber ein in den Hafen, und, den RyckFluß hinab, auf den
+                    stillen, tiefen Wassergraben nach der eine Stunde vom Meere entfernten Stadt
+                    Greifswald. Und wiederum eine kurze Weile, und der Fuß betritt Pommer'sche
+                    Erde.</p>
+                <p>Dort, in Greifswald, tritt denn auch wieder Carlsburger Freundlichkeit mir in
+                    wohlbekannten Zugen entgegen: Doctor W.<pb n="78"/>nimmt mich daselbst in
+                    Empfang. Eine Stunde Eisenbahnfahrt noch, eine halbe in dem auf uns haxrenden
+                    Wagen, und Carlsburgs schützendes Dach wölbt sich über dem Wanderer, der, reich
+                    an vielfachen Eindrücken und schönen Erinnerungen, zurückkehrt,vergnügt die
+                    Herzlichkeit erwiedernd, mit der er allseits begrüßt wird.</p>
+                <p>Da gab es viel zu erzählen, viel zu fragen und zu beantworten, Vieles zu
+                    schildern. Und wenn es dem Wanderer nicht gelingt, die Schönheit von
+                    Stubbenkammer würdig zu zeichnen,so weist er auf ein Blatt hin im Schlosse
+                    Carlsburg. Dort ist sie gezeichnet, die Küste ohne Farbenschmuck; schwarz auf
+                    weißem Grunde bloß. Aber was dem Beschauer entgegen weht von dem Bilde, von den
+                    kahlen Riffen, den dunkeln Buchen, der unendlichen Meerfluth, über die die Möve
+                    kreist: es ist der Geist der Landschaft, der große, ernste Geist, wie er den
+                    Wanderer ergreift an jener Stätte; wie er auch Die ergriffen haben mag, die dies
+                    Bild entwarf, die reichbegabte, künstlerische Frau. Sollte ihm jedoch gelungen
+                    sein, Manches richtig zu erzählen und genaun zu berichten, so dankt er es
+                    zumächst seinem hochverehrten Lehrer in Carlsburg, der in ffreundlicher Vorsorge
+                    ihm aus dem Gebiete des Thatsächlichen und Oertlichen Das an die Hand gab,
+                    wessen er bedurfte, um seiner Erinnerung nachzuhelfen. Das Gemüth nimmt die
+                    Eindrücke auf, je nach seiner Beschaffenheit, und strahlt,dem Spiegel gleich,
+                    ohne Weiteres sie zurück, wie es sie empfangen; das Gedächtniß aber bedarf oft
+                    der Nachhülfe, soll dem vom Bemüthe Aufgenommenen der richtige Ausdruck
+                    verliehen werden.</p>
+                <p>Es sei mir gestattet, hier am Schlusse meiner Reisebilder diese Nachhülfe Ihm zu
+                    verdanken, der sie mir in so wohlwollender Weise angedeihen ließ!</p>
+                <p>2 </p>
+                <p>
+                    <pb/>Anszug aus Carlsburger Kriefen.</p>
+                <p>November 1872...... „Welche Schreckenstage sind seither hereingebrochen über
+                    unser ruhiges, einförmig-glückliches Land! Ach, Graus und Braus tobten, und
+                    unsere See Sie lernten nur ihre bewegte Ruhe kennen schleuderte in ihrer
+                    Schreckensgestalt Berge von Wasser über sonst so friedliche Fluren und
+                    vernichtete das, woran sie selbst unter menschlicher Hülfe Jahrhunderte gebaut.
+                    Welche Gefühle würden Sie wohl bewegt haben, wenn Sie am Morgen des 13. auf dem
+                    Kulm bei Heringsdorf gestanden und, von Schaum und Gischt bespritzt, ein Stück
+                    Ufer nach dem sandern einstürzen und vom wüthenden Elemente hätten verschlingen
+                    seh'n!Wie anders das Bild, die Scene als damals: der prachtvolle Park ist
+                    größtentheils verwüstet, die Bäume dahingestreckt am Boden, gleich überwundenen,
+                    leblosen Riesen; das Ufer zerrissen;zerklüftet die Stätte, wo der schöne Sand,
+                    der einstz Ihre Freude war; die harmlosen Fischerdörfer theilweise verschwunden
+                    und ach,statt friedlicher Bewohner, händeringende Bettler, Jammergestalten,nackt
+                    und blos, die noch wenige Stunden zuvor glückliche Menschen waren; statt ihrer
+                    sie ernährenden Werkzeuge, ihrer Bote und Netze, der leere, schaurige Strand, an
+                    den das Meer noch immer <pb n="30"/>Trümmer spült, als Zeugen, daß auch in
+                    weiterer Ferne das tückische Element seine Lust am Zerstören übte. Und wo noch
+                    ein Haus steht, ist eingesunken das Dach, und die Stätte, wo die Bewohner ihr
+                    bescheidenes Leben fristeten, ein Trümmerhaufen, wirr durcheinander geworfen und
+                    von Meergras bedeckt; statt der Brunnen, verschlammte,sandgefüllte Lachen; und
+                    endlich statt der Lieben, die mit ihnen die friedliche Wohnung theilten, blafse,
+                    am Strande zerschellte Leichen!Und vor den traurigen Blicken das weite, tobende
+                    Meer, und vor den bangenden Seelen der grausige, lange Winter! Zu beschreiben
+                    ist das Elend nicht, namentlich nicht auf den Inseln Darß und Zingst mit 4500
+                    Bewohnern, deren Land etwa 6 bis 8 Fuß über dem mittleren Seestande, jetzt bis
+                    20 Fuß hoch theilweise überfluthet und der Wuth der See, welche die 20 Fuß hohen
+                    Dünen durchbrochen, unmittelbar ausgesetzt war. Nichts, gar nichts ist gerettet,
+                    als der Ueberbliebenen nacktes Leben! Glücklich Alle, die den Tod fanden! Sie
+                    können sich keinen Begriff machen von den Zerstörungen! Güter, die fast eine
+                    Meile von der See entfernt liegen, sind von ihr erreicht worden. Große
+                    Seeschiffe stehen auf den Höfen und Aeckern; ja, bei Lißnowitz steht eine mit
+                    Waizen beladene Barke (ein dreimastiges Schiff von circa 200 Lasten) mitten im
+                    Walde! Zu Rambin, nahe der Alten Fähre auf Rügen ist ein Schiff quer über die
+                    Landstraße gesegelt und auf einem Bauernhofe zu Anker gegangen! Zu Ladebon (ein
+                    Gut bei Greifswalde) sind sämmtliche Schafe, 1050 Stück,und alles Rindvieh
+                    ertrunken, ebenso zu Mehlkenhagen, s/. Meile von der See, sämmtliches Vieh, die
+                    Gebäude fortgespült, weit und breit die Ernte verwüstet, die Saaten mit Seesand
+                    übertrieben,die Aecker auf lange Zeit unfruchtbar gemacht! Bei Greifswald ist
+                    der von Stralsund kommende Zug versunken und vom Wasser, sammt dem Bahndamme,
+                    fortgerissen worden. Unter höchster Lebensgefahr gelang es da der Hingebung
+                    dreier opferwilliger Menschen die 32 unglücklichen Passagiere aus den Wassern zu
+                    retten. Und bei Swinemündel Ach, drei Mal durchbrochen ist dort die Moole,
+                    dieser gewaltige Damm, dessen Felsen<pb n="81"/>festigkeit Sie so sehr
+                    bewundert; die vordere Spitze ist vollständig zerstört! Der Lootsenthurm
+                    verschwunden; der Leuchtthurm steht noch da; er hat der Wuth der Elemente
+                    getrotzt. In Swinemünde hat das Wasser bis 10 Fuß in einigen Straßen gestanden
+                    und die Communication per Boot war unmittelbar auf die zweiten Stockwerke der
+                    Häuser angewiesen. Bei Usedom ist die Chaussee durchbrochen und die Insel bei
+                    Wohlzow ist jetzt in zwei Theile getheilt.</p>
+                <p>Doch ich will inhalten mit Klagen, würden ja ganze Bogen nicht hinreichen, all'
+                    das Elend zu schildern, und Zeitungen und sonstige Berichte werden Ihnen besser
+                    wie ich bereits davon Kunde gegeben haben. Nach Millionen zählt der Verlust von
+                    Hab und Gut, nicht zu reden von all' Dem, was nicht nach Zahlen berechnet werden
+                    kann.“ ......</p>
+                <p>November 1872..... „„Also brachten Ihre Schweizerblätter Ihnen schon die Kunde
+                    von dem furchtbaren Orkan, der auf der Ostsee wüthete,der ihren Wasserstand um
+                    20 Fuß erhöhte, und Swinemünde derart unter Wasser setzte, daß, hätte dieser
+                    Stand noch fünf Stunden gedauert, unsere liebe Seestadt vielleicht versunken
+                    wäre wie einst Vineta. Die Molen wurden durchbrochen;mit den größten Steinen
+                    spielten die Wellen. Der Lootsenthurm ist weggerissen. Die Schiffe im Hafen
+                    giengen unter; keine menschDV mannschaft 1000 Thaler geboten wurden. Was vermag
+                    Menschenwerk und Kraft gegen der Elemente Wuth!„Wehe, wenn sie
+                    losgelassen,Wächsend ohne Widerstand!“Der blühende Küstenstrich ist unfruchtbar
+                    geworden auf Jahre hinaus; die Aecker und Saaten sind mit Seeschlamm und Sand 6
+                    <pb/> 82 überzogen, die Brunnen mit Salzwasser gefüllt. Und wie furchtbar haben
+                    erst die einzelnen Ortschaften und Städte Stralsund, Greifswald, Anklam gelitten
+                    und die Inseln Darß und Zingst!</p>
+                <p>„Auch wir waren Tagelang ohne jede Verbindung: bei Greifswald lag der
+                    Stralsunderzug in Flusse Ryck, und nur nach und nach drangen die
+                    Unglücksbotschaften zu uns herüber. Selbst hier in dem friedlichen Carlsburg
+                    tobte der Sturm fürchterlich, und konnte in jener Nacht kein Mensch die Augen
+                    schließen;es war anzuhören wie ferner Donner, mit Heulen und Brausen verbunden.
+                    Von den uralten Bäumen des Hofes und des Parks sind viele entwurzelt. Im Forst
+                    liegen sie zu Hunderten, die schlanken Kiefern des Nordens, theils entwurzelt,
+                    theils geknickt, liegen sie da auf der Erde; ihre Häupter ineinander
+                    verschlungen, als suchten sie im letzten Kampfe noch Schutz sich zu verleihen,
+                    nach nordischer Weise noch fester zusammen haltend zur Zeit der Gefahr, und treu
+                    bis in den Tod.</p>
+                <p>„Wir freuen uns, daß Sie einen milden, friedlichen Eindruck mitgenommen aus
+                    unserm Norden; aber mitempfinden werden Sie unser Leid um die unglücklichen
+                    Brüder. Gott schütze Ihr Heimathland, die schöne Schweiz!““ ...... <pb/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

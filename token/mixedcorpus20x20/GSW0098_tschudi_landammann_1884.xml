@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GSW0098" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Landammann (Josef Anton) Suter. Kriminalgeschichte aus Appenzell Innerrhoden:
+                    ELTeC Ausgabe</title>
+                <author ref="viaf:95161999">Tschudi, Friedrich von (1820-1886)</author>
+                <respStmt>
+                    <resp>ELTeC conversion</resp>
+                    <name>Automatic Script</name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <measure unit="pages">38</measure>
+                <measure unit="words">12710</measure>
+            </extent>
+            <publicationStmt>
+                <p><date>2022-04-20</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                    <respStmt>
+                        <resp>Transcription</resp>
+                        <name>UB Basel</name>
+                    </respStmt></bibl>
+                <bibl type="digitalSource">
+                    <respStmt>
+                        <resp>Scan</resp>
+                        <name>UB Basel</name>
+                    </respStmt></bibl>
+                <bibl type="firstEdition">
+                    <title>Landammann Suter. Kriminalgeschichte aus Appenzell Innerrhoden</title>
+                    <author>Tschudi, Friedrich von</author>
+                    <publisher>Schläpfer'sche Buchdruckerei</publisher>
+                    <pubPlace>Trogen</pubPlace>
+                    <date>1884</date>
+                    <!-- this title has been retrodigitised as part of the project “High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century”  -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc n="eltec-0">
+            <p>The text was transcribed from the transcription from UB Basel, which is based on the
+                1884 edition. The page breaks, chapter divisions and chapters were taken from scan
+                from UB Basel, which is based on the 1884 edition.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2022-05-21">Svenja Schär added TEI Header and removed noise.The Scan is
+                used only to insert page beginnings, paragraphs, chapters and heads.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="chapter">
+                <p>Zuter als Landvogt und als Landammann.</p>
+                <p>„Stell mir den Stickrahmen in die Stubenkammer hinauf, Sevele;ich dachte sicher,
+                    Lankentonis Ziska werde ihn morgen wieder abholen,und nun steht er schon seit
+                    Freitag Abend hier. Heute ist fie in's Dorf (Appenzell) hinein, hat
+                    Landsgemeindegedanken im Kopf, und ob sie morgen vorbei kommt, ist nicht
+                    gewiß.“</p>
+                <p>Sevele, ein feines, blondhaariges, für seine zwölf Jahre etwas kleines Mädchen,
+                    mit verständigem, ausdrucksvollem Gesichtchen, folgte augenblicklich dem Wunsche
+                    seiner Mutter, die in der blankgescheuerten Stube noch dies und das ordnete und
+                    dann ihr jüngstes Kind aus der Wiege nahm, in welcher es sachte zu rumoren
+                    begonnen hatte. Das kleine pausbackige Müdchen mit seinem rothgeschlafenen
+                    Gesichtchen strappelte mit Hünden und Füßen auf dem Arm der Mutter, die vom
+                    Spiegel herunter ein paar buntgemalte Heiligenbildchen ihm vorhielt,welche sie
+                    beim letzten Schmalzumgang vom Pater Kapuziner erhalten hatte.</p>
+                <p>„Ob wohl die Landsgemeinde bald aus ist“, begann die Frau nach einer Pause
+                    wieder, mit dem Kind ans Fensier tretend und den steilen Thalzug überblickend,
+                    welcher von ihrem Gute, in der GontnerRhod gelegen, sich gegen den Hauptflecken
+                    Appenzell neigt und mit Tannengruppen und schönen Hügelwiesen besetzt ist,
+                    zwischen welchen sich, besonders gegen den Klosterspitz hin, noch große
+                    Schneepartien ausdehnten. Das schwache erste Grün, welches die Aprilsonne
+                    besonders auf der Nordseite des Thales hervorgelockt hatte, hob sich freundlich
+                    von den Schnee-Oasen und Schwarzholzständen der obern Berghälfte ab, als ob die
+                    Mutter Natur selber das große Freudenfest ihrer Kinder und zu diesen gehörten im
+                    besondern Sinne die den Flecken durchwogenden Volksmassen mitzufeiern sich
+                    bestrebte.<pb/>*</p>
+                <p>„Hast Du nicht schon trommeln gehört?“</p>
+                <p>„Nein, Mutter“, sagte Sevele, durch's Fenster spähend, „der rechte Schlußmarsch
+                    ist's nicht gewesen; aber großer Lärm und Jubel war vorhin, und dann hab' ich
+                    die Pfeiffer und Tambouren musiziren gehört, wie wenn sie ein Standeshaupt zur
+                    Bühne begleiten. Vielleicht haben sie den neuen Landvogt für's Rheinthal
+                    gewählt.“</p>
+                <p>„Dann wird die Landsgemeinde wohl auch bald aus sein. Hol'Butter und Honig
+                    herauf, Sevele, und rück' den Kaffee auf die Gluth.Vielleicht kommt der Vater
+                    heut früher heim. Es ist ihm am Morgen nicht ganz wohl gewesen; er muß im
+                    nächsten Wedel wieder zur Ader lassen.“</p>
+                <p>Eine Viertelstunde war kaum mit den Vorbereitungen zum Abendbrod hingegangen, als
+                    Barthle, der zehnjährige Bub, schreiend und jubelnd, wie außer sich vor Freuden,
+                    über die Wiese hersprang.„Mutter, Mutter, der Vater ist Landvogt geworden, die
+                    Mannen haben ihn zum Landvogt gemacht!“ rief er, athemlos in die Stube
+                    stürzend.</p>
+                <p>Die sonst bleiche Frau wurde noch blasser und hielt sich zitternd an der
+                    Tischecke. „Landvogt, der Vater Landvogt!“ wiederholte sie fast träumerisch und
+                    drückte mit einem Gefühle freudigen Glückes und stürmischer Erregtheit den
+                    blonden Krauskopf an sich. „Aber hast's auch recht gehört, Barthle, wie kam der
+                    Vater dazu, Landvogt zu werden?“ fuhr sie zweifelnd fort. „So lang die im Schloß
+                    und die Geiger zu haben sind, nehmen sie keinen Hofer“ (Bauer vom Land).</p>
+                <p>Da ereiferte sich der Knabe höchlich über der Mutker Mißtrauen und erinnerte sie,
+                    wie es schon vor etlichen Tagen geheißen habe, die aus der Gontner, Schlattner-
+                    und Lehner-Rhod wollten den Vater zum Landvogt haben. Bald kamen auch Kinder und
+                    Erwachsene aus der Nachbarschaft und bestätigten der horchenden Frau, daß ihr
+                    Mann,der Badwirth, zum Landvogt für's Rheinthal erwählt worden sei.</p>
+                <p>„Wirst aber nicht hochmüthig werden, Frau Landvögtin“, neckte ein bildschönes
+                    Weib aus der Nachbarschaft ihre Freundin, „ ist ja doch nur zwei Jahre, so bist
+                    wieder Badwirihs Sepplis Frau.“</p>
+                <p>„Wollte Gott, die zwei Jahre wären schon um und ich blieb',was ich gewesen bin“,
+                    erwiederte mit einem tiefen Seufzer und mit einer Thrüne im Auge die Badwirthin.
+                    „Siehst Vreneli, die Sach'liegt mir schwer auf der Brust. Geb' Gott seinen Segen
+                    dazu!“</p>
+                <p>Es war am letzten Sonntag im April des Jahres 1760, als Josef Anton Suter, der
+                    Badwirth von Gonten, zum Landvogt für's Rheinthal gewählt wurde. Die Wahl war um
+                    so ehrenvoller, als einerseits diese Stelle, die einzige Landvogtei, welche
+                    Innerrhoden zu bestellen hatte, dem gewöhnlichen Turnus nach nur alle 30 Jahre
+                    von dem Halbkanton besetzt werden konnte, und anderseits die allfälligen
+                    Kandidaten für dieselbe nicht in der Mitte des Volkes, sondern unter <pb n="9"
+                    />den Standeshäuptern vorausgesetzt wurden. Der Gontner Badwirth war ein
+                    ziemlich wohlhabender Mann, ein offener Kopf mit sprudelndem Mutterwitze, von
+                    damals seltener Bildung und einnehmenden Sitten,dabei durch seine gesunden
+                    Ansichten und sein gutmüthiges, hülfbereites Wesen ein wahrer Liebling des
+                    Volkes. Eher etwas eitel als ehrsüchtig, hatte er sich wenig um die unteren
+                    Aemtchen gekümmert, die ihm bei der großen Zahl von auszutheilenden
+                    Landesbeamtungen bisher zugefallen waren, als sich vielmehr seiner Popularität
+                    und der festen Treue seiner Freunde gefreut. Diese bestanden anfangs nur aus
+                    seinen Nachbarn und Dorfgenossen. Sie kamen zu ihm ins Wirthshaus,nicht gerade
+                    um zu zechen damals wurde außer an Sonn-, Marktund Festtagen auch im Wirthshause
+                    nur sehr selten von Bauern getrunken sondern mehr, um sich mit ihm zu
+                    unterhalten, seinen Rath zu hören, seine Erzählungen über des Landes
+                    Augelegenheiten und wohl auch hin und wieder ein Bruchstück aus der
+                    schweizerischen und europäischen Tagesgeschichte. Denn Suter kam bisweilen
+                    hinunter nach St. Gallen und hörte, was draußen in der Welt passirte, und nahm
+                    auch wohl ein Zeitungsblatt mit heim in seine Berge. Das wurde dann am Abend den
+                    Nachbarn vorgelesen und bestmöglichst erklärt.Er kam zu einem gewissen Ansehen,
+                    ohne darnach zu streben und wurde im Lande herum bekannt, ohne recht zu wissen
+                    wie.</p>
+                <p>Er hatte sich früher schon eine Abschrift des Landbuches verschafft und viel
+                    darin herum studirt. Manche, die ein Anliegen oder einen Prozeß vor Rath hatten,
+                    kamen zu ihm und beriethen ihn. Mit Anderen sprach er auch gerne über die
+                    politischen und Verwaltungszustände des Ländchens und dachte oft darüber nach,
+                    wie diesem und jenem Mangel oder Unfug abzuhelfen wäre.</p>
+                <p>Die Regierungsform Innerrhodens war wie die der kleinen Kantone, trotz der
+                    durchaus demokratischen Verfassungsrahmen, eine gewissermaßen aristokratische.
+                    Die Regierungsgewalt lag thatsächlich seit Jahrhunderten bei etlichen
+                    angesehenen und begüterten Familien Appenzells,aus deren Schooß die
+                    Landsgemeinde fast ununterbrochen die obersten Landeshäupter als: Landammann,
+                    Landsstatthalter, Landsseckelmeister,Landshauptmann, Landsbauherr,
+                    Landsfähnrich, Landszeugherr, Reichs-vogt u. s. w. wählte. Es lag in der Natur
+                    der Sache, daß diese höchsten Landesbeamtungen bei den wenigen Gebildetern und
+                    Vermöglichern des Ländchens blieben, da sie so zu sagen mit keinem Gehalt
+                    verbunden waren, und der Bauer draußen weder Zeit noch Lust,selten auch nur die
+                    erforderliche Schulbildung besaß, sich ihnen zu widmen. Was so im Laufe der Zeit
+                    zum aristokratischen Gebrauch geworden, wurde von den regierenden Familien nach
+                    und nach als eine gewissermaßen ihnen zugeschiedene Gerechtsame betrachtet, sie
+                    hielten darauf, dem Lande, wenn auch ohne pekuniären Nutzen, zu dienen und
+                    <pb/>daher auch im gewöhnlichen bürgerlichen Leben eine höhere, einflußreichere
+                    Stellung einzunehmen. Daher kam es ihnen ebenso unerwartet wie mißliebig, als
+                    die Landsgemeinde auf die ehrenvolle und auch einträgliche rheinthalische
+                    Landvogtei statt einen aus ihrer Mitte den bis dahin von ihnen wenig beachteten
+                    Badwirth von Gonten mit ungeheurem Mehr erwählte.</p>
+                <p>Der stillstehende Landammann Geiger von Appenzell hatte selber auf solche Ehre
+                    gerechnet und sich bereits mit Wohlbehagen in die gefürchtete Grandezza eines
+                    wohledeln, wohlweisen und gestrengen Herrn „Landvogts“ hineinversetzt. Sollte
+                    diese nun so über Nacht an einen unbekannten Plebejer, an den Badwirth Seppli
+                    von Gonten übergehen,dieser in Rheineck im Schlosse residiren, das Patriziat
+                    Appenzells vertreten, gerade dieser Mann, der schon oft im Wochenrath spitzige
+                    und mißliebige Dinge angebracht halte? Und doch war Suter nichts weniger als ein
+                    „Plebejer“. Er stammte aus einer angesehenen und alten Familie und sein
+                    Großvater war Landammann gewesen.Er aber hielt sich freilich mehr zu dem Volke
+                    als zu den Herren.</p>
+                <p>Als nach der Landsgemeinde die Frau Suter mit den Kindern und Weibern der
+                    Nachbarschaft am Fenster stand, erhob sich großes,jubelndes Getöse das Thal
+                    herauf. Eine ansehnliche Volksmässe,Mann für Mann mit Säbeln armirt, voran die
+                    LandsgemeindeTrommler und -Pfeiffer, begleitete Suter nach Hause. „Vivat der
+                    Badwirth Seppli! Vivat der neue Landvogt!“ schrien die Buben.„Sieh',“ sagte
+                    Vreneli zu Frau Suter, „was sie Deinem Mann für Ehre anthun; der Landweibel in
+                    der Farb' geht vor ihm her.“ „Ja,Vreneli“, erwiderte die blasse Frau, „'s wäre
+                    wohl schön; aber ist's nicht gerade wie wenn sie Einen zum Richtplatz ausführen
+                    ?“</p>
+                <p>„Lieber Gott“, rief Vreneli erschrocken, ‚was machst Du Dir für kuriose,
+                    erschreckliche Gedanken. Gib mir Dein Büblein; Du läßst's ja beinah' vom Arme
+                    fallen und geh' hinein; Du wirst die Büben und Musikanten gastiren müssen.“</p>
+                <p>Nun ging's den Abend über im Badwirthshause laut und lustig her. Alles strömte
+                    zu, in allen Kammern, in den Gängen, vor dem Hause wurde getrunken. Hundert und
+                    hundert Mal mußte der Gefeierte Bescheid thun, anstoßen und Gratulationen
+                    empfangen. Das Volk fühlte es so recht, daß es wieder einmal eine halbe Stunde
+                    souverain gewesen, indem es seinen Liebling, den braven Badwirth, so recht zu
+                    Ehren gebracht. Erst später gingen die Leute auseinander.Fünf oder sechs Männer
+                    saßen aber noch bis gegen Mitternacht am Ahorntische beim Ofen; unter ihnen der
+                    Pfarrer Bühler von Gonten,ein starker Vierziger mit feinen Zügen, und Baptist
+                    Räß, ein junger,feuriger Mann, dem beim lauten und heftigen Sprechen oft die
+                    goldene Kette, die er nach Sennenweise als Ohrring trug, um den Kopf
+                    flog.<pb/>Suter saß bei ihnen. Er war von etwas untersetztem, gedrungenem Bau,
+                    verständigen, edeln Gesichtszügen, die sowohl den klaren Kopf und das gute Herz,
+                    als auch den witzigen Schalken unverkennbar verriethen. Er war heute so recht
+                    ingründig glücklich und besprach mit seinen Freunden eifrig seine hohe Stelle,
+                    ihre Gerechtsame und ihre Last. Höchst ungern schied er von dem heimatlichen
+                    Herde, von den oielen Geschäften seines Bauernwesens; auch traute er sich nicht
+                    recht zu, die Landvogtrolle mit dem gehörigen Vollgewicht der Autorität zu
+                    handhaben. Er ließ sich aber vom Pfarrer Bühler gern beruhigen und auch die
+                    wenigen lateinischen Formeln erklären, die er für die landvögtlichen Urtheile
+                    und Berichte zu gebrauchen hatte.</p>
+                <p>„Am unliebsten ist mir bei Allem das“, sagte der Landvogt, „daß sie nicht einen
+                    von den Landeshäuptern genommen haben. Hab ich auch die Stelle weder begehrt
+                    noch gesucht, so wird mir's der Landammann Geiger doch nicht vergessen.“</p>
+                <p>„Was hast Du dem Landammann nachzufragen“, warf Räß ein,„bist ein gefreiter
+                    Landsmann wie der, und gut ist's, wenn die Landsgemeinde den Herren einmal
+                    zeigt, daß wir auch was zur Sache zu sagen haben. Die sind das ganze Jahr über
+                    allein Meister und thun,was sie wollen. Unsereiner ist auch nicht der Narr im
+                    Spiel, uach ihrer Pfeife zu tanzen. Seppli, was willst doch! Bist's ja fast
+                    einhellig geworden.“</p>
+                <p>„Und dann zeigt auch, Badwirth“, rieth der Pfarrer, „zeigt den Rheinthalern, daß
+                    wir nicht wie die andern Stände mit unserer Hoheit nur das Volk drängen und
+                    aussaugen wollen. Ist mancher Landvogt als ein armer und verschuldeter Mann
+                    hingegangen, hat zwei Jahre im Schloß gewirthschaftet und ist mit eigenem Roß
+                    und Wagen und silbernem Tafelgeschirr wieder gekommen.“</p>
+                <p>„Fürchtet nichts, wohlerw. Herr Pfarrer“, entgegnete Suter, „ich denke, Ihr
+                    werdet mich nicht verachten, wenn ich Euch in zwei Jahren den Gaiskäs auf einem
+                    zinnernen Teller präsentire wie heut'.“</p>
+                <p>Vor Antritt seiner Landvogtei mußte Suter nach Frauenfeld reisen, um sich durch
+                    Landammann Geiger der versammelten Tagsatzung vorstellen zu lassen. In seinen
+                    Staatskleidern mit Degen und Perücke vor den Boten der Stände stehend, fühlte er
+                    sich um so unbehaglicher,als Geiger in seiner Präsentationsrede mit boshaftem
+                    Spotte ihn blosstellte.</p>
+                <p>„Ecce homo!“ sprach Geiger unter Anderm und äußerte, daß dieser homo novus zwar
+                    vom großen Haufen zu dem hohen Ehrenposten auserkoren worden; daß aber die
+                    Gescheidtesten sich's zur Ehre rechnen, anders zu denken als der gemeine Pöbel.
+                    Die Appenzeller Standeshäupter hätten zwar nicht ermangelt, Suter seines Amtes
+                    Wichtigkeit eindrucksamst vorzustellen, damit das Wort sich nicht erwahre:<pb/>
+                    Wehe dem Lande, dessen König ein Kind ist; indessen sagen ja die großen
+                    Philosophen, die Welt werde durch Narrheit regiert und er hoffe daher um so
+                    mehr, daß die gnädigen Herren von den Ständen diese Wahl gutheißen werden
+                    besonders da der Landvogt von seinem Thun und Lassen jederzeit Rechenschaft zu
+                    geben habe und zurechtgewiesen werden könne, wo es Noth thue.</p>
+                <p>Indessen machte Suters persönliche Erscheinung einen guten Eindruck bei den
+                    Gesandten. Bei Tafel fragte ihn sein Nachbär: ob er auich wisse, was das ecce
+                    homo bedeutet habe? Wohl“, entgegnete Suter, „Geiger hat mich mit dem Herrn
+                    Jesus Christus und sich selbst mit dem ungerechten Richter verglichen.“</p>
+                <p>Schallender Beifall versüßte ihm den erduldeten Spott.</p>
+                <p>Nun mußte Suter viel Geld auftreiben, um standesgemäß seinen landvögtlichen
+                    Einzug halten zu können. Achtundvierzig Louisd'ors mußten als Satzgeld
+                    hinterlegt, große Festlichkeiten gehalien und Ehrensolde ausbezahlt werden. Die
+                    Reichen Junerrhodens wollten aber keine Vorschüsse machen und Suter mußte die
+                    Summe in Außerrhoden borgen.</p>
+                <p>Die zwei landvögtlichen Jahre verliefen sehr glücklich Suter war als milder und
+                    gerechter Oberherr im Rheinthal in Ruhm gekommen,daß die Appenzeller, stolz auf
+                    ihren Landvogt, ihn nach seiner Rückkehr (1762) zum Landammann und
+                    Standesgefandten zut eidgenössischen Tagsatzung wählten. Dadurch aber wurde er
+                    den alten, wie sie geglaubt hatten, allein regierungsfähigen Familien, voran der
+                    Geiger'schen, tief verhaßt. Suter war nicht der Mann, sich anzuschließen und in
+                    die alten Traditionen zu fügen. Fest und körnig, wie sein Körperbau,war sein
+                    Charakter. Mit aufrichtigem Eifer und scharfem Auge suchte er manchem
+                    eingerissenen Uebelstande zu wehren und das gleiche Recht unverrückt
+                    festzuhalien für Alle. Selbst aus dem Schooße des Volkes hervorgegangen,
+                    bewachte er mit mißtrauischem Auge das Wohl und den Nutzen des kleinen gemeinen
+                    Landmanns und trät den Privilegien der Herren auch da gern entgegen, wo diese
+                    wenig zu bedenlen hatten.Natürlich stieg dadurch die Feindschaft seiner Kollegen
+                    in der Regierung um so mehr, als ein gewisses Mißtrauen sich dazu gesellte,
+                    Suter möchte die verfassungsmäßige Volksherrschaft aus ihrem alten Scheinleben
+                    herausheben und ein Bauernregiment heraufbeschwören. Dazu kam noch, daß Suter
+                    ein Gesetz abzustellen suchte, welches die einheimischen Reichen werth genug
+                    hielten. Es bestand nämlich die unbillige Satzung, daß inländische Gläubiger
+                    eines zahlungsunfühigen Schuldners den Vorrang hatten vor ausländischen.</p>
+                <p>Suter sprach immer: „Das nimmt unserm Ländchen den Kredit in Handel und Wandel,
+                    und unsere Bauern bekommen auf ihre Heimwesen kein auswärtiges Geld. Sie bleiben
+                    in den Händen unserer Herren und müssen hohen Zins bezahlen.“ Die Gegner aber
+                    ver<pb/> leumdeten ihn und verbreiteten das Gerücht, er helfe den Fremden zum
+                    Schaden der Landsleute, er wolle das Ländchen den St. Gallern tributbar machen
+                    und die alten Rechte umstoßen; er sei überhaupt ein unruhiger und gefährlicher
+                    Mann.</p>
+                <p>Suter selbst fühlte sich in den höchsten Ehrenämtern des Landes immer
+                    behaglicher. Nicht selten benützte er die wenig genau abgegrenzte
+                    Machtvollkommenheit des Landammanns zu eigenmächtigen Maßregeln.Fest und keck in
+                    der Verfolgung seiner Pläne, pflegte er auch da selbständig zu handeln, wo der
+                    alte Regierungsbrauch ein mehr kollegialisches Verfahren vorzeichnete. War Suter
+                    regierender Laudammann,so war er auch die ganze Regierung. Die beigeordneten
+                    Standeshäupter kannten seine Energie und ließen ihn gewähren; selbst Geiger
+                    widersprach selten und auch dann nur halb, geschah es aus Furcht vor Suter's
+                    handfester Kernhaftigkeit, geschah es aus schadenfroher Politik mit dem
+                    Rückgedanken: „Mach' du nur so zu, wir kriegen dich dann mit einem Mal.“</p>
+                <p>So ließ sich der Landammann auch wirklich in einen Handel ein,der für ihn zum
+                    jähen Verhängniß werden sollte. Innerrhoden hatte einst in schwerer
+                    Geldverlegenheit die hintere Hälfte der Säntiser Alp bis gegen Fähnern und
+                    Furglen (den sogenannten Rheinthalersäntis)dem rheinthalischen Dorfe Oberried
+                    verpfändet oder vielleicht veräußert;man wußte es nicht so recht; wahrscheinlich
+                    war der Auslösungstermin abgelaufen und das Pfand den Rheinthalern
+                    anheimgefallen. Landammann Suter sagte oft zu seinen Freunden: „Seht doch, wie
+                    traurig und schmählich ist es für uns, die halbe Alp mit Sömmerung für 135 Kühe
+                    und so viele Ziegen und Schweine in landsfremden Händen zu lassen, eines der
+                    besten Gräser des Ländchens.“ Dann theilten sie sein Bedauern und bestärkten ihn
+                    in seinem zu des Landes Frommen und Ehre gefaßten Vorhaben, den
+                    Rheinthalersäntis von den Oberriedern irgendwie wieder zurück zu lösen. Suter
+                    erkundigte sich nun nach den obschwebenden Besitzverhältnissen und hörte, daß
+                    die Alp stark verschuldet und selbst verpfändet sei und daß besonders etliche
+                    Hohenemser Hebräer bedeutende Summen darauf stehen hätten. Er brachte die Sache
+                    an den Landrath; dieser beschloß auf seinen Antrag, die Alp abschätzen, die
+                    betreffenden Summen aus dem Landseckel anweisen zu lassen und die Pfande für das
+                    Land in Besitz zu nehmen.</p>
+                <p>Allein der bisherige Besitzer, die Gemeinde Oberried, willigte in solches
+                    Verfahren nicht und klagte im Jahr 1769 bei den eidgenössischen Schirmorten über
+                    Gewaltthätigkeit. Der Handel sollte auf der Tagsatzung zu Frauenfeld ausgetragen
+                    werden und vorläufig erging nun ein nachdrückliches Schreiben an Innerrhoden mit
+                    der Mahnung, die Oberrieder unter alter Gewohnheit zu belassen. Dann kam auch
+                    von Zürich der Standesläufer, um sich wiewohl vergeblich der Ab<pb n="10"
+                    />schätzung zu widersetzen. Als die Sache nun so ernst zu werden begann,zeigie
+                    sich im Landrathe große Muthlosigkeit. Die Geiger'sche Partei klagte laut über
+                    die Schwierigkeiten und die schlimme Sache, in die das Land durch Suter nun
+                    käme, malte die Unkosten in's Ungeheure aus und erzielte denn richtig, daß der
+                    Landrath nach langer und heftiger Berathung beschloß, die Hand von der
+                    begonnenen Sache abzuziehen. Da stand Landammann Suter zornig von seinem Sessel
+                    auf und erklärte heftig, daß er von Innerrhodens Recht auf diese einst
+                    appenzellische Alp so fest überzeugt sei und daß er ein Zurückgehen des Rathes
+                    vor Austrag der Sache für so schmählich halte, daß er den ganzen Handel über
+                    sich zu nehmen und in eigener Verantwortlichkeit zu des Landes Nutzen zu Ende zu
+                    führen entschlossen sei. Thut das,Herr Landammann“, rief der stillstehende
+                    Landammann Geiger mit höhnischem Lächeln, „ein ehrsamer Rath wird Euch dankbar
+                    sein, wenn Ihr den Prozeß, den Ihr aufgebracht habt, mit Ehren zu Ende
+                    bringt.“</p>
+                <p>Nun reiste Suter auf die Tagsatzung nach Frauenfeld und hoffte besonders auf den
+                    mächtigen Beistand des ihm befreundeten Schultheißen von Erlach von Bern. Allein
+                    die Oberrieder wiesen überzeugend ihr Eigenthumsrecht auf die Alp nach und die
+                    Tagsatzung erklärte, sie sollen in ihrem Besitz ungehindert verbleiben; der hohe
+                    Stand Appenzell der innern Rhoden sei in die Kosten verfällt, für deren
+                    Abtragung die appenzellischen Güter im Rheinthal pfandbar bleiben sollten;
+                    indessen sei dem abgesandten Landammann Suter bis November Termin zu geben für
+                    Beibringung besserer Beweise zur Geltendmachung des vermeintlichen
+                    innerrhodischen Eigenthumsrechts. Suter stellte aber statt der Verpfändung
+                    appenzellischer Güter hinlängliche Kaution für die Kosten aus eigenen Mitteln,
+                    so daß das Land nur NMutzen, nicht Schaden zu gewärtigen hatte.</p>
+                <p>Inzwischen hatte der Vorgang seines imponirenden Eindruckes nicht verfehlt; die
+                    Freunde Suter's ermuthigten sich im ganzen Ländchen wieder und hofften auf einen
+                    günstigen Ausgang der Sache.</p>
+                <p>Wirklich versammelte sich schon in der nächsten Woche der große Landrath wieder.
+                    Er hatte dabei die Vorsicht gebraucht, überall Wachen auszustellen, um eine
+                    Ueberrumplung zu vermeiden und faßte den Beschluß, durch eine öffentliche
+                    Bekanntmachung sofort eine außerordentliche Landsgemeinde auf den letzten
+                    Sonntag im August zu berufen und ihr die Sache vorzulegen; inzwischen aber
+                    sollte das Edikt vom 27. Juli zurückgenommen und der alte Landammann so gut
+                    wieder wählbar sein als jeder andere ehr- und wehrhafte Landmann; das
+                    Landessiegel sei ihm indeß nicht zurückzugeben. Eine Klausel des Protokolls
+                    untersagte aber gleichzeitig allen Rathsgliedern, an der Landsgemeinde bei Ehr'
+                    und Eid auf Suter zu rathen, d. h. ihn als Landammann vorzuschlagen; damit auch
+                    der Geistlichkeit für ihren unter<pb n="11"/>stützenden Einfluß reichlichere
+                    Gelegenheit geboten werde, wurde gleichzeitig Gebetstunde und außerordentlicher
+                    Gottesdienst angeordnet.</p>
+                <p>So rückte die Sache einer wichtigen Entscheidung entgegen. Suter's Anhang hielt
+                    sie für gewonnen, während seine Widerparten alle Kräfte aufboten, die
+                    öffentliche Meinung wider den Gekränkten zu stimmen.Namentlich zeichnete sich
+                    der Pater Ambrosius durch seinen rührigen Eifer aus. Wir sehen ihn am Freitag
+                    vor der Landsgemeinde trotz seiner Wohlbeleibtheit mit schnellen Schritten dem
+                    schönen Heimwesen Lankentonis sich nähern. Er wischte sich von Zeit zu Zeit mit
+                    seinem Tuche, das er jedes Mal aus der Kapuze holte, die Stirn und fragte nach
+                    dem Bauer, der zu den Vermöglichen und Angesehenen gehörte und bisher auf Suters
+                    Seite gestanden. Der Bauer war nicht da;er hatte Galtvieh von der Widderalp
+                    geholt; die Frau und Tochter stickten vor dem Hause. Der Pater setzte sich zu
+                    ihnen auf den Scheiterhaufen am Fenster und fing an zu jammern, was die heilige
+                    Kirche für schwere Zeitläufe zu bestehen habe und Ketzerei und Unglaube von
+                    Frankreich her in die Eidgenossenschaft eindringe. Die Frauen wurden weichmüthig
+                    und zaghaft, und Ziska, die Tochler, stand auf, um dem erhitzten Pater frische
+                    Kuhschotte zur Abkühlung vorzusetzen. „Laß gut sein“, meinte der Pater, die
+                    Schotte vertrag' ich nicht, wenn Du aber ein Gläschen altes Kirschwasser hast,
+                    so wull ich's nicht ausschlagen.“Er erhielt es und kostete es mit Behagen; dann
+                    begann er wiebder vom Verfalle des Glaubens zu reden und erzählte, daß der
+                    Landammann Suter heimlich ganz reformirt sei. Es sei auch ein apostolischer
+                    Erlaß vom Bischof von Konstanz ausgegangen, daß der Suter nicht mehr zum
+                    Landammann erwählt werden dürfe. Er haälte es mit den reformirten Zürchern und
+                    Bernern und würde das Land ganz unter die Ketzer bringen.</p>
+                <p>Mit lebendigen, begeisterten Zügen stellte er ihnen solchen Gräuel vor und rieth
+                    den erschrockenen Frauen, den Lankenbauer und wo sie hinkämen, ihre Freunde vor
+                    Suter zu warnen, daß sie nicht auch in den Geruch der Ketzerei kämen. Hier, wie
+                    an den meisten Orten gerieth die Posse prächtig. Und als Pater Ambrosius die
+                    Gitterthüre des Heimwesens hinter sich zuschlug, strich er sich lächelnd den
+                    Bart und sagte: „Wieder Einer ab; 's werden dem Landslügner nicht mehr allzu
+                    Viele verbleiben!“ Gleichzeitig verbanden sich Ordens- und Weltgeistliche zu
+                    Prozessionen und Bittgängen und sprachen überall von Abfall und
+                    Ketzerei.<pb/>II.</p>
+                <p>Zuter in der Verbannung.</p>
+                <p>Die Tage vor der Landsgemeinde waren auf diese Weise höchst hewegt; es trieb sich
+                    viel Volk in den Wirthshäusern umher. Viele kamen auch zu Pfarrer Bühler, um
+                    sich zu erkundigen, ob wirklich alle,die für Suter wären, keine Absolution
+                    erhielten. Der würdige Geistliche beruhigte die Frager und beschied fie, mit
+                    Suter wäreé es eine gemeine Landsache, nichts Kirchliches; da müßte Jeder nach
+                    seinem Gewissen und Eid mehren und mindern. Er wolle es nicht glauben, daß die
+                    Kapuziner in Appenzell den Handel so drehten, da käme wenig Ehre für die Kirche
+                    heraus. Die verworrensten Gerüchte mehrten sich indessen und beunruhigten alles
+                    Volk. Mit Bestimmtheit wurde versichert, die Geiger'schen hätten 200 handfeste
+                    Männer gedungen, um den Suter abzufassen, wenn er den Stuhl zu besteigen
+                    versuchen sollte.Auch nach Außerrhoden hatte sich die Aufregung verpflanzt, der
+                    Land ammann empfahl daher den Gemeinderäthen, auf allen Wegen die Leute, die
+                    nach Appenzell als Zuschauer ziehen wollten, abzumahnen,da Unheil zu befürchten
+                    sei.</p>
+                <p>Der Landammann Suter selber war in diesen Tagen ebenfalls in großer Aufregung.
+                    „Siehst Du“, sagte er zu seiner Frau, „wenn ich schon nachgeben wollte, ich
+                    darf's nicht. Das ist ein gemeiner Landshandel geworden; sie haben mir an der
+                    Ehre geschadet, und was noch mehr ist, sie haben das Recht des gemeinen Volkes,
+                    seine Obrigkeit frei zu wählen, gekürzt. Das muß ausgefochten sein. Fürcht'Dich
+                    nicht, Kathri, die Sach' wird sich wenden, daß wir mit Ehren drauskommen.“</p>
+                <p>„Ich fürcht' mich auch nicht, Suter“, erwiderte die blasse Frau,„Du stehst in
+                    Gottes Hand, und ich stehe zu Dir; aber lieber wärs mir gewesen, Du hättest den
+                    Geiger'schen vergeben und die Geistlichen hätten uns nicht in den übeln Ruf
+                    gebracht, daß Viele uns meiden wie Ketzer und Gebrandmarkte; 's ist auch der
+                    Kinder wegen; die müssen's mit entgelten.“</p>
+                <p>Als am 27. August die in der Landesfarbe halb schwarz und halb weiß gekleideten
+                    Trommler und Pfeiffer, ohne aber, wie es bei außer</p>
+                <pb n="43"/>
+                <p>ordentlichen Gemeinden bräuchlich war, von ihren Instrumenten Gebrauch zu machen,
+                    mit ihren silbernen Schildern auf der Brust, drei Mal den Gemeindeplatz umkreist
+                    und dann Schlag 11 Uhr den paarweise geordneten Zug der Landesbeamten vom
+                    Rathhause auf den Platz geleitet hatten, stand dicht gedrängt Kopf an Kopf die
+                    ganze Bevölkerung Innerrhodens, im weitern Kreise. Unruhig wogte das Gemurmel
+                    durch die auf's Höchste gespannte Menge. Das Volk hatte seine Seitengewehre
+                    nicht mitnehmen dürfen, weil es keine ordentliche Landsgemeinde war. Die Weibel
+                    geboten Ruhe und Stille und die „Spießmannen“ stellten sich vor dem Stuhle auf.
+                    Langsam bestieg der alternde Landammann Geiger diesen und entblößte sein Haupt,
+                    die Gemeinde mit ihm; er wollte die Verhandlung beginnen. Da trat Landammann
+                    Suter einen Schritt vor und sagte mit klarer, fester Stimme: „Gefryte liebe
+                    Herren und Landleut, Ihr habt mich an letzter hoher Landsgemeind' zum
+                    regierenden Landammann gewählt und beftätigt. Davon mag mich kein Rath bringen,
+                    denn allein die hohe Landsgemeinde. D'rum begehr' ich kraft meines Amtes, den
+                    Stuhl zu besteigen und die Gemeinde zu führen; das ist allein des regierenden
+                    Landammanns Recht und keines Andern!“</p>
+                <p>Hier erhob sich ein stürmisches Getöse im Ring. „Ja, ja“, riefen Suter's
+                    Anhänger, „auf den Stuhl mit dem Landammann! abe (hinunter) mit dem Geiger! ufe
+                    (hinauf)“ und mächtig drängten sie die Masse, in welcher Landammann Suter stand,
+                    der Tribüne zu. Aber noch mächtiger und stürmischer schrien die Gegner: „Fort
+                    mit dem Rebell! Fort mit dem Landfriedenbrecher! mit dem Landlügner!“ und
+                    augenblicklich verwirrte sich die Masse in dichte Knäuel; Stöcke wurden hoch
+                    geschwungen und flogen krachend auf einander und auf die Lederkäppchen; Füuste
+                    wurden geballt, feste Arme fuhren an die Hälse, umschlangen die Leiber. Laut
+                    fluchten die Männer; Weiber und Kinder schrieen, Hunde bellten drein aber ruhig
+                    glänzte die Augustsonne in voller Klarheit über der blutigen, chaotischen Masse.
+                    Eben waren ein paar Dutzend handfeste Bursche von der Suter'schen Partei gegen
+                    den Stuhl vorgedrungen und haätten dem Landammann Geiger die Fäuste vor's
+                    Gesicht gehalten mit dem Bedrohen, ihn herabzuholen,wenn er nicht den Stuhl dem
+                    einräume, der darauf gehöre, als die Spießträger ihre Speere vor demselben
+                    kreuzten und der Landweibel seinen Mantel hoch hielt und den Landfrieden bei
+                    Ehr' und Eiden gebot. Landammann Suter, unterstützt von etlichen ruhigeren und
+                    angesehenen Männern, suchte die Knäuel zu scheiden und zu entwirren und drohte,
+                    den Ring zu verlassen, wenn das Toben nicht aufhöre.Endlich gelang es
+                    nothdürftig, die Ruhe wieder herzustellen.</p>
+                <p>Jetzt verlangte Suter zu Wort zu kommen, um sich vor der Gemeinde zu
+                    verantworten. Da erhoben die Geiger'schen abermals einen hinterlistig
+                    angeordneten Tumult, bis Suter schweigen mußte.<pb n="414"/>Nun war Landammann
+                    Geiger klug genug, alles Vorangegangene zu ignoriren. Er erklärte, um neuen
+                    Hader zu vermeiden und den schwer bedrohten Landfrieden aufrecht zu erhalten,
+                    wolle er zur Wahl eines regierenden Landammanns schreiten. Er schlug für diese
+                    Stelie den wohlweisen und ehrsamen Herrn Landsstatthalter Fäßler vor.Dreimal
+                    mußte zwischen Suter und Fäßler abgemehrt werden und endlich gab der
+                    Gemeindeführer die Erklärung ab, Fäßler sei mit großem Mehr zum Landammann
+                    gewählt; er lege die Gemeindeführung in seine Hände. Fäßler, ein höchst
+                    entschiedener, energischer Mann,bestieg festen Fußes die Tribüne und stellte
+                    sofort an die versammelte Landsgemeinde die Frage, ob in Betracht des eben
+                    Vorgefallenen nicht die Aufrührer und Rebellen, die solches Aergerniß der
+                    Landsgemeinde gegeben, zur Haft zu bringen seien. Da trat Franz Thörig hervor
+                    und rief, es sei vom Landrath in die beschworene Verfassung eingebrochen worden,
+                    indem sie dem regierenden Landammann Siegel und Gewalt genommen. Darüber solle
+                    eine Untersuchung bestellt werden;man wolle dann sehen, wer und wo die Rebellen
+                    und Landfriedenstörer seien.</p>
+                <p>Sofort brüllten die Gegner: „Fort mit dem Rebell; an den Schatten mit den
+                    Ketzern!“ Der neugewählte Landammann ließ Thörig und etliche seiner Genossen
+                    sogleich verhaften und die Landsgemeinde löste sich in Sturm, Handgemenge und
+                    tobendem Gebrüll auf.</p>
+                <p>Von Wenigen geleitet, kehrte Landammann Suter heim. Sein Weib kam ihm mit
+                    Ammereili entgegen. Sie fragte nach nichts, ahnte das Vorgefallene. „Vater, wir
+                    wollen Geduld haben“, sagte fie leise zu ihm und rückte ihm den Lehnstuhl her;
+                    „Ammereili, lies den Abendsegen; wir wollen doch Fried' halten mit Gott und dann
+                    bitt' den Pfarrherrn Bühler zum Vater.“</p>
+                <p>Noch ehe er gerufen worden, trat Bühler in die Stube mit einem Gruße des
+                    Friedens. Die Kinder sprangen auf ihn zu; er reichte dem Landammann die Hand und
+                    setzte sich neben ihn. Dieser war tief gebeugt. Noch am späten Abend saßen die
+                    beiden Männer bei einander und sprachen ruhig über des Tages schweres Schicksal.
+                    Thut eine Wallfahrt zur Mutter Gottes in Einsiedeln“, sprach der Pfacrrherr,
+                    „und schafft Euch und den Andern Frieden.“</p>
+                <p>„Füͤr mein Theil hab' ich Frieden“, entgegnete der Landammann,„oder meint Ihr
+                    eine Bußfahrt?“</p>
+                <p>„Es ist jedenfalls ein christlicher Gang, Landammann; habt Ihr für Euch nichts zu
+                    büßen, so thut's für Euere Anhänger, und was die Hauptsache ist Ihr kommt für
+                    einstweilen aus dem Land, ich halte dafür, daß das sehr vonnöthen ist.“</p>
+                <p>„Meint Ihr, sie wollen an mich?“ forschte mit blitzendem Auge Suter und richtete
+                    sich auf. „Dann bleib ich hier und sieh zu meiner Sach'. Sie ist gerecht im
+                    Himmel und auf Erden, so wahr Gott lebt!“<pb n="8"/>„Amen! Landammann, Ihr dürft
+                    sie einem gerechten Gericht mit Zuversicht anheimstellen. Aber wir Menschen sind
+                    Sünder. Es ist ein gräulich und verderblich Wüthen unter den Leuten. Ihr habt
+                    ein gutes frommes Weib und unerwachsene Kinder. Ich traue den Geiger'schen
+                    nicht; geht nach Einsiedeln, Landammann!“</p>
+                <p>Iuzwischen stürmte drunten in Appenzell der Hader noch auf der Gasse und in den
+                    Wirthshäusern fort bis tief in die Nacht. Es war eine der heißesten
+                    Landsgemeinden gewesen seit Mannesgedenken. Und doch war die Geiger'sche Partei
+                    äußerst zufrieden mit dem Resultate des Tages, dem sie nicht ohne Bangigkeit und
+                    Verzagtheit entgegen gesehen haite. Sie beträchtete sich als die erklärte
+                    Siegerin. Im Refektorium des Kapuzinerklosters wurde jubelnd gezecht. „Pater
+                    Guardian“, rief ein junger Herr unten an der Tafel, „die Kirche ist
+                    salvirt.Jetzt mit dem Badwirth dran! Noch einen Krug, Pater Kellermeister,und
+                    bringt die Absolution gleich mit, wenn's heut' einen Schluck zu viel
+                    absetzt!“</p>
+                <p>Am' 15. September war der große zweifache Landrath mit verstärktem. Zuzug als
+                    Kriminalgericht in Appenzell versammelt. Der Landammann Fäßler trug den schweren
+                    Landeshandel vor und sprach dafür, daß man mit nachdrücklichem Ernst Ruhe
+                    schaffen und das schwer gekränkte Ansehen einer hohen Landes-Obrigkeit aufrecht
+                    erhalten müsse. “Die Suter'sche Partei sah sich in der Minderheit und war
+                    verzagt. Nach langen Berathungen fällte der Rath ohne Verhör oder Titation, als
+                    Kläger, Partei und Richter den Spruch:</p>
+                <p>Suter sei überwiesen:</p>
+                <p>1) daß er sieben Jahre ungerechten Prozeß geführt (wozu ihn aber der Landrath
+                    autorisirt und selbst lits pendents die Alp in Besitz zu nehmen beschlossen
+                    hatte);daß er die Herren Hauptleute Narren gescholten;daß er rebellischer Weise
+                    im Land herumgelaufen;daß er die Bauern wider die Obrigkeit aufgewiegelt, ein
+                    Komplott zusammengethan und selbiges angewiesen habe, schlauer Weise in die
+                    Rathssube einzudringen und das Landessiegel herauszufordern;</p>
+                <p>5) daß er an den großen zweifachen Landrath die Bauern wieder eingeladen habe,
+                    ihm beizustehen;</p>
+                <p>6) daß er und einige rebelüsche Rathsherren sammt den Seinigen sich unterredet,
+                    an der Landsgemeind' auf den Stuhl zu kommen und sich zu verantworten, daß man
+                    ihm zu viel abgelesen (d. h.im Urtheil zu harte Beschuldigungen vorgelesen) und
+                    Unrecht gethan habe;daß er gotteslästerliche Worte ausgestoßen und gesagt, daß
+                    Gott nicht alles in Obacht nehme, und er wolle wünschen, er wäre ein „Strahl“,
+                    daß er könnie den vordersten Herren die Köpfe abschlagen;<pb/>8) hab' er
+                    ehrenrührige Reden ausgestoßen und gesagt, man habe ihm Urtheil re wie einem ie
+                    Schelmen und Diebe,und habe ihm zu kurz und Unrecht gethan.</p>
+                <p>Nach diesen Erwägungen folgte der Spruch und zwar, wie es im Urtheil heißt: „Zur
+                    Handhabung der Gerechligkeit, Beschützung der Freiheit, zur Abschaffung und
+                    Zerstörung aller Rebellion, den wohlgesinnten, Fried' und Einigkeit liebenden
+                    Christen zur Ueberlegung,was durch einen solchen Friedenstörer für schändliche
+                    und gefährliche Folgen erwachsen, der Jugend zum Andenken und Abscheu vor
+                    Empörungen und daraus entspringendem Uebel, wie auch allen Andern zum Exempel,
+                    dem Suter aber zur Strafe:</p>
+                <p>Daß der Altlandammann Jos. Antoni Suter ein Rebell, Ruhestörer,
+                    Landfriedenbrecher, Gotteslästerer, auch Verbrecher in Dingen sei, so man
+                    anstandshalber nicht nennen wolle, deswegen er auf hundert und ein Jahr aus dem
+                    Lande Innerrhoden wie ganzer gemeiner Eidgenossenschaft verbannisirt sei; sollte
+                    sich aber benannier kriminalisirter Suter auf gemein eidgenössischem Boden
+                    betreten lassen, so seien hundert Thaler auf seinen Kopf geschlagen, wer ihn
+                    lebendig oder todt einliefern würde; kein Landmann solle ihm Unterschlauf geben
+                    bei Ehr' und Eiden; wer es thue, solle in Suters Fußstapfen treten.Dafür solle
+                    jeglicher Landmann bei Ehr' und Eiden verpflichtel sein,„wann er früh oder spät
+                    erblickt, erfahren oder im Lande verspürt würde, es der Obrigkeit anzuzeigen und
+                    im möglichen Falle ihn habhaft zu machen.“ Im fernern solle sein Haus und Heimat
+                    zu Handen des Landseckels und der Kreditoren eingezogen und sein Name mit dieser
+                    Ueberschrift auf einer schwarzen Tafel den Spießknechten übergeben und von dem
+                    Scharfrichter an den Galgen genagelt werden:</p>
+                <p>„Der rebellische, galgenmäßige Rebell, Ürheber, Friedens- und </p>
+                <p>Freiheitszerstörer Joseph Antoni Suter, entsetzter Landammann.“</p>
+                <p>Seiner Ehefrau solle unter Androhung scharfer Leibesstrafe, sowie unter Verlust
+                    des Erb und Landrechts verboten sein, den Suter fürohin als Ehemann zu
+                    betrachten.</p>
+                <p>Daneben wurde der angesehene Pfarrherr Bühler, der seit dreißig Jahren mit großem
+                    Segen funktionirt hatte, als Genosse, Mithafter,in Konstanz verklagt und seines
+                    Amtes entsetzt; ferner wurden 176 Personen empfindlich an Geld gestraft, Baptist
+                    Räß in die Hälfte der Prozeßkosten und fl. 500 Buße verfällt und ehr und wehrlos
+                    erklärt;23 Rathsherren wurden theils für viele Jahre, theils für lebenslänglich
+                    unfähig erklärt, in Gericht und Rath zu sitzen. Hans TonisBub in Eggerstanden
+                    und Moses Baptist im Schlatt außerdem noch um 100 Thaler gebüßt. Der J. Gmünder
+                    in Gonten um fl. 300 gebüßt und ehr und wehrlos erklärt, der Statthalter Signer,
+                    einer der aufrichtigsten und rechtschaffensten Männer Innerrhodens, seines Amtes
+                        en<pb n="17"/>setzt, für fünf Jahre aus Rath und Gericht gewiesen und 50
+                    Thaler gebüßt, und weiter 8 Hauptleute mit schwerer Strafe bedroht. Ein solches
+                    Schreckensgericht war bis dahin in Appenzell unerhört gewesen.</p>
+                <p>Gleichzeitig erließ die gestrenge Obrigkeit ein öffentliches Mandat,worin sie die
+                    getreuen und lieben Landleut“ aufforderte, in solchem Urtheil sich zu spiegeln,
+                    wie schlecht es sei, der Suter'schen Sache anzuhangen.</p>
+                <p>Der Verurtheilte lag am Tage des Gerichtsspruches auf den Knieen vor dem
+                    Muttergottesbild in Einsiedeln. Seine Frau und Kinder räumten noch am Abend das
+                    Haus und zogen unter tausend Thränen aus der Heimat ihrem Gatten und Vater nach.
+                    Der entsetzte Pfarrherr Bühler geleitete sie bis nach Urnäsch und suchte die in
+                    Todestraurigkeit niedergebeugte Frau Suter mit dem Troste der Religion
+                    aufzurichten. Seveli, die älteste Tochter, in Appenzell verheiratet, blieb mit
+                    Rath und That bei der hilflosen Familie wie ein guter Schutzengel. Im Toggenburg
+                    trafen sie mit dem heimkehrenden Vater zusammen. Der unglückliche Landammann
+                    stand niedergeschmettert und vernichtet da bei der grauenvollen Botschaft. „So
+                    weit ist es mit uns gekommen“, rief er von Schmerz überwunden aus und ließ sein
+                    Haupt auf die Brust sinken; „elende, ehrlose, gehetzte Bettler ohne Heimat. ohne
+                    Recht! Allmächtiger Gott, erbarme dich unser!“</p>
+                <p>Dann wandte sich der Geächtete mit Weib und Kindern nach Konstanz, dem
+                    eidgenössischen Boden und den Bergen seiner Heimat nahe.Aus der halben Schweiz
+                    erhielt er von den ersten Magistraten, mit denen er an der Tagsatzung gesessen,
+                    herzliche Beweise der Theilnahme,die ihn in den Stand setzten, in ehrenvoller
+                    Armuth auf fremdem Boden zu leben, während der Rath sein schönes Heimwesen um
+                    einen Spottpreis verschleuderte und ihn, um das Maß der Schmach voll zu machen,
+                    als Falliten und Lumpen von allen Kanzeln verkünden ließ.</p>
+                <p>Es ist eine wunderbare Wiederholung solcher fürchterlichen Prozesse in der
+                    Geschichte der meisten kleinen Demokratien zu finden. Der unbestimmte,
+                    herkömmlich festgehaltene Rechtsstand, unter dem sich's in herrschaft zur
+                    grausenhaften Waffe der Leidenschaft, zum schrecklichen Zerrbild der
+                    Gerechtigkeitspflege.</p>
+                <p>Landammann Suter wandte sich den 19. Februar 1778 und am 22. September an die
+                    hohe Obrigkeit in Appenzell Innerrhoden. Mit den beweglichen Worten maßlosen
+                    Unglücks und mit der männlichen Ruhe, zu der er sich in der vierjährigen
+                    Schmerzensprüfung erhoben hatte, stellte er sein ganzes Privat- und Amtsleben
+                    dar, betheuerte bei ber Hoffnung auf Gottes Barmherzigkeit, sich keiner schweren
+                    Schuld weder gegen Gott, noch die Menschen, noch sein Vaterland bewußt zu <pb
+                        n="6"/>sein, und flehte mit herzbrechenden Worten um Revision des Prozesses
+                    und genaue, unparteiische Untersuchung seiner ganzen Sache.</p>
+                <p>Das zweite Schreiben, das für die Charaktieristik dieses ganzen Handels so
+                    wichtig ist, lautet buchstäblich also:</p>
+                <p>„Hochgeacht, Gnädig und Hochgebiethende Herren, Herren!</p>
+                <p>Meinen Hochgeacht, Gnädig und Hochgebiethenden Herren, Herren kann unmöglich
+                    entfallen sein dringendste Vorsiellung, die ich bereits unterm 19. Februar
+                    verstrichenen Jahres an Hochselbe einzusenden die Gnade hatte.</p>
+                <p>A. Ich stellte damals vor, was maßen der Stadt Konstanzische Hochansehnliche
+                    Magistrat in erlauchter Erkenntniß meiner offenbaren Unschuld die Gnad gehabt,
+                    mich bis dato hier zu gedulden, ja, mich an meine gnädigen Herren selbst zu
+                    rekommandiren, damit mir die Unterhaltung verschafft werde, denselben aber
+                    solches entsaget worden.</p>
+                <p>B. Ich gebe hierinnen dem reinen Licht meiner Uüschuld den vollkommenen Schein
+                    (ja Hochdieselbe bezeugten an letztgehaltener Landsgemeinde, zwei Tag vor meiner
+                    Abreis, wo Sie mich als einen Ehrenmann und Landammann dem Land vorzustellen die
+                    Gnad' gehabt haben), daß ich, ohne zu wissen, was zu Haus vorgienge, mit heiterm
+                    Gemüth mich nach Marien-Einsiedeln, und von da nach her Haus,ohne daß mir mein
+                    Gewissen was Böses vorsagen konnte, wirklich auf der Rückkehr ware, als mich
+                    noch wohlmeinende Freunde von senem erschrecklichen Vorgang (von dem Euch nur
+                    das Andenken einen Schrecken machen muß) berichteten, also daß, schon ohne
+                    mindeste Vergehung notihgedrungen ware, anderer Orten Sicherheit zu suchen.</p>
+                <p>C. Sagte ich meiner Hochgeacht Gnädigen Herren unter das Aug', daß ich unangehört
+                    verfället war, und geurtheilt als ein Rebell und Staatsverbrecher, ohne daß man
+                    mich zuvor gehört, ausgeruffen und nicht nur allein angeschlagen, sondern als
+                    ein solcher bei allen hohen Obrigkeiten und Ständen angeschrieben worden, ja
+                    sogar ein Kopfgeld auf mich geschlagen, mich todt oder lebendig zu liefern,
+                    dieses widerfuhre nicht einmal jenen, die vor Zeiten in dem Reich in die Acht
+                    und Aberacht und also für vogelfrei erklärt waren; denn diese wurden zuvor
+                    hinlänglich angehört, hernach erst abgeurtheilt, und eben darum gleichwie </p>
+                <p>D. Nach den Justizgesetzen keiner unangehört geurtheilt und condamnirt werden
+                    kann; so bathe ich in tiefster Erniebrigung flehentlichst nur allein um die
+                    Gottliebende Justiz, mich anzuhören; ja ich gebe noch auf den Fall, da ich
+                    unterliegen sollte, meinen Kopf zum Pfänd.</p>
+                <p>E. Welcher Justizliebende Mensch hätte nur an der Entsprechung meines auf der
+                    Gerechtigkeit allein sich ftützendes Gesuchs zweifeln sollen?und was habe ich
+                    hierüber erhalten? Kein Abschluß, kein Urtheil,keine Antwort, keine Gnad'. Und
+                    was hatte dieses mir zugestoßene </p>
+                <pb n="18"/>
+                <p>Schicksal vor einen Einfluß? Wurden nicht noch Andere, die sich meiner Unschuld
+                    nur in Etwas annahmen (welches doch das von Gott selbsten anbefohlene, höchst
+                    verdienstliche Werk der Liebe gegen den Nebenmenschen ist), mit mir
+                    verunglücket, an Ehr und gutem Nammen verletzet, ja auch in ihren zeitlichen
+                    Gütern geschädigt; und was ware dann ihr Laster? Daß sie einen unschuldig
+                    niemals Angehörten verfechten wollten? Dieses, dieses war ihr Verbrechen.</p>
+                <p>Ich, als ich Anno 1775 die Gnad hatte, als Landammann aufgestellt zu werden,
+                    schwörte dem Volk und das Volk mir einen theuern Eid, die Ehre Gottes und des
+                    Landes Nutzen zu befördern; dieser Eid ist ein Band der Gerechtigkeit; die
+                    Gerechtigkeit verordnet, keinen zu perdaumen, er sei denn angehört, und wer
+                    hiewider handelt, bricht en Eid.</p>
+                <p>Ich bin Derjenige, der nicht angehört und als ein Galgen- und Radmäßiger Mensch
+                    jedennoch verdammet, aller meiner Güter beraubt und auf solche gewaltthätige Art
+                    aus meinem Vaterland vertrieben worden; in diesem äußersten Elend, in diesen
+                    bittern Drangsalen befinde ich mich schon etliche Jahre und wenn Gott und milde
+                    Herzen vor mich nicht dachten, wäre ich schon lange ein Staub der Erde.</p>
+                <p>Könnte auch wohl bei ungesitteten Völkern ein elenderer, mit so hertem Schicksal
+                    und mit denen empfindlichsten Drangsalen umgebener Mensch als ich gefunden
+                    werden?</p>
+                <p>Und wo will ich in meiner äußersten Noth Zuflucht nehmen und Hülfe suchen, als
+                    nächst Gott bei meinen Hochgeachten, Gnädigen Herren und vertrautesten,
+                    getreuen, lieben Landsleuten?</p>
+                <p>Ich gabe Hochselben zu erlauchter Ueberdenkung anheim, daß ich niemals angehört,
+                    daß ich also unangehörter verurtheilt und verdammt,aller meiner Mitteln
+                    beraubet, aus dem Lande vertrieben und sogar ein Kopfgeld auf mich geschlagen
+                    worden.</p>
+                <p>Betrachten Hochselbe, was dies vor ein Blutgeld seie, welches um Rach' schreien
+                    müsse.</p>
+                <p>Berücksichtigen Hochselbe, was es für eine erschröckliche Sach seie,einen
+                    Unangehörten zu verdammen, und daß wegen solcher Ungerechtigkeiten einem Land
+                    schon öfters das größte Unglück zugezogen worden;Nam propter injustitiam
+                    transfertuntur regna.</p>
+                <p>Rufen Hochselbe unsere frommen Voreltern in Dero Gedächtniß zurück, dero einziges
+                    Augenmerk ware, die Gerechtigkeit auch dem Lasterhaftigsten angedeien zu lassen
+                    und mit diesem erinnern Selbe sich, was bas PopularStandrecht, welches unsere
+                    Voreltern so theuerst erworben,mit sich führe, daß nemlich an einem
+                    Landsgemeindtag, wegen allen Beamten das Verhör, ja einem jeden seinen vor das
+                    Vaterland tragenden Eifer ungebunden an den Tag zu legen erlaubt, und daß es
+                    gesetzwidrig gehe, keinen zu verurtheilen, er seie denn zuvor angehört ünd nur
+                    allein lůgenhafte, falsche Ankläger zu verdammen.<pb n="20"/>Ich verlange ja
+                    nichts Anderes, als in das Land zu kommen und vor dem Volk meinen Feinden, den
+                    falschen Anklägern, die Spitze zu bieten, selben öffentlich Red' und Antwort zu
+                    geben; findet man mich schuldig, anerbiete ich mein Gut und Blut, was könnte man
+                    mehr von mir verlangen? Mache ich hingegen meine falschen Ankläger (wie ich ganz
+                    sicher hoffe) zu Schanden und kommet meine Unschuüld zu Tag,so gebühret mir ja
+                    vor Gott und der Welt eine öffentliche Ehrener klärung und die Ergänzung meiner
+                    Güter, nebst Ersatz des so muthwillig verursachten Schadens und Kösten; in
+                    diesem bestehet allein die Gerechtigkeit. Und welcher Unbefangene will solches
+                    noch einem Tadel aussetzen?</p>
+                <p>Hochgeacht, Gnädig und Hochgebiethende Herren, Herren!</p>
+                <p>Allein von meiner Unschuld und hieraus nothwendig fließenden gerechten Gesuch
+                    unterstützet und angefrischet nehme ich in meinem äußersten Elend neuen Muth,
+                    rufe und stelle hiemit an Hochselbe die nochmalen unterthänigst flehentlichste
+                    Bitte, mir den Salvom conductum zu ertheilen und nach solchem gnädigst und
+                    huldreichst zu gestatten, daß ich in das Land kommen und vor dem Volk meine
+                    gedrückte Unschuld verfechten dörfe?</p>
+                <p>Ist's wohl möglich, daß Hochselbe solch unschuldiges Gesuch versagen können?
+                    Nein! Nein, Sie sind alzu gerecht; denn ich bitte nichts anders, als um Justiz,
+                    um Justiz flehe ich fußfällig an, um Justiz,der ich mich in Zeit vierzehn Tagen
+                    einer fröhlichen Antwort getröste und in tiefester Erniedrigung anstrebe.</p>
+                <p>Meinen Hochgeacht, Gnädig und Hochgebiethenden Herren unterthänigst submißester,
+                    äußerst gedrückter Joseph Suter,geweßter Landammann in Appenzell.Den 22.
+                    September 1779.Der Landrath ließ das Schreiben durch den Henker
+                    verbrennen.<pb/>III.</p>
+                <p>Zuter's hinterlistige Gefangennahme.</p>
+                <p>Damit war wohl der beste Theil der Hoffnung von den Häuptern der unglücklichen
+                    Familie gewichen; aber Sufer gab noch nicht Alles auf.Er erhielt von Zeit zu
+                    Zeit den Besuch eines Freundes und Bekannten aus der Heimat. So pochte eines
+                    Abends spät noch ein Mann an seiner Wohnung. Annamareili fah nach und brachte
+                    ein altes Bäuerlein herein,den Steubenhans, dem Suter in bessern Tagen beim
+                    Schafhandel oft auf die uneigennützigste Weise mit Geldvorschüssen geholfen
+                    hatte. Das Männlein war schwer bepackt mit weißem Zieger und magerm Kuhkäs.Er
+                    habe gehört, erzählte er, der Landammann Seppli hätte da unten in Konstanz böse
+                    Zeiten; da habe er zum Weibe gesagt, so lange er zu essen habe, müsse sein
+                    Landammann auch haben, und so habe er was Vorräthiges mitgebracht. Säumen könne
+                    er sich nicht; morgen fange an der Steuberen der Wildheuet an, und da müsse er
+                    gleich die Nacht durch wieder heimgehen.</p>
+                <p>Andere Besuche erzählten von Innerrhodens Zuständen; was die Verbannung und
+                    Ehrlosmachung so vieler braver und angesehener Männer fuüͤr einen Unfrieden im
+                    Lande erhalte; wie der Landrath,trotz seiner despotischen Strenge und
+                    Schreckensherrschaft, in der er verboten habe, vom Suterhandel auch nur ein Wort
+                    zu reden, doch eine tiese Gährung nicht unterdrücken konnte, wie Suter's Name in
+                    gutem Anklang stehe und so zu sagen von Tag zu Tag wachse, während die am
+                    Regiment immer verhaßier werden. Solche Reden und die wiederholte dringende
+                    Aufforderung, heimlich nach Innerrhoden zu kommen,ünd mit seinen Freunden
+                    Rücksprache zu nehmen, veranlaßten den Geächteten, in aller Stille sich nach
+                    Urnäsch, in Oertli's Mühle, unweit der Landesgrenze, zu begeben. Dahin kamen an
+                    einem Abend auf heimliches Aufgebot hin etliche siebzig angesehene Männer von
+                    Suter's Anhang. Sie wollten ihn bewegen, andern Tags nach Appenzell zu
+                    marschtren und einen bewaffneten Vorstand vor Rath zu begehren;allein Suter
+                    wehrte und erklärte, daß er nur in Güte und nach Land<pb n="22"/>recht, nicht
+                    mit Gewalt zurückzukehren begehre. Dann knieten, auf Franz Thörig's feierlichen
+                    Vorschlag, alle Männer nieder, beteten drei Ave und Paternoster und gelobten auf
+                    den Rosenkranz, Gut und Blut,Leben und Ehre an Suters Rechtfertigung und
+                    Rehabilitation zu setzen und nimmer zu rasten, bis der Prozeß in ehrlicher und
+                    gerechter Weise revidirt und nach den Landesgesetzen geschlichtet werde.</p>
+                <p>Am folgenden Tage zogen diese Mäuner unbewaffnet und friedlich vor Rath und baten
+                    inständig, in aller Demuth, mit dem Nächdruc herzlichster Sympathie, ein
+                    ehrsamer Rath möchte in Gnaden belieben,eine Revision des Suter'schen Prozesses
+                    vornehmen zu lassen und dem Verbannten zu seiner Rechtfertigung freies, sicheres
+                    Geleit nach Appenzell zuzusagen, weil er doch unverhoörter Weise gerichtet
+                    worden sei; sei er des Todes schuldig, so habe man ihn bei Handen und könne des
+                    Geldes sparen, so man auf seinen Kopf geschlagen; sie selbsten wollten die
+                    Ersten sein, ihn zur Richtstätte zu führen; sei er aber unschuldig,so solle man
+                    ihn ehrlich erklären und schadlos halten. Allein der Landrath hatte von dem
+                    Vorgang in Urnäsch Wind bekommen, da er in steter Unruhe jede Bewegung der
+                    Suter'schen Partei mit scharfsichtigem Mißtrauen überwachte. Er, hatte seine
+                    Vorfichtsmaßregeln getroffen,und als die Petenten ihr Gesuch vorgebracht, wurde
+                    ihnen bedeutet,man werde es in Berathung ziehen, sie möchten abtreten. Nach
+                    einer Weile wurde Franz Thörig mit drei andern angesehenen Männern wie der
+                    hereingerufen und dann sofort gebunden und in die scheußlichsten gelegt.
+                    Ueberrascht und erschrocken zogen sich die Uebrigen zurück.</p>
+                <p>Wenige Tage später, am 7. Oktober 1780, wurden die vier Verhafteten in Gegenwart
+                    von zwölf Beamten und dem Scharfrichter peinlich verhört. Man gab ihnen deutlich
+                    zu verstehen, daß ihnen nichts geschehen solle, wenn sie wider Suter zeugen und
+                    aussagen wollten, er hätte sie zu einem bewaffneten Landfriedensbruch verführen
+                    wollen. Alle wiesen das Ansinnen entschieden zurück nud protestirten mit dem
+                    Muthe hoffnungslosen Unglücks gegen alle Gewaltthaten, Rechtsbrüche und
+                    willkürlichen Handlungen der Oberen. Da versammelte sich ain 25. Oktober auf
+                    Schluß vom Wochenrath und Zuzug der große zweifache Landrath als Blutrath.
+                    Ungeheure Volksmassen strömten in den Flecken in Aufregung und Schreck. Meister
+                    Vollmer, der Scharfrichter von Altstätten, war herbeschieden worden und hatte
+                    die Weisung empfangen,sich mit Mantel und Schwert auf den Nachmittag mit seinen
+                    Knechten bereit zu halten. Die Landeshäupter hatten die Miliz zu ihrem Schutze
+                    aufgeboten und wohl bewaffnet. Diese umstellte das Rathhaus. Zu ihr gesellten
+                    sich etliche hundert Freiwillige von der Geiger'schen Partei mit alten Spießen
+                    und Bündnerspeeren. Diese besetzten einen großen Theil der Hauptstraße und den
+                    Weg dem Berg zu, wo die Richt-stätte liegt.<pb n="2"/>v Die Rathsverhandlungen
+                    waren kurz und wenig lebhaft. Der altersschwache, halbkindische Landammann
+                    Geiger, dessen geringe Geisteskraft nur noch durch den einen Rachegedanken gegen
+                    Suter zusammengehalten und lebendig blieb, führte den Vorsitz. Die Weibel und
+                    Gefangenwärter führten die vier Angeklagten in schweren Eisen herein. Sie wurden
+                    nochmals summarisch verhört, ohne die mindeste Schuld zu bekennen.Da öffnete
+                    sich die Thüre; Franz Thörig's Frau mit ihren sechs Kindern,das siebente unter
+                    dem Herzen, und die Frauen der übrigen drei Angeklagten traten mit der Menge
+                    ihrer Freunde und Verwandten herein und warfen sich, händeringend für das Leben
+                    ihrer Männer flehend,den Richtern vor die Füße. Es war eine herzzerreißende
+                    Viertelstunde;die bis dahin ruhigen Angeklagten verloren ihre Haltung, Alles
+                    schluchzte und zitterte, der Landammann Geiger schaute gleichgültig und halb
+                    verwundert drein. Dann wurde der Gerichtssaal geräumt, und der Blutrath that den
+                    Spruch, daß der Franz Thörig und seine drei Genossen als Rebellen und Ruhestörer
+                    mit dem Schwert vom Leben zum Tode gebracht werden sollten.</p>
+                <p>Als das furchtbare Urtheil unter dem Volk bekannt wurde, ging eine dumpf
+                    grollende Gährung durch die ganze Masse und bemächtigte sich selbst solcher,
+                    welche es bisher mit der Geiger'schen Partei gehalten hatten. An mehreren Orten
+                    war der Aufruhr im Ausbruch; die Worte Tyrannen, Landvögte, Herrenmörder, flogen
+                    drohend durch das Volk,das sich gefährlich zusammenrottete. Der Blutrath blieb
+                    versammelt;er wagte es nicht, das Gerichtshaus zu verlassen. Da kamen Etliche
+                    mit ernster Warnung zu den Landeshäuptern und riethen, man solle das Volk nicht
+                    zum Aeußersten reizen. Der Spruch scheine jedermänniglich zu hart; sie möchten
+                    für nichts stehen, wenn's zum Vollzug kommen sollte. Da hob der Blutrath von
+                    Neuem die Verhandlung an,änderte das Urtheil und fällte um halb vier Uhr
+                    Nachmittags den neuen Spruch, es sollen Franz Thörig und seine drei Genossen aus
+                    Gnaden mit der Lebensstrafe verschont sein; dafür seien die Malefikanten in
+                    Halseisen am Pranger an der Marktgasse auszustellen, hierauf den langen Gang mit
+                    Ruthen zu peitschen durch Henkershand und in allweg für alle Zukunft für
+                    meineidig und ehrlos zu halten. Sofort wurde dieses Urtheil vollzogen. Das Volk
+                    umstand schaudernd die blutige Peitschung und nahm bis in die fernsten Berge
+                    einen schlimmen, widerlichen Eindruck von den Erlebnissen des Tages mit.</p>
+                <p>Der ganze Suterhandel mit all' seinen Gewaltthätigkeiten und seinem Elend kam
+                    auf's Neue so lebhaft in Bewegung, daß die Landeshäupter nach Martini von allen
+                    Kanzeln des Landes verkunden ließen: Daß männiglich, der von dem verbannten
+                    Rebellen Joseph Antoni Suter etwas dem Rath vortragen oder auch nur, laut oder
+                    leise, etwas von dem Handel reden würde, wer er auch sei, reich oder arm, Mann
+                    oder Weib, Jung oder Alt, ohne Gnade sofort am Leben gestrafi werden solle.<pb
+                        n="24"/>In der ganzen Eidgenossenschaft erhob sich über solche
+                    Gewaltthätigkeit ein lauter Gröll gegen die Gewalthaber Innerrhodens; am
+                    heftigsten aber in Appenzell Außerrhoden. Wo Innerrhödler und Außerrhödler an
+                    Jahrmärkten oder Kirchweihen zusammentrafen, setzte es alsbald Sticheleien und
+                    dann heiße, blutige Schlägereien ab. Der Verkehr stockte, ein unheimlich
+                    brütendes Gefühl des allgemeinen Mißbehagens lag auf dem Ländchen. Nur die vom
+                    Regimente schienen nichts davon zu spüren. Je mehr der Widerspruch verstummte,
+                    desto größer wurde das Gefühl ihrer Sicherheit. Auf willkürliche Weise begann
+                    der Rath die Freiheiten der Landsgemeinde und die Gerechtsame der Kirchhören zu
+                    beschränken und arkete in eine Art ven Zwingherrschaft aus. Als er aber auch die
+                    einer gewissen Unabhängigkeit sich erfreuende Hirschberger- und
+                    Oberegger-Kirchhöre in ihren Befugnissen beschneiden wollte, stand die Rhod
+                    zusammen, erhob sich wie Ein Mann und verwahrte sich so kräftig, daß der Rath
+                    einzulenken und nachzugeben für gut fand.</p>
+                <p>Gerade dieser an sich unbedeutende Vorgang aber beunruhigte die regierenden
+                    Häupter und weckte sie aus ihrem Sicherheitsgefühle auf.Wo irgend ein
+                    Widerspruch erging, ahnten sie den Schatten des Geächteten im Hintergrunde.
+                    Selbst der Jahre leiser Umschwung und die so vieles hinwegspülende Fluth des
+                    Alltagslebens ließen sie den Verbannten nicht vergessen. Landammann Joh. Jak.
+                    Geiger sprach fast täglich von ihm. Er fürchtete ihn, so weit seine Gedanken
+                    noch ausgreifen mochten, und pflegte oft zu sagen: „So lang der Seppli noch in
+                    Konstanz ist und so lang der Seppli noch lebt, kann ich weder leben noch
+                    sterben.“ Vielleicht theilten seine Genossen ein ähnliches bangunheimliches
+                    Gefühl. Wenigstens schienen sie fest entschlossen, den Faden des Handels in den
+                    Händen zu behalten und wo möglich die Sache zu verfolgen bis an's Ende.</p>
+                <p>Dazu fand sich denn auch etliche Jahre nach der erzählten Exekution wieder ein
+                    nicht unerwünschter Anlaß. Mürbe vom Unglück einer achtiährigen Verbannung, in
+                    der er täglich Bettelbrod gegessen,und im Gefühle übergroßen Elendes Andere
+                    meinen, vom Rathe heimlich bestochen, wohl ohne genügenden Grund kehrte im Jahr
+                    1783 Baptist Räß heimlich nach Hause. Er wollte es auf sich nehmen,entdeckt und
+                    ins Gefängniß geworsen zu werden; zu verlieren hatte er nichts mehr.</p>
+                <p>Bald wurde der unglückliche Mann entdeckt, verhaftet und in schwere Ketten
+                    gelegt. Das Malefizgericht inquirirte auf ein Komplott und Hochverrach; Räß
+                    wußte von nichts. Da wurde der Pater Ambrosius von den Franziskanern geholt, um
+                    den Malefikanten zum Geständniß zu bringen. Mit väterlicher Salbung hielt der
+                    Pater dem Gefangenen vor: Irdisches Wohlsein und himmlische Freude, wenn er das
+                    Komplott angebe, oder scharfe Foltern durch Heukershand und <pb n="25"/>ewige
+                    Qual der Hölle, wenn er leugne. Der Pater wurde zum förmlichen Verhörrichter und
+                    erlangte endlich durch künstliche Fragen und allerlei Verlockuug und Drohung das
+                    Geständniß, daß der Landammann Suter öfters von Konstanz nach Herisau käme und
+                    in einer Schenkwirthschaft absteige, allwo er eine große Zahl von Außerrhödlern
+                    und auch Innerrhödlern um sich besammle, um mit ihnen über Waldstatt,Urnäsch und
+                    Gonten in's Land zu falien, die Obrigkeit zu stürzen und schwere Rache an seinen
+                    Feinden zu nehmen. Die Namen der Theilnehmer wisse er nicht genau anzugeben.</p>
+                <p>Der Pater war zufrieden und gab der Regierung Bericht, während Räß inzwischen
+                    noch nicht in Freiheit gesetzt wurde. Die Laudeshäupter wußten selber nicht
+                    recht, wie sehr sie getäuscht waren, sandten ein Regierungsschreiben an den
+                    regierenden Landammann von Appenzell Außerrhoden nach Herisau um Nachforschung
+                    über den bedrohlichen Einfall und eidgenössisches Aufsehen. Die dortige
+                    Regierung nahm die Sache alsbald zur Hand, stellte Erkundigungen an und verhörte
+                    die von Räß angegebenen Zeugen. Allein die ganze Sache löste sich so sehr in
+                    Dunst und Nebel auf, und die Aussage erwies sich so vollständig als lügnerische
+                    Erdichtung, daß selbst nicht ein Schein von wirklichen Thatsachen blieb. Dem
+                    freundeidgenoöͤssischen Rathe der Außerrhoder Regierung aber in ihrem
+                    Anwortschreiben, den strengen Handel mit dem Suter endlich fallen zu lassen, auf
+                    daß in den innern und äußern Rhoden wieder Ruhe und friedlicher Verkehr gedeihen
+                    möge, gedachten die Rathshäupter nicht so rasch nachzukommen. Sie waren zu tief
+                    in die Sache hineingerathen. Die Macht des Verhängnisses trieb sie rast-los fort
+                    zu des Geächteten völliger Vernichtung. „So lang der Seppli noch in Konstanz
+                    ist, kann ich weder leben noch fterben“, wiederholte der Landammann Geiger alle
+                    Tage mit der Monotonie unzurechnungsfähiger Geistesschwachheit; aber dieser
+                    Refrain des ganzen traurigen Liedes wirkte energisch fort in der Rathsstube
+                    Appenzells.</p>
+                <p>Es ward beschlossen, Suter's um jeden Preis ganz ledig zu werden.Es ward
+                    beschlossen, ihn durch List zur Haft zu bringen. Es ward endlich beschlossen,
+                    dazu die edelste Seite menschlichen Gefühls in Bewegung zu setzen, gleichsam um
+                    dem teuflischen Werke die Krone aufzusetzen.</p>
+                <p>Des Verbannten Tochter Seveli, welche seit Jahren in Appenzell verehelicht war,
+                    war zum unbewußten Werkzeuge des Verrathes erkoren. Sie kränkelte. Des Vaters
+                    Schande und Elend, der Mutter Tod in der Verbannung, der Geschwister
+                    Heimatlosigkeit hatte schon Jahre lang an dem zarten Leben dieses lieblichen
+                    Wewbes genagt.</p>
+                <p>Eines Abends trat eine bekannte Gestalt in's Stübchen, wo Seveli eben ihr Kind
+                    eingewiegt und zu nächtlicher Stickarbeit die Glaskugel gegen die Rahme
+                    hergerückt hatte.<pb n="28"/>„Seveli“, sagte sie, „wie geht's Dir? Siehst
+                    übeltägig aus!“</p>
+                <p>Ja ja“, erwiederte Seveli seüufzend. „Ich spür' es wohl, 's geht allsgeinach
+                    abwärts mit mir. Den März werd' ich wohl nicht überleben. 's wär' mir auch recht
+                    und ging' mir wohl, wenn ich aus dem Elend heraus käme. Wenn nur der Vater nicht
+                    wär' und die beiden Kinder und der arme Wurm, den ich unter'm Herzen trage. So
+                    ist aber Leben und Sterben gleich schwer.“</p>
+                <p>„Ja ja, Seveli“, sagte der Ungenannte, „seh's wohl, 's geht nicht mehr lange mit
+                    Dir. Wenn die Buchen das alte Laub abstoßen, stößt Dich der Herzwurm unter den
+                    Boden. Der sitzt Dir tief im Leben.Freilich, freilich, der Vater ist ein armer,
+                    elender Mann, hast ihn lange nicht mehr gesehen, Seveli; er sei ganz grau
+                    geworden und aus den Kleidern gefallen zum Erbarmen. Gestern hört' ich vom
+                    Kästoni, der von Konstanz kam, er trage groß Verlangen, Dich noch einmal zu
+                    sehen;bist immer sein Liebling gewesen.“</p>
+                <p>„O Du jammervoller Gott!“ schluchzte Seveli laut auf, „ich kann den Vater nicht
+                    sehen; ich kann's nicht. So gealtert im Elend, so traurig und gebeugt! Das würde
+                    mir das Herz brechen. Ich merk's wohl, ich hielt' es nicht aus. Will's Gott,
+                    sehen wir bald einander in der Ewigkeit!“</p>
+                <p>„'s wird wohl so schlimm nicht sein, Seveli, Ihr habt doch einander noch allerlei
+                    zu sagen. Der Vater wird wohl auch noch Manches auf dem Herzen haben seit der
+                    Mutter Tod. Er hat Dir vielleicht noch etwas von ihr zu übergeben. Weißt was,
+                    ich kann's vielleicht richten, daß ihr einander sehen könnt, ohne daß es Jemand
+                    merkt. Bist kraänk, kannst nicht weit gehen, etwa bis in's Außerrodische, an ein
+                    abgelegen Oertlein. Wenn Du willst, will ich morgen dem Vater Bescheid nach
+                    Konstanz von Dir aus thun lassen. Er könnte in die „Krone“ nach Wald kommen. Der
+                    Hauptmann Mathias Buff ist ein Ehrenmann und meint's wohl mit Euch. Da kann
+                    Niemand viel merken und dem Vater wär's eine Freude vielleicht die letzte.“</p>
+                <p>„In Gottes Namen! wenn's sein muß!“ erwiederte Seveli. Der Gedanke an der Mutter
+                    Tod und des Vaters elendes, verlassenes Leben schnürte ihm Brust und Kehle zu.
+                    Als der Versucher schon lange das Stübchen verlassen hatte, lag es noch
+                    schluchzend und schwer athmend auf den Stickrahmen gebeugt, ein Bild des
+                    Unglücks und Jammers,und kaum graute der kalte Wintermorgen wieder, so kniete es
+                    schon in der Beinhauskapelle neben den hohläugigen Todtenschädeln und
+                    aufgeschichteten Knochen in Moderduft und Frost vor dem ewigen Lichtlein des
+                    schwarzen Altars; die einzige Beterin, namenlos unglücklich.</p>
+                <p>Am gleichen Tage erhielt der greise Verbannte die Botschaft im Namen seiner
+                    Tochter. Sie sei krank, hieß es, werde ihre nahe Entbindung kaum überleben und
+                    wünsche den Vater sehnlich noch einmal <pb n="27"/>zu sprechen. Er wurde zum
+                    Gemeindehauptmann Buff in die „Krone“nach Wald beschieden. Alles war im Geheimen
+                    zu dem verruchten Bubenstück vorbereitet.</p>
+                <p>Der Greis folgte dem Rufe um so williger, als man ihm angedeutet hatte, die
+                    Stimmung der Landeshäupter hätte sich etwas geändert.Es sei Hoffnung da, daß er
+                    unter gewissen Bebingungen in die Heimat kehren dürfte, da der Landammann Fäßler
+                    gestorben, der Statthalter Broger durch einen Schlag gerührt und der alte Geiger
+                    kindisch sei.So wanderte er am 9. Hornung 1784 auf der Konstanzerstraße her und
+                    kam zu guter Zeit in die „Krone“ in Wald. Buff sagte ihm aber,seine Tochter
+                    Seveli hätte in Oberegg noch etwas zu verrichten; sie wolle beim Vorsteher
+                    Sonderegger ihn erwarten. Seveli aber hatte man berichtet, der Vater wünsche
+                    sie, statt in Wald, in Oberegg zu treffen. Dieser letztere Ort aber war
+                    innerrhodischer Boden, obgleich entfernt vom übrigen innerrhodischen Gebiet und
+                    ganz umschlossen von Außerrhoden und St. Gallen. Suter hatte gestutzt, als er
+                    nach Oberegg DDDDD daß ihm der Verbannte ruhig an den Ort des Verhängnisses
+                    solgte.</p>
+                <p>Hier bei Sonderegger sahen sich Vater und Kind in Thränen wieder nach langen,
+                    bangen Jahren.</p>
+                <p>Kurzes Glück armer Herzen! Bei der St. Antonienkapelle hatten sich dreißig
+                    aufgebotene Innerrhoder Soldaten ohne Unisorm, aber wohlbewaffnet, versammelt.
+                    Auf ein von Sondereggers her gegebenes Zeichen setzten sie sich in Bewegung.
+                    Gleichzeitig trat der Weibel in der Standesfarbe mit zwei Knechten in die
+                    Stube.</p>
+                <p>„Jetzt haben wir Dich sicher, Rebell“, sagte er höhnisch zu dem alten Manne,
+                    „bindet ihn über's Kreuz und däumelt ihn fest. Er wird dann wohl nicht mehr weit
+                    springen.“</p>
+                <p>Suter richtete sich hoch auf. Die Knechte packten ihn; sprachlos,wie
+                    zerschmettert, ließ er es geschehen. Seine kranke Tochter stürzte mit einem
+                    krampfhaften Schrei des Entsetzens bewußtlos zu Boden.</p>
+                <p>Nun wurde der Verrathene vor's Haus geschleppt und mit schweren Ketten auf das
+                    nackte Holz eines kleinen Schleifschlittens festgebunden.Die Knechte zogen
+                    diesen, die Schützen ordneten sich vor und neben ihm, der Weibel folgte.</p>
+                <p>Rasch eilte der traurige Zug auf die Rheinthalstraße hinunter über Rebstein und
+                    Marbach nach Altstätten. Vor der Herberge zu den drei Königen wurde gehalten.
+                    Die Bewachungsmannschaft setzte sich in die warme Stube zum Wein und begann ein
+                    wildes Gelage. Der unglückliche Greis lag vor der Thüre auf der Schleife, starr
+                    vor Frost,mit blauen aufgelaufenen Händen und Füßen, schmerzhaft, unmenschlich
+                    gebunden. Der Wind schlug ihm die wilden Schauer hartkörnigen Schnee's in's edle
+                    Angesicht.</p>
+                <pb n="28"/>
+                <p>So lag der einst hochgefeierte Landammann Innerrhodens, grausamer gehalten als
+                    das elendigste Hausthier, dem man doch noch ein Fach und eine Streue gönnt, zwei
+                    Stunden lang auf der Gasse.</p>
+                <p>Da kam endlich einer der Knechte, um einmal nachzusehen. Gieb mir um Gottes
+                    Barmherzigkeit willen einen Schluck warme Milch“,flehte der Unglückliche, „sonst
+                    bringt Ihr mich nicht lebendig heim!“„Was da, Rebell“, schrie der halb
+                    Betrunkene, „wenn Du hier krepirst,braucht man Dir drinnen nicht mehr den Kopf
+                    abzuschlagen.“</p>
+                <p>Noch eine fürchterlich lange Siunde währte es. Der Landammann rang in Schmerz und
+                    Elend auf der Schleife mit dem Tode. In seinen grauen Locken wühlte der
+                    schneidende Wind und schüttelte den Schnee heraus, der ihn halb bedeckte.</p>
+                <p>Endlich kamen die betrunkenen Wächter und Soldaten fluchend und tobend aus der
+                    Schenke. Der Nüchterste hielt es für räthlich,n halb Bewußtlosen ein Glas Wein
+                    einzugießen und eine Kette locerer zu binden.</p>
+                <p>So ging es bei einbrechender Nacht den steilen Hohlweg am Stoß hinauf. Auf diesem
+                    Berge hatten am 17. Brachmonat des Jahres 1405 die Appenzeller die Heeresmacht
+                    Herzog Friedrichs von Oesterreich und der schwäbischen Reichsstädte unter der
+                    Führung des ritterlichen Grafen Rudolf von Werdenberg heldenmüthig und glorreich
+                    auf's Haupt geschlagen.... jetzt schleiften die Urenkel der Freiheitskämpfer als
+                    Sklaven schändlicher Parteiwuth ihr altes Standeshaupt, einen ihrer besten
+                    Männer, in finsterer Nacht über die heilige Stätte und entweihten das Gedächtniß
+                    ihrer Altvordern.</p>
+                <p>Hier erwarteten der außerrhodische Weibel und Läufer den Zug,um demselben
+                    vertragsgemäß sicheres Geleit über außerrhodischen Boden zu geben. Im Dorf Gais
+                    wollte der Haufe wieder Halt machen und einen Trunk nehmen. Da standen aber ein
+                    paar Dutzend Männer,die von der traurigen Sache gehört hatten, auf der Gasse,
+                    mit finstern Gesichtern und drohendem Gemurmel und die Geleitsboten warnten vor
+                    dem Verzug. Laternen schwenkten hin und her durch's Dorf, ferne Stimmen tönten
+                    im Wind und Schneegestöber; die Innerrhoder spannten die Büchsenhähne und
+                    marschirten im schärfsten Schritie, ihr nahes,eigenes Territorium zu
+                    gewinnen.</p>
+                <p>Spät in der Nacht hielten sie mit der Schleife vor dem Rathhause in Appenzell.
+                    Hier war Alles zum Empfange des Geächteten vorbereitet. Möglichst rasch und
+                    stille wurde der mehr Todte als Lebendige vom Schlitten gehoben und in's
+                    unterste Loch des Gerichtshauses getragen. Die Mannschaft ging in die nächste
+                    Schenke und zechte bis nach Mitternacht auf Landeskosten.<pb/>IV.Suter's
+                    Folterung und Vinrichtung.</p>
+                <p>Wie ein Lauffeuer ging des andern Tages die Kunde durch's Land: „Der Landammann
+                    Suter ist gefangen.“ Das Volk kam in Aufregung. Die Feinde des Unglücklichen und
+                    Verrathenen hatten bis auf wenige der Führer geringe Freude; sie hätten den
+                    alten Mann lieber in der Verbannung sterben gesehen. Seine Freunde zitterten für
+                    ihn.Ihre Fürsprache wurde höhnisch abgelehnt. Der alte Geiger wollte an den Fang
+                    gar nicht glauben, bis er mit seinen eigenen blöden Augen den Feind gesehen
+                    hatte.</p>
+                <p>Unverzüglich begann die Kriminalprozedur, als wäre sie ein Hochgenuß. Der Greis
+                    wurde auf Hoch- und Landesverrath, Rebellion und geheime, schändliche Unzucht
+                    peinlich inquirirt. Er wußte nichts zu bekennen. Beim Vorhalten des letzten
+                    Verbrechens forderte er genaues Zeugniß und Konfrontation mit seinen Anklägern.
+                    Diese wußten nichts und waren nicht iim Stande, auch nur ein Zeugniß zu
+                    geben,das einen Schein von Wahrheit hatte. Die Verhörrichter waren betreten,als
+                    diese Belastung also zu Schanden wurde. Um so schärfer hielten sie die
+                    allgemeine Anklage auf Landsfriedensbruch fest, und als auch hier kein
+                    Geständniß folgen konnte, ließen sie ihn bei Wasser und Brod kreuzweis in
+                    Handschellen und schweres Eisen binden, bis er mürber würde. Doch müssen wir zur
+                    Ehre des Rathes beifügen, daß mehrere neugewählte Rathsherren bestimmtestens
+                    verlangten, es solle der ganze Prozeß revidirt werden.</p>
+                <p>Man kam dieser Prozedur dadurch zuvor, daß man ihnen erklärte,die Akten wären
+                    verloren gegangen (1). In der That ist es wahrscheinlich, daß sie erst unrichtig
+                    gehalten, dann geflissentlich verfälscht und endlich vernichtet wurden.
+                    Gegenwärtig sind nur noch Fragmente zu finden.</p>
+                <p>im war vorauszusehen, daß das „Mürbewerden“ länger gehen möchte, als für die Ruhe
+                    des Landes und namentlich für die Sicherheit der Regierenden räthlich schien. Es
+                    mußte rasch prozedirt werden, es mußte das Schwersté versucht werden; denn, der
+                    Suter muß sterben,<pb n="30"/>war zum Axiom der Einflußreichen geworden. Am 10.
+                    März wurde der Rebell zur Folter erkannt. Am Tage vorher hatte er vor Rath um
+                    Gottes Willen um einen Trunk Wasser gebeten, das ihm vom Examinatoren beim
+                    heftigsten Durste verweigert wurde. Früh am Morgen wurde der unglückliche Mann
+                    aus dem Kerker geholt und in die hintenzu gelegene Folterkammer gebracht, wo die
+                    Beamten des Malefizrathes, der Pater Ambrosius, der Landschreiber und der Henker
+                    mit zwei Knechten seiner warteten. Er schrack zusammen, als er das schauerliche
+                    Gelaß betrat. „Josef Anton Suter“, begann der Kriminalbeamte, „der gestrenge
+                    Malefizrath hat Euch zur Folter erkannt wegen sündhaften und teuflischen
+                    Leugnens Euerer schweren, sattsam erwiesenen Verbrechen. Ich ermahme Euch also,
+                    zu bedenken, daß Euer alter und kranker Leib allweg schwere Marter nicht
+                    aushalten mag, und rath'Euch in Güte, ein frei und offen Geständniß
+                    abzulegen.“</p>
+                <p>„Macht mit mir, das Ihr vor Gott und den Menschen verantworten könnt“, antwortete
+                    Suter; „aber so wahr ich auf die himmlische Barmherzigkeit und die Fürbitte
+                    aller lieben Heiligen hoffe, ich weiß von keinem Landesverrath und
+                    Rebellion.“</p>
+                <p>„Landschreiber“, befahl der Beamte, „legt die Uhr auf den Tisch.Meister Enoch,
+                    legt dem Malefikanten die Daumenschraube auf das zweite Gelenk an, und Ihr,
+                    hochwürdiger Pater, ermahnt ihn zu reumüthiger Buße.“ Die Knechte setzten den
+                    Greisen auf den Nothstuhl,und schraubten die Daumeneisen an. Ein schneidender
+                    Schmerzensschrei entfuhr ihm.</p>
+                <p>„Wollt Ihr bekennen, Joseph Anton Suter, daß Ihr eine verrätherische Rebellion
+                    gegen des Landes Sicherheit und eine hohe Obrigkeit im Schilde geführt
+                    habt?“</p>
+                <p>Der Gefolterte betheuerte seine Unschuld.</p>
+                <p>„Schnürt ihn mit völliger Bande, Meister Enoch.“</p>
+                <p>Dieser sägte mit drei Schnüren auf jedem Arm des Gefangenen tiefe Ringe, denen
+                    das Blut entquoll, während ihm Pater Ambrosius in monotoner Gleichgültigkeit
+                    seine salbungsreichen Redensarten vorsprach.</p>
+                <p>„Die halbe Stunde ist vorbei“, sagte endlich der Landschreiber;„Meister Enoch,
+                    schraubt los nach Landrecht.“</p>
+                <p>Der Gequälte wurde, von den zwei Folterknechten unterstützt, in sein Loch
+                    zurückgebracht; die Beamten berichteten dem versammelten Malefizrath das
+                    Resultat der Prozedur. Man war überrascht, daß der schwache, von der schweren
+                    Haft entkräftete Gefangene die entseßzliche Folterzeit ohne Bekenntniß
+                    ausgehalten hatte. Nicht ohne Widerspruch mehrerer Rathsglieder wurde auf
+                    Nachmittag um 4 Uhr eine zweite Folter erkannt.</p>
+                <p>Meister Enoch spannte die halb zerquetschten Daumen und großen Fußzehen des
+                    Unglücklichen zusammen kreuzweis in den spanischen Bock <pb n="31"/>und folterte
+                    die halbe Stunde in drei Graden, bis der Landschreiber Termin rief, ohne daß
+                    irgend ein Geständniß zu erzielen war.</p>
+                <p>Mun war der versammelte Malefizrath durchaus rathlos, wie in Sachen weiter
+                    vorzugehen sei. Da erhoben sich sieben Rathsglieder und sprachen: Sie wären der
+                    Meinung, die Prozedur zu schließen; es dünke sie fast, man sei mit dem
+                    Landammaun wohl streng verfahren und weiter gegangen, als Landsbrauch sei.
+                    Dagegen erhoben sich die Anhänger der Geiger'schen Partei mit maßloser
+                    Heftigkeit und uünter Lärm und Protest wurde erkannt, es sei der Inquisit Abends
+                    um 9 Uhr nochmals zu foltern und zum Geständniß zu bringen.</p>
+                <p>Als der todtmüde, gebrochene Mann nächtlicher Weile wieder in die Marterkammer
+                    gebracht wurde, dämmerte das Bewußtsein schwer erlittenen Unrechts und
+                    menschlicher Willkür noch einmal mit überraschender Heftigkeit in ihm auf.</p>
+                <p>„Landschreiber“, sagte er, „Ihr kennt das Gesetz und gemeinen Landsbrauch im
+                    Halsgericht. Das ist aber wider Gesetz und Recht,daß Ihr einen Mann zum dritten
+                    Mal an Einem Tag foltern wollt;tödtet mich gleich lieber auf dem Fleck, wenn Ihr
+                    wie Mörder mit mir fahren wollt und kein menschlich noch göttlich Recht
+                    respektirt.“</p>
+                <p>„Joseph Antoni Suter“, fiel der Untersuchungsbeamte ein, „wir sind da von wegen
+                    des Malefizgerichts und auf seinen Befehl. Ich ermahne Euch zum letzten Mal,
+                    Eures elenden Leibes wegen ein aufrichtig Bekenntniß Euerer Schuld abzulegen und
+                    Euch die Marter zu ersparen, ansonsten mit der Tortur bis zum Geständniß
+                    fortzufahren ist.“</p>
+                <p>„Herr Gott auf dem Himmelsthron und heilige Jungfrau“, rief der Greis, „so gibt
+                    es für mich von aller Welt Verlassenen und Verstoßenen kein Gesetz mehr!
+                    Landsfähnrich, Ihr wißt, daß ich nichts zu bekennen habe, so wahr Gott lebt. Ihr
+                    aber, Landschreiber, schreibt das Alles richtig und gründlich in's Protokoll
+                    auf, daß die Appenzeller ihren Landammann im 68. Jahre an einem Tag
+                    unschuldigerweis dreimal gefoltert haben.“</p>
+                <p>„Landschreiber nehmt die Zeit wahr“, unterbrach der Beamte,„Meister Enoch, spannt
+                    den Inquisiten auf die Leiter.“</p>
+                <p>Der alte Mann wurde entkleidet, auf die Leiter befestigt, an seine Füße ein
+                    schweres Gewicht gehängt. Mit einem Flaschenzuge zogen die Knechte die auf dem
+                    Rücken zusammengebundenen Hände langsam verkehrt hinter den Kopf hinaus. Bei
+                    jedem Ruck rief der Gequälte die Barmherzigkeit des Himmels an. Der Beamte ließ
+                    einhalten, Suter wimmerte von Folterschmerzen zerrissen und glühendem Durst
+                    gequält,um einen Trunk Wasser. Er erhielt es nicht.</p>
+                <p>„Soll ich den Hasen am Rücken einlassen2 fragte Meister Enoch.„Er hält's nicht
+                    mehr aus“, antwortete bedenklich der Beamte, „wollt Ihr jetzo bekennen,
+                    Malefikant?“ Der Gefolterte wimmerte noch schwach.</p>
+                <pb n="32"/>
+                <p>7 die Seile nach und nehmt ihn herab, sonst verendet er an der eiter.“</p>
+                <p>Mit furchtbar verrenkten und zerquetschten Gliedern nahmen sie ihn herunter; er
+                    war sprachlos und bewußtlos. Der Landschreiber rieb ihn mit Spiritus. Langsam
+                    kehrten die schwachen Lebensgeister wieder.</p>
+                <p>Auf die wiederholten Fragen nach einem Bekenntniß entgegnete der Gemarterte mit
+                    schwacher Stimme nur: „Haltet's wie Ihr wollt, aber macht bald ein Ende mit
+                    mir!“ Dann trugen ihn die Knechte in sein Verließ zurück. Es war elf Uhr Nachts,
+                    als die selber erschöpften Beamten das Gerichtshaus verließen und dem
+                    regierenden Landammann noch das Protokoll der letzten Tortur überbrachten.</p>
+                <p>Im Ganzen schien der Prozeß nach der gegenwärtigen Sachlage spruchreif. Fernere
+                    Folterung war nicht mehr möglich; längerer Aufschub eben so unthunlich, als
+                    bereits die Gerüchte der letzten scheußlichen Inquisition das Volk in Bewegung
+                    brachten. Hatte Suter auch nichts bekannt, so dachten seine Feinde doch aus
+                    seiner letzten Aeußerung wie aus dem gebrochenen Muth und Leibe des alten Mannes
+                    irgend eine Art stillschweigenden Zugebens zu erzielen und so wurde auf den
+                    19.März (1784) der große Blutrath zusammen' berufen.</p>
+                <p>In Appenzell herrschte die Sitte, daß Leibes- und Lebensstrafen am gleichen Tage,
+                    wo sie ausgefällt wurden, wenige Stunden nach gefallenem Urtheilsspruch zum
+                    Vollzug kamen. Der Blutrath blieb, bis dieses geschehen war, versammelt.</p>
+                <p>Die Kunde, daß am 19. März der Landammann Suter vor Blutrath abgeurtheilt werde,
+                    flog wie ein Wetter durch das Ländchen und erschreckte alle Gemüther. Vergebens
+                    verwendeten sich viele angesehene Männer für den Gefangenen und flehten um ein
+                    gnädig Urtheil; sie wurden von den Landeshäuptern mit zweideutigem Bescheid
+                    entlassen.In der Gontner- und Schlatterrhod sah es indessen bedenklich aus.Das
+                    Volk grolle, hieß es, und rede von schändlicher Gewaltthat und Verrath. Ein
+                    ausgesandter Spion berichtete, es haben sich zweihundert Mannen verschworen,
+                    wenn der Suter gerichtet würde, müsse der Flecken Appenzell zu einem
+                    Aschenhaufen zusammengebrannt werden. Andere wollten genaue Kunde haben, daß ein
+                    Trupp handfester junger Männer den Gefangenen vor dem Rathhause den
+                    Henkersknechten entreißen und alsdann die Obrigkeit stürzen wolle. So waren die
+                    Landeshäupter veranlaßt, auf den Gerichtstag 300 Mann aufzubieten, die am Morgen
+                    bewaffnet in den Flecken einrückten und zunächst alle Zugänge zum Rathhause
+                    besetzten. Sie erhielten einen guten Freitrunk und scharfe Patronen.</p>
+                <p>So brach einer der verhängnißvollsten Tage an, die Appenzell je gesehen hat, ein
+                    Tag, den die vaterländische Geschichte auf ewig gebrandmarkt hat. Schon früh war
+                    es in allen Dörfern und Heimaten lebendig <pb n="33"/>geworden. Auf allen Wegen
+                    und Bergpfaden strömten Männer, Weiber und Buben gegen Appenzell. Wunderherrlich
+                    ging die siegende Märzsonne über den Bergen auf. Das erste weiche Grün schmückte
+                    die sonnigen Felder bis gegen die Vorgebirge hin. Die Firste und Kronen der
+                    Alpen aber leuchteten in krystallener Klarheit am blauen Himmel und sandten hin
+                    und wieder eine donnernde Lawine zu Thal. Die Buchfinken in den goldstäubenden
+                    Haselbüschen und die zwitschernden Schwalben in blauer Luft riefen ihre
+                    fröhlichen Frühlingsahnungen in die Welt hinaus und jubelten den Menschen
+                    entgegen, die mit bangen,bedenklichen Gesichtern und schweren Herzen
+                    gruppenweise vorbei wanderten.</p>
+                <p>„Was meinst“, fragte ein Oberegger in einem Haufen seinen Nachbar, „wird er
+                    gerichtet?</p>
+                <p>„Ich gäbe die drei brävsten Milchküh' aus dem Haufen“, erwiederte dieser, „wenn
+                    sie ihn nicht richteten. Ich bin ein einfältig Mannli vor den Herren; aber
+                    siehst, Hannes, der Alt-Landammann hat nichts des Richtens Werthes verbrochen,
+                    und drangsalirt haben sie ihn, daß es zum Himmel schreit.“</p>
+                <p>„Ich glaub' auch nicht“, sagte der Oberegger, „daß es so weit kommt; in allweg
+                    ist es für uns leid, daß sie ihn bei uns gefangen Dvon Wald wird geflohen wie
+                    ein räudiger Hund. Die haben auch keine Freud' von ihrem Blutgeld.“</p>
+                <p>„Ja ja“, fuhr der Andere fort, „das ist ein todttrauriger, himmelschreiender
+                    Handel. Wie viel brave Mannen hat er in's Elend gebracht!und ich sage Dir,
+                    Hannes, Du wirst sehen, wenn die Herren heut den alten Landammann richten, so
+                    gibt das eine böse Sach' und wir werden verrufen vor der ganzen
+                    Eidgenossenschaft.“</p>
+                <p>„Und 's ist nicht nur wegen dem“, entgegnete Hannes, „man sagt,die Herren hätten
+                    das Recht eingebrochen und über ihre Gewalt gethan,was sie vor der Landsgemeinde
+                    nicht verantworten können. Ich meine,unsere Kinder haben das noch zu entgelten,
+                    wenn sie heut' unschuldig Blut vergießen. Man ist allweg in Berg und Thal mit
+                    aller Hab'und Vieh und Kind, besonders Sommerszeits, in Gottes Hand. Er könnt'
+                    Einen finden zur bösen Stund', wenn man auch nichts an der Sach'
+                    verschuldet.“</p>
+                <p>„Alle Heiligen sollen uns behüten!“ sagte der Andere und schlug andächtig das
+                    Kreuz.</p>
+                <p>Im Flecken Appenzell ging es laut her; seit Mannsgedenken hatten sich kane so
+                    gewaltigen und dichten Volksmassen durch die Gassen gedrängt; doch waren es der
+                    bunten Tracht nach fast nur Innerrhoder;die Außerrhoder waren absichtlich, als
+                    schämten sie sich für Innerrhoden,zu Hause geblieben. Aus etlichen Rheinthaler
+                    Dörfern war Volk da.Die Bewohner des Hauptfleckens sahen ängstlich auf die
+                    Menge. Sie </p>
+                <p>3 <pb/> 2*wußten nicht, was der Tag bringen möchte. Etliche der Angesehensten
+                    hatten ihre Häuser schließen lassen und einiges Volk drin behalten,wenn es etwa
+                    zum Aufruhr und Sturm kommen sollte. Wirbelnd kamen die Tambours mit
+                    Streifwachen die Straße herab und bald wurde der Weg dem Berg zu, wo über Nacht
+                    auf der Richtstätte ein einfaches Schaffot aufgeschlagen worden, mit Soldaten
+                    besetzt. Alle diese Vorsicht war kaum vonnöthen. Suter's Freunde und deren Zahl
+                    war groß im ganzen Land, weil er Vielen gerathen und geholfen und Gutes gethan
+                    hatte waren mehr erschrocken und niedergeschlagen als zum Aufruhr geneigt und
+                    weder gesammelt noch organisirt, noch auch irgend bewaffnet. Das böse Gewissen
+                    seiner Feinde hatte die Gefährde verhundertfacht.</p>
+                <p>Um 9 Uhr versammelte sich der Blutrath auf dem Rathhause und vernahm zuerst die
+                    Akten der Prozedur. Es lag schwere, schwüle Luft in der Gerichtsstube. Auch die
+                    Leidenschaftlichsten, Heftigsten unter den Rathsgliedern saßen nicht ohne Grauen
+                    da und wünschten, der Tag wäre vorüber und der Handel zu Ende. Sie lauschten oft
+                    nach der Straße hinunter.</p>
+                <p>Die geheime Berathung begann ziemlich eilfertig, und bald fiel auch der Antrag
+                    auf Suter's Tod. Aber miit unerwarteter Festigkeit und Entschiedenheit erhoben
+                    sich, getragen vom furchtbaren Ernsie der Stunde, mehrere Rathsglieder
+                    dagegen.</p>
+                <p>„Es ist kein Bekenntniß dan, sprach Ignaz Dähler, „es ist kein ehrlich und
+                    vollwichtig Zeugniß da, es find keine Thatsachen da, wie mögt Ihr auf Tod
+                    erkennen?“ Und Baptist Inauen warnte: „So wir am heutigen Tage ohne strenges
+                    Recht das Blut dieses Landeshauptes vergießen, so werden wir Schande haben und
+                    ein böses Gewissen und des Volkes Haß und langen Unfrieden im Land. Der Suter
+                    ist ein halbtodter Mann, der schadet Euch mehr, wenn Ihr ihn richtet, als wenn
+                    Ihr ihn leben läßt. Ich will frei sein von der Sache für alle Zeit, will nicht,
+                    daß man meinen Kindern noch sollte vorhalten können, ich hätte da
+                    mitgeholfen.“</p>
+                <p>Inzwischen hatte der vorsitzende Blutrichter wiederholt den Weibel ausgesandt, um
+                    die Stimmung und Bewegung des Volkes zu beobachten. Er brachte jedes Mal
+                    beruhigenden Bericht. Da schritt er zur Abstimmung. Feierliche, bange Stille.
+                    Die Mehrheit der Stimmen lautete auf Tod. Das Loos war gefallen.</p>
+                <p>Aber zwanzig Glieder des Blutrathes standen auf und gaben eine feierliche und
+                    energische Protestation und Verwahrung in das Gerichts-protokoll ab, daß sie
+                    sich bei Ehr' und Eiden unschuldig an diesem Spruche halten wollten und auch der
+                    Meinung seien, daß ein hoher und gestrenger Blutrath nach richtiger und
+                    unparteiischer Würdigung der Aktenlage den Inquisiten weder zum Tode, noch zu
+                    anderer schärfer Leibesstrafe verurtheilen könne.<pb/>Die Protestation verfehlte
+                    nicht eines tiefen Eindruckes auf das Gericht. Da ließ der Vorsitzende
+                    unverzüglich den Verurtheilten einführen.</p>
+                <p>Es war ein ergreifender Augenblick, als der greise Landammann Suter die Stube
+                    betrat, wo er als oberstes Landeshaupt mehr denn ein Jahrzehnt regiert und sich
+                    ohne eigenen Nutzen mit aller Kraft des Geistes, mit dem festesten Willen, des
+                    Landes Wohl zu fördern, allen Arbeiten seines Amtes unterzogen hatte.
+                    Todtenblaß, mit vor Hunger,Gram und Schmerz entstellten Zügen, verrenkten Ärmen
+                    und erbärmlich zerquetschten Händen trat er an die Schranken, ein erschütterndes
+                    Bild des Jammers und Elends.</p>
+                <p>Der Landschreiber las ihm das Bluturtheil vor, daß er als Rebell und
+                    Landfriedenstörer des Hochverraths schuldig und auf öffentlicher Richtstätte mit
+                    dem Schwerte durch den Nachrichter vom Leben zum Tode zu bringen sei.</p>
+                <p>„Josef Anton Suter“, fügte der Landammann hinzu: „so Ihr annoch ein offenes
+                    Bekenntniß abgeben oder Mitschuldige verzeigen wollt, so mögt Ihr es thun;
+                    weiters habt Ihr noch eine Stunde zur D an dem, was mit ihm vorging, war der
+                    Verurtheilte bisher dagestanden.Nun raffte er sich auf, der alte Muth, die halb
+                    erstorbene Geisteskraft kehrte wieder und mit leuchtendem Auge sprach er:
+                    Landammann und Landshäupter und gesammte gestrenge Blutrichter, ich bin ein Mann
+                    des Todes und habe von den Menschen nichts mehr vonnöthen, denn allein die
+                    Barmherzigkeit des allmächtigen Gottes. Aber so wahr ich auf diese hoffe, als
+                    meinen einzigen und letzten Trost, so wahr bekenne ich auf diesem
+                    Armensünderplatz, daß ich der angeschuldigten Verbrechen rein und frank bin und
+                    daß Ihr unschuldig Blut an mir vergießt.Ihr seid streng mit mir verfahren in
+                    meinen alten Tagen. Ihr habt mich vor neun Jahren ohne Verhör und Zeugenschaft
+                    wider Landrecht zu einem meineidigen Mann gemacht und aus der Eidgenossenschaft
+                    verbannt; Ihr habt mich um Hab und Gut gebracht, durch Verrath und Trug verlockt
+                    und gefangen, wider's Gesetz dreimal an einem Tage streng gefoltert und jetzo
+                    abermal wider Gesetz und Landrecht ohne einigen Beweis zum Schaffot verurtheilt.
+                    Ich erkläre das Urtheil auf alle Zeit ungerecht, und erkläre die Prozedur für
+                    verfälscht und den Spruch wider Eid und Gesetz und Gewissen beim gerechten
+                    Gericht Gottes!“</p>
+                <p>„Josef Anton Suter“, rief der Landammann, „ich gebiete Euch Ruhe.Wie ich diesen
+                    Stab breche, soll Dein Leben gebrochen sein.“ Er nahm das schwarze Stäbchen vom
+                    Tische, brach es und warf es dem Verurtheilten vor die Fuße. Dann ließ er ihn
+                    rasch abführen und zugleich durch den Weibel dem Volke auf den Gassen eröffnen,
+                    „daß sich bei Leibes und Lebensstrafe Niemand unterstehen solle, den
+                    Scharfrichter in seinem Amte ein wenig oder viel zu hindern noch etwas
+                    Unerlaubtes <pb n="36"/>anzufangen.“ In der Nebenstube des Rathhauses stand
+                    Meister Enoch im Mantel auf's Schwert gestützt. Der Landammann trat zu ihm
+                    ein.</p>
+                <p>„In einer Stunde muß es ausgeführt werden, Meister Enoch,“sagte er zu diesem.
+                    „Thut Euere Schuldigkeit. Richtet ihn rasch, habt Ihr feste und vertraute
+                    Knechte ?“ „Sorgt nicht, Herr Landammann,“ erwiederte der hohe und starke Mann,
+                    dessen dichter Bart bereits einen grauen Anflug hatte. „Das ist heute ein
+                    kitzlich Ding.Ich, weiß ganz genau, daß das Volk heut nicht Spaß versteht. Fehl
+                    ich den ersten Streich, so steinigen sie mich. Und der Mann hat einen kurzen
+                    Hals .... sie werden ihn strecken müssen. Pah, 's wird sich machen, das ist nun
+                    der neunundvierzigste!“ „Hört, Nachrichter,“sagte der Landammann weiter, „das
+                    Volf ist unruhig. Wenu's einen Aufruhr gäbe, so haut den Suker auf dem Wege
+                    nieder, wo und wie Ihr könnt.“ Meister Enoch trat einen Schritt zurück und maß
+                    den Landammann vom Kopf bis zu den Füßen. „Wie meint Ihr das,Herr Landammann?
+                    Niederhauen das ist wider die Freiknechtsordnung, Herr; das ist gemordet, nicht
+                    gerichtet, Herr! Ihr habt zu sorgen,daß der Mann auf's Schaffot kommt, nicht
+                    ich! Ist er da, so nehme ich ihn zu Handen und Banden und richt' ihn nach unserm
+                    Brauch.“</p>
+                <p>Um 12 Uhr setzte sich der traurige Zug in Bewegung. Das Armensünder-Glöcklein
+                    schrillte. Die Soldaten bildeten Spalier, konnten aber mit genauer Noth das
+                    Drängen des bewegten Volkes zurückhalten. Als die Schleife mit dem Verurtheilten
+                    die Dorfgasse herabfuhr, erhob sich ein allgemeines Schluchzen und Wehklagen.
+                    Viele aber meinten, das werde alles nicht so schlimm werden, wie's aussehe. Es
+                    sei ein Gerücht vom Rathhause heruntergegangen, man werde ihn nicht köpfen,
+                    sondern ihm blos „das Schwert über dem Haupt schwingen“ und der Reichsvogt werde
+                    Gnade rufen. Das beruhigte auch die Meisten; nur wer die Führer des Blutrathes
+                    kannte, zitterte. „Ob er wohl weiß,“ fragte Einer, „daß man gestern seine
+                    Tochter Sevele mit ihrem todten Kinde begraben hat?“ „Gott verhüt's,“ erwiderte
+                    der Nebenmann, „der hat am eigenen Elend zu viel!“</p>
+                <p>Der in sanften Halden über der Richtstätte ansteigende Bergrücken auf der
+                    Südseite des Fleckens war mit bunten Volksmassen reich besetzt,als der arme
+                    Sünder am Schaffot anlangte. Vor demselben hielt der Reichsvogt als
+                    obrigkeitlich Abgeordneter hoch zu Pferde. Zwei Kapuziner stützten den
+                    Verurtheilten, als er das Treppchen anstieg, Ruhe und christliche Ergebung lag
+                    auf seinem Antlitz, er betete eifrig und inbrünstig mit den Franziskanern und
+                    willig unterzog er sich den traurigen Mamipulationen der Freiknechte.</p>
+                <p>Mit klarer Stimme sprach er zwei Ave Maria, unverwandt den Blick auf den
+                    Reichsvogt gerichtet, als erwarte er den Ruf der Gnade;bei den ersten Worten des
+                    dritten sauste das Schwert.<pb n="37"/>Ein gellender Wehschrei, untermischt mit
+                    fürchterlichen Flüchen,drang im gleichen Augenblick markerschütternd aus dem
+                    Volke und heftiges lautes Schluchzen und Jammern riß Tausende hin.</p>
+                <p>Ein edles und unschuldiges Haupt war gefallen und ein schwerer Justizmord
+                    vollbracht.</p>
+                <p>Der Scharfrichter trat an die Brüstung des Schaffotes, hielt das blutende Schwert
+                    über das Volk und rief: „Reichsvogt, hab ich den Menschen gerichtet wie Urtheil
+                    und Recht ergangen ist?“</p>
+                <p>Du hast gerichtet, wie es meine Herren erkennt haben; ich will es ihnen
+                    berichten,“ erwiderte der Reichsvogt, wandte sein Roß und brachte dem
+                    versammelten Blutrath die Kunde der wohlvollbrachten Exekution.</p>
+                <p>Unweit vom Richtplatz stand ein altes Weib im Haufen und schaute unverwandt zum
+                    Schaffot. „Ich hätt' doch nicht geglaubt,“ sagte sie kalt zu ihrer Nachbarin,
+                    „daß der alt Landammann noch so viel Blut hätte.“ Mit Grausen und Abscheu wandte
+                    sich die Angeredete ab und schluchzte: „Wollte Gott, ich hätte das nimmer
+                    gesehen, daß es nicht über unsere Kinder kommt! Das ist eine große, schwere
+                    Sünde gewesen.“</p>
+                <p>Dann trat der Kapuziner Ambrosius vor und hielt die Standrede,in welcher das
+                    Schicksal des Rebellen und die Gerechtigkeit einer hohen Obrigkeit dargestellt
+                    wurden. Uebrigens schloß der Pater seinen Sermon mit der Versicherung, daß Suter
+                    reumüthig und als katholischer Christ aterben sei und daß für seiner Seele Heil
+                    viele Messen sollen gelesen werden.</p>
+                <p>Hierauf luden die Freiknechte den Rumpf des Hingerichteten auf eine Bahre, trugen
+                    ihn auf den Schindanger und verscharrten ihn da in gebräuchlicher Art, den Kopf
+                    zwischen den Beinen.</p>
+                <p>Ehe das aufgeregte Volk sich verlief, setzte es noch eine schwere und blutige
+                    Schlägerei ab. Etliche Außerrhoder und Freunde Suters schalten die Oberegger
+                    Bluthunde. Ein paar hundert Männer geriethen darüber aneinander und kämpften
+                    stundenlang mit furchtbarer Erbitterung.</p>
+                <p>Acht Tage später wurde Baptist Räß durch den Scharfrichter mit Ruthen
+                    geschwungen.</p>
+                <p>Ein Schrei des Entsetzens über diesen blutigen Handel ging durch e ganze
+                    Eidgenossenschaft, als sich die Nachricht der Exekution verreitete.</p>
+                <p>Die Regierung Innerrhodens bekam schwere Worte zu hören. Im Lande selber aber
+                    wuühlte Zwietracht und Parteiung unheilbringend fort.</p>
+                <p>Viele der Blutrichter grämten sich ihr Lebenlang über den Spruch;einer von ihnen
+                    verfiel in Irrsinn und sah sich unaufhörlich von dem Gespenste des Verurtheilten
+                    verfolgt.</p>
+                <p>Als endlich nach 45 Jahren noch keine rechte Ruhe in's Volk kommen wollte und
+                    immer wieder das allgemeine Urtheil, man habe den Landammann Suter unschuldig
+                    und schändlich gerichtet, auftauchte so <pb n="522"/>2 zähe und ausdauernd ist
+                    das Gerechtigkeitsgefühl eines ächt demokratischen Volkes da beschloß eine
+                    parteilose und gerechte Regierung Revision der Prozedur. In Folge derselben hob
+                    der Landrath Suters Ehrlosigkeitserklärung auf, ließ seine Gebeine aufsuchen und
+                    unter gewaltigem Volks-zulauf ehrlich und ehrenvoll auf dem Gottesacker der
+                    Mutlerkirche in Appenzell beerdigen.</p>
+                <p>Das war das gute und gerechte Ende des schlimmen Suterhandels.</p>
+                <p>
+                    <pb/>
+                    <pb/>
+                </p>
+                <pb n="0"/>
+                <p>ẽ c ẽ 6 6 6 6 ẽ a </p>
+                <p>t </p>
+                <p>ẽ s e ẽ 6 c *t ẽ 5 *ẽ 6 ẽ **0 c J c C ẽ *</p>
+                <p>ẽ c e e </p>
+                <p> 2 </p>
+                <p> 00 988 5 </p>
+                <p/>
+                <p/>
+                <p>B X 8 J </p>
+                <p>)</p>
+                <p>38 757 7 </p>
+                <p>8*8</p>
+                <p>*</p>
+                <p>88 8* 8 558 ***5 *5</p>
+                <p>ole e 77 * 7 </p>
+                <p>7 *D“</p>
+                <p>! α.σ </p>
+                <p>D Sluun </p>
+                <p>IDV lü Appenzell Innerthoden.</p>
+                <p>Vildniss Sulers.</p>
+                <p>ÿιι </p>
+                <p>zrogen.Bchläpfer'schen Buchdruckerei 1884.</p>
+                <p>G B </p>
+                <p>*Ves s o 50 EP.</p>
+                <p> 1 55*8 **8 </p>
+                <p>J*8 *9*88 5 5 32 3 8 I 8 J 8 88 8 88 3 *88 8 8 8 5**8B 1 5*2 58 828 8 88 2 **</p>
+                <p>2 D ¶O d D D 7 </p>
+                <p>⁊o o 7 </p>
+                <p>8 </p>
+                <p>J </p>
+                <p>ẽ <pb/>Krimindlgeschicht </p>
+                <p>Serrzell Innerrhoden.BR <pb/>α O α </p>
+                <p>XAXE In smMm </p>
+                <p>l </p>
+                <p>*</p>
+                <p>s 8 7 *2 8 </p>
+                <p>d x </p>
+                <p>ẽ </p>
+                <p>7 </p>
+                <p>c 2 ð *</p>
+                <p>8 8 3 8 8 F 7 4 </p>
+                <p>2 De 9J 2 88 28 *</p>
+                <p>5 18 8 8 *J *8 85 *88 8 5 Ro 8 </p>
+                <p> * ;ïꝰM ẽ </p>
+                <p>5 9 </p>
+                <p>v **aw </p>
+                <p>T * s 57 a 783 E 7 a 2328 ez Ac3 A 45318 </p>
+                <p>Sz </p>
+                <p>guuun Iuter </p>
+                <p>Kriminoul auts Appenzell Innerrhoden.</p>
+                <p>Aee z533 232 33313 g*a75 I E 5 838 ß 4 5557 538 cñ 55 229 75 </p>
+                <p>u PVildniss Sulers.</p>
+                <p>αιι·</p>
+                <p>Grogen.Druck und Verlag der chläpfer'schen Guchdruckerei 1884.</p>
+                <p>ä ault D </p>
+                <p>O</p>
+                <p>7 3 277 </p>
+                <p>23 8 8 8 88 88 88 BS.8 8 5*8 8 *88 8 *D 58 2 88 **88 5 8B 8 8 88 8 8B8.38 8 55 8
+                    8 88 8 8 8 5 88 8 8 )8 *8 **J</p>
+                <p>*</p>
+                <p>*2 d o2 J </p>
+                <p>O </p>
+                <p>2 o 2 2 </p>
+                <p>ẽ ẽ o d ⁊</p>
+                <p>pun 9 *</p>
+                <p> * J eenn n, TADCOIMFF nd.. 30 * Bο </p>
+                <p>5 </p>
+                <p>J9 FreAS: 530 ERP.<pb/>Kriminulgesshit </p>
+                <p>AIv 838 8 77 unn huter s 2221*</p>
+                <p>Jur </p>
+                <p>Appenzell Innerrhoden.</p>
+                <p>5 5 z553 Fc5 A A 333 2 538 33 5 323*A ß 75 z2 ßz 8 3 55 <pb/>In diesem Ordner
+                    duerfen lesen: UB-Users schreiben: UB-Users </p>
+                <p> Der Zusatz "intern" wuerde hier nichts aendern, da die Rechte identisch
+                    sind.</p>
+                <p> Falls Sie nicht einverstanden sind mit diesen Berechtigungen, wenden Sie sich
+                    bitte an gever-ub@unibas.ch.</p>
+                <p> Wer in welchen Gruppen ist finden Sie hier:
+                    http://intraweb.ub.unibas.ch/index.php?id=2028 <pb/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

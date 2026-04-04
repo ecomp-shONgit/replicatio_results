@@ -1,0 +1,2042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GSW0088" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hansli und Hans. Eine wahre Geschichte: ELTeC Ausgabe</title>
+                <author ref="viaf:305426341 wikidata:Q73607368">Nydegger, Hans (1848-1909)</author>
+                <respStmt>
+                    <resp>ELTeC conversion</resp>
+                    <name>Automatic Script</name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <measure unit="pages">64</measure>
+                <measure unit="words">22754</measure>
+            </extent>
+            <publicationStmt>
+                <p><date>2022-03-04</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                    <respStmt>
+                        <resp>Transcription</resp>
+                        <name>UB Basel</name>
+                    </respStmt></bibl>
+                <bibl type="digitalSource">
+                    <respStmt>
+                        <resp>Scan</resp>
+                        <name>UB Basel</name>
+                    </respStmt></bibl>
+                <bibl type="firstEdition">
+                    <title>Hansli und Hans. Eine wahre Geschichte</title>
+                    <author>Nydegger, Hans</author>
+                    <publisher>Verein für Verbreitung guter Schriften</publisher>
+                    <pubPlace>Bern</pubPlace>
+                    <date>1891</date>
+                    <!-- this title has been retrodigitised as part of the project “High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century”  -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc n="eltec-0">
+            <p>The text was transcribed from the transcription from UB Basel, which is based on the
+                1891 edition. The page breaks, chapter divisions and chapters were taken from scan
+                from UB Basel, which is based on the 1891 edition.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2022-05-15">Svenja Schär added TEI Header and removed noise.The Scan is
+                used only to insert page beginnings, paragraphs, chapters and heads.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="chapter">
+                <p>2 <pb/>Pansli und Pans.Eine wahre Geschichte von Hans Nydegger.</p>
+                <p>In der Sennhütte zu Milchheim war soeben das Wägen der Sommerkäse beendet. Der
+                    festarmige Salzer, der die gewaltigen Stücke auf die Wage und von da, nachdem
+                    sie gewogen und angezeichnet, wieder an ihren Platz befördert hatte, wischte
+                    sich den Schweiß von der Stirne,während der Käsherr und der Hüttenmeister sich
+                    anschickten, das von ihnen in ein besonderes Büchlein mit Zahlen eingetragene
+                    Gewicht der einzelnen Käse zusammenzurechnen.</p>
+                <p>Der Letztere mochte in diesem Fache eben kein besonderer Hexenmeister sein; mit
+                    merklichem Seufzer netzte er den Bleistift an den Lippen und sein sonst gar
+                    nicht etwa dumm aussehendes Auge starrte noch immer beinahe verlegen auf das vor
+                    ihm liegende, mit dicken Ziffern bemalte Papier, als der Käufer bereits die
+                    ersten Zahlenreihen addirt hatte.</p>
+                <p>Da eilte in raschem Laufe ein munterer Knabe von zirka 12 bis 13 Jahren draußen
+                    vor der offenen Thüre des Kässpeichers vorüber.</p>
+                <p>„Heda, Hansli!“ rief aufschauend und sichtlich erfreut der Hüttenmeister, „chum,
+                    rechne mer gschwind da d'Chäsgwicht z'säme; du bisch ja so ne g'schickte. Zeig
+                    jitz, oh's so gleitig u so guet chönisch, wie dä Herr da. J gibe der e Batze,
+                    wenn's zwäg bringsch.“</p>
+                <p>Der Gerufene war schon bei den ersten Worten des Käsbauern näher getreten und
+                    ergriff nun mit freudiger Hast Bleistift und Büchlein,sofort mit Eifer seine
+                    Arbeit beginnend, während der Auftraggeber ihm lächelnd zuschaute.</p>
+                <p>Der Kaäsehandler ließ sich nicht stören, ein flüchtiger Blick nur wn den Knaben
+                    gestreift, der ihm im Rechnen die Stange halten </p>
+                <p>ollte.</p>
+                <pb n="3"/>
+                <p>Nach ungefähr zehn Minuten war Hansli fertig und schlug, den Bleistift zwischen
+                    die Blätter legend, das Büchlein zu.</p>
+                <p>„Gang no einisch drüber!“ mahnte der Bauer, „me het si gly bergaloppet.“</p>
+                <p>„J ha's scho gmacht,“ erwiderte Hansli, „und es ist beidi Mal giych use cho.“</p>
+                <p>„Henu, so rechne jitz no grad us, was es bringt a zweiesibezig Franke der
+                    Zentner, mit sechs Prozent Ygwicht. La gseh, wie flingg geit's?“Im Nu hatte der
+                    Knabe auch diese Aufgabe bewältigt und wies sie schweigend dem Hüttenmeister
+                    vor, der über den enorm hohen Betrag,den das diesjahrige Sommermolken nach
+                    Hansli's Berechnung abgeworfen, nicht vermochte, ein befriedigendes Schmunzeln
+                    zu unterdrücken.</p>
+                <p>Auch der Käsherr war endlich fertig geworden. „Nach meiner Rechnung stnd es 165
+                    Zentner und 42 Pfund,“ sprach er anfschauend.</p>
+                <p>Der Hüttenmeister wurde bleich und Hansli roth bis in die lockigen Haare hinauf.
+                    Doch keck sah er dabei dem freundlichen Herrn in's Gesicht und sagte: „Das cha
+                    nid sy; Ihr heit ech wohl öppe überrechnet.“Lächelnd reichte der Letztere dem
+                    Knaben sein Büchlein hin und embfing aus dessen Händen däsjenige des
+                    Hüttenmeisters.</p>
+                <p>„Laßt uns gegenseitig unsere Arbeit prüfen!“ meinte er. „wir sind am ersten
+                    darauf, wo der Fehler steckt.“</p>
+                <p>Gesagt, gethan. Bald aber hielt Hansli mit Rechnen inne und ein triumphirendes
+                    Lächeln spielte um seinen Mund, ohne indessen den Herrn in seiner Arbeit zu
+                    stören.</p>
+                <p>„Ich bekomme hier dasselbe Resultat wie du,“ ließ sich dieser endlich vernehmen;
+                    sollten vielleicht die beiderseitigen Zahlen nicht....“</p>
+                <p>„Aber ich find's nicht gleich, wie Ihr“, rief Hansli, „schaut nur her, da in der
+                    dritten Reihe; da habt Ihr in der zweiten Stelle 124 bekommen, wie ich auch,
+                    aber Ihr wahrscheinlich, nachdem Ihr die bier gesetzt, nur zwei behalten und in
+                    der folgenden Stelle dazu gerechnet, statt zwölf, und das macht gerade die zehn
+                    Zentner aus,um die wir uneins sind. Rechnet nur noch einmal aus, so werdet Ihr's
+                    finden und ebenfalls 175 Zeniner 42 Pfund bekommen, wie's dort in meinem
+                    Büchlein steht.“<pb n="4"/>„Du hast recht,“ sagte der Käsherr, nachdem er
+                    schnell einen prüfenden Blick über die Zahlenreihe geworfen, und klopfte Hansli
+                    mit wohlgefälligem Lächeln auf die Schultern. „Du bist ja ein wahrer Künstler im
+                    Rechnen.“</p>
+                <p>„O, nicht nur darin,“ ergänzte Sami, der Hüttenmeister, dem es wieder „gewohlet“
+                    hatte, als sich die Rechnungsdifferenz zu seinem und seiner
+                    Gesellschaftsgenossen Gunsten wieder ausglich, „er ist auch in den üͤbrigen
+                    Fächern ein Meister und wohl schon jetzt weitaus der Geschickteste in der
+                    Schüle. Schade, daß seine Eltern so arme Leute sind, aus dem könnie sonst einmal
+                    eiwas Rechtes werden.“</p>
+                <p>„Wem gehört er a?“ fragte der Käsherr, der an dem Knaben ein fichtliches
+                    Interesse zu gewinnen begann.</p>
+                <p>„Es ist dem Käser seiner,“ entgegnete Sami.</p>
+                <p>„Ist denn aber der so arm? So ein Käser wird doch sicher auch einen ordentlichen
+                    Jahresgehalt haben?“ wendete der Käsehändler ein.</p>
+                <p>„Es ist wohl wahr,“ versetzte der Hüttenmeister etwas verlegen und mit leiser
+                    Stimme, „aber den unsrigen plagen drum noch alte Schulden. Wißt, er hatte früher
+                    diese Milch gekauft und in ein paar Jahren schön darauf verdient. Da kam aber
+                    vor zwei Jahren der große Putsch, wo die Käsepreise so unvernünftig sanken, und
+                    da ging auch unserm guten Christen Spühlibacher sein Verdientes verloren und er
+                    konnte überdies die Lieferanten nicht auszahlen; achttausend Franken blieb er
+                    uns schuldig, von denen er nun Jahr für Jahr Etwas abverdient. Wir haben viel
+                    aus diesem Grunde beschlossen, wieder gemeinschaftlich zu kasen und ihn als Senn
+                    anzustellen. In seinem Fache mag ihn Keiner weit und breit, wie ihr den Käsen
+                    wohl anmerken könnt,und wir kommen so nach und nach wieder zu unserm Gelde. Ihm
+                    ist's auch recht, da er auf diese Weise nicht vergeldstagen muß und für sich und
+                    seine Familie doch wenigstens zu essen hat, wenn's im Uebrigen auch immerhin
+                    etwas mager zu- und hergehen mag.</p>
+                <p>„Und was gebt Ihr ihm jetzt für Lohn?“ fragte der Käsehändler weiter.„Fünfhundert
+                    Franken jährlich; davon gehen je vierhundert ab zur Tilgung seiner Schulden.
+                    Daneben hat er für sich und seine Familie freie Kost und Wohnung; hundert
+                    Franken bekommt er, in Baar und was es hie und da noch an Trinkgeldern
+                    gibt.“<pb/> 83 Der Käsherr wußte genug; er unterhielt sich noch ein Weilchen mit
+                    Hansli, dessen freimüthige und gescheidte Antworten ihm gefielen,und am Ende gab
+                    er ihm ein funkelneues Fränkli als Trinkgeld. Den versprochenen Batzen hatte der
+                    Bauer vergessen.</p>
+                <p>Hansli dankte auf's artigste, hocherfreut über das schöne Geschenk,und sprang
+                    jubelnd davon, dasselbe der Mutter zum Aufbewahren zu bringen.</p>
+                <p>„Höre, mein Junge!“ rief ihm der Herr nach, „sage deinem Aetti, er solle nach dem
+                    Essen und wenn er in der Hütte fertig ist,hinüberkommen in das Wirthshaus, ich
+                    möchte noch gerne Etwas mit ihm reden, der Weinmonatkäse wegen, und ihm eine
+                    gute Flasche zahlen.“Dem Salzer drückte er ebenfalls ein Geldstück in die Hand,
+                    dann sprach er zum Hüttenmeister: „Also am nächsten Freitag könnt Ihr die
+                    bringen und das Geld dafür in Empfang nehmen; auf Wiedersehen und lebet wohl
+                    unterdessen!“</p>
+                <p>Sami war schier verblüfft über diesen etwas mutzen Abschied und daß der Käsherr
+                    nicht ihn, den Hüttenmeister und Vertreter der löblichen Sennereigesellschaft zu
+                    Milchheim, sondern den Käser zu einer Flasche eingeladen, aber er durfte sich's
+                    nicht merken lassen und erwiderte in verbindlichster Weise und mit kräftigem
+                    Händedruck den Scheidegruß des Käsherrn. Dann begab er sich nach dem
+                    Käsereilokale, allwo sich eine hübsche Anzahl der „gwundrigsten“* Milchbauern
+                    schon zusammengefunden hatte, und verkündete denselben mit triumphirender Miene
+                    das überaus günstige Resultat sowohl in betreff des befriedigenden Gewichts, als
+                    auch der vorzüglichen Qualität der Sommerkäse. Kein einziges Stück war
+                    ausgeschossen worden, kein „Gläsler“, „Nisser“,oder gar „Geblähter“ befand sich
+                    unter dem ganzen Mulchen.</p>
+                <p>„Er het's doch use, der Christe, da cha me lang!“ hieß es allgemein; „däscha
+                    chäse u soll chäse; he, Spühlibacher, wo bist au?“</p>
+                <p>Der Gerufene trat aus dem Milchgaden, eine untersetzte, wetterharte Gestalt
+                    mittlerer Größe, dessen entblößte, sehnige Arme mit den hervorspringenden,
+                    gewaltigen Muskeln eine außerordentliche Kraft verriethen. Auf seinem stillen,
+                    glatt rasirten Antlitz lag ein düsterer Ernst, und mehr von Sorgen und Kummer
+                    wohl, als wegen vorgerückten Alters mochte er doch seine vierzig Jahre kaum
+                    erreicht haben fing schon sein Haar zu bleichen an.<pb/> 6 In seiner trockenen
+                    Weise, wie es die Bauern schon längst an ihm gewohnt waren, fast, als ginge ihn
+                    die ganze Geschichte nichts an,nahm er die überschwänglichen Lobsprüche auf sein
+                    Talent entgegen,und nur ein trauriges Lächeln spielte vorübergehend um seinen
+                    Mund,als bemerkt wurde, daß wohl sonst keine Käserei in der Umgegend so viel aus
+                    der Milch „nutzge“.</p>
+                <p>„Hat dir der Bub gesagt,“ fragte ihn schließlich der Hüttenmeister noch, „daß du
+                    nach dem Essen hinüber sollst in die Wirthschaft zum Käsherrn, der dir eine gute
+                    Flasche bezahlen und wahrscheinlich noch ein Trinkgeld geben will? Als der
+                    Handel gemacht wurde, wollte er absolut nichts davon wissen, aber heute ist er,
+                    wie mich dünkt, b'sunderbar guet im Lun!“Er verschwieg es, der eigennützige
+                    Bauer, daß er selber von einem Trinkgeld kein Wort gesprochen, ja, nicht einmal
+                    an ein solches gedacht hatte. Ein möglichst hoher Preis und baare Bezahlung, das
+                    waren seine Ideale; allem Uebrigen fragte er nichts nach.</p>
+                <p>Als die Männer sich entifernt hatten, rief die Käserin, eine noch junge, hübsche
+                    Frau, zum Mittagessen, und Christen Spühlibacher setzte sich mit seiner Familie
+                    und dem Salzer an den Tisch zum einfachen Mahle.</p>
+                <p>Hansli betete laut das „Unser Vater“ nach altem, frommen Brauch, bevor das Essen
+                    begann. Er war äußerst heiter und glücklich und konnte den guten Herrn nicht
+                    genug rühmen, der ihm das schöne Fränkli gegeben. Auch der Salzer, sonst nicht
+                    der zufriedenste Bursche,stimmte mit beifälligem Murmeln in des Knaben Lob.</p>
+                <p>„Solltest du nicht ein anderes Hemd und andere Hosen anziehen,mein Lieber“, frug
+                    Frau Spühlibacher nach dem Essen ihren Mann.„wenn du in's Wirthshaus hinüber
+                    willst?“</p>
+                <p>„Ein Hemd wohl“, gab der Käser zur Antwort, „das, welches ich anhabe, ist ganz
+                    bachnaß von Schweiß, die Hosen aber sind lang gut. Der Käsehändler wird nicht ob
+                    jedem Brämi erchlüpfen.“</p>
+                <p>In der Wirthschaft wurde Spühlibacher vom Käsherrn trotz seiner rußigen
+                    Lederhosen sehr freundlich und zuvorkommend empfangen.</p>
+                <p>Der Letztere bestellte sofort eine Flasche perlenden Rebensaftes in die
+                    Rebenstube, wohin er sich mit seinem Gaste begab, um ungestört und ungehört
+                    berichten zu können, und mehr als eine noch wurde <pb/>nachverlangt, bevor der
+                    Stallknecht Befehl erhielt, einzuspannen, und die beiden endlich mit einander
+                    hinaus in's Freie traten.</p>
+                <p>Aber noch von dem Chaislein herunter reichte der Herr dem Käser die Hand, ehe er
+                    abfuhr, und sagte: „Es blybt de derby, wie mer gredt hei, u jitz b'hüet Ech
+                    Gott!“</p>
+                <p>Christen schaute noch eine Weile dem davonsprengenden Fuhrwerk nach, und als er
+                    mit der Hand über die Augen fuhr, um besser zu sehen, war dieselbe schier ein
+                    wenig naß geworden.</p>
+                <p>Der Zeiger der Thurmuhr wies schon über Drei, als Christen Spühlibacher heimkam,
+                    mit einem so heitern Gesicht, wie es die Seinen seit Langem nicht mehr an ihm
+                    wahrgenommeun hatten. Seinem ihm unter der Hausthüre begegnenden Weibchen
+                    schlang er ohne Weiteres die Arme um Leib und Hals und gab ihm einen herzhaften,
+                    weithinschallenden Kuß.An der nächsten Käsgemeinde kündete zum Erstaunen
+                    sämmtlicher Gesellschaftsmitglieder der Senn auf ersten Mai nächstkünftig seinen
+                    Vertrag.</p>
+                <p>„Das werde öppe nicht sein Ernst sein,“ meinte der Hüttenmeister,„oder was er zu
+                    klagen habe und aus was für Ursachen er fortbegehre?“</p>
+                <p>„Das will ich Euch schon sagen“, versetzte der Christen: „Seht,ich kann hier
+                    arbeiten, wie ein Lastthier, und verdiene bloß für die Kleider, und dennoch geht
+                    es zwanzig lange Jahre, bevor meine Schulden abgetragen sind. die Zinse noch
+                    ungerechnet. Wer weiß, ob ich so lange lebe, und wenn, so bin ich ein alter Mann
+                    geworden und kommt's den einen oder andern Weg, so weiß ich doch, daß für die
+                    Meinen schlecht gesorgt ist.“</p>
+                <p>„Was er denn im Sinne habe?“ fragte man und die meisten Bauern fingen an, auf
+                    ihren Stühlen unruhig hin und her zu rutschen.</p>
+                <p>„Es ist mir eine Stelle angeboten“, gab er zur Antwort, „in welcher ich nicht nur
+                    alle Jahre eine bedeutend größere Summe an meinen alten Schulden abzahlen,
+                    sondern auch noch einen Nothpfennig für mich und die Meinigen zurücklegen
+                    kann.“</p>
+                <p>Das war die längste Rede, welche Christen Spühlibacher seit mehr denn zwei Jahren
+                    gehalten, obwohl sie eigentlich noch kurz genug war,und sie brachte auch auf
+                    seine Zuhörer die entsprechende Wirkung hervor.<pb n="8"/>Eine Kunst wäre es für
+                    ihn gewesen, fortzufahren bei dem allgemeinen Sturme, der auf diese Eröffnungen
+                    hin losbrauste.</p>
+                <p>„Ob er meine, sie gäben das zu und warteten so geduldig Jahr um Jahr auf die paar
+                    Fränkli, die auch bald genug dahinten bleiben würden?“ schrie ein etwas
+                    vorlautes Mannli; „denn so sehr mit dem Sack getroffen seien die Käsbauern denn
+                    doch „nadisch“ noch nicht.Dableiben müsse er oder zahlen bei Rappen und
+                    Pfennig.“</p>
+                <p>„Und wenn ich nun keines von beiden thue, was wolltet Ihr dann machen?“ fragte
+                    der Käser, der vor Zorn über die unverschämten Worte ganz roth geworden war,
+                    aber sich dennoch zum Lächeln zwang:„nehmen könnt Ihr mir nicht viel, aus dem
+                    einfachen Grunde, weil ich wenig besitze. Was ich einst besessen, das habt Ihr
+                    ja schon, Ihr braucht nur an die theure Milch zu denken.“</p>
+                <p>Diese Rede bewirkte eine plötzliche Spaltung in der ganzen löblichen
+                    Gesellschaft. Die Vernünftigeren zogen mildere Saiten auf, sprachen von
+                    Lohnaufbesserung u. s. w., wenn er bleibe, während andere soforlige gerichtliche
+                    Eintreibung der Schuld verlangten.</p>
+                <p>Christen Spühlibacher hörte dem Hin- und Hergerede und dem kleinlichen Streit
+                    eine Weile zu, dann aber fragte er plötzlich kurz und entschieden, wie groß der
+                    Betrag sei, den er der Gesellschaft noch schulde.</p>
+                <p>Als hätte auf einmal alle der Schlag gerührt, so wurde es stille unter den
+                    Mannen, und beinahe zur Salzsäule erstarrten sie, als nach Nennung der Summe der
+                    Käser dem Sekretär eine Quittung zu schreiben befahl, da er gerade bezahlen
+                    wolle.</p>
+                <p>Das geschah denn auch, weil Christen selbst das letzte Hinderniß,den Mangel eines
+                    Stempelbogens durch Herbeischaffung eines solchen beseitigte.</p>
+                <p>Das war nun ein Ereigniß, welches zu reden gab unter den Leuten.Wo er nur so
+                    ungsinnet das Geld bekommen? Das war die große Frage. In der Lotterie könne er
+                    es nicht gewonnen haben, er hätte es nicht vermögen, Loose zu kaufen, hieß es,
+                    und von einer Erbschaft,die ihm von irgendwo her zugefallen, wollte auch Niemand
+                    Etwas wifsen. Er aber hielt den Mund zu und seine Frau ebenfalls, so sehr auch,
+                    insbesondere bei der Letztern, auf die Aeste geschlagen wurde.</p>
+                <p>Einige Tage nach der Käsgemeinde kam der Hüttenmeister und ein anderes
+                    Gesellschaftsmitglied zu Meister Spühlibacher, um ihn zu bereden, doch auch in
+                    Zukunft als Käser bei ihnen zu bleiben; sie <pb/>Ar hätten die Vollmacht, mit
+                    dem Jahrlohn um ein Beträchtliches hinaufzugehen, sowie ihm, wenn sie mit
+                    einander einig würden, für den verflossenen Sommer ein nachträgliches Trinkgeld
+                    von hundert Franken zu verabfolgen.</p>
+                <p>Christen sagte, er wolle sich bedenken, der Winter sei so lang; und etwas boshaft
+                    fügte er hinzu, es sei doch kurios, wie er jetzt auf einmal um so viel mehr
+                    werth sein solle, als früher, da man ihm stets unter die Nase gehalten, man gebe
+                    ihm nur deßhalb diesen großen Lohn, damit er seine Schulden abverdienen
+                    könne.</p>
+                <p>Wie erstaunten aber die Käsereibesitzer und stunden schier auf die Koöpfe, als
+                    Spühlibacher ihnen nach einigen Tagen den Bescheid gab,als Lohnkäser dinge er
+                    nicht mehr, aber um einen rechten Preis würde er ihre Milch noch einmal zu
+                    kaufen wagen.</p>
+                <p>Und so unwahrscheinlich im Anfang ein solcher Handel auch schien,so kam er doch
+                    zu stande, ehe der Mai da war. Christen Spühlibacher war wieder Milchkäufer, und
+                    als Bürge unterschrieb der Käsehändler Gutherz. Hansli aber ging jetzt in die
+                    Sekundarschule.*Es war drei Jahre nach den vorerzählten Begebenheiten, als der
+                    Käsehändler Gutherz, wie er seither jeden Herbst ein oder zwei Mal that, auch
+                    wieder nach Milchheim kam. Es hatte sich nicht viel verändert daselbst; nur
+                    Hansli, der letzten Frühling ,vom Herren“ gekommen,war ein hoch aufgeschossener
+                    starker Bursche, der seinem Vater den Hüttenknecht entbehrlich machte. Ja, vom
+                    Monat Juli an mußte ihm derselbe auf Wunsch des Herrn Gutherz, der von der
+                    ganzen Kaserfamilie verehrt und geliebt wurde, Kelle und Brecher abtreten.</p>
+                <p>„Wenn diejenigen Stücke, die der Junge fabrizirt“, hatte der Kasehändler
+                    geschrieben, „schlechter ausfallen als die andern, was ich übrigens nicht
+                    erwarte, so will ich den Schaden tragen und das ganze Mulchen als gut und
+                    fehlerlos bei Festsetzung des Kaufpreises taxiren.“</p>
+                <p>Dagegen ließ sich allerdings nicht viel einwenden und Hansli nahm mit freudiger
+                    Zuversicht den Platz des Vaters am Käskessi ein.</p>
+                <p>Heute nun sollte es sich zeigen, ob er des Vertrauens würdig,</p>
+                <p>man in ihn setzte.</p>
+                <p>In fast feierlichem Zuge ging es nach dem Kässpeicher; selbst die Mutter kam
+                    diesmal mit, denn es nahm sie wunder, wie ihres Hanslis frühzeitiges
+                    Meisterstück die Probe bestehe.<pb n="10"/>Da lagen sie in Reih' und Glied neben
+                    und übereinander auf ihren Bänken, die jüngern noch mit einer Brettunterlage,
+                    dem sog.Kasdeckel, versehen, die beinahe zweizentnerigen gelben Käse.</p>
+                <p>Der Käseherr konnte sich fast nicht satt sehen an den kapitalen Burschen, von
+                    denen der Eine ebenso sauber und appetitlich und gleich untadelhaft in der Form
+                    aussah, wie der Andere. Der ganzen Front entlang wandernd, prüfte er die
+                    schmucke Waare mit kundigem Griff,klopfte wohl auch mit dem hölzernen Heft des
+                    Kasbohrers auf Oberfläche und Randseite einzelner Exemplare, und endlich fragte
+                    er, sich an den alten Spühlibacher wendend, was er dieses Jahr zu lösen gesonnen
+                    sei.</p>
+                <p>„He“, meinte der Letztere, fast ein wenig „schalus“ werdend,„das chan Ech denk
+                    wohl überlah, wie färn u vorfärn“.</p>
+                <p>„Nu, we der mir das Vertraue schänket, so zahle-neig Ech jitz der höchst Pris,
+                    wie-n-er i diesem Amt gilt, d'Chäse möge de innenache usgseh, wie sie wei. J ha
+                    zwar durchus kei Bang, daß fie sich bös usnäh, aber luege wei mer doch jitz grad
+                    au, u wenn's nume wär für drüber z'cho, weli Hand daß gfeliger sigi, dem Junge
+                    oder dem Alte syni.“</p>
+                <p>Gesagt, gethan. Zuerst wurden zwei oder drei Stück „Mai- und Brachmoneter“
+                    angebohrt. Sie erwiesen sich nach altgewohnter Weise als ausgezeichnet. Der
+                    „Böhrling“ zeigte drei bis vier schöne, erbsengroße Augen, war fein und zart im
+                    Teig, roch und schmeckte gut und ließ sich, ohne zu zerbrechen, um den Finger
+                    biegen. Von „Gläs“oder andern Uebeln also keine Spur.</p>
+                <p>„Dihr heit's no nid verlernt“, sagte Herr Gutherz zum Alten; „jiß wei mer aber
+                    luege, was dem Nachfolger sini Heumoneter derzue säge“.</p>
+                <p>Groß war die Spannung, als der erste „Böhrling“ herausgezogen wurde. Die Mutter
+                    stand auf den Fußspitzen. Endlich ertönte das verhängnißvolle Wort aus dem Munde
+                    des gestrengen Käserichters:„Usgezeichnet, er chönnt nit besser si.“ Der junge
+                    Käser stieß einen Freudenjauchzer aus, der Alte schmunzelte vor Vergnügen und
+                    das a wurde roth vor Wonne über ihren so ausnehmend geschickten Hansli.</p>
+                <p>Auch die übrigen Stücke, die noch angestochen wurden, erwiesen sich als
+                    vollständig tadellos und in Allem denjenigen des Vaters gleich.</p>
+                <p>„J ha mi nit trumpirt a dir, Junge“ sprach der Käsherr und </p>
+                <pb n="11"/>
+                <p>klopfte dem Ueberglücklichen auf die Schulter; „d'Chäsfabrikation hesch los; jitz
+                    söttisch aber au no der Chäshandel lerne, wenn'd Gu derzue hesch; es wär schad
+                    für dini Schulkenntnisse, wenn sie nid usbütet würde. Chäse cha am End en Andere
+                    au, wenn er scho grad süsch e ke Kerli vo Extrabildung isch. Was meinsch, wenn'd
+                    afe dä Winter zu mir i d'Stadt chämisch cho probiere? U was säged Dihr
+                    derzue?“wandte er sich an die Eltern.Natürlich gab diese Anregung viel zu
+                    berichten und zu überlegen in der Käserfamilie und das Endresultat der
+                    Berathungen war, daß Hansli auf Anfang Weinmonat, begleitet von der Eltern
+                    Segenswünschen und Ermahnungen zu Fleiß, Treue und Redlichkeit, von Hause
+                    Abschied nahm und als Handelslehrling in's Geschäft des Herrn Gutherz eintrat.Da
+                    kam ihm Manches ungewohnt vor im Anfang, dem einfachen Naturkinde, bei den
+                    Commis, die mit ihm im gleichen Bureau arbeiteten und ihren Vorwitz an dem
+                    „dummen Landjungen“ ungestraft auslassen zu können vermeinten.</p>
+                <p>Besser gefiel es ihm in den großartigen Käslokalen, wo die kräftigen, derben
+                    Salzer hantirten, bei denen er bald in hoher Achtung stund, und er hatte auch
+                    öfters Gelegenheit, sich dort aufzuhalten, so z. B. wenn eine größere Sendung
+                    Waare sollte ausgelesen werden,bei welch wichtigem Geschäfte ihn der Herr des
+                    Hauses immer beizog und sich auch in kurzer Zeit auf die von ihm getroffene
+                    Auswahl ziemlich verlassen konnte.</p>
+                <p>Der Keller war sein eigentliches Element; da zeigte er sich als Meister und nicht
+                    als Lehrling. Aber auch im Komptoir wußte er sich Respekt zu verschaffen. Sein
+                    Fleiß und seine Pünktlichkeit erwarben ihm vorab in hohem Maße' das Vertrauen
+                    und die Liebe seines Prinzipals, und bei aller Bescheidenheit ließ er sich doch
+                    von den ihn umgebenden Kollegen nicht schikaniren, sondern wies dieselben,
+                    wenn's nöthig war, sogar handgreiflich in die gebührenden Schranken zurück,so
+                    daß er auch hier endlich Ruhe hatte.</p>
+                <p>Im folgenden Sommer schon begleitete er Herrn Gutherz auf die „Käsjagd“ und war
+                    überhaupt sozusagen dessen rechte Hand im Geschäfte geworden, zur größten Freude
+                    seiner Eltern, die er bei dieser Gelegenheit einige Tage besuchen durfte.<pb
+                        n="12"/>Und als der darauffolgende Frühling kam, da hieß der Käsehändler
+                    seinen Lehrjungen eines Tages in sein Privatkabinet rufen und eröffnete ihm
+                    daselbst ohne lange Umschweife, daß er gesonnen sei, ihn auf eine Zeit lang zu
+                    einem Geschäftsfreund hinüber nach Amerika zu plaziren,mit dem er schon alles
+                    Weitere abgemacht habe, so daß nichts mehr nöthig sei, als seine und seiner
+                    Eltern Einwilligung.</p>
+                <p>„Ein rechter Kaufmann, wie ich gerne einen in dir sähe“, schloß Herr Gutherz
+                    seine Ansprache, „muß mehr als nur einen Welttheil gesehen haben, und gerade der
+                    Einblick in die Verhältnisse Amerika's,dieses großen Landes mit seinen zahllosen
+                    Absatzgebieten, ist ganz besonders für den Käsehandel von unberechenbarem
+                    Vortheil“.</p>
+                <p>Mit Freuden ging der strebsame Jüngling auf die Pläne seines Wolthäters ein, wenn
+                    auch der Gedanke an die weite Entfernung und das Scheiden von seinen lieben
+                    Eltern sich wie eine trübe Wolke auf sein Herz senkte.</p>
+                <p>Daheim im Vaterhause gab es natürlich viel heiße Thränen bei dieser Nachricht,
+                    und bald wäre er in seinem Entschlusse wankend geworden, als er den Schmerz der
+                    Mutter sah. Aber sie selbst wollte ihn nicht davon abbringen und der Vater, als
+                    ein kluger, ernster Mann, rieth ihm sogar ernstlich, dem Wunsche seines Gönners,
+                    dessen Gutmeinen sie alle ja schon in höchstem Maße erfahren, nachzukommen,so
+                    weh es ihm auch thue und so groß sein Kummer sei, ihn so weit fort zu
+                    lassen.</p>
+                <p>Und so trat denn der achtzehnjährige Jüngling die weite Reise an.</p>
+                <p>Drei Jahre blieb er drüben in der neuen Welt und nur Gutes drang von ihm zu Ohren
+                    seines Gönners und seiner Eltern, welch'letztere nach wie vor in Milchheim das
+                    Käsereigeschäft betrieben und sich zkonomisch wieder so weit aufgeschwungen
+                    hatten, daß sie Herrn Gutherz die vorgeschossene Summe zurückbezahlen und die
+                    Bauern für die zu leistende Milch längst keine Bürgschaft mehr von ihrem Käser
+                    verlangten.</p>
+                <p>Da traf den Käseherrn unvermuthet ein schwerer Unfall. Auf einer Einkaufsreise,
+                    der sog. Käsejagd, begriffen, scheute sein sonst frommes Chaisenpferd und ging
+                    mit ihm durch. Das Fuhrwerk warf bei einer Blegung des Weges um und der Insasse
+                    exlitt neben verschiedenen, nicht gerade lebensgefährlichen Quetschungen einen
+                    doppelten Beinbruch, der ihn auf Wochen, ja Monate an's Bett fesseln </p>
+                <pb n="18"/>
+                <p>konnte. Es traf ihn dieses Unglück um so empfindlicher, als es gerade im Anfang
+                    der Käsesaison eintrat und sein alter Obersalzer, der einzige Mann im Geschäfte,
+                    der die nöthigen Kenntnisse über die Qualität der einzukaufenden Waare besaß, im
+                    gleichen Sommer gestorben war.Doch Herr Gutherz war schnell entschlossen, was zu
+                    thun sei: er rief den jungen Spühlibacher aus Amerika zurück, welcher der
+                    telegraphischen Aufforderung sofort Folge leistete. Es vergingen keine )rei
+                    Wochen, so trat er an das Schmerzenslager seines Gönners.</p>
+                <p>Dieser wäre trotz seines gebrochenen Beines bald aus dem Bette zesprungen, als er
+                    ihn sah.</p>
+                <p>„Potz Blitz!“ rief er aus und schüttelte ihm derb die Hand,„wie Du Dich verändert
+                    hast! Bist ja ein wahrer Riese geworden und bärtig wie ein Hinterwäldler. Wirst
+                    doch nicht als Trapper auf die Biber- und Bärenjagd gegangen sein? Aber jetzt
+                    wird man Dich auch nicht mehr Hansli nennen und „dutzen“ dürfen; der flotte
+                    geweste Mann wird nun wohl gar „Sie“ und als „Herr John“ angeredet sein wollen,
+                    nicht wahr?“</p>
+                <p>„Ach“, entgegnete der also Empfangene und erwiderte herzlich den Händedruck des
+                    Patienten, „das sind doch wohl nur Nebensachen,aber mir wär's am liebsten,
+                    wenn's zwischen uns beim Alten bliebe“.</p>
+                <p>„Toph, es sei!“ versetzte Herr Gutherz, „ich sage Dir „Du“, wie immer, aber den
+                    „Hansli“ will ich durch „Hans“ ersetzen; wie mein seliger Bruder geheißen hat,
+                    „Jean“, „John“ oder „Johann“ paßt nicht für Dich.</p>
+                <p>Lachelnd willigte der Neugetaufte ein und ein kräftiger Trunk herlenden Weines
+                    besiegelte die Feier des Wiedersehens.</p>
+                <p>Ein höchst anmuthiges, liebliches Mädchen, halb Jungfrau und halb noch ein Kind
+                    brachte den Wein und grüßte mit freundlicher Schüchternheit den fremden Gast,
+                    der höflich und freundlich den Gruß xwiderte.„Ei der Tausend!“ rief da der alte
+                    Handelsmann und riß die Augenbraunen in die Höhe, wie er immer that, wenn er
+                    Jemand überraschen wollte oder selbst überrascht wurde, „kennt Ihr zwei denn
+                    einander nicht mehr, daß Ihr Euch ansehet wie ein Waldspecht und eine Haustaube?
+                    Aber nicht wahr, das konnte nur die Veranderung <pb n="14"/>Beider bewirken? Es
+                    ist etwas anderes, Hans und Elise, als Hansli und Liseli zu heißen, he“?</p>
+                <p>Die beiden jungen Leute wurden roth bis an die Ohren, sahen sich gegenseitig erst
+                    etwas näher an und es fand auch Jedes mit geringer Mühe bald die alte
+                    Bekanntschaft heraus.</p>
+                <p>Elise war die einzige Tochter des Herrn Gutherz. Sie ging noch in die Schule, als
+                    vor drei Jahren Hans Spühlibacher nach Amerika verreiste. Er hatte sich stets,
+                    als er noch im Geschäfte war, des kleinen,schwächlichen Kindes angenommen und
+                    sich mit vieler Geduld dessen mannigfachen Launen gefügt. Es war ihm dagegeun
+                    auch von ganzem Herzen zugethan; Hansli, der gefällige Lehrling, galt bei dem
+                    etwas E Vater und Mutter und es hatte sehr geweint vor drei Jahren, als er
+                    Abschied nahm und ihm manchen Kuß noch mit auf die Reise gegeben.</p>
+                <p>Run war er wieder da und so groß und männlich geworden;allein auch sie war nicht
+                    mehr das unbefangene Kind wie damals, und die Erinnerung an den innigen,
+                    zutraulichen Abschied trieb der sittigen Jungfrau die Rothe der Schamhaftigkeit
+                    auf das liebliche Antlitz und ihr Händchen zitterte, als er es zum Willkomm in
+                    seine nervige Rechte schloß.</p>
+                <p>Herr Gutherz hatte sein Töchterlein bald nach Hansli's Abreise einer befreundeten
+                    Familie im Waadtlande, die immer deutsche Mädchen zum Erlernen der französischen
+                    Sprache, wie zur weitern Ausbildung in den häuslichen Geschäften und für das
+                    fernere Leben, bei fich aufzunehmen pflegte, anvertraut. Es war auch dort „vom
+                    Herren“gekommen und vor cirka drei Monaten, an Leib und Seele prächtig
+                    entfaltet, in's Vaterhaus zurückgekehrt. In einer solchen Pension und bei
+                    solchen Pflegeeltern, wie sie Elise hatte, werden die Mödchen nicht verdorben,
+                    wie es in einzelnen modernen welschen Treibhäusern und Schnellbleichen
+                    geschieht.</p>
+                <p>Mit Eifer nahm sich nun der junge Spühlibacher, nachdem er den Eltern einen
+                    kurzen Besuch abgestattet, der Geschäfte an und sein Prinzipal merkte bald, daß
+                    sein Aufenthalt in Amerika nicht ohne Nutzen für seine kaufmännischen Kenntnisse
+                    gewesen.</p>
+                <p>Er war so ziemlich im Stande, die Lücke auszufüllen, die durch den Unfall,
+                    welcher Herrn Gutherz betroffen, entstanden war. Sein persönliches Verhältniß zu
+                    Jenem blieb ungefähr gleich, wie früher:</p>
+                <pb n="15"/>
+                <p>er betrachtete in ihm nicht nur den Herrn und Meister, sondern auch den Gönner
+                    und Wohlthäter; sein Dankgefühl war der höchste Sporn zu seinem eifrigen und
+                    pflichttreuen Schaffen. Von seinem Prinzipal wurde er hinwiederum mit der
+                    gleichen zutraulichen, väterlichen Herablassung wie früher behandelt.</p>
+                <p>Etwas anders gestaltete sich der Umgang mit Elise, die von Tag zu Tag herrlicher
+                    zu erblühen schien. Beider jungen Leute hatte sich eine eigenthümliche
+                    Befangenheit bemächtigt. Unbewußt zog es sie zu einander hin, und doch, wenn sie
+                    beisammen waren, wurde aus lauter Zurückhaltung kaum ein Wort gewechselt, obwohl
+                    es sonst keinem von ihnen am nöthigen Redewerk fehlte. Sie liebten sich, das war
+                    das ganze Geheimniß.Das kluge Mädchen wußte es schon nach ein paar Wochen, wie
+                    es um Spühlibachers Herz bestellt sei und war unendlich glücklich bei dieser
+                    Wahrnehmung. Der bescheidene Käsersohn aber waßte nur, daß er liebe, wie aber
+                    hätte er zu denken gewagt, daß die in den glänzendsten Verhältnissen auferzogene
+                    Tochter des reichen Käseherrn ihm jemals seine Liebe zu erwidern gesonnen sei.
+                    Deshalb verschloß er seine Leidenschaft für das herzige Kind in die innersten
+                    Tiefen seines Herzens und suchte in vermehrter Thätigkeit sein herbes Weh zu
+                    ertticken.Im Anfang, als er seiner Liebe sich bewußt fühlte, da hatte er den
+                    Gedanken, den Gegenstand seiner Sehnsucht zu meiden, wenn nöthig, gar zu fliehen
+                    und wieder über Meer zu gehen. Allein zum Entschlusse kam er nicht, geschweige
+                    zur Ausführung. Er war am Ende zufrieden, nur in ihrer Nähe sein zu dürfen, hie
+                    und da ihre Stimme zu hören und ihr liebliches Geficht zu sehen. Mehr begehrte
+                    er nicht.So verstrichen wieder ungefähr drei Jahre; der alte Gutherz war längst
+                    wieder auf den Beinen, aber es kam ihm nicht im Entferntesten in den Sinn,
+                    seinen jungen Vertrauten wieder weiter zu placiren,und so blieb dieser im
+                    Geschäft als dessen rechte Hand, und manche flotte und reiche Bauerntochter,
+                    auch manches nette und wohlhabende Stadtjüngferlein hätte sich nicht ungern von
+                    ihm zur Frau Spühlibacher machen lassen, wenn er schon eines unbemittelten und
+                    einfachen Sennen Sohn war.<pb n="16"/>Allein Hans sah Keine, als seine Elise,
+                    die doch nicht die Seine war und, wie er glaubte, es nie werden konnte; so war
+                    er doch zufrieden und glücklich in ihrer Nähe, auch wenn er aus ihrem
+                    zutraulichen und wenig mehr befangenen Benehmen ihm gegenüber nicht gerade
+                    Liebe, sondern bloß schwesterliche Zuneigung zu entnehmen vermochte. Ihn
+                    tröstete der Umstand, daß sich auch kein Anderer einer größern Aufmerksamkeit
+                    oder Gunstbezeugung mit Recht rühmen durfte, und doch fehlte es sicher nicht an
+                    Anbetern und Courmachern aus den höhern und sogar höchsten Kreisen.</p>
+                <p>Da verbreitete sich plötzlich das Gerücht und niemand wollte wissen,woher es
+                    zuerst kam, es werde nächstens ein Bewerber um Elisens Hand aus Amerika
+                    vorsprechen, auch sei dieselbe so gut wie vergeben und die Sache abgemacht, da
+                    die beiden Alten unter sich schon lange eins wären. Die Anfrage des Bräutigams
+                    und Elisens Zusage seien nur noch leere Formalitäten und der Zukünftige sei
+                    Niemand anders,als der Sohn des langjährigen Geschäftsfreundes, bei welchem Hans
+                    Spuühlibacher während seiner dreijährigen Abwesenheit angestellt gewesen.</p>
+                <p>Den Letztern traf diese Nachricht wie ein Donnerschlag. Seine Wangen wurden kalt
+                    und das Herz wollte ihm stille stehen. Er kannte seinen glücklichen Rivalen, er
+                    war sogar befreundet mit ihm und zweifelte darum keinen einzigen Augenblick an
+                    der Richtigkeit des herumgebotenen Geredes.</p>
+                <p>Erst jetzt fühlte er so recht, wie innig lieb ihm das Mädchen war, wie tief
+                    hinein in die Seele gewachsen. Ach, und sie sollte ihm auf immer verloren sein,
+                    die herzige Maid, und ein Anderer sollte sie besitzen, der sie noch nicht einmal
+                    kannte, so wenig als sie ihn, und der, ein kalter, berechnender Geschäftsmensch,
+                    im ganzen Körper nicht so viel von Liebe barg, als ihm im kleinen Finger zuckte?
+                    Es war zum Rasend werden, zum Verzweifeln.</p>
+                <p>Aber nur einen Augenblick schwankte der treue Bursche, was er unter solchen
+                    Umständen zu thun habe. Freilich war ihm zuerst der Gedanke durch den Kopf
+                    gefahren, sich Elisen zu Füßen zu werfen und ihr sein ganzes Herz auszuschütten,
+                    sie auch zu fragen, ob sie denn wirklich Willens sei, sich dem unbekannten Manne
+                    hinzugeben, der nur des irdischen Gutes willen nach ihrer Hand trachte? Doch
+                    ebenso schnell verwarf er ihn wieder. „Denn“, so dachte er, „was will ich <pb
+                        n="17"/>dem unschuldigen, unerfahrenen Mädchen durch mein „Nöthig
+                    thun“vielleicht Gefühle erwecken, die es mir doch nie und nimmer erzeigen kann
+                    und darf, und wodurch es möglicherweise unglücklich würde, wenn es dem ihm
+                    bestimmten Bräutigam folgen muß? „Und sollte ich meinen und meiner Eltern
+                    Wohlthäter so sehr betrüben, indem ich seinem Lieblingswunsch in den Weg trete?
+                    Hans, es wäre undankbar,es ware schlecht von Dir! Ja freilich, wenn die Sache
+                    anders läge,wenn ich nicht zu Dir, Du väterlicher Freund, in einem solchen
+                    Verhältniß stünde, wollte ich Himmel und Hölle in Bewegung setzen, Leib und
+                    Leben wollte ich wagen um Elisens Besitz. Doch nun schweig ttill, mein Herz!“ </p>
+                <p>Es war ein prächtiger Sonntagsmorgen, als Hans Spühlibacher bon seinem Prinzipal
+                    in dessen Privatkabinet gerufen wurde. Durch die Fenster des freundlichen
+                    Zimmerchens strahlte die lachende Frühlingssonne, als er eintrat, und spiegelte
+                    sich auf dem wohlwollenden Antlitz des leutseligen alten Herrn, während das
+                    bleiche Gesicht und die leicht gerötheten Augen des jungen Mannes, wie überhaupt
+                    dessen ganze Haltung nicht am besten dazu harmonirten. Befand sich doch sein
+                    Seelenzustand im vollständigsten Kontrast zu der neuerwachten jubelnden Natur.
+                    In seinem Herzen war es Herbst geworden und als Zukunft starrte ihm der
+                    hoffnungslose, eisige Winter der Entsagung entgegen.Er hatte Herrn Gutherz
+                    brieflich um einen Urlaub zu seinen Ellern ersucht, weil er sich unwohl fühle,
+                    und dieser konnte kaum viel dagegen einwenden, zeigte doch sein leidendes
+                    Aussehen schon seit einigen Tagen zur Genüge, daß er nichts Unwahres
+                    vorbringe.</p>
+                <p>„Aber Du könntest auch hier der Ruhe pflegen und Dich schonen“,meinte der
+                    Handelsmann, „besser als daheim in der geräuschvollen Sennhütte mit ihren dazu
+                    noch beschränkten Wohnräumlichkeiten. Auch wäre hier ein guter Arzt eher zur
+                    Hand, und ich rathe Dir ernstlich,es nicht zu unterlassen, ehestens einen
+                    solchen zu konsultiren.“</p>
+                <p>Da flog ein schmerzliches Lächeln über Hansens Züge hin und,ich selbst
+                    vergessend, seufzte er: „Mir kann kein Doktor helfen!“ Doch schnell sich
+                    fassend, setzte er hinzu: „Es wird sckon wieder besser verden.“„Meinst Du
+                    wirklich, es werde wieder besser?“ versetzte der Handelsherr, indem er aufstand
+                    und seinem Gehilfen ernst in die Augen blickte, daß er sie betroffen zu Boden
+                    schlug. „Hans Spühlibacher,<pb n="18"/>sage mir die Wahrheit, Du hast mich sonst
+                    noch nie angelogen: warum willst Du fort? Daß Du krank bist, sehe ich Dir
+                    freilich an, aber ist das der einzige Grund? Du hast mir keine Antwort auf diese
+                    Frage, also muß ich sie selbst verneinen. Hans, willst Du wieder kommen?“</p>
+                <p>„Ich weiß es nicht“, flüsterte dieser leise.</p>
+                <p>„Wohl, Du weißt es. Du willst es nicht bekennen, ich sehe es Deinen Mienen an.
+                    Hat Dir Jemand etwas zu Leide gethan, daß Du uns verlassen willst, oder was hast
+                    Du?“</p>
+                <p>„Ich darf's nicht sagen.“</p>
+                <p>„Was, Dummheiten, heraus mit der Sprache!“</p>
+                <p>Nun denn“, versetzte Hans nach einigem Besinnen, „wenn Ihr es absolut wissen
+                    wollt, sollt Ihr alles erfahren. Möget Ihr mich dann auslachen nur zürnen möget
+                    Ihr mir nicht!“ Und nun erzähltle er ihm seine ganze Liebes- und
+                    Leidensgeschichte und seine inneren Kämpfe und verschwieg ihm Nichts.</p>
+                <p>Herr Gutherz war sehr ernst und gerührt darüber geworden, so daß seine Augen in
+                    feuchtem Glanze zu schimmern begannen, und als Hans geendet hatte, da ergriff er
+                    seine Hand und drückte sie mit Warme.</p>
+                <p>„Das ist brav von Dir“, sprach er, „und ich will Deinem Wunsche nicht entgegen
+                    sein; aber warte einen Augenblick hier, bis ich wieder komme!“ Damit verschwand
+                    er durch die Thüre.</p>
+                <p>„Was soll das, und wie meint es der Herr?“ so dachte Hans Spuühlibacher; „er wird
+                    mir doch nicht obendrein ein Geldgeschenl machen wollen! Edelsinnig und
+                    freigebig genug wäre er schon dazu,zuemn er kann doch nicht denken, daß solches
+                    meinen Schmerz lindern </p>
+                <p>nnte!“Der gute Bursche brauchte nicht lange zu grübeln; sein Prinzipal kehrte
+                    sofort wieder zurück, aber nicht allein: an seiner Hand führte er die erröthende
+                    Tochter.</p>
+                <p>„Hans“, sagte er lächelnd, „Du willst von uns gehen, mir zu Gefallen und um
+                    Elisens Ruhe willen, nicht wahr? Wolltest Du aber mir zu Gefallen und um Elisens
+                    Ruhe willen lieber bleiben,so würdest Du mir ein werther, willkommener
+                    Schwiegersohn sein.Hier ist meine Tochter, sage es ihr selber, was Dir auf dem
+                    Herzer <pb n="19"/>liegt, frage sie, ob sie Dich gerne ziehen lasse!“ Damit zog
+                    er sich, die Beiden allein lassend, durch die Thüre zurück.</p>
+                <p>Hans wußte fast nicht, wie im geschah. Der so unerwartete und schnelle Uebergang
+                    vom tiefsten Leid ins höchste Glück vermochte ihm auf einen Augenblick schier
+                    seine Sinne zu verwirren, also, daß er nun zu träumen fürchtete.</p>
+                <p>Da legte sich eine kleine, weiße Hand auf seinen Arm, liebe,treue Augen schauten
+                    durch Thränen lächelnd in die seinigen und eine gar süße und weiche Engelsstimme
+                    fragte:</p>
+                <p>„Hans, willst Du wirklich fort ?“</p>
+                <p>„Nein, tausendmal nein, wenn Du mein liebes Weib werden willst“! rief der
+                    Ueberglückliche, aus seinem Traum auffahrend und die Geliebte stürmisch an seine
+                    Brust ziehend. Sie ließ es geschehen.</p>
+                <p>Doch plötzlich kam er in neues Sinnen und eine leichte Wolke flog über seine
+                    Stirne. „Aber Elise“, begann er, „ich kann schier nicht an mein Glück glauben.
+                    Und was ist es mit dem Gerede wegen dem Amerikaner? Ich meinte doch ......“</p>
+                <p>„Du Eifersüchtiger!“ schalt da, mit lachendem Munde ihm in die Rede fallend, das
+                    herrliche Mädchen, „das Gerücht hat der Vater expreß ausgestreut, um um ich
+                    sollte es eigentlich nicht sagen um um nun, wenn's Dir nicht selber in Sinn
+                    kommt,so kannst meinetwegen wundrig bleiben.“</p>
+                <p>Und Hans fragte nicht weiter; er war durch die unvollständige Auskunft
+                    vollständig zufriedengestellt und von seiner Krankheit verspürte er nun auch
+                    nichts mehr. Sein holdes Bräutchen war für sein Leiden der beste Arzt.</p>
+                <p>Hand in Hand suchten die beiden Verlobten den Vater Gutherz auf, der sich leicht
+                    finden ließ und mit Freudenthränen in den Augen den beiden Liebenden seinen
+                    Segen ertheilte.</p>
+                <p>In sechs Wochen drauf gab's eine feierliche Hochzeit und das Mahl wurde draußen
+                    gehalten im Dorfwirthshause zu Milchheim, und nicht nur der alte Christen
+                    Spühlibacher mit seiner Frau, die Eltern des überglücklichen Bräutigams, sondern
+                    auch dessen sämmtliche Milchbauern mußten als Ehrengäste daran Theil nehmen;
+                    denn der Käsersohn schämte sich seiner Abstammung und seines ursprünglichen
+                    Berufes nicht. Als gegen Abend die Stimmung eine etwas gehobenere ward da
+                    klingelte der Brautbater, Herr Käsehändler Gutherz, an sein Glas <pb/>hielt
+                    zuerst einen Toast auf die Brautleute und nachher noch einen auf den
+                    schweizerischen Bauernstand und dessen ersten, ergiebigsten Erwerbszweig, die
+                    Sennerei- und Milchwirthschaft. Er sprach es offen aus, wie er sich geehrt
+                    fühle, einen richtigen Vertreter derselben als Schwiegersohn in seiner Familie
+                    aufzunehmen; es sei derselbe nun aber ein Glied des Handelsstandes geworden und
+                    symbolisire damit die Zusammengehbrigkeit der beiden, eigentlich
+                    grundverschiedenen Gewerbe, von denen aber eines durch das andere gehoben werden
+                    könne,was im Interesse unseres Landes viel mehr als bisher in Betracht gezogen
+                    werden sollte.</p>
+                <p>Donnernde Bravos und Hoch erschallten im Saale, als er geendet,und hell klangen
+                    die Gläser zusammen auf das Wohl des jungen Paares.</p>
+                <p>Sami, der Hüttenmeister aber meinte, indem er sich an den Bräutigam wandte: „Ja,
+                    ja Herr Spühlibacher, Sie waren immer ein ganzer Fink, schon damals, als man Dir
+                    noch „Hansli“ rief; kein Wunder, wenn Ihr als Hans schon ein solches Täubchen
+                    heimführen konntet, denn „gedummet“ haben Sie sicherlich seither nicht. Aber an
+                    der ganzen Geschichte bin doch eigentlich ich die Ursache: Denn hätte ich Dich
+                    damals nicht gerufen, um das Käsegewicht zusammenzurechnen, wer weiß, ob alles
+                    so gekommen wäre. Das muüßt Ihr mir doch wohl zugeben, nicht war, Hans?“</p>
+                <p>Der Angeredete lachte von Herzen über diese etwas sonderbar zusammengesetzte
+                    Lobrede, bei welcher der „Halblein“ nach ächter Bernerart so wacker das Feld
+                    behauptete, und im nämlichen Styl rief er über den Tisch hinüber als
+                    Antwort:</p>
+                <p>„Sie haben Recht, Herr Hüttenmeister, Ihr seid der eigentliche Begründer meines
+                    Glückes, aber den versprochenen Batzen, Sami,bist Du mir zur Stunde noch
+                    schuldig.“</p>
+                <p>Und hiemit sei diese wahre Geschichte von „Hansli und Hans“beschlossen.<pb/>Das
+                    KRind der Pexe.Von Karoline Meyer.</p>
+                <p>Nur eine halbe Stunde von dem Orte entfernt, wo der Rhein aus dem Bodensee
+                    fließt, erhebt sich das Schlößchen Hohenklingen auf der Spitze eines mäßigen
+                    Berges, den es ziert, wie eine Krone ein ehrwürdiges Haupt.</p>
+                <p>In alten Zeiten gehörten die Freiherren, deren Eigenthum die kleine Burg war,
+                    einem großen und angesehenen Geschlechte an, das viele Güter im Thurgau und
+                    Hegau besaß und auch die Hoheitsrechte über das Städtchen Stein hatte, das sich
+                    unterhalb des Schloßberges am Rheinufer schon seit uralten Zeiten erhob. Es soll
+                    dasselbe schon zum Schutz gegen die Hunnen befestigt worden sein, und als ums
+                    Jahr 1000 die Mönche von Hohentwiel einen andern, bequemern und weniger
+                    wasserarmen Aufenthalt wüunschten, erlaubte ihnen ihr Schirmherr, der Herzog von
+                    Schwaben, ihr Gotteshaus am Ufer des Rheins zu erbauen. Nachdem dasselbe von
+                    Kaiser Heinrich II.und vielen umwohnenden Herren und Edeln mit Gütern und
+                    Rechtsamen freigebig ausgestattet worden, blühte es innerhalb der Mauern von
+                    Stein fröhlich empor, von den Bürgern daselbst fast werth gehalten wie ein
+                    Kukuksei, dessen der Vogel im kleinen Neste gar wohl entbehren könnte.</p>
+                <p>Zur Zeit unserer Erzählung war Stein ein ansehnlicher Ort,wohl befestigt nach den
+                    Regeln der damaligen Kriegskunst und regiert von einer Obrigkeit aus den ersten
+                    Geschlechtern der Bürgerschaft; aber die Abtei war verlassen von ihren
+                    geistlichen Bewohnern, welche in dunkler Nacht geflohen waren, als das
+                    Morgenroth der Reformation einen neuen Tag und mit ihm das Ende ihrer Herrschaft
+                    verkündigte,und von Hohenklingen schaute keiner der mächtigen Freiherrn mehr
+                    hinunter in's Thal, und Keiner war mehr da, der hätte sein Schwert <pb n="22"
+                    />ziehen oder eine Lanze brechen können zum Schutz der einstigen Unterthanen;
+                    ihr Geschlecht war vergangen und auf der Burg hauste nun ein Dienstmann des
+                    Städtchens und hielt Tag für Tag Wache an den Fenstern des Söllers; sein Horn
+                    meldete jeden Reisenden an, der auf einer der Heerstraßen sich zu Roß oder zu
+                    Wagen dem Städtichen näherte, und wo irgend ein aufsteigendes Feuerzeichen Noth
+                    und Gefahr verkündigte, da rief ein Schuß aus der Lärmkanone auf Klingen die
+                    Bürger zur Hülfe auf.</p>
+                <p>Es war in den trüben und ängstlichen Zeiten, die dem dreißigjährigen Kriege
+                    vorangingen, als eines Abends ein junges Weib aus dem Rebgelände, das sich am
+                    Schloßberge bis weit über die Mitte seiner Höhe hinaufzieht, nach dem Städtchen
+                    zurückkehrte; sie trug eine schwere Bürde gesammelten Reblaubes und eilte
+                    sichtlich, um noch vor dem Aufziehen der Fallbrücke an die Stadtmauer zu
+                    kommen.Noch ehe sie dieselbe erreicht hatte, sprangen ihr zwei fröhliche Kinder
+                    entgegen und begrüßten schon von ferne mit lautem Jubel die heimkehrende
+                    Mutter.</p>
+                <p>„Wart Michael, lauf' nicht so schnell, führe das Schwesterlein!“rief ihnen diese
+                    zu; aber der kleine Knabe achtete es nicht und eilte voran, um der Erste bei der
+                    Mutter zu sein; das Mädchen trippelte nach und setzte eben seine Füßchen auf die
+                    Fallbrücke, als der Thorhüter scheltend aus seinem Stübchen trat.</p>
+                <p>„Geh' zurück, Kind, es ist Zeit zum Aufziehen. Frau Barbel,kehret ein ander Mal
+                    früher heim und seht heute, ob ihr beim obern Thor noch Einlaß findet; ich kann
+                    nicht Jedem auswarten, der sich verspätet,“ rief der unwirsche Mann und rasselte
+                    schon mit der Kette.Das erschrockene Kind wollte zurückgehen, aber es
+                    strauchelte und fiel in dem Augenblick, als die Brücke sich hob, hinab in den
+                    Stadtgraben.Ein Schrei der Angst und der Entrüstung entfuhr der Mutter; sie warf
+                    ihre Bürde zur Erde und kletlerte nicht ohne Gefahr in den Graben hinunter, wo
+                    ihr armes, kleines Mädchen bleich und blutend am Boden lag. Wie eine Löwin, der
+                    man das Junge antastet, blickte das Weib wild um sich und erhob die geballte
+                    Faust nach der Thorstube;dann bog es sich über das Kind hin und hob es auf, und
+                    als es dasselbe bewußtlos, mit schlaff herabhängenden Gliedern, auf den Armen
+                    hielt, wich der Zorn dem Schmerz und der Sorge, und aus ihren Augen fielen die
+                    Thränen heiß und reichlich hinab auf das Kind.</p>
+                <pb n="28"/>
+                <p>„Das ist aber nicht meine Schuld, Frau Barbel,“ rief jetzt der Thorhüter. „Das
+                    Kind ist ausgeglitten und hinuntergefallen, ehe ich die Brücke aufzog, und ich
+                    will selbst kommen und es euch hinauftragen; aber was treibt ihr denn draußen im
+                    Rebberge, daß ihr immer so spät heimkommt?“</p>
+                <p>Das Weib gab keine Antwort, sundern rief dem Knaben, der weinend am Rande des
+                    Grabens stand, zu, nach dem obern Thor zu laufen, und schickte sich dann an, mit
+                    ihrem Kinde im Graben längs der Stadtmauer hinzugehen.</p>
+                <p>„So wartet doch, ich will euch helfen,“ sagte der Thorhüter, der eben unten
+                    angekommen war; aber ein wildes: „Rührt mir mein Kind nicht anu!“ war die
+                    Antwort des Weibes, das nun davon eilte, so qut Schutt und Nesseln es ihm
+                    erlaubten.</p>
+                <p>„Das hat man für seine Gutmüthigkeit,“ brummte der Thorhüter,stieg hinauf und
+                    erzählte den Nachbarn, die sich in der Thorstube gesammelt hatten, den Vorfall.
+                    „Daß das Kind hinunterfiel, ist mir nicht recht, aber der Barbel hab' ich einmal
+                    die Brücke vor der Nase aufziehen wollen, weil sie immer so viel späler vom
+                    Felde heimkömmt als andere Leute, und Niemand weiß, was sie eigentlich noch
+                    draußen treibt,“ sagte der Thorhüter am Schluß seines Berichtes.</p>
+                <p>„Da hast du recht gehabt, Gevatter,“ rief einer der zuhörenden Männer, „mein Weib
+                    isi schon seit zwei Stunden aus den Reben zurück und hat seitdem genug zu thun
+                    in Haus und Stall, und so würd's die Barbel auch haben, hat sie doch drei kleine
+                    Kinder daheim und einen Mann, der keiner von den witzigsten ist und obendrein
+                    gern ein Gläschen über den Durst trinkt; darum hätte sie nöthig,zur Zeit
+                    heimzugehen und Ordnung zu halten im Hause; da hast du recht, daß du ihr einmal
+                    gezeigt hast, was Brauch ist in un serm Orte.“Die Uebrigen stimmten dem Gevatter
+                    bei und die arme Frau Barbel wurde in der Thorstube noch härter mitgenommen, als
+                    ihr Kind durch den Fall in den Stadigraben.</p>
+                <p>In einer spätern Abendstunde jenes Tages saß die junge Frau in ihrer kleinen
+                    reinlichen Wohnstube am Bette ihres schlafenden Kindes; der bolle Mond warf sein
+                    helles Licht in das Gemach und zeichneie die runden Fensterscheiben mit dem
+                    Gitterwerk und Weinlaub, das sie umsäumte, auf dem Fußboden ab; aber er beschien </p>
+                <pb n="24"/>
+                <p>auch ein bleiches Gesicht, in dem sich ein viel tieferer Schmerz aussprach, als
+                    der über den Fall des geliebten Kindes, dessen gerdthete Wangen und regelmäßige
+                    Athemzüge bewiesen, daß es keinerlei Schaden genommen.</p>
+                <p>Das junge Weib war kein Landeskind, sondern aus der Ferne ihrem Manne in seine
+                    Heimat gefolgt. Damals träumte sie sich ein Leben voll Friede und Lieblichkeit
+                    in dem schönen Gelände am Rheinstrom und zog leichten Herzens mit der kleinen
+                    Habe der neuen Heim at entgegen. Wer so aus fremdem Lande eintritt in neue, noch
+                    unbekannte Umgebungen, dem geht es nicht felten wie dem Bewohner des festen
+                    Landes, der seine erste Meerfahrt macht; seine Tritie werden unsicher,denn der
+                    Boden schwankt unter ihm und er findet nicht, wo er festen Fuß fassen kann.
+                    Glücklich, wer dann eine Stütze hat, an die er sicher und vertrauensvoll sich
+                    anlehnen kann; aber Frau Barbara mit ihrem hellen und scharfen Verstande
+                    erkannle bald, daß die Stütze,die fie sich in jugendlicher Unbesonnenheit
+                    erwählt hatte, ein Rohr sei,das dem durch die Hand geht, der sich darauf lehnen
+                    will. Das war der Schmerz, der an jenem Abend mit erneuter Schärfe durch ihre
+                    Seele zog. Arm und verachtet stand sie da in dem fremden Orte,denn sie war das
+                    Weib eines schlechten Hauswirthes, dem die Arbeit zur Last, und Spiel und Trunk
+                    zur Lust geworden war. Vergangen waren die Träume von einem behaglichen,
+                    anständigen Haushalte,bon Liebe, Friede und Glück. Aber wenn ein Weib solche
+                    Hoffnungen aufgeben muß, dann zieht in das verodete Gemüth die Bitterkeit ein
+                    oder der Leichtsinn, es sei denn, daß der Glaube an die himmlische Liebe das
+                    Herz mit neuer Hoffnung und mit der Kraft der Ergebung erfülle.Die fest
+                    zusammengepreßten Lippen der armen Frau und die Thränen, die in ihren großen,
+                    dunklen Augen glänzten, zeugten von dem Kampfe, den sie eben jetzt mit ihren
+                    aufgeregten Gefühlen kämpfte;da knarrte unten die Hausthüre und auf der kurzen
+                    Treppe wurden die schweren Tritte des heimkehrenden Mannes laut. „Ist's wahr,daß
+                    die Ottilie in den Stadtgraben gefallen ist? Dem Thorhüter,dem schuftigen Kerl,
+                    will ich's eintränken, den bläue ich durch, sobald ich ihn kriege!“ so sprach
+                    der Seilermichel wie er in der Stadt genannt wurde als er die Stubenthür
+                    öffnete. Sein Weib warf einen Blick voll tiefer Verachtung auf ihn: „Ja,“ sagte
+                    sie, „bläue ihn <pb n="25"/>durch, sobald du ihn kriegst, es darf ihm um seine
+                    Haut sobald nicht bange sein; wärst du ein Mann, du forgtest für deine
+                    Haushaltung und schafftest mir Ruhe vor den bosen Nachbarn, die mir feind
+                    sind,weil ich eine Fremde bin und andere Sitten und Bräuche habe als sie.“</p>
+                <p>„Du hast nicht nöthig anders hauszuhalten, als es hier zu Land üblich ist,“
+                    entgegnete der Seiler, „ich will nichts Appartes; was hier gäng und gäb ist,
+                    daran bin ich gewöhnt von Kind auf und will's auch also haben in meinem Hause!“
+                    Dabei schlug er heftig mit der Hand auf den Tisch, den gesprochenen Worien
+                    größern Nachdruck zu geben; als aber seine Blicke auf die Hausfrau fielen, die
+                    vom Stuhle aufgestanden war und ihm, heftig erregt, mit funkelnden Augen
+                    entgegentrat, da wurde ihm bänglich zu Muthe; denn er mochte es schon‘ rfahren
+                    haben, welche Gewalt des Zornes in dem starken Gemüthe seines Weibes liege, und
+                    als die Gewalt in heftiger Rede über ihn losbrach, zog er sich still in die Ecke
+                    am Ofen zurück und stellte sich, als wäre er schläfrig. Frau Barbara trat wieder
+                    an das Beit ihres Kindes, das indessen aufgewacht war und mit üngstlichen Mienen
+                    dem elterlichen Streite zuhörte; sie bog sich über die Kleine, legte sie zurück
+                    in die Kissen und drückte ihr einen Kuß auf die Stirne: „Schlaf mein Herz,“
+                    sagte sie leise, „und werde einst glücklicher als ez deine Mutter ist.“ Dann
+                    ging sie hinauf in die Kammer, wo ihre beiden Knaben schliefen und öffnete ein
+                    Fenster. Das Häuschen stand an der Stadtmauer, zwischen dem untern Thor und dem
+                    Rheine. Barbara blicte hinaus auf den ruhig dahingleitenden Strom, dessen Wasser
+                    im Silberlichte des Mondes mit glänzendem Schimmer strahlten; in der Natur
+                    überall war Friede und Stille, aber in ihrem Gemüthe tobte der Sturm und jagte
+                    die schwarzen Wolken des Unmuthes und der Sorge in wildem Wirbel durch ihre
+                    Seele.</p>
+                <p>In dem ehemaligen Klostergebäude, jetzt dem Wohnsitz eines Amtmanns, den der h.
+                    Stand Zürich, unter dessen Oberhoheit damals die Stadt stand, zur Verwaltung der
+                    reichen Klostergüier hieher gesetzt hatte, saßen an einem heitern Herbstabend
+                    des Jahres 1611 zwei Männer in dem schönen Gemache beisammen, das noch jetzt der
+                    Rittersaal heißt und mit dem Schmuck seiner Freskobilder und dem kunstreichen
+                    Schnitzwerk seiner Decke das Auge manches reisenden Kunstfreundes und
+                    Alterthumskundigen erfreut, bis vielleicht auch dieß <pb n="26"/>Denkmal alter
+                    Kunst jetzt wenig geschützt und geschont in nicht gar langer Zeit aufhören wird,
+                    der Beachtung werth zu sein. Die beiden Männer, der Amtmann und ein besuchender
+                    Freund, hatten eben ein Gespräch beendigt, und der Letztere war vom Sessel
+                    aufgestanden, um noch einen Gang durch das Zimmer zu machen.</p>
+                <p>„Man weiß in der That nicht,“ sagte er, „was hier schöner ist,die Aussicht über
+                    den klaren, ruhigen Strom hin, den wie ein kleines Juwel das siille Inselchen
+                    mit St. Othmars Kapelle ziert, bis zu dem Kranze der Höhen, die die liebliche
+                    Landschaft umgeben, oder die Bilder hier im Saale, die von dem Talente und wohl
+                    auch von dem Humor des Künstlers zeugen!“ Er betrachtete noch einmal die
+                    Einzelnbilder in den Fensternischen, die römische Lukretia und die Hebraerin
+                    Judith, den großen Christoph und den gewaltigen Herkules,das zierliche
+                    Edelfräulein mit dem Falken auf der Hand und die Zitherspielerin, welcher der
+                    Tod über die Achseln schaut. Vor dem größten der Bilder, das den mittlern
+                    Pfeiler schmückt, stand er einige Zeit still und betrachtete den Ritter in
+                    vollem Waffenschmuck, auf D einen Sprung in die Tiefe zu thun. „Das sei Curtius,
+                    sagt Ihr?“ wandte er sich an den Amimann, „jener edle Römer, der sich auf seinem
+                    Pferd in den Abgrund stürzte, um die Götter zu versöhnen und sein Volk von der
+                    Seuche zu erretten; der Künstler hat die edle Gestalt mit Vorliebe behandelt,
+                    sie ist ihm trefflich gelungen.“</p>
+                <p>„Wer weiß, mein alter Freund,“ sagte der Amtmann, „ob nicht auch für uns wieder
+                    solche Schreckenstage im Anzuge sind, wie die waren, die den tapfern Römer in
+                    den Tod trieben.“ „Wie meint Ihr das?“ fragte der Freund.</p>
+                <p>„Noch ist hier im Orte,“ erwiderte der Amtmann, „das Andenken neu an die
+                    furchtbare Zeit, da in wenigen Monaten zweihundert Menschen ihren Tod durch die
+                    Pest fanden, und in gegenwärtigen Tagen, man mag es sich gestehen oder nicht,
+                    schleicht die Seuche schon wieder ein.“</p>
+                <p>„Was!“ rief der Gast, und wandte sich entsetzt gegen den Sprecher,„ist hier ein
+                    Pestfall vorgekommen?“ Der Amtmann lächelte: „Freund,“sagte er, „erschredt nicht
+                    so sehr, in einer Zeit wie die gegenwärtige,sollte die Lebenslust nicht allzu
+                    stark sein; Krieg und Kriegsgeschrei,Sorge und Noth überall! Ja, es ist wahr, es
+                    sind in den letzten <pb n="277"/>Tagen einige bedenkliche Todesfälle
+                    vorgekommen, und mir ist bange vor all' dem Jammer, den die ausbrechende Seuche
+                    in ihrem Gefolge hat; für mich selbst aber sorge ich nicht; denen geschieht
+                    wohl, die zur Ruhe kommen, ehe die Kriegswetter, die sich zusammenziehen,
+                    losbrechen werden und vielleicht auch unser Land, in dem so viel Zündstoff
+                    ist,mit ihrer Flamme verzehren.“</p>
+                <p>„Ihr seht zu trüb in die Zukunft,“ erwiderte der Fremde; „noch ist Friede ringgs
+                    um uns, und was mir jetzt allein der Besorgniß werth scheint, das ist die
+                    Seuche, von der Ihr sagt, daß sie sich hier wieder zeige. So lebensmüde wie Ihr
+                    fühle ich mich noch nicht;darum will ich mit Eurer Erlaubniß jetzt hinüber auf
+                    mein Zimmer,um mich zur Abreise in der nächsten Morgenfrühe fertig zu
+                    machen.“</p>
+                <p>Der Amtmann bemühte sich vergebens, seinen ängstlichen Gast zum längeren Bleiben
+                    zu bereden; dieser eilte davon, um einzupacken,und der Amtmann blieb allein in
+                    dem Gemache. Er trat an das Seitenfenster des Erkers, das nach Osten geht. Die
+                    untergehende Sonne hatte die fernen Höhen mit röthlichem Schimmer geschmückt und
+                    die Dünste des Abends sie als leichte Nebelschleier umgeben; in den Wassern des
+                    Rheins spiegelten sich die Wolkengebilde und in der Kapelle des nahen Inselchens
+                    wurde die Abendglocke geläutet, deren wehmüthiger Klang dem ernsten Manne heute
+                    mehr als gewöhnlich zu Herzen ging. Lange betrachtete er das schöne Bild stiller
+                    abendlicher Ruhe; dann weckte ihn das Plätschern eines Ruders aus seinen
+                    Gedanken, ein kleines Schifflein wurde sichtbar und glitt leicht und leise an
+                    den Mauern des Amthauses vorüber. Der Mann, der es lenkte, zog ehrerbietig sein
+                    Käpplein, als er den gestrengen Herrn Amtmann am Fenster erblickte, und dieser,
+                    aufgeweckt aus seinem Sinnen,verließ jetzt den Saal und suchte die erheiternde
+                    Gesellschaft der Seinen auf.</p>
+                <p>Von der guten alten Zeit reden die Eltern und Großeltern, wenn fie sich beengt
+                    und bedrängt fühlen von dem Treiben der Gegenwart,oder wenn die Erscheinungen
+                    der neuen Zeit an ihnen vorüber gehn wie fremde Gestalten, mit denen sie nichts
+                    mehr gemein haben. Von der guten alten Zeit redeten schon ihre Eltern und
+                    Großeltern und meinten damit wieder eine andere, als die war, die ihre Kinder
+                    später so hoch priesen. Wo ist denn diese gute alte Zeit? Ach, es ist für jeden
+                    Menschen die goldene, selige, fröhliche Kinderzeit; nach ihr sehnt <pb n="28"
+                    />sich das im Kampfe des Lebens alt und wohl auch hart gewordene Herz zurück,
+                    wenn ihm auch nur eine dunkle Erinnerung geblieben ist von ihrem Frieden und
+                    ihrem Glück.</p>
+                <p>Daß die gute alte Zeit nicht weiter rückwärts zu suchen sei als in der
+                    Kinderzeit, das lehrt uns die Geschichte. Tage voll Weh und unendlichen Jammers
+                    sind über die früheren Menschengeschlechter dahin gezogen, und auch die Zeit,
+                    von der unsere Erzählung redet, führt uns Bilder vor die Seele, bei deren
+                    Betrachtung wir erschrecken. Nicht umsonst war das Gemüth des Amtmanns zu Stein
+                    an jenem Herbstabend von bangen Ahnungen gedrückt worden; die Pest brach bald
+                    mit einer Heftigkeit aus, wie nie zuvor. Da war kein Haus mehr,in dem nicht
+                    Kranke und Sterbende lagen; der Winfer hatte sein großes Leichentuch über Feld
+                    und Fluren gebreitet, und wie auf einem Leichenfelde sah es auch aus in den
+                    Mauern der schwer heimgesuchten Stadt. Keine Chronik erzählt uns die
+                    ausführliche Geschichte jener schrecklichen Tage; Niemand hat sie
+                    aufgeschrieben, die wilden Ausbrüche des Leichtsinns und der Hartherzigkeit, die
+                    wie der Schaum der vom Sturm gepeitschten Meereswellen in solchen Tagen
+                    aufgähren in dem menschlichen Gemüthe, wenn keine andere Liebe in ihm wohnft,
+                    als die zu dem eigenen, armen, werihlosen Leben;aber auch keine Menschenhand hat
+                    sie verzeichnet, die Thaten der Barmherzigkeit, der Treue und Aufopferung, die
+                    Hausgenossen und Nachbarn da und dort an einander geübet: Die Engel Goltes.
+                    haben fie gesehen, ihrer wird gedacht sein im Buche des Lebens.</p>
+                <p>Auch] an dem kleinen Hauschen des Seilermichels war der Würgengel nicht vorüber
+                    gegangen; er hatte sich den ältesten Knaben zum Opfer ersehen; aber auch Ottilie
+                    und der Vater lagen an der Seuche darnieder und die Hausmutter wankte selbst wie
+                    ein Schatten zwischen den Krankenbetten hin, denn Sorge und Mühe hatten ihre
+                    Kräfte verzehrt.Zum ersten Mal seit zehn bangen Tagen erheiterte sich ihr trübes
+                    Angesicht, als Ottilie an einem klaren Wintermorgen, da die Sonne eben hell auf
+                    ihr kleines Bett schien, das müde Köpfchen aus dem Kissen erhob und von der
+                    Mutter etwas Speise verlangte. Barbara hielt das für ein gutes Zeichen und ging
+                    schnell in die Küche hinaus,um etwas zu bereiten. Ach, fie hatte in ihrem Jammer
+                    Essen und Trinken bergessen und wußte nicht, daß keinerlei Vorrath mehr im Hause
+                    sei; erst als sie in der Küche stand, ängstlich nach etwas Eßbarem </p>
+                <pb n="29"/>
+                <p>suchte und nichts fand, das sie ihrem Kinde bringen konnte, ging es ihr an die
+                    Seele. Doch Mutterliebe ist stärker als jedes andere Gefühl; darum überwand auch
+                    Frau Barbara ihre Abneigung, Jemand um Hülfe anzusprechen, und eilte hinüber in
+                    das Nachbarhaus, wo sie Brod für ihr Kind zu bekommen hoffte.</p>
+                <p>„Ja, wenn man nur selbst hätte!“ sagte die Nachbarsfrau, als Antwort auf
+                    Barbara's Bitte; „wo soll bei dieser herben Winterszeit,wo Niemand zu verdienen
+                    hat, als der Doktor und der Todtengräber,noch Brod herkommen? Wenn ich hätte,
+                    ich gäb's Euch, Frau Barbel,schon darum, weil ihr den sauren Gang habt thun
+                    müssen. Nun,Keiner weiß, was ihm noch Alles bevorsteht in der Welt; darum isi's
+                    gut, nicht hoch hinaus zu wollen, man fällt dann auch nicht tief herab.“Das Weib
+                    zog bei diesen Worten einen langen Faden aus dem Hanfe an der Kunkel und ließ
+                    die Spindel sich schnurrend am Boden drehen.Barbara wollte eben den Mund zu
+                    einer harten Gegenrede öffnen,als der Gedanke an ihr hungerndes Kind ihren Zorn
+                    in Schmerz berwandelte und große Thränen aus ihren Augen trieb.</p>
+                <p>Im Armsiuhl am Ofen saß der alte Großvater und hatte Alles mit angehört. „Frau
+                    Nachbarin,“ sprach er jetzt, „folgt meinem Rathe;es ist bald Mittag, da wird im
+                    Amthaus das Armenbrod ausgetheilt;zeht hin und bittet darum, Ihr bekommt es
+                    gewiß; dann habt Ihr ein ganzes Brod im Hause, und bis das gegessen ist, wird
+                    Gott wieder etwas bescheeren. Wenn die Noth am größten ist, so ist seine Hülfe
+                    am nächsten; so hab' ich's in meinem langen Leben erfahren und gdlaube darum
+                    fest daran, und Beitler sind wir ja Alle vor Gott;darum darf es uns auch nicht
+                    so schwer fallen, bei den Menschen zu bitlen, wenn wir Hülfe nöthig haben.“</p>
+                <p>„Lohne Euch Gott Euere Rede, Nachbar.“ sagte Frau Barbara und eilte schnell aus
+                    der Stube, um ihre hervorbrechenden Thränen zu verbergen. Der Alte hatte ihr
+                    Herz getroffen. Bisher hatte sie gedarbt und ihre Armuth und Noth vor aller Welt
+                    zu verbergen“?gesucht, denn sie war stolz und begehrte von Niemand Hülfe; jetzt
+                    hafte sie erkannt, daß Gott den Trotz eines stolzen Herzens zu brechen vermag,
+                    und ehe sie ihr Kind wollte hungern lassen, entschloß fie sich kurz,dem Raihe
+                    des Nachbars zu folgen.</p>
+                <p>Der Amtmann Holzhalb stand in dem großen Seitenerker seiner Wohnstube und sah dem
+                    Austheilen des Armenbrodes zu, das im <pb n="30"/>Hofe vor sich ging. Nicht mit
+                    gleichgültigen Augen betrachtete er die Menge, die sich vor dem Backhause
+                    drängte; es that ihm weh, daß so Viele durch die böse Zeit genöthigt wurden,
+                    dies Almosen zu suchen.Unter ihnen bemerkte er, neben vielen bekannten
+                    Gesichtern, eine noch junge Frau, die er heute zum ersten Mal sah; ungestüm
+                    drängte sie Alle zur Seite, die ihr im Wege standen, und bemühte sich
+                    ängstlich,eines der ersten Brode zu erhaschen.„Hol der Teufel die Hexe,“ rief
+                    ein langer Mann, dem die Haushälterin eben ein frisches Brod hingeboten hatte,
+                    und der nun fühlte,wie es ihm durch einen starken Ruck aus der Hand gezogen
+                    ward. Die Umstehenden brachen in ein lautes Gelächter aus und der Mann wollte
+                    sich durcharbeiten, um dem Weibe des Seilermichels die Beute wieder abzujagen;
+                    doch die arme Mutter eilte pfeilschnell von dannen,um das hungernde Kind endlich
+                    mit der ersehnten Speise zu laben.Sie hörte wohl nachher die Schimpfreden der
+                    heimkehrenden Nachbarn,von denen mehrere das Armenbrod geholt hatten, und welche
+                    die Barbel, die sie so wenig liebten, eine Diebin schalten; aber was fragte sie
+                    viel darnach, hatte doch ihr Kind sich satt gegessen und fühlte sie fich doch
+                    stark genug, den Kampf mit den flinken Zungen der Naqhbarinnen aufzunehmen. Der
+                    Amtmann, der ein Zeuge ihres Ungestüms im Hofe gewesen war, erkundigte sich
+                    weiter nach ihr, und da er ihre bedrängte Large erfuhr, beschloß er, das Weib,
+                    dessen muthiges und entschlossenes Wesen ihm nicht übel gefallen hatte, in
+                    seinem weitläufigen Haushalte oft zu beschäftigen, um ihr dadurch Verdienst und
+                    Brod zu geben. Als ihre Kranken wieder genesen waren, brachte Frau Barbara
+                    manchen Tag im Amthause zu, half in Küche und Garten und jätete das Unkraut aus
+                    den Höfen, die das Haus umgaken.Ottilie half ihr oft bei dieser Arbeit, und in
+                    den weiten Räumen gefiel es dem stillen Kinde viel besser, als daheim in der
+                    engen Gasse mit den geschwätzigen Nachbarinnen; das Amthaus mit seinen
+                    Umgebungen war die Welt, in der es sich heimisch fühlte; sollte ihm doch in
+                    seinem spätern Leben in diesen Käumen das Glück seines Herzens erblühen!</p>
+                <p>Alles vergeht in diesem Erdenleben; die Tage der Seuche zogen endlich auch
+                    vorüber, nachdem man neunhundert Leichen zu Grabe getragen hatte. Da mag wohl
+                    manches Haus verödet und manches Band zerrissen worden sein.<pb/>In dem Häuschen
+                    des Seilermichels ging das fägliche Leben nun wieder seinen gewehnten Gang. Wie
+                    es einem Garten geht, dessen Zaun zerbricht, ohne daß Jemand ihn bessert, weiß
+                    Jeder; da steigen böse Buben hinein, und was sie nicht abreißen, das verderben
+                    Katzen und Hunde und die Hühner des Nachbars. Wo in einem Haushalte der Mann und
+                    Vater sich dem Mußiggang ergibt und in den Schenken die Zeit vertreibt, da fängt
+                    auch der Zaun zu brechen an, der sein Hauswesen umgibt, und durch die Lücken
+                    steigen die Sorgen ein und der Unfriede, und ihnen folgt eine ganze Reihe
+                    schlimmer Gäste, welche die Schutzengel des Hauses verscheuchen und den Riß
+                    immer größer und böser machen.</p>
+                <p>Wer etwa sieben Jahre später an einem kalten Dezemberabend wieder in das kleine
+                    Häuschen hineinsah, der erblickte ein noch trüberes Bild, als das erste Mal. Die
+                    damals reinliche und heimelige Wohnstube sah jetzt ärmlich und vernachläßigt
+                    aus; ein dampfendes Oellicht erhellte sie mait und warf seinen röthlichen Schein
+                    auf Barbara's früh gealterten Züge; wie hatten Gram und Verdruß dieses Antlitz
+                    entstellt und ihm einen Ausdruck gegeben, der zu sagen schien: Komm her, wer
+                    Lust hat, und greife mich an, ich weiß mich zu wehren!Neben der Mutter saß
+                    Ottilie am Spinnrad, aber nicht in fröhlichem Gespräch; sie wußte wohl, daß die
+                    Mutter heute nicht geneigt wäre ihr zuzuhören, denn es war schon spät am Abend,
+                    das Stübchen kalt, die Küche lerr und der Vater nicht dahein. Das Mädchen warf
+                    zuweilen ängstliche Blicke nach der Mutter hin, die, die Hände auf dem Schooß
+                    gekreuzt, in trübem Schweigen da saß. Da wurden Stimmen auf der Gasse laut, man
+                    höörte Leute gehen, zuerst Einzelne,dann Mehrere. „Mutier, was gibt es wohl?“
+                    sagte Ottilie ängstlich.„Was wird's sein,“ gab diese zur Antwort, „vielleicht
+                    bringen sie deinen Vater heim, den sie irgendwo im Rausch erfroren gefunden
+                    haben.“ „Muiter, um Gotteswillen sprecht nicht so!“ rief das Mädchen und Thränen
+                    traten ihm in die Augen. Barbara stand auf und öffnete das kleine Fenster; da
+                    standen die Bewohner fast der ganzen Gasse bei einander und schauten zu dem
+                    nächtlichen Himmel empor,an dem winterlich hell, die Sterne funkelten. „Gott
+                    steh bei uns,was ist das für ein schauriges Zeichen!“ rief eben ein alter
+                    Nachbar,und Barbara sah nun so weit sie konnte aus dem Fenster zum Himmel auf;
+                    zwischen den hellglänzenden Sternen stand ein anderer, ein selt<pb/>43*samer,
+                    unheimlicher Gast; röthlich, fast blutig, erschien sein Kern, und der lange,
+                    helle Schweif, den er nachzog, erschien den erschrockenen Bewohnern wie eine
+                    feurige Ruthe.</p>
+                <p>Es war in den letzten Wochen des Jahres 1618, jenes Jahres,da zuerst die
+                    Kriegsflamme aufloderte, die während dreißig langen und blutigen Jahren
+                    Deutschlands Glück und Wohlstand verzehren sollte, als die Erscheinung eines
+                    Kometen die ohnehin schon geänstigten Gemüther noch mehr mit Furcht und
+                    Besorgniß erfüllte. Barbara ging nicht hinab zu den schwatzenden Nachbarn, sie
+                    zeigte Ottilie und dem Knaben, der bisher auf der Ofenbank geschlafen hatte, den
+                    seltenen Stern, und als die Kinder um seine Bedeutung fragten, sagte sie kurz:
+                    „Ich habe immer gebört, solche Himmelszeichen brächten Unglück;meinetwegen! ich
+                    habe mein Unglück schon, mir kann kein Stern mehr ein größeres bringen!“
+                    Ottiliens weiches Gemüth ertrug diese Rede nicht, sie schlang beide Arme um den
+                    Hals der Mutter und brach in heftiges Weinen aus. „Ach Kind,“ sagte Barbara,
+                    indem sie das Mädchen sanft zurückschob, „es gab auch eine Zeit, wo ich meinte
+                    die Augen mir ausweinen zu müssen. Was hat es geholfen? sie sind reth und trüb
+                    geworden, und nach und nach habe ich das Weinen verlernt. Wäret ihr Beide nicht,
+                    du und der Ulrich, so wollte ich,man trüge mich heute noch hinaus in mein Grab;
+                    aber um euertwillen will ich noch leben und mich durchschlagen durch die böse
+                    Zeit und die noch bösern Menschen. Kommt Kinder, wir Drei haben einander noch
+                    lieb; sonst gibt es wenig Liebe mehr auf der Welti; ich wenigstens weiß von
+                    keiner.“ Die arme Mutter foßte mit der einen Hand die des Knaben, legte den
+                    andern Arm um den Nacken der weinenden Tochter und fühlte sich einen Augenblick
+                    lang wieder reich und glücklich in der Liebe.</p>
+                <p>Die Erscheinung des Unglück verkündenden Kometen hatte die Einwohn er von Stein
+                    erschreckt und an den Ernst der Zeit gemahnt.Auf der Kanzel wurde die
+                    Nothwendigleit der Buße verkündigt und als ein äußeres Zeichen des bußfertigen
+                    Sinnes wurden die fefilichen Mahlzeiten eing estellt, die sonst an jedem
+                    Neujahrstag auf den Zünften gehalten wurden. Aber neben dem Senfkornlein der
+                    Herzenserneuerung durch den Glauben, das wohl auch in manchem Gemüthe Wurzel
+                    gefaßt haben mag, wucherte üppig das Giftkraut des Aberglaubens, und die Furcht
+                    vor der finstern Gewalt des Teufels war größer als die </p>
+                <pb n="33"/>
+                <p>gläubige Ehrfurcht vor Gott. So war es damals fast überall; darum loderten in
+                    deutschen und schweizerischen Gauen die Scheiterhaufen empor, auf denen so viele
+                    Unglückliche als Opfer des Hexenglaubens ihr Leben enden mußten, und darum
+                    gerieth man auch zu Stein in den Wahn, solche schreckliche, mit der Hölle
+                    verbundete Menschen in den eigenen Mauera zu haben.</p>
+                <p>In den ersten Stunden einer schöͤnen Sommernacht, die auf einen glühend heißen
+                    Tag folgte, saßen auf der Bank vor einem Hause, nahe beim untern Thor, die
+                    Nachbarn beisammen, um nach der Tageshitze sich an der Kühle zu erlaben. Sie
+                    redeten von der glücklich heimgebrachten Ernte, von dem schönen Stande der
+                    Reben, dazwischen auch von allerlei Stadtgeschichten und den Kriegsereignissen,
+                    soweit man sie kannte. Da huschte die kleine gebeugte Gestalt eines Weibes an
+                    ihnen vorüber und bog in das Gäßchen ein, in dem der Seilermichel wohnte. „Helf
+                    uns Gott!“ flüsterte eine der Frauen auf der Bank, wie wenn sie einen züngelnden
+                    Blitz aus schwarzen Wetterwolken hätte herabfahren sehen.</p>
+                <p>„Mir läuft die Gänsehaut über den Rücken, wenn ich nächtlicher Weile dies Weib
+                    antreffe,“ sagte einer der Männer; „bei der ist's nicht richtig.“</p>
+                <p>„Hol der Teufel die verdammte Brut!“ rief ein Anderer und reckte seine dürre
+                    Gestalt lang aus, indem er aufstand. „Die, welche eben jetzt ins Gäßchen ging,
+                    ist nicht die einzige hier; es sind schon biele Jahre vergangen, denn es war zur
+                    Pestzeit, da wurde mir im Amthaus das Brod unker dem Arme weggezozen. Dem Weibe,
+                    das damit fortrannte, bin ich seitdem immer aus dem Wege gegangen;denn, glaubt
+                    es mir, bei der ist es auch nicht richtig.“</p>
+                <p>„Ha, ha,“ lachte ein Anderer, „das war ja die Seilerbärbel,die war aber dazumal
+                    noch zu jung und zu hübsch für eine Hexe.“</p>
+                <p>„Ich will nichts gesagt haben,“ erwiderte der Lange, „aber ich weiß, was ich
+                    weiß.“ Dabei rieb er sich die Hände und ging mit kurzem Gutenachtwunsch nach
+                    Hause.</p>
+                <p>Male den Teufel nicht an die Wand, sonst kömmt er leibhaftig,sagt ein Sprichwort;
+                    so ging es auch hier. Während die Nachbarn und Nachbarinnen mit Schrecken und
+                    Grausen von dem Fürsten der Finsterniß und seinen Verbündeten redeten, stand er
+                    mitten unter ihnen und blies das Feuerlein der Verleumdung zur hellen Flamme 3
+                        <pb n="34"/>an. Keines von ihnen dachte daran, daß sie selbst seine
+                    geschäftigen Diener seien, als sie bis tief in die Nacht hinein einander
+                    erzählten wie die beiden Schwestern, von denen die jüngere an ihnen
+                    vorbeigegangen war, in ihrem kleinen Häuschen ein sonderbares Leben führten,wie
+                    Niemand eigentlich wisse, wovon sie sich nährten: denn die wenigen Reben, die
+                    ihr Eigenthum seien, könnten ihnen unmöglich das tägliche Auskommen gewähren;
+                    wie sie beide vom ersten Frühlingstage bis zum Spätherbste täglich in den Wald
+                    gingen und Kräuter heim schleppten,bon denen Niemand wisse, wozu man sie
+                    brauche; wie sie allerlei Pflaster und Salben kochten, von denen sie
+                    behaupteten, sie hätten die Rezepte noch von ihrem Vater, dem Scherer, her;
+                    daneben wären sie wenn ihnen Niemand ins Haus käme, und hätten darum die
+                    Hausthüre auch immer verschlossen; bei stürmischen Nächten sehe man oft Licht in
+                    dem einsamen Stübchen, und „als mein Mann letzthin ihren Schornstein kehrte,“
+                    fügle des Kaminfegers Frau noch hinzu,„fiel es ihm auf, daß so wenig Ruß darin
+                    war; es kam ihm so vor,als wäre er abgestreift worden.“</p>
+                <p>„Da hätte man freilich ein beachtenswerthes Zeichen,“ sagte einer der Männer, „es
+                    lohnte sich der Mühe, weiter nachzuforschen; denn Hexen, nein, bei Gott! Hexen
+                    dulden wir nicht unter uns!“ Eben kam der Nachtwächter, die zwölfte Stunde zu
+                    rufen.</p>
+                <p>„Ihr Plaudermäuler, sitzt ihr noch da?“ sagte er, „geht doch hinein; ich habe
+                    eben auch Einem den Weg gezeigt, der ihn ohne mich nicht gefunden hätte.“ „Wem?“
+                    „wer war das?“ fragten die neugierigen Leute; „der Seilermichel!“ war die
+                    Antwort, und in die ausgestreute Höllensaat' dieses Abends fiel noch als ein
+                    ergiebiges Körnlein die Erinnerung an des elenden Trinkers unglückliches
+                    Weib.</p>
+                <p>Die Sommerhitze war den mildern Herbsttagen gewichen und die liebliche Gegend, in
+                    der Stein liegt, glich in dem Schmucke ihrer Wiesen und Weinberge, ihrer Gärten
+                    und Obstbäume, umgürtet von dem blauen Bande des Rheinstroms, einer schönen,
+                    glücklichen Mutter,die lächelnd und Segen spendend unlter ihren Kindern steht.
+                    Wer in jenen Tagen oben auf der Höhe von Klingen fland und seine Blicke
+                    hinuberschweifen ließ über das schöne Gelände bis zu dem fernen Kranze der
+                    Alpen, die den Gesichtskreis begrenzen, der mußte wohl das Wehen des friedlichen
+                    Geistes fühlen, der in der Natur waltet. Ja, Friede <pb/> 85 athmet die
+                    Schöpfung, aber der Mensch erfüllt fie mit Thränen und Jammer.</p>
+                <p>Arme, unglückliche Mutter, die du hier in der engen Gasse vor deinem Häuschen
+                    stehst, um von dem Häscher fortgeführt zu werden in das Gefängniß und zu noch
+                    Schlimmerm! </p>
+                <p>Zwar die Zunge schweigt nicht, sondern gießt Gift und Galle Fluch und
+                    Verwünschungen aus über die Welt und die Menschen,aber aus den Augen spricht das
+                    Weh der verzweifelnden Liebe, denn fie können sich nicht abwenden von den
+                    Kindern, die voll Jammers sich an die Mutter drängen und ihr folgen möchten auf
+                    dem bittern Gange.</p>
+                <p>Es ist Barbara, des Seilermichels Frau, über die der wohlweise Rath so sonderbare
+                    Gerüchte vernommen, daß er, in seinem Eifer,alles Hexengeschmeiß zu zerstören,
+                    sie endlich vor Gericht zu fordern und gefangen zu setzen beschloß. Jetzt stand
+                    sie noch auf der Schwelle ihres Hauses und sträubte sich, dem Häscher zu
+                    folgen.</p>
+                <p>„Was wollt ihr von mir? Ich bin keine Hexe und thue Niemand etwas zu Leide; hab
+                    ich doch genug zu thun, mich der Unbilden zu erwehren, die Andere mir anthun.
+                    Laßt mich in Ruhe; habe ich nicht mein Unglück bisher tapfer getragen? Niemand
+                    dachte daran, mir zu helfen, da noch etwas zu retten gewesen wäre von Haus und
+                    Habe;hätte damals der Rath seine Pflicht an einer armen Hausmutter und ihren
+                    Kindern gethan, da wär's am Platze gewesen, und mein Herz hätte sich nicht
+                    verbittert gegen die Menschen. Ein armes, um sein Lebensglück betrogenes Weib
+                    bin ich, aber keine Hexe, und den Teufel hab ich noch nie anders gesehen, als in
+                    der Gestalt der Menschen, die mich haßten und unglücklich machten.“</p>
+                <p>„Schlagt ihr die Zähne ein, wenn sie noch hat,“ rief Einer aus der
+                    zusammengelaufenen Menge dem Häscher zu; und „fort mit der Hexenbrut,“ „weg mit
+                    der Hexe!“ schallte es ringsumher.</p>
+                <p>„O Mutter, Mutter!“ rief Ottilie mit durchdringender Stimme,„ich gehe mit dir,
+                    ich lasse dich nicht allein!“ Das Mädchen schlang seine Arme um den Hals der
+                    Mutter und der Knabe faßte sie bei der Hind und suchte sie wieder ins Haus
+                    hinein zu ziehen.</p>
+                <p>„Laßt mich los,“ sagte die arme Frau, als sie sah, daß Widerstind vergeblich war;
+                    „verflucht seien meine falschen Ankläger, und über ihr Haupt komme mein
+                        Blut!“<pb n="38"/>„Blut!“ rief Ottilie wieder in zweifelnden Tone, „o Gott,
+                    Niemand wird ja daran denken, dir das Leben zu nehmen, meine Mutter, ich lasse
+                    dich nicht!“</p>
+                <p>Des Mädchens Jammer trieb manchem Anwesenden die Thränen in die Augen, und wäre
+                    die Mutter nicht als Hexe verklagt gewesen,so hätten die mitleidigen Steiner
+                    schnell ihren Sinn geändert und Erbarmen mit der Unglücklichen gehabt; nun aber
+                    war die Hexenfurcht so groß, daß dies Mal das Mitleiden nicht aufkommen
+                    konnte.</p>
+                <p>„Macht, daß ihr fortkommt!“ riefen Die, die ihrer Gefühle nicht ficher waren, und
+                    der Häscher faßte sein Opfer am Arme und zog es fort.</p>
+                <p>Ottilie und ihr Bruder drängten sich durch die nachlaufende Menge und suchten
+                    neben die Mutter zu kommen, aber man schob sie zurück.Als sie sahen, das es
+                    unmöglich war durchzudringen, faßte der Knabe die Hand seiner Schwester, zog sie
+                    zur Seite nach den Häusern hin,und als die Leute vorüber waren, schlichen Beide,
+                    müde vom Weinen,in das verödete Häuschen zurück, wo der Vater mit lallender
+                    Zunge auf der Ofenbank saß und sich vergebens bemühte, des Rausches Meister zu
+                    werden, den ihm die Gefangennehmung seines Weibes zur Hälfte vertrieben hatte. </p>
+                <p>Unterhalb der Rheinbrücke steht noch jetzt, mitten zwischen stattlicheren
+                    Gebäuden, ein kleines Haus, das nicht mehr bewohnt wird;nur die Vergangenheit
+                    schaut aus den niedern Fenstern auf die Wasser des alten Rheins, der mit ihr die
+                    vorübergegangenen Menschengeschlechter gesehen hat. An jenem Abend, da Barbara
+                    gefangen genommen wurde,saß in diesem Häuschen ein betagtes Schwesternpaar in
+                    dem engen Stübchen, das der volle Mond mit seinem milden Lichte erhellte,während
+                    er mit klarem Silberschimmer die plätschernden Fluthen übergoß, die an den
+                    Fenstern dahinzogen. Zu der einfachen, fast ärmlichen Kleidung der Schwestern
+                    paßte vollkommen die dürflige Einrichtung ihres Stübchens. Ein großes Himmelbett
+                    mit groben Vorhängen nahm fast den ganzen Raum ein; auf einem Brette über der
+                    Thüre standen einige wenige Geschirre, und eine starke eichene Kiste barg den
+                    haushäblichen Reichthum der beiden Bewohnerinnen. Aber außer diesen wenigen
+                    Geräthschaften befanden sich doch noch manche andere Dinge im Stübchen, die,
+                    eben weil sie sich in solcher Umgebung zeigten, um so auffallender waren. Der
+                    große, oben mit einer steinernen Platie </p>
+                <pb n="37"/>
+                <p>gedeckte Kachelofen war überstellt mit Gläsern und Tiegeln von jenen,dem
+                    häuslichen Gebrauch ungewohnten Formen, wie wir sie in den Laboratorien der
+                    Chemiker und Apotheker zu sehen gewohnt sind, und mitten unter ihnen, auf
+                    hölzernem Gestelle, thronte eine große, ausgestopfte Eule und glotzte unheimlich
+                    mit ihren gläsernen Augen. An der Wand hingen zwei Kästchen, das eine mit
+                    mancherlei Käfern, das andere mit Schmetterlingen gefüllt, in deren Mitte, wie
+                    ein ernster Lehrer zwischen flüchtigen und lebensfrohen Schülern, der Todtenkopf
+                    seinen Platz hatte. Ueber den Kästchen hingen in großen Büscheln allerlei
+                    Kräuter: Baldrian, Melisse, Natterkopf, Königskerze und ein Zweig der
+                    geheimnißvollen Mistel.Noch immer saßen die beiden Schwestern beim Mondschein
+                    stumm einander gegenüber; endlich brach die eine von ihnen, eine kleine,stark
+                    vorwärts gebeugte Gestalt, das Schweigen, und während sie sprach,zeigte ihr vom
+                    Alter gefurchtes, sonst ziemlich bedeutungsloses Geficht, einen unverkennbaren
+                    Ausdruck von Angst und Furcht. „Anna,“sagte sie, „rede doch mit mir; dies
+                    Schweigen und diese Stille schnürt mir die Brust zusammen. Was meinst du, haben
+                    wir so Schreckliches zu fürchten, wie der armen Seilerbarbel bevorsteht? Die
+                    Leute reden so unheimliche Dinge und weisen mit Fingern auf uns, wo wir vorüber
+                    gehen. Habe Erbarmen mit meiner Angst, und sage mir ein Wort, das mich beruhigt;
+                    ach, was thun wir denn, daß man uns solche Dinge Schuld gibt?“Die Angeredete,
+                    die bisher ihr Haupt in die Hand gestützt hatte,richtete dasselbe empor, heftete
+                    ihre Augen fest auf die Schwester,und als sie die Thränen sah, die der
+                    Geängsteten über die Wangen liefen, stand sie mit einer raschen Bewegung von
+                    ihrem Sitze auf.Sie war von mehr als gewöhnlicher Frauengröße und hatte
+                    harte,eckige Formen; aus ihrem bleichen Angesicht mit den scharfen Zügen sprach
+                    Geist und Entschlossenheit; aber in den Mundwinkeln zuckte es jetzt schmerzlich,
+                    die Thränen der Schwester schienen den eigenen Schmerz wach gerufen zu haben.
+                    Sie trat zu der Weinenden hin und legte ihr die Hand auf die Schulter. „Eva,“
+                    sagte fie „wie gern wollte ich dir Worte der Beruhigung sagen, wenn ich sie
+                    hätte! aber ich bin gewiß, daß uns das Loos der Seilerbarbel droht, und mag dich
+                    nicht lüuschen.“<pb/> 88 „Barmherziger Gott!“ rief Eva mit durchdringendem Tone,
+                    und glitt, vor Schreck wie gelähmt, von ihrem niedrigen Schemel hinab an den
+                    Fußboden. Anna nahm sie in ihre Arme, hob sie wieder empor und setzte sich zu
+                    ihr auf den schmalen Sitz, sie mit beiden Armen umfassend. „Höre mich an,“ sagte
+                    sie, „und sei nicht trostlos; es ist wohl hart, nach einem langen Leben, in dem
+                    man Niemand wissentlich Unrecht gethan hat, der Zauberei und des Teufelsdienstes
+                    angeklagt zu werden und durch Henkershand sterben zu müssen; aber, wen solch
+                    hartes Loos trifft, der muß ihm auch zu begegnen wissen mit Muth und
+                    Todesverachtung. Die Leute im Orte können es uns nicht vergeben, daß wir nicht
+                    sind wie sie, daß wir nicht mit ihnen zusammen sitzen und schwatzen, ihnen
+                    unsere häuslichen Angelegenheiten erzählen und die Nachbarn verhandeln; sie
+                    verstehen nichts von den Kenntnissen,die wir aus den kostbaren Büchern des
+                    Vaters und Großvaters schöpften;was kümmert sie der Lauf der Gestirne und die
+                    Kenntniß der Natur und ihrer Kräfte! Wenn ich Nachts am offenen Fenster stehe
+                    und den Lauf eines Planeten beobachte, um darnach zu bestimmen, in welcher
+                    Stunde dieses oder jenes Kraut gesammelt, diese oder jene Wurzel gegraben werden
+                    muß, um ihre volle Heilkraft zu haben, so meinen die unwissenden Schiffleute,
+                    die mich bei ihren nächtlichen Fahrten gewahr werden, ich bereite mich vor, zum
+                    Hexentanze zu fahren, und erzählen's daheim ihren Weibern, fluchen über des
+                    Scherers Töchter und schwören ihnen Tod und Verderben. So ist das unwissende
+                    Volk; ich bin's müde unter ihm zu leben, und weil ich seine Dummheit verachte,
+                    so will ich auch die Marter verachten, die es mir bereitet.Könntest du es auch
+                    so, Eva, wie froh wäre ich! aber du bist weicher und milder und es ist
+                    dreifaches Unrecht, daß sie dich eine Hexe nennen,wie mich und die Barbel. Wie
+                    manchem Kranken hast du mitleidig geholfen mit den Tränken und Salben, die ich
+                    bereitete, und nun gehen die Undankbaren, und sagen, wir hätten sie krank
+                    gemacht mit unserer Zauberei, um sie in die Gewalt des bösen Geistes bringen zu
+                    können! Eva, wir haben wohl in der Betrachtung der Natur und in unserm
+                    häuslichen Leben manche glückliche Stunde gehabt, und wenn ich mich umsehe in
+                    diesem Stübchen, und mein Auge haftet an all'diesen Dingen, mit denen ich mich
+                    so viel und so gerne beschäftigt habe, so wird es mir weh ums Herz beim
+                    Gedanken, sie bald verlassen zu müssen. Aber wenn ich zurückdenke an mein langes
+                    Leben,so oft verbittert durch die Lieblofigkeit der Menschen, so bedaure ich </p>
+                <pb n="39"/>
+                <p>nicht, daß es bald enden soll und wär's auch durch Feuer und Schwert.“</p>
+                <p>Eva sah mit entsetztem Angesicht zu der Schwester auf. „Warum sterben auf so
+                    fürchterliche Weise?“ sagte sie, „laß uns fliehen, hinaus in den Wald, wo wir
+                    alle Winkel und Wege kennen, und dann in die weite Welt hinaus; lieber betteln
+                    als solchen schmerzlichen Tod erleiden!“</p>
+                <p>„Du bist siebenzig Jahre alt und ich zähle noch mehr! Wie weit würden wir kommen
+                    auf unserer Flucht?“ fragte Anna mit leisem Spotte; dann aber, als sie wieder in
+                    das von Angst verzerrte Gesicht geschaut hatte, sagte sie langsam in fast
+                    mitleidigem Tone: „Eba,ich will dir den Willen thun; fliehen, weit fort von
+                    hier, können wir nicht, aber verbergen können wir uns, bis der erste Sturm
+                    vorüber ist. Ich weiß ein schickliches Plätzchen in dem dichten Walde, der sich
+                    von der Aergeten hinabzieht bis zu den Feldern von Hemishofen;der klare Bach ist
+                    in der Nähe und Speise nehmen wir mit, was wir im Hause haben; sei getrost und
+                    hilf mir zwei Säcklein füllen mit dem Nöthigsten, was wir bedürfen.“ Eva dankte
+                    der Schwester mit einem freundlichem Blick für ihren Entschluß und Beide erhoben
+                    sich nun, um ihre Vorbereitungen zu machen, Anna besonnen und kalt,Eva in
+                    ängstlicher, unruhiger Hast. Endlich waren sie fertig und wandten sich zum
+                    Fortgehen; sie überschritten die Thürschwelle und schlossen ihr stilles,
+                    freundliches Stübchen; vorsichtig sich umschauend, DDD zu finden. Es war
+                    wirklich nur angelehnt und Anna wollte es eben noch weiter öffnen, da spürte sie
+                    Widerstand, und plotzlich erblickte sie das Gesicht eines Mannes, der das
+                    Pförtlein von außen gehalten und nun hereinschaute, wer wohl das sei, der so
+                    spät noch außer die Stadt wolle. Entsetzt wich er zurück, als er die beiden
+                    Schwestern sah, brach aber sogleich in hämisches Lachen aus. „Wohin?“ rief er
+                    spöttisch,„nur zurück in euer Nest, man wird euch bald zu einem besondern Tanze
+                    rufen.“ Der Mann schlug das Pförtlein ins Schloß und rannte davon, dem
+                    Bürgermeister die beabsichtigte Flucht der beiden Hexen zu melden.</p>
+                <p>„Es ist zu spät,“ sagte Anna mit fester Stimme zu der zitternden, verzagenden
+                    Schwester, und führte sie an der Hand in das verlassene Häusschen zurück, von wo
+                    sie bald abgeholt wurden, um ihre <pb n="40"/>Wohnung in den Gefängnissen auf
+                    einem der Stadtthürme zu nehmen.Dort, einzeln in ihre Zellen verschlossen,
+                    kampfte jede der drei unglücklichen Frauen fur sich allein den gewaltigen Kampf
+                    mit der Liebe zum Leben,und mit den emporten Gefühlen, die erlittenes Unrecht in
+                    jeder Menschenbrust weckt, und die um so stärker sind, je kräftiger das Gemüth
+                    ist,in welchem sie wach werden. Unterdessen war auf dem Naderfelde,an der Straße
+                    nach Hemishofen, ein gefürchteter Mann mit unheimeliger Arbeit beschäftigt.
+                    Dort, auf jenem Felde, erhob sich damals das Hochgericht, dort ging an jenem
+                    Tage der Scharfrichter ab und zu,säuberte die Richtstätte vom Unkraut und
+                    schichtete Holz auf, um es zur Hand zu haben, wenn die Herxen verbrannt werden
+                    sollten.</p>
+                <p>In der Nacht, die dem 4. Oktober voranging, lag Barbara, des Seilers Frau,
+                    schlaflos auf ihrem Lager. Sie gedachte ihrer armen Kinder, und der Schmerz und
+                    die Sorge um sie schnitt tief in ihre Seele; sie gedachte auch ihres traurigen
+                    Looses als Gattin und Hausfrau, und des Unrechtes, das man ihr angethan, und
+                    grimmiger Zorn erfüllte ihre Seele. Da tönte auf einmal durch die Stille der
+                    Nacht des Wächters Morgenruf; „No-e-Wil, no-e-Wile!“s) Barbara fuhr auf:
+                    „noeWil,“ rief sie, „nore-Wile“ und mein Leben ist dahin;was wird's aber nachher
+                    mit mir sein? Um 10 Uhr des Morgens soll mein Haupt fallen; wo werde ich dann
+                    sein, wenn um elf Uhr die Mittagsglocke läutet und die Leute der Stadt
+                    heimkehren in ihre Häuser und an ihre Tische?“ Die Augen, die lange nicht mehr
+                    geweint, füllten sich mit Thränen, und über das verbitterte Gemüth der
+                    unglücklichen Frau kam eine weiche, mildere Stimmung. Im Angefsichte des Todes
+                    fiel es ihr wie Schuppen vom Auge, sie erkannte die eigenen Fehler, und das
+                    Unrecht der andern schien ihr gemildert; sie faltete die mit Ketten belasteten
+                    Hände zum Gebet, und ob sie gleich nicht viele Worte machte, so redete sie doch
+                    in der Tiefe ihrer Seele mit Gott, und der Vater der Barmherzigkeit schenkte ihr
+                    in den letzten Stunden noch Ergebung und Friede.</p>
+                <p>Als die Glocke zehn schlug, öffnete der Schließer die Gefängnißthüren und die
+                    Henkersknechte traten herein, um die verabscheuten Hexen herauszuführen. Als
+                    Anna aus ihrer Zelle trat, suchte ihr </p>
+                <p>) In Stein am Rhein xuft der Wächter beim letzten Rufe des Morgens statt ber
+                    Stunde die Worle: „RtoeWil, noe-Wile, welches alte Herkommen einen historischen
+                    Grund hat </p>
+                <pb n="41"/>
+                <p>erster Blick die arme, furchtsame Schwester; die folgte, gebeugt und stumm, wie
+                    ein Lamm seinem Schlächter, ihrem Führer, und nur ihre entstellten Züge, ihre
+                    fast erloschenen Augen zeigten, was sie gelitten.Hoch aufgerichteten Hauptes
+                    folgte ihr Anna, und die Seilerin schritt hinter beiden, bleich, still, aber
+                    nicht mehr mit verbissenem Zorn; sie hatte ihn nun überwunden. Vor dem Rathhause
+                    las man den Verurtheilten das Urtheil und warf die gebrochenen Stäbe vor ihre
+                    Füße;dann wurden sie zusammen in einen hölzernen Rahmen geschlossen,den an den
+                    vier Enden geharnischte Männer trugen. Eine dicht gedrängte Menge folgte nach,
+                    und mitten aus ihr erhob sich, hoch zu Roß, der Vogt des Reichs, der nach
+                    uralter Sitte im Namen kaiserlicher Majestät den Blutbann zu üben hatte.</p>
+                <p>Die Häupter der vermeintlichen Hexen fielen unter dem Schwert,und die Leichname
+                    verbrannte der Henker und streute die Asche in den vorbeifließenden Rhein; dann
+                    wandte er sich an den Reichsvogt mit der Frage: Herr Vogt des Reichs, habe ich
+                    recht gerichtet? und erhielt die gemessene Antwort: Du hast gerichtet, wie
+                    Urtheil und Recht ergangen ist. Die Neugierde des Volkes war befriedigt, die
+                    Menge verlief sfich; bedächtigen Schrittes kehrten die ehrbaren Bürger, unter
+                    ihnen auch manche Frau, wieder in die Stadt zurück. „Gottlob und Dank,“ sagte
+                    ein langer, spindeldürrer Mann und verdrehte andächtig die Augen gen Himmel,
+                    „nun sind wir doch der Hexen los.“ „Der alten wenigstens,“ sagte lachend ein
+                    stattlicher Gerber, „jetzt nimm dich vor den jungen in Acht, daß dir keine den
+                    Kopf verdrehe, bis dir die Augen im Rücken sitzen.“ Lachend setzten sie ihren
+                    Weg fort.Auf dem einsamen Pfade aber, der hinauf führt zu der Höhe des
+                    Wolkensteins, und an einzelnen Stellen die Gegend des Niederfeldes übersehen
+                    läßt, lagen zwei Kinder weinend und jammernd am Wege;der Knabe schmiegte sich an
+                    das Mädchen, und dieses schon fast zur Jungfrau erwachsen, drückte das Haupt in
+                    das lange Gras und machte dem unsäglichen Wehe seines Herzens durch schreckliche
+                    Klagelaute Luft. Ottilie war's und ihr Bruder, die hier den Rauch aufsteigen
+                    gesehen hatten von dem Feuer, das den Körver der geliebten Mutter
+                    berzehrte.Ueber Deutschlands Fluren brauste der Kriegssturm, fegte Städte und
+                    Dörfer, und knickte so manche Hoffnung, zertrümmerte so manches Glück. Bittere
+                    Noth herrschte an den schwäbischen Ufern des Boden<pb n="42"/>sees, wo
+                    Wallensteins Völker das Mark des Landes verzehrten und durch Uebermuth und
+                    Erpressungen die Bewohner fast zur Verzweiflung brachten. Im Schweizerlande war
+                    äußerlich wohl Friede, aber Katholiken und Reformirte standen sich schroff
+                    gegenüber und bewachten sich mit mißtrauischen Blicken, ob wohl keine Konfession
+                    den kämpfenden Glaubensgenossen in Deutschland Hülfe und Vorschub leiste. Es war
+                    eine traurige Zeit, überall Streit und Verwirrung, Jammer und Noth.Aber über all
+                    dem Gewirre waltete hehr und still, wie in den Zeiten des tiefsten Friedens,
+                    Gottes Geist in der Natur; ein lieblicher Spätsommer erquickte manches gedrückte
+                    Gemüth und versprach für den kommenden Winter reiche Gaben des Feldes und der
+                    Reben.</p>
+                <p>Es war ein warmer, sonnenheller Augustnachmittag gewesen.Die Sonne ging unter;
+                    wer auf dem Felde gearbeitet hatte, kehrte heim, und auf den Bänken vor den
+                    Hausthüren saßen die Bürger,die bereits Feierabend gemacht hatten, der Ruhe
+                    pflegend beisammen und warteten auf den Ruf der Hausfrauen zum Nachtessen. Da
+                    eilte noch ein kleiner Trupp verspäteter Feldarbeiter der Stadt zu, hastig
+                    drängten sich die Leute über die Brücke beim untern Thor: „Zieht die Brücke auf!
+                    “riefen sie dem verwunderten Thorhüter zu, „es kömmt Kriegsvolk,“ .und bald ging
+                    der Schreckensruf: „Die Schweden, die Schweden kommen!“ durch die Gassen.
+                    Rasselnd ging die Zugbrücke in die Höhe, der Zugang zur Stadt war jetzt gesperrt
+                    und hinter Wall und Graben fühlten sich die erschreckten Einwohner einigermaßen
+                    gesichert. Bald ertönte der Hufschlag daherstürmender Pferde, eine Staubwolke
+                    wirbelte empor und das letzte Abendglühen vergoldete die Spitzen blanker Waffen.
+                    Im gestreckten Galopp sausten zwei Ritter daher, am Rande des Grabens hielten
+                    sie still, mit Mühe die unruhigen Pferde bändigend, und begehrten mit lauter
+                    Stimme Einlaß. In einem der ansehnlichen Häuser am Thore hielten einige der
+                    geachtetsten Bürger scharfe Ausschau, und als sie außer den zwei Reitern kein
+                    weiteres Kriegsvolk sahen, erhielt der Thorhüter Befehl, die ungebetenen Gäste
+                    einzulassen. Die schauten sich nicht lange in der fremden Stadt um, sonst hätten
+                    ihnen die ängstlichen Gesichter der Frauen und die bösen Blicke der Männer
+                    gezeigt, daß fie wenig willkommen seien. Vor dem Hause des Bürgermeisters
+                    stiegen sie von den Pferden und stiegen dröhnend die steinerne Treppe hinauf, um
+                    ihre Meldung zu machen.<pb/> 48 „Unser gnädigster Herr und Gebieter, der
+                    Feldmarschall Horn,entbietet Bürgermeister und Rath zu Stein seinen geneigtesten
+                    Gruß und bittet für sein Reitergeschwader um freien, ungehinderten Durchzug
+                    durch diese Stadt“ so lautete die Botschaft, die dem Bürgermeister das Blut aus
+                    dem Antlitz und in ängstlichen Wallungen zurück zu dem Herzen trieb. Wie die
+                    beutelustigen Krieger in unbesetzten,wehrlosen Orten hausten, wußte man
+                    hinlänglich aus der deutschen Nachbarschaft, und der Bürgermeister sah im Geiste
+                    schon die Schrecken der Plünderung und die Gräuel des Kriegs. Er suchte nach
+                    Ausflüchten und gab dem hohen Herrn durch seine Abgesandten zu bedenken, daß in
+                    so wichtiger Sache der Rath in Stein nicht für sich allein handeln könne,
+                    sondern zuerst die Befehle der Regierung in Zürich einholen müsse, an die er
+                    sogleich einen Boten abfertigen wolle.Mit mißvergnügten Gesichtern bestiegen die
+                    beiden Reiter ihre Pferde wieder und ritten davon. Die Bürger sammielten sich
+                    alle in den Straßen; wer Waffen hatte, nahm sie zur Hand, denn ohne Gegenwehr
+                    gedachten die Männer nicht, sich das Ihre nehmen zu lassen;der Bürgermeister
+                    eilte aufs Rathhaus, wohin er schnell die Rathsherren hatte entbieten lassen.
+                    Die hellen Lichter, die der vorschreitenden Dämmerung wegen waren angezündet
+                    worden, beschienen lauter ängstliche, verblüffle Gesichter; man setzte sich zur
+                    Berathung, aber schon hörle man draußen Säbelklirren und Sporengeräusch, und
+                    unangemeldet, in ächt soldatischer Weise, öffnele ein schwedischer Oberst die
+                    Thüre; er verneigte sich flüchtig vor der Versammlung. „Mein Name,werthe
+                    Herren,“ sprach er kurz, „ist Schaffelizkt, und ich komme im Auftrag Sr.
+                    Excellenz; der Feldmarschall Gustav Horn wird in kürzester Zeit an der Spitze
+                    von 8000 Mann die Stadt erreicht haben; heute noch muß das Reiterheer hier über
+                    den Rhein gehen, um den Oesterreichern in Konstanz einen unerwarteten Besuch zu
+                    machen. Darum haltet nicht auf und laßt uns ungehindert durchziehen; der
+                    Feldmarschall gibt euch sein Wort, daß Niemand ein Haar gekrümmt werden
+                    soll.“„Laßt uns zur Berathung schreiten, geehrtester Herr, entfernt Euch für
+                    kurze Zeit aus dem Gemache“, sagte der Bürgermeister; aber schon trat ein
+                    zweiter Offizier ein und sagte dem Obersten einige Worte in's Ohr. Da that
+                    dieser einen Schritt vorwärts, legte die Hand an seinen Säbel und sagte mit
+                    Nachdruck: „Der Feldmarschall ist vor den Thoren, gebt geneigten Bescheid und
+                    wir ziehen eilig und </p>
+                <pb n="44"/>
+                <p>in vollster Ordnung durch eure Stadt; wollt ihr's aber anders nun wohl, unser
+                    Herr wird mit 3000 Reitern den Weg sich zu bahnen wissen, denn morgenden Tages
+                    will er vor Konstanz sein.“</p>
+                <p>Der Bürgermeister seufzte tief auf, er wechselte einige Worte mit den
+                    Nächstsitzenden, dann erhob er sich und sagte, zu Schaffelizk gewendet:„Herr,
+                    wir weichen der Nothwendigkeit; möge Niemand uns unlautere Absichten Schuld
+                    geben; ziehet in Gottes Namen Cueres Weges und mahnet den Feldmarschall an sein
+                    gegebenes Wort.“</p>
+                <p>Die Schweden gingen und die Rathsherren eilten zu den Bürgern hinab, um sie zur
+                    Ruhe und zum Heimgehen zu bewegen. Die Bürger begriffen den Ernst des
+                    Augenblicks und zogen sich in ihre Häuser zurück. Die breite Hauptgasse war bald
+                    leer, und so wurde denn,wie ein Bericht aus jener Zeit sich ausdrückt, „die
+                    Porte geöffnet und dem unaufheblichen Wasser der Gang gelassen.“ Es ergoß sich
+                    als breiter Strom durch die Stadt; Reihe an Reihe zog dahin, manch gieriger
+                    Blick haftete wohl an den stattlichen Häusern der ersten Schweizerstadt, die die
+                    Schweden betraten; aber was der Feldmarschall versprochen, das hielt er genau.
+                    In strengster Ordnung hielt das Heer seinen Durchzug, und wenige Stunden nachher
+                    war es in der Stadt wieder so still, wie in jeder andern Nacht. Nur in der
+                    Erkerstube des Amthauses brannte noch Licht, als der Rathsbote über die Brücke
+                    ritt, der den Vorfall in Zürich anzeigen sollte; der Amtmann und der Pfarrherr
+                    saßen dort noch beisammen.</p>
+                <p>„Ja Herr, es ist besser abgelaufen, als ich's in meinen trüben Ahnungen noch
+                    fürchtete,“ sprach der Letztere, indem er aufstand und einige große Bücher vom
+                    Tische aufnahm. Es waren die Pfarrbücher,die er im ersten Schrecken ins Amthaus
+                    hinüber getragen hatte,um sie in einem der vielen Winkel des großen Hauses zu
+                    verstecken.</p>
+                <p>„Ja wohl,“ sprach der Amtmann, „heute sind wir mit dem Schrecken davon gekommen;
+                    aber glaubet mir, wir werden noch Unruhe genug davon haben, und ich denke, für
+                    meinen dießjährigen Wein werde ich kein großes Lagerfaß brauchen.“</p>
+                <p>„Mag sein,“ sprach der Pfarrer, „in Nothzeiten, wie die gegenwärtigen, bekömmt
+                    Jeder sein Kreuz zu tragen; wir dürfen auch nicht hoffen, ganz verschont zu
+                    bleiben.“<pb/> 45 „Ihr habt recht,“ gab der Amtmann zur Antwort, „kommt oft
+                    herüber und sprechet mir zu, wenn mich im Laufe der Zeit die Ungeduld anwandeln
+                    sollte.“ Er reichte seinem Nachbar die Hand und der Pfarrer trat den Heimweg
+                    an.</p>
+                <p>„Wie geht es dir, Kind?“ fragte er freundlich die junge Magd,die ihm über den Hof
+                    leuchtete; sie blickte zur Erde und antwortete nicht. „Siehst du die funkelnden
+                    Sterne?“ sprach der Pfarrer., Hebet euere Häupter auf, heißt es in der Schrift,
+                    und sehet: wer hat solche Dinge geschaffen und führet ihr Heer bei der Zahl
+                    heraus? Der sie alle mit Namen nennt, sein Vermögen und starke Kraft ist so
+                    groß,daß nicht an einem fehlen kann. Warum sprichst du denn, mein Weg ist dem
+                    Herrn verborgen und mein Recht gehet vor meinem Gott über?“ Die Magd erhob ihre
+                    scheuen Blicke, senkte sie aber sogleich wieder und gab keine Antwort. „Gute
+                    Nacht und denke an meine Worte,“ sprach der Pfarrer und ging. Das Mödchen schloß
+                    hinter ihm das Hofthor, dann blieb es stehen und hob die ernsten dunkeln Augen
+                    zu den Sternen auf, die in stillem Glanze funkelten Ja,mein Recht gehet doch vor
+                    Gott über,“ preßte es mühsam heraus.„Mutter, Mutter, dir ist Unrecht geschehen
+                    vor Gott und Menschen.Du hattest deine Kinder so lieb und Gott ließ so furchtbar
+                    dich sterben;darum kann ich Gott nicht lieben, kann nicht glauben an ihn, und
+                    kann's doch nicht ertragen, verlassen, ohne Gott in der Welt zu sein.Das ist der
+                    Schmerz meines Lebens, darum nennen die Leute mich schwermüthig und weichen mir
+                    aus.“ Ein Thränenstrom entstürzte den Augen der Jungfrau. Um sie her war Alles
+                    so friedlich; draußen an der hohen Mauer hin floß mit leisem Geräusche der
+                    Rhein, und drinnen im Hofe plätscherte der Brunnen; aber das Geflüster der
+                    Wasser konnte den Schmerz des armen Kindes nicht einschläfern. Ein stilles und
+                    ruhiges Gemüth vernimmt wohl die leise Sprache der Natur,aber über die empörten
+                    Wogen des Schmerzes und Kummers muß die Stimme Gottes geh'n, wenn ihr Toben sich
+                    legen soll. Das Mädchen, Ottilie war's, ging hinauf in seine Kammer und verbarg
+                    das müde Haupt in den Kissen seines Lagers. Die Kammer lag am Ende eines langen
+                    Ganges, der durch seinen Namen „Pfaffengang“noch heute an die ersten Bewohner
+                    des Gebäudes erinnert. Hier soll es nicht geheuer sein; dicht neben Ottiliens
+                    Kämmerchen am Ende des Ganges befand sich eine kaminartige Oeffnung, die in
+                    untere <pb/> 48 Räume herab führte. Dies sei das heimliche Gericht des Klosters
+                    gewesen, berichtet die Sage; in diese Oeffnung hinab habe man die </p>
+                <p>armen Verurtheilten geworfen, denen kein Richter habe Recht sprechen </p>
+                <p>und deren Klagen kein ungeweihtes Ohr habe vernehmen dürfen; in </p>
+                <p>dunkeln Nächten entsteigen ihre Geister der geheimnißvollen Tiefe, und </p>
+                <p>Niemand könne die Oeffnung verschließen, weil eine unsichtbare Gewalt allezeit
+                    wieder die Arbeit zerstöre. Ottilie kannte die Sage auch;sie ging allabendlich
+                    an diesem heimlichen Gerichte vorüber, ohne etwas Besonderes zu sehen und zu
+                    hören; sie war zu sehr mit ihren schweren Gedanken beschäftigt, als daß sie sich
+                    vor etwas außer ihr gefürchtet hätte; aber heute durchrieselte sie doch kaltes
+                    Entsetzen, als sie dicht neben sich in der Stille der Mitternacht ein seltsames
+                    Geräusch hörte. Was war's, das sich regte und bald an der Mauer,bald am Fenster
+                    wisperte? Ottilie erhob das Haupt und blickte scheu empor. Der Mond war eben
+                    zwischen Wolken hervor gekommen und streifte mit unsicherm Lichte das
+                    Fensterchen der kleinen Kammer; von diesem Fenster her kam das Geräusch. Oitilie
+                    blickte hin und erstarrte, denn eben wurden die Umrisse eines Kopfes davor
+                    sichtbar,und eine Stimme rief dumpf und hohl: „Ottilie!“ Ist's der Mutter Geist?
+                    dachte das Mädchen, könnte er mich armes Kind mitnehmen in's stille Grab?
+                    Tausendmal hatte sie's schon gewünscht, aber jetzi regte sich doch die
+                    natürliche Liebe zum Leben. Indessen klopfte die Gestalt draußen an's
+                    Fensterlein und rief wiederholt ihren Namen:„Mache mir auf, Ottilie, ich bin
+                    Ulrich, dein Bruder.“ Das erschrockene Mädchen wagte kaum das Fenster zu öffnen,
+                    durch das von der hohen Leiter, die er angelegt hatte, bald ein junger, rüstiger
+                    Bursche ins Gemach stieg. Ottilie schlug Licht, und beim Schein der Oellampe
+                    standen sich nun die Geschwister gegenüber, die sich seit dem unglücklichen
+                    Jahre, in dem sie die Mutter verloren, nicht mehr gesehen hatten.Kaum erkannten
+                    sie sich wieder Ueber Alrichs wettergebräunte Züge ging ein wilder, trotziger
+                    Ausdruck, als er die bleiche, schlanke Schwester vor sich stehen sah und in
+                    ihren Augen die Bestätigung der Kunde zu sehen glaubte, daß sie schwermüthig
+                    sei; und Ottiilie konnte kaum in dem jungen Landsknechte, der im Soldatenrock
+                    vor ihr stand, den Bruder wieder erkennen, den die Noth ihres Hauses schon als
+                    Knabe in die Fremde getrieben. Sie erschrak fast über sein verwittertes Aussehen
+                    und fragte besorgt, woher er denn eigentlich komme.</p>
+                <pb n="47"/>
+                <p>„Mit den Schweden bin ich gekommen,“ gab er zur Antwort,„ich diene dem Fußvolk,
+                    habe mich aber dießmal bei der Reiterei einzuschwärzen gewußt, als ich hörte,
+                    daß der Marsch nach Stein gehe.“„Wo warst du denn bis zu dieser späten Stunde?“
+                    fragte Ottilie.„Drunten im Niederfeld habe ich einen Hasen gefangen und will
+                    heut Nacht ein Feuerlein anzüunden, um ihn zu braten.“</p>
+                <p>„Was willst du thun?“ fragte das Mädchen erschreckt.</p>
+                <p>„Nun,“ gab Ulrich zur Antwort, „du wirst doch nicht glauben,daß ich umsonst
+                    hieher gekommen sei; wie siedendes Pech kochte es mir in den Adern, als ich der
+                    Stadt ansichtig wurde. Denkst du nicht mehr an das Feuer, in dem sie die Mutter
+                    zu Asche verbrannt haben?Hei, heut Nacht soll ihnen noch dafür warm werden, nur
+                    dich wollte ich vorher aus dem Neste heraus holen, dann mögen sie meinentwegen
+                    Alle zu Kohlen verbrennen.“</p>
+                <p>Einen Augenblick lang, aber auch nicht länger, blitzte es wie Freude aus
+                    Ottiliens dunkeln Augen; die Rache, schlummernd in jeglicher Brust, war wach
+                    geworden und schaute heraus; aber der Schutzengel der Jungfrau bekämpfte die
+                    finstere Macht; Ottilie streckte abwehrend die Hände gegen den Bruder aus.</p>
+                <p>„O, Ulrich, thu's nicht,“ bat sie, „wenn sie dich fangen und hinrichten, so
+                    stirbst du nicht unschuldig, wie die Mutter starb, und wenn dich auch Niemand
+                    dafür strafen könnte, so wärest du doch ein Mordbrenner und hättest keine Ruhe
+                    mehr auf der Welt.“</p>
+                <p>„Pah, im Kriege lernt man das anders,“ erwiderte Ulxich; „Jeder thut, wozu er die
+                    Macht hat, und hier“ er zog mit unheimlichem Lachen ein Büchsschen aus seinem
+                    Wamse „hier innen hab' ich das Mittel, den Leuten zu vergelten, was sie der
+                    Mutter Uebels gethan;das Sengen und Brennen kann man heut zu Tage bei Schweden
+                    und Kaiserlichen gar trefflich erlernen.“ Er zog Schwefelfaden aus dem Büchschen
+                    hervor, hielt ihn der Schwester hin und sagte: „Komm,meine Leiter hilft uns über
+                    die Hofmauer, außerhalb derselben steht ein Schifflein bereit, und habe ich dich
+                    erst ans andere Ufer gebracht,D wird.“„Und der Vater?“ fragte Ottilie, „wilsst
+                    du den umkommen lassen? Er lebt im Spital.“<pb/> 489 „Wir haben keinen,“ gab
+                    Ulrich zur Antwort. „Und Gott, der dich strafen kann?“ warf das Mädchen wieder
+                    ein.</p>
+                <p>„Der hat sich um uns nicht bekümmert, so will ich mich um ihn auch nicht
+                    bekümmern,“ versetzte der trotzige Jüngling.</p>
+                <p>„Verzeihe dir Gott deine Rede,“ sagte die Schwester schaudernd;„o, wenn du
+                    wüßtest, was ich leide, weil ich kein Vertrauen zu Gott haben kann, und doch
+                    keine Ruhe finde ohne dasselbe! Ulrich,Ulrich, ein Leben ohne Gott ist
+                    schrecklich!“</p>
+                <p>„Mag sein, aber jetzt komm, die Zeit ist mir kostbar,“ sagte der Bruder und faßte
+                    Ottiliens Hand, sie gegen das Fenster ziehend;aber die Jungfrau wich zurück.</p>
+                <p>„Nein,“ sagte sie, „ich bleibe hier; lieber sterben als leben als Schwester eines
+                    Mordbrenners. Der Muiter ist Unrecht geschehen und mir haben Viele weh gethan,
+                    wenn sie mich das Kind der Hexe genannt und mich verachtet haben; aber Viele
+                    sind auch, die es wohl mit mir gemeint und mir freundlich begegnet sind; ich
+                    will mit ihnen umkommen, wenn du dein böses Werk thun willst.“</p>
+                <p>Vergebens bemühte sich Ulrich, die Schwester zur Flucht zu bewegen; er drohte und
+                    bat, aber das Mädchen blieb fest; da wandte er sich endlich zum Fenster und mit
+                    den Worten: „So habe ich denn gar Niemand mehr auf der Welt, auch du stößest
+                    mich zurück,“ schwang er sich hinaus und das Dunkel der Mitternacht entzog ihn
+                    Ottiliens Augen.Noch stand die Jungfrau am offenen Fenster, in ängstlicher
+                    Spannung auf die hastigen Tritte des Hinwegeilenden lauschend, bis ssie keine
+                    mehr hörte; dann aber ergriff sie heftiges Zittern und unvderkennbare Angst:
+                    „Was wird er nun thun, wird er sein böses Vorhaben wirklich ausführen, wird die
+                    Flamme bald empor schlagen?soll ich die Leute wecken und warnen, und den Bruder
+                    vielleicht aufs Blutgerüst bringen?“</p>
+                <p>Von Minute zu Minute stieg ihre Angst; ein schwacher, röthlicher Streif wurde am
+                    Himmel sichtbar; ist es der Widerschein des ausbrechenden Feuers? „Gott im
+                    Himmel verhüte die That!“ rief sie und sank nieder auf ihre Knie, in der Qual
+                    ihres Herzens die Hülfe Dessen anrufend, der sich an Keinem unbezeugt läßt und
+                    ein Herr ist Himmels und der Erden, groß von Rath und stark von That.<pb/> 4«49
+                    Der Morgen graute, die schreckliche Nacht war vorüber; ahnungslos hatien die
+                    Bewohner der Stadt sie verschlafen. Von einer Zentnerlast fühlte sich Ottilie
+                    befreit, und zum ersten Mal seit dem Tode der Mutter hob das frohe und selige
+                    Gefühl des göttlichen Schutzes ihre Brust. Sie verließ ihre Kammer, schlich
+                    leise über den Hof und durchwandelte die stillen Gassen der Stadt; keine Spur
+                    war von ihrem Bruder zu finden. Eben ging die Sonne auf und beschien goldig
+                    Häuser und Straßen; Ottilie ging wieder unter dem Bogen durch zurück ins
+                    Amthaus, da blitzte und funkelte etwas zu ihren Füßen, sie bückte sich und hob
+                    einen glänzenden Ring auf. Es war ein breiter, massiver Goldreif, auf dessen
+                    innerer Seite Worte in fremder Sprache eingegraben waren; den Ring mußte einer
+                    der durchziehenden Schweden gestern verloren haben. Ottilie steckte ihn an ihren
+                    Finger; das war nun der einzige Schmuck, den sie besaß; sie hätte kein Mädchen
+                    sein müssen, wenn er ihr nicht gefallen hätte.</p>
+                <p>Wenige Wochen nachher neigte sich ein trüber, neblichter Herbsttag seinem Ende
+                    zu; es war einer jener wehmüthigen Abende im Spätjahr, da die stumme Natur ihre
+                    Klage anzuheben scheint über das unerbittliche Gesetz der Veränderlichkeit,
+                    unter dem die Kreatur seufzt, bis ihr einst die Zeit der Befreiung kömmt. Dick
+                    und schwer lag der Nebel auf dem Rhein und hüllte die Mauern und Firste der
+                    Stadt in seinen gespenstigen Mantel; einzelne Lichter, die nach und nach
+                    angezündet wurden, blickten matt und trübe durch das verhüllende Grau, und
+                    raschelnd fielen die verwelkten Blätter der Bäume unter dem Hauche eines
+                    frostigen. Windes. Auf den Wällen von Stein machte gemessenen Schrittes die
+                    Wache ihre abendliche Runde (denn seit dem Durchzug der Schweden lag
+                    zürcherische Besatzung im Orte)und auf dem Schloß Hohenklingen wurde eben das
+                    Wachtfeuer für die Nacht angezündet und verbreitete einen seltsamen Schimmer
+                    über das Nebelmeer, das den Schloßberg umwogte. Da ertönte das Horn des Wächters
+                    am Rheinthor; der einzige, lang gezogene Ton verkündigte ein ankommendes
+                    Fuhrwerk, und der Hauptmann der Zürcher,der im Amthaus Quartier genommen hatte,
+                    trat rasch an das Erkerfenster des Saales, um einen Blick nach der Brücke zu
+                    thun. Durch den dichten Nebel gewahrte er nichts als undeutlichen
+                    Lichtschimmer;aber bald trat ein Wachtmeister mit der Meldung ein: „Herr
+                    Hauptmann, es istwieder ein Transport aus dem schwedischen Lager
+                    angekommen.“</p>
+                <pb n="50"/>
+                <p>„Verwundete also?“ fragte der Hauptmann.</p>
+                <p>„Sie schicken uns noch sogar ihre Todten her,“ erwiderle der Wachtmeister und
+                    berichtete weiter: „Auf dem angekommenen Wagen liegt ein schwer verwundeter
+                    Offizier und ein Gemeiner, der im Lager erkrankt ist; außerdem steht aber noch
+                    ein Sarg darauf; der eine der beiden Reiter, die den Transport eskortirten,
+                    wünscht Euch selber zu sprechen.“</p>
+                <p>„Wohl,“ sprach der Hauptmann, „führe du den Wagen in den Hof und bringe mir den
+                    Reiter.“ Bald hörte man den Tritt der Pferde, die langsam, als wüßten sie, welch
+                    traurige Last sie hätten den Wagen in den Hofraum zogen, und einen Augenblick
+                    später trat mit militarischem Gruß und sicherm Anstand ein junger schwedischer
+                    Reitersmann vor den schweizerischen Offizier und überreichte ihm ein
+                    versiegeltes Schreiben. Der Hauptmann las es bedächtig durch, faltete es
+                    zusammen und sagte zu dem Schweden, der ihn unterdeß aufmerksam betrachtet
+                    hatte: „Die beiden Kranken nehmen wir auf, wie alle andern, die Se. Exellenz uns
+                    zugeschickt hat; sie sollen eine sichere Zufluchtsstätte und sorgsame Pflege
+                    finden. Daß der Feldmarschall uns auch seine gefallenen Helden übergibt, rechnen
+                    wir uns zur besondern Ehre an; die Leiche des Herrn Obersten, der wie der Bries
+                    hier meldet auf den Wällen vor Konstanz den tödtlichen Schuf erhielt, soll mit
+                    allen ihr gebührenden Ehren der Erde übergeben werden Jetzt kommt mit mir, ich
+                    will selbst die nöthigen Anordnungen treffen.“Er wollte der Thüre zuschreiten,
+                    da trat der Schwede einen Schritt vor: „Herr,“ sagte er, „Ihr erfüllet
+                    bereitwillig die Wünsche meines Gebieters, werdet Ihr auch einem einfachen
+                    Reiter eine Bitte gewähren?“</p>
+                <p>„Sagt an.“ „Der Fähnrich, der drunten verwundet auf dem Wagen liegt, ist mein
+                    vertrautester Freund,“ sagte der Schwede, und über sein Geficht ging der
+                    Ausdruck tiefen Schmerzes; „seit dem heißen Tage bei Lützen, wo wir uns kennen
+                    lernten, haben wir fest zusammen gehalten und alle Beschwerden des Krieges mit
+                    einander getheilt. O, daß ich auch den Tod mit ihm theilen könnte!“ rief der
+                    junge Mann, sich selbst unterbrechend, aus.</p>
+                <p>„Mein Freund,“ fuhr er dann fort, „ist tödtlich verwundet:gönnet ihm Ruhe hier in
+                    diesem Hause und erlaubet mir in seiner Nähe zu bleiben und ihn zu verpflegen.“
+                    Der Haupimann bedachte sich einen Augenblick. „Es sei, wie ihr wünschet,“ sagte
+                    er dann </p>
+                <pb n="51"/>
+                <p>„im anstoßenden Zimmer, bisher von mir selbst noch bewohnt, möget ihr Beide Platz
+                    finden; heißt das Gemach doch die Freiheitsstube,und ist von alter,
+                    klösterlicher Zeit her eine unverletzliche Freistätte; so möge denn für jetzt
+                    die Freundestreue ihren Sitz darin aufschlagen, fie ist auch oft eine
+                    Vertriebene unter den Menschen.“ Der Schwede verneigte sich tief vor dem edlen
+                    Manne und dankte mit wenigen,kraftigen Worten. Um den Wagen im Hofe hatten sich
+                    die Bewohner des Hauses und mehrere Soldaten gesammelt; ein großes Windlicht
+                    warf seinen Schein über den schwarz gedeckten Sarg, auf dem die Waffen des
+                    Gefallenen lagen. Der Hauptmann und der Schwede traten herzu. „Laßt uns zuerst
+                    für die Lebendigen sorgen,“ sagte der Erstere und gab zweien seiner Leute den
+                    Befehl, den kranken Soldaten in dem nahe gelegenen Zunfthause bei der
+                    Rheinbrücke unterzubringen.</p>
+                <p>„Jetzt wollen wir Euern Freund bequemer betten,“ sagte er zu dem Schweden, der
+                    schon auf das Rad gestiegen war und dem Verwundeten Worte der Liebe und des
+                    Trostes zuflüsterte. Sorgsam hob er, mit Hülfe der Umstehenden, den fast
+                    Bewußtlosen aus dem Stroh und den Betistücken heraus und trug in auf seinen
+                    starken Armen in das mittelalterliche schöͤne Gemach hinauf, das ihm die Güte
+                    des Hauptmanns eingeräumt. Nicht ohne Bewegung sahen die Umstehenden den beiden
+                    Freunden nach, von denen der Eine, hülflos wie ein Kind,in den Armen des Andern
+                    lag, der seine Kraft nur zu besitzen schien,um damit dem Freunde zu dienen.</p>
+                <p>„Herr Amtmann, ich konute nicht anders,“ sagte der Hauptmann zu seinem
+                    Quartiergeber: „haltet mich ein wenig knapper, daß Ihr des Schadens einkömmt und
+                    verzeiht mir den Zuwachs, den ich Euerem Haushalte verschafft habe.“</p>
+                <p>„Ich hätte an Euerer Statt auch nicht anders gehandelt,“ erwiderte Herr Usteri,
+                    „darum seid unbekümmert; ich denke, Küche und Keller im Amthaus werden wohl noch
+                    für ein paar weitere Gäste ausreichen.“</p>
+                <p>Am späteren Abend war reges Leben in der großen Konvenistube;das ehemalige
+                    Refektorium der Mönche war in den Tagen der Besatzung in eine Trinkstube der
+                    Soldaten umgewandelt worden; Soldaten und Unteroffiziere saßen an langen Tischen
+                    beisammen, tranken ihren Wein, und während die Einen das Glück im Würfelspiele
+                    versuchten, unterhielten sich die Andern im ruhigen Gespräch über den <pb n="52"
+                    />Krieg, oder wohl auch über Gewerb und Feld, über Weib und Kind daheim im
+                    Zürchergebiete.</p>
+                <p>Der junge Schwede trat auch in die Schenlstube, setzte sich ziemlich unbeachtet
+                    in eine Ecke und betrachtete aufmerlsam die Anwesenden.Es waren die ersten
+                    schweizerischen Soldaten, die er sah; er vberglich die bunten und oft wilden
+                    Scenen im schwedischen Lager mit dem Bilde, das er vor sich hatte, und fühlte,
+                    daß er sich hier unter ruhigen Bürgern befinde, trotz ihres soldatischen
+                    Gewandes; die altbewährte Tapferkeit der Schweizer erschien ihm um so höher und
+                    größer, da er sie mit ernstem und ruhigem Sinne gepaart sah. Nur ein
+                    rothhaariger,gemein aussehender Bursche am untersten Ende eines Tisches gefiel
+                    ihm nicht; er würfelte ungestüm, und als er bereits den Sold des morgenden Tages
+                    verspielt hatte, warf er die Würfel hin und fing nun an,die übrigen Spieler mit
+                    derben und boshaften Spässen zu necken. Der Schwede, der seinen Platz in der
+                    Nähe hatte, wollte eben aufstehen,um sich eine bessere Gesellschaft zu suchen,
+                    als eine junge Magd herein trat und ihm einen Krug Wein brachte. Ein weißes
+                    Tuch, unter dem Kinne geknüpft, verhüllte fast ihr ganzes Gesicht, und als sie
+                    den Wein hingestellt hatte, wollte sie sich rasch wieder entfernen. Da wurde der
+                    unglückliche Würfler ihrer ansichtig. „Ha, hieoh!“ rief er aufspringend, „da
+                    kommt das Hexenkind, das soll mir die Zeit nun vertreiben!“ und des
+                    erschrockenen Mädchens Hand fassend, wollte er sie mit roher Gewalt an seine
+                    Seite ziehen. Ottilie sträubte sich und suchte sich frei zu machen, aber der
+                    Bursche hielt fest und griff frech nach ihrem verhüllenden Kopftuche, um es weg
+                    zu ziehen: „Laß sehen,“sagte er, widerlich lachend, „wie bei euch die Hexen
+                    aussehen, wenn sie noch jung sind.“ Das Mädchen stieß einen durchdringenden
+                    Sqhrei aus und im nämlichen Augenblick faßte die kräftige Faust des Schweden den
+                    Arm des rohen Menschen: „Laß sie los!“ rief er mit befehlender Stimme, und
+                    setzte entrüstet hinzu: „Ist's bei den Schweizern Siüite,ihren Muth im Kampfe
+                    mit wehrlosen Frauen zu zeigen?“</p>
+                <p>„Was will der Fremde? was geht es ihn an, was bei uns Sitte ist, will er uns
+                    beschimpfen?“ riefen die Nächstsitzenden durch einander.Die Aufregung, welche
+                    die unbedachten Worte des jungen Mannes hervorgebracht, theilte sich auch den
+                    Entfernteren mit; es entstand ein Tumult, bei dem die Wenizsten wußten, um was
+                    es sich handle.Der Schwede hatte das zitternde Mädchen aus der Gewalt seines <pb
+                        n="53"/>Drängers befreit, und wie ein verscheuchtes Reh hatte dasselbe das
+                    Zimmer verlassen; jetzt sah er sich genöthigt, einen ungleichen Kampf mit den
+                    aufgeregten Schweizern aufzunehmen. Da erschien plötzlich der Hauptmann in der
+                    Thüre, und sein gebieterisches „Halt“ that alsbald Wirkung; er vernahm die
+                    Ursache des Streites, und nachdem er dem Zürcher sein rohes Benehmen verwiesen,
+                    wandte er sich an den Schweden: „Ihr habt gehandelt wie ein ehrlicher
+                    Kriegsmann,“sagte er, „aber nehmt Euch in Acht und stört mir als Gast nicht den
+                    Frieden des Hauses; der Schweizer ist eifersüchtig auf seine militärische Ehre,
+                    und nach einem einzelnen ungerathenen Burschen dürft ihr nicht die Sitten Aller
+                    beurtheilen.“</p>
+                <p>„Herr, verzeiht,“ sagle der Schwede, „verzeiht, daß ich zu weit ging; aber wo ich
+                    rohe Gewalt ein Unrecht begehen sehe, da treibt es mir das Blut in den
+                    Kopf.“</p>
+                <p>„Diese Eigenschaft wäre manchem Kriegsobersten in gegenwärtiger Zeit zu
+                    wünschen,“ sagte der Hauptmann lächelnd und zog sich zurück.</p>
+                <p>Der Schwede, seinen Krug unberührt stehen lassend, verließ ebenfalls die Stube;
+                    der Vorfall hatte ihn verstimmt; er ging hinauf in das Zimmer, wo sein
+                    verwundeter Freund lag. In einer Wandnische stand das Bett desselben; stille
+                    war's um dasselbe her, man hörte nicht den leisesten Athemzug. Der junge Krieger
+                    neigte sich über den Kranken und fragte mit weicher, zärtlicher Stimme:
+                    „Allan,wie geht es dir?“ aber er erhielt keine Antwort, denn der Kranke lag in
+                    jenem Halbschlafe, der eine Folge großer Enikräftung ist;nur der leise Hauch,
+                    der seinen Lippen entschwebte, verrieth, daß er noch lebte. Der Schwede setzte
+                    sich an sein Bett und betrachtete mit sichtlichem Schmerze die bleichen,
+                    entstellten Züge des Freundes, der in den reinen, erst vor einer kurzen Stunde
+                    frisch angelegten Verbänden einem schon Gestorbenen glich, dessen Haupt mit den
+                    Grabtüchern umwunden war. Es war so still in dem dunkel getäfelten,nur von einem
+                    schwachen Licht erhellten Gemache, die Freunde so allein,fern von der Heimat.
+                    Ueber den Schweden kam es wie tiefe Wehmuth, wie Schmerz des Heimwehs; da regte
+                    sich der Kranke:</p>
+                <p>„Erich,“ sagte er leise, „bist du bei mir?“</p>
+                <p>„Ja, Allan,“ erwiderte dieser, „wie geht es dir, fühlst du dich besser?“</p>
+                <p>„Ich träumte von der Heimat, war im Elternhause auf unsern Bergen; im Traum habe
+                    ich sie noch einmal geschaut. O, Schott<pb/> 54 land, Schottland, meine
+                    leiblichen Augen werden deine grünen Fluren.deine wilden Höhen nicht wieder
+                    sehn!“</p>
+                <p>„Freund, sagte der Schwede, „wir haben, als wir unter die Waffen traten, unser
+                    Leben einer heiligen Sache geweiht; wir find Beide nicht in den Krieg gezogen,
+                    um Ehre und Beute zu suchen,sondern um den bedrängten Glaubensgenossen zu helfen
+                    und unser Leben daran zu setzen, der Sache unseres Glaubens und der
+                    protestantischen Kirche den Sieg zu verleihen; fallen wir nun wohl, das hohe Gut
+                    ist eines theuren Preises werth.“</p>
+                <p>„O, Erich,“ sagte der junge Schotte, „ich danke dir, daß du mich jetzt, in dieser
+                    Stunde, daran erinnerst. Sehnsucht nach der Heimat erfüllte mein Gemüth und es
+                    ergriff mich die Reue, aus derselben fortgezogen zu sein zum Kampfe: mein junges
+                    Leben wollte mich dauern, ich gab's nicht gerne hin; aber du hast mir mit
+                    wenigen Worten wieder auf den rechten Standpunkt geholfen. Ja, für den
+                    evangelischen Glauben sterbe ich willig; wird doch Niemand gekrönt,er kämpfe
+                    denn recht, und die Leiden dieser Zeit sind nicht werth der ewigen
+                    Herrlichkeit.“</p>
+                <p>Erschöpft schwieg der Verwundete und sah nur mit seinen schönen,ernst blickenden
+                    Augen zu dem Freunde auf, wie wenn er ihn um weitern Zuspruch bitten wollte. Der
+                    Schwede zog ein in Leder gebundenes Buchlein aus seinem Koller, und mit
+                    gedämpfter Stimme begann er dem Freunde einige jener herrlichen Gesänge des
+                    Psfalters zu lesen, worin ein angefochtenes Gemüth seine Klagen und Fragen
+                    ausströmt, um nachher mit um so tieferen Zügen aus der Quelle des Trostes zu
+                    trinken.</p>
+                <p>Die Worte fielen wie ein erquickender Thau in die Seele des Kranken, aber noch
+                    ein anderes Gemüth nahm sie in sich auf als Saatkörnlein, die in gutem Erdreich
+                    aufgehen und Frucht bringen.</p>
+                <p>Als der Schwede vorhin hinauf gekommen war, hatte sich Ottilie,die weinend im
+                    Gange stand, in das kleine Zimmer geflüchtet, das rechts an die Stube der beiden
+                    Freunde stieß. Dort saß sie, anfangs bitterlich weinend über die ihr
+                    widerfahrene Schmach; dann, als sie die in der Schenkstube so stolz und
+                    gebieterisch klingende Stimme des Schweden vernahm, wie dieselbe jetzt weich und
+                    mild zu dem Freunde sprach, horchte sie auf, und was die Beiden mit einander
+                    sprachen,erschloß ihr eine ihr bis jetzt unbekannte Welt des innern Lebens.</p>
+                <pb n="55"/>
+                <p>Zum ersten Mal dämmerte es vor ihrer Seele auf, daß der christliche Glaube nicht
+                    bloß ein Kleinod sei, womit wir uns dann und wann schmücken sollen, um es
+                    nachher im Schrein zu verschließen, sondern eine lebendige und seligmachende
+                    Kraft, die das Herz neu gestaltet,die Verhältnisse des Lebens heiligend
+                    durchdringt und über Schmerz und Leid die Seele empor hebt zur ewigen Wahrheit.
+                    Ruhiger wurde ihr aufgeregtes Gemüth, es war ein Lichtstrahl in dasselbe
+                    gefallen,der eine lange Dunkelheit zu erhellen begann.</p>
+                <p>Am folgenden Morgen, schon sehr früh, trat Erich wieder in die Konventstube, um
+                    sein Frühstück einzunehmen, ehe einer der zürcherischen Soldaten zugegen wäre;
+                    er hatte fich vorgenommen, ihnen heute aus dem Wege zu gehen. Ein alter
+                    Hausknecht war mit Aufräumen beschäftigit, als der Schwede eintrat, und ging
+                    dann dem frühen Gaste das Morgenessen zu holen. Während Erich aß, fuhr der Alie
+                    in seiner Arbeit fort, säuberte Tische und Bänke und stellte die am Abend
+                    gebrauchten Gläser und Kannen auf den Kredenztisch, der achteckig die Säule
+                    umgab, die im Mittelpunkt des Zimmers der gewölbten Decke als Stütze diente;
+                    dazwischen warf er manchen verstohlenen Blick auf den Schweden, der ernst und
+                    schweigsam beim Essen saß. Der alte Mann war gesprächiger Natur und liebte solch
+                    stummes Beisammensein nicht.„Heut wird euer Oberst mit großen Ehren begraben
+                    werden,“sagte er endlich, das Gespräch eröffnend; „die ganze Besatzung soll
+                    ausrücken, wie ich gehört habe, und der wohlweise Rath wird sich in corpore
+                    einfinden; ist viel Ehre für einen Fremden; aber freilich ein Oberst! War er
+                    schon alt?“</p>
+                <p>„Nein,“ erwiderte der Schwede, „nicht viel älter als der Haupt-mann hier, und ein
+                    tapferer Mann, Alter, der wohl ein ehrenvolles Begräbniß verdient.“</p>
+                <p>„Glaub's, glaub's, aber à propos, wißt ihr auch, wer das Mädchen ist, dem ihr
+                    gestern beigestanden ?“ fragte der Hausknecht,geraden Wegs auf sein Ziel
+                    lossteuernd.</p>
+                <p>„Nein,“ war des Schweden kurze Antwort.</p>
+                <p>„Helf uns Gott, ihre Mutter ist vor Jahr und Tag als Hexe verbraunt worden und
+                    dem Kinde scheint es der Böse auch angethan zu haben; sie ist immer trübsinnig,
+                    noch Niemand hat sie lachen sehen öder ein Späßchen von ihr gehört. Nehmt Euch
+                    in Acht; ist Euch die <pb n="36"/>Hand nicht geschwollen, mit der Ihr sie
+                    gestern von dem ungeschlachten Burschen los machtet?“Lächelnd streckte der
+                    Schwede dem Alten die rechte Hand hin;„seht selbst,“ sagte er, „meiner Hand hat
+                    es nichts geschadet und das Mädchen hat auch nicht ausgesehn, als ob es so
+                    gefährlich wäre, ihm einen Dienst zu erweisen.“„Und doch hätt's nicht Jeder
+                    gethan,“ sagte der Alte kopfschüttelnd;„das Mädchen ist zwar fleißig und brav,
+                    Niemand kann ihr was nachreden aber der Apfel fällt nicht weit vom Stamme, und
+                    die Mutter war eine Herxe und ein bös und rachsüchtig Weib schon lange
+                    vorher.“Brummend ging der Alte hinaus.„Ottilie!“ rief bald darauf eine Stimme in
+                    der anstoßenden Küche,„hast du den Dienstleuten den Tisch schon gedeckt? die
+                    Morgensuppe ist fertig.“ Einen Augenblick nachher trat das Mädchen ins
+                    Zimmer,das der Schwede gestern Abend im Tumulte kaum recht gesehen haite.Sie
+                    erschrack, als sie seiner ansichtig wurde, aber bald gefaßt, trat sie näher zum
+                    Tische, stellte die große Schüssel, die sie trug, hin und sagte, zu dem jungen
+                    Manne aufblickend: „Ich bin euch großen Dank schuldig; ihr habt euch einer armen
+                    Magd angenommen, um die sich sonst Niemand kümmert; Gott lohne euch dafür.“
+                    Erich bot dem Mädchen die Hand, er fürchtete nicht, daß sie ihm aufschwellen
+                    werde;das Kind der Here, das hier vor ihm stand, anspruchslos und demüthig,aber
+                    mit dem Ausdruck ruhiger Festigkeit in den feinen Zügen, gefiel ihm so wohl, daß
+                    er nicht begreifen konnte, wie Jemand Böses von ihr denken möge. „Mich freut,
+                    daß ich euch helfen konnte,“ sagte er freundlich, aber im nämlichen Augenblick
+                    fiel sein Blick auf den Ring, den das Mädchen an der Hand trug, die er mit der
+                    seinen gefaßt hatte. Fast erschrocken ließ er die Hand los und starrte betroffen
+                    den goldenen Reif an, der ihm so wohl bekannt war. Wie kam der Ring. den ihm die
+                    eigene Mutter beim Abschiede gegeben, der ein Erbstück seiner Familie war und
+                    von dem die Sage ging, daß ihn die Ahnfrau aus einem Kruzifixe habe machen und
+                    durch einen heiligen Einfiedler mit Wasser aus dem Jordanflusse besprengen
+                    lassen, dieser Ring, den er beständig am Finger getragen und erst vermißt
+                    hatte,als er im Lager vor Konstanz die Zelte aufschlagen half, wie kam der an
+                    dieses Mädchens Hand?<pb/> 57 Die eintretenden Dienstleute hinderten den jungen
+                    Mann an weitern Fragen, und da auch bereits mehrere Soldaten sich im Hofe
+                    zeigten, so verließ er das Zimmer mit dem Vorsatz, sich bei erster Gelegenheit
+                    Aufschluß zu verschaffen.</p>
+                <p>Die Leiche des schwedischen Obrists wurde Nachmittags feierlich mit allen
+                    kriegerischen Ehren der Erde übergeben; aus dem Lager waren Freunde und
+                    Waffengefährten des Verstorbenen gekommen, ihm das letzte Geleite zu geben, wie
+                    denn überhaupt in den Tagen der Belagerung von Konstanz, nach einem Berichte aus
+                    jener Zeit, in Stein „ein beständiges Von- und Zureiten von Fürsten, Grafen,
+                    Obristen,Offizieren und Soldaten war, das nicht zu beschreiben ist.“</p>
+                <p>Erich war auch wieder heimgekehrt von dem Begräbnisse; er saß am Bette seines
+                    Freundes und erzählte ihm, wie seit gestern Abend unter den Schweden das Gerücht
+                    gehe, daß die Belagerung aufgehoben werde, weil ein kaiserliches Heer unter
+                    General Altringers Befehl zum Entsatze heranrücke. „Ich werde nicht mehr
+                    mitziehen, wenn die Schweden diese Gegend verlassen,“ sagte der Schotte, und
+                    Erich wagte nicht zu widersprechen und die Lebenshoffnung in einem dem Tode
+                    Verfallenen neu anzufachen; „ich bleibe bei dir,“ sagte er bleß, „und müßte ich
+                    mir diese Gunst von dem Feldmarschall selber erbitten.“Der treue Freund pflegte
+                    mit fast mütterlicher Sorgfalt seinen Kampfgeführten, mit dem ihn nicht nur
+                    jugendliche Freundschaft, sondern vielmehr Gemeinschaft des Glaubens und der
+                    innersten Herzensüberzeugung verband.</p>
+                <p>Tag um Tag verstrich und Allans Lebenskraft schwand immer mehr; so brach endlich
+                    der sechsste November an. Erich stand schon früh wieder neben dem Freunde und
+                    wartete auf dessen Erwachen.„Weißt du, welchen Tag wir heute haben?“ fragte er,
+                    als Allan endlich die Augen öffnete. „Wohl weiß ich es“ sagte dieser, und seine
+                    sonst so matten Blicke leuchteten freudig auf, „heute ist es ein Jahr, seitdem
+                    wir auf dem Schlachtfelde bei Lützen im heißen Kampfe standen; damals sah ich
+                    dich zuerst wie einen grimmigen Löwen mit den wilden Kroaten um die Leiche
+                    unsers großen Königs kämpfen.Damals wußte ich noch nicht, daß du neben dem
+                    Löwenmuth einen so milden und frommen Sinn habest; aber mein Herz zog mich zu
+                    dir hin, von deinem Muth entflammte sich der meine, und mit frischer Krast hob
+                    ich die Fahne empor. „Gott mit uns!“ rief ich begeisiert,<pb n="58"/>ob auch
+                    mein Herz mir blutete über des Königs Tod. O Erich, heute möchte ich sterben, an
+                    diesem Tage wäre mir's leicht.“ „Wie Gott will,“ sagte der Schwede und küßte die
+                    Stirne seines Freundes; dann redeten sie noch zusammen von den Ereignissen der
+                    Schlacht, vor Allem aber von dem Tode des Königs. „Ach, er, für den unsere
+                    Herzen so warm schlugen, für den jeder von uns sein Leben gelassen hätte,mußte
+                    getrennt von seinen Getreuen sein edles Leben verhauchen;warum wohl so?“ sagte
+                    Allan. „Wie manches Warum,“ erwiderte Erich, „liegt uns in der Seele, und die
+                    Antwort wissen wir erst, wenn das Dunkel dieser Zeit erhellt wird vom Lichte der
+                    Ewigkeit.“</p>
+                <p>„O, sagt es noch einmal, dies Wort,“ sprach hier eine weibliche Stimme. Erstaunt
+                    blickte Erich auf und auch Allans Blicke suchten die Sprecherin; es war Ottilie,
+                    die in der leise geöffneten Thür stand,ein Glas mit kühlendem Tranke für den
+                    Kranken in der Hand haltend.</p>
+                <p>.Was ist Euch?“ fragte Erich, und seine Stimme klang ernster als sonst, wenn er
+                    mit dem Mädchen sprach, mit dem er seit jenem Morgen manch' freundlich Wort
+                    schon gewechselt und seinen verlorenen Ring längst wieder zurück erhalten hatte;
+                    heute, in dieser Stunde.ließ er sich ungern von ihr unterbrechen.</p>
+                <p>„Zürnt mir nicht,“ sagte das Mädchen in bittendem Tone, „in meiner Seele heißt's
+                    auch: Warum, warum so? und Niemand ist,der mir Antwort gibt auf meine Frage.
+                    Warum mußte mir die Mutter, die uns Kinder so lieb hatte, die so viel für uns
+                    litt und ertrug, eines so furchtbaren Todes sterben? warum ist mein Leben so
+                    freudlos? warum bin ich von Jugend auf bestimmt, verachtet und verlassen zu
+                    sein? Ich habe euch oft zugehört, wenn ihr zusammen sprachet, und habe manches
+                    gelernt, was ich früher nicht wußte; wird auch mir einst das Licht der Ewigkeit
+                    das Dunkel meines Lebens erhellen?“ So sprach das Mädchen in lebhafter Erregung.
+                    Erich wollte ihr antworten, da fiel sein Blick auf den Freund, dessen Züge sich
+                    plötzlich zu ändern begannen. „Ihr kommt an ein Sterbebett,“ sagtr er leise zu
+                    Ottilien, „so bleibet denn hier, vielleicht gibt der Tod Euch die beste Antwort
+                    auf die Fragen des Lebens.“</p>
+                <p>Während der junge Schottländer noch einen kurzen Todeskampf kämpfte, während
+                    Erich mit gläubigem Muthe und ernstlichem Gebete rreu bei ihm aushielt, und
+                    Ottilie, im Innersten ergriffen, die edelste Frucht des christlichen Glaubens,
+                    die freudige Hoffnung des ewigen <pb n="59"/>Lebens, hier am Todbette reifen
+                    sah, zog der Nachtrab des schwedischen Heeres mit großem Geräusche wieder durch
+                    Stein: Zeltgeräthschaften und Belagerungswerkzeuge folgten in langem Zuge. Die
+                    nordischen Gäste verließen die schweizerische Grenze; nur einige feste Punkte am
+                    schwäbischen Seeufer blieben für einmal in ihrem Besiiz.</p>
+                <p>Düster, kalt und neblig, wie Novemberabende zu sein pflegen,war auch der Abend
+                    nach dem Begräbnisse Allans. Erich durchschritt in Gedanken versunken die
+                    bereits dunkel gewordenen Räume des Kreuzganges; der Wind wehte kalt aus Norden
+                    und durchzog scharf d'esen klösterlichen Raum; morgen schon sollte der Schwede
+                    das gastliche Haus verlassen, um in Buchhorn am See bei der schwedischen
+                    Besatzung, die dort zurückgeblieben, sich einzustellen. „Was betrübst du dich
+                    meine Seele und bist so unruhig in mir?“ klang es in seinem Innern; der Freund
+                    lag im Grabe, die Heimath so fern, der Gang des Krieges ein so langsamer und
+                    unbefriedigender. Das betrübte seine Seele, und jetzt sollte er scheiden aus dem
+                    Hause, darinnen ein Herz schlug, das er gerne sich zu eigen erworben. Seit er
+                    mit Ottilien am Sterbebette des Freundes gestanden, war das Mädchen ihm lieb
+                    geworden; was sollte er thun? Sollte er, ehe er schied, ihr sagen,was er für sie
+                    fühlte, sollte er ein fremdes Geschick an sein eigenes,wechselndes, unsicheres
+                    knüpfen? Da vernahm er leichte, geräuschlose Tritie und erkannte bald, trotz dem
+                    wachsenden Dunkel, die schlanke Gestalt seiner Geliebten.</p>
+                <p>„Ottilie, ich bin hier,“ sagte er leise, um dem Mädchen einen plötzlichen Schreck
+                    zu ersparen.</p>
+                <p>“Wie. Ihr? so allein im Dunkeln? was wollt Ihr denn hier?“</p>
+                <p>„Kommt, daß ich's Euch sage,“ gab Erich schnell entschlossen zur Antwort; er
+                    faßte die Hand des Madchens und führte es zu der Steinbank hin, die der
+                    Kirchenmauer entlang läuft. Was die Beiden dort mit einander sprachen, das hat
+                    der Nordwind verweht, der durch die Gänge pfiff; aber als sie sich endlich von
+                    diesem Sitze wieder erhoben,hatten sie die Hände fest in einander geschlagen und
+                    Erichs Ring glänzte zum zweiten Mal an Ottiliens Finger. Das Kind der Hexe stand
+                    nicht mehr verarmt und einsam unter den Menschen, es hatte ein Herz gefunden,
+                    das ihm in treuer Liebe schlug, und einen Arm,stark und bereit zu seinem
+                    Schutze.<pb/>Für Ottilie war es endlich Frühling geworden, neu lebte sie auf;
+                    was ihr so lange gefehlt, das hatte sie gefunden, und noch viel mehr; sie war
+                    erwacht zum Glauben, zur Hoffnung, sie hatte ihren Goit wieder gefunden,
+                    menschliche Liebe war ihr Pfand und Bürg-schaft der göttlichen geworden. Jetzt
+                    war's Frühling bei ihr, die Knospen öffneten sich, Blüthezeit, Wonnezeit in
+                    ihrem Gemüthe! Aber auf den Frühling folget der Sommertag; schwül wird die Luft
+                    und drückend die Hitze; nur was rechten Lebenssaft in sich hat, welkt und
+                    verdorret dann nicht.</p>
+                <p>Erich war fern, Tage und Wochen vergingen, ehe Ottilie etwa einmal durch einen
+                    Mann, der dem Amtmann zuweilen Seefische brachte, von ihm Kunde erhielt. Hart
+                    bedrängt von den kaiserlichen Truppen hielt die Besatzung in dem kleinen
+                    Buchhorn tapfer Stand;diesen Punkt wollten die Schweden festhalten, hier Schiffe
+                    bauen und ausrüsten, und ss sich zu Herren des schwäbischen Meeres machen.Als
+                    nach langen Wintertagen die Feindseligkeiten aufs neue begannen,da wollte oft
+                    tödtende Angst sich des liebenden Mädchens bemächtigen;dann rang sie in einsamen
+                    Stunden um den muthigen Glauben und um die Ergebung, wie sie Erich besaß. Wenn
+                    der Mann mit seinem Fischkorb kam, llopfte höher ihr Herz, bis sie wußte, was er
+                    ihr brachte, einen Gruß, die Kunde, daß Erich lebe und wohl sei. </p>
+                <p>So kam der Sommer. Ottilie war an einem schwülen Nachmittage im Hofe beschäftigt;
+                    es schien ein Gewitter im Anzug; die Tauben waren heimgekehrt und badeten sich
+                    am Brunnen oder saßen geduckt auf den Stangen vor dem Schlage; dunkle Wolken
+                    stiegen auf und der Wind erhob sich mit Macht. Da schritt der bekannte Fischer
+                    durchs Hofthor; er schaute fich vorsichtig um und wäre, als er das Mädchen
+                    erblickte, gern ungesehen an ihr vorüber gegangen,aber es hatte ihn schon
+                    bemerkt und grüßte ihn freundlich.</p>
+                <p>„Will hinauf in die Küche,“ sagte der Mann, „bringe dieß Mal prächtige Fische.“
+                    Er wollte vorbei; aber dem bittenden, fragenden Blick des plötzlich
+                    erschreckenden Mädchens konnte er nicht ausweichen.</p>
+                <p>„Was ich sagen wollte,“ begann er, „da kommt gestern Abend ein schwedischer
+                    Reiter vor meine Hütte geritten: „„Wenn ihr dem Amtmann in Stein wieder Fische
+                    bringt,““ sagte er mir, „„o nehmt dieses Päcklein mit, gebt's dem Mädchen, dem
+                    ihr schon manchen Gruß ausgerichtet habt, und bringt ihm den letzten ....“<pb
+                        n="61"/>„Gott im Himmel, erbarme dich meiner!“ rief Ottilie und hielt sich
+                    am Brunnen fest, um nicht umzusinken.</p>
+                <p>„Dummes Zeug, der Schwede hätte einen Andern schicken können,als mich,“ brummte
+                    der Fischer, „muß jetzt doch ausrichten, was er mir aufgetragen.“</p>
+                <p>„Sagt es mir schnell,“ bat das Mädchen, „daß ich mein Unglück auf einmal
+                    erfahre.“</p>
+                <p>„Bringt ihr den letzten, sagte der Reiter,“ fing der Fischer wieder an; „bei
+                    einem Ausfall, den die Besatzung machte, ist ihr Bräutigam mit noch manchem
+                    tapfern Reiter gefallen. Nun wisset ihr Alles,zürnet mir nicht; Gott weiß, daß
+                    ich ungern genug den Weg hieher gemacht habe, tröste euch Gott!“ Der Mann fuhr
+                    mit seiner rauhen Hand über die Augen und ging dann hinauf ins Haus; um seine
+                    Fische zu verkaufen. In der Ferne zuerst, dann immer näher und näher rollte der
+                    Donner, und die Blitze zuckten durch das schwarze Gewölk. „O daß sie mich
+                    träfen, daß ich los wäre dieses armen,mühseligen Lebens!“ seufzte Ottilie und
+                    preßte die Hände gegen die Brust, wo stechender Schmerz sich fühlbar machte.
+                    Aber das Gewitter zog vorüber und das Leben will ertragen sein, so schwer es oft
+                    ist.</p>
+                <p>In ihrer einsamen Kammer öffnete die Jungfrau das Päcklein,das Erichs Vermächtniß
+                    enthielt; drinn fand sie den Psalter, aus dem er einst Allan getröstet, einiges
+                    Geld und ein beschriebenes Blatt:</p>
+                <p>„Weil ich heute zum Ausfall kommandirt bin und eine unerklärliche Angst und
+                    Bangigkeit in mir verspüre, so will ich einem zurückbleibenden Kameraden, was
+                    ich Werthvolles habe, für dich übergeben. Wenn ich falle, so ergib dich in
+                    Gottes Rathschluß und brauche fleißig das Büchlein, das mir in allem Kriegslärm
+                    so oft zum Troste geworden. Sei nicht zu traurig und führe dein Leben Gott zur
+                    Ehre und den Menschen zum Dienst; nimm meinen Ring mit dir ins Grab und werde
+                    nicht irre an Gottes Liebe und Treue. Um das Alles bittet dich dein Erich.“</p>
+                <p>Als Ottilie dieses Blättchen gelesen, faltete sie es zwar mit thränenden Augen,
+                    aber mit entschlossenem Herzen zusammen. „Es soll sein, Geliebter, wie du mich
+                    bittest,“ sprach sie fest; „Gott zur Ehre, den Menschen zum Dienst will ich mein
+                    Leben verbringen;D <pb/> 62 Es war ein großer Entschluß, den hier Ottilie faßte,
+                    bald ausgesprochen in der hohen Erregung des Augenblicks; aber schwer
+                    auszuführen in seinen einzelnen Theilen. Das Leben der Frauen ist oft eine Kette
+                    von Kleinigkeiten sehr ermüdender Art; Großem zu entsagen, fällt weniger schwer,
+                    als täglich sich selbst zu verlaugnen, und eine kurz zu tragende gewaltige Last
+                    drückt weniger schwer, als die tägliche kleine, die nie abgenommen wird.
+                    Sprudelt nicht im Innern die Quelle des Glaubens, der Hoffnung und Liebe, und
+                    erfrischt das Herz mit ihrem lauteren Strom, so wird es dürr in demselben und
+                    kein Blümchen der Freude wächst mehr darin, weder für sich nock für Andere.</p>
+                <p>Ottilie blieb was sie war, eine treue Magd, still und bescheiden;wo sie helfen
+                    konnte, that sie's mit Freuden und über ihr Leben bereitete sich der Duft des
+                    Friedens mit Gott. So vergingen die Jahre; Deutschlands frommer Sänger hatte
+                    bereits die Harfe ergriffen und in die Lande hinaus sein Lied erklingen lassen:
+                    „Gottlob nun ist erschollen das edle Fried- und Freudenswort, daß nunmehr ruhen
+                    sollen die Spieß' und Schwerter und ihr Mord.“ Der Krieg war zu Ende, die Heere
+                    waren aufgelöst und viel herrenloses Gesindel trieb sich in den Landen
+                    herum.</p>
+                <p>Wieder war's Herbst geworden; Ottilie saß am Bette eines kranken Kindes ihrer
+                    Herrschaft und ließ, während fie leise am Rocken spann,ihre Gedanken hinaus
+                    schweifen in die vergangene Zeit. Sechszehn Jahre waren dahin seit jenem
+                    Herbstabend, an dem sie Erich zum ersten Male gesehen hatte; nicht spurlos war
+                    die Zeit an ihrer äußern Erscheinung vorübergegangen. Die Furchen ihres
+                    Angesichts kündigten das nahende Alter an und die ehemals glänzend schwarzen
+                    Haare spielten bedeutend ins Graue. Das Menschenherz ist immer dasselbe,vor zwei
+                    Jahrhunderten wie jetzt. Wenn das Leben sich langsam und gleichförmig abspinnt,
+                    wenn die Hoffnungen der Jugend gebrochen sind, wenn das Aller vor uns steht,
+                    einsam, freud- und freundlos,so beschleicht oft tiefe Wehmuth das Herz, und die
+                    Frage taucht auf:Was soll mir den eigentlich das Leben? Ottilie hing ähnlichen
+                    Ge nach, als eben eine ihrer Mitmägde kam, um sie heraus zu </p>
+                <p>rufen.</p>
+                <p>„Geh' in den Kreuzgang und sieh', was der Mensch will, der dort auf dich wartet,“
+                    sagte ihr die Magd, und setzte hinzu: „mache </p>
+                <pb n="63"/>
+                <p>nur, daß er nicht in's Haus kömmt; die Frau Amtmännin würde ein böses Gesicht
+                    machen, wenn sie den schmutzigen Kerl sähe.“</p>
+                <p>Erschrockenen Herzens ging Ottilie hinaus und that einen Schritt zurück, als sie
+                    des Fremden ansichtig wurde. In einen zerrissenen Soldatenmantel gehüllt, stand
+                    ein Mann vor ihr mit verwildertem Aussehen, das Gesicht mit shwarzen Pflastern
+                    bedeckt; unordentlich hingen die Haare über die niedere Stirne und die tief
+                    liegenden Augen, aus denen ein verzehrendes Fieber heraussah. Auf Ottiliens
+                    ängstliche Frage: „Was wollt ihr von mir!“ sah der Mann sie starr an und sagte
+                    in scharfem Ton: „Kennst du mich nicht mehr, oder willst du mich nicht kennen?
+                    Gleichviel, ich bin doch dein Bruder und habe mich lang und hart genug
+                    durchgebettelt bis in die Heimath jetzt sieh zu, daß du mir eine Unterkunft
+                    findest.“ So kehrte Ulrich heim; seinen trotzigen Sinn hatten Krankheit und
+                    Elend nicht brechen können; er litt an einem unheilbaren Uebel und fand im
+                    „Siechenhäuslein“ Unterkommen und mnothdürftige Pflege; aber sein wilder Sinn
+                    bereitete der Schwester viel Sorge und Noth.</p>
+                <p>Traurig saß Ottilie einst an seinem Beite, das er nicht mehr verlassen konnte;
+                    sie redete mit ihm von dem Frieden, den sie im Glauben gefunden und der ihre
+                    freudlosen Tage mit mildem Lichte erhellt habe. „Ach, laß' mich in Ruhe,“ sagte
+                    der Kranke unwillig „da ich ein kleiner Kaabe war, wollte ich ein Mann werden,
+                    so gut,als unser Vater schlecht war; da sie uns die Mutter verbrannten,nahm ich
+                    mir vor, mich vor Andern auszuzeichnen und mir Ehre zu erringen, um die Schmach
+                    abzuwälzen, die man uns angethan;was bin ich geworden? ein elender Landsknecht,
+                    dem man hier auf dem Siechbette das Gnadenbrod giebt; mit mir ist's aus, drum
+                    laß mich in Frieden mit deinem Gerede.“</p>
+                <p>„Hast du irgend eine besondere Schuld auf deinem Gewissen?“fragte die treue
+                    Schwester eindringlich weiter; „denke an jene Nacht,da du mit den Schweden hier
+                    durchkamst, und an dein böses Vorhaben; hast du irgend eine solche That verübt,
+                    so nimm sie nicht unbereut mit dir in die Ewigkeit.“</p>
+                <p>„Was Ewigkeit!“ sagte der Kranke mit wildem Blick und warf sich unruhig im Bette
+                    herum; wen man ins Grab legt, mit dem ist's aus; müßte sonst gar noch in einer
+                    andern Welt das Gesicht des langen Uhrmachers sehen, den die Kaiserlichen Anno
+                        dreiund<pb n="64"/>dreißig in Wiesholz erschlagen haben.“ Ottilie erschrak
+                    im innersten Herzen; sie gedachte wohl noch des Aufsehens, das im Dezember des
+                    Jahres, da die Schweden vor Konstanz zogen, die Ermordung eines Bürgers von
+                    Stein durch die kaiserlichen Soldaten in dem benachbarten schwäbischen Weiler
+                    Wiesholz gemacht hatte. Was hatte ihr Bruder mit dieser Gewaltthat zu thun, daß
+                    sie sich an seinem Todbette zwischen ihn und die Ewigkeit stellte?</p>
+                <p>„Was fiehst du mich so an ?“ rief der Kranke wieder; „hast du denn vergessen, daß
+                    der lange, dürre Heuchler die erste Klage gegen unsere Mutter erhob, daß er
+                    dabei stand, als fie gefangen genommen wurde, und daß er uns Alle zusammen
+                    Teufelsbrut nannte? Den hätte ich zu Kohlen verbrannt, wenn du mich damals nicht
+                    gehindert hättest; als ich ihn aber nachher bei den Bauern in Wiesholz sah,wo
+                    ich mich unter den Kaiserlichen umhertrieb, da reizte ich einen Soldaten zur
+                    Eifersucht, denn der Alte schlich einer jungen Magd nach, und noch vor Abend
+                    bekam er seinen verdienten Lohn und lag mit zerschmettertem Schädel am Boden. Ja
+                    ich sah ihn seit manchem Jahr immer vor mir und bin froh, wenn ich des Dings
+                    einmal los bin.“ </p>
+                <p>Was vermag Menschenwort über ein in der Sünde verhärtetes Herz! Ottilie versuchte
+                    es nicht, ihrem unglücklichen Bruder sein Unrecht zum Bewußtsein zu bringen;
+                    sfie sank auf ihre Kniee und betete für dies verfinsterte Gemüth-um die
+                    göttliche Erbarmung. Der Kranke wandte sich gegen die Wand, heftige Zuckungen
+                    erschütterten seinen Körper und eine Stunde nachher lag er als Leiche da.</p>
+                <p>Die Schwester überlebte den Bruder nur kurze Zeit; an seinem Lager hatte sie den
+                    Keim ihrer Krankheit geholt; an einem stillen Wintertage erlosch mit der früh
+                    untergehenden Sonne ihr Leben;Die Kinder des Amtmanns, die die treue Magd gar
+                    lieb gehabt,standen weinend bei der Leiche und schmückten sie mit einigen
+                    Blumen.den Schwedenring nahm Ottilie ins Grab.<pb/>Verein für Ver </p>
+            </div>
+        </body>
+    </text>
+</TEI>
