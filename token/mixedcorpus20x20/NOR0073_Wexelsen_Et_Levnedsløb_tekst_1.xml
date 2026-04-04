@@ -1,0 +1,4610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="NOR0073" xml:lang="nb" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Et Levnedsløb ELTeC-utgaven
+    </title>
+    <author ref="221356145 https://www.wikidata.org/wiki/Q4902845">
+     Wexelsen, Marie (1832-1911)
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC encoding
+     </resp>
+     <name>
+      Michael Preminger
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     34973
+    </measure>
+    <measure unit="pages">
+     0
+    </measure>
+   </extent>
+   <publicationStmt>
+    <p>
+     Incorporated into the ELTeC
+     <date>
+      2021-08-19
+     </date>
+    </p>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2017060748100">
+      Bokselskapet (Teksten følger 1. utgave, 1866 (Kjøbenhavn/Schønberg). )
+     </ref>
+     <author>
+      M. Wexelsen
+     </author>
+     <title>
+      Et Levnedsløb
+     </title>
+     <pubPlace>
+      Kjøbenhavn
+     </pubPlace>
+     <publisher>
+      Schønberg
+     </publisher>
+     <date>
+      1866
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+   <profileDesc  xmlns:e="http://distantreading.net/eltec/ns">
+   <langUsage>
+    <language ident="nb" usage="100"/>
+   </langUsage>
+   <textDesc>
+     <e:authorGender key="F"/>
+     <e:size key="short"/>
+     <e:reprintCount key="low"/>
+     <e:timeSlot key="T2"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2021-08-19"/>
+  </revisionDesc>
+ </teiHeader>
+ <text type="novel" xml:id="NSL_Wexelsen_Levnetslob_tekst_xml_text">
+  <front>
+   <div type="titlepage">
+    <head>
+     Et Levnetsløb
+    </head>
+    <quote>
+     <p>
+      «Naar vi til Verden mon komme,
+     </p>
+     <p>
+      I os en Verden fremstaar.»
+     </p>
+     <p>
+      Grundtvig.
+     </p>
+     <p>
+      «Seid Gott befohlen
+     </p>
+     <p>
+      In Eurer Grabesruh!
+     </p>
+     <p>
+      Wir wollen Euch Kränze holen
+     </p>
+     <p>
+      und decken damit die Särge zu.»
+     </p>
+     <p>
+      Fouqué.
+      <ref target="#tok1" xml:id="backk1">
+       k1
+      </ref>
+     </p>
+    </quote>
+   </div>
+  </front>
+  <body>
+   <div type="chapter" xml:id="et-levnetsløb-1">
+    <p>
+     Saa det var
+     hendes
+     Levnetsløb,
+  du vilde høre?
+    </p>
+    <p>
+     Du skal faa det, som jeg kan give det, som det i stille Timer
+  kommer frem for min Sjel, suser gjennem Hugen med Mindets sagte
+  højtidelige Vingeslag.
+    </p>
+    <p>
+     Hvorledes kan den gamle Kvindes Levnetsløb være et Minde for
+  dig?
+    </p>
+    <p>
+     Hvad er vel et Minde?
+    </p>
+    <p>
+     Det, som engang har rørt Hjertet, saa dets Strenge gav Klang – mærk
+  vel: Klangen kan komme længe bagefter! det graalyse Spørgsmaal derinde
+  om noget Stort og Helt, Drømmen om Guldalderen, Længslen, som peger
+  fremad. Et Minde er alt, som fremspringer af eller smelter sammen med
+  Spørgsmaalet, Drømmen og Længslen.
+    </p>
+    <p>
+     Hvad skulde jeg vel kunne give dig eller nogen Anden, naar jeg ikke
+  gav mine Minder?
+    </p>
+    <p>
+     Jeg har ikke faat nogen Aladdinslampe at gnide paa, jeg raader ikke
+  over Aanderne, kan ikke fremtrylle noget Nyt.
+    </p>
+    <p>
+     Jeg er ingen Fugl, der farer over Land og Hav, ser med Skarpblik og
+  synger med klingende Røst. Den [4] hjemlige Kreds er min Mark, og du
+  ved, at jeg heller ikke der er af de Lykkelige, som bare har nødig at
+  stikke Spaden i Jorden for at finde Guld.
+    </p>
+    <p>
+     Hun
+     var just en
+  Mindegod,
+     <ref target="#NOR0073_tok2" xml:id="backk2">
+      k2
+     </ref>
+     en Hængebirk ved Bækken med svalende Skygge og Læ for Sangfuglen. Det
+  er yndigt at fremvoxe saaledes, langsomt og stille, men glem dog ikke,
+  at ogsaa det
+  Kigajon
+     <ref target="#NOR0073_ton10" xml:id="backn10">
+      n10
+     </ref>
+     <ref target="#NOR0073_tok3" xml:id="backk3">
+      k3
+     </ref>
+     udenfor Ninivehs
+  Port
+     <ref target="#NOR0073_tok4" xml:id="backk4">
+      k4
+     </ref>
+     var Herrens Plantning, skjønt det kom som et Prøvens
+  Tegn!
+     <ref target="#NOR0073_tok5" xml:id="backk5">
+      k5
+     </ref>
+    </p>
+    <p>
+     Jeg tør ikke sige, at jeg skal fremstille hvert Tidsrum af min
+  Mindegods Liv lige klart. Ikke altid fordi der ligger Slør over, men
+  fordi det ikke Alt ligger indenfor, hvad du kalder mine «blaalige
+  Grændsehøje.»
+    </p>
+    <p>
+     Du vil kanske nævne det en Prøve paa at lægge en Alen til min Væxt
+  og give mere, end jeg har, naar jeg giver mig til at skildre lidt af
+  Landskabet hinsides Højene. Skulde jeg komme til at se rent fejl, saa
+  jeg f. Ex. tager Træernes høstlige Farvespil for et gammelt Hustag,
+  saa vil dog dit skarpe Blik strax opdage det, saa jeg faar vel
+  Skammen, men du slipper Skaden.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Det var den første Time paa Søndagen, da blev hun født.
+  Nytaarsmaanen skinnede saa fuld og blank alt til langt paa Morgenen,
+  da den blev bleg og borte i Glandsen af den Sol, som Vorherre har sat
+  til Styret om Dagen. Men den Stads saa hun da sagtens ikke noget
+  til.
+    </p>
+    <p>
+     Det havde alt længe været Dag, før Solen fik arbejdet sig saa højt
+  over Vejen, at den kunde bringe sin [5] Lykønskning ind i det gamle
+  Hus, som laa derindeunder. Det gamle Stueuhr – ak ja, dette gamle Uhr
+  i den høje, sorte Kasse med broncerede Kinesere paa, det hører til
+  mine Barndomsminder saavelsom til hendes! – det gamle Stueuhr varslede
+  til Tolv, da den første lille Straale brød mod Isen paa Ruderne.
+    </p>
+    <p>
+     Men paa Slaget Tolv stod hele det gamle Hus rigtig dejlig oplyst,
+  ja det var som Lyset fandt sin Glæde i at spille i hver Krog, og selve
+  de broncerede Kinesere saa næsten ud som forgyldte.
+    </p>
+    <p>
+     For den, som ikke kjendte det gamle Uhr, maatte det komme hel
+  uventet og synes næsten nedslaaende, at det netop nu i dette spillende
+  Lys, netop nu, da et Søndagsbarn var født, skulde tage til at spille
+  langsomt, og højtideligt Tonen:
+    </p>
+    <p>
+     «Hvo ved, hvor nær mig er min
+  Ende?»
+     <ref target="#NOR0073_tok6" xml:id="backk6">
+      k6
+     </ref>
+    </p>
+    <p>
+     Men Søndagsbarnets Fader, som stod alene derinde og alt længe havde
+  skuet ind i den voxende Solglands, han kjendte saa godt det gamle
+  Uhrværks Sædvane, den varslende Tone lød som Vennehvisken til ham. Han
+  vendte sig om, smilte, nikkede og gav sig til at vandre frem og
+  tilbage paa Gulvet, medens han sang:
+    </p>
+    <p>
+     <quote>
+      <l>
+       «O, at jeg havde tusind Munde
+      </l>
+      <l>
+       og tusind Tunger i hver
+       Mund!»
+      </l>
+     </quote>
+     <ref target="#NOR0073_tok7" xml:id="backk7">
+      k7
+     </ref>
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Det var den første Tøvejrsdag i Februar, da blev hun døbt.
+    </p>
+    <p>
+     Det var ogsaa en glittrende blank Søndag, og alt var som Solskin i
+  det gamle Hus.
+    </p>
+    <p>
+     [6] Der var saa mørkt og øde udover Verden. Der var saa liden
+  Søndagsglæde, saa lidet Klokkespil i Hjerterne, himmelsk Klokkespil
+  mener jeg. Kirkeklokkerne ringede, ligefra de svære med Basunklangen i
+  de høje Taarne til dem, der lyde som Slag paa en Kobberkjedel. Men
+  hvormange hørte det ringe til Fest i Menigheden?
+    </p>
+    <p>
+     Nej, her nytter det ikke at komme med Tabeller og Regnestykker. «De
+  Stille i Landet» ere altid lydhøre. Vel stod Solen lavt, og
+  Verdensvisdommens mørke Fjeldknauser kastede lange Skygger; men hist
+  og her faldt Lyset gjennem et Skard i Berget, jog Mørket bort fra en
+  bøjet Birk, en alvorlig Gran og kyssede Duggen af Smaablomsterne.
+    </p>
+    <p>
+     Solen faldt paa det gamle Hus, Klokkeklangen tonede bortover det og
+  gjenlød dybt i Hjerterne derinde. Der var Glæde og Sang, Haab og
+  Livslyst paa den samme Tøvejrssøndag, da den lille Pige blev døbt og i
+  Daaben nævnet:
+     Martha Maria.
+    </p>
+    <p>
+     Solen skinnede som stærkest, da de rejste hjem fra Kirken. Det
+  dryppede af Tagene. Bortunder Laavebroen i Bondegaarden havde en hel
+  Spurveflok samlet sig, der havde Smaamoroen hjemme. De kviddrede, naar
+  de havde Stunder, de Smaa, forresten hakkede de jevnt i sig af
+  det
+     <ref target="#NOR0073_ton11" xml:id="backn11">
+      n11
+     </ref>
+     Spild, som fandtes hist og her, hakkede ogsaa lidt paa hverandre og
+  tyktes sig i al Troskyld rigere end Konger.
+    </p>
+    <p>
+     Den lille Piges Fader sang af Glæde og sagde: «vidste vi ikke
+  bedre, saa kunde vi indbilde os, at Vaaren kom meddetsamme!»
+    </p>
+    <p>
+     [7] «Vidste vi ikke bedre,» sagde hans Hustru, «saa kunde vi
+  indbilde os, at vor lille Martha fik Vaar og Sommer hele Livet
+  igjennem, saa dejlig er denne Dag. Se! hun vil endelig kige frem mod
+  Solen!»
+    </p>
+    <p>
+     Han bøjede sig ned mod sin Datter og sagde: «du lille Borgerinde i
+  Himmeriges Rige! Vaar og Sommer skal du af Guds Naade altid faa, trods
+  hver Vinter, hver streng Marts og tvivlsom Aprilmaaned.»
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Hun voxte og trivedes, kviddrede og sang som en Fugleunge og var
+  næsten ligesaa let som den; det var bare Vingerne, som manglede.
+    </p>
+    <p>
+     «Fuglebarn!» sagde hendes Fader.
+    </p>
+    <p>
+     Alt som Fuglebarnet voxte, fik hun og Flyvelyst. Havde hun ikke
+  været lykkelig, kunde Lysten blevet altfor heftig, Længslen efter at
+  flyve langt, langt bort altfor sygelig.
+    </p>
+    <p>
+     «Jeg vilde være som en liden Fugl jeg!» sagde hun, da hun var sex
+  Aar, hun stod og lo i Solskinnet; men da hun var ti Aar, sagde hun det
+  ikke mere, for det hørtes saa barnagtigt. Endda stod hun mangengang og
+  saa efter Lærken, som stak saa højt tilvejrs fra Sletten og slog sin
+  stærke Trille meddetsamme, efter Svalen, som hvirvlede saa let og
+  svandt som en susende Pil. Hun lo ikke da, hun blev tankefuld; men
+  Tanken flød snart over i Liv og Lyst.
+    </p>
+    <p>
+     Hun havde smaa Søskende, og hendes Moder havde Meget at tage vare.
+  Faderen underviste Fuglebarnet, som var og blev hans yndling.
+    </p>
+    <p>
+     [8] Det var en løjerlig Undervisning! morsomst af Alt i Verden,
+  mente lille Martha, naar hun i Mørkningstimen sad paa sin Faders Knæ
+  eller krøb op i Sofaen til ham og lyttede til alt det Forunderlige,
+  han kunde melde om, eller gjengav selv det, hun havde hørt af hans
+  Mund. Men sine egne store Livserfaringer fra den Dag eller Dagen før
+  lagde hun ind i alt det, hun saa eller hørte.
+    </p>
+    <p>
+     «Martha bliver oplyst i Tusmørket!» sagde hendes Fader, og det var
+  ikke bare af sin egen «Borger» han lo, Latteren var en Gjenlyd af hans
+  Hvile- og Forfriskelsestimer, den var Sjeleglædens Jubel.
+    </p>
+    <p>
+     Havde det ikke været for Skams Skyld, saa kunde han gjerne talt til
+  hver En, han mødte, om hvor mageløs let Fuglebarnet nemmede, hvilke
+  mærkelig dybe Spørgsmaal og Tilsvar hun kunde komme med. Til sin
+  Hustru talte han om det, og hans Øjne tindrede.
+    </p>
+    <p>
+     «Der bliver noget Stort af hende, aldrig saa jeg Mage til
+  Barn!»
+    </p>
+    <p>
+     «Gjør hende ikke til nogen lærd Dame!» bad Moderen.
+    </p>
+    <p>
+     «'Lærd!'
+     <ref target="#NOR0073_ton12" xml:id="backn12">
+      n12
+     </ref>
+     der er Forskjel paa en oplyst Kvinde og en
+  '
+     lærd
+  Dame
+     '.»
+     <ref target="#NOR0073_ton13" xml:id="backn13">
+      n13
+     </ref>
+    </p>
+    <p>
+     Tusmørkundervisningen begyndte igjen.
+    </p>
+    <p>
+     «Havde du Lyst til at være Prindsesse, Fuglebarn?»
+    </p>
+    <p>
+     «Nej,» sagde Martha, for hun havde hørt, det var ikke værd at ønske
+  sig Prindsessestand, den skulde ikke være videre morsom. Men hun
+  mente, at naar hun rigtig skulde faa vide det, saa maatte man spørge
+  [9] Prindsessen selv, og ganske hemmeligt undrede hun paa, om det ikke
+  endda var gildt. Hun sagde alligevel nej.
+    </p>
+    <p>
+     «Det er vel! For du bliver det aldrig. – – – Men – Marthalille!
+  hvad du end bliver, saa bliv for Alt en
+     Kvinde
+     , en
+     kristen
+     Kvinde!»
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Den glade, sanglystne, varmhjertede Mand døde.
+    </p>
+    <p>
+     Du stakkels lille Martha Maria!
+    </p>
+    <p>
+     Men hun havde jo en Moder, og det en Moder, som med opoffrende
+  Kjærlighed hengav sig for sine Børn. Martha var næsten tretten Aar, og
+  Moderen, som klart saa, at af alle Børnene havde hun tabt mest, drog
+  hende mildt og varmt til sig.
+    </p>
+    <p>
+     Martha fulgte villigt, det var saa godt for Hjertet. Men mellem
+  Aanderne blev der endda et Skjelle, saa de saa hinanden ikke rigtig
+  klart. Kanske det først mærktes nu.
+    </p>
+    <p>
+     Moderen frygtede, at den Aand skulde skeje ud, hvis Glimt hun saa,
+  men ikke fuldt fattede, hvis Flugt hun med al sin dybe Kjærlighed ikke
+  kunde følge.
+    </p>
+    <p>
+     Hvem tør kalde Frygten overflødig? jo mere sprudlende Liv, des
+  større Fare.
+    </p>
+    <p>
+     Martha blev bundet med Flidens og Huslighedens velgjørende Baand,
+  men ogsaa med alle disse Smaaklemmer, hvorved den lille Pige skal lære
+  at te sig, som det Kvinden sømmer. Ak, alle disse Smaaklemmer! ikke
+  bare paa Vildskaben, Ubændigheden, men ogsaa mangengang paa det ædlere
+  Liv, som vil bryde frem for at komme til Kræfter i Dagslyset.
+    </p>
+    <p>
+     [10] Eftersom Martha voxte til, kjendte hun sig mere og mere
+  bunden.
+    </p>
+    <p>
+     Dog skimtede det tidlig for hende, at det ikke var Flidens og
+  Huslighedens Baand, som kuede, skjønt de – mellem os sagt – stundom
+  kunde være hel tunge at bære. Hun vilde blive en
+     Kvinde
+     og
+     dygtig
+     Kvinde, hun kjendte en Kraft
+  i sig til at blive det, naar man bare vilde give hende lidt Tid.
+    </p>
+    <p>
+     Men hun vilde ogsaa være en
+     levende
+     Kvinde, maatte hun ikke faa
+  Lov til at være det? Der var Noget i hende, hun vidste selv ikke ret,
+  hvad det var, det bruste og gjærede, og det var mangengang en Lidelse,
+  men hun
+     vidste
+     , at det kunde stilne
+  af uden at dunste bort eller «blive Gaasedom,» som hendes Tanke under
+  Hjertets Bitterhed kaldte det.
+     O,
+  hvorfor vidste ikke Alle det
+     ?
+    </p>
+    <p>
+     Hvorfor vidste, hvorfor troede hendes Moder det ikke? Moderen
+     haabede
+     , men det vidste ikke den
+  lille Martha. Der er Meget, som Smaafolk ikke ser, men som ligefuldt
+  er til.
+    </p>
+    <p>
+     Martha stirrede paa sig selv, paa dette sit gjærende Liv, som
+  higede efter saameget baade i det Høje og det Dybe, som saa Syner paa
+  sin Flugt, men fandt ikke Hvile, fordi Alt, som hed Tid og Rum, var
+  for trangt for det. Det var jo dette Liv, som altid var ivejen, naar
+  hun skulde blive kvindelig, som Andre var det. Saa maatte det altsaa
+  slaaes ihjel, dersom hun skulde blive en ret Kvinde?
+    </p>
+    <p>
+     [11] Nej! sagde det i hende, ja al hendes Tanke og Følelse bruste
+  op i et mangedobbelt nej.
+    </p>
+    <p>
+     «Kan hende, at jeg gaar stygt, taler bagvendt, er klodset til
+  Haandarbejde og – og
+     endnu
+     ikke har
+  saa Lyst til al Husgjerning, som jeg burde have! endda er jeg mere
+  Kvinde indeni mig end alle disse fortørnede …»
+  Hendes
+     <ref target="#NOR0073_ton14" xml:id="backn14">
+      n14
+     </ref>
+     ophidsede Tanke standsede ved hendes Moders milde klare Billede og
+  nedsloges meddetsamme. Hun kjendte, at hun blev rød, endda hun var
+  alene.
+    </p>
+    <p>
+     Ja, hendes Moder! hun var rigtignok en Kvinde. O, gid hun lignede
+  sin Moder! Og endda – endda var Noget i hende, som maatte dø, dersom
+  hun skulde komme til at ligne sin Moder helt igjennem. Ikke bare det
+  Onde, Stygge, som hun mangengang var saa ude af det over. Nej, Noget,
+  som hun saa gjerne vilde skulde faa leve, Noget, som – hun sagde
+  langsomt og halvt tvivlende inde i sig selv – som Gud havde skabt.
+    </p>
+    <p>
+     Hun havde hørt, at det var saa fordringsfuldt at mene, man ikke
+  blev forstaat, det var ligesom at sige: der er dybere tilbunds hos mig
+  end hos Andre. Hun grundede paa det, hun tænkte, saa det gik rundt i
+  hendes lille Hoved; men hun kunde alligevel ikke faa andet ud end, at
+  der var Noget hos hende, som Ingen rigtig skjønte; ikke engang hendes
+  egen elskede Moder.
+    </p>
+    <p>
+     Men, hvorledes skulde hun faa Nogen til at skjønne det, som hun
+  slet ikke kunde tale om? Ja, kunde hun taget det frem og vist sin
+  Moder det, saa havde det rigtignok været godt! Saa kunde hun kanske
+  ogsaa faat Svar paa alle de Spørgsmaal, som gik saa urolige om derinde
+  og ledte om det.
+    </p>
+    <p>
+     [12] Men hun kunde ikke komme frem, hverken med Spørgsmaalene eller
+  Synerne. Her var Baandet, som bandt:
+     hun
+  havde tabt Ordet.
+    </p>
+    <p>
+     Hun vidste ikke, hvorledes det var gaat til. For sin Fader havde
+  hun frit kunnet udtale Alt, som kom op i hendes Hug. Ordene sad aldrig
+  fast, nej, vingelet fløj de, og hun var aldrig ræd for, hvorledes det
+  skulde gaa dem, hun vidste, at de bleve opfangede. Hun maatte smile,
+  naar hun tænkte paa, hvor enfoldig hun mangengang havde spurgt og
+  talt, og han havde dog altid set hendes inderste Mening gjennem de
+  tossede Ord.
+    </p>
+    <p>
+     Men nu kunde hun ikke tale som dengang. Havde hun kunnet tale
+  saaledes enfoldig nu som da, saa vilde Moderen have opfanget Ordene i
+  sit Hjerte, naar hun ikke kunde naa dem med sin Aand.
+    </p>
+    <p>
+     Stakkels Martha kjendte selv, at hun ikke kunde tale nu som da. Det
+  blev saa stivt, Ordene vilde ikke falde. Saa formede hun dem
+  sommetider rigtig fint, «satte i Stil» og prøvede paa den Vis at komme
+  frem med det, som brændte i Sjelen.
+    </p>
+    <p>
+     Det var ogsaa en Frembærer af et bølgende Liv! hvorledes kunde det
+  vel gaa?
+    </p>
+    <p>
+     Det gik rent galt, blev affecteret. Hun mærkede, at Moderens Blik
+  hvilte forundret og sorgfuldt paa hende, og saa sneg hun sig bort,
+  skamfuld over sig selv, grædende over sit bundne Liv, over sin
+  Fader!
+    </p>
+    <p>
+     Stakkels Fuglebarn! hvor er nu dine Vinger?
+    </p>
+    <p>
+     Jo, hun havde dem! var det ikke paa dem, hun gjennemfor alle
+  Verdner?
+    </p>
+    <p>
+     [13] Saa havde hun endda saamangen god Stund med sin Moder. Kunde
+  hun ikke tale, hun kunde da alligevel vise, at hun havde fattet den
+  troende Kvindes Ord og dybe Kjærlighed. Øjets Blik viste det,
+  Gjerningen lagde det for Dagen, skjønt den ogsaa mangengang vidnede om
+  det Modsatte. Kjødets Sands er stærk hos os, og ikke svagest der, hvor
+  Gud har nedlagt rige Gaver.
+    </p>
+    <p>
+     Saa kom den Tid, da hun for Menigheden skulde vedkjende sig sin Tro
+  og Daab. Ved den Lejlighed saa Moder og Datter hinanden dybere ind i
+  Hjertet end nogensinde før.
+    </p>
+    <p>
+     Men efter Confirmationen kom en Skilsmisse; dog ikke mellem
+  Hjerterne.
+    </p>
+    <p>
+     Slægten,
+     hendes Faders Slægt,
+  Onkler og Tanter, Fættere og Cousiner, fandt det altfor ilde, at det
+  vakkre Barn, som dog vist ikke manglede Forstand, skulde gaa derhjemme
+  og blive saa kejtet. Hun maatte lidt ud, lære at faa Munden op og
+  blive mere bøjelig; det stive, kantede Væsen kunde umuligt falde i
+  Folder med Verden. Dertil maatte man skaffe hende nogle flere
+  Kundskaber, end hun kunde faa hos Moderen i den landlige Afkrog. Aand
+  og Evner var søgt Vare i den Gren af Slægten, og den vilde da prøve,
+  om den stakkels Martha ejede noget Dyrkbart af det Slags.
+    </p>
+    <p>
+     Martha var glad. Hun savnede Noget, længtes efter Noget, som vist
+  maatte findes, naar hun bare kom ud af den trange Rede. Det bølgende
+  længselsfulde Liv, som gjennemstrømmede hende, vilde møde Livet i
+  [14] et andet Menneskebryst, Aanden vilde møde Aand, styrkes og
+  klargjøres.
+    </p>
+    <p>
+     «Ude i Verden» maatte hun sikkert møde det, hun higede efter; der
+  maatte da idetmindste findes Een, som hun kunde spørge og faa Svar af.
+  Ja, hun kom jo midt iblandt sin Faders Slægt! kanske Svaret paa hendes
+  lønlige Spørgsmaal vilde klinge allevegne fra?
+    </p>
+    <p>
+     Det raabte rigtignok: ud! ud! inde i Kuben; havde Nogen lagt Øret
+  til, han skulde sagtens hørt det. Marthas Moder lagde Øret til, og hun
+  var ikke døv.
+    </p>
+    <p>
+     Men da det led mod den Tid, at Skilsmissen skulde gaa for sig, da
+  blev det unge Hjerte klemt, og hun havde gjerne opgivet det Altsammen.
+  Hun vidste ikke før, hvad det er at skilles fra sit Hjem og fra sin
+  Moder; hun havde aldrig kjendt sin Moder saa godt eller elsket hende
+  saa højt som nu.
+    </p>
+    <p>
+     Moderen, der før havde havt saameget imod Rejsen, hun maatte da
+  være stærk. Hun gav Datteren Gud ivold og bad hende komme Hjemmet,
+  baade det himmelske og det jordiske, vel ihug.
+    </p>
+    <p>
+     «Du vil høre Meget og lære Meget,» sagde hun, «men hvad du end
+  hører og lærer, saa glem ikke Børnelærdommen i din lille
+  Katekismus!»
+     <ref target="#NOR0073_tok8" xml:id="backk8">
+      k8
+     </ref>
+    </p>
+    <p>
+     Martha lovte det under brændende Taarer.
+    </p>
+    <p>
+     Ved Confirmationsundervisningen havde der slet ikke været Brug for
+  den lille Katekismus. Den havde Præsten forlængst «vejet og fundet for
+  let.» Men da Martha var liden, havde den været Midten i den Lærdom,
+  hun fik af sin Fader. Hun blev saa rød, da hun tænkte paa, at hun
+  engang havde kunnet den helt igjennem [15] rigtig udenad. Nu turde hun
+  ikke paastaa, at hun var ganske sikker i den, nej, Noget havde hun
+  vist rent glemt!
+    </p>
+    <p>
+     Rejseklæderne vare alt paa; men hun sneg sig op paa Barnekammeret,
+  hvor den lille Bog stod forslidt i Hylden. Hun puttede den i Lommen
+  uden at se i den, endda hendes Faders Haandskrift fandtes paa forreste
+  Blad. Hesten var forspendt, der var bare Tid til endnu engang at tage
+  Moder om Halsen, række Haanden til de smaa Søskende og saa hoppe op i
+  Rejsevognen. Hun slog sig kjæk og smilte trods de
+     dumme
+     Taarer!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     «Ude i Verden» var Livet helt anderledes end i det gamle Hus.
+    </p>
+    <p>
+     Disse Onkler og Tanter – for ikke at tale om Fættere og Cousiner –
+  de vare saa inde i Verdenslivets Svingninger, af alt Fremmed det mest
+  Fremmede for liden Martha.
+    </p>
+    <p>
+     Det var en gild Slægt at se til, hendes Faders. Der var noget fint,
+  let og højbaarent over hver En i den. Det samme gjenfandt Martha i
+  hele Omgangskredsen; ikke altid i samme Mon, men endda saa det saas,
+  den Slægt havde vidst at trække til sig det, den kunde have Ære af, og
+  støde bort det Ubrugelige.
+    </p>
+    <p>
+     Det var saa underligt for Martha i førstningen. Hun var ræd og hun
+  var fortryllet. Nu følte hun først, hvor gjennemklodset hun selv var,
+  det var som ikke bare Tungen var bundet, men Arme og Ben med. Men just
+  naar Skjønhedsformen her kom renest [16] frem for hende, da syntes
+  hun, at hun kjendte den saa godt: hun havde set den og grebet efter
+  den. Men naar det lette Væsen gik ud over Sømmelighedsgrændsen, som
+  hendes strenge Barneblik skarpt saa, da kjendte hun sig saa saaret, at
+  hun kunde gjerne bristet i Graad.
+    </p>
+    <p>
+     Tryggest følte hun sig blandt de Ældre. Deres fine Anstand var som
+  et Værn om hende; og endda fulgte hendes Blik fra deres Kreds med
+  undrende Attraa de Yngres
+  lette,
+     <ref target="#NOR0073_ton15" xml:id="backn15">
+      n15
+     </ref>
+     glimrende Færd, der tiltrak og stødte bort. Hun lyttede spændt til de
+  vittige Samtaler, der ofte vare fulde af Lærdom og aabnede ukjendte
+  Verdner for den lille Pige, som, taus og tilbageholden, holdt sit Kar
+  færdigt til at
+     modtage
+     . Mangengang
+  tyktes hun at høre sin Faders Røst gjennem disse skarpe livfulde
+  Ordlag; da slog hendes Hjerte stærkere, for nu var jo Noget af det
+  nær, som hun saa
+  saart
+     <ref target="#NOR0073_ton16" xml:id="backn16">
+      n16
+     </ref>
+     havde længtes efter. Men ofte blev hun ogsaa trang om Hjertet ved det,
+  hun hørte. Hun vidste da, at den, som talte, tænkte galt, om hun end
+  som oftest ikke kunde sige, hvori det Gale stak; hun tænkte bare ved
+  sig selv: det kunde aldrig Fader sagt! Da længtes hun ofte tilbage til
+  sin Moder.
+    </p>
+    <p>
+     Du skal faa et Par Prøver paa, hvorledes det gik hende der.
+    </p>
+    <p>
+     Hun havde en megettalende Onkel, hendes Faders Broder og lig ham af
+  Udseende og i Talen med, forsaavidt som Ordet laa dem Begge let paa
+  Læben. Men i Hjertedybden var der Forskjel, Martha mærkede det alt de
+  første Dage. Hos hendes Fader spillede Gladhugen lys og menneskelig
+  ren over den dybe, klare, alvorsfulde [17] Grund. Hos hans Broder var
+  Grunden hverken klar eller ægte alvorsfuld, og
+  selv
+     <ref target="#NOR0073_ton17" xml:id="backn17">
+      n17
+     </ref>
+     Barnet mærker, at den lette Skjæmt og Færd er en Kamæleon, som tager
+  Lødden
+     <ref target="#NOR0073_tok9" xml:id="backk9">
+      k9
+     </ref>
+     af sit Underlag.
+    </p>
+    <p>
+     Det var den første Søndag i den ny Kreds. Den var rigtignok meget
+  forskjellig fra Søndagene i Hjemmet. Saa urolig, syntes Martha.
+  Formiddagen gik hen, hun vidste ikke ret hvorledes, Alt tyktes hende
+  saa fremmed, hun kunde ikke finde sig tilrette, var forknyt og rent
+  hjertebunden hele Dagen. Mest oplivet kjendte hun sig udpaa
+  Eftermiddagen, da hun, lokket af de Ældres livlige Samtaler, havde
+  sneget sig ind til dem og sad lyttende i trygt Halvskjul hos en af
+  sine Tanter, den Megettalendes Hustru.
+    </p>
+    <p>
+     Det gamle Emne: Menneskeslægtens værdige Fremskriden til et værdigt
+  Maal var paa Bane.
+    </p>
+    <p>
+     Der var kommet en Bitterhedsaand i den Megettalende, ialfald paa
+  hans Tunge. Først saa han paa den fremfarne Tid gjennem laante
+  Fornuftbriller, og hver Aandens Højde tyktes krybe sammen for hans
+  Blik. Derefter flængede han selv det Tankebillede, han havde fremlagt,
+  og tugtede Spot med Spot.
+    </p>
+    <p>
+     Martha vidste ikke, hvad hun skulde tro, men hun kjendte, at der
+  var fremmed Luft om hende, den blev saa svær at indaande. Hun lagde
+  Haanden paa Tantens Arm.
+    </p>
+    <p>
+     Den Megettalende havde som Mange ventet Menneskets Frigjørelse
+  gjennem den franske Revolution, men han havde rigtignok ikke ment, at
+  den videre Udvikling vilde glide frem af sig selv, naar man bare lærte
+  at [18] pode Frugttræer og dyrke Roer. Naar det nu ikke gled, var det
+  alligevel ikke saa let at sige, hvor det hang fast, og for at tage fat
+  i etsteds fik han over sig – det var han da heller ikke alene om – at
+  tugte Præsterne, fordi de vare Tidens Børn og ikke dens Bærere.
+    </p>
+    <p>
+     Hans Hustru, som mærkede Gjæringen i den lille Martha, sagde nogle
+  Ord om Magister Hans
+  Strøm,
+     <ref target="#NOR0073_tok10" xml:id="backk10">
+      k10
+     </ref>
+     der havde været kendt og elsket af deres Fædre. Hun vilde dæmme for
+  Strømmen, men gav den bare noget at fosse hen over. Hendes Ægtefælle
+  optog Navnet, det gav ham Stof. Med al Ærefrygt for Magister Hans, der
+  havde været hans Faders Ven og dertil en lærd Naturforsker, kunde det
+  ikke dølges, at Overtroen spillede en utilbørlig stor Rolle hos ham.
+  Eller ogsaa stode hans astronomiske Kundskaber langt tilbage for hans
+  grundige Kjendskab til det, som hører Jorden til, endog det Flyvende.
+  Her kom som Mellemsætning, at Magisteren altsaa havde det tilfælles
+  med sine Standsbrødre, at han dog til syvende og sidst kjendte bedre
+  det Jordiske end det Himmelske. Den Megettalende var for ukyndig til
+  at afgjøre, om det, han nu vilde fortælle, muligens kunde komme ind
+  under Astrologien, men han mindedes godt, at han med egne ungdommelige
+  Øren havde hørt Hr. Hans rulle sin Forstand, sin Lærdom og ovenikøbet
+  hele det copernikanske
+  System
+     <ref target="#NOR0073_tok11" xml:id="backk11">
+      k11
+     </ref>
+     sammen som en unyttig Klædebon, fordi der i Bibelen etsteds stod
+  skrevet:
+     Sol, stat stille i Gibeon!
+  Maane, i Ajalons
+  Dal!
+     <ref target="#NOR0073_tok12" xml:id="backk12">
+      k12
+     </ref>
+     – Ja, hans Tilhørere kunde sagtens sætte store Øjne, men Hr. Hans
+  troede virkelig, at det var sket saaledes ved en vis Lejlighed, og
+  ændsede ikke [19] det mindste, at hele Verdensordningen derved vilde
+  forrykkes.
+    </p>
+    <p>
+     Det rørte sig i Martha, saa hun dirrede. I de gamle Mørkningstimer
+  havde hendes Fader ofte talt om Hans Strøm, i hvis Hus han havde boet
+  nogle af sine Smaagutaar. Hun mindedes, hvor morsomt det var at høre
+  om Hr. Hans's Insectsamling og om Vandringerne i Skov og Mark, som
+  Præsten og Drengen havde foretaget sammen, om hvor mesterligt Præsten
+  kunde fortælle Historier af Bibelen, tale med Børn og – overhøre dem,
+  naar Tid var. Men hun mindedes ikke bare det om den lærde Præst, hans
+  dybe Indblik i Naturens Lærdom og glade Tro paa Naturens Herre og
+  Frembringer. Hun mindedes saa grant just den Kveldstund, da hendes
+  Fader havde fortalt hende om den Guds Kjæmpe Josva, at han, mægtigt
+  gjennemglødet af Tro og Kampmod, havde bedt Gud lade Solen staa stille
+  paa Himmelen og var bleven bønhørt. Den lille Pige var henrevet af
+  Skildringen, men ikke det mindste forundret over, at det skete, som
+  Josva bad. Det var jo ganske rimeligt af Vorherre og netop, hvad hun
+  kunde tiltro ham. Saaledes stod det ogsaa for hende nu. Hun mindedes,
+  at hendes Fader saa frem for sig med et underligt tankefuldt Blik i de
+  klare tindrende Øjne; hun kunde endnu se, hvorledes Maanelyset faldt
+  saa klart paa ham, som han sad der med sammenlagte Hænder, høre hans
+  klingre Røst, saa klar selv, naar han mælte lavt, da han sagde: «ja
+  det staar der, mit Barn!
+     Solen blev
+  staaende midt paa Himmelen næsten en hel Dag tilende. – Han er Herren,
+  han gjør [20] hvad ham behager i Himmelen og paa Jorden, i Havene og
+  alle Afgrunde
+     !»
+    </p>
+    <p>
+     Dette var Alt saa levende i den lille Martha. Det var, som maatte
+  hun sige Noget; hun bøjede sig frem:
+    </p>
+    <p>
+     «Fader – – – –» sagde hun.
+    </p>
+    <p>
+     Men hun havde jo tabt Ordet og endnu ikke fundet det igjen; det
+  vilde ikke komme. Graaden kom; det var som Brystet skulde sprenges og
+  Halsen sammensnøres. Der blev en pludselig Taushed rundtom, Alle saa
+  paa hende. Hun holdt Hænderne for Øjnene og sprang ud gjennem den
+  aabne Dør, som tillykke var nær ved. Sideværelset var tomt, hun satte
+  sig der i en Krog og græd ud.
+    </p>
+    <p>
+     Enkelte Ord naaede hende fra den Kreds, hun havde forladt.
+    </p>
+    <p>
+     Hendes Flugt havde nu sat den Dæmning for den Veltalendes Ordstrøm,
+  som hans Hustru forgjæves havde prøvet at rejse. Han syntes
+  maalslagen, han stammede nogle Ord; han kunde ikke skjønne, hvad det
+  var!
+    </p>
+    <p>
+     Nogle mente, det var hans slaaende Lighed med Marthas Fader, som
+  man vidste, hun havde elsket med lidenskabelig Kjærlighed: hun var et
+  overmaade følsomt Barn og havde intet Herredømme over sig selv. Men
+  hans Hustru hviskede ham noget i Øret om «Broder Williams sære
+  Anskuelser, der stemte ganske vel med Hans Strøms,» og bad ham
+  idethele være lidt forsigtig i den Lilles Nærværelse.
+    </p>
+    <p>
+     Jeg fortæller dig dette saa udførligt, fordi hun [21] selv fortalte
+  det saaledes. Det stod saa levende for hende som sket igaar!
+    </p>
+    <p>
+     Forresten syntes det at have to Følger:
+    </p>
+    <p>
+     Farbroderen var siden ikke bare forsigtig, men ganske særdeles god
+  og venlig mod hende, og hun kom til at holde meget af ham. Han var
+  igrunden et godmodigt Menneske, som snaksomme Mænd gjerne ere, jeg tør
+  ikke sige det samme om Kvinder. Havde han saaret den lille Nar, saa
+  gjorde det ham ondt, og han vilde gjerne sone den Brøde; havde hans
+  Personlighed gjort Indtryk paa hende, saa var det ham meget
+  behageligt, smigrende.
+    </p>
+    <p>
+     Aa, hvad Værd skulde det vel have for
+     ham
+     ?
+    </p>
+    <p>
+     Hvor har du dine Tanker henne, du Kloge? det ringeste Menneske, det
+  usseligste Kræ faar nogen Ynde, dersom det lægger sin Elsk paa dig.
+  Kun naar denne Elsk yttrer sig ved trættende Plageri, bliver Ynden til
+  Væmmelse.
+    </p>
+    <p>
+     Gud skabte Mennesket efter sin Lignelse, men hvert Træk i denne
+  Lignelse har hans Fjende gjengivet i et Vrængebillede. Den dybe
+  Hjertetrang til Kjærlighed og
+     dens
+     Vrængebillede Forfængeligheden raabe begge højere eller lavere i os om
+  Tilfredsstillelse, og saa ville vi da saa gjerne vinde Yndest og
+  Kjærlighed, ville saa gjerne blive godt likte.
+    </p>
+    <p>
+     Martha vilde ogsaa gjerne blive godt likt; da hun havde grædt sin
+  Harm ud, var hun saa skamfuld over sig selv, og det bed hende, at hun
+  ikke kunde udtale det, hun tænkte. Men – det skulde være sidste Gang,
+  hun teede sig saa! hun skulde vise, at hun havde Herredømme [22] over
+  sig selv! Hun viste det; der var ikke saa liden Viljekraft i den unge
+  Sjel.
+    </p>
+    <p>
+     Havde Martha tabt Ordet, saa havde da hendes unge Slægtninge det i
+  sin Magt. Nej, hvor de kunde bruge Munden til Skjæmt og Latter! Hvert
+  Ordskifte var som et glimrende Fjærboldspil af øvede Spillere med
+  farveskinnende Legeværk: Brod i Bolden og Glitter i Fangeskjoldet, jo
+  det var en Leg! Men saa gjaldt det at have Hjertet vel gjemt, saa det
+  ikke kunde træffes og saares. Martha havde rigtignok hørt en af sine
+  Cousiner leende forsikkre, at hun ejede ikke en eneste Stump Hjerte
+  mere, det var opbrugt for længe, længe siden!
+    </p>
+    <p>
+     Martha var vis paa, at der endda var Noget igjen af Cousinens
+  Hjerte, men hun havde lagt Mærke til, at man aldrig for Alvor maatte
+  bruge det samme Ord:
+     Hjerte
+     ; for
+  Spøg, med Latter blev det brugt vel de Snese Gange, naar Flokken var
+  samlet. Men at tale alvorligt, hjerteligt om slige Ting – hvem vilde
+  vel være saa gyselig sentimental? og at tale for Alvor om
+     Aand
+     – hvem vilde vel være saa
+  forskruet? Det var nu den unge Slægt!
+    </p>
+    <p>
+     Da Martha lærte at se lidt dybere, men ogsaa lærte at tage Del i
+  den underlige Fjærboldleg, da fyldte det hende stundom med en vis Gru.
+  Det kom for hende, at den lille fjærsmykte Ting, som slyngedes Mand og
+  Kvinde imellem, var de ilde medhandlede Hjerter selv, forrevne og
+  gyselig skinnende i Sollyset.
+    </p>
+    <p>
+     Bliv ikke forundret over, at hun lærte Legen! Hun lærte at slaa
+  tilbage, for ikke at blive truffen, hun lærte at le, for ikke at blive
+  Gjenstand for Latter. Det var [23] en streng Skolegang, da hun skulde
+  «kvikkes op,» ja ret en Ildprøve for det stakkels Barn med det varme
+  Hjerte og det letfornærmede Sind. Men da hun først tog til at lære,
+  lærte hun snart.
+    </p>
+    <p>
+     Om Lærdommen gjorde hende glad?
+    </p>
+    <p>
+     Det er et Spørgsmaal!
+    </p>
+    <p>
+     Hvorfor hun blev i Pinen?
+    </p>
+    <p>
+     Ja, det var da ikke bare Pine! der blev indimellem vist hende megen
+  Godhed og Kjærlighed, ogsaa af de Unge. Hun fik se meget og
+     lære
+     meget – bedre end Fjærboldleg.
+  Saa var der da ogsaa og fremfor alt den gamle Bedstemoder, som aldrig
+  kom udenfor sin Dør, men var saa god og sød og mild. Ved hendes
+  Lænestol var Trøstens og Hvilens Sted, ikke alene for Martha, men for
+  mere end Een i Slægten, som havde spillet
+     den Glade
+     ude i Verden og var
+  gangen træt.
+    </p>
+    <p>
+     Den gamle Bedstemoder holdt saameget af Martha. Hun vilde gjerne
+  have hende alene hos sig, talte med hende, som om hun ikke var halv-
+  men helvoxen, om Forhold og Misforhold inden Slægten i Fortid og
+  Nutid. Aa, hun sagde og gjorde saameget den Gamle, som de forstandige
+  Mennesker nævnte uklogt. Men hun gik sin stille, enfoldige Gang, vandt
+  Kjærlighed og udstrøede, ofte uden at vide det, Sædefrø, der groede
+  iløn ved Mindekildens Bred og kunde ej dø, saalænge Kjærligheden
+  levede.
+    </p>
+    <p>
+     Saa teede sig nu hendes Visdom!
+    </p>
+    <p>
+     «Ser du!» sagde hun engang til Martha, «jeg har nu holdt fast ved
+  min gammeldags, enfoldige Tro, men den har alt længe ikke været imode.
+  Dine Onkler og [24] Tanter ere saa forstandige, vi kunne ikke se
+  Tingene i Verden med samme Øjne. Din Fader – ja Ingen af dem har
+  forstaat mig saaledes, som din Fader gjorde! – den gamle Kristentro
+  var ikke for enfoldig for ham, og han var dog ingenlunde den ringeste
+  af mine Børn. Din Moder har altid været en Maria ved Jesu Fødder.»
+    </p>
+    <p>
+     «Bedstemoder!» sagde Martha, «hvorfor kom jeg til at kaldes
+     Martha
+     ?
+     Maria
+     er da meget vakkrere, og jeg
+  hedder jo ogsaa Maria!»
+    </p>
+    <p>
+     Bedstemoder strøg hende over Panden.
+    </p>
+    <p>
+     «Det betyder, at i dit ydre Liv og Væsen skal du være en Martha,
+  virksom i Kjærlighedens Gjerning; men i Hjertets Lønkammer skal du
+  være en Maria for Herren!»
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Katekismen, det dyre Barneminde, blev ikke glemt. Vel var hun snart
+  sikker paa, at hun kunde den udenad som før, men endda maatte den
+  frem, for nu laa Minderne i den. Men hun havde en afgjort Sky for, at
+  Nogen skulde finde ud, at hun læste i den, eller endog bare, at hun
+  havde den med. Den passede slet ikke ind i den leende Flok; de kunde
+  le af hende, mente hun, men de skulde ikke le af det, som Fader og
+  Moder havde lagt hende paa Hjertet. Heller ikke de Ældre maatte se
+  den, selv for Bedstemoder havde hun Blygsel.
+    </p>
+    <p>
+     Hun gjemte den paa Kistebunden i Klædekammeret. Eget Værelse havde
+  hun ikke, men derinde var mangengang hendes Tilflugtssted, hvor
+  Taarerne fik rinde frit, [25] naar hun af dobbelt Grund kjendte sig
+  som fremmed Fugl midt i Slægten. Af dobbelt Grund: baade fordi hun var
+  alvorligere, dybere end dem, hun færdedes iblandt, og fordi hendes
+  Hovmod ikke kunde taale det lette Vid, som hun ikke mægtede at lukke
+  Munden op imod! Engang blev hun overrasket i sit Skjul. Det var den
+  Cousine, som kom, der nys havde forsikkret, at hun slet ikke havde
+  Hjerte mere, men som igrunden troede, at hun var altfor rigt udrustet
+  i det Stykke og derfor umulig kunde blive lykkelig i Livet. Hun
+  kjendte sig saar og urolig derinde, Stakkel! og det kan da Ingen
+  undres paa.
+    </p>
+    <p>
+     Hun traadte raskt ind; Martha stak Haanden med Bogen i Lommen.
+  Cousinen greb hende om Haandledet, hun vilde vide, hvad «den Lille»
+  gjemte.
+    </p>
+    <p>
+     «Anna!» sagde Martha.
+    </p>
+    <p>
+     Der var en vis Værdighed over hende, de taarefyldte Øjne vare saa
+  alvorsomme. Anna slap Taget. Men da Martha nu vendte sig om og uden
+  nogen fast Tanke gav sig til at ransage mellem Kjolerne paa Væggen, da
+  tog Lysten til Løjer Magten fra det gode Indtryk hos Cousinen.
+  Vilddyret i hende kjendte sig ikke længer bundet ved Menneskeblikkets
+  Baand. Hun stak i en Fart Haanden ned i Marthas Lomme og trak Bogen
+  frem. O, hvor hendig hun var! Martha vendte sig lynsnart om.
+    </p>
+    <p>
+     «Le ikke af den, Anna! jeg holder saa af den, Mo'er holder saa af
+  den!»
+    </p>
+    <p>
+     Anna stod taus med Bogen ihaand. Den faldt op af sig selv der, hvor
+  Martha nys havde læst:
+    </p>
+    <p>
+     [26]
+     Bevar dit Hjerte fremfor alt
+  det, der bevares; thi Livet udgaar derfra
+     .
+    </p>
+    <p>
+     Hun bladede braat om, saa foran paa de Ord, hendes afdøde Farbroder
+  havde skrevet der til sin lille Datter, og dvælede længe ved dem. Det
+  er ligevel troligt, at hun ikke skjelnede Noget klart, for det rørte
+  sig saa underligt inden i hende, og Taage kom for Øjet.
+    </p>
+    <p>
+     «Er det din Faders Haandskrift?»
+    </p>
+    <p>
+     «Ja!»
+    </p>
+    <p>
+     Martha rakte Haanden ud efter Bogen og fik den; men Anna trykkede
+  meddetsamme begge hendes Hænder tæt ind til sig.
+    </p>
+    <p>
+     «Du lykkelige Barn!» sagde hun.
+    </p>
+    <p>
+     Martha saa tvivlende op, men da hun fik se Taarer, slyngede hun
+  Armene om Cousinen og var for et Øjeblik saa glad. Men Anna frigjorde
+  sig lempelig og gik bort.
+    </p>
+    <p>
+     Martha følte, som om et usynligt Baand var knyttet mellem hende og
+  denne Cousine. Saa skulde hun da ikke staa alene mere! nu kunde det
+  være med alle de Andre! Hun var just i den Alder, da Kvindehjertet
+  længes efter en Veninde, men i barnligt Sværmeri siger:
+     bare Een!
+    </p>
+    <p>
+     Men Anna mærkede nok ikke til noget saadant Usynligt Baand; det var
+  ialfald usporligt. Kan være, at hun blev lidt venligere mod Martha,
+  muligt, at hun engang imellem opfangede de lette Fjærpile med sit
+  Spindelvævskjold, naar de altfor hvasse udsendtes mod hende – ellers
+  Alt som før.
+    </p>
+    <p>
+     Martha var skuffet, og ikke bare det, men hun var [27] forbauset,
+  hun kunde ikke skjønne det. Men hvad kjendte hun vel til Menneskene,
+  den lille Ting!
+    </p>
+    <p>
+     Det var den anden Prøve, jeg lovte dig fra vor lille Piges første
+  Udflugt.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Det var en jublende Glæde, da hun kom hjem. Tænk, at hun virkelig
+  var
+     hjemme
+     ! hun kunde næsten ikke
+  tro det, saa fornøjeligt var det. For hendes Moder var det ogsaa en
+  stor Glæde at faa hende hjem, og at see, hvor hun havde taget sig op,
+  for det havde hun.
+    </p>
+    <p>
+     Nu skulde hun være huslig, og hun var det – mangengang med Lyst og
+  Mod. Hun lærte desuden sine Smaasøstre og var idethele til Nytte. Men
+  der gjærede endda saa Meget i hende. Den urolige Attraa raabte endnu
+  mangengang: ud! ud! og hun tyktes sig som Fugl i Bur. Hun elskede sit
+  Hjem, hun fandt sig idethele saa vel der, der var saa fredeligt. Men
+  hendes Aand søgte mere Næring og dens Længselssuk for ud af Reden.
+    </p>
+    <p>
+     Havde den da fundet Næring der, hvor hun var? Noget havde den
+  fundet, meget havde den vel ogsaa faat, som var bare skuffende Skue.
+  Men hun holdt paa at indbilde sig, at ogsaa Skinnet var det Virkelige,
+  hun havde faat lidt Smag paa.
+    </p>
+    <p>
+     Det er da vel ikke muligt, at hun længtes did igjen?
+    </p>
+    <p>
+     Aa, En vænner sig til det Værste! Hun havde efterhaanden vænnet sig
+  bedre til det lette Spil paa Overfladen, som Slægten øvede, naar det
+  tyktes dem for [28] svært at gaa i det Dybe; der skulde ikke saa meget
+  til, før hun – ialfald tilsyneladende – lærte Kunsten af den. Desuden
+  tog Fjærboldlegen sig ikke saa farlig ud i Frastand.
+    </p>
+    <p>
+     Hun var skamfuld over sig selv, fordi hun længtes bort fra Hjemmet.
+  Men der var da ogsaa saa mange Undskyldninger; de havde jo været meget
+  gode mod hende, hun havde lært meget, og – der var jo Bedstemoder, som
+  var saa glad i hende og gjerne vilde have hende om sig. Nu skulde hun
+  heller ikke være saa tosset og ordsaar, som hun før havde været.
+    </p>
+    <p>
+     Ogsaa i den Kreds, hun havde forladt, taltes om at faa hende
+  tilbage. Man havde set, at hun var smuk – der kunde blive Noget af
+  hende. Efterhaanden som hun blev mindre klodset og mindre ordsaar,
+  vandt hun Yndest hos Alle.
+    </p>
+    <p>
+     Onkel Snaksom holdt tre lange Foredrag om Gavnligheden af at faa
+  hende tilbage, tre Gange blev der skrevet og tre Gange fik hun Lov at
+  rejse.
+    </p>
+    <p>
+     Det gaar jo lettere, naar det først er kommet paaglid.
+    </p>
+    <p>
+     Først skulde hun komme for at lære Sang og Harpeleg sammen med den
+  Snaksommes Døttre, saa var det Bedstemoder, som længtes saameget efter
+  hende, og saa – jeg ved ikke hvad.
+    </p>
+    <p>
+     Martha kom, og Martha lærte saavel Harpe- som Fjærboldleg, saavel
+  at tale som at synge.
+    </p>
+    <p>
+     Havde hun en Tid været maalbunden, saa fandt hun nu Ordet igjen.
+  Ikke saa, at hun blev snaksom, nej! Men Tanken fandt flux sit Udtryk,
+  og Livslysten [29] voxte i hendes Bryst, altsom Ordet fødtes paa
+  hendes Læber.
+    </p>
+    <p>
+     Klodsetheden blev rent borte; da hun var nitten Aar og derover, bar
+  hun i Slægten Navnet
+     Vingelet
+     .
+    </p>
+    <p>
+     For en underlig Ting den ungdommelige Livsglæde er! saa stolt, saa
+  forfængelig! Der er sagt, at de to Egenskaber gjensidig udelukke
+  hinanden, men det er mærkeligt, hvor de Søstre vide at dele Hus, selv
+  naar de ligge i indbyrdes Strid.
+    </p>
+    <p>
+     Men endda, du varme Livsglæde! endda er du saa livsalig at eje, saa
+  kvægende at se; for i dig selv er du en Kraft, som Gud har givet
+  Mennesket. Du staar for os paa engang som et halvbrustent Minde og som
+  et haabvækkende Tegn paa det, som skal vorde.
+    </p>
+    <p>
+     Det var saa underligt med Navnet
+     Vingelet
+     . Martha bar det med
+  Stolthed og vidste godt, at hun ikke bar det med Uret; og endda fødte
+  det mangengang dybe tungbaarne Tanker i hendes Sjel. Det var i Slægt
+  med Faderens:
+     Fuglebarn
+     , det kunde
+  nok give Tanker.
+    </p>
+    <p>
+     Var hun den Samme nu som da? havde Fuglen faat stærkere Vinger,
+  eller lød Tonerne dybere i dens Trilleslag?
+    </p>
+    <p>
+     Det kom stundom for hende, at hun under den Flagren tabte Evnen til
+  kraftig og høi Flugt, at Tonerne tabte i Fylde, hvad de vandt i lette
+  Løb, ja at den Fugl, som slog de glade Triller, var en fremmed En,
+  medens hendes egen sad lønligt med sænkede Vinger inderst i Krogen,
+  hvor dens sagte Fløjten lød som Graad!
+    </p>
+    <p>
+     [30] Var
+     det
+     Livsglæde?
+    </p>
+    <p>
+     Det var en Dæmper paa Livsglæden, men blev endda til Helsebod for
+  den; Gud talte gjennem Minderne til Sjelen, han havde kjøbt og
+  oprettet sin Pagt med.
+    </p>
+    <p>
+     Saaledes stod det med hende paa den Tid, da hun førstegang mødte
+     ham
+     , med hvem hun i en Række Aar
+  skulde dele Livets Sorger som dets Glæder.
+    </p>
+    <p>
+     Det havde ikke manglet hende paa saakaldte «gode Tilbud» eller paa
+  sværmerisk Tilbedelse af de ungdommelige Omgangsvenner. Men hvorledes
+  kunde hun binde sig til Nogen, som saa Livet saa helt anderledes end
+  hun? Naar det inderste Hjerteliv ikke var et fælles, kunde der da
+  blive nogen ret Samklang? det stod for hende som umuligt. Vist er det!
+  Kjærlighedens Magt havde ikke rørt hendes Hjerte.
+    </p>
+    <p>
+     Da kom en ung Dane herop. Han var en Kjøbmandssøn fra det
+  Slesvigske, Faderen dansk, Moderen tydsk og den herrnhutiske
+  Retning
+     <ref target="#NOR0073_tok13" xml:id="backk13">
+      k13
+     </ref>
+     hengiven. Han var en stille, fin Natur, en sælsom Blanding af Sværmeri
+  og Tænksomhed, og med saare regelrette Vaner.
+    </p>
+    <p>
+     Det var just paa den Tid, at
+     Henrik
+  Steffens
+     ,
+     <ref target="#NOR0073_tok14" xml:id="backk14">
+      k14
+     </ref>
+     «Lynildsmanden», havde holdt Forelæsninger i Kjøbenhavn, hvor hans Ord
+  slog ned og tændte saavel i de overfyldte Høresale som i de stille
+  Kamre, hvor det aabne Øre og den lyttende Aand fandtes.
+    </p>
+    <p>
+     Et par af Marthas Slægtninge havde kjendt den unge Steffens, og nu
+  gjenlød hans Ry for hendes Øren. Hendes Hug til det Store og Skjønne
+  var endnu ikke slukt. Der var saa meget, der vilde dræbe den og udhule
+  hende –
+  afgjort
+     <ref target="#NOR0073_tok15" xml:id="backk15">
+      k15
+     </ref>
+     og smigret som hun blev – [31] men naar det Store kom hende nær eller
+  glimtede for hendes Aand, da blev hun saa træt af Forfængelighed.
+    </p>
+    <p>
+     Hun tyktes, det skulde være som Helsebod at blive rørt af en saa
+  mægtig Aands sagteste Vingeslag. Der sagdes, at han spredte Lys og
+  løste Aander, saa mente hun, at han ogsaa maatte kunne vække Liv i de
+  Halvdøde.
+    </p>
+    <p>
+     Det maatte være saa, at hun selv higede efter at
+     modtage
+     , da hun hørte om den unge
+  danske Videnskabsmand, som nu gjæstede hendes Slægt, at han baade
+  havde hørt Aandevækkerens Røst i Danmarks Hovedstad og desuden oftere
+  været ham nær i de tydske Stæder, hvor de, i fremragende
+  Personligheders Kreds, hver paa sin Vis havde søgt, hvad Aanden
+  tragtede efter.
+    </p>
+    <p>
+     For Visdomsord der maa ligge paa den Lykkeliges Læber! tænkte
+  Martha.
+    </p>
+    <p>
+     Iførstningen var hun lidt skuffet ved den unge Lærdes
+  tilbageholdne, næsten frygtsomme Væsen; men snart tyktes hun, at der
+  just i dette Væsen var noget Vindende og Tillidvækkende, som en Tid
+  havde været hende næsten ukjendt. Han var de løstungede Fætteres
+  levende Modbillede.
+    </p>
+    <p>
+     Endda blev hun stille i hans Nærværelse og vovede ikke at begynde
+  nogen Samtale med ham. Hun vak næsten lidt i, da han førstegang
+  nærmede sig til hendes Brodeerramme og talte til hende. Hun kjendte,
+  at hun blev rød.
+    </p>
+    <p>
+     Var det hendes Blygsel, som gjorde ham dristigere, end hans Vane
+  var? eller hvad var det, som hel ofte [32] drog ham bort til Syersken
+  ved Rammen og der løste hans Tunge? var det Kjendslen af, at hun delte
+  med ham?
+    </p>
+    <p>
+     Jeg ved det ikke, jeg kjendte ham aldrig. Døden havde forlængst
+  lukket hans Læber, da det vingelette Fuglebarn i de sene Aar oplod sit
+  Liv for mig, og jeg gjennem tusinde Smaating lærte at se dybere i det,
+  end hun selv vidste af. Men Faa kjendte ham, om de ogsaa havde levet
+  med ham.
+    </p>
+    <p>
+     Da de lidt om lidt kom ret i Tale sammen, da var hun ikke længere
+  skuffet.
+    </p>
+    <p>
+     Hun mærkede, at det Stille var ikke livløst, og da hun mangengang
+  kjendte det, som om Livet var ifærd med at flygte bort fra hendes egen
+  Barm, saa kan det nok være, at hun altfor højt værdsatte dets Kraft og
+  Fylde hos den Fremmede. Vi ere visse paa, at Grundtonen i hende altid
+  var dyb alvorlig, men selv følte hun det ikke saa: den lette Livslyst
+  fristede hende.
+    </p>
+    <p>
+     Da kunde det vel hende, at selve den Fremmedes
+     Søgen
+     efter et Lys, han ikke havde
+  fundet, stod for Martha som Vidnesbyrd om et dybere Hjerteliv end
+  hendes eget.
+    </p>
+    <p>
+     «Jeg har taget det for let, altfor let!» lød det ofte indeni hende,
+  naar de talte sammen; «men hos ham er Alvor,» føjede hendes stille
+  Tanke til, og hun syntes sig selv saa ringe ligeoverfor ham.
+    </p>
+    <p>
+     Det var som en Hvisken fra de søde Barnedage, naar han oplod
+  Naturens Bog for hende. Troligt er det og, at der fandt en
+  Vexelvirkning Sted, saa den unge Kvindes Nærværelse og levende Sands
+  vakte det skjulte [33] Liv i ham og gjorde ham for en Stund til
+  Digter, uden at han selv vidste, hvorledes det gik til. Desuden lød jo
+  Klangen af den store Mesters Ord endnu for hans Øre, bævede gjennem
+  hans Aand og fandt naturligen Gjenlyd paa hans Læber.
+    </p>
+    <p>
+     Utallige fine Traade bandt disse Tvende sammen, medens de ligesom
+  Haand i Haand vandrede gjennem Alskabningen, som oplod sine Løndomme
+  for dem eller dulgte dem og overlod Spørgerne til den graalyse Anelse.
+  Aldrig kom de hinanden nærmere, end naar denne Haabets og Længslens
+  Halvbroder var deres usikkre men lokkende Vejviser.
+    </p>
+    <p>
+     Nyt Liv gjennemstrømmede Martha. Der havde sat sig lidt Skorpe paa
+  den kraftige Jord, medens den laa bar for Verdensvinden. Denne Skorpe
+  brødes nu daglig, og Jordbunden viste sig saa færdig til at modtage
+  hvert Sædekorn og drive det frem til Spire og Væxt.
+    </p>
+    <p>
+     Naar han sagde:
+     Liv udvikler sig
+  aldrig af det Døde
+     , da tyktes hende, at bag de simple Ord laa
+  Svaret paa tusinde Spørgsmaal. Hun kunde ikke greje det for Tanken,
+  det kan Kvinden saa sjelden, men allermindst naar Hjertet er fuldt.
+  Jeg havde nær sagt: hun brydde sig næsten ikke om at greje det for
+  Tanken netop nu, hun havde ligesom ikke Stunder, der var saameget, som
+  rørte sig i hende, hun kjendte sig saa rig.
+    </p>
+    <p>
+     Saa spurgte hun om Steffens, og den Fremmede fortalte.
+    </p>
+    <p>
+     Da var der ogsaa Noget, som greb hende saa underligt. Det syntes
+  saa lidet, men det, som bæres let [34] af En, kan i en Anden blive
+  skabende. Han fortalte, at Steffens havde sagt:
+     Gud har givet vor Tid
+  Naturvidenskaberne
+     . Det var ligesom denne Yttring i et hurtigt
+  Glimt aabnede et nyt Syn for hende, hun saa frem for sig, og Synet
+  udfoldedes.
+    </p>
+    <p>
+     «Finder De den Yttring saa mærkværdig?» spurgte den Fremmede
+  smilende, da hun blev siddende taus, medens de vexlende Tanker
+  afspejledes i hendes Træk.
+    </p>
+    <p>
+     «Den gav mig saamange Tanker!» sagde hun.
+    </p>
+    <p>
+     «Hvilke?»
+    </p>
+    <p>
+     Hun rødmede og smilte.
+    </p>
+    <p>
+     «Hm! vist ikke ny for Andre, men jeg har tænkt saa lidt, siden –
+  siden jeg blev
+  voxen.
+     <ref target="#NOR0073_ton18" xml:id="backn18">
+      n18
+     </ref>
+     Hvor Livet, hvor Menneskets Liv dog er forunderligt!»
+    </p>
+    <p>
+     «Vistnok! har Deres Liv været saa forunderligt?»
+    </p>
+    <p>
+     «Nej, det var ikke just det, jeg tænkte paa; men har Gud givet vor
+  Tid Naturvidenskaberne, saa har han givet ogsaa de forgangne Tider
+  deres Del, og saa – men De vil kanske smile over det, jeg siger – –
+  –?»
+    </p>
+    <p>
+     Han vilde være fuldkommen alvorlig; men endda maatte hun tage sig
+  lidt sammen.
+    </p>
+    <p>
+     «I mit eget lille Liv,» vedblev hun rødmende, «har der ogsaa alt nu
+  været forskjellige Tider, og i hver af dem har jeg modtaget Noget, et
+  Slør er trukket bort fra mine Øjne, og jeg føler, der er saameget, ja
+  vistnok det Allermeste tilbage, som – jeg kanske faar i kommende
+  Tider. Men er det nu ligesaa i Verdensstyrelsen, da, mente jeg, er jo
+  hele den store Menneskeslægts Liv fra Oldtiden indtil nu et
+  sammenhængende Levnetsløb – er det saa?»
+    </p>
+    <p>
+     [35] «Ja ganske vist! har Ingen sagt Dem det?»
+    </p>
+    <p>
+     «For en Rigdom der maa ligge i Fremtiden!» sagde Martha, idet
+  hendes egen Fremtid laa for hende som al Rigdoms baade Gjemme og
+  Opladelse. Men saa gav hun Agt paa Spørgsmaalet og svarte:
+    </p>
+    <p>
+     «Det er nok muligt, at Fader i gamle Dage sagde det til mig, men
+  det er ikke gaat op for mig før nu. Ved De, hvad jeg lærte her, da man
+  skulde flikke paa min forsømte Skoledannelse? – at vi Mennesker ere en
+  egen ypperlig Slags Aber! jeg var gjenstridig og vilde ikke modtage
+  den
+  Lærdom.
+     <ref target="#NOR0073_tok16" xml:id="backk16">
+      k16
+     </ref>
+     Min Onkel, som taler saa meget og er saa god mod mig – De har vist
+  mærket begge Dele – plager mig endnu med Abelærdommen, som er en af
+  hans Yndlingstheorier.»
+    </p>
+    <p>
+     «Han staar ikke ene!» sagde den Fremmede og lo; «men De følte
+  Aanden i Dem og vilde ikke lade Dem frarive Slægtskabet med Gud!»
+    </p>
+    <p>
+     Martha udtalte sin Forvisning om, at ethvert Barn vilde oprøres
+  imod en saadan Lære, eller tro, at den Voxne, som foredrog den, «bare
+  spøgte.»
+    </p>
+    <p>
+     «Ja, der er et Liv i os,» vedblev han, «som ikke kan forklares
+  efter Lovene for det Forkrænkeliges Udvikling og Affalden. Men der er
+  dog en dyb og underlig Sympathi mellem Menneske og Dyr. Vi kunne ikke
+  alene føle med Dyret, men det er mangengang, som om det til en vis
+  Grad kunde føle med os; og hos Dyret gjenkjende vi ofte ikke blot det
+  Vilde, men ogsaa Noget af det Ædle, som rører sig i os.»
+    </p>
+    <p>
+     Saa gik Samtalen frem: om Striden i Verden mellem Slægterne, om
+  Ødelæggelsen, Nedbrydelsen, som [36] øvedes allevegne, og om hvorledes
+  Alt endda opholdtes og vedblev, som om Intet var tabt. De talte om
+  Livets Pulsslag allevegne, i Planten, ja man kunde fristes til at
+  sige, endog i de livløse Ting, hvorigjennem store løndomsfulde Kræfter
+  mangengang aabenbarede sig, tiltrækkende eller frastødende som til en
+  haandgribelig Lignelse af de usynlige Magter i Menneskets
+  Inderste.
+    </p>
+    <p>
+     Hun fulgte ham villigt gjennem Naturen, ja gik stundom foran med
+  sin snare Tankeflugt. Endda kom det for hende, at Noget var blevet
+  borte, som først i Samtalen var faret hende forbi, som hun gjerne
+  vilde fulgt og faat nøjere tydet. Men det skulde nok komme! Fremtiden
+  bar Alt i sig!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Om en Tid rejste Martha hjem. Han fulgte snart efter, begjærede
+  hendes Haand og fik den.
+    </p>
+    <p>
+     Det var saa stilt og godt indeni hende. Hun saa op til sin Ven,
+  hendes Hjerte var saa fuldt af Tak, fordi en saadan Støtte var hende
+  givet, just da hun trængte saameget til den, og – hun elskede ham.
+  Hvorfor skulde jeg tie med, at hun ogsaa var fuld af ungdommelige,
+  overdrevne Drømme? det var naturligt! Men da Drømmen veg og Meget
+  viste sig at være anderledes, end hun nu saa det, da blev dog Takken
+  og Kjærligheden. Det var Naade!
+    </p>
+    <p>
+     Hendes Moders glade Samtykke og Velsignelse hvilede over dem.
+    </p>
+    <p>
+     Saa rejste han, men kom Aaret efter tilbage for at hente sin Brud.
+  Det var i Juni, i den fagreste [37] Sommer, at han førte hende bort
+  fra hendes Moder og det gamle Hus. Det sidste skulde hun faa se igjen,
+  naar hun var blevet en klogere Kvinde, end hun nu var. Men sin Moder
+  saa hun ikke mere.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Han førte hende først til sit Fædrenehjem.
+    </p>
+    <p>
+     Det var ogsaa et gammelt Hus, men man aandede ikke saa frit der som
+  i hint kjære landlige, hvor Martha var fød og opvoxet. Der var en
+  gammeldags Stormægtighed, en snorlige Orden, bare i enkelt Tilfælde
+  afbrudt af en dristig Elegants.
+    </p>
+    <p>
+     Martha elskede paa Forhaand sine Svigerforældre, og var dertil
+  ligesaa lykkelig, som hun var ung; men endda lagde der sig ligesom
+  noget Klemmende om hende, da hun traadte ind i sin Mands
+  Fædrenehjem.
+    </p>
+    <p>
+     Hendes Svigermoder omfavnede og kyssede hende gjentagne Gange, og
+  udtalte sin Glæde over Sønnens Lykke. Det var vist velment, men Martha
+  kjendte sig ikke noget opvarmet ved det; det tyktes hende at være mere
+  Form end Fylde, mere Sirlighed end Hjertevarme. Men hendes Ægtefælle
+  elskede jo sin Moder saa højt og stod i et inderligere Forhold til
+  hende end til Faderen. Hun gjorde altsaa sit Bedste for at kjende sig
+  tiltrukken, og sagde sig selv, at Kjernen kunde jo nok være god, om
+  end Skallen var skaaren i Snirkler.
+    </p>
+    <p>
+     Men her viste sig atter de tiltrækkende og frastødende Kræfters
+  løndomsfulde Magt. Svigerfaderen tiltrak hende uimodstaaeligt, hun
+  kunde ikke sige hvorfor. Det hjalp ikke, at hans Væsen ofte var koldt,
+  stundom [38] haardt, at han bare rakte hende Haanden til Velkomst,
+  uden at sige et Ord enten om Glæde eller Lykke. Det hjalp ikke, at hun
+  alt den første Dag kjendte sig som
+  gjennemheglet
+     <ref target="#NOR0073_tok17" xml:id="backk17">
+      k17
+     </ref>
+     af ham, endda han ikke talte mange Ord til hende, hjalp ikke, at hun
+  næsten følte Frygt, naar han traadte ind i Stuen. Hun maatte endda
+  længes efter ham; der var stundom saa tomt, naar han var borte og hun
+  ikke just sad ved sin Ægtefælles Side, men med ham kom der Fylde,
+  Noget at leve og lide for. Hun ynkedes over ham, naar han sad der saa
+  kold og taus, hun var saa vis paa, at der bag den haarde Skorpe
+  fandtes vidt Rum for Kjærlighed.
+    </p>
+    <p>
+     I et Stykke var hun alligevel meget misfornøjet med ham: naar hans
+  Hustru talte, bed han hende som tiest af med Spot. Vistnok talte hun
+  saa trættende pynteligt, men det var dog vist velment, og han havde
+  ikke Lov til at spotte hende, mente Martha. Hun kunde ikke bare sig
+  for at sende ham et bebrejdende Blik alt en af de første Dage. Han
+  opfangede det og kjendte sig vist behageligt pirret, for han gav sig
+  strax mere af med hende, og det var synligt, at hun steg i hans
+  Gunst.
+    </p>
+    <p>
+     Han havde mange Planer og meddelte efterhaanden flere af dem til
+  sin Svigerdatter. Der var to Slags af dem, sagde han selv. Den ene
+  Slags skulde udføres, slaa Rod i Jorden og fremvoxe; det var
+  forstørstedelen saakaldte menneskekjærlige Planer. Saa var der de, som
+  bare var Luftspring; det var de selvkjærlige Planer, som gik ud paa at
+  forskjønne hans eget Eje.
+    </p>
+    <p>
+     Martha tyktes stundom mærke, at han stod saa træt overfor det
+  Altsammen, som naar han sagde til hende: [39] «nu tror du vel, at der
+  er mest Virkelighed i de første af mine Planer og mest Forfængelighed
+  i de sidste? men nej, min Pige! det er netop omvendt! men du er en
+  altfor god lille Pige til at forstaa dig derpaa.»
+    </p>
+    <p>
+     Hun kunde undertiden blive som slagen af hans dristige
+  Skjønhedstankes Kraft, ligesom hun maatte undres over hans fine Smag
+  og dannede Aand, og hun elskede ham, fordi hans Haand altid var aaben
+  for at give. Endda saa hun, at der ingen Fred var i hans Sjel, og hun
+  maatte tænke, at han vist var en meget vantro Mand. Hun skammede sig
+  næsten over, at han tiltrak hende mere end Svigermoderen.
+    </p>
+    <p>
+     En Ting, blandt alle de andre, syntes hun var lidt tvungen: hendes
+  Ægtefælle sagde altid
+     De
+     til sine
+  Forældre, og hun maatte naturligvis gjøre som han. Men hun havde
+  aldrig sagt De til sin egen Fader og Moder, skjønt hun og hendes
+  Søskende vistnok ikke brugte Duet saa hyppigt og skjødesløst som den
+  nuværende Ungdom.
+    </p>
+    <p>
+     Forresten havde hun al Grund til at være fornøjet hos
+  Svigerforældrene. Alt, hun kunde ønske af Godhed og Velvilje, blev
+  hende vist; det Hjemlige, som ikke fandtes i Huset, kunde ikke gives.
+  Hun grundede endel over den Ting og fik just under Savnet Syn for
+  Meget, som siden kom hende tilnytte. Hendes Moders Skikkelse og Færd
+  stod i de Dage idelig for hende, og naar hun, trods de udvortes gyldne
+  Dage, ikke kunde lade være at længes efter et eget Hjem, hvor hun
+  kunde leve for Den, hun elskede, da ønskede hun saa, at dette
+  [40] lille Hjem maatte blive ligt hint gamle bag den høje Aasryg.
+    </p>
+    <p>
+     Hvor hun kunde leve for Den, hun elskede, sagde jeg; men Udtrykket
+  gjengiver hverken helt eller ret det, hun trængte til.
+    </p>
+    <p>
+     O, døm hende ikke, fordi der var et stærkt og brusende Liv i hende,
+  som begjærede noget for sig selv! Hun var saa ung, og der var meget
+  Egenkjærligt i hendes Kjærlighed; men du, som dømmer, har du lært at
+  opgive alt dit Eget? eller var hun mere strafskyldig, fordi hendes
+  Aand vendte sig mod det Store, medens det kanske er bare de lavere
+  Ting, som fastholde dig i dit Eget, naar du helt skulde hengive dig
+  for en Anden?
+    </p>
+    <p>
+     Ja, hun higede mod det Store! Midt under de ny Følelser, som hun i
+  det sidste Aar havde lært at kjende, og som dannede en egen liden
+  Verden indeni hende, var der ogsaa kommet ny Tanker, som gik ud over
+  denne lille Verden: gjennem sit Eget saa hun ud i noget Større; det
+  var ligesom det, hun oplevede i sig selv, traadte ud og tog en
+  Skikkelse udenfor hende, og da voxte det.
+    </p>
+    <p>
+     Hun havde altid, fra Barn af, havt en Trang til at finde Udtryk for
+  det, som levede i hende; naar Noget gjorde Indtryk paa hende, saa
+  kjendte hun en Drift til at skabe. Hun havde prøvet baade Penslen og
+  Tonerne, men alt tidligt fundet sit bedste Udtryk i Ordet. Dengang hun
+  var allermest maalbunden, et Par Aar efter Faderens Død, havde hun
+  fundet Lettelse ved i nogle Smaavers at udtale for sin Moder Noget af
+  det, som levede i hendes Aand og Hjerte. Ordene, som ellers vare saa
+  stive og klodsede, bleve ligesom mere medgjørlige, da [41] de fik
+  Versemaalets Klædebon at hylle sig i, og det skrevne Blad kunde hun
+  overrække sin Moder uden anden Tale end de tause Taarer.
+    </p>
+    <p>
+     I de sidste Aar havde, som før sagt, de dybe Tanker forholdsvis
+  hvilet, og skjønt disse Aar havde sin store Skyld og sit Savn, saa var
+  Hvilen næsten en Naturnødvendighed efter Barneaarenes stærke Gjæring.
+  Jeg tænker paa Overgangsaarene fra Barn til Voxen. Livet var da gjemt
+  og opholdt, ogsaa i den fattige Glimmertid. Dengang fik hun en vis
+  Færdighed i «at gjøre Vers,» men der var rigtignok ikke stort ved
+  dem.
+    </p>
+    <p>
+     En dyb Trang bragte hende til, med et uklart, svævende Haab, at
+  gribe efter
+     Fylde
+     der, hvor hun
+  syntes, den maatte findes. Og saa fik hun virkelig det, hun greb
+  efter, som en saa forunderlig Opfyldelse af Haabet, saa det var hende
+  selv uforklarligt. Aand og Hjerte var paa engang ligesom naaet af et
+  electrisk Slag, som satte de henstivnende Kræfter i en levende
+  Rørelse. Da maatte hun vel elske ham, der stod for hende som
+  Fremtrylleren af det forunderligste og glædeligste i hendes Liv;
+  Kvindehjertet vil saa gjerne omfatte den synlige Skikkelse, for at
+  Alt, som rører sig i og om det, kan slaa Rod og fremblomstre som noget
+  Virkeligt.
+    </p>
+    <p>
+     For en underlig Tid! Hun havde før levet saameget i den gode Natur
+  og fundet Hvile i den; nu saa hun overalt
+     Mennesket
+     . Det var hende stundom,
+  som om hun kunde optage i sig al Verdens Glæde og Sorg; hun havde Rum
+  nok! ja hun kunde tykkes sig selv en tusindaarig Kvinde, der havde
+  gjennemlevet det Altsammen. [42] Og endda var hun saa ung, saa stærk
+  og saa glad!
+    </p>
+    <p>
+     Under slige Kaar maatte ogsaa afsluttede Digtninger udspringe. Hun
+  gav dem tildels synlig Skikkelse; men Skikkelsen tyktes hende dog saa
+  fattig mod Synet, hun bar i sig selv.
+    </p>
+    <p>
+     Det var kun sjelden, hun fik høre fra sin Ven eller kunde meddele
+  sig til ham. Den Tids Børn maatte lære at vente. Jeg ved ikke, om det
+  var Opdragelsen eller medfødt Blu, der ogsaa for Brevenes Indhold
+  satte en Grændse, som vi vel nu vilde kalde streng og snever. Men sine
+  let henkastede Digtninger tilegnede hun i Tanken
+     ham
+     .
+    </p>
+    <p>
+     Saavidt om det henrundne Aar.
+    </p>
+    <p>
+     I Svigerforældrenes Hus længtes hun efter det lille Hjem for der at
+  leve
+     med
+     den Elskede. Hun havde
+  endnu igrunden levet lidet med ham. Nu skulde Livets Rigdom oplade sig
+  for hende, hun skulde modtage alt, hvad hendes Aand tørstede efter,
+     gjennem ham
+     . Hun vilde lære af ham,
+  men hun vilde ogsaa give. Hun skulde være som det lønlige Kildespring,
+  der løstes ved hans Trylleord til at risle om hans Fod og gjøre Livet
+  yndigt for ham. Men hun saa ogsaa Livets Alvor, Noget af den, mener
+  jeg. Gjenskinnet af Moderens stille Virksomhed var som en rolig
+  Baggrund for de lette, lysende Tegninger. Alt, som Kraft, Dygtighed og
+  et taknemligt Hjerte kunde yde, det skulde være hans.
+    </p>
+    <p>
+     Vilde hun ogsaa opgive sit Eget for hans Skyld?
+    </p>
+    <p>
+     Sit Eget? aa ja, det vilde hun nok! men hun havde vist ikke tænkt
+  videre paa, at det skulde kræves. [43] Endnu var intet saadant Krav
+  kommet hende nær som en bydende Virkelighed. At opgive et enkelt Ønske
+  for en Andens Skyld, det er endnu intet saadant Krav.
+    </p>
+    <p>
+     Her i hendes Ægtefælles Fædrenehjem gik en Anelse om, hvad en
+  Hustru kan blive kaldet til, langsomt skjærende gjennem hendes unge
+  Hjerte; just ikke fordi hun saa Kravet fyldestgjort, men Kravet selv
+  saa hun. Da følte hun næsten Angst over, at hun ikke var mere lig sin
+  Moder.
+    </p>
+    <p>
+     Men Mod og Haab vandt snart Sejer, og hendes livsglade Blik saa
+  fortrøstningsfuldt ud i Fremtiden. Hun var ung, elsket og
+  lykkelig.
+    </p>
+    <p>
+     Der havde været Tale om, at Manden med den unge Hustru skulde
+  opslaa sit
+  Paulun
+     <ref target="#NOR0073_tok18" xml:id="backk18">
+      k18
+     </ref>
+     i Kjøbenhavn for et halvt eller kanske et helt Aar, inden han modtog
+  nogen fast Ansættelse. Det var Marthas inderlige Ønske, at saa maatte
+  ske. Danmarks Hovedstad var hende gjennem Andre halvkjendt, og Meget
+  drog did. Men Vennerøster lokkede hendes Ægtefælles Tanke og Hug til
+  Tydskland; og ikke bare Vennerøster, ikke bare hans Fag, men hans
+  indre Væsens særegne Romantik drog ham til hans Moders Land. Vistnok
+  havde ogsaa hun mangengang kastet et langt Blik mod Syden, og da
+  nærmest mod Tydsklands Sang og Sage, svulmende Ranker og segnende
+  Borge. Alperosens Glød havde straalet hende imøde, Hornet havde lydt
+  og Riddertidens Glands havde aabenbaret sig for hende gjennem det
+  tydske Tungemaal. Men i deres Blik mod Syden var der en Grundforskjel:
+  hans var en Længsel efter hans Eget, efter det, som han kjendte sig
+  aandelig udsprungen af; hendes var [44] Nordboens Higen mod Syd, mod
+  det yppige Fremmede, som er saa anderledes end hans Eget, og som han
+  netop derfor trænger til, som kan lokke og drage, men ikke fastholde
+  ham. For naar han har hørt og set og samlet Skatte, da raaber hans
+  inderste Hug saa lydt og længselsfuldt: mod Norden! mod Norden! og der
+  finder den Hvile.
+    </p>
+    <p>
+     Men denne Forskjel mellem de To var endnu ikke kommet tilsyne. Den
+  kom heller ikke tilsyne, da
+     hans
+     endelige Bestemmelse blev at drage didhen, hvor hans Hug drog ham.
+  Indtrængende Opfordringer fra en ældre, højtstaaende Ven og Velynder,
+  der halvvejs lovte at bryde ham en Bane, gjorde Udslaget. Vistnok drog
+  Martha et lidet Suk over det tabte Kjøbenhavn og et mangefold dybere
+  ved Tanken paa at skulle føres saa langt bort fra sin Moder og alle
+  dem, hun havde kjær. Men Livet var dog saa straalende, og endnu raabte
+  det: ud! ud! i hende. Som god Hustru sagde hun altsaa ikke et Muk, men
+  var fornøjet med det, som det gik.
+    </p>
+    <p>
+     Først i September droge de afsted. Det lod, som ogsaa han længtes
+  efter det lille Hjem, men hans store Ærbødighed for Forældrene havde
+  afholdt ham fra at udtale Længslen; det var ikke mere end netop, at
+  Martha fik mærke den.
+    </p>
+    <p>
+     Her maa jeg fortælle, at hun i de sidste Par Maaneder var bleven
+  kaldt ved sit andet Navn:
+     Maria
+     ,
+  efter hendes Svigermoders Forslag og med hendes Mands Bifald.
+  Svigerfaderen havde rigtignok gjort dygtig Nar af Forandringen, men
+  hans Mening faldt dengang igjennem. Af sin Ægtefælle blev hun siden
+  altid [45] nævnet Maria. Men jeg vil fremdeles holde fast ved det
+  gamle Marthanavn, som hun bar i Slægten saavel i de unge, glade Dage,
+  som da Alder og Sorg havde sat sit Præg paa hende.
+    </p>
+    <p>
+     Hun havde aldrig tænkt, at Afskeden fra det Hus, hvor hun nu havde
+  levet et Par Maaneder, skulde blevet saa svær, som hun fandt den.
+  Hjemligheden, som begge de Unge stundede efter, fandtes jo ikke der,
+  og endda blev Farvellet saa smerteligt. Der kunde kanske nævnes flere
+  Grunde, som gjorde dette let forklarligt; men de dybeste gik vel her
+  som ellers, naar Sindet mægtigt røres, i fine, usporlige Traade
+  gjennem den Løndom, som Ordet Menneske
+     gjemmer
+     og ikke tilfulde oplader
+  før paa Aabenbarelsens Dag. Vi ere Alle knyttede sammen med slige
+  usynlige Traade; det var godt, om det oftere kunde spores.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Det ny Hjem var ordnet, Hjemmet i det Fremmede. Han hengav sig til
+  sine Studier, hun udfoldede sin husmoderlige Virksomhed. Det faldt
+  hende ikke vanskeligt: Svigerfader havde været forbausende
+  rundhaandet, og hendes Ægtefælle tog uden Frygt til en Sum, han selv
+  ejede. Hans Kundskaber og Visheden om at være en rig Mands eneste Søn
+  gjorde ham uræd for Fremtiden. Men Martha satte sin Ære i et
+  forstandigt Husstel, som hun desuden fra Barndommen af var vant til.
+  Det var saa morsomt at stelle for ham, hun havde kjær, og han var saa
+  taknemmelig og syntes, hun var saa flink. Hun havde ogsaa med stor
+  Lethed sat sig [46] ind i de fremmede Forhold, som Husstellet maatte
+  føje sig efter.
+    </p>
+    <p>
+     De levede iførstningen temmelig meget for sig selv; det laa ikke i
+  hans Natur at knytte mange selskabelige Baand. Da var Martha ofte
+  ensom, og i Enrum gror Tanken og udfolder sig. I de stille Timer,
+  medens han arbejdede, da gjæstede Hjemlandsminderne hende. Men saa
+  kunde han nok ogsaa standse med Arbejdet for at meddele hende sine
+  Tanker eller for at høre hendes trøstende og oplivende Ord, naar Tvivl
+  om egen Dygtighed indsneg sig hos ham.
+    </p>
+    <p>
+     Det syntes, som om hun saa godt kunde dele med ham, følge ham, naar
+  han talte til hende om det, som hans Aand havde søgt og fundet eller
+  var paa Spor efter. Det kunde forsaavidt falde hende let, som han jo
+  bare meddelte hende, hvad der var rimeligt, at den kvindelige Aand
+  kunde modtage. Han dyrkede Videnskabens Marker i sit Ansigts Sved, men
+  Smaablomsten rakte han hende, for at hun skulde glæde sig med ham over
+  den. Kunde det saa ske, at han indbød hende til en Vandring, som gik
+  over hendes Kræfter, eller han bød hende en Frugt, som hun ikke ret
+  vidste at sætte Pris paa, da var jo derved intet tabt: han var den
+  naturligt Overlegne, og hun elskede denne Overlegenhed.
+    </p>
+    <p>
+     I de fælles Læsetimer, naar han fandt sin Glæde i at gjøre hende
+  nærmere kjendt med de tydske Digtere, da havde hun altid Rum for det,
+  han bragte, og kunde ofte glæde sig saa inderligt over det.
+    </p>
+    <p>
+     Men det kom ofte for hende, at han ikke saaledes havde Rum for det,
+  som mægtigst levede i hende. [47] Endda kunde hun ikke rigtig tro, at
+  det var saa; han havde jo selv vakt hende af Dvale, tyktes hun, været
+  den Løser, hun havde stirret efter, han havde kastet Lysglimtet ind i
+  hende.
+    </p>
+    <p>
+     Dette Lysglimt tændte ikke bare, det fødte ogsaa Trang til mere
+  Lys. Til hvem skulde hun da gaa uden til ham, som – o sjeldne Lykke! –
+  var baade Løseren og hendes elskede Husbond?
+    </p>
+    <p>
+     Hun gik til ham. Hun frembar for ham Alt, som hun bar i sig af
+  sprudlende Tanker og brændende Spørgsmaal; hun pegte paa Synerne, som
+  alt stærkere opgik, og hun sagde ham, at hun vilde saa gjerne give dem
+  en Skikkelse, naar hun bare havde Kræfter til det.
+    </p>
+    <p>
+     Hvorfor tog han ikke imod det, hun kom med? kunde han ikke følge
+  Tankeflugten, ikke give Spørgsmaalet Svar? mishagede hendes skjønne
+  Syner ham, og maatte hun ikke faa Lov at udrække Haanden efter
+  dem?
+    </p>
+    <p>
+     Hun havde alt før i hans Forældres Hus vist ham nogle Smaadigte,
+  fremsprungne ved forskjellige Lejligheder. Det havde moret ham, men
+  det var hende underligt og saart, at de, hun elskede mest og som hun
+  syntes bedst gjengav hendes dybeste Liv, de hugede ham mindst. Hun
+  forstod det ikke, men hun tænkte, at hans Syn var vel rigtigere end
+  hendes. Hun følte sig som et Barn ligeoverfor ham, især naar det
+  gjaldt Aandens Liv.
+    </p>
+    <p>
+     Nu, da hun vovede sig til at fremlægge for ham de Par smaa
+  Livsbilleder, som hun løst havde tegnet det sidste Aar i Hjemmet, da
+  oplevede hun det samme i stærkere Mon: det, som for hende var
+  allerhjemligst, det [48] kom som noget Fremmed for ham, og han kunde
+  ikke rigtig finde sig tilrette i det; det var baade for simpelt og for
+  dristigt for ham, og hvad var egentlig hendes Mening med det? vilde
+  hun blive Forfatterinde?
+    </p>
+    <p>
+     Der var ingen Varme i Spørgsmaalet, og derfor kom Svaret med
+  Graad:
+    </p>
+    <p>
+     O, nej nej! hun havde ikke tænkt klart over noget Saadant, hun
+  havde slet ikke tænkt! hun havde bare fulgt sin Trang; det var et
+  Stykke af hendes indre Liv, som hun havde givet Skikkelse, og hun
+  vilde dele det med ham.
+    </p>
+    <p>
+     Kjærligheden forstod han, og den kunde han dele. Han tog hende
+  ifavn, strøg hendes Taarer bort og talte oplivende som til et
+  forskræmt Barn. Saa stilnede hun ogsaa af; hun sagde til ham, og hun
+  sagde til sig selv, at hun
+     var
+     ogsaa bare et Barn, et tosset Barn! Det Hele var ikke noget at bryde
+  sig om!
+    </p>
+    <p>
+     Og endda – det gik ikke gjennem det daglige Liv, men det slog hende
+  stundom imøde som fremmed Luft, at han ikke ret forstod og delte med
+  hende. Da kunde hun falde hen i en stille Grunden; men ogsaa dette
+  aabnede for hendes Syn et nyt Dyb af den Menneskelivets Verden, som
+  hun skuede ind i. Det laa ellers ikke i hendes livsstærke Natur at
+  ruge over hvert lidet Hjertestød. Hun tænkte paa sin Moder, og da lød
+  som et sagte Hvisk til hende: bær det taalmodigt! Hendes egen indre
+  Kraft rejste sig og sagde: det maa gjennemleves! Der var ogsaa en
+  Maade at bære paa, som tyktes let, men som hun viste fra sig med et
+  Slags [49] Gru: hun fristedes til at skabe en Digtning af sit eget Liv
+  istedetfor at gjennemleve det.
+    </p>
+    <p>
+     Hun vendte sig til sin Husbond – han tiltrængte hende hel. Han
+  havde faat Tilladelse til at holde en Række Forelæsninger i Vinterens
+  Løb, men havde som Taler ikke gjort den Lykke, han kanske havde
+  ventet, og var desuden selv utilfredsstillet ved, hvad han havde
+  givet. Det er muligt, at han stillede for høje Fordringer baade til
+  sig selv og til det ydre Bifald; men han følte det, som om Ordet endnu
+  ikke var rigtig løsladt paa hans Tunge, og hans mismodige Aand trængte
+  til
+     meget
+     Bifald for at blive
+  tilfredsstillet.
+    </p>
+    <p>
+     Martha mente, at det var hans Fordringer, der vare for store, og
+  hun vilde saa gjerne opmuntre ham; hun prøvede at lægge sit Eget
+  tilside og helt gaa ind i de Tanker, som opfyldte ham. Da tyktes hun
+  sig baade for rig og for fattig. Men endda lykkedes det ret godt, og
+  en overstrømmende Kjærlighed fra hans Side lønnede hende. Hun takkede
+  ham i sit Hjerte for denne Kjærlighed, men alligevel vilde det
+  sommetider lægge sig tyngende paa hende, at dersom hun skulde bevare
+  den, da
+     maatte
+     hun ogsaa glemme sit
+  Eget, det, som han ikke havde Rum for. Det steg op i hendes Tanke: jeg
+  elsker ham, som han er, men skal han elske mig, saa maa jeg være, som
+  han vil have mig!
+    </p>
+    <p>
+     «Det var en slem og ukjærlig Tanke,» sagde mange Aar senere den
+  gamle Kone, «han elskede mig jo altid trofast, endda jeg mangengang
+  var, som han ikke vilde have mig».
+    </p>
+    <p>
+     Noget Saadant sagde hun vel sig selv alt dengang, [50] men hun var
+  saar over sine store Tanker, som skulde kues og ikke fremhjælpes.
+    </p>
+    <p>
+     Tiden gik, og hendes Ægtefælle kom – rimeligvis ved sin Velynders
+  Bistand – ind i en Virksomhed, der svarede til hans Evner og
+  Kundskaber. Da letnedes hans tunge Mod, og han var ofte glad og
+  spøgsom. Det var en lykkelig Tid. Hun var glad over hans Glæde, og
+  hendes Aand fandt for en Stund Hvile i hendes egen lille Verden.
+    </p>
+    <p>
+     En Datter var dem skjænket, om hende samlede sig al Tanke og
+  Kjærlighed. Men naar Moderen bøjede sig over sit sovende Barn, da
+  sukkede hun endda mangengang: «Gud skaane dig for mine urolige Tanker!
+  bliv Bedstemoder lig, Datter min; det er bedre for en Kvinde.»
+    </p>
+    <p>
+     Deres Omgangskreds udvidedes efterhaanden, indeholdt ret vakkre
+  Størrelser og gjennemkrydsedes desuden stundom af Tydsklands
+  Storaander. Da hvilede mangt et beundrende Blik paa den skjønne
+  aandfulde Kvinde fra det høje Norden, da drog hun Mange hen i sin
+  Nærhed, da henvendtes Stormænds Tale til hende, og mange Øren lyttede
+  efter Svaret, der kom saa friskt og fyldigt, saa det fremlokkede baade
+  Smil og ny Tanker. Men Martha kunde ikke dølge, at hun kjendte sig
+  oplivet og ligesom lettet, naar Digterordet klang for hendes Øre og
+  lig en Tryllenøgle lukkede op for hendes bundne Liv. Aa, det var
+  mangengang altfor lokkende!
+    </p>
+    <p>
+     Der var Noget, hun grundede paa: hun regnede det for et Tab og en
+  Skyld, at hendes Aandsliv engang var nærved at slukkes, hun vidste, at
+  naar Forfængeligheden [51] fik Magt, da veg disse Drømme, som hun
+  elskede, bort og Synerne bleve faa; hun blev saa træt, hun syntes, det
+  blev saa tomt og øde i og om hende, naar hun i længere Tid havde
+  syslet formeget med bare Hverdagstanker; hun troede, at Gud havde
+  skabt dette Aandens Liv i hende, og at hun ikke maatte lade det dø
+  bort. Men endda fødte det jo Uro og Kamp, naar det vilde yttre sig,
+  det var som om Aandens Liv stod i Strid med de inderste Hjertebaand.
+  Naar hun henreves af Talens Ildstrøm, naar Tankelynet glimtede og
+  Ordet flød fra Læben, let som i Dands, da saa hun stundom en Sky paa
+  sin Ægtefælles Pande. Hvad var det? saarede hendes Livslyst ham? hun
+  vidste det ikke, men Lynet sluktes og Ordet sagtnede sit Løb. En Gru
+  kunde stundom gribe hende for, at Gaven skulde gjøre hende uskikket
+  til hendes Kald som Hustru, Moder og Kvinde. Hvor højt hun end elskede
+  Aandens Flugt, Hjertets Baand vare dog dyrebarere.
+    </p>
+    <p>
+     Forunderligt! Gaven skulde opholdes og dog, syntes det, gjemmes,
+  lukkes inde. Og selv om den havde faat Lov til at udfolde sig i Dagens
+  Lys, saa kjendte hun sig for veg til at bære den frem saaledes, som
+  hendes inderste Hug stod til. De smaa Ting kunde hun vel finde et
+  Udtryk for, naar de opkom i hende; naar det Store langsomt svævede
+  forbi hendes Syn, da greb hun vel efter det, men Evnen svigtede, det
+  kunde hun ikke give Skikkelse. Gaven var baade for stor og for ringe,
+  og – hvorfor havde hun faat den?
+    </p>
+    <p>
+     I saadanne øjeblikke var det, hun aandede hine Ord over sin lille
+  Datters Vugge.
+    </p>
+    <p>
+     [52] De unge Folk gjæstedes et Par Gange af en gammel
+  Menighedsforstander fra
+  Gnadenberg,
+     <ref target="#NOR0073_tok19" xml:id="backk19">
+      k19
+     </ref>
+     en Ven af Marthas Svigermoder.
+    </p>
+    <p>
+     Han var en god Mand, som indgjød Tillid, og hun udtalte engang
+  nogle af sine tvivlfulde Tanker for ham. Han svarede hende med en
+  gammel
+  Kirkefaders
+     <ref target="#NOR0073_tok20" xml:id="backk20">
+      k20
+     </ref>
+     Ord:
+     Vort Hjerte er uroligt og hviler
+  ikke, førend det hviler i Gud.
+    </p>
+    <p>
+     Ja, saaledes var det! naar Hjertet først
+     hvilede
+     i Gud, saa vilde nok det
+  Andet klare sig. Der var ingen Hvile i de forfængelige Tanker, det
+  havde hun kjendt baade før og nu. Men der var heller ingen Hvile i de
+  store Aandens Tanker – nej, forat Mennesket skulde kunne bære dem,
+  uden enten at segne eller ophøje sig selv, maatte Hjertet først
+     hvile
+     i Gud.
+    </p>
+    <p>
+     Hun havde da endnu gjemt sin lille Katekismustro; den havde været
+  hende en Vogterske under mange Fristelser og bevaret et vist Enfold
+  hos hende, selv under de høje Tanker. Vel var den svag, men Faderen
+  holder jo fast i den spæde Barnehaand, som udstrækkes mod ham, og
+  slipper ikke, før den trodsigt unddrager sig; derfor blev hun heller
+  ikke sluppet.
+    </p>
+    <p>
+     Med denne sin lille Tro bad hun den store Giver, at Gaven maatte
+  blive til Velsignelse efter hans Behag enten paa den ene eller den
+  anden Maade, enten hun selv skulde mærke det eller ej, og med
+  Forvisningen om, at saa vilde ske, stilnede det af i hendes
+  Hjerte.
+    </p>
+    <p>
+     Dog var det med underlige Tanker, hun førstegang vuggede en Søn paa
+  sit Skjød. Skulde denne Søn tage Arv efter sin Moder og faa Kraft til
+  at bære [53] frem det, som var for svært for hende? Hun følte det, som
+  om en stor Skat var nedlagt i et altfor ringe og skrøbeligt Kar, og
+  hun vilde saa gjerne se den overflyttet i et bedre.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Saa gik Aarene frem med sine Glæder og Sorger, med Frygt og med
+  Haab, med Kamp og med Hvile, og under alt dette med sin daglige
+  Undervisning for Aanden, om den vilde lære, og for Hjertet, om det
+  vilde bøje sig. I den Tid fandt hun ofte Hvile i de oehlenschlægerske
+  Digtninger,
+     <ref target="#NOR0073_tok21" xml:id="backk21">
+      k21
+     </ref>
+     der kom som Hilsen fra Norden og fra de Verdner, der i stille Graalys
+  havde svævet forbi hende. Da mærkede hun ogsaa, hvor ringe hun var,
+  naar hun stod hos de Store.
+    </p>
+    <p>
+     Forresten var der intet særlig Fremtrædende ved disse Aar, naar det
+  ikke skulde findes i en Frygt, der svagt udtaler sig i, hvad hun
+  dengang skrev til sin Moder:
+    </p>
+    <p>
+     «… Kjære Moder har vist hørt tale om Tydsklands store Filosofer? vi
+  hjemsøges endel af deres Skygger d. e. deres Skrifter og
+  Eftersnakkere. Jeg forstaar mig, som Moder vel kan vide, ikke derpaa,
+  men det forekommer mig, at de Allesammen gaa over Bækken efter Vand:
+  søge Visdom, men gaa den sande Visdomskilde forbi. Min kjære Ægteherre
+  siger det samme; dog er jeg bange, at han lader sig plage en god Del
+  mere end fornødent kunde være. Derfor er jeg da ogsaa tilbørligt led
+  og kjed saavel af Filosoferne som af de respective Skygger. – Overalt
+  er der dog megen [54] Dunkelhed omkring os, og naar ikke Mændene finde
+  Lys, hvorledes skulde saa vi stakkels Kvinder finde det!…»
+    </p>
+    <p>
+     Men en andengang skrev hun:
+    </p>
+    <p>
+     «… Det er en svær urolig Tid, vi leve i, og trods alle Udbrud af
+  Lyn og Torden synes Luften mig lige lummer. Krigen med Kugler og Krudt
+  føres vistnok ikke saa lige i vor Nærhed, men Striden i Gemytterne er
+  ikke udelukt af vor Stad, ikke engang af vort Hus. Bliv dog ikke
+  bange, kjære Moder! jeg takker Gud, at min Ægtefælle hører til de
+  stille, ikke til de vilde Aander ……… Jeg vilde spørge Moder, om det
+  maaske er galt, at jeg holder saa stærkt paa det kjære danske
+  Tungemaal for vore Børn? Deres Fader ler ad min Iver, men saa taler vi
+  dog Dansk os imellem. Nogen Forvirring bliver der altid her i det
+  Fremmede. Du, min stille Moder, vilde vist saa taalmodigt finde dig i
+  Tidernes Medfør; men i mig er, som du fra gammel Tid ved, en
+  Gjenstridigheds Aand. Jeg vilde, at mine Smaapiger skulde synge, som
+  min Moder sang, og min dejlige Dreng! skulde han ikke opvoxe under
+  Klangen fra de gamle kjære Fjelde, der – det haaber jeg vist – engang
+  skulle give Gjenlyd af hans Røst. Skulde vi ikke snart komme til at
+  drage mod Norden igjen, saa send mig dog herned min lille Søster Else,
+  som vel nu er bleven stor, (jeg haaber, hun er en altfor flink Gjente
+  til at lade sig opsnappe af de slemme Franskmænd,) jeg trænger saa til
+  lidt frisk norsk Luft og er, [55] trods alle Omvexlinger, den samme,
+  som Moder kjender fra hendes Pigedage…»
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Saa kom det knusende Slag. Det var
+     hans
+     Fædrenehjem, som styrtede
+  sammen og – man kan næsten sige: rev ham med sig i Faldet.
+    </p>
+    <p>
+     Tidernes Bølgeslag brød ogsaa mod Handelskontorernes Murværk, og
+  det viste sig mangesteds, at Sammenføjningen var løs som Grunden
+  usikker. Men de urolige Aander, som fandtes ogsaa inden
+  Handelsverdenen, fristedes vist da til dristige Speculationer.
+    </p>
+    <p>
+     Marthas Svigerfader fristedes. Hans gjærende, arbejdende Aand fandt
+  kanske en Lise i at undfange vovelige Planer og iværksætte dem. Ingen
+  ved det. Men en Morgen fandtes han død i sit Privatkontor, og som et
+  Lyn udfor Rygtet om Husets fuldkomne Ruin. Det drog flere efter
+  sig.
+    </p>
+    <p>
+     At den varsomme Handelsherre var knust af Ulykken – det var det
+  Visse. Men om Legemet umiddelbart var bukket under for Slaget, eller
+  om den mørke, tvivlende Aand havde søgt Tilintetgjørelse, det var det
+  Uvisse. Anstand og Barmhjertighed bredte dog for den ulykkelige
+  Hustrus Skyld sit Slør derover. Men hendes grulige Anelse
+  gjennemtrængte Sløret og uforbeholdent som hensynsløst skrev hun uden
+  Skaansel det Værste til sin Søn.
+    </p>
+    <p>
+     Naar Martha, den gamle Kone, omtalte den Dag, da Efterretningen kom
+  – dog, den var endda ikke den værste – naar hun talte om de Dage, de
+  Uger, de [56] Maaneder, som fulgte paa, da bævede hele hendes Legeme,
+  og Læbe som Kind blegnede. Men den korte Udsigt over de kommende Aar
+  har jeg mere fra en Anden end fra hende selv.
+    </p>
+    <p>
+     Hendes Ægtefælle var som Barn opdraget i streng Orden og Lydighed.
+  En vis Sky for Faderen havde fjernet ham fra denne; han havde altid
+  kjendt sig tryggere hos Moderen, der vel ogsaa elskede ham mest.
+  Hendes Religiøsitet havde tiltalt og paavirket det barnlige Sind og
+  meddelt ham en vis Stemning, som var Ynglingen et Værn mod mange
+  Fristelser. Men Christentroen havde ikke slaat nogen kraftig Rod i
+  ham, og det, som nok kunde værne om den Unges ydre Færd, var for vegt
+  til at modstaa Stormløbene mod Mandens indre Liv.
+    </p>
+    <p>
+     Han havde stirret paa Tidens Falkejagt og Høgeflugt, lyttet til de
+  mange Røster, der i Tale og Sang gjenlød om ham. Men sandt og falskt,
+  ægte og uægte havde underligt blandet sig for Øje som for Øre. Gjennem
+  Forstandsgrublerier havde han i de senere Aar søgt Klarhed. Selv for
+  veg til at bryde ny Baner, havde han fulgt de indviklede Gange, der
+  tyktes ham at føre til Lys og Frihed, men som, da hint Skrækkens Bud
+  kom, havde bragt ham omtrent til Midten af Labyrinthen.
+  Verdensvisdommen var ikke bleven ham et Middel til Aandens Udvikling,
+  men en mangearmet Kjæmpe, som han brødes med til sin Undergang.
+    </p>
+    <p>
+     Der lagde sig som en knugende Byrde over ham, og den kunde
+  Menneskehaand ikke afvælte. Han havde troet at skimte Lysskjær, der
+  bebudede Udgang i den [57] klare Dag, da kom pludseligt det dybeste
+  Mørke, og hans Kræfter lammedes.
+    </p>
+    <p>
+     Og hun?
+    </p>
+    <p>
+     Medens han syntes at være bragt saa rent fra sig selv, var det, som
+  om hun just nu førtes mere til sig selv.
+    </p>
+    <p>
+     Havde
+     hun
+     da været fra sig selv?
+  havde ikke hos hende en jevn stille Udvikling faat Fremgang? havde hun
+  ikke kjæmpet og vundet Sejer?
+    </p>
+    <p>
+     Den lille Tro var bevaret, og den lille Kjærlighed var ikke
+  slukt.
+    </p>
+    <p>
+     Men, da de svære Sorger kom, da saa hun saa grant, at Dødsfaren
+  havde svævet over dem begge. For Andre havde det vistnok været
+  usynligt.
+    </p>
+    <p>
+     Hun havde faat to skjønne Gaver: Livsfriskhed og Klogskab.
+    </p>
+    <p>
+     Med sin naturlige Livskraft kunde hun nok taale et Tryk og endda
+  reise sig igjen; blev Strømmen spærret saa brød den sig et nyt Løb.
+  Hun kunde føle dyb Smerte, kjende sig kuet for en Stund, men paa de
+  skuffede Forventningers Grav fremvoxte igjen Modets og Haabets friske
+  Blomst, om end i en anden Skikkelse.
+    </p>
+    <p>
+     For en dejlig Guds Gave! Naturgave kalde vi den, og hvorfor skulde
+  vi ikke kalde den saa, naar vi bare mindes, at Gud ogsaa er
+  Naturgavens Giver? Men hos hende støttedes Naturgaven af det evige
+  Livs Kraft, som hun i al Skrøbelighed troede paa. Og endda var der en
+  Tid, da Naturgaven var nær ved at overvælde den lille Tro. Dette, at
+  hun kunde slaa sig tiltaals og være glad, det kunde se ud som
+  «Hjertets [58] Hvile i Gud» uden at være det, og da var Faren der, at
+  det Timelige skulde saa sagteligt glide over paa det Eviges Plads,
+  indtage Dronningesædet. Hvilen i Gud er Stridshærens faste Stilling
+  med Værn og Værge til alle Sider, men her – var end ikke Hæren opløst
+  og Tropperne afskedigede, saa vare dog Forposterne halvt isøvn, og
+  Faren for en Overrumpling var der.
+    </p>
+    <p>
+     Hun vidste, at det havde staat saaledes, da Guds stærke Haand
+  naaede hende og vakte hende til klart Syn paa sig selv.
+    </p>
+    <p>
+     Men hun var ogsaa en klog Kvinde. Der var givet hende et Klarblik
+  til at gjennemskue Forhold og Menneskers Sind; altsom den lette
+  Fantasie sænkede sine Vinger, traadte det frem, med Erfaringen voxte
+  ogsaa Klogskaben og Klarblikket skjærpedes. Da lærte hun at lempe sig
+  og omgaaes viseligen, da lærte hun at gjemme dette sit Eget, som
+  hendes Ægtefælle ikke kunde dele og ikke bære; kom nu Skyen paa hans
+  Pande og var hans Hjerte saart – hendes Skyld var det ikke, hun havde
+  lært at dæmpe Talens Ildstrøm, og Tankelynet knittrede ikke mere. Det
+  var godt, og hun vandt meget ved det. Men da Sorgen kom, da slog det
+  ned i hende, at naar hun havde været den føjelige og bøjelige Hustru
+  eller Omgangsfælle, saa havde Klogskaben mere end Kjærligheden været
+  Læremester. Da bluedes hun over sig selv, da blev hun varm og blød:
+  Ilden, som ulmede under Asken, slog ud i Lue, rørt af Aandepustet fra
+  oven.
+    </p>
+    <p>
+     Men kunde da ikke Klogskaben naa Maalet ligesaa godt som
+  Kjærligheden!
+    </p>
+    <p>
+     O nej! den skaber nok ydre Fred og gode Dage, [59] men den læger
+  ikke, sammensmelter ikke. Klogskaben naar Maalet timeligt, men
+  Kjærligheden naar det evigt. Den evige Visdom er den evige
+  Kjærlighed.
+    </p>
+    <p>
+     Gjennem Trængsel skulde den kloge Kvinde lære at elske inderligere.
+  Efterhaanden skulde Klogskaben ret komme i Kjærlighedens Tjeneste, men
+  ikke tage Magten fra den. Efterhaanden, siger jeg, det gaar jo
+  langsomt! men tilslut skulle alle Kræfter tjene Kjærligheden saavel i
+  det Hele som hos den enkelte Sjel, der var tro.
+    </p>
+    <p>
+     Var hun da tro?
+    </p>
+    <p>
+     Med hvad Maal maales du? Gud saa baade Troløsheden og Troskaben, og
+  han styrkede den sidste.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Aldrig tilforn havde Martha set saa tilbunds i sin Ægtefælles
+  Hjerte, som nu, da det stærke Slag rammede og ligesom ved Rystelsen
+  aabnede de hemmelige Gjemmer derinde; han havde altid været en i sig
+  selv indesluttet Aand. Hun havde vel set, at hans Aand var mindre
+  omfattende, end hun engang tænkte; hun var med Sorg, stundom med Gru,
+  blevet var, at han ikke var den faste Troens Kjæmpe, som hun saa i
+  ham, da hun stod saa usikker paa Verdenslivets Gyngebret og derfra
+  kastede sig i hans udstrakte Arme for at finde Frelse. Men nu fik hun
+  se mere.
+    </p>
+    <p>
+     Der var dem, der opkastede Spørgsmaal, om hun vilde havde elsket
+  ham, dersom hun havde kjendt ham før.
+    </p>
+    <p>
+     For en daarlig og unyttig Undersøgelse; hvor den vilde harmet
+  hende! hun indlod sig ikke paa den, for [60] hun elskede ham jo med
+  den vistnok lille, men trofaste Kjærlighed.
+    </p>
+    <p>
+     Det viste sig nu; for da Gjemmerne
+  oplodes,
+     <ref target="#NOR0073_tok22" xml:id="backk22">
+      k22
+     </ref>
+     da de mørke Tvivl krøb frem fra sit Indelukke, da det lønligt tærende
+  Tungsind blev saa stort, at det ikke længer kunde dølges, da voxte den
+  Lille, den Svage blev stærkere end Døden.
+    </p>
+    <p>
+     Da følte hun den dybeste Medlidenhed med ham. O, du stolte Aand,
+  forarg dig ikke! du synes kanske, det er altfor usselt at være
+  Gjenstand for Ynk, en Kvindes Ynk! men jeg siger: held denne Mand, at
+  Kvinden saaledes ynkedes over ham, og at han ikke forargede sig! det
+  var en Kjærlighedens Sejer.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Han tog sig sammen til at udføre to Ting: først indbød han sin
+  Moder til at tage Ophold i hans Hus og drog Omsorg for, at hun kunde
+  komme til ham; dernæst skjænkede han Resterne af sin Smule Formue til
+  de mange Arbejdere, der ved hans Fader vare satte i Virksomhed og ved
+  Dennes Fald atter ud af den.
+    </p>
+    <p>
+     To Fremtidsplaner, mellem hvilke han før havde staaet uvis, sank
+  derimod sammen under Vægten af hans Tungsind. Martha havde alt længe
+  stundet mod Norden. Drage helt didhen, hvor hendes Længsel pegte,
+  kunde han ikke, men for hendes Skyld var han ifærd med at følge en nys
+  modtagen Kaldelse til det
+  Kieler-Universitet.
+     <ref target="#NOR0073_ton19" xml:id="backn19">
+      n19
+     </ref>
+     Hans egen Hug og Attraa stod til Berlin, hvor en nysoprettet Højskole
+  i de trange Tider samlede [61] om sig de prøvede og de yngre Kræfter
+  og med dem alle Forhaabninger.
+    </p>
+    <p>
+     Nu syntes hans Længsel slukt, og Kaldelsen modtog han ikke. Det
+  var, som han gøs bare ved Tanken om at drage nordpaa. Mørk og taus
+  optog han igjen sin vante Gjerning, arbejdende for Brød, ikke af
+  Kjærlighed til Videnskaben. De pludseligt opladte Gjemmer lukkede sig
+  igjen, Tvivl og mørke Tanker laa tyngende i dem. Sky drog han sig
+  undaf, naar Venner og Kjendinge nærmede sig med Deltagelse. Bare en
+  Udtalelse fra en Fraværende syntes at vække ham og for en Tid at
+  optage hans Tanker. Den kom fra en i Tydskland bosat Nordmand, fordum
+  hans Ven og Fortrolige; et Forhold, der var blevet brudt, da Denne –
+  som flere efter Hvile og fast Grund higende Sjele paa den Tid – var
+  traadt over til det romerskcatholske Kirkesamfund. Nu havde
+  Vennehjertets Varme gjennembrudt alle Skranker, og det syntes at glæde
+  den Dybtnedbøjede.
+    </p>
+    <p>
+     Men vendte ogsaa hans Tanker i en ny Retning?
+    </p>
+    <p>
+     Muligt! men hans Aand manglede kanske den Dristighed og Kraft, som
+  udfordredes til det afgjørende Skridt, maaske fik han efterhaanden den
+  Forvisning, at det Søgte ikke saaledes kunde findes, maaske – saa han
+  i dette sit eget Hus et stille Vidne om, at Freden og Hvilen fandtes
+  der, hvor han var. Hvormeget eller hvorlidet han udtalte for sin
+  Hustru, kan jeg ikke sige; hun udtalte sig kun sparsomt om disse
+  Kampens Aar.
+    </p>
+    <p>
+     Ja, ret Kampens Aar, indvortes som udvortes. Det var ikke bare
+  Manden med den svære Byrde, der [62] blev vanskelig at omgaaes, hans
+  Moder var det i end højere Grad.
+    </p>
+    <p>
+     Hun havde i sin Ungdom gjældt for at være en aandsdannet og begavet
+  Pige. Men en dybt rodfæstet og stadig næret Egenkjærlighed havde
+  idelig vendt hendes Tanker til hende selv, og denne Mark, hvor rig den
+  iførstningen kunde være, maatte jo ved idelig at tæres paa blive
+  mager, og saa bleve Tankerne det med, bleve smaa og forkrøblede af
+  Mangel paa Næring. I et ikke lykkeligt Ægteskab havde vistnok en stærk
+  og ofte haard Personlighed lagt tunge og trykkende Baand paa
+  Egenkjærligheden; men til Gjengjæld udvidedes den i det Umaadelige, da
+  disse Baand brast. Den store Ulykke, der nys havde rammet, var hende
+  desuden som et aabent Brev med Fuldmagt til at plage alle Omgivelser,
+  og dette aabne Brev blev stadigt fremlagt.
+    </p>
+    <p>
+     Den Religiøsitet, hun kort efter sit Giftermaal havde tilegnet sig,
+  ejede ingen ret Kraft til at omdanne Hjertet fra Grunden af, og
+  Egenkjærligheden kunde godt trives i dens Skygger. Moderkjærligheden
+  var vistnok den skjønneste Blomst i hendes Liv, den ejede hun endnu og
+  viste den paa sin Maade. Men Sønnen kunde hun slet ikke forstaa, han
+  var bleven hende en Anden. Det var meget tungt! men at det dog maatte
+  bæres, det vilde hun ikke vide af, endmindre søgte hun Forklaringen i
+  sig selv. Frygtsom for at tale til ham, der vel altid viste hende
+  sønlig Ærefrygt, men forresten ikke kunde finde Hvile hos hende,
+  klagede hun altid for Martha, og klagede dobbelt, fordi hun heller
+  ikke hos [63] hende mente at blive forstaaet. Forresten var hun god
+  mod Børnene, og de holdt meget af hende.
+    </p>
+    <p>
+     Det var ofte saa forunderligt for Martha at se paa, hvor godt
+  Børnene kom ud af det med Bedstemoder, det som for hende var saa
+  vanskeligt. Hun vidste nok, det kunde have sin naturlige Grund i, at
+  Bedstemoder lagde ikke den Byrde paa dem som paa hende; men i disse
+  Aar lærte hun for Alvor at se ind i sig selv, og hun vidste, at
+  derinde maatte ligge Nøglen ogsaa til den Gaade, en Nøgle, som, naar
+  den fandtes, vilde aabenbare Skyld hos hende selv.
+    </p>
+    <p>
+     Det tyktes hende, som havde det aldrig været mere fornødent, at hun
+  i sit Levnet og Omgjengelse aabenbarede Kristentroens Kraft, og aldrig
+  havde hun fundet sig saa skrøbelig, saa fuld af Synd. Just naar hun
+  allermest længtes efter at blive ret myg og blød i Sind, da syntes hun
+  at være haard og streng; men kom det Milde og Bøjelige frem, da var
+  det, som om den kristelige Visdom flygtede. Hun forstod mangengang
+  ikke sig selv, nej, det tyktes hende, at al Forstaaelse var vegen fra
+  Jorden. Hun undredes paa, om hun blev forstaat, men maatte svare nej
+  til sit eget Spørgsmaal. Mangengang mente hun, at hun forstod de Andre
+  bedre, end de forstod sig selv, hun saa Grundskaden i dem; men hun
+  vovede ikke at sætte et bestemt
+     jo
+     med dette afgjørende: du forstaar mig ikke! end ikke i sit eget
+  Inderste vovede hun at holde fast paa det, mindst naar hint tunge Ord
+  lød fra hendes Ægtefælles Læber, og det hendte stundom, just – syntes
+  hun – naar hun vilde pege paa Sandheden.
+    </p>
+    <p>
+     [64] I en liden Bog, hvori hun havde nedskrevet nogle af sine egne
+  Smaadigte og Strøtanker, findes fra den Tid:
+    </p>
+    <p>
+     «Intet Menneske kjender sig selv, og hvo kan tilfulde forstaa en
+  Anden? o, at jeg kunne gjennemtrænge Mørket for at lære den rette
+  Forstaaelse! at jeg kunde vrænge mit eget Indre ud indtil den inderste
+  Fold, for at faa vide, hvad der omtaager mit Syn, saa jeg ikke ser og
+  forstaar! Dog – jeg ved, at dersom jeg kunde ganske hensmelte i
+  Kjærlighed, da skulde jeg blive klarsynet…»
+    </p>
+    <p>
+     Det gaar ikke saa let «ganske at hensmelte i Kjærlighed!» Martha
+  kunde mangengang næsten fortvivle over sig selv. Da lærte hun at have
+  nok i Syndernes
+     Forladelse
+     , og da
+  blev Kristentroen hende umistelig, som den fra Barndommen havde været
+  kjær og ærværdig. Den lille Lærebog havde været hendes Rettesnor og
+  Sandhedsregel, og med barnlig Aand havde hun modtaget de hellige
+  Skrifters Vidnesbyrd. Men først nu gik det rigtig op for hende, at
+  dette: slip dig selv og alt det, som dit er: grib
+  Kristum
+     <ref target="#NOR0073_tok23" xml:id="backk23">
+      k23
+     </ref>
+     og alt det, som hans er! det er Evangeliet, men at gjøre saa, det er
+  Troen.
+    </p>
+    <p>
+     Jeg nævnte den lille Lærebog. Ja, hun havde endnu det selvsamme
+  gamle Exemplar med hendes Faders Haandskrift i, og det blev holdt
+  ihævd. Hun brugte den lille Bog, naar hun underviste sine Børn, og det
+  var for dem som en særdeles Ære og Gunst at faa læse i «Bedstefaders
+  lille
+  Büchlein»,
+     <ref target="#NOR0073_tok24" xml:id="backk24">
+      k24
+     </ref>
+     som Smaagutterne sagde paa sit blandede Maal, og saa faa se foran,
+  hvad Bedstefader skrev til Moder, da hun var liden. Det [65] hendte et
+  Par Gange denne Moder, at hun, kjæmpende med sig selv og sine tunge
+  Tryk, og grebet af de hellige Sandheder, der saa sødt gjentages af de
+  enfoldige Barnemunde, brast i heftig Graad. De forskrækkede og
+  undrende Smaa mente da, at hun «græd for Bedstefader,» og trøstede
+  hende med, at Bedstefader havde det saa godt, var saa glad hos Gud, og
+  de skulde nok engang komme til ham Allesammen, saa maatte hun da
+  endelig ikke græde!
+    </p>
+    <p>
+     Disse Smaa vare hende da en stor Opmuntring og Trøst, for ikke at
+  sige hendes Stolthed, der nok endnu kunde faa hende til at løfte
+  Hovedet og se omkring sig med straalende Blikke. Hendes Ønsker og Haab
+  for Sønnen syntes i en hel mærkelig Grad at skulle gaa i Opfyldelse.
+  Den Lille var baade dybsindig og fuld af spillende Liv, ofte næsten
+  altfor klog. Hans Moder trykkede mangengang Haanden haardt mod
+  Hjertet, naar hun fulgte ham med Øje og Øre, det var, som hun vilde
+  dæmpe de altfor hurtige Slag og holde de stærke Drømme nede. Men
+  Moderstolthedens Ild i det straalende Øje sluktes mangengang af en
+  stille Taare, medens hun bad om at maatte kunne optugte ham ret, og at
+  han ikke maatte blive hendes Afgud. Ofte frygtede hun, at hun var
+  altfor streng mod Børnene, og idethele for alvorlig; Hjertet var jo
+  somtiest for tungt og trykket til, at hun ret kunde gaa ind i deres
+  Spøg og Leg. I dette Stykke, som i flere, havde hun en god Hjelperske
+  i den «lille Søster Else, som var bleven stor,» og som virkelig til
+  Marthas usigelige Glæde var sendt herned af Moderen.
+    </p>
+    <p>
+     [66] Else var en kraftig norsk Gjente, en stærk Sjel i et stærkt
+  Legeme; hun saa med klogt og kjækt Blik omkring sig i Verden, gjorde
+  ikke megen Krus for de krusede Hoveder, men kom endda godt ud af det
+  med Alle. Dertil var hun fuld af sin Hjembygds Sagn og Eventyr, som
+  hun da uden Barmhjertighed puttede i Søsterbørnene, hvor grufulde de
+  end vare. Underligt nok fandt Søsterbørnene den Kost noksaa smagelig,
+  og hængte glade ved Tante Else, som desuden kunde lege, ja af og til
+  være lidt vilter med dem. Hun trængte til den Oplivelse under Tidernes
+  Pinagtighed, og Børnene trængte til En at gjøre Løjer med: det var som
+  passet sammen. Else var som en frisk Luftning fra Norden i den trange
+  Tid.
+    </p>
+    <p>
+     Ogsaa med Husgjerningen hjalp Else. Men dens Tryk kom paa Martha
+  selv, og det Tryk var mangengang ret svært, da det gjaldt at føre den
+  større Husholdning med Mindre, end den lille før havde krævet. Da
+  gjaldt det at tænke og at spare baade sent og tidligt, og hvor
+  sløvende det kan være, fik hun først nu at finde. Men hun fandt ogsaa,
+  at det havde sine særegne Glæder og sin Velsignelse.
+    </p>
+    <p>
+     «Var min Tro større,» sagde hun til Else, «saa vilde der blive bare
+  Glæde og Velsignelse!»
+    </p>
+    <p>
+     Hun var i den Tid mere end før rigtig sjeleglad, naar de engang
+  imellem kunde komme helt udenfor Staden med Børnene, vandre og hvile i
+  Mark og Eng. Da kunde Else, som var praktisk, stundom ynkes over den
+  Mangfoldighed af Blomster, som voxte op ligesom [67] til Overflod: der
+  var jo Tusinder, som Menneskeøje ikke saa, som voxte og visnede i
+  Skjul.
+    </p>
+    <p>
+     «Ank ikke over det!» sagde Martha, «det gjør mig saa godt, at
+  Vorherre kan være saa ødsel og ikke se noget Savn i det! jeg bliver
+  saa glad og let om Hjertet over al den Rigdom; man bliver saa træt af
+  den idelige Tanke paa at skulle spare.»
+    </p>
+    <p>
+     Men det var ikke bare over Vorherres Rigdom, hun kunde glæde sig.
+  Menneskers Velstand og, hvor Rang og Stilling tillod det, en sømmelig
+  Udfolden af Pragt og Glands gjorde hendes Hjerte godt, sagde hun. Else
+  lo da og mente, at det var et nyt Træk i hendes Karakter.
+    </p>
+    <p>
+     Jeg mener, det er naturligt, at Menneskeaanden føler Trang til
+  Overflod, den er jo skabt for den evige Fylde. Men her maa jeg minde
+  dig om, hvad jeg før sagde om Vrængebilledet. Den Menneskets Trang til
+  det evige Nok, er den ikke gjengivet som Vrængebillede i
+  Begjærligheden, alle Synders
+  fule
+     <ref target="#NOR0073_ton20" xml:id="backn20">
+      n20
+     </ref>
+     <ref target="#NOR0073_tok25" xml:id="backk25">
+      k25
+     </ref>
+     Moderskjød?
+    </p>
+    <p>
+     Men i Marthas lille Bog finder jeg et Vidnesbyrd om, med hvilket
+  Blik hun saa paa denne Verdens Herlighed. Der staar skrevet:
+    </p>
+    <p>
+     <quote>
+      <l>
+       «Verdslig Glands!
+      </l>
+      <l>
+       yppig fremstilled
+      </l>
+      <l>
+       du for min Sands
+      </l>
+      <l>
+       et straalende Billed
+      </l>
+      <l>
+       af det, som Aanden
+      </l>
+      <l>
+       er fød at eje!
+      </l>
+      <l>
+       og dog i Haanden
+      </l>
+      <l>
+       du let kan veje
+      </l>
+      <l>
+       [68] Fordærv og Øde;
+      </l>
+      <l>
+       ja, du kan døde,
+      </l>
+      <l>
+       du kan forvilde
+      </l>
+      <l>
+       og Sandsen vende
+      </l>
+      <l>
+       til dig som Guld,
+      </l>
+      <l>
+       du stakkels, fattige Støv og Muld!
+      </l>
+      <l>
+       Da farer ilde
+      </l>
+      <l>
+       den Støvets Frende,
+      </l>
+      <l>
+       naar ej han ser,
+      </l>
+      <l>
+       at du er Billed, men ikke mer!»
+      </l>
+     </quote>
+    </p>
+    <p>
+     Hun var næsten aldrig mere skamfuld og sorgfuld over sig selv, end
+  naar hun i Utaalmodighed havde ladet sin Ægtefælle mærke, at
+  Husholdstanken trykkede, Sligt hendte vistnok sjelden, men det hendte
+  dog, og det besværede ham i høj Grad. Da gik hun ret strengt irette
+  med sig selv; men saa bar hun ogsaa i lang Tid sin egen Byrde lettere,
+  fordi hun blev saa levende greben af, at hans Byrde var den ulige
+  tungere.
+    </p>
+    <p>
+     For hende var det desuden eget at bryde igjennem Trykket; o, hvor
+  gjerne vilde hun ikke set ham gjøre det Samme! Hun kunde stundom ikke
+  ret skjønne, hvorledes det var muligt at forblive i Tungsind og
+  Grublerier i en Aarrække; hun syntes, han maatte dog mande sig op, han
+  maatte dog vedblive at banke saa kraftigt paa hos Vorherre, at der
+  tilslut blev lukket op for ham til Frihed og Lys. Dertil kom, at hun
+  troede, der var nedlagt hos ham en særegen Gave, der netop vilde gjort
+  ham skikket til at virke med Velsignelse under Tidens mangehaande
+  Svingninger, og det smertede hende at se denne Gave ligge ubrugt, dø
+  bort under Tvivlens tunge Tryk.
+    </p>
+    <p>
+     [69] Men nu skete det ikke saa, som hun syntes det maatte ske, og
+  det Visse var, at hendes elskede Husbond led og stred, bunden og i
+  Mørke. Dette Gaadefulde gjorde hende ofte saa ængstelig tilmode, og
+  hun blev saa uvis i sig selv, uvis om sin egen Dømmekraft. Han havde
+  da altsaa Ret, naar han sagde, hun ikke forstod ham, Ret kanske ogsaa
+  da, naar hun syntes, hun saa klarere i ham, end han selv gjorde?
+    </p>
+    <p>
+     Fordum var der en Sikkerhed hos hende, i hendes Dom og i al hendes
+  Færd; hun syntes selv, at hun havde vundet nogen Erfaring og et vist
+  Klarblik, der ikke var givet Enhver, og hun havde haabet at gaa fremad
+  heri. Men altsom de tunge Aar skred frem, blev hun mere usikker, og
+  der lagde sig Aftenskygger, hvor før var Middagsglands. Men naar Alt
+  vaklede og Lyset skiftede, paa «de evige Høje» blev det dog, og Guds
+  Ord stod fast. Saa slog hun sig tiltaals og fandt Lindring i
+  «Skrifternes Trøst.» Men hun kjendte sig ofte aandelig ensom og havde
+  stærk Trang til et Samfundsliv. Det greb hende altid underligt, naar
+  hun læste:
+     men den ganske Hob, som
+  troede, havde eet Hjerte og een Sjel
+     . Paa Brødremenigheden saa
+  hun ogsaa stundom og undredes, om der var godt at være, men saa tænkte
+  hun igjen, at der vist vilde være for trangt for hende. Saavel hun som
+  hendes Ægtefælle gjaldt for at være Pietister, og vistnok havde
+  ialfald hun fundet Venner i et lidet Pietistsamfund, der dog som
+  Samfund kun førte en hendøende Tilværelse. Det er rimeligt, at hun med
+  sit kraftigere og renere Troesblik virkede velsignet til Trøst og
+  Oplivelse for [70] mere end een ængstet eller vaklende Sjel i deres
+  Omgangskreds.
+    </p>
+    <p>
+     «Vi trænge dog saameget til at støtte hverandre i denne vildsomme
+  Verden,» sagde hun, «der burde være mere Søskendeliv blandt dem, som
+  dele Tro og Haab.»
+    </p>
+    <p>
+     Naar hun da tænkte paa, at Menneskeslægtens Liv, fra fjerne Tider
+  af, skulde være et sammenhængende Levnetsløb, da gik der en uklar
+  Anelse gjennem hende om ogsaa et Gudsfolkets Levnetsløb, og da længtes
+  hun saameget efter en Haand, som kunde pege paa dets Vej, en Røst, der
+  kunde oplade det Skjulte for hendes Blik. Men hvo kan vel længes, som
+  en Kvinde længes?
+    </p>
+    <p>
+     Det tyktes hende saa underligt, at den store Sandhed, som Enhver
+  sagde han vidste: at den hele Slægt og hvert Folk i den havde sit
+  Levnetsløb i Lighed med det enkelte Menneske, at den ikke kom mere
+  frem i Livet. Hun kunde ikke sige det med Ord eller sætte det klart
+  frem i sine Tanker, men endda vidste hun af sit eget Indre, at den
+  maatte skabe og gjøre lyst, om den kom ret frem. Hun hørte nok, at der
+  taltes stærkt og lydt om Udvikling og Fremskridt, men det var af dem,
+  der gjorde Mennesket selv eller Naturen til Gud, og hvor skulde vel
+  det bære hen?
+    </p>
+    <p>
+     Ja, hun var endnu en Spørgerske som fordum: havde hun end faat
+  mange Svar, saa fødtes der jo altid ny Spørgsmaal.
+    </p>
+    <p>
+     Forunderligt! det tause Aandens Spørgsmaal, Savnets Barn og
+  Længslens Fostermoder, var som en Lindring i de trange Tider.
+    </p>
+    <p>
+     Vel lærte hun i denne Tid at elske de smaa Ting [71] og netop i dem
+  mangengang se den store Gudsaabenbarelse; men medens hun idelig
+  syslede med disse smaa Ting, kom oftere Frygten for, at de skulde
+  lænkebinde hende, saa hun tabte Evnen til at se det Store.
+    </p>
+    <p>
+     I Børneflokken kom de dybeste Tanker som den friskeste Livsglæde.
+  Hun lærte Børnene for en Del selv og havde en særegen Gave til at
+  fortælle. Om Nordmænds og Daners Færd i gammel og ny Tid fortalte hun
+  selv; det var, som de længst henfarne Mænd og Kvinder kom lyslevende
+  frem igjen, naar hun tog Ordet paa Tunge, og hendes Syn udvidedes,
+  medens hun talte. Else sagde, at det var den største Fornøjelse, hun
+  vidste paa den Tid, naar hun kunde snige sig til at høre paa; men
+  Martha kjendte altid en Blygsel, naar hun havde voxne Tilhørere, hun
+  kunde da ikke tale saa enfoldigt og barnligt, som naar hun var alene
+  med sine Smaa. Hendes tause Husbond havde dog engang uset været
+  tilstede, og han maatte tilslut udbryde:
+    </p>
+    <p>
+     «Men Maria! ser du vore gamle Fædre lige ind i Hjertet?»
+    </p>
+    <p>
+     En Tid efter gav han hende en Bog, som blev hende ganske særdeles
+  dyrebar, saavel for dens eget dybe Indholds, som for Giverens Skyld.
+  Det var «Optrin af Nordens
+  Kjæmpeliv.»
+     <ref target="#NOR0073_tok26" xml:id="backk26">
+      k26
+     </ref>
+     Hvad hun fandt i dette vidunderlige Skjaldeværk, som hun i sit snævre,
+  bundne Husliv, fjernt fra Norden, ikke engang havde hørt nævne, kunde
+  hun aldrig ret udtale. Kun dette vidste hun at sige, at her var en
+  Skildring af Livet, som hun aldrig havde set før, den var hende som et
+  Blik ind i den dybeste Nat og den lifligste Morgenrøde. Da kjendtes
+  det [72] ogsaa, at Hjertet var ikke lukket for det Store og Aandens
+  Liv var ikke slukt.
+    </p>
+    <p>
+     «Hvad griber dig saa dybt?» spurgte hendes Ægtefælle, da han saa
+  Blodet vige bort fra hendes Kinder og Taarerne bryde frem; og hun
+  maatte svare:
+    </p>
+    <p>
+     «De stærke Kræfter, som røre sig i Mennesket!»
+    </p>
+    <p>
+     Det var hende saa kjært, at
+     han
+     havde givet hende den Gave; men dybt rørte det hende, da hun fandt, at
+  han havde understreget Vagn
+  Akesøns
+     <ref target="#NOR0073_tok27" xml:id="backk27">
+      k27
+     </ref>
+     Ord:
+    </p>
+    <p>
+     «Ak! det er tungt at leve, naar man ej
+    </p>
+    <p>
+     forstaar, hvad Livet er, og ikke
+    </p>
+    <p>
+     kan stille Sjelen ved en stadig Tro!»
+    </p>
+    <p>
+     Hendes dybe Længselsblik saa fra den Tid endnu stadigere mod
+  Norden; det var hende, som om Lys og Lægedom maatte oprinde der. Endda
+  vidste hun nok, at Vorherre lader sig finde allevegne.
+    </p>
+    <p>
+     «Dybest fornam jeg det,» sagde hun, «naar vi bragte et af vore Børn
+  til Daaben, eller naar jeg deltog i den hellige Nadvere. Skjønt jeg
+  ikke ret kjendte Sacramenternes Kraft, saa lød det dog da altid dybt i
+  min Sjel:
+     her er Guds Hus, her er
+  Himlens Porte!
+     Der var i vor Stad ikke en eneste Præst, som ret
+  forstod at tale om Evangeliets Hemmelighed; men i al den Tid, vi vare
+  der, bleve dog Sacramenterne uforvanskede, og de gamle Søndagstexter
+  lød fra Alter og Prædikestol. Saa lykkelig var man ikke overalt.»
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Hendes Svigermoder forlod nogen Tid efter sin Søns Hus. Hun havde
+  aldrig fundet sig vel tilfreds [73] der, og drog nu til nogle
+  schlesiske Slægtninge, der tilhørte Brødremenigheden, i hvilken ogsaa
+  hun lod sig optage. Det kunde synes som en Lettelse for Martha, at den
+  Gamle tog bort; men det er jo mangengang saa, at naar et stærkt Tryk
+  pludseligt hæves, da paafølger en Svie, som ikke kjendtes, saalænge
+  Trykket var der.
+    </p>
+    <p>
+     Martha kjendte en saadan Svie, og det ikke bare i Huden. Dybt i
+  Hjertet skar den og fødte brændende Taarer. Dette, at det lange
+  Sam
+     vær
+     ikke havde været noget ret
+  Sam
+     liv
+     , at hendes Mands Moder ikke
+  havde fundet sig vel i sin egen eneste Søns Hus, at hendes Ophold der
+  havde været et Tryk – det var netop Svien. Martha, som havde staat
+  midt imellem denne Moder og denne Søn, der virkelig elskede, men,
+  fordi enhver af dem var bundet af sit Eget, ikke kunde forstaa
+  hinanden, hun kunde ikke undlade at se en stor Skyld hos sig selv, at
+  hun ikke bedre havde baaret dem Begge i Kjærlighed og Forstaaelse.
+  Stod hun som den mere fri, der saa dybere og opfattede klarere, da
+  fulgte dermed den store Forpligtelse, og at hun kun daarligt havde
+  gjort den Fyldest, det vidste hun nok, hvad saa end Andre maatte sige
+  om den Ting. Det var en dyb Ydmygelse, som slog ned hver Tanke om at
+     være
+     Noget.
+    </p>
+    <p>
+     Sønnen var baade forundret og saaret ved at Moderen vilde forlade
+  hans Hus; han kunde ikke rigtig skjønne det. Dog lagde han ingen Skyld
+  paa sin Hustru; maaske fordi han saa hendes dybe Sorg, maaske fordi
+  han virkelig fandt hende skyldfri. Det Hele kom ham uventet, det var,
+  som hans Tanke nu kom tilbage fra et fjernt Land og tog til at se sig
+  om i Hjemmet.
+    </p>
+    <p>
+     [74] Kort efter døde Marthas egen Moder. Den stille Kvindes
+  velsignede Livsgjerning var endt, det milde, stadige Lampeblus slukt
+  for Støvets Øje. Det gamle Hus kom dog ikke i fremmede Hænder, en af
+  Sønnerne tog ved det.
+    </p>
+    <p>
+     Det var et haardt Slag for Martha, som i de sidste Aar havde
+  længtes saa efter at se sin Moder igjen og haabet med et fast Haab, at
+  saa skulde times hende. Nu blev ogsaa Saaret, som Tanken paa
+  Svigermoderen fremkaldte, endnu hedere.
+    </p>
+    <p>
+     Hun skulde rammes endnu dybere, og hendes Ægtefælles hjemvendende
+  Tanke, saa nys hjemvendt, skulde fastholdes af Sorgen. Men jeg vil
+  ikke dvæle længe ved det.
+    </p>
+    <p>
+     En ondartet Børnesygdom rev mange Smaa bort i Staden og dens Omegn.
+  Vore Venners Hus gik ikke frit. Martha var utrættelig, som en Moder
+  kan være, og havde – takket være Elses huslige Omsorg – den Trøst at
+  kunne opoffre sig helt for sine Børns Pleje. De vare Alle mer eller
+  mindre angrebne paa den ældste Pige nær, som da nu kunde være tilnytte
+  med et og andet. Det gik over med de Andre, men Marthas Stolthed og
+  Haab, hendes ældste Søn, de stærke Drømmes Barn, syntes at være
+  dødsmærket. Det havde anet hende strax Sygdommen greb ham.
+    </p>
+    <p>
+     Den gamle Menighedsforstander fra Gnadenberg var den Tid i deres
+  By, og han saa indom hos dem engang imellem, havde ogsaa paa sin milde
+  godslige Vis trøstet Martha i Sorgen over Moder og Svigermoder.
+  [75] Nu udtalte hun for ham sit Hjertes Kvide, som hun ikke nænte at
+  gjøre det for sin tause, lidende Husbond, der kanske heller ikke endda
+  kunde baaret saadant Klagemaal.
+    </p>
+    <p>
+     Hun talte til den Gamle om sine Ungdomsdrømme om sine Kampe og om
+  sit Moderhaab. Med Fadergodhed hørte han hende, skjøndt hans stille
+  Aand var fremmed for et saa dristigt higende Liv som det, der gjemtes
+  i denne bøjede Kvinde.
+    </p>
+    <p>
+     Hun talte om sin lille Dreng, hun meddelte de mange Smaatræk, der
+  vidnede om hans barnlige Kjærlighed og om dette hans Aands
+  hemmelighedsfulde Indblik i en højere Verden, der ikke saa sjelden
+  aabenbarer sig gjennem de Smaa.
+    </p>
+    <p>
+     «Stundom var jeg ængstelig over den stærke Aandens Kraft,» sagde
+  hun, «den syntes ikke at svare til den unge Alder; men saa var der dog
+  saadan Livslyst hos ham, og da han nu var bleven saa stor og mere lig
+  andre Børn, saa havde jeg haabet at faa beholde ham. Men nu tager
+  Vorherre ham fra mig!»
+    </p>
+    <p>
+     «Alt er Skuffelse!» sagde den Gamle, og han talte tunge Ord om
+  Forkrænkelighed og Jordlivets Fattigdom; han pegte paa det Hinsides,
+  Alt, som blomstrede paa Jorden, visnede for de sagtmælte, alvorstunge
+  Ord; men hinsides straalede Evighedsblomsten med sit klare, vinkende
+  Farveskjær.
+    </p>
+    <p>
+     Den gode gamle Mand! der var saa stille i hans Sjel, og hans Hjerte
+  var ømt, som Blikket var mildt. Han havde set omkring sig paa sin
+  lange Pilgrimsvandring og læst
+     Forkrænkelighed
+     allevegne; men
+  Evighedens [76] Kilder havde kvæget hans Aand og slukket hans Tørst
+  paa den lange Rejse.
+    </p>
+    <p>
+     Og nu sad han her som en Trøster, og Kjærligheden i hans Barm lagde
+  Ordene paa hans Tunge. De vare saa skjønne, disse Ord, de vare saa
+  opløftende, og de tyktes Martha saa sande, og endda – var Livet ikke i
+  dem.
+    </p>
+    <p>
+     De tyktes hende saa sande, sagde jeg, ja, saa altfor sande, meget
+  mere end den gode gamle Mand vidste.
+    </p>
+    <p>
+     Alt er Skuffelse
+     ! lød det
+  allevegnefra i det snevre, det vide Hjertekammer, den trange Vraa, som
+  kan rumme saa Meget.
+     Alt er
+  Skuffelse
+     ! Da kom de frem, de skjønne Drømmeblomster i hendes
+  Liv, straalende kom de frem, og hun saa dem visne een for een: Alt er
+  Skuffelse! Hvad havde hun ikke drømt hin straalende Vaar, da hun med
+  Kjærlighedshaabet i Hjerte og Hug havde rakt Haanden til den Mand, der
+  skulde ledet og baaret hende gjennem Livets snevre Vendinger, været
+  for Kvinden, hvad Faderen var for Barnet, og mere end det! Men hvad
+  var Drømmen blevet til? Kamp og Tryk og Selvfornegtelse! Men værre end
+  det! Hvad havde ikke hendes Barndom lovet, og hvad var hun vel blevet
+  til? vidste hun ikke med sig selv, at hun havde været anderledes end
+  andre Børn, rigere og dybere? men hvad var der vel blevet af det
+  sprudlende Liv, hendes Faders Stolthed? og den mægtige Higen fremad og
+  de store Tanker – o hvad var det Altsammen blevet til? – Trællekaar og
+  Trælletanker! og hun havde opgivet Alt for sig selv, naar det maatte
+  faa fremblomstre [77] i hendes Søn, Gudsgaven fremblomstre til
+  Giverens Ære og Menneskers Lyst; men nu havde Herren lagt sin Haand
+  ogsaa paa ham, Døden lagde sig over hendes Livshaab.
+    </p>
+    <p>
+     Da greb en pludselig Angst hende, og hun forlod den Gamle for at
+  vende tilbage til den lille Seng, som hun saa sjelden gik fra. I
+  Forstuen vare hendes Børn; de Større saa paa hende med alvorlige,
+  spørgende Blikke, de Mindste med Barneglædens troskyldige Jubel, Alle
+  med Kjærlighed. Da løftede Fuglen i hendes Bryst sit sænkede Hoved.
+  For en Rigdom! lød det, og Fuglen lyttede. Men hun skyndte sig videre.
+  Ved den lille Seng sad hendes Ægtefælle, saa dybt bedrøvet, og da hun
+  saa ham, vidste hun, at hun elskede ham. Hun tog en Skammel, satte sig
+  lavt ved hans Side og lænede sit Hoved op til ham, medens de Begge saa
+  paa den tause Kamp mellem Liv og Død.
+    </p>
+    <p>
+     Saa sad de længe; da sagde han:
+    </p>
+    <p>
+     «Han havde saameget af
+     Dit
+     ,
+  Maria, og jeg havde haabet, at han skulde blevet en Lysbærer for den
+  kommende Tid.»
+    </p>
+    <p>
+     Det kom saa pludseligt, saa uventet. Kunde hendes Tanke leve
+  udenfor hende, og hos
+     ham
+     ? og
+  vidste han,
+     hvad der var hendes
+     ?
+  hun maatte vende sig om og se paa ham, men det var, som et trykkende
+  Baand brast; saa lagde hun Hænderne for sit Ansigt og græd.
+    </p>
+    <p>
+     «Aa, jeg har havt saamange daarlige Tanker!» sagde hun.
+    </p>
+    <p>
+     Der blev ikke vexlet mange Ord, for Døden var nær. Men Livets
+  Forstaaelse var ogsaa nær.
+    </p>
+    <p>
+     [78] Dagen led og Natten kom, og det lille Liv sluktes.
+    </p>
+    <p>
+     O, hvilken Smerte!
+    </p>
+    <p>
+     Næste Morgen kom den fromme gamle Ven for at tage Afsked. Martha
+  lagde begge sine Hænder i hans.
+    </p>
+    <p>
+     «Gud har taget ham fra mig for en Stund,» sagde hun, «men den
+  Glæde, Trøst og Velsignelse, som hans korte Liv har været, den er ikke
+  borttaget!»
+    </p>
+    <p>
+     Hun havde grædt saameget, at Taarekilden var standset en Stund,
+  derfor kunde hun tale. Saa sagde hun om lidt:
+    </p>
+    <p>
+     «Saa er det med Alt, jeg har ejet og tabt, der var en Velsignelse i
+  det! mit Liv har været saare rigt!
+    </p>
+    <p>
+     Men han svarede: «Herren velsigne Dig og Dit Liv!»
+    </p>
+    <p>
+     Hun saa ham ikke mere før i det
+     Hinsides
+     , som han længtes efter.
+  Men der var Kraft i den gamle Mands Velsignelse.
+    </p>
+    <p>
+     Der var saa stille i Huset, medens den lille Døde hvilede der, og
+  saa øde, da han var bortbaaren. Der var endnu to Smaasønner, den
+  mindste smilte i Vuggen, men Martha vovede ikke at ønske de stærke
+  Ønsker over nogen af dem. Hun havde altid frygtet for, at nogen af
+  Døttrene skulde komme til at rage frem over det Almindelige, det var
+  ikke godt for Kvinden, mente hun. Men nu sagde hun: Guds Vilje ske med
+  dem Alle! Der var Fred og Haab i hendes Sjel, men Smerten og Savnet
+  var ikke borte.
+    </p>
+    <p>
+     I hendes lille Bog staar fra den Tid:
+    </p>
+    <p>
+     «Guds rige og mangfoldige Gaver gjennemstraale [79] Livet. Midt i
+  denne Verden, der er Død og Forkrænkelighed underlagt, fremspirer
+  Lykke og Glæde. Her findes velsignet Rigdom og Livets Lyst. Jeg ved og
+  jeg tror det, men mit Hjerte formaar ikke at fatte det – endnu!»
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Det var underlige Aar, som fulgte paa; «en yndig Tid!» sagde
+  hun.
+    </p>
+    <p>
+     Det Mørke, som i lange Tider havde samlet sig om hendes Ægtefælles
+  Sjel, og som ved hans Faders Død var blevet overvældende, det havde
+  begyndt at spredes, og just under Fadersmerten ved Barnets Dødsleje
+  var Lysning trængt ind til ham. Saa var det og gavnligt for ham, at
+  det idelig indadvendte Blik ligesom med Magt blev tvunget hen til
+  Tingene udenom ham, til hans Nærmestes Liv og Kamp. Hans redelige
+  Hjerte drog sig ikke undaf, da Synet først var opladt. Det var
+  gavnligt for ham, at Martha nu trængte saa meget til hans Omsorg.
+    </p>
+    <p>
+     Hun var bleven saa træt. I lange Tider havde hun skullet staa som
+  den Stærke, dele Andres Kamp, men tie med sin egen, ja være som den,
+  der ingen egen Kamp havde. Det er ikke saa let. Vel havde det
+  naturlige Livsmod hjulpet hende til at bære lettere, men saa havde hun
+  ogsaa mere i sig selv at stride mod end mangen Anden. Nogle ere
+  ligesom skabte til at gaa op i Andre, det er deres naturlige Trang,
+  fordi de ikke eje saa ret meget i sig selv. Kjærlighedstrangen er en
+  anden, og om den taler jeg ikke nu. Men Martha [80] havde netop den
+  naturlige Trang til, at Andre skulde, om just ikke gaa op i, saa dog
+  ind i det, som var hendes; hun bar en rig Verden i sig og attraaede at
+  meddele og finde Modtagelighed for denne Rigdom, ja at paatrykke Andre
+  sit Præg. Derfor blev hendes Kamp ikke ringe, da hun skulde glemme sig
+  selv og lægge sit Eget tilside. Den naturlige Livsfriskhed og Klogskab
+  kunde ikke ført hende levende igjennem.
+    </p>
+    <p>
+     Men Kjærligheden! siger du.
+    </p>
+    <p>
+     Ja, vi sige, at vi elske, og vi elske virkelig; men naar det
+  kræves, at Kjærligheden skal bøje vor Egenvilje og gjøre Lidelsen let
+  – hvo af os maa da ikke tilstaa, at den kun er altfor liden, selv om
+  den har født en brændende Følelse? Du siger: det er lidet at komme
+  igjennem, naar man elsker! men naar dette vort Eget, som vi trænge til
+  at faa plejet og udviklet, naar denne vor Aands ejendommelige
+  Livsrørelse skal lægges tilside uden at blive borte, kues uden at
+  forgaa, agtes som et Intet, hvor det kræves, at en Andens skal optages
+  i os – og dog næres som Guds dejlige Gave, der bør at udfolde sig og
+  voxe – ikke graves i Jorden, men kjøbslaaes med – er det lidet? er det
+  let? mig tyktes det umuligt, Kamelen gjennem Naaleøjet. Men saa siger
+     Ordet
+     :
+     for Mennesker er det vel umuligt, men
+  Intet er umuligt for Gud
+     .
+    </p>
+    <p>
+     Naar derfor det Umulige sker, naar den lave trange Gang, hvor
+  Ryggen maa bøje sig og Armene foldes over Brystet, er gjennemvandret,
+  og saa – Vindingen var større end Tabet: Livet ikke slukt, Blomsten
+  ikke visnet, men udfoldet i en dejligere Skikkelse, end vi anede,
+  [81] da vi glædede os over Knoppen, da maa vi vel sige: Gud har selv
+  baaret dette Menneske igjennem! Ved du nogen anden Vis at fortolke
+  Underværket paa, saa sig mig den! jeg ved ingen anden. Er det ikke
+  saa, naar den trangeste af alle Gange, Gravgangen, er gjennemvandret,
+  og Muldet samles igjen til det forklarede Legeme for den forklarede
+  Aand, Knoppen i fuldeste Mening bleven Blomst? da kan du dog ikke sige
+  andet, end Gud selv har ført dette Menneske, disse Mennesker
+  igjennem!
+    </p>
+    <p>
+     Martha var kommet igjennem en trang Gang, og hvor fattig hun end
+  tyktes sig selv, saa aabenbaredes det dog, at Aandslivet var ikke
+  slukt. Havde det end ikke faat udfolde sig saaledes, som det engang
+  higede efter – hvad er vel Mennesket? Gavens Udfoldelse kunde kanske
+  virket Døden! – ved Kjærlighedens stille Flamme i Hjertekamret var det
+  dog opholdt og næret. Kvindeligheden havde udfoldet sig, de trange
+  Kaar havde været dens Helsebod. Kjærligheden havde udfoldet sig, og
+  Levnetsløbet tildels udfoldet sig af den. Tildels, siger jeg, for naar
+  Levnetsløbet
+     helt
+     udfolder sig af
+  Kjærligheden, da er Livets Krone naaet.
+    </p>
+    <p>
+     Men netop fordi Levnetsløbet bare for en Del, og som hun sagde, saa
+     altfor lidt
+     havde udfoldet sig af
+  Kjærligheden, men
+     mere
+     var udgaat
+  af hendes ærlige, alvorlige Arbejde paa sig selv, netop derfor havde
+  det været Kamp, og Kamp trætter.
+    </p>
+    <p>
+     Hun var blevet saa træt, især efter at hendes lille Gut var borte.
+  Var Kravet blevet uforandret, saa vilde hun vel endnu kunnet være den
+  Stærke; men nu var [82] det saa sødt at være Gjenstanden for hendes
+  Ægtefælles Kjærlighedstanke og Omsorg. Hun saa med stille, lykkelig
+  Forundring, hvorledes det gik op for ham, at ogsaa hun havde havt et
+  eget Liv med Trang og Savn og Kamp; ja hun var saa villig til at tro,
+  at hans Syn var endnu langt klarere, end det kanske i Virkeligheden
+  var. Det, som før havde kostet Selvfornegtelse, det blev nu saa let.
+  Det blev en Hvile at kunne overgive sig helt, ikke at have nogen
+  Mening adskilt fra hans, ikke at være stærk, men lade sig lede og føre
+  som et Barn.
+    </p>
+    <p>
+     Saaledes overgav hun sig til hans vaagnende Livskraft.
+    </p>
+    <p>
+     Da fremblomstrede et ejendommeligt Liv. Jeg ved ikke, om det fra
+  ham og hende spredtes til Vennekredsen, eller om en Aandens Luftning
+  samtidig kom over Flere; men vist er det, i mange Hjerter vaagnede en
+  underlig Rørelse, og der kom Liv i døde Ben, ogsaa og fornemmelig
+  blandt dem, der i mange Aar vare nævnede Pietister.
+     Vækkelse
+     kalder man denne
+  ejendommelige Rørelse. Men her skete Intet voldsomt; det gik saa
+  stille som Sus i Luften ved Solopgang.
+    </p>
+    <p>
+     Der er Mennesker, Børn eller Voxne, som vi slet ikke finde saa
+  fejlfri eller udmærkede fremfor Andre, men som alligevel have Noget
+  ved sig, noget Ubeskriveligt, der gjør, at vort Hjerte bliver blødt,
+  naar vi se dem, vor Røst mild og vort Øje smilende. De eje en Ynde,
+  som vi ikke kunne modstaa.
+    </p>
+    <p>
+     Saaledes stode disse Aar i Mindets Glands for Martha, da hun var
+  blevet gammel.
+    </p>
+    <p>
+     [83] «Det var som en dæmpet Salmetone,» sagde hun, «som et
+  længselsfuldt Blik ind i Aftenrøden, der skulde gjennemstraale Nattens
+  Skygger, indtil Morgenstjernen oprandt. Lad være, at der var noget
+  Usundt i dette Liv, der var dog ogsaa megen Kjærlighed. Jeg ved og har
+  erkjendt, at vi mangengang saa paa os selv, naar vi mente at se paa
+  Vorherre, og at vi igrunden slet ikke vare saa himmelsindede, som vore
+  Følelser og vor Fantasi vilde indbilde os; men endda maa jeg sige, at
+  Gud visselig var midt iblandt os. Vi holdt fast ved meget, som ikke
+  var Kristendom, men som dog slyngede sig om Kristendommen lig Ranken
+  om den stærke Stamme. Ilde var det, at dette rige Løvværk ofte og hos
+  Mange blev holdt for ypperligere end Stammen selv; og jeg har nok set
+  det gaa for sig, at Ranken er bleven plejet, saa Stammen er uddøet i
+  Hjerterne, suget og kjælet tildøde. Det har endda en Tid set ud som
+  Rigdom og Liv; men naar Ranken segnede for Nattefrosten, hvad var der
+  da andet end Død og visne Blade!»
+    </p>
+    <p>
+     I de Dage kviddrede Fuglen i hendes Bryst søde, længselsfulde Kvad,
+  og de fik Ord og levende Røst; hun sang dem ud i Hjemmets Stilhed,
+  ligesom hun sang Himmelhjemmets Stilhed ind i dem. Hendes Ægtefælle
+  elskede disse Smaakvad. Over ham var der kommet en Ild og Kraft, som
+  gav ham stor Anseelse i det lille Samfund af Troesfæller, der endog
+  saa op til ham som en Leder. Ogsaa Martha saa op til ham med noget
+  mere end Hustruens Hengivenhed og Tillid, med den samme Følelse af
+  Ærefrygt, som hun havde kjendt, da de først mødtes. Det var, ligesom
+  han medeet, efter sin [84] lange Nattekamp, havde faat fuldklar Dag og
+  var fløjet langt forbi hende baade i Erkjendelse og, fremfor Alt, i
+  kristeligt Liv.
+    </p>
+    <p>
+     For en yndig Tid!
+    </p>
+    <p>
+     Da var hun ligesom saa færdig med alt det Jordiske. Den Kristnes
+  daglige:
+    </p>
+    <p>
+     «Far Verden, far
+  vel!»
+     <ref target="#NOR0073_tok28" xml:id="backk28">
+      k28
+     </ref>
+    </p>
+    <p>
+     saa svær at lære, fordi denne Verden endnu ejer saameget i os, det
+  Kampens og Hjertekvidens Taarekvad, det syntes hende nu den letteste
+  Sejerssang, der frydefuldt lød som af sig selv i Hjerte og paa Tunge.
+  Derfor syntes det ogsaa nu saa let at dø, netop nu da Livet var saa
+  yndigt.
+    </p>
+    <p>
+     Men Børn og Ægtefælle?
+    </p>
+    <p>
+     Hun vilde helst taget dem ifavn og ført dem med sig. Men under den
+  søde Følelse af Hvilen i Frelserens Arme, hvor visselig ingen
+  Skilsmisse findes, havde hun ligesom oversprunget Død og Grav, og det
+  syntes hende, at om Vorherre nu vilde kalde hende bort, da skulde hun
+  smilende lukke sit Øje i Døden og kun sige sine Efterlevende: det er
+  mindre end en Nattevagt, da slaar jeg atter Øjet op, og vi sees
+  igjen!
+    </p>
+    <p>
+     Var hun da fri for Kamp?
+    </p>
+    <p>
+     Nej, hun var ikke, og stundom kjendte hun nok Brodden; hun syntes,
+  at hun kjæmpede haardere og inderligere end nogensinde før. Men hvoraf
+  kom det, at denne Kamp ofte ogsaa kunde have sin Sødme?
+    </p>
+    <p>
+     O Menneskehjerte! hvad i den hele vide Verden er vel skuffende som
+  du?
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     [85] Hvad var det saa for urolige Skygger, der omsider kom ind i
+  den stille Aftenfred? o, hvorfor kunde den ikke fastholdes indtil
+  Dødens Nattetaushed og det ny Livs Morgen?
+    </p>
+    <p>
+     Var der kommet noget Urent ind i den lille Kreds?
+    </p>
+    <p>
+     Hvilket Samfund af Mennesker er vel i alle sine Lemmer rent! det er
+  jo ikke engang det Samfund, som er stiftet og helliget af Guds Aand,
+  og som har den Herre Kristus selv til Stormester. Men Samfundet,
+  bygget paa den rette Grundvold, skal dog blive staaende urygget og
+  opleve i sig selv den fuldkomne Renhed. Hvor der bygges ogsaa udenfor
+  Grundvolden, der bliver Alt strax usikkert, naar det Urene aabenbarer
+  sig.
+    </p>
+    <p>
+     Det lagde sig saa tungt over Martha, da hun tog til at se det, hun
+  ikke vilde have set, i den lille Kreds. Endda var der det, som
+  trykkede mere. Den indesluttede jo saameget, som hun elskede og ærede,
+  Mange, hvis dybe, alvorlige Kristelighed hun vilde indestaa for mere,
+  langt mere end for sin egen. Men det gik stundom med pinende Angst
+  gjennem hende, at hun i disse liflige Drømmeaar ikke ret havde været
+  sig selv, at det, der var Sandhed hos Andre, var hos hende Hykleri.
+  Ordet laa hende saa let paa Læben, hun kunde stundom selv mærke,
+  hvorledes det faldt som i Dands, naar hun tog det paa Tunge, hvorledes
+  Tankerne spirede frem under Talen og sprang ud som duftende Blomster,
+  et Under for hende selv og Andre. Hvad enten det gjaldt at udtale
+  Vorherres Pris eller Hjertets skjulte Liv, saa mægtede hun at give
+  sine egne og Andres Tanker Ord. [86] Den dybe Sorg, som hun kjendte
+  saa vel, og Haabets jublende Glæde, der ligesom var blevet hendes
+  naturlige Livsmods Fortsættelse, de fandt begge sit Udtryk i hendes
+  Mund.
+    </p>
+    <p>
+     Den skjønne, farlige Gave tog mere og mere til at ængste hende, og
+  da hun, trods sin Skrøbelighed, var ærlig baade med Gud og sig selv,
+  saa prøvede hun at trække sig mere tilbage og tjene sin Gud i Stilhed.
+  Dog henreves hun ofte atter, naar hun var sammen med sine Troesfæller,
+  og det var let og lysteligt i Øjeblikket; men naar hun i Ensomhed
+  skulde til at prøve, ikke bare det ydre Levnet, men Hjertets Liv efter
+  de glimrende Ord, da saa hun med dyb Sorg, at dette var mat, hvor dets
+  Udtryk havde været levende, ja at Virkeligheden mangengang blev
+  fattigere, eftersom Billedet blev mere straalende. Endnu mere ængstede
+  det hende, naar hun syntes, at hun havde ført sine Børn, ialfald den
+  ældste, næsten voxne og temmelig udviklede Pige ud paa den
+  farvespillende Gyngebro, hvor Skin og Følelse saamangengang toges for
+  Virkelighed og Tro.
+    </p>
+    <p>
+     Eftersom hun blev mere varsom og mere sig selv, kom der ligesom
+  lidt efter lidt et Skjelle mellem hende og mange af de Andre. Da følte
+  hun sig atter ensom mangen Gang, men hun blev mere klarsynet. En
+  Frygt, hvortil hun vel længe havde baaret Spiren i sig, men som hidtil
+  mest havde aabenbaret sig ligeoverfor Børnene, udviklede sig i denne
+  Tid stærkt og blev hende egen hele Livet igjennem. Det var Frygten
+  for, at hendes Kjære, de staa hende nu nærmere eller fjernere, skulde
+  fare vild eller «gjøre noget Galt.» Den rolige, [87] stærke, under
+  Tidens Omvexling saa temmelig uforandrede Else talte senere ofte om
+  det. Til hende havde ogsaa Martha sagt: «jeg ved ikke, om det er ilde,
+  men Andres Synd trykker mig ofte ligesaa meget som min egen, ja mere,
+  hvor den ikke er erkjendt.» Det var Kjærlighedssorgen over den
+  Vildfarende, Nidkjærhed for det dyre Kristennavns Ære ligeoverfor den
+  spottende Verden, men det var endnu noget Mere. Else sagde, at hun
+  altid fik Indtrykket af, at Martha ved saadan Lejlighed sagde til Gud:
+     vi
+     have syndet! idet hun følte
+  Brøden og Skammen som sin egen. Hun var ofte urolig for, at
+  Klarblikket ikke skulle være vendt saa skarpt mod hende selv som mod
+  Andre. Det er troligt, at hun ikke saa enhver af sine Skrøbeligheder,
+  men saa var hun dog villig til at erkjende, at de nok kunde være der,
+  om hun ikke saa dem.
+    </p>
+    <p>
+     Det var underligt! hun oplevede ligesom paanyt Noget fra sin
+  Barndom. Som hun dengang grundede paa, om det indeni hende, der syntes
+  at være hendes eget umistelige Liv, maatte slaaes i hjel, dersom hun
+  skulde blive en ret Kvinde, saaledes stod hun nu stundom grundende
+  ligoverfor Fordringerne til hende som ret Kristen. Hun vilde saa
+  gjerne være en ret Kristen. Det kejtede Barn havde sværmet for ægte
+  Kvindelighed og grebet efter den. Men med endnu større og inderligere
+  Trang greb Kvinden efter den ægte Kristelighed under den dybe Følelse
+  af, at den kun altfor lidt havde gjennemtrængt hende. Men nu som
+  dengang traadte hende en underlig Fordring imøde, og den vilde støbe
+  hende i Form. Da hun var saa træt og Hjertet saa [88] mat, da syntes
+  hun, at hun passede i Formen, og det kan vel være, at den i hin Tid
+  ikke blev spændt saa haardt om hende, men eftersom Livskraften voxte,
+  blev der Uro, den vilde ikke lade sig tvinge. Hun tænkte, at det var
+  Hjertets Vanart, og tyssede paa den Urolige. Men naar hun saa paa
+  Børnene, da gjentog sig det Samme. Vel krævedes ikke af dem, at de
+  skulde være voxne, man elskede netop den søde Barnlighed. Men just
+  fordi man altid vilde se denne søde Barnlighed, kom der saa ofte frem
+  et vist Stræv efter at støbe ogsaa dem i Form. Det glemtes, at
+  Barnelivet som alt Liv vil yttre sig i mangfoldige Skikkelser, det
+  glemtes: heller lidt vildt, ubændigt og uskjønt end usandt.
+    </p>
+    <p>
+     Martha tog til at have en lønlig Samkjendsel med Børnene, naar de
+  brød igjennem Formen, en end mere lønlig med sit eget skjulte Liv.
+  Hvorfor saa lønlig? jo, hendes Ægtefælle kunde ikke ret dele hendes
+  Syn, og hun var ræd for at slippe den søde Tiltro til ham som sikker
+  Leder. Hun turde ikke se sine opstigende Tvivl i Øjnene, hun slog
+  Blikket ned og kjæmpede. Om hans dybe, redelige Alvor var hun
+  overbevist.
+    </p>
+    <p>
+     Men denne Mand, saa han sig nu ikke om efter større Virkekreds? Jo,
+  han havde alt længe set; men Saadant staar jo ikke altid færdigt til
+  En, mindst naar Kræfterne have ligget ubrugte og ere blevne forglemte.
+  Smaaskrifter vare udgangne fra hans Pen, men han længtes efter fra
+  offentlig Lærestol at lade et levende Ord udgaa om Naturen, set i
+  Aabenbaringens Lys.
+    </p>
+    <p>
+     Han skulde ikke naa det. Just som en Udsigt syntes at aabne sig,
+  blev han kastet paa det sidste Sygeleje.
+    </p>
+    <p>
+     [89] Et langt smertefuldt Sygeleje; Prøvelsens Tid, hvori det
+  skulde aabenbares, hvad der var ægte Guld og hvad der kun havde
+  Guldets Glands. Da gjennemlevedes det, som nok kunde nedslaa baade
+  naturligt Livsmod og Drømmen om at være færdig med det Jordiske.
+    </p>
+    <p>
+     Megen Deltagelse blev vist, virksom Deltagelse, som tydske Kvinder
+  saa godt kunne vise den. Men endda kjendte hun sig saa ensom. Den
+  forstandige Verden og de uforstandige Fromme havde begge saa travlt
+  med, at hun skulde være forberedt, «sætte sig ind i,» hvad der vilde
+  komme. Det glemtes, at i de lange Smertens og Kampens Tider sender
+     Herren
+     stundom Haabets Glimt som
+  dejlige Smaagaver til det svage, lidende Menneskebarn, og at dets
+  Medbrødre da ikke altfor hastigt skulde løfte Haanden for at slukke
+  dem.
+    </p>
+    <p>
+     Martha strævede at være taknemmelig for den travle Omsorg, men hun
+  ønskede at faa kjæmpe sin Kamp i Stilhed for Gud og havde ingen Trang
+  til at fremlægge den for Mennesker. Men for de smaa flygtige Haabets
+  Glimt maatte hun takke Vorherre, ikke bare i Øjeblikket, men ogsaa da
+  Dødens Vished havde slukket dem og kun ladet Opstandelseshaabets
+  sikkre Flamme urørt, fordi over den magtede Døden Intet.
+    </p>
+    <p>
+     «At være forberedt, det er at staa i Troen,» sagde hun senere. «Er
+  jeg Guds troende Barn, saa vil han nok føre mig uskadt igjennem, hvor
+  skrøbelig jeg end er. Men af Tro følger jo ogsaa Bøn.»
+    </p>
+    <p>
+     Engang sagde hun ogsaa: «jeg vil ikke støde bort den Forbedrelse,
+  som ligger i at sætte sig ind i det Værste; [90] men stole paa den kan
+  jeg ikke. Ser vi ikke oftere, at det pludselige Slag kan bæres med Lov
+  og Tak medens det længe ventede stundom næsten knuser tildøde? Naar vi
+  mene, at vi ere ret forberedte, da er mangengang saameget af vort Eget
+  iblandt, saa Vorherre finder det nødvendigt at tage sin Haand bort, at
+  vi kunne føle, hvad vi ere. Da jeg mistede min lille Gut, mente jeg,
+  at være forberedt. Strax han blev syg, var det, som om jeg vidste, at
+  han skulde forlade mig, og jeg sagde: jeg er beredt paa at miste ham.
+  Men da Gud unddrog sig, da vippede Brættet, og om han ikke havde
+  forbarmet sig, saa var jeg sunket i Dybet. Mishaab og Bitterhed havde
+  alt grebet mig.»
+    </p>
+    <p>
+     Hun kom igjennem Skilsmissen fra den Elskede, og hun kjendte, at
+  den Faderhaand, som sendte Prøvelsen, den bar hende ogsaa
+  igjennem.
+    </p>
+    <p>
+     Men svært var det.
+    </p>
+    <p>
+     I de Aar, da hun havde allermest Kamp og blev allermindst forstaat,
+  enddog hun var elsket, da hun ret maatte undres over, hvor
+  forskjelligt hendes Liv var blevet fra, hvad hun havde drømt, da havde
+  hun tænkt paa, hvorledes det vel vilde gaat, om hun var bleven knyttet
+  til En af den muntre Flok, som i sin Tid sværmede for «den
+  Vingelette.» Men hun gøs ved Tanken, og hendes Hjerte klyngede sig
+  endnu inderligere til ham, der havde vundet det, der saa underligt
+  stod i Forbindelse med det Frydefuldeste, hun havde oplevet – og det
+  lød derinde: tusinde Gange hellere ved denne mørke, kjæmpende Mands
+  Side end i det lysteligste Verdensliv! Da takkede hun Gud og tilstod,
+  at denne Mand var [91] blevet et Middel til Frelse for hende, om end
+  ikke saaledes som hun havde tænkt. Men den mørke, tunge Tid var jo
+  henfaren, Lyset var oprundet for ham, og han havde været en kraftig
+  Støtte i hendes Svagheds Tid; hun havde lænet sig til ham indtil
+  Dødens Stund, og hvor ofte havde ikke hans Troesmod og Himmellængsel
+  baade styrket og beskjærmet hende under den lange Sygdom!
+    </p>
+    <p>
+     O, det er svært at skilles ad!
+    </p>
+    <p>
+     Det var naturligt, at hendes Længsel mod Norden nu vaagnede med
+  fornyet Styrke. Vel havde hun vundet kjære Venner i det Fremmede og
+  var hel Mange takskyldig, men hun kjendte sig endda enslig der, og det
+  tog vel til at mærkes, at hun i senere Tid ikke rigtig som før
+  sammensmeltede med dem, hun færdedes iblandt.
+    </p>
+    <p>
+     Dog, det var senhøstes, og hun maatte vente paa Sommer for at kunne
+  bryde op med sine Børn. Det var yderlig knapt for hende ved hendes
+  Mands Død, og hun maatte strax til at tænke paa, hvorledes hun skulde
+  slaa sig igjennem uden at ty til Andres Hjelp.
+    </p>
+    <p>
+     «Prøv Pennen!» sagde Else, «kom frem med Noget af det, som lever i
+  dig!»
+    </p>
+    <p>
+     Men det var, som om det ikke levede mere. Sorgen havde lagt sin
+  tunge Dæmning for Digtets Kildevæld.
+    </p>
+    <p>
+     Else fandt fem ældre og nyere Manuscripter. De nyere fremviste bare
+  aandelige Smaasange, dels i tydsk dels i norsk Tungemaal. I de ældre
+  fandtes hine Digtninger fra Livets Vaardag, som før ere nævnte.
+    </p>
+    <p>
+     [92] En hjælpsom Ven, Medudgiver af en
+  «Taschenbuch»,
+     <ref target="#NOR0073_tok29" xml:id="backk29">
+      k29
+     </ref>
+     tilbød at optage dem, naar de bleve oversatte. Det var da lidt at
+  begynde med, mente Else.
+    </p>
+    <p>
+     Sukkende satte Martha sig hen for at oversætte, men hun mærkede
+  snart, at det var umuligt. Hun maatte ikke bare have oversat, men
+  omarbejdet, ja skabt noget Nyt, og det kunde hun ikke nu. Der opgik
+  ingen Syner udenfor hende, og kunde end de gamle Skygger atter faat
+  Liv og Farve – i et Nu syntes det, som at det kunde ske – hvorledes
+  kunde hun nu hengive sig til Noget udenfor sig og leve i det? – fylde
+  det med Hjertets Rigdom? o ja, hun kjendte som en dyb glødende Strøm i
+  sig! men der var en anden Hjertets Rigdom, som ogsaa stod udenom hende
+  i lyslevende Skikkelser, med Kjød og Blod, det var Børneflokken, og
+  hos den vilde Tanken være.
+    </p>
+    <p>
+     Underligt var det dog at gjennemlæse de gamle Blade. Hist og her
+  fængsledes hendes Blik og Tanke, ja hun studsede endog over, at der
+  «dog var
+     saa
+     meget i det!» Men hvor
+  anderledes saa hun Livet nu end dengang.
+    </p>
+    <p>
+     Hun maatte lade det fare. Men det var ikke hendes Agt at lægge
+  Hænderne i Skjødet og ruge over Sorgen; arbejde vilde hun.
+    </p>
+    <p>
+     «Hvad kan De?» spurgte den hjelpsomme Ven.
+    </p>
+    <p>
+     «Fransk!» sagde Martha, efter at hun i Tanken havde holdt Mønstring
+  over sine Kundskaber, og sat et: duger ikke! næsten ved hvert Fag. Men
+  det franske Sprog havde hun lært tilgavns blandt sin Faders Slægt, og
+  i den første Tid af sit Ægteskab ofte havt Lejlighed [93] til at tale
+  det, ja endnu i senere Aar var det ikke helt sluppet.
+    </p>
+    <p>
+     Saa fik hun at oversætte for et Tidsskrift baade fra Fransk og
+  Dansk, næsten mere end hun kunde overkomme. Det var Sager, som ikke
+  fængslede hende, og Arbejdet vilde fordum tyktes saa fattigt. Men nu
+  var det just kjærest saaledes. Aa, med Tiden bliver saa meget
+  anderledes, end det var!
+    </p>
+    <p>
+     De gamle Digtninger fik hun alligevel udpaa Vintren læse i den ved
+  Nytaar udkomne «Taschenbuch.» Else havde hel rolig og uden at sige fra
+  taget og oversat dem. Martha likte det ikke, men havde ikke Hjerte til
+  at lade den trofaste Else mærke sit Mishag.
+    </p>
+    <p>
+     Saa gik Vintren under strengt Arbejde og i et inderligt Samliv
+  mellem Store og Smaa.
+    </p>
+    <p>
+     I Maj kom en af Marthas Brødre ned til hende for at hente hele
+  Familien tilbage til det dyrebare gamle Fædreneland; og i Juni, den
+  Maaned, i hvilken for de mange Aar siden den unge, haabefulde Brud var
+  draget ud i det Fremmede, steg Enken og Moderen med sin tiloversblevne
+  Rigdom atter iland paa dets Klippekyst.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Hvor forandret! ja – hvem vil ikke efter henved et Snes Aars Fravær
+  sige det ved Tilbagekomsten til de gamle Steder? men ikke altid bære
+  de Snese Aar lige meget Nyt frem, mangt et Aarti holder mest det Gamle
+  oppe. Her var under Marthas Fravær gamle Baand løste og ny knyttede,
+  ikke bare mellem enkelte Personer, [94] men mellem Folk og Riger, og i
+  Brydningens Tid var noget Stort og Nyt født og havde faat Fremvæxt.
+  Martha havde i det fremmede Land med levende Deltagelse modtaget
+  ethvert Budskab fra Norden, og hun var just den Kvinde, der kunde
+  optage i sig en stor Tids mangfoldige Gjæring. Hun havde lidt og
+  haabet, kjæmpet, tvivlet og jublet med sit Folk, hun havde kjendt den
+  levende Begejstring og den dybe Vemod, Skilsmissens Vemod, der endnu i
+  den unge Morgens Sejersglæde vender sig mod det Svindende med et Suk
+  og et stille Spørgsmaal.
+    </p>
+    <p>
+     Og Forandringerne i de mindre Kredse, dem havde hun jo fulgt. Hun
+  havde mistet en Moder og kjendt Tabet som et Hjertesaar. Brevene
+  derhjemmefra havde stadigt meldt om Forandringer:
+     Den
+     var død,
+     der
+     var et Barn fød,
+     Den
+     var bleven voxen,
+     disse To
+     havde forenet sig i
+  Ægteskab og vare flyttede did eller did! Mere ogsaa end disse ydre
+  Omvexlinger: mange Breve havde vidnet om en indre Omvæltning eller om
+  Aandens og Hjertets gradvise Udvikling, om nyt Syn, ny Tanker.
+    </p>
+    <p>
+     Hun havde hjerteligt fulgt det Altsammen. Men hvor anderledes var
+  det nu, da det ligesom slog hende imøde i Luften, hun indaandede, da
+  det stod der som levende, virkende, aandende, til at sees, høres,
+  tages paa – ja, det var noget helt andet end at læse Fortællingen om
+  det. Det var ikke let at samle Alt og finde sig tilrette.
+    </p>
+    <p>
+     Hun blev kjærligt modtagen af gamle og unge, kjendte og ukjendte
+  Slægtninge og Venner.
+    </p>
+    <p>
+     [95] Saa maatte hun til at se sig om: Bedstemoders Plads? den havde
+  længe staat tom. Kousine Anna var død i sin fejreste Ungdom, hvem
+  kunde sige, om det urolige Hjerte havde fundet Fred? Den snaksomme
+  Onkel stod der ene og barnløs, en Olding, der ikke kunde finde sig
+  tilrette i Tiden. O, hvor meget var dog ikke blevet anderledes! det
+  var saare vemodigt at se sig om paa de gamle Steder.
+    </p>
+    <p>
+     Men det var ogsaa godt og glædeligt. Noget, der for Hjertet var
+  mere end Følelse, for Aanden mere end Fantasi, holdt mangesteds paa at
+  bryde igjennem den stive
+  Forstandstid.
+     <ref target="#NOR0073_tok30" xml:id="backk30">
+      k30
+     </ref>
+     Det fremtraadte just ikke altid som noget Helt, der kunde gribes i,
+  men var mere som et Lysskjær i Mørke. Der var hørt som en stærk Lyd i
+  det Øde, den vakte Anelser og gav Gjenklang, fremlokkede Spørgsmaal,
+  Lytten og Forventning.
+    </p>
+    <p>
+     Martha – har du vundet hende kjær, saa du taaler at høre mere om
+  smaa Ting? – Martha vilde saa gjerne strax draget didhen bag de høje
+  Aase, hvor det gamle Hus stod med sine hellige Minder. Skjønt hun
+  frygtede for at komme der, saa droges dog Hjertet did med den
+  inderligste Længsel. Men at komme der lod sig nu ikke strax gjøre, og
+  hvad skulde hun der desuden uden komme og gaa igjen med et saaret
+  Hjerte? hun følte, at et saadant kort Besøg vilde være
+  utilfredsstillende. For hendes Sønners Skyld var det desuden bedst, at
+  hun blev, hvor hun var.
+    </p>
+    <p>
+     Som Barn og ung Pige havde hun aldrig mærket noget til, hvad det er
+  at
+     mangle
+     . Hendes Hjem havde ikke
+  huset Pragt eller Rigdom, men jevn Velstand havde [96] raadet der.
+  Flere af hendes Slægtninge vare temmelig formuende.
+    </p>
+    <p>
+     I senere Tider havde hun prøvet de knappe Kaar, og det var ikke
+  uden Frygt for paa nogen Maade at falde sin Slægt til Byrde, at hun
+  fulgte dens indtrængende Opfordringer og sin egen stærke Længsel efter
+  at komme tilbage til det gamle Fædreneland. Hendes største Frygt var,
+  at man skulde ville yde Bistand ved at tage et eller flere af Børnene
+  fra hende. Hendes Hjerte klyngede sig til dem, og det slog saa stærkt
+  under Forudfølelsen af, at Skilsmissens Gavn kunde opgaa saa
+  uafviselig klart for hende, at det maatte nu underkaste sig og
+  tie.
+    </p>
+    <p>
+     Men hendes Broder forjog strax Frygten, og det var saa godt, at al
+  ydre og indre Strid om den Sag skulde undgaaes. Hun kjendte forresten
+  nu en Kraft i sig til ikke bare at arbejde for Børnene og opdrage dem,
+  men til at dømme og handle for sig selv, til at have en Overbevisning
+  og følge den.
+    </p>
+    <p>
+     Den ofte omtalte Farbroder havde med urolig Længsel imødeset
+  Marthas Komme med Børnene, og da de nu endelig vare komne, da maatte
+  han endelig pusle om hende og have enten de større eller de mindre af
+  disse hos sig, hvor han færdedes. Hun rørtes ved hans store Godhed og
+  havde desuden en inderlig Medfølelse med den gamle Mand, der, omgivet
+  af Verdens Goder, syntes at eje sa liden Del i Livet og saa liden
+  Trøst mod Døden. Stundom blev hun helt forlegen, naar hun mærkede,
+  hvor spendt han iagttog hende og hendes.
+    </p>
+    <p>
+     [97] Men en Dag tog han hende med sig alene, og der var en dirrende
+  Uro over ham; da sagde han:
+    </p>
+    <p>
+     «Martha, du er dog den Samme! bare endnu lidt bedre end før, da jeg
+  forkjælede dig saa slemt. Du var alt dengang visere i din stakkels
+  Enfold, end jeg stakkels gamle Mand endnu er blevet. Men hør, lad os
+  nu være sammen! saa steller du for den Gamle og lukker hans Øjne, naar
+  det er forbi, og saa er jeg din Fader og dine Børns – saa godt jeg
+  kan! din egen Fader vilde været det bedre.»
+    </p>
+    <p>
+     Hun var dybt rørt saavel over det kjærlige Tilbud som over den
+  næsten barnlige Ydmyghed i Oldingens Ord og hele Væsen. Hun brast i
+  Graad, lagde Armene om hans Hals og fremstammede: «kjære, kjære
+  Fader!»
+    </p>
+    <p>
+     Saa var det afgjort. Den gamle Mand optog hende, sørgede fra nu af
+  for hende og hendes, og blev saa selv sørget for med al barnlig
+  Kjærlighed og Troskab. Det blev snart saa, at al egentlig Omsorg
+  maatte falde paa hende; han ydede Midlerne, men mægtede ikke Mere. Da
+  var hendes Stilling ofte svær. Hun gjorde i den Tid en ny Erfaring om,
+  hvorlidt al Verdens Kløgt og Dannelse formaar at rense et Menneskes
+  Hjerte. Der er meget skjult i dette Hjerte, der ligger dulgt i Dybet,
+  det er, som var det der sletikke. Men naar Sindet sløves i Alderdommen
+  eller af ymise Aarsager tidligere i Livet, naar Klogskaben og Hensynet
+  til Verden har tabt sin Magt, da kommer det frem, og vi se med
+  Forundring, at det har staat friskt og ufortæret derinde i det mørke
+  Aflukke alt siden de unge Aar. Det fyldte Martha med [98] dyb Vemod
+  over Menneskets «Sygdom til Døden», og hun sukkede end inderligere
+  efter den eneste Lægedom, som langsomt men sikkert helbreder fra
+  Grunden af.
+    </p>
+    <p>
+     Forresten droges hendes Hjerte alt stærkere til den Gamle, der
+  heldede sig ind til hende for at holdes oppe. Da hun omsider lukkede
+  hans Øjne til den lange Søvn, da var det med et stille Haab om, at han
+  dog havde fundet Lægedommen, og at den saa engang vilde vise sin
+  Kraft, det vidste hun nok.
+    </p>
+    <p>
+     Jeg maa fortælle, at hun ganske faa Aar efter sin Hjemkomst her
+  mødte sin Ungdoms Helt, hvem hun i det Fremmede ofte havde været nær
+  og endda i sit bundne Liv saa fjern.
+    </p>
+    <p>
+     Det var underligt at staa for Henrik Steffens og se tilbage til de
+  gamle Tider. En lønlig Trang stilledes ogsaa ved det Møde. Hun havde
+  aldrig ret kunnet tale om sin afdøde Ægtefælle til Frænderne her; de
+  vilde ikke opfattet ham klart, mente hun. Til Steffens nævnede hun ham
+  og havde Glæde af det. Vel mærkede hun, at hendes Vens Billede først
+  stod uklart for den store Mands Erindring; men da hans tilbageskuende
+  Blik havde fundet den Søgte, da gik dennes Personlighed pludseligt op
+  for ham, og hans levende Fantasi udkastede et Billede, som Hustruen
+  nok kunde kjendes ved. Om sit eget Liv taug hun, men saa paa det med
+  et vemodigt Smil, da hun engang hørte ham tale om Barnelivets Rigdom,
+  som den voxne Alder ikke mægter at udfolde helt, om den unge Jordbunds
+  levende Spirer, af hvilke kun saa faa drives frem til Væxt, Blomstring
+  og Frugt.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     [99] Det førtes saaledes, at hun efter den gamle Farbroders Død kom
+  til at blive Ejerinde af Huset deroppe under Aasen, det fordums
+  Fædrenehjem, der siden Moderens Død havde tilhørt hendes yngre
+  Broder.
+    </p>
+    <p>
+     Ja, det var vel underligt. Der stod Dagligstuen, just saaledes som
+  hun havde forladt den for de mange Aar siden. Det gamle Uhr stod der,
+  og de broncerede Kinesere vare ligesaa opstrammede og langpidskede som
+  før, skinnede i Sollyset næsten ligesaa gyldne som den Dag, hun
+  fødtes; men Sangværket var kommet aflave. En bristende Røst syntes at
+  hviske i Marthas Hjerte, at ogsaa hendes Sangværk var gaat istaa,
+  kommet aflave. Minderne kunne stundom overvælde En. Men Troens klare
+  uforgængelige Haab sagde: Strengene stemmes til en ny Sang! – Den
+  gamle Sofa stod der, hvor hun fordum krøb op til sin Fader for at
+  modtage Kundskab og Livsvisdom; men Trækket var nyt. Ja saaledes var
+  det med saa meget: Trækket var nyt, men derunder fandtes det trofaste
+  Gamle.
+    </p>
+    <p>
+     Minder, som saare og læge! I vilde holde hende fast, men det maatte
+  I ikke faa Lov til. Det Nærværende krævede hendes Hjertes Kjærlighed
+  og hendes Tankes Kraft. Børnene, som voxte op, som hun skulde tænke,
+  leve og lide for, de gave hende ikke Tid til at nedsænke sig i
+  Minderne, der legte, smilte og græd rundtom.
+    </p>
+    <p>
+     Der var hendes Forældres Grave. Det var dyrebart for hende at
+  smykke de lave Høje, der ligesom vare givne hende igjen for de to, hun
+  havde maattet forlade i det fremmede Land. Hun søgte derhen i de
+  trætte [100] Timer, men kunde aldrig længe finde Hvile der. Livet
+  kaldte hende, og hun kjendte sig de Døde nærmere der, hvor Vift fra
+  deres Aand gjennem levende og livløst slog hende imøde, og hvor hun
+  kunde optage deres Gjerning, end der, hvor Graven gjemte det stakkels
+  Støv. Saa skiltes hun fra den venlige Plet paa Kirkegaarden med et
+  kjærligt Afskedsblik og den tause Hjertetale: «ja, naar I skulle
+  oplades og Støvet gaar ud, da…!»
+    </p>
+    <p>
+     Skjønt der i en Aarrække var gaat en dannende og vækkende
+  Indflydelse fra det gamle Hus ud i den stille Landsbygd, saa stod dog
+  Martha der endnu som den
+     Første
+     ,
+  saavel ved sine Gaver som ved indre og ydre Dannelse. Der er Fare ved
+  at staa som den Første, hun mærkede, at der var Fare. Hun mærkede,
+  hvor godt det var for hende, at der altid var Noget at kjæmpe for og
+  ængstes ved i og om hende, i den nærmeste og i de fjernere Kredse af
+  dem, hun elskede. Sligt bøjer de høje Tanker og ydmyger Hjertet.
+    </p>
+    <p>
+     Kamp møder allevegne i Menneskets Liv, men Raad ligge ikke altid
+  nær vedhaanden.
+    </p>
+    <p>
+     Hun var en stærk Kvinde; men jeg mener, at Ingen kan kjende sig
+  mere svag og dødstræt end en stærk Kvinde. Naar den svage bliver træt,
+  saa slipper hun og siger: jeg kan ikke mere! men den stærke holder
+  fast, fordi hun ikke
+     tør
+     slippe.
+  Den svage bliver støttet. Der er megen Godhed i Verden og velvilligt
+  Sind blandt Mennesker, derfor sige de: hun er saa svag, vi ville
+  støtte hende. Men om den stærke vide de ikke, hvor svag hun kan være.
+  De se, at hun staar, og saa mene de, at hun ikke tiltrænger Støtte.
+  Men de se ikke, [101] hvad det mangengang koster hende at staa, at
+  stride
+     selv
+     , hvor hun maa det,
+  fordi Ingen kan og vil stride for hende; de se ikke, hvad det koster
+  hende at udføre sin Sag, hvor hun vilde lade den falde, om
+  Samvittigheden tillod det; de se ikke, hvor skjærende det kan gaa
+  igjennem hendes Hjerte, at Ingen støttede hende, at Ingen kom ihug:
+  hun er dog kun en Kvinde! Saadant Skaar kan blive aabent, og Bitterhed
+  kan udvælde af det. Ve Kvinden, naar det sker! Hvor Hjertet hviler i
+  Guds Kjærlighed, der vil intet saadant Skaar og Bitterhedens Kildevæld
+  findes.
+    </p>
+    <p>
+     Martha kjendte sig vel stundom saaret, men aldrig til Døden.
+  Fordringerne bortsmeltede under Vorherres Kjærlighedsblik. Saa vare da
+  heller ikke Menneskene ialmindelighed haarde Mod hende; hun vandt
+  Kjærlighed, for hun elskede selv. Hun kom godt ud af det med sine
+  Sambygdinger. Det snevre Syn, hvorved somme aandsbegavede Mennesker
+  indskrænke sig selv, det Blik, der overser det Ringe og Hverdagslige,
+  spejdende efter de store Gaver for at finde «noget for sig», det var
+  hende helt fremmed. Det var hende saa inderligt imod, naar hun traf
+  paa det Væsen hos saakaldte aandrige Folk, især hvis det var hos
+  Kvinder. Hun mente, det maatte være noget af det Slags, der i hendes
+  Ægteskabs første Dage havde gjort, at hun ofte – trods alt Henrivende
+  – havde følt sig saa fremmed i Kredsen af ellers ypperlige og
+  aandsdannede Kvinder. Det er troligt, at saa var. Den dybe
+  Hjertelighed, der omfatter smaat og stort med Varme, den udgjør netop
+  [102] det hjemlige Væsen, som skulde være Kvinden eget, hvilken saa
+  forresten hendes Livsgjerning er.
+    </p>
+    <p>
+     Dejligt blev det for hende, eftersom hun mere og mere kunde støtte
+  sig til sine Børn. Og eftersom disse Børn selv kom ind i Livets Kamp,
+  lærte de mere og bedre at kjende, hvad det er at have en Moder. Det
+  kan nok være, at hun var Mere for de voxne Børn, end hun havde været
+  for de smaa; Kjærligheden voxte jo, og det laa desuden kanske i hendes
+  Natur, at saa maatte være. Den gamle Kone kunde dog saa prægtigt
+  forstaa og hengive sig til sine Børnebørn, meget bedre end den unge
+  Kone havde kunnet det med sine egne. Men den unge stod jo ogsaa paa
+  Kampens Bølgehøjder, den gamle voxte nedad i dejligt Enfold.
+    </p>
+    <p>
+     Men Marthas Børn, var der ingen af dem, der udmærkede sig, blev
+  noget Stort?
+    </p>
+    <p>
+     Ingen af dem blev Lysbærer for sin Tid, saaledes som hun havde
+  drømt om den første. Men de tændte deres Smaafakler ved det Lys, som
+  var oprundet i Norden, og lode det skinne til Glæde og Velsignelse ind
+  i mangt et stille Hjem, først og fremmest i deres eget. Disse Sønner
+  bragte Moderen som Gaver al den glade kristelige og menneskelige
+  Oplysning, de selv modtog, og som en glad Spørgerske sad hun
+  mangengang for dem, for nu fik Spørgsmaalet Ord, det blev optaget af
+  varme Hjerter, og Svaret frydede den Aand, der begjærede Lys over Tid
+  og Evighed. Det faldt hende saa let at modtage, hvad hun hele sit Liv
+  havde grebet efter, og hun maatte vel blive glad, naar
+     det
+     fremgik i Klarhed, som hun
+  havde ejet i Løndom. Især [103] kunde hun være saa barneglad i den
+  Forvisning, at hun var runden af samme Rod som alle Kristi tro Vidner
+  fra de gamle Tider indtil nu, og i Troen paa det dejlige, løndomsfulde
+  Samfundsbaand, der sammenbinder alle Guds Børn til en hellig
+  Kjæde.
+    </p>
+    <p>
+     Hun nød den store Glæde, at hendes Søn, den yngste, virkede som
+  Hjelpepræst i hendes Hjembygd og boede med sin unge Hustru hos hende
+  eller hun hos dem i det gamle Hus, hvor da et nyt velsignet Hjem
+  fremspirede af de gamle Rødder.
+    </p>
+    <p>
+     Der levede Moder og Søn et dejligt Samliv: de dryssede Aandens og
+  Hjertets Guldgaver i hinandens Skjød, og saa bleve de Begge rige; men
+  det kunde ikke siges, om Rigdommen voxte mest, naar de gav eller naar
+  de fik. Dog sagde Sønnen: jeg ved nok, hvem som faar mest af den
+  Anden,
+     <ref target="#NOR0073_ton21" xml:id="backn21">
+      n21
+     </ref>
+     men jeg ser ogsaa, at den, som giver mest, faar dobbelt af
+  Vorherre!
+    </p>
+    <p>
+     I den Tid saa jeg hende, og ikke bare hendes Liv gik op for mig,
+  men mangt et Lys over
+     Kvinden
+     , den
+  unge og den gamle.
+    </p>
+    <p>
+     Jeg ser hende saa klart, den vakkre gamle Kone: lidt over
+  Middelhøjde, noget Hurtigt i alle Bevægelser, der endnu stundom
+  mindede om den Fuglelette, Haarets fordums Guldskjær – berømt i
+  Slægten – nu dæmpet af det Sølverhvide, og saa – det milde, klare
+  Blik, Sollyset over det Hele.
+    </p>
+    <p>
+     Mig var det just saa dejligt at se hende saaledes, som hun var, jeg
+  kunde ikke ønsket hendes Liv anderledes. Der var dem, der udtalte en
+  Beklagelse over, at den sjeldne Aand ikke havde faat den Udvikling,
+  som [104] den i Ungdommen stundede efter; havde den faat Lov til at
+  følge sit eget Spor, mente de, da vilde det sket saaledes, og da vilde
+  den kommet til at lyse for en større Kreds.
+    </p>
+    <p>
+     Hun smilte, naar hun hørte en saadan Yttring.
+    </p>
+    <p>
+     «For mig staar det som Skaansel, at jeg blev holdt tilbage,» sagde
+  hun, «og jeg kan ikke andet end takke Gud, fordi han saaledes skaanede
+  mig. Der skal stor Kraft til at bære en Gave frem, og hvormeget jeg
+  end higede mod det Høje, saa var jeg dog altid kun en svag Kvinde. Det
+  farer igjennem mig, naar jeg tænker paa alle de Fristelser af mange
+  Slags, der vilde trængt ind paa mig, om jeg havde faat følge mit Spor.
+  Dog – jeg ved, at Gud havde været mægtig til at føre mig igjennem
+  ogsaa da. Men jeg slap lettere, saaledes som det gik.»
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Skulde det endnu mørknes for dig, du kjære Gamle? havde du endnu
+  ikke stridt ud?
+    </p>
+    <p>
+     Hvad var det, som lagde sig saa tungt over dig i de sidste Aar? Var
+  det hint Alderdommens hemmelighedsfulde Tryk, som vi Unge endnu ikke
+  kjende, men vel kunne ane, naar vi mærke, hvorledes Aandens Evner
+  blegne under Svaghed? Du havde været Meget, havde kjæmpet, tænkt og
+  arbejdet for Andre i saa mange Aar, saa maatte det vel falde dig
+  underligt og saart, da du syntes, du var til Intet mere i Verden. Men
+  du var endnu Meget, skjøndt du vidste det ikke! for dine Børn var du
+  det dejligste Vidnesbyrd om, hvor godt det er [105] at høre Herren
+  til, og de mærkede endnu godt, hvorledes din Kjærlighed bar dem,
+  medens dine Knæ vare skjælvende og din Haand uden Kraft. Var det de
+  gamle Skygger, der for dig forbi og mørknede Solen for dig? tyktes du
+  nu, da det var forsilde, at du lærte Forstaaelsen, hin Hemmelighed,
+  som du grundede paa, da du stod midt imellem din Mand og din
+  Svigermoder? gik det Skjulte nu op for dig, da din naturlige Kraft og
+  Aandens Smidighed faldt af med de øvrige forgjængelige Blade, og
+  frygtede du nu for selv at gjøre det trangt for
+     din
+     Svigerdatter, naar du mærkede,
+  at det Saare og Mismodige i dig vilde komme frem?
+    </p>
+    <p>
+     O, at du havde været uræd!
+    </p>
+    <p>
+     Din Søns Hustru saa din Kjærlighed, og dine Børn bøjede sig dybere
+  for dig nu, da du var affældig, end de nogensinde gjorde det paa din
+  Krafts og Klogskabs Dag.
+    </p>
+    <p>
+     Var der endnu mere, som trykkede?
+    </p>
+    <p>
+     Denne hendes yngste Søn spurgte hende: «hvad gjør dig saa
+  mismodig?»
+    </p>
+    <p>
+     Da smilte hun saa stille, og hendes Blik fæstede sig mildt paa
+  ham.
+    </p>
+    <p>
+     «Jeg er saa træt!» sagde hun; «og saa – det tykkes mig stundom, som
+  min Herre vil forlade mig, men naar jeg bare maa faa holde ham fast
+  ved hans Kjortelflig, saa skulle vi ikke skilles, og da er Alting
+  godt.»
+    </p>
+    <p>
+     «Jeg er saa glad, naar jeg ser paa Eder Alle!» sagde hun om lidt;
+  «det er vist godt, at jeg i mig selv har Noget, som trykker, ellers
+  kunde jeg endnu gro for fast til Jorden. Men tænkte vi i vor Ungdom
+  ret paa, [106] hvad der endnu kan ligge for os, saa vare vi vel mere
+  tro!»
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Der laa hun paa det sidste Sygeleje.
+    </p>
+    <p>
+     Forunderligt! det var ikke saa let at dø nu, som det tyktes hende
+  at være, da hun stod blomstrende midt i det Liv, der dengang havde saa
+  store Krav paa hende. Nu var hun færdig med dette ydre Liv, kunde ikke
+  virke mere for det; men nu kom Dødens Frygt.
+    </p>
+    <p>
+     Livets mægtige Ord overvandt den. Dog – der gives Ting og Tider,
+  saa hellige, at jeg ikke vover at tale om dem.
+    </p>
+    <p>
+     Det var den dejligste Solskinsdag. Den unge Sommer var nys paa
+  varme Luftninger baaren op til vore kolde Lande. Der var Blomsterduft,
+  Sus i Luften og Humlesur overalt, Smaafuglene sang som af «tusind
+  Munde.» Der satte sig en liden En, hvor Frugttræets Gren, hvid af
+  Blomster, bøjede sig frem for Vinden; den tittede derind i det stille
+  Dødens Kammer og vendte forundret sit Hoved, saa til den ene og saa
+  til den anden Side. Saa kviddrede den ietvæk, jublende og endda saa
+  blidt vemodigt.
+    </p>
+    <p>
+     Men det letvingede Fuglebarn derinde?
+    </p>
+    <p>
+     Ja,
+     <ref target="#NOR0073_ton22" xml:id="backn22">
+      n22
+     </ref>
+     hvor var Fuglen nu?
+    </p>
+    <p>
+     Der laa hun saa stille, og der var saa stilt rundtenom i Børnenes
+  samlede Flok, som lyttede efter de hendøende Aandedrag. Nu sloges ej
+  Øjet mere op, og Læbens Ord var forstummet; nu saaes ej Glimt af den
+  [107] lyse Aand, nu hørtes ej Rislen af Hjertets Kildevæld, nu syntes
+  «Lyset slukt og Døren
+  lukt.»
+     <ref target="#NOR0073_tok31" xml:id="backk31">
+      k31
+     </ref>
+    </p>
+    <p>
+     Men Troens Lys var ikke slukt, og Paradisdøren var ikke lukt. For
+  Vorherres Øren sang nu Fuglen i hendes Bryst sine lifligste Sange, og
+  nu – fløj den gjennem Døren til Frihed uden Baand.
+    </p>
+    <p>
+     Farvel, du Kjære
+     !
+    </p>
+    <p>
+     Fædrenes Velsignelse hviler over hendes Børn, og Aanden, som var i
+  hende, virker endnu gjennem dem. Men havde hun virkelig en Gave, som
+  hun ikke fik Magt til at frembære, maaske den kan opdukke igjen i
+  Slægten efter lange Tider, maaske spirer den alt i Løndom hos denne
+  din allermindste Sønnesøn, som endnu ikke havde faat Ord paa Tunge, da
+  du talede dit sidste! Stærkere og kraftigere vil den da fremstaa.
+    </p>
+    <p>
+     Al den Rigdom, Livet ejer, alle de Blomster smaa, som fremvoxe og
+  affalde iskjul, alle de Evner og Kræfter, der ikke faa udfolde sig,
+  Barndommen, der lover mere, end de senere Aar mægte at holde,
+  Digtningens Tanker, der myldre frem, saa den ene fortrænger den
+  Anden,
+     <ref target="#NOR0073_ton23" xml:id="backn23">
+      n23
+     </ref>
+     Aandens Syner, der glimte for Øjet og fare forbi – peger det ikke Alt
+  paa en Opstandelse til et Liv af evig Fylde, hvor Intet spildes, Intet
+  blomstrer forgjæves? Dejlige
+  Forjettelser
+     <ref target="#NOR0073_tok32" xml:id="backk32">
+      k32
+     </ref>
+     er det Altsammen!
+    </p>
+    <p>
+     Over hendes Grav lød Ordet om Sejer og Opstandelse. Det var hendes
+  yngste Søn, som talte.
+    </p>
+    <p>
+     Nu skulde han snart forlade det gamle Hus, hans Hjembygd havde ikke
+  mere Brug for ham. Han var fuld af vemodig Tak, fordi
+     hun
+     havde faat Ro, før [108] han
+  maatte ud; ingen Tanke om Opbrud havde naaet hende.
+    </p>
+    <p>
+     Der gik et Sus gjennem de gamle Træer i den højtidelige Aftenstund,
+  i det laa et lønligt Hvisk om det Svundne.
+    </p>
+    <p>
+     Da løftede Kvadet sig underligt i ham:
+    </p>
+    <p>
+     <quote>
+      <l>
+       Susen gaar gjennem Haven
+      </l>
+      <l>
+       Mindets Sus igjennem dem;
+      </l>
+      <l>
+       ak, naar Livet gaar til Graven,
+      </l>
+      <l>
+       synes Mindet troest Ven!
+      </l>
+      <l>
+       Fader, kan du høre Røsten,
+      </l>
+      <l>
+       Takkerøsten i vor Mund?
+      </l>
+      <l>
+       svag, som Fuglesang om Høsten,
+      </l>
+      <l>
+       gaar den dog fra Hjertets Grund!
+      </l>
+      <l>
+       Fader, Meget har du baaret
+      </l>
+      <l>
+       taust og stille vist som Faa!
+      </l>
+      <l>
+       dog – af Dødens Mørke saaret,
+      </l>
+      <l>
+       Livets klare Lys du saa.
+      </l>
+      <l>
+       Moder, Tak for Kjærligheden,
+      </l>
+      <l>
+       som den var og som den er!
+      </l>
+      <l>
+       Moder! Frugt for Evigheden
+      </l>
+      <l>
+       ikkun Kjærligheden bær.
+      </l>
+      <l>
+       Moder, Tak, at du har haabet
+      </l>
+      <l>
+       for din hele Børneflok!
+      </l>
+      <l>
+       Moder, Tak for Hjerteraabet
+      </l>
+      <l>
+       om Guds Naade, som er nok
+      </l>
+      <l>
+       Gamle Hus med dine Revner!
+      </l>
+      <l>
+       mon du nu skal segne brat?
+      </l>
+      <l>
+       Tiden snart for dine Evner,
+      </l>
+      <l>
+       tykkes det, har Grændsen sat.
+      </l>
+      <l>
+       [109] Ja, det synker hen i Gruset,
+      </l>
+      <l>
+       smuldrer med det andet Løv;
+      </l>
+      <l>
+       men Guds Aande gjennem Huset
+      </l>
+      <l>
+       hvisket har om Liv i Støv.
+      </l>
+      <l>
+       Lad kun smuldre, lad kun synke!
+      </l>
+      <l>
+       brister kun, I Hjertebaand!
+      </l>
+      <l>
+       Alt, som ejer Plet og Rynke,
+      </l>
+      <l>
+       falder jo for Dødens Haand.
+      </l>
+      <l>
+       Fod skal flyttes, Vandringsstaven
+      </l>
+      <l>
+       peger snart: lidt længer frem!
+      </l>
+      <l>
+       Afskedssukket gjennem Haven
+      </l>
+      <l>
+       suser om det gamle Hjem.
+      </l>
+      <l>
+       Tak for Alt, hvad du har givet!
+      </l>
+      <l>
+       gjennem Livet Rejsen gaar!
+      </l>
+      <l>
+       men med Livet og til Livet,
+      </l>
+      <l>
+       salig Ende vist den faar!
+      </l>
+     </quote>
+    </p>
+   </div>
+  </body>
+  <back>
+   <div type="notes">
+    <p>
+     Noter og kommentarer:
+    </p>
+    <p>
+     <ref target="#backn1" xml:id="ton1">
+      n1
+     </ref>
+     .
+    Norsk Kvinnelitteraturhistorie
+    bind
+1, Pax Forlag, Oslo 1988
+    </p>
+    <p>
+     <ref target="#backn2" xml:id="ton2">
+      n2
+     </ref>
+     . Udatert brev til Hans
+Wexelsen, NB Brevs. 798.
+    </p>
+    <p>
+     <ref target="#backn3" xml:id="ton3">
+      n3
+     </ref>
+     . Brev til Peter
+Christian Kierkegaard april 1867, KBK Ny kgl. samling, 3174 quarto.
+    </p>
+    <p>
+     <ref target="#backn4" xml:id="ton4">
+      n4
+     </ref>
+     . Korrespondansen beror i
+KBK Ny kgl. samling 3550.
+    </p>
+    <p>
+     <ref target="#backn5" xml:id="ton5">
+      n5
+     </ref>
+     . Brev til Vilhelm
+Andreas Wexelsen 1884, NB Brevs. 211.
+    </p>
+    <p>
+     <ref target="#backn6" xml:id="ton6">
+      n6
+     </ref>
+     . Brev til Ludvig
+Schrøder oktober 1878, KBK Ny kgl. samling 3550.
+    </p>
+    <p>
+     <ref target="#backn7" xml:id="ton7">
+      n7
+     </ref>
+     . Brev til Karl Schønberg
+1866, KBK Nyere Brevsamling, Dansk XVIII Wexels-Wied.
+    </p>
+    <p>
+     <ref target="#backn8" xml:id="ton8">
+      n8
+     </ref>
+     . Brev til Helga Wexelsen
+september 1899, NB Brevs. 798.
+    </p>
+    <p>
+     <ref target="#backn9" xml:id="ton9">
+      n9
+     </ref>
+     . Brev fra Rikke Wexelsen
+til Thea Wexelsen 26. september u.å. [1912], NB Brevs. 439. Marie
+Wexelsen døde 7.12.1911.
+    </p>
+    <p>
+     <ref target="#backn10" xml:id="ton10">
+      n10
+     </ref>
+     . Kigajon]
+    rettet fra:
+    Higajon
+    (trykkfeil)
+    </p>
+    <p>
+     <ref target="#backn11" xml:id="ton11">
+      n11
+     </ref>
+     . det]
+    rettet fra:
+    det det
+    (trykkfeil)
+    </p>
+    <p>
+     <ref target="#backn12" xml:id="ton12">
+      n12
+     </ref>
+     . «'Lærd!']
+    rettet fra:
+    «Lærd!»
+    (trykkfeil)
+    </p>
+    <p>
+     <ref target="#backn13" xml:id="ton13">
+      n13
+     </ref>
+     . 'lærd Dame'.»]
+    rettet fra:
+    «lærd Dame.»
+    (trykkfeil)
+    </p>
+    <p>
+     <ref target="#backn14" xml:id="ton14">
+      n14
+     </ref>
+     . Hendes]
+    rettet fra:
+    hendes
+    (trykkfeil)
+    </p>
+    <p>
+     <ref target="#backn15" xml:id="ton15">
+      n15
+     </ref>
+     . lette,]
+    rettet fra:
+    lette
+    (trykkfeil)
+    </p>
+    <p>
+     <ref target="#backn16" xml:id="ton16">
+      n16
+     </ref>
+     . saart]
+    rettet fra:
+    svart
+    (trykkfeil)
+    </p>
+    <p>
+     <ref target="#backn17" xml:id="ton17">
+      n17
+     </ref>
+     . selv]
+    rettet fra:
+    selve
+    (trykkfeil)
+    </p>
+    <p>
+     <ref target="#backn18" xml:id="ton18">
+      n18
+     </ref>
+     . voxen]
+    rettet fra:
+    varm
+    (jf. 2. utgave, 1896)
+    </p>
+    <p>
+     <ref target="#backn19" xml:id="ton19">
+      n19
+     </ref>
+     . Kieler-Universitet]
+    rettet fra:
+    Kieler Universitet
+    (trykkfeil)
+    </p>
+    <p>
+     <ref target="#backn20" xml:id="ton20">
+      n20
+     </ref>
+     . fule]
+    rette fra:
+    fulde
+    (jf. 2. utgave, 1896)
+    </p>
+    <p>
+     <ref target="#backn21" xml:id="ton21">
+      n21
+     </ref>
+     . Anden]
+    rettet fra:
+    anden
+    (trykkfeil)
+    </p>
+    <p>
+     <ref target="#backn22" xml:id="ton22">
+      n22
+     </ref>
+     . Ja]
+    rettet fra:
+    J
+    (trykkfeil)
+    </p>
+    <p>
+     <ref target="#backn23" xml:id="ton23">
+      n23
+     </ref>
+     . Anden]
+    rettet fra:
+    anden
+    (trykkfeil)
+    </p>
+    <note xml:id="NOR0073_tok1">
+     k1
+    
+    . Seid Gott … Fouqué] fra
+    Sängerliebe: eine provenzalische
+Sage
+    , del I (1816), av Friedrich de la Motte Fouqué (1777–1843),
+tysk romantisk forfatter
+    </note>
+    <note xml:id="NOR0073_tok2">
+     k2
+    
+    . Mindegod] ordforklaring
+ikke funnet
+    </note>
+    <note xml:id="NOR0073_tok3">
+     k3
+    
+    . Kigajon] et slags
+flaskegresskar eller oljeplante
+    </note>
+    <note xml:id="NOR0073_tok4">
+     k4
+    
+    . Ninivehs Port] en
+ruinby i dagens Irak, byen var en av de viktigste i oldtidens
+Midtøsten
+    </note>
+    <note xml:id="NOR0073_tok5">
+     k5
+   
+    . Prøvens Tegn] referanse
+til Jonas bok 4, 6–11
+    </note>
+    <note xml:id="NOR0073_tok6">
+     k6
+    
+    . Hvo ved … Ende?] salme
+av Emilie Juliane von Schwartsburg-Rolstadt (1637–1706), oversatt fra
+tysk av Frederik Rostgaard (1671–1745). Nr. 573 i Landstads reviderte
+salmebok.
+    </note>
+    <note xml:id="NOR0073_tok7">
+     k7
+    
+    . O, at jeg … Mund!] fra
+    Christelige Betragtninger: med tilsvarende
+Psalmer
+    (3 bind 1833–1839), av Wilhelm Andreas Wexels (1797–1866).
+Han var den fremste formidler av N.F.S Grundtvigs tanker i Norge, og
+Marie Wexelsens morbror.
+    </note>
+    <note xml:id="NOR0073_tok8">
+     k8
+    
+    . lille Katekismus]
+Martin Luthers lille katekisme ble publisert i 1529, beregnet på
+undervisning av barn i luthersk-protestantisk kristendom. Den behandler
+de ti bud, den apostoliske trosbekjennelse, Fadervår, dåpen, nattverden
+og skriftemålet. Luthers lille katekisme er et av Den norske kirkes
+bekjennelsesskrifter.
+    </note>
+    <note xml:id="NOR0073_tok9">
+     k9
+    
+    . Lødden] fargen
+    </note>
+    <note xml:id="NOR0073_tok10">
+     k10
+    
+    . Magister Hans Strøm]
+Hans Strøm (1726–1797), norsk prest, topograf og naturforsker
+    </note>
+    <note xml:id="NOR0073_tok11">
+     k11
+    
+    . det copernikanske
+System] Nicolaus Copernicus (1473–1543), polsk geistlig og astronom. Han
+hevdet at jorden kretser rundt solen og roterer om sin egen akse.
+    </note>
+    <note xml:id="NOR0073_tok12">
+     k12
+    
+    . Sol … Dal] referanse
+til Josvas bok, kap. 10, 12–13
+    </note>
+    <note xml:id="NOR0073_tok13">
+     k13
+    
+    . den herrnhutiske
+Retning] herrnhuterne eller Brødremenigheten: et evangelisk, pietistisk
+samfunn grunnlagt i Sachsen i Tyskland i 1727 av Nicolaus Ludwig von
+Zinkendorf. Den fikk innpass i Norge omkring 1740.
+    </note>
+    <note xml:id="NOR0073_tok14">
+     k14
+    
+    . Henrik Steffens]
+Henrik Steffens (1773–1845), dansk-tysk teolog, filosof,
+naturvitenskapsmann og dikter, er blitt kalt dansk romantikks
+fødselshjelper. Han holdt skjellsettende forelesninger i København
+1802–1804.
+    </note>
+    <note xml:id="NOR0073_tok15">
+     k15
+    
+    . afgjort] her: likt,
+yndet
+    </note>
+    <note xml:id="NOR0073_tok16">
+     k16
+    
+    . Lærdom] referanse
+til Darwins utviklingslære
+    </note>
+    <note xml:id="NOR0073_tok17">
+     k17
+    
+    . gjennemheglet]
+    gjennemhegle
+    : skjelle ut, kritisere
+sterkt
+    </note>
+    <note xml:id="NOR0073_tok18">
+     k18
+    
+    . Paulun] telt;
+bolig
+    </note>
+    <note xml:id="NOR0073_tok19">
+     k19
+   
+    . Gnadenberg] by i
+Bayern
+    </note>
+    <note xml:id="NOR0073_tok20">
+     k20
+    
+    . en gammel
+Kirkefaders] Augustin (354–430), en av oldtidens største teologer
+    </note>
+    <note xml:id="NOR0073_tok21">
+     k21
+    
+    . de oehlenschlægerske
+Digtninger] dikt av Adam Oehlenschläger (1779–1850), dansk romantisk
+forfatter
+    </note>
+    <note xml:id="NOR0073_tok22">
+     k22
+    
+    . oplodes] ble lukket
+opp
+    </note>
+    <note xml:id="NOR0073_tok23">
+     k23
+    
+    . Kristum] akkusativ
+av
+    Kristus
+    </note>
+    <note xml:id="NOR0073_tok24">
+     k24
+    
+    . Büchlein] liten
+bok
+    </note>
+    <note xml:id="NOR0073_tok25">
+     k25
+    
+    . fule] avskyelige
+    </note>
+    <note xml:id="NOR0073_tok26">
+     k26
+    
+    . Optrin af Nordens
+Kjæmpeliv] N.F.S. Grundtvig (1783–1872):
+    Optrin af Kæmpelivets Undergang i
+Nord
+    , 1809
+    </note>
+    <note xml:id="NOR0073_tok27">
+     k27
+    
+    . Vagn Akesøns] Vagn
+Åkesson, en legendarisk dansk kriger som levde sist på 900-tallet. Han
+er en av heltene i den islandske ættesagaen om Jomsvikingene.
+    </note>
+    <note xml:id="NOR0073_tok28">
+     k28
+    
+    . Far Verden, far
+vel!] salme av Thomas Kingo (1634–1703) fra 1681. Nr. 463 i Landstads
+reviderte salmebok.
+    </note>
+    <note xml:id="NOR0073_tok29">
+     k29
+    
+    . Taschenbuch] eg:
+«lommebok», dvs. bok av lite format
+    </note>
+    <note xml:id="NOR0073_tok30">
+     k30
+    
+    . Noget …
+Forstandstid] henvisning til rasjonalismen i filosofi og religion
+    </note>
+    <note xml:id="NOR0073_tok31">
+     k31
+    
+    . Lyset slukt og Døren
+lukt] allusjon til første strofe av Thomas Kingos salme «Tag nu, o
+Herre, nøie vare / Paa Kirkens Fred og Rolighed», nr. 89 i Landstads
+salmebok: «Lad Lyset aldrig blive slukt / Og Naadens Dør ei heller
+lukt».
+    </note>
+    <note xml:id="NOR0073_tok32">
+     k32
+    
+    . Forjettelser]
+løfter, spådommer
+    </note>
+   </div>
+   <trailer>
+    Marie Wexelsens
+    Et Levnetsløb
+    er
+lastet ned gratis fra
+    <ref target="http://bokselskap.no/">
+     bokselskap.no
+    </ref>
+   </trailer>
+  </back>
+ </text>
+</TEI>

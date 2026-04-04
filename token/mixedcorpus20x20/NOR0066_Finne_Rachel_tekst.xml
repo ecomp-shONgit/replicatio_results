@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="NOR0066" xml:lang="nb">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rachel ELTeC-utgaven
+    </title>
+    <author ref="viaf:4505280 https://www.wikidata.org/wiki/Q2619465">Finne, Gabriel  (1866-1899)</author>
+    <respStmt>
+     <resp>
+      ELTeC encoding
+     </resp>
+     <name>
+      Michael Preminger
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     27466
+    </measure>
+    <measure unit="pages">
+     0
+    </measure>
+   </extent>
+   <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
+</publicationStmt>
+   <sourceDesc><bibl type="digitalSource">
+     <ref target="https://www.nb.no/items/3e192740918c8b9c6e15544a8730d1c1?page=3&amp;searchText=Finne,%20Gabriel&amp;subSite=">
+      Utgaven er basert på teksten i 1. utgave, 1895 (iflg. NB Tar-fil)
+     </ref>
+       <author>
+        G. Finne
+       </author>
+       <title>
+    Rachel
+       </title>
+       <pubPlace>
+        Kjøbenhavn
+       </pubPlace>
+       <publisher>
+        GYLDENDALSKE BOGHANDELS FORLAG (F. HEGEL &amp;amp; SØN
+       </publisher>
+       <date>
+        1895
+       </date>
+       <idno type="wiki">
+        None
+       </idno>
+      </bibl></sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+   <langUsage>
+    <language ident="nb" usage="100"/>
+   </langUsage>
+   <textDesc>
+    <e:authorGender key="M"/>
+    <e:size key="short"/>
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+    <e:timeSlot key="T3"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change><change when="2020-11-15">Checked by checkup
+                script</change><change when="2020-11-13">ran oldCheckUp to update</change>
+   <change when="0001-01-01"/>
+  </revisionDesc>
+ </teiHeader>
+ <text type="novel" xml:id="digibok_2009030403018-1895-nob-987-Finne_Gabriel-Rachel_fortelling_xml_text">
+ <front>
+<div type="titlepage">
+   <p>
+    RACHEL
+   </p>
+   <p>
+    FORTÆLLING
+   </p>
+   <p>
+    AF
+   </p>
+   <p>
+    GABRIEL FINNE
+   </p>
+   
+   <p>
+    KJØBENHAVN
+   </p>
+   <p>
+    GYLDENDALSKE BOGHANDELS FORLAG (f. HEGEL &amp; SØN)
+   </p>
+   <p>
+    FR. BAGGES BOGTHYKKF. RI
+   </p>
+   <p>
+    1895
+   </p>
+</div>
+ </front>
+    <body>
+        <div type="chapter">
+			<p>Klokken seks står Enevold op af sin seng, trækker i bukserne og lægger sig ud vinduet.</p>
+			<p>Der er ikke kommen sol endnu. Søen ligger, med al nattetågen stuvet sammen oppe i sin inderste ende, og sover så kold med blank brun flade — det er ingen frisk 
+sjø med fjeld- bund og funklende ørret, men en grund, mudret sjø med fede karudser, karper og anden slam- fisk. Og den lave alvorlige granåsen på den anden side, 
+knapt et bøsseskud over, sover ligeledes — mens små tågedotter glider gjennem dens skjæg, Og de af høsten gulnede og brandede hængebirke langs veien under havemuren 
+sover, og fra. enkelte af dem, hvis stammer stikker på skrå ud fra velkanten, hænger alle de sirlige bladfrynser rake ned til én side, trækker og strækker sig ned 
+mod de dormende gjedder i sivene, </p>
+
+	
+			<pb n="6"/>
+
+			<p>Jo, lidt liv er her. På en mægtig aker, som dækker over et godt stykke af jordbakken, som stænger dalføret i øst, er der en seksten mennesker beskjæltiget med at 
+tage poteter op. Seks arbeidskærrer står med passende mellem- rum og modtager grøden.</p>
+			<p>Men alt derborte går så flittigt og taust for sig, som var det en skare alvorlige afdøde gam- linger, der rodede efter nedgravede skatte, som de i farten og 
+skrækken ikke havde fået anled- ning til at tage med sig.</p>
+			<p>De eneste lyder, man fornemmer, er fjernt dampskibes piben eller et hvin fra en lokomotiv- fløite. Kristiania dér bag åsen er i full gang med at vågne.</p>
+			<p>Den vilde vin opefter husvæggen er brand- rød, blodrød, violetrød, ægte tunge farvet, og den er her på forsiden af huset så tæt, at man fra grunden og op under 
+tagskjægget ingenting ser af den hvidmalte væg. Den slynger sig udover vinduerne, også Enevolds, og titter ind, når de ere åbnede, og er overhovedet til bry- deri, 
+ligesom unge pigers flisede hårtufser, der triterende ofte løsner fra fletten og lægger sigi ned i panden.</p>
+			
+			<pb n="7"/>
+			
+			<p>En svær prygl af en bernhardshund, hvid og sort, kommer luskende over grusgangen.</p>
+			<p>Aias!</p>
+			<p>Og Aias skyætter op og giver sig til at juble med halen.</p>
+			<p>Men den går foreløbig videre for mellem havens krat at vælge et passende sted for sin morgenrensning.</p>
+			<p>Så høres langsomme skridt fra veien, og ud af alléens løvtunnel kommer en gammel mand slæbende, en kroket gamling med onde gjerrige øine i det visne ansigt. På 
+skulderen bærer. han slægge og jernspæt og en hammer.</p>
+			<p>(Godmorgen! skriger han op med en brusten. stemme som fra et gammelt rustent urværk, — har De set hunden min?</p>
+			<p>Jeg jaget ham ud af haven igår aftes, Jens. Og hvalpen er spærret inde i nat nede i gangen</p>
+			<p>Jeg forstår ikke, hvad han tænker på om dagerne, det utyske. Ser han mig, saa smet han bort og gjøm sig. Men han skal nu få så mycke prygl, når han kommer hjem 
+igjen. Ja, farvel da.</p>
+			<p>Gamlen lunter videre — — — noget efter</p>
+			<p>fr</p>
+			<pb n="8"/>
+			
+			<p>høres han i fuld gang med arbeidet på sin pukstenshoug lidt nede i veien.</p>
+			<p>— Rachel ligger lysvågen.</p>
+			<p>Det ærlige lyse ansigt midt | den flom af blødt brunt hår over puden stirrer mod taget, hun er hensunken i sørgmod, armene ligger trætte og opgivet nedover det 
+blå stoppetæppe.</p>
+			<p>På ham, som kommer ind og sætter sig hos hende på sengekanten, ser hun med slig tilid og glæde gjennem det duggede blik, at det er klart, at han i hendes øine 
+ikke eier et træk, sjæleligt eller legemligt, som hun ikke elsker og beundrer.</p>
+			<p>Han har et skjægløst og ikke ganske sundt ansigt, gulmat i farven som hos en leversyg. Det er skarpt og ualmindelig fornemt skåret og stærkmagert som hele gutten. 
+Hans hår er sod- sort og tætklippet, sluttende om hovedet som en hætte af kostbart skind.</p>
+			<p>Mens hun lyser af godhed og klogskab og tindrer af øm kjærlighed, har Enevold en mine som af rolig funderen på noget, og hans små brune øienstene — som et par 
+skarprandede kaffebrune ærter midt i det meget hvide — ser brutalt gløgge ud.</p>
+			<p>Nu har du vist igjen ligget i det åbne vindu</p>
+			
+			
+			<p>i</p>
+			<pb n="9"/>
+			<p>og forkjølet dig, gutten min. Du hostede så stygt. Og du ser også så træt ud. Du har det ikke så godt som du lader til. Og ikke har du sovet inat — for jeg hørte 
+nok, at du laa og kastede dig i sengen, og at du tilslut tændte lampen og gav dig til at læse i aviserne.</p>
+			<p>Å fan! Hør nu — nu sender jeg altså idag de penge til din søster, og saa kommer hun og bor hos os, indtil hun er allright igjen. Vi skal altidens finde en post 
+til hende. Hun skal nok slippe at måtte reise hjem til Bergen. Vær ikke trist længere for hendes skyld, da.</p>
+			<p>Dette brev igår, du — alt det, hun har gjennemgået bare for fars gjerrighed! Jeg har jo i disse årene hos dig rent glemt alt det onde derhjemme — det fæle, fæle 
+hjem! Jeg tænkte jo aldrig på Josefa, siden hun reiste. Aldrig på Albert, som også led så ondt der- over i Chikago, indtil vi fik vide det, og du hjalp. Han lå jo på 
+hospital et halvt år der- borte og fik ingen skilling hjemmefra. Og nu kommer snart Rikard til Kristiania for at stu-</p>
+			
+			<p>dere. Jeg er så sikker på, det gaar samme vei med ham som med Albert. Far gir ham ikke nok penge — det blir aldrig til noget med</p>
+			<pb n=""/>
+			
+			<p>eksamen — å, jeg ser så godt, hvordan det vil gå!</p>
+			<p>Bag fodenden af Rachels seng var der dukket op et rødkindet søvnigt barneansigt, som med forundring fulgte, at moren græd. Men ved synet af farten lavede den 
+lille sig til at ville ha løier. Gjemte sin person og sit hode, så der af hele fyren kun var igjen de buttede næver, som holdt fast i kanten — får op som knipset af 
+en fjæder — ned igjen — —I Nei, idag var papa ikke oplagt, Vole krablede sig over fra sin egen og ind i morens seng og — vups —! under tæppet, ind til hendes varme 
+barm</p>
+			<p>Enevold strøg hende over ansigtet og sa, hun havde nu bare ét hjem, som hun havde Jov til at interessere sig for, og det var hendes eget her paa Thorsbakke.</p>
+			<p>Hun kjærtegnede hånden hans og sa</p>
+			<p>Vi skulde aldrig ha gået på stationen for at møde din far igår, du. Så havde vi sluppet den ydmygelsen. De vil ikke vide af os —; at du ikke ser det! Den fru Krag 
+har fået ham under tøffelen. Å, havde du bare aldrig skrevet op og bedet dem besøge os, når de kom ned- over!</p>
+			
+			<pb n="11"/>
+			
+			<p>Jeg forstår ikke —?</p>
+			<p>Å, du skjønte lige så godt som jeg, vennen min, at de var begge med toget. Jeg så — og du også — et hode, som trak sig om bag gardinet, da det fik øle paa dig. 
+Det var fru Krag. — — Så ondt, så ondt det var for os begge at komme hjem igjen — alene vi to —, hvor bordet stod festdækket til middagen for dem! Hvor du pintes, 
+gutten min! Og så gråtende rørende det var at se dig gå omkring, som om du var lige glad — lade som du troede, at de slet ikke havde været med; at de havde opsat 
+reisen.</p>
+			<p>Javist, javist var det væmmeligt! Men det er da ingenting at ligge og sutre for idag. Jeg havde aldeles glemt det dér — hvorfor fanden skulde du nu rippe det op 
+igjen!</p>
+			<p>Han var faret op, jog frem og tilbage, og de små brune øienstene huggede mørkt ud i rummet, fingrene kravlede nervøst, det spillede i alle benstrængene over de 
+lange blege hænder.</p>
+			<p>Desuden — vi har jo ingenting med de mennesker, ikke det ringeste brug for dem. Nogen faderfølelse er der ikke tale om. Siden jeg bodde hos dere i Bergen for ti 
+år siden, har jeg fem gange, siger og skriver fem gange,</p>
+			
+			<pb n="12"/>
+			
+			<p>talt med min gamle. Og da'kun koldt, om forretninger, om. afklareringen af mors arv. Han begyndte at interessere sig for sin hus- holderske, — og havde lidt ond 
+samvittighed, frygtede for, at hans datter og hans søn i pietetens navn skulde se fortørnede ud. Derfor lod han dem i fred. Lod Alida forlove sig i vilden sky, ja 
+gav hende sogar, så længe hun ikke var myndig, penge, som hun kunde låne sine kjærester. For at de kunde blive færdige med eksamen." Det sa de nemlig altid, når de 
+var træt hende, træt bøgerne, træt Kreditorerne og blot havde tilbage at fordufte til Amerika. Og mig lod han seile sin egen sjø. Ikke</p>
+			
+			<p>ligegyldighed såmeget som fordi, han vilde ha madro. Han er et fæ, forstår du, den værdige distriktslæge Bader, en dot. Og Alida er et fæ, For hver ny heder det: 
+Å, han er sand, han er ren! Og mig hader hun, glødende, fanatisk, fordi jeg tviler. Ellers den kjæreste søster. Så fin og upraktisk og troskyldig som vor mor.</p>
+			<p>Pludseligt før han bort og ruskede Rachel som i ove</p>
+			<p>Sov nu et par timer til, du kjære, så er du</p>
+			
+			<pb n="13"/>
+			
+			
+			
+			<p>glad og har glemt alt fra igår. Jeg skal ta noget godt med fra byen i kvæld. Adjøs!</p>
+			<p>Nei, Enevold — du skal vel komme op siden og sige ordentlig farvel! — Jeg synes, det er så ondt for dig, gutten min, at måtte ind i forretningen idag,</p>
+			<p>Hvorfor netop idag? Det er sgu ikke mor somt nogen dag.</p>
+			<p>Er du så sikker på, at du ikke har det ringeste brug for din far?</p>
+			<p>Javist — hvad skulde jeg — —?</p>
+			<p>Du skal jo ud med fire tusen kroner idag til banken. :</p>
+			<p>Han stod, smidig og spæstig, og så på hende med et saa bebreidende skjælmeri, og derefter slog han op en skoggerlatter, så hun blev helt rød af glæde.</p>
+			<p>Du er altfor sød, Rachel, med den revisor- mine. Må jeg spørge: hvor har hun dette fra?</p>
+			<p>Jeg så det en dag i en bog på kontoret. Har du såmange penge i kassen da?</p>
+			<p>Igjen lo han: Vistnok ikke alt, men det er også unødvendig. Det er jo kun et fornyelsespapir, blot at betale rente — små damer skal ikke stik! sin næse i 
+protokollen. Så, nu skal dere sove!</p>
+			
+			<pb n="14"/>
+			
+			<p>Og med sin nervøse guttehast var han ude af døren, før hun fik sagt et ord.</p>
+			<p>— Nedenunder i gangen stod hvalpen, en silkehåret fuglehund, og ventede ham, vridende sig af glæde over at skulle blive løst af lænken.</p>
+			<p>Dér var jaggu Bohémen igjen —! Gamle Jens' eneste støtte, en sort liden bjørnehund, som havde ligget paa tærskelen af veranda- døren, skvat langt ud i haven 
+åbnede.</p>
+			
+			<p>Op gjennem rosenbedene, op i skogen bar det ined den og Sancho, den stakkels plebeier af en bjørnehund gneldrende i naiv henryk- kelse.</p>
+			<p>Mens Aias kom ruggende for at hilse ordent- lig godmorgen på sin herre og derefter følge med i kjøkkenet og andagtsfuldt overvære fro- kostens tilbereden: et 
+vældig lerfad med brød og melk til ham, som var gammel og alvorlig, og en almindelig dyb tallerken til Sacho, som var en lapset grønskolling bare.</p>
+			<p>Jossa havde theen færdig. Den drak han hos hende i kjøkkenet.</p>
+			<p>Jossa var fem og tyve år og en underlig pige. Da hun var sytten, hændte det en mørk kvæld, at hun fra gården etsteds oppe i landet,</p>
+			<pb n="15"/>
+			
+			
+			<p>hvor hun tjente, så hele himlen i syd røgfyldt, ildoplyst, og samtidig kom folk løbende og Kjørende som de var gale langs veien. Slig morro havde hun aldrig set. 
+Hun vilde også afsted, men det blev hende nægtet. Det var landhandlerbyen i nærheden, som brændte ned til grunden den nat. Og Jossa, hun tog den næste nat, da det 
+var mørkt og ingen røg og ild i syd, og satte fyr paa låven — ,for at se på lysningen".</p>
+			<p>Syv års strafarbeide!</p>
+			<p>Aldrig havde hun fået plads bagefter, hvis ikke Rachel havde hørt hendes historie og søgt hende op.</p>
+			<p>Hun var den beskedneste, villigste pige, og hun elskede hjemmet på Thorsbakke til for- gudelse. Smuk og velskabt var hun som en liden haremsdame og glad og 
+uskyldig.</p>
+			<p>Derfor fandt Enevold et velvære i hendes selskab, og han kunde ikke se den, i hans nær- vær lidt forlegne jente, gå og stelle så fromt fornøjet, uden at smile 
+indvendig ved tanken på de syv årene.</p>
+			<p>Disse morgener — hvor de var velsignede de par timer, før dagen begyndte! | Allertidligst — mens man klædte sig på for de åbne vin-</p>
+			<pb n="16"/>
+			
+			<p>duer — en stilhed og uberørthed over dalen næsten som på jordens første morgen. Og bare Kjære væsener at hilse paa, Rachel og Volle og Jossa og Sancho og gamle 
+Aias. Og mens de to sidste slufsede maden i sig, drev han om med en cigar og så på røgen, som sagtelig steg op af skorstenen, og glædede sig til at være hjemme igjen 
+om kvælden.</p>
+			<p>Roserne og ellers alle de andre blomster var plantet af Rachel; ærtesengene og gulerodsengene og alt det i det åbne nærmest omkring huset var også hendes værk. 
+Men forøvrigt var det en underlig gammel have med mangfoldige slags træer blandet om hverandre. Edelgran og norsk gran og furu og lærketræer og rogn, som livede op 
+med sine tunge røde bærbundter, og ask og birk og sneboldtræ og older og hassel og endnu flere sorter vokste i det fro- digste virvar opover åsskrænten; og nede i 
+skyggeme under løvtaget vokste kaprilol dg bjørnebær og andet krat omkring klippeblokker med brun fugtig mos.</p>
+			<p>Det var også skog videre til alle kanter hinsides gjærderne,</p>
+			<p>Et stykke udfor verandaen stod i en liden</p>
+			
+			<pb n="17"/>
+			
+			<p>lund for sig et svært rundt stenbord paa fire stolper med bænke omkring. Herude spiste man den hele sommer og høsten med, sålænge det gik an for kulden.</p>
+			<p>Enevold stod og kiggede efter nødder op mellem de gule hasselbusker, som løftede sig op bag bænkene og stak sine toppe henimod hinanden til et tag over 
+stenpladen, da stemmen som fra et hæst urværk lød fra vejen. Gjennem den grisne spiræn langs gjærdet såes Jens strække hals for at se op over muren.</p>
+			<p>Jeg hørte hunden min for lidt siden. Han er nok hos Dem alligevel, det utyske.</p>
+			<p>Ja det er en uartig hund. Vi kalder ham for Bohémen.</p>
+			<p>Det stakkels dyr havde længe siddet ganske stille på sin hale og tilbedt Sancho med sine kloge sorte bjørnehundsøine. Sancho havde mæt lagt sig ned på gruset, dér 
+hvor de første stråler fra solen gjorde en lys plet. Bohémen, som ingen mad havde fået, sad et stykke fra i det våde græs. Men straks at den brustne stemme lød, 
+skvat han ivei som for selve satan og var borte oppe under krattet.</p>
+			<p>Hør nu Jens. De skal få låne en lænke af</p>
+			<pb n="18"/>
+			
+			<p>mig, og så skal De binde ham et par dage og se, om han ikke blir snil. Gå nu De hjem og vent lidt — jeg skal nok få fat i ham.</p>
+			<p>Og da Jens var borte, lykkedes det Enevold ved hjælp af et kjødben og megen list at få narret Bohémen ned til sig; og så bar det af- sted henover under åsen, i 
+retning af akeren, hvor de arbeidede så tyst.</p>
+			<p>Under gamle birke havde Jens sin lille røde hytte og så nær ved veien, at en bandit glade- lig kunde stå i grøftekanten og lange sin næve tværs gjennem ruden. 
+Indgangsdøren var på bagsiden, op mod skrænten.</p>
+			<p>Her udenfor skal De binde ham, Jens. gneldrer han, hvis noget kommer på, så gra: sat, at De kan høre det borte paa stenhougen Deres. Har De ikke været bange for 
+at ligge her alene mu disse tre fire nætter, De ikke har</p>
+			
+			<p>havt ham i stuen? De kan vide det. Men jeg har nu revolver. Har De pengene i stuen hos Dem kanske? Et hurtig, angst sideblik fra Jens, før han klynkede: Har ingen 
+penge, har ingen penge. Hun kjærringen min, hun drak det op altsammen, før hun døde.</p>
+			<pb n="19"/>
+			
+			<p>Den skjælvende gamle gnier med revolver i hånd om natten, det var for snurrigt at tænke sig.</p>
+			<p>Lad mig se på den revolveren, om han kan bruges, Jens.</p>
+			<p>De gik ind i husets eneste stue. Der sad en sort kat i vinduskarmen, hvor netop det første solstreil skjævede ind; og det stinkede fra et uopredt leie og fra et 
+bord med en kaffekop og et brød på.</p>
+			<p>Jens tog dynen og puden tilside og løftede op to tykke lag af sammenstoppede sække og filer — madratserne —, og efter megen roden i sengens underlag holdt han i 
+hånden en bylt så stor som et spædbarn. Han løste på byldten, løste op fire kunstfærdigen lavede. rotteknuder og lagde så et skiddent stykke tøi forsigtig ned. Det 
+var bare det første hylster, byldten blev mindre og mindre — men det tog en forbasket tid: i fem stykker tøl var det svøbt, det plumpe rustede våben, som endelig 
+viste sig. Skjælvende, næsten nødigt leverte gamlingen det fra sig, som om han vilde anmode Enevold udtrykkelig om endelig ikke at røve det</p>
+			<p>Men den er jo ikke ladt. Har De ikke patroner, Jens?</p>
+			
+			
+			<pb n=""/>
+			
+			<p>Jens grov en portemonnæ op af lommen, fandt frem en nøgel og låste stuens skab op</p>
+			<p>Der havde han fire patroner, indsvøbt i et lommetørklæde.</p>
+			<p>Under hele scenen viste den gamle en sådan mistænksomhed, gav ham så mange skjæve, prøvende blikke, at Enevold ærgrede sig. Han slængte filerne på gulvet, trev 
+patronerne fra Jens, stak dem i våbnets løb og lagde det på bordet.</p>
+			<p>Dér skal det ligge, Jens. De er en gammel kjedelig fyr, nu véd De det. Har De penge i stuen, så skal De sætte dem i banken paa flyvende flækken, og så kan De 
+trygt pukke stein om dagen, så mye De orker. Husk på, at det pakket fra Oslo og Vålerengen, som om sommeren ligger og driver opover her, de bryder ikke ind, uden de 
+har håb om udbytte. Men sidder De her alene om kvældene og tæller grunkerne Deres ved tællepråsen, så kan De være sikker på, at der er dem, som lurer på Dem gjennem 
+sprækken i gardinet. En rigtig væmmelig nabo er De at ha, Jens.</p>
+			<p>Men der var et udtryk af senil hjælpeløshed, klam skræk hos Jens, Enevold havde talt uden at gjøre sig rede for, at der som baggrund for</p>
+			
+			
+			
+			<pb n="21"/>
+			
+			<p>hans vrede formaninger stod erindringen om et stygt tilfælde for to år siden. Da var en sten- hugger, som også boede alene i et lidet hus i lien, men et stykke 
+nedenfor Thorsbakke, bleven myrdet om natten. Det får gjennem Enevold, at Jens tænkte på det samme,</p>
+			<p>Nu ja, De behøver ikke frygte pakket, sålænge De bor ved siden af os, Jens. Om det så er midt på svarteste natten, så véd De jo, at Aias han bjæffer, så det 
+brager gjennem åsene, bare ved den mindste mistænkelige støi i dalen. Der er nok ingen, som vover sig hen til husvæggen Deres engang, sålænge Aias er her lige ved,</p>
+			<p>Jeg er også så tryg, sa gamlingen. Jeg har følt mig så tryg | disse tre årene, siden De flyttede ind her. Men før — mens der stod tomt på Thorsbakken efter de 
+forrige — å jøle mig, å jøle mig, og endda kjærringen levede dengang. Men skulde nu De forlade Thors- bakken, så — —</p>
+			<p>Enevold blev stående nedenfor havemuren og se op. Rachels vindu var åbnet, de sejge vinrankegrene havde klemt den ene af ruderne halvt tilbage.</p>
+			
+			<pb n="22"/>
+			
+			
+			<p>— forlade Thorsbakke, torlade Thors- bakke — —? Hvorfor var der faldet en æng- stelse over ham, da Jens sagde de ord? Det var jo deres hjem, hans og Rachels hjem, 
+det eneste hjem, de kunde tænke sig her på jorden, Aldrig havde han — bevidst ialfald — sporet meget som anelsen af en tanke om, at de ikke skulde have det 
+bestandig. Hvorfor, hvor- for da dette idag? Forudfølelse? Skulde det, at man for tiden stod lidt i vanskeligheder med forretningen — —? Skule tanken, fantasien, på 
+egen hånd have løbet i forveien og gjennem- levet — uden at varskue bevidstheden — sta- dium på stadium af nedgang, frådset i at tænke sig nedgang —, sådan at man, 
+såsnart man udenfra hører et intet ondt ment ord, straks krymper sig sammen i angst og siger: dér er facit, løsningen på et regnestykke, du først nu aner, at du har 
+gjort. — Å skidt! Dårlig søvn. Nervøsitet. Eller var det Rachel, som havde sat bange følelser i ham — dette hendes store lyttende blik, bag hvilket der lå som en 
+anelse om ulykke.</p>
+			<p>Ikke for det. Også Enevold havde, uaf- hængigt af hende, på fornemmelsen, at der idag' kunde blive lidt ubehag med den bank. Des-</p>
+			
+			
+			<p>|</p>
+			<pb n="23"/>
+			
+			<p>uden var der agenten fra Hamburg, som havde meldt sin ankomst. Agenten for det 'samme firma, som sidst havde antydet at ville have fuldt opgjør, før det næste 
+gang kunde give videre kredit. Kunde man blot greie ham kon- tant idag og fremvise papir for, at banken følte sig rolig, så vilde han skamme sig, og firmaet vilde 
+skrive omtrent: Det er os en fornøjelse at meddele Dem, at vi giver Dem en ligeså stor og lang kredit, som De ønsker, og beder vi Dem endelig ikke sende remisse uden 
+når det i enhver henseende konvenerer Dem</p>
+			<p>Så langt var han, da han pludselig kom til at se op. Der stod Rachel bag gjærdet, grun- dende iagttagende ham.</p>
+			<p>Det er for sent til det første toget, Enevold.</p>
+			<p>Ja for fanden! vrissede han</p>
+			<p>Nu må du spise, gutten min, du ser så dårlig ud, sa hun moderlig deltagende — for dyb til at krænkes over hans grættenhed,</p>
+			<p>Solen havde løftet sig et godt stykke over bakkekammen i øst —, og en dusch af spindel- vævfine stråler sivede ind gjennem alle træerne og alt det duggede 
+blomsterkrat omkring huset på Thorsbakke. Singelen og grusen i have- gangene tørkedes lyse, insekterne begyndte at</p>
+			<pb n="24"/>
+			
+			<p>live på sig, og edderkoppene entrede indover sine tråde og plantede sig som gridske uappetit- lige madammer midt inde i centrum af sit net. Oppe under 
+himmelhvælvingen svævede to falke og iagttog kråkeflokkene i åsen, og kråkeme lurte paa kjødmeisen og gjærdesmutten, som skvat omkring nede i krattet, og småfuglene 
+gjorde jagt paa libellerne og vepsene, og libellen han fløj igjen om som en bitte liden luftfregat og snapped de små insekter, som krøb ud af jorden, der hvor sølen 
+varmed den op</p>
+			<p>Med solen vågnede lag efter lag af væsener og åd hinanden op alt efter størrelsen. De to falke, som var store, spiste fire kråker, fire kråker ødelagde seksten 
+småfugl, seksten små- fugl to hundrede og seks og femti af de større insekter — en pyramide af væsener, af sol- lystne sjæle, millioners mikroskopiske liv til 
+grundflade og til top to stærke næb, som med en grubedirektions alvor sugede essensen af alt det levende blod derunder.</p>
+			<p>Både Aias og Sancho sad pent på sin hale i indgangen til frokostbordet under haslerne og glæfsede maskinmæssig sikkert over hver brød- bid, Enevold sendte dem.</p>
+			<p>Også ret ind gjennem åbningen strømmede</p>
+			
+			
+			<pb n="25"/>
+			<p>al strålevældet og gjorde de unge menneskers sjæl lysere. Rachel var allersødest i den blå morgen- kjole med alle de fine hvide zigzagfigurer og det røde 
+silkeskjærf om livet. Hun smurte syltetøj på kjæks efter kjæks og sendte dem over til Enevold, som gnaskede og gnaskede og skyllede det ned med the. Med hans hur- 
+tige overgang i humør var han udenvidere bleven munter. Han så sin lille kone sidde då så ærlig og sød og klog og med de forskende øine, og han sprang frem, greb 
+hende om livét, trakkede Sancho på halen, så han hylte, og dansede rundt huset</p>
+			<p>Jeg skal sige dig, lille Rachel, sagde han forpustet og trak hende ned i bakken, — at det er en forbandet skam, at din søster skal have ligget demede i 
+Kristiansand i en hel uge, syg og ensom. Jeg synes, du skulde pakke en liden håndkuffert og rese ned og hente hende. For kanske er hun for syg til at kunne reise 
+straks. — Om vi har råd? Ja — æsch — er du nu igjen henne dér, hvor små damer ikke skal stikke sin næse. Men skyrid dig, så reiser vi sammen. til byen — du kan endnu 
+imorgen tidlig være i Kristiansand.</p>
+			<p>Rachel sendte ham et hurtigt blik. Men</p>
+			<pb n="26"/>
+			
+			<p>smittet af hans fart og fandenivoldske lystighed, sprang hun op og ind i huset, vendte sig i verandadøren, kyssede på fingeren, lo så kvid- rende vildt —; han 
+satte sig hen og gav hun- dene mere kjæks.</p>
+			<p>Det varmede inde i ham dette Rachels smil. Alle der så det, satte hun i mild stemning, og det fine var, at hun ikke vidste det selv. Nu skulde hun igjen sidde på 
+dampskibet, glad og tryg og varm som den sommeren, da de var forlovede og reiste kysten rundt. Hvor lo hun ikke da overgivent og smilte med sit brede lyse ansigt, 
+som ikke kjendte til svig. Hvor huskede han ikke, at selv onde grinebidere, menneskehadere, som sad på dækket og så bistre ud, tilslut overgav sig. For de følte, at 
+her var noget godt, her var et tillælde, hvor deres summariske foragt ikke passede. De så paa det lyse ærlige åsyn med den brede gode mund, det uskyldigt glade smil 
+— og de stir- rede mere og mere for glade at overbevise sig om, at der virkelig fandtes det, som deres kritik måtte krybe iskjul for. Der var en grå hadsk 
+melankoliker, der så ud som han gjerne vilde have set hele passagerflokken halshugget</p>
+			
+			<pb n="27"/>
+			
+			<p>af én vældig ljå på én gang —, selv han fik en mine, som om han følte til sin glade for- undring, at for hende kunde han kaste sig i sjøen eller frivillig. udstå 
+pinsler.</p>
+			<p>Enevold følte sig glad og let</p>
+			<p>Hvis det skulde flaske sig sådan, at han idag ikke klarte situationen, saa kunde han da ialfald ikvæld gå herhjemme i fred og pønske på tingene uden at forstyrres 
+af to ømme ængstelige, efter fortrolighed også i modgangen længtende øine.</p>
+        </div>
+        <div type="chapter">
+			<p>Ud paa eftermiddagen stod han og ekspe- derte alene i sin store butik. Det var ingen almindelig plebejisk cigarbutik med en liden lokkende jomfru bag disken og 
+spadserestokke og billig vin i vinduet. Nei, alt var nobelt, storstilet. Gjennem den svære spejlglasrude helt ned til fortougets niveau havde Karljohan- gadens 
+publikum et blik ind over det fornemme. lokale så klart som ind i et akvarium. Høje hvidmalte cigarkassereoler med forgyldte lister og en lang funklende poleret 
+mahogni disk uden anden besætning end det nikkels tælle-</p>
+			
+			<pb n="28"/>
+			
+			<p>apparat. To messingborde med krystalklart vandservice til kundernes afbenyttelse. Boule- vardens fasjonablesle tobaksforretning.</p>
+			<p>Han drog sig efter hver kunde ind på sit Kontor, et af disse baggårdskontorer med et lys som paa bunden af en brønd; og hvor man må kile næsen flad mod ruden for 
+at få et glimt af guds himmel, hvis sjælen blir for syg, øinene for triste af altid at træffe på søple- dyngerne og pakkasserne nede under de ørken- grå baggårds 
+murflader.</p>
+			<p>Enevold løb om herinde, kolerisk, nervøs, bidende læberne, huggende øinene ud under brynene, rastløs, taus, hadsk som et rovdyr i bur. Indtil at gadelarmen lød 
+ind til ham ved at nogen kom derude. Da satte han øjet for det lille kighul i døren, strammede på dressen og lavede sig allright eller lavede sig slet ikke, alt 
+efter som kunden så ham ud. Steg så ned de to trin og ekspederte.</p>
+			<p>Agenten for hamburgerfirmaet havde han greiet idag med det, der var i kassen, og ved at sope ind hist og her blandt de mange, der havde lånt småsummer af ham. 
+eller taget på kredit.</p>
+			<p>Rasmussen, butiksgutten, havde fløjet om-</p>
+			<pb n="29"/>
+			
+			<p>| é</p>
+			<p>%</p>
+			<p>kring den hele formiddag. Men fra banken kom han tilbage med den besked, at papiret måtte indfries.</p>
+			<p>Enevold havde ladet lige glad. Drog på sig den mest plystrende mine. Gik lidt efter ud og sagde til Rasmussen, han gik for at spise til middag.</p>
+			<p>Men han gik i sin svedende vånde ned på hotellet, hvor distriktslæge Bader pleiede at tage ind. For der var ingen anden udvei på kort tid som til imorgen. Søster 
+Alida, so: nok havde størstedelen af morsarven i behold endnu, var jo hjemme på Hedemarken, og venner i byen havde han ingen af</p>
+			<p>Med den selvfølgeligste glæde hilste han på sin far, også på fru Krag, som kom ind. Begge havde klædt sig for at gå ned og di- nere. Jo, Enevold havde hørt, de 
+var set i byen. Havde ventet dem igår, var mødt frem på stationen, men havde ikke set dem med toget. Kjedeligt — både han og Rachel havde glædet sig så til endelig 
+engang at se far hos si</p>
+			
+			<p>Den gamle drev op og ned på tæppet, tyk som en flodhest, og gryntede forlegent. Han gik med hænderne sløvt bag på ryggen, åbnede</p>
+			<pb n=""/>
+			
+			<p>næsten ikke sin mund, og når han så på sin søn, var det med et udtryk, som om han fandt ham pudsig og var villig til at være over- bærende med ham.</p>
+			<p>Men Enevold tænkte: de brænder begge to af nysgjerrighed efter at få rede på, om jeg har sat hele morsarven overstyr, så at det er nødvendigt for dem at 
+distancere mig ud- trykkeligt,</p>
+			<p>At dere ikke kom! De skulde set, fru Krag — vi ventede Dem med den fineste middag. Bekkasiner, dobbelte bekkasiner og burgunder.</p>
+			<p>Det må jeg si! sagde fru Krag blidt. Det er mere end vi hjemme på Hedemarken har råd til. Det er virkelig fyrsteligt, Enevold. Jeg troede ikke, en forretning som 
+din kunde give af sig så meget, at — —</p>
+			<p>Den høie, praktiske dame mindede ham i sin nøgterne kulde om en af de høstpelargonier eller kanske en af solsikkerne, som stærk- farvede og uden duft stod kolde 
+på toppen af</p>
+			
+			<p>sin lange dumme stængel deroppe under hus- muren. paa Thorsbakke.</p>
+			<p>"Tanken på hans mor dukkede op, han for- nam sig uendelig skidden, uendelig skidden på sjælen over sit tænkte ærende hos faren?</p>
+			<pb n="31"/>
+			
+			<p>denne igrunden fremmede fjerne far, en nathue under fru Krags strenge øjne, — og glad og selvfølgeligt smilende som han var kommen sagde han farvel og gik sin 
+ve</p>
+			<p>Der var ikke andet for. Finsen, gamle kjære ågerkarl Finsen måtte ud igjen! Finsen, der så mangen en gang, mens Enevold endnu gik som umyndig og gymnasiast, havde 
+hjulpet ham ud af kniben mod et vederlag af to hun- drede procent.</p>
+			<p>— Det var just for at få fat i Finsen, hvad enten han var i sit hjem. eller på sit kontor, at Rasmussen nu var ude i byen.</p>
+			<p>Finsen kom og kom meget diskret — bagveien. Viste sit tørre, venlige gnomansigt derudenfor ruden og takkede mange gange, da Enevold aabnede for ham den smale dør 
+ind fra gårdspladsen.</p>
+			<p>Nei, lageret kunde Finsen ikke låne på Det var vel her som i enhver af denslags</p>
+			<p>forretninger — størsteparten af de strålende kasser i hylderne var tomme, fulde af lut. Og desuden — ja han havde hørt en fugl</p>
+			<p>synge om, at der var adskillig indsmuglet tobak. Indsmuglede varer, ja. Hr. Bader måtte endelig ikke fæste sig ved det — javist,</p>
+			<pb n="32"/>
+			
+			<p>javist, Finsen forstod jo nok, at en gentil herre som Bader ikke havde gjort sådant af nærighed. Kun eksperiment — spænding — uprøvet — selvfølgelig.</p>
+			<p>Og Enevold, allerede før så nervedirrende af ildebefindende, svedede, hans hænder knyt- tede sig, knokerne hvidnede. Først nu i efter- tankens time så han det 
+meget dumme, han havde ladet sig lede ind på. Først nu, syntes han, han indså den gabende forskjel i tænke- sæt, levemåde, væsen mellem en virkelig for handel født 
+forretningsmand og en akademiker, bureaukratsøn.</p>
+			<p>Heller ikke nogen andenprioritet i TThors- bakke turde Finsen indlade sig'på. Stedet lå for ensomt i den lille dal. Om hr. Bader fandt for godt at Nytte derfra, 
+vilde det være over måde vanskeligt at finde kjøbere, folk der havde samme smag for det uselskabelige. Villaen vilde komme til at stå tom eller blive et til- 
+flugtssted for tatere og anden pøbel. Bohavet derimod, hvis det var ubehæftet — og det var det selvfølgelig —, — enden blev, at Finsen, eftersom hr. Bader jo absolut 
+måtte have de penge imorgen, endnu iaften skulde reise op for at se på møbler og andre eiendele og mod-</p>
+			
+			
+			<pb n="33"/>
+			
+			<p>tage bevis for, at de med rette tilhørte ham — notabene med den klausul, at han først havde ret til at hente dem i juni næste år. Til den tid havde hr. Bader 
+naturligvis overvundet sin uvilie mod at gaa til distriktslægen.  Selv- følgelig. Det hele var en pro forma sag. For at have en garanti.</p>
+        </div>
+        <div type="chapter">
+			<p>— Enevold er hjemme og venter. Har tændt lamper i de tre hovedstuer, for at Finsen med é kan faa begribelse af, at her er møbler nok, ting nok for mere end de 
+fire tusen — så man slipper den pinlige akt at gå igjennem stykke for stykke, notere sig pris paa hver en- kelt gjenstand.</p>
+			<p>Her i det inderste rum, hvor han sidder og spiller tapper dundremusik over tangenterne, er der især meget lys, varmt stille lys fra flere nipslamper med farvet 
+glas og fra en svær bordlampe med en sværfrynset dybrød skjærm. Sådan inderlig træt sorg i hjærtet, under det at polkatonerne stormer frem i sin dumme rytme. For i 
+denne, hans og Rachels kjæreste stue, hvor nu snart Finsen skal stige ind, er der så</p>
+			
+			<pb n="34"/>
+			
+			<p>drivhuslunt af mange, mange hjemligtduftende, personlig-prægede ting. Dybe tæpper over gul- vet, Allesteds på bordene fotogrammer og småbilleder i rammestativ. Og 
+foran vinduets mørkerøde gardin løfter der sig op fra store potter en liden lund af blomster og palmer og giver stemning,</p>
+			<p>Finsen kommer —, Jossa er ovenpå for at lægge gutten</p>
+			<p>Enevold trak vin op, drak med sin gamle hjælper i nøden og fandt derefter papir og blyant</p>
+			<p>Nu får jeg lov at notere op, Finsen, gjen- stande, så De har valuta for de fire tusen. Og så skriver jeg en erklæring, at det optegnede tilhører Dem — at afhente 
+da og da. Videre at De har kjøbt sagerne af mig og betalt derfor — hvor meget var det nu —? fire tusen, otte hundrede — De er et svin til at tage procenter, Finsen — 
+fire tusen otte hundrede kroner, men at De forpligter Dem til, saasnart dette beløb er Dem tilbagebetalt, at lade handelen gå om igjen, udlevere beviset.</p>
+			<p>Det greier sig nok, det greier sig nok! sa Finsen generøst og vilde slet ikke se paa nogen</p>
+			
+			
+			
+			<pb n="35"/>
+			
+			
+			<p>af tingene, knapt nok på pianoet, som alene var værd tolvhundrede kroner.</p>
+			<p>Med ryggen tillidsfuldt mod hr. Bader gik han langs væggene og så på de mange billeder.</p>
+			<p>Den gamle pengeudlaaner lod mundtøjet gå Hr. Bader" — ,hr. Bader" lød det i et væk med samme servile pietet, hvormed han i tilfælde vilde have tiltalt en ,hr. 
+baronen" eller en ,hr. statsråden</p>
+			<p>Jeg forstår ikke, at en gentll herre som hr. Bader vil have omgang med denne maler Eliassen. Det skader Dem, hr. Bader — jeg har hørt, at han skal have for brug 
+selv i kunders overvær at pumpe Dem for penge nede i Deres forretning. Sådant går jo ikke an. En højst usmagelig person — finder jeg, han er. Nei, se den lille fine 
+hunden! Bisken! Bisken! Ja så, bisken — kom! Det er en nydelig jagthund, De har dér, hr. Bader. Nydelig lidet dyr. Hvor har De den fra?</p>
+			<p>Jeg har faaet den af min ven Bjarke, dig- teren De ved.</p>
+			<p>Nå, hr. Bjarke — han som lever det mys- tiske liv for sig selv på den ensomme ø i fjorden derborte. Ja ja ja — jeg vil</p>
+			
+			
+			<pb n="36"/>
+			
+			<p>tale mig om Deres  bekjendtskaber, hr. Bader.</p>
+			<p>Nei det er også bedst, henslængte Enevold tørt.</p>
+			<p>Finsen stansede og målte ham sålænge med jøinene, til han så op,</p>
+			<p>Jeg vil sige Dem, hr. Bader, at det er ude lukkende af venskab for Dem, at jeg indlader mig på — denne affære. Jeg er ikke vant til, at man behandler mig som en 
+udannet person. Om denne Bjarke vil jeg have lov at sige! at han, eller lad mig hellere for at undgå per- sonligheder sige: at den retning, han re- præsenterer, 
+forekommer mig højst usmagelig. De har det færdig — tusen tak, tusen</p>
+			
+			<p>tak.</p>
+			<p>Månen var oppe. Og Enevold gik, efter at have fulgt Finsen til stationen, frem og tilbage nede i veien for at få ro i blodet.</p>
+			<p>Hvor jeg hader mennesker! hvæsede han. Hvor næsten hvert menneske viser mig sider, — kanske er det bare mig, som synes at se dem — kanske er det forfølgelsesmani 
+—, men hvorfor kryber jeg ihop i angst, i ildebefindende, naar mennesker viser mig deres væsen! Er</p>
+			<pb n="37"/>
+			
+			
+			<p>ikke mennesket, gud nåde mig, det skidneste, det giftigste, det mest stinkende! Jeg skulde ikke talt om det, hvis det ikke var det, at vi siger og tror, at vi ere 
+skabte i Guds billede. Vi har skabt Gud i vort billede, har vi. I vort skidne, rå, dumme billede. Ja, tiltrods for, at stjernehimlen i årtusener har lyst for os og 
+vist os, hvor stort Gud er anlagt, hvor stort Gud har tænkt, så går vi her og vimser og piner hverandre, dræber hverandre grusomt med små hykkelske morallekser, 
+truer hver- andre paa det heftigste med det lille skidne helvede, vi har lavet os, lavet for hinanden. Så træt! Så træt! Og det dirrede i hans krop. Det var som 
+hvert lem for sig var spændt i angst. Ind i stuerne tålte han ikke gå efter det med Finsen. Han satte sig tilslut med aviserne ude ved det store stenbord, men 
+henfaldt i tanker med blikket ind i den strøm</p>
+			
+			<p>af lys, som fra lampen sivede ind mellem det gule grisne løv.</p>
+			<p>Han tænkte med en dødsenstræt, dødsens- søvnigs ligegladhed: kanske vil tæringen komme og tage dig ligesom den tog din mor. Denne forunderlige stemning, du har 
+gået i i de sidste par dage, denne mimoseagtige krym-</p>
+			<p>6. Fine: Rachl 3</p>
+			<pb n="38"/>
+			
+			<p>pen dig sammen for mennesker, denne ærlige modbydelighed for alt deres Leben und Treiben, denne glanen på det altsammen med store ufor- stående blikke, denne 
+følelse af, at intet ved- kommer dig, — det er når alt kommer til alt ikke andet end forudanelsen om livets udslukken i dig.</p>
+			<p>Det blev så stille i hans sjæl, så mildt, så sørgmodigt.</p>
+			<p>Og fra mørket derudenom kom der farende og luks på lampekuplen store brune Iubbede møl, de kom med en rasende kraft, slog sig halvt i svime, dat ned på 
+stenfladen, sprællede en stund og kastede sig atter mod lyset. Så- dan med de sjæles tanker, som først engang er vågnede, har slået øinene forundrede op og rundt 
+omkring sig til alle kanter ikke for- nummet andet end menneskelig skiddenheds og dumheds dybe onde mørke, et klamt mørke, man stønner i vånde over at se sig omgivet 
+af det og over mellem alle de andre individer at føle sig som en ensom, som en, der ikke kan andet end stirre frem for sig og se sort, mens naboerne kryber travlt 
+omkring og ser det hvidt. Tankerne jages piskede ivei til alle kanter for at slippe ud af mørket, øiner tilslut</p>
+			<pb n="39"/>
+			
+			
+			<p>lys — er det Gud? er det gådernes løsning? er det havn —? kaster sig mod alt, men render klask mod en bom, dætter ned med knækkede vinger, forsøger igjen — nei 
+bom, bom, bom — der er stængt for lyset. Så træt, så træt, så udmattet overgiver man sig til vanviddet — — hvis man ikke har energi nok til at flyve tilbage ind i 
+det forhadte mørke, plante sig ned mellem de kravlende myrer, tvinge sig der, sålænge til man ser med deres nethinder —, det er frelsen, den eneste for syge sjæle.</p>
+			<p>Gjennem løvværket så han skimt af lys over det mørke vandspeil, lys fra en glidende båd, hvori de spillede elegisk på trækspil og lyste med en fakkel.</p>
+			<p>Han kom ind i den snurrigste stemning — som om han ikke havde noget med møllenes higen mod lyset, ikke noget med huset der- borte — alt var fjærnt. Langsomt, 
+sørgmodigt kom tankerne trækkende med billedet af hans mor — de rullede sig op, det ene billede efter det andet, så tydeligt som det var dagklart. Alle de delligste 
+episoder fra guttetiden, da fa- deren endnu var doktor på Vestlandet, meldte sig. Det var som når forhæng gik op og ned for lyse tableauer,</p>
+			
+			<pb n=""/>
+			
+			<p>Med et ryk får han op! Dette tilbage skuende, dette pludselig skarpe lys ind i hver detalj af hans barndomsliv, det må betyde, at du er mærket! At dit liv skal 
+stanse!</p>
+			<p>Så tvang han sig til trods mod de tunge fantasier. Slængte hodet i veiret, skrubbede sig over håret og skridtede omkring i grusgangen. hvad fanden i helvede er 
+det for noget tøis, gut! At gå og fægte med de spøgelser! Det manglede bare, at Rachel og lille Volle skulde være tilstede! Det hele er jo en ond drøm — ikke andet. 
+For de kjære væseners skyld er det din pligt, en elsket pligt herefterdags at spytte i næverne og holde ballonen godt bstet og bundet til jorden med alle tråde,</p>
+			<p>Det hjalp.</p>
+			<p>Han gav sig intenst til at arbeide med en idé, han i det sidste år havde havt: at af- klarere gjælden på forretningen og sælge den og begynde paa noget andet, 
+noget som han kunde lægge energi og interesse i.</p>
+			<p>Han gik op og lagde sig så stærk og be- sluttet.</p>
+			<p>Men han sov ikke. Han lå og stirrede på sig selv, som han havde været dernede i stuen med Finsen — så fremmed, ulykkesvarslende</p>
+			<pb n="41"/>
+			
+			
+			<p>stod den hele scene; hans lethed, ligegladhed tog sig ud som en krampetrækning — så fjærnt var det fra hans egen individualitet Hans øine var vidtopspilte og så 
+ud i mørket, munden var vist også åben — han fornam sig som om han lå på gulvet inde i en taus døds- stille kirke. Og op af forhøiningen ved alteret steg hans mor, 
+løftedes op som af en teater lem — hvidklædt, slumrende, men med åbne øine, hænderne udbredte — — så greb han sig i det og sagde til sig selv: hold dig ved fuld 
+bevidsthed, gutten min. Tving dig til at tænke på de rent jordiske, forhåndenværende ting. Aflader du et øjeblik fra at våge, så lister din sjæl bort igjen, og du 
+overrasker den atter i nysgjerrig jagt efter det derude mellem himmel og jord.</p>
+			<p>Han sprang op, tændte en stærk cigar og lagde sig ud vinduet. Månen stod derborte over åsen bag en masse småskyer, som min- dede ham om hvide, polstrede, 
+duntæpper. Men så så han, at disse faste små hvide skyer, som 1å over halve himmelen, de dannede form som en hvid vinge — cherub — seraf — ja, før han vidste ord af 
+det var han i færd med andagtsfuldt at undres over, hvor mærkelig</p>
+			<pb n="42"/>
+			
+			<p>ligt i form det virkelig var en vinge, en vældig englevinge over halve himmelhvælvingen.</p>
+			<p>Han så ned, kom tilfældig. til at se ned gjennem løvet langs husvæggen, og med ét fæstede øjet sig nede på jorden mellem huset og gjærdet på noget mørkt, som tog 
+form inde i det mørke. Det begyndte som at blive koldt inden i ham. Hvad han så, var de dunkle omrids af en fremmed skikkelse, den stod lige- som ret op med hovedet 
+bagoverbøiet og kaldte taust på ham. En overnaturlig stor, urørlig, sorgfuld, så uendelig sorgfuld skikkelse. Den stod dødsstile og vinkede til ham: Kom! Lydløst som 
+det var, så fornam han tydeligt, at skikkelsen alene gjennem sin brede tause melankoli hviskede sit: Kom! Kom!</p>
+			<p>Han var ikke noget bange, han blev så stile ved indbiklingen om, at han altså nu havde vished for, at der virkelig blandt men- nesker var født en Jesus, den 
+stille. alt for- stående, derfor aldrig dømmende sjæl. Og han så og så ned — han vidste nok inderst inde, at det hele var en hallucination eller at ialfald skyggen 
+skyldtes en af birkene ved veikanten eller en sky —; men han havde imod at bryde stemningen, han så og så, tænkte: å, om det</p>
+			
+			<pb n="43"/>
+			
+			
+			
+			
+			<p>bare var Jesus! Om han fandtes, om han havde den magt, man tildeler ham! Om hans sjæl var i verdenslovene — hvor trygt, hvor trygt da at gå herfra! Ja, og også 
+hvor trygt at leve her.</p>
+			<p>Så hug sig en tanke i ham, som gjorde ham hed og kold og stiv:</p>
+			<p>Min mor er det, som står og stirrer op på dig, umælende og vinkende. Har du ikke så ofte i de sidste år hørt din mor råbe dit navn! Har du ikke midt under 
+tummelen og larmen, som om dagene vælder ind til dig fra gaden, pludselig 'fornummet denne stille kalden ind i øret: Enevold. Har du ikke flere gange om natten 
+pludselig befundet dig vågen, vækket af den dybe vemodige stemme, som tydeligt og kjærligt: manende har nævnt dit navn! Din mor er det, som står og kalder på dig. 
+Hun tør ikke tale, hun tør ikke tage mig. Hun kan kun vise sig for sin sn og vinke. Og han blev så dybt rørt og bedrøvet; der dryp- pede tårer nedover, han snufsede 
+af uendelig træt mild sorg og hviskede ned: jeg kommer, jeg kommer — —</p>
+			<p>— så erindrede han sine forsætter om at være praktisk. Han Jukkede vinduet med et langt suk.</p>
+			
+			<pb n="44"/>
+			
+			<p>Vesle Volle — ikke havde han hilset på ham ikvæld. Han tog lampen med og gik der- ind i Rachels sovekammer, hvor nu gutten lå alene.</p>
+			<p>Herregud! Der lå det lille kræ og sov sin trygge søvn, uvidende om veksler og ågerkarle, uvidende om, at der var en verden udenfor Thorsbakke med sine havebed, 
+kiselgange og hundene. Barnets hår, så lyst og silkefint, lå pjusket omkring det hvilende hode, og inde under en tufs skimtedes det lille rødmende øre — så sart som 
+en blegrød tjørnerose, skjult under gulligt tyndt strå.</p>
+        </div>
+        <div type="chapter">
+			<p>Men dødslængselen, den i selvopgivelsen formummede hvile var kun igjen som et ve- modigt minde, da han den næste formiddag vågnede, godt udsovet, og lå og lyttede 
+til stil heden og det sprættende solskin derudenfor.</p>
+			<p>Der var ikke råd at komme til byen før med tolvioget, men det samme var det. Blot banken havde sit før to, så —</p>
+			<p>Jossa lå på knæ ude i bagenden af pram- men, som var bundet i en rod ved bredden, og skyllede klær, hun trallede og ljomede så mun- tert, mens hun vred stykke for 
+stykke og kas-</p>
+			
+			<pb n="45"/>
+			<p>"</p>
+			
+			
+			<p>tede det i baljen på toften bag sig. Og midt i solskinnet paa den lille grønningen mellem båden og veikanten sad Sancho og døsede. Og jammen var Bohémen der også! 
+og Volle. Volle så efter ham og vilde klappe ham, men Bohémen flyttede sig, med små hundes uvillie mod børn, tålmodigt fra sted til sted med små forlegne ryk, og de 
+sorte øine i sin tause tro- faste hengivelse veg ikke bort fra den fine hvalpen.</p>
+			<p>Den lille scene var så nydelig. Enevold stod stilt bag gjærdet og så ned med varme i øinene. Pludselig skvat Bohémen i vei og var borte, meget borte. Det var 
+gamle Jens — han havde forladt sin pukstenshoug. Med lænken i hånden og tindrende onde øine var han — så lydløst, at ingen mærkede ham, før hunden skvat — kommen 
+snigende ud fra krattet un- der hængebirken.</p>
+			<p>Uu—i uih! dit utyske! Det var et hæst brøl af raseri, og han sendte en sten ind i bu- skadset, hvor dyret var pilet ind. Men den uvante bevægelse med at kaste 
+foraarsagede smerter i der gamle skuldres gigtknuder — stønnende, med hadsk sammenkneben mine, trak: han sig op i veien og nedover igjen til sit arbeide.</p>
+			<p>Med vandet i bunden og den brede bakke-</p>
+			<pb n="46"/>
+			
+			<p>hvælving stængende i øst havde dalen form som en halvfyldt pram. 1 prammens forende, i ret- ning. af byen, var udløbet, og herfra snoede veien sig langs med 
+bækken nedigennem et skar til stationen,</p>
+			<p>Nu tager jeg hvalpen med, så holder nok hunden Deres sig hjemme idag! havde Enevold råbt, da han passerte Jens, som sad og kle- vede sten med tykke våtter på 
+hænderne og gitterbriller for øinene.</p>
+			<p>Men enten nu den ulykkelige bjørnehund havde vovet sig forbi pukstensbatteriet eller den havde gjort sig en omvei op i lien —, da Enevold steg ind på perronen, 
+var både Sancho og Bohémen i hælene på ham.</p>
+			<p>Stationsmesteren var en gammel ærværdig hostende herre, på hvem alle altid hilste dybt. Fordi han var en af sorg nedknuget mand, som havde en søn på slaveriet. 
+Bare Enevold siede ingen medfølelse, men havde væmmelse for oklingen. Thi der stakkels kassebedrøver af en søn med redet yrende fuldt af små ger- manere havde efter 
+sigende, længe før krisis indtrådte, varskuet den gamle om situationen og bedet ham redde sig. Den gamle vilde ikke ud med sin opsparede mynt; det fik gå an.</p>
+			
+			
+			
+			<pb n="47"/>
+			
+			<p>Men nytår efter nytår under straffeårene havde den ulykkelige søn sendt brev og bud med bøn om, at faderen vilde besøge ham, tilgive ham. Nei, den gamle herre 
+vilde ikke se ham for sine øine, håbede at blive lagt i sin grav uden at have seet ham igjen. Den gamle hædersmand følle sig kræn- ket, personlig fornærmet. 
+Fornærmet på sin søn, sit eget kød og blod, som til og med i håbet om at blive hjulpet havde ligget på knæ i gruset og bedet for sit hjem, for sin kone og deres 
+børn.</p>
+			<p>Enevolds egen svigerfar, overlærer Woxen i Bergen, havde han ikke for klassen med dyb ærefrygt nævnt et analogt tilfælde, noget om en romersk feltherre, som lod 
+sin egen kødelige søn henrette for brud på disciplinen.</p>
+			<p>Var sådant mennesker! Var det ikke</p>
+			
+			<p>bare bitte bitte sman. snevre forfængelige stål- skruer i en indbildt vigtig maskine.</p>
+			<p>Hvis helvede fandtes, og dets porte stod åbne, burde de smaske velfornøjet i og længe være veltifredse, hver gang nogle af den sort fædre heldtes ind.</p>
+			<p>Dette hans onde humør, mens han gik der og ventede på toget, kom af, at den hostende og sukkende stationsmester havde sagt: Nå</p>
+			
+			<pb n="48"/>
+			
+			<p>hr. Bader skofter idag, ser jeg. Havde besøg igaraftes, kanske.</p>
+			<p>Og Enevold følte sig sikker på, at den gamle havde havt et ondt grin, da han vendte sig for at slå med klokken. For naturligvis var han gjennem sønnens 
+forvildelser kommen til kundskab om en mands existense, der hed Finsen. Finsens kommissionsforretning i Grubbe- gaden.</p>
+			<p>Enevold står og ser: nedover langs elven fabriker, lidt oppe et tegistensværk, rundt i skråningerne hvidmurede arbeiderboliger. En allé et stykke borte på fladen 
+fører ind til en tindrende hvid herregård, omgjærdet af høie popler.</p>
+			<p>Han tænkte: grossereren derborte er en al- mindelig skikkelig fyr, hans kone er venlig mod fattigfolk, giver dem grød i kjøkkenet, hans døtre er søde, poetiske, 
+musikalske, dumme, gode; men igrunden ligger dog det hvide slot der som en edderkop og suger blodet af alle de skidne svede kroppe, som om natten sover i de grålige 
+kaserner.</p>
+			<p>Det var fanden til humør også!</p>
+			<p>Hvordan skal dette gå, hvordan skal det</p>
+			
+			
+			<pb n="49"/>
+			
+			
+			<p>ende! Du passer ikke ude i livet, vennen min; du har fred i sindet blot sålænge du er hjemme, inden dit eget havegjærde, mellem Rachel og Volle, Jossa og hundene 
+— en stakkar er du, en ynkelig nerve blot, som skjælver for virke- ligheden.</p>
+			<p>Statsrådens damer kom ind på stationen. De fulgtes af pensionseier Gullaksen, en tynd smilende kavallér, som konverserte med snøv- lende røst.</p>
+			<p>Toget: kom rullende ovenfra. Enevold vendte sig og så Bohimen stå stiv af hen rykkelse og stirre på Sancho. Gullaksen stam- pede i platformen og skreg til dyret: 
+Uf, uf - fy! Men da Bohémen uden at ane Gul- laksens' mishag blev stående med de sorte bjørnehundeøine på sin ven, løb Gullaksen frem og slog til ham med stokken: 
+Uf! Bort med dig! Bohémen fik et slag, hoppede midt ned i skinnegangen, hvor han blev stående og fiksere Sancho videre.</p>
+			<p>Toget brusede ind,</p>
+			<p>Enevold løb frem for at jage Bohåmen tilside. Han skreg og trampede — toget var få alen fra dyret. Det stod nede i skinnegangen, så</p>
+			<pb n=""/>
+			
+			<p>på Sancho, havde ikke øre og øine for andet i verden end den — så kom lokomotivet og gabte over Jens' eneste støtte og knuste den.</p>
+        </div>
+        <div type="chapter">
+			<p>Hun var forunderlig, Rachel, dengang for fire år siden, de mødtes igjen som voksne. Kortklippet og med briller udenfor de lyse, apostolisk-alvorlige øine sad hun 
+paa gymnasiet og læste, trut og ihærdigt i arbeidet som en liden fjordhest. Første gang, hun talte til ham på gaden, følte han sig i vanskelighed; thi hun var i 
+fattig, kort, ligkistesort kjole, vistnok den fra. hendes ældre søsters, Josefas konfirmation; hun bar europakort og bestik og filede skole- bøger under armen; hun 
+råbte høit, trev ham i armen for at få ham til at lægge mærke til, hvad hun lagde mærke til; mangfoldige vendte sig; bergensdialekten sang ind mellem folk til alle 
+sider; ,Hvem var det?” Hvem var det?" råbte hun ugenert og bøiede sig opunder hagen hans — dengang var hun kort og firkantet som en liden sjøgut — for hver én, som 
+hun hilste på; hendes gang var hoppende, ucivili- seret; hendes stolte kast med det snaut-</p>
+			
+			<pb n="51"/>
+			
+			<p>klippede hode, hendes opadvendte, ærligt tindrende bamneåsyn bag brillerne — for en boulevarder, som han dengang troede sig at spille, var det som at blive 
+angrebet af en halvforrykt nihilist- inde.</p>
+			<p>Han havde sine to flotte værelser i Vold- gaden. En eftermiddag kom hun op til ham, aldeles selvfølgeligt. Hvor huskede han ikke den dag! Det var i skumringen; 
+hun satte sig til at spille for ham. Mildt høstveir udenfor, oglinde — ligesom i stuen på Thorsbakke — blomster og palmer dækkende for vinduet; det stod åbent, og 
+ind fra gaden, den sædvanlig søndagsstile gade bragede det et par gange af en vogn over stenbrolægningen.</p>
+			<p>Hun klimprede for ham de gamle skikkelige. melodier, hun havde klimpret allerede som trettenårs gammelt barn i Bergen. Dengang ja — i overlærer Woxens fæle 
+spartanske hjem! Med de forsuitne banditter af sønner og de gammelkloge, i sine værkens kjoler fuldstændig uerotisk virkende døtre. Undtagen Josefa som var i en evig 
+rødøiet, ophovnet tilstand efter al den juling, hun fik for sin utilfredshed med madrationerne og forholdene i det hele — og Rachel, den lille kloge ting; for hun 
+eiede</p>
+			
+			
+			<pb n="52"/>
+			
+			
+			<p>et underbart instinkt; eller det kom af, at hun var en af de yngste, så erfaring havde belært hende om al strids og oppositions unytte; hun bevægede sig med den 
+frommeste, hænder- foldede mine mellem sine stakkels knurrende lidet sympathetiske sødskend beiiske hysteriske, småligt s mor klogeligen og med foragt; gik sin far 
+under øinene — ærligen, fordi hun virkelig holdt af den brutale, puritansk-mørke, men i løndom gjerne sukkende, i løndom så sjælsfine mand. Han var en ven af 
+distriktslæge Bader. Enevold sattes i hans hus, da farten efter hu- struens død gjorde sin lange udenlandsreise. Den seksten-syttenårige doktorsøn var ikke blind for 
+oasen i det Woxenske hjem. Rachels nyde- lighed erkjendte han med en levemands blik; thi han var allerede en fremmelig og forfaren person den af udseende så 
+jomfruelige og spæde gut; han havde kinder dengang så hvide og sarte og hæn- gende bløde som gelé; og han havde silke- lommetørklæde og duftede af parfumer, hvad der 
+bragte overlæreren, der aldrig i sit liv havde kjøbt eller prøvet såmeget som en skvæt Eau de Cologne, til at ane ondt for hans frem- tid. Men fra den dag, Woxen 
+opdagede, at</p>
+			
+			
+			
+			<pb n="53"/>
+			<p>Fredrikstad Folkebibliotek</p>
+			
+			<p>hans kostgjænger havde sin egen lille privat- husholdning af hermetik og kjæks og portvin deroppe på loftsværelset, talte han ikke til ham, forhørte ham ikke i 
+lektierne fra skolen; hans krænkelse var dyb, næsten til sorg, han følte en dump smerte sådan som en skikkelig religionslærer, når han har grebet sine to mest 
+begavede elever i at spille kortenspil om fem- ører midt i timen over Luthers katekismus. Og han følte sig lettet for en tungt ansvar, da hans ven Bader kom hjem og 
+sendte gutten til et artiumskursus i Kristiania. Rachel sad igjen og skjulte fornuftigt sin længsel for far og mor og sødskende, sin længsel efter at slippe ud og 
+sin længsel efter den fine prins med de fine kinder og de fine vaner. Bare hun blev voksen, så — Og de fattige toner, som hun lavede på det gamle knirkende, skri 
+gende klavér og selv kom i dyb stemning over: ,Aftnen er stille —" og Kjærlighed til Gud —", — de var som en afleder for al den tristhed, som hun dagligen sugede ind 
+fra om- givelserne. Så liden og klog og alvorlig sad hun dér på krakken — altfor kort var hun dengang fil at kunne sidde på den med sin ende uden at have benene 
+dinglende høit over </p>
+			
+			<pb n="54"/>
+			
+			<p>gulvet — sad der med de små høivristede fødder stemt mod instrumentkassen og — mere som støtte end som sæde — krakken under det øverste af bagdelen. — —</p>
+			<p>— Den eftermiddag for fire år siden, ja — da var hun atten. Havde det korte hår efter nervesygdommen, og brillerne af den megen læsning.</p>
+			<p>Sad hun i hans stue i Voldgaden og spil- lede de gamle melodier, spillede ud af sin landsens uvidenhed om, hvad en velstående ranglefant helst gouterede af musik. 
+Spillede i ve, fordi han, hendes hemmelige Napoleon, sad dér og nikkede billigende. Inde i værelsets dyb sad han. Tilslut sang hun, vovede en liden sang, og han 
+nikkede alvorligt. For hun var noget så afstikkende i hans øine — så delig ærlig uden kunster, et guddommeligt provinsbarn, og den sorte tøikjolen var allerede for 
+kort i halsen, for kort i armerne, for kort nedover og for stram over den knoppende faste krop. Hun sang mere, sang så enkelt og skurrende falskt — sang med mund og 
+åsyn og længsel vendt ud mod aftenlysningen bag de grønne vækster for vinduet —, da han kom og greb hende og løftede hende op og bort,</p>
+			
+			<pb n="55"/>
+			
+			
+			<p>og hun, hun kastede sig med et ryk ind til ham, heftigt længtende, som om hun ikke havde tænkt på andet i disse år, ikke ventet på andet end gjenmødet med ham.</p>
+			<p>Det var son om hun anså det for en selv- følge, at hun ingen anden bestemmelse havde end legemligt og sjæleligt at gå op i ham, sin ven fra trettenårsalderen</p>
+        </div>
+        <div type="chapter">
+			<p>Det var andendagen efter Finsens besøg på Thorsbakke, at der om morgenen holdt en droske udenfor Enevolds forretning, og ud af drosken dinglede en kraftig-voksent 
+ung fyr, drukken, med sløvt sky blik for sollyset og fik sig ind i butikken. Han vilde have været så vakker og stout den store gut med den fyldige stærke 
+ansigtsoval, de lyse øine — men fylderi og ækkelt levned havde gjort ham opdunstet, rød, slurvet, sluvet i åsyn og bevægelser, slurvet i klær. Han var skidden i 
+fjæset og ubarberet med lys grisebust over de tykke bondekinder. Ingen slips stak ned i vesten,</p>
+			<p>og snippen var krøllet og fedlet. Fr</p>
+			<p>x</p>
+			<pb n="56"/>
+			<p>s2</p>
+			<p>Vil du gjøre mig en tjeneste, Bader? kom det på syngende listerlandsk.</p>
+			<p>Det tror jeg ikke, at jeg vil.</p>
+			<p>Ja, vær ikke ræd for, at jeg vil slå dig på penger. Men dette er satan flagre den sidste tjenesten, jeg vil be dig om. Vil du skrive til mor min i Flekkefjord og 
+sige, at han Elias er ikke mere blandt de levendes tal.</p>
+			<p>Det skal jeg gjøre, svarede Enevold af- bidende. Farvel, farvel. Gå bare, Jeg skal skrive.</p>
+			<p>Du tror det ikke! skreg fyren. Se her du! Og op af lommen trev han en funklende blank</p>
+			
+			<p>revolver og svang den.</p>
+			<p>Den har jeg kjøbt mig for de sidste tyve kroneme. Og nu spenderer jeg kjøretur på mig selv til Bygdø. Og du er den eneste, som jeg siger farvel med —, han stod og 
+rakte hånd, mens kroppen havde møie med at holde balancen. Og tak for alt — du har gjort mig mangen en god tjeneste, du Bader — ja havde jeg ikke havt en fuldtro ven 
+i dig — —</p>
+			<p>Grav dig ud! Du er fuld dit svin! Jeg skal skrive til din mor. Farvel, farvel. Nei, ingen- ting at takke for.</p>
+			<pb n="57"/>
+			
+			
+			<p>Enevold vendte ham ryggen og gik op på kontoret. Gjennem kighullet i døren så han Eliassen tumle ind i drosken og svinge våbnet, så det blinkede i solen — og 
+afsted bar det.</p>
+			<p>Det var klart, at manden kom fra en flere dages og nætters drøj rangel. Men hvor havde han nu igjen skaffet sig penge?</p>
+			<p>Det var ikke bare drukkent hans blik. Der havde også været noget usikkert prøvende, nø- lende over ham, som om han stod på nippet til at komme med en eller anden 
+for- trolighed.</p>
+			<p>Naturligvis var det snak om selvmord bare komediespil, tænkte Enevold. Han har villet fremtvinge medlidenhed, den sledske bondefant. Men har så følt, at han i 
+grunden var altfor uklar og tog sig altfor jammerlig ud og har så opgivet ærendet for denne gang.</p>
+			<p>En hel liden skandale! Folk var stanset op derude og havde let, leet af maleren og læt ind vinduet. Man havde glæde af sine venner.</p>
+			<p>Det var formodentlig gjennem den samme Elias Eliasen, at Finsen havde det om smug- lingen. Eliasen var jo sunket ned til at være</p>
+			<pb n="58"/>
+			
+			<p>en slags oppasser hist og her blandt studenter med velstandsfædre, han løb i en snever ven- ding med gulduhret eller sendtes til ågerkarlen for at indlede 
+underhandlinger.</p>
+			<p>Finsen havde hørt om smuglingen.</p>
+			<p>Her havde Enevolds melankoli, de uklare bange anelser ligesom fået et konkret midt- punkt, en stolpe, som angstens sop udmærket bredte sig rundt. Kanske bagerst i 
+sjælen havde det længe ligget som en utryghed. Måske vilde han mindre have pint sig over sin fars retiré holdning, måske mindre over alle de mindelser over Rachels 
+fæle familieforhold, som pludselig vældede ind over ham ved det brev fra Josefa, — dersom hans bevidsthed havde været ganske fri for enhver mørk plet.</p>
+			<p>Ja, det havde været en ubegribelig let- sindighed. Men denne sjømand, som Eliasen kom trækkende med, styrmand Gregersen, der før på Bremen — så i den grad tryg og 
+til- forladelig ud. Han smuglede for flere, sagde han, for han behøvede lidt bifortjeneste. Ene- vold gik muntert med paa forslaget, ikke for avancens skyld, den 
+blev alligevel så forsvin- dende, men for ærens skyld. Hvor der var anledning til at vise sin afsky for al smålig</p>
+			<pb n="59"/>
+			
+			
+			
+			<p>forsigtighed, dér havde man ham. Og der var spænding ved det — de par timer fra skibet meldtes og til Gregersen ud på kvælden viste sig udenfor baggårdsvinduet 
+med pakken. Men det var jo bare dukkesmugling, Enevold blev. Kjed af det og foreslog styrmanden at slutte I det sidste halvår havde det været stop. Så var det for en 
+uge siden, at Gregersen viste sig igjen; havde gjort sådant et udmærket kjøb i transithavnen; dennegang vilde det virkelig blive en forretning for hr. Bader; det var 
+desuden sidste tur, for han havde taget hyre på andet farvand, Dette bestemte Enevold — bare vi fik en slut på det så. Og manden brændte inde med varerne, sad i stor 
+knibe, hvis ingen kjøbte dem af ham igjen. Enevold. skaffede tilveie de seks hundrede kroner, man- den forlangte — varernes værdi, hjembragte i Kristiania, var 
+ganske bestemt henved de to tusen,</p>
+			<p>Nei der blev noget galt dennegang — det følte han tydeligen. Det var”jo et stort parti Men stop, men stop! — han tog en god be- slutning. Man sendte Gregersen et 
+telegrafisk: vink om, at han skulde ekspedere vareme nor- malt, fortolde dem. Der var endnu tid. I en fart ringte han dampskibsselskabets kontor op</p>
+			<pb n=""/>
+			
+			<p>og spurgte, hvilken havn styrmanden for tiden lå i og hvilken adresse. Nei, der var ingen Gregersen længere med selskabets skibe. Det var et par måneder siden, 
+han sluttede,</p>
+			<p>Hehe! Sekshundrede kroner havde man ladet sig snyde for. En ordentlig durabel bom var det, Gregersen dér havde sat for trafiken. Forbandet godt gjort — jøja, 
+jaja, nu var det altså slut. Og Eliassen var uden tvivl idéens fader, havde fået halvdelen af byttet. Derfor dette sentimentale, nølende blik idag, som om han følte 
+sig dreven til en slags bekjendelse — hihi, efter at have sviret bort de tre hundrede. Det skulde være sidste gang, det skidne bonde- bæst satte sine labber i 
+butiken!</p>
+			<p>Der var en droskekusk, som vilde tale med hr. Bader. Om han kjendte dennane personen, som var indom her imorse. Han havde endda havt en pigstol. Ja, hvad da? 
+spurgte Enevold åndeløst og tænkte: han har skudt sig alligevel. Nei, det var ikke andet, end at dennane per- sonen havde gjort aftale om at kjøre til Bygdø for ti 
+kroner, men da de kom frem, så eiede han ikke herrens mønt på sig. Og kusken kjørte ham ind igjen til byen, hvor fyren måtte</p>
+			<pb n="61"/>
+			
+			
+			<p>pante pigstolen for at få penge til at greie sig. Men på den fik han bare fem. Hvis nu hr. Bader var en god bekjendt af ham, så lagde han kanske resten ud 
+sålænge.</p>
+			<p>Aldrig i verden. Jeg har ingenting med ham. Farvel.</p>
+			<p>— Forholdsvis glad og fri gik Enevold ind i byen for at få sig et glas vin. Hans gang var pilende, lealøs, slurvet som en hunde- hvalps; med hænderne i 
+bukselommen og guld- kjæden svingende over den indsunkne mave jog han langs fortouget; i en nervøs sky for at se ansigter havde han sit eget dreiet ind mod 
+butikerne, som om han bare interessere sig for dem under sin hast nedover. Således kom det sig, at han blev vår Frida; hun sad inde bag de slørede gardiner i et 
+konditori og holdt øle med publikum. Han får ind og hilste med en fart, en utilhyllet glæde, forelskelse, en lysning over hele sit væsen, som om han kunde været en 
+forladt, en midt i en fremmed bys vrimmel omkringdrivende trist sjæl, der pludselig over på det andet fortoug opdagede en kjær barndomsveninde.</p>
+			<p>Frida sad med en slægtning, et sort</p>
+			<pb n="62"/>
+			
+			<p>klædt gudsord af en præstedatter nede fra Jylland. vida reiste sig og hilste varmt. Hun var høj og spinkel uden fremtrædende barm eller hofter; legemsformen i den 
+stålormsgrå atlaskes Kjole under en gigerl spadserejakke af sort dubbet klæde var næsten en cylinder, Det var et fornemt hvidt ansigt, korrekt og kjøligt, måske en 
+smule sippet. Et idet hele taget me- get distingveret hode, der stak op af den tæt- sluttende helt op under hagen stående hals- krave, - Under blaseret nedhængende 
+låg lå en rand af de matgrå øine og lo dulgt og æg- gende og samtidig med et udtryk, som om de forundrede sig lystent over ham. Men han var ikke oplagt til at tåle 
+gjøn — han huggede igjen med sine brune skarpe udliggerpupiller så intenst, og med de smalle læber brutalt til- sluttede — indtil hud med et ryk rystede olen- lågene 
+ned og forandrede hele minen, blev al- vorlig. Under denne øienkomedie reiste præste- datteren sig — måske var det for at vise dis- kretion — og gik bort til disken 
+for at finde mere kage.</p>
+			<p>Se til at blive kvit den dér! bad Enevold.</p>
+			
+			<pb n="63"/>
+			
+			
+			
+			
+			<p>Frida lo træt og plirte på den mest ufor- skammet æggende måde. Men Enevolds trodsige blege åsyn var al-</p>
+			<p>vorligt som graven, og tryglende hviskede han og bad hende give ham denne dag, bad uden en eneste kommentar, bare bad så intenst, så</p>
+			<p>angst, så sygt — så blinkede hun resolut og rakte ham hånden, en spinkel iskold hånd.</p>
+			<p>En halv time efter mødtes de nede på Gravesen. 1 et værelse for sig fik de en ud- søgt fin liden middag med burgunder.</p>
+			<p>Der blev ikke talt et ord om, at hun var gift, ikke et ord om, at han var gift. På fire år havde de kun seet hinanden én gang, og det var i selskab ifjor. Hun 
+havde ligget i Paris de sidste vintre og dyrket musikken og druk- ket rødt dampende kreaturblod for helbredens skyld. Manden, marinelæge Eger, hentede hende hvert år 
+i mai, og så boede hun som- meren på godset nede ved fjorden. Af hendes væsen idag sluttede Enevold, at manden for tiden var ude på togt.</p>
+			<p>Som så mange andre ynkelige mandfolk havde Enevold i sin tid ligget på knæ for hende, slynget armene om hendes tynde. ben</p>
+			
+			
+			<pb n="64"/>
+			
+			<p>og grædt og tigget i vanvittig selvopgivelse. Den ulykkelige tyve års kvinde. havde syntes dem så umenneskelig; som om hendes sjæl kun kjendte en stimulans: den 
+at ægge; intet bragte den sjæl ud af ligevægt, hun var født med den gammel, den kjendte livet på for- hånd, intet var der, som den ikke havde gjennemskuet. 
+Ligegyldigt, tørt havde den gjennem sænkede øjenlåg kiget ned på lange mandspersoner, der lå i snipkjole og vred sig sønderknust som jamrende syndere foran et 
+gudebillede. En for en rystede hun dem af sig, den forunderlige Frida. Enevold var vil- dere end de andre, fordringsfuldere end de andre — da ydmygelsen ikke hjalp, 
+samlede han sit væsen i oprør, i had, han var faret op og havde slået til hende med knytnæven, så det sang i det skjønne korrekte hode. Den næste dag kom han ydmyg 
+igjen, krybende som en orm — han kunde have drukket vin af hendes gamle støvler. Hun sad med et op- hovnet øie, en stor blækblå læk efter slaget, men hun var stille 
+og venlig. Mig skal du ikke ønske, Enevold, sagde hun. Jeg er ingen ting, en ussel sygelig krop, ikke én, som du kan blive lykkelig med. Du er også for</p>
+			
+			<pb n="65"/>
+			<p>Fo</p>
+			
+			<p>ung til mig — indtil du har taget eksamen og kan gifte dig, har du brugt op dine penge, og jeg må have rigdom. Nei, nei, lad os ikke se hinanden mere.</p>
+			<p>Men ifjor i selskabet glisede hun på ham ufravendt med de slørede øine, med den selv- følgeligste kynisme. Som om hun vilde sige Nu kunde jeg kanske ikke have 
+noget imod at eksperimentere lidt, nu jeg ligger fortøjet i en korrekt havn. Al hans gamle attrå, som lå henstuvet i hjemens pulterkammer, var faret frem i fuld 
+glød, — han havde kjørt hjem til Thorsbakke den nat med en følelse, som den har, der véd om — og véd sig ene om — en stjålen nedgravet skat.</p>
+			<p>Der blev ikke talt stort idag, de drak godt med vin, lo meget og fulgte hinanden med øinene, og han kyssede begjærligt den hånd, hun ikke spiste med.</p>
+			<p>Er det ikke atavisme, moralsk atavisme, det kaldes, når man sådan ligger under for de gamle instinkter? spurgte Enevold.</p>
+			<p>Det er vist noget sådant.</p>
+			<p>— Da han om kvælden, efter en i sanse- glød tilbragt eftermiddag ude på hendes villa, kom kjørende ind igjen til byen, erfarede han</p>
+			<pb n="66"/>
+			
+			<p>af Rasmussen, at Rachel var kommen tilbage. Fruen og en anden dame havde været indom ved firetiden og spurgt efter ham</p>
+			<p>Og ikke uden bange anelser reiste han hjemover. At hun ikke kunde have sendt et telegram!</p>
+			<p>I den inderste stue med de dybrøde gar- diner var en lampe tændt, ellers var der mørkt over huset på Thorsbakke, mørkt i kjøkkenet, mørkt ovenpå. Fra 
+chaiselonguen i den op- lyste stue reiste der sig en lang tynd dame og hilste, hun var den eneste i værelset.</p>
+			<p>Vel kommen hjem igjen, Josefa. Hvor er Rachel?</p>
+			<p>Hun ligger på sengen ovenpå.</p>
+			<p>Ja så nå, sagde han let. Hvordan har du havt det da?</p>
+			<p>Skrækkeligt far! hvor deiligt dere har det her! Jeg er dødsens træt, jeg håber, du til- lader, at jeg lægger mig ned igjen. Jeg har hentet mig en flaske portvin 
+fra kjælderen, som du ser.</p>
+			<p>Åa, værsgod —, mumlede han</p>
+			<p>Hun hører da til den ubehageligste type af damer, tænkte han. Der lå hun med en digt- samling over maven, cigaret mellem fingrene,</p>
+			<pb n="67"/>
+			
+			<p>askebæger og flaske og glas foran sig på en stol, — en lang uelegant, kantet frøken, så fordringsfuldt sur i det lille ansigt, som om hun havde lidt al verdens 
+uretfærdighed. Endel havde hun lidt — men han blev aldeles syg af at høre på hendes beretning; våndende sig af ildebefindende jog han omkring mellem møb- Jerne. Det 
+havde gået rent skidt i Amerika, fortalte hun — bare længsel efter hjemlandet, og til hårdt arbeide viste det sig, at hun ikke duede. Tilslut syg. Havde skrevet hjem 
+efter reisepenge, havde fået til svar, at de længtede ikke efter hende. På thingvalladamperen havde hun siddet forrest på dækket og frosset i to nætter; så skaffede 
+en af officererne hende køie, da han fik høre, at hun var af god familie; men da var hun allerede. halvt bevidstles. Hun fik sig iland i Kristianssand, hun troede, 
+hun måtte dø, skulde hun være en dag længere på sjøen. Hun skrev til faderen efter hjælp, først intet svar. Så telegraferte hun, fik da brev, at hun kunde få komme 
+hjem til Bergen, hvis hun i et og alt vilde tage titakke med de engang forsmåede tarvelige vilkår, Han skulde betale anden plads for hende. At reise på anden plads 
+på kystbåden for en ung dame! Det var den</p>
+			
+			<pb n="68"/>
+			
+			<p>værste ydmygelse, den gamle overlærer kunde udspekulere.</p>
+			<p>Javist, javist! svarte Enevold. Han er gal, han er gal, han er gal.</p>
+			<p>Hun var taget ind på et simpelt hotel. Men madammen blev. utålmodig og vilde ikke lægge ud til mere portvin — og det var det eneste, Josefa kunde dølve sig i, 
+mens hun lå der angst og opgivethed og frygtede for at blive vanvittig. Madammen vilde sparke hende ud, Josefa måtte have gardinet til gaden nedrullet, da hun var 
+for nervøs til at tåle lyset. Men. madammen kom hver time ind og trak det op. Værsgod, folk udenfor skulde ikke tro, her var kolera kommen i huset! Josefa måtte 
+skrive til Rachel og bede om hjælp.</p>
+			<p>Javist, javist, sagde Enevold. Her skal du få det, så godt som vi er istand til at give dig det.</p>
+			<p>Faderen og Rikard var med dampskibet, kom det hånligt. Han skulde vist ind for at hjælpe gutten til at orientere sig, finde et ,hygge- ligt" logi til hamfor to 
+kroner måneden, formodent- lig hos ,brave" folk. Tænk han var så nådig, den gamle, at snakke til os! Rachel, hun var så dum, hun vilde ikke spise middag ombord,</p>
+			
+			<pb n="69"/>
+			
+			<p>vilde ikke støde ham ved at vise ,flothed". Jeg spiste naturligvis og tog en halv flaske vin til for at ærgre ham. Du skulde set hans øine. Rikard fik en halv 
+portion til 60 øre bagefter, han. Rikard fortalte, at på dækket over Jæ- deren, hvor der var høi sjø, var brættet løsnet fra en kasse med fire ænder i. Gutten havde 
+undret sig over, at fuglene ikke fløj ud, nu de var fri. Men nei, de stak bare hoderne op og så sig omkring og gjemte sig inde i kassen. igjen. Karakteristisk var 
+det, at Rikard hele tiden ventede på, at faderen skulde sige: se det er lydige trofaste velopdragne ænder, som du, min søn, kan tage eksempel af.</p>
+			<p>Enevold blev så underlig uvel tilmode over hendes hæsblæsende hånlige foredrag.</p>
+			<p>Apropos Josefa, hvad skal det betyde, at Rachel har lagt sig. Klokken er jo ikke ti endnu.</p>
+			<p>Jeg har ikke sagt, hun har lagt sig. Fun ligger påklædt på sengen. Du forstår vel bedst selv, hvorfor.</p>
+			<p>Jeg? Hvor fanden kan du falde på!</p>
+			<p>Du var jo'ikke i forretningen. Så gik vi ned dér, du pleier spise middag, for at spørge efter dig. Der havde du været og dineret med</p>
+			<p>6. Fie: Racho 5</p>
+			<pb n=""/>
+			
+			<p>fru — jeg husker ikke, hvad hun hed — og bagefter kjørt ud med hende i ekvipage. Så- dant noget må man gjøre meget diskretere,</p>
+			<p>Rachel skulde da vel aldrig være så latterlig og tro —! Det tror hun naturligvis. Det vilde enhver kone tro,</p>
+			<p>Han. stansede bråt, lyttede —</p>
+			<p>Var det hulken, der lød ned —? Rachels værelse var lige over,</p>
+			<p>Hører du det, Josefa?</p>
+			<p>Det var vel.</p>
+			<p>Er det Rachel?</p>
+			<p>Formontlig.</p>
+			<p>— Har hundene fået mad?, spurgte han pludselig.</p>
+			<p>Det ved jeg ikke.</p>
+			
+			<p>Er ikke Jossa hjemme?</p>
+			<p>Hun fik gå på dansemorro på en gård her- oppe.</p>
+			<p>Hundene skal da ikke have det ondt, fordi om vi er sure, mumlede han og gik ud. Under mange oprigtige eder rodede han omkring ude i kjøkkenet og spiskammeret, til 
+han fandt lev- ningerne. efter oksestegen igår. Han åbnede</p>
+			<pb n="71"/>
+			
+			<p>døren ud til bakken. Dér sad Sancho oppe i måneskinnet, og Aias kom ud af sit hus.</p>
+			<p>Se her boys, har dere mad. Hurra!</p>
+			<p>Selv gik han ned i veien. Altid fik han ro i blodet, når som ikvæld månen var oppe og skyggerne fra de tusen birkekvister lå som det fineste filigran alléen 
+opover, É</p>
+			<p>Hos gamle Jens var det mørkt, skodden for vinduet, Enevold kom at tænke på hunden, han havde kjøbt igår og foræret den gamle gnier som vederlag for Bohémen. Han 
+havde tilrådet ham at lade dyret ligge ude bundet ved døren de par første nætter. Han gik ind over planken, som førte over grøften. Kom- men om hushjørnet skvat han 
+til: Inde i den dybe skygge mellem hytten og den måne- grønne lid bagom stod en urørlig skikkelse. Det var gamle Jens. Det hvide af et øie vendte sig og skelede ondt 
+til siden.</p>
+			<p>Har De ikke lagt Dem endnu, Jens?</p>
+			<p>De ser vel det, — og den gamle dreiede hodet foragteligt ned mod stenhellen foran tærskelen, hvor et sort dyr lå sammenrullet</p>
+			<p>Hvorfor svarer De sådan, Jens?</p>
+			<p>Hvad skal jeg seje?</p>
+			
+			
+			<pb n="72"/>
+			
+			<p>Har De noget at udsætte på hunden kanske? Sig til — De kan få ham byttet, om De vil,</p>
+			<p>Jens tændte en svovlstik over snadden og trak til</p>
+			<p>Det er en skarvebikkje, er det. Andet har jeg ikke at udsætte på ham. De har aldrig betalt tyve kroner for den, lel. Det er altfor mycke.</p>
+			<p>Sig, hvad De har at udsætte på den, gamle idiot!</p>
+			<p>Han vil ikke gjøi</p>
+			<p>Så har han vel ikke fået mad idag?</p>
+			<p>Der må rigfolk til, der må rigfolk til for at føsligt et trold, — jamrede Jens. Det er ikke for en stakkar som mig, det. Brød vil han ikke spise. Han er mindst 
+fire gange så stor som hunden min var. Nei, jeg får nok leve uden hund, jeg.</p>
+			<p>Se der har De fem kroner! Kan De så give ham ordentlig mad for det sålænge!</p>
+			<p>Ude på veien igjen gik han og bandte over gamle folk. De skulde parteres, slagtes, pines alle de gamle mennesker, enten de så var di- striktslæger eller 
+overlærere eller pukstens-</p>
+			
+			<pb n="73"/>
+			
+			<p>hugger. Gamle folk — ja han gjorde en hellig ed på at hade dem ind i inderste. Livet havde gjort dem kolde, iskolde, skidne, ud- ryddet sjælen i dem — æsj! Det 
+var ækkelt at fornemme, hvordan eftermiddagens hede sanserus duftede bort, og igen stod man midt inde i de foregående dages pinagtige stemning. ;</p>
+			<p>Rachel vidste hvem Frida var — det var det gale. I den tid, da det kloge, ærlige bar i Josefas omsydde kjole gik paa gymnasiet, og han i kvældingen kom til hende 
+på det fattige kammer, hvor der ikke var andet end hendes seng og de fillede skolebøger, da var hun angst</p>
+			
+			<p>for Frida, som en gammel mor kan være angst for en galant kokotte, der hænger efter sønnen hendes. Hun vidste jo, at Enevold og Frida, de havde gjort turer sammen 
+| skogen, og hun forstod ikke, det sagde hun troskyldigt, at han. kunde foretrække at være kjæreste med hende, den. kortklippede skolejente, fremfor med den stolte 
+modedame. For Rachel, hun var så overbevist om Enevolds uimodståelighed — hun antog det for givet, at alle kvinder faldt tilfode. Endnu den dag idag troede hun fuldt 
+og fast,</p>
+			<pb n="74"/>
+			
+			<p>at ,gutten hendes" havde stået i forhold til Frida, men af en uforklarlig grund havde fun- det det bedst at slutte. |</p>
+			<p>Nei —! Om han så skulde sværge høi- tidligt den dyreste ed — Rachel måtte gjøres tryg.</p>
+			<p>Han gik op til hende og tændte lampen.</p>
+			<p>Hun Iå i den blå tølkjolen, som hun bar, da hun reiste, hun lå sammenrullet med ansigtet i puden, og alt håret havde hun løst op, ud- spredt: over skuldre og ryg 
+lå det nedover hende som en lyseslukker. Straks han satte sig på sengekanten, begyndte hun at ! hvine, pressede sig mere sammen, hvinede med den underligste 
+indeklemte gråd. Han klappede hende på hovedet — endnu mere hvinede hun. — og meddelte hende, mildt som en pastor ved et sygeleje, hvor uendelig ondt det var for ham 
+at komme hjem og finde sin egen lille pige liggende nedfor sådan, optaget af en dum. mistanke. Jeg blev så lynende sint, da jeg hørte af Josefa, hvad det gjaldt, at 
+jeg først ikke vilde komme op til dig."</p>
+			<p>Det er nok sandt, det er nok sandt! jam- rede hun. Å, det får være det samme — det</p>
+			
+			<pb n="75"/>
+			
+			<p>går galt alligevel — det går galt med os — det går galt, det går galt</p>
+			<p>Dette var sorg, angst, noget dybere end al- mindelig krænket værdighed. Hun tænkte vi- dere, bredere, mindre på sig selv hun end han, Lille Volle dér i sengen 
+nedenfor hendes —</p>
+			<p>Lad det gå, som det vil, kjære Rachel. Går det skidt med forretningen, så går det Skidt. Vi er unge og kan begynde med noget nyt. Men stole trygt på hinanden, det 
+må vi Jeg kunde aldrig bedrage dig. Ved den le- vende gud: jeg vilde ønske, jeg faldt død om her, hvis det nogen gang har faldt mig ind med en tanke.</p>
+			<p>Hun sad med ét — som blev hun vår et mirakel — og stirrede ham med vidtåbne, lyt- tende øine ind i hver mine af hans ansigt. Skyldfrit og trodsigt sorgfuldt mødte 
+det hen- des, og hun sank i gråd ind til ham, stolende på at han nok vilde gjøre hende tryg.</p>
+			
+			
+			<pb n="76"/>
+			
+			<p>Så var det nytårsaften. — Ingen var sø- dere end Enevold. Der kom bud op fra ham, at Bjarke vilde bo hos dem nogle dage med datteren. Bjarke fik sove i værelset, 
+Josefa havde havt, og Anna fik ligge i rum med Ra- ehel og Volle. Du skel se, vi skal få det dei- ligt i nylårsdagene, skrev Enevold op med budet. Bjarke er netop 
+kommen fra udlandet, men vil ikke tage ind i noget hotel. Når han har boet hos os lidt, vil han bort på øen sin i Hardangerfjorden. Han har inviteret os til at bo 
+hos sig i sommer. Det gjør vi pinedød. Hviler os ud. Til den tid har jeg fået solgt forretningen. . hurra!</p>
+			<p>Rachel lyste. For der var sådant godt hu- mør, frisk tillid i brevet.</p>
+			<p>Stakkars gutten! Han havde jo ikke andre, venner end gamle Bjarke. For de vennerne, han gik med, før han giftede sig, det var ikke venner, bare nogen latterlige 
+bohémesprader, som man kaldte for adelsklubben, men som hun kaldte for idiotklubben. De kom naturlig- vis og skulde være kunder, da han havde fundet på det med 
+cigarbutiken, kom og var så forfærdelig respektfulde over det fornuftige</p>
+			<pb n="77"/>
+			
+			<p>; |</p>
+			
+			<p>skridt: Det var ret, du skal nok se, det går, Bader, — sådan med nedladende skulderklap, Enevold han lod, som han aldrig i livet havde ranglet sammen med dem, 
+bare spurgte ishøfligt, hvormed han kunde være til tjeneste — —</p>
+			<p>Derfor var det så deiligt, at Bjarke kom. Så kunde gutten blive munter igjen.</p>
+			<p>Hun sad ved vinduet i spisestuen. Volle i skindforklæde og den tykke uldtrøie stikkende ud af blusærmet rumsterte nede på gulvet med en kjælke og var så dybt 
+beskjæftiget, at han aldrig så op Han læssede kjælken fuld. af vedtræer, bredte omhyggeligt, som var de dukker, et tæppe over og trak dem så hen- over, indtil de 
+øverste rullede af — Mens Sancho lå nede ved ovnen og løftede øien- lågene filosofisk foragteligt, hvergang barnet</p>
+			
+			<p>-kom i nærheden.</p>
+			<p>Bjarke eiede jo mange penge. Kanske han tilbød sig at låne Enevold såmeget, at han kunde afklarere forretningen og sætte igang med noget nyt, som lå bedre for 
+ham. Gutten påstod, at det gik så godt nu. Men Rachel hun havde i dagene før jul, da hun oftere var indom på kontoret, seet flere knurrende reg- ninger på bordet 
+hans. Selv sendte han også</p>
+			
+			<pb n="78"/>
+			
+			<p>regninger, men Rasmussen betroede hende, at han sjelden fik noget ind. Det var rimeligt — Enevold havde jo aldrig mod til at nægte nogen kredit</p>
+			<p>Hun blev ikke kvit den forestilling, at hun havde seet Rikard snige sig forbi nede i veien idag. Uden frakke, bleg, skulende, han havde ligesom ikke vovet sig 
+ind. Og i dette veir nei, det var ikke muligt. Det havde været en anden fattig stakkar, og hun var ved ham bare bleven mindet om sin bror. Kanske var det ikke andet 
+end et syn; for da hun havde tænkt sig om og var løben ud, så hun hele alleen opover ikke et Jevende væsen.</p>
+			<p>Ved det glade bud fra Enevold havde hun et øjeblik glemt alle de tanker på Rikard og Josefa. — Også Josef havde årsag til at holde sig borte fra Thorsbakke, mere 
+årsag bun.</p>
+			<p>Hvor ofte havde Rachel beundret Enevold og i stilhed takket ham, fordi han var så fin mod hendes søskende! Men det måtte jo en- gang tage slut med hans 
+overbærenhed. De gjorde ham altfor nervøs, og det var ligesom deres klæggede påhængenhed også nedsatte hende, Rachel, i hans øine.</p>
+			<pb n="79"/>
+			
+			<p>Hjemmefra fik Rikard penge bare den første måned. Femti kroner. Så kom der kurre på tråden mellem ham og faderen i anledning af en smule klatgjæld, det viste sig, 
+at gutten havde gjort i Bergen. I et brev. meddelte over- læreren, at han havde søvnløse nætter af sorg. »ERer dette er din mor og jeg begge dybt bekymrede for din 
+fremtid." Men den nybagte student reiste børst i selvfølelse. Nogle kroners gjæld til en høker for cored beaf og kjæks og øl... . han havde, ligesom i sin tid Ene- 
+vold, fundet, at lidt ekstraforpleining, det træng- tes. Og så det dystre brev! Gjennem linierne så han den gamle alvorsmand stirre hen for sig, som åbenbaredes for 
+hans en blik en scene, hvor bodsfængslets porte lukkede sig for altid over stud. phil. Rikard Woxens sultne skik- kelse. Din mor og jeg —", gutten kunde ikke 
+erindre, at de nogen gang havde sagt hinanden et venligt ord. Så skrev han kjapt hjem, at de kronerne til høkeren, kunde de jo mir nichts dir nichts trække. fra på 
+næste månedsgage istedenfor at klynke så vældigt. Men den næste måned kom ikke en skilling og ikke et brev. Den gamle var fornærmet. Gutten måtte give timer for at 
+leve, timer for fem og tyve øre.</p>
+			<pb n=""/>
+			
+			<p>Med det holdt han op, da han så, det gik on at slå tikronere hos Enevold. Og Josefa dal En kvæld efter tHfeatret, Enevold skvat opom forretningen for at se efter 
+post, så han lys på kontoret. Dér sad Josefa med en veninde og røgte og drak vin, hun havde fundet frem af en skuffe. Nøglen til bagdøren havde Ras- mussen givet 
+hende. Nu juleaften, efter at Enevold var reist hjem, gik hun frækt ina i butiken og viste frem en seddel, ifølge hvilken Rasmussen havde at udbetale hende tredive 
+kroner.</p>
+			<p>Det er sikkert, at hvis overlærer Woxen havde været i Enevolds sted, — han havde sporenstregs forlangt sin egen datter indsat på tugthus. Rachel erindrede så godt 
+dengang Rikard som tretten års gut stjel sølvskeen fra skabet og solgte den for ti skilling. Da greb faren. ikke til røret, men han iførte sig høj tideligt sin frak 
+for at gå til politiet og melde sagen. Han var halvveis henover gaden, da Rachel, uden overtal, uden hat, fik ham stan- set ved at gribe stokken fra ham og derefter 
+stirre ham ind i ansigtet med blussende vrede øine. Det var da, overlæreren fik respekt for</p>
+			
+			
+			
+			<pb n="81"/>
+			
+			
+			<p>datteren; kanske var hun ellers aldrig sluppet ind til Kristiania.</p>
+			<p>Nei, Rikard, Rikard! hvordan havde vel han det! Hvis det var ham, som havde været udenfor her idag og ikke vovet sig ind. I dette snedrev uden frak.</p>
+			<p>Hun gik ovenpå og gjorde toilette for en bytur. Tog ud af kommoden den hundrede- kroneseddel, Enevold havde lagt under hoved- puden hendes juleaften. Og for det 
+tilfælde, hun ikke kom hjem så snart, gav hun ordre til Jossa om at sætte gåsen i stegeovnen klokken syv.</p>
+			<p>Veien nedover lå tæt i tæt af fonner som hvide faste sjøfuglebryst. Og alle birkene svang. med de nøgne kvister, og det susede. Og ofte — det såes nu, vinden 
+havde sopet al sneen af træerne — havde mangfoldige fine kvister grejet sig sammen i svære brune nøster, som lignede sjorereir og vippede så tungvindt og fornuftigt 
+imod alle de lette og tynde grener. Snedrevet pilede tvers igjennem dalen, og ude på isen sopede det sig sammen til små. langstrakte øer,</p>
+			<p>” et archipel af hvide fonner imellem blankfeiede sund,</p>
+			<pb n="82"/>
+			
+			<p>Tiltrods for veiret gik hun så muntert ivei. For det skulde blive en dellig nytårsaften og dellig de kommende dage. Og fra Rikard vilde hun gå opom Enevold og 
+gjøre ham en af de små overraskelser, som hun gjorde i gamle dage, når hun sad på Thorsbakke om kvæl- dene og længtedes altfor meget: hun reiste ind med toget, 
+stillede sig op udenfor hans kontor- vindu til baggården, og naar han så var dy- best i et brev, rev hun døren op og stod der. Han blev så lysende glad over 
+forstyrrelsen, fik hende på fanget, fandt frem vin; hun plud- rede, rodede i papirerne hans, agerte kåd backfish — de spilte letsindige børn, var ialfald ikke som 
+fornuftige ægtefolk, og det var hoved- sagen.</p>
+			<p>Men det var så længe siden nu, de slog sig løs.</p>
+			<p>— Rikard stakkar var nok hjemme, lå tilsengs i sit store øde værelse. Der var mørkt der- inde, de grå gardiner nedrullet. Han krøb ud af tæpperne, og skjælvende 
+stod han i skjorten foran et sort rundt bord, stuens eneste, og tændte en lampe uden kuppel. Smat så ned igjen, gjemte sig til hagen og stirrede på sø- steren med 
+febervilde øine. Et upleiet, et strit-</p>
+			<pb n="83"/>
+			
+			
+			<p>tende rødt hår rundt om et fregnet lidet skøiergutfjæs</p>
+			<p>Rachel så sig om, dreiede hovedet angst og rådvildt. Koldt var her, koldt og råt; langs væggene, over gulvet, taget var der mørke, mørke og grå tomhed, lampen var 
+trist og hjælpeløs i den store stue som en enslig lygte på en brygge i vinternatten. Endmere angst blev hun, da det slog hende, at hun, hans kjødelige søster, kommen 
+ud fra samme kolde ulykkelige hjem, — stod her i pelsbræmmet, silkeforet kåbe.</p>
+			<p>Å hereguå! Å herregud, hvad er det for jammer med dig Rikard! Og jeg, som ikke har set til dig før! Hvorfor har du ikke skre- vet op og sagt, du var syg. Vil du, 
+jeg skal gå efter doktor til dig?</p>
+			<p>Doktor?! hånede han. Og lidt efter mum- lede han: Nu kommer der snart revolver, nu kommer der snart revolver.</p>
+			<p>Hvad siger du, gut! skreg hun og stod ved sengekanten udover ham. Han lod sig ikke dupere, så kjærligt op i hendes ansigt, løftede lidt på sig og klappede hende 
+én gang over kindet.</p>
+			<p>Jeg siger bare det, søster min, at nu kom-</p>
+			<pb n="84"/>
+			
+			<p>mer Bliassen straks med brændevin og re volver. For jeg er så træt — så træt nu</p>
+			<p>Så du har begyndt omgang med Eliassen nu! Stå op gut, stå op straks og reis hjem med mig. Det er ikke under, du bliver gal af at bo i denne stuen.</p>
+			<p>Eliasen har været min eneste ven i den sidste tid. Dre tager feil af ham, aldeles fil</p>
+			<p>Hvor er klæderne dine. Du tåler vel at kjøre hjem; hos os skal du faa god seng og pleie.</p>
+			<p>Hvem har sagt, at jeg er syg. Jeg har bare altingen pantsat. Frakken, alle klærne. Eliasen gik igår med den sidste vesten. Det blev en halv krone, så vi fik til 
+akevit. Jeg må nemlig drikke en halv flaske akevit hver kvæld, ellers sover jeg ikke, ellers hører jeg nøjsgtig, når klokken slår tolv, nogen pikke på vinduet tre 
+gange. 1 begyndelsen for jeg ud af sengen og rev gardinet op for at se — men det er jo høit over gaden, det må være en ånd, som pikker. Jo, jo, det er en ånd, 
+Rachel; det er sjælen efter en student, som boede på dette værelse før mig, sov i denne seng. Han havde også en gal far — skjød</p>
+			<pb n="85"/>
+			
+			<p>sig her isommer  Værtinden fortalte mig det i sinne og for at få mig til at fortrække. Hun har jo ikke fået penge på io måneder. Det var juleaften, hun kom 
+herind. Jeg sad jo i stolen dér, indhyllet i tæpperne, for Eliasen. var draget både med bukserne og jakken. Alle bøgeme var gået de foregående dage. Men han kom ikke 
+igjen. Og bitterlig koldt var det — pigen gik ind for at bede madammen lægge ud de fem øre til ved og kul, siden det nu var julaften. Madammen kom ind, fyrte i selv, 
+men samtidig gav hun mig anvisning på fremtiden ved at fortælle om den forrige stu- denten.</p>
+			<p>Dér er hundrede kroner, kan det hjælpe dig, tror du?</p>
+			<p>Guttens feberangst, hans bitterhed opløstes i en stile hvilende gråd. Og Rachel gik bort og rullede op gardinet og så ud for at undgå den øde dødsleiestemning, 
+der hvilede over rum- met. Nede i snedrevet løb travle folk med pakker og kurver, men trist og gråt var livet dér, ingen glæde. Rikard talte igjen —</p>
+			<p>Mange gange bad jeg far om hjælp, ikke noget svar. Indunder jul, da det ikke kunde blive ynkeligere med mig, skrev jeg og bad om</p>
+			
+			<pb n="86"/>
+			
+			<p>bare tyve kroner, så jeg kunde få mine klæder tilbage. Jeg skrev, at jeg kunde få være hus- lærer hos en agent ude i Asker — men mine klæder måtte jeg have for at 
+reise derud. Jeg telegraferte. Fik endelig igår svar, at han havde ikke råd desværre. Hører du det, Ra- ehel — overlærer Woxen med fire tusen kro- ners: indtægt og 
+lignet for en liden formue havde ikke råd! Igår vilde jeg gjort ende på det hele, for jeg tålte ikke at tænke på natten, som kom — så fik jeg en idé. Du husker 
+pastor Bjerre, som kom så ofte hjemme; mor lagde altid fortællingerne hans i pragtbind øverst på bordet, når vi havde selskab, Han er nu forflyttet. til Kristiania, 
+jeg gik sammen med Olat, sønnen hans, på de første forelæsninger. Igår tænkte jeg: han er en ven af dine for- ældre, han skriver sådanne rørende fortællinger om 
+menneskekjærlighed, han hjælper di Eliasen kom, han klædte af sig og satte sig her, hyllet i tæpperne og ventede, mens jeg gik til præsten. Du kan tro, at jeg tog 
+mig ud i Goliatens bukser og jakken, som jeg måtte brætte ind i ærmerne. Pastor Bjerre sad i sit ”studereværelse, varmt, oplyst med koselig to-</p>
+			
+			<pb n="87"/>
+			
+			<p>bakstøg. Jeg forsikrer dig til, at jeg så på hans øine, straks jeg kom ind, at han tænkte: Håhå, han der ser mig ud til at være færdig alligevel, af ham får du 
+aldrig en skilling til- bage, om du låner ham. Da jeg fortalte det om huslærerposten og sagde, at tyve kroner kunde hjælpe mig, ellers var der absolut ingen udvej, 
+gjorde han sig forfærdelig alvorlig og greb ivrigt i vestelommerne. Nei, han fandt ingen penge, havde desværre ikke idag. Men jeg hang fast som en burre — tilslut 
+lovede han, at han skulde se, om det var ham mu- ligt imorgen tidlig, idag altså. Han skulde da sende Olaf hen til mig.</p>
+			<p>Eliassen gik, straks jeg kom tilbage. Og jeg holdt natten ud, fordi jeg var så sikker på, at præsten vilde hjælpe mig. Fra det begyndte at grålysne, lå jeg og 
+ventede på Olaf, skvat til ved hver lyd: nu kommer han! Endelig viste værtinden sig og forlangte, jeg skulde flytte. Det var langt over middag, sagde hun — og jeg 
+havde ligget og indbildt mig at den var ikke ni endnu. Jeg blev så rolig og still, for jeg bestemte mig straks til at gå samme</p>
+			<p>veien som hendes forrige leieboer. Da du fr</p>
+			<pb n="88"/>
+			<p>s4</p>
+			<p>ringte, troede jeg, det var Eliassen — han er ude for at løse ind en revolver, han har tilbudt sig at låne mig.</p>
+			<p>— Rachel stod nede på gaden og ynkede sig, rokkede på hovedet som en skjælvende oldinge- kvind, bed læben rådvildt, i dump fortvivlelse over al den jammer og 
+hårreisende sjofelhed i verden, Nei, nei, nei — det er bestemt af for- synet, at det skal gå galt med alle os sø- skende! Ingen lykkelig skjæbne kan nogen få, der er 
+udgået fra så fælt et hjem. En for- bandelse er heftet til dem alle. Med en bæven som hos den, der engang har haft udsigt til skafottet, erindrede hun sig de dage, 
+da hun var stedt i nogenlunde samme kasus som nu Rikard. Hendes forhold til den slemme Ene- vold var kjendt, rygtet var nået til Bergen, gamle Woxen rekvirerte hende 
+hjem, og da hun ikke kom, holdt han op at sende hende penge. Stykke for stykke solgte hun sine ting. for at kunne blive boende i samme by som Enevold. Aldrig nævnte 
+hun et ord til ham om stillingen, nævnte heller ikke noget om sin gamle knæskade, som begyndte at live op igjen. Det var smerter ofte, så hun måtte presse sig sammen 
+for at skjule skriget 1 be-</p>
+			<pb n="89"/>
+			
+			<p>gyndelsen af december kom så Enevold en dag og meddelte, at han måtte reise hjem nu. ,Se at få læst lidt og gjøre sig godvenner med den gamle". Fra da af blev det 
+mørkt omkring den stakkels tapre Rachel. Hun sluttede på skolen og hoppede omkring i sit værelse på to krykker og skrev lange breve til gutten sin, breve hun aldrig 
+sendte. Henved jul måtte hun lægge sig ind på en klinik og lade sig operere. Her på sygestuen brast modet — hun måtte skrive til ham og bede om hjælp. Og han kom, 
+kom øjeblikkelig, det var selve juleaften, lysene var tændt, og diakonissen havde sat et lidet juletræ ind til hende, Hans væsen var fra den kvæld ommere, 
+alvorligere, tiltrods for at hun under hele rekonvalescentsen var den muntreste veninde, som hånblæste af hans spirende ansvarsfornemmelse. Hun sagde jo til ham: Jeg 
+vil ikke, du skal gifte dig med mig; jeg skal tage en kontorpost, når jeg er frisk igjen; du kan bare komme til mig som før om kvældene, så forlanger jeg ikke andet 
+hele livet,</p>
+			<p>Nei, ingen var så dellig som Enevold! Hun vilde gå op til ham nu på kontoret og takke ham for alt i disse årene, lægge sig ned på</p>
+			<pb n=""/>
+			
+			<p>knæ og tilbede ham med øinene, så han kunde læse sig til, hvor grænseløst hengiven hun var; sige ham, at hun vilde slet ikke tage sig det så nær, om det gik galt 
+med forretningen, når bare hun havde lov til at beholde sin sidste hellige begeistrede tro, troen på hans kjærlig- hed. Det skulde nok blive rigtig stemnings- fulde 
+nytårsdage hjemme på Thorsbakke.</p>
+			<p>Henne på hjørnet, hvor en sidegade svin- gede ned til Karljohan, stødte hun: på Eliasen, slurvet og uden frakke var han, med næverne i bukselommeme og på hovedet 
+en tærnet en- gelsk røgelue.</p>
+			<p>Kommer De ifra han Rikard? Korlissen har han det? Jou, det ser ud til en nydelig fest! Det eneste eg har opdrivet er til en halv akke- vitter og to syltelabber. 
+Me ska kje bli feide af det — en hellig guds kvæld. Hvis bare han Enevold vilde betalt mig, hvad han skylder; men det vil han ikkje.</p>
+			<p>Han skylder Dem vist ikke penge, Eliassen, det er vist omvendt.</p>
+			<p>Joumen skyld han mig peng, tyve kroner, og det har han skyld meg i fire år.</p>
+			<p>De har jo flere gange fået hundrede kroner og femti kroner hos min mand,</p>
+			
+			<pb n="91"/>
+			
+			<p>Ja, de har eg fået, det er en sag for sig. Men de tyve kronerne de lånte han. Eg har bare glemt at minde ham på det før nu kvæld.</p>
+			<p>Jeg tror, De lyver, jeg.</p>
+			<p>Lyg eg! Nei så f— no bande eg på det. Det var endå julaften præcis for fire år siden. Då var han kommen ner fra landet og han traf meg seint ud på natten. Han 
+kunde ikkje Jægge sig, sa han, og så sa eg, at eg vidste om to fine sangerinder ifra Tivoli. Og sådan kom det sig — for da han ud på mårran skuld be- tale, så vilde 
+han vise dei en hundrekroneseddel, han havde ikkje andre peng, og så bad han mig lægge ud til næste dagen. Men eg har aldrig set, han husked på det.</p>
+			<p>Skurk, skurk, du lyver! hylte hun og hug- gede til ham med knytnæven.</p>
+			<p>Så kan De gå op selv og spørge ham. Han sit netop med denne fine doktorfrua, som han har så travlt med i den sidste tin</p>
+			<p>Som en stakkels pisket sindssyg virrede Rachel nedover gaden. Hun hulkede, hvinede, stod stile, løb lidt, snakked høit hen i vejret — til hun befandt sig udenfor 
+den flot oplyste butik. Mange kunder, Rasmussen el</p>
+			
+			
+			<pb n="92"/>
+			<p>s8</p>
+			<p>alene. Hun Jistede ind bagveien, hævede sig på tå op over det hvidtede af ruden til kon- toret og fik se Frida, fuldt vinterklædt, stå på gulvet derinde, mens 
+Enevold sad og holdt sig for panden, som var han fortvivlet, og stirrede på hende med et blik så tindrende varmt, —</p>
+			<p>Stivt og langsomt som et spøgelse bevægede Rachel sig ud den vej, hun var kommen, og søvngjængeragtigt gik hun bort til vogmændenes holdeplads og ventede, til der 
+kom en ledig slæde. Kjørte så hjemover og sansede ingen- ting, før de stoppede udenfor porten til Thors- bakke. Kudsken vendte — hun hørte længe bjælderne synge 
+nedover; derinde var det fuldt oplyst. —</p>
+			<p>Gamle Aias, som havde modtaget kanen med glade bjær, stod indenfor gjærdet og ven- tede hende.</p>
+			<p>Nei nei, sukkede hun langt. Armene faldt stive ned, øinene stod stive under panden, blodet stivnede, det var som også sjælen fros- nede. Hun slæbte sig som en 
+oldingekvinde ned af veien, ned på isen, bevægede sig tværs over vandet, steg op i skoven på den anden side.</p>
+			<p>Helt hid hørte hun</p>
+			
+			<p>7 tuden, hele veien</p>
+			<pb n="93"/>
+			
+			<p>over isen havde hun hørt dens gny og jamren, som om den anede sorgen.</p>
+			<p>, sagde hun dødt, her er jo stille og stort og ingen mennesker.</p>
+			<p>Men blæsten ruskede, rædslen fulgte hende herind under kronerne! Hun kastede sig i sneen og vred hænderne, det knagede i leddene og hanskerne sprak. Skoven 
+fyldtes af rædsel; der var ingen trøst, ingen udvej, i den hele vide verden ingen udvei .</p>
+			
+			<p>Ved nitiden viste Bjarke sig, funklende sel- skabs-antrukken under pelsen, på kontoret hos Enevold. Han var en træt, som oftest fåmælt herre på de forti, trind og 
+tæt og lav af figur med skaldet sælhundehoved og blasse øine, grå og trist var hans ansigts farve; gourmandfyldige kinder og svær bart, der hang ned som hvalros- 
+tænder; men når han smilte, var det barske ud- tryk væk, og et par deiligt skjælmske smile- grotter gjorde folk indtaget i ham.</p>
+			<p>Enevold skrev regninger ud.</p>
+			<p>Nu skal jeg straks være dér, sagde han. Død og pine hvor dejlig, at du er kommen, Bjarke! Jeg synes det er så trygt, hvor du er. Du forstår ligesom alt. Sådan som 
+idag — det var så beroligende et sidde og forklare</p>
+			<pb n="94"/>
+			
+			<p>for dig al den tvivl, al den angst, som jeg ofte går i. — Nu bare denne faktura, så slutter jeg.</p>
+			<p>Bjarke keg ned på den nervøse skarpskårne profil over papirerne — teinten gul og fornem, læberne trodsigt lukkede, ølenbryn som trukket med tusch,</p>
+			<p>Jamen har du forandret dig njbget, Enc- vold. Mager og senet er du blevenp 25</p>
+			<p>leg trodde sgu, jeg havde tæring en gang. Det var i en rigtig nervøs periode her isommer. Jeg håbede det så småt — så fortvivlet var eg over, at jeg evig og altid 
+med min bedste ville ikke kunde opdage andet end skidt i verden. Når undtages Rachel da. Og nu i eftermiddag —! Denne bondeknold Elias Eli assen — nu jeg skal ikke 
+skidne denne hellig- aften til ved at fortælle dig om hans stinkende sjæl. En fyr, som med talent har spillet det naive naturbarn for os allesammen; vi har byt- 
+tet's om at hjælpe ham i de første år, indtil én for én er bleven TR af ham. 1 dag viste han en frækhed, som forbloffer mig. Det gjaldt nogle kroner, han påstod, jeg 
+skyldte ham. I kladdebogen har jeg opskrevet mangfoldige småsummer, jeg har givet ham i årenes løb,</p>
+			
+			
+			<pb n="95"/>
+			
+			<p>Og da han idag ikke får, truer han med at fortælle i aviserne om en liden smuglerihistorie, som han selv notabene har narret mig med på</p>
+			<p>Sådant noget vilde jeg ikke tage mig nær af, mente Bjarke. Du må huske, at mennesker og mennesker er to ting. Forresten vi må skynde os — toget! Og jeg længes 
+efter at være hjemme hos din søde ile kone. Du er et fæ, som ikke er glad, naar du har hende. Det er Schopenhauer og Nietzsche, disse bæster, som gjør os syge, 
+uskikkede for livet</p>
+			<p>Se nu, hvor ynkelig feig jeg er, sagde Ene- vold, mens han tog frakken på Nu må jeg give løberen dernede i butiken et gratiale i an- ledning af nytår. Jeg må 
+takke ham for det gamle, holde gode miner til slet spil. Jeg ved, at fyren bedrager mig, han stjæler hver dag, er jeg sikker på Men hvad skal man gjøre? De stjæler 
+alle, og har man kassererske, så taler sandsynligheden for, at hun og slaven rotter sig i kompagni.</p>
+			<p>Det må man finde sig i Bare det går nogenlunde så. Som jeg har sagt: når du har din prægtige kone og dit barn, så bør du stå i alt uden knur.</p>
+			<p>De gik. Enevold trykkede Rasmussens</p>
+			
+			<pb n="96"/>
+			
+			<p>hånd og sagde, at han gjeme kunde lukke nu,</p>
+			<p>Ikke kan jeg give figuren afsked heller, hvis han skulde irritere mig formeget. Han er inde i statshemmelighederne.</p>
+			<p>I kupéen forsøgte Bjarke at meddele ro til vennens oprevne sind. Enevold skulde blot sætte sig en opgave foruden den at styre for- retningen. Ellers skulde han 
+ikke se til nogen kant, tvinge sig til den overbevisning, at al- verdens skiddenhed og lidelser ikke kom ham ved. Den store opgave, som vilde fylde ham med ny kraft, 
+var at ville Rachels størst mulige lykke, siden Volleguttens og derefter ingen ting mere.</p>
+			<p>Se, det er den lykkelige menigmands store hemmelighed, at han kan kjæmpe i blindt raseri først for at bygge sig et rede, hvori hunnen, den elskede, velbeskyttet 
+kan udfolde sit naturlige liv, og dernæst for at beskytte redet og beholde det. Denne kamp er hans frelse, det der redder ham fra pessimisme og. unyttig reflekteren. 
+Mens vi med vort liv på bagen — vi, nutidsherren — ærlig må vi jo indrømme, at det er en afskyelig type; se det skinnende skjortebryst her, det hvide slips,</p>
+			<pb n="97"/>
+			
+			<p>skaldepanden, den sorte kjole — mandigt, ikke sandt? — vi synes, når vi er ved de tredve, at der er ingen ting mere at leve for, Nydelserne har vi haft, alle som 
+gives i vor by. Og gifter vi os — det nytter ikke, det giver ingen ny energi, ingen villie, intet at slås for —, for vi har jo igrunden været gift hundrede gange 
+før. Bare adskillig friere den- gang. At anskaffe sig kone er ikke for os det hellige, afgjørende livskapitel, som det må være, hvis det skal gjøre os til normale 
+kraf- tige mandfolk, mænd med et positivt mål og ikke nervøse hyleprinser, som forsømmer sit nærmeste, sin reale pige for at klynke over zulukaffernes grusomhed mod 
+nigrene.</p>
+			<p>Hold kjæten til, sagde Enevold fornøjet og lo og puffede ham i maven. Du er en stor helligper på loftet, for større melankoliker end du findes ikke i Norges 
+land.</p>
+			<p>Det er kun, når jeg ikke har noget blus på lampen, at det er mørkt for mine øine, svarte han med det dybe kloge smil. Jeg er endnu under indflydelse af champagnen 
+fra idag. — Forresten er det min ærlige overbevisning: vi skal holde ud, ufortrødent til vort livs ende, selv om der er mørkt til alle kanter og mar-</p>
+			
+			
+			<pb n="98"/>
+			
+			<p>schen synes meningsløs. Og vi holder ud — hvorfor? Fordi der nu engang er nedlagt kræfter i os, som må virke. Vi trækker en klokke op, og den går til ende. På 
+samme måde får vi antage, at vi selv er trukket op af verdenskapelmesteren. Vi må da vel kunne få os til at ro: Der er en mening med dere. Vi er til — det er et 
+faktum. Vi får pine- død antage, at det er forsynets — naturens — guds vill, at vi skal leve vort liv. Det er et spørgsmål, om det ikke er strafbart da at lægge sig 
+sta ned i bakken og protestere mod det hele, fordi vi ikke forstår meningen.</p>
+			<p>(Gut gebråilt Løwe! Og nervøst afbrydende, pludselig munter og kåd greb Enevold hans hånd og gned den. mellem sine. Nu skal vi hjem og spise godt og drikke godt, 
+du, og være de skurker, vi er, og ikke tale dyb- sindigt.</p>
+			<p>Det er ikke mig, som har begyndt.</p>
+			<p>Kommen frem gik de ind i ekspeditions- lokalet for at få udleveret reisetøjet, Bjarke havde sendt opover tidligere på dagen. Ene- volds uven, den gamle 
+stationsmester, stod der og hostede, som sjælen skulde forgå</p>
+			
+			<pb n="99"/>
+			<p>9%</p>
+			<p>ham, og en mager grå hånd holdt han for munden,</p>
+			<p>Nei, det var hentet, tøjet. Fruen havde sendt. en mand afsted med det, før hun reiste til byen.</p>
+			<p>Reiste min kone til byen? Når?</p>
+			<p>Det var vist med femtoget, men jeg har ikke seet, hun er kommen igjen endnu.</p>
+			<p>Ja ja Adjø hr. stationsmester. Glædelig nytår.</p>
+			<p>Nu? spurgte Bjarke ude på veien og puffede til Enevold. Hvad er det?</p>
+			<p>Hvad er?</p>
+			<p>Du blev så stile med ét. Er der noget med din kone?</p>
+			<p>Ja fanden — hun skulde være reist til byen og ikke være kommen indom mig. Det er forunderligt.</p>
+			<p>Han gik videre, småberegnende, talende høit, halvt for sig selv</p>
+			<p>Ja naturligvis — hun har taget slæde hjem, siden hun ikke kom med toget —; mén — han greb sig om panden og stod stille: Det skulde da vel ikke være, at —</p>
+			<p>— og i tankerne fortsatte han: at hun har</p>
+			<pb n=""/>
+			
+			<p>gået til sin bror og dér truffet Eliassen? Eller —?</p>
+			<p>Jeg skal sige dig, Bjarke: når Rachel kom- mer til byen, går hun altid bagveien til mig. Der er mere overraskelse ved det, forstår du? Jeg sætter, at hun i 
+eftermiddag har gjort det samme.</p>
+			<p>Nå?</p>
+			<p>Så har hun gjennem vinduet seet en dame inde hos mig, en meget smuk ung dame, om hvem hun en gang i tiden troede, at jeg stod i for- hold til hende.</p>
+			<p>Det gjorde du vel også.</p>
+			<p>Aldrig i verden.</p>
+			<p>Hvad fanden har hun da at gjøre på dit kontor?</p>
+			<p>Hun kom for at sige farvel. Vi er gode venner er vi, ikke andet. Hun skal imorgen med sin mand til Paris.</p>
+			<p>Er det fru Eger!</p>
+			<p>Ja, vi er gode venner fra længe før, jeg Jærte Rachel at kjende,</p>
+			<p>Enevold, Enevold, gud nåde dig! Ja lad os nu skynde os hjem, så vi kan se, hvor- ledes hun tager det. Du kan vel gjøre hende tryg?</p>
+			
+			<pb n="1"/>
+			
+			
+			<p>De kom op af skarret, ind på veien langs vandet, og det drev med skarp sne midt imod dem. Så gråmørkt var alting foran dem, hyt- temes lys, der sikkerlig var 
+tændt i denne aften, øinedes ikke, heller ikke vandets kon- turer ordentligt, bare de lave åsers ryglinier var at skimte. Og når Enevold forestillede sig Rachel 
+jørende alene hjemover, hendes stiv- nede udtryk, hendes følelse af uendelig en- somhed midt i verden — nei, at lyve for hende efter dette, det kunde han aldrig. 
+Just fordi han mindede sig hendes hjælpeløshed, hendes forsvarsløshed — han var jo i et og alt hen- des eneste på jorden; hendes kjærlighed var jo fra først af, før 
+hun endnu gjorde sig tanke om, at han kunde ville gifte sig med hende, så ubetinget, at hun for dens skyld brød med sin far og dermed med hele sin familie — just 
+derfor fomam han sig så ynkelig og pjal- tet, og hun vokste op så ren og mægtig. Han havde ingenting andet at gjøre, når han kom hjem, end at kaste sig ned for hende 
+som en hund og bekjende og bede hende af sin store nåde at tilgive, om ikke straks, så når hun så, at omvendelsen var alvorlig.</p>
+			<p>Bjarke var bleven taus. Kun to gange</p>
+			
+			<pb n="2"/>
+			
+			<p>åbnede han munden, og da sagde han inderligt stille:</p>
+			<p>Nej, vær vår om hende, Enevold. Du må være vår om hende.</p>
+			<p>De kom til Thorsbakke. Udefra så Ene vold, at der på fremsiden af huset kun var lys i den midterste stue, spisestuen, og dette gjorde ham straks angst, så han i 
+sin optaget- hed med at komme ind porten sjanglede næ- sten som en drukken, Aas stod udenfor sit hus, ganske stille, som om den ventede dem netop nu. Plejer den ikke 
+ellers give et lidet glædesbjæt, når jeg kommer?" tænkte Ene- vold. Mens Bjarke tog tølet af i gangen og hilste på sin datter, der kom springende — faren havde sendt 
+hende i forveien med præ- senter til Baders og for at hun ikke skulde sidde alene i byen, mens han var ude og ord- nede forskelligt; hun var kommen under Ene- volds 
+fravær —, var Enevold inde i kjøkkenet hos Jossa.</p>
+			<p>Jossa så meget rådvild og anende ud, da hun hørte, fruen ikke var med. 1 stegeovnen snurrede gåsen, og alt i kjøkkenet var festligt blankt.</p>
+			
+			<pb n="3"/>
+			
+			<p>Jeg var så sikker på, det var fruen, som kom klokken syv. Da hørte jeg en kane stanse for porten, og Aias, han gjødde.</p>
+			<p>Nå —? hvem var det da?</p>
+			<p>Nei, da der ikke kom nogen ind, så gik jeg ud, men der var hverken kane eller frue. Og Aias han tudede og vilde ud på veien.</p>
+			<p>Enevold stod og skjalv i knæerne og tænkte på at opgive situationen ved at at styrte ud i mørket, gjemme sig.</p>
+			<p>Han hørte Bjarke gå ind i stuen og råbe sit glade goddag til Volle</p>
+			<p>Han tvang sig, grundede lidt, svedede under Jossas dødsstille lytten, og råbte så med et knips i luften</p>
+			<p>Død og pine! Hendes bror er jo syg! Det husker jeg nu; hun sagde, hun vilde besøge ham idag. Ja dér er hun naturligvis — hos sin bror, som er syg. Og er så bleven 
+for- sinket. Sæt maden ind du, Jossa, og giv Bjarke en flaske portvin at begynde med. Sig at Rachel er hos sin syge bror. Jeg løber nedover til stationen for at 
+sende telefonbud efter hende.</p>
+			<pb n="4"/>
+			
+			<p>Og ud løb han, sneg sig ilomt op gjen- nem haven, langt op, krøb over gjærdet, videre midt op i åsen. Aias efter</p>
+			<p>Rachel! Rachel! skreg han eller hulkede han. Men det suste jo i skogen, stemmen tog bare én vej, med vinden. Han følte, ingenting. hjalp, han slængte sig ned og 
+jamrede: Å herregud! Å herregud! Og han syntes, at hun, som i sin hjælpeløse sorg sandsynligvis havde gjemt sig bort etsteds heroppe på åsen eller måske etsteds i 
+snedrevets tågegrå dernede, eller. som måske jagede omkring, pisket af nævneløs vånde —, syntes at hun blev så ubegribelig fin og herlig, legemlig og sjælelig lige 
+attråværdig.</p>
+			<p>Aias stod og logrede og puffede til ham med snuden, og han skvat til i et stærkt håb.</p>
+			<p>Du Aias, søgde han, du tudede og vilde ud over gjærdet. Hvis det var hende, der kom, må du have seet, hvor hun tog veien.</p>
+			<p>Kommen ned og ud porten, får hunden hen til båden, der stod optrukken med bunden veiret. Dyret stod et øeblik med snuden ret ned i sneen og vendte så hovedet mod 
+sin herre. Enevold holdt den i halsbåndet, hukede</p>
+			<pb n="5"/>
+			
+			<p>sig ned, og her, i læ af prammen, hvor sneen ikke havde drevet så meget, syntes han at skimte en rende.</p>
+			<p>Allez!</p>
+			<p>Hunden var i et par hop ude på isen, snøftede fremover, slog henover tilhøre, opgav det, før i den modsatte retning, opgav det.</p>
+			<p>Hun er altså gået udpå isen, tænkte han. Det er bare så længe siden, at vinden har fået udvisket hvert spor.</p>
+			<p>Han gik et stykke udover, stirrede så ind mod bredden, om noget mørkt skulde være at skimte.</p>
+			<p>Men de sagede jo is herborte før jul! hvi- skede han og fornam i det samme, at hed sved sprang frem over hele hans legeme og lagde sig som kold dug over det</p>
+			<p>Lidt bortpå tegnede sig ud af det grå kon- turene af en meget lav mur som i ruiner. Det var efterladte isblokke omkring de udsagede partier.</p>
+			<p>Men der har været frost i den sidste uge, flere kuldegrader; her kan ingen åbne partier være, tænkte han. Og for at overbevise sig rigtig, gik han ud på de 
+bortskårne med nyis belagte kvadrater og trampede på dem</p>
+			<pb n="6"/>
+			
+			<p>Det var da fanden til pige også! Gå og gjemme sig bort sådan i svarte vinter- natten!</p>
+			<p>Han fik nemlig, som han stod der stille midt i drevet, en deilig anelse om, at hun var i nærheden</p>
+			<p>Han skimtede lyset fra Thorsbakke som en tåget stjerne, og han huskede høstnætter, hvor Rachel og han havde ligget udpå og følt sig varme og ømme ved gjennem 
+løvet at skjelne hjemmets rødt oplyste gardiner. Og på sommersøndagenes morgener rodde de ofte over vandet og samlede jordbær i åsen på den anden side. Altid rodde 
+de bare tværs over —</p>
+			<p>Men for fanden, sagde hans logik ham, så har hun taget den kurs nu også, hvis hun overhovedet har styret ud på isen.</p>
+			<p>Han gav Aias retningen, og med dyret i spidsen gik han op på den anden bred. Hun- den får frem og tilbage, blev borte — og da Enevold om lidt hørte den gjø, mere 
+og mere muntert, så brød hulkenen løs, en stile hik- stende hulken, hvorunder tankerne løftede sig op fra livet og jorden og takkede en gud, han til dagligdags ikke 
+troede på og knapt nok nu.</p>
+			<p>Rachel lå på maven med hovedet i armene,</p>
+			<pb n="7"/>
+			
+			<p>kåben havde hun opknappet, for den lå til begge sider som sorte vinger udover i sneen. Han satte sig og løftede hende ind til sig, gjemte. hendes hoved under 
+frakken; hun suk- kede og blev liggende med lukkede øine.</p>
+			<p>Rachel min, Rachel min, Rachel min. Du lile stakkels vidunderlige barn, som man er onde mod. Lille Rachel, gutten din har været styggest mod dig, aldrig mere skal 
+han være det, aldrig skal han andet herefterdags end ligge på knæ for dig —</p>
+			<p>Hvorfor kom du, gutten min! Jeg blir ikke syg, ikke så syg, at jeg kan dø af dette. — Jojo, gutten min, jeg må dø, for hvis jeg dør, så ved jeg da, at du altid 
+vil elske mig.</p>
+			<p>Men da han satte i en liden munter for- elsket Jatter over dette ræsonnement, grebes hun af en gråd langt mere hivende og hvinende end. dengang ihøst, hun vendte 
+hjem fra sin tur til Kristiansand.</p>
+			<p>Men han tænkte: Hun skal nok komme til at tro mig.</p>
+			<p>Og siden han nu var mere forelsket i hende end nogengang, glædede han sig til at gå på</p>
+			<p>dgtig lang tid under hendes kjære</p>
+			
+			<pb n="8"/>
+			
+			<p>Men da de var kommen hjem og hun iseng, sank hun hen i en døs, hvori hun ikke fattede et ord af al den ømme tale, som han, liggende på knæ, serverede. For hun 
+afbrød ham uaf- ladelig med sætninger, som røbede, at hun var langt borte. Såvidt han forstod, mumlede hun engang ordet Chikago, og han tænkte, at måske var hun hos 
+broderen Albert. Hun svedede, lå med åben mund og lukkede øine. Men han var glad, han havde hende igjen, han troede ikke det var noget farligt. For at drive feberen 
+på flugt, og for at hun skulde få rolig søvn til om morgenen, gav han hende maksimums- dosis af kininpiller i portvin, hældte skevis i hende af den fineste portvin, 
+en halv flaske.</p>
+			<p>Volle lå i sin lille seng bag moderens og sov sin søvn uden anelse om nogen livets sor- ger. Enevold lagde sig på knæ også for ham, trykkede sin mund på hans 
+stubbede næve og bad ham hviskende om tilgivelse for det onde, stugge papa gjorde mod hans mor, Volleguttens søde gode mor.</p>
+			<p>Da Bjarke hørte, at det ingenting farlig var med Rachel, havde han og datteren ganske ro- sat sig til at spise af gåsen. Anna, en høj- voksent tolvårs pige med 
+stilfærdigt væsen og</p>
+			
+			
+			<pb n="9"/>
+			
+			
+			<p>store grå øine, der løb mistænksomt lyttende omkring, havde fået et glas vin i anledning af dagen. Hun sad med glohede kinder og stir- rede beundrende-ængsteligt 
+på sin far, men var taus som en mur.</p>
+			<p>Du får sove derinde inat, søde ven, siden fru Bader er upasselig. Jeg skal bede Jossa rede til dig på chaiselongen. Er du ikke glad. igrunden, fordi vi snart skal 
+være hjemme på Soløen, hva?? Vilde du hellere været i Paris, hva? Nei — det vilde du ikke? Du skal ikke bryde dig om, hvad den dame sagde dernede, at du blev rar af 
+at bo så ensomt. — Du bor jo med din far, barm. Ikke sandt? Du føler godt, at din far er den eneste, som véd at gjøre alt til dit bedste? Stol bare på mig, du Anna — 
+jeg tænker nok, du bliver en storartet pige, naar du nu er voksen.</p>
+			<p>Sådan sad han og pludrede med hende og klappede hende ømt, snart over det lange blonde hår, snart på hånden.</p>
+			<p>Enevold kom ned, sved over panden og urolig, men alligevel med en sart varm lykke over sit åsyn. Han satte sig lige overfor ven- nens datter, det underlige barn, 
+og meddelte af sin milde hjærteglæde til hende ved at udmale</p>
+			<pb n=""/>
+			
+			<p>for hende, hvor hun var kjær for dem alle og især for Volle; hvor de alle skulde gjøre det venligt for hende disse faa dage, og hvor hun nok vilde more sig 
+storartet imorgen herude i sneen med samme Volle —, og sådan ægte varm interesse, for at Anna skulde have det godt, var der i hans ord, at hendes øine strålte og 
+hendes væsen blev barnligt naturlig.</p>
+			<p>Da hun kom og takkede for mad, løftede Enevold hende op og kyssede hende inderligt på panden.</p>
+			<p>Og han greb Bjarkes hænder og sagde:</p>
+			<p>Vær ikke sint på mig, fordi om denne kvæld er bleven uhyggelig. Jeg lover dig, jeg skal herefter ikke have andet mål end at ville Rachels lykke,</p>
+			<p>— Han lod Jossa lægge sig. Han var selv vågekone. Sovende i klæderne var det let for ham at vågne hver time og ellers ved den mindste lyd derindefra. Klokken var 
+seks, da han sprang til ved et skrig. Med vilde øine og en haand huggende i luften, laa hun og pustede ud som efter en voldsom smerte,</p>
+			<p>Hvad var det? Hvad var det, søde Rachel? (Og angst ruskede han i hende, thi det lod som hun ikke kjendte ham. Hun trak et langt</p>
+			
+			<pb n="111"/>
+			
+			<p>synkende suk, øienlågene faldt trætte i, men hånden famlede sig hen og fandt hans ansigt, som den kjærtegnende strøg. Lidt efter får hun atter i veiret og greb 
+sig til siden</p>
+			<p>Jossa vækkedes og sendtes til stationen for at telefonere efter lægen.</p>
+			<p>De voldsomme sting gjennem brystet tog til Da doktoren kom, fandt han Enevold liggende hulkende med armene om Rachels hoved, og lille Volle stod og så til fra sin 
+seng med en dybt pønskende mine, som var det en vanskelig rebus, han lurte på.</p>
+			<p>Det var lungebetændelse af den intense sort, som ofte gjør det af med patienten på to—tre døgn.</p>
+        </div>
+        <div type="chapter">
+			<p>Atter var det sommer, en deilig dag i Juni med vinduer og døre åbne, et håndarbeide slængende på stenbordet under haslerne og et rødt sjal over ryggen på en 
+ligge-stol ude i sollyset.</p>
+			<p>J fine grå klæder, hænderne på ryggen, stråhatten i nakken, gled Enevold så mageligt om i sin have, usigelig mildt og vel tilmode</p>
+			<pb n="112"/>
+			
+			<p>med et udtryk af fred, som hørfe han stille klokker ringe for sjælen:</p>
+			<p>Inde mellem bærbuskene, ovenfor huset blev. han stående og se sig om, for der var sådan kviskrende stilhed i luften og en sådan vellugt fra vårjord og træer og 
+blomster. Al den bru- sende hvide blom fra hæg og rogn, indsprængt i skovhavets lysegrønne åsen henover —; men pludselig blev. hans opmærksomhed fangen:</p>
+			<p>En hvid gammel, gammel hest stod sløvt grundende inde i buskadset lige udenfor gjær- det. Dens skind var af denne uhyggelige døde farve som blå melk, og under det 
+vistes for- meme af de lange ribbensbuer.  Skulderbenet og hoftebenet de stak så skarpt op, og ned mellem dem hang ryggens linie. Alt hang på det dyr. Hvide haar 
+hang det ned over øinene, som på en eventyrets oldingeheks, og halen, som var tynd og grisen, men lang, hang helt ned til jorden.</p>
+			<p>Rachel var her pludselig med sin arm om hans hals:</p>
+			<p>Hvorfor står den dér så stille og ser ind til os? spurgte hun.</p>
+			<p>Enevold blev ved at stirre på den.</p>
+			<p>Og så rart, fortsatte Rachel, — hvordan</p>
+			
+			<pb n="113"/>
+			
+			<p>kan den være kommen hid? Jeg har aldrig seet den før. Og nu midt i travle arbeidstiden er den ledig?</p>
+			<p>Helhesten! slap det ud af Enevold, halvt alvorligt, halvt gemytligt.</p>
+			<p>Ja du — sådan må den se ud, svarte hun og trykkede sig ind til ham, mens hun betrag- tede den videre.</p>
+			<p>(Gamle stenhuggeren kom ruslende nede i veien.</p>
+			<p>Nu skal vi spørge Jens, raabte hun og løb nedover til gjærdet.</p>
+			<p>Hvem er det sin hest den hvide dér?</p>
+			<p>Å, det er han Mikal Opsal, som eig' han — han skel slagtes ihøst.</p>
+			<p>Og stenpukkeren drog sig videre,</p>
+			<p>Ja, var det ikke som dyret stod dér og grundede over sin nær forestående afgang!</p>
+			<p>Men at de ikke kjendte hesten. Mikal måtte være kommen til den ganske nylig, ved auktion eller arv. Ellers kunde de ikke forstå at.</p>
+			<p>Rachel gjemte sit hode inde ved brystet hans og trak ham med sig ned i stuerne,</p>
+			<p>Under hendes lange rekonvalescens havde Enevolds ømhed for hende vokset sig grænse-</p>
+			<pb n="114"/>
+			
+			<p>løs. Morgen og aften sad han hos hende med de sarteste ord og kjærtegn, og sygeværelset var fuldt af blomster, som han maatte kjøbe til hende, skjønt det var midt 
+om vinteren; kon- val og fiol og roser, drivhusblomster, som læ- gen forgjæves frarådede hende at have i stuen. Der var fred og stille om hende, og intet pust fra 
+den kolde verden fik trænge ind, ingen larm fra det jemhårde praktiske liv, hvori menneskene slæber sig tildøde. Hun forstod, at nu havde hun endelig vundet helt 
+bugt med</p>
+			
+			<p>de par smådjævle, gutten hendes fostrede i sit hjærte. Han var ligesom kommen tilbage igjen på de samme tanker, han hegede, dengang han tog forretningen og brød 
+med sit studium og sin fader og vennerne. Dengang da han klart sagde sig, at lykken kun var at finde hos hende i et beskedent borgerligt liv. Men den gamle Adam 
+havde stukket labben frem og ført det ind i et skjævt spor, helt ud i sandet, "Fordi han nu, denne deilige sommerdag, gik med forvisningen om, at han vilde blive 
+hjul pen til at bringe skuden paa ret kjøl, var hu møret så lyst, tonen i sindet saa festlig still. En fætter var redningsmanden, fætter Fredrik</p>
+			
+			<pb n="115"/>
+			
+			<p>nede i Tønsberg; Enevold var just iformiddag kommen tilbage fra en tur dertil.</p>
+			<p>Han og Fredrik nærede mod hinanden den latente. instinktmæssige antipati, der beror på modsætningerne i opdragelse, karakter, følelses- måde. Fredrik havde altid 
+været den korrekte fitige gut, der var bleven opstillet for Enevold som et mønster til efterlignelse. NÅ, det var forøvrigt meget sjelden, de havde seet hinanden 
+under opvæksten og senere i Kristiania. Fredrik Gjerding — hans mos var en søster af distriktslæge Bader — læste tungt og flitigt, brugte hele seks år til en mådelig 
+juridicum, hilsedes efter den bedrift som et enestående lys af sin familie, gjorde en udenlandsreise for at udhvile sig og nedsatte sig omsider i Tønsberg som 
+fuldmægtig på farens fogedkontor. Han var en liden værdig person, umådelig korrekt og havde tykke udbuede ben, hvorom bukserne stod stramt som skind om pølser. Han 
+for- agtede Enevolds vandel i studenterårene, hvad han gjorde ret i, og samtidig gav han til sin mor og distriktslæge Bader, bekymrede indberet- ninger om fætterens 
+bedrøvelige og flotte færd,</p>
+			<p>Alligevel reiste Enevold til ham for at få hjælp. Fredrik var bleven foged efter gamle</p>
+			
+			<pb n="116"/>
+			
+			<p>Gjerding, som døde i vinter, og dertil havde han fået udbetalt den halve formue, hvad der vilde sige et par hundrede tusen kroner.</p>
+			<p>Det havde været nogle ydmygende timer igår dernede i småbyen. Men for Enevold gjaldt det om at frelse sit hjem. Det kostede anstrængelse at kvæle sin væmmelse for 
+den saa selvgode snevro lille juristsjæl og dens ræ- sonnementer. Enevold gav sig dog ikke, men bad for sig og sine lige så hedt som manden i bibelen, der skreg til 
+Jehovah: Jeg slippér dig ikke</p>
+			<p>— Da vil dog vel selv indse, det er rimeligst, at du henvender dig til din far.</p>
+			<p>Han gjør det ikke! Han hjælper os ikke! Han glemmer mig aldrig, at jeg den juleaften reiste hjemmefra for at se til min veninde, da- værende Rachel Woxen, som lå 
+forladt og syg i Kristiania.</p>
+			<p>Det finder jeg rimeligt af din far. For ham må det jo tage sig mærkeligt ud, at du foretrækker at tilbringe høitiden hos din — ja undskyld, jeg siger det — 
+elskerinde, frem- for i familiens skjød. Din far var forresten hos os i besøg for et par uger siden. Hans følelser mod dig var meget bittre og det med</p>
+			
+			<pb n="117"/>
+			
+			<p>grund. Vi sad længe og talte om dig. Men din søster da —, Alida har jo endnu sine penge. Lad hende hjælpe dig med vekslen.</p>
+			<p>Du véd vel, at hun er forlovet med en ka- pellan deroppe?</p>
+			<p>Ja — hvad så?</p>
+			<p>Jeg har skrevet til hende og bedt om hjælp, skrevet som sandt er, at hendes eneste bror holder på at gå tilbunds for sine dumheders skyld; at vort hjem på 
+Thorsbakke står i fare for at blive bortført af en ågerkarl —, for han vil ikke fornye, Fredrik, — nå ja, og at jeg ser min eneste frelse i at få afklareret 
+forretningen og komme ind som en underordnet paa kon- toret hos nogen, der forstår at drive egen han- del. Men jeg fik afslående svar i et langt brev, fuldt af 
+gudelige talemåder. Den kjære Alida! Jeg er sikker på, hun synes det var ondt at afslå. Men hun havde rådført sig med — personen, kapellanen. Hun har det med at være 
+uselvstændig.</p>
+			<p>Mødet med fætteren fandt sted i byens klub. Der var ikke tale om at opfordre Enevold at se hjem. Det led på aftenen. Den iille øvrighedsperson så på klokken. Han 
+havde hast, skulde i selskab.</p>
+			<p>6. Finse: Racho</p>
+			
+			
+			
+			<pb n="118"/>
+			
+			
+			<p>Ja, ja, afbrød han, — så skal jeg under- tegne obligationen på de seks tusen.</p>
+			<p>Enevold sprang op og rystede hans hænder.</p>
+			<p>Men på én betingelse.</p>
+			<p>De —</p>
+			<p>At du får din far med som nummer to,</p>
+			<p>Men kjære, du er jo god nok alene,</p>
+			<p>Ja — nej, jeg vil have et anstændigt navn ved siden af mig.</p>
+			<p>Jeg tror ikke, han gjør det,</p>
+			<p>Vist gjør han det, når jeg står som nummer én, og tager hele ansvaret på mig. Det er for en forms skyld, forstår du. Du kan sige det fra mig.</p>
+			<p>Vil du ikke hellere skrive det til ham i et brev? bad Enevold.</p>
+			<p>Jo, det kan jeg gjerne. Jeg skal skrive det til ham endnu iaften. Ja, farvel da</p>
+			<p>Farvel,</p>
+			<p>Enevold gik lige på hotellet og lagde si Der faldt ro og mathed over ham, nu den pine- fulde byrde endelig var løftet bort</p>
+			<p>Og derfor var der lykke på Thorsbakke idag. Han og Rachel sad længe oppe og talte om fremtiden, de sad ved stenbordet i sin kjære</p>
+			<pb n="119"/>
+			
+			<p>have, en flaske vin stod foran dem, og blandt alt det, de blev enige om, var, at vin herefter- dags måtte være sjeldnere, kun ved festlige anledninger. Thi det 
+kostede så gruelig mange penge. Godt indhyllet mod. nattefugtigheden, med ansigtet halvt skjult inde i sjalet, sad Ra chel og blinkede til ham taknemlig og be- 
+undrende over al den Kjærlighed, som han gav hende med øine og ord. Thi efter alt, han havde følt for hende i disse måneder, forekom hun ham jo skjønnere og mildere 
+end nogen- sinde. Noget blå eller træt var hun endnu un- der øinene, men han fandt, det øgede/Hendes ynde. Det kloge, tindrende gode ansigt havde hun som før, næsen, 
+en smule opadvendt og løftende overlæben med, så munden havde et uskyldspræg som en spurveunges —, så ofte ikvæld var han henne og kyssede) den mund. ” Men om natten 
+fik han ingen søvn. Han lå kun i en tung døs og så alle mulige fore- stillinger drage forbi den halvslumrende bevidst- hed; forestillinger, hvis ophav og oprindelse 
+hans tanker arbeidede med at efterforske. Han laa tilslut og svedede og syntes, han hørte tydeligt en bankende larm som af utålmodige hestehove mod staldgulvet. Med 
+et suk våge Pr</p>
+			
+			<pb n=""/>
+			
+			
+			<p>nede han og eftertænkte tingen. Naturligvis, tænkte han, dukkerider fra et fjernt rum i hjemen op halvglemte forestillinger fra faderens gård på Hedemarken. Der 
+stod jo Gamlejæ- geren saa ofte, den overtroiske eller hysteriske hingst, og stampede i gulvet om natten, så det lød helt op til hovedbygningen.</p>
+			<p>Helhesten! hviskede han pludselig og får op, lysvågen og skjælvende, sved</p>
+			<p>Det var fanden! Så dødsens træt gned han øinene og bandte den gamle hvide hest, der havde stået så taus og grundende udenfor gjærdet idag.</p>
+			<p>Men samtidig lød fra Rachels værelse et råb og ind steg hun i sit bare linned, søvn- drukken.</p>
+			<p>Åh! — sukkede hun, som om hun våg- nede.</p>
+			<p>Hvad/er det Rachel?</p>
+			<p>Hun rev tæppet op og kastede sig ned til ham</p>
+			<p>Jeg vågnede med én gang så angst.</p>
+			<p>Han tænkte: kanske er der mere mellem himmel og jord — min angst skulde vel ikke gennem rummet have meddelt sig til hende.</p>
+			<pb n="121"/>
+			<p>eN</p>
+			
+			<p>Hvad blev lille Rachel bange for?</p>
+			<p>Jeg hørte så tydeligt det banke i et gulv langt borte, hviskede hun.</p>
+			<p>Den gamle hest stod end tydeligere for ham, og nu blev han bange for alvor. Han følte sig ganske kold over hele legemet, og hårene stak i hovedbunden.</p>
+			<p>Han sprang ud af sengen, trak gardinet til side, og den lyse sommernat faldt ind. Det gjorde ham så pas rolig, at han kunde sige:</p>
+			<p>Se dér, lille bam, du har forkjølet dig ved at sidde forlænge oppe i nat, så du har fået disse fantasier igjen. Du skræmte mig aldeles.</p>
+			<p>Hun sukkede som i befrielse, bad ham komme med kinden, så hun kunde klappe ham, og trak ham så ned til sig. —</p>
+			<p>— Den næste dag rejste Enevold nordover for at få sin fars navn på blanketten. Han reiste med et af de senere tog, så han kom først ved aftentide frem. Den gamle 
+var hjemme, også fru Krag, de to sad fordybet over en kortkabal.</p>
+			<p>Enevold gik lige løs med sit ærende, og fru Krag forduftede, hvoraf han sluttede, at hun gjennem fætter Fredriks brev var indviet i sa- gen og vilde vise sig 
+diskret</p>
+			
+			<pb n="122"/>
+			
+			<p>Doktoren lagde hænderne på ryggen og gik op og ned gjennem den lange koselige lysblå- malte stue, hvortil alle vinduer stod åbne.</p>
+			<p>Nei, Enevold — du har fået dit — du har fået dit —; jeg kan ikke mere, jeg tror ikke, jeg kan mere, du; jeg kan ikke mere,</p>
+			<p>Det er jo ikke snak om det, kjære papa. Det er bare, om du vil frelse din søn ved rent pro forma at sætte dit navn bagefter Fredriks, Fredrik har jo overtaget 
+hele ansvaret for det hele beløb.</p>
+			<p>Ja ja ja ja ja —, rullede, det ud af distrikts- lægen. Ikke andre ord, og der var en hån eller tvivl i det.</p>
+			<p>For fanden — Fredrik er fire gange saa rig som du! Du tviler da vel ikke på —?</p>
+			<p>Ja ja ja ja ja — nej, Enevold, jeg kan ikke dette. Jeg kan ikke, du.</p>
+			<p>Enevold sad rolig ved et åbent vindu og så nedover mod fjøset, hvor kreaturerne dreves ind.</p>
+			<p>Men kjære papa — hvad skal dette til: Jeg kan ikke. Fredrik har jo skriftligt erklæret dig, at han garanterer for hele summen.</p>
+			<p>Ja ja ja ja — men jeg kan ikke, gutten min. Jeg sidder i så meget.</p>
+			<pb n="123"/>
+			
+			
+			<p>Enevold får op og standsede ham: Men for fanden i hedeste helvede! Hvad går der af dig! Når Fredrik har erklæret —!</p>
+			<p>Enten det var af skræk for sønnens truende mine, eller det var af dumhed, eller det var af lyst til at sætte den skinhellige nevø i gabe- stokken — nok er det: 
+Doktor Bader trak ud af lommen et brev, han netop havde modtaget, og læste:</p>
+			
+			<p>"Tønsberg, den 5. Juni.</p>
+			<p>Kjære Onkel. Enevold var netop hos mig for at bede mig om hjælp, da han og hans familie er — som du véd — økonomisk ulykke- lig stedt. Jeg kjender og billiger 
+dine grunde mod at understøtte ham. | Imidlertid havde jeg ikke hjærte til at sige nej til hans bøn om hjælp, men i det båb, at sagen vilde strande på dig, henviste 
+jeg ham.</p>
+			<p>Her standsede distriktslægen sin oplæsning thi han modtog af sønnen en lusing saa kraftig, at han seilede ned i en sofa.</p>
+			<p>— Der var flere timers vei til Hamar by. Men Enevold spadserede jernbanelinien langs, og var så optaget af had, af at bide sig i læberne og spytte forbitret, at 
+han ikke mærkede vejens længde, ligeså lidt som han mærkede vellugten</p>
+			
+			<pb n="124"/>
+			
+			<p>fra skovene, han passerte igjennem, eller mål- trostens toner inde fra buskenes kroner,</p>
+			<p>Og hvorfor skyndte han sig? Intet øjeblik faldt det ham ind, at der var udvei for for- tvivlelsen, at der var trøst at bringe Rachel. Det var der jo heller 
+ikke.</p>
+			<p>Han kom til Hamar by, tog ind på Viktoria hotel, fik op meget kognak — men han drak intet, han blev liggende vågen, væltende sig på vanviddets rand og spyttende 
+ad menneskene —</p>
+			<p>I kupéen på reisen nedover den næste for- middag dukkede frem for ham en gammel storie med fætter Fredrik.</p>
+			<p>Det var fra en af de første af de meget få og korte perioder, de havde omgåes. Det var i Kri- stiania indunder artium. De sad, før de vidste ord af det, og spilte 
+hundrede og et, han og fætteren, hver eneste dag. Enevold tabte, ind- satserne blev højere og højere, tilslut var han blanket for henved tusen kroner. Alt skaffede 
+han hos Finsen i de tider, og fætteren så, hvor den tabendes fingre blev. nervøse og ansigtet svedigt. Omsider erklærte Fredrik sig for træt og vilde ikke spille 
+mere, Enevold eiede ikke en krone den Dag. De gik en tur efter den</p>
+			
+			
+			<pb n="125"/>
+			
+			<p>|</p>
+			
+			<p>sidste omgang med kortene, Enevold med en mine som om han var fuldstændig tilfreds ved at vide sine penge i den andens lomme, og denne med et heftigt taust begjær 
+efter at blive sit offer kvit. Sådan gik de, og Enevold slog på, af det kunde ikke være afveien at få låne lidt til i morgen, bare låne. Længe svarte ikke fætter 
+Fredrik, men da de stod udenfor et Konditori, sagde han: Hvis du vil have en kage, så skal ieg spendere det. Og da kagen var spist til et glas limonade, så gik den 
+lille alvorsmand og læsehest, familiens yndling og ideal, bort og satte de tusen kroner i banken.</p>
+			<p>Gad vide, tænkte Enevold, hvad tante vilde have sagt, om hun havde fået høre det den- gang? Tante er religiøs — sandsynligvis havde hun klappet sin gode begavede 
+Fredrik og er- klæret, det var godt gjort</p>
+			<p>Og denne fætter Fredrik var der ingen, som havde noget ondt at sige på! Undtagen de par bønder i anledning af den åstedsforretning. Det kom jo ind i, Verdens 
+Gang", men blev glemt: Fætter Fredrik var i åstedsforretning, hvis om- kostninger gik ud over et par husmænd i Tøns- berg omegn. For halvandet døgns ophold på 
+åstedet leverede han fra sig en regning på ét</p>
+			
+			<pb n="126"/>
+			
+			<p>å to hundrede. kroner. Det var sardiner. og sardeller og al mulig hermetik og allersidst på listen fire flasker akevit, to flasker ti års gam- mel lysholm til 
+øvrigheden d. v. s. ham, fæt- teren, og to flasker finkel å 60 øre til almuen,</p>
+			<p>Å — åskidt! lad mig ikke tænke for demo- kratisk og småligt om den ting, fordi om det er ham! raabte Enevold for sig selv.</p>
+			<p>Det var vel ved middagstide, at han steg af ved stationen før Kristiania og gik hjem over til Thorsbakke. Han bed tænder og var fast besluttet på at sige til 
+Rachel, at det hele var gået i orden. Hvad skulde han ellers sige? Pines alene og spekulere på udveje alene det kunde han stå i. Men have sin elskede ven indes 
+rådvilde øine over sig — han tålte ikke at tænke derpå,</p>
+			<p>Jo — og nu bandte han —, Rachel skulde slippe for at vide det om mennesker, som han nu vidste! Der var udveje — om han så skulde tvinges til at lave en falsk 
+veksel hos Finsen. Det havde Finsen selv sagt: ingen pa- pirer var sikrere og omhegnedes diskretere end de falske.</p>
+			<p>Kommer tid kommer råd. Den magre, ele- gante skikkelse pilede opover mod Thorsbakke,</p>
+			<pb n="127"/>
+			
+			
+			<p>mens han knyttede næverne og bed tænder i sinne.</p>
+			<p>Eftermiddagssolen borte bag vandet sendte sine stråler tværs ind i skovåsen på denne side, en dusch af sivende regnbufarvede stråler ind bag løv og ind i huler, 
+hvor ellers der var muggent og fugtigt.</p>
+			<p>Han kom til sit kjære lille hjem, så et blin- kende skimt af det hvide gjennem træbuskene; så det herlige nye vinløv op ad væggene. Han vilde til at åbne porten, 
+da det etsteds fra lød: Stop, Enevold! Kan jeg få tale lite gran med dig?</p>
+			<p>Det var Elias Eliassen. Han havde ligget på maven i græsset og solet sig nede dér, hvor båden lå bundet.</p>
+			<p>Enevold gik ned, han var stram om mun- den og ængstelig, samtidig sitrende harmfuld.</p>
+			<p>Den storvokste bondemaler reiste sig helt op, han var som så ofte slusket i klædedragt og pjusket, som om han ikke havde vasket sig på en uge.</p>
+			<p>Vær ikkje sint på meg, Enevold Bader. Men du må fanden gale meg ud med hundre kroner. Det må eg ha på flækken.</p>
+			<p>Det kan ikke lade sig gjøre, svarte Enevold</p>
+			<pb n="128"/>
+			
+			<p>tørt, Jeg har ikke længere nogen følelse for dig. Om du så truer med at sende dig en kugle for panden, så jeg ser på, får du ikke en skilling,</p>
+			<p>Malerens mine var så listig, så banditful, at Enevold fandt det råddligst at sætte sig i respekt ved at indbilde ham, at han havde våben på sig.</p>
+			<p>Hvis du vil låne revolver, så har jeg her, og han greb til baglommen.</p>
+			<p>Naturgeniet skjønte, at intet var at opnå; han mælede ikke et ord, men han tog en stor sten og hev den med kraft i båden, så vandet gyngede udover, En sten til 
+med endnu mere kraft. Men der gik ingen spræk i prammen. Så bølede han sig ned og begyndte at løse på Kjættingen, hvormed den var bunden.</p>
+			<p>Enevold havde seet til, halvt grædende af harme, alt mens han tænkte: bare Aias kom! men han sidder vel langt oppe i haven med et kjødben og hører vel ingen ting. 
+Og Sancho ligger vel som altid og sover midt i solen.</p>
+			<p>Eliassen havde fået båden løst, vilde til med føden at spænde den flot, da Enevold sprang til, greb kjættingen og begyndte at vikle den omkring den gamle trærod, 
+der tjente som bin-</p>
+			
+			<pb n="129"/>
+			
+			<p>dingssted. Men medens han står bøjet, ser han en underlig hurtig skygge over græsset, instinkt- mæssig farer han tilside og op .... det er Eliassen, som med 
+knytnæven omkring en væl dig portnøkel har skullet til at hugge ham i hovedet.</p>
+			<p>Baglængs og stirrende stivt på malerens sjuskede ansigt trak Enevold sig opover. Han kunde ikke komme fra den forestilling, at det var et dyr, en gorilla, det 
+gjaldt at værge sig imod.</p>
+			<p>Han kom op til haveporten, stadig med Bliassen lurende på sig med portnøglen hævet og hovedet så nær, at han kjendte hans stin- kende ånde,</p>
+			<p>Enevold åbnede porten og tog til baglommen :</p>
+			<p>Kom ikke ind her! Jeg har ret til at skyde dig ned som en hund, hvis du uden lov hvor blev der af Aias?</p>
+			<p>Enevold satte i et skarpt plyster.</p>
+			<p>Du tør ikkje skyde! hånede Eliassen, — men den skal du fanden pine meg få smage han var kommen nærmere og skulde hugge med den svære portnøkel, da Aias kom 
+farende, Bliassen gjorde i vanvidsangst et spring mod. udgangen, men dyret var over ham og væltede</p>
+			
+			<pb n=""/>
+			
+			<p>ham. Det vilde til at hugge gabet med de svære tænder i hans hoved, da Enevold fik det standset,</p>
+			<p>Rachel kom ud, spørgende, forundret i sin mine.</p>
+			<p>Elias samlede sig sammen, kom sig uden- for porten og halvt grædende efter den over- ståede angst, halvt hylende af raseri skreg han ind til hende masser af 
+skidne beskyld- ninger mod hendes mand.</p>
+			<p>Enevold låste porten, bleg og skjælvende, tog hende i armen og førte hende ind. Imid- lertid stod Aias og snerrede med hovedet ud gjennem dørens sprinkler, og da 
+Elias hentede et par store stene og slyngede mod ham, blev dyret ude af sig af raseri, sprang op på muren, derfra op over gjærdet og afsted efter den flyg- tende 
+maler; denne vendte sig og indtog for- svarsstilling med en stor sten. Men Enevold var efter, plystrende hunden tilbage af al magt. Ni, den hørte ikke, var over 
+fyren og væltede ham endnu engang. Om han blev bidt, kunde Enevold ikke afgjøre, men han så ham, da Aias, hidkaldt endelig ved den energiske fløiten, slap ham, vakle 
+henover, haltende og ligesom tvingende sig sammen for hvert skridt.</p>
+			<pb n="131"/>
+			
+			<p>Af ham kan vi nu vente ondt! hviskede Enevold for sig selv. +</p>
+			<p>Rachel stod igjen inde i haven og sålså underligt fraværende ud som anede hun lange, lange ulykker efter dette.</p>
+			<p>Den som kunde taget det rene kjære kloge barn og svøbt hende ind i et sjal af tryghed, så hun fik glædens og varmen$ farver i kin- dere, og denne undrende angst 
+svandt som rimfrost for solen!</p>
+			<p>Det var sgu ikke let for Enevold at gå omkring den eftermiddag med selvsikker lige- glad, allight mine.</p>
+			<p>Mennesker! Mennesker! — Hvad er vi andet end atomer, der hvert for sig tror sig så umådelig vigtigt! Hvor mange af os er det, som ikke finder det nødvendigt at 
+føre alle sine omgi velser bag lyset! Hvor mange af os er det, hvis liv ikke er en eneste løgn fra vi er ti år gamle og til vi sænkes ned for at apspises af de ækle 
+muldorme! Vi er de ærligste, godeste små søde børn, men straks vi styrer ind i livet, ind blandt menneskene, bibringes os først og fremst det instinkt: Her må lyves. 
+Ingen mennesker, de være hinanden aldrig så nær, far og mor, mand og kone, de tror hinanden</p>
+			
+			<pb n="132"/>
+			
+			<p>inderst inde ikke så langt, at de ikke finder det nødvendigt at spille komedie for hin- anden.</p>
+			<p>Enevold gik tidlig tilsengs, så dødelig træt, formelig lammet af alle de tunge indtryk. Søvnen tog ham straks, og i nogle timer hvilte han i den saligste glemsel 
+om brevet fra fætter Fredrik, det brev, der hele dagen havde fået alt indeni ham til at stivne som af frost, hvergang han mindedes det.</p>
+			<p>Det var midnat. Rachel stod over ham, lige kommen fra sin seng, og ruskede i ham og jamrede: Hører du ikke, hører du ikke, hvor et dyr ynker sig. Kanske er det 
+Aias, kanske er det Aias, løb ned, løb ned; jeg er så angst!</p>
+			<p>Han sprang op af søvnen, stirrende. Jo, lige nedenunderfra i haven kom der lange vrælende smertensskrig.</p>
+			<p>Jossa kom tøflende op og bankede på. Også hun skjælvede af angst.</p>
+			<p>Det var gamle Aias, som var syg og vred sig i pine. Han lå på maven og trak sig som en orm langs hen ad havens sandgang. Da han fik se sin herre, reiste han sig 
+lidt eller forsøgte paa det og logrede en smule og rakte</p>
+			
+			<pb n="133"/>
+			
+			<p>en tør hvid tunge ud for at slikke hans hånd. Enevold så et langt bønfaldende blik fra dyret, som om det vilde sige: Du kan hjælpe mig.</p>
+			<p>Men pludselig fik det et krampeanfald, vred sig og kastede sig rundt i grusen med en hur- tighed som en fugl, der ryster vingerne,</p>
+			<p>Hvad er det gamle Aias, hvad er det gamle Kjære Aias min! — og tårerne silte nedover Enevolds ansigt, mens han lå på knæ og for- søgte at berolige dyret.</p>
+			<p>Rachel og Jossa var komne til, Rachel i sin slobrok.</p>
+			<p>Bare ikke nogen har givet den gift! sagde hun.</p>
+			<p>Jo, det må det være! Jossa, tag du straks og spring til stationen og telefoner efter dyr- læge Winsnæs, Han må komme straks, tage morfin med sig!</p>
+			<p>Dyret trak sig efter Enevold, alt som han flyttede sig, og det rakte tungen ud for at slikke ham. De store blodunderløbne øine bad, og det var som om Aias han så 
+inderlig godt forstod, at Enevold græd, og takkede sin herre derfor.</p>
+			<p>Kunde du tale og vidne mod ham! råbte Enevold. Der er mere sjæl og følelse i dig stakkels gamle ven, end i den forbandede ma-</p>
+			
+			<pb n="134"/>
+			
+			<p>lerslask. For ham er det jo? Ikke sandt? kunde du tale Aias og vidne!</p>
+			<p>Hundens pinsler blev værre og værre, den vred sig og kastede sig og sendte alt i et varme bønfaldende blikke til Enevold, som om den jo slet ikke tvivlede på, at 
+han havde evne "til at hjælpe Også Rachel stod med tårer, fuld af gråd var hendes stille angstfulde øine, og hendes deilige rene barneansigt lyste hvidt i 
+sommernatten. Af en stor skål melk, hun satte for Aias,</p>
+			
+			<p>slubrede han i sig nogle mundfulde, men fik lidt efter en voldsom opkastelse. Enevold sprang til, fangede op et stort stykke råt ufordøiet kjød og bragte det ind 
+i kjøkkenet,</p>
+			<p>Du skal se, sagde han til Rachel, — den kjødklump kan måske skaffe os beviset. Kanske har Eliassen kjøbt kjød nede ved stationen, og stryknin — for det er 
+naturligvis giften —, hvor kan han have fået den fra? Nå, vi skal nok få has på ham —! Jeg sætter en beløn- ning ud for den, der kan give'oplysninger.</p>
+			<p>Ikke gjør noget, gutten min. Ikke gjør noget. Husk på al den skade, det fæle men- neske kan gjøre dig. Han ved jo, at du har smuglet</p>
+			<pb n="135"/>
+			
+			<p>Dyrlægen kunde først komme den næste dag. Men Aias døde om morgenen, mens Sancho sad på sin hale og så forundret til Aias opgav ånden efter urimelige pinsler, 
+døde med et suk og et langt blik paa sin herre,</p>
+			<p>Rachel-og Enevold gik ind i huset, ind i den kjæreste stue, rullede gardinerne ned, Han kastede sig på knæ for hende, og hun strøg ham som altid over håret, 
+uendelig hengiven og trøstende,</p>
+			<p>Vi er nogle dumme hjælpeløse mennesker, Rachel, ikke sandt? Vil du gjøre, hvad jeg mu foreslår?</p>
+			<p>Rachel gav et bestemt ja.</p>
+			<p>Så tager du, endnu idag, lile Volle med dig og reiser op til Tonsåsen sanatorium. Det er det bedste sted for reconvalescenter efter lunge- sygdomme. Vil du! Bon! 
+Så tager jeg, også den dag i dag, og reiser bort til Bjarke i Hardangerfjorden. Han redder os Ingen anden gjør det. Nu skal du vide det: både fætteren. Fredrik og 
+min far har nægtet at hjælpe mig,</p>
+			<p>Jeg tror også, at Bjarke hjælper, sagde hun still.</p>
+			<p>Vil du så være fornuftig bagefter, Enevold?</p>
+			
+			
+			
+			<pb n="136"/>
+			
+			<p>Ikke slænge dine penge ud til venner; leve billigt; vil du? For hvis jeg kan stole på det, er jeg glad. Da kan jeg holde ud at være en uge borte fra dig. Længere 
+tager det vel ikke, vel?</p>
+        </div>
+        <div type="chapter">
+			<p>Da det led mod aften den næste dag be- fandt vor mand. sig ombord i dampskibet på en af indlandsfjordene.</p>
+			<p>I videre lyst humør var han ikke. Han var i en gruelig spænding for, hvordan ærindet hos Bjarke vilde løbe af; og mere end utål- modig over at skulle have flere 
+dages reise, før han gjennem et telegram kiinde råbe til Rachel: Vi er frelste! Men om nu Bjarke viste sig at være som de andre! Hull Da måtte han komme til at synke 
+sammen i sine knæ og skrige til Gud om at få lov til at op- give det hele. Hvor han ønskede ugjort den tor til fætter Fredrik og siden hjem til faderen! Han havde en 
+angst for alle mennesker siden, Ja, her sad han på damperen, som lunt pustende mede. under de aftenblånende fjeldsider netop svingede op i vandets indre ende, var 
+det kun med</p>
+			<pb n="137"/>
+			
+			
+			<p>bidsk afbidende mine, at hans skarpe blege ansigt vendte sig mod de skikkelige medpas- sagerer. Underlæben stod op, og de små brune ølenstene var to rigtig 
+udfordrende hånende ud- ligere. Men ved synet af en ung bondekone, der sad på fordækket og gav sin gut die, var han ved at græde. Og stille hviskede han Ra- ehels 
+navn og lille Volles navn, mens hænderne vred sig i jakkelommen.</p>
+			<p>Og meget træt og nervøs var han efter de sidste nætters vågen og angst og had. Heller ikke sidste nat sov han mere end nogle øie- blikke. Til langt over midnat 
+havde han siddet og givet Josefa instrukser. Hun skulde sam- men med Jossa bebo Thorsbakke, indtil han havde greiet sagerne og hentet Rachel med hjem igjen. Og hun 
+skulde holde øie med for- retningen og sige det og det, når de og de folk kom. En nydelig stedfortræder! Men der var ingen anden at få i farten. Og hun gik netop 
+ledig, havde sagt op sin post, da som- meren holdt sit indtog. Hun var begyndt det gamle dagdriverliv med cigaretter og smukt</p>
+			
+			<p>indbundne digtsamlinger og sværmen omkring. i naturen. Dampskibet lagde til ved en brygge, hvor</p>
+			<pb n="138"/>
+			
+			<p>der stod fuldt op af gammeldagse ubekvemme kjøretøier og skråtyggende griske  skydsfølk med: korte sveper. Længere inde på veien tronede en høi hvid bygning, 
+sagtens hotellet. Og bag indover klemte fjeldene sig sammen, og brattere og mægtigere blev de, og Enevold følte en knugende fomemmelse ved tanken på, at han skulde 
+langt derind og lade dem lukke sig over ham. Hvad kunde ikke ske i den tid, han var borte, flere dages reise fra hoved- staden, hjælpeløs midt inde i landet!  
+Eliassen med sine trusler om at sætte smuglerhistorien i avisen. Kanske turde bladet foreløbig ikke nævne navn, men bare antyde, i moralens navn udtrykke bedrøvelse 
+over sådanne forhold. Og samtlige byens andre tobaksforretninger samle sig til en offentlig erklæring om, at ingen af undertegnede osv. Eller Finsen! Der var 
+rigtignok en fire-fem dage igjen, til han skulde have møbleme, og man kunde tele- grafere ham beløbet, men sæt nu, at man ikke kom tidlig nok frem, sæt at Bjarke var 
+i Ber- gen f. eks.</p>
+			<p>Der var disposition hos Enevold for tæring. Efter et hosteanfald havde han fulgt Rachels bønner og ladet sig undersøge. For i nogle</p>
+			<pb n="139"/>
+			
+			<p>dage at nyde kraftig sund fjeldluft og forene det nyttige med det behagelige var det, at han bestemte sig til at gjøre turen overland. Men nu gav han sundheden en 
+god dag. Han be- stemte sig til at rejse i et kjør, natten og. Og for hurtigst muligt at få afgjorelse, skrev han et telegram til Bjarke og sendte det nedover igjen 
+med dampskibet. Han skrev og bad ham møde sig inderst inde i Hardangerfjorden, dér hvor Enevold nu skulde komme ned inden to kvælder. Da han havde skrevet depeschen 
+og taget et dyrt løfte af kapteinen, at han skulde ekspedere den, gik han iland</p>
+			<p>Blandt kjøretølerne fandtes en trille, en ve- ritabel byvogn. Bonden, der eiede den, en venlig bred karl med snu øine, kom bort og tilbød sig. Da han hørte, det 
+for Enevold gjaldt at komme frem på to døgn, forlangte han en temmelig stiv betaling. Men han skulde skaffe ham frem i egen vogn og kjøre ham selv, det var støddi 
+det. å steg de op i, og lidt efter. trullede de muntert henover langs en bred rolig elv med duftende orrekrat helt ned i vandet. Og Ene- volds nervøsitet fortog sig 
+noget, thi skyds- manden snakkede så elskværdigt ivei, viste den</p>
+			
+			<pb n=""/>
+			
+			<p>naiveste beundring for sin passager og var ikke nærgaaende med spørgsmål. Og jammen var her vakkert indover dalen, så lunt og stort, nu aftenskyggerne havde 
+sænket sig ned. Og hvor de kom gjennem gårde, var dagens arbeide slut, folkene stod i skjorteærmer ude og havde fred med hinanden. Og høet da langs veikantene! Og så 
+var her langt rigere med blomster end hjemme. på Thorsbakke! Og varmere lunere duft og mere klang i akerriksens såedren. Eller var det fordi, at han derhjemme ikke 
+havde sindet så åbent som i denne kvæld, han var på vei for at få den afgjørelse, som skulde bringe hans livs skib med den kjære, kjære last på ret kjøl. Å, Rachel, 
+hun stod for ham som en fin mildt vinkende fé inde i en gylden støvsky. Og en tåre i øjet. Og Vollegutten — Enevold sprat pludselig i latter, og skydsmanden sendte 
+ham et hurtig blik. Å, det var noget, jeg kom at tænke på, sagde Enevold. Han huskede sig, at Volle under en tur, de alle tre gjorde ind- over åserne bag Thorsbakke, 
+satte sig midt i en høi myretue, som han troede var en af naturen arrangeret stol; og siden, da dyrene begyndte så stygt at plage ham, satte han sig bort i lyngen og 
+løftede forsigtigt myre efter</p>
+			<pb n="141"/>
+			
+			<p>myre bort med sine små næver, mens han sagde: fuglen bider, fuglen bider.</p>
+			<p>Flere slige småting dukkede nu op for Ene- vold, og han smilte ved sig selv</p>
+			<p>Her tænker jeg, vi hviler lidt, sagde skyds- manden ud paa morgenstunden og holdt uden- for et hotel med fire værelser og altan. Som gammel kjendt-mand gik han 
+ind og ruskede følkene op, en smuk fed bondekone på de tredive og en lang mager gardist af en karl</p>
+			<p>Hun er enke, netop enke, sagde Enevolds mand, — men de siger, hun skal ha ham dér; —</p>
+			<p>Hof!</p>
+			<p>Så nervøs var Enevold dog, at det grøssede i ham bare ved tanker! om den lethed, hvor- med mennesker tog de dybeste forhold i livet.</p>
+			<p>Han fik et værelse og vilde hvile sig. Men han lå og tænkte på den friske enke og den skindmagre gardist og grov efter i sin egen barm og fandt, at han jo ikke 
+var såmeget bedre eller havde været så meget bedre. Ja, skyld efter skyld mod Rachel rullede sig frem.</p>
+			<p>For at få disse tanker afledede steg han op og gav sig til at kigge på de skrifter, der</p>
+			<pb n="142"/>
+			
+			<p>lå på kommoden. Et par postiller og så en tyk bog, som viste sig at være en billedbibel,</p>
+			<p>Tvi, føj! råbte han. Man bliver jo nervøs, hvis man ikke er det før, af at se. på disse oprørende illustrationer til Johannes" rædsels- fulde fantasier. Det er jo 
+bare hylende vidnes- byrd om menneskenaturens sjofelhed. Tilsidst skvat han op af væmmelse ved billedet af en kvinde, der styrtes ud af vinduet. Formontlig havde hun 
+bedrevet hor — folk stod neden- under og ,gren" af fornøjelse.</p>
+			<p>Huf! Hufl Hut!</p>
+			<p>Og disse billeder fryder de kristne samfund. sig ved! Bibelselskaberne udgiver dem til spot- pris, for at så mange som muligt kan'få nyde dem!</p>
+			<p>Nei, at han nu skulde se på den bog ogsål Nu blev der ingen søvn. Som barn så han så ofte den slags bøger uden at føle andet end hellig gysen og taknemlighed, 
+fordi han ikke opædtes af det syvhovedede uhyre. Han var altså et bedre menneske nu end før, tænkte han.</p>
+			<p>Han klædte på sig igjen, han var for over- anstrængt til at kunne få sove efter disse ind tryk.</p>
+			
+			<pb n="143"/>
+			
+			
+			
+			<p>Mens de lavede frokost for ham, gik han ud og drev på veien. Det var en hel flad bygd bortover med mange hvide huse og med kirken lige ved hotellet. Halve dalen 
+lå alt i morgensol, halvdelen af kirkespiret, hvor korset funklede, og hele kirkegården lidt bortenfor. En trang til at føle andagt drev ham ind i dødens have, ind 
+blandt de glemte grave, ind over de tuer, hvorunder af ormene halvt opædte, af de kjære tilbageværende halvveis glemte menneske- legemer hvilede. Nu lå funklende 
+dugdråber og hang i græstørven og på en buket pintse- Ilier-og over en blomstrende nypetorn og over små klatter af vilde violer, der hvor græsset groede tørrest. Men 
+over de skjæve sorte træ- kors 1å nattefugtigheden og lignede frostrim. Og ingen ornamental pragt som i de privilige- rede kroge af byernes store dødningepladse, Han 
+så på tre små, bittesmå houge ved siden af hinanden. Over alle var dér et stykke af en kasse sat som en sormalet ramme med glaslåg over. Og under glaslåget lå der 
+tøi- kranser. Men på én kasse var låget borte og stedenfor strittede der fra en eneste rod en vældig stærk rig løvetandsbusk i veiret, den ud- fyldte hele den 
+sortmalte ramme med sie</p>
+			<pb n="144"/>
+			
+			<p>stængler og blade, det så ud som havde den løftet glasset bort, da våren kom og alt liv svulmede frem.</p>
+			<p>Men her ligger vel også hendes mand be- gravet! sagde han til sig selv og tænkte på hotelkonen. ;</p>
+			<p>Kanske er det blot nogle få uger siden, at han døde. Og hun spadserer her forbi hver dag, når hun skal til landhandleren og tænker ikke noget over, hvad livet er 
+for en sorg. Ja ja, ja ja, hviskede han. Det er vel det, der kaldes for lykken, at have evnen til ikke at se ind i naboens hjærte og stuer. Det er det, der kaldes at 
+se lyst på livet. Klappe sig på sin gode fordøjelse, rynke bryn af alle, der har det ondt, og sige: Se på mig! Er jeg trist? Jeg øger tvertimod hver dag mit 
+velbefindende.</p>
+			<p>Han gik tilbage. Der var dækket en frisk landsens frokost med melk og æg og. kaffe Men trætheden gjorde, at han lidet fik spist, og han tænkte med gru på den 
+kommende dag, som han skulde tilbringe i solsteken i en vogn.</p>
+			<p>Da han kom ud igjen, havde manden just spændt for. Men både han og den smukke trivelige hotelkone og en tre fire unger blev pludselig for optaget af noget andet, 
+til at de</p>
+			<pb n="145"/>
+			
+			
+			<p>kunde værdige ham nogen opmærksomhed, Enevold så straks grunden. Det var den lange gardist, der med smilende lader kom spadse- rende ind fra marken med en hugorm 
+spiddet på sin høgaffel. Han havde fundet den i en grøft lige bag låven. En stund stod forsam- lingen og betragtede henrykt interesseret dyrets vridninger. Enkens 
+øine spillede af fryd over de blanke snoninger i sollyset.</p>
+			<p>Høg hode a' 'en! sa en af ungerne. Den løb afsted og kom tilbage med en hammer. Gardisten satte sin høgaffel i jorden, og mens ormens krop lå spiddet på den, hug 
+ungen til med hammeren oppe ved dyrets hoved, indtil det endelig lå for sig selv.</p>
+			<p>Lad mig se på halen hasses! sa enken og tog med hånden og holdt ormen stramt ud, så den ikke fik svinge sig.</p>
+			<p>Enevold så på hendes fingre. De var joviale Hvert led i dem var rundt og tykt som en bergamot for sig.</p>
+			<p>Æseh! sa hun tilslut og slap.</p>
+			<p>Imedens lå dyrets hoved fladt mod jorden, Den tynde røde kløftede tunge spillede ud af gabet, og de blanke grønne øine, linseformede</p>
+			<pb n="146"/>
+			
+			<p>som fårs eller gjeders øine, holdt gløgt øie med omgivelserne.</p>
+			<p>Dette fraskilte hoved i fuld vigør og bevidst- hed, interesserede Enevold så, at han ikke straks. fik sagt de bønder, hvad han mente om deres dyrplageri. 3</p>
+			<p>En af småungerne stak en pind bort mod ormens mund, og straks hug hovedet til. De to bleghvide gittænder hang fast ved træbiden. Alle skoggerlo, allerværst 
+skydsmanden. Da blev Enevold endelig sig selv. Han skubbede til ham, gav ham et par af sine ondeste blikke, og satte så sin hæl tværs ned på dyrets hoved, så det 
+knak.</p>
+			<p>Taushed i leiren</p>
+			<p>Ikke sandt, dette var et forfærdelig morsomt skuespil! sagde han, mens de veg tilside.</p>
+			<p>Ja, kom så — hvad heder De?</p>
+			<p>Ivar Fide, heder eg.</p>
+			<p>Ja kom så, så kjører vi.</p>
+			<p>Mere og mere træt, mere og mere angst! Mere og mere følte han antipathi mod den lyse, venlige bonde, der førte tømmerne og sad så lunt og tryg og keg på ham nu og 
+da med nysgjerrig medlidenhed. For Enevold lukkede øinene bedst som det var og sank hen i drøm-</p>
+			
+			<pb n="147"/>
+			
+			
+			<p>mende dos, og hans ansigt var gråhvidt og sygt i solskinnet og hans udtryk pinefuldt. De Kjørte gjennem en lang, lang granskog af høie træer, der for det meste 
+gav skygge over veien. Her sank Enevold rent sammen af overanstrængelse. Med legemet halvt støttet mod sidemanden lå han som i en søvn. Men han bare hallucinerte. 
+For sig så han en stor jernbanegård og tvers over den, tvers over alle sporene skred en skikkelse, søvngjængeragtigt med hovedet bøiet, blikket mod jorden, ydmygt, 
+angst, pinefuldt, mildt. Hvor han skred frem, skulde Jokomotiverne have overkjørt ham, men. de standsede som ved en fortryllelse sin fart og. veg langsomt tilbage. 
+Kristus — thi ham var det — gik frem, og da han stødte på en høi mur steg han op på den. Og alle jembane- folkene strømmede fra. penser og lokomotiver og vognstalde 
+og stod under og hørte. Skik- kelsen på muren stod mod en mørk, uhyggelig himmel:</p>
+			<p>Der er intet helvede, sagde han. Der er heller ingen himmel, således som man har lært jer den. Der er dog et liv efter dette, men det er kun lidt hølere i sit 
+niveau end dette og ledes efter samme princip og lære som her.</p>
+			<pb n="148"/>
+			
+			<p>Eders sjæle vil kjæmpe ondt mod hinanden dér som her. Derfor er jeg angst og bedrøvet … Enevold vågnede, skvat op i sædet og så et lurende, gottende blik fra 
+sidemanden,</p>
+			<p>Ved aftentide svingede de ind til et flot turisthotel, De var nu temmelig langt oppe | dalen, i en høide af et par tusen fod, og koldt var det, og Enevold frøs i 
+sit plaid, så han skjælvede over hele kroppen, da han gik ind or at bede om værelse for natten og aftens- mad. I spisestuen sad et muntert herreselskab over mange 
+retter og vine; det var en del levemænd fra Kristiania, som var på tur; han kjendte flere af dem som kunder. Han hilste og satte sig for sig selv. Men maden vilde 
+ikke ned; det pinte ham at høre al den tomme Jystighed fra det andet bord; de talie bare om skandalbistorier og lo, som om verden var den morsomste og lyksaligste 
+leveplads i universet.</p>
+			<p>Han reiste sig og hilste, mærkede at han skjelv i knæerne og knapt kunde holde ballan- cen, og glad var han, da han slap ind på sit værelse, havde fået døren låst 
+og kunde kaste sig i en god seng. Han lagde sig dovent til- rette i sikkert håb om søvn. Og han følte hvile sænke sig over organismen og blæse bort</p>
+			<pb n="149"/>
+			
+			<p>de angstfulde tanker. Men nej! Han var for træt, for overanstrængt. Mens legemet hvilede i sød dvale, begyndte hjernen at tumle med de tunge tanker igjen. Han så 
+for sig en bred plæn, hvor magre gibsbyide meneskeskikkelser 1å på ryg og vred sig i vånde. Kvinder og mænd. Men kvinderne var ikke længer kvinder for mændene, og 
+mændene ikke længer mænd for kvinderne. De var bare krampagtigt lidende væsener, hvert for sig nok, en liden ø hver, som bare tænkte på sin egen pine. Det var 
+helvedet. Helvedet, sådan som det ile stin- kende smalsjælede menneskedyr har bygget det op for sig.</p>
+			<p>Føi føj! skreg Enevold, da han fik løftet sig ud af synet og blev sig klart, at hans drøm. var et gjenbillede af hans ungdoms forestillinger om den hinsidige 
+tilværelse for de fleste menne- sker, Han havde som gut gået så tryg omkring og seet kjendte begraves, om hvem han vidste, at de gik til helvede. Ikke en smerte i 
+hans sjæl for det. Han havde ikke været et hår bedre end pastoren borte i Bergen, der skildrede højdepunktet af englenes Jyksalighed som det at stå ude på Himmeriges 
+balkon og kigge ned i dybet, hvor søstre og brødre og fædre og.</p>
+			<p>6. Fine: Fachel 10</p>
+			
+			<pb n=""/>
+			
+			
+			
+			<p>mødre, som havde været ugudelige, lå og hylede i svovlgryderne.</p>
+			<p>Nej! sukkede han og reiste sig op i sengen, — her blir nok ingen hvile for dig gut, før du er fremme hos Bjarke, har din skjæbne på det rene, og med et kraftig 
+sovepulver i maven kan sove døgnet rundt.</p>
+			<p>Han gik bort og åbnede vinduet og satte sig dér. Det var lys nat og koldt, så han måtte svøbe sjalet om sig. Nedenunder sig så han et langt smalt vand og høie 
+nøgne åser på den anden side. Han rystede træt med hovedet ud til den øde natur og begyndte en enetale om melankoli. Han spurgte sig selv hvorfra har du denne Jøften 
+dig op over, tagen afstand fra, følen modbydelighed for dyret i menneskene, fra de drifter i os, som gjør, at vi uden nag kan fiske, skyde, pine andre væ- sener, der 
+har samme ret til lykke som vi, — ja, og som gjør, at vort liv kun er en forføl- gen hinanden. | Min sjæl krymper sig i gysende vånde, dyb angst indfor det brutale, 
+det virke- lige liv. Det, jeg kalder min sjæl, summen af alle de fornemmelser, som dette legeme og dets sanser har bygget op til bevidsthed, — higer ud af det 
+legemlige hylster, denne underlige</p>
+			
+			<pb n="151"/>
+			
+			<p>maskine, denne kjødspisende omkringløbende mekanisme. Og hvad der piner mig mest, det er min ensomhed — med en næsten vanvittig skræk stirrer jeg ind i det 
+faktum, at jeg er en ensom skjælvende angst ø midt ude i et sort hav. Vanvid, død, opløsning og alle de andre individer, de synes mig så misundelses- værdig fri for 
+at tænke på samme måde som jeg. De løber travle omkring. Det ser ligeså</p>
+			
+			<p>snurrigt og meningsløst ud som myremes løben hid og did over skovbunden omkring en tue. Og dog — jeg føler — håbløst — at det er den eneste frelse fra død, 
+vanvid, selvmord, at komme tilbage dertil, at også jeg atter kan løbe omkring som de andre og finde det værd at interessere mig hektisk for, om fru Olsen havde gul 
+eller grøn parasol, eller om hr. grosserer Onlsen med h. gav champagne eller burgunder for sine beundrende venner i anledning af sit sidst bedrevne store snyderi på 
+børsen</p>
+			<p>Visvas gut! Ikke ræsonner! Du har</p>
+			
+			<p>jo din kjære pige og din lille gut! Begge ser du op til Begge elsker du mere end du vil være ved. Begge respekterer du meget mere end dig selv, som du igrunden 
+burde spytte på.</p>
+			<p>Ja, hende respekterer du som en fuldkom- 10"</p>
+			<pb n="152"/>
+			
+			
+			<p>men kvinde! Og altså —, når hun, der er både finere og føler varmere end du, ikke går omkring .og er melankoliker, når hun ikke finder, at det hele er 
+meningsløst, så er dermed bevist, at hun har ret og du uret.</p>
+			<p>Og han tænkte med gru på sine ,glade" dage, tænkte hvor han vilde have været et ækkelt dyr, om han havde fortsat i det spor og ikke gjennem Rachel lært kjærlighed 
+at kjende.</p>
+        </div>
+        <div type="chapter">
+			<p>Det blev et rivende regnskyl om natten, og det regnede længe udover formiddagen, mens han indsvøbt i sit sjal, gjennemvåd og frysende, sad i trilen ved 
+skydsmandens side og kjørte over højderyggen mellem Østland og Vestland. Han så hvide fjeldspidser til alle kanter rundt over det brede fonnede vandskilleterræn, som 
+lande- veien gjennemskar. Og snefonner lå der ti højre og tilvenstre, ofte lå de tvers over veien, så hesten måtte gå i små skridt for ikke at vælte kjøretøiet,</p>
+			<p>Enevold sad forresten og så lige ned i fang- skindet og turde ikke kaste blikket udover, thi hvergang han gjorde det, gik der et gys af</p>
+			<pb n="153"/>
+			
+			<p>angst og kulde gjennem ham. Han ver så dødsens nervøs, mens han sad der og hakkede tænder og hadede eller følte skræk for sin side- mand, en skræk som for et 
+giftigt djævelsk. væsen.</p>
+			<p>Forøvrigt troede han sig selv vanvittig og fortabt nu. Thi de nagende tanker slap ham ikke sålænge som ti minuter. Alle de gjen- vordigheder med Finsen og fætter 
+Fredrik, med hans far, med Elias Bliassen, de summede ham gjennem hjernen, antog svære dimensioner, de kom gang på gang styrtende over ham, holdt på at knuse ham som 
+en lavine. Og mens han sad og bed læber i had over skydsmanden med det June lure blik, der sikkert antog ham for gal, udmalte han sig, hvor godt det vilde blive for 
+Rachel og lille Voll, om han døde nu. Ganske sikkert vilde gamle overlæreren i Bergen give dem penge, og til overflod vilde Enevolds egen fader skynde sig at hjælpe. 
+Bare han, Enevold, tornen i øiet på de gamle, var borte, så skyndte de sig nok, kappedes nok om at gjøre det godt for Rachel N . Mere og mere irriteredes han over 
+denne Ivar Eide med det venlige ansigt og de små øine. Fyren mindede ham, gud nåde mig</p>
+			
+			<pb n="154"/>
+			
+			<p>— det så han nu — på en prik om Eliassen, Samme væmmelige bondevæsen, samme rov- dyrsluhed i øinene.</p>
+			<p>De begyndte at kjøre nedover, men den stakkels hest var træt af den lange tur, det gik i dit. Og Enevold huggede tænder af utål- modighed. Bare otte—ni timers 
+kjørsel havde de tilbage, men han stirrede på de otte timer med skræk. Han vidste ikke, hvordan han skulde holde det ud.</p>
+			<p>Ja, jeg er gal, jeg er gal, jeg er gal, hvi- skede det inden i ham, — jeg kan aldrig gjøre dem lykkelige. Meget bedre vilde de få det, om du var død. Du bare 
+ødelægger Rachels ligevægt med alle dine betragtninger over ver- dens og menneskers dårlighed.</p>
+			<p>Og pludselig lo han, og skydsmanden vendte sit fornuftige ansigt og gav ham et meget langt hånligt blik og mælede ikke et ord.</p>
+			<p>Enevold lo af sig selv, af sin egen tåbe- lighed</p>
+			<p>Tænke sig, du gjør denne reise i det håb, at Bjarke skal hjælpe dig, dig og dine! Gud- bevare mig! Har du endnu ikke lært af livet, lille Enevold, søn af 
+distriktslæge Bader,</p>
+			<p>Nei han sad der med det hvide forfrosne</p>
+			
+			<pb n="155"/>
+			
+			<p>dødstrætte ansigt og smilte mere og mere af sig selv.</p>
+			<p>Bjarke siger naturligvis: Vel, vi har rang- let lidt sammen, talt lidt sammen, men hvad rager dine privataffærer mig forøvrigt. Med et par hundrede kroner kan jeg 
+hjælpe, men mere ser jeg mig ikke istand til . . . + . For at ikke hjernen skulde snurre rundt som et hjul ved disse fortvivlede tanker, gav Enevold sig til at tale 
+med sin hadede sidemand, begyndte at lade som om 'han. interesserede sig for nav- mene på de forskjellige fjeldspidser og fjeld- vande. Det gav en slags balance. 
+Skydsman- den så mistænksomt-forundret på ham, som han tænkte: Kanske er han ikke ganske van- vittig. alligevel.</p>
+			<p>Veien svingede som en snog gjennem et trangt dalføre nedover, men pludselig åbnede der sig foran dem en vældig gryde i terrænet, en svimlende dyb dal, langs hvis 
+ene væg ehausseen snoede sig nedover i halvgalleri med svære stabbesten langs kanten ned til af- grunden</p>
+			<p>Nei her vil jeg af og se lidt! råbte Enevold og trev fangskindet tilside,</p>
+			<p>De var lige ved en strid gul fos, som kom</p>
+			<pb n="156"/>
+			
+			<p>susende nedad fjeldvæggen og i en kanal bruste videre under veien og udfor.</p>
+			<p>Der var jemrækværk. Han lænede sig på armene og stirrede ned i vandskummet, som kom farende ud af hullet under veien. Det var en pragtfuld fart! Det bragede alt i 
+et fra vandmas- sen, det var store stenklumper, den trak med. sig og smeldende kylte mod alle hindringer. Med muntre hop skvat de op og ned igjen i den lerede gule 
+fos. Enevold glemte alt Fosseduren virkede, så han fik ro i hjemen og tabte al hukommelse. Fosseduren lokkede, han stirrede ned i det rivende vandfald som en fugl</p>
+			
+			<p>stirrer ind i gabet på en slange med spillende øine og tunge. Han sank sammen af længsel efter hvile, han greb i jemrækværket og vilde med et kast slynge sig 
+udfor . .. . da blev en kraftig hånd hugget i hans skulder. Han så ikke, han bare skjønte, det var den forbandede skyds- mand, og han samlede al sin kraft, alt sit 
+had og slog til ham i tindingen, slog og stred for at komme løs. Men den anden var for stærk. Nu tror jeg, det er på tide, vi kommer til bygden, sagde han bondelunt, 
+og ledede Ene- vold som en hest ved luggen bort i trillen. Her faldt han sammen, eiede ikke villie eller</p>
+			<pb n="157"/>
+			
+			
+			<p>trods mere. Han lod Ivar Eide stelle med sig som et barn. I en døs, med lukkede øine, lå han resten af rejsen.</p>
+			<p>Han skimtede en oplyst stue, en lang lang stue, syntes ar høre nogen skjælde og vidste ikke mere av sig. Noegn stod over ham, rystede i ham, talte med blød kjær kjendt stemme. Endelig kom øjenlågene op, men de sank straks igjen.</p>
+			
+			<p>Er det dig, Bjarke</p>
+			<p>da vist fanden, din tosk!</p>
+			<p>Jeg er så træt. Jeg kan ikke sige dig, hvad jeg vil, mumlede Enevold</p>
+			<p>kom nu med meg. Skibet er netop kommen, men går om et kvarter. Skynd dig. Vi skal tales ved imorgen, når vi sidder utenfor huset på Sol-øen.</p>
+			 <p>   Jeg må ha hjælp! Jeg må ha hjælp! sukkede Enevold endnu isøvne,</p>
+			<p>Jeg forstår det, kjære ven,</p>
+			<p>Kan du? vil du</p>
+			<p>Vist for fanden! Jeg har jo skønner det</p>
+			
+			<pb n="158"/>
+			<p>hele tiden! vrissede Bjarke og trev ham utål modigt i armen. 3</p>
+			<p>Op med dig gut! Du har den deiligste kjærring i verden. Du har ikke lov til at murre. Pisk skulde du ha!</p>
+			<p>Og Bjarke trak afsted med ham nedover til skibet.</p>
+        </div>
+    </body>
+ </text>
+</TEI>

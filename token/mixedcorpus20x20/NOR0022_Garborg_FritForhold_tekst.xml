@@ -1,0 +1,2894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="NOR0022" xml:lang="nb">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Frit Forhold ELTeC-utgaven
+    </title>
+    <author ref="https://viaf.org/viaf/79414014 https://www.wikidata.org/wiki/Q3143008">Garborg, Hulda  (1862-1934)</author>
+    <respStmt>
+     <resp>
+      ELTeC encoding
+     </resp>
+     <name>
+      Michael Preminger
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     31023
+    </measure>
+    <measure unit="pages">
+     143
+    </measure>
+   </extent>
+   <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
+</publicationStmt>
+   <sourceDesc><bibl type="digitalSource">
+    <ref target="https://www.bokselskap.no/boker/fritforhold/tittelside">
+    Teksten i bokselskap.no følger 1. utgave, 1892 
+    (Bergen/Mons Litleré). Digitaliseringen er basert 
+    på fil mottatt fra Nasjonalbiblioteket (nb.no)
+    </ref>
+       <author> H. Garborg </author>
+       <title>Et frit Forhold </title>
+       <pubPlace> Bergen </pubPlace>
+       <publisher>   Mons Litleré  </publisher>
+       <date> 1892 </date>
+      </bibl></sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+   <langUsage>
+    <language ident="nb" usage="100"/>
+   </langUsage>
+   <textDesc>
+    <e:authorGender key="F"/>
+    <e:size key="short"/>
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+    <e:timeSlot key="T3"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change><change when="2020-11-15">Checked by checkup
+                script</change><change when="2020-11-13">ran oldCheckUp to update</change>
+   <change when="2017-12-27">
+    Lagt inn Åshilds artikkel/innledning. Kodekontroll og validering.
+   </change>
+   <change when="2017-07-03">
+    Entiteter, kodekontroll og validering.
+   </change>
+   <change when="2017-05-10">
+    Ført inn kommentarer, varianter, rettelser.
+   </change>
+   <change when="2017-04-06">ENW 
+    Lagt inn quote rundt brevet i kap IX. Lagt inn ny DTD-referanse, filen er valid.
+   </change>
+   <change when="2012-03-28">
+    Ført inn rettelser etter 2. korrektur.
+   </change>
+   <change when="2012-02-06">
+    Ført inn rettelser etter korrektur.
+   </change>
+   <change when="2012">AAH 
+    Kodet tekst.
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="novel" xml:id="NSL_Garborg_FritForhold_tekst_xml_text">
+  <body>
+   <div type="chapter">
+    <p rend="center">
+     TIL MIN MAND.
+    </p>
+   </div>
+   <div type="chapter">
+    <head type="main">
+     I
+    </head>
+    <p>
+     De graabrune Posthusmure osed formelig i Solstegen, og nedover Kirkegaden krøb de bytrætte Mennesker saa tæt som muligt indtil Husvæggene, for at nyde godt af den Smule Skygge som faldt af Markiserne over Butikvinduerne.
+    </p>
+    <p>
+     Det var ellers ikke mange Folk at se paa Gaden. Det var midt i Sommerferien, da hele det fine Kristiania ligger paa Landet.
+     
+    </p>
+    <p>
+     Man saa en og anden Forretningsmand, som ruslede nedover til «Engebret»
+     
+     for at faa sin Lunch, eller smaa Flokker af skidne Almuskolebørn, som skulde paa Vippetangen
+     
+     og bade; fire–fem Arm i Arm slentrede de afsted, lykkelige over at slippe til denne sin eneste Feriefornøielse.
+    </p>
+    <p>
+     Inde i Butikkerne stod søvnige Handelsbetjente og længtede efter Kvælden, da de ved Bygdø Søbad
+     
+     eller i Tivolihaven
+     
+     hos svenske Sangerinder for en Stund kunde glemme Livets Elendighed.
+    </p>
+    <p>
+     Hos Jensen &amp; Co.
+     
+     i Kirkegaden var Folkene nær ved at forgaa af Kjedsomhed. De førte hovedsagelig
+     <pb n="4"/>
+     finere Manufakturvarer,
+     
+     og kunde, som Jensen udtrykte sig, smigre sig med at tælle Byens bedste Damer blandt sine Kunder. Men for den Slags Forretninger var det nu en absolut død Tid.
+    </p>
+    <p>
+     De hvide Lærredsgardiner
+     
+     var nedrullede og ind gjennem den aabne Dør væltet Gadestøvet sig i tykke
+     
+     Skyer og bredte sig over Diske og Hylder. Og det var det eneste, som skaffede Betjeningen lidt Arbeide; for nu var Knappereoler, Silkebaandsskuffer og Kniplingsæsker ryddet om igjen og om igjen saa ofte, at der ikke længer var noget at finde paa med dem heller. I sin Fortvilelse gav de sig til at snakke om Chefen.
+    </p>
+    <p>
+     «Skulde Fan være Chef, naar en skulde gjøre sig saa lidet godt af Verden,» sa Hansen, en liden mørk Fyr med storrudet Slips og røde Næver. Han slængte sig ned paa en udtrukken Skuffe, saa det knagede i Disken.
+    </p>
+    <p>
+     «– hænge paa Kontoret hele Dagen i denne fæle Varmen, saa en ikke kan faa røre sig.»
+    </p>
+    <p>
+     Lange Tobiassen gryntede. Han hang fremover Disken og gad ingenting.
+    </p>
+    <p>
+     Hansen knurrede videre. Den «Linerla»
+     
+     derinde, det var akkurat, som han gjordes paa. Passed paa som en Smed hele Dagen, saa en kunde ikke faa sig en halv Øl, om en var dauefærdig af Tørst.
+    </p>
+    <p>
+     De andre var enige. Dog mente Frk. Halvorsen, at det jo var rigtig af Chefen, at han passed Forretningen
+     <pb n="5"/>
+     sin. Hun stod halvt bortgjemt i en Krog og lured sig til at hekle paa en Blonde.
+    </p>
+    <p>
+     Men ret som det var kom Chefen trippende ind fra Kontoret paa de blankpolerede Skoene sine, snused i Skuffer og Kroger og var misfornøiet. – Han var altid grætten, naar det var stille i Forretningen. – Da han for Øieblikket ikke fandt noget særligt at bemærke, gav han sig til at stryge med den tykke, hvide Pegefingeren sin langs Reoler og Disker, om der ikke skulde være noget Støv et eller andet Steds –; men da selv det «for en Gangs Skyld» var i Orden, mumlede han lidt om denne «Helvedes Varmen» og gik ud.
+    </p>
+    <p>
+     «Saa gudskelov, nu rusler han hjem til Madamen,»
+     
+     udbrød Hansen lettet, «saa kan en kanske faa puste paa lidt!»
+    </p>
+    <p>
+     Hekletøiet kom atter frem fra Skuffen, hvor det hurtig var blevet gjemt, da Chefen kom; og Tobiassen indtog igjen sin Yndlingsstilling: Overkroppen fremover Disken og Hovedet støttet i Hænderne.
+    </p>
+    <p>
+     «Har du toogtyve Øre paa dig, Tobiassen?»
+    </p>
+    <p>
+     Tobiassen sa ikke et Ord; men tog op sin Portemonæ
+     
+     og la toogtyve Øre paa Disken.
+    </p>
+    <p>
+     Hansen tog dem med et dybt Buk og gik paa Taaspidserne henimod Bagdøren.
+    </p>
+    <quote>
+     <l>
+      «Saa lunkar vi saa smaanigom
+     </l>
+     <l>
+      tra la la la la la la la –»
+      
+     </l>
+    </quote>
+    <p rend="noIndent">
+     <pb n="6"/>
+     nynned han, idet han efterabede Chefens Gang og Holdning.
+    </p>
+    <p>
+     «Uf den Hansen!» sa Frøken Halvorsen indigneret, da han var ude af Døren.
+    </p>
+    <p>
+     «Aa naa da?»
+    </p>
+    <p>
+     «Det er da virkelig stygt at herme saan efter Chefen.»
+    </p>
+    <p>
+     «Ja, det er virkelig stygt; ikke vilde jeg gjøre det,» sa Tobiassen med paataget Alvor.
+    </p>
+    <p>
+     «Aa De da.»
+    </p>
+    <p>
+     Hun vendte sig surmulende ifra ham.
+    </p>
+    <p>
+     «Det er ikke noget at blive sint for det vel; det er virkelig Alvoret mit. Forresten kunde jeg ikke heller, om jeg vilde. Hansen er et Geni han, skal jeg si Dere.»
+    </p>
+    <p>
+     «Pyh!»
+    </p>
+    <p>
+     «Det er sandt, det. Jeg garanterer, at der ikke fins nogen i hele Byen, som kan efterligne Tivander
+     
+     saa godt som han. Det er akkurat, som De skulde høre'n.»
+    </p>
+    <p>
+     «Jasaa?»
+    </p>
+    <p>
+     «Ja, har De ikke hørt Tivander da?»
+    </p>
+    <p>
+     «Nei.»
+    </p>
+    <p>
+     «Har De aldrig været paa Tivoli
+     
+     kanske?»
+    </p>
+    <p>
+     «Nei aldrig.»
+    </p>
+    <p>
+     Han reiste sig op og gik henimod hende.
+    </p>
+    <p>
+     «Da skal De jamen bli med i Kvæld, saa kjøber jeg Billetter, naar jeg gaar til Middag. Vil De?»
+    </p>
+    <p>
+     <pb n="7"/>
+     Hun saa lidt usikkert paa ham. Hun havde græsselig god Lyst.
+    </p>
+    <p>
+     «Ja-a Tak, jeg vilde nok, men –»
+    </p>
+    <p>
+     «Men? – Hvad da?»
+    </p>
+    <p>
+     «Ja, jeg mener om det gaar an for Damer at gaa paa Tivoli?»
+    </p>
+    <p>
+     «I Theatret ja? Der gaar Byens fineste Damer.»
+    </p>
+    <p>
+     «Jasaa – ja Tak; da saa.»
+    </p>
+    <p>
+     «Her er Øl!» raabte Hansen inde fra Lageret. «Aa vær saa snil at vaske lidt af Koppen da, Tulla – Aa Omforladelse, Frøken, mente jeg.» Han kom hen i Døren med en hankeløs Kaffekop.
+    </p>
+    <p>
+     «Den begynder liksom at bli lidt brugt, skal jeg si Dere.»
+    </p>
+    <p>
+     Frøken Halvorsen maatte le. Udsigten til at komme paa Tivoli havde sat hende i saa godt Humør, at hun ikke engang blev sint, fordi han sa «Tulla». Herregud, han mente jo ikke noget ondt med det. Hun tog Koppen og holdt en grundig Storvask paa den inde paa En-Gros Lageret, hvor der var Vand og Vask.
+    </p>
+    <p>
+     Men drikke vilde hun paa ingen Maade.
+    </p>
+    <p>
+     Gud, Chefen kunde komme! Hun leverede Koppen og sprang ind i Butikken igjen.
+    </p>
+    <p>
+     Men Tobiassen kom efter.
+    </p>
+    <p>
+     «Kom nu Frøken, De kan være ganske tryg for ham nu. – Saa, lad det ikke bli koldt nu!» –
+    </p>
+    <p>
+     Nei Tak, hun skulde virkelig ikke ha, – hadde ikke Spor af Lyst paa Øl. Og hun gav sig
+     <pb n="8"/>
+     ivrigt ifærd med at støve Reoler. Jamen var det ærgerligt forresten. Noksaa dumt ogsaa, for han maatte jo være gaat hjem nu; men –
+    </p>
+    <p>
+     «Skynda paa nu, Frøken!» raabte Hansen inde fra Lageret, «vi har ikke mer end en Kop, ved De, og jeg tørster svarligen!»
+     
+    </p>
+    <p>
+     Ja ja, siden de slet ikke vilde lade hende slippe saa – hun vilde jo desuden nødig fornærme Tobiassen; han var egentlig en snil Gut.
+    </p>
+    <p>
+     Hun tømte Koppen i en Fart, og sprang ind igjen, saa ræd som om hun skulde ha stjaalet. De andre lo af hende. Hun var ikke blit varm i Tjenesten enda, mente de.
+    </p>
+    <p>
+     Men ikke før var hun bag Disken, før Chefen kom.
+    </p>
+    <p>
+     Aa Gudskelov –! Hadde hun været et Minut længer, saa havde han faat se det. Der kunde man bare se, hvormeget de andre var at stole paa. Nei aldrig skulde de faa narret hende mer, det skulde være vist. Jo, det skulde rigtig været nydeligt, om han hadde faat se hende staa der og drikke Øl med Handelsbetjenterne. Han kunde gjerne ha jaget hende meddetsamme.
+    </p>
+    <p>
+     Tobiassen havde i en Fart fundet sig noget Arbeide inde paa Lageret; men Hansen havde ikke engang faat reddet Skinnet, han stakkar. Jensen overraskede ham, medens han holdt paa at gjemme Tomflasken, og saa maatte han paa en velment Opfordring strax bringe den ned til Madam Simonsen.
+     <pb n="9"/>
+     Chefen «troede forresten at han før temmelig tydelig havde gjort opmærksom paa, at den Slags Gjenstande ikke hørte hjemme paa et Manufakturlager».
+    </p>
+    <p>
+     Rød af Ærgrelse kom Hansen ind i Butikken igjen, og svor en svensk Ed paa at værre Politispion end den «Linerla» fandtes der ikke. Det var akkurat som han lugtede naar de havde noget for sig inde paa Lageret.
+    </p>
+    <p>
+     «Men det er jo slet ikke rigtig heller at lure Chefen saan,» forsøgte Frøken Halvorsen at indvende.
+    </p>
+    <p>
+     Men da lo Hansen. Rigtig? Kanske de forsømte noe med det? Og kanske hun ikke syntes de kunde trænge lidt en Gang imellem de ogsaa, naar de skulde staa slig og hænge hele Dagen. Man kunde jo dø af Kjedsomhed. Kanske hun indbildte sig at han ikke tog sig noe, Chefen? Pyt san, han havde baade Vin og andet inde i Pulten sin, og ret som det var var han en Tur hos Engebret. De fik da ikke være dumme heller. De var Mennesker de, ligesaavel som han.
+    </p>
+    <p>
+     Jo, det var nok altfor vist, at de kunde trænge det. Hun for sin Del blev sulten igjen næsten strax efter den udkogte Maden hun fik hjemme hos Fru Gundersen, og det Glas Øl havde virkelig gjort godt. Men alligevel –
+    </p>
+    <p>
+     Tobiassen gik til Middag, og lidt efter forsvandt ogsaa Chefen igjen. Han tog Frak og
+     <pb n="10"/>
+     Paraply og gik ud Bagveien. Aha! Han skulde formodentlig til Ormøen,
+     
+     til Borks, siden han tog Frak. Gudskelov. –
+    </p>
+    <p>
+     Om lidt kom Tykke-Larsen, Bogholderen, ind i Butikken for at slaa af en Passiar; da kunde man være fuldstændig sikker. Larsen «kunde» Chefen. I ti Aar havde han siddet paa den Kontorkrakken derinde og havde nu ligesaa god Rede paa sin Chefs Vaner som paa Forretningen.
+    </p>
+    <p>
+     «Nu skal du jamen rive i en Flaske Portvin, Tjukken!» sa Hansen flot. Han vilde vise «Tulla» at han ikke tog sig nær af det som var passeret. «Du er den eneste som ikke har krympet
+     
+     Ny-Tulla enda, og det er jamen daarlig, du som er den rigeste af os allesammen.»
+    </p>
+    <p>
+     Det skulde nu ikke meget til, mente Tobiassen.
+     
+    </p>
+    <p>
+     Frøken Halvorsen saa fornærmet ud. «Fy, hvor væmmelig De er Hansen!» sa hun og snudde sig.
+    </p>
+    <p>
+     «Ja men synes ikke De ogsaa det kunde være Maade paa Gjerrighed da? Han spinker og sparer, som om han skulde ha Kjærring og Unger at forsørge.»
+    </p>
+    <p>
+     Larsen tog det roligt. Han var vant til at blive ærtet for Bankbogen sin. Han var formelig en Størrelse inden Handelsbetjentverdenen paa Grund af denne Bankbog, og da han gjerne laante ud Penge mod Renter, havde han foruden «Tjukken» ogsaa faaet Tilnavnet «Banken».
+    </p>
+    <p>
+     Til deres store Forbauselse sa Larsen om lidt,
+     <pb n="11"/>
+     at han vel fik
+     
+     hente en Flaske Vin da. Og saa gik han efter at have stukket en Tomflaske forsigtig under Frakken.
+    </p>
+    <p>
+     «Men i Jøsse Navn, hvad gaar der af Tjukken da? De skal jagu se han er forlibt
+     
+     i Dere, Frøken!» –
+    </p>
+    <p>
+     Hun vilde til at svare ham, men saa kom Tobiassen. Mon han havde faaet Biletter? – Jo gudskelov! Aa gid det nu bare var Kvælden.
+    </p>
+    <p>
+     Hun blev saa oprømt ved Tanken paa Kvælden og al den Morro som ventet hende, at hun for anden Gang glemte sine gode Forsætter. Naar det var selve Larsen som rev i, saa kunde man vel være tryg. Et eneste Glas kunde hun ialfald drikke; det var jo fort gjort. –
+    </p>
+    <p>
+     Lidt efter sad de inde paa Lageret, gemytligt placerede paa hver sin Lærredsrul omkring en omvendt Tomkasse som tjente til Bord. Flasken var halvtømt og Hansen begyndte at synge Tivoliviser. Larsen hyssede, men det hjalp ikke. Hansen spillede Tivander.
+    </p>
+    <p>
+     Frøken Halvorsen lo saa Taarerne randt. Aa Gud, hvor han var komisk! Hun kom vist til at le sig ihjel, naar hun fik se Tivander selv.
+    </p>
+    <p>
+     «Frøken maa jeg byde Dem en Pæ-æ-re,» sang Hansen, idet han knælende rakte hende Glasset.
+    </p>
+    <p>
+     «Nei nu er jeg ræd det blir formeget,» sa hun leende; men drak alligevel.
+    </p>
+    <quote>
+     <l rend="indent_1">
+      <pb n="12"/>
+      «O de flickorna!
+     </l>
+     <l rend="indent_1">
+      O de flickorna!
+     </l>
+     <l>
+      når som de börjar med gossarne at leka,
+     </l>
+     <l>
+      då har de så rysligt svårt for at neka!»
+      
+     </l>
+    </quote>
+    <p>
+     «Hold Kjæft, for Fanden, der kommer Folk!»
+    </p>
+    <p>
+     I et Nu var Tobiassen nede i Butikken og bukkede for en Dame som var indkommen.
+    </p>
+    <p>
+     Men han kom strax igjen. Hun skulde naturligvis ha Mage til noget Tøi som var kjøbt i attenhundrede og den Tid.
+    </p>
+    <p>
+     «Har dere set den nye Kasserersken over hos Skindhandleren?» spurgte Tobiassen om lidt, «en
+     
+     liden nydelig «Helledussen»
+     
+     med lang Flette?»
+    </p>
+    <p>
+     Nei, det hadde de ikke. Men Hansen snudde de Barter han ikke hadde, og meddelte, at han øieblikkelig vilde over og undersøge Pigebarnet.
+    </p>
+    <p>
+     Fy, de var i Grunden fæle til at snakke. Frk. Halvorsen prøved at se morsk ud, og tænkte, at hun vist burde gaa; men hun blev alligevel. Og da de fyldte den sidste Vin i Glassene og begyndte at synge Hansens Yndlingsvise i Chor, kunde hun ikke la være at nynne med:
+    </p>
+    <quote>
+     <l rend="indent_1">
+      «Med flickan, med flickan
+     </l>
+     <l rend="indent_1">
+      er bedst på tumanhand.
+     </l>
+     <l rend="indent_1">
+      Vid bägern, vid bägern
+     </l>
+     <l rend="indent_1">
+      ses gjerne trediemand.»
+      
+     </l>
+    </quote>
+    <p>
+     De sidste to Linier sang hun med af fuld Hals.
+    </p>
+    <p>
+     <pb n="13"/>
+     – Dennegang gik det godt. Chefen kom ikke igjen om Eftermiddagen. Der blev hentet Øl paanyt, og der var et syndigt Leven inde paa Lageret.
+    </p>
+    <p>
+     Frk. Halvorsen havde ret som det var Anfald af ond Samvittighed. Tænk om han kom alligevel. Hun vilde dø af Skam, hvis han fik se hende staa der og fjase med Herrerne. Det var jo slet ikke rigtig – saa snil og hyggelig som han havde vært mod hende; men det var for kjedeligt at staa derinde i Butikken alene, naar de andre holdt Morro; hvert Øieblik maatte hun ind til dem og høre hvad de
+     <emph>
+      nu
+     </emph>
+     lo af igjen. Gud, for alle de Historier de fortalte. Det var frygtelig Morro at høre paa, enda hun forstod ikke paa langt nær alt. De fortalte om Skipperfruer som hadde «Kapellaner»
+     
+     og Løitnanter og Grosserere som holdt «Mætresser»,
+     
+     Gud ved, hvad det egentlig betød; men noe grovt var det vist ialfald, for de lo saa frygtelig. Sligt noget havde hun aldrig hørt Tale om hjemme i Sandefjord. Der var vist meget rart herinde i Kristiania. –
+    </p>
+    <p>
+     – – Det var umuligt for hende at faa sove den Nat. Vinen hun havde drukket om Eftermiddagen, og alt hun havde set og hørt havde gjort hende rent fortumlet. Historierne fra Lageret, Scener fra Theatret, og Samvittighedskvaler fyldte i stor Forvirring hendes Hode.
+    </p>
+    <p>
+     Sommetider lo hun høit af et eller andet fra
+     <pb n="14"/>
+     Tivoli. Hun havde moret sig storartet. Jo, det var nok noget andet at være i Kristiania alligevel! – Tænk om man kunde more sig slig hver Dag! Men det var der vel ingen som kunde. Det kostet vist svært mange Penge; jo Chefen kunde; men han brydde sig vel ikke om sligt. Han var jo gift, og da var det naturligvis hyggeligere at være hjemme.
+    </p>
+    <p>
+     – Besynderlig at han skulde ha fire Barn alt, han saa yngre ud end Tobiassen – Aa du Verden, hvor dum hun havde været som havde trod at det var farligt at gaa paa Tivoli; der var fuldt op af elegante Damer. – For alle de deilige Kjoler hun havde set, og Hatter – huf, hvor hun havde skammet sig over sin egen hjemmesyede Dragt. Den maatte se ynkelig gammeldags ud ved Siden af de andres. – Gud ved, hvad Tid hun kunde faa sig en ny Kjole? Det kunde ikke bli før hun fik lidt større Gage; men fireogtyve Kroner var jo allerede meget for hende som var saa ung.
+    </p>
+    <p>
+     Ja, hun havde saamen været heldig som havde faat den gode Posten,
+     
+     saadan en Mængde Ansøgere som der var, og hun var den yngste; – bare hun nu ikke havde stelt sig saa, at hun mistet den igjen. Huf, hun turde ikke tænke paa det. –
+    </p>
+    <p>
+     Gud ved om ikke Tobiassen kom til at fri til hende forresten. Han havde trykket hende saa
+     <pb n="15"/>
+     varmt i Haanden inde paa Lageret i Eftermiddag – huf, hun havde vist været altfor munter, og drukket mer end hun skulde. Hun blev hed, naar hun husket paa at hun havde taget den Nøglen som hang ved Bagdøren og gaat ud lige for Næsen paa dem; – det blev frygtelig flaut at træffe dem igjen i Morgen.
+    </p>
+    <p>
+     Ret som det var begyndte hun at føle sig sulten. Hun havde ingenting spist siden Middag. De kunde jamen gjerne sætte af lidt Mad til hende naar de skjønte hun ikke kom hjem. Kanske der stod noget henne paa Buffeten?
+     
+    </p>
+    <p>
+     Hun sprang op og gik i bare Linnedet
+     
+     omkring og ledte. Nei da, ikke Spor. Kunde de ikke bare sat ind et Par skaarne Smørogbrød og lidt Melk? Hun var næsten paa Graaden. Men der var altsaa ingen Raad med det, hun maatte lægge sig med det hun havde.
+    </p>
+    <p>
+     Og saa begyndte Tankerne paany.
+    </p>
+    <p>
+     – Egentlig skulde hun fortælle Chefen hvordan de bar sig dernede i Forretningen, det havde været hendes Pligt. Chefen, som var saa hyggelig! – Han var nok lidt streng; han forstod at holde Styr baade paa lange Tobiassen og den ækle Hansen med de røde Labberne; og det var derfor de harcellerte ham ogsaa, – kaldte ham «Linerla» fordi han trippede – – – – de Toskerne; han gik netop nydelig, gjorde han, saa let og fint som en Dame – –; og skjønt han var streng, var
+     <pb n="16"/>
+     han i Grunden snil, og tænk, saa morsom og komisk han var, naar han expederte! – Nei, det var i Grunden for galt. Hun vilde ikke være med dem paa saadanne Narrestreger mer; – Gudskelov at Chefen endnu ikke vidste noget.
+    </p>
+   </div>
+   <div type="chapter">
+    <head type="main">
+     II.
+    </head>
+    <p>
+     <pb n="17"/>
+     Ved Hjelp af sin Tante, Fru Pølsemager Hedels, havde Frøken Halvorsen faat Logi hos Agent
+     
+     Gundersens. Det var snille hyggelige Folk, som hun likte godt.
+    </p>
+    <p>
+     De klorede sig møisommeligt igjennem; thi Gundersen dyrkede sin Fløite og sin Toddy
+     
+     mer end sin Forretning, og det var saaledes kun Fruens «Pensionat» som egentlig indbragte noget. Men ogsaa Pensionatet var en usikker Forretning, og saa blev det at slide sig frem fra Dag til Dag med syv Sorger og otte Bedrøvelser.
+    </p>
+    <p>
+     Frøken Halvorsen skulde betale 24 Kroner om Maaneden for Kost og Logi; men da var der naturligvis ikke Tale om at faa eget Værelse. Hun sov paa Feltseng i Spisestuen og var ellers «i Familien».
+    </p>
+    <p>
+     Fru Hedels havde været glad over at faa sin Søsterdatter anbragt hos Gundersens. Hun vilde nemlig ikke gjerne have hende i sit eget Hus; thi Datteren, Frøken Marie Hedels, kunde jo ikke godt
+     <pb n="18"/>
+     være sig bekjendt at have til Kusine en Butikjomfru.
+    </p>
+    <p>
+     Frøken Marie gik paa Nissens Guvernanteskole
+     
+     og havde fine Veninder. Det var allerede galt nok, at hun selv var Datter af en Pølsemager, om hun ikke ogsaa skulde trække omkring med en Kusine, der var Skrædderdatter fra Sandefjord og ovenikjøbet stod hos
+     
+     Jensen.
+    </p>
+    <p>
+     Men for Frøken Halvorsen var det ikke bare Morro at bo i en Spisestue.
+    </p>
+    <p>
+     Hun maatte bestandig op længe før de andre, da Sengen skulde ud og Værelset være i Orden til Frokosten. Stelle sig ordentlig fik hun næsten aldrig. Hun maatte bare rive paa sig i en Fart til de andre kom. Og om Kvælden blev det gjerne saa sent, før hun fik Værelset til sin Raadighed, at hun var altfor træt. Spisestuen gjorde nemlig Tjeneste som Forsamlingssal for hele Huset. Og saa var det Gundersen, som ofte holdt paa halve Natten med Fløiten. Havde han først begyndt, var det næsten umuligt at faa ham til at slutte. Især naar han havde faat sig et Par Glas Toddy. Det kunde være Morro en Stund, især naar han spilte Danser og sligt, men naar han begyndte at spille efter Noder, kjedelige Stykker som aldrig tog Ende, da var det ikke til at udholde. Hun stod i en Krog og gjæspede, saa Taarerne trilled, og var nær ved at falde af Stolen af Træthed.
+    </p>
+    <p>
+     Aa, naar hun engang kunde komme saa langt,
+     <pb n="19"/>
+     at hun fik eget Værelse. Men huf, naar hun tænkte paa alt hun maatte ha først, Undertøi og Kjoler og alt muligt –; aa nei, hun kom nok til at nøie sig med Spisestuen endnu i lange Tider og være glad til. Men jamen var det daarligt af den rige Tante Hedels, at hun ikke kunde hjælpe hende lidt. –
+    </p>
+    <p>
+     Da Pigen vækkede hende Morgenen efter at hun havde været paa Tivoli med Tobiassen, var hun græsselig træt. Men der var ikke Tale om at faa dovne sig i Dag; Hanna var mer end almindelig grætten; – sint naturligvis, fordi hun havde maattet staa op og lukke hende ind i Gaaraftes. Hun begyndte at sope Gulvet saa Støvskyen stod; intet andet at gjøre end at fly op saa fort som muligt og se til at komme i Klæderne.
+    </p>
+    <p>
+     Frøken Halvorsen gruede for den lange Dag og for at træffe sine Kolleger, men mest for Chefen. Hun havde ikke god Samvittighed. Damer i andre Forretninger gjorde vist aldrig saadant – tænk fjase og drikke med Betjentene. Huf, at hun skulde være saa let at lokke bestandig.
+    </p>
+    <p>
+     Saadan en Chef og saadan en Post fik hun aldrig igjen. Nei nu
+     <emph>
+      skulde
+     </emph>
+     det være slut. Hvor hun skammede sig, naar hun tænkte paa, at hun havde ladet Tobiassen trykke sig i Haanden inde paa Lageret i Gaar; og saadan som Hansen havde baaret sig; det var slet ikke nogen fine Viser han havde sunget. Hun kunde ærgre sig ihjel, men nu var det forsent nu.
+    </p>
+    <p>
+     <pb n="20"/>
+     Paa Veien til Butikken gik hun og studerede paa, om det kunde gaa an at lade være at sige «Tak for i Gaar» til Tobiassen; men det var vel for uhøfligt. Hun fik sige det, men saa skulde hun tie som en Mur Resten af Dagen; saa blev de kanske kjed af at snakke til hende.
+    </p>
+    <p>
+     Hun kikked paa Uhret paa vor Frelsers Kirke;
+     
+     du store Verden, var den ikke ti Minutter over otte alt. Bare nu ikke Chefen var kommet. Sommetider kom han med det samme de lukked op. –
+    </p>
+    <p>
+     «Naar man snakker om Solen, saa skinner den,» sa Tobiassen galant, da hun kom ind af Butikdøren.
+    </p>
+    <p>
+     Hun sa Godmorgen og Tak for i Gaar i en saa komisk høitidelig Tone, at Tobiassen blev staaende og glo. Hvad i Jøsse Navn gik der af Gjentungen? Men da han skjønte det skulde være Alvor, satte han i at storle. Hun blev flau og skyndte sig ind paa Lageret med Overtøiet.
+    </p>
+    <p>
+     Enda værre blev det, da hun for at faa Fred sa, at hun havde Hodepine. Ha–ha–ha! saa hun havde Katzenjammer.
+     
+     «Det er bare Mangel paa Øvelse det Frøken; det gir sig i Enden, sa Rebslageren.»
+    </p>
+    <p>
+     Aa Gud, hvor de var ækle; nu trodde de formodentlig, at de kunde behandle hende som de vilde; men det skulde de være fri for.
+    </p>
+    <p>
+     Da hun kom ind igjen var Jensen kommet, og sammen med ham Fru Assessor
+     
+     Block. Fruen
+     <pb n="21"/>
+     skulde ha sig en Kjole; og godt var det ialfald, at han havde nogen med sig; saa la han ikke saa meget Mærke til hende.
+    </p>
+    <p>
+     «Altsaa en Selskabskjole, Frue?» – henvendte Chefen sig med udsøgt Venlighed til Assessorinden.
+    </p>
+    <p>
+     «Nærmest en Selskabskjole, ja,» svarede denne; «Direktøren derude gir nok ikke stor Middag for ingenting!»
+    </p>
+    <p>
+     «Nei, nei, man lever, man lever …»
+    </p>
+    <p>
+     Fruen tog Plads, mens Jensen satte to Stole foran hende til at brede ud Tøierne paa.
+    </p>
+    <p>
+     «En Selskabskjole ja,» gjentog han langsomt og grundende, idet han saa sig om i Hylderne. «Ak ja, bedste Frue, naar jeg nu bare vidste –» fortsatte han med klynkende Stemme og tragiske Armbevægelser. «Jeg har rigtignok for Tiden et Assortement af culørte Stoffe som – men til Dem, kjæreste Frue, ved jeg virkelig ikke –. Nyt, nyt; aa disse Damer, disse Damer!»
+    </p>
+    <p>
+     «Aa, vi er saamæn ikke saa farlige enda; vi lar os vist noksaa let lure, tænker jeg.»
+    </p>
+    <p>
+     «De er slem, Frue, – min værste og min
+     <emph>
+      bedste
+     </emph>
+     Kunde,» la han til, idet han bøied sig fremover Disken og saa hende ind i Ansigtet med et elskværdigt Smil.
+    </p>
+    <p>
+     «Aa De Jensen,» lo Fruen og rystet paa Hodet.
+    </p>
+    <p>
+     «Dybgrønt med gult, huf nei, det har De prakket paa mig før engang; har De ikke noget mer moderne?»
+    </p>
+    <p>
+     <pb n="22"/>
+     «Det er sandt, det har De ogsaa før. Men,» udbrød han pludselig begeistret, «her har jeg en Kjole for Dem! netop en Kjole for Dem, Frue! Et aldeles deiligt engelsk Stof – aa Hansen, vil De ta ned det dueblaa deroppe, det nye engelske ved De, det som kom med sidste «Angelo»;
+     
+     – det ja, Tak.» –
+    </p>
+    <p>
+     Hansen pakkede Stoffet ud af Papiret og leverte det til Jensen, som bredte det ud over Stolene og holdt det op for hende, sirligt sammenfoldet mellem sine hvide Fingre.
+    </p>
+    <p>
+     «Nu, hvad siger De, Frue?»
+    </p>
+    <p>
+     «Aa–aa jo; men man blir saa bleg i den Farve; jeg tror neppe jeg kan bruge det.»
+    </p>
+    <p>
+     «De Frue! Jo netop! netop! Men jeg vil sige: mange er det ikke som kan bære en Kjole af den Farve; det er et af de Stoffe, som man ikke viser frem til Per og Paal.»
+     
+    </p>
+    <p>
+     «Men tendert
+     
+     er det, frygtelig tendert,» mente Fruen, idet hun med kritisk Mine beskuede Tøiet.
+    </p>
+    <p>
+     Ja deri maatte Jensen give hende Ret. Det var ingen Dagligkjole. Han kunde vise hende hundrede Stoffe, hvis Farve han kunde garantere for Sol og Vand; han havde f. Ex. …
+    </p>
+    <p>
+     «Nei Tak, tag det ikke frem Jensen, jeg ser det herfra; det falder for mørkt; men har De f. Ex. noget vakkert i gulbrunt?»
+    </p>
+    <p>
+     Jo, i gulbrunt havde han her netop et smukt Stof, reneste Vare, extra Kvalitet, som han trygt kunde anbefale.
+    </p>
+    <p>
+     <pb n="23"/>
+     «Aa Frk. Halvorsen, vil De komme hid et Øieblik, er De snil?»
+    </p>
+    <p>
+     Frøken Halvorsen kvak op og blev blussende rød; hun havde rent glemt sig selv og bare staat og glod paa Chefen, som expederte saa nydeligt. Hun gik udenfor Disken, saa forlegen som en Skolepige.
+    </p>
+    <p>
+     «De faar være Prøvejomfru et Øieblik, Frøken Halvorsen –,» smilte han venligt til hende.
+    </p>
+    <p>
+     Han tog Stoffet og ordnede det som Draperi fra hendes Skulder og nedover, saa Fruen omtrent kunde se, hvordan det vilde tage sig ud i Kjole.
+    </p>
+    <p>
+     «Hvad siger De, Frue, smukt ikke sandt?»
+    </p>
+    <p>
+     Han saa nedover Tøiet, derpaa op igjen, og standsed saa et Øieblik smilende ved Frk. Halvorsens brune friske Ansigt. Hun slog Øinene ned og blev endnu rødere. Han holdt Tøiet sammenfoldet paa hendes ene Skulder, saadan at hans Haand hvilte ganske let paa den. Hun havde Følelsen af, at hvis han ikke tog den Haanden væk snart, saa orked hun ikke at staa længer; hun kjendte den lige ned i Knæerne.
+    </p>
+    <p>
+     Næsten som i Drømme hørte hun ham sige Tak, idet han tog Tøiet væk. Fruen likte alligevel bedre det dueblaa.
+    </p>
+    <p>
+     Frk. Halvorsen skyndte sig indenfor Disken og gav sig til at stelle med nogle Æsker, som stod paa Bagdisken, saadan at hun kunde snu Ryggen til de andre. Mon de havde set paa hende? Idetsamme
+     <pb n="24"/>
+     kom Hansen med et stort Stykke Tøi, som skulde op i Hylden. Da han var kommet lige bag hende, hvisket han ganske sagte: «O de flickorna, o de flickorna!»
+    </p>
+    <p>
+     Hun lod som hun ikke hørte det, men gik idetsamme hurtig ind paa Lageret. Hun kunde graate af Flauhed.
+    </p>
+    <p>
+     Da Fruen endelig var ude, kom Jensen for at gaa ind paa Kontoret. «Nogen frygtelige Mennesker disse Kvindfolkene!» sa han spøgende, idet han gik forbi.
+    </p>
+    <p>
+     Hun lo bare.
+    </p>
+    <p>
+     «Aa ja, de er jo ikke alle lige gale da,» tilføied han og saa venligt paa hende.
+    </p>
+    <p>
+     Gud! hvor sød han var! Hun var saa glad, at hun kunde danse. Tænk en Chef saa hyggelig og ligetil. Hun blev saa tryg og let og fornøiet. Det var da dumt at være saa ræd ogsaa – akkurat som en Unge. Det var da sletikke saa farligt heller, det der i Gaar. Hun havde været lidt munter bare. De andre havde saamæn været meget værre.
+    </p>
+    <p>
+     Hun retted sig op, stelte lidt paa Haaret og gik smaanynnende ind i Butikken igjen. Hun skulde vise den Hansen, at hun ikke tog sig nær af Jaaleriet
+     
+     hans!
+    </p>
+    <p>
+     Hun gik stram forbi ham og hen til Vinduet, hvor hun gav sig til at se ud paa Gaden.
+    </p>
+    <p>
+     «Kjender De den Fyren
+     
+     paa den andre Siden
+     <pb n="25"/>
+     af Gaden der, Frøken?» spurgte Tobiassen, som stod ved Vinduet og saa ud.
+    </p>
+    <p>
+     «Hvilket? – Nei, det gjør jeg vist ikke,» svarte hun aandsfraværende.
+    </p>
+    <p>
+     «Han med svart Skjæg og Lorgnet?
+     
+     Det er han, som vil indføre fri Kjærlighed; har De ikke hørt snakke om ham da? Han har skrevet en fælt morsom Bok
+     
+     om alle Smaapigerne sine, saadanne som han af og til har havt det hyggeligt med.» Han saa bort paa Hansen og lo betydningsfuldt.
+    </p>
+    <p>
+     Frk. Halvorsen lod som om hun ikke hørte; hun var optaget med at se efter et Par Damer, som gik forbi.
+    </p>
+    <p>
+     «Det er jagu et godt Paafund det derre med fri Kjærlighed,» mente Hansen. «Denne Giftinga er noe forbanna Sludder. Om en vil snakke lidt med Smaapigerne, saa er det ikke noget, som andre behøver at stikke Næsen sin i det, vel! Jeg siger som Tivander jeg: Med flickan, med flickan er bedst paa Tumanhand.»
+    </p>
+    <p>
+     Nei, nu kunde det vist være passende at forsvinde, tænkte Frk. Halvorsen. Hun gik og fandt sig noget at bestille inde paa Lageret.
+    </p>
+    <p>
+     Svært saa meget de vidste derinde i Butikken. Hvad mon egentlig «fri Kjærlighed» var for noget? Det var sikkert ogsaa noget, som det ikke gik an for Damer at snakke om. Det kunde forresten være Morro at læse saadan en Bog som den Tobiassen
+     <pb n="26"/>
+     havde nævnt; det var i Grunden ærgerligt at være saa uvidende.
+    </p>
+    <p>
+     «La du Mærke til Tulla ista du?» spurgte Hansen, da Frk. Halvorsen var ude. «Hun blomstred som en Pion,
+     
+     Far; Fan tru slig en liden Helledussen!»
+    </p>
+    <p>
+     «Hun er ialfald Patent
+     
+     enda da,» mente Tobiassen lidt kort.
+    </p>
+    <p>
+     Frk. Halvorsen kom ind igjen og begyndte at pakke ind det blaa Tøistykke, som Fru Block havde faat Kjole af. Naturligvis kom Tobiassen og skulde hænge over hende igjen. Han la sig som sædvanlig fremover Disken og glodde paa hende.
+    </p>
+    <p>
+     «Det der hadde godt af at faa lufte paa sig lidt det,» sa han og lo.
+    </p>
+    <p>
+     «Hvilket?»
+    </p>
+    <p>
+     «Det Tøiet der vel.»
+    </p>
+    <p>
+     «Hvordan da?»
+    </p>
+    <p>
+     Hun lod ham tydelig forstaa, at hun ikke vilde ha nogen Passiar med ham; men Tobiassen lod som ingenting.
+    </p>
+    <p>
+     «Ser De ikke, at det har begyndt at visne i Kanterne af Stueluften da? Der er altid nogle Aar siden det reiste over Nordsøen.»
+    </p>
+    <p>
+     «Jasaa.»
+    </p>
+    <p>
+     «Ja i Dag var'n go. Aa du Jensen, du Jensen! du kan ta Examen i at ljuge naar du vil!»
+    </p>
+    <p>
+     Isch, hvor han var væmmelig den Tobiassen.
+    </p>
+   </div>
+   <div type="chapter">
+    <head type="main">
+     III.
+    </head>
+    <p>
+     <pb n="27"/>
+     Sommerferien var endelig forbi, og Byen fik lidt efter lidt sit vanlige Udseende.
+    </p>
+    <p>
+     I Butikkerne fik man det travelt med at pakke ud de nye Varer for Høstsæsonen. Det var for Butikfolkene en ren Befrielse efter den lange Dødtid.
+    </p>
+    <p>
+     Svære Læs med Kasser og Baller kom kjørende op fra Toldboden og blev stablet i Taarne paa Gulv og Disker. Alle Døre stod paa vid Væg, Sjauerne skreg og bandte, og Betjentene havde nok at gjøre med at bringe de forskjellige Sager paa Plads.
+    </p>
+    <p>
+     Skabe og Hylder fyldtes af nye Varer og af gamle Varer, som blev trukne frem af en Krog paa Lageret og nu skulde lægges ud som «sidst ankomne». Publikum begyndte saa smaat at tænke paa sine Vintertoiletter.
+     
+    </p>
+    <p>
+     Men rigtig travelt blev det først henimod Jul. Da skulde alle Mennesker ha nyt; det var «som om de ikke skulde leve længer end til Jul,» skjændte Hansen.
+    </p>
+    <p>
+     <pb n="28"/>
+     I Forretningerne havde man formelig Feber for at faa alt færdigt til de sidste Par Uger, da man ikke vilde række mer end at expedere.
+    </p>
+    <p>
+     – Endelig kom den sidste Uge med sit Mas fra tidlig om Morgenen til langt paa Nat; da man ikke havde Tid hverken til at spise eller hvile. Og tilsidst kom da ogsaa den saa saart efterlængtede Juleaften, da man kunde gaa tilsengs med den frydefulde Bevisthed, at i Morgen kunde man sove saalænge man vilde.
+    </p>
+    <p>
+     – – I Romjulen, da det atter var stille i Forretningen, sad Frøken Halvorsen hver Formiddag nede i Kjælderen hos Madam Simonsen, drak Kaffe og dovned sig efter bedste Evne.
+    </p>
+    <p>
+     Lidt Formiddagsmad kunde nok være nyttig; de tre Maaltider hun fik hjemme om Dagen, var ikke paa langt nær tilstrækkelige. Brød med vondt Smør og tynd Kaffe om Morgenen, Middagsmad som var udkogt og opspedet til det yderste, og til Aften igjen Smørogbrød og skummet Melk; det var saamen ikke til at blive fed af. Men hun maatte jo klare sig med det, hun som andre. Det var nok ikke mange Butikjomfruer som havde Raad til at spise Formiddagsmad. Men nu i Romjulen, og siden Jensen havde været saa ubegribelig snil at lægge paa Lønnen til hende – hun havde hele 40 Kroner nu –, fik man unde sig lidt extra. Efter Nytaar skulde der blive Sparsomhed igjen; hun fik
+     <pb n="29"/>
+     jo først og fremst tænke paa at faa file af lidt paa Gjælden sin.
+    </p>
+    <p>
+     Aa ja, det fik nok gaa an at spare. Se Kasserersken inde hos Skindhandleren; hun spiste aldrig varm Middag, maatte nøie sig med Kaffe og Rugkage hos Madam Simonsen hele Dagen hun. Men saa havde hun jo ogsaa bare 20 Kroner og stod ikke paa stigende engang; og der var mange som ikke havde mer. Og enda maatte de være ordentlig klædt. Det fik gaa som det kunde med Maden.
+    </p>
+    <p>
+     «Ingen kan se min sultne Tarm, men alle kan se min nakne Arm», som Madam Simonsen sa. Leie et Kot sammen med en Sypige, eller logere sig ind hos en Haandværksfamilie i Udkanten af Byen og saa leve paa Kaffe og Brød til Frokost, Kaffe og Brød til Middag og Potøl
+     
+     og Brød til Kvælds –; nei, hun fik nok være fornøiet, hun, om hun nu ikke netop havde Raad til at være mæt bestandig.
+    </p>
+    <p>
+     Og det havde hun ikke. Ikke paa langt nær. Hun sled rent utrolig Skotøi med den lange Veien, og en Kjole kosted saa mange Penge, at man maatte betale paa den i flere Maaneder. Hun havde allerede tre Gjældsposter at gnage paa, Skomageren, Vaskekonen og Sydamen. Fru Hedels havde i Førstningen ladet hendes Tøi vaske hos sig; men der var altid saa mange Omstændigheder, at Frk. Halvorsen for længe siden havde sluttet at bringe
+     <pb n="30"/>
+     det did. Hun havde jo ikke saa meget Tøi og maatte ha vasket meget oftere end hvergang Fru Hedels havde Storvask. Det var ogsaa noget hun snart maatte tænke paa at faa sig lidt nyt Undertøi. Sex Linneder og sex Par Benklæder og tre pene hvide Nattrøier maatte hun ha; – hun havde bare disse blaa Sirtstrøierne
+     
+     derhjemmefra, og det var rent for lidet. Det var for væmmeligt at rende til Vaskekonen hvereneste Uge med de gamle Fillerne, syntes hun; det gik ikke an for en Dame sligt. –
+    </p>
+    <p>
+     Men det blev vondt at vænne sig af med Formiddagskaffen igjen. Ikke bare det, at hun blev sulten, naar det led paa, men det var ogsaa det, at denne Kaffestund hos Madam Simonsen gjorde Dagen lidt kortere; det var formelig noget, hun kunde gaa og glæde sig til i de lange, kolde Vintermorgener.
+    </p>
+    <p>
+     Hos Madam Simonsen var det hyggeligt og godt og varmt; det kunde man nok ikke sige om Butikken. De havde en saadan fin moderne Magasinovn derinde, som engang ud paa Formiddagen drev det til at varme op lidt opunder Taget; men nede paa Gulvet var det lige koldt. For Betjentene kunde det enda gaa an; de klatrede op paa hver sin Trappe, saa høit de kunde komme; der sad de da og gjorde Vittigheder over Menneskenes Vilkaar i Almindelighed og Handelsbetjentenes i Særdeleshed, indtil Chefen viste sig. Men hun som var Dame maatte holde sig paa Gulvet.
+    </p>
+    <p>
+     <pb n="31"/>
+     Det var morsomt ogsaa hos Madam Simonsen. Den gamle Madam var et Menneske med Livserfaring. Foruden sin Portner- og Skurekonepost havde hun et lidet Øl- og Melkeudsalg, og indenfor, i Blaakammeret, en Øl- og Kaffebule for Gaardens Forretningsfolk. Der kunde man sidde trygt og godt, hvis man ellers forstod at holde sig tilvens med Madamen.
+    </p>
+    <p>
+     Blaakammeret, eller «det Allerhelligste», var et lidet, dybt Kjælderværelse med et enkelt Vindu inde i den tykke Murvæg. Det laa godt gjemt indenfor Kjøkkenet. Der var ogsaa ganske hyggeligt med den gammeldagse Topseng
+     
+     og den store Sofa med Hestehaarsbetrækket; foran Sofaen et stort brunmalt Klaffebord med blomstret Voxdugsteppe og paa Væggene store, gjilde Oljetryk og en Masse Billeder som var udklippet af «Verdens Gang»;
+     
+     – Madamen var nemlig Venstremand.
+    </p>
+    <p>
+     Men for at være rigtig tryg i Blaakammeret maatte man jo af og til «smøre» Madamen lidt. Et Slips, et Forklæde og lignende Smaaterier gjorde altid god Virkning.
+    </p>
+    <p>
+     «Det var svært saa trabelt han hadde han Far sjøl i Dag da,» sa Madam Simonsen; hun kom ind og satte sig i Sofaen hos Frk. Halvorsen, som netop drak sin Formiddagskaffe. «Det skulde vel aldrig brake løs med den femte derude i Dag?»
+    </p>
+    <p>
+     Hun brætted Trøieærmerne ned over de røde Haandled og glatted sit tynde, lyse Haar med begge Haandfladerne.
+    </p>
+    <p>
+     <pb n="32"/>
+     Madamen likte godt at slaa af en Passiar, og Frk. Halvorsen havde i de sidste Par Maaneder modtaget mere Visdom dernede i Blaakammeret end i hele sit Liv før. Thi Madam Simonsen var indfødt Kristianiabarn, og der var ikke den Ting i Byen hun ikke vidste Greie paa.
+    </p>
+    <p>
+     Frk. Halvorsen var en meget interesseret Tilhører. Gud, saa dum som hun havde været! Hun havde trod alle Mennesker saa godt; – aa jo, der var nok mange at tro efter Madam Simonsens Forklaring.
+    </p>
+    <p>
+     – – «Nei, tror De det da; skulde det være saa nær?» Frk. Halvorsen satte Koppen fra sig og snudde sig mod Madamen.
+    </p>
+    <p>
+     «Nei, jeg ved ikke jeg, men jeg syntes hun saa mig ud til lidt af hvert om Fredagen, da hun var inde i Butikken. – En Draabe til, Frøkna mi?»
+    </p>
+    <p>
+     «Nei Tak.»
+    </p>
+    <p>
+     «Er De saa ræd for at miste Skjønheta da?»
+    </p>
+    <p>
+     «Aa De da –. Nei saa De tror virkelig –; og jeg som var saa dum og trodde at –»
+    </p>
+    <p>
+     «– Ja jeg kan ikke vite det jeg; men som sagt, hun saa mig ud til lidt af hvert –. Ja det er den femte detteher naa; – aaja, du Jensenfar, du Jensenfar!» –
+    </p>
+    <p>
+     – «Huf ja, det er fælt; stakkars hende!»
+    </p>
+    <p>
+     «Pyt, er det ikke saa, hu vil ha det da, trur Di? – Hu er saa gælen etter den Manden, saa det er rent ækelt.» –
+    </p>
+    <p>
+     <pb n="33"/>
+     – «Ja, men det er da ikke noget rart, om hun er glad i Manden sin vel?»
+    </p>
+    <p>
+     Madamen gjorde en lang Jeip.
+    </p>
+    <p>
+     «Stakkars Jensen siger jeg bare,» fortsatte hun, «jeg tænker han er fornøid af den Kjærliheta mange Ganger jeg; – aa ja, han kan da gudbevars faa sagt det sjøl aassaa sommetider.»
+    </p>
+    <p>
+     «Hvordan da da?»
+    </p>
+    <p>
+     «– Liksom sidste Gangen hun laa; saa sa jeg det til'n jeg, at jeg syntes det gik svært radigt derude; «ja hvad Fan skal jeg gjøre da, sa'n, – bare jeg rister – – –»
+    </p>
+    <p>
+     «–
+     
+     Aa fy, Madam Simonsen! sig det ikke, sig det ikke!» skreg Frk. Halvorsen og satte Fingrene i Ørene. «Aa fy, hvor fæl De er; og det kunde Jensen –! Aa fy, det havde jeg aldrig trod.»
+    </p>
+    <p>
+     – «Trod! haa haa, san, det er ikke alle som dætter af Stolen, bare en nævner et Par Buxer.»
+    </p>
+    <p>
+     «Nei nu vil jeg gaa.»
+    </p>
+    <p>
+     «Ja det er vel saa det,» sa Madamen og reiste sig med et lunt Smil.
+    </p>
+    <p>
+     Men Frk. Halvorsen gik ikke.
+    </p>
+    <p>
+     «Men tror De ikke,
+     <emph>
+      han
+     </emph>
+     er glad i
+     <emph>
+      hende
+     </emph>
+     ogsaa da, Madam Simonsen?»
+    </p>
+    <p>
+     – «Gla i a – jo vist er'n vel gla i a paa en Maate, han er jo gift med a; – men hu er jo ikke vakker; forlate mi Synd, det er ikke rigtig at si, at Folk er stygge; men De ved aassen Mandfolka er, mener jeg –»
+    </p>
+    <p>
+     <pb n="34"/>
+     – «Nei hun er jo ikke vakker netop; men han er da bestandig saa hyggelig mod hende.»
+    </p>
+    <p>
+     «Jøsses ja, Jensen er en fin Mand; han ved nok aassen det skal være; aassaa hadd'a Penger, ser dere.»
+    </p>
+    <p>
+     «Jasaa?»
+    </p>
+    <p>
+     «Jaha da, mange Penger; det var nok næsten paa Hægta
+     
+     med han, den Gangen han fik snusa op henner.»
+    </p>
+    <p>
+     Frk. Halvorsen begyndte at bli opmærksom. Saa det var altsaa saadant et Fornuftægteskab. – Hun havde læst meget om sligt i Romaner.
+    </p>
+    <p>
+     «Var det daarligt med Forretningen?»
+    </p>
+    <p>
+     «Ja rent skidt var det, skal jeg fortælle dere; men saa fik'n putta ind Pengene hennes, førend no'en vidste noe større om det –.»
+    </p>
+    <p>
+     «Aa saa naa –. Nei Gud hjælpe mig, som sidder saa længe her og væver
+     
+     –!»
+    </p>
+    <p>
+     Frk. Halvorsen reiste sig og gik mod Døren.
+    </p>
+    <p>
+     «Aa pyt san,» sa Madamen og smilte betydningsfuldt, «kjender jeg Folka mine ret, saa er det vel ingen som siger noe til Frøkna for det.»
+    </p>
+    <p>
+     Frk. Halvorsen saa usikkert paa hende. Hvad mon hun mente?
+    </p>
+    <p>
+     «Han Far sjøl er ikke streng mod Damerne,» fortsatte Madamen, «og de andre har vel ikke noe aa si, kan jeg tru.»
+    </p>
+    <p>
+     Frk. Halvorsen blev rød og lidt forlegen. Det var da besynderligt, hvor den Madam Simonsen
+     <pb n="35"/>
+     havde god Greie paa alting. Hun maatte bestemt se tvertigjennem Folk. Netop havde hun siddet og tænkt det samme selv, at det var ikke saa farligt om hun sad en Stund, for Jensen sagde jo aldrig noget til hende.
+    </p>
+    <p>
+     – Hun sa hurtig Godmorgen, sprang gjennen Kjøkkenet, over Gaarden og Bagveien ind i Butikken.
+    </p>
+    <p>
+     Der stod Jensen og expederte hendes Tante Fru Hedels. Men du Alverden, var han alt der. Hun kvak i og blev rød som en Hummer.
+    </p>
+    <p>
+     Hun vidste godt, at han ikke sa noget netop til hende; men hun hørte jo hvad han sa til de andre; og hun vidste hvor daarlig han likte, at de fløi ud i Forretningstiden. Og saa længe som hun havde været.
+    </p>
+    <p>
+     Hun skyndte sig hen og hilste overdrevent venligt paa Fru Hedels. Det var jo muligt, at denne kunde gjøre en liden Forretning. Gud give hun nu ikke bare skulde ha Prøver igjen. Det var det værste Jensen vidste. Men fik han nu solgt et fint Kjoletøi, saa blev han i godt Humør. Og det kom hende ogsaa lidt tilgode. Han vidste jo, at Fru Hedels var hendes Tante, og at hun handlede her meget for hendes Skyld.
+    </p>
+    <p>
+     Men Fru Hedels var ikke let at tilfredsstille. Hun skulde ha en sort Kjole, og der var ikke saa mange Farver i noget som i sort. Noget var for graa-sort, andet for blaa-sort. Noget havde formegen
+     <pb n="36"/>
+     Glands, andet var for mat. Formegen Glands var simpelt; men det skulde jo heller ikke være nogen Sørgekjole, altsaa ikke rent mat heller. Noget faldt for tungt, andet tog saa meget Støv til sig; og saa var der atter noget, som slet ikke faldt godt i Plisséer.
+    </p>
+    <p>
+     Tilslut var Disken fuld, og man var lige nær. Fruen var som en forstyrret Høne; hun kunde ikke se Forskjel paa Tøierne længer; – naar man fik se saa rent formeget paa en Gang, var det raadløst. Hun maatte nok alligevel bede om at faa nogle Prøver med hjem for at vise sin Datter.
+    </p>
+    <p>
+     Men Jensen foreslog at sende Gutten op til hende med nogle hele Stykker; af en Prøve saa man jo ingen Ting.
+    </p>
+    <p>
+     Han havde Morro af at plage hende i det længste, og holdt paa at trække ned og brede udover Diske og Stole, til Fruen bare stod og tigged og bad ham om at holde op.
+    </p>
+    <p>
+     Men Jensen var ubønhørlig.
+    </p>
+    <p>
+     «Nei gudvelsigne dere, Jensen, riv ikke ned mere. Det er ikke sikkert det blir nogen Handel af med os i Dag alligevel.»
+    </p>
+    <p>
+     Jensen holdt paa.
+    </p>
+    <p>
+     «Jeg forsikrer Dem, bedste Fru Hedels; dersom De virkelig skal ha en sort Kjole, saa kan De trygt slaa Dem til Ro hos mig med det samme – i Sort skal jeg kunne tilfredsstille ethvert optænkeligt Forlangende. Jeg har for Tiden et
+     <pb n="37"/>
+     Assortement i sorte Stoffe, som jeg garanterer at ingen, absolut ingen i den hele By skal kunne vise Dem Magen til. Hvad siger De f. Ex. om et Stof som denne franske Velour?
+     
+     – Fineste, reneste Vare. De kan mase det sammen mellem Deres Hænder, De kan behandle det som De vil, ikke en Rynke, ikke en Fold skal De se paa det. – Eller denne engelske Caschemir
+     
+     –? Har De nogensinde set et Stof, som falder smukkere i et Draperi? Aa, Frøken Halvorsen, vil De se hid et Øieblik?»
+    </p>
+    <p>
+     Og atter maatte Frøken Halvorsen være Prøvejomfru. Hun stod der med Tøiet over Skuldrene og forsøgte at indskyde et Ord en Gang imellem. Men det blev saa klodset og dumt alt hvad hun sagde. Roste hun Tøierne, saa vilde Tante Hedels bli fornærmet og optage det, som om hun vilde hjælpe til at snyde hende. Og sa hun ingenting, vilde jo Jensen finde hende dum. Hun stod ligesom mellem Barken og Veden.
+    </p>
+    <p>
+     Det var en stor Lettelse, da Fruen endelig i en fornærmet Tone tilkjendegav, at hun alligevel fik bestemme sig for 10 Meter af Velouren, «siden hun havde skaffet saa meget Bryderi.» Hun havde jo ellers set noget hos Sten og Strøm,
+     
+     som hun likte bedre.
+    </p>
+    <p>
+     Jensen overhørte fuldstændig den sidste Bemærkning og lod øieblikkelig maale af; hvorefter han som sædvanlig gik udenfor Disken og converserede Fruen med den mest udsøgte Elskværdighed.
+    </p>
+    <p>
+     <pb n="38"/>
+     Da Fruen gik, var hun noksaa blid og spurgte Frøken Halvorsen som sædvanlig, om hun ikke snart vilde «se derop».
+    </p>
+    <p>
+     – «Det er en vanskelig Dame Deres Tante,» sa Jensen leende, da Fru Hedels var ude.
+    </p>
+    <p>
+     «Ja, det er den værste jeg ved at expedere,» satte Frøken Halvorsen i saa ivrigt, at han rigtig maatte se paa hende. Hun pleiede altid at svare saa stille og forsigtigt. Det var i Grunden en rar Gjentunge. Og saa vakker som hun var – –
+    </p>
+    <p>
+     Han lo igjen. «Ja, jeg tror næsten, at jeg er enig med Dem –. Kommer De meget i Huset der hos Hedels?»
+    </p>
+    <p>
+     Han gav sig til at rydde op Tøier ved Siden af hende paa Disken.
+    </p>
+    <p>
+     «Nei, næsten aldrig!»
+    </p>
+    <p>
+     «Ikke det? – jeg kjender nemlig Hedels lidt; det er en hyggelig Mand – bra Mand vist.»
+    </p>
+    <p>
+     «Ja, Onkel er svært snil.»
+    </p>
+    <p>
+     «Det er godt for Dem, at De har den Familie her; De er jo ellers saa alene.» Han saa spørgende paa hende.
+    </p>
+    <p>
+     «Aa ja; men det er hyggeligere hos Gundersens, der hvor jeg bor,» svarede hun undvigende.
+    </p>
+    <p>
+     «Saa saa, De har været heldig med Logiet; ja det er jo en god Ting.»
+    </p>
+    <p>
+     – Han snakkede længe med hende om forskjellige Familieforhold, om hendes Hjem o. s. v.
+     
+     Hun fik saadan Lyst til at fortælle ham om alting
+     <pb n="39"/>
+     det var for morsomt, at han saadan gav sig af med hende. Det skulde ærgre de andre godt. Hun saa af og til hen paa sine Colleger. Jo naturligvis stod Tobiassen der og niglodde; – og der stod Hansen og gjorde Ablegøier bag Tobiassens Ryg; hun maatte tvinge sig for ikke at le; han stod paa Taa og gjorde Linerleben.
+    </p>
+    <p>
+     Jensen kløv op og la i Hylden det, som skulde øverst. Han stod paa Trappen og bad hende række sig nogle Stykker Tøi, som laa paa Disken. Hun strakte sig saa langt hun kunde op mod ham, men rak ikke til alligevel, saa han maatte bøie sig dybt ned for at ta imod. Pludselig holdt han paa at miste Ligevægten og maatte ta Støtte med Haanden paa hendes Hoved. Smilende bad han Omforladelse. Hun skreg til med det samme; men da hun saa, der ikke blev noget Fald af, lo hun ogsaa og saa op paa ham. Blikkene mødtes. Det var besynderlig, hvor godt kjendte de ligesom blev idetsamme. Hun følte den Haanden paa Hode sit hele Dagen efter. Jo der var rigtignok Forskjel paa Herrer. Aldrig faldt de andre paa at spare hende for at klyve op. Hun syntes tvertimod, de havde Morro af at faa hende opunder Taget.
+    </p>
+    <p>
+     Tænk at ha en saadan Mand som Jensen. Saa sød som han kunde være. Det kunde ikke være saa farligt at faa et Barn hvert Aar, naar man havde saadan en omsorgsfuld hyggelig Mand. Det maatte bare være deiligt at ligge syg i den
+     <pb n="40"/>
+     fine Sengen og have ham siddende paa Sengekanten og være rigtig glad i sig, kjende ham stryge med den varme, fine Haanden nedover Haaret og Kindet, mens han hvisked kjærlig: «Tak, søde Dina mi.» Der gik en Gysning igjennem hende. Atter følte hun Jensens Haand paa sit Hode som et sagte Tryk, der spredte en varm Strøm gjennem hendes Legeme ligetil Knæerne, som blev matte og skjælvende – hvor det maatte være underligt –. Det var rigtignok noget andet end at staa bag en Disk og fryse og kjede sig. Aldrig kunde man sidde rolig en Stund med et hyggeligt Haandarbeide, aldrig kunde man ligge og hvile sig godt en Dag, om man var træt og daarlig. – Men saadan en Mand var det nok ikke let at faa. – –
+    </p>
+    <p>
+     Og saa deiligt som det maatte være at ha en, som sørget for alting, og være kvit disse evige Pengebekymringer. Huf, det var næsten det værste af alt. Et Værelse fik hun vel ikke i dette Liv; det gik til Tøi alting. Det var saa koldt i denne væmmelige Butikken, at man maatte staa emballeret i Uld fra Top til Taa, hvis man ikke skulde fryse Helsen af sig. Uldtrøier med lange Ærmer og Uldbenklæder havde hun maattet koste sig tidlig i Vinter. Nu skyldte hun baade for et Kjoletøi og for al den kostbare Flonellen
+     
+     hos Jensen; men det var hende ikke mulig at faa betalt af noget endnu. Hun var ængstelig, hvergang hun skulde hæve Gagen. Men gudskelov, endnu blev der aldrig
+     <pb n="41"/>
+     talt om Gjældsposterne. Hun fik altid sin Løn fuldt udbetalt.
+    </p>
+    <p>
+     Hun havde sommetider tænkt paa at bede Tante Hedels om et lidet Laan; men det var saa frygtelig leit. Idetheletaget var det hende en Plage at gaa til Hedels; den Maade, hvorpaa Frøken Marie behandlede hende, var for ækel. Skulde hun ovenikjøbet komme til at skylde dem Penge, vilde det ikke bli til at udholde.
+    </p>
+    <p>
+     Havde hun havt 20 Kroner om ikke mer, saa havde hun da ialfald kunnet klare den kjedelige Skomageren, og enda faat lidt til Sydamen.
+    </p>
+    <p>
+     Huf nei, det kunde ikke nytte at tænke paa alle disse Pengegreierne, det var bare at plage sig til ingen Nytte. Og her var nok af Plager alligevel. Alt var saa trist og uhyggeligt. Denne Filleovnen vilde ikke trække; man kunde fryse Liv og Helse af sig; ogsaa sligt et mørkt, kjedeligt Veir, ikke Sol at se hele Dagen. Den som enda havde noget godt varmt at drikke. Hun roded i sin Portemonnæ og fandt en Femogtyveøring; det var Resterne af en Krone som hun igaar havde laant af Tobiassen. Hun havde pludselig faaet en Ide –: en Dram kunde gjøre mægtig godt nu. Hun havde sommetider faat Drammer af Betjentene om Formiddagen, og det havde altid hjulpet, baade for Kulden og for Humøret.
+    </p>
+    <p>
+     Hun holdt leende Femogtyveøringen op mod Tobiassen og spurgte, om de skulde spleise til en halv Lysholmer.
+     
+    </p>
+    <p>
+     <pb n="42"/>
+     Tobiassen saa paa hende med store Øine og forkyndte med et dybt Buk, at det skulde være ham en sand Fornøielse.
+    </p>
+    <p>
+     «Hurra for Tulla vor!» raabte Hansen, «har jeg ikke i hele Dag gaat og længtet efter en Kolekvintare!»
+     
+    </p>
+    <p>
+     Lidt efter rusled Karl, Visergutten, afsted med en Tomflaske under Frakken efter en halv No. 1 hos Bennecke.
+     
+    </p>
+   </div>
+   <div type="chapter">
+    <head type="main">
+     IV.
+    </head>
+    <p>
+     <pb n="43"/>
+     Endnu et Aar boede Frk. Halvorsen i Spisestuen hos Gundersens. Men saa kom hun en Dag straalende hjem og fortalte, at fra Nytaar tog hun det ene Værelse til Gaden, saa Fruen behøved ikke at avertere det, naar Skuespilleren reiste.
+    </p>
+    <p>
+     Fra Gundersen var fornøiet. Saa havde hun da en fast Leier til det Værelse. Og Frøken Halvorsen betalte paa Dagen og var ikke det mindste fordringsfuld.
+    </p>
+    <p>
+     Saa blev da Værelset indredet saa hyggeligt som muligt. Fruen satte ind flere Smaating, som gjorde det mere hjemligt. Et gammelt trebenet Bord blev hentet ned fra Loftet og gjort istand til Toilettebord. Det blev trukket med rød Mug
+     
+     og et Par gamle hvide Gardiner, som Fruen med stor Kunst havde strøget sammen, saa det tog sig ganske net ud. Paa Sofaen kom hjemmehæklede Antimakasar
+     
+     og ovenpaa Bordtæppet en hvid Serviet med Tyksømsbroderi.
+    </p>
+    <p>
+     Frøken Halvorsen var lykkelig; hendes Hjerte
+     <pb n="44"/>
+     strømmed over af Taknemmelighed mod Jensen, som allerede havde lagt paa til femti Kroner for hende. Hvor deiligt hun nu skulde ha det i sit lille hyggelige Værelse. Nu kunde hun da faa stelle sig som hun vilde, naar hun kom hjem om Kvælden.
+    </p>
+    <p>
+     Hendes Yndlingsfornøielse i denne Tid var at læse Romaner. I Romaner gik ikke alt saa hverdagsligt og kjedeligt for sig som i det Liv, hun levede. De utroligste Ting kunde hænde. Ingenting var umuligt. Naar det saa mest haabløst ud, saa hændte der et eller andet mærkeligt, og saa blev det bra alligevel. De som elsked hinanden, de fik hinanden, om der var aldrig saa mange Hindringer. Selv om de var gift med en anden, saa døde den anden eller noget sligt, og saa fik de hinanden alligevel.
+    </p>
+    <p>
+     Huf, det var nok altfor mange, som fik den de ikke skulde ha; se nu Jensen f. Ex. – –
+    </p>
+    <p>
+     – Efter Nytaar fik de travelt en Stund i Forretningen med at tage op Varebeholdningen, og den Dag Opskrivningen foregik, holdt de paa til over Midnat.
+    </p>
+    <p>
+     Da de var færdige, skulde naturligvis Tobiassen følge Frk. Halvorsen hjem. Hun likte ikke at gaa alene med Tobiassen, for han var saa ækel bestandig, klemte hende i Haanden og tog hende om Livet, naar han kunde komme til. Engang havde han saagar tat et Kys fra hende, og hun var desværre ikke paa langt nær blit sint nok, saa det
+     <pb n="45"/>
+     kunde godt hænde at han prøved igjen. Og det vilde hun paa ingen Maade, skjøndt hun ikke kunde nægte for, at det havde vært morsomt. Det var første Gang en Mand havde kysset hende, og det havde været gruelig rart; men det var stygt naturligvis, og desuden likte hun ikke Tobiassen.
+    </p>
+    <p>
+     Alene kunde hun imidlertid ikke gaa saa langt paa Nat, og da ingen af de andre tilbød sig, kom Tobiassen alligevel til at følge hende.
+    </p>
+    <p>
+     Til hendes Forskrækkelse friede han paa Veien. Virkelig ordentlig friede. Forlove sig med Tobiassen! hun maatte le; og hun gav ham et meget bestemt Afslag.
+    </p>
+    <p>
+     Men det havde ikke Tobiassen ventet. Han havde forstaat hende som han kunde ventet et andet Svar, sa han; men hun opførte sig altsaa saadan mod alle Herrer. Han beklagede, at han havde tat saa feil af hende – Godnat. Han tog Hatten af, og hun saa, hvor hans grøngraa Øine lyned af Sinne. Huf hvor styg han saa ud.
+    </p>
+    <p>
+     Hun blev ræd.
+    </p>
+    <p>
+     Altsaa havde hun virkelig opført sig upassende. Hun havde jo egentlig vidst det selv ogsaa; men hun havde ikke tænkt saa nøie over det. Hun havde slet ikke ment noget galt med det; hun vilde vist ikke narre nogen ialfald. Det var bare Tankeløshed altsammen. Hun havde saadan Lyst til at more sig lidt bare; men alt som var Morro var jo galt. Nu havde hun altsaa faat en Uven, og da
+     <pb n="46"/>
+     kunde hun nok faa svie for det. Og nu vidste hun saa godt hvad hun skulde ha sagt og gjort da og da, hvor ganske anderledes hun som Dame naturligvis skulde have opført sig. Aa Gud, at hun kunde være saa letsindig. –
+    </p>
+    <p>
+     – Dagen efter var det Søndag; da skulde hun til Hedels til Middag.
+    </p>
+    <p>
+     Hun havde ikke Spor af Lyst; men hun turde ikke andet end gaa, ellers fik hun snart Uvenner der ogsaa. Hun havde ikke været der paa aldrig saalænge.
+    </p>
+    <p>
+     Hos Hedels var det kjedeligt som sædvanlig. Tante var i Kjøkkenet; Onkel laa paa Sofaen og røgte; men Marie var paa Kanefart i Sandvigen.
+    </p>
+    <p>
+     Tante passed altid paa at ha sine Pligtmiddage, naar Marie var borte.
+    </p>
+    <p>
+     Men Frk. Halvorsen saa paa det velstandsmæssige Bord, som var dækket i Spisestuen, og glæded sig til Maden. Ak-a-mei, tænk faa en ordentlig Steg, som der ikke var kogt Suppe paa. Ogsaa pleied der altid at være Multer eller noget andet saadant godt efterpaa. Bare det nu ikke vilde vare for længe! Det var saa vanskeligt at finde paa noget at ta sig til, mens man vented. Onkel Hedels havde snakket det han havde, spurgt om nyt fra Sandefjord, om Trafikken i Forretningen, o. s. v.; Albummet
+     
+     og Skillingsmagasinet
+     
+     havde hun set igjennem. Men der laa nogle Bøger; hvad mon det var for nogen? «I det Stille» af Marie;
+     
+     den havde hun
+     <pb n="47"/>
+     læst. «Kong Oskars Reise til Nordkap»,
+     
+     ja der var Billeder; dem kunde man se. Men der laa «Guld-Else eller det gamle Slot» af Marlitt.
+     
+     Den havde hun ogsaa læst før; men den var saa deilig, at hun kunde læse den om igjen hundrede Gange. Hun satte sig hen til Vinduet og ledte efter det Sted, som hun syntes var det yndigste i hele Bogen. Der hvor de gaar Arm i Arm paa en yndig, skyggefuld Vei, og han siger fore noget, som hun skal sige efter. Hun kunde ikke huske, hvordan det lød, men det var saa deiligt. –
+    </p>
+    <p>
+     Gudskelov, der kom Maden. Ak! Det var Gaasesteg, og der kom Pigen med en langhalset Vinflaske og de nydelige slebne Vinglas, som hun likte saa godt.
+    </p>
+    <p>
+     Frk. Halvorsen forsynte sig graadigt; især syntes Fru Hedels, at hun drak svært meget Vin. Hun var ikke vant til at se Damer drikke Vin paa den Maade, tømme Glasset i et Drag som om det var Vand.
+    </p>
+    <p>
+     Men Onkel Hedels var gemytlig. Han skjænkede fort væk, og mente, at de fik drikke de to som havde Vet paa det; for Vinen var jagu god den.
+    </p>
+    <p>
+     Og Frk. Halvorsen lod sig ikke bede to Gange.
+    </p>
+    <p>
+     Fruen spurgte, om hun var vant til Vin hjemmefra? Hun havde ikke trod, at de leved saa flot derhjemme i Sandefjord.
+    </p>
+    <p>
+     Men da hun fik høre, at Frk. Halvorsen drak slige Sager i Butiken sammen med Betjentene, blev
+     <pb n="48"/>
+     hun forfærdet og holdt en lang Moralpræken for sin Niece. Hun fik sandelig passe lidt paa sit Rygte, sa Fru Hedels, og huske paa, hvad hun skyldte sin Familie. Trodde hun kanske, at nogen anstændig Dame gav sig til at drikke sammen med Herrer! Hvad for Tanker maatte ikke hendes Colleger faa om hende, naar hun ikke holdt sig bedre end som saa?
+    </p>
+    <p>
+     Frk. Halvorsen mente, at ingen dernede faldt paa at synes det var noget rart; men hun havde fælt vond Samvittighed. Tante havde naturligvis Ret i altsammen, men væmmelig var hun nu alligevel. Det skulde vist bli en god Dag, til hun skulde komme der igjen.
+    </p>
+    <p>
+     Men Fru Hedels tænkte ved sig selv, at det var sandt som Marie sa; der blev noget saa simpelt ved saadanne Butikjomfruer, som omgikkes Mandfolk bestandig. De blev saa ukvindelige og frække.
+    </p>
+    <p>
+     En Stund efter Middagen takked Frk. Halvorsen for sig. Det var en Lettelse at slippe ud.
+    </p>
+    <p>
+     Hun drev sagte opover Pilestrædet, tung og træt efter den svære Middag.
+    </p>
+    <p>
+     Hvor skulde man gjøre af sig? Hjemme var det naturligvis lige saa kjedeligt. Huf, disse Søndagene; det var aldrig mulig at faa Ende paa dem. Mon hun skulde gaa ned og hilse paa Madam Simonsen –. Undres paa, om der lyste paa Kontoret –? Han pleiede at arbeide med Aarsopgjøret disse Søndagene efter Nytaar.
+    </p>
+    <p>
+     <pb n="49"/>
+     Hun snudde om og gik Universitetsgaden og Karl-Johansgade nedover. Flokker af Gutter og Gjenter drev op og ned fjasende og leende, men fine Folk var der ikke at se. Det var nok ikke rigtig anstændigt at gaa paa Karl-Johan Søndag Eftermiddag.
+    </p>
+    <p>
+     Hun skyndte sig afsted. Gud ved, hvad det var som var anstændigt forresten; det var jo uanstændigt næsten alting. Bare nu Madam Simonsen var hjemme, det var det eneste Menneske der var lidt Hygge i.
+    </p>
+    <p>
+     Jo, det lyste.
+    </p>
+    <p>
+     «Nei er det dere som er ude og gaar?» sa Madamen, hun skøv Brillerne op paa Panden og saa nikkende op paa Frk. Halvorsen. Der var hyggeligt og varmt. Madamen sad i Sofaen og læste sidste Nummer af «Verdens Gang» ved Lyset af en liden Læselampe med rød Skjærm over.
+    </p>
+    <p>
+     Frk. Halvorsen fortalte, at hun havde været en Tur rundt Fæstningen,
+     
+     men at det var saa koldt, saa hun holdt paa at fryse Benene af sig; saa havde hun faat den Ide, at hun skulde gaa indom og varme sig lidt. Ja hun maatte ta af sig og sætte sig op i Sofaen, mente Madamen, saa skulde hun gaa ud i Kjøkkenet og «svinge paa Kjedlen».
+     
+    </p>
+    <p>
+     «Aa De er et velsignet Menneske, Madam Simonsen –» sa Frøknen, tog Tøiet af sig og satte sig godt tilrette op i Sofaen. Saa gudskelov, nu kunde hun da sidde og dovne sig lidt, og saa
+     <pb n="50"/>
+     kanske hun kunde faa Madamen til at fortælle lidt Morro. – –
+    </p>
+    <p>
+     Hun hørte Madamen spikke Stikker og gjøre op Varmen ude i Kjøkkenet; saa tog hun «Verdens Gang» og begyndte at læse, men la den strax fra sig igjen; Politik var det kjedeligste hun vidste.
+    </p>
+    <p>
+     Det var sandt som Jensen sa, det var ikke noget for Damer; men af Madam Simonsens Politik lo han. Nu syntes Madamen, at han og hans Lige havde været Storfolk længe nok, sa han; nu vilde hun og hendes Lige være Storfolk en Stund! Akkurat saa var det ogsaa med de emanciperede Damer,
+     
+     forklarte Jensen; nu havde Mandfolkene været Mandfolk saalænge, at nu vilde de være Mandfolk til en Afvexling. – Og han havde vist egentlig Ret.
+    </p>
+    <p>
+     Da Madamen havde sat Kjedlen over, kom hun ind med Kværnen, tog ud en Papirpose i Piedestallen,
+     
+     fyldte i, og satte sig til at male Kaffe. Idetsamme kikked hun ud gjennem Vinduet, som vendte til Gaarden. Saa satte hun Kværnen fra sig paa Bordet og gik hen og flytted paa en stor Geranium,
+     
+     som stod i Veien, som for at se bedre.
+    </p>
+    <p>
+     «Nei, han er ikke gaaet enda», sa hun, idet hun igjen gav sig ifærd med Malingen.
+    </p>
+    <p>
+     Frk. Halvorsen saa ogsaa ud.
+    </p>
+    <p>
+     «Søndagen efter Optagningen
+     
+     sidder'n bestandig og regner, ved De,» sa Madamen og gav Kværnen et Dask for at faa de sidste Bønner med, «han
+     <pb n="51"/>
+     stunder efter at se, hvormeget han har tjent i Aaret.»
+    </p>
+    <p>
+     «Saa? Jeg synes bestandig Larsen holder paa med den Udregningen, jeg,» sa Frk. Halvorsen; «jeg la ikke Mærke til, at det lyste, da jeg gik over Gaarden.»
+    </p>
+    <p>
+     «Hei, der kommer Svarten!»
+     
+     skreg Madamen og sprang ud for at redde Kjedlen som kogte over. Men derude hørte Frk. Halvorsen hende skrige enda høiere: «Kors i Jesu Navn, aa Di skræmte mig!» Og idet samme hørte hun en Stemme som lo og sa: «Ja det er jo saa mørkt her, at man ikke kan se en Tomme foran sig; det var saamæn nær paa jeg skulde omfavnet Dem.» Det var Jensen.
+    </p>
+    <p>
+     «Aa ja, det hadde vi naa ikke død af no'n af vaars,» lo Madamen.
+    </p>
+    <p>
+     «Ja ja, vi faar vel være lige gode Venner da, Madam Simonsen; især hvis De kan skaffe mig en halv Øl», fortsatte han og gik henimod Kammerdøren, som stod paa Gløt.
+    </p>
+    <p>
+     Derinde havde Madamen sin Ølbeholdning i et aabent Skab med et blomstret Gardin foran; og Jensen havde mer end en Gang fundet sig Øl derinde, naar han var paa Kontoret om Søndagene, eller naar han havde «Venner» med sig derind om Kvældene efter Forretningstid. Men om hans Kontorrangler vidste ingen anden end Madam Simonsen Besked. Hun var den første, som kom derind om Morgenen, og da fjernet hun omhyggeligt
+     <pb n="52"/>
+     alt som kunde minde om at der havde været Folk efter Forretningstid. –
+    </p>
+    <p>
+     Madamen skjøv op Døren til Kammeret og mente, der fik vel bli en Raad med en Ølskvæt.
+    </p>
+    <p>
+     «A ha, De har Fremmede! –»
+    </p>
+    <p>
+     Han bukked for Frk. Halvorsen og sa gemytlig: «Godaften Frøken; saa De besøger ogsaa Madam Simonsen om Søndagene?»
+    </p>
+    <p>
+     Frk. Halvorsen fortalte atter om Turen rundt Festningen.
+    </p>
+    <p>
+     «Det er saamæn første Gang, Frøkna gjør mig den Ære aa
+     
+     hilse paa mig en Søndag,» sa Madamen ude fra Kjøkkenet, «og derfor skulde vi netop ha vaars en liden Kop Kaffe i Anledningen.»
+    </p>
+    <p>
+     «Ja de Kvindfolkene, de skal nu bestandig ha Kaffe de,» mente Jensen; men han haabed han fik Lov til at drikke sin halve Øl paa Bordet der alligevel? Han satte sig paa en Stol ved det ene Hjørne af Bordet. Han skulde ikke ta stor Plads? Han saa paa Frk. Halvorsen. Men hun lo bare og saa paa Madamen, som idetsamme kom ind med et Ølglas paa en Asjet. Madamen mente, at der nok var Plads til dem alle tre; de var ikke saa breie nogen af dem.
+    </p>
+    <p>
+     Hun satte Glasset for Jensen og gik ud for at gjøre Kaffeen i Stand. Jensen skjænkede i; men med et snudde han sig mod den aabne Kjøkkendør og raabte ud: «Det er sandt, Madam Simonsen, De maa være saa snil at lægge lidt mere i oppe
+     <pb n="53"/>
+     hos mig; det er brændt ud for længe siden i den Filleovnen!»
+    </p>
+    <p>
+     Madamen satte Kaffebrættet ind paa Bordet, tog en Næve Høvlspon i en Sæk ude i Kjøkkenet og gik, idet hun mumlede noget om, at naar man ikke la paa Kul, men bare en to-tre Vedpinner saan som Mandfolkene brugte bestandig, saa maatte det vel brænde ud – –
+    </p>
+    <p>
+     «Læser De ogsaa «Verdens Gang», Frøken?» spurgte Jensen, da han havde tømt sit første Glas.
+    </p>
+    <p>
+     «Nei da; jeg bare ser den sommetider hernede.»
+    </p>
+    <p>
+     «Madamen vil vel gjøre Dem til Venstremand, kan jeg tænke,» sa han og lo.
+    </p>
+    <p>
+     «Aa nei; det nytter nok ikke at forsøge paa det; jeg forstaar mig ikke noget paa Politik, jeg.»
+    </p>
+    <p>
+     Hun skjøv Avisen længer fra sig. «Det er det kjedeligste jeg ved,» la hun til.
+    </p>
+    <p>
+     «Det er Ret,» sa Jensen, «De er sku ogsaa altfor vakker til at befatte Dem med sligt noget.» Han saa paa hende med et Blik, som gjorde hende hed.
+    </p>
+    <p>
+     Hun blev ildrød og kunde ikke svare.
+    </p>
+    <p>
+     Men Jensen fortsatte som om ingen Ting var.
+    </p>
+    <p>
+     «Det er nemlig bare saadanne ulykkelige Væsener, som ser slig ud, at de ikke kan bli gifte, som slaar sig paa Politik og Emancipation og alt det derre Vrøvlet. Kvinderne har da gudskelov skjønnere Opgaver i Livet.»
+    </p>
+    <p>
+     Han skjænkte Resten af Øllet og drak. Han
+     <pb n="54"/>
+     saa slet ikke paa hende og var ganske alvorlig. Frk. Halvorsen vidste ikke, hvad hun skulde sige. Var det Spøg eller Alvor? Men hvorfor saa han saadan paa hende, da han sa, hun var vakker? –
+    </p>
+    <p>
+     Heldigvis kom Madamen og redded hende ud af Pinen.
+    </p>
+    <p>
+     Jensen tog op Portemonnæen og la 12 Øre paa Bordet. «Tak skal De ha, Madam Simonsen; Godaften – Godaften Frøken!» Han bukked og gik hastigt ud, ærgerlig og misfornøiet. Hun var sku for grøn, den der …
+    </p>
+    <p>
+     Madamen skjænkte Kaffe og forsøgte at faa en Passiar i Gang; men Frøken Halvorsen kunde ikke være med længer. Hun svarte i Øst, naar Madamen spurgte i Vest. «Hun gik nok i Giftertanker i Dag,» mente Madam Simonsen.
+    </p>
+    <p>
+     «Aa De da, jeg er bare saa frygtelig søvnig, jeg tror virkelig, jeg maa se at komme hjem og lægge mig. Jeg har været i en flot Middag i Dag, skal jeg si Dere, hos min Tante, med Vin og alt sligt, ogsaa den Turen efterpaa da – –».
+    </p>
+    <p>
+     Ja det var vel saa det. De Storfolkene, dem kunde spise og drikke hvad dem vilde dem, mens en anden Stakkar maatte slite Helsa af sig forat faa den snaue Madbiten.
+    </p>
+    <p>
+     Frøken Halvorsen skyndte sig at komme afsted; for naar Madamen kom ind paa Kapitlet om Storfolkene blev hun aldrig færdig.
+    </p>
+    <p>
+     – Den hvide Lærreds-Rullegardin i Jensens
+     <pb n="55"/>
+     Kontorvindu var for smal, saa der var en liden Aabning paa Siderne. Frøken Halvorsen kunde ikke la være at titte ind. Der stod han blank og rund og bladed i en Protokol med sine fine, hvide Hænder. Hun strakte sig paa Taa og saa beundrende paa ham, mens hun lytted med tilbagetrængt Aandedræt, om der skulde komme nogen. Hvor hvid og ren han var bestandig; han maatte være deilig hele Veien – ha nydeligt Undertøi og saant. Og hun fortabte sig i Synet af ham, saa hun glemte sig selv. Hun strakte sig nærmere og nærmere op mod Ruden og lod Blikket hvile kjælende ved hver liden Detalj, fra, det velfriserede Haar og til den hvide Skjortekant, som stak frem under Mansjetten.
+    </p>
+    <p>
+     Med en Gang saa han ud – og smilte.
+    </p>
+    <p>
+     Hun satte paa Sprang som en Tyv, op Kirkegaden, over Stortorvet og opover Pilestrædet. Hun sprang som for Livet. Han maatte være efter hende, hun kjendte Øinene hans i Ryggen. Hun havde en Fornemmelse, som om hun var nøgen paa Gaden.
+    </p>
+    <p>
+     Da hun var kommet ind paa sit Værelse, kasted hun sig udmattet ned paa Sofaen, mens hun hele Tiden gjentog for sig selv: Han saa mig – han smilte; jo han smilte – –
+    </p>
+    <p>
+     Men den Nat forfulgte han hende som en Hallucination. Hun kasted sig feberhed frem og tilbage i Sengen og kunde ikke tænke paa andet end ham. Hun saa ham saa tydelig for sig med
+     <pb n="56"/>
+     Smilet fra i Dag. Hun kjendte de varme, hvide Fingre berøre sit Legeme og hun saa hans beundrende Øine – nærmere og nærmere – Aah, hun var jo gal. Hun maatte kvæle ham med Kys – –
+    </p>
+   </div>
+   <div type="chapter">
+    <head type="main">
+     V.
+    </head>
+    <p>
+     <pb n="57"/>
+     Efter den Dag mored Jensen sig med at gjøre Frk. Halvorsen flau, saa ofte han kunde finde en Anledning. Stakkars Pigebarn, der skulde ikke meget til; bare han saa paa hende, blev hun rød, og naar han talte til hende, blev hun rent forvirret.
+    </p>
+    <p>
+     Han prøved sig frem lidt efter lidt, blev mer og mer fortrolig naar de var alene; men forandred strax Tone, naar de andre kom. Hver Dag var en Pine for hende. Hun følte saa godt, at der var noget galt i dette. Hvad mente han? Hvad vilde han?
+    </p>
+    <p>
+     Han mored sig ved at se, hvor hun faldt sammen og blev graa i Ansigtet, naar han sommetider efter en noget dristig Elskværdighed pludselig blev Chef igjen. Han forstod at benytte sine elskværdige Egenskaber og sin Stilling saadan, at han tilslut vidste, at han havde hende som et Stykke Vox mellem sine Fingre. Hun var syg af Spænding og vanvittig Længsel efter den Fare, som hun ikke havde Kraft til at arbeide imod; og da han en
+     <pb n="58"/>
+     Aften inde paa Kontoret tog hende om Livet og kyssed hende, idet han hvisked, at hun var
+     <emph>
+      altfor
+     </emph>
+     sød, faldt hun sandsesløs ind mod hans Bryst og græd. Han havde forstaat at drage hende saaledes til sig, at hele hendes Legeme og hele hendes Sjæl var bare Længsel efter at gjemme sig bort i hans kraftige Arme.
+    </p>
+    <p>
+     Det varte længe, før hun kunde tænke klart over, hvad der var hændt. Hun gik som i en Rus af Fryd og Angst, og i sin Overspændthed digtede hun Virkeligheden om til interessante Romaner, hvor hun selv var Heltinden.
+    </p>
+    <p>
+     – – Sommetider kom der som en Frygt over hende, at nogen skulde faa vide det. Men – hvordan skulde det være muligt; de var jo saa forsigtige. Og desuden var det jo Chefen. Ingen faldt paa at mistænke Chefen.
+    </p>
+    <p>
+     Hun kunde være saa tryg hos ham. Han sa jo selv, at han vilde gjøre alt for hende, og naar de bare selv vilde, saa behøvede aldrig noget Menneske at faa en Anelse. Og hvorfor skulde de saa ikke ha det godt.
+    </p>
+    <p>
+     Og hun havde det godt. Hun var virkelig lykkelig. Tanken paa Fru Jensen plaged hende jo sommetider; men hun trøsted sig med, at denne Fruen derude paa Drammensveien egentlig ikke kom Jensen ved; det havde han saa ofte sagt. «Det er dig, jeg er glad i, det er du, som er Konen min,» sa han, naar hun undertiden havde ond Samvittighed.
+     <pb n="59"/>
+     Det var jo bare for Pengenes Skyld, han havde taget den anden; og desuden var hun saa sygelig at – –; engang blev han jo Enkemand, og da –.
+    </p>
+    <p>
+     Sine Pengebekymringer var hun kvit, og det var en ubeskrivelig Lettelse. Hun fik betalt sin Smaagjæld, kunde spise og drikke hvad hun vilde, og klæde sig som hun vilde. Det at spise fin Mad og drikke god Vin var en større Nydelse end hun havde havt Anelse om, og hun hengav sig til den af ganske Hjerte. Lidt efter lidt blev hun saadan en Lækkermund, at hun sjelden kunde spise Maden, hun fik hjemme hos Fru Gundersen.
+    </p>
+    <p>
+     Hun leved fordetmeste af Delikatesser, som Madam Simonsen hented for hende. Jensen havde nemlig fundet ud, at de saadan halvt fik indvie Madam Simonsen; det vilde ellers bli lidt vanskeligt for dem. Hun kunde saa temmelig kontrollere, hvad der foregik paa Kontoret, og desuden var Blaakammeret saa hyggeligt.
+    </p>
+    <p>
+     Og Madam Simonsen hverken saa eller hørte.
+    </p>
+    <p>
+     Men om en Tid begyndte hendes Søn, som før var Lagerbetjent hos et større Colonialfirma, at drive egen Forretning i en af Byens Udkanter. Om dette blev der talt meget i Forretningen hos Jensen. Der var ingen som havde vidst, at Madam Simonsen havde Penge.
+    </p>
+    <p>
+     Frøken Halvorsens største Angst var Fru Gundersen. Hun maatte da undres paa, hvad hun leved af,
+     <pb n="60"/>
+     naar hun ikke spiste hjemme. Men der gik Tid efter Tid, og Fru Gundersen sa intet.
+    </p>
+    <p>
+     Bare hun ikke i al Hemmelighed gik og tænkte paa at sige hende op.
+    </p>
+    <p>
+     Men gudskelov; hun kunde ikke mærke noget mistænkeligt. Tvertimod. Fru Gundersen var elskværdigere end nogensinde. En Aften overraskede hun sogar Frøken Halvorsen med at bringe hende en delikat Bif og en halv Øl ind paa hendes Værelse. Hun havde lurt sig til det, sa hun; de andre maatte endelig ikke vide det. Hun kunde naturligvis ikke stege Bif til hele Huset. Frøken Halvorsen spenderte Vin, og saa drak de og havde det hyggeligt en lang Stund. Og det gjentog sig siden ofte. Til sin næste Fødselsdag blev Fru Gundersen betænkt med et kostbart Kjoletøi, og hun blev ogsaa ellers hjulpet til forskjellige Ting, som hun mangled. Indtægterne af Pensionatet rak jo aldrig til Klæder; det var bare saavidt man kunde holde det gaaende med Mad og Husleie.
+    </p>
+    <p>
+     Og Fru Gundersen roste Frøken Halvorsen til alle Mennesker, og sa, at hun holdt af hende som af sit eget Barn. Naar Folk undertiden slog paa, at Butikjomfruer ikke pleiede have Raad til at gaa saa fint klædt o. s. v., fortalte Fru Gundersen, at Frk. Halvorsen var den flinkeste i hele Jensens Forretning og havde meget stor Løn, og desuden havde hun en rig Tante, som forærte hende adskilligt. Det var
+     <pb n="61"/>
+     hos den Tanten, hun spiste saa ofte ogsaa, sa hun til de andre Logerende.
+    </p>
+    <p>
+     Frøken Halvorsen begyndte ogsaa virkelig at komme i Naade igjen hos Hedels. Hun havde lagt sig til noget af det Væsen, som Tante Hedels fandt, at en ung Dame maatte ha. Hun var bleven mere snerpet
+     
+     og holdt mere paa sin Værdighed end før. Og saa gik hun pent klædt. I og for sig var det jo en ærlig Sag at fortjene sit Brød selv; det var mange bedre Mands Døtre som begyndte med det nu for Tiden. – Og det hændte sogar, at hun blev indbudt sammen med Frøken Maries fine Veninder.
+    </p>
+    <p>
+     – Frøken Halvorsen var bleven tyk og rød og noget doven af sig. Hun arbeidede saa lidet som muligt i Forretningen og var svært ofte hos Madam Simonsen.
+    </p>
+    <p>
+     Denne pludselige Forandring satte hendes Colleger i stor Forundring. De søgte at forklare sig den paa forskjellig Vis.
+    </p>
+    <p>
+     Jensen sa altid, at hvad man først og fremst maatte lære, det var at holde Folk tre Skridt fra Livet. Forstod man den Ting, saa kunde man leve som man vilde.
+    </p>
+    <p>
+     Men det var ikke saa greit for Frøken Halvorsen at holde sine Colleger i passende Afstand. Hun begyndte at behandle dem overlegent og la udtrykkelig an paa at vise dem, hvor uendelig ligegyldige de var hende. Især var hun ækel mod
+     <pb n="62"/>
+     Tobiassen. Men denne gjemte trolig hver Fornærmelse og svor paa, at hun skulde ha det igjen. Helt siden han for et Aars Tid siden fik sin Kurv,
+     
+     havde han havt en Mistanke; man kjendte jo Jensen; og snart var han ikke længer i Tvil om, hvordan Sagerne stod. Kunde han saa sandt faa et sikkert Bevis, saa skulde han kaste hende det i Ansigtet, om det saa skulde koste ham hans Stilling.
+    </p>
+    <p>
+     En Dag kunde han ikke bare sig længer; han kaldte hende «Holddame»
+     
+     til de andre Betjente, og da Ordet først var nævnt, blev der ikke sparet. Den eneste, som ingenting sa, var tykke Larsen.
+    </p>
+    <p>
+     Hansen svor paa, at hun havde havt med Jensen at bestille lige fra den første Tid hun var der. Tobiassen antydede, at han nok selv havde gjort den Erfaring, at hun ikke var saa nøie paa det; – «men at hun skulde være i den Grad udspekuleret», det havde han alligevel ikke villet tro.
+    </p>
+    <p>
+     Frøken Halvorsen tænkte ikke over, at hun ved sin Opførsel netop selv røbede sin Hemmelighed. Hun var ikke betænkt nok til at indrette sit Forhold til andre Mennesker; hun var bare optaget at sig selv og ham, og havde ikke fornøden Tanke for alle de Øine og Øren som lurede.
+    </p>
+    <p>
+     I det senere havde det ærgret hende meget, at Jensen undertiden kunde se ud, som om han rent havde glemt hende.
+    </p>
+    <p>
+     Han interesserte sig for Boston-
+     
+     og Toddypartier langt mer end rimeligt, syntes hun, og blev
+     <pb n="63"/>
+     rent lykkelig, naar en af hans Venner kom for at faa ham med ud. Han huskede ikke paa, hvordan det var for hende. Hun turde ikke ha Veninder; Jensen fandt det ikke raadeligt; Kvindfolkene havde saa let for at blive intime, sa han. Det blev da svært ensomt for hende sommetider. Især var Søndagene utaalelige; da saa hun ham aldrig. Da maatte han være hos sin Familie, sa han; det var ikke Raad for det. Ofte græd hun af Skinsyge og Harme, naar hun de lange Søndageftermiddage laa hjemme paa sin Sofa og tænkte paa, at nu var han i Selskab og mored sig, eller ude og kjørte med Fruen og de søde Børnene sine, som han nok i Grunden var svært glad i, mens hun – – –
+    </p>
+    <p>
+     Men hun var aldrig længe trist. Blev det for kjedeligt, saa spiste hun lidt godt og drak Vin; det hjalp altid. En stor Hjælp var ogsaa Romanerne. Og ret som det var kom Fru Gundersen og fordrev Tiden for hende en Stund med at fortælle Nyheder og sladre lidt saadan i al Uskyldighed.
+    </p>
+    <p>
+     Der var ogsaa kommet en ny Dame i Spisestuen nu, som hun af og til var sammen med. Det var en Frøken Paulsen, et snilt, hyggeligt Menneske, hvis væsentlige Interesse var Kjoler og Hatte. Hun var ogsaa fra et tarveligt
+     
+     Hjem i en Smaaby; men hun havde en Fætter som var Student, og gjennem ham en Del fine Bekjendtskaber, som hun strævede svært med at holde sig paa Høide med. Hun havde en dødelig Angst for alt, som ikke var
+     <pb n="64"/>
+     «rigtigt». Det at være Forretningsdame var jo lige paa Grændsen af ikke at være anstændigt; derfor maatte man være umaadelig forsigtig; man kunde aldrig være streng nok. Hun likte godt Frøken Halvorsen, fordi denne havde de samme Principer, og de begyndte at omgaaes, hjalp hinanden med at fordrive Kvælderne og de lange Søndage, som de bedst kunde.
+    </p>
+    <p>
+     Ogsaa mod hende var Frøken Halvorsen snil og hjælpsom. Hun gav hende Presenter, trakterte Vin og Kager paa hende og laante hende Penge, naar hun var i Knibe. Og det hændte ikke sjelden; thi hun havde ikke stort at fare med.
+    </p>
+    <p>
+     Men om nogen Tid begyndte Frk. Paulsen at trække sig tilbage. Hendes Fætter havde nemlig fortalt, at denne Frøken Halvorsen ikke havde det bedste Rygte. Han havde hørt af nogle Venner, at hun skulde ha en meget slem Historie paa sig.
+    </p>
+    <p>
+     Frøken Paulsen var nærved at faa et Tilfælde.
+     
+     Og hun, som flere Gange havde spadseret paa Drammensveien med hende om Søndagene! Hun var i disse Tider mer end almindelig nervøs for sit Rygte, da hun havde alt andet end god Samvittighed selv. Hun fik takke til, om hun kunde klare sin egen Historie.
+    </p>
+    <p>
+     Hendes Collega i Forretningen, en ældre, forlovet Mand, havde været vel elskværdig mod hende, og med al sin Moral havde hun ikke været mere standhaftig, end at hun var kommet ind i et Forhold,
+     <pb n="65"/>
+     som hun maatte indrømme ikke var synderlig fint. Det var et Kysseri og Klængeri uden Maade, og det med en forlovet Mand –. I Førstningen havde hun virkelig troet, at han skulde slaa op med sin Kjæreste og forlove sig med hende; han havde vistnok aldrig sagt det lige ud, men ofte slaat paa det. Nu vidste hun godt, at han ikke tænkte paa det; dertil var hans Forlovede altfor velstaaende. Det kunde bli egen Forretning af det med Tiden. Men alligevel lod hun det gaa. Hun trøsted sig med, at længer end til Kys skulde det aldrig komme, og da kunde det jo ikke være saa farligt netop …
+    </p>
+    <p>
+     Frøken Halvorsen blev lidt mistænkelig. Du store Gud, der skulde da vel aldrig være kommet noget op. Hun blev kold ved Tanken. Men det var jo umuligt, saa forsigtige som de var; – rent overdrevent forsigtige, syntes hun ofte.
+    </p>
+    <p>
+     Men hun begyndte alligevel mer og mer at befinde sig ilde sammen med de andre. Folk holdt sig ligesom saa fjernt, syntes hun; og lidt efter lidt begyndte hun at blive usikker i sin Optræden.
+    </p>
+    <p>
+     Det ærgred hende frygtelig, da hun følte, at hun ikke længer kunde holde stiv Ryg; men det var rent umuligt. Naar disse Mennesker begyndte at glo paa hende, syntes hun, de allesammen saa ud, som om de vidste Besked. Det var naturligvis bare Indbildning, men alligevel – –
+    </p>
+    <p>
+     Det eneste Sted, hvor hun følte sig rigtig tryg,
+     <pb n="66"/>
+     var inde paa sit Værelse. Hun havde nu en bestemt Følelse af, at for Fru Gundersen var hun sikker. Utaalelig kjedeligt kunde det bli sommetider; men gudskelov; hun havde det, som hjalp.
+    </p>
+    <p>
+     Om Søndagene laa hun ofte hele Dagen paa Sofaen med en Vinflaske og alskens Slikkerier foran sig. Hun gad ikke klæde sig paa; det var saa dovent og godt at ligge saadan i en rummelig Morgenkjole uden Korset
+     
+     og strække sig og rigtig være grundlad. Ikke læse, ikke tænke, bare drikke Vin, til man laa saadan i en behagelig Døs og drømte og fantaserede om alt, som var deiligt; bare lave sammen de vidunderligste Historier – alt det som kunde hænde med ham og hende – aa ham, ham; aa, at han ikke var her nu, netop nu –. Hun lukkede Øinene og drømte sig ind i hans Arme, inde ved hans Legeme, til hun skalv og brændte. Hun kasted sig omkring, knuged Armene om Sofapuden; – aa hvis han var her –.
+    </p>
+    <p>
+     Naar Frøken Halvorsen laa saadan om Søndagene og ikke kom ind til Maaltiderne, bragte Fru Gundersen hende Mad ind paa Værelset og fortalte Pensionærerne,
+     
+     at hun var daarlig. Hun havde saadan en styg Hoste, sa Fru Gundersen; «det Butiklivet var vist ikke sundt for hende.»
+    </p>
+    <p>
+     Nei, det var nok ikke det, sa Bogholder Johansen og saa over til Frøken Paulsen.
+    </p>
+   </div>
+   <div type="chapter">
+    <head type="main">
+     VI.
+    </head>
+    <p>
+     <pb n="67"/>
+     En Morgen, da Frk. Halvorsen som sædvanlig kom forsent i Forretningen, stod Tobiassen i Døren og snudde og vendte paa et Lommetørklæde.
+    </p>
+    <p>
+     Han holdt et Hjørne op og læste høit D. H., idet han saa paa Frøken Halvorsen, som gik forbi ham og ind paa Lageret for at hænge fra sig Tøiet.
+    </p>
+    <p>
+     «Tak, det er mit», sa hun, da hun kom ind igjen, og strakte Haanden ud for at ta det.
+    </p>
+    <p>
+     «Jasaa, det er
+     
+     virkelig Deres?»
+    </p>
+    <p>
+     Han saa paa hende med et væmmeligt Smil.
+    </p>
+    <p>
+     «Er det nogen anden som heder saa her da?»
+    </p>
+    <p>
+     Hun napped Tørklædet fra ham med et foragteligt Blik nedover ham. «Tosken», mumled hun og strøg ind paa Lageret igjen. Men Tobiassen var ikke sen om at komme efter.
+    </p>
+    <p>
+     Han var rasende sint. Med sit stygge Blik lige op i Ansigtet paa hende holdt han op en liden mørk Tingest og spurgte, om den muligens ogsaa var hendes.
+    </p>
+    <p>
+     Hun for tilbage; han saa slig ud, at hun blev
+     <pb n="68"/>
+     ræd. Men da hun fik se den lille Skildpadde-Lommekam, som han holdt i Haanden, blev hun iskold. «Nei,» sa hun og vendte sig.
+    </p>
+    <p>
+     Han lo haanligt. «Denne Gang var Madam Simonsen for sent ude,» sa han og kasted Kammen i Gulvet med al sin Kraft, bøied sig fremover hendes ene Skulder og hvisled med sammenbidte Tænder «Tøs».
+     
+     Og saa gik han, med Næverne knyttet dybt nede i Buxelommerne.
+    </p>
+    <p>
+     Det var, som han havde slaaet hende i Ansigtet; hun var nærved at tumle. Da hun sandsed sig igjen, havde hun bare en eneste Følelse; hun maatte gjemme sig.
+    </p>
+    <p>
+     Næsten uden at vide det tog hun Nøglen og rømte ud paa et vist Sted. Hun vidste ikke, hvor længe hun havde staat der, lænet op mod Væggen, og forgjæves prøvet paa at tænke sammenhængende. Uklare Billeder kom og gik. Hun saa Jensen for sig med løftet Haand, færdig til at slaa hende; hun syntes, han maatte dræbe hende, dersom han fik vide, hvor dumt hun havde baaret sig ad. Ialfald vilde han jage hende. Og hun saa sig saa levende ligge paa Knæ og tigge om, at han ikke maatte kaste hende ud, til hun uvilkaarlig folded Hænderne og begyndte at bede.
+    </p>
+    <p>
+     Varme Taarer trilled ned over Ansigtet og vækked hende. Det var jo paafaldende, at hun blev saa længe ude. Hun pusted paa Lommetørklædet og la det over de lukkede Øine; det
+     <pb n="69"/>
+     maatte jo ikke sees, at hun havde grædt. Men Taarerne vilde ikke standse. Naar hun bare havde havt et Sted, hvor hun kunde faa graate ordentlig ud.
+    </p>
+    <p>
+     Med en voldsom Kraftanstrengelse tvang hun Graaten ned, ordned sit Haar og tørred Ansigtet, – sprang saa ud gjennem Gaarden og ned i Kjælderen til Madam Simonsen.
+    </p>
+    <p>
+     Madamen laa og skured Kjøkkengulvet, saa hun slap ugeneret ind i Blaakammeret. Hun fandt frem Vinflasken, som de havde staaende der, fyldte et Ølglas og tømte det med engang.
+    </p>
+    <p>
+     Da hun kom ind paa Lageret igjen, tog hun frem et stort Stykke hvid Stout,
+     
+     som hun gav sig til at slaa op paa et Træbræt. Hun nynned paa en Valsemelodi, mens den hvide Støvsky stod høit om hende, hver Gang hun med unødig Voldsomhed klasked Tøiet i Disken.
+    </p>
+    <p>
+     – Væmmelige Dyret, den Tobiassen! Hun vidste nok, hvorfor han var sint; det var bare, fordi han ikke selv fik Lov at kline med hende, som han vilde. Hun skulde nok lukke Munden paa ham, hvis hun bare vilde bry sig med det; men skidt, han turde vel mindre end at sætte ud Historier om Chefen. Forresten vidste han ingenting. Om han havde fundet de derre Greierne inde paa Kontoret; det behøved da ikke at betyde noget, det! – Forresten skulde hun nok gjøre sig Godvenner med ham, hvis hun vilde, og det kunde godt hænde, hun
+     <pb n="70"/>
+     vilde; – det var altid bedre at være Venner med Folk end Uvenner. – Det kunde formelig være Morro; narre ham rigtig dygtig op – saa troed han naturligvis strax, at hun vilde gifte sig med ham, den Idioten; men da skulde han faa lang Næse.
+    </p>
+    <p>
+     – Da Jensen senere paa Eftermiddagen traf hende i Blaakammeret, la han strax Mærke til, at hun var mer end almindelig oprømt. Øinene havde den samme Glands, som han kjendte fra deres Tomandsrangler, naar de havde drukket lidt meget Vin, og hun var saa overdrevent, nervøst elskværdig, at Jensen blev mistænkelig. Fan, der skulde da vel aldrig være noget om at gjøre? Men han sa ingenting. Var det saa, saa kunde det jo ikke længe undgaa ham; han havde en vis Øvelse i det Kapitel.
+    </p>
+    <p>
+     Efter den Dag holdt han skarpt Øie med hende, ikke bare naar hun var sammen med ham, men ogsaa ellers, naar hun gik optaget af sit Arbeide i Forretningen; og han blev alvorlig ængstelig for, at hun skulde være frugtsommelig. Men han forsøgte at tage det som noget, der egentlig ikke kom ham ved; det var jo grei Skuring det; han vidste, hvad han havde med den Ting at gjøre. Men i Grunden var han slet ikke saa modig; det pinte ham mer end han vilde vedstaa for sig selv. Det vilde jo være en noksaa kjedelig Historie. Det
+     <pb n="71"/>
+     var ikke langt fra, at han ønsked sig vel ude af hele Affæren.
+    </p>
+    <p>
+     – Det var en Pine for Frk. Halvorsen at gaa der og se paa sine Collegers væmmelige Smil og høre paa deres tvetydige Spydigheder. Især var Tobiassen ikke til at udholde. Hun kunde ikke klare det længer; og en Dag, da hun i et Anfald af vond Angst havde tømt en halv Flaske Portvin, passed hun paa Tobiassen, da han i Skumringen gik ind paa Lageret for at hente noget der. Hun gik efter og lod, som om hun skulde ta noget i samme Hylde. Da hun kom lige paa Siden af ham, strøg hun Hovedet kjælent nedover hans Arm og hvisked sagte smaaleende: «Gud, hvor dum De er, Tobben; er det noe Morro at gaa saan og surmule paa hverandre da?»
+    </p>
+    <p>
+     «Neigu om det er Spor af Morro,» svarte han, som om Spørgsmaalet ikke kom ham uventet. Hun gled fra hans Arm og ind paa hans Bryst, og han trykket hende ind til sig, saa hun var nær ved at skrige; «du maa ikke dræbe mig med det samme,» smilte hun op til ham. «Jo, jeg tror næsten, jeg maa,» sa han, og kyssed hendes fremrakte Mund.
+    </p>
+    <p>
+     – En Aften senere sad de i Sofaen paa Tobiassens Værelse.
+    </p>
+    <p>
+     En tømt Ølflaske stod foran dem paa Bordet, og Lampen var halvt nedskruet. Pludselig tog hun ham kjærligt ind til sig og sa let henkastet: «Du
+     <pb n="72"/>
+     Tobben, i Grunden kunde vi vist ha det hyggeligere, hvis vi forloved os offentlig?»
+    </p>
+    <p>
+     Det kosted hende stor Anstrengelse at faa sagt det slig, at det kunde ta sig ud som et pludseligt, løst Indfald. Hun holdt Pusten af Spænding. I flere Dage havde hun gaat og spekuleret paa en passende Maade at faa sagt det paa; for det var jo altsaa den eneste Redning, hvis det nu virkelig skulde være Alvor med dette fæle, som hun grued for.
+    </p>
+    <p>
+     Men Tobiassen gjorde en stor Grimasse. Der kom det. Han havde ventet paa det; men det var dengang det, tænkte han ved sig selv.
+    </p>
+    <p>
+     «Æsch da,» sa han, «gaa omkring og sprike med Guldring paa Fingeren og Blemmer paa Læberne og være forlovet! Nei, da har vi det sku hyggeligere, som vi har det.»
+    </p>
+    <p>
+     Hun blev kold; men tvang sig til at være munter.
+    </p>
+    <p>
+     «Ja du maa ikke tro, det var Meningen min heller, Far! At ikke jeg vil forlove mig, det har du vel før faat erfare, stakkars Fyr!»
+    </p>
+    <p>
+     Hun dasked ham gemytlig paa Kindet.
+    </p>
+    <p>
+     Men hun vilde absolut tidlig hjem den Kvæld.
+    </p>
+   </div>
+   <div type="chapter">
+    <head type="main">
+     VII.
+    </head>
+    <p>
+     <pb n="73"/>
+     Frk. Halvorsen var nu paa det Rene med, at hun skulde ha et Barn. Spændingen og Angsten havde tat haardt paa hende. Hun følte sig syg og træt, og det var en Lidelse for hende at være i Butikken.
+    </p>
+    <p>
+     Jensen havde tat det roligt, som om det var en ubetydelig Sag. Det var jo noget, som hændte hver Dag, mente han; han kunde ellers ikke begribe, hvordan det var gaat saadan, men – Faktum var altsaa Faktum; der var ikke noget at gjøre ved det. Man fik indrette sig fornuftigt og ta det roligt. Bare ingen Scener, for alt i Verden ingen Scener – – –
+    </p>
+    <p>
+     Og hun gjorde ingen Scener.
+    </p>
+    <p>
+     Før havde hun ofte tænkt, at hvis det skulde hænde, maatte hun bli gal eller dræbe sig. Men hun havde været saa tryg, det kunde jo ikke ske. Saalænge hun gik i Uvished, var hun ofte nær ved at fortvile. Hun stængte sig inde og graat og graat. Om hun bare havde havt et eneste Menneske, hun
+     <pb n="74"/>
+     kunde snakke med, en, som kunde si et godt Ord til hende. Hun var saa hjælpeløs og ensom; og saa tænkte hun paa sin Mor og graat enda mer; – aa Gud, hvad skulde der bli af hende!
+    </p>
+    <p>
+     – Men nu, da der ikke var Tvil længer, var hun blit forholdsvis rolig. Det var saa underligt. Det kunde aldrig bli saa kjedeligt i Verden længer, syntes hun. Det var saadan en underlig Blanding af Angst og Fryd. Naar hun engang imellem tænkte helt ud paa det, som skulde komme, isned hun af Rædsel; men det var sjelden, de Tanker kom; det var jo saa længe til det endnu.
+    </p>
+    <p>
+     Alle hendes Tanker samled sig i Regelen om det nuværende, om hendes Legeme. Enhver ny fysisk Fornemmelse fyldte hende med Undren. Det var saa høitideligt og gaadefuldt, og da hun første Gang kjendte Livstegn, brast hun i en stille, velgjørende Graad. En lang Stund sad hun ganske stille som i Andagt; der foregik ligesom noget saa besynderligt med hende; hun var ikke alene længer, – og hun graat af stille vemodig Glæde.
+    </p>
+    <p>
+     Men snart begyndte Kampen for at skjule det, og hun led forfærdelig. Det trange Korset pinte hende, og naar hun kom hjem om Kvælden efter at have maattet staa hele Dagen, rev hun Klæderne af sig og kasted sig udmattet ned paa Sengen. Naar hun saa sig i Speilet, blev hun forfærdet. Dag for Dag blev hun sværere, og endnu var der to Maaneder igjen. Hvad i Alverden skulde hun
+     <pb n="75"/>
+     gjøre? Hun kunde umulig holde ud endnu i to Maaneder. Hun syntes, Folk maatte se det. Og hun snøred Maven sammen med faste Bind og spændte Korsettet, saa hun neppe kunde puste. Hun blev huløiet og mager og gik altid med et Sjal over Skuldrene og smaahosted. Og til Fru Gundersen og i Forretningen fortalte hun, at Doktoren havde sagt, det var galt fat med Brystet. Hverken hun eller nogen anden kunde skjønne andet, end at Fru Gundersen trodde paa Tæringen
+     
+     af sit ganske Hjerte. Hun stelte godt med hende, og en Dag sa hun sogar, at hun syntes virkelig, Frk. Halvorsen burde søge om en ordentlig Sommerferie i Aar, saa hun kunde komme ud paa Landet lidt. Landluft var jo den bedste Medicin for Brystsyge.
+     
+    </p>
+    <p>
+     Men i Butikken var det værre.
+    </p>
+    <p>
+     I hendes Nærværelse holdt de sig saa godt som muligt. Man vidste jo, at hun var mægtig. De kunde resikere at bli fjernet i al Stilhed. Da var det vel saa fornuftigt at holde sig lidt tilvens med hende; og til hendes Beroligelse var de tækkeligere mod hende nu end de havde været nogensinde før. Men naar hun vel var ude af Døren, regned det med Vittigheder. Hun var urolig og nervøs og gik svært ofte ud.
+    </p>
+    <p>
+     «Stakkars Tulla; hun har nok spist forbu – naa – umoden Frugt!» sa Hansen.
+    </p>
+    <p>
+     Og saa lo de.
+    </p>
+    <p>
+     <pb n="76"/>
+     Men saa kom hun en Dag og sagde Farvel til sine Colleger. Hun skulde ha fjorten Dages Ferie. Doktoren havde sagt, at hun maatte paa Landet en Stund.
+    </p>
+    <p>
+     Den Dag hun skulde reise, var hun saa beklemt, at det var hende umuligt at si Farvel til Fru Gundersen; hun graat, bare nogen saa paa hende. Og saa bestemte hun sig til at si, at Reisen var opsat til i Morgen; men i Aften vilde hun rømme, uden at nogen vidste det; og til Fru Gundersen vilde hun lægge igjen et Brev, saadan som de gjorde i Romanerne, med Farvel og Tak, og bede hende hilse alle, som holdt af hende.
+    </p>
+    <p>
+     For at holde sig oppe havde hun drukket Vin af og til udover Dagen, og var i en blød, vemodig Stemning. Da hun skrev Billetten til Fru Gundersen, graat hun af Rørelse, og da Frk. Paulsen senere kom ind til hende et Ærinde, bad hun hende høitidelig at drikke et Glas Vin med sig til Afsked. Frk. Paulsen vilde ikke si nei; det var virkelig Synd paa hende, stakkar. Hun saa paa de forgrædte Øine og følte oprigtig Trang til at være lidt hyggelig mod hende. Og da Frk. Paulsen tilslut sa Farvel og takked hende for Samværet dette Aar, havde hun selv Taarer i Øinene. Men det var formeget for Frk. Halvorsen. Hun brast i en voldsom Graad og hulked: «Tak, Frk. Paulsen! – Aa Gud, De ved ikke, hvor vondt jeg har det!»
+    </p>
+    <p>
+     <pb n="77"/>
+     Et eneste kjærligt Ord, og hun havde fortalt alt, alt. Hun var saa træt og forpint af alt dette Komediespil.
+    </p>
+    <p>
+     Men Frk. Paulsen reiste sig. «De er saa forfærdelig nervøs; det følger vel med Brystsygen. De maa se at bekjæmpe Dem lidt; De har slet ikke godt af saant, kan De vide.»
+    </p>
+    <p>
+     «Ja, jeg er lidt nervøs; De maa undskylde mig.»
+    </p>
+    <p>
+     Og efter et lidt forlegent Farvel gik Frk. Paulsen.
+    </p>
+    <p>
+     – Frk. Halvorsen gik op og ned paa Gulvet og vred sine Fingre blaa. Brystsygen! Brystsygen! De spotted hende, de spytted hende i Ansigtet. Hun kunde kvæle Frk. Paulsen og alle, alle de andre. Hun fyldtes af onde, stygge Tanker. Hvor hun haded Fru Gundersen, som gik der og hykled og ikke hjalp hende. Og Jensen! – Hvorfor hjalp de hende ikke? Hvorfor vilde ingen hjælpe hende? Kanske de var bedre end hende? Hvorfor skulde hun lide altsammen? Rædselen for de fysiske Smerter, som vented hende, gjorde hende halvgal. Kanske hun skulde dø for dette her, pines ihjel mellem Hænderne paa fremmede Mennesker.
+    </p>
+    <p>
+     Paa Barnet tænkte hun ikke længer. Saadanne Barn døde jo bestandig, det vidste hun; og hun følte intet ved Tanken. Hun havde ikke Rum for andet end Medlidenhed med sig selv. Hun grov sig ned i Sengen, og gav sig over i sin Fortvilelse.
+    </p>
+    <p>
+     <pb n="78"/>
+     Da Klokken var ti, stod hun op og tog paa sig en stor Slynge,
+     
+     en liden Filthat
+     
+     og et tæt Slør for Ansigtet, og gik nedover Pilestrædet. Paa Hjørnet af Kirkegaden vented Tobiassen med Droske. Hun steg op, og de kjørte i Taushed nedover til Dampskibsbryggen. Regnen øste ned, og der var stille paa Gaden. Tobiassen var uhyggelig tilmode; han vidste ikke, hvad han skulde sige. Tilslut spurgte han, om der var noget, han skulde besørge for hende. «Ja, Kufferten – i Morgen –.»
+    </p>
+    <p>
+     Op af Reisevæsken tog hun en Lap med Adressen og gav ham, derpaa trak hun Kaaben fast omkring sig og læned sig bagover. Om hun frøs? – «Ja.» Det var alt hvad de talte.
+    </p>
+    <p>
+     Da de var fremme, hjalp han hende ud af Vognen; de tog hinanden i Haanden uden Ord; saa gik hun raskt ombord og forsvandt i Kahytten.
+    </p>
+    <p>
+     «Stakkars Gjente,» mumled Tobiassen. Dette var i Grunden det uhyggeligste, han havde vært med paa –.
+    </p>
+    <p>
+     «Tivoli!» raabte han til Kusken og sprang op i Vognen
+     
+     igjen.
+    </p>
+   </div>
+   <div type="chapter">
+    <head type="main">
+     VIII.
+    </head>
+    <p>
+     <pb n="79"/>
+     Efter to Dages Lidelser havde Frk. Halvorsen ved Doktorens Hjælp bragt et Barn til Verden. Det var en Pige, liden og rar; men fuldt levedygtig, sa Jordemoderen.
+    </p>
+    <p>
+     Frk. Halvorsen forstod ikke rigtig. Fuldt levedygtig? Kunde det være muligt? Men hun var altfor træt til at tænke noget videre over det; det var ligesom det ikke kom hende ved. Barnet skulde jo flaskes, og hun havde det aldrig hos sig. Hun sov meget, og naar hun var vaagen, længted hun bare efter at sove igjen; da slap hun at tænke paa alting.
+    </p>
+    <p>
+     Forresten følte hun sig saa forpint, og saa rent uden Kraft og Vilje efter de svære Smerter, som hun havde udstaaet, at hun syntes ikke, hun kunde bli Menneske mer.
+    </p>
+    <p>
+     Ofte drømte hun, at det begyndte paany. Hun skulde slagtes, og hun maatte ligge og se paa Forberedelserne. Den lille geschäftige
+     
+     Jordemoder vimsed omkring og rakte alleslags underlige
+     <pb n="80"/>
+     Instrumenter til den høie, mørke Manden, som stod bøiet over hende, og hun laa i Dødsangst og ventet paa at føle dem i sit Kjød –.
+    </p>
+    <p>
+     Hun vaagned med et Skrig. Aa gudskelov! aa gudskelov! Taarerne brød frem, og hun takked Gud, fordi hun bare havde drømt.
+    </p>
+    <p>
+     Men Skrækken sad i hende. I Tanker og Drømme kom hun vist til at leve det op igjen, om hun blev hundrede Aar.
+    </p>
+    <p>
+     – Hvor der skulde bli af Barnet? Huf nei, det fik virkelig de andre tænke paa. Hun syntes, hun maatte ha taget sin Part nu. Nu maatte hun sandelig faa Lov til at være i Fred. Hun følte sig saa mishandlet og forurettet, at hun mangen Gang graat af Medlidenhed med sig selv.
+    </p>
+    <p>
+     Men eftersom hun begyndte at komme til Kræfter igjen, trængte Tanken paa Barnet mer og mer paa. De andre? Hvilke andre? Pludselig stod det saa uhyggelig klart for hende, hvor alene hun var. Kanske hun indbildte sig, at Jensen, eller –; med en iskold Latter afbrød hun Tanken. Aa nei, det maatte nok bli hende det ogsaa. Naturligvis. Hun maatte nok ha det altsammen. Det var jo bare hendes Skyld. Aa Gud, hvorfor havde de ikke ligesaagodt tat hendes Liv med det samme; det havde jo været saa lidet om at gjøre.
+    </p>
+    <p>
+     Da hun var kommet op af Sengen, begyndte hun ogsaa at stelle lidt med den Lille. Det var i Grunden morsomt.
+    </p>
+    <p>
+     <pb n="81"/>
+     Gud, hvor rart det var at tænke paa, at dette blaatynde Væsen var hendes Barn. Det havde vist hendes Øine forresten. Gud ved, om Krybet ellers ligned hende. Sludder! slige Smaa ligned jo ingen. Det kunde kanske blit noksaa Morro at faa beholde hende; men stakkars liten, for hende havde det nok vært bedst, om hun havde faat dø. Det var jo fælt det ogsaa, – men slige Smaa kom jo til Gud.
+    </p>
+    <p>
+     Ofte, naar hun sad med den Lille paa Fanget, strømmede der for et Øieblik en varm Følelse af Lykke igjennem hende. Og da følte hun, at det vilde bli vondt at skilles fra det lille Væsen.
+    </p>
+    <p>
+     Det nærmed sig Tiden, da hun skulde reise, og hun talte med Jordemoderen om Anbringelse af Barnet. Det maatte naturligvis bli paa Landet, hvis man kunde faa det pent anbragt. Der var intet Raad for det. Hun kunde jo alligevel besøge det af og til. At ha det i Kristiania var for resikabelt; der kunde saa let komme noget op.
+    </p>
+    <p>
+     Men Madamen vidste ingen deromkring, som kunde ta det; derimod kjendte hun en ung Styrmandskone i Kristiania, som vilde ha et Pleiebarn,
+     
+     og der trodde hun Barnet maatte faa det godt. Den Konen havde selv bare en treaarsgammel Gut, og Manden var fordetmeste ude paa Reiser, saa hun havde Tid nok; og ikke var det rigtig nogen Fattigkone heller, som de fleste andre saadanne Pleiemødre.
+    </p>
+    <p>
+     <pb n="82"/>
+     Frk. Halvorsen syntes hun maatte benytte sig af en saa god Leilighed.
+     
+     Hun følte ogsaa en hemmelig Glæde ved Tanken paa, at hun skulde faa ha Barnet saa nær. Man kunde altid lave sammen en eller anden Historie, saa hun kunde faa se det lidt ofte.
+    </p>
+    <p>
+     Saa blev det overladt til Jordemoderen at forhandle med Konen og bringe Barnet ind, naar alt var i Orden.
+    </p>
+    <p>
+     – Da Frk. Halvorsen endelig sad ombord paa Dampskibet, som førte hende til Byen igjen, befandt hun sig noksaa vel. Hun husked Turen udover og gøs ved Tanken. Ja, nu kunde hun nok være glad, nu det var over, og hun var fri og frisk igjen. Dampskibsturen kvikked hende op. Hun fik en storartet Appetit, spiste det bedste hun kunde faa ombord og blev svært modig.
+    </p>
+    <p>
+     Det var i Grunden bare dumt at grue for at komme til Byen igjen. Det var jo ingen som vidste noget. Og selv om de havde vidst
+     
+     noget –! hun blaaste i dem allesammen. Det var saamæn noget, som havde hændt de fineste Damer; Madam Simonsen kunde fortælle lidt af hvert om de Ting. De kunde sladre saameget de vilde; hun kryssed ingen. Desuden blev de nok snart kjed af det.
+    </p>
+    <p>
+     Det ærgerligste var, at hun maatte leie Værelse.
+    </p>
+    <p>
+     Fru Gundersen vilde hun ikke se mer, det var umuligt. Og heller ikke Tante Hedels; men det skulde hun saamen ikke sørge over; det havde saa alligevel ikke været nogen Hygge ved den Dame.
+    </p>
+    <p>
+     <pb n="83"/>
+     Men hun maatte tilstaa, at hun skulde vært glad, hvis hun havde kunnet flytte ind igjen paa sit gamle Værelse. Intetsteds kunde hun faa det saa trygt og godt som der. At hun kunde ha vært saa erkedum at bære sig slig ad, som hun havde gjort, gi sig til at rømme, akkurat som om hun skulde ha tat noget med sig. Det var bare saadan en idiotisk Romangrille, hun havde faat i Hovedet. Det var til at ærgre sig gul og grøn over. Nu kunde hun bare ha tat en Droske og kjørt lige hjem paa sit hyggelige Værelse, istedetfor at ta ind paa et kjedeligt Hotel og saa i Morgen begynde at rende efter Logi. Huf, hun kunde ikke tænke sig noget værre.
+    </p>
+    <p>
+     Jo mer hun tænkte over det, desto klarere stod det for hende, hvor dumt hun havde handlet. Ingenting vilde styrke Sladderen mer, end at hun var flyttet fra Gundersens, hvor hun havde boet helt fra hun kom til Byen. Folk vilde naturligvis tro, at de havde jaget hende, og nu var det ikke rimeligt, at Fru Gundersen vilde forsvare hende længer heller, for nu var hun naturligvis sint. At hun havde vidst noget, lod hun nok være at si, men hun gik vel og jamred over, at hun var ført bag Lyset, at saadan Tak havde hun faat, fordi hun havde tat hende ind i sit Hus og behandlet hende som sit eget Barn, o. s. v. Aa, hun kjendte Fru Gundersen, hun vidste paa en Prik, hvad hun vilde si, og hvordan hun vilde sno sig fra det.
+    </p>
+    <p>
+     <pb n="84"/>
+     Nei, aldrig se dem mer. Hun vilde leie paa en rent anden Kant af Byen. Den Konen, som skulde ha Barnet, boede i Vognmandsgaden
+     
+     etsteds, saa kunde det jo passe for hende at leie paa Grønland; da havde hun det lige i Veien sin. Hun fik si, at det var en Slægtning af sig som eied Barnet, eller kanske en Bekjendt. Aa nei, det var alligevel bedre at si en Slægtning; hun kunde jo si, at det var en Fætter; naar det bare var Faderen, hun var i Slægt med, saa var det jo ikke nogen videre Skam. Hun kunde fortælle, at han var Student, af rige, fine Forældre, men desværre svært letsindig. Og saa maatte hun si, at det var med en fin Dame, han havde dette Barnet, af en i Byen velkjendt, stor Familie; derfor kunde Moderen altsaa ikke selv o. s. v.; det kunde jo formelig bli interessant.
+    </p>
+    <p>
+     Aa jo, det skulde nok gaa. Det kom jo idetheletaget ikke Kjærringen ved; naar hun bare fik sine Penge, saa tied hun nok.
+    </p>
+    <p>
+     Kl. ti om Aftenen la Dampskibet til ved Toldbodbryggen i Kristiania.
+    </p>
+    <p>
+     Det var allerede temmelig mørkt, og der var gudskelov ikke et kjendt Menneske at opdage. Hun brændte i Kinderne og havde voldsom Hjertebanken da hun sprang ned ad Landgangen og ind paa Bryggen for at faa fat i Vognmand. Gud give, hun nu slap fri for Bekjendte; der var altid saa mange Forretningsfolk nede paa Bryggen, naar Dampskibene kom.
+    </p>
+    <p>
+     <pb n="85"/>
+     Vognmanden fulgte ombord og tog hendes Kuffert, og hun følte sig betydelig lettet, da hun var kommet op i Vognen med alle sine Pakkenelikker.
+     
+    </p>
+    <p>
+     «Kanske De vil slaa op Kaleschen, Vognmand; jeg tror, det begynder at regne?»
+    </p>
+    <p>
+     «Nei da, paa den Stubben faar vi nok ikke noe Regn, – det var jo Prinsensgade 4?»
+    </p>
+    <p>
+     «Ja – Madam Johnsens Privathotel.»
+     
+    </p>
+    <p>
+     – Da hun var kommet ind paa det lille Værelse, som blev hende anvist, stablede hun sit Tøi sammen i en Krog, og bestilte en halv Flaske Øl og nogle skaarne Smørogbrød. Men Smørogbrødene var vonde og Værelset var trist og ubehageligt; det var ikke muligt at sætte sig i Ro og spise.
+    </p>
+    <p>
+     Hun gik op og ned paa Gulvet, bed af et Par forskjellige Madstykker, tømte Ølflasken og begyndte at klæde sig af. Hun var virkelig saa gjennemtræt efter Reisen; hun mærked nok godt, at hun ikke taalte saa meget endnu, men det maatte vel komme sig med Tiden. Da hun var næsten afklædt, fik hun pludselig Lyst til at se paa Maven sin. Mon hvordan
+     
+     den kunde se ud efter en saadan Historie. Hun havde aldrig turdet se paa den saalænge hun gik med Barnet, det var for fælt bare at se den udenpaa Linnedet dengang. Hun løste Bindet og gik hen foran Speilet. Men du gode Gud, hvordan var det hun saa ud! – blaasorte Striber over hele Maven, Aarer eller Ar ligesom; fælt stor var den ogsaa enda, foldet og styg,
+     <pb n="86"/>
+     huf! Kanske hun skulde gaa omkring med de Mærkerne hele sit Liv, jo det skulde se nydeligt ud! Hun skyndte sig at knytte Bindet fast paa igjen og sprang hurtig op i Sengen.
+    </p>
+    <p>
+     Hun frøs saa hun hakkede Tænder. At det kunde være saa koldt i August!
+    </p>
+   </div>
+   <div type="chapter">
+    <head type="main">
+     IX.
+    </head>
+    <p>
+     <pb n="87"/>
+     Klokken otte den næste Morgen vækked Pigen hende med Kaffebrættet.
+    </p>
+    <p>
+     Frøken Halvorsen var søvnig og uvel, havde Hovedpine og var tung og træt; hun maatte ha forkjølet sig. Gud hjelpe hende saasandt, om hun skulde bli gjentaget,
+     
+     – bli liggende her, og der kom Doktor, og hele Greien kom for en Dag. Hun drak sin Kaffe med febrilsk Hast, tvang sig til at spise lidt og stod op. Det blev vel bedre, naar hun fik vasket og stelt sig og kom ud i Luften.
+    </p>
+    <p>
+     Men fy, hvor elendig hun saa ud; hun var graa som Aske i Ansigtet, og saa var Haaret blit saa stygt; Pandehaaret laa i glatte Tjafser nedover Panden. At hun ikke havde husket paa at vaske det i Gaaraftes; ikke var det klippet og stelt paa lange Tider heller. Heldigvis havde hun da ikke vært galere, end at hun havde pakket ned Pudder og Krølsax, da hun reiste; nu fik hun nok Brug for det, saa det ud til.
+    </p>
+    <p>
+     Efter adskilligt Stræv var hun endelig færdig.
+     <pb n="88"/>
+     Det var et sandt Ord, at Pudsen var halve Gjenta,
+     
+     tænkte hun og saa sig endnu engang i Speilet. Nu saa hun jo noksaa bra ud.
+    </p>
+    <p>
+     – Men Hovedet værket og Knæerne skalv, da hun en halv Time senere gik ind ad Butikdøren hos Jensen.
+    </p>
+    <p>
+     Hun snakked en hel Del, og var anstrengt elskværdig, da hun hilste paa sine Kolleger. De var mærkelig nok svært tækkelige, og ønsked hende med tilsyneladende Begeistring velkommen.
+    </p>
+    <p>
+     Hun blev saa rørt af Taknemmelighed, at hun neppe kunde holde Taarerne tilbage; nogle snille, prægtige Gutter var de alligevel allesammen; og hun følte saadan Trang til at være rigtig hyggelig og snil mod dem.
+    </p>
+    <p>
+     Mens hun endnu stod med Tøiet paa og snakked med dem, kom Jensen.
+    </p>
+    <p>
+     Hun kjendte hun blev bleg, og hun syntes ogsaa han blev forandret.
+    </p>
+    <p>
+     Men han kom strax rolig hen og gav hende Haanden, idet han ønsked hende velkommen tilbage.
+    </p>
+    <p>
+     «Nu, har De saa havt en behagelig Tur, Frøken, samlet Kræfter og Arbeidslyst til Høstsjauet?»
+    </p>
+    <p>
+     Han saa gemytlig smilende paa hende.
+    </p>
+    <p>
+     Jo tak, hun havde havt det godt. Hvordan man havde havt det her? spurgte hun for at si noget.
+    </p>
+    <p>
+     «Her har sku vært forbandet stille og kjedeligt,» svarte Jensen, idet han tog nogle Skridt indenfor
+     <pb n="89"/>
+     Disken og saa opefter Hylderne. «Ikke Spor af Trafik, fuldkommen uddød. Men nu kommer De forhaabentlig og sætter lidt Liv i Geschæften,
+     
+     De Frøken?»
+    </p>
+    <p>
+     Han saa atter paa hende og smilte, idet han gik i ind paa Kontoret.
+    </p>
+    <p>
+     Gudskelov! –
+    </p>
+    <p>
+     Det var, som hun havde udsonet en stor Straf, da det var over.
+    </p>
+    <p>
+     I Grunden var det hyggeligt at komme i Butikken igjen; det var nu ligesom her, hun havde hjemme alligevel. Og hun begyndte at se sig om overalt. Det var saa Morro at løfte paa Æskelaagene og trække ud Skuffer; hun lo og sa, at hun vilde se, om de havde været flinke til at holde iorden, mens hun var borte.
+    </p>
+    <p>
+     Pludselig kom Hansen med et Brev, som havde ligget der i flere Dage og ventet paa hende. Det var nær paa han havde glemt det, sa han.
+    </p>
+    <p>
+     Det var fra Fru Gundersen.
+    </p>
+    <p>
+     Hun blev forandret og skalv paa Haanden. Nu kom det. Men til sin Forbauselse læste hun følgende:
+    </p>
+    <quote>
+     <p rend="noIndent">
+      «Kjære Frøken Halvorsen.
+     </p>
+     <p>
+      Deres Spøg med Rømningen var udmærket; skjønt jeg maa sige, at jeg blev lidt lang i Ansigtet med det samme. Men da jeg havde summet mig lidt, tænkte jeg: Gud, hvor det ligner hende. Det
+      <pb n="90"/>
+      er sandt som Gundersen siger, at De er lidt romantisk af Dem.
+     </p>
+     <p>
+      Ja ja, Ungdommen er saa mangfoldig.
+     </p>
+     <p>
+      Deres Værelse er blevet oppudset og gjort hyggeligt istand, og jeg haaber, vi endnu skal faa mange koselige Stunder sammen.
+     </p>
+     <p>
+      Deres moderligt hengivne Anna Gundersen.»
+     </p>
+    </quote>
+    <p rend="noIndent">
+     Frøken Halvorsen vidste med det samme ikke, hvad hun skulde tænke, – var Fru Gundersen virkelig saa dum, eller – –; blaas, hvad kom det hende ved, hvad Fru Gundersen var. Hovedsagen var, at hun skulde slippe at leie Værelse, faa flytte ind igjen paa sin gamle Hybel, hvor hun kunde faa være i Fred for alslags Nærgaaenhed og Nysgjerrighed; Resten kunde virkelig være for hvad det vilde.
+    </p>
+    <p>
+     Det var det bedste, som kunde hænde. Frøken Halvorsen blev i Perlehumør.
+    </p>
+    <p>
+     En Spøg! Nei den var god. Hun maatte storle, maatte hun.
+    </p>
+    <p>
+     Aa du storartede Fru Gundersen! udbrød hun ved sig selv, mens hun krølled Brevet sammen og kasted det i Ovnen.
+    </p>
+    <p>
+     Om Eftermiddagen blev hendes Hjemkomst feiret med en Flaske Vin i det Allerhelligste, og alt var som før. Kun syntes hun, at Jensen var lidt høitidelig af sig. Stakkar, han havde nok været ordentlig
+     <pb n="91"/>
+     ængstelig. Han snakked om, at de herefter maatte være forsigtige til det yderste; hans Stilling var meget vanskelig o. s. v. Men hun syntes alt ordnede sig saa godt nu, at hun bare lo. Pyt! Der var ingen Fare paafærde. Det var altsammen gaat i den bedste Orden, og hun følte sig ganske rolig og tryg. «Og naar ikke jeg er ræd, saa kan sagtens du tie stille,» la hun til og gav ham et lidet Klaps paa Munden.
+    </p>
+    <p>
+     Men han var fremdeles alvorlig.
+    </p>
+    <p>
+     «Nei, nu maa du undskylde, Vennen min; men vi er da forhaabentlig enige om, at min Stilling er betydelig mere resikabel end din.»
+    </p>
+    <p>
+     «Naa, det lader saamæn til, at du har nogle underlige Tanker om mig,» sa hun og vilde reise sig.
+    </p>
+    <p>
+     «Nei nei, misforstaa mig nu endelig ikke; jeg ved jo, at du er god og fornuftig; men du kan da ikke fortænke
+     
+     mig i at – jeg mener, du skjønner jo at – hele min Existens staar paa Spil, hvis –»
+    </p>
+    <p>
+     Hun la sig ind til ham og saa ham op i Øinene. «Ja, men du ved jo, at du kan stole paa mig.»
+    </p>
+    <p>
+     Han tog hendes Hoved mellem begge sine Hænder og kyssed hende.
+    </p>
+    <p>
+     «Ja vist, det er jo det jeg siger, du er en god, fornuftig Pige.» –
+    </p>
+    <p>
+     – Men Jensen befandt sig ikke synderlig vel. Det irriterede ham, at hun var saa tryg og sikker, mens han, sandt at sige, følte sig temmelig beklemt.
+     <pb n="92"/>
+     Det var ogsaa en forbandet Ide at trække Ungen ind til Byen.
+    </p>
+    <p>
+     Frøken Halvorsen funderede lidt, da hun kom for sig selv. Han var jo egentlig i hendes Hænder, det var sandt; men Gud, han vidste da, at ikke hun –; sligt noget Vrøvl!
+    </p>
+    <p>
+     Om nogle Dage fik hun Brev fra Jordemoderen, at Barnet var vel anbragt hos Fru Johannesen. Vognmandsgaden 24
+     IIII
+     .
+    </p>
+    <p>
+     Hun havde ikke tænkt stort paa lille Jensine i denne Tid; hun var kommet saa godt over hele Affæren nu, at det var, som om der slet ikke skulde være hendt noget.
+    </p>
+    <p>
+     Men nu kom alle de plagsomme Tanker væltende ind paa hende igjen og fortrængte alt andet; det var som en kold, mørk Skygge, som kom og lagde sig over hele hendes Liv –: Barnet, Barnet.
+    </p>
+   </div>
+   <div type="chapter">
+    <head type="main">
+     X.
+    </head>
+    <p>
+     <pb n="93"/>
+     Frk. Halvorsen kunde ikke begribe, hvorfor hun havde kaldt Barnet Jensine.
+    </p>
+    <p>
+     Det var ligesom med en Gang kommet hende i Munden dengang, da det skulde hjemmedøbes. Med et vist ondskabsfuldt Velbehag havde hun gjentaget det et Par Gange: Jensine skal hun hede, Jensine skal hun hede.
+    </p>
+    <p>
+     Latterligt Indfald, syntes hun nu; som om det skulde gjøre ham noget, om Ungen hed Jensine! Og hvorfor skulde hun forresten ville være ubehagelig mod ham; hun havde saavist ikke noget at beklage sig over. Men hun havde nu fundet paa saa meget rart i den Tid.
+    </p>
+    <p>
+     Men nu ærgred hun sig over Navnet. Noget styggere Navn kunde hun ikke tænke sig.
+    </p>
+    <p>
+     – Da hun første Gang skulde
+     
+     besøge Jensine i hendes nye Logi, grued hun sig noksaa meget; og hun var lykkelig; da hun havde revet af sig Historien om Fætteren.
+    </p>
+    <p>
+     «Fru Johannesen», som Pleiemoderen kaldte
+     <pb n="94"/>
+     sig, var en ung Kone med en Masse lyst Pandehaar, halvkorte Kjoleærmer og Nikkels Armbaand om de tykke, røde Haandled.
+    </p>
+    <p>
+     Hun var næsten altfor elskværdig og snakked rørende om, hvor børnekjær hun var. Frk. Halvorsen syntes nok næsten det var lidt formeget af det gode; men det kunde jo godt hænde, det var sandt alligevel. «Fruens» egen Gut saa godt ud og lod til at være svært glad i Moderen.
+    </p>
+    <p>
+     Nu havde hun vært der ofte, saa ofte, at hun var ræd, det skulde begynde at vække Opsigt. Disse Butikfolkene over paa den anden Side af Gaden begyndte at se efter hende, og hun syntes de lo. Naa, de kjendte vel Fru Johannesen, og Gud ved, hvad hun kunde ha berettet; for at hun ikke troede paa Historien om Fætteren, det havde Frk. Halvorsen allerede faat mærke engang, hun havde været sint, fordi Barnet laa med iskold Melk paa en Flaske, da hun kom.
+    </p>
+    <p>
+     Men gaa did maatte hun, for Jensine var syg; og Frk. Halvorsen pintes nu af noget, som var værre end alt andet: ond Samvittighed.
+    </p>
+    <p>
+     Det fik gaa, som det vilde; hun maatte se Barnet hver eneste Dag; hun led mer end nogen kunde forstaa ved at se paa det lille hjælpeløse Væsen, som uforskyldt skulde lide saa meget.
+    </p>
+    <p>
+     Det
+     
+     var den engelske Syge,
+     
+     Jensine havde. Men Fru Johannesen sa, at det var en Sygdom,
+     <pb n="95"/>
+     som andet hvert Barn havde; det var slet ikke saa farligt. Hendes egen lille Gut havde ogsaa havt den, og det var gaat over med en almindelig Trankur.
+    </p>
+    <p>
+     Men Pleie og Stel maatte jo et sygt Barn ha baade Nat og Dag, og hun beklagede sig over, at hele hendes Tid gik med til at passe Jensine, saa hun maatte leie Hjælp til andet Arbeide.
+    </p>
+    <p>
+     Frk. Halvorsen skjønte, at det var mere Penge, det gjaldt, og hun var strax rede. Hun skulde nok faa sine Tab godtgjort,
+     
+     mente hun, bare hun vilde stelle rigtig godt med Jensine. Og Fru Johannesen kyssed og kjælte for den lille og sa, at med Guds Hjælp, saa skulde hun nok blive frisk og kjæk igjen.
+    </p>
+    <p>
+     Men Frøken Halvorsen havde ikke nogen videre Tro paa Fru Johannesens Elskværdighed. Der var noget saa upaalideligt ved de smaa, lyse Øine, som hun aldrig lukket rigtig op. Og hun ønsked inderligt, at hun alligevel havde faat Barnet anbragt hos en skikkelig Bondekone ude paa Landet etsteds; det havde nu ihvertfald været sundere for det. Men hun følte sig aldeles i Fru Johannesens Vold, og turde ikke engang tænke paa at gjøre nogen Forandring.
+    </p>
+    <p>
+     En Dag kom hun som sædvanlig derbort i Middagstiden.
+    </p>
+    <p>
+     Nede i Gaarden stod Fru Johannesens halvvoxne
+     <pb n="96"/>
+     Tjenestepige med et Vedfange paa Armen i dyb Passiar med en Veninde.
+    </p>
+    <p>
+     «Nei, naa maa jeg flye!» sa hun, da hun fik se Frøken Halvorsen komme ind ad Porten, «for der kommer Frøkna til Ungen;» – hun gjorde en ægte Gadetøsgrimace og tilføiede, idet hun gik: «jeg har ikke sagt Ungen til Frøkna, skjønner 'u; hi-hi-hi!»
+    </p>
+    <p>
+     Men deroppe gik Frøken Halvorsen frem og tilbage med det skrigende Barn paa Armen. Paa Gulvet laa en ituslagen Taateflaske, og Melken var skvættet udover hendes sorte Kjole og randt i en Bæk nedover Gulvet.
+    </p>
+    <p>
+     Der var tomt Hus, da hun kom op; Dørene stod paa vid Væg, og i Vuggen laa Jensine blaasort i Ansigtet og skreg med hæs Stemme og dybe Drag, som om hun skulde kvæles.
+    </p>
+    <p>
+     Hun rev Barnet op, og tog Flasken, som var gledet ned paa Hovedpuden, for at gi det Drikke; men den var saa hed, at hun brændte sig paa den. Nu forstod hun, hvorfor Barnet skreg; det havde brændt sig paa den kogende Melk. Hun kasted Flasken i Gulvet, trykkede den lille op mod sit Ansigt og kyssed og husked og kjælte for hende, mens Taarerne strømmede hende nedover Ansigtet.
+    </p>
+    <p>
+     Hun fyldtes med Had, Sorg og Samvittighedsnag, saa hun syntes, hun maatte skrige høit.
+    </p>
+    <p>
+     Hun kunde i dette Øieblik givet Resten af sit Liv, om hun som en ret Mor kunde lagt den lille
+     <pb n="97"/>
+     syge Stakkel ind til sit varme, fulde Bryst, det eneste Sted, hvor det kanske kunde fundet Ro og Sundhed. Hun overdyngede sig selv med Bebreidelser og Skjældsord. Ikke nok med, at hun var en Tøs, ikke det Gran bedre end en almindelig Tøs, var hun; hun havde pint ihjel et lidet Barn ovenikjøbet. Aa Gud hjælpe hende, Gud hjælpe hende!
+    </p>
+    <p>
+     «Gaa væk! – Gaa ud med dig!» raabte hun til Pigen, som kom ind og sa et eller andet. Frøken Halvorsen saa paa hende med et Blik saa ondt og stygt, at Pigen blev ræd og forsvandt. «Tvi for noen Mennesker! fy for noen Mennesker!» fik hun efter sig ud igjennem Døren.
+    </p>
+    <p>
+     Men Barnet skreg, og der var næsten ikke Lyd i Skriget længer. Med skjælvende Hænder husked hun den Lille; men de lange, snevre Hansker gjorde hende klodset, og Sindsbevægelsen tog Fatningen fra hende. Det var saa vondt saa vondt at høre og se paa dette – hun krymped sig og stønned for hvert Skrig. Hun kunde falde paa Knæ og bede dette lille Væsen om Tilgivelse, Tilgivelse – men der var ikke Tilgivelse for sligt – aa Gud, hvor fælt dette var. Om Barnet døde her mellem Hænderne paa hende –; Doktor! Gjenten maatte springe efter Doktor.
+    </p>
+    <p>
+     Men pludselig faldt de smaa Øienlaag igjen. De svage Kræfter var opbrugt og Jensine sovned.
+    </p>
+    <p>
+     Frøken Halvorsen lytted ved Munden, ved Hjertet, overalt. Da hun havde overbevist sig om,
+     <pb n="98"/>
+     at det bare var Søvn, la hun hende varsomt ned i Vuggen. Saa satte hun sig ved Siden af, med Hænderne foldede i Fanget.
+    </p>
+    <p>
+     «Aa gudskelov, gudskelov,» sukkede hun, mens Ansigtet fortrak sig i stille, undertrykt Graad.
+    </p>
+    <p>
+     Men af og til brød Efterdønninger af Graaden frem fra det lille Bryst, som en Higsten eller dybe, skjælvende Suk.
+    </p>
+    <p>
+     Det var saa ondt at høre paa.
+    </p>
+    <p>
+     Raadvild og hjælpeløs og inderlig bedrøvet sad Frøken Halvorsen og betragtede den lille; det forekom hende saa umuligt og unaturligt, at hun igjen skulde gaa bort og overlade Stakkelen til disse hjerteløse Mennesker.
+    </p>
+    <p>
+     Men hvad skulde hun gjøre.
+    </p>
+    <p>
+     Et Øieblik faldt det hende ind, at hun burde ta Barnet og reise langt, langt bort, – til Amerika. Men hvad skulde hun ta sig til der, fremmed og alene, og med et lidet Barn; – aa nei, hun kunde nok intet gjøre – uden at bede til Gud, at han vilde forbarme sig over hende og ta Barnet til sig.
+    </p>
+    <p>
+     Taarerne brød atter og atter frem.
+    </p>
+    <p>
+     Endelig reiste hun sig med stor Overvindelse og fik ved Pigens Hjælp lavet en ny Flaske. Da den var færdig, tog hun først selv en Mundfuld af den, satte saa Taaten paa, og stak den forsigtig ind mellem de smaa Læber. Barnet greb begjærlig til og pattede med uregelmæssige Pauser, mens det sov videre.
+    </p>
+    <p>
+     <pb n="99"/>
+     Gudskelov, det saa ud, som om hun havde det ganske godt nu.
+    </p>
+    <p>
+     Med tungt Hjerte gik Frøken Halvorsen hjemover, trykket til Jorden under Følelsen af sin Vanmagt. Det var til at blive sindssvag af, at staa med bundne Hænder og se paa slig Elendighed. Hun orked ikke at gaa i Butikken igjen om Eftermiddagen. Hun skrev en Seddel
+     
+     og sa, at hun var syg.
+    </p>
+    <p>
+     Efter den Dag havde hun bare det Ønske, at Gud maatte ta Jensine. Han fik da heller straffe dem som havde fortjent det, og spare den lille uskyldige, som intet ondt havde gjort.
+    </p>
+    <p>
+     Men Jensine slap ikke saa let. Skjønt hun for hver Tid blev daarligere, leved hun endnu et halvt Aar.
+    </p>
+    <p>
+     Dette store Barnehoved med de dumme, matte Øine og den lille gjennemsigtige Krop med de visne krogede Ben
+     
+     forfulgte Frøken Halvorsen Dag og Nat, og for at holde sig oppe maatte hun ofte drikke. Sommetider drak hun, saa hun var ræd for sig selv. Men hun maatte. Det var det eneste, som hjalp lidt paa Samvittigheden.
+    </p>
+    <p>
+     Jensen mærked, at hun havde begyndt at drikke, og han tænkte sent og tidlig paa en Udvei til at faa hende fjernet. Ikke fordi han egentlig havde Lyst til at skilles fra hende heller; men hans Stilling var for pinlig; han maatte.
+    </p>
+    <p>
+     Gjentagne Gange havde han bragt det paa Bane; men hun var saa nervøs i denne Tid, at
+     <pb n="100"/>
+     hun opførte Scener for det mindste Ord. Han turde ikke andet end tie – indtil videre.
+    </p>
+    <p>
+     Var det enda saa vel, at Vorherre snart vilde ta den Ungen, saa blev hun vel fornuftigere igjen.
+    </p>
+    <p>
+     Det var ganske besynderligt, forresten; det lod virkelig til, at hun troede dette skulde vare til deres Dødsdag. Det var saadan en kvindfolkagtig Hundehengivenhed. Og stakkars Gjentunge, naar hun var saa fornøiet med det, saa var det jo næsten Synd at gjøre Vrøvl ogsaa. – Naar han bare ikke var saa afhængig paa alle Kanter! han vidste jo ikke sin arme Raad mangengang. –
+    </p>
+    <p>
+     – – Om Eftermiddagen den Dag, da Jensine blev begravet, listed Frøken Halvorsen sig i Skumringen op paa Kirkegaarden og la en Krans paa Graven. De hvide Støtter saa ud som Spøgelser mellem Træerne og Frøken Halvorsen var mørkræd. Hun løb. Da hun kom til Graven, saa hun sig sky omkring, bøied sig ned og lagde Kransen tilrette, mens hun hvisked: «Sov godt i Jesu Navn.»
+    </p>
+    <p>
+     Saa tørred hun en Taare bort fra Kindet og satte paa Sprang ned igjennem den lange, mørke Allé.
+    </p>
+    <p>
+     Da hun endelig var udenfor Kirkegaardsmuren trak hun Pusten lettet, og hun havde noget af samme Følelse som da hun for snart et Aar siden efter den lange Pine endelig havde bragt Jensine til Verden; det var, som hun nu først rigtig var forløst. – –
+    </p>
+    <p>
+     Det var trist i Butikken den Aften. Frk. Halvorsen
+     <pb n="101"/>
+     ønsked, at der skulde været rivende travelt; det var saa ondt at ha saa god Tid til at tænke. Et Par Gange var hun nede hos Madam Simonsen; hun trængte saa til noget at stive sig op paa.
+    </p>
+    <p>
+     En Stund før de skulde lukke var hun inde paa En-Gros Lageret og vasked sig. Hun satte sig paa en Kasse mens hun tørred sine Hænder, bredte Haandklædet over Knæerne, støttet Albuerne mod dem, og lod Hovedet falde tungt ned paa Hænderne.
+    </p>
+    <p>
+     Mens hun sad saadan kom Jensen. Han trak Døren halvt igjen efter sig og gik lige hen til hende. Hun saa op med det samme, og han saa, at hun havde grædt. Han tog hendes Hode mellem begge sine Hænder og la det ind til sig, idet han hvisked: «Stakkars Gjenta mi.» Hun lukked Øinene; det var saa godt, saa betryggende. Han strøg hende over Haaret med den ene Haand, mens han med den anden greb hendes. Saa hvisked han endnu sagtere: «Venter du i Aften?» Hun nikked sagte og gav hans Haand et let Tryk. Hun følte et svagt Kys paa sit Haar og saa forsvandt han lydløst i Halvmørket.
+    </p>
+    <p>
+     Hun krølled Haandklædet sammen mellem Hænderne og presset Knæerne fast om dem. Saadan sad hun og stirred sløvt frem for sig, indtil Karl, Visergutten, kom med Dobbeltlaasen og skulde lukke.
+    </p>
+   </div>
+   <div type="chapter">
+    <head type="main">
+     XI.
+    </head>
+    <p>
+     <pb n="102"/>
+     Aaret efter skede der en Del Forandringer hos Jensen &amp; Co.
+    </p>
+    <p>
+     En-Gros Handelen blev udvidet, og Hansen blev Reisende, – hvilken han særlig var skikket til. Han tog Smaabykjøbmændene og Landhandlerne med Storm med sine pikante Historier og lystige Viser, og skjønt han rangled adskillig, gjorde han gode Forretninger.
+    </p>
+    <p>
+     I hans Sted var der i Butikken kommet en stilfærdig ung Mand, som der ikke var synderlig Morro ved, samt en ung Dame, som skulde oplæres.
+    </p>
+    <p>
+     Tobiassen var Førstemand, eller «Chef for det Indre», som de andre kaldte ham, og som saadan havde han at befale over sine Kolleger. Kun Frøken Halvorsen vilde ikke anerkjende hans Overhøihed. Hun gik sine egne Veie, til stor Forbauselse for de nye i Forretningen.
+    </p>
+    <p>
+     Men det var ingenlunde hendes Mening at konkurrere med ham om Førstemandsstillingen, dertil var hun for lidet interesseret. Hun gad ikke kaste
+     <pb n="103"/>
+     sig over alle Grene af Forretningen og lære de Ting, som hun havde forsømt. Det eneste som hun fuldt ud magtede var den almindelige Butikexpedering; deri var hun saagar Tobiassen overlegen. Men hvor hun ikke kunde klare sig med sit «kvindfolkelige Hovedregningssystem», som Tobiassen kaldte det, der stod hun fast; for regne paa Papir kunde hun meget daarligt. Hun havde aldrig giddet lære det; det var ligesom en Selvfølge, at Betjenterne gjorde den Slags Arbeide.
+    </p>
+    <p>
+     Idetheletaget blev aldrig Arbeidet andet for hende end en ubehagelig Nødvendighed, noget midlertidigt, som ikke kunde fylde eller glæde hende. Mens hendes Kolleger arbeidede for det Maal en gang at bli sine egne Herrer og faa sin egen Forretning, saa var det for hende bare en Overgang, som det gjaldt at gjøre saa let og kort som muligt.
+    </p>
+    <p>
+     Og det faldt hende aldrig ind, at der var noget rart i dette. Det var da saa naturligt, at en Kvinde havde andre Ting at tænke paa, som interesserte hende mere. Det var jo ikke deres Bestemmelse at bli Forretningsmænd.
+    </p>
+    <p>
+     Derfor blev hun ogsaa som himmelfalden, da Jensen en Dag kom med Forslag om, at hun skulde faa begynde en liden Forretning i en af Smaabyerne. Han troede det maatte gjøre hende lykkelig; men til hans Forbauselse og Harme sa hun ham rent ud, at det var ingenting i Verden, hun havde mindre Lyst til. Huh da! hun var sikker paa, at hun
+     <pb n="104"/>
+     ikke duede til det engang, hun kom bare til at ødelægge Penge med det. Hvis hun havde været en ældgammel Jomfru, saa kunde der vært Mening i at begrave sig slig, men for hende – nei, han kunde ikke engang mene det. Han holdt da vel mere af hende end som saa. Og hun hængte sig om Halsen paa ham og sa spøgende: «Du som ikke kan udstaa emanciperte Damer, og sligt er da virkelig netop noe for emanciperte Damer, vel! Og saa i en Smaaby, huh da!»
+    </p>
+    <p>
+     Nei nei, naar hun ikke havde Lyst, saa. Han havde jo bare tænkt at gjøre det godt for hende, han.
+    </p>
+    <p>
+     Og saa blev der ikke talt mer om det.
+    </p>
+    <p>
+     Men det ængstede ham at have hende i sin Forretning; han var aldeles ikke sikker paa hendes Takt. Det hændte, at hun tog sig Friheder, som absolut maatte vække Opmærksomhed.
+    </p>
+    <p>
+     Det var derfor en stor Skuffelse for ham, at hun tog hans Forslag paa den Maade. Han havde længe tænkt paa dette, som paa den lempeligste Maade at ordne Sagerne paa; – at faa hende lidt paa Afstand, uden dog at skille sig rigtig ved hende, det var i Grunden det eneste, som passed ham rigtig; thi egentlig Brud vilde han af flere Grunde helst undgaa.
+    </p>
+    <p>
+     Han ærgred sig dygtig, var ofte grætten og vrang mod hende og passed bedre paa hende end før, og hun fik høre adskillige ubehagelige Ting. Han havde trod, at det skulde smigre hendes
+     <pb n="105"/>
+     Ærgjerrighed, at han havde Tillid til hende og vilde hjælpe hende til at bli selvstændig; men nu bandte han sig selv, fordi han aldrig kunde lære. Et Kvindfolk med Ærgjerrighed! Du godeste Gud, for en Tanke! Det var bare en Ting, de satte sin Ære i; hvad der gik over dette, gav de Fanden med Fedt paa.
+    </p>
+    <p>
+     Men det var intet, som bed paa hende. Naar han begyndte at bli ubehagelig, saa gik hun sin Vei simpelthen; skulde man ta sig nær af alt sligt Vrøvl, saa fik man noget at gjøre! Det var da ikke værdt at gjøre sig Livet surere end det var heller. Forresten vidste hun jo, at det bare var Luner; det gik nok over.
+    </p>
+    <p>
+     En Dag i den travle Tid før Jul gik hun pludselig ud midt paa Formiddagen uden at si fra til nogen. Lidt efter lidt blev Butikken fuld af Folk, og Chefen maatte ind og hjælpe med Expederingen. Han saa strax, at Frøken Halvorsen ikke var tilstede, men sa ikke noget med det samme. Tilslut kunde han dog ikke holde sig længer; men spurgte temmelig barskt, hvor hun var.
+    </p>
+    <p>
+     «Hun er gaat ud», svarte Tobiassen, som om det var den naturligste Ting af Verden.
+    </p>
+    <p>
+     «Gaat ud? Det var som Fan; – midt paa Formiddagen i den travleste Tiden –» for Jensen op, rød i Ansigtet af Sinne.
+    </p>
+    <p>
+     Da hun endelig kom, sa han uden at se paa hende: «De maa være saa snil at være tilstede
+     <pb n="106"/>
+     her, Frøken, naar der for en Gangs Skyld er lidt at gjøre.» Hun trak paa Skuldrene med et lidet spydigt Smil og gav sig rolig til at expedere.
+    </p>
+    <p>
+     Da Jensen senere fik hende paa Tomandshaand, spurgte han hende med en Stemme, som skalv af Sinne, om hun havde tænkt at sætte ham i Gabestokken for hele Personalet. Hun fik passe sig lidt.
+    </p>
+    <p>
+     «Pyh!» sa
+     
+     hun og vendte sig fra ham med en kort Latter.
+    </p>
+    <p>
+     «Jeg siger du faar passe dig lidt!» skreg han, endnu mere ophidset, «vi har tre Maaneders Opsigelse her!» Han gik i fuld Fart op og ned paa Gulvet.
+    </p>
+    <p>
+     «Jeg vil ikke staa som en Nar for Folkene mine, saavidt du ved det!» Han gik hurtig ud og smældte Kontordøren igjen efter sig.
+    </p>
+    <p>
+     Gudskelov at det var sagt; han var sku kjed af dette-her nu. Det var noget saa fortærende ved dette aldrig at føle sig som fri Mand; man kunde bli gal af det. Det maatte da for svarte Fanden gaa an at faa en Ende paa det, vel! Her gik han som en Tyv bestandig og turde ikke se Folk i Øinene, mens hun var saa rolig og tryg –; det var rent irriterende. Hun havde ingenting at resikere, hun, mens han – aa du evige Gud, kunde man tænke sig noget dummere end at kjøre sig slig fast. Han havde nok havt adskillig Erfaring i Fruentimmerveien; men det var første Gang han havde et Forhold, som liksom skulde være lidt bedre
+     <pb n="107"/>
+     end de mange af allerløseste Slags, som han begyndte at bli kjed af; men havde han havt Anelse om, hvad dette det
+     
+     var for et Slaveri, saa skulde han vist ha passet sig.
+    </p>
+    <p>
+     – Frk. Halvorsen kjendte ham og var tryg; men alligevel befandt hun sig ikke godt, naar han var sint paa hende. Og i Dag syntes hun, han havde talt bestemtere end almindelig.
+    </p>
+    <p>
+     Opsigelse! nei nu blev han lystig. Hun stod ved Disken og slog op noget Tøi, mens hun mumled for sig selv: «Sig op, du Far, sig op, du Far! – Sig op du, hvis du tør, men kjender jeg dig ret saa – –! aa pyt, du tør vel mindre!» Hun var harm og lei, og Graaden vilde op hvert Øieblik. En Stund arbeided hun meget flittig; men det generte hende, at de andre hele Tiden la Mærke til hende. Hun blev sint og kasted Tøistykket i Disken saa Støvet føg om hende, gik saa ind og tog paa sig Tøiet igjen. Hun skulde da vise dem, at hun ikke var ræd; indbildte de sig det, saa tog de feil – Idioterne! Hun gik, men vendte sig i Døren og raabte ind i Butikken igjen:
+    </p>
+    <p>
+     «Hvis nogen spør efter mig, saa sig, at jeg er gaat til Sydamen!»
+    </p>
+    <p>
+     Saa gik hun rolig opover Gaden, tilsyneladende stærkt optaget med at knappe de lange Hansker.
+    </p>
+    <p>
+     «Men Gud, turde hun gaa ud nu igjen, saa sint som Chefen var?» sa Frøken Hoel og saa paa Tobiassen.
+    </p>
+    <p>
+     <pb n="108"/>
+     «Ja, det er noksaa frækt,» svarte han; men det var ogsaa alt, hvad han sagde.
+    </p>
+    <p>
+     Frk. Hoel begreb ikke et Muk
+     
+     af dette; den Tobiassen var ogsaa en rar Førstemand.
+    </p>
+    <p>
+     Jensen var i flere Dage i det sorteste Humør. Ofte ønsked han hende af sit ganske Hjerte Fanden i Vold. Men Modet sank lidt efter lidt; thi hvor stor Lyst han end kunde ha, Skandale gjorde han altsaa ikke. Han var i Bur; man fik indrette sig derefter. Han havde det ubetinget bedst, naar de var gode Venner. Da var hun snil og fornuftig og gjorde ikke Vrøvl. Undertiden bestræbte hun sig saagar øiensynlig for at rette sine Feil, naar han bebreidede hende. Udannede Mennesker var altid farlige, naar de blev sinte; man kom længst med det gode. Og det endte med, at han gjorde det godt igjen.
+    </p>
+    <p>
+     Men da han en Dag hørte Madam Simonsen spase
+     
+     med, at Frøken Halvorsen og Tobiassen skulde gifte sig, var han nær ved at bede til Gud.
+    </p>
+    <p>
+     Det maatte da ogsaa være Fan, om hun ikke skulde finde paa at gifte sig engang! Hun maatte da for en Pokker ha Friere, saa vakker som hun var! Eller om hun virkelig skulde gaa der og – aa Sludder, der var da Maade paa Sentimentalitet ogsaa. Til syvende og sidst skulde man se, Pigebarnet gik der og vented paa, at han skulde blive Enkemand –!
+    </p>
+    <p>
+     Enkemand –, naa; at være gift var sku ikke
+     <pb n="109"/>
+     saa farligt; det var et Paradis af Frihed alligevel det, mod et Forhold som dette! Det maatte være et uhyre upraktisk Menneske, som ikke kunde skaffe sig lidt Frihed, om han var gift; men kom man først ind i et saakaldt frit Forhold, saa sad man sku der, trods al Overlegenhed, det skjønte han nu. Altid at ha Skandalen hængende over Hode paa sig – hu; naa, man fik indrette sig; der var altsaa ikke noget at gjøre ved det. Hun forlangte svært meget af ham ogsaa nu; han fik nok ikke Lov til at forsømme hende saa ofte, som han kunde ha Lyst til; – der blev strax Scener, og det var saa Satans væmmeligt. En vakker Dag kunde hun jo ogsaa gjerne finde paa at sende alle disse dumme Billetter
+     
+     hjem til Fru Jensen; ingen vidste, hvad et nervøst Fruentimmer kunde finde paa; de tænkte ikke, de; neida; nei, han fik nok – – – –.
+    </p>
+    <p>
+     Men Gud inderlig give, at hun vilde gifte sig!
+    </p>
+   </div>
+   <div type="chapter">
+    <head type="main">
+     XII.
+    </head>
+    <p>
+     <pb n="110"/>
+     Det gik en Tid saa nogenlunde. Hun var ialmindelighed flittig, naar han var tilstede og passed for det meste Forretningstiden; men de taltes sjelden ved, og ingen af dem likte sig rigtig.
+    </p>
+    <p>
+     Hendes Paapasselighed undlod imidlertid ikke at gjøre sin Virkning paa Jensen, som først og fremst var Forretningsmand, og han mildnedes lidt efter lidt.
+    </p>
+    <p>
+     Men saa kom der igjen Tider, da hun overgav sig til sin Dovenskab og lo af sig selv, fordi hun var saa dum.
+    </p>
+    <p>
+     «Er'n go, saa kommer'n igjen,» som Madam Simonsen sagde; herregud, hun vidste jo det nu. Og i sin Tryghed drev hun ham ofte til Raseri ved sin udfordrende Dovenskab og Ligegyldighed. Det kom til stormende Scener, som hun tog med stedse
+     
+     større Ro, medens han mer og mer laa under for sin Magtesløshed. Han sprælled i hendes Baand som Fisken paa Krogen. Det var ikke Frygten for Skandalen alene, som bandt ham; det værste
+     <pb n="111"/>
+     var at … Fanden, naar det kom til Stykket, saa kunde han ikke undvære hende heller! Han, som havde følt sig saa høit hævet over dette udannede Kvindemenneske, maatte nu knytte Næven i Lommen og indrømme, at han var den underlegne; og det hjalp ham ikke det mindste, at han fortalte sig selv og hende, at det var smudsige Vaaben hun brugte, at det var hendes Mangel paa Dannelse og Finfølelse som var hendes Styrke o. s. v.; hun lo ham bare ud, naar han snakked om Finfølelse, og for sig selv blev han hverken finere eller stærkere af det.
+    </p>
+    <p>
+     Naar de saa havde været Uvenner en Tid, og han havde gaat og svoret og forbandet sig paa, at nu skulde det være slut – ialfald med det, foreløbig med
+     <emph>
+      det
+     </emph>
+     , – saa begyndte han at se venligere paa hende igjen, tilsidst længselsfuldt, – forelsket; – og saa havde hun seiret. Hun blev snart saa modig, at hun vovede at vise sig haard, stille Betingelser – – Han blev sint, men naar der var gaat nogle Dage, kom han og gav sig.
+    </p>
+    <p>
+     Og saa kom der Tider, da de levede i en fuldstændig Rus, behagelig rangleslappe og naragtig forelskede. Hun dyssed hans Samvittighed i Søvn med bløde Kjærtegn og vild Sandselighed, og indtog ham fuldstændig med sin underdanige Hengivelse, som smigrede hans Forfængelighed og for en Stund lod ham føle sig som den overlegne. Paa Knæ, kyssende hans Fødder, saadan likte han
+     <pb n="112"/>
+     Kvinden. Det var den rette Kvindelighed. Og det var i Øieblikket ingenlunde Hykleri fra hendes Side, tvertimod. Hun havde saa meget af Kvindens og Underklassemenneskets Slavenatur i sig, at det i Forelskelsens Øieblik faldt hende naturligt at søge sin Plads ved hans Fødder. Det var ham ofte en Gaade, hvordan dette ydmyge, kjærlige Væsen undertiden kunde tage sig saa ganske anderledes ud. – –
+    </p>
+    <p>
+     – – Nu havde Jensen været standhaftig usædvanlig længe, og han begyndte næsten selv at tro paa, at der skulde blive Alvor af hans Beslutning. Han holdt lange Taler for sig selv; ingen Svaghed nu, ingen Dumhed; dette skulde og maatte have Ende.
+    </p>
+    <p>
+     En Søndag over Nytaar holdt han det reglementerede Juleselskab for sine Butikfolk og et Par af Husets intimeste Venner.
+    </p>
+    <p>
+     Som altid hos Jensens havde man spist en udmærket Aftensmad, og nu kom Punchebollen.
+     
+    </p>
+    <p>
+     Fru Jensen var i høieste Velgaaende
+     
+     og sad bleg og træt og strævede med at være Værtinde. Hun saa gammel og daarlig ud og røbed i Paaklædning og Frisur en paafaldende Ligegyldighed for sit Ydre. Og det irriterede Jensen; man behøved da ikke at skabe sig værre end man var heller. Han kunde ikke lade være at gjøre Sammenligninger, og stjal sig saa ofte som mulig til at
+     <pb n="113"/>
+     betragte Frøken Halvorsen, som sad lidt ifra de andre og snakked med hans Ven Grosserer Bøhn.
+    </p>
+    <p>
+     Det forekom ham, at Bøhn gjorde temmelig betydelig Haneben.
+     
+     Fan til Udhaler
+     
+     ogsaa; han maatte da i Pokkers Skind og Ben forstaa, at sligt var upassende. Det var simpelthen taktløst var det, naar Husets Frue var tilstede. Jensen drak temmelig flittig og var ganske rød i Toppen.
+    </p>
+    <p>
+     «Skaal gamle Borger!» raabte han til Bøhn og hævede Glasset.
+    </p>
+    <p>
+     «Skaal, Skaal du!» kvak Bøhn i og snudde sig rundt paa Stolen forat ta sit Glas, som stod bag ham paa Etagéren.
+     
+    </p>
+    <p>
+     De drak og plirede til hverandre over Glassene.
+    </p>
+    <p>
+     Fælt saa godt som hun tog sig ud i Kvæld forresten; saa frisk og indbydende saa hun ud i den vinrøde, stramtsiddende Kjole. Den klædte hende brilliant. Hun havde sku Smag, Pigebarnet; det var ikke stort om at gjøre, før hun var Dame saa god som nogen; om det saa var de kortklippede, plebeiiske, ikke ganske rene Negle, som altid havde irriteret ham, saa havde hun sku faat Bugt med dem ogsaa. Og ganske mærkelig var det, hvor hendes Optræden havde vundet i Ro og Sikkerhed. Hun var ikke længer sky og forlegen, men førte sig mellem ham og hans Kone som om ingenting var. Og det var sandelig godt gjort. Skam at sige, saa følte han sig noksaa trykket,
+     <pb n="114"/>
+     han for sin Part. Men det vilde jo være paafaldende om hun ikke var med ogsaa. Han kunde forresten aldrig mærke noget paa sin Kone, skjønt han vidste, at der engang var kommet hende noget for Øre. Men hun havde vist ikke trod paa det, skjønt Gud ved; man kunde jo aldrig blive klog paa hende. Det var akkurat som hun ikke brydde sig om nogen Ting længer; hun var saa halvdød og ligeglad, at han sommetider var rasende paa sig selv, fordi han gik og havde Samvittighed for sligt et Menneske. I de senere Aar lod hun ham jo tydeligt nok forstaa, at han kunde gjøre hvad han vilde, bare hun fik være i Fred. Han trodde bogstavelig talt, at det eneste hun brydde sig om var at sove, og det fik hun da vel ogsaa Tid til, saa meget som hun laa og vælted i den Sengen derinde. Gud ved, hvad det var for noget rart, som feilede hende bestandig. Jo mere han saa paa hende, des mere uappetitlig forekom hun ham. Det var ligesom bestandig noget af Sovekammerluft og Sengevarme over hende. Hvor velgjørende vilde det ikke vært engang at se hende med Korset og moderne Frisur, saadan at han kunde være sikker paa, at hun var rigtig vaagen, rigtig opstaat. Han kunde næsten ikke huske at ha set hende i andet end Morgenkjole, et Plag, som han ligefrem hadede. Saadant som Korset havde hun forlænge siden opgivet. For et Par Aar siden havde han tat hjem et elegant fransk Korset og
+     <pb n="115"/>
+     git hende til Jul; men hun bare spurgte hvad Tid hun skulde bruge det; for enten gik hun jo med Barn, eller ogsaa havde hun et ved Brystet. Og da var det virkelig for besværligt at bruge Korset.
+    </p>
+    <p>
+     Jensen bed Tænderne sammen, bar Korsettet med sig igjen og gav det til Frk. Halvorsen.
+    </p>
+    <p>
+     – De taltes sjelden ved, Jensen og Fruen nu, thi han benyttede enhver Anledning til at spise i Byen. Og som altid naar Fruen gik sidst paa,
+     
+     havde han sit eget Soveværelse.
+    </p>
+    <p>
+     Frk. Halvorsen syntes ogsaa, at Fru Jensen havde tabt sig svært.
+    </p>
+    <p>
+     Naar hun tænkte paa, hvad det stakkels Menneske havde ivente, følte hun sig saa deilig fri og frank; hun syntes virkelig Synd paa hende. Var det mulig, at hun ikke længer var jaloux paa Fru Jensen, at hun kunde se paa hende uden at der satte sig en vond Knute for Brystet? Hun kunde neppe tro det selv; men i Aften følte hun virkelig bare Medlidenhed med hende; hun saa saa træt og udslidt ud.
+    </p>
+    <p>
+     Jensen drak noksaa flittigt, og han blev mer og mer jaloux paa Bøhn. Tilslut satte han sig hen til dem og blanded sig i Samtalen. Nærmere og nærmere trak han sig hen til Frøken Halvorsen, indtil han pludselig kvak op ved, at hun reiste sig hurtig op, blussende rød i Ansigtet. I stor Forvirring tumled han ind i det andet Værelse for at drikke med en af Herrerne. Hvad var det han
+     <pb n="116"/>
+     havde gjort? Havde han rørt ved hende? Han havde bare Indtryk af at have været i Berøring med noget heluld, blød Cachemir. Aa du evige Gud, for en Skandale! Var han da bleven splittende gal? Hvad var det for noget Hexeri med dette Fruentimmer?
+    </p>
+    <p>
+     Han turde ikke se paa sin Kone; dette bar ad Helvede til. Han blev pludselig ganske ædru, og var saa skamfuld, at Lyset generede ham; han ønsked sig ned i den svarteste Afgrund. Og han svor en mægtig Ed paa, at det i Morgen den Dag skulde blive en Ende paa dette-her. I Morgen, saasandt Vorherre lod ham opstaa af Sengen, skulde han være fri Mand.
+    </p>
+    <p>
+     Han følte sig saa styrket ved sin Beslutning, at han ganske rørt gik ind og klapped sin Kone paa Hovedet og spurgte om hun ikke var træt; men Menneskene og Stuen gik lidt i Røre for ham, som han stod der og over hendes Hoved saa ind i det andet Værelse, hvor Frøken Halvorsen sad og snakkede med en af sine Kolleger. Det maatte være fælt varmt her.
+    </p>
+    <p>
+     Frøken Halvorsen foreslog, at man skulde bryde op. Hun anstrengte sig for at være rolig, men det ringed for Ørene og svimlede for hende hvert Øieblik. Inde i hendes Hoved surrede hele Tiden de samme Ord: Har hun set det, har hun set det? – –
+    </p>
+    <p>
+     Hun var saa gal paa Jensen, at hun kunde
+     <pb n="117"/>
+     skrige. Bøhn havde mærket det og været væmmelig – aa, hvor hun længted efter at faa Jensen paa Tomandshaand.
+    </p>
+    <p>
+     Da Jensen vaagned den næste Morgen, havde han en ækel Følelse af Flauhed. Han husked noget væmmeligt fra igaar, og at
+     
+     han idag skulde gjøre Alvor af – – Alvor af at skille sig ved Frøken Halvorsen. Han havde jo bestemt det igaar, og Gud skulde vide, at han var bestemt idag ogsaa. Men –
+    </p>
+    <p>
+     Han klædte sig paa i en Fart, meldte af i Kjøkkenet, at han ikke kom hjem til Middag, og gik indover mod Byen i det sorteste Mandagshumør. Gang paa Gang tog han Hatten af og besvarede Hilsener, uden at have Anelse om, hvem det var, som havde hilst.
+    </p>
+    <p>
+     – Dersom hun enda ikke havde været saa sentimental; hun satte i at flæbe
+     
+     for alting. Nei, naar Kvindfolkene ovenpaa alt var sentimentale, da blev først Helvede rigtig hedt. Det var i Grunden bare det Sludderet, som havde afholdt ham fra at bryde for længe siden; – ja ogsaa det, at hun var saa fornuftig – og flink, svært flink saagar, naar hun vilde; og i disse elendige Tider havde det sku ikke lidet at betyde, at have Folk, som man kunde stole paa; og stole paa hende kunde han, saalænge – saalænge –; naa, det kunde han vist om de skiltes ogsaa, naar de skiltes
+     <pb n="118"/>
+     som gode Venner da; og om andet var der jo ikke Tale.
+    </p>
+    <p>
+     – Huh! han kunde faa Slag af Ærgrelse, naar han tænkte paa, hvor dum han havde været –. Saa uforsigtig; – disse dumme Skriverierne –; ikke engang saa megen Omtanke havde han havt i Skolten, at han havde ladt sin Kone være udenfor Historien; – det var dette evige Samvittighedsvrøvlet hendes den første Tid; – og saa ovenpaa alt Ungeaffæren.
+    </p>
+    <p>
+     Pludselig befandt han sig udenfor Butikken. Da han kom ind, hilste han med sit sædvanlige «Godmorgen»; men han blev rød, da hans Blik mødte Frk. Halvorsens. Hun smilte. Herregud for en Unge han var i Grunden. Det var rent rørende, saa forlegen, som han saa ud. Hun havde aldrig set ham rødme før. Det var ikke mulig at være sint længer, naar hun saa ham slig. Han var virkelig sød, var han. Stakkars Mand, nu gik han der og kvælte sig med det fra igaar. Det var jo ingen Ulykke skeet. Fruen havde vist slet ikke mærket noget, og den Idioten den Bøhn, ham blaaste hun da virkelig i.
+    </p>
+    <p>
+     Jensen undgik hende saameget som mulig om Dagen; men om Aftenen traffes de. Han kunde ikke faa Munden op saa hurtig, som han skulde; der var ingen Begyndelse som passed rigtig; og hun kom ham i Forkjøbet. Med stort Alvor gik hun hen til ham og saa ham ind i Øinene.
+    </p>
+    <p>
+     <pb n="119"/>
+     «Ja, du kan nok se angergiven ud,» sa hun med halvfornærmet, koket
+     
+     Mine. «Ved du, hvad du havde fortjent? – Ærlig og redelig havde du fortjent, at jeg havde tat alle Brevene dine …» Han glodde dumt paa hende og vilde afbryde –: det var altsaa ikke dette, som var Meningen –. Men hun holdt ham paa Munden med den ene Haand, medens hun fortsatte – «nei, ti nu stille for jeg er saa sint paa dig, at jeg vil skjende – Brevene dine og Fotografierne af hende og Gutterne, som du har stjaalet til mig – jo du har stjaalet dem, Far, negt ikke det, og de staar i Ramme paa Komoden min, ved du; jeg har naturligvis faat dem af Fru Jensen, jeg … du havde fortjent, at jeg havde taget altsammen og pakket det pent ind og sendt det ud paa Drammensveien …»
+    </p>
+    <p>
+     Hjertet sank i ham, dybere og dybere. Han tvang sig til et Smil, la Haanden paa hendes Mund, og sa saa let, som han kunde faa det til: «Huf da Pus, snak ikke saa stygt, vær nu snil Pige da!»
+    </p>
+    <p>
+     «Ja, vil du komme og bede mig pent Omforladelse da, dumme, uforsigtige Manden min.»
+    </p>
+    <p>
+     Hun smøg sig tæt, tæt ind til ham …
+    </p>
+    <p>
+     Han skalv.
+    </p>
+    <p>
+     «Ja, ja, lad os være gode Venner, vær snil – og fornuftig – saa …»
+    </p>
+    <p>
+     Han tog fast omkring hende og drog hende ned paa Sofaen. Hun hængte sig om hans Hals og hvisked:
+    </p>
+    <p>
+     <pb n="120"/>
+     «Saa skal du si «Kona mi» saan som før –.»
+    </p>
+    <p>
+     Og han sa «Kona mi».
+    </p>
+    <p>
+     Som han sad slig med den yppige Kvinde i Favnen, blev han hed, kyssed hende paa Hals, Ansigt og Hænder:
+    </p>
+    <p>
+     «Kona mi … Kona mi … Kona mi …»
+    </p>
+    <p>
+     «Saa! Saa!» lo hun. –
+    </p>
+    <p>
+     «Og saa en Flaske af den bedste Vin til at drikke Forsoning i, og saa aldrig noget Vrøvl mer, hører du, Manden min? Aldrig noget Vrøvl mer!» – – – – – – – – – – – – – –
+    </p>
+    <p>
+     – – Da han et Par Timer senere tøflede
+     
+     hjemover, gik han og snakkede halvhøit med sig selv. «Ikke noget at gjøre ved det, altsaa! – ikke noget at gjøre ved det! – Hun har Bugten og begge Enderne, hun; – ikke noget at gjøre ved det!» –
+    </p>
+   </div>
+   <div type="chapter">
+    <head type="main">
+     XIII.
+    </head>
+    <p>
+     <pb n="121"/>
+     Men de kjølige Perioder blev altid længere og kom igjen med kortere og kortere Mellemrum. Frøken Halvorsen begyndte at føle sig utryg. Han gled fra hende, og det maatte ikke ske. Denne hendes «Hemmelighed» var det eneste, som gav hende en vis Position. Hun tænkte med Gru paa den Tid, da hun ikke vilde være andet end den knapt aflønnede Butikjomfru igjen. Da kom de nok ikke til at staa saa paa Pinde for hende, som de nu gjorde, baade hjemme hos Gundersens og andre Steder. Hos Gundersens var det egentlig hun som raaded for alting nu; naar de flytted f. Ex., var det hun som afgjorde, hvilken Leilighed de skulde tage; Piger som ikke var efter hendes Smag blev sagt op o. s. v. Og det var jo ganske anderledes behagelige Tider idethele end dengang, da hun beskedent maatte «ta det hun fik, og takke naar hun gik.» Ved Pengelaan og Presenter havde hun gjort dem til en vis Grad afhængige af sig, foruden det, at hun betalte svært godt idetheletaget.
+    </p>
+    <p>
+     <pb n="122"/>
+     Med Ængstelse saa Frøken Halvorsen, at hun Tid for Tid tabte sin ungdommelige Friskhed. Hun var bleven graa og poset i Ansigtet og Øinene tabte mer og mer sin Glans. Hun syntes, at de blev lysere og mindre, men det værste var, at de havde røde Kanter. Og hun vidste nok, hvad det var som gjorde det; men hvad skulde hun gjøre; hun kunde ikke lade være. Alting var saa trist og ensformigt. Hun maatte ha lidt at stive sig op med; der var ikke Raad for det. Endnu havde hun ikke fundet noget som hjalp saa godt for alting som at drikke. Og hun søgte at hjælpe sig saa godt hun kunde. Med Pudder og slige Ting kunde man jo gjøre en hel Del. Men hun spekulerede Dag og Nat paa Midler til at binde ham; for det maatte ikke ske –; hun kunde ikke miste ham; – det eneste hun havde.
+    </p>
+    <p>
+     Men hun fik i denne Tid noget andet at tænke paa, som for en Stund lod hende glemme Jensen.
+    </p>
+    <p>
+     Der boede hos Gundersens en ung dansk Skuespiller, som hun var bleven svært gode Venner med. Han var vakker og livsglad, og det endte med, at hun forelsked sig i ham. Der gik lystigt til hos Gundersens i denne Tid. Værtsfolkene, Skuespilleren og Frøken Halvorsen turede
+     
+     mangen Nat igjennem, til ingen af dem rigtig vidste, hvordan de kom iseng. Gundersen spilte; mens Skuespilleren og Frøkenen sang Duetter eller opførte Scener af forskjellige Theaterstykker. Og det
+     <pb n="123"/>
+     hændte ikke sjelden, at de spillede Elskovsscener saa naturligt, at Fruen fandt det passende at indskyde et: «Fingrene af Fadet». Men mangengang lo hun, saa Taarerne trilled, naar de to efter en voldsom Scene sank udmattede ned i Sofaen med Armene om hinandens Hals. Det var jo bare Spøg; og jamen var de komiske.
+    </p>
+    <p>
+     En Nat blev Gundersen og Skuespilleren siddende igjen en Stund efter at Damerne havde gaat og lagt sig. De tog sig endnu et Par Glas, og da de skildtes, hændte det, at Skuespilleren tog Feil af Dørene i Korridoren og gik ind til Frøken Halvorsen. Og hun glemte hele Verden i hans Arme.
+    </p>
+    <p>
+     Dagen efter gik hun omkring i en underlig sentimental, forelsket Stemning, inderlig forranglet og sjaber og maatte uafladelig stive sig op. Hun drømte og drømte. Nu var Prinsen kommet. Prinsen med de gyldne Lokker og de drømmende blaa Øine, slank og kraftig, forførende deilig i sit freidige Letsind. Det var ham, hun havde drømt om i mange, mange, aa saa mange Aar. Ingen fede, slappe Fingre, ingen tynde Haarstubber med Pomade.
+     
+     Gyldne Lokker, drømmende blaa Øine. Ja, ham var det, den store stærke, den vidunderlige, som kom og tog hende med Magt, rev hende med i bedøvende, vild Lidenskab –; og Glas paa Glas tømte hun for sin Prins. Vildere og deiligere drømte hun, jo længer det nærmed sig Kvælden –
+     <pb n="124"/>
+     den salige Time, da hun atter skulde drukne i hans Favntag.
+    </p>
+    <p>
+     Kvælden kom, men Prinsen ikke. Hun sad i Mørke paa sit Værelse og vented med hver Nerve i sit Legeme. Ved den mindste Lyd i Porten, i Gangen eller andetsteds i Huset for hun sammen i Gysen. Endnu ikke? – Nei. Ham var det aldrig. Hun forstod det ikke. Havde han ikke lovet det? Var det ikke Aftale, at han skulde komme? Eller var det bare hun, som havde trod det saa sikkert? Kanske han slet ikke havde sagt det. Hun kunde ingenting huske. Det bare brændte og værked i Hovedet. Skulde det være mulig, at han ikke kom! Kunde han da ikke forstaa, at hun ventet sig syg og gal. Han havde sagt hende saa meget vakkert med sin deilige dybe Stemme. Kunde det være mulig at – – Eller –! Som en Lyn for der en Tanke gjennem hendes Hoved. Om han skulde tro – om han tænkte … nei … hys, der gik det i Entredøren. Det var ham. Hjertet bankede hørligt, og hun listed sig med Hænderne presset mod Brystet og Munden halvaaben, lyttende henimod Døren. Jo det var ham … der var en til, de gik sagte ind paa hans Værelse. Der blev ikke talt. Hun raved hen til Væggen, som skilte hans Værelse fra hendes og lytted i uudholdelig Angst og Spænding. Ikke en Lyd. Men der var to, der var to. Hun gjentog det hundrede Gange. Stod i samme Stilling til hun var nær ved at falde
+     <pb n="125"/>
+     om. Da trængte der pludselig en liden tilbagetrængt Damefnisen ind til hende. Hun glemte, at hun skulde være stille, sprang over Gulvet hen til Komoden, vælted en Stol i Mørket, fik famlet frem en Flaske, slog Vandglasset fuldt og tømte det. Det var Akkevit. Saa tumled hun om paa Sengen og laa i fulde Klæder med Hænderne presset mod Tindingerne til hun faldt i en vond Søvn med de ulideligste Drømme.
+    </p>
+    <p>
+     Den næste Dag kom hun i Butikken over Middag, graableg og huløiet, saa det var uhyggeligt at se paa. Jensen kom ind og syntes, han for de andres Skyld maatte sige noget. «Har De været syg, Frøken?» spurgte han uden at se paa hende. I den mest uforskammede Tone svarte hun ham lige op i Ansigtet: «Ja, naturligvis.» Jensen bed Tænderne sammen, knyttede Hænderne i Lommen og ønskede sig adskillige Favne under Jorden. Nu gik det for vidt. Men hvad i Alverdens Pøl og Pine skulde han gjøre. De vidste jo Besked. Skulde han nedlade sig til Fortrolighed med sine egne Tjenere? Skulde kanske ogsaa de faa ham i sine Klør. Overlegen! Overlegen! Det var det eneste. Med Halen mellem Benene lusked han ind paa Kontoret.
+    </p>
+    <p>
+     Det værste var, at hun netop i denne Tid var ham saa Pokkers besværlig. Han vidste ikke, hvad han vilde givet, hvis nogen havde kunnet skaffe ham af med hende. Han havde nemlig forelsket
+     <pb n="126"/>
+     sig ganske utrolig i en liden nydelig Koristinde, som længe havde fristet ham, naar hun paa sin Vandring til og fra Theatret passerede Kirkegaden. Hun kastede skøieragtige Blikke til ham, naar hun mødte ham paa Gaden. De kjendtes jo fra Bøhn. Men rent ud sagt saa – saalænge dette andet Kvindfolk gik her – saa var det virkelig lidt vanskeligt. Det var sku for resikabelt. Hun var i det senere bleven saa … saa tarvelig, ondskabsfuld ligefrem. Det var det som havde været det gode ved hende før, at hun var saa bra, saa snil og paalidelig. Men nu stolte han ikke paa noget længer. Hun var blit saa lunefuld og ligeglad. Han var ikke tryg noget Øieblik. Hun saa ofte ud, som hun kunde finde paa hvad det skulde være. Naar et Kvindfolk gav sig til at drikke, saa var man jo rent hjælpeløs. Hun var utilregnelig. Ja her var gode Raad dyre. Mindre end nogensinde turde han kaste hende paa Gaden. Det var den visse Skandale.
+    </p>
+    <p>
+     En Dag var han i det gemytlige Hjørne og spøgte med tykke Larsen.
+    </p>
+    <p>
+     «De Larsen, De skulde da pinedød tænke paa at gifte Dem snart, De ogsaa Mand! De har jo saa mange Tusinder, at De snart kan kjøbe af mig Forretningen.» Han lo lidt genert.
+    </p>
+    <p>
+     Larsen svarte med sit lune Smil, at der var nok desværre ingen, som vilde ha ham. Han havde aldrig havt nogen Damelykke, han. Jensen slæbte
+     <pb n="127"/>
+     en stor Protokol ud af Jernskabet og gav sig til at blade i den.
+    </p>
+    <p>
+     «Der
+     
+     er sku en til her, som har lidt tilbedste.
+     
+     – Halvorsen f. Ex.»
+    </p>
+    <p>
+     Han lo umotiveret og forsøgte at sætte op et rigtig Skøierfjæs, idet han saa paa Larsen.
+    </p>
+    <p>
+     Larsen vedblev med uforstyrret Ro:
+    </p>
+    <p>
+     «Ved sidste Aarsopgjør havde hun 250 Kroner tilgode ja.» Han var ganske alvorlig.
+    </p>
+    <p>
+     «Her ja.» Jensen vendte sig om og lagde Bogen ind igjen. Han blev staaende slig og flytted et Par Bøger frem og tilbage, som om han ledte efter noget. Dette var at sælge sig, men det fik voves. Larsen var jo tro som Guld. «Men hun har nok mer.» Han kasted det hen saadan lidt distrait, som om det egentlig var noget andet han tænkte paa. Og saa, idet han atter snudde sig mod Larsen med en anden Bog i Haanden. «Hun er sku et godt Parti, De.»
+    </p>
+    <p>
+     Jensen kjendte Blodet strømme sig til Hovedet. Han bladet forvirret i Bogen og hørte ligesom gjennem Taage et forundret: saa? ledsaget af et Blik, som gjorde ham vaagen. Han spurgte temmelig braadt om et Opgjør med en Landhandler, ledte fremdeles i en gal Bog, smældte den tilslut igjen og gik med den Bemærkning, at Bøgerne nok ikke var i den allerbedste Orden.
+    </p>
+    <p>
+     Fuldstændig vanvittig bar han sig ad. Myrde!
+     <pb n="128"/>
+     myrde! hele den fordømte Bande. Han lukked sig inde paa sit Kontor og rasede, rasede.
+    </p>
+    <p>
+     Men Larsen sad igjen og klukkede og lo saa inderlig fornøiet. Det var det kosteligste, han endnu havde oplevet. Hvem ved, om det ikke kunde komme til at gjøre saa meget som cirkus 300 Kroners Paalæg til Nytaar. Aa nei du, Fader vor, saa dyre Penger kjøber ikke Larsen. Han kunde ikke bare sig; det var for knagende morsomt. Tobiassen maatte faa Andel i denne kostelige Tildragelse. Han haled sig tungvindt ned af Krakken, strakte afvexlende paa Benene, mens han med Hænderne gned og strøg sin kjødfulde Bagdel. Han var saa stiv og støl af at sidde paa den Trækrakken bestandig, at han stønned, hvergang han skulde reise sig. Og rent ilde var det med Buxerne. Hansen paastod, at Kjærringerne, som kjøbte op gamle Klæder, aldrig vilde give noget for Larsens Buxer, fordi de var saa blanke og tynde paa et vist Sted.
+    </p>
+    <p>
+     Larsen ruslede indover mod Butikken, mens han af og til tog et godt Tag i Buxelinningerne og drog til. Han brugte ikke Sæler. Ho ho, klukket han, nu skulde de ha Morro. Men før han naaede ind i Butikken fik han Betænkeligheder. Var det
+     <emph>
+      fornuftigt
+     </emph>
+     at fortælle det? Nei. Det var
+     <emph>
+      ikke
+     </emph>
+     fornuftigt. Hvem ved, hvad den Historie kunde blive nyttig for, naar han beholdt den for sig selv. Men han drev alligevel videre; en liden Pause kunde jo ikke gjøre vondt.
+    </p>
+    <p>
+     <pb n="129"/>
+     Frøken Halvorsen sad paa en udtrukken Skuffe og broderede paa en stor, hvid Dug; det skulde være Geburtsdagspresent til Fru Gundersen. Tobiassen stod med Ryggen til hende og lagde op nogle Tøistykker. Han gjæsped høit, strakte Arme og Ben med lydelige
+     
+     Støn og sagde med et Blik paa Frøken Halvorsen: «Huf Gut, dette-her er et langsomt Leven! Ikke en Kjæft at se hele Dagen, Far.»
+    </p>
+    <p>
+     «Det var som Fanden, skulde ikke liksom Høstsæsonen begynde nu da?»
+    </p>
+    <p>
+     «Jo, en skulde tru det.»
+    </p>
+    <p>
+     «Har du ikke set noget til Frøken noksagt
+     
+     heller idag da?»
+    </p>
+    <p>
+     Frøken Halvorsen spidsede Øren. Der begyndte de igjen. Hun syede roligt videre, og lod som om hun sad i sine egne Tanker.
+    </p>
+    <p>
+     «Jo Fan, det er sandt, trur du ikke hu har vært herinne da. Hu spurgte efter noe Dævelsdom, som hu neigu ikke sjøl vidste hvad var. Men hu traf ikke Knappen dengangen, san. Han var netop gaat ud.»
+    </p>
+    <p>
+     Frøken Halvorsen blev hed. Han, han, hvem han? Kunde det være en af de nye Betjentene. Ja naturligvis maatte det være en af dem. Naturligvis. Hvem skulde det ellers være. Hun fik pludselig Hjerteklap og syede Feil efter Feil i Mønstret.
+    </p>
+    <p>
+     «Hm, hm, er det kommet saa vidt?» Larsen
+     <pb n="130"/>
+     sænkede Stemmen. «Undres paa, aassen det er med Madamen forresten?»
+    </p>
+    <p>
+     «Skidt, sa Kokka, hu var indom, da hu var paa Torvet idag og hentet noe For til den nye Morgenkjolen hendes.»
+    </p>
+    <p>
+     Frøken Halvorsen hørte ikke mer. Hun krølled Dugen sammen i en Tul ned i Skuffen og tog paa sig for at gaa ud.
+    </p>
+    <p>
+     En forfærdelig Angst betog hende. Nu forstod hun alt deres Snak og alle deres Hentydninger i den sidste Tid. Saa var det altsaa. Nu blev det igjen de gamle Bekymringer som fyldte hende, og hun glemte for en Stund dette saare, vonde fra igaar. Bare ikke miste ham; det maatte ikke ske. Nu, da hun forstod, at en anden holdt paa at tage ham fra hende, vaagned der en rasende Skinsyge i hende, trods den Ligegyldighed, ja Modbydelighed, som hun ofte i den senere Tid havde følt for ham. Han var hendes eneste og sidste Støttepunkt. Fik nogen anden den Magt over ham, som hun nu havde, saa var det forbi med hende. Det var den eneste Fornøielse, hun havde, at føle ham sprælle i sine Garn. Uden den kunde hun ikke greie det længer. Nei, den Glæde at se hende sparket ud, den skulde de ikke faa. Kanske de trodde, hun skulde trække sig tilbage i al Stilhed med et Par Kroner om Maaneden til Erstatning. Aa nei tak san. Aa nei tak san, det skulde blive Løgn, det; det blev ikke hende det,
+     <pb n="131"/>
+     det kunde de bande paa. Hun knytted Hænderne om Hatten, som hun havde taget ned af Knaggen og hvisled mellem Tænderne: H–fanten, H–fanten,
+     
+     du skal nok ikke slippe saa let. Febrilsk hurtig gik hun ud gjennem Butikken, idet hun gav den Besked, at hun ikke kom igjen mer i Dag. Nu var hun lige glad. De kunde synes, hvad de vilde. Idiotisk at gaa saan og spille Komedie. De vidste jo alligevel, at hun gjorde hvad hun vilde.
+    </p>
+    <p>
+     En Stund efter gik Jensen til Middag. I Flos og ulastelige Hansker med den fine Stok stukket under Armen gik han opover Carl Johan, rolig og elegant som sædvanlig, røgende med tilsyneladende Velbehag af en fin Cigar. Men hans Tanker var alt andet end behagelige. Han var dybt hensunken i Betragtninger over sin ublide Skjæbne, og han kvak formelig, hver Gang der pludselig dukket op et kjendt Ansigt ved Siden af ham. Han, som havde sin Force
+     
+     i at opdage sine fine Dame-Kunder paa saa lang Afstand, at han altid stod i Vinkel med Hatten ved Siden i rette Tid, naar han mødte dem. Men i Dag hverken saa eller hørte han.
+    </p>
+    <p>
+     «Han var svært distrait idag,» undskyldte Damerne, «aa ja, stakkars Jensen, han har meget at tænke paa; det er jo saa daarligt med Fruen.» Hvorpaa de lagde Ansigtet i de passende Folder og gik over til noget andet.
+    </p>
+    <p>
+     Da han var kommet opover mod Universitetet, vaktes han af sine sørgelige Betragtninger over
+     <pb n="132"/>
+     Formiddagens Ærgrelser ved at se Frøken Halvorsen komme over Gaden lige imod ham. Han glemte at aflevere den lille passelig nedladende Hilsen, hvormed man møder en Tjener, som har været længe i ens Brød. Hvad i Guds Navn var der nu paafærde. Midt i Forretningstiden, paa Carl Johan? Han bed Tænderne sammen og saa sig sky omkring. Var der nogen i Nærheden som kjendte dem? Han vilde gaa videre uden at lade sig mærke med noget, men hun slap ham ikke saa let. I et Nu var hun paa
+     
+     Siden af ham paa Fortauget: «Nei, vent lidt, jeg skal snakke med dig.»
+    </p>
+    <p>
+     Han tvang sig til et Smil. Han var forvirret. «Her? Kjære dig. Du maa undskylde.» Han stammed og var blodrød i Ansigtet. Han tog sit Uhr op og saa paa det, vidste neppe, at han havde gjort det, løfted paa Hatten og vendte hende Ryggen.
+    </p>
+    <p>
+     Frøken Halvorsen stod et Øieblik og saa efter ham. Hans Forvirring gottede hende. Men han skulde nok faa mer; det kunde han stole paa. Han skulde ikke slippe hende idag. Han havde undgaaet hende længe, hun havde nok mærket det; men idag
+     <emph>
+      skulde
+     </emph>
+     hun ha fat i ham. Hun gik hjem paa sit Værelse og skrev i en Fart en Billet med hans Adresse paa Drammensveien. Saa gav hun Pigen en Krone og bad hende springe hurtig derud med det. Fru Gundersen tog Vaskekluden ud af Haanden paa Berthe og sa, at hun maatte
+     <pb n="133"/>
+     «flye fort nu», hun skulde vaske op selv. Og Berthe kasted et Sjal over Hovedet og strøg afsted med den Besked efter sig nedover Trappen, at det skulde leveres til «han selv».
+    </p>
+    <p>
+     Derefter hyggede de to Damer sig i Ro og Mag udover Eftermiddagen med Kaffe og Musik. Frk. Halvorsen sa simpelthen, at hun ikke var oplagt til at gaa i Butikken.
+    </p>
+   </div>
+   <div type="chapter">
+    <head type="main">
+     XIV.
+    </head>
+    <p>
+     <pb n="134"/>
+     Fru Jensen sad paa Verandaen indpakket i Tæpper og Sjaler, da Berthe kom ind gjennem Haveporten; og et Par Smaagutter legte nede i en af Grusgangene. Under et stort Træ lidt længer nede i Haven sad Jensen med sin lange Pibe og kurrede Middagen
+     
+     .
+    </p>
+    <p>
+     Berthe spurgte Gutterne efter Jensen sjøl. Hun havde løbet saa hun var ganske rød og forpustet. «Der sitter'n,» sa Gutterne i Munden paa hverandre, og en af dem raabte nedover til Jensen. «Papa det er noen, som vil snakke med dig!» Jensen reiste sig og gik Berthe halvt imøde. Hun rakte ham Brevet og blev staaende. Jensen blev bleg da han saa Haandskriften; men spurgte rolig: «Skal De ha Svar.» «Jeg ved ikke» svarte Berthe og blev staaende og glo grundigt paa ham. Hun vilde benytte Anledningen til at se rigtig ordentlig paa denne Fyren, som hun nok kjendte mere til end han vidste om, stakkars Tosken. Hun maatte le for sig selv. Det blev Jensen pinligt. Gutterne
+     <pb n="135"/>
+     stod ogsaa og saa paa. «Gaa op til Mama og bed om at faa laane Portemonæen hendes lidt!» Gutten løb; men Jensen raabte strax efter ham: «det er ikke værdt, jeg har selv.» Han tog med Tommel- og Pegefinger et Kronestykke ud af Vestelommen og gav Pigen med Tegn til, at hun kunde gaa.
+    </p>
+    <p>
+     Berthe takked med et velvilligt forstaaelsesfuldt Smil og gik.
+    </p>
+    <p>
+     Jensen skar Brevet op med sin lille elegante Pennekniv, roligt og forsigtig som sædvanlig. Han følte sin Kones spørgende Øine, læste det, gik opover mod Verandaen brættende Papiret omhyggeligt sammen til en Fidibus,
+     
+     ganske som han pleied. «Boston hos Bøhn igjen,» sa han, idet han gik forbi sin Kone. Han vilde ind paa sit Værelse. Gud give han var derinde. Det svimled saa underlig for ham. «Saa,» sa Fruen med sit lille trætte Smil. «Gaar du?»
+    </p>
+    <p>
+     Jensen strøg sig over Panden med en lidende Mine. «Nei. Jeg er lidt sjaber i Dag … saa besynderlig mat og træt … tror jeg lægger mig lidt. – Jeg gaar ikke indover igjen i Dag.»
+    </p>
+    <p>
+     Fruen forsøgte at faa se ham i Ansigtet. Hun syntes ogsaa han var svært bleg, da han kom opover Haven. Men han gik ind uden at se paa hende. Og hun sad igjen i sine egne triste Betragtninger som sædvanlig.
+    </p>
+    <p>
+     Det begyndte allerede at bli kjøligt om Eftermiddagen skjønt det bare var sidst i August. Hun
+     <pb n="136"/>
+     frøs. Det var bedst at gaa ind. «Ludvig, tag de Sjalene for Mama, er du snil Gut!» Hun reiste sig besværlig og gik ind i Havestuen, fulgt af Ludvig med Sjalene. «Aa saa maa dere være stille derude for Papa sover. – Luk Døren med dig.»
+    </p>
+    <p>
+     Da Gutten var ude, la hun sig paa Sofaen.
+    </p>
+    <p>
+     Det mørknede lidt efter lidt og det var stille og dødt som sædvanlig i de store Værelser. De smaa Børn var i den anden Ende af Bygningen med Barnepigen, og de store var altid ude i det længste, for hjemme var det kjedeligt. Fruen laa og stirred med aabne Øine ud i Mørket og drømte om dengang, da hun var ung og frisk og trodde at der var noget at leve for her i Verden. Men hun var blit saa sløv og træt nu; det gjorde ikke engang noget videre ondt længer at tænke paa den Tid.
+    </p>
+    <p>
+     Henimod Aften kom Jensen ind. Spurgte efter Lampe. Lampe? Aa ja, det var sandt. Hun ringte. «Aa Hanna, bring Lampen. – Er der i Stand paa Soveværelset?»
+    </p>
+    <p>
+     «Ja Frue.»
+    </p>
+    <p>
+     Hanna kom med Lampen, Jensen tændte Piben og satte sig til at læse. Fruen laa fremdeles paa Sofaen. Der var en Tanke, som kom igjen hos hende i hele Eftermiddag, og i en død Tone, som om hun bare tænkte høit, sa hun: «Har Bøhn byttet Pige igjen nu da?» Jensen saa op, stort, usikkert. «Saa? det la jeg ikke Mærke til.» Han lod som
+     <pb n="137"/>
+     han læste videre. Hvad var der nu i Gjære, siden
+     <emph>
+      hun
+     </emph>
+     sa saa meget? Men hun sa ikke mer, bare smilte skjævt og sygt, reiste sig og gik med et neppe hørligt «Godnat.»
+    </p>
+    <p>
+     Jensen saa sig om. Jo her var hyggeligt. Han smeldte Bogen sammen, gik med store faste Skridt ud i Entreen og tog Tøiet paa; derpaa stak han Hovedet ind af
+     
+     Sovekammerdøren og sagde: «Jeg gaar alligevel.»
+    </p>
+    <p>
+     Derindefra hørtes bare et langt Suk.
+    </p>
+    <p>
+     I Billetten fra Frk. Halvorsen stod der: Jeg haaber du ikke rømmer i Aften som du har gjort flere Aftener nu, og som du gjorde paa Gaden i Dag. Jeg
+     <emph>
+      vil
+     </emph>
+     snakke med dig, forstaar du. Jeg venter hos Madam Simonsen, naar vi har lukket. Jeg skal forresten hilse fra Choristinden din; hun har været inde og spurgt efter dig.
+    </p>
+    <p>
+     Saa opskræmt var Jensen aldrig blevet før. Noget saa udspekuleret ondskabsfuldt som at sende Jenten derud. Hun blev fræk nu, Tøsen. Han havde virkelig følt sig saa uvel, da han aabned Brevet, at han et Øieblik var bange for, at han skulde faa et Nervetilfælde. Han havde ikke overvundet Scenen fra Carl Johan enda, og saa faar han dette ovenpaa. Det er da Grændser for, hvad en Mand kan taale ogsaa. Fordømte Kvindfolk. Men hvordan i Herrens Navn kunde hun nu ha faat Greie paa denne andre, som han jo ikke … som der jo ikke … der var jo altsaa absolut
+     <pb n="138"/>
+     ikke Tale om den fjerneste Anelse af et Forhold. Truffet hende et Par Gange, og nok begaat en Dumhed engang, de havde drukket lidt meget nede hos Bøhn … men at hun skulde have været inde i Forretningen og spurgt efter ham … nei, det havde hun løiet, den godeste Dame, det var klart … men i … men i Alverdens Navn nok engang, hvorledes havde hun faat nys i det-derre. Ja ja … en Dumhed var det, den Kvælden paa Kontoret … De havde sku været tryggere, dersom de havde gaat hjem paa Drammensveien – Bagveien ind paa Værelset hans … der havde sku ingen Sjæl faat Teften af dem. Madam Simonsen var farlig, hun. De var i Komplot mod ham, det var soleklart. Det var to farlige Kvindfolk det-derre. Madam Simonsen forstod at holde ham saapas under Øinene, at hun trygt kunde pumpe ham, naar hun vilde. Slu Kjærring.
+    </p>
+    <p>
+     Nei, den Slags Kvindfolk var farlige de altsaa.
+     <emph>
+      Farlige
+     </emph>
+     ja. Man fik sku passe sig lidt. Være diplomatisk. Naa, man kunde jo tage kraftigere Forholdsregler; men hvem gad have alt det Vrøvl. Det var altsaa ikke morsomt. Og … og, han dampede langt af Cigaren og tænkte næsten høit – hvorfor Fan skal man plage sig mer end nødvendigt. Stille – pent, stille – pent, som Bøhn siger, det er da ved Gud det eneste for en dannet Mand.
+    </p>
+    <p>
+     <pb n="139"/>
+     Han saa paa Klokken og gik hurtigere paa. Han kom nok ikke ned, før de havde lukket.
+    </p>
+    <p>
+     Han gik hurtigere. Skulde egentlig været nede, medens det var oppe. Fan saa ærgerligt. Uforskammet Tøs forresten, hun troede kanske hun skulde skræmme ham. Skræmme ham, hun; som om hun ikke heller maatte takke ham paa sine Knæ, fordi han ikke havde kastet hende fra sig som en udslidt Hanske for længe siden. Af pure Medlidenhed havde han beholdt hende og derved udsat sig for alle Slags Ubehageligheder. Men det var Takken han fik. Uforskammethed og Næsvished lige op i Øinene. Han følte sig dybt forurettet. Han havde ikke fortjent at blive krænket saaledes af hende, hende, som han havde været saa altfor god og hensynsfuld imod. Han blev sentimental. Han havde altid havt Ulykken med sig, han; faat Utak og Falskhed til Løn af dem, som han var god og oprigtig imod. En Dot havde han været, en Godfjot, som havde havt Medlidenhed med et sligt Fruentimmer. Ja, han vilde gaa derned og sige hende det. Bede hende gaa i sig selv og betænke, hvad han havde været for hende, hvor taalmodig og overbærende han havde været med alle hendes Svagheder. Om hun ikke skammede sig, om hun ikke syntes det var skjændigt at lønne ham paa den Maade …!
+    </p>
+    <p>
+     Han gik og forestilte sig, hvor sønderknust hun skulde blive under hans alvorlige Bebreidelser,
+     <pb n="140"/>
+     hvorledes hun skulde falde paa Knæ for ham og under Taarer bede ham om Tilgivelse. Den skjønneste Forsoning skulde komme istand, og hun skulde tjene ham i Ydmyghed igjen som i gamle Dage, og ikke mere vove at udspionere hans Veie og Handlinger, som om det var hun, der havde at bestemme dem.
+    </p>
+    <p>
+     Han følte sig alligevel lidt trykket, da han traadte ind i Blaakammeret. Frøken Halvorsen sad i Sofaen uden Reisetøi og Madam Simonsen stod foran hende og pakked et Laagefad
+     
+     ned i en liden Kurv. Hun havde Sjal over Hovedet og var færdig til at gaa ud. Hun ledte efter en Avis til at lægge over Kurven. Jensen lo og spurgte om hun ikke holdt «Verdens Gang» længer nu, siden der var Mangel paa Makulatur.
+     
+    </p>
+    <p>
+     «Nei, jeg gjør ikke det,» sa Madamen lidt tvært, idet hun anstrængte sig for at faa ned noget Papir, som var slængt op paa Piedestallen, og fortsatte, idet hun haled Papiret ned –: «det kan ikke nytte aa studdere paa, aaffer ikke alle Potetene er like store og aaffer Silla ikke er saa stor som Makrellen … – ja, adjø da … jeg læser igjen. Di har vel Nøkkeln?» Og ude var hun.
+    </p>
+    <p>
+     «Igrunden et ubehageligt Menneske, liker hende mindre og mindre …»
+    </p>
+    <p>
+     Jensen kasted Hatten og Hanskerne paa Sengen, strøg sig med begge Hænder over Haaret og udstødte et langt Ah! derpaa satte han sig i Sofahjørnet
+     <pb n="141"/>
+     og saa høitideligt paa Frøken Halvorsen, som sad magelig lænet op i det andet. «Naa min kjære Dina, hvordan befinder du dig saa egentlig efter din sidste noble Bedrift?» – Han rokked langsomt og betydningsfuldt med Hovedet. Men hun smilte bare spydigt og svared: «End du?»
+    </p>
+    <p>
+     – «Ja Dina, jeg skal beherske mig. Jeg skal ikke sige, hvad du havde fortjent at høre. Jeg burde ikke have nedladt mig til at forhandle med dig; jeg kunde jo gjøre kort Proces, som du ved, meget kort …» Han saa skarpt paa hende. Hun kremted lydeligt. «Men jeg har altid været for god mod dig, for efterladende; – du har ikke fortjent det!» – «Ikke det?»
+    </p>
+    <p>
+     Atter et spydigt Smil.
+    </p>
+    <p>
+     «Nei, Dina, det har du ikke. Du har lønnet mig med den sorteste Utaknemmelighed; du har søgt at prostituere mig i mine Folks Nærværelse, og i Dag har du sat Kronen paa Verket.» Hun smilte igjen, men svarte ikke. Hans Høitidelighed satte hende lidt i Forlegenhed; hun havde ventet ham ganske anderledes, og da havde hun vidst, hvad hun skulde sige. Men dette kom saa uventet. Jensen sukkede dybt og fortsatte: «Men min Ulykke er den, at jeg har holdt af dig, altfor meget har jeg holdt af dig.» Han lagde Hovedet tungt paa Haanden, som han støttede paa Sofakarmen, og saa ligesom fraværende ud i Værelset.
+    </p>
+    <p>
+     «Altfor meget – jeg har føiet dig i alt og
+     <pb n="142"/>
+     taalt alt, og jeg havde ogsaa tænkt at sikre dig for Fremtiden, saa du aldrig skulde komme til at lide Nød – (Den Idé var god, den var pludselig faldt ham ind) eller mangle noget … jeg kunde jo snart falde væk, og hvor blev der af dig da; har du tænkt paa det?»
+    </p>
+    <p>
+     Trodsen kom ved dette Spørgsmaal atter op i hende, og hun gjorde en utaalmodig Bevægelse, men kunde ikke finde paa noget andet at sige end «Pyh.» Egentlig var hun godt fornøiet med Sagernes Vending; men hun vilde ikke give for raskt Kjøb.
+    </p>
+    <p>
+     «Ja ja, du er hovmodig nu, Dina; men vær forsigtig, siger jeg dig, saa jeg ikke bliver nødt til at tage Forholdsregler, som er mod min Vilje – ja som vilde smerte mig dybt.»
+    </p>
+    <p>
+     Han gjorde en Pause for at iagttage Virkningen af denne Løgn.
+    </p>
+    <p>
+     Hun blev lidt rød, og egentlig mod hendes Vilje for det hende ud af Munden: «Aa du trøsted dig vel snart med Choristinden din?»
+    </p>
+    <p>
+     Men da reiste Jensen sig med et Sæt, som om han vilde slaa hende. Hun kvak, men saa ham fast ind i Ansigtet. Han skreg: «Hvad i Alverden er det for en Sladrehistone, du der har fundet op? Svar mig! Nu skal du staa til Regnskab for dine Ord! Vil du tilstaa, at det var Løgn, det du skrev, at der havde været nogen inde og spurgt efter mig?!» Hun svarte saa roligt og ligegyldigt, som det var hende mulig, med en liden
+     <pb n="143"/>
+     umotiveret Latter. «Ja, det kan jeg gjerne;
+     <emph>
+      det
+     </emph>
+     var ikke sandt netop.» Der faldt et Bjerg fra Jensens Skuldre; han maatte anstrænge sig for at beholde Tonen. «Naa, altsaa, men hvad da, hvad da, hvad er sandt?»
+    </p>
+    <p>
+     «Aa du kan vel skjønne, at jeg har hørt noget,» svarte hun lidt utaalmodig og lidt flau.
+    </p>
+    <p>
+     «Altsaa Sladder, som jeg siger, Sladder og intet andet.» Han satte sig atter, betydelig mildnet. Men da kasted hun sig over ham med lidenskabelig Heftighed, klamrede sig fast om hans Hals og spurgte Gang paa Gang: «Kan du sværge paa det? – Kan du sværge paa, at der ikke har været noget med dig og – og en anden? At det er mig, du holder af, nu som i gamle Dage, mig og ingen anden?!» Han holdt sig lidt reserveret tilbage og svared fornærmet: «Men Dina, at du kan tvile paa det; har jeg nogensinde løiet for dig, har jeg ikke altid …?»
+     
+     Hun afbrød ham: «Jeg ved ikke; jeg ved ikke, om du har løiet for mig; men kan du ikke skjønne, at jeg elsker dig saa forfærdelig, (hun følte sig temmelig flau indvendig; men det maatte til) at jeg dør af Jalousi, saasnart jeg bare tænker mig Muligheden af, at du skulde holde af nogen anden.» – «Men du ved jo det, Dina …» «Nei, jeg ved ikke, du maa sværge, at du elsker mig, at du kunde gjøre alt for mig, at … at du … dersom du var fri …» – «Naa, naturligvis, selvfølgelig, du ved jo … Herregud …» Hun
+     <pb n="144"/>
+     klynged sig tættere ind til ham og svor paa, at hun til Gjengjæld skulde elske ham trofast hele sit Liv – hele sit Liv!
+    </p>
+    <p>
+     Jensen indskrænked sig til et let Tryk, som skulde udtrykke hans Taknemmelighed; men paa samme Tid var han ikke blind for, at hun iaften tog sig bedre ud end sædvanlig. Hun havde klædt sig med Omhu; Ophidselsen og Spændingen havde givet hendes Kinder en naturlig, frisk Rødme, og i Øinene kom der af og til Glimt af Lidenskab og Varme, som gjorde hende vakker. Og da Madam Simonsen kom igjen med Frøken Halvorsens Bif, maatte hun for Gemytlighedens Skyld strax hente en til, og der blev drukket og spist og de anstrengte sig begge for at faa Tag i den gamle Tone.
+    </p>
+    <p>
+     Men før de skiltes, hvisked Frøken Halvorsen ham i Øret: «Du, den Bankbogen, hvad Tid faar jeg den – ja, for det var vel bedst, at» … Jensen studsed. Bankbog? «Aa naa, naa … den, naa – i Morgen – i Morgen. Naturligvis – jo før jo bedre.» Han fik et langt Kys til Tak. Men hun var ikke færdig med det. «Ogsaa du,» hvisked hun, «det er sandt, Madam Simonsen snakked om, at hun var i Knibe for et Par Hundrede Kroner; det er Forretningen til Karl, ser du; det gaar nok ikke rigtig i det senere; det var derfor hun var i saa daarligt Humør. Hvis du vilde hjælpe hende med det – du faar det vist igjen.» – «Ja, det gjør jeg vist.»
+    </p>
+    <p>
+     <pb n="145"/>
+     Jensen var temmelig fraværende; han var pludselig kommet til at tænke paa, om ikke dette til syvende og sidst kom til at ruinere ham økonomisk ogsaa. Han havde aldrig tænkt paa det før. Hun gjorde jo i Grunden ingen Fordringer, men alligevel … «Ja vil du det altsaa?» Hun spurgte saa bestemt, at han næsten skvat. «Ja, ja, naturligvis, naturligvis, det er jo en Bagatel. Man faar jo hjelpe Mennesket. Og Frøken Halvorsen elsked ham uhyre til Gjengjæld; men Jensen var ikke med længer. Han sad og undredes paa, hvor mange Familier han egentlig for Øieblikket havde at underholde, og han tænkte med Skræk paa hvordan Tingene vilde komme til at tage sig ud, hvis det en vakker Dag skulde gaa galt med Geschäften. Det var sku vanskelige Tider. At der igjen var Tilbagegang med ham, det kunde ikke nægtes længer … og hvor tog han nu 20,000 Kroner fra? Og naar han kjendte hendes Arme om sin Hals, havde han en Følelse af, at de var det Reb han engang kom til at hænge og dingle i med Tungen ud af Halsen – – fy for Fanden –. – Men det modbydeligste, det aller ærgerligste var dog det, at ganske anderledes fyldige Arme og en ganske anderledes frisk, forlokkende Mund vented paa ham med bløde Favntag og berusende Kys; og saa sad han her med disse udbrændte Levninger af et Kvindfolk. Han syntes pludselig, det lugted Fyld, og han fik en Væmmelse saa
+     <pb n="146"/>
+     stærk, som han neppe nogensinde havde følt den. Han sprang op og sa, at han følte sig uvel, maatte ud, ha Luft – – og ude var han i en saadan Fart, at han glemte Hanskerne.
+    </p>
+    <p>
+     – Til Heiberg!
+     
+    </p>
+    <p>
+     – Skulde man graate eller le af sligt. Var det ikke som han havde tænkt sommetider alligevel: Pigebarnet gik der og «elsket» ham. Det kunde man kalde Lykke.
+    </p>
+    <p>
+     Men trods alt var det ikke frit for, at han inderst inde følte sig smigret. Han kunde nu engang ikke gjøre for, at han var den han var.
+    </p>
+    <p>
+     Frøken Halvorsen tog en Drosche og kjørte hjem. Hun sad mageligt lænet op mod det ene Hjørne af Vognen og lagde Planer for kommende Sommer. De skulde en Tur paa Fjeldet, Fru Gundersen og hun, desuden skulde de bo ved Bygdø et Par Maaneder – – – Hun smilte ved sig selv. Idioten!
+    </p>
+    <p>
+     Men pludselig gik der som et Sting gjennem hende. Om han kom i Kvæld! Var det kanske ikvæld de havde aftalt? Men efter det igaar …? Kunde hun …? Ja! ja! Hun folded Hænderne krampagtigt og vendte Øinene mod Himmelen:
+    </p>
+    <p>
+     Aa Gud, lad ham komme!
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

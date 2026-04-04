@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="NOR0010" xml:lang="nb">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     En Glad Gut ELTeC-utgaven
+    </title>
+    <author ref="https://viaf.org/viaf/295290572 https://www.wikidata.org/wiki/Q46405">Bjørnson, Bjørnstjerne Matrtinius  (1832-1910)</author>
+    <respStmt>
+     <resp>
+      ELTeC encoding
+     </resp>
+     <name>
+      Michael Preminger
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     27645
+    </measure>
+    <measure unit="pages">
+     92
+    </measure>
+   </extent>
+   <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
+</publicationStmt>
+   <sourceDesc><bibl type="digitalSource">
+     <ref target="https://www.bokselskap.no/boker/engladgut/tittelside">
+      Tekstgrunnlaget for denne utgaven er et særtrykk &amp;#x00AB;ved Udvalget for Folkeoplysnings Fremme&amp;#x00BB; fra 1868.
+     </ref>
+    <pubPlace>
+     Kjøbenhavn
+    </pubPlace>
+    <publisher>
+     G. E. C. Gad
+    </publisher>
+    <date>
+     1868
+    </date>
+     
+    </bibl><bibl type="firstEdition">
+     <ref target="https://www.nb.no/items/0522549989d799b53ae0c12b2cb7fb85">
+      Smaastykker (1860)
+     </ref>
+       <author>
+        B. M. Bjørnson
+       </author>
+       <title>
+  En glad Gut.
+       </title>
+       <pubPlace>
+        Kjøbenhavn
+       </pubPlace>
+       <publisher>
+        Gjertsen Forlag
+       </publisher>
+       <date>
+        1860
+       </date>
+       <idno type="wiki">
+        https://www.wikidata.org/wiki/Q11967394
+       </idno>
+      </bibl></sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+   <langUsage>
+    <language ident="nb" usage="100"/>
+   </langUsage>
+   <textDesc>
+    <e:authorGender key="M"/>
+    <e:size key="short"/>
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+    <e:timeSlot key="T2"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change><change when="2020-11-15">Checked by checkup
+                script</change><change when="2020-11-13">ran oldCheckUp to update</change>
+   <change when="2010-12-08">
+    Ført inn kollasjonsresultatene og lagt til innholdsfortegnelse. Kjapp kodekontroll.
+   </change>
+   <change when="2010-11-17">ENW 
+    Kodet om filen til TEI P5.
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="novel" xml:id="NSL_Bjornson_EnGladGut_tekst_xml_text">
+  <body>
+   <div type="chapter">
+    <head>
+     <pb n="3"/>
+     
+      Første Kapitel.
+     
+    </head>
+    <p>
+     Øyvind hedte han og græd, da han blev født. Men alt da han sad opreist paa Moderens Fang, lo han, og naar de tændte Lys paa om Kvelden, lo han, saa det sang, men græd, da han ikke fik komme bort til det. «Af den Gutten maa det blive noget rart», sagde Moderen.
+    </p>
+    <p>
+     Der, hvor han blev født, hang det bare Berg udover, men det var ikke høit; Furre og Birk saae ned; Hæggen strødde Blomster paa Taget. Men oppe paa Taget gik en liden Buk, som Øyvind aatte; han skulle gaa der for ikke at tulle sig væk, og Øyvind bar Løv og Græs op til den. En vakker Dag hoppede Bukken over og borti Berget; den gik ende op og kom did, den aldrig havde været før. Øyvind saae ikke Bukken, da han kom ud efter Non, og tænkte strax paa Ræven. Han blev hed over hele Kroppen, saae sig om og lyede: – «Kille-kille-kille-killebukken!» – «Bæ–æ–æ–æ!» sa' Bukken oppe paa Bergkanten, lagde Hovedet paaskakke og saae ned.
+    </p>
+    <p>
+     Men ved Siden af Bukken laa en liden Gjente paa Knæ. «Er den din, den Bukken?» spurgte hun. Øyvind stod med aaben Mund og Øine, stak begge Hænder i den Kjolebuxen, han bar. «Hvem er du?» spurgte han. – «Jeg er Marit, Mor sin Unge, Fedlen til Far, Huldra
+     <pb n="4"/>
+     i Huset, Datterdatter til Ola Nordistuen paa Heidegaardene, fire Aar til Høsten, to Dager efter Frostnætterne, jeg!» – «Er du det, du!» sa' han og drog Pusten, for han havde ikke turdet slippe den, saalænge hun talte.
+    </p>
+    <p>
+     «Er den din, den Bukken?» spurgte Gjenten op igjen. – «Ja–ha», sa' han og saae op. – «Jeg har faaet saadan Lyst paa den Bukken; – du vil ikke gi' mig den?» – «Nei, det vil jeg ikke.»
+    </p>
+    <p>
+     Hun laa og spændte med Benene og saae ned paa ham, og da sagde hun: «End naar du faar en Smørkringle for Bukken, kan jeg saa faa den?» – Øyvind var af Fattigfolk; han havde spist Smørkringle bare en Gang i sit Liv; det var da Bedstefar kom did, og sligt havde han aldrig spist hverken før eller siden. Han saae op paa Gjenten; «lad mig saa se den Kringlen først», sa' han. Hun var ikke sen paa det, viste en stor Kringle frem, som hun holdt i Haanden: «her er den!» sagde hun og kastede den ned.
+    </p>
+    <p>
+     «Au, den gik istykker», sa' Gutten, han samlede hver Bid op med Omhu; den allermindste maatte han smage paa, og den var saa god, at han maatte smage paa en til, og før han selv vidste af det, havde han spist op hele Kringlen.
+    </p>
+    <p>
+     «Nu er Bukken min», sa' Gjenten. Gutten standsede med den sidste Bid i Munden, Gjenten laa og lo, Bukken stod ved Siden, hvid i Brystet, brunsort i Ragget og saae ned paaskakke.
+    </p>
+    <p>
+     «Kunde du ikke vente saalænge», bad Gutten; Hjertet begyndte at klappe i ham. Da lo Gjenten endnu mere, skyndte sig op paa Knæ. «Nei, Bukken er min, den», sagde hun og slog Armene om Halsen paa den, løste et Strømpebaand og bandt omkring. Øyvind saae paa. Hun reiste sig og begyndte at drage i Bukken; den vilde ikke gaa med og tøiede Halsen ned over mod Øyvind. «Bæ-bæ-æ-æ!» sa' den. Men hun tog den i Ragget med den
+     <pb n="5"/>
+     ene Haand, drog i Baandet med den anden og sagde vakkert: «Kom du, Bukken, saa skal du faa gaa i Stuen og spise af Mor sine Fad og mit Forklæde», og saa sang hun:
+    </p>
+    <quote>
+     <l>
+      Kom Bukken til Gutten,
+     </l>
+     <l>
+      kom Kalven til Mor,
+     </l>
+     <l>
+      kom mjavende Katten
+     </l>
+     <l>
+      i snehvide Sko'r,
+     </l>
+     <l>
+      kom Ællinger gule,
+     </l>
+     <l>
+      kom frem ifra Skjule,
+     </l>
+     <l>
+      kom Kyllinger smaa,
+     </l>
+     <l>
+      som neppe kan gaa,
+     </l>
+     <l>
+      kom Duerne mine
+     </l>
+     <l>
+      med Fjedrene fine,
+     </l>
+     <l>
+      se Græsset er vaadt,
+     </l>
+     <l>
+      men Solen gjør godt,
+     </l>
+     <l>
+      og tidlig, tidlig er det paa Sommer'n,
+     </l>
+     <l>
+      men raab paa Høsten, saa kommer'n!
+     </l>
+    </quote>
+    <p>
+     Der stod Gutten.
+    </p>
+    <p>
+     Bukken havde han stellet med siden i Vinter, den blev født, og aldrig havde han tænkt sig, at den kunde mistes: men nu var det gjort paa en liden Stund, og han skulde ikke se den mere.
+    </p>
+    <p>
+     Moderen kom trallende op fra Fjæren med Kopper, som hun havde skuret; hun saae Gutten sidde og græde med Benene under sig i Græsset og gik bort til ham. «Hvad græder du for?» – «Aa, Bukken, Bukken!» – «Ja, hvor er Bukken?» spurgte Moderen, hun saae op paa Taget. – «Den kommer aldrig mere igjen,» sa' Gutten. – «Kjære, hvordan kunde det gaa til?» – Han vilde ikke strax tilstaa det. «Har Ræven taget den?» – «Ja, Gud give det var Ræven!» – «Er du paa Stel!» sa' Moderen; «hvor er det blevet af Bukken?» – «Aa, aa,
+     <pb n="6"/>
+     aa,....... jeg kom iskade for.... at sælge den for en Kringle!» –
+    </p>
+    <p>
+     Akkurat i det samme han sagde Ordet, forstod han, hvad det var at sælge Bukken for en Kringle; før havde han ikke tænkt paa det. Moderen sagde: «Hvad tror du nu, den lille Bukken tænker om dig, naar du kunde sælge den for en Kringle?»
+    </p>
+    <p>
+     Og Gutten selv tænkte paa det og forstod meget godt, at han aldrig kunde blive glad mere
+     <emph>
+      her
+     </emph>
+     i Verden; og ikke engang hos Gud, tænkte han siden.
+    </p>
+    <p>
+     Saamegen Sorg følte han, at han lovede med sig selv aldrig mere at gjøre noget galt, hverken at skjære Rokkesnoren eller slippe Saudene eller gaa ned til Søen alene. Han sovnede ind, der han laa', og han drømte om Bukken, at den var kommen til Himmerige; Vorherre sad med stort Skjæg ligesom i Katekismen, og Bukken stod og bed Løv af et skinnende Træ; men Øyvind sad alene paa Taget og kunde ikke komme op.
+    </p>
+    <p>
+     Da stak noget vaadt lige borti Øret paa ham, han skvat op. «Bæ-æ-æ-æ!» sa' det, og det var Bukken, som var kommen igjen!
+    </p>
+    <p>
+     «Nei, er du kommen igjen!» Han sprang op, tog begge Forbenene op paa den og dandsede med den som en Bror; han rykkede den i Skjægget, og han vilde netop ind til Mor med den, da han hørte nogen bag sig, og saae Gjenten sidde paa Grønsværet lige ved Siden. Nu forstod han altsammen, han slap Bukken: «Er det dig, som er kommen med den?» Hun sad og rev Græs op med Haanden og sagde: «Jeg fik ikke Lov at beholde den; Bedstefader sidder deroppe og venter.» Medens Gutten stod og saae paa hende, hørte han en skarp Stemme oppe fra Veien raabe: «Naa!» Da huskede hun, hvad hun skulde gjøre; hun reiste sig og gik bort til Øyvind, stak den ene muldede Haand borti en af hans, saae bort og
+     <pb n="7"/>
+     sagde: «Om Forladelse.» Men saa var ogsaa hendes Mod forbi, hun kastede sig ned over Bukken og græd.
+    </p>
+    <p>
+     «Jeg mener, du faar beholde Bukken, jeg», sagde Øyvind og saae væk.
+    </p>
+    <p>
+     «Skynd dig nu!» sagde Bedstefar oppi Bakken. Og Marit reiste sig, og hun gik med dragende Ben opefter. «Du glemmer nok Strømpebaandet dit», raabte Øyvind etter hende. Da vendte hun sig og saae først paa Baandet, siden paa ham. Endelig fattede hun en stor Beslutning og sagde med tykt Maal: «Det kan du beholde.» Han gik bort til hende og tog hende i Haanden: «Tak skal du ha'!» sa' han. – «Aa ikke noget at takke for», svarte hun, drog et uhyre langt Suk og gik videre.
+    </p>
+    <p>
+     Han satte sig ned igjen i Græsset, Bukken gik ved Siden af ham, men han var ikke længer saa glad i den som før.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     
+      Andet Kapitel.
+     
+    </head>
+    <p>
+     Bukken gik bunden ved Stuevæggen, men Øyvind gik og saae opover Berget. Moderen kom ud til ham og sad hos ham; han vilde høre Eventyr om det, som var langt borte, thi nu var ikke Bukken længer nok. Saa fik han høre om, at engang kunde alting tale; Berget talte til Bækken og Bækken til Elven og Elven til Havet og Havet til Himmelen; men saa spurgte han, om ikke Himmelen talte til nogen, og Himmelen talte til Skyerne, men Skyerne til Træerne, men Træerne til Græsset, men Græsset til Fluerne, men Fluerne til Dyrene, men Dyrene til Børnene, men Børnene til de voxne; og saaledes gik det endnu videre, til det gik rundt, og ingen vidste, hvem som begyndte. Øyvind saae paa Berget,
+     <pb n="8"/>
+     Træerne, Søen, Himlen og havde igrunden aldrig seet dem før. Katten kom ud i det samme og lagde sig paa Hellen i Solskinnet. «Hvad siger Katten?» spurgte Øyvind og pegte. Moderen sang:
+    </p>
+    <quote>
+     <l>
+      Solen skinner vakkert om Kvelden,
+     </l>
+     <l>
+      Katten ligger doven udpaa Hellen.
+     </l>
+     <l>
+      «To smaa Mus,
+     </l>
+     <l>
+      Fløde af et Krus,
+     </l>
+     <l>
+      fire Stykker Fisk
+     </l>
+     <l>
+      stjal jeg bag en Disk,
+     </l>
+     <l>
+      og er saa god og mæt,
+     </l>
+     <l>
+      og er saa doven og træt»,
+     </l>
+     <l>
+      siger Katten.
+     </l>
+    </quote>
+    <p>
+     Men Hanen med alle Hønsene kom: «Hvad siger Hanen?» spurgte Øyvind og slog Hænderne sammen. Moderen sang:
+    </p>
+    <quote>
+     <l>
+      Kyllinghønen Vingerne sænker,
+     </l>
+     <l>
+      Hanen staar paa et Ben og tænker:
+     </l>
+     <l>
+      «Den graa Gaas
+     </l>
+     <l>
+      styrer høi nok Kaas;
+     </l>
+     <l>
+      men se til, om den kan
+     </l>
+     <l>
+      naa en Hane i Forstand?
+     </l>
+     <l>
+      Ind, ind Høner under Tag,
+     </l>
+     <l>
+      Solen kan gjerne saa Lov for idag»,
+     </l>
+     <l>
+      siger Hanen.
+     </l>
+    </quote>
+    <p>
+     Men to smaa Fugle sad og sang oppe paa Mønen. «Hvad siger Fuglene?» spurgte Øyvind og lo.
+    </p>
+    <quote>
+     <l>
+      «Herregud, det er godt at leve
+     </l>
+     <l>
+      for den, som slipper at stræve»,
+     </l>
+     <l>
+      siger Fuglene.
+     </l>
+    </quote>
+    <p>
+     Og han fik høre, hvad altsammen sagde ligened til Myren, som krøb gjennem Mosen, og Ormen, som pikkede i Barken.
+    </p>
+    <p>
+     Samme Sommer begyndte Moderen at lære ham at læse. Bøgerne havde han eiet længe og tænkt meget paa, hvorledes det skulde gaa til, naar ogsaa de begyndte at tale. Nu blev Bogstaverne til Dyr, Fugle og alt,
+     <pb n="9"/>
+     som til var; men snart begyndte de at gaa sammen, to og to; a stod og hvilte under et Træ, som hedte b, saa kom e og gjorde det samme, men da de kom sammen tre og fire, var det, som de blev sinte paa hverandre, det vilde ikke rigtig gaa. Og jo længere udover han kom, desmere glemte han, hvad de var; længst huskede han paa a, som han holdt mest af; den var et lidet sort Lam og var Venner med alle; men snart glemte han ogsaa a, Bogen havde intet Eventyr, men bare Lektier.
+    </p>
+    <p>
+     Saa var det en Dag, Moderen kom ind og sagde til ham: «Imorgen begynder Skolen igjen, da skal du følge med mig op til Gaarden.» Øyvind havde hørt, at Skolen var et Sted, hvor mange Gutter legte, og det havde han ingenting imod. Han var meget fornøiet; paa Gaarden havde han været ofte, men ikke naar der var Skole, og han gik fortere end Moderen opover Bakkerne, for han længtede. De kom op til Livørestuen, en forfærdelig Surr som af Kværnhuset hjemme stod imod dem, og han spurgte Moderen, hvad det var. «Det er Ungdommen, som læser», svarte hun, og han blev meget glad, for saadan var det, ogsaa han havde læst, før han kjendte Bogstaver. Da han kom ind, sad der saamange Børn omkring et Bord, at der ikke var flere i Kirken; andre sad paa sine Nistekopper langs Væggene; nogle stod i smaa Hode omkring en Tabel; Skolemesteren, en gammel graahaaret Mand, sad paa en Krak nede ved Gruen og stoppede sin Pibe. Da Øyvind og Moderen traadte ind, saae de alle op, og Kværnhussurret standsede, som naar de dæmmede i Renden. Alle saae paa de indtrædende, Moderen hilste paa Skolemesteren, som hilste igjen.
+    </p>
+    <p>
+     «Her kommer jeg med en liden Gut, som vil lære at læse», sagde Moderen. «Hvad hedder den Kroppen?» sagde Skolemesteren og grov ned i Skindposen efter Tobak. «Øyvind», sagde Moderen; «han kan Bogstaverne, og
+     <pb n="10"/>
+     han kan lægge sammen.» «Aa nei da,» sa' Skolemesteren, «kom hid du Hvidhoved!» Øyvind gik bort til ham, Skolemesteren fik ham paa Fanget og tog Huen af ham. «For en vakker liden Gut!» sagde han og strøg ham i Haaret; Øyvind saae ham op i Øinene og lo. «Er det af mig, du ler?» han rynkede Brynene. «Ja, det er det,» svarte Øyvind og skratlo. Da lo ogsaa Skolemesteren, Moderen lo, Børnene skjønte ogsaa, de fik Lov at le, og saa lo de naturligvis.
+    </p>
+    <p>
+     Dermed var Øyvind kommen ind paa skolen.
+    </p>
+    <p>
+     Da han skulde sætte sig, vilde de alle gjøre Plads for ham; han saae sig ogsaa længe om, de hviskede og pegte; han dreiede sig omkring til alle Kanter med Huen i Haanden og Bogen under Armen. «Nu hvad bliver det saa til?» spurgte Skolemesteren, han holdt atter paa med Piben.
+    </p>
+    <p>
+     Idet Gutten skal vende sig mod Skolemesteren, ser han tæt ved Siden af ham nede ved Gruestenen og siddende paa en liden rødmalet Løb, Marit med de mange Navne; hun havde gjemt Ansigtet bag begge Hænder og sad og glyttede hen til ham. «Her vil jeg sidde!» sagde Øyvind rask, tog en Løb og satte sig ved Siden. Nu løftede hun lidt den Armen, som vendte mod ham, og saae paa ham under Albuen; strax dækkede ogsaa han til sit Ansigt med begge Hænder og saae paa hende under Albuen. Slig sad de og skabte sig til, indtil hun lo, saa lo ogsaa han, Ungerne havde seet det og lo med; da skar det ind med frygtelig stærk Stemme, men som blev mildere efter hvert: – «Stille Troldunger, Smaatøi, Spilleværk – stille og værer snille mod mig Sukkergriser!» Det var Skolemesteren, som havde for Vis at fyge op, men blive god igjen, før han endte. Strax  blev det roligt i Skolen, indtil Peberkværnene atter begyndte at gaa, de læste høit hver i sin Bog, de fineste Diskanter spillede op, de grovere Stemmer trommede høiere og
+     <pb n="11"/>
+     høiere for at have Overvægten, en og anden haukede ind imellem, Øyvind havde i sine Levedage ikke havt slig Moro.
+    </p>
+    <p>
+     «Er det slig her bestandig?» hviskede han til Marit. «Ja slig er det,» sagde hun.
+    </p>
+    <p>
+     Senere hen maatte de frem til Skolemesteren og læse; en liden Gut blev dernæst sat til at læse med dem, og saa fik de slippe og skulde gaa hen og sidde rolige igjen.
+    </p>
+    <p>
+     «Nu har ogsaa jeg faaet en Buk,» sagde hun. – «Har du?» – «Ja, men den er ikke saa vakker som din.» – «Hvorfor er du ikke oftere kommen op paa Berget?» – «Bedstefar er ræd, jeg skal falde udfor.» – «Men det er ikke saa høit.» – «Bedstefar vil ikke alligevel.»
+    </p>
+    <p>
+     «Mor kan saamange Viser,» sagde han. – «Du kan tro, Bedstefar ogsaa kan.» –– «Ja, men han kan ikke om det, som Mor kan.» – «Bedstefar kan om en Dands, han. – Vil du høre den?» – «Ja, gjerne det.» – «Men saa maa du komme længer hid, at ikke Skolemesteren skal mærke det.» Han flyttede sig, og saa sagde hun frem en liden Visestump firefem Gange, saa Gutten lærte den, og det var det første, han lærte paa Skolen.
+    </p>
+    <quote>
+     <l>
+      «Dands!» raabte Fedlen
+     </l>
+     <l>
+      og skratted paa Strengen,
+     </l>
+     <l>
+      saa Lensmandsdrengen
+     </l>
+     <l>
+      sprat op og sa': «Ho!»
+     </l>
+     <l>
+      «Stands!» raabte Ola,
+     </l>
+     <l>
+      slog Bena unda'n,
+     </l>
+     <l>
+      saa Lensmand dat af'n,
+     </l>
+     <l>
+      og Gjenterne lo.
+     </l>
+    </quote>
+    <quote>
+     <l>
+      «Hop!» sa'n Erik
+     </l>
+     <l>
+      og spændte i Taget,
+     </l>
+     <l>
+      saa Bjælkerne braged,
+     </l>
+     <l>
+      og Væggene skreg.
+     </l>
+     <l>
+      <pb n="12"/>
+      «Stop!» sa'n Elling
+     </l>
+     <l>
+      og tog ham i Kragen
+     </l>
+     <l>
+      og holdt ham mod Dagen:
+     </l>
+     <l>
+      «du er nok for veg!»
+     </l>
+    </quote>
+    <quote>
+     <l>
+      «Hei!» sa'n Rasmus,
+     </l>
+     <l>
+      tog Randi om Livet:
+     </l>
+     <l>
+      «skynd dig at give
+     </l>
+     <l>
+      den Kyssen, du veed.»
+     </l>
+     <l>
+      «Nei!» svarte Randi,
+     </l>
+     <l>
+      en Ør'fig hun gav ham
+     </l>
+     <l>
+      og sled sig ifra ham:
+     </l>
+     <l>
+      «der har du Besked!»
+     </l>
+    </quote>
+    <p>
+     «Op Unger!» raabte Skolemesteren, «idag er det første Dagen, saa I skal slippe tidlig, men først maa vi holde Bøn og synge.» Der blev et Leven i Skolen, de hoppede af Bænkene, sprang over Gulvet, snakkede i Munden paa hverandre. «Stille Fantunger, Skarvunger, Fjorunger! – stille, og gaa vakkert over Gulvet, Smaabørn!» sa' Skolemesteren, og de gik nu rolige hen og stillede sig op, hvorefter Skolemesteren gik foran dem og holdt en kort Bøn. Siden sang de; Skolemesteren begyndte med stærk Bas, alle Børnene stod med foldede Hænder og sang med, Øyvind stod nederst ved Døren sammen med Marit og saae paa; de foldede ogsaa Hænderne, men de kunde ikke synge.
+    </p>
+    <p>
+     Dette var den første Dag i Skolen.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     
+      Tredie Kapitel.
+     
+    </head>
+    <p>
+     Øyvind voxte til og blev en rask Gut; i Skolen var han blandt de første, og hjemme var han duelig i Arbeide. Det kom deraf, at hjemme holdt han af Mo
+     <pb n="13"/>
+     deren og i Skolen af Skolemesteren; Faderen saae han lidet til, thi enten laa han paa Fiske, eller han passede deres Kværn, hvor den halve Bygd malte.
+    </p>
+    <p>
+     Det, som i disse Aar havde mest Virkning paa hans Sind, var Skolemesterens Historie, som Moderen fortalte ham en Kveld, de sad ved Aaren. Den gik ned i hans Bøger, den lagde sig under hvert Ord, Skolemesteren sagde, og smøg omkring i Skolen, naar der var stilt. Den gav ham Lydighed og Ærbødighed og ligesom et lettere Nemme for alt, der blev lært. Den Historie var saadan:
+    </p>
+    <p>
+     Baard hedte Skolemesteren og havde en Broder, som hedte Anders. De holdt meget af hverandre, lod sig begge hverve, levede i Byen sammen, var med i Krigen, hvor de begge blev Korporaler og stod ved samme Kompagni. Da de efter Krigen kom hjem igjen, syntes alle, det var to staute Karle. Saa dør deres Fader; han havde meget løst Gods, der var vanskeligt at bytte, og derfor sagde de til hverandre, at de heller ikke dennegang skulde blive uforligte, men sætte Godset til Auktion, at hver kunde kjøbe det, han vilde, og dele Udbyttet. Som sagt, saa gjort. Men Faderen havde eiet et stort Gulduhr, som var vidt spurgt; thi det var det eneste Gulduhr, Folk paa den Kant havde seet, og da dette Gulduhr blev opraabt, vilde mange rige Mænd have det, indtil ogsaa begge Brødrene begyndte at byde; da gav de andre sig. Nu ventede Baard af Anders, at han skulde lade ham faa Uhret, og Anders ventede det samme af Baard; de bød hver sin Gang for at prøve hverandre og saae over til hverandre, medens de bød. Da Uhret var kommet op i 20 Daler, syntes Baard, det ikke var vakkert gjort af Broderen, og bød paa, til det blev henimod 30; da Anders endnu ikke gav sig, syntes Baard, at Anders ikke huskede, hvor god han ofte havde været med ham,
+     <pb n="14"/>
+     endvidere at han var den ældste, og Uhret kom over 30 Daler. Anders fulgte endnu med. Da satte Baard Uhret op i 40 Daler med en Gang, og saae ikke længer paa Broderen; der var meget stilt i Auktionsværelset, kun Lensmanden nævnte roligt Prisen. Anders tænkte, der han stod, at havde Baard Raad til at give 40 Daler, havde ogsaa han, og undte ikke Baard ham Uhret, fik han vel tage det; han bød over. Dette syntes Baard, var den største Skam, som nogensinde var hændt ham; han bød 50 Daler og ganske sagte. Meget Folk stod omkring, og Anders tænkte, at saaledes kunde ikke Broderen haane ham i alles Paahør; han bød over. Da lo Baard; «100 Daler og mit Brorskab paa Kjøbet,» sagde han, vendte sig og gik ud af Stuen. En Stund efter kom en ud til ham, medens han holdt paa at sadle den Hest, han nys før havde kjøbt. «Uhret er dit,» sagde Manden; «Anders gav sig.» I samme Stund, Baard fik  høre dette, foer der som en Anger igjennem ham, han tænkte paa Broderen og ikke paa Uhret. Sadlen var lagt paa, men han standsede med Haanden paa Hesteryggen, uvis om han skulde ride. Da kom meget Folk ud, Anders imellem dem, og saasnart han fik se Broderen staa borte ved den sadlede Hest, vidste han ikke, hvad Baard netop nu stod og tænkte paa, men skreg over til ham: «Tak for Uhret, Baard! Du skal ikke se det gaa den Dag, at Broder din skal træde dig i Hælene!» «Heller ikke den Dag, jeg rider til Gaards igjen,» svarte Baard bleg i Ansigtet og svang sig til Hest. Det Hus, hvori de havde boet sammen med Faderen, betraadte ingen af dem mere.
+    </p>
+    <p>
+     Kort Tid efter giftede Anders sig ind paa en Husmandsplads, men bad ikke Baard til Bryllups; Baard var heller ikke i Kirken. Første Aar Anders var gift, blev den eneste Ko, han eiede, funden død bortom den
+     <pb n="15"/>
+     nordre Stuevæg, hvor den gik i Tjor, og ingen skjønte, hvad den var død af. Flere Uheld lagde sig til, og det gik tilagters for ham; men værst blev det, da hans Laave midt paa Vinteren brændte og alt, som i den var; ingen vidste, hvorledes Ilden var opkommen. «Dette har en gjort, som vil mig ondt,» sagde Anders, og han græd den Natten. Han blev en fattig Mand, og han mistede Hugen til Arbeide.
+    </p>
+    <p>
+     Da stod Baard næste Kveld i hans Stue. Anders laa paa Sengen, da han traadte ind, men sprang op. «Hvad vil du her?» spurgte han, men taug og blev staaende ufravendt seende paa Broderen. Baard ventede lidt, før han svarte: «Jeg vil byde dig Hjælp, Anders; du har det ikke godt.» – «Jeg har det, som du har undt mig det, Baard! Gaa, eller jeg veed ikke, om jeg kan styre mig.» – «Du tager feil, Anders; jeg angrer.» – «Gaa Baard, eller Gud naade baade dig og mig!» Baard gik ogsaa et Par Skridt tilbage; med dirrende Stemme spurgte han: «Vil du have Uhret, skal du faa det.» «Gaa, Baard!» skreg den anden, og Baard vilde ikke vente, men gik.
+    </p>
+    <p>
+     Men med Baard var det gaaet saadan til. Saasnart han hørte, at Broderen led ondt, tøede Hjertet op, men Stoltheden holdt igjen. Han fik  Trang til at søge Kirken, og der tog han gode Forsætter, men han orkede dem ikke frem. Ofte kom han saa langt, at han kunde se Huset, men snart kom en ud af Døren, snart var der en fremmed, snart stod Anders ude og huggede Ved, saa der var altid noget i Veien. Men en Søndag ud paa Vinteren var han atter i Kirke, og da var Anders der ogsaa. Baard saae ham; han var bleven bleg og mager, de samme Klæder bar han som før, da de var sammen, men nu var de gamle og lappede. Under Prækenen saae han op paa Præsten, og Baard syntes, han var god og
+     <pb n="16"/>
+     blid, huskede deres Barneaar, og hvilken god Gut han var. Baard selv gik til Alters den Dagen, og han gjorde sin Gud det høitidelige Løfte, at han skulde forlige sig med sin Broder, der maatte komme, hvad der vilde. Dette Forsæt gik gjennem hans Sjæl, i det samme han drak Vinen, og da han reiste sig, vilde han gaa lige bort til ham og sætte sig hos ham; men der sad nogen i Veien, og Broderen saae ikke op. Efter Prækenen var der ogsaa noget i Veien, der var formange Folk, Konen gik ved Siden af ham, og hende kjendte han ikke; han tænkte, det var bedst at gaa hjem til ham selv og tale alvorligt med ham. Da Kvelden kom, gjorde han det. Han gik lige hen til Stuedøren og lyttede, men da hørte han sit Navn nævne; det var af Konen. «Han gik til Alters idag,» sagde hun, «han tænkte vist paa dig.» «Nei, han tænkte ikke paa mig,» sagde Anders, «jeg kjender ham; han tænker kun paa sig selv.»
+    </p>
+    <p>
+     Der blev længe ikke sagt noget, Baard svedede, der han stod, skjønt det var en kold Kveld. Konen derinde arbeidede med en Gryde, det knittrede og bragede paa Gruen, et lidet Spædbarn græd engang imellem, og Anders vuggede. Da sagde hun disse Par Ord: «Jeg tror, I begge tænker paa hverandre uden at ville være ved det.» «Lad os tale om noget andet,» svarte Anders. En Stund efter reiste han sig, han vilde gaa mod Døren. Baard maatte gjemme sig i Vedskjulet; netop did kom ogsaa Anders for at tage et Fang Ved. Baard stod i Krogen og saae ham tydeligt; han havde lagt sine daarlige Kirkeklæder og gik i den Uniform, han havde ført hjem med fra Krigen, Magen til Baards, og som de havde lovet hinanden aldrig at røre, men lade gaa i Arv. Anders's var nu lappet og udslidt, hans stærke, velvorne Krop laa som i et Bundt af Filler, og paa samme Tid hørte han Gulduhret pikke i sin egen Lomme. Anders
+     <pb n="17"/>
+     gik didhen, hvor Risveden laa; istedetfor strax at bøie sig ned og læsse paa sig standsede han, hældede sig bagover mod en Vedstabel og saae ud mod Himlen, der var tindrende klar med Stjerner. Da drog han et Suk og sagde: «Ja – ja – ja; – Herregud, Herregud!»
+    </p>
+    <p>
+     Saa længe Baard levede, hørte han siden dette. Han vilde træde frem imod ham, men i det samme kræmtede Broderen, og det faldt saa haardt; mere skulde der ikke til forat standse ham. Anders tog sit Fang Ved, strøg saa tæt forbi Baard med det, at Kvisterne slog hans Ansigt, saa det sved.
+    </p>
+    <p>
+     Endnu vel i ti Minutter stod han stille paa den samme Plet, og uvist var det, naar han var gaaet, dersom han ikke ovenpaa den stærke Rørelse var tagen af en saadan Frysning, at han skalv al igjennem. Da gik han ud; han erkjendte aabent for sig selv, at han var for feig til at gaa ind, derfor havde han nu fattet en anden Plan. Af en Askekop, som stod i den Krog, han netop forlod, tog han nogle Kulstykker til sig, fandt sig en Tyrispik, gik op paa Laaven, lukkede efter sig og slog Ild. Da han havde faaet Spiken tændt, lyste han op efter den Nab, hvorpaa Anders hængte sin Lygte, naar han om Morgenen tidlig kom for at tærske. Baard tog sit Gulduhr op og hængte det fra sig paa Nabben, slukkede saa sin Spik og gik, og da var han saa lettet, at han sprang henover Sneen som en ung Gut.
+    </p>
+    <p>
+     Dagen efter hørte han, at Laaven var nedbrændt samme Nat. Ventelig havde Gnister faldt ned af den Spik, som skulde lyse ham, medens han hængte fra sig Uhret.
+    </p>
+    <p>
+     Dette overvældede ham saaledes, at han den Dag blev siddende som en syg, tog sin Salmebog frem og sang, saa Folk i Huset troede, her var noget galt paafærde. Men om Kvelden gik han ud; det var stærkt Maaneskin,
+     <pb n="18"/>
+     han gik til Broderens Plads, gravede efter i Brandtomten – og fandt ganske rigtig en liden sammensmeltet Guldklump; det var Uhret.
+    </p>
+    <p>
+     Med den i Næven var det, han gik ind til Broderen hin Kveld; bad om Fred og vilde forklare sig. Men før er fortalt, hvordan det da gik.
+    </p>
+    <p>
+     En liden Gjente havde seet ham grave i Brandtomten, nogle Gutter, som gik til Dands, havde foregaaende Søndagskveld seet ham gaa nedover mod Pladsen, Folkene i Huset forklarte om, hvor underlig han var Mandag, og da nu alle vidste, at han og Broderen var bittre Uvenner, blev det meldt og Forhør optaget. Ingen kunde bevise ham noget, men Mistanken sad paa ham, han kunde nu mindre end nogensinde nærme sig Broderen.
+    </p>
+    <p>
+     Anders havde tænkt paa Baard, da Laaven brændte, men ingen sagt det. Da han Kvelden efter saae ham bleg og forunderlig træde ind i sin Stue, tænkte han strax, at nu har Angeren slaaet ham, men for saadan forferdelig Gjerning mod sin Broder faar han ikke Tilgivelse. Siden hørte han om, at Folk havde seet ham gaa ned til Husene samme Kveld, det brændte, og skjønt intet blev oplyst ved Forhøret, troede han urokkelig, at Baard var Gjerningsmanden. De mødte hinanden ved Forhøret, Baard i sine gode Klæder, Anders i sine lappede; Baard saae hen til ham, da han steg ind, og Øinene bad, saa Anders kjendte det langt ind. Han vil ikke, jeg skal sige noget, tænkte Anders, og da han blev spurgt, om han troede Broderen til hin Gjerning, sagde han høit og bestemt: «Nei».
+    </p>
+    <p>
+     Men Anders slog sig stærkt paa Drikken fra den Dag, og det gik meget snart daarligt med ham. Endnu daarligere var det dog med Baard, skjønt han ikke drak; han var ikke til at kjende igjen.
+    </p>
+    <p>
+     Saa kommer sent en Kveld en fattig Kone ind i det lille Kammer, Baard boede tilleie i, og bad ham følge
+     <pb n="19"/>
+     med ud lidt. Han kjendte hende, det var Broderens Kone. Baard forstod strax, hvad Erinde hun førte, blev ligbleg, klædte paa sig og fulgte uden at tale et Ord. Der lyste ud fra Anders's Vindu med svagt Skin, det blinkede og lukkede sig, og de gik efter Lyset; thi der førte ingen Sti over Sneen. Da Baard atter stod i Svalen, slog der en underlig Lugt imod ham, hvoraf han fik ondt. De gik ind. Et lidet Barn sad borti Gruen og spiste Kul, var sort over alt Ansigt, men saae op og lo med hvide Tænder; det var Broderens Barn. Men borti Sengen med alle Slags Klæder over sig laa Anders, afmagret, med klar, høi Pande og saae hult paa Broderen. Baard skalv i Knæerne, han satte sig nedved Sengfoden og brast i en ualmindelig stærk Graad. Den syge saae paa ham uafvendt og taug. Endelig bad han Konen gaa ud, men Baard vinkede, hun skulde blive, – og nu begyndte disse to Brødre at tale sammen. De forklarede sig lige fra den Dag, de bød paa Uhret, og udigjennem til den, da de nu mødtes her. Baard sluttede med at tage Guldklumpen frem, som han altid bar hos sig, og aabenbaret blev det nu mellem Brødrene, at de i alle disse Aar ikke en Dag havde følt sig lykkelige.
+    </p>
+    <p>
+     Anders sagde ikke stort, for han var ikke god til; men ved Sengen blev Baard siddende, saalænge Anders var syg. «Nu er jeg fuldkommen frisk,» sagde Anders en Morgen, han vaagnede; «nu, Bror min, skal vi leve længe sammen og aldrig gaa fra hverandre, ligesom i gamle Dage.» Men den Dagen døde han.
+    </p>
+    <p>
+     Konen og Barnet tog Baard til sig, og de havde det godt fra den Tid. Men hvad Brødrene havde samtalet om ved Sengen, det sprængte ud gjennem Væggene og Natten, blev bekjendt for alt Folk i Bygden, og Baard blev den mest agtede Mand imellem dem. Alle hilste paa ham som paa en, der har havt stor Sorg og atter fundet
+     <pb n="20"/>
+     Glæde, eller som paa en, der meget længe har været borte. Baard blev stærk af Sind ved denne Venlighed omkring sig, han blev Gud hengiven, og vilde bestille noget, sagde han, og saa gav den gamle Korporal sig til at være Skolemester. Hvad han indpræntede Børnene baade først og sidst var Kjærlighed, og selv øvede han den, saa Ungerne holdt af ham som af en Legekammerat og Fader paa en Gang.
+    </p>
+    <p>
+     Se, denne Historie var det, som gik om den gamle Skolemester og i Øyvinds Sind fik en saadan Væxt, at den blev ham baade Religion og Opdrager. Skolemesteren var bleven ham en næsten overnaturlig Mand, skjønt han sad der saa omgjængelig og smaaskjændte. Ikke at kunne hver en Lektie til ham, var umuligt, og fik han et Smil eller et Haandstrøg over Haaret efterat have læst den op, da var han glad og varm for en hel Dag.
+    </p>
+    <p>
+     Størst Indtryk paa Børnene gjorde det altid, naar Skolemesteren før Sangen sommetider holdt en liden Tale til dem og idetmindste en Gang hver Uge læste op nogle Vers for dem, som handlede om at elske sin Næste. Naar han læste det første af disse Vers, skalv han i Stemmen, skjønt han vel nu havde læst det i 20–30 Aar; det lød:
+    </p>
+    <quote>
+     <l>
+      Elsk din Næste, du Kristen–Sjæl,
+     </l>
+     <l>
+      træd ham ikke med jernskod Hæl,
+     </l>
+     <l>
+      ligger han end i Støvet.
+     </l>
+     <l>
+      Alt, som lever, er underlagt
+     </l>
+     <l>
+      Kjærlighedens Gjenskabermagt,
+     </l>
+     <l>
+      bliver den bare prøvet!
+     </l>
+    </quote>
+    <p>
+     Men naar saa det hele Digt var sagt, og han havde staaet lidt efter, saae han paa dem og plirte med Øinene: «Op, Smaatrold, og gaa vakkert hjem uden Støi, – gaa vakkert, at jeg maa høre bare vel om Eder, Smaarollinger!» Medens de da støiede som værst forat finde sine Bøger og Madkopper, skreg han gjennem Larmen: «Kom
+     <pb n="21"/>
+     igjen imorgen, strax det blir lyst, eller jeg skal tage og myge Eder – kom igjen i betimelig Tid, Smaagjenter og Smaagutter, saa skal vi være flittige!»
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     
+      Fjerde Kapitel.
+     
+    </head>
+    <p>
+     Om hans videre Opvæxt til et Aar før Konfirmationen er ikke stort at melde. Han læste om Morgenen, arbeidede om Dagen og legte om Kvelden.
+    </p>
+    <p>
+     Da han havde et ualmindelig muntert Sind, varede det ikke længe, før den nærmeste Ungdom i Fristunderne gjerne fandtes der, hvor han var. Der løb en stor Bakke nedover til Bugten foran Pladsen, langs Berget paa den ene Side og Skogen paa den anden, som før meldt, og den hele Vinter var her hver Godveirskveld og Søndag Kjælkebakke for Bygdens agende Ungdom. Øyvind var Mester i Bakken, eiede to Kjælker, «Skarptraaveren» og «Skabeistet»; den sidste laante han ud til større Følger, den første styrede han selv og havde Marit i Fanget.
+    </p>
+    <p>
+     Det første, Øyvind i den Tid gjorde, naar han vaagnede, var at se ud, om det var Tøveir, og saae han, at der hang graat over Buskene paa den anden Side Bugten, eller hørte han, det dryppede af Taget, da gik det saa sent med Paaklædningen, som om der intet var at udrette den Dag. Men vaagnede han, og helst en Søndag, til knittrende Kulde og Klarveir, de bedste Klæder og intet Arbeide, bare Overhøring eller Kirkegang om Formiddag og saa hele Eftermiddag og Kveld fri, – hei! da stod Gutten med et Byks ud af Sengen, klædte sig som til Ildebrand og kunde næsten intet spise. Saasnart Eftermiddagen var der, og den første Gut kom staaende paa sine Ski langs Veikanten, svingede Skistaven over
+     <pb n="22"/>
+     Hovedet og raabte, saa det gjaldede i Aasene omkring Vandet, og saa en efter Veien paa Kjælke, og nok en, nok en, – da Gutten afsted med Skarptraaveren, sprang hele Bakken og standsede opimellem de sidstankomne med en lang, skingrende Hauking, der lo langs Bugten fra Aas til Aas og døde først langt borte.
+    </p>
+    <p>
+     Han saae da gjerne efter Marit; men var hun først kommen, brydde han sig heller ikke mere om hende.
+    </p>
+    <p>
+     Men saa kom der en Jul, da Gutten saavelsom Gjenten kunde være saapas som 16 i sit 17de Aar og skulde begge konfirmeres til Vaaren. Fjerde Dag Jul stod et stort Lag paa den øvre af Heidegaardene hos Marits Bedsteforældre, hos hvem hun var opdraget, og som havde lovet hende dette Lag nu paa tredie Aaret, men endelig den Helg maatte ud med det. Hid blev Øyvind indbuden.
+    </p>
+    <p>
+     Det var en halvklar, ikke kold Kveld, ingen Stjerner saaes, Dagen efter maatte der komme Regn. Der gik en noget døsig Vind over Sneen, som var afføgen hist og her paa de hvide Heidemarker, andre Steder havde den lagt Skavl. Langs efter Veien, hvor ikke netop Sneen laa, var der Holke, og den laa blaasort imellem Sneen og den bare Mark og blinkede stykkevis bortover, saalangt en kunde se. Langs Fjeldene havde der gaaet Fonner; efter dem var der mørkt og tomt, men paa begge Sider af deres Leie lyst og sneklædt, undtagen hvor Birkeskogen stak sig sammen og gjorde sort. Vand var ikke at se, men halvnøgne Moer og Myrer laa opunder Fjeldene, sønderrevne og tunge. Gaardene laa i svære Klynger midt paa Fladen, de saae i Vinterkveldens Mørke ud som sorte Klumper, hvorfra Lys skar udover Marken, snart fra et Vindu, snart fra et andet; det syntes paa Lysene, at man havde det travelt inde. Ungdommen, den voxne og halvvoxne, flokkede sig sammen fra forskjellige Kanter; de
+     <pb n="23"/>
+     færreste gik Veien eller forlod den i alle Fald, naar de kom nær Gaardene, og listede sig da frem, en bag Fjøset, et Par under Staburet, nogle foer længe bag Laaven og skreg som Ræve, andre svarede langt borte som Katte, en stod bag Ildhuset og gjøede som en gammel sint Hund, for hvem Kvinten var brusten, indtil der skede almindelig Jagt. Gjenterne kom dragende i store Flokke, havde nogle Gutter, helst Smaagutter, med sig, som skoges omkring dem langs Veiene forat synes Karle. Naar en saadan Gjenteflok kom til Gaards, og en eller anden af de voxne Gutter fik se dem, stilte Gjenterne sig, fløi ind i Gangene, eller ned i Haven og maatte drages frem og ind, en for en. Somme var saa rent undselige, at der maatte gaa Bud efter Marit, hun kom da ud og stivnødede dem. Sommetider kom der ogsaa en, som oprindelig ikke var buden, og hvis Hensigt det slet ikke var at gaa ind, men bare se paa, indtil det blev saa, at hun blot skulde tage en eneste Dands. De, som nu Marit likte godt, bad hun ind til selve Kaarfolkene i et lidet Kammers, hvor Gamlen sad og røgte, og Bedstemor gik omkring; de blev da skjænkede og vel tiltalte. Øyvind var ikke blandt dem, og dette faldt ham noget underligt.
+    </p>
+    <p>
+     Bygdens gode Spillemand kunde ikke komme før senere, saa de indtil da maatte hjælpe sig med den gamle, en Husmand, som de kaldte Graa-Knut. Han kunde fire Dandse, nemlig to Springere, en Halling og en gammel, saakaldet Napoleonsvals; men lidt efter lidt havde han maattet gjøre Hallingen om til Skotsk ved at forandre Takten, og en Springdands maatte paa samme Maade blive til Polkamazurka. Han spillede nu op og Dandsen begyndte. Øyvind turde ikke gaa med strax, thi her var formange voxne; men de halvvoxne slog sig snart sammen, puffede hverandre frem, drak lidt stærkt Øl til Hjælp, og da kom ogsaa Øyvind med; hedt blev der i Stuen, Lystig
+     <pb n="24"/>
+     heden og Øllet steg dem til Hovedet. Marit var mest paa Gulvet den Kveld, ventelig fordi Laget stod hos hendes Bedsteforældre, og dette gjorde, at ogsaa Øyvind saae ofte hen til hende; men altid dandsede hun med andre. Han vilde gjerne selv dandse med hende, derfor sad han over en Dands forat kunne springe bort til hende, strax den slutter, og det gjorde han, men en høi, sortsmusket Karl med stærkt Haar kaster sig foran ham. «Væk Unge!» raabte han og puffede til Øyvind, saa han nær var falden baglænds over Marit. Aldrig var noget saadant hændt ham, aldrig havde Folk været andet end snilde med ham, aldrig var han bleven kaldt «Unge», naar han vilde være med; han blev blussende rød, men sagde intet og trak sig tilbage did, hvor den nye Spillemand, som netop var kommen, havde sat sig og stemte op. Der var stilt indimellem Flokken, man ventede paa at høre de første, stærke Toner af ham selv, han prøvede og stemte, det varede længe, men endelig saa hug han i med en Springer, Gutterne skreg og kastede sig, og Par for Par svingede ind i Kredsen. Øyvind ser paa Marit, der hun dandser med den stærkhaarede Mand, hun lo over Mandens Skuldre, saa de hvide Tænder vistes, og Øyvind kjendte en forunderlig stikkende Smerte i Brystet, første Gang i sit Liv.
+    </p>
+    <p>
+     Han saae længere og længere paa hende, men hvorledes han end saae, forekom det ham, at Marit var ganske voxen; det kan ikke være saa, tænkte han, thi hun er jo med i Kjælkebakkerne endnu. Men voxen var hun dog, og den stærkhaarede Mand drog hende efter endt Dands ned paa Fanget; hun sled sig løs, men blev dog siddende ved Siden.
+    </p>
+    <p>
+     Øyvind ser paa Manden; han havde fine blaa Klædesklæder, blaaternet Skjorte og Silketørklæde, et lille Ansigt havde han, blaa, stærke Øine, leende, trodsig Mund, han var vakker. Øyvind saae mere og mere, saae endelig
+     <pb n="25"/>
+     ogsaa paa sig selv; han havde faaet nye Buxer til Jul, som han var meget glad i, men nu saae han, det var bare graat Vadmel; Trøien var af samme Slag, men gammel og mørk, Vesten af rudet Værken, ogsaa gammel og med to blanke og en sort Knap. Han saae omkring sig og syntes, meget faa var saa daarlig klædt som han. Marit havde sort Livkjole af fint Tøi, Sølje i Halstørklædet og et sammenlagt Silketørklæde i Haanden. Over Baghovedet havde hun en liden sort Silkehue, som var fæstet med store randede Silkebaand under Hagen. Hun var rød og hvid, lo, Manden talte med hende og lo, det spillede atter op, og de skulde atter dandse. En Kammerat kom og satte sig ved Siden af ham. «Hvorfor dandser du ikke, Øyvind?» sagde han blidt. – «Aa, nei», sagde Øyvind, «jeg ser ikke saadan ud.» – «Ser ikke saadan ud?» spurgte Kammeraten; men før han kunde komme videre, sagde Øyvind: «Hvem er han i de blaa Klædesklæderne, som dandser med Marit?» – «Det er Jon Hatlen, han, som længe har været borte paa en Agronomskole og nu skal tage Gaarden.» – I det samme satte Marit og Jon sig. «Hvem er den Gutten i det lyse Haaret, som sidder der bortved Spillemanden og glor paa mig?» spurgte Jon. Da lo Marit og sagde: «Det er Husmandsgutten paa Pladsen.»
+    </p>
+    <p>
+     Øyvind havde jo altid vidst, han var Husmandsgut; men før nu havde han aldrig følt det. Han kjendte sig ligesom saa liden i Kroppen, kortere end alle andre; forat holde sig oppe maatte han forsøge at tænke paa alt det, som hidtil havde gjort ham glad og stolt, ligefra Kjælkebakken til de enkelte Ord. Da han ogsaa tænkte paa sin Mor og Far, der nu sad hjemme og troede, at han havde det godt, syntes han næsten ikke at kunne holde Graaden. Omkring ham lo og spøgte allesammen, Fedlen ljomede lige ind i Øret paa ham, der var et Øieblik, hvori der
+     <pb n="26"/>
+     ligesom steg noget sort op, men saa huskede han Skolen med alle Kammerater og Skolemesteren, som klappede ham, og Præsten, som ved sidste Examen havde givet ham en Bog og sagt, han var en dygtig Gut; Faderen havde selv siddet og hørt paa og smilt bortover til ham. «Vær nu snild, du Øyvind,» syntes han Skolemesteren sige, idet han blev taget paa Fanget, som da han var liden. «Herregud, det er saa lidet værdt altsammen, og igrunden er alle Mennesker snilde; det ser bare ud som de ikke er det. Vi to skal blive dygtige, Øyvind, ligesaa dygtige som Jon Hatlen; skal nok faa gode Klæder og dandse med Marit i en lys Stue, hundrede Mennesker, smile og tale sammen, Kirke, og ringe sammen, to Brudefolk, Præsten, og jeg i Koret, som ler over til dig, og Mor i Huset, og stor Gaard, tyve Kjør, tre Heste, og Marit god og snild som paa Skolen,...»
+    </p>
+    <p>
+     Dandsen holdt op, Øyvind saae Marit foran sig paa Bænken og Jon ved Siden med Ansigtet tæt op til hendes; en stor stikkende Smerte kom igjen i Brystet, og det var, som han sagde til sig selv: det er jo sandt, jeg har ondt.
+    </p>
+    <p>
+     I det samme reiste Marit sig, og hun kom bent over til ham. Hun bøiede sig ned over ham. «Du skal ikke sidde saadan og nidstirre paa mig,» sagde hun; «du kan skjønne, Folk lægger Mærke til det; tag dig nu nogen og dands med.»
+    </p>
+    <p>
+     Han svarte ikke, men saae paa hende, og kunde ikke for det, Øinene løb fulde. Hun havde allerede lettet sig igjen forat gaa, da hun saae det og standste; hun blev med engang ildrød, vendte sig om og gik til sin Plads, men der vendte hun igjen og satte sig et andet Sted. Jon gik strax efter.
+    </p>
+    <p>
+     Øyvind rejste sig fra Bænken, gik ud mellem Folket, ud paa Gaarden, satte sig inde i en Sval og vidste saa ikke, hvad han skulde der, reiste sig, men satte sig igjen,
+     <pb n="27"/>
+     thi han kunde jo ligesaa godt sidde der som et andet Sted. At gaa hjem brydde han sig ikke om, gaa ind igjen heller ikke, det var ham det samme. Han var ikke istand at samle noget af hvad som var foregaaet; han vilde ikke tænke paa det; fremover vilde han heller ikke tænke, thi der var intet, som han længtes til.
+    </p>
+    <p>
+     Men hvad er det ogsaa, jeg tænker paa? spurgte han halvhøit sig selv, og da han havde hørt sin egen Stemme, tænkte han: tale kan du endnu, kan du le? Og han prøvde paa; jo, han kunde le, og saa lo han, høit, endnu høiere, og da syntes han, det var kosteligt, at han sad der og lo ganske alene, og lo. Men Hans, den Kammerat, som havde siddet ved Siden af ham, kom ud efter ham. «I Guds Navn, hvad ler du af?» spurgte han og standste foran Svalen. Da holdt Øyvind op.
+    </p>
+    <p>
+     Hans blev staaende, som han ventede, hvad der videre vilde ske; Øyvind reiste sig, saae sig forsigtig om, og da sagde han sagte: «Nu skal jeg sige dig, Hans, hvorfor jeg har været saa glad før; det har været, fordi jeg ikke rigtig har holdt af nogen; men fra den Dag, vi holder af nogen, er vi ikke længer glade,» og han brast i Graad.
+    </p>
+    <p>
+     «Øyvind!» hviskede det ude paa Gaarden; «Øyvind!» Han standste og lyttede; «Øyvind», sagde det en Gang til, lidt stærkere. Det maatte være den, han tænkte. «Ja», svarte han ogsaa hviskende, tørrede sig rask af og traadte frem. Da kom et Kvindfolk stille over Gaarden. «Er du der?» spurgte hun. – «Ja», svarte han og stod. – «Hvem er hos dig?» – «Det er Hans.» – Men Hans vilde gaa; «nei, nei!» bad Øyvind. Hun kom nu tæt hen til dem, men langsomt, og det var Marit. «Du kom saa snart bort,» sagde hun til Øyvind. Han vidste ikke, hvad han hertil skulde svare. Derved blev ogsaa hun forlegen, de taug alle tre. Men Hans listede væk saa
+     <pb n="28"/>
+     smaat efterhaanden. De to stod igjen, saae ikke paa hverandre, men rørte sig heller ikke. Da sagde hun hviskende: «Jeg har i hele Kveld gaaet med noget Julegodt i Lommen til dig, Øyvind; men jeg har ikke kunnet give dig det før.» Hun trak op nogle Æbler, en Skive af en Bykage og en liden Peglflaske, som hun stak til ham og sagde, han kunde beholde.
+    </p>
+    <p>
+     Øyvind tog det; «Tak», sagde han og gav Haanden frem; hendes var varm, han slap den strax, som havde han brændt sig. – «Du har dandset meget ikveld.» – «Jeg har saa,» svarte hun; «men du har ikke dandset stort,» lagde hun til. – «Jeg har ikke det,» svarte han. – «Hvorfor har du ikke det?» – «Aa –».
+    </p>
+    <p>
+     «Øyvind», – «Ja». – «..Hvorfor sad du og saae saadan paa mig?» – «Aa –.«
+    </p>
+    <p>
+     «Marit», – «Ja». – «Hvorfor likte du ikke, at jeg saae paa dig?» – «Der var saamange Folk.»
+    </p>
+    <p>
+     «Du dandste meget med Jon Hatlen ikveld.» – «Aa, ja.» – «Han dandser godt.» – «Synes du?» – «Synes ikke du?» – «Aa, jo.»
+    </p>
+    <p>
+     «Jeg veed ikke, hvorledes det er, men ikveld taaler jeg ikke, at du dandser med ham, Marit;» han vendte sig bort, det havde kostet ham at sige det. – «Jeg forstaar dig ikke, Øyvind.» – «Jeg forstaar det hellerikke selv; det er saa dumt af mig. Farvel, Marit, nu vil jeg gaa.» Han gjorde et Skridt uden at se sig om. Da sagde hun efter ham: «Det er feil, det, du har seet, Øyvind.» – Han standste: «At du alt er voxen Gjente, er ikke feil seet.» – Han kom ikke med det, hun havde tænkt, derfor taug hun; men under dette ser hun Lysning af en Pibe ret foran sig; det var hendes Bedstefader, som netop havde bøiet om Hjørnet og kom forbi. Han standste: «Er det her, du er Marit?» – «Ja». –
+     <pb n="29"/>
+     «Hvem taler du med?» – «Øyvind». – «
+     <emph>
+      Hvem
+     </emph>
+     , sagde du?» – «Øyvind Pladsen». – «Aa, Husmandsgutten paa Pladsen; – kom strax og følg med ind.»
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     
+      Femte Kapitel.
+     
+    </head>
+    <p>
+     Da Øyvind den følgende Morgen slog Øinene op, var det fra en lang, kvægende Søvn og lykkelige Drømme. Marit havde lagt paa Berget og kastet Løv nedpaa ham, han havde taget imod og kastet op igjen, det var gaaet op og ned i tusinde Farver og Figurer, Solen stod paa, og hele Berget glimrede op under. Idet han vaagnede, saae han sig om for at finde alt igjen, da huskede han Gaarsdagen, og den samme stikkende, saare Smerte i Brystet begyndte strax. Denne bliver jeg nok aldrig mere kvit, tænkte han og følte en Slaphed, som faldt hele Fremtiden fra ham.
+    </p>
+    <p>
+     «Nu har du sovet længe,» sagde Moderen, hun sad ved Siden og spandt. «Op nu og spis; din Fader er alt i Skogen og fælder Ved.» – Det var som denne Stemme hjalp ham; han stod op med lidt mere Mod. Moderen huskede nok sin egen Dandsetid; thi hun sad og trallede til Rokken, medens han klædte sig og spiste; derfor maatte han reise sig fra Bordet og gaa til Vinduet; den samme Tyngsel og Ulyst lagde sig over ham, han maatte tage sig sammen og tænke paa Arbeide. Veiret var slaaet om, der var kommen lidt Kulde i Luften, saa det, der igaar truede med at falde som Regn, faldt idag som vaad Sne. Han tog paa sig Snesokker, en laadden Hue, Sjømandstrøie og Votter, sagde Farvel og gik med Øxen paa Nakken.
+    </p>
+    <p>
+     <pb n="30"/>
+     Sneen faldt langsomt i store vaade Dusker; han strævede opover Kjelkebakken for til venstre at bøie ind i Skogen; aldrig, Vinter eller Sommer, var han før gaaen Kjælkebakkerne uden at huske noget, som gjorde ham glad, eller som han længtes til. Nu var det en død, tung Vei, han gled i den vaade Sne, Knæerne var stive, enten af Dandsen igaar eller af Ulyst; nu følte han, at det var forbi med Kjælkebakkerne for iaar, og dermed for bestandig. Noget andet længtes han til, der han gik ind mellem Stammerne, hvor Sneen faldt tyst, en skræmt Rype skreg og flaksede et Par Favne bort, og ellers al ting stod, som ventede det paa et Ord, der aldrig blev sagt. Men hvad det var, han stundede efter, vidste han ikke tydeligt, kun var det ikke hjem, heller ikke bort, ikke til Lystighed, ikke til Arbeide, det var noget høit tilveirs, lige op som en Sang. Lidt efter samlede dette sig i et bestemt Ønske, det var at blive konfirmeret til Vaaren, og ved den Leilighed være Nummer en. Brystet bankede, medens han tenkte derpaa, og førend han endnu kunde høre Faderens Øx i de skjælvende Smaatræer, havde dette Ønske stærkere Slag i ham end noget, siden han blev født.
+    </p>
+    <p>
+     Faderen sagde som sædvanlig ikke stort til ham; de huggede begge to og drog sammen i Hauger. De kunde en og anden Gang mødes, og ved et saadant Møde lod Øyvind tungsindig falde: «En Husmand maa slide meget ondt.» «Han som andre,» sagde Faderen, spyttede i Neven og tog Øxen. Da Træet var fældet, og Faderen drog det op i Velten, sagde Øyvind: «Var du Gaardmand, slæbte du ikke saa.» – «Aa, da var det vel andre Ting, som tyngede,» han tog i med begge Hænder. Moderen kom op med Middagsmad til dem, de satte sig. Moderen var munter, hun sad og trallede og slog Fødderne sammen efter Takten. «Hvad skal du tage dig for,
+     <pb n="31"/>
+     naar du bliver stor, Øyvind?» sagde hun pludselig. «For en Husmandsgut er der ikke mange Veie,» svarte han. «Skolemesteren siger, du maa paa Seminariet,» sagde hun. «Kommer en frit did?» spurgte Øyvind. «Skolekassen betaler,» svarte Faderen, han spiste. «Har du Lyst til det?» spurgte Moderen. «Jeg har Lyst til at lære noget, men ikke til at blive Skolemester.» – De taug alle tre en Stund; hun trallede igjen og saae ud for sig. Men Øyvind gik bort og satte sig for sig selv.
+    </p>
+    <p>
+     «Vi behøver just ikke at laane af Skolekassen,» sagde hun, da Gutten var gaaen. Manden saae paa hende: «Fattigfolk som vi?» – «Jeg liker ikke, Thore, du bestandig giver dig ud for fattig, naar du ikke er det.» – De skottede begge ned efter Gutten, om han kunde høre det. Derefter saae Faderen kvast paa Konen: «Du snakker, som du har Viddet til.» Hun lo; «det er ligesom ikke at takke Gud for, at det er gaaet os vel,» sagde hun og blev alvorlig. – «Han kan vel takkes uden med Sølvknapper paa,» mente Faderen. – «Ja, men ved at lade Øyvind gaa som igaar til Dandsen takkes han heller ikke.» – «Øyvind er Husmandsgut.» – «Derfor kan han klædes skikkelig, naar vi har Raad til det.» – «Snak om det, saa han selv hører det.» – «Han hører det ikke; ellers kunde jeg nok have Lyst til det,» sagde hun og saae tappert paa Manden, som var mørk og lagde Skeen bort for at tage sig en Pibe. «Slig ussel Plads, som vi har,» sagde han. – «Jeg maa le af dig, som altid taler om Pladsen; hvorfor nævner du aldrig Kværnene?» – «Aa, du og de Kværnene; jeg tror, du taaler ikke høre dem gaa.» – «Jo, Gud ske Lov og Tak; bare de vilde gaa baade Nat og Dag.» – «Nu har de staaet siden før Jul.» – «Folk maler da ikke om Juledagene.» – «De maler, naar der er Vand;
+     <pb n="32"/>
+     men siden de fik Kværn ved Nystrømmen, gaar det skrøbeligt.»
+    </p>
+    <p>
+     «Han sagde ikke saa, Skolemesteren idag.» – «Jeg skal lade en tausere Karl styre med vore Penge end Skolemesteren.» – «Ja, han burde sidst tale med din egen Kone.» – Thore svarte ikke herpaa, han havde netop faaet Ild paa Piben, heldede sig nu op til en Risbundt og flyede med Blikket først for Konen, siden for Sønnen og heftede det ved et gammelt Kraakerede, som hang halvkvelvt bortpaa en Furregren.
+    </p>
+    <p>
+     Øyvind sad for sig selv med Fremtiden foran sig som en lang, blank Is, hvorefter han for første Gang lod det staa strygende afsted fra den ene Strand til den anden. At Fattigdommen stængte til alle Sider, følte han, men derfor gik ogsaa al hans Tanke ud paa at komme den forbi. Med Marit havde den vistnok skilt ham for bestandig, hende betragtede han halvt som bortlovet til Jon Hatlen; men al hans Tanke stod til at kapløbe med ham og hende hele Livet bortover. Ikke oftere at blive puffet som igaar, derfor holde sig borte, til han var noget, og saa med den almægtige Guds Hjelp blive noget, det tænkte han paa, og det faldt ikke en Tvivl i hans Sjæl om, at det ikke vilde lykkes. Han havde en dunkel Følelse af, at gjennem Læsning vilde det gaa bedst; hvad Maal den skulde bane, maatte han senere hen tænke paa.
+    </p>
+    <p>
+     Det blev Kjælkeføre om Kvelden, Børnene kom paa Bakken, men ikke Øyvind. Ved Aaren sad han og læste, og han havde ikke et Øieblik at spilde. Børnene ventede længe, tilsidst blev en og anden utaalmodig, kom op, lagde Ansigtet til Ruden og raabte ind; men han lod, som han ikke hørte. Der kom flere, og Kveld efter Kveld, de gik udenfor i stor Forundring; men han vendte Ryggen til og læste, kjæmpede trolig forat samle Me
+     <pb n="33"/>
+     ning. Senere hørte han, at Marit heller ikke kom. Han læste med en Flid, som selv Faderen maatte sige gik for vidt. Han blev alvorlig; Ansigtet, der havde været saa rundt og blødt, blev magrere, skarpere, Øiet haardere, sjelden sang han, aldrig legte han, det var, som Tiden ikke slog til. Naar Fristelsen kom paa ham, var det, som nogen hviskede: «siden, siden!» og bestandig: «siden.» – Børnene rendte, raabte og lo en Stund som for, men da de ikke kunde kalde ham ud til sig, hverken med sin egen agende Lyslighed eller sine Raab ind med Ansigtet paa Ruden, blev de efterhaanden borte; de fandt andre Legepladse, og snart stod Bakken tom.
+    </p>
+    <p>
+     Men Skolemesteren mærkede snart, det var ikke gamle Øyvind, der læste, fordi det faldt sig saa, og legte, fordi det var nødvendigt. Han talte ofte med ham, lokkede og ledte; men det vilde ikke lykkes ham at finde Guttens Hjerte saa let som i gamle Dage. Han talte ogsaa med Forældrene, og ifølge Samraad kom han ned en Søndagskveld sidst paa Vinteren og sagde, da han havde siddet en Stund: «Kom nu Øyvind, saa skal vi gaa ud, jeg vil gjerne tale med dig.» – Øyvind tog paa sig og fulgte. Det bar opover mod Heidegaardene, Samtalen gik godt, men om intet vigtigt; da de var komne nær Gaardene, bøiede Skolemesteren af mod en, som laa i Midten, og da de kom længere frem, hørte de Raab og Lyslighed derifra. «Hvad er her paafærde?» spurgte Øyvind. – «Her er Dands,» sagde Skolemesteren; «skal vi ikke gaa ind?» – «Nei.» – «Vil du ikke gaa med paa en Dands, Gut?» – «Nei; ikke endnu.» – «Ikke endnu? Naar da?» – Han svarte ikke. – «Hvad mener du med: endnu?» – Da Gutten ikke svarte, sagde Skolemesteren: «Kom nu, ikke sligt Snak.» – «Nei, jeg gaar ikke!» – Han var meget bestemt, og dertil bevæget. «At din egen Skolemester skal staa her og bede dig gaa
+     <pb n="34"/>
+     til Dands!» – Der blev lang Taushed. «Er der nogen derinde, som du er ræd for at se?» – «Jeg kan jo ikke vide, hvem som er der.» – «Men
+     <emph>
+      kunde
+     </emph>
+     der være nogen?» – Øyvind taug. Da gik Skolemesteren lige bort til ham, lagde Haanden paa hans Skulder: «Er du ræd for at se Marit?» Øyvind saae ned, Aandedrættet blev tungt og kort. «Sig det til mig, du Øyvind.» – Øyvind taug. – «Du er kanske skamfuld forat tilstaa det, siden du ikke er konfirmeret; men sig mig det alligevel, du Øyvind, og du skal aldrig angre det.» – Øyvind saae op, men kunde ikke faa Ordet frem og gled tilside med Øiet. – «Du er heller ikke mere glad paa det sidste; holder hun mere af andre end af dig?» Øyvind taug fremdeles, Skolemesteren følte sig lidt krænket og vendte sig fra ham; de gik tilbage.
+    </p>
+    <p>
+     Da de havde gaaet et langt Stykke, standste Skolemesteren saavidt, at Øyvind kom paa Siden af ham. «Du længes vel efter at blive konfirmeret,» sagde han. – «Ja.» – «Hvad tænker du saa at tage dig for?» – «Jeg vilde gjerne ind paa Seminariet.» – «Og faa blive Skolemester?» – «Nei.» – «Du synes ikke, det er stort nok?» – Øyvind taug. De gik atter et langt Stykke. «Naar du har været paa Seminariet, hvad vil du saa?» – «Jeg har ikke rigtig tænkt paa det.» – «Dersom du havde Penge, vilde du nok gjerne kjøbe dig Gaard?» – «Ja, men beholde Kværnene.» – «Da er det bedst, at du tager paa Agronomskolen.» – «Lærer de saameget der som paa Seminariet?» – «Aa nei; men de lærer, hvad de siden skal bruge.» – «Faar de Nummer der ogsaa?» – «Hvorfor spør du saa?» – «Jeg vilde gjerne blive flink.» – «Det kan du vist blive uden Nummer.» – De gik atter tause, til de saae Pladsen; der skar Lys udaf Stuen, Berget hang sort over nu i Vinterkvelden, Vandet laa nedenfor med blinkende Is,
+     <pb n="35"/>
+     Skogen stod omkring den lille Bugt, men uden Sne, Maanen bar udover og speilede Skogen i Isen. «Her er vakkert paa Pladsen,» sagde Skolemesteren. Øyvind kunde sommetider se paa den med de Øine, hvormed han saae, da Moderen fortalte Eventyr, eller med det Syn, han havde, naar han rendte i Bakken; nu gjorde han dette, alt laa løftet og klart. – «Ja, her er vakkert,» sagde han, men sukkede. «Far din har havt nok i den Plads; du kunde ogsaa have nok i den.» – Det glade Syn af Stedet var med engang borte. Skolemesteren stod, som han ventede Svar, fik intet, rystede paa Hovedet og gik med ind. Han sad der en Stund hos dem, men var mere taus end talende, hvorved ogsaa de andre blev tause. Da han sagde Farvel, fulgte baade Manden og Konen ham udenfor Døren; det var, som de begge ventede paa, at han skulde sige noget. De blev imidlertid staaende og se op i Kvelden. «Her er bleven saa uvant stille,» sagde endelig Moderen, siden Børnene er flyttet bort med sin Leg.» – «I har heller ikke længer noget Barn i Huset,» sagde Skolemesteren. Moderen forstod, hvad han mente; «Øyvind er ikke glad paa det sidste,» sagde hun. «Aa, nei; den, som er ærgjerrig, er ikke glad,» han saae med den gamles Ro op i Guds stille Himmel.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     
+      Sjette Kapitel.
+     
+    </head>
+    <p>
+     Et halvt Aar efter, om Høsten nemlig (Konfirmationen var bleven udsat til da) sad Hovedsognets Konfirmanter i Præstens Borgestue forat udtages; iblandt dem Øyvind Pladsen og Marit Heidegaardene. Marit var netop kommen ned fra Præsten, hvor hun havde
+     <pb n="36"/>
+     faaet en vakker Bog og megen Ros; hun lo og snakkede med sine Veninder til alle Sider og saae omkring sig mellem Gutterne. Marit var fuldvoxen Gjente, let og fri i al sin Adfærd, og Gutterne saavelsom Gjenterne vidste, at Bygdens bedste Ungkarl Jon Hatlen gik paa Frieri til hende; hun kunde sagtens være glad, der hun sad. Nede ved Døren stod nogle Gjenter og Gutter, der ikke var slupne frem; de græd, medens Marit og hendes Veninder lo; iblandt dem var en liden Gut i sin Fars Støvler og sin Mors Kirketørklæde. «Gud, o Gud!» hulkede han; «jeg tør ikke gaa hjem igjen.» Og dette greb dem, der endnu ikke havde været oppe, med Samfølelsens Magt; der blev almindelig Taushed. Angsten stod dem i Hals og Øine, de kunde ikke se sikkert og heller ikke svælge, hvortil de følte en bestandig Trang. En sad og regnede over, hvad han kunde, og skjønt han blot nogle Timer iforveien havde fundet ud, at han kunde alt, fandt han nu ligesaa sikkert ud, at han kunde intet, ikke engang læse indenad. En anden lagde sammen sit Synderegister, fra han var saa stor, han kunde huske, til nu han sad der, og han fandt det just ikke underligt af Vorherre, om han lod ham gaa tilbage. En tredie sad og tog Mærke af alle udvortes Ting; dersom Klokken, som netop skulde staa, ikke fik Slaget frem, for han kom til 20, saa slap han; dersom den, som han hørte i Gangen, var Gaardsgutten Lars, saa slap han; dersom den store Regndraaben, som arbeidede nedover Ruden, kom saa langt som til Listen, saa slap han. Den sidste og afgjørende Prøve skulde være, om han fik den høire Foden snoet omkring den venstre, og dette var ham aldeles umuligt. En fjerde vidste med sig selv, at blev han bare hørt om Josef i Bibelhistorien og om Daaben i Forklaringen, eller om Saul, eller i Hustavlen, eller om Jesus, eller i Budene, eller – han sad endnu og prø
+     <pb n="37"/>
+     vede, da han blev raabt. En femte havde lagt en forunderlig Elsk paa Bjergprædikenen; han havde drømt om Bjergprædikenen, han var vis paa at blive hørt i Bjergprædikenen, og han ramsede op Bjergprædikenen for sig selv, han maatte gaa ud ved Husveggen forat læse over Bjergprædikenen, – da blev han kaldt op forat examineres om de store og smaa Profeter. Den sjette tænkte paa Præsten, som var en saa velsignet Mand og kjendte saa godt hans Far, tænkte ogsaa paa Skolemesteren, som havde et saa kjærligt Ansigt, og paa Gud, som var saa inderlig god, og havde hjulpet mange før baade Abraham, Isak, Jakob og Josef, og saa tænkte han paa, at Mor og hans Søskende sad hjemme og bad for ham, saa det vist vilde hjælpe. Den syvende sad og slog af paa alt det, han havde tænkt at ville blive her i Verden. En gang havde han tænkt at ville drive det til Konge, en gang til General eller Præst, nu var den Tid forbi; men lige til han kom hid, havde han dog tænkt at ville gaa tilsøs og blive Kaptein, kanske Sørøver, og handle sig frygtelige Rigdomme til; nu slog han først af Rigdommen, saa Sørøveren, saa Kapteinen, Styrmanden, han standste ved Matrosen, i det høieste Baadsmanden, ja det var muligt, han slet ikke gik tilsøs, men tog Plads under sin Fars Gaard. Den ottende var mere vis i sin Sag, dog ikke sikker; thi selv den flinkeste var ikke sikker. Han tænkte paa de Klæder, han skulde konfirmeres i, hvad de skulde bruges til, hvis han ikke slap. Men slap han, skulde han til Byen og faa Klædesklæder og komme hjem igjen og dandse i Julen til Misundelse for alle Gutter og Forbauselse for alle Gjenter. Den niende regnede anderledes, han oprettede en liden Kontrabog med Vorherre, hvori han paa ene Side satte som «Debet»: han skal lade mig slippe frem, og paa anden Side som «Kredit»: saa skal jeg aldrig mere lyve, aldrig mere
+     <pb n="38"/>
+     sladdre, bestandig gaa i Kirke, lade Gjenterne være og vænne mig af med at bande. Men den tiende tænkte, at havde Ole Hansen sluppet ifjor, var det mere end Uretfærdighed, om ikke han slap iaar, som altid havde været bedre paa Skolen og desuden var af bedre Folk. Ved Siden af ham sad den ellevte, der droges med de rædsomste Hævnplaner, i Tilfælde af at han ikke slap, enten at brænde ned Skolen eller rømme Bygden og komme igjen som Præstens og hele Skolekommissionens tordnende Dommer, men stormodigt lade Naade gaa for Ret. Til en Begyndelse vilde han tage Tjeneste i Nabobygden hos Nabopræsten og der til næste Aar staa Nummer 1 og svare, saa hele Kirken maatte undre sig. Men den tolvte sad for sig selv under Klokken med begge Hænder i Lommen og saae vemodigt udover Forsamlingen. Ingen her vidste, hvad Byrde han bar, hvilket Ansvar han stod i. Hjemme var der en, som vidste det; thi han var forlovet. En stor, langbenet Kongle gik henad Gulvet og nærmede sig hans Fod; han pleiede at træde paa det ækle Insekt, men idag løftede han kjærligt Foden, forat den i Fred kunde gaa did, den vilde. Hans Stemme var blid som en Kollekt, hans Øine sagde vedholdent, at alle Mennesker var gode; hans Hænder gjorde en ydmyg Bevægelse udaf Lommen og op i Haaret forat lægge det mere glat. Blot han kunde smyge lempeligt igjennem dette farlige Naaleøie, vilde han nok voxe ud igjen paa den anden Side, tygge Tobak og gjøre Forlovelsen offentlig. Men nede paa en lav Skammel og med Benene i Krog opunder sig sad den urolige trettende; hans smaa, gnistrende Øine løb hele Stuen rundt tre Gange i Sekundet, og under det stærke, stride Hoved væltede alle de tolvs Tanker i en broget Uorden, fra det mægtigste Haab til den mest sønderknusende Tvivl, fra de ydmygste Forsætter til de mest bygdeødelæggende Hævnplaner, og imid
+     <pb n="39"/>
+     lertid havde han spist op alt det ledige Kjød paa sin høire Tommelfinger, holdt nu paa med Neglene og sendte store Stykker bortover Gulvet.
+    </p>
+    <p>
+     Øyvind sad borte ved Vinduet, havde været oppe og havde svaret paa alt, hvorom han blev spurgt; men ikke havde Præsten sagt noget, ei heller Skolemesteren; han havde i over et halvt Aar tænkt paa, hvad de begge vilde sige, naar de fik vide, hvad han havde arbeidet, og han følte sig nu meget stusset, tillige krænket. Der sad Marit, som for ulige mindre Anstrengelse og Kundskab havde faaet baade Opmuntring og Løn; det var netop forat staa stor i hendes Øine, han havde arbeidet, og nu naaede hun leende, hvad han havde arbeidet til med saa megen Forsagelse. Hendes Latter og Spas brændte ham paa Sjælen, den Frihed, hvormed hun bevægede sig, gjorde ham ondt. Han havde undgaaet omhyggeligt at tale med hende siden hin Kveld; der skulde gaa Aar hen, tænkte han; men Synet af hende, saa glad og overlegen, hun der sad, det trykte ham til Jorden, og alle hans stolte Forsætter hang som vaadt Lov.
+    </p>
+    <p>
+     Han forsøgte dog lidt efter lidt at ryste af. Det kom an paa, om han idag blev Nummer 1, og herpaa ventede han. Skolemesteren pleiede at blive lidt efter hos Præsten for at ordne Ungdommen og siden at gaa ned og fortælle dem Udfaldet; det var jo ikke den endelige Afgjørelse, men det var, hvad Præsten og han foreløbig var kommen overens om. Samtalen i Stuen blev livligere, efterhvert som flere blev prøvede og slap; men nu begyndte de ærgjerrige at sondre sig stærkt ud fra de glade; de sidste gik, saasnart de havde faaet Følge, forat meddele Forældrene sin Lykke, eller de ventede for andres Skyld, som ikke var færdige; de første derimod blev mere og mere stille, Øinene saae spændte mod Døren.
+    </p>
+    <p>
+     Endelig var Ungdommen færdig, de sidste var komne
+     <pb n="40"/>
+     ned, og Skolemesteren talte altsaa nu med Præsten. Øyvind saae til Marit; hun var lige glad, men blev dog siddende, om for sin egen Skyld eller andres, vidste han ikke. Hvor vakker Marit var bleven; blændende fin i Huden var hun, som ingen han før havde seet; Næsen var lidt opkastet, Munden smaaleende. Øinene var halvlukkede, naar hun ikke netop saae paa en, men derfor kom Blikket altid uventet kjælent, naar det kom, – og som hun selv vilde lægge til, at hun ikke mente noget med det, smilte hun halvt i det samme. Haaret var hellere mørkt end lyst, men det var smaakruset og laa langt frem paa begge Sider, saa det sammen med de halvlukkede Øine gav noget dulgt, som man aldrig kunde blive færdig med. Man var ikke ganske sikker paa, hvem det var, hun saae efter, naar hun sad for sig selv og imellem flere; heller ikke hvad hun egentlig tænkte, naar hun saa vendte sig til en og talte; thi hun tog ligefom strax tilbage, hvad hun gav. Indunder alt dette er vel egentlig Jon Hatlen gjemt, tænkte Øyvind, men saae dog bestandig paa hende.
+    </p>
+    <p>
+     Da kom Skolemesteren. Enhver forlod sin Plads og stormede omkring ham. «Hvad Nummer har jeg?» – «End jeg?» – «End jeg, jeg?» – «Hys, opløbne Unger, ingen Spektakel her; – rolige, saa skal I faa høre det, Børn.» Han saae sig langsomt om. «Du er Nummer 2,» sagde han til en Gut med blaa Øine, der saae bønligt paa ham, og Gutten dandsede ud af Kredsen. «Du er Nummer 3» – han slog paa en rødhaaret rask, liden en, som stod og sled ham i Trøien; «du er Nummer 5, du Nummer 8» osv. Han fik se Marit: «Du er Nummer 1 af Gjenterne;» hun blev blussende rød over Ansigt og Hals, men forsøgte at smile. «Du Nummer 12, har været doven, din Knægt, og en stor Skøierfant; du Nummer 11, ikke bedre at vente, Gutten min; du
+     <pb n="41"/>
+     Nummer 13, maa læse dygtig, møde frem til Overhøring, ellers gaar det dig galt! –» – Øyvind kunde ikke holde det ud længer; Nummer l var vistnok ikke nævnt; men han stod den hele Tid saaledes, at Skolemesteren kunde se ham. «Skolemester!» – han hørte ikke; «Skolemester!» – tre Gange maatte han gjentage det, før det blev hørt. Endelig saae Skolemesteren paa ham; «Nummer 9 eller 10, husker ikke sikkert hvilket,» sagde han og vendte sig til en anden. – «Hvem er Nummer 1 da?» spurgte Hans, som var Øyvinds bedste Ven. – «Det er ikke dig, du Krushoved!» sagde Skolemesteren og slog ham over Haanden med en Papirrulle. – «Hvem er det da?» spurgte flere, «hvem er det, ja hvem er det?» – «Det faar den vide, som har Nummeret!» svarte Skolemesteren strengt; han vilde ikke have flere Spørgsmaal. – «Gaa nu vakkert hjem Børn, tak Eders Gud og glæd Eders Forældre! Tak ogsaa Eders gamle Skolemester; I havde siddet der net og gnaget Ben, havde ikke han været!» – De takkede ham og lo, de drog jublende afsted; thi i dette Øieblik, da de skulde hjem til Forældrene, var de alle glade. Blot en var igjen, som ikke strax kunde finde sine Bøger, og som, da han fandt dem, satte sig ned, som skulde han paany til at læse dem over.
+    </p>
+    <p>
+     Skolemesteren gik bort til ham: «Nu Øyvind; skal du ikke gaa med de andre?» – Han svarte ikke. – «Hvorfor slaar du op dine Bøger?» – «Jeg vilde se, hvad jeg har svaret galt idag.» – «Du har vistnok ikke svaret noget galt.» – Øyvind saae da paa ham, Taarerne stod ham i Øinene, han saae uafvendt paa ham, medens en efter en randt nedover, men han sagde ikke et Ord. Skolemesteren satte sig foran ham: «Er du ikke glad nu, at du er sluppen frem?» – Det bævrede om Munden, men han svarte ikke. – «Din Mor og Far vil
+     <pb n="42"/>
+     være meget glad,» sagde Skolemesteren og saae paa ham. – Øyvind kjæmpede længe for at faa et Ord frem, endelig spurgte han sagte og afbrudt: «Er det – fordi jeg – er Husmandsgut – at jeg staar Nummer 9 eller 10?» – «Vistnok er det derfor,» svarte Skolemesteren. – «Saa nytter det jo ikke mig at arbeide,» sagde han klangløst og sank sammen over alle sine Drømme. Pludselig løftede han Hovedet, hævede den høire Haand, slog den i Bordet med al sin Magt, kastede sig ned paa sit Ansigt og brød ud i den heftigste Graad.
+    </p>
+    <p>
+     Skolemesteren lod ham ligge og græde, rigtig græde ud. Det varede længe, men Skolemesteren ventede, til Graaden blev barnligere. Da tog han om hans Hoved med begge Hænder, lettede det op og saae ind i det forgrædte Ansigt. «Tror du, det er Gud, som nu har været hos dig?» sagde han og holdt ham venligt imod sig. Øyvind hulkede endnu, men kortere, Taarerne randt mere stille, men han turde ikke se paa ham, som spurgte, ei heller svare. – «Dette, Øyvind, har været Løn som forskyldt. Du har ikke læst af Kjærlighed til din Kristendom og dine Forældre; du har læst af Forfængelighed.» – Der blev stille i Stuen mellem hver Gang, Skolemesteren talte, Øyvind kjendte hans Blik hvile over sig, og han blev optøet og ydmyg opunder det. – «Med saadan Vrede i dit Hjerte kunde du ikke have mødt frem forat tage Pagten af din Gud; kunde du vel, Øyvind?» – «Nei,» stammede han, saa godt som han formaaede. – «Og stod du der med forfængelig Glæde over, at du var Nummer 1, stod du da ikke frem med en Synd?» – «Jo,» hviskede han og skalv om Munden. – «Du holder endnu af mig, Øyvind?» – «Ja,» han saae op for første Gang. – «Saa skal jeg sige dig, at det var mig, som fik dig flyttet ned; thi jeg holder saa af dig, Øyvind.» – Den anden saae paa ham, blinkede nogle Gange,
+     <pb n="43"/>
+     og Taarerne randt tæt ned. – «Du har ikke noget imod mig derfor?» – Nei;» han saae fuldt og klart op, men sank derpaa sammen i stærk Graad. – «Mit kjære Barn; jeg vil være om dig saalænge jeg lever.»
+    </p>
+    <p>
+     Han ventede paa ham, til han fik ordne sig og samle sine Bøger, sagde saa, at han vilde følge ham hjem. De gik langsomt hjemover, i Begyndelsen var Øyvind endnu stille og kjæmpende. «Ja, nu skal vi tænke paa at naa noget i Livet,» sagde Skolemesteren, «og ikke løbe efter Blindmænd og Numre. Hvad siger du om Seminariet?» – «Jo, jeg vilde nok gjerne did.» – «Du mener Agronomskolen?» – «Ja.» – «Den er vistnok ogsaa den bedste; den giver andre Udsigter end en Skolemesterstilling.» – «Men hvorledes skal jeg komme did? Jeg har inderlig Lyst, men jeg har jo ikke Raad.» – «Vær flittig og brav, saa skal der nok blive Raad.»
+    </p>
+    <p>
+     Øyvind fik den Tindren for Øie, det lette Aandedrag, den uendelige Kjærlighedens Ild, som bærer frem, naar man føler Medmenneskers uventede Godhed. Hele Fremtiden forestiller man sig et Øieblik som at vandre i frisk Fjeldluft; man bæres mere, end man gaar. Og dog faldt Tyngsel paa ham igjen, da de fik se Huset hjemme paa Pladsen.
+    </p>
+    <p>
+     Begge Forældre var i Stuen og havde siddet der i stille Venten, skjønt det var Arbeidstid og travelt. Skolemesteren kom først ind, Øyvind efter. «Nu?» sagde Faderen, han lagde en Salmebog bort, hvori han netop havde læst «en Konfirmants Bøn». Moderen stod ved Gruen, turde ingenting sige; hun lo, men hun var usikker paa Haanden, hun ventede øiensynlig noget godt, men vilde ikke røbe sig. «Jeg maatte bare følge forat glæde Eder med, at han svarte paa alt, han blev spurgt om, og at Præsten sagde, da Øyvind var gaaet, at han ikke
+     <pb n="44"/>
+     har havt flinkere Konfirmant.» – «Aa, nei!» sagde Moderen og blev meget bevæget. – «Det var jo brav,» sagde Faderen og rømmede sig usikkert.
+    </p>
+    <p>
+     Efterat der havde været længe stilt, spurgte Moderen sagte: «Hvad Nummer faar han?» – – «Nummer 9 eller 10,» sagde Skolemesteren roligt. – Moderen saae paa Faderen, denne først paa hende, saa paa Øyvind; «en Husmandsgut kan ikke vente mere,» sagde han stille. Øyvind saae paa ham igjen, det var, som atter noget vilde op i Halsen, men han betvang sig ved i en Hast at huske paa kjærlige Ting, den ene efter den anden, saa længe til det gik ned igjen.
+    </p>
+    <p>
+     «Nu er det bedst, jeg gaar,» sagde Skolemesteren, nikkede og vendte sig. Begge Forældrene fulgte efter Sædvane ud paa Stenhellen; her tog Skolemesteren sig en Skraa og sagde smilende: «Han bliver Nummer 1 alligevel; men det er ikke værdt, han faar vide noget om det, før Dagen kommer.» – «Nei, nei,» sagde Faderen og nikkede. «Nei, nei,» sagde Moderen, hun nikkede ogsaa; derpaa tog hun Skolemesteren i Haanden; «du faar have Tak for alt, du gjør imod ham,» sagde hun. «Ja, du faar rigtig have Tak,» sagde Faderen. «Aa, jeg har Tak nok i mig selv,» svarte Skolemesteren; «for Sagen er, jeg holder af ham!» han nikkede og gik, men de stod endnu længe og saae efter ham.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     
+      Syvende Kapitel.
+     
+    </head>
+    <p>
+     I de Dage, man paa Pladsen forberedte sig til Konfirmationen, forberedte man sig ogsaa paa hans Reise til Landbrugsskolen; thi Dagen efter skulde den foregaa.
+     <pb n="45"/>
+     Skrædder og Skomager sad i Stuen, Moderen bagte i Kjøkkenet, Faderen arbeidede paa en Kiste. Der taltes meget om, hvad han vilde koste dem i to Aar, om at han ikke kunde komme hjem den første Julen, kanske heller ikke den anden, og hvor tungt det vilde være at findes stilt saalænge. Der taltes ogsaa om den Kjærlighed, han maatte have til sine Forældre, der vilde strække sig saalangt for sit Barns Skyld. Øyvind sad som den, der havde været ude og forsøgt paa egen Haand, men havde kuldseilet og nu var tagen op af kjærlige Mennesker.
+    </p>
+    <p>
+     En saadan Følelse giver Ydmyghed, og med den kommer meget andet. Da den store Dag nærmede sig, turde han kalde sig forberedt og turde se fremover med tillidsfuld Hengivenhed. Hvergang Marits Billede vilde være med, skjød han det forsigtigt tilside, men kjendte Smerten ved at gjøre det. Dette forsøgte han at øve sig i, men blev dog aldrig stærkere derved, tvertimod, det var Smerten, som voxte. Derfor var han træt den sidste Kveld, da han efter en lang Selvprøvelse bad, at i dette Stykke maatte Vorherre ikke prøve ham.
+    </p>
+    <p>
+     Skolemesteren kom, da det led paa. De satte sig ind i Stuen, efterat alle havde vasket og redt sig, som sædvanligt Aftenen før man skal gaa til Alters eller Høimesse. Moderen var bevæget og Faderen taus; Afskeden laa bag Morgendagens Høitid, og det var uvist, naar de atter kunde sidde sammen. Skolemesteren tog Salmebøgerne frem, de holdt Andagt og sang, og bagefter sagde han en liden Bøn, saadan som Ordene vilde falde.
+    </p>
+    <p>
+     Disse fire Mennesker sad nu sammen, til det led langt paa Kvelden, og Tanken drog sig ind til sig selv; de skiltes da med de bedste Ønsker for den kommende Dag, og hvad den vilde binde. Øyvind maatte indrømme, da han lagde sig, at aldrig havde han lagt sig saa lykkelig, ikveld gav han nemlig dette en egen For
+     <pb n="46"/>
+     tolkning; han forstod dermed: aldrig har jeg lagt mig saa hengiven i Guds Villie og saa glad i den. – Marits Ansigt vilde strax frem igjen, og det sidste, han endnu sandsede, var, at han laa og fristede sig selv: ikke ganske lykkelig, ikke ganske, – og at han svarte: jo, ganske –; men atter igjen: ikke ganske; – jo, ganske; – nei; ikke ganske –.
+    </p>
+    <p>
+     Da han vaagnede, huskede han Dagen strax, bad og følte sig stærk, som man gjør om Morgenen. Han havde siden i Sommer lagt paa Lemmen for sig selv, han stod nu op, iførte sig sine nye, smukke Klæder varsomt; thi han havde aldrig havt saadanne paa før. Især var der en rund Klædestrøie, som han mange Gange maatte føle paa, for han blev vant til den. Han fik op et lidet Speil, da han havde faaet Kraven paa og for fjerde Gang ogsaa trak Trøien paa. Da han nu saae sit eget fornøiede Ansigt med det ualmindelig lyse Haar omkring ligge og le i Speilet, faldt det ham ind, at dette atter bestemt var Forfængelighed. Ja, men velklædt og ren maa da Folk saa være, svarte han, idet han trak Ansigtet fra Speilet, som var det Synd at se deri. – Vistnok, men ikke fuldt saa glad i sig selv for den Sags Skyld. – Nei vist, men Vorherre maa da ogsaa like, at en synes om at se godt ud. – Kan vel være, men han likte vel bedre, du var det uden selv at lægge saa meget Mærke dertil. – Det er sandt, men se, det kommer nu af, at alting er saa nyt. – Ja, men saa maa du heller ikke selv blive gammel i den Vane. – Han greb sig i, at han snart over dette Emne, snart over hint gik og førte saadan selvprøvende Samtale, at ikke en Synd skulde falde nedpaa Dagen og plette den.
+    </p>
+    <p>
+     Da han kom ned, sad Forældrene fuldt paaklædte og ventede ham med Maden. Han gik bort og tog dem i Haanden med Tak for Klæderne, og et «slid dem
+     <pb n="47"/>
+     med Hilsen,» fik han igjen. De satte sig tilbords, bad stille og spiste. Moderen tog af Bordet og bar ind Nisteløben til Kirkefærden. Faderen drog paa sig Trøien, Moderen hæftede sine Tørklæder, de tog sine Salmebøger, laasede Huset og gik opover. Saasnart de vare komne op paa den øvre Vei, mødte de kirkefarende Folk, kjørende og gaaende, Konfirmanter indimellem, og i et og andet Følge hvidhaarede Bedsteforældre, som endnu denne ene Gang maatte afsted.
+    </p>
+    <p>
+     Det var en Høstdag uden Solskin, som naar Veiret er ved at slaa over. Der gik Skyer sammen og skiltes igjen, sommetider blev der af en stor Samling tyve mindre, som jagede bortover med Ordre til Uveir; men nede paa Jorden var der endnu stille, Løvet hang afsjælet og dirrede ikke engang, Luften var lidt lummer; Folket bar med sig Reiseplag, men brugte dem ikke. En ualmindelig stor Skare havde samlet sig omkring den fritliggende Kirke; men Konfirmationsungdommen gik strax ind i Kirken for at blive stillet op, før Gudstjenesten begyndte. Da var det, at Skolemesteren i blaa Klæder, Frakke og Knæbuxer, høie Støvler, stivt Halsbind og Piben stikkende frem af Baglommen kom nedover, nikkede og lo, slog en paa Skulderen, talte et Par Ord til en anden om at svare høit og tydeligt, og kom under alt dette nedover til Fattigblokken, hvor Øyvind stod og svarte paa alle sin Ven Hans's Spørgsmaal i Anledning af Reisen. «God Dag, Øyvind, – vakker idag,» – han tog ham ved Trøiekraven, som vilde han tale med ham; «hør du; tror alt godt om dig. Nu har jeg talt med Præsten; du faar beholde Pladsen din; gaa op, – du er Nummer 1, – svar tydeligt.»
+    </p>
+    <p>
+     Øyvind blev blodrød og saae forbauset op paa ham, Skolemesteren nikkede, Gutten gik nogle Skridt, stod, atter nogle Skridt, stod, jovist er det saa, han har talt
+     <pb n="48"/>
+     til Præsten for mig, han blev saa varm og ydmyg, og saae Alt foran sig i en forunderlig Glands, og Gutten gik fort opover. «Du skal jo være Nummer 1 alligevel,» hvisker en til ham. «Ja,» svarte Øyvind sagte, men vidste endnu ikke rigtig, om han turde.
+    </p>
+    <p>
+     Opstillingen var færdig, Præsten kommen, de ringte sammen, og Folk holdt paa at strømme ind. Da saae Øyvind Marit Heidegaardene staa lige foran sig, hun saae ogsaa paa ham, men begge var saa bundne af Stedets Hellighed, at de turde ikke hilse. Han saae blot, hun var skinnende vakker og havde bart Haar, mere saae han ikke. Øyvind, som i over et halvt Aar havde bygget saa store Planer paa at staa ligeoverfor hende, glemte, da det kom til Stykket, baade Pladsen og hende, og at han nogensinde havde tænkt paa dem.
+    </p>
+    <p>
+     Efterat alt var endt, kom Slægtninge og Kjendinger for at aflægge sine Lykønskninger, dernæst kom hans Kammerater for at tage Farvel med ham, da de havde hørt, at han skulde reise den næste Dag; saa kom mange smaa, som han havde aget med i Bakkerne, og som han havde hjulpet paa Skolen, og det var ikke frit, at de puttrede lidt ved Afskeden. Sidst kom Skolemesteren, tog ham og Forældrene taust i Haanden og gjorde Tegn til at gaa; han vilde følge. De fire var atter sammen, og det skulde nu være sidste Kveld. Paa Veien var der endnu mange, som tog Farvel og ønskede ham tillykke, men ellers taltes de ikke ved indbyrdes, før de sad hjemme i Stuen.
+    </p>
+    <p>
+     Skolemesteren prøvede paa at holde dem ved godt Mod; det var ikke mere end saa, at de alle tre gruede nu, naar det kom til Stykket, for hele to Aars Fravær, da de hidtil ikke havde været skilt en Dag; men ingen vilde være ved det. Jo længer det led, jo mere beklemt blev Øyvind, han vilde gaa ud for at komme lidt til Ro.
+    </p>
+    <p>
+     <pb n="49"/>
+     Det var halvmørkt nu og en forunderlig Susning i Luften, han blev staaende paa Stenhellen og se op. Da hørte han fra Bergkanten sit eget Navn nævne, ganske sagte, det var intet Bedrag; thi det gjentoges to Gange. Han saae op og skimtede, at et Kvindfolk sad paa Hug mellem Træerne og saae ned. – «Hvem er det?» spurgte han. – «Jeg hører, du skal reise,» sagde hun sagte, «saa maatte jeg gaa til dig og sige Farvel, siden du ikke vilde komme til mig.» – «Kjære, er det dig, Marit! Jeg skal komme op til dig.» – «Nei, gjør ikke det; jeg har ventet saa længe, og da maatte jeg vente endnu længere; ingen veed, hvor jeg er, og jeg maa skynde mig hjem.» – «Det var snildt af dig, at du vilde komme,» sagde han. – «Jeg kunde ikke holde ud, at du skulde reise slig, Øyvind; vi har kjendt hinanden, fra vi var smaa.» – «Vi har saa.» – «Og nu har vi ikke talt med hinanden paa et halvt Aar.» – «Nei, vi har ikke det.» – «Vi skiltes ogsaa saa rart dengang.» – «Ja; – jeg tror, jeg maa komme op til dig.» – «Aa, nei; gjør ikke det. Men sig mig: du er vel ikke sint paa mig?» – «Kjære, hvor kan du tro det?» – «Farvel da, Øyvind, og Tak for det, vi har havt sammen!» – «Nei, Marit?» – «Jo, nu maa jeg gaa; de savner mig.» – «Marit, Marit!» – «Nei, jeg tør ikke være længer borte, Øyvind; Farvel!» – «Farvel!»
+    </p>
+    <p>
+     Siden gik han som i en Drøm og svarte langt borte fra, naar de talte til ham; de tilskrev det Afreisen, som venteligt kunde være, og denne havde ogsaa hans hele Opmærksomhed i det Øieblik, Skolemesteren om Kvelden tog Afsted og gav ham noget i Haanden, som han siden saae, var en Femdalerseddel. Men siden da han lagde sig, tænkte han ikke paa Afreisen, men paa de Ord, der var komne ned fra Bergkanten og gaaet op igjen. Som Barn
+     <pb n="50"/>
+     fik  hun ikke Lov at komme paa Bergkanten, fordi Bedstefaderen var ræd, hun skulde falde nedfor. Kanske kommer hun nedfor alligevel.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     
+      Ottende Kapitel.
+     
+    </head>
+    <p>
+     Kjære Forældre!
+    </p>
+    <p>
+     Nu have vi faaet meget mere at læse, men nu er jeg ogsaa kommen de andre mere paa Siden, saa det er ikke saa tungt. Og nu skal jeg forandre meget paa Faders Plads, naar jeg kommer hjem; thi der er det meget galt, og det er forunderligt, at det er hængt fammen. Men jeg skal faa Skik derpaa igjen, for jeg har nu lært meget. Jeg har Lyst til at komme et Sted, hvor jeg kan gjøre alt det, jeg nu veed; derfor maa jeg søge en stor Post, naar jeg er færdig. Her siger alle, at Jon Hatlen er ikke saa flink, som der er sagt hjemme hos os, men han haver egen Gaard, saa det er nu det samme for andre end ham selv. Mange, som kommer herifra, faar meget stor Løn; men de bliver saa godt betalt, fordi vi er den bedste Landbrugsskole i Landet. Somme siger, at en i næste Amt er bedre, men det er slet ikke sandt. Her er to Ord, det ene hedder Theori og det andet Praxis, og det er godt at have dem begge to, og det ene er ikke noget uden det andet, men det sidste er dog det bedste. Og det første Ord betyder at vide Aarsagen og Grunden i et Arbeide, men det andet betyder at kunne gjøre Arbeidet, ligesom nu med en Myr. For der er mange, som veed, hvorledes de skal gjøre med en Myr, men gjør det galt alligevel, for de kan det ikke. Men mange kan det og veed det ikke, og saaledes kan det ogsaa blive galt, for der er mange
+     <pb n="51"/>
+     Slags Myr. Men vi paa Landbrugsskolen, vi lærer begge Ord. Bestyreren er saa flink, at slet ingen kan maale sig med ham. Paa sidste Landbrugsmøde for hele Landet styrede han to Spørgsmaal, men de andre Landbrugsbestyrere havde blot et hver, og det blev altid, som han sagde, naar de fik tænkt sig om. Men paa forrige Møde, hvor han ikke var, der sluddrede de bare. Løitnanten, som lærer Landmaaling, haver Bestyreren faaet bare for hans Flinkheds Skyld; thi de andre Skoler haver ingen Løitnant. Men han er saa flink, at paa Løitnantsskolen skal han have været den allerbedste.
+    </p>
+    <p>
+     Skolemesteren spørger, om jeg gaar i Kirken. Ja vist gaar jeg i Kirken, for nu haver Præsten faaet en Kapellan, og han præker, saa alle i Kirken er meget ræd, og det er en Fornøielse at høre. Han er af den nye Religion, som de haver i Kristiania, og Folk synes, han er for streng, men det have de godt af.
+    </p>
+    <p>
+     Nu fortiden lærer vi megen Historie, som vi ikke have læst før, og det er besynderligt at se alt, som er foregaaet i Verden, men især hos os. For vi haver bestandig vundet, undtagen naar vi har tabt, og da haver vi været meget mindre. Nu har vi Frihed, og det har ingen andre Folkeslag saameget af som vi, undtagen Amerika; men der er de ikke lykkelige. Og vor Frihed skal vi elske høiest over alle Ting.
+    </p>
+    <p>
+     Nu vil jeg slutte for denne Gang; thi jeg haver skrevet meget langt. Skolemesteren læser nok Brevet, og naar han svarer for Eder, saa skal han sige mig noget nyt om en og anden; thi det gjør han ikke. Men værer nu flittig hilset fra Eders hengivne Søn,
+    </p>
+    <p>
+     Ø. Thoresen.
+    </p>
+    <p>
+     <pb n="52"/>
+     Kjære Forældre!
+    </p>
+    <p>
+     Nu maa jeg sige Eder, at her har været Examen, og jeg har staaet mig udmærket godt i mange Ting og meget godt i Skrivning og Landmaaling, men temmelig godt i Udarbeidelse i Modersmaalet. Det kommer deraf, siger Bestyreren, at jeg har ikke læst nok, og han har foræret mig nogle Bøger af Ole Vig, som er mageløse, for der forstaar jeg altsammen. Bestyreren er meget god med mig, han fortæller os saa mange Ting. Alt sammen her er saa ganske smaat, imod hvad det er i Udlandet; vi forstaar næsten ingenting, men lærer alt af Skotlænderne og Schweitzerne, men af Hollænderne lærer vi Havedyrkning. Mange reiser over til disse Lande, i Sverige er de ogsaa meget flinkere end vi, og der har Bestyreren selv været. Nu har jeg været her snart et Aar, og jeg syntes, at jeg havde lært meget, men da jeg hørte, hvad de kunde, som gik ud ved Examen, og tænker paa, at heller ikke de kan noget, naar de kommer sammen med Udlændingen, saa bliver jeg ganske bedrøvet. Og saa er Jorden saa daarlig her i Norge, mod hvad den er i Udlandet; det lønner sig slet ikke alt det, vi gjør med den. Folket vil desuden ikke tage efter. Om de ogsaa vilde, og om Jorden var meget bedre, saa har de jo ikke Penge til at dyrke med. Det er mærkværdig, at det er gaaet, som det er gaaet.
+    </p>
+    <p>
+     Nu er jeg i øverste Klasse og skal være der et Aar, før jeg er færdig. Men mine fleste Kammerater er reist, og jeg længes hjem. Det er, ligesom jeg synes, at jeg staar alene, endskjøndt jeg slet ikke gjør det; men det er saa underligt, naar en har været længe borte. Jeg troede engang, jeg skulde blive saa flink her, men det ser daarligt ud dermed.
+    </p>
+    <p>
+     Hvad skal jeg nu tage mig for, naar jeg kommer
+     <pb n="53"/>
+     herifra? Først vil jeg naturligvis hjem, siden maa jeg vel søge mig noget, men det maa ikke være langt borte.
+    </p>
+    <p>
+     Lev nu vel, kjære Forældre! hils dem, som spørger efter mig, og sig dem, at jeg har det godt, men at jeg nu længes hjem igjen.
+    </p>
+    <p>
+     Eders hengivne Søn,
+     Øyvind Thoresen Pladsen.
+    </p>
+    <p>
+     Kjære Skolemester!
+    </p>
+    <p>
+     Herved tilspørger jeg dig, om du vil oversende indlagte Brev og slet ikke sige det til nogen. Og vil du ikke, saa faar du brænde det.
+    </p>
+    <p>
+     Øyvind Thoresen Pladsen.
+    </p>
+    <p>
+     Til velagtede Pige Marit Knudsdatter Nordistuen paa Øvre–Heidegaardene.
+    </p>
+    <p>
+     Du vil nok blive meget forundret ved at modtage Brev fra mig, men det skal du ikke, for jeg vil bare spørge, hvorledes du har det. Derom maa du underrette mig snarest mulig og i alle Maader. Om mig selv er at sige, at jeg bliver færdig her om et Aar.
+    </p>
+    <p>
+     Ærbødigst
+     Øyvind Pladsen.
+    </p>
+    <p>
+     Til Ungkarl Øyvind Pladsen paa Landbrugsskolen!
+    </p>
+    <p>
+     Dit Brev har jeg rigtig faaet af Skolemesteren, og jeg vil svare, siden at du beder mig. Men jeg er ræd for det, da du nu er saa lærd, og jeg haver en Brevbog, men den vil ikke passe. Saa maa jeg prøve, og du faar tage Villien for Gjerningen; men du maa ikke vise det frem, for da er du ikke den, jeg tænker. Du
+     <pb n="54"/>
+     skal heller ikke gjemme det, da kan nogen let faa se det, men du skal brænde det, og det skal du love mig. Det var saa mange Ting, jeg vilde skrive om, men som jeg ikke rigtig tør. Vi haver faaet en god Høst, Poteten staar i høi Pris, og her paa Heidegaardene har vi nok af den. Men Bjørnen har været slem med Buskapen i Sommer; for Ole Nedregaardene slog han ned to Naut, og for vor Husmand skamferte han et, saa hun maatte slagtes. Jeg væver paa en meget stor Væv, den er lige som det skotske Tøi, og det er vanskeligt. Og nu vil jeg fortælle dig, at jeg endnu er hjemme, og at andre gjerne vilde have det anderledes. Nu haver jeg ikke mere at skrive om for denne Gang, og derfor maa du leve vel.
+    </p>
+    <p>
+     Marit Knudsdatter.
+    </p>
+    <p>
+     D. u. s. Du maa endelig brænde dette Brev.
+    </p>
+    <p>
+     Til Agronom Øyvind Thoresen Pladsen!
+    </p>
+    <p>
+     Det haver jeg sagt dig, Øyvind, at den, som vandrer med Gud, han er i den gode Arvedel. Men nu skal du høre mit Raad, og det er ikke at tage dig Verden med Længsel og Gjenvordighed, men stole paa Gud og ei lade dit Hjerte fortære dig; thi da haver du en Gud foruden ham. Det maa jeg dernæst sige dig, at din Fader og din Moder befinder sig vel, men jeg haver ondt i en Hofte; thi nu slaar Krigen op igjen og alt det, man der haver lidt. Hvad Ungdommen saar, det Alderdommen høster, og det er baade i Aanden og i Legemet, som nu svider og verker og frister til idel Klage. Men klage skal Alderdommen ikke; thi Lærdom rinder af Snarene, og Taalmod prædiker Verken, at Mennesket kan blive stærk til den sidste Reise. Idag haver jeg
+     <pb n="55"/>
+     grebet Pennen for mange Aarsagers Skyld, og først og fremst for Marits Skyld, som er en gudsfrygtig Pige bleven, men er let paa Foden som en Ren og af mange Forsæt. Thi hun vil gjerne holde sig til et, men kan det ikke for sin Natur, men det haver jeg ofte seet, at med sligt svagt Hjertetøi er Vorherre lemfældig og langmodig og lader ei friste over Formue, saa hun brækkes istykker; thi hun er meget skjør. Brevet gav jeg hende rigtigen, og hun skjulte det for alle undtagen sit eget Hjerte. Og vil Gud give den Sak sin Fremme, saa haver jeg intet derimod; thi hun er en Velbehagelighed for unge Mandfolk, som tydelig kan ses, og hun haver fuldt op af jordiske Goder, og de himmelske har hun ogsaa i sin Ustadighed. Thi Gudsfrygtigheden i hendes Sind er som Vandet i en grund Dam, det er der, naar det regner, men det er borte, naar det skinner Sol.
+    </p>
+    <p>
+     Nu taaler mine Øine ikke mere; thi de ser godt paa Vidderne, men faar ondt og rinder fulde i det smaa. Tilsidst vil jeg sige dig, Øyvind, at i hvad du attraar og arbeider, da tag din Gud med; thi som skrevet staar: en Haandfuld med Rolighed er bedre end begge Næver fulde med Møie og Aandsfortærelse (Salomos Præd. 4, 6).
+    </p>
+    <p>
+     Din gamle Skolemester,
+     Baard Andersen Opdal.
+    </p>
+    <p>
+     Til velagtede Pige Marit Knudsdatter Heidegaardene!
+    </p>
+    <p>
+     Du skal have Tak for dit Brev, som jeg haver læst og brændt, saaledes som du siger. Du skriver om meget, men slet ikke om det, som jeg vilde, du skulde skrive om. Heller ikke jeg tør skrive om noget vist, før jeg faar vide noget mere, om hvordan du har det i
+     <emph>
+      alle
+     </emph>
+     Maader. Skolemesterens Brev siger intet, som en kan holde sig
+     <pb n="56"/>
+     til, men han roser dig, og saa siger han, du er ustadig. Det var du ogsaa før. Nu veed jeg ikke, hvad jeg skal tro, og derfor maa du skrive; thi jeg har det ikke godt, før du har skrevet. I denne Tid husker jeg mest, at du kom paa Berget den sidste Kveld, og hvad du da sagde. Mere vil jeg ikke sige denne Gang, og derfor maa du leve vel.
+    </p>
+    <p>
+     Ærbødigst
+     Øyvind Pladsen.
+    </p>
+    <p>
+     Til Ungkarl Øyvind Thoresen Pladsen!
+    </p>
+    <p>
+     Skolemesteren haver givet mig et nyt Brev fra dig, og det haver jeg nu læst. Men jeg forstaar det slet ikke, og det kommer vel deraf, at jeg ikke er lærd. Du vil vide, hvor jeg har det i alle Maader, og jeg er sund og frisk og feiler slet ingen Ting. Jeg spiser meget godt, helst naar jeg faar Melkemad, om Natten sover jeg og sommetider om Dagen ogsaa. Jeg har dandset meget nu i Vinter; thi her har været mange Lag, og der har været meget gildt. Jeg gaar i Kirken, naar der ikke er formeget Sne, men den har været tyk i Vinter. Nu har du vel faaet vide altsammen, og har du det ikke, saa veed jeg ikke rettere, end at du faar skrive mig til en Gang til.
+    </p>
+    <p>
+     Marit Knudsdatter.
+    </p>
+    <p>
+     Til velagtede Pige Marit Knudsdatter Heidegaardene!
+    </p>
+    <p>
+     Dit Brev har jeg modtaget, men du synes at ville lade mig være lige klog. Kanske dette ogsaa er et Svar, jeg veed det ikke. Jeg tør ingenting skrive af det, jeg
+     <pb n="57"/>
+     vilde skrive, thi jeg kjender dig ikke. Men kanske heller ikke du kjender mig. Du maa ikke tro, jeg længer er den bløde Ost, som du krystede Vand udaf, da jeg sad og saae dig dandse. Jeg har lagt paa mange Hylder forat tørre siden den Tid. Eiheller er jeg som de langhaarede Hunde, der hænger strax med Ørene og skyr Folk, saadan som jeg fordum gjorde; jeg lader det staa til nu.
+    </p>
+    <p>
+     Dit Brev var skjemtsomt nok; men det skjemtede, hvor det slet ikke skulde skjemte; thi du forstod mig godt, og da kunde du skjønne, at jeg ikke spurgte for Spøg, men fordi jeg i den senere Tid ikke kan tænke paa andet end det, hvorom jeg spurgte. Jeg gik i megen Angst og ventede, og da kom der bare Fjas og Latter.
+    </p>
+    <p>
+     Farvel Marit Heidegaardene, jeg skal ikke se for meget paa dig, saaledes som paa hin Dands. Gid du baade maa spise godt og sove godt og faa din nye Væv færdig, og gid fremfor alt, at du kan skofte Sneen væk, som ligger foran Kirkedøren.
+    </p>
+    <p>
+     Ærbødigst
+     Øyvind Thoresen Pladsen.
+    </p>
+    <p>
+     Til Agronom Øyvind Thoresen, Landbrugsskolen.
+    </p>
+    <p>
+     Tiltrods for min gamle Alder og Øinenes Svaghed samt Verken i min høire Hofte, maa jeg dog give efter for Ungdommens Paatrængelighed; thi den bruger os gamle, naar den selv haver rendt sig fast. Den lokker og græder, til den er bleven løs, men saa render den strax igjen fra os og vil slet ikke videre høre.
+    </p>
+    <p>
+     Nu er det Marit, hun skaber sig med mange søde
+     <pb n="58"/>
+     Ord, at jeg skal skrive til Følgeskab, thi hun trøster sig ikke at skrive alene. Jeg haver læst dit Brev; hun tænkte, hun havde Jon Hatlen eller en anden Nar for sig, og ikke en, som Skolemester Baard havde opdraget; men nu kniber det. Dog haver du været for streng; thi der er visse Kvindfolk, som spøger for ikke at græde, og der er ingen Forskjel mellem begge. Men det synes jeg om, at du tager det alvorlige alvorligt; thi ellers kan du ikke le af det, som er Fjas.
+    </p>
+    <p>
+     Anlangende Eders Hu, at den staar til hinanden, da er dette nu synligt af mange Ting. Hende haver jeg ofte tvivlet om, thi hun er som Vindens Gang; men nu saa veed jeg, at hun haver dog modstaaet Jon Hatlen, hvorudover hendes Bedstefader er optændt i stor Vrede. Hun blev glad, da dit Tilbud kom, og naar hun spøgte, var det ikke af ondt, men af Glæde. Hun haver taalt meget, og det haver hun gjort for at vente paa den, som hendes Hu stod til. Men da vil du ikke tage hende, men kaster hende som en uartig Unge.
+    </p>
+    <p>
+     Dette var det, jeg maatte fortælle dig. Og det Raad maa jeg lægge til, at med hende bør du komme vel overens, thi du kan faa nok at strides med alligevel. Jeg er som den gamle, der haver seet tre Slægter; jeg kjender Daarskaberne og deres Løb.
+    </p>
+    <p>
+     Din Moder og Fader skal jeg hilse dig ifra, de venter paa dig. Men derom har jeg før ikke villet skrive, at du ei skulde blive hjertesaar. Din Fader kjender du ikke; thi han er som Træet, det giver ikke Suk, før det hugges. Men kommer du engang noget til, da skal du lære ham at kjende, og du skal undre dig som paa et rigt Sted. Han haver været trykket og taus i det verdslige, men din Moder haver lettet hans Sind for verdslig Angst, og nu klarer det udover Dagen.
+    </p>
+    <p>
+     <pb n="59"/>
+     Nu dummes mine Øine, og Haanden vil ikke mere. Derfor befaler jeg dig til ham, hvis Øie altid vaager, og hvis Haand aldrig trættes.
+    </p>
+    <p>
+     Baard Andersen Opdal.
+    </p>
+    <p>
+     Til Øyvind Pladsen!
+    </p>
+    <p>
+     Du synes at være vred paa mig, og det gjør mig meget ondt. Thi jeg mente det ikke saaledes, jeg mente det godt. Jeg kommer ihu, at jeg ofte ikke har været rigtig mod dig, og derfor vil jeg nu skrive dig til, men du maa ikke vise det til nogen. Engang fik jeg det, som jeg vilde have det, og da var jeg ikke snild; men nu holder ingen af mig mere, og nu har jeg det meget ondt. Jon Hatlen haver digtet en Nidvise om mig, og den synger alle Gutter, og jeg tør ikke komme paa nogen Dands. Begge de gamle veed om det, og jeg hører onde Ord. Men jeg sidder alene og skriver, og du maa ikke vise det.
+    </p>
+    <p>
+     Du haver lært meget og kunde raade mig, men du er nu langt borte. Jeg haver ofte været nede hos dine Forældre, og din Moder haver jeg talt med, og vi ere blevne gode Venner; men jeg tør ikke sige noget, for du skrev saa underligt. Skolemesteren gjør bare Nar af mig, og han veed ingenting om Nidvisen; thi ingen i Bygden tør synge sligt for ham. Nu er jeg alene og har ingen at tale med; jeg husker paa, da vi var Børn, og du var saa snild med mig, og jeg fik  bestandig sidde paa din Kjælke. Men nu vilde jeg ønske, at jeg var Barn igjen.
+    </p>
+    <p>
+     Jeg tør ikke mere bede dig svare mig; thi det tør jeg ikke. Men vilde du svare mig bare en Gang til, saa skulde jeg aldrig glemme dig det, Øyvind.
+    </p>
+    <p>
+     Marit Knudsdatter.
+    </p>
+    <p>
+     <pb n="60"/>
+     Kjære, brænd dette Brev; jeg veed næsten ikke, om jeg tør sende det.
+    </p>
+    <p>
+     Kjære Marit!
+    </p>
+    <p>
+     Tak for Brevet; det har du skrevet i en god Stund. Nu vil jeg sige dig, Marit, at dig holder jeg af, saa jeg næsten ikke kan være her længer, og holder du saa sandt af mig igjen, saa skal Jons Nidviser og andres onde Ord bare være Blade, som Træet bærer formange. Siden jeg fik dit Brev, er jeg som et nyt Menneske, for der er kommen dobbelt Kraft i mig, og jeg er ikke ræd for nogen i hele Verden. Da jeg havde sendt det forrige Brev, saa angrede jeg det, saa jeg deraf blev næsten syg. Og nu skal du høre, hvad dette blev Aarsag til. Bestyreren tog mig afsides og spurgte mig, hvad der feilede mig; han troede, jeg læste formeget. Da sagde han mig, at naar mit Aar var ude, skulde jeg faa være her et til og ganske frit; jeg skulde hjælpe ham med et og andet, men han skulde lære mig mere. Da tænkte jeg, at Arbeide var det eneste, jeg kunde holde mig til, og jeg takkede meget; og endnu angrer jeg det ikke, skjønt jeg nu længes til dig; thi jo længer jeg er her, med desto større Grund kan jeg engang begjære dig. Hvor glad jeg nu er, jeg arbeider for tre, og aldrig skal jeg staa tilbage i nogen Ting. Men du skal saa en Bog, som jeg læser; thi der staar meget om Kjærlighed. Om Kvelden læser jeg i den, naar de andre sover, og da læser jeg ogsaa dit Brev over igjen. Har du tænkt dig, naar vi skal mødes? Det tænker jeg saa ofte paa, og det skal ogsaa du prøve og se, hvor det er deiligt. Men jeg er glad, at jeg har kravlet og strevet saameget, skjønt det før var saa tungt; thi nu kan jeg sige dig, hvad jeg vil, og smile derved i mit Hjerte.
+    </p>
+    <p>
+     <pb n="61"/>
+     Mange Bøger skal jeg give dig at læse, saa du kan se, hvormegen Gjenvordighed de har havt, som holdt rigtig af hinanden, saa at de heller er død af Sorg, end have givet hinanden op. Og saaledes skal ogsaa vi gjøre, og gjøre det med stor Glæde. Vel bliver det næsten to Aar, til vi ser hinanden, og endnu længere, til vi faar hinanden; men hver Dag, som gaar, er dog en Dag mindre, saaledes skal vi tænke, medens vi arbeider.
+    </p>
+    <p>
+     Mit næste Brev skal blive om saa mange Ting, men i Kveld har jeg ikke mere Papir, og de andre sover. Saa vil jeg lægge mig og tænke paa dig, og det vil jeg gjøre, lige til jeg sovner.
+    </p>
+    <p>
+     Din Ven
+     Øyvind Pladsen.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     
+      Niende Kapitel.
+     
+    </head>
+    <p>
+     En Lørdag midtsommers roede Thore Pladsen over Vandet forat hente sin Søn, som om Eftermiddagen skulde komme fra Landbrugsskolen, hvor han var færdig. Moderen havde havt Leiekone flere Dage i Forveien, alt var rent og skuret, Kammeret var gjort istand for lang Tid siden, Ovn var sat ind, og der skulde Øyvind bo. Idag bar Moderen friskt Løv derind, lagde rent Linned tilrette, redede op Sengen og saae ud alt imellem, om nogen Baad skulde ro over Vandet. Inde var stor Opdækning og altid noget, som manglede, eller Fluer at jage væk, og i Kammeret var Støv, bestandig Støv. Endnu kom ingen Baad; hun hvilte sig paa Vindueskarmen og saae udover; da hørte hun Skridt tæt ved sig op i Veien og vendte Hovedet; det var Skolemesteren, som langsomt kom nedover støttende sig til en Stok, thi
+     <pb n="62"/>
+     Hoften var daarlig. De kloge Øine gik roligt i Hovedet; han standsede og hvilte, nikkede til hende: «Endnu ikke kommen?» – «Nei, jeg venter dem hvert Øieblik.» – «God Høtørke idag.» – «Men hedt at gaa for gammelt Folk.» – Skolemesteren saae smilende paa hende: «Har ungt Folk været ude idag?» – «Har saa, men er gaaet igjen.» – «Javist, ja; skal vel træffes ikveld etsteds.» – «Skal vel saa, ja; Thore siger, de skal ikke mødes i hans Hus, før de har de gamles Samtykke.» – «Rigtig, rigtig.» – Om en Stund raabte Moderen: «Der tror jeg næsten, de kommer.» – Skolemesteren saae længe bortover. «Jo, det er dem»; hun gik fra Vinduet, og han gik ind. Da han havde hvilt lidt og drukket, drog de ned til Søen, medens Baaden pilte fremover mod dem med stærk Fart, thi baade Fader og Søn roede. De roende havde kastet Trøien, det hvidnede under Aaren, derfor var Baaden snart Side om Side med dem, Øyvind vendte Hovedet og saae op, han traf de to ved Støden, hvilte Aarene og raabte: «God Dag, Mor, god Dag, Skolemester!» – «For voxent Maal han har faaet,» sagde Moderen, hun tindrede i Ansigtet; «aa nei, aa nei, han er lige lys,» lagde hun til. Skolemesteren tog Stød mod Baaden, Faderen lagde Aarene ind, Øyvind sprang forbi ham og op, gav først Moderen Haanden, saa Skolemesteren, han lo og lo igjen og ganske mod Bønders Skik fortalte han strax i en rivende Strøm om Examen, Reisen, Bestyrerens Attest, gode Tilbud; han spurgte om Aarsvæxten, Kjendinger, undtagen en, Faderen holdt paa og bar op af Baaden, men vilde nok ogsaa høre, mente derfor, det kunde staa hen, og fulgte med. Og saa bar det opover, Øyvind lo og fortalte, Moderen lo med, for hun vidste slet ikke, hvad hun skulde sige, Skolemesteren drog sig langsomt ved Siden og saae klogt paa ham, Faderen gik ærbødigt lidt længer borte. Og saadan kom de hjem. Han var glad
+     <pb n="63"/>
+     over alt, han saae, først over at Huset var malet, saa over at Kværnhuset var udvidet, saa over at Blyvinduerne var udtagne i Stuen og Kammeret, hvidt Glas kommen istedetfor grønt og Vindueskarmen større. Da han kom ind, var alting saa forunderlig smaat, som han slet ikke havde husket det, men saa muntert. Klokken kaklede som en fed Høne, Stolene var udskaarne, næsten som de vilde snakke, hver Kop paa det dækkede Bord kjendte han, Gruen smilte saa hvidkalket: Velkommen; Løv stod og duftede langs Væggene, Ener laa strøet paa Gulvet og talte om Høitid. De satte sig ned for at spise; men der blev dog ikke stort spist, thi han snakkede uden Ophør. De betragtede ham nu hver enkelt med mere Ro, opdagede Forskjel og Lighed, saae paa det, som var aldeles nyt ved ham, lige til de blaa Klædesklæder, han gik i. Engang han havde fortalt en lang Historie om en af sine Kammerater og endelig sluttede, saa der blev en liden Stands, siger Faderen: «Jeg forstaar næsten ikke et Ord, af hvad du siger, Gut; du taler da saa overhændig fort.» – De slog i en Latter allesammen og Øyvind ikke mindst; han vidste meget godt, det var sandt, men det var ham ikke mulig at tale langsommere. Alt det nye, han paa sin store Udfart havde seet og lært, havde saaledes grebet hans Indbildningskraft og Opfatning og saaledes jaget ham ud af vante Forhold, at Kræfterne, der længe havde hvilet, var som opskræmte, og Hovedet kom i uafladeligt Arbeide. Endvidere lagde de Mærke til, at han havde for Vane hist og her rent vilkaarligt at tage to, tre Ord op igjen, atter og atter op igjen af lutter Travlhed; det var, som han snublede over sig selv. Sommetider faldt det latterligt, men saa lo han, og glemt var det. Skolemesteren og Faderen sad og speidede, om noget af Omtanken var gaaet bort, men det lod ikke saa; han huskede alt, var selv den, som mindte om, de burde losse Baaden, pakkede strax ud sit Tøi og
+     <pb n="64"/>
+     hængte op, viste frem sine Bøger, sit Uhr, alt det nye, og det var vel bevaret, sagde Moderen. I sit lille Værelse var han overmaade glad, han vilde være hjemme for det første, sagde han, hjælpe til med Høonnen og læse. Hvor han siden skulde hen, vidste han ikke, men det var ham akkurat det samme. Han havde faaet en Raskhed og Kraft i Tænkningen, som forfriskede, og en Livlighed i at udtrykke sin Følelse, som gjør den saa godt, der hele Aaret igjennem blot lægger an paa at holde tilbage. Skolemesteren blev 10 Aar yngre.
+    </p>
+    <p>
+     «Nu er vi komne
+     <emph>
+      saa langt
+     </emph>
+     med ham», sagde han straalende, da han reiste sig forat gaa.
+    </p>
+    <p>
+     Da Moderen var kommen ind fra det sædvanlige Følge til Stenhellen, bad hun Øyvind ud i Kammeret. «Der er en, som venter paa dig Kl. 9», hviskede hun. «Hvor?» – «Oppaa Berget.»
+    </p>
+    <p>
+     Øyvind saae paa Klokken, og den gik til 9. Inde kunde han ikke vente, men gik ud, kløv opover Berget, standsede deroppe og saae. Hustaget laa tæt opunder; Bustene paa Taget var blevne store, alt Ungtræ omkring, hvor han stod, var ogsaa voxet, og han kjendte hvert et. Han saae nedover Veien, som gik langs Berget og havde Skogen paa den anden Side. Veien laa graa og alvorlig, men Skogen stod med al Slags Løv, Træerne var høie og bent voxne, inde i den lille Bugt laa et Fartøi for slappe Seil; det var ladet med Planker og ventede Vind. Han saae udover Vandet, som havde baaret ham frem og tilbage, det laa stille og blankt, nogle Søfugle fløi over, men uden Skrig; thi det var sent. Faderen kom gaaende fra Kværnen, standsede paa Stenhellen, saae udover ligesom Sønnen, gik derefter ned mod Vandet for at forsyne Baaden mod Natten. Moderen kom ud paa den ene Side af Huset, thi hun kom fra Kjøkkenet; hun saae op mod Berget, idet hun gik
+     <pb n="65"/>
+     over Tunet med noget til Hønsene, saae atter op og nynnede. Han satte sig ned forat vente; Smaaskogen voxede tæt, saa han ikke kunde se langt indover, men han lyttede til den mindste Støi. Længe var det blot Fugl, der fløi op og narrede ham, snart igjen et Ikorn, som hoppede over i et andet Træ. Men endelig knager det længer borte, standser lidt, knager igjen; han reiser sig, Hjertet banker, og Blodet sprøiter ham til Hovedet, da bryder det i Buskene tæt ved ham, men det er en stor lodden Hund, som kommer og ser ham, standser da paa tre Ben og rører sig ikke. Det var Hunden paa Øvre-Heidegaardene, og tæt bag den knager det igjen, Hunden vender Hovedet og logrer, nu kommer Marit.
+    </p>
+    <p>
+     En Busk holdt Kjolen, hun vendte sig forat løse, og saadan stod hun, da han først saae hende. Hun havde bart, oprullet Haar, saadan som Gjenterne pleiede at gaa i Hverdagslaget, hun havde en stærk rudet Livkjole uden Ærmer, intet om Halsen uden den nedfaldende Linnedkrave; hun havde stjaalet sig lige fra Markarbeidet og havde ingen Pynt turdet gjøre. Nu saae hun op paa Skakke og smilte; det lyste i de hvide Tænder og under de halvlukkede Øienlaag; hun stod saadan lidt og pillede, men saa kom hun og blev mere og mere rød for hvert Skridt. Han gik hende tilmødes, tog hendes Haand mellem begge sine. Hun saae dybt ned og saadan stod de.
+    </p>
+    <p>
+     «Tak for alle dine Breve», var det første, han sagde, og da hun nu saae op lidetgrand og lo, følte han, at hun var det mest skjelmske Trold, han kunde møde i en Skog; men han var fangen, og hun var det nok ikke mindre. «Hvor stor du er bleven», sagde hun, men mente noget ganske andet. Hun saae mere og mere paa ham, lo mere og mere, han lo ogsaa, men de sagde ingen ting. Hunden havde sat sig paa Skrænten og saae ned paa Gaarden; Thore bemærkede dette Hundehoved nede
+     <pb n="66"/>
+     fra Vandet og kunde for sit Liv ikke begribe, hvad det var, som viste sig oppaa Bjerget.
+    </p>
+    <p>
+     Men de to havde nu sluppet hinanden og begyndte saa smaat at tale. Og da han først var begyndt, blev han snart saa kringmælt, at hun maatte le ham ud. «Ja, ser du, det er, naar jeg er glad, rigtig glad, ser du; og da det blev godt mellem os to, da var det, som der sprang op et Laas indeni mig, sprang op, ser du.» Hun lo. Siden sagde hun: «Alle de Breve, du sendte mig, kan jeg næsten udenad.» – «End jeg dine da! Men du skrev bestandig saa kort.» – «Fordi du bestandig vilde have det saa langt.» – «Og naar jeg vilde, vi skulde skrive mere om en Ting, saa svang du bort.» – «Jeg tager mig bedst ud, naar du ser Halen, sagde Huldren.» – «Men det er sandt, aldrig har du sagt mig, hvorledes du blev kvit Jon Hatlen?» – «Jeg lo.» – «Hvorledes?» – «Lo; veed du ikke, hvad det er at le?» – «Jo, le kan jeg!» – «Faa se!» – «Har du hørt sligt! Jeg maa da have noget at le af.» – «Det behøver ikke jeg, naar jeg er glad.» – «Er du glad nu, Marit?» – «Ler jeg nu da?» – «Ja, det gjør du!» – han tog begge hendes Hænder og slog dem sammen klask i klask, medens han saae paa hende. Her begyndte Hunden at knurre, siden reiste den Haar og satte i at gjø bent ned, den blev sintere og sintere, tilsidst ganske rasende. Marit sprang forskrækket tilbage, men Øyvind frem og saae ned. Det var hans Fader, den gjøede paa; han stod tett under Berget med begge Hender i Lommen og saae op paa Hunden. «Er du der, du ogsaa? Hvad er det for en gal Hund, du har der oppe?» – «Det er en Hund fra Heidegaardene», svarte Øyvind noget forlegen. – «Hvordan Pokker er den kommen derov?» – Men Moderen havde seet ud fra Kjøkkenet, thi hun havde hørt den skrekkelige Støi, og hun forstod alt, lo og sagde: «Den Hunden
+     <pb n="67"/>
+     farer her hver Dag, saa det er ikke noget underligt.» – «Det var da ogsaa en glubsk Hund.» – «Den bliver bedre, naar en klapper den», mente Øyvind og gjorde saa; Hunden taug, men knurrede. Faderen gik troskyldig ned, og de to var frelste for Opdagelse.
+    </p>
+    <p>
+     «Det var nu dengang», sagde Marit, da de atter mødtes.– «Bliver det værre siden, mener du?» – «Jeg kjender en, jeg, som vil passe os op.» – «Din Bedstefar?» – «Netop.» – «Men han skal ikke gjøre os noget.» – «Aldrig det Slag.» – «Og det lover du?» – «Ja, det lover jeg, Øyvind.» – «Hvor vakker du er, Marit.» – «Saa sa' Ræven til Ravnen og fik Osten.» – «Du kan tro, jeg ogsaa vil ha' Osten.» – «Men du faar den ikke.» – «Men jeg tar den.» Hun vendte Hovedet, og han tog den ikke. – «Jeg skal sige dig et, jeg, Øyvind», hun saae op fra Siden. – «Nu?» – «Hvor styg du er bleven!» – «Du vil nok gi' Osten alligevel.» – «Nei, det vil jeg ikke», hun vendte sig bort paany.
+    </p>
+    <p>
+     «Nu maa jeg gaa, Øyvind.» – «Jeg skal følge dig, jeg.» – «Men ikke ud af Skogen; da kan Bedstefar se dig.» «Nei, ikke ud af Skogen. Kjære, løber du?» – «Vi kan ikke gaa Side om Side her.» – «Men sligt er da ikke Følgeskab?» – «Tag mig da!» – Hun løb, han efter, og hun hang snart fast, saa han tog hende. – «Har jeg nu taget dig for bestandig, Marit?» han havde Haanden om hendes Liv. – «Jeg tror det», sagde hun sagte og lo, men var baade rød og alvorlig. Nei, nu maa det ske, tænkte han, og han tog og vilde kysse hende; men hun bøiede Hovedet ned under hans Arm, lo og løb. Hun standsede dog borte ved de sidste Træer; «naar skal vi saa mødes igjen?» hviskede hun. – «Imorgen, imorgen!» hviskede han tilbage. – «Ja, imorgen!» – «Farvel»; hun løb. – «Marit!» og hun standsede. – «Du, det
+     <pb n="68"/>
+     var rart, at vi mødtes først oppe paa Berget.» – «Ja, det var faa»; hun løb igjen.
+    </p>
+    <p>
+     Han saae længe efter hende, Hunden foer foran og gjøede, hun efter og hyssede. Han vendte sig, tog Huen og kastede ende op, tog den igjen og kastede; «nu tror jeg nok, jeg begynder at blive glad, jeg», sa' Gutten og sang hjemover.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     
+      Tiende Kapitel.
+     
+    </head>
+    <p>
+     En Eftermiddag ud paa Sommeren, da Moderen og en Pige ragede Hø sammen, Faderen og Øyvind bar ind, kom en liden barfodet og barhovedet Gut hoppende nedover Bakkerne og bortover Marken til Øyvind, som han gav en liden Seddel. «Du løber godt, du!» sa' Øyvind. «Jeg har Betaling for det», svarte Gutten. Paa Spørgsmaal, om han skulde have Svar, lød der nei, og han tog Veien hjem igjen over Berget; thi der kom nogen efter ham oppe i Veien, sagde han. Øyvind aabnede brydsomt Seddelen, thi den var først lagt sammen i en Strimmel, dernæst var den knyttet, saa forseglet og tilhakket, og i Seddelen stod:
+    </p>
+    <p>
+     «Nu er han paa Marken, men det gaar langsomt. Spring paa Skogen og gjem dig.
+     Den, du veed.»
+    </p>
+    <p>
+     «Nei, om jeg gjør», tænkte Øyvind og saae trodsig opover Bakkerne. Det varede heller ikke længe, før en gammel Mand viste sig øverst i Bakkerne, hvilte, gik lidt, hvilte igjen; baade Thore og Konen standsede for at se paa. Men Thore smilte snart, Konen derimod skiftede Farve. «Kjender du ham?» – «Ja, her er just ikke let at tage feil.»
+    </p>
+    <p>
+     <pb n="69"/>
+     Fader og Søn begyndte paany at bære Hø, men den sidste passede det saa, at de altid fulgtes. Den gamle oppe i Bakken kom langsomt nærmere ligesom et tungt Vestenveir. Han var meget høi og noget førlig; han havde onde Ben og gik Fod for Fod med svær Holdning og Stav. Han kom snart saa nær, at de kunde se ham nøie, han standsede, tog Huen af Hovedet og tørrede Sveden med et Tørklæde. Han var ganske skaldet langt bagover; han havde et rundt, sammenfoldet Ansigt, smaa gnistrende, plirende Øine, buskede Bryn og alle Tænder i Munden. Naar han talte, var det med en skarp, gneldrende Stemme, der hoppede som over Grus og Sten; men paa et og andet «R» hvilte den med stort Velbehag, trillede saa henover det i flere Alens Længde og gjorde i det samme et vældigt Hop i Tonen. Han havde i yngre Dage været bekjendt for en munter, men hidsig Mand; paa sine gamle var han ved mangeslags Modgang bleven ilter og mistænkelig.
+    </p>
+    <p>
+     Thore og Sønnen gjorde mange Vendereiser, før Ole kunde vinde frem; de forstod begge, at han ikke kom for det godes Skyld, derfor var det saameget pudsigere, at han aldrig naaede. De maatte begge gaa der meget alvorlige og tale ganske sagte, men da dette aldrig tog Ende, blev det løierligt. Blot et halvt Ord, som træffer, kan under saadanne Omstændigheder tænde Latter, og allerhelst, naar der er Fare forbunden med at le. Da han tilsidst blot var nogle Favne borte, men som aldrig tog Ende, sagde Øyvind ganske tørt og sagte: «Han maa føre tungt Læs, den Mand», – og mere skulde der ikke til. «Jeg mener, du er ikke klog», hviskede Faderen, skjønt han nok selv lo. – «Hm–hm!» kræmtede Ole oppe i Bakken. – «Han lager Halsen til», hviskede Thore. Øyvind faldt paa Knæ foran Høsaaten, stak Hovedet ind i Høet og lo. Faderen bøiede sig ogsaa ned. «Lad os gaa ind paa
+     <pb n="70"/>
+     Laaven», hviskede han, tog et Fang Hø og travede ivei; Øyvind tog en liden Dusk, sprang efter, kroget af Latter, og slap sig først ned indpaa Laaven. Faderen var en alvorlig Mand, men fik nogen ham ind paa Latteren, smaaklunkede det først i ham, derpaa blev der altid længere, men afbrudte Triller, indtil de flød sammen i en eneste lang Ulyd, hvorefter der kom Bølge paa Bølge med altid længere Sug. Nu var han kommen ivei, Sønnen laa paa Gulvet, Faderen stod over, og begge lo, saa det bragede. De havde sig engang imellem sligt Lattertag; «men dette kom ubeleiligt», sagde Faderen. Tilsidst vidste de ikke, hvorledes dette skulde gaa, thi den gamle maatte jo nu være kommen tilgaards. «Jeg vil ikke ud», sa' Faderen; «jeg har ingenting med ham at bestille.» «Ja, saa gaar heller ikke jeg», svarte Øyvind. «Hm–hm», lød det lige udenfor Laavevæggen; Faderen truede til Gutten: «Vil du ud med dig!» – «Ja, gaa du først!» – «Nei, vil du bare pakke dig!» – «Ja, gaa først!» – og de børstede af hverandre, og gik meget alvorlige frem. Da de kom nedenfor Kloppen, saae de Ole staa vendt mod Kjøkkendøren, som han betænkte sig; han holdt Huen i den Haand, hvormed han holdt Staven, og tørrede med et Tørklæde Sveden af det skaldede Hoved, men ruskede ogsaa op i Bustene bag Øret og i Nakken, saa de stak ud som Pigger. Øyvind holdt sig bag Faderen, denne maatte derfor staa stille, og for at gjøre en Ende paa det sagde han uhyre alvorligt: «Er saa gammelt Folk ude og gaar?» Ole vendte sig, saae kvast paa ham og satte Huen tilrette, før han svarte: «Ja, det læg's til.» – «Du kan være træt, vil du ikke gaa ind?» – «Aa, jeg kan hvile her, jeg staar; jeg har ikke langt Erinde.» – Der var en, som glyttede paa Kjøkkendøren; imellem hende i Kjøkkendøren og Thore stod gamle Ole, med Hueskjærmen ned over Øinene, thi Huen var for stor nu, siden Haaret var
+     <pb n="71"/>
+     gaaet bort. For at kunne se hældede han Hovedet dygtig bagover, Staven holdt han i høire Haand, og den venstre holdt han spændt i Siden, naar han ikke gestikulerte, men det gjorde han aldrig stærkere end ved at sende den halvt ud ifra sig og holde den stille der som en Vagt om sin Værdighed. «Er det Søn din, som staar bag dig?» begyndte han med meget rask Stemme. – «De siger saa.» – «Øyvind heder han, ikke saa?» – «Ja, de kalder ham Øyvind.» – «Han har været paa en af disse Agerskolerne der sørpaa?» – «Det var noget sligt ja.» – «Nei, Gjenten min, hun, Datterdatter min, Marit ja, hun er bleven galen paa det sidste.» – «Det var leidt.» – «Hun vil ikke gifte sig.» – «Nuda?» – «Hun vil ingen ha' af alle de Gaardgutter, som by'r sig til.» – «Jasaa?» – «Men det skal være hans Skyld, hans, som staar der.» – «Jasaa?» – «Han skal have gjort hende hovedtullen; ja han der, Søn din, Øyvind.» «Det var som Pokker.» – «Ser du, jeg liker ikke, at nogen ta'r Hestene mine, naar jeg slipper dem tilfjelds, liker heller ikke, at nogen ta'r Døttrene mine, naar jeg slipper dem til Dands, liker det slet ikke.» – «Nei, det forstaar sig.» – «Jeg kan ikke gaa efter; jeg er gammel, jeg kan ikke passe paa.» – «Nei–nei; nei–nei!» – «Ja, ser du, jeg vil holde Skik og Orden, der skal Stabben staa, og der skal Øxen ligge, og der Kniven, og der skal de sope, og der skal de kaste ud, ikke udenfor Døren, men der i Krogen, der netop, ja, og ikke noget andetsteds. Altsaa, naar jeg siger til hende: ikke ham, men ham! saa skal det være ham – og ikke ham!» – «Naturligvis.» – «Men slig er det ikke; i tre Aar har hun sagt nei, og i tre Aar har der ikke været godt imellem os. Dette er ondt; og er det ham, som er Grunden, saa vil jeg sige ham, saa du hører det, du, som Far er, at det nytter ham ikke; han faar slutte.» – «Ja–ja.» – Ole saae en
+     <pb n="72"/>
+     Stund paa Thore, da sagde han: «Du svarer saa kort?» – «Den Pølse er ikke længer.»
+    </p>
+    <p>
+     Her maatte Øyvind le, skjønt hans Sind ikke var til det. Men hos freidige Mennesker staar Frygten altid paa Grændsen af Latter, og nu fik han Heldning til den sidste. «Hvad ler du af?» spurgte Ole kort og skarpt. – «Jeg?» – «Ler du af mig?» – «Bed Gud bevare mig!» men hans eget Svar gav ham Latterlyst. Dette saae Ole og blev aldeles rasende. Baade Thore og Øyvind vilde bøde af med alvorligt Ansigt og Bøn om at gaa ind, men det var tre Aars Harme, som søgte Luft, og derfor var den ikke til at standse. «Du maa ikke tænke at gjøre Nar af mig», begyndte han, «jeg gaar i lovligt Erinde, jeg sørger for mit Barnebarns Lykke, saaledes som jeg forstaar den, og Hvalpungers Latter hindrer mig ikke. En opdrager ikke Gjenter for at kaste dem ned i den første Husmandsplads, som vil lukke op, og man styrer ikke Hus i fyrgetyve Aar for at levere altsammen til den første, som narrer Gjenten. Datter min gik og skabte sig saalænge, til hun fik gifte sig med en Fark, og han drak dem over ende beggeto, og jeg maatte tage Barnet og betale Moroen; men, dyre Død, om det skal gaa Datterdatter min paa samme Maaden, nu veed du det! – Jeg skal sige dig, at saasandt jeg er Ole Nordistuen paa Heidegaardene, skal Præsten før lyse til Bryllups for Huldrefolket oppe i Nordalsskogen, end han skal slippe slige Navne ned fra Prekestolen, som Marits og dit, din Julebuk! – Skal du kanske gaa og skræmme skikkelige Friere fra Gaarden, du? Ja, prøv paa at komme, saa skal du faa slig en Reise nedover Bakkerne, at Skoene skal staa bag efter dig som en Røg. Din Flire-Mikkel! Du tror kanske, jeg ikke veed, hvad du tænker paa, baade du og hun. Jo, I tænker, at gamle Ole Nordistuen skal vende Næsen iveiret bortpaa Kirkegaarden, og saa vil I trippe frem til Alteret.
+     <pb n="73"/>
+     Nei, nu har jeg levet i 66 Aar, – og jeg skal bevise dig, jeg, Gut, at jeg skal leve, saa I skal faa Blegsot af det, begge to! Jeg skal give dig det til, jeg, at du skal faa lægge dig omkring Husvæggene som Nysne og endda ikke se hendes Fodsaaler, for jeg sender hende ud af Bygden, jeg sender hende did, hun er tryg, saa kan du flakse om her som en Latter-Skrike, og gifte dig med Regn og Nordenvind. Og saa taler jeg ikke mere til dig; men nu veed du, som Far er, min Mening, og vil du
+     <emph>
+      hans
+     </emph>
+     Vel, som det her gjælder, da maa du faa ham til at bøie Elven did, den kan løbe; over min Eiendom er det forbudt.» – Han vendte sig med smaa, forte Skridt, idet han løftede høire Fod lidt stærkere end venstre og smaaskjændte for sig selv.
+    </p>
+    <p>
+     Der var falden fuldkomment Alvor over de tilbagestaaende, et ondt Varsel havde blandet sig i deres Spøg og Latter, og Huset stod et Øieblik tomt som efter en Skræk. Moderen, som fra Kjøkkendøren havde hørt alt, saae bekymret paa Øyvind, næsten til Taarer, og hun vilde ikke gjøre det tyngre for ham ved at sige et eneste Ord. Da de alle stiltiende var gangne ind, satte Faderen sig ved Vinduet og saae ud efter Ole med meget Alvor over sit Aasyn. Øyvinds Øie hang ved hans mindste Minespil; thi i hans første Ord maatte jo næsten de to unges Fremtid ligge. Satte Thore sit nei sammen med Oles, stod det neppe til at komme forbi. Tanken løb skræmt fra Hindring til Hindring; han saae et Øieblik bare Fattigdom, Modvillie, Misforstaaelse og krænket Æresfølelse, og enhver Støtte, han vilde tage til, gled under Tanken. Det forøgede hans Uro, at Moderen stod med Haanden paa Kjøkkendørsklinken, uvis om hun havde Mod til at være inde og vente Opgjør, og at hun tilsidst ganske tabte Modet og listede ud. Øyvind saae ufravendt paa Faderen, som aldrig vilde drage Blikket ind; Sønnen
+     <pb n="74"/>
+     turde heller ikke tale, thi den anden maatte jo faa tænke fuldt ud. Men netop i samme Stund havde Sjælen løbet sin Angstens Bane helt ud og tog Holdning igjen; «ingen uden Gud kan dog til syvende og sidst skille os», tænkte han til sig selv og saae paa Faderens rynkede Bryn; – nu kom der snart noget. Thore drog et langt Suk, reiste sig, saae indover og traf Sønnens Blik. Han standsede og saae længe paa ham – «Min Villie var det, at du opgav hende; thi man skal nødig tigge eller true sig frem. Vil du ikke afstaa derfra, saa tør du ved Leilighed sige mig til, og kanske at jeg saa kan hjælpe dig.» – Han gik til sit Arbeide og Sønnen fulgte.
+    </p>
+    <p>
+     Men om Kvelden havde Øyvind sin Plan færdig; han vilde søge om at blive Amtsagronom og bede Bestyreren og Skolemesteren at hjælpe sig. «Holder hun saa hun ud, skal jeg med Guds Hjælp vinde hende gjennem mit Arbeide.»
+    </p>
+    <p>
+     Han ventede forgjæves paa Marit den Kveld; men han sang, medens han gik der, den Sang han holdt mest af.
+    </p>
+    <quote>
+     <l>
+      Løft dit Hoved du raske Gut,
+     </l>
+     <l>
+      om et Haab eller to blev brudt,
+     </l>
+     <l>
+      blinker et nyt i dit Øie,
+     </l>
+     <l>
+      strax det faar Glands af det Høie!
+     </l>
+    </quote>
+    <quote>
+     <l>
+      Løft dit Hoved og se dig om,
+     </l>
+     <l>
+      noget er der, som raaber: kom!
+     </l>
+     <l>
+      noget med tusinde Tunger,
+     </l>
+     <l>
+      som om Freidighed sjunger.
+     </l>
+    </quote>
+    <quote>
+     <l>
+      Løft dit Hoved, thi i dig selv
+     </l>
+     <l>
+      blaaner ogsaa et udstrakt Hvælv,
+     </l>
+     <l>
+      hvor der med Harper klinger,
+     </l>
+     <l>
+      jubler, toner og svinger.
+     </l>
+    </quote>
+    <quote>
+     <l>
+      Løft dit Hoved og sjung det ud,
+     </l>
+     <l>
+      aldrig kuer du Vaarens Stud;
+     </l>
+     <l>
+      <pb n="75"/>
+      hvor der er gjærende Kræfter,
+     </l>
+     <l>
+      skyder det Aaret efter.
+     </l>
+    </quote>
+    <quote>
+     <l>
+      Løft dit Hoved og tag din Daab
+     </l>
+     <l>
+      af det høie, straalende Haab,
+     </l>
+     <l>
+      som over Verden hvælver
+     </l>
+     <l>
+      og i hver Livsgnist skjælver.
+     </l>
+    </quote>
+   </div>
+   <div type="chapter">
+    <head>
+     
+      Ellevte Kapitel.
+     
+    </head>
+    <p>
+     Midt i Middagshvilen var det; Folkene sov paa de store Heidegaarde, Høet laa kastet efter dem paa Volden, og Riverne stod stagede i Jorden. Nedenfor Laavekloppen stod Høslæderne, Sæletøiet laa afsprættet ved Siden, og Hestene gik i Tjor et Stykke derifra. Foruden disse og nogle Høns, som var komne borti Ågeren, saaes ikke et levende Væsen paa den hele Slette.
+    </p>
+    <p>
+     I Fjeldet over Gaardene var der et Skard, og der gik Veien ind til Heidegaardssætrene, store græsrige Fjeldsletter. Oppe i Skardet stod idag en Mand og saae ned over Sletten, ret som om han ventede nogen. Bag ham laa et lidet Fjeldvand, hvorifra den Bæk løb ned, som gjorde Skard i Fjeldet; omkring dette Vand gik paa begge Sider Kreaturveie indover mod Sætrene, som han kunde se langt borte. Det haukede og gjøede fremover mod ham, Bjelderne skingrede mellem Aasene; thi Kjørene skinede og søgte Vandet, Hunde og Gjetere vilde samle dem, men forgjæves. Kjørene kom sættende med de underligste Fagter, gjorde nødtvungne Kast, og løb med korte, olme Brøl og Halen i Veiret lige ned i Vandet, hvor de blev staaende; deres Klokker kimte over Vandet, hvergang de bevægede Hovedet. Hundene drak lidt, men blev tilbage paa fast Land, Gjæterne kom efter og satte sig paa det
+     <pb n="76"/>
+     varme, glatte Berg. Her tog de frem deres Nistemad, byttede med hverandre, skrydte af hinandens Hunde, Oxer og Husfolk, klædte sig siden af og sprang i Vandet ved Siden af Kjørene. Hundene vilde ikke ud, men sluntede dovne omkring med hængende Hoved, hede Øine og Tungen paa den ene Side. Rundt i Liderne saaes ingen Fugl, ingen Lyd hørtes uden Børnenes Samsnak og Klokkekim, Lyngen stod forbrændt og afsvedet, Solen hedede op Bergsiderne, saa alt kovnede i Varme.
+    </p>
+    <p>
+     Men Øyvind var det, som sad deroppe i Middagssolen og ventede. Han sad i Skjorteærmerne tæt ved den Bæk, som randt ud af Vandet. Ingen viste sig endnu paa Heidegaardssletten, og han begyndte saa smaat at blive bange, da pludselig en stor Hund kom tungt dragende ud af en Dør i Nordistuen og efter den en Gjente i Skjorteærmerne, hun sprang bort over Voldene op mod Berget, han havde stor Lyst til at hauke ned, men turde ikke. Han saae opmærksomt paa Gaarden, om nogen tilfældig skulde komme ud og bemærke hende, men beskyttet var hun, og han reiste sig flere Gange af Utaalmodighed.
+    </p>
+    <p>
+     Saa kom hun endelig, arbeidende sig frem langs med Bækken, Hunden lidt foran og lugtede i Luften, hun med Tag i Smaabuskene, og trættere og trættere Gang. Øyvind sprang nedover, Hunden knurrede og blev hysset paa, men strax Marit saae ham komme, satte hun sig paa en stor Sten, rød som Blod, træt og forkommen af Varme. Han hivde sig op paa Stenen ved Siden af: «Tak for det du kom!» – «For Varme og Vei! Har du ventet længe?» – «Nei. Siden de passer os op om Kvelden, maa vi bruge Middagen. Men herefter tænker jeg, vi ikke skal tage det saa hemmeligt og møisomt; det er netop derom, jeg vil tale med dig.» – «Ikke hemmeligt?» – «Jeg veed nok, at alting behager dig mest, som gaar hemmeligt til; men at vise Mod behager dig ogsaa. Idag kommer
+     <pb n="77"/>
+     jeg til at tale længe med dig, og nu maa du høre.» – «Er det sandt, du søger om at blive Amtsagronom?» – «Ja, og jeg bliver det nok. Dermed har jeg en dobbelt Hensigt, først den at vinde Stilling, men dernæst og især den at udrette noget, som din Morfar kan se og skjønne. Det træffer sig saa heldigt, at de fleste Opsiddere paa Heidegaardene er unge Folk, som vil Forbedringer og forlanger Hjælp; Penge har de ogsaa. Saa begynder jeg der; jeg skal rette paa alt fra deres Fjøs til deres Vandledninger, jeg skal holde Foredrag og arbeide, jeg skal saaatsige beleire Gamlingen med gode Gjerninger.» – «Dette er kjækt talt; mere, Øyvind!» – «Ja, det andet skal handle om os to. Du maa ikke reise.» – «Naar han befaler det?» – «Og ikke have noget hemmeligt, hvad os to angaar.» – «Naar han plager mig?» – «Men vi opnaar mere og beskytter os bedre ved at lade alt blive offentligt. Vi skal netop være saameget under Folks Øine, at de altid maa tale om, hvor vi holder af hverandre; des snarere ønsker de, at det maa gaa os vel. Du maa ikke reise. Der er Fare for dem, som skilles, at der kan bryde Snak ind imellem dem. Vi tror ikke noget det første Aar, men vi kan begynde saa smaat at tro det andet. Vi to skal mødes engang om Ugen og le bort alt det onde, som de vil sætte mellem os; vi skal kunne mødes paa en Dands og træde Takten, saa det synger, medens de sidder rundtom, som bagtaler os. Vi skal mødes ved Kirken og hilse til hverandre, saa alle de ser paa det, som kunde ønske os hundrede Mile fra hverandre. Digter nogen en Vise om os, saa sidder vi sammen og prøver paa at lage en, som kan svare; det maa altid gaa, naar vi hjælpes ad. Ingen kan naa os, naar vi holder sammen og viser Folk, at vi ogsaa holder sammen. Al den ulykkelige Kjærlighed tilhører enten rædde Folk eller svage Folk eller syge Folk eller beregnende Folk,
+     <pb n="78"/>
+     som gaar og venter paa en vis Leilighed, eller listige Folk, som tilsidst svider for sin egen List, eller sandselige Folk, som ikke holder saavidt af hverandre, at Stand og Forskjel kan glemmes, – de gaar og stikker sig væk, sender Breve, skjælver ved et Ord, og Frygten, denne bestandige Uro og Stikken i Blodet, tager de saa tilsidst for Kjærlighed, føler sig ulykkelige og løses op som Sukker. Pyt san, holdt de rigtig af hverandre, saa frygtede de ikke, saa lo de, saa gik de aabent lige paa Kirkeporten i hvert Smil og hvert Ord. Jeg har læst om det i Bøgerne, og jeg har seet det selv ogsaa; det er skralt med den Kjærligheden, som gaar Bagveie. Den maa begynde i Hemmelighed, fordi den begynder i Undseelse, men den maa leve i Aabenhed, fordi den lever i Glæde. Det er som i Løvskiftningen, at det ikke kan gjemme sig, det, som voxe skal, og ialfald saa ser du, at alt det, som er tørt paa Træet, falder af i den samme Stund, Løvsprættet begynder. Den, som faar Kjærlighed, slipper, hvad han holdt fast af gammelt, dødt Tøieri, Sasterne spretter og springer, og da skulde ingen mærke det? Ho–i, Gjente, de skal blive glade af at se os glade; to forlovede, som holder ud, gjør Folk en Velgjerning, for de giver dem et Digt, som deres Børn lærer udenad til de vantro Forældres Skam. Jeg har læst om saamange saadanne, der lever ogsaa nogle i Folks Mund her i Bygden, og netop Børnene af dem, som engang forvoldte alt det onde, er det, som nu fortæller og røres. Ja, Marit, nu skal vi to give hinanden Haanden, saadan ja, og saa skal vi love hinanden at holde ihob, saadan ja, og saa skal det gaa, Hurra! – » Han vilde have fat i Hovedet, men hun vendte det væk og lod sig glide ned af Stenen.
+    </p>
+    <p>
+     Han blev siddende, hun kom igjen, og med Armene paa hans Knæ blev hun staaende og talte med ham, idet hun saae op. «Hør nu, Øyvind, naar han nu vil, jeg
+     <pb n="79"/>
+     skal reise, hvad saa?» – «Saa skal du sige nei, rent ud.» – «Kjære, gaar det an?» – «Han kan da ikke bære dig ud i Vognen.» – «Om han ikke netop gjør det, saa kan han paa mange andre Maader tvinge mig.» – «Det tror jeg ikke; Lydighed, er du jo pligtig, saa længe den ikke er Synd; men du er ogsaa pligtig at lade ham vide fuldt ud, hvor tungt det dennegang er dig at være lydig. Jeg mener, han betænker sig, naar han ser det; nu tror han som de fleste, at det bare er Barnefjas. Vis ham, det er noget mere.» – «Du kan tro, han er ikke greid. Han vogter mig som en tjoret Gjed.» «Men du slider Tjoret flere Gange om Dag.» – «Det er ikke sandt.» – «Jo, hvergang du hemmeligt tænker paa mig, saa slider du det.» – «Ja, saadan. Men er du ogsaa vis paa, at jeg tænker saa ofte paa dig?» – «Ellers sad du ikke her.» – «Kjære, du sendte jo Bud, at jeg skulde komme?» – «Men du gik fordi Tankerne drev.» – «Heller fordi Veiret var saa vakkert.» – «Du sagde nylig, at det var for varmt.» – «Til at gaa
+     <emph>
+      imod
+     </emph>
+     Bakkerne, ja; men
+     <emph>
+      ned
+     </emph>
+     igen?» – «Hvorfor gik du saa op? Forat kunne springe ned.» – «Hvorfor er du  ikke alt sprungen?» – «Fordi jeg maatte hvile.» – «Og tale med mig om Kjærlighed?» – «Jeg kunde gjerne gjøre dig den Glæde at høre paa.» – «Medens Fugle sang,» – «og de andre sov,» – «og de Klokker klang» – «i den grønne Skov».
+    </p>
+    <p>
+     Her saae de begge Marits Bedstefader at komme ruslende ud paa Gaarden og at gaa hen til Klokkesnoren forat ringe Folkene op. Folkene drog sig frem af Lauver, Skjul og Stuer, gik søvnige til Hestene og Riverne, spredte sig paa Marken, og om en Stund var alt Liv og Arbeide paanyt. Kun Bedstefaderen gik ud af det ene Hus og ind i det andet, tilsidst op paa den høieste Laaveklop og saae udover. En liden Gut kom springende
+     <pb n="80"/>
+     hen til ham, ventelig havde han raabt paa ham. Gutten ganske rigtig nedover i den Retning, Pladsen laa, Bedstefaderen imidlertid rundt om Gaarden, idet han ofte saae opover, og anede vel mindst, at det sorte oppe paa «Skorstenen» var Marit og Øyvind. Men anden Gang var Marits store Hund til Uleilighed. Den saae en fremmed Hest kjøre ind paa Heidegaardene, og idet den troede, at den stod midt i sin Gaardsforretning, gav den sig til at gjø af alle Livsens Kræfter. De hyssede paa Hunden, men den var bleven vred og vilde ikke holde op, Bedstefaderen stod nede og stirrede ende i Veiret. Men det blev endnu værre, thi alle Gjæternes Hunde hørte med Forbauselse den fremmede Stemme og løb til. Da de saae, at det var en stor, graabenlignende Kjæmpe, forenede alle de stridhaarede Finnehunde sig om denne ene, Marit blev saa forskrækket, at hun løb uden Farvel, Øyvind midt op i Slagsmaalet, spændte og slog, men de bare flyttede Kampplads og saa atter isammen under grusomt Hyl og Spark, han efter paany, og saaledes lige til de valtsede sig bort til Bækkebrinken, da løb han til, hvoraf Følgen var, at de væltede allesammen ned i Vandet just et Sted, hvor det var rigtig dybt, drog sig da skamfulde fra hverandre, og saaledes endte dette Skogslag. Øyvind gik Skogen bortover, til han naaede Bygdeveien, men Marit mødte Bedstefaderen oppe ved Skidgaarden; det havde Hunden forvoldt hende.
+    </p>
+    <p>
+     «Hvor kommer du fra?» – «Fra Skogen.» – «Hvad gjorde du der?» – «Plukkede Bær.» – «Det er ikke sandt.» – «Nei, det er det heller ikke.» – «Hvad gjorde du da?» – «Jeg talte med en.» – «Var det med Pladsegutten?» – «Ja.» – «Hør nu Marit, imorgen reiser du.» – «Nei.» – «Hør nu Marit, jeg vil bare sige dig en eneste Ting, bare en: du
+     <emph>
+      skal
+     </emph>
+     reise.» – «Du kan ikke løfte mig i Vognen.» – «Ikke? Kan
+     <pb n="81"/>
+     jeg ikke?» – «Nei, for du vil ikke?» – «Vil jeg ikke? Hør nu Marit, bare for Moro, ser du, bare for Moro vil jeg fortælle dig, at jeg skal slaa Rygstykkerne istykker paa den Fillegutten din.» – «Nei, det tør du ikke.» – «Tør jeg ikke? Siger du, jeg ikke tør? Hvem skulde gjøre mig noget, hvem?» – – «Skolemesteren.» – «Skol-Skole-Skolemesteren? Bryr han sig om ham, mener du?» – «Ja, det er ham, som har holdt ham paa Agronomskolen.» – «Skolemesteren?» – «Skolemesteren!»
+    </p>
+    <p>
+     «Hør nu, Marit, jeg vil ikke vide af dette Rend, du skal ud af Bygden. Du gjør mig bare Sorg og Bedrøvelse, saa var det med Moder din ogsaa, bare Sorg og Bedrøvelse. Jeg er en gammel Mand, jeg vil se dig godt forsørget, jeg vil ikke leve i Folkesnak som en Nar for den Sags Skyld; jeg vil bare dit eget Bedste, du skal skjønne paa det, Marit. Snart er det forbi med mig, saa staar du der; hvordan vilde det have gaaet Moder din, havde ikke jeg været? Hør nu, Marit, vær vitug, lyd paa, hvad jeg siger; jeg vil bare dit eget Bedste.» – «Nei, det vil du ikke.» – Saa? Hvad vil jeg da?» – «Have din Villie frem, det vil du; men du spørger ikke om min.» – «Du skulde kanske have Villie, du din Maaseunge? Du skulde kanske forstaa dit eget Bedste, du din Nar? Jeg skal give dig lidt Ris, skal jeg, saa stor og lang du er. Hør nu, Marit, lad mig godsnakke med dig. Du er igrunden ikke saa gal, men du er forstyrret. Du skal høre paa mig, jeg er en gammel og fornuftig Mand. Vi skal godsnakke lidt, det staar ikke saa rart til med mig, som Folk tror, en fattig, løs Fugl kan snart styve væk med det lille, jeg har; Far din tog haardt paa det, han. Lad os sørge for os selv i denne Verden, den er ikke bedre værd. Skolemesteren har godt for at snakke, for han har Penge selv; det har Præsten med, de kan præke de. Men vi, som skal trælle
+     <pb n="82"/>
+     for Føden, med os er det en anden Sag. Jeg er gammel, jeg veed meget, jeg har seet mange Ting; Kjærlighed, ser du, det kan være vel nok, saadan til at snakke om, ja, men det duer ikke, det er godt nok for Præstefolket og de Dele, Bønderne maa tage det paa en anden Maade. Først Maden, ser du, saa Gudsord og saa lidt Skrivning og Regning og saa lidt Kjærlighed, hvis det saa kan lage sig, men det nytter bitter-Død ikke at begynde med Kjærligheden og ende med Maden. Hvad svarer du nu, Marit?» – «Jeg veed ikke.» – «Veed du ikke, hvad du skal svare?» – «Jo, det veed jeg.» – «Nu da?» – «Skal jeg sige det?» – «Javist skal du sige det!» – «Jeg holder meget paa den Kjærligheden.» Han stod et Øieblik forfærdet, huskede saa de hundrede lignende Samtaler og med lignende Udfald, rystede Hovedet, vendte Ryggen til og gik.
+    </p>
+    <p>
+     Han æglede sig ind paa Husmændene, overfusede Gjenterne, bankede den store Hund og skræmte næsten Livet af en liden Høne, som var kommen i Ågeren; men til hende sagde han intet.
+    </p>
+    <p>
+     Den Kveld var Marit saa glad, da hun gik op for at lægge sig, at hun aabnede Vinduet, laa i Karmen, saae ud og sang. Hun havde faaet en liden, fin Kjærlighedsbog af Øyvind, og i den stod en liden, fin Kjærlighedsvise, den sang hun:
+    </p>
+    <quote>
+     <l>
+      Holder du af mig,
+     </l>
+     <l>
+      holder jeg af dig
+     </l>
+     <l>
+      alle mine Levedage;
+     </l>
+     <l>
+      Sommeren var kort,
+     </l>
+     <l>
+      Græsset blegner bort,
+     </l>
+     <l>
+      kommer med vor Leg tilbage.
+     </l>
+    </quote>
+    <quote>
+     <l>
+      Hvad du sa' ifjor,
+     </l>
+     <l>
+      husker jeg iaar,
+     </l>
+     <l>
+      sidder som en Fugl i Karmen,
+     </l>
+     <l>
+      <pb n="83"/>
+      kakker paa og slaar,
+     </l>
+     <l>
+      synger lidt og spaar
+     </l>
+     <l>
+      Lykke under Solevarmen.
+     </l>
+    </quote>
+    <quote>
+     <l>
+      Litli-litli-lu,
+     </l>
+     <l>
+      hører du mig nu,
+     </l>
+     <l>
+      Gutten bagved Virkeheiden?
+     </l>
+     <l>
+      Ordene vil gaa,
+     </l>
+     <l>
+      Mørket falder paa,
+     </l>
+     <l>
+      kanske kan du vise Veien.
+     </l>
+    </quote>
+    <quote>
+     <l>
+      Sjo-i, sjo-i, hys,
+     </l>
+     <l>
+      sang jeg om et Kys? –
+     </l>
+     <l>
+      Nei, det gjorde jeg vist ikke,
+     </l>
+     <l>
+      Hørte du det, du?
+     </l>
+     <l>
+      Kom det ei ihu,
+     </l>
+     <l>
+      Jeg vil lade Afbud skikke.
+     </l>
+    </quote>
+    <quote>
+     <l>
+      O, Godnat, Godnat,
+     </l>
+     <l>
+      Drømmen har mig fat,
+     </l>
+     <l>
+      den om dine blaae Øine,
+     </l>
+     <l>
+      og de tause Ord,
+     </l>
+     <l>
+      som af Krogen foer,
+     </l>
+     <l>
+      o, de vare saa forfløine
+     </l>
+    </quote>
+    <quote>
+     <l>
+      Nu, jeg lukker til,
+     </l>
+     <l>
+      er det mer, du vil?
+     </l>
+     <l>
+      Tonerne tilbage trille,
+     </l>
+     <l>
+      lokker mig og ler,
+     </l>
+     <l>
+      vilde du mig mer? –
+     </l>
+     <l>
+      Aft'nen er saa varm og stille.
+     </l>
+    </quote>
+   </div>
+   <div type="chapter">
+    <head>
+     
+      Tolvte Kapitel.
+     
+    </head>
+    <p>
+     Nogle Aar er gangne hen siden sidste Optrin.
+    </p>
+    <p>
+     Det er ud paa Høsten, Skolemesteren kommer gaaende op til Nordistuen, lukker op den ydre Dør, finder ingen
+     <pb n="84"/>
+     hjemme, lukker op en til, finder ingen hjemme, gaar saa stedse videre; ind til det inderste Kammer i den lange Bygning; der sidder Ole Nordistuen alene foran Sengen og ser paa sine Hænder.
+    </p>
+    <p>
+     Skolemesteren hilser og hilses; han tager en Krak og sætter sig foran Ole. «Du har sendt Bud paa mig,» siger han. – «Jeg har saa.»
+    </p>
+    <p>
+     Skolemesteren bytter Skraa, ser sig om i Kammeret, tager en Bog, som ligger paa Bænken og blader i den. «Hvad var det, du vilde mig?» – «Jeg sidder just og tænker paa det.»
+    </p>
+    <p>
+     Skolemesteren giver sig god Tid, leder frem sine Briller forat læse Bogens Titel, tørrer dem og sætter dem paa. «Du bliver gammel nu, Ole.» – «Ja, det var derom, jeg vilde tale med dig. Det gaar bagover; jeg ligger snart.» – «Da faar du se til, at du kan ligge godt, Ole,» – han lukker Bogen og sidder og ser paa Bindet.
+    </p>
+    <p>
+     «Det er en god Bog, den, du der har imellem Hænderne.» – «Den er ikke ilde; – er du ofte kommen forbi Permen, Ole?» – «Nu paa det sidste, saa –.»
+    </p>
+    <p>
+     Skolemesteren lægger Bogen bort og gjemmer Brillerne. «Du har det nok ikke, som du vil, nu, Ole?» – «Det har jeg ikke havt, saalangt tilbage som jeg kan mindes.» – «Ja, det var ogsaa længe slig med mig. Jeg levede usams med en god Ven og vilde, at
+     <emph>
+      han
+     </emph>
+     skulde komme til mig, og saalænge var jeg ulykkelig. Da fandt jeg paa at gaa til
+     <emph>
+      ham
+     </emph>
+     , og siden har det været brav.» – Ole ser op og tier.
+    </p>
+    <p>
+     Skolemesteren: «Hvorledes synes du, det gaar med Gaarden, Ole?» – «Bagover som med mig selv.» – «Hvem skal tage den, naar du gaar bort?» – «Det er dette, jeg ikke veed; det er ogsaa dette, som graver mig.» –
+    </p>
+    <p>
+     <pb n="85"/>
+     «Med Naboerne dine gaar det godt nu, Ole.» «Ja, de har den Agronomen til Hjælp, de.»
+    </p>
+    <p>
+     Skolemesteren, medens han ligegyldig vender sig mod Vinduet: «Du skulde have Hjælp, du ogsaa, Ole. Stort kan du ikke gaa, og lidet kjender du af det nye Stel.» – Ole: «Der er nok ingen, som vil hjælpe mig.» – «Har du
+     <emph>
+      bedet
+     </emph>
+     om det?» – Ole tier.
+    </p>
+    <p>
+     Skolemesteren: «Jeg havde det længe slig med Vorherre, jeg. – Du er ikke god imod mig, du, sa' jeg til ham. – Har du
+     <emph>
+      bedet
+     </emph>
+     mig om det? spurgte han. Nei, jeg havde ikke det; saa bad jeg, og siden har det rigtig gaaet godt.» – Ole tier, men nu tier ogsaa Skolemesteren.
+    </p>
+    <p>
+     Endelig siger Ole: «Jeg har et Barnebarn; hun veed, hvad som vilde glæde mig, før jeg bares bort, men hun gjør det ikke.» – Skolemesteren smiler: «Kanske det ikke vilde glæde hende?» Ole tier.
+    </p>
+    <p>
+     Skolemesteren: «Der er mange Ting, som graver dig, men, saavidt jeg kan forstaa, dreier de sig dog til sidst allesammen om Gaarden.» – Ole siger stille: «Den har gaaet gjennem mange Ætled og er god i Jorden. Alt det, Far efter Far har slidt sammen, ligger i den; men nu gror det ikke. Ei heller veed jeg, naar de kjører mig bort, hvem som skal kjøre ind. Af Ætten bliver han ikke.» – «Hun, som er Datterdatter , vil opholde Ætten.» – «Men han, som tager hende, hvorledes vil han tage Gaarden? Dette maatte jeg vide, før jeg lagde mig. Det har Hast, Baard, baade med mig og Gaarden.» –
+    </p>
+    <p>
+     De tier begge; da siger Skolemesteren: «Skal vi gaa lidt ud og se paa Gaarden i det gode Veir?» – «Ja, lad os det; jeg har Arbeidsfolk oppe i Liden, de tager Løv, men arbeider ikke, uden hver Gang jeg ser paa.» Han stolper hen efter den store Hue og Stokken og siger
+     <pb n="86"/>
+     imidlertid: «De liker nok ikke at arbeide hos mig; jeg forstaar det ikke.» Da de vel var komne ud, og de bøiede om Huset, standsede han. «Her, ser du? Ingen Orden; Veden slængt udover, Øxen ikke hugget i Stabben,» han bøiede sig med Bryderi, løftede den og hug den fast. «Her ser du en Feld, som er falden ned; men har nogen hængt den op?» han gjorde det selv. «Og her Staburet; mener du, Trappen er tagen bort?» han bar den tilside. Da standsede han og saae paa Skolemesteren og sagde: «Saaledes hver eneste Dag.» –
+    </p>
+    <p>
+     Som de gik opover, hørte de en munter Sang fra Liderne. «Nu, de synger til Arbeidet,» sagde Skolemesteren. – «Det er lille Knut Mistuen, som synger; han tager Løn for sin Fader. Derborte arbeider mine Folk; de synger nok ikke.» – «Det er ikke af Bygdens Viser, dette?» – «Nei, jeg hører det.» – «Øyvind Pladsen har været meget derborte i Østistuen; kanske det er af dem, han har ført til Bygden; thi der følger megen Sang med ham.» Herpaa svartes ikke.
+    </p>
+    <p>
+     Marken, de gik over, var ikke god; den savnede Pleie. Skolemesteren bemærkede dette, og da standsede Ole. «Jeg har ikke Magt til mere,» sagde han næsten rørt. «Fremmede Arbeidsfolk uden Tilsyn falder for kostbart. Men det er tungt at gaa over slig Mark, kan du tro.»
+    </p>
+    <p>
+     Da der blev Tale fremover mellem dem, om hvor stor Gaarden var, og hvad som mest trængte Dyrkning, besluttede de at gaa op i Liden for at overse det hele. Da de langt om længe var naaede op til et høit Sted og tog det i Øiesyn, var den gamle bevæget: «Jeg vilde ret ikke gjerne gaa fra den slig. Vi har arbeidet dernede baade jeg og mine Forældre, men det vises ikke.» –
+    </p>
+    <p>
+     Da skar der en Sang lige nedover deres Hoveder men med den eiendommelige Skarphed, som en Gutte
+     <pb n="87"/>
+     stemme har, naar den rigtig stormer paa. De var ikke langt fra det Træ, i hvis Top lille Knut Østistuen sad og fældte Løv for sin Fader, og de maatte lye paa Gutten.
+    </p>
+    <quote>
+     <l>
+      Naar du vil paa Fjeldesti
+     </l>
+     <l>
+      og skal Nisten snøre,
+     </l>
+     <l>
+      lag saa ikke mere i,
+     </l>
+     <l>
+      end du let kan føre.
+     </l>
+     <l>
+      Drag ei med dig Dalens Tvang
+     </l>
+     <l>
+      i de grønne Lider,
+     </l>
+     <l>
+      skyl den i en freidig Sang
+     </l>
+     <l>
+      ned ad Fjeldets Sider.
+     </l>
+    </quote>
+    <quote>
+     <l>
+      Fugle hilse dig fra Gren,
+     </l>
+     <l>
+      Bygdesnakket viger,
+     </l>
+     <l>
+      Lusfen bliver mere ren,
+     </l>
+     <l>
+      høiere du stiger.
+     </l>
+     <l>
+      Fyld dit glade Bryst og syng,
+     </l>
+     <l>
+      Og smaa Barneminder
+     </l>
+     <l>
+      nikke vil blandt Busk og Lyng
+     </l>
+     <l>
+      frem med røde Kinder,
+     </l>
+    </quote>
+    <quote>
+     <l>
+      Standser, lytter du engang,
+     </l>
+     <l>
+      vil du saa at høre
+     </l>
+     <l>
+      Ensomhedens store Sang
+     </l>
+     <l>
+      bruse til dit Øre,
+     </l>
+     <l>
+      Blot en Fjeldbæk risler kvikt,
+     </l>
+     <l>
+      blot en Smaasten ruller,
+     </l>
+     <l>
+      føres til dig glemte Pligt
+     </l>
+     <l>
+      med en Verdens Bulder.
+     </l>
+    </quote>
+    <quote>
+     <l>
+      Bæv, men bed, du bange Sjæl
+     </l>
+     <l>
+      mellem dine Minder!
+     </l>
+     <l>
+      Gak saa frem: den bedre Del
+     </l>
+     <l>
+      du paa Toppen finder.
+     </l>
+     <l>
+      Der som før gaar Jesus Krist,
+     </l>
+     <l>
+      Elias og Moses;
+     </l>
+     <l>
+      ser du dem, skal ganske vist
+     </l>
+     <l>
+      Farten evig roses.
+     </l>
+    </quote>
+    <p>
+     <pb n="88"/>
+     Ole havde sat sig ned og gjemt Hovedet i sine Hænder. «Her vil jeg tale med dig,» sagde Skolemesteren og satte sig ved Siden.
+    </p>
+    <p>
+     Nede paa Pladsen var Øyvind netop kommen hjem fra en længere Reise, Skydsen var endnu for Døren, da Hesten hvilte. Skjøndt Øyvind nu havde god Fortjeneste som Amtsagronom, boede han endnu i sit lille Kammer nede paa Pladsen og hjalp til i hver Mellemtid. Pladsen var opdyrket fra Ende til anden, men den var saa liden, at Øyvind kaldte det hele: Dukkespillet til Mor; thi det var især hende, som drev med Jordbruget.
+    </p>
+    <p>
+     Han havde netop nu byttet, Faderen var kommen ind fra Møllen, hvid af Mel, og havde ogsaa byttet. De stod just og snakkede om at gaa lidt før Kveldsmaden, da Moderen kom ganske bleg ind: «Her gaar rart Fremmedfolk til Hus; kjære, se ud!» – Begge Mænd til Vinduet og Øyvind var den, som først udbrød: «Det er Skolemesteren og – ja, jeg tror det næsten; – jovist er det ham!» «Jo, det er gamle Ole Nordistuen,» sagde ogsaa Thore, idet han vendte sig fra Vinduet for ikke at ses, thi de to var alt foran Huset.
+    </p>
+    <p>
+     Øyvind fik et Blik af Skolemesteren, i det samme han forlod Vinduet; Baard smilte og saae tilbage paa gamle Ole, der strævede ivei med Stok og de smaa, korte Skridt, hvortil et Ben løftedes stadigt høiere end det andet. Udenfor hørtes Skolemesteren at sige: «Han er nok nylig kommen hjem,» og Ole to Gange at sige: «Naa–naa.»
+    </p>
+    <p>
+     De stod længe stille ude i Gangen, Moderen var krøben op til den Krog, hvori Melkehylden stod, Øyvind havde sin Yndlingsplads, nemlig Ryggen lænet op til det store Bord og Ansigtet mod Døren, Faderen sad der ved
+     <pb n="89"/>
+     Siden af. Endelig bankede det paa, og ind traadte da Skolemesteren og strøg Hatten af, siden Ole og strøg Huen af, hvorefter han vendte sig mod Døren forat lukke den; han var lang i Vendingen, han var aabenbart undselig. Thore reiste sig og bad dem sidde indpaa, de satte sig Side om Side paa Bænken foran Vinduet; Thore satte sig ned igjen.
+    </p>
+    <p>
+     Men saaledes som nu skal fortælles, gik Frieriet til.
+    </p>
+    <p>
+     Skolemesteren: «Vi fik et vakkert Veir alligevel i Høst.» – Thore: «Det har laget sig nu paa det sidste.» – «Han staar nok ellers længe, siden han er sprunget over paa den Kant.» – «Er I færdige med Høstningen deroppe?» – «Ikke det; Ole Nordistuen her, som du kanske kjender, ønskede gjerne din Hjælp, du Øyvind, hvis ellers intet var iveien?» – Øyvind: «Naar den bliver begjært, skal jeg gjøre, hvad jeg kan.» – «Ja, det var nok ikke saa ganske for det snare, han mente. Det gaar ikke frem med Gaarden, synes han, og han tror, det er den rette Driftsmaade og Tilsyn, som mangler.» – Øyvind: «Jeg er saa lidet hjemme.» –
+    </p>
+    <p>
+     Skolemesteren ser paa Ole. Denne føler, han nu maa rykke i Ilden, rømmer sig et Par Gange og begynder fort og kort. «Det var, det er, – ja, – det er Meningen, at du ligesom skulde have fast – at du skulde, ja, ligesom have det hjemme deroppe hos os, – være der, naar du ikke var ude.» – «Du skal have mange Tak for Tilbudet, men jeg vil gjerne bo, hvor jeg bor.» – Ole ser paa Skolemesteren, som siger: «Det gaar nok ligesom i Bulder for Ole idag. Sagen er, at han har været her en Gang før, og Erindringen derom lægger Ordene lidt i Kors for ham.» – Ole rask: «Saaledes er det, ja; jeg foer Galmandsfærd, jeg droges saalænge med Gjentungen, til Træet flisede sig. Men glemt skal være gjemt; Vind bryder Kornet ned, men ikke Sno;
+     <pb n="90"/>
+     Regnbækken løser ikke stor Sten; Sneen i Mai bliver ikke længe liggende; det er ikke Tordenen, som slaar Folk ihjel.» De ler alle fire, Skolemesteren siger: «Ole mener, at du skal ikke huske dette længer, og heller ikke du, Thore.» Ole ser paa dem og veed ikke, om han tør begynde igjen. Da siger Thore: «Klungeren tager i med mange Tænder, men river ikke Saar. I mig sidder vist ingen Tagger igjen.» – Ole: «Jeg kjendte ikke Gutten dengang. Nu ser jeg, det gror, der han saar; Høst svarer Vaar; der sidder Penge i Fingerenderne paa ham, og jeg vilde gjerne have fat i ham.» –
+    </p>
+    <p>
+     Øyvind ser paa Faderen, denne paa Moderen, hun fra dem paa Skolemesteren, og saa alle paa ham. «Ole mener, at han har en stor Gaard –» Ole afbryder: «Stor Gaard, men ilde brugt; jeg kan ikke mer, jeg er gammel, og Venene gaar ikke Hovedets Erinder. Men det kan lønne sig at tage i deroppe.» – «Den største Gaard i Præstegjældet og vel saa det,» falder Skolemesteren ind. – «Den største Gaard i Præstegjældet; det er netop Ulykken; for stor Sko falder af; det er brav, Geværet er godt, men det maa kunne løftes. (Med rask Vending mod Øyvind). Du kunde kanske tage et Tag i med, du?» – «Jeg skulde altsaa være Gaardsbestyrer?» – «Netop ja; du skulde faa Gaarden.» – «Skulde jeg faa Gaarden?» – «Netop ja; saa skulde du styre den.» – «Men?» – «Vil du ikke?» – «Jo, naturligvis.» – «Jaja, jaja; saa er det afgjort da, sa' Hønen, hun fløi paa Vandet.» – «Men?» – Ole ser forundret paa Skolemesteren. – «Øyvind spørger nok, om han ogsaa skal faa Marit?» – Ole fort: «Marit paa Kjøbet, Marit paa Kjøbet!» – Da slog Øyvind i en Latter og hoppede ende op, efter ham lo alle tre, Øyvind gned Hænderne, foer frem og tilbage paa Gulvet og gjentog uophørlig: – «Marit paa Kjøbet, Marit paa Kjøbet!» Thore lo med
+     <pb n="91"/>
+     dybe Klunk, Moderen oppe i Krogen med Øinene uafvendt paa Sønnen, til de fik Taarer.
+    </p>
+    <p>
+     Ole meget spændt: «Hvad mener du om Gaarden?» – «Ypperlig Jord!» – «Ypperlig Jord, ikke sandt?» – «Mageløs Buhavn.» – «Mageløs Buhavn! Det kan gaa?» – «Det skal blive den bedste Gaard i Amtet!» – «Den bedste Gaard i Amtet! Tror du det? Mener du det?» – «Saasandt jeg staar her!» – «Ja, er det ikke det, jeg har sagt?» De talte begge lige fort og passede hinanden som to Hjul. – «Men Penge ser du, Penge? Jeg har ingen Penge.» – «Det gaar langsomt uden Penge, men det gaar!» – «Det gaar! Javist gaar det! Men
+     <emph>
+      havde
+     </emph>
+     vi Penge, gik det fortere, siger du?» – – «Mange Gange fortere.» – «Mange Gange? Vi skulde havt Penge! Jaja; den kan ogsaa tygge, som ikke har alle Tænder; den kommer ogsaa frem, som kjører med Oxer.»
+    </p>
+    <p>
+     Moderen stod og blinkede til Thore, der saae kort men ofte paa hende fra Siden af, medens han sad og vuggede med Overkroppen og strøg sine Hænder nedover Knærne; Skolemesteren plirte til ham, Thore havde Munden oppe, kræmtede lidt og forsøgte, men Ole og Øyvind talte uafladeligt i Munden paa hverandre, lo og støiede, saa en ikke kunde saa Lyd.
+    </p>
+    <p>
+     «I faar tie lidt, Thore har noget, han vil sige,» falder Skolemesteren ind, de standser og ser paa Thore. Denne begynder endelig ganske sagte: «Det har været slig paa denne Plads, at vi har havt en Kværn; i den sidste Tid har det været slig, at vi har havt to. Disse Kværne har alletider givet en liden Skilling mellem Aar og Dag; men hverken Far min eller jeg har brugt af de Skillinger uden dengang, Øyvind var borte. Skolemesteren har styret med dem, og han siger, at de har trives godt, der de stod; men nu er det bedst, Øyvind faar dem til
+     <pb n="92"/>
+     Nordistuen.» Moderen stod borti Krogen og gjorde sig ganske liden, medens hun med tindrende Glæde betragtede Thore, som sad meget alvorlig og saae næsten dum ud; Ole Nordistuen sad over for ham med gabende Mund, Øyvind var den første, som kom sig af Forbauselsen, brød ud: «Er det ikke, som Lykken følger mig?» gik dermed over Gulvet til Faderen, slog ham paa Skulderen, saa det sang; «du Far!» sagde han, gned Hænderne og gik videre.
+    </p>
+    <p>
+     «Hvormange Penge kan det være?» spurgte endelig Ole, men sagte til Skolemesteren. – «Det er ikke saa lidt.» – «Nogle hundrede?» – «Lidt til.» – «Lidt til? Øyvind, lidt til! Gud bevare mig, for Gaard det skal blive!» Han reiste sig og storlo.
+    </p>
+    <p>
+     «Jeg maa følge med dig op til Marit,» siger Øyvind; vi bruger Skydsen, som staar udenfor, saa gaar det fort?» – «Ja, fort, fort! Vil du ogsaa have alting fort?» – «Ja, fort og galt.» – Fort og galt! Akkurat som da jeg var ung, akkurat!» – «Her er Huen og Stokken; nu jager jeg dig!» – «Du jager mig, ha, ha, ha! men du følger, ikke sandt, du følger? Kom I andre med; i Kveld maa vi sidde sammen, saalænge der er Glød i Kullet; kom med!» – De lovede dette, Øyvind hjalp ham i Vognen, og de kjørte afsted op til Nordistuen. Deroppe var ikke den store Hunden den eneste, som blev forundret, da Ole Nordistuen kjørte ind paa Gaarden med Øyvind Pladsen. Medens Øyvind hjalp ham ud af Vognen, og Tjenere og Leiefolk gabede paa dem, kom Marit ud i Gangen forat se, hvad Hunden gjøede saa vedholdende paa, men standsede som fast tryllet, blev derpaa sprudende rød og løb ind. Gamle Ole raabte imidlertid saa forfærdeligt paa hende, da han kom i Stuen, at hun maatte møde frem igjen. «Gaa
+     <pb n="93"/>
+     hen og fli dig, Gjente; her er han, som skal have Gaarden!»
+    </p>
+    <p>
+     «Er det sandt?» siger hun uden selv at vide af det og saa høit, at det klang. «Ja, det er sandt!» svarer Øyvind og klapper i Hænderne; dermed svinger hun om paa Taaen, kaster det, hun har i Haanden, langt fra sig og løber ud; men Øyvind efter. –
+    </p>
+    <p>
+     Snart kom Skolemesteren, Thore og Konen; den gamle havde faaet Lys paa Bordet, dækket med hvid Dug; Vin og Øl bødes, og selv gik han bestandig omkring, løftede Benene endnu høiere end sædvanlig, men dog bestandig høire Fod længer op end venstre.
+    </p>
+    <p>
+     Førend denne lille Fortelling ender, kan meldes om, at fem Uger efter blev Øyvind og Marit viede i Sognets Kirke. Skolemesteren styrede selv Sangen den Dag, da hans Hjælpeklokker var syg. Han var brusten i Maalet nu, for han var gammel, men Øyvind syntes, det gjorde sig godt at høre ham. Og da han havde givet Marit Haanden og ført hende op til Alteret, nikkede Skolemesteren mod ham fra Koret, akkurat som Øyvind havde seet det, da han sørgmodig sad ved hin Dands; han nikkede igjen, medens Taarene vilde op.
+    </p>
+    <p>
+     Hine Taarer ved Dandsen var Indgangen til disse her, og imellem dem laa hans Tro og hans Arbeide.
+    </p>
+    <p>
+     Her ender Fortellingen om en glad Gut.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     <pb n="94"/>
+     
+      Forklaring af adskillige norske Ord, som forekomme i «En glad Gut.»
+     
+    </head>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LIT00029" xml:lang="lt">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ir aš mažas buvau : ELTeC edition</title>
+        <author>Pranas Mašiotas (1863-1940)</author>
+        <respStmt>
+          <resp>editor</resp>
+          <name>Arūnas Gudinavičius</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>
+        <measure unit="words">10197</measure>
+        <measure unit="pages">69</measure>
+      </extent>
+
+      <publicationStmt>
+        <p></p>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://www.epaveldas.lt/object/recordDescription/LNB/C1B0003733232">Ir aš mažas buvau</ref>
+          <publisher>Martynas Mažvydas National Library of Lithuania</publisher>
+        </bibl>
+        <bibl type="firstEdition">
+          <title>Ir aš mažas buvau</title>
+          <publisher>Švyturio spaustuvė</publisher>
+          <pubPlace>Vilnius</pubPlace>
+          <date>1919</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+
+    <encodingDesc n="eltec-1">
+      <p></p>
+    </encodingDesc>
+
+    <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+      <langUsage>
+        <language ident="lt" usage="100"/>
+      </langUsage>
+      <textDesc>
+        <e:authorGender key="F"/>
+        <e:size key="short"/>
+        <e:canonicity key="low"/>
+        <e:timeSlot key="T4"/>
+      </textDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2020-02-29">Arūnas Gudinavičius added header
+      </change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text>
+    <front>
+      <div type="titlepage">
+        <p>Pranas Mašiotas</p>
+        <p>Ir aš mažas buvau</p>
+        <p>Vilnius</p>
+        <p>1919 m.</p>
+        <p>Išspaudino „Švyturio“ spaustuvė, Vilnius</p>
+      </div>
+    </front>
+
+    <body>
+
+      <p>Ir aš mažas buvau. Kai visai mažas buvau, kambaryje prie mamos lemendavausi, darbą dirbti padėdavau: tai siūlus sumaigysiu, tai virbalus iš mezginio ištrauksiu. Padėdavau ir vyrams: būdavo, plaktuką iš po rankos nusinešiu, arba peilį pasiimsiu
+        pagalėliui drožinėti. Visų klausinėdavau, ką daro, kam daro. Kai tuojau nepasako, už rankovės patraukiu ir vėl klausiu. Džiaugdavausi, kai liepdavo ką paduoti, atnešti. Jausdavausi reikalingas esąs.</p>
+      <p>Į lauką išbėgęs, lazdą jodinėdavau: rykštele plaku, kad greičiau bėgtų, arba vadeles trukčioju, kad piestu stotųsi. Paukščius gainiodavau: vištas iš darželio vaikydavau, kad nekapstytų, ančiukus į kūdrą varinėdavau, kad po kojų nesipainiotų. Kur
+        siunčiamas nubėgdavau. Kai kojelės nuilsdavo, sustojęs žiūrėdavau, kas kokį darbą dirba. Labai mėgdavau darbą. Sakydavau, ką pats dirbsiu, ką pasidarysiu, kai didelis būsiu. Visur lįsdavau, kišdavausi, puldavau ir keldavausi, džiaugdavausi ir
+        verkdavau, kaip ir visi maži vaikai.</p>
+
+      <div type="chapter">
+        <head>Kur augau</head>
+
+      <p>Augau Pašešupiuose, ūkininko vienasėdijoje. Aplinkui keturkampį kiemą stovėjo šešios trobos: pirmoje vietoje gyvenamieji namai, arčiausia prie namų svirnas, malkinė, paskui tvartai, toliausia skūnios javams krauti. Aplinkui trobų—medžiai: už
+        gyvenamųjų namų sodas, už kitų trobų — gluosnių dvi eilės, kad vėjas stogų nešiauštų.</p>
+      <p>Nežinau, kur jūs, vaikučiai, augot ir kaip augot. Tik atsimemu, kad mano mama ir tėvelis buvo geriausi, givenamieji namai smagiausi, sodas mieliausias. Nusiveždavo mane į svečius, pas gimines. Dėdės, tetos vaišindavo, į sodą vesdavosi, gyvulius,
+        paukščius rodydavo. Ir valgiai gardūs ir sodas gražus — dėdės Vinco daug už mūsiškį didesnis, ir gyvulių, paukščių gražių būdavo. Tik kažin kodėl imi, būdavo, ir paklausi:</p>
+      <p>— Mama, ar veikiai namo važiuosim?</p>
+      <p>— Nenusibosk, — atsakydavo, — tuojau, kai tėvelis su dėde iš lauko sugrįš — nuėjo javų pažiūrėti.</p>
+      <p>Teta ar dėdienė pakiš tuojau kokį saldų kąsnelį ir toliau su mama šnekasi. O mane rūpestis ima, kas namieje darosi, po savo kiemą pabėgioti norisi. Ir laukiu, sulaukti negaliu, kada tėvelis iš lauko sugrįš.</p>
+      <p>Kas kartą taip svečiuose nerimaudavau, iš svečių namo skubindavausi. Ir kas kartą su noru į svečius važiuodavau — tur būti ne svetinėtis, o pasivėžinti mėgdavau.</p>
+      <p>Sesuo, dviem metais už mane vyresnė, svečiuose lengviau rasdavo darbo: gavus skarulėlių, lėles rėdydavo arba, gėlių pasirinkus, vainikus pindavo.</p>
+      <p>— Mat, mergaitė — kas kita,— sakydavo tetos ir dėdienės.</p>
+      <p>Sugrįžo tėvelis iš lauko, dar kartą pavalgėm, arklius pakinkė. Įšokau į vežimą, pirmojoje sėdynėje, arčiau arklių, atsisėdau. Širdelė atsigavo. Žiūriu, kaip arkliai bėga. Noriu kad sparčiau bėgtų. Arkleliai tarytum supranta, ko noriu:
+        punkštaudami, karčiais kresnodami tankiai mina, skubinasi. Namo smarkiau bėga, kaip iš namų, o ir juos svečiuose vaišino, geriausiais dobilais šėrė.</p>
+      <p>Iki arkleliai ilgą kelią savo žingsniais išmatuoja, suspėji išklausinėti, kieno šita, kieno ta vienasėdija, po laukus pasidairai, gražiais javų plotais pasigėri, su tėviškės javais palygini.</p>
+      <p>Mėgdavau grįžti vasarą vakarop. Kaitros jau nėra, bet oras dar šiltas. Saulutė savo dienos kelionę baigia, paskutiniais gelsvais ar rausvais spinduliais laukus glosto. Augalų žalumas darosi pilkokas, užtai tarytum aukso dulkelėmis apibarstytas.
+        Nuo medžių nutysę ilgi šešėlai. Laukai, miškeliai ilsisi nuo dienos kaitros. Paukšteliai giesmininkai, palengva aptilę, į nakvynę rengiasi. Tik putpelos ir kurapkos retkarčiais šūktelia, savo šeimynėles į krūvą renkasi. Pagaliau saulutės paskutinis
+        spindulys tarytum lūžta, tarytum nutrūksta ir kažin kur dingsta, tik keli debesėliai danguje dar raudonuoja.</p>
+      <p>— Kur saulutė dingsta? — klausiu kartą,</p>
+      <p>— Kažin kur. Sako, į jūres nusileidžia,— aiškina mama.— Išsimaudžiusi, išryto kitoje pusėje skaistesnė užteka.</p>
+      <p>— Kažin kaip tenai yra iš tikrųjų,— atsiliepė ir tėvelis. — Kai eisi mokslus, tai sužinosi.</p>
+      <p>— Kada da tokius mokslus eisiu — tuojau noriu žinoti.</p>
+      <p>— Nusileidžia į jūres... o kaip į kitą pusę, į rytus nuneria? — galvoju. Galvoju ir tėvelių klausiu, tik jie nemoka man pasakyti.</p>
+      <p>— Reiks mokslus eiti, tai sužinosiu; tik dar negreit, kai didesnis užaugsiu. Tenai ir apie žvaigždes, apie mėnulį pasakys. Tik kiti ilgai mokosi, toli iš namų išvažiuoja, nevisumet ir vakacijų parvažiuoja. Tur būti, labai namų pasiilgsta...</p>
+      <p>Arkliai suprunkštė, smarkiau sutripsėjo: į savo lauką įvažiavom. Apsidairė aplinkui, sužvengė:</p>
+      <p>— Jau grįžtame, kur jūs, draugai, esate: ar lauke, ar namieje?</p>
+      <p>Įvažiavom į kiemą. Jau namieje. Apsidairiau — viskas kaip buvę. Namiškiai eina vakarieniauti. Ir aš eisiu — paklausinėsiu, ką namieje darė, papasakosiu, ką svečiuose matęs, kaip vaišino. Tik pirma turiu į pirkią nubėgti persitaisyti, kasdieniniais
+        drabužiais apsivilkti.</p>
+      <p>Nepuikūs buvo mano tėvų nameliai. Nedidelė trobelė, žemėje pastatyta, tiktai po sąsparomis po akmenį pakišta. Stogas šiaudais dengtas. Įėjus į priemenę, tiesiog už plytų sienos — virtuvė, kairėje pusėje pirkia, dešinėje — kitas trobos galas
+        bulvėms, daržovėms ir kitiems valgomiems daiktams laikyti.</p>
+      <p>Virtuvėje ugnį kurdavo grjstoje vietoje, prie molinės sienos. Puodą ar ant trikojo statydavo, ar į vaškarą kabindavo. Domai kildavo aukštyn į pakraikę ir pro čiukurą paskui į orą išeidavo. Kaminą tik kiek vėliau pastatyti sumanė. Iš virtuvės
+        kurdavo didelę krosnį, į pirkią, kaip šieno vežimas, įvažiavusią.</p>
+      <p>Pirkioje dviem pasieniais buvo nutiesti suolai, prie jų kertėje stalas pastatytas. Ant to stalo visi valgydavo ir šiaip visokį darbą dirbdavo: vilnas kedendavo, plunksnas plėšydavo, siuvėjas drabužius kirpdavo. Kitose kertėse ir pasieniais lovos
+        stovėdavo.</p>
+      <p>Į pavasarį, iki dar būdavo šalta, į tą pačią pirkią gabendavo avis, susilaukusias ėriukų. Palaikys avį, iki ėriukai kiek sustiprės, ir grąžina į tvartą; į jos vietą kitas paeiliui atkrausto. Kiek vėliau į pirkią įleisdavo žąsį su žąsiukais.</p>
+      <p>Tai mat į kokią pirkią skubindavausi iš svečių. Ir kaip nesiskubinsi, kad mažam namieje begalės darbo ir rūpesnių; reikia pažiūrėti, kas kokį darbą dirba, visiems padėti; ir paukščiai, gyvuliai pamatyti, vasarą ir rudenį per sodą perbėgti. Ryto
+        metą atsikėlęs, būdavo, nežinai, kur pirma bėgti.</p>
+
+    </div>
+<div type="chapter">
+<head>Žiemą</head>
+
+      <p>Žiemą ką veiksi, anksti atsikėlęs? Lauke tamsu, pirkioje viena mama ruošiasi, valgyti verda. Visi kiti išsiskirstę ar girnas suka, ar kulia. Atbudęs paklausi, ką šiandie dirba, ir vėl užsnūsti.</p>
+      <p>Miegi dar gardžiau, kaip iš vakaro, nes žinai, jog aplinkui gyvi žmonės juda. O čia dar dažnai girnos ūžaudamos tau čiūčia liūlia dainuoja arba spragilai toli klojime, vos girdėti, kitą gaidą varo. Paprastai, būdavo, trise kulia ir rimtai,
+        vienodai ta ta ta, ta ta ta tvaksi, tarytum viens, du, trys skaito; dažnai keturiese ta ta - ta ta, ta ta - ta ta kaip traukinio ratai trata. Tik retkarčiais tekdavo girdėti penkiese kuliam, linksmą gaidą ta ta - ta ta ta. ta ta-tatata varant. Paskui
+        šią gaidą Nemune girdėdavau: ją garlaiviai dulsiai dainuoja, ratų sparnais vandeni plakdami.</p>
+      <p>Užtai prašvitus, ūmai keliesi, bėgi pirmiausia ledo išmėginti, paskui darbą padėt dirbti. Tik tai būdavo negera, kad nelabai prie darbo prisileisdavo. Mažą per menką darbininką laiko: to, sako, nepakelsi, ten užsigausi. Jei gyvuliams gausi šieno
+        glėbelį nunešti ir tai bara, kad draikai. O kaip neneši, kad žalis ar keršis taip maloniai į šieną žiūri. Šieną kramtydamas duodasi ir sprandą pakasinėti, ar už rago nutverti O avelės kaip gražiai šieną iš rankos peša: paims, dantimis truktels ir
+        krum, krum kramto, tarytum sako: kad sveikas būtum, tokio gardaus šienelio atnešęs.</p>
+      <p>Ir vištos nesipeikia, kai grūdų paberi. Gaidys, tas tai ir pagiria:</p>
+      <p>— Ot koks, ot koks, — sako. — Pats nesiskubina lesti, pirma vištas paragina.</p>
+      <p>Žvirbliai nekviečiami vištoms į talką šoka.</p>
+      <p>— Mes čia, ir mes čia — čirška. Matyt, gerokai išalkę. Iš kur žiemą ras ką gera vargdienis žvirblelis, kai javai iškulti!</p>
+      <p>Tik žąsinas, vis tiek ko jam atneši, kaklą ištiesęs kažin ką šnabžda, o paskui da nugandinęs pasijuokia, žąsims pasigiria. Kai tuščias pro šalį eini, tai pasivijęs į blauzdas kimba.</p>
+      <p>Labai žąsino bijodavau. Kartą, bebėgdamas pro žąsiną, paslydau ir sukniubau. Tai įkibęs snapu į apikaklę, kai ėmė sparnais šonus tvoti, kai ėmė tvoti. Skaudėti neskaudėjo; rėkiau, šiaukiau tik iš baimės. Gerai, kad mama arti buvo ir išgelbėjo.</p>
+      <p>Nemėgdavau to šnypštuolio. Nemėgdavau už tai, kad mažus gąsdindavo, skriausdavo. Tiesa ir suaugusius vydavosi, tik nekibdavo — nedrįsdavo. Lyginai, kaip koks vaikas peštukas.</p>
+      <p>— Kodel nei sartis, nei žalis taip nedaro? — sakydavau. Kai didelis žmogus jiems bereikalo painiojasi, tai pyksta, o mažo tai ir pasisaugoja, kad neužgautų, kojos nenumintų.</p>
+      <p>Žiemos vakarą turėdavau kitokio darbo: vienam tą daiktą paduosi, kitam kitą ką, o visiems kartu skalą (balaną) pažibinsi.</p>
+      <p>Tikrai nežinote, kas tai buvo tos skalos. Man augant, paprastai ant stalo ar lentynoje maža smilkstanti lempelė žibėdavo, be kaminėlio. Žvakę tiktai didesniam svečiui degdavo. Šiaip kur pažibinti reikėdavo, skalas degindavo.</p>
+      <p>Plonai plonai prisiskaldydavo pušies — kito medžio negali taip plonai suskaldyti. Uždegs tokią skalą ir įkiša kitu galu į sienos plyšį, arba į tam tikrą žibintuvą įstato. Ir liepia mažiems saugoti. Mat, skalos veikiai sudegdavo, del to dažnai
+        reikėdavo naujos žibinti.</p>
+      <p>Užtai vaikams vyresnieji pasakas sekdavo arba kokį žaislelį žadėdavo.</p>
+      <p>Daug daug man visokių pasakų pasekdavo — apie milžinus, apie raganas. Tokių baisių nupasakodavo, kad paskui naktį sapnuodavau. Baisu, baisu būdavo, o klausydavau ir dar prašydavau. Tik vienos pasakos nemėgdavau — apie piemenį ir avis. Kai kam
+        nusibos pasakos sekti, tai ims ir pradės:</p>
+      <p>— Baltrukas ganė paupyje dvaro avis. Jam liepė nuginti avis į kitą pusę. Per upę buvo nutiestas lieptas.</p>
+      <p>Pasakys tiek ir sustos. Prašai, kad toliau pasakotu.— Palauk, sako: lieptas siauras, o avių labai daug. Kai visos pereis, toliau seksiu. Palūkėjęs klausi, ar jau? Dar, sako, ne, da tebeina. Paprastai būdavo ir nesulauki, iki tos avys per upę
+        pereis. Bet lauki, nes kartais ims ir nupasakos dar ką atsiminęs.</p>
+      <p>Labai mėgdavau Orelio pasakojimus. Tai buvo kromininkas — žydas. Jis retkarčiais mano tėviškėje nakvodavo. Aukštas tvirtas vyras, žila barzda, ilga nosim, tirštais antakiais, o taip švelniai, smagiai kalbėdavo.</p>
+      <p>Ateis, būdavo, betemstant, pasistatys savo kromą ant suolo, atsidūsės ir sako:</p>
+      <p>— Gaspadinėle, aš jau labai nuilsęs. Ar neleistum pernakvoti?</p>
+      <p>— Gerai, gerai, kodel ne, — atsiliepdavo mama. — Šiandie spėjom, kad ateisi: katė nuo rytų prausėsi.</p>
+      <p>Nepamenu, kad būtų kada Oreliui neleista nakvoti.</p>
+      <p>Paprašydavo iškepti bulvių, arba duodavo savo katilėlį, kad išvirtų; paklausdavo, ar bus sviesto, ir atsistodavo prieš langą melstis. Pasimeldęs, pasakodavo, ką girdėjęs, ką mieste kalba, o paskui žodis po žodžio prie žydų istorijos prieidavo. Ir
+        imdavo pasakoti, kaip žydai kitados gyveno, kaip juos Dievas mylėjo ir kaip bausdavo, kai nedori palikdavo. Taip gražiai pasakodavo, kad ir dideli ir maži klausydavom.</p>
+      <p>Paskui, kai mokykloje kunigas Senąjį Testamentą dėstydavo, apie Abraomą ar Mozę kalbėdavo, man dažnai Orelis akyse stovėdavo.</p>
+      <p>Juodu, man rodėsi, turėjo būti labai į Orelį panašūs. Abraomas turėjo būti toks, kaip Orelis, kada poterius kalbėdavo. O Mozė turėjo kalbėti į žydus taip, kaip Orelis, kai apie dešimtį Dievo įsakymų pasakodavo — su pakeltomis į dangų akimis,
+        ištiesta aukščiau galvos dešiniąja ranka; du pirštu pririestu, smilius su didžiuoju ištiesti, nykštis iš apačios juodu atremia.</p>
+      <p>Kai Orelis tėviškėje nakvodavo, visi ilgiau vakaraudavom.</p>
+      <p>Tur būti buvo geras žmogus, kad visi jį taip mėgdavo. Tik šuo nieką kitą taip smarkiai nelodavo, kaip Orelį — ligi pat durų lydėdavo, lazdą dantimis griebdavo, kai, paskui save mojuodamas, į pirkią žengdavo. Orelis bepasakodamas ir skalas
+        prisaugodavo.</p>
+      <p>Tos skalos buvo pigus daiktas, užtai ir tamsiai degdavo, smilkdavo; dūmai akis ėsdavo. Dažnai turėdavo duris kelioms minutėms praverti, kad išsivėdintų. Ir iš to būdavo vaikams smagumo. Kai gerai šaldavo, tai kai pravers plačiau duris, tai
+        verčiasi į pirkią balta garo banga ir slenka per visą aslą. Pašokam, būdavo, iš vietos ir bėgam tos bangos pasitikti. Paskui atsigręžę žiūrim, kur ji dings. O banga, ligi pirkios galo nusiritus, į pasuolę nulindo ir tenai pranyko. Tai buvo šalto oro
+        banga. Ji baltavo nuo sustingusio garo. To garo buvo pirkios gyventojai prikvėpavę.</p>
+      <p>Nesmagu būdavo tokiame ore miegoti. Dėlto, kas galėdavo, į kitas vietas miegoti eidavo: vyriškieji į arklidę, merginos į kamarą, o aš su tėveliu — kai jau buvau kiek didesnis — dažnai svirne miegodavau. Šiurpu būdavo į šaltą patalinę lįsti. Dėlto
+        nešdavovos šiltą priegalvį. Tėvelis būdavo pakiša priegalvį po patalais, o aš skubiai taisausi. Iki nusitaisau, lova kiek prišyla. Šokęs į lovą, tuojau susiriečiu į riestainėlį, kad kojos šaltos vietos nepasiektų, o paskui tegul sau spiegas spirgina,
+        kiek nori. Ryto metą taipgi neilgai taisydavausi: iš lovos stodavausi tiesiog į klumpaites, užsimesdavau skrandutę (kailinėlius) ir tauškėdavau į šiltą pirkią. Užtai kartais gaudavau pakosėti, bet tai būdavo mažas daiktas.</p>
+      <p>Žiemą dažnai tekdavo pakosėti. Tai ant ledo perilgai užtruksi, tai į pusnyną įbrisi, tai šerkšnos nuo medžių už apikaklės prisikrėsi — žiūrėk, jau ir imsi storesniu balsu kalbėti, o paskui ir kosėti. Mama saugodavo, kad neužsišaldyčia, bet matė,
+        kokia ankšta ir troški mūs pirkia, tai ir leisdavo pabėgioti, tik būtinai kailinėlius susisagius ir tik valandėlę.</p>
+      <p>Mažas ir per valandėlę suspėdavai daug padaryti. Jau pro langą įsižiūrėdavai, kur naktį sniego daugiau pripustė. Įsižiūrėjęs statesnę pusnyno keterą, neri paskui per smulkų minkštą sniegą. Sniegas tyška į visas puses, į veidą prunkščia. Grįžti į
+        pirkią išsimankštęs, raudonais skruostais, gražiai išsiprausęs, drapanas nuo dulkių ir suodžių apsivalęs.</p>
+      <p>Del šerkšnos visą sodą išbraidydavau. Tik kelis kartus per visą žiemą sodas šerkšna pasipuošdavo, tai kaip nebėgsi pasigerėti. Jau iš tolo yra į ką pasižiūrėti, o kai nubėgi į tarpą medžių, tai tik dairykis — vienas medis gražus, kitas da gražesnis.</p>
+      <p>Gražiausia‘ būdavo sodo gale. Tenai aplinkui tuščią plotelį augo keli tankūs riešutų krūmai, šermukšnis, trys beržai nusvirusiomis šakomis ir dar keletas mažesnių medelių, o toliau siauras, bet tankus miškelis. Aplinkui nieko daugiau per šerkšną
+        nematyti, kaip tik medžiai, tarytum, tyčia baltais kiek žvilgančiais rūbais apsitaisę. Tylu, ramu. Iš karto lyg galva svaigsta nuo tos tylos ir ramumo, lyg širdelė alpsta. Jautiesi kokioje apkerėtoje vietoje stovįs, rodosi, toli, toli nuo namų. Šiaip
+        nejauku esti mažam toliau nuo žmonių nuėjus, bet čionai nė kiek. Tokioje puikioje, švarioje vietoje nieko pikta negal būti. Tik lyg bijai pasijudinti, kad staiga imtų ir nepranyktų toks gražus vaizdelis. Ilgiausiai stovėdavau į berželius įsižiūrėjęs.
+        Taip ir išeidavau iš tos apkerėtos vietos, nė šakelės nepajudinęs. Tik bėgdamas per sodą mažesnius medelius purtydavau, „sniegą darydavau.</p>
+      <p>Kur nors toliau nuo namų tai tik per atadrėkį nuvykdavau — į alksnyną ar šiaip kur netoli važiuojantį palydėdavau.</p>
+
+    </div>
+<div type="chapter">
+<head>Pavasarį ir vasarą</head>
+
+      <p>Jau pavasarį pirkia tuštėdavo. Visi eidavo prie lauko darbo. Paskui žmones išeidavo į jaunutę žolelę ir žąsiukai. Vasarą tik retkarčiais kurs į pirkią įeidavo. Ir miegoti pirkioje retas norėdavo.</p>
+      <p>Pavasarį ir vasarą kojoms daugiau darbo turėdavau, kaip žiemą. Čia vanduo bėga čiurlena, tenai pempės gyvuoja. Ir bėgi griovio kranteliu lenktyn su vandeniu, žiūri, kur koks krioklelis pasidaręs. Kriokia šniokščia vanduo, kai per kokį slenksnį
+        tenka jam verstis; pyksta, kad jį stabdo, trukdo. Mat skubinasi į upelį: upeliu tekės į upę, o upe į jūrą. Taip man sakydavo vyresnieji. Kai kada, būdavo, lentgalį į lauką nusineši, per upelį nusitiesi, kad prie pempių arčiau prieiti galėtum.</p>
+      <p>Pempės kraujasi lizdus vidury balų, kur kupstas koks iš vandens išsikišęs. Prie jų pavasarį lengvai neprieisi. Bet pempės tokios geros būdavo, pamačiusios ateinant pačios atlėkdavo pasitikti, pasirodyti. Atlėks ir sukinėjasi aplinkui gyvuodamos,
+        sparneliais švilpaudamos. Visai arti laksto.</p>
+      <p>Arba pas artoją eini klacnpoji pažiūrėti, kaip žalis su keršiu įsiręžę žagrę tempia, vasarojui dirva rengia. Pasisiūlai ir vaigyti artojui nunešti, kad tik gautum į lauką išeiti, jautelius pamatyti. Geri, ramūs gyvulėliai. Sunkiai dirba ir
+        nesiskundžia. Tik kai atėjęs šalę vagos atsistoji, dėbtelia į tave ramiomis akimis, galvos į šalį nepasukę, tarytum klausia, ar gerti, valgyti artojui atnešei, ar negaus kiek staptelėti, atsikvėpti.</p>
+      <p>Pas piemenis tai ir draudžiamas nubėgi. Ir kaip nebėgsi, kad visi tavo mylimieji gyvulėliai po jų priežiūra jauną žolelę skabo. Labiausiai rūpi, kaip patys jauniausieji elgiasi, kaip prie žolės pratinasi. Ėriukams matyt žolelė nevisai patinka:</p>
+      <p>— Kieta žolė,— skamba laibas ėriuko balselis.— Gera, gera, — storu balsu ragina senė avis.</p>
+      <p>Ėriukas, išgirdęs senės balsą, trypčiodamas jaunomis kojelėmis, kaip kokiais strampeiiais, bėga prie motinos, bene gaus žolę pieneliu užgerti.</p>
+      <p>Ore sparneliais greitai plasnoja, pavasari garbina vėversėlis. Miškelis skamba įvairių įvairiausiais paukščių balseliais. Nori pamatyti, pasveikinti miškelio dainininkus, iš tolimų kraštų sugrjžusius.</p>
+      <p>O paskui kasdien vis nauji darbai laukuose. Sėja, akėja, šienauja.</p>
+      <p>Ar nurimsi namieje, kai tėvelis sėti į lauką važiuoja. Ir lauke paskui vaikščioji, ranka mojuoji, kad ir žemių į saują pasiėmęs barstai Tėvelis gale varsnų sustojęs, atsigręžęs žiūri ir šypsosi.</p>
+      <p>— Štai — sako,— pasisemk grūdų ir užsisek užuoganos galą, pasėlio turėsi.</p>
+      <p>Prišokęs pasisemi grūdų, užbarstai ploteli, tėvelio padedamas. Širdelė iš džiaugsmo plakte plaka. Atsėjęs savo pasėlį, skubiniesi namo mamai, broliukams, seselėms pasigirti. Čia atsimeni savo pasėlio nepažymėjęs — bėgi atgal, pagalėlių kelis
+        pasigavęs. Nubėgęs, įsmeigei keturiuose kampuose po pagalėlį, ir galėtum, rodosi, būti ramus. Bet kas davė. Paskui rūpi pažiūrėti, ar gerai sudygo, ar tarpiai auga.</p>
+      <p>Ir vaikščioji kas kelinta ar keliolikta diena savo pasėlio pasižiūrėti. Aną dieną pasveikinai ką tik iš žemės išlindusius smulkius žalius avižų ar miežių diegelius, o šiandien jau jie tau linguoja, tarytum tave pažinę sveikinasi. Dar kiek laiko
+        praėjo, žiūri — tavo užuoganos galas tirštai sužėlęs, laiškas su laišku šnabždasi, varpas krauti tariasi. Gerokai pasisnabždėję, paskutinai susitarę miežiai iškiša stačius ūselius, avižos savo kaseles parodo.</p>
+      <p>Kiti augalai kitokį gimsta. Linas, iškišęs iš žemės porą žalių skiltelių, iš jų tarpo leidžia tiesų stiebelį, siauručiais lapeliais iš visų pusių apsagstytą. Žirnis, daug platesniais lapeliais iš žemės prasikalęs, plačiau ir auga, iš karto daugiau
+        sau ploto pasiskiria, kad turėtų kur paskui keroti. Kas javas kitoks dygsta, kitaip auga.</p>
+      <p>Vasarojų atsėjus, laukuose kiek aprimsta — žmonės labiau aplink namus ruošiasi. Man rodydavosi, kad dideli tyčia į laukus neina, kad vasarojas gautų ramiai želti. Tik į dangų dažniau žiūri, ar veikiai lietaus bus, kad vasarojas tarpiau augti
+        gautu, rugeliai smarkiau kiltų.</p>
+      <p>Dar vasarojas tebeauga, rugiai bręsta, o vyrai jau dalgius taisosi, plakasi, šienauti rengiasi.</p>
+      <p>Šienpiūviai būtinai reikia lauke atlankyti.</p>
+      <p>Namieje aiškiai girdi, kai dalgius pusto. Suvoki, kur šienauja, ir vingiuoji per lauką pažįstamais keleliais, grioveliais. Štai ir šienpiūviai. Taikstaisi gauti dalgį pamėginti, luokais paduoda. Vos iš vietos dalgį pakeli.</p>
+      <p>— Da permažas esi,— sako šienpiuvys. Kai užaugsi, prisišienausi.</p>
+      <p>Pasipustys dalgį ir vėl skuta pievą, linguodamas, svyruodamas. Tik kartas nuo karto primena, kad po dalgiu nepaimčiau.</p>
+      <p>Pats beveik vienmarškinis, išraudęs; pradalgę nuvaręs, rankove prakaitą šluostosi.</p>
+      <p>— Ar ir tau sunku šienauti, kad taip prakaituoji? — klausiu.</p>
+      <p>— Sunku, tai sunku, o reikia žaliui ir sarčiui duonos žiemai pagaminti.</p>
+      <p>Džiaugiuosi, kad taip žaliu ir sarčiu rūpinasi. Namo parėjęs, prašau mamos, kad šienpiūviams gardesnių pusdienių duotų.</p>
+      <p>Po vidurvasario dar daugiau darbo lauke, dar sparčiau visi kruta, juda.</p>
+      <p>Štai jau ir rugiai nunoko. Žaliavo, žaliavo sau rugučiai, kaip ežero vanduo liūliavo, tik kasdien vis labiau varpos žemyn linko, sviro. Paskui striuku laiku nubalo, dar labiau palinko.</p>
+      <p>Štai tėvelis iš lauko parsineša kelias varpas nusiskynęs.</p>
+      <p>— Jau bus laikas rugiai kirsti, — girdžiu sakant.</p>
+      <p>— Tur būti bus laikas, kad jau toki balti, — pritaria namiškiai ir ima teirautis, su kuo susidėję kirs, kada pradės.</p>
+      <p>Aš klausau ir dėmiuosi, kad pirmosios dienos nepražiopsočiau.</p>
+      <p>Atėjo paskirtoji diena. Keliuosi anksčiau. Iš lovos bėgu tiesiog už vartų paklausyti, kur kerta, iš kur pradėję. Girdžiu, kurioj pusėje dalgiai žvanga, o kirtiku per rugius nematyti. Greitai papusryčiavęs, bėgu pakniopštoms sugalvotu keliu.</p>
+      <p>Štai ir kirtikai. Pirmu dalygiu eina mūs Kazys su savo griebike. Paskui jį dar dvi poros seka. Rugiai su dalgiu pasibarę ant šono gula; griebikės juos į glėbį suėmusios į pėdus riša ir guldo eilėmis.</p>
+      <p>— Padėk, Dieve! — šaukiu.</p>
+      <p>Taip mama pamokė.</p>
+      <p>— Dėkui, dėkui! — atsiliepia keli, mano balsą pažinę. Tik nė vienas nesustoja, dargi neapsidairo: vyrai remžia, kaip remžę, moters linguoja griebia; kai pėdą sugriebs, suriš, į šąli numes ir vėl linguoja, kirtiką vejasi. Kad atbėgau — jiems
+        nenaujiena: visur ir visados vaikai taip darė ir daro.</p>
+      <p>Kiek pažiopsojęs, bėgu pas tėvelį — jis pėdus statinėja. Kojos basos, rugienos dygios — stypčioju, kaip gandras. Tėvelis girdėjo, kai kirtikus sveikinau, matė, kad atbėgu. Kelis žodžius pratarė nesustojęs ir toliau savo darbą dirba; pakėlęs vieną
+        pėdą, švystelia sau po pažaste, antrą antra ranka po kita pažaste pasideda ir neša pastatyti prie kitų į rikę (gubą) arba naujai rikei pradžią padaro.</p>
+      <p>Padėjęs kelis pėdus panėšėti, grįžtu namo mamai pasakyti, ką tėvelis įsakė. Kai tėvelis lauke dirbdavo, dažnai tai vandens prašydavo atnešti, tai primindavo ką apie gyvulius.</p>
+      <p>Neilgai trukus, aš vėl pas kirtikus — atėjau pietų šaukti. Paskui atnešu pusdienių — ne tiek pats nešu, kiek mamai ar kam kitam padedu. Jaučiu, kad dideli darbą dirba. Pajėgčiau, tai pats padėčiau, kad greičiau nudirbtų. Kad pagaliau gražiai
+        suvežtų. Kai rugučiai po stogu, tai badas į dausas — taip tėvelio tėvas sakydavęs, o norėdavęs pasakyti, kad tada bado nebus.</p>
+      <p>Tą pačią dieną randu reikalo dar kokį kartą, kitą atbėgti. Atbėgęs dažnai netikėtai kokią naujieną randu. Tai ežiuką tarplysyje užtiko. Kažin kodel nenubėgo tolyn, tur būti iš baimės čia pat susirietė į kamuolį ir guli. Tai kurapkų lizdą užėjo.
+        Kurapkyčiai jau išriedėję, išbėgę, tik kiaušinių lukštai lizde belikę, o kartais ir koks užperėtas nesudužes kiaušinis tarp lukštų įsimaišęs. Tokį kiaušini tuojau nešdavausi namo. Visokių buvau prisirinkęs. Taip trypinėdavau per rugiapiūtę kokias
+        tris dienas.</p>
+      <p>Vasarą vienas darbas baigiasi, kitas prasideda — darbas darbą veja, o aš prie visų pribūvu.</p>
+      <p>Dažnai, būdavo, vyresnieji klausia, ar man kojelės nenuilsta taip einant, bėgiojant. Sakydauvau, kad ne. Ir teisybę sakydavau: kai savo noru eidavau, kur norėdamas sustodavau, atsisėsdavau, tai ir nenuilsdavau.</p>
+      <p>O jie patys dar daugiau už mane suvaikščiodavo, dalgiu bemojuodami, grėblį betraukdami, tik prieš mane nesiskųsdavo. Ateini rytą, ateini dieną, pavakare — vis juda ir vis tą patį darbą dirba. Stebėdavausi, kaip jiems nenubosta. Dažnai ir
+        paklausdavau, o jie sau juokuoja: artojas sakosi duoną raikąs, kirtikai pyragų man rūpiną, linų ravikės marškinių gaminančios — kas čia nusibos. Tarp savęs, rodosi, kitaip apie darbus kalbėdavo.</p>
+      <p>Neužsimiršdavau ir piemenų aplankyti. Piemens su savo banda paskui darbininkus sekdavo: nušienavo, nuvalė pievą — jau jie gyvulius ant naujos žolės paleido, nuvalė rugius — tuojau į rugienas įsiginė. Juo laukai tuštėjo, juo daugiau vietos
+        gyvuliams. Mažiau lauke javų — lengviau ganyti. Ateina smagiausios piemenų dienos: ne tiek gano, kiek žaidžia.</p>
+
+    </div>
+<div type="chapter">
+<head>Rudenį</head>
+
+      <p>Rudenį piemenims da mažiau rūpesnio. Tik tiek negera, kad oras atvėsta, lietus dažniau plaka.</p>
+      <p>Vasarą sulis ir tuojau saulutė išdžiovins. Rudenį ta pati saulutė lyg sutingus, lyg nuilsus — nepakyla taip aukštai, kaip vasarą. Paprastai ištižusi už debesų slapstosi, tik tarpais pro debesis į žemę linksmiau pasižiūri. Jei retkarčiais
+        nusiteikus ir visą dieną šviečia, tai kažin kaip vėsiai, drėgnai. Per savo šešėlį ir vidudienį nemėgink šokti — neperšoksi, toks ilgas.</p>
+      <p>Nuo lietaus ir po medžiu nepasislėpsi: lapai sumenkėję, paretėję, patys permirkę. Ir paukšteliai nutilsta, į tolimą kelionę rengiasi.</p>
+      <p>Tik krekždės trukšmingai į būrius telkiasi, žy! žy! šaukdamos oru šaudo. Ne taip linksmai šūkauja, kaip parlėkusios kad pavasarį skelbia. Ir joms tolima kelionė rūpi — kas žino, ar gerai pavyks.</p>
+      <p>Piemenims irgi ne taip smagu ganyti, kaip pavasarį, bet jie nenusimena. Laukai tušti, ganyk kur nori. Lengva ir su kaimynais suginti. Būdavo, vienas du pasiskirstę gano, o dabar, kaimines į krūvą susivarę, keturi, kartais ir daugiau, sau ripką
+        ridinėja, ar kiaulelę varinėja, arba žiūri, kaip jaučiai imasi, ar avinai įsibėgėję kakta į kaktą skaidosi. Pasišildyti ugnelę susikuria, bulvių prasimanę išsikepa. Nėra gardesnio valgio, kaip lauke kepta bulvė, kai vėsokas rudens vėjas švilpauja,
+        sermėgėlės skvernus tampo. Dažniausiai bulvė esti tik per pusę iškepus — vienas šonas apdegęs, kitas dar kietokas, užtai ir rankos belupant sušyla ir širdis atsigauna.</p>
+      <p>Suginę bandas, piemens tuojau suleisdavo jaučius ir avinus, kad persiimtu — rūpėdavo žinoti, kieno kuris gyvulys stipresnis. Po kelis kartus duodavo persiimti, kad tikrai žinotų.</p>
+      <p>Labai mėgdavau žiūrėti, kaip jaučiai imasi. Jau ištolo riaumodami, įsiręžę, kojomis žemę kasa, tarytum norėtų pasakyti: žiūrėkit, kokios mano kojos stiprios. O kur susirems, tai dirvą toje vietoje kaip arte išaria. Avinas prieš aviną netaip
+        smarkiai eina, užtai mušasi, iki visai nenuilsta. Esti, kad vienas krenta, kaip užmuštas, vos paskui atsipeikėja.</p>
+      <p>Ir piemenukai, neilgai laukę, persikrėsdavo ir šiaip ir taip: tai rimtai, pirma ramiai per petį apsikabinę, vienas kitą paguldyti stengiasi, tai su visokiomis gudrybėmis apgalėti mėgina — stengiasi per liemenį apkabinti, per koją, per galvą (pats
+        krisdamas) versti — kaip kuomet susitardavo. Dažnai su gudrybėmis ir menkesnis apgalėdavo, juokų pridarydavo.</p>
+      <p>Ugnelę lauke pamatęs, neiškęsdavau ir šaltą dieną pas piemenis nenubėgęs. Pasiprašydavau mamos bulvių ir dumdavau pas piemenis. Iš tolo rėkdavau, gandą duodavau, kad bulvių atsinešu. O kai sviesto dar gaudavau nusinešti, tai visą pokilį turėdavom.</p>
+      <p>Kad lietus ugnelės negesintų, piemens griovių krantuose išsikasdavo tam tikras krosnis; dažnai ir kaminą iš velėnų ar akmenų pasistatydavo, kad geriau dūmus trauktų.</p>
+      <p>O patys gūniomis dangstydavosi: iš šiaudų nusipindavo gražius apsiaustus, kaip miestelėnų pelerinos. Ir man už bulvių nešiojimą buvo tokią gūnią padarę. Vargu kuriuo kitu drabužiu esu taip džiaugęsis.</p>
+
+    </div>
+<div type="chapter">
+<head>Kad greičiau augčiau</head>
+
+      <p>Ar į mažą kas žiūri, ar mažas gal ką nudirbti? Ir botago, sako, nenuvaldo, o grėblio, dalgio ir į rankas neduoda. Del to mažas vis nori augti ir sutinka viską daryti, kas augti padeda. Ir gulti anksčiau eina, nors ir norėtų kartais ilgiau
+        pasėdėti, pasakų pasiklausyti; ir doras dažnai esti, kada nenor būti doras, nes mama sako, kad nedori neauga. Ir aš norėjau greičiau augti. Prieš Kalėdas septintus metus turėjau pabaigti. Tuo labai džiaugiausi, o mama sako: — Kai sveiki sulauksim
+        vasaros, jau galėsi ganyti padėti.</p>
+      <p>Man tai labai patiko — jau nebe būsiu mažas pastumdėlis, būsiu visas piemuo. Tiems metams tėveliai tik vieną piemenį buvo pasamdę.</p>
+      <p>Atėjo pavasaris. Saulutė, kasdien aukščiau danguje kildama, nuvarė nuo laukų sniegą. Balose laukinės žąsys sugageno, sausose vietose vėversėlis savo čiru-viru užtraukė, artoją į lauką kviesdamas.</p>
+      <p>Pirmutinis, kaip visumet, Kalvaitis vėversėlio paklausė. Jo laukas buvo įkalnus, nuotakus, tai greičiau pradžiūdavo. Kai jo jaučiai, būdavo, kalvoje pasirodo, tai ir kaimynai jungus iš pastogių traukiasi.</p>
+      <p>Saulutė vis smarkiau šildė, laukus skubinosi džiovino. Visi subruzdo arti, sėti, akėti. Ganyti plotas sumažėjo, reikėjo geriau gyvuliai saugoti, kad sėtojo lauko nenumindžiotų. Atėjo ir mano eilia į lauką eiti.</p>
+      <p>Mama davė man botagėlį ir vieną dieną po pusryčių išsiginiau kiaules. Labai mėgdavau piemenims padėti, o tą dieną kažin kodel neturėjau didelio noro — ilgai rengiausi, kažin ko ieškojau, tarytum būčiau į tolimą kelionę rengęsis.</p>
+      <p>Mama padėjo viską surasti, pyrago riekelę į kišenę įdėjo, pro vartus palydėjo. Vartuose dar vieną reikalą atsiminiau.</p>
+      <p>— Mama,— paklausiau,— o kas kiaušinius surinks? Vakar dar vieną gūštą dilgėlėse radau. Ten raiboji pradėjo dėti.</p>
+      <p>— Pats surinksi, perpietės parginęs. Varykis kiaules į dobilieną. Nesirūpink.</p>
+      <p>Nusivariau, kur buvo įsakyta. Ganau, o vis rūpi, ir raiboji kur kiaušinį padės ir daugelis kitų reikalų, o kiaulių vienų palikti negali.</p>
+      <p>Perpietės parginęs, rankas sudėjęs nesėdėdavau. Bėgiodavau, savo reikalus atlikdavau. Rodosi viską padariau, kas man rūpėjo, visur buvau, kur reikėjo, o kai reikia kiaulės ginti, tai dar šį tą atsimeni. Ir varaisi ilgaveides į lauką, rodosi ne
+        viską namieje atlikęs. Ir vėl namai rūpi.</p>
+      <p>Ne tokia smagi ganiava, kaip pirma atrodė. Bet ką padarysi? Reikia. Visi toki, kaip aš, ganė, ir aš ganiau. Kai pirmą kartą buvau išginęs, ėjo pro šalį Kazys kažin kokio padarinio iš lauko parsinešti.</p>
+      <p>— Ar jau ganai? — klausia.</p>
+      <p>— Ganau.</p>
+      <p>— Ganyk, ganyk. Kiaulių neganęs, vyras nebūsi.</p>
+      <p>Ir kiti taip pat sakydavo.</p>
+      <p>— Mažas piemenėlis, didis vargdienėlis, — nuskusdavo mama, kai pavargęs iš lauko pagrįždavau.</p>
+      <p>Kai kada ir labai pavargdavau. Juk ir ganydamas, nuolat akis ištempęs į deglųjų buri nežiūrėsi. Reikia ir botagėlis naujas nusivyti, ir švilpynaitė birbynaitė pasidaryti, arba šiaudinė kepurė nusipinti. Pritūpęs griovelyje dirbi, o degloji knisus
+        knisus pakels galvą ir dairosi, ar nėra kur javų kokių. Labiausiai bulves mėgdavo. Apsidairius, permanius, kur kas aplinkui auga, ir eina sau palengva, iš būrio skiriasi. Kai nepamatysi, nesuniūksi, tai ir dings kur javuose. Dažnai, ir
+        apsidairydamas, nepamatysi—grioviu nuslinks. O paskui ieškok ieškojęs. Kai kartą pavyks ku: gerai pasisotinti, tai paskui ir saugodamas nenusaugosi.</p>
+      <p>Kartais ir nyku lauke būdavo. Vaikštinėji ar sėdi kur gale lauko toli nuo žmonių. O ką, kad šuo koks negeras atbėgtų, iškur ką prisišauktum? Ir dairaisi aplinkui, ar kur šuo nebėga. Biauriausia būdavo, kai javai paūgės. Kiaulės, žąsys į javus
+        smelkiasi. Kai nori išsaugoti, turi palei javus vaikštinėti, o čia baisu, kad koks pasiutėlis neiššoktų.</p>
+      <p>Neturėjau nelaimės, kad šuo iškur netyčiomis išlįstų. Už tai kiškiai dažnai nugąsdindavo. Miega sau kiškelis papievyje, avižose. Piemenuko nesibijo: gali šūkauti, kiek nori, iš vietos nepasijudins. Tik kartais pats kažin ką pasapnavęs, ar kito
+        gyvulėlio išsigandęs, pakils ir bėga iš avižų į pliką lauką.</p>
+      <p>Sušnabždės avižos, krūpteli ir lauki nutirpęs, kas iššoks. Stryktelėjo pagaliau kiškelis į pievą — visai kojas pakirto. Iš karto visados pasirodo, kad šuo; tik davus kiškiui kelis šuolius, pamatai, kad tai nekalčiausias, nieko niekumet nejžeidęs
+        gyvulėlis.</p>
+      <p>Šventą dieną į galą lauko ir negindavau. Žmonių laukuose nematyti — ar į bažnyčią išėję, išvažiavę, ar namieje sėdi. Aplinkui tylu. Netiktai šuns bijai, bet dar kokios kitos baidyklės vaidinasi. Labiausiai vidudienį, kai smarkiausiai saulė
+        kaitina. Rodosi ir alksnynas, ir javai knibždėte knibžda — štai štai pasirodys kas. Ir darosi nyku, nyku — imtum ir bėgtum, neatsigręždamas. Geriau tokią dieną panamėje ganyti, ir dideli piemens paprastai šventą dieną panamėse ganydavo. Kitiems gal
+        sodas rūpėdavo, bet dauguma iš baimės.</p>
+      <p>Perpiete tik būreliais susitarę į miškelius uogauti eidavom. Iki eidami kalbamės, tai dar nieko. Tik kai nutilsim, tai taip nyku darosi. Labiausiai kaitrią, nevėjuotą dieną. Javai stovi kaip sužavėti, tik rugiai tai vienur, tai kitur staiga
+        sujuda, susiūbuoja, oro sūkurėlio pagauti, ir vėl stovi, tarytum ko laukia, klausosi. Ir imawi patys nutilę klausyti. Tik retkarčiais paukštelis koks balsiau šūktelės, už tai aplinkui žiogeliai savo cik-cik-cik be paliovos, kaip susitarę, varo. Ir
+        rodosi, kad štai kas iš kažin kur pasirodys, mus apsiaus ir sveiki dingę.</p>
+      <p>Kartą pusę kelio į miškelį nuėję, vienas į kitą pasižiūrėję, nieko nesakę, apsigręžėm ir parbėgom namo. Paskui visi gynėmės:</p>
+      <p>— Ne aš pirmutinis sustojau, ne aš pradėjau bėgti.</p>
+      <p>Tik kai iš bažnyčios važiuoti, eiti pradėdavo, tai lauke ramiau pasidarydavo.</p>
+      <p>Pasiutęs šuo, tai didžiausias piemenų ir šiaip vaikų kankintojas. Kartą grįžau iš kaimynų. Gale lauko, ant pat sienos, žiūriu, šuo guli. Didelis rudas šuo.</p>
+      <p>Geras lauke negulės, tai bus pasiutęs. Kur dingsiu? Už kelių žingsnių augo gluosnelis. Aš prie gluosnelio. Iš baimės vos įsikrausčiau ir laukiu, kada šuo pakils ir nubėgs. Bet kur tau — jis nė iš vietos, tik galvą sukinėja, į šalis dairosi. Buvau
+        girdėjęs, kad pasiutę šunes labiau naktį bėgioja, o dieną dažniausia guli, jei kas iš vietos nepajudina. Kas daryti? Imu šaukti. Bet namai toli, niekas negirdi. Tik štai žiūriu — žmogus eina; tai kaimynas iš miesto grįžo. Aš šaukti. Prieina artyn ir
+        klausia nustebęs.</p>
+      <p>— Ko gi, vaikeli, šūkauji į medį įlipęs?</p>
+      <p>— Pasiutęs šuo! — sakau.</p>
+      <p>— Kur?</p>
+      <p>— Gi štai, dėde, prie pat griovelio guli.</p>
+      <p>Kaimynas pažiurėjo, kur rodžiau, ir ėmė juoktis.</p>
+      <p>— Tai ne šuo, tai velėnos. Aną dieną griovelį čionai valiau, velėnas į vieną vietą sumečiau: žolė nuo saulės parudavo, dėlto taip atrodo. Lipk, vaikeli, iš medžio ir bėk namo.</p>
+      <p>Ir džiaugsmas ir gėda. Palengva išsikrausčiau iš medžio ir nucimpinau namo.</p>
+      <p>Tik kelintą dieną nusipasakojau, kokios baimės turėjau.</p>
+      <p>Ganiau, vargau ir laukiau, kada didelis užaugsiu. Tai ir ganyti nereikės, ir šunų nebijosiu.</p>
+
+    </div>
+<div type="chapter">
+<head>Naujas darbas — naujas vargas</head>
+
+      <p>Aštuntų metų vaikui jau ir žiemą darbo duodavo. Dar už ganiavą nuobodesnio. Pasodins draugia su kitais namiškiais už stalo, atneš vilnų pluoštą — pešiokit, kedenkit. Sėdi ir kedeni, nes iš tų vilnų sermėgėlę žada išausti. Ir plunksnas plėšai, kad
+        būtų kuo priegalvėlis papildyti. Kad darbas sparčiau eitų, lenktynes, badavo, varom — kas daugiau plunksnų suplėšys, kas greičiau paskirtą vilnų glėbį supašios. Pirštai kruta, dirba, o kas nors pasaką seka, arba šiaip kokius nutikimus pasakoja.</p>
+      <p>Man vilnos kedenti ir plunksnos plėšyti greit nusibosdavo.</p>
+      <p>— Verčiau, mama, kito darbo duotum,— paprašiau mamos.</p>
+      <p>— Gerai, — sako, — gausi.</p>
+      <p>— Kokio?</p>
+      <p>— Pamatysi.</p>
+      <p>Džiaugiausi gausiąs kito darbo, tik rūpėjo — kokio.</p>
+      <p>Vieną dieną mama išsitraukė iš pabalkės abėcėlę.</p>
+      <p>— Štai skaityti mokysiesi. Petraičių Kaziukas už tave jaunesnis, o jau slebizuoja.</p>
+      <p>Ir man davė slebizuoti. Raides jau mokėjau. Išmokau be klausydamas, kai vyresniąją seserį mokė.</p>
+      <p>Mama išslebizavo eilutę ir liepė man kartoti, o pati pasiėmė pirštinę megzti.</p>
+      <p>Nuo tos dienos regzdavau, slebizuodavau kasdien po valandėlę. Ar nelabai sekdavosi, ar del ko kito vieną dieną tėvelis išsitraukė iš pabalkės žąsies plunksną, didelę, tur būti iš senės sparno išrautą, įskėlė, pasmailino ir atsisėdęs prirašė
+        poperyje visą eilę vingelių. Paskui liepė atsinešti žemą kėdelę, pasodino mane prie suolo, kur šviesiau, ir liepė tokius pat vingius rašyti.</p>
+      <p>Rašyti man labiau patiko, kaip slebizuoti. Atsisėdęs, galvą pakreipęs, vadžioju vingius, o plunksna čirška, tarytum su manim kivirčijasi, kad valdyti jos nemoku. Prašiau plieninės, tik tėvelis nedavė. Žąsine, sakė, minkštesnė esanti, rankos
+        nevarginanti.</p>
+      <p>Pavingiavęs kelias dienas, gavau raides rašyti. Buvo sunkiau, užtai įdomiau. Labiausiai man patiko, kad kai raides rašyti pradėjau, mama abėcėlę atgal į pabalkę įkišo. Ten ji ir liko kyšoti, o aš tą visą žiemą rašęs, kitą žiemą tiesiog iš maldų
+        knygos gavau skaityti. Ir galėjau skaityti jau neslebizuodamas.</p>
+
+    </div>
+<div type="chapter">
+<head>Mano draugai</head>
+
+      <p>Rašyti man padėjo mokytis mano draugas Fricas. Jis gyveno gale lauko, Molynėje. Taip vadindavo molio krėstą pirkelę. Toje bakūžėlėje jo tėvas plėškes ir balnus dirbdavo. Fricas buvo už mane dvejais . metais vyresnis. Kai aš pradėjau rašyti, jis
+        jau antra žiema mokyklą lankė. Jis man labai patikdavo, kad mokėdavo šaujamuosius lankus dirbti. Išsipiaus, būdavo, iš riešutyno lygią lazdą, palengva sulenks, tvirta nestora virvele sutrauks. Tokių gražių virvelių iš tėvo gaudavo. Smagu būdavo į
+        rankas toks saidokas paimti. O kad strėlą nešdavo! Per aukščiausią medį, būdavo, perlekia. Ir strėlų niekas tokių padaryti nemokėdavo: tiesi, lygi, švelni. Mat jo tėvas aštrių peilių ir kitų prietaisų turėdavo. Kad strėla smigtų, į storesnjjį galą
+        (pirmagalį) vinelę įkaldavo ir da pasmailindavo.</p>
+      <p>Iš jo ir aš išmokau ir šaudyti ir pats lanką pasidirbti.</p>
+      <p>Šaudydavova į svirno duris, skritulį užsibrėžę, eidavova paukščiukų medžioti. Į skritulį gerai pataikydavova, o paukščiuką tik vieną esu pašovęs.</p>
+      <p>Gerai atsimenu. Ant svirno kraiko ramiai tupėjo, čiauškėjo jauna kregždelė. Įtempiau saidoko stygą. Nutiesiau strėlą, kairiąją akį primerkęs, ir paleidau. Strėla palietė kregždelę ir vargdienė, sparneliais plasnodama, nusirito žemyn, kliūdama už
+        šiaudinio stogo. Strėla tik krašteliu galvelę užgavo, apsvaigino ir akelę sužeidė. Iš antakėlio kraujas sruveno.</p>
+      <p>Kregždelė netrukus atsikvošėjo ir pakilus nulėkė, svyruodama, skurdžiai čypsėdama, tur būti tėveliams pasiskųsti, prašyti, kad pagydytų</p>
+      <p>Metęs lanką į šalį, nuėjau į galą sodo, atsisėdau. Ir man vis rodėsi, kad girdžiu, kaip kregždelė čypsi, kaip mama ją glamonėja ir sako:</p>
+      <p>— Pagysi, vaikeli, pagysi. Tai koks piktas žmogus tave taip sužeidė.</p>
+      <p>— Ne, mama,— čypsi kregždytė, — tai buvo vaikas. Jis negalėjo būti piktas, aš nieko jam negera nebuvau padariusi: ant kraiko tupėjau, ilsėjausi, saulutėje šildžiausi. Tai netyčiomis. Paskui vaikas mane pagavo, paglamonėjo ir paleido.</p>
+      <p>Nuo to karto pasižadėjau paukštelių nebešaudyti ir kitus drausdavau.</p>
+      <p>Kaimynuos, čia pat už daržo, augo du vaiku beveik mano vienmečiu. Augo juodu poniškai. Turėdavo visokių žaislų. Tų žaislų aš jiemdviem nepavydėdavau, delto, kad ir aš visokių turėdavau — piemens padarydavo. Vienas buvo tikras račius. Padarė man
+        vežimėlį, paskui roges; nudrožė iš medžio keletą arklių — gražių tokių: riestais sprandais, ausys stačios, uodega ilga, kojos išraitytos, kaip bėgant.</p>
+      <p>Turėjau „vilkelį“. Tai toks gumulėlis su laiba kojele, iš medžio išdrožtas. Kai apsuki vilkelio kojelę virvele, įstatai į tam tikrą rankenėlę, virvelę patrauki, tai iššokęs sukasi asloje, ūžia, iš kertės į kertę bėgioja. Ilgai sukasi.</p>
+      <p>Iš žąsies krūtinės kaulo pats mokėdavau oželį pasidaryti. Iš žąsies sparnakaulio šautuvėlį išsidroždavau. Tai būdavo abiem galais kiauras vamzdelis. Vieną galą įsmeigi į bulvę ir pasuki į šoną — vamzdelis užsikemša bulves grižinėliu. Tą grižinėlį
+        nustumi tam tikra stūmele į kitą galą ir vėl pirmuoju galu skverbi bulvę. Kai paskui antrąjį grižinėlį stumtelsi į vamzdelį, tai pirmasis pykštelėjęs išlekia. Per visą kambarį lekia.</p>
+      <p>Kitų žaislų dabar ir nepamenu.</p>
+      <p>Bet labai norėdavau turėti tokias pačiūžas, kaip juodviejų. Ne tokios jos buvo, kaip dabar kad vaikai turi; buvo medinės, tik bėgeliai geležiniai, tokie pat, kaip dabar. Kulnavietėje sraigtelis, į apavą įsukamas; ties pirštais būdavo šikšnelėmis
+        priveržiamos. Mano pačiūža buvo tokia pat medinė, tik apačioje ne geležėlė, o stora geležinė apvali viela įleista. Juodu čiužinėdavosi abiem kojom, žingsniuodami, kaip ir dabar čiužinėjasi.</p>
+      <p>Aš prie dešinėsės kojos savo pačiūžėlę prisirišęs, kairiąja pasispirdamas varydavausi. Juodu, būdavo, sukinėjasi ant ledo, kaip patinka, o aš tik po tiesumui galėdavau smarkiau paklibikštuoti; apvalia viela juk į ledą neatsispirsi. Taigi
+        pavydėtavau, kad juodu galėdavo po kūdrą skraidyti nestodami, o aš negalėdavau apsisukti nesustojęs.</p>
+      <p>Kartu su šitais draugais ir plaukti išmokau. Būčiau galėjęs ir iš piemenukų išmokti, tik jie kūdroje maudydavosi, o aš į kūdrą bristi bijodavau Kai pasižiūri į kūdrą, tai tokia gili, gili; toli, toli dugne debesys matyti. Rodėsi, kai žengsi į
+        vandenį, tai ir sveikas dingęs — kažin kur nugarmėsi, į tuos debesis nusileisi ir nebeiškilsi.</p>
+      <p>Žinojau, kad taip tik rodosi — juk ir piemens maudydavosi ir karvės tokios sunkios braidydavo ir nenugarmėdavo. Bet bijodavau ir tiek. Anuodu kaimynu, mat poniški, tai kūdroje nesimaudydavo, į Šešupę eidavo. Šešupės nebijojau; jos vanduo būdavo
+        giedrus, dugną aiškiai matydavau — žinodavaus kur koją statąs. Į Šešupę buvo netoli — beveik kasdien nueidavom. Mokėmės plaukti prisispirdami. Iš pradžių, į karklus įsikabinę, kojomis į vandenį mušdavom, o paskui ir be karklų bandėm vandenyje
+        laikytis. Bandėm, bandėm ir išmokom plaukti.</p>
+      <p>Prieš maudydamiesi pameškeriodavom. Įdomu būdavo saugoti meškerės plunksnelė, ar nepradės judėti. Krustelėjo plunksnelė — vadinasi, žuvis kabina. Truktelėjai kiek meškerę ir akis įsmeigęs lauki, kada nugrims. Štai ir nugrimzdo. Pritūpęs, Iškėlęs
+        meškerykotį, švystelėjai žuvytę ant kranto ir bėgi žiūrėti, ar didelė. Tik nuo vąšelio nuimtį būdavo nemalonu — žuvytės būdavo gaila.</p>
+      <p>Pagaudavom po vieną, antrą, kaip sako — nei virti, nei kepti, tik pažaideį kiek. Meškeriojęs taip pat netrukus palioviau, kaip ir medžiojęs.</p>
+      <p>Kitų savo draugų ir nepamenu. Jų buvo daug. Draugavau su visais piemenukais. Jie išmokė mane malūnėlius dirbti, arkliukus iš medžio piaustyti, švilpynaites iš molio lipinti. Išmokė ir nedoro darbo— paukščiukų gaudyti.</p>
+      <p>Gražus, malonus paukščiukas dagiliukas, labai kanapių sėklas mėgsta. Pasidirbdavom iš balto ašuto kilpelių, pasinerdavom ant siūlo, tuo siūlu apvyniodavom gražiausios nunokiausios kanapės viršūnę ir saugodavom, kada dagiliukai atlėks
+        pasmaguriauti. Paukščiukams nė motais būdavo, kad mes tokias žabangas jiems rengiame. Atlėkę drąsiai tūpdavo į kanapes, nuo vienos ant kitos šokinėdavo, gražiai besikalbėdami. Tik štai vienam kojelė įsipainiojo: pataikė į kilpą atsistoti, norėjo į
+        kitą vietą purptelti ir kilpa užsinėrė. Plesda sparneliais, nor išsprukti—tik toks mažas paukštelis ašuto nenutrauks. Mes, pamatę kas nutiko, skubinamės, bėgam į kanapes. Išpainioję dagiliuką, nešamės į narvelį.</p>
+      <p>Nė vienas paukštelis geruoju nesutinka narvelyje gyventi. Blaškosi, daužosi į narvelio stipnius, iki nenuilsta. Tik gerai išalkęs mėgina lesti, kas paduota, ir tai pirma apsidairo, ar žmogaus nėra arti narvelio. Narvelyje visas paukštelio
+        linksmumas žūsta. Norėtum, kad giedotų — čiulbėtų, o jis tarytum visas savo giesmes pamiršęs.</p>
+      <p>Į kertę įsispraudęs, ar laktelėje tupi ir rodosi ką galvoja, ko laukia; kai arčiau prieini, bailiai žvalgosi.</p>
+      <p>Ima nykti, šiauštis ir kai nesuskumbi paleisti, tai ir randi kurią dieną negyvą. Kai matydavau, kad paukštelis narvelyje nerimsta, bandydavau paleisti į kambarį. Kambaryje dar greičiau galo susilaukdavo — katė paplaudavo.</p>
+      <p>Šitas įsimanymas tėveliams nepatiko — dažnai pabardavo, už ką paukščiukus kankinu. Ir Kazys tokio darbo nepagirdavo. Kartą ėmė ir pasakė, šiurkščiai pasakė:</p>
+      <p>— Ką tu tokius niekus dirbi! Tur būti piemens išmokė.</p>
+      <p>Su Kaziu labai geru gyvendavova. Niekad su manim taip šiurkščiai nekalbėdavo. Ėmiau tuojau ir paleidau paukščiuką į orą ir daugiau nebegaudžiau.</p>
+      <p>Kazys buvo mano tėvelio amžiaus vyras, mano didelis užtarytojas. Ir aš Kazį labai mėgau. Mėgau už tai, kad buvo tvirtas, augalotas vyras. Kai išeis į lauką šienauti, ar rugių kirsti, visados pirmuoju dalgiu eina. Nieks jo iš pradalgės neišmes. Jo
+        dalgis didelis, sunkus. Mojuoja, būdavo, iš lėto, už tai iš karto gerą pluoštą paguldo. Kai aria, tai tokią tiesią vagą nutiesia, kaip virve kad būtų pasižymėjęs. Tiesa, ir jaučiai jo būdavo gražūs. Netingėdavo juos pasiganyti, iš tėvelio miltų
+        išsikaulydavo.</p>
+      <p>— Nesigailėk, — sakydavo, — atidirbs.</p>
+      <p>Del tų jaučių Kazys kartą norėjo išeiti iš mano tėviškės. Štai kaip buvo.</p>
+      <p>Tėvelis auginosi jautuką: kai gražus užaugs, tai manė, galėsiąs senųjų vieną parduoti. Jautukas užaugo menkesnis už senius. Teko parduoti jaunąjį. Atvažiavo pirkikas. Pirkikui labiau patiko senis keršis. Vaikščiojo, įkalbinėjo tėveliui, kad keršį
+        parduotų. Kazys matė pirkiką atvažiuojant, numanė, ko jis nor, ir parėjo iš lauko pasižiūrėti.</p>
+      <p>— Ko tas atvažiavo? — šiurkščiai paklausė Kazys.</p>
+      <p>— Keršį nor išderėti — strukai atsakė tėvelis, ir toliau su pirkiku kalbasi.</p>
+      <p>Kazys nuėjo į svirnelį, apsitaisė savo drabužiais ir eina per kiemą.</p>
+      <p>— Kur eini, Kazy? — klausia tėvelis nustebęs, Kazį stapdydamas.</p>
+      <p>— Parduosi mano jaučius, ir manęs tau nereikės, — atkirto Kazys ir norėjo išeiti.</p>
+      <p>Vos ne vos tėvelis Kazį numaldė — turėjo prižadėti, kad tik jaunąjį parduos.</p>
+      <p>Ir arklius gerai prižiūrėdavo.</p>
+      <p>— Mažai naudos iš arklio, kai kojų nepavelka, — sakydavo.</p>
+      <p>Kai kuldavo, Kazio spragilą visados girdėdavai. Jo spragilas būdavo sunkiausias. Iškels aukštai, kad keltuvė su buože į vieną liniją pareitų, patrauks — tai buožė uždama į javus gula. Pėdo ryšį nukirsdavo.</p>
+      <p>Už tai ir šaukštas jo būdavo už kitų didesnis. Pats sau tinkamą išsiskaptuodavo. Už du suvalgydavo, bet niekas jam nepavydėdavo.</p>
+      <p>— Tokiam vyrui daug ir reikia,— sakydavo.</p>
+      <p>Kazys dirbo mano tėviškėje daug metų. Iš gimnazijos pargrįždamas dar jį rasdavau smarkų, darbštų.</p>
+
+    </div>
+<div type="chapter">
+<head>Pradedamojoje mokykloje</head>
+
+      <p>Ganiau vasarą, ganiau antrą. Atėjo ruduo. Kai nuo laukų javus nuvalė, mane nuo ganiavos paliuosavo, kad galėčiau daugiau rašyti ir skaityti. Jau metas buvo į mokyklą mane atiduoti.</p>
+      <p>Apsiuvo, aptaisė ir po Visų Šventųjų 1873 metais į Naumiestį nuvežino, pas tolimą dėdę įkūrė. Visą savaitę taip gyvenau, į mokyklą nevaikščiojau. Turėjau pirma su miestu apsiprasti. Ligi tol vos kelis kartus buvau mieste buvęs.</p>
+      <p>Mieste mano širdelė daug sunkiau buvo prislėgta, ne kaip kada pirmą kartą ganyti buvau išėjęs. Ganydamas žinojau, kad ateis perpietė ir sugrįšiu, o iš miesto tik prieš šventą dieną tegalėjau pareiti. Vaikščioju, būdavo, po miestą ir galvoju, ką
+        namiejė daro, koki darbą dirba. Rūpi ar sotūs veršiukai, paršiukai ir visi kiti gyvulėliai. Gerai, pasimokysiu, pasimokysiu,— galvodavau sau, — už tai kai pabaigsiu tą elementarinę, tai kad dirbsiu namieje! Viską prižiūrėsiu, tėveliui šeimininkauti
+        padėsiu.</p>
+      <p>Praslinko ta nuobodi, nuobodi savaitė. Dėdė nuvedė mane į mokyklą. Įvedė į klasę. Didokame kambaryje dviem pasieniais stovėjo du ilgu stalu. Abipusiai sėdėjo vaikai. Buvo tokių, kaip aš, buvo mažesnių, buvo ir paūgėjusių. Ant stalų gulėjo knygų,
+        rašalinių, plunksnų.</p>
+      <p>Mokytojas žinojo, kad mane atves — taip buvo su dėde sutaręs. Atsisukęs pasisveikino su dėde, pasišnabždėjo ir atsisveikino. Dėdė pasakė man, kad pareičiau, kai iš mokyklos paleis, ir išėjo. Mokytojas padavė man knygas ir sako:</p>
+      <p>— Nagi, vyruti, parodyk, ką moki. Sakė, kad jau namieje mokęsis.</p>
+      <p>Paskaičiau, kaip mokėjau. Paskui lentoje liepė parašyti, iš aritmetikos paegzaminavo ir sako:</p>
+      <p>— Kad tiek moki, tai sėskis štai čionai.</p>
+      <p>Ir pasodino mane suole prie vieno stalo.</p>
+      <p>Įėjęs į klasę mačiau, kad mokiniai nudžiugo. Atstūmę knygas į vidurį stalo, ėmė šypsodamiesi šnabždėtis, kitas ir prasijuoks tylomis. Man rodėsi, kad del manęs šnabždasi, iš manęs juokiasi. Kad ne tai, gal būčiau mokytojui geriau atsakęs.</p>
+      <p>Kai tik atsisėdau, visi vėl nutilo, knygas prisitraukė. Vieni skaitė, kiti rašė. Mokytojas, liniuotę rankose vartydamas, klausė, kaip skaito, žiūrinėjo, kaip rašo. Paskui į mane pasižiūrėjęs, liniuotę į sieną pakabino.</p>
+      <p>Kelintą dieną patyriau, kam ta liniuotė buvo reikalinga. Senelis mokytojas jąja vaikus baudė. Kai kuris neišmokdavo kas užduota, ar šiaip prasikalsdavo, tai liniuote į delną mušdavo. Pirmą dieną buvo liniuotę pakabinęs, kad manęs iš karto perdaug
+        nenugąsdintų. Paskui dažnai ją nuo vinies imdavosi. Ir man kartą buvo nusikabinęs.</p>
+      <p>Mat, mokykloje buvo leidžiama tiktai rusiškai kalbėti, kad greičiau įprastume. Netrukus ir mane mokinių vyresnysis perspėjo:</p>
+      <p>— Mokykloje, — sako, — leista tiktai rusiškai kalbėti; kas kitaip kalba, mokytojas baudžia.</p>
+      <p>Rusiškai namieje nebuvau pramokęs kalbėti. Iš pradžių stengdavausi tylėti, bet ar ilgai užsičiaupęs ištūrėsi. Kartą vienas draugas kažin ką nupiešė: būtų į žmogų panašus, bet lyg su uodega. Neiškenčiau neišsižiojęs, žinoma rusiškai, ir žleptelėjau:</p>
+      <p>— Čto, ti čiortą maliuješ?</p>
+      <p>Mums tą piešinėlį bežiūrinėjant, įėjo į klasę mokytojas. Vienas draugų, tur būti iš baimės nesusivaldęs, ir pleptelėjo.</p>
+      <p>— Toks ir toks (mano pavardę pasakė) lenkiškai kalba.</p>
+      <p>Mokytojas tuojau liniuotę nuo sienos nusikabino. Bet priėjęs arčiau, paklausė, ką aš pasakęs. Draugai atkartojo. Paskui, pagalvojo, pagalvojo, žodį „maliuješ“ kelis kartus pašnabždėjo ir liniuote pagrasino:</p>
+      <p>— Kai, — sako, — dar čiortą paminėsi, tai gausi.</p>
+      <p>Tur būti pats tikrai nežinojo, ar rusiškai taip sakoma, ar nesakoma. Ir per pamokas kartais į žodynėlį eidavo pasižiūrėti, kai painesnis žodis pasitaikydavo. Mokytojas buvo lietuvis, jau senas žmogus, lenkų mokyklą ėjęs, tai ir nepadyvas.</p>
+      <p>Už nerusų kalbą tik retkarčiais liniuotė darbo gaudavo — stengdavomės kuo mažiausiai kalbėti. Dažniau gaudavom, kai ko nemokėdavom, ar šiaip kuo prasikalsdavom. Kai kurie labai liniuotės bijodavo. Pieniukas ilgai derėdavosi, iki sutikdavo delną
+        atkišti. Stasiukas — jį mokytojas vardu šaukdavo — kai tik savo vardą išgirsdavo, tuojau imdavo ašaroti. Kiti visai ramiai į liniuotę žiūrėdavo. Štai Stankus, jau nemažas vaikinas, paprastai į mokytojo klausimus nemokėdavo atsakyti. Patylėjęs,
+        pastovėjęs, pats atkišdavo delną ir gavęs atlyginimą atsisėsdavo net nesusiraukęs.</p>
+      <p>Be liniuotės, da baisesnį padarą mokytojas turėjo. Ant spintos gulėjo paprastas pantis, tik galas kyšojo, kad lengviau būtų rasti. Šito pančio mokiniai už didelius prasikaltimus gaudavo paragauti.</p>
+      <p>Džiaugdavausi pamokas atlikęs, namo, vadinasi, pas dėdę sugrįžęs. Bent ligi rytojaus nei liniuotės, nei pančio nebijodavau.</p>
+      <p>Mokinius prižiūrėdavo du vyresnieji, paskutinio skyriaus mokiniai Man rodėsi, kurie su jais geru būdavo, dažnai ir prasikaltę liniuotės ir pančio išvengdavo. Ir aš, rodosi, kieno patariamas, mėginau prie tų vyresniųjų prisigerinti. Mama buvo
+        atvežusi man virtų antinių kiaušinių — aš juos labai mėgdavau. Įsidėjau du gražiausiu į kišenę ir išėjau iš namų, bene sutiksiu katrą. Ėjau, ėjau ir nuėjau į paupį. Žiūriu — vienas vyresniųjų meškerioja. Kaip čia prie jo priėjus? Šiaip sukinėjausi,
+        taip sukinėjausi — lyg nedrąsu, lyg gėda. Pagaliau priėjau išraudęs ir sakau:</p>
+      <p>— Ir aš moku meškerioti... Ar antinius kaušinius mėgsti? Štai, imk.</p>
+      <p>Pasižiūrėjo į mane, pasakė nereikią, bet paėmė. Pasiūliau dar duonos ir druskos — buvau tyčia į poperėlį įsivyniojęs. Ir tuodu daiktu priėmė.</p>
+      <p>Aš pasiskubinau nueiti į šalį. Paėjėjęs gerą galą, atsigręžiau ir žiūriu. O jis atsisėdęs, kiaušinį nusilupęs, jau sūdosi ir valgo. Apsidžiaugiau, kad taip gerai pavyko, ir linksmas nuėjau namo.</p>
+      <p>— Kai suvalgė, tai jau mokytojui nepasakys, kad papirkti norėjau, ir bus geresnis.</p>
+      <p>Kelias dienas paskui negalėjau jam tiesiog į akis žiūrėti. Ir šiandie dar lyg gėda pasakotis. O tas vyresnysis kažin ar atsimena mano kiaušinį?</p>
+      <p>Kas šventadienį atvažiuodavo iš namų į bažnyčią ir mane atlankydavo. Prieš šventę skubindavausi atidirbti, kas užduota, kad rytdieną nesipainiotų. Išklausinėdavau, kaip namieje yra, kokius darbus dirba. Didesnių švenčių parsiveždavo mane namo. Tai
+        turėdavau darbo, iki viską apeidavau, apžiūrėdavau! Atsimindavau visus savo praėjusiųjų metų rūpesnius.</p>
+      <p>Ilgesniam laikui, kaip ir dabar, paleisdavo Kalėdų ir Velykų. Šitų švenčių labai laukiau, gal del to, kad galėjau ilgiau namieje pabūti, bet ir del ko kita.</p>
+      <p>Kūčių dieną baigdavosi samdininkų metai. Tą dieną kraustydavosi iš vietos į vietą tie samdininkai, kurie kitiems metams nepalikdavo. Jų atvažiuodavo išsivežti tų vietų šeimininkai, kur būdavo naujiems metams susiderėję.</p>
+      <p>Tokių samdininkų vidutiniuose ūkininkuose būdavo trys: vyras, mergina ir piemuo ar piemenė. Piemens būdavo samdomi po Kalėdų ir išeidavo kitų Kalėdų nesulaukę; iš anų dviejų dažnai vienas, kartais abudu palikdavo antriems metams.</p>
+      <p>Mažiems labai rūpėdavo, kurie samdininkai liks, kurie išeis. Tik jiems išanksto nesakydavo, dažnai vyresnieji ir patys tikrai nežinodavo. Štai, toks vyras, kaip Kazys, ir tas dažnai „šposą iškirsdavo“. Ims prieš pat Kalėdas ir parsisamdys kur
+        kitur, nieko išanksto nepasakęs. Kai, būdavo, tėvelis Kūčios dieną atsineš knygas ir ims skaityti, kiek kuriam algos buvo suderėta, kiek išimta ir kiek tur da gauti, Kazys ims ir atsilieps:</p>
+      <p>— Tai jau man ir paklok, kiek atlikę. Aš Švedui esu pasižadėjęs.</p>
+      <p>— Kodel išeini, gal kas nepatinka? — ima klausinėti tėvelis. — Ir iš anksto nepasisakęs.</p>
+      <p>— Ko čia nepasisakęs!—atsikerta Kazys. Žinai, kad tretiems metams nepasilieku. Bene pirmas kartas? Po metų vėl sugrįšiu. Reik iš kitos krosnies duonos paragauti, tai senoji bus gardesnė.</p>
+      <p>Ir išeidavo. Bet kartais grįždavo ligi tėvelis kitą vyrą rasdavo; dažnai progai pasitaikius viduryje metų pareidavo, o ne, tai būtinai kitų metų pradžioje atgal parsikraustydavo ir stodavo prie darbo nesitaręs, nesiderėjęs. Kazį visi maloniai
+        sutikdavo. Su jo šiurkštumu buvo susipratę, ko jis vertas — gerai žinojo. Be jo jausdavomės lyg nevisi krūvoje esą.</p>
+      <p>Kiti samdininkai dažniau mainydavosi. Naujųjų samdininkų važiuodavo parsivežti, kai namieje šventėms viskas būdavo sutvarkyta, visi apsišvarinę, išsitrinkę. Kūčios dieną naujieji samdininkai būdavo svečiai. Kaip atvažiavę, taip ir sėsdavosi kūčiauti.</p>
+      <p>Nepuikios būdavo mano tėviškėje kūčios; būtinai avižienis kisielius, paskui silkė, gal dar trečias koks valgis ir viskas. Smagiausios būdavo Kūčios, kai visi samdininkai kitiems metams pasilikdavo.</p>
+      <p>Kitokios būdavo Velykų šventės. Prieš šventę tas pat ruoštas, valymas, švarinimas; tik paskui dar vienas didelis darbas — kiaušiniai dažyti, marginti.</p>
+      <p>Dažydavo visaip. Vienus, kurie būdavo neskaistūs, svogūnų lukštuose virdavo — išeidavo rudi. Aš mėgdavau šieno pabirose virtus — būdavo žali. Be to dar, mama raudonų ar kitokių dažų nupildavo. Nudažytus kiaušinius peiliukais skutinėdavom
+        margindavom — eglutes, namelius piešdavom. Kiti mokėdavo su vašku marginti. Išsitarpinę vaško, spilkos galvele tepdavo jį ant balto kiaušinio taškeliais, kableliais, rateliais. Paskui į dažus merkdavo, ar dažais nutepdavo. Kai dažai apdžius, vašką
+        nugramdo, ir palieka ant raudono, mėlyno ar kitokio dugno gražūs balti raštai. Tokie man labiausiai patikdavo.</p>
+      <p>Vakare namai tuštėdavo — kas galėdavo, į Velyknaktį skubindavosi. Pirmą dieną sočiai atsigavėdavom, kiaušinių savo dali atsiimdavom ir tuojau į dantis pakalenę eidavom muštyn — kurie lygioms, kurie iš atimtinių (vadinasi: sumušęs kiaušinį, jį ir
+        atsiimdavo). „Stipriųjų“ kiaušinių, kas mokėdavo ir galėdavo, išanksto pasirūpindavo: kas pakaškinį kur gaudavo, kas iš kieto sūrio išsidroždavo, kas per skylelę baltimą ir trynį išleidęs, sakų kiaušinį prisipildydavo. Reikėdavo gerai apsižiūrėti,
+        kad neprigautų. Ir mušant kiaušinis reikia mokėti laikyti, kad stipresnis būtų. Begudraudami, besitardami, besiderėdami ir nepajusdavom, kai pirmoji diena praeidavo. Antra ir trečia diena praslinkdavo kaimynuose ar giminėse besisvetinėjant ar svečiai
+        priimant. Nauji žmonės — naujos gudrybės kiaušiniais muštyn einant.</p>
+      <p>Linksmos Velykų šventės. Ir oras būdavo paprastai gražus — šviesu, dažnai ir smagiai šilta.</p>
+      <p>Smarkiausios kiaušinių muštynės būdavo mano krašte kiek laiko po Velykų— per šv. Jurgį. Tik ligi pradėjęs mokyklą eiti gaudavau matyti, kaip ir maži ir dideli kiaušiniu gal džiaugtis, del kiaušinio kivirčytis, bartis.</p>
+      <p>Šv. Jurgį švęsdavome ne Naumiestyje, daug arčiau — kaimo bažnytėlėje. Bažnytėlė stovėjo ant kalvelės; po kalvelė telkšėjo kaimo durpinės. Šlaitelyje tarp šventoriaus ir durpinių būdavo pats trukšmas. Šimtai žmonių čia maišydavosi: kiaušinius
+        mušdavo., mainydavosi, vienas iš kito pirkdavosi; pusbernėliai, piemens, kartais ir vyrai vienas kitą sukdavo, gudraudavo, iki nesusikivirčydavo. Besistumdydami nepasijusdavo, kai kurs į durpinę įkrisdavo, išsimaudydavo.</p>
+      <p>Tai būdavo didžiausia pramonėlė. Kildavo juokų, pasityčiojimų, kad taip anksti maudytis pradėjo. Kam tekdavo išsimaudyti, tas skubindavosi, bėgdavo į kaimą pradžiūti, sušilti.</p>
+      <p>Šiandie ta bažnytėlė panaikinta. Tur būti ir šv. Jurgio mano gimtoje apylinkėje taip linksmai nebešvenčia.</p>
+      <p>Po Kalėdų, po Velykų laukiau dar malonesnių, ilgų, ilgų švenčių — vakacijų.</p>
+      <p>Po Sekminių jau kai kurių ūkininkų vaikai negrįžo — pasiliko namieje ganyti. Rugiams paūgėjus, vasarojui sudygus, da labiau mokykla praretėjo. Paliko miestelėnai ir tie sodiečių vaikai, kuriuos į gimnaziją leisti rengėsi. Nesiskubino ir mane
+        atsiimti. Išbuvau iki rugigėlės žydėti pradėjo.</p>
+      <p>Vieną dieną paleido mus už miesto rugigėlių parinkti mokyklai papuošti. Miestelėnų rugius išbraidėme, žolių, gėlių pluoštus parvilkome, mokyklą iškaišėmė, išpuošėme. Rytdieną mokytojas pasikvietė kelis miesto ponus, mus visus kiek paegzaminavo,
+        kažin ką su jais pasitarė, paskui vaikus, kurie geriau mokėsi, knygelėmis apdovanojo ir paleido visus namo. Man davė aritmetikos vadovėlį, lenkų kalba rašytą, rusų raidėmis spauzdintą. Dalino, ką buvo iš vyresnėsės valdžios gavęs.</p>
+      <p>Šiaip man tokios knygelės nebūtų davęs: žinojo, kad lenkiškai kalbėti nemoku. Pats mane lenkiškų poterių mokė ir nieko negalėjo padaryti: kai užsikirtau ant ketvirtojo Dievo įsakymo, tai ir sustojau. Kai to įsakymo ištarti negalėjau, tai poterius
+        metė ir Senojo Testamento ėmė mokyti. Senojo Testamento mokė rusų kalba, kaip ir visų kitų dalykų.</p>
+      <p>Lietuvių kalbos mokykloje niekas neminėdavo. Tokios mados tuomet nebuvo. Kas lietuviškai nemokėjo, tam ir nerūpėjo išmokti, o kas mokėjo, tai kam reikėjo mokytis, kad mokėjo. Lenkiškai skaitydavom du kartu savaitėje po visų kitų pamokų. Bet kas
+        lenkiškai nemokėjo, tai ir per tas pamokas neišmoko.</p>
+
+    </div>
+<div type="chapter">
+<head>Gal ne begryšiu</head>
+
+      <p>Tai buvo Subatos dieną. Sugrįžęs namo, papietavęs, nieko nelaukdamas išėjau namo. Mano turtą paskui parkraustė. Ėjau ne vienas, su draugu. Man buvo netoli — 5 varstai, jam — 12 varstų; bet ir jis nelaukė, iki atvažiuos parkraustyti.</p>
+      <p>Vėl buvau laisvas paukštis bent keliems mėnesiams. O jei pavyks į gimnaziją įstoti, tai ir nebegrįšiu į elementarinę.</p>
+      <p>Del viso ko sudiev liniuotei, sudiev pančiui, gal po atostogų nebepasimatysim. Kad tik į gimnaziją įstoti pavyktų. Teisybę pasakius, ir į gimnaziją nelabai norėjau, geriausiai man būtų patikę namieje likti. Tik tėvelis būtinai norėjo mane į
+        mokslus išleisti.</p>
+      <p>Kaip bus, taip bus, o tuo tarpu turiu ilgokas atostogas. Ne mokykloje sėdėsiu, drebėsiu, po laukus skrajosiu. O laukai tie tokie gražūs. Aplinkui žali plotai, kaikur gražioms gėlelėmis išmarginti. Čiulba, ulba paukšteliai, jaunučiais lapeliais
+        šlama sodas ir miškelis.</p>
+      <p>Keliolika dienų skrajojau niekieno nevaržomas.</p>
+      <p>— Išsilakstyk, vaikeli,— sakydavo mama, — juk nusisėdėjęs. Paskui Juozą pavaduosi. Toks didelis piemuo galės padėt dirbti.</p>
+      <p>— Gerai, — sakau, — paganysiu.</p>
+      <p>Mokyklos paragavus, ganiava jau neatrodė tokia nuobodi, kaip pirma. Na, ir visais metais buvau vyresnis. Rasdavau lauke darbo: malūnus dirbdavau, iš karklų krepšelius pindavau, perpiete namų reikalus visus atlikdavau, išsimaudyt su draugais
+        nubėgdavau. Nepasijutau, kaip vakacijų didesnė pusė praslinko.</p>
+      <p>Vieną dieną tėvelis sako:</p>
+      <p>— Martišiuką ir Kebliuką po vakacijų į gimnaziją veža. Bandysiva ir mudu važiuoti. Juozukas ateis tave pamokyt — juk būsi pamiršęs.</p>
+      <p>Juozukas buvo mano pusbrolis, penktos klasės mokinys. Kiek prie jo pasimokęs, nuvažiavau po vakacijų egzamino laikyti.</p>
+      <p>Gimnazija buvo kitam mieste, Mariampolėje, daug toliau — visos penkios mylios nuo namų. Žinojo tėvelis, kurią dieną prasidės egzaminai; prieš tą dieną anksti rytą išdardėjova į Mariampolę.</p>
+      <p>Mėginau laikyt į pirmąją. Suvarė mūs kelias dešimtis į vieną klasę. Atėjo mokytojas mėlynu šviesiomis sagomis švarku; švarko skvernai giliai iškirpti, tik uodegėlė užpakalyje palikta. Padiktavo kažin ką rusų kalba ir, ką buvom parašę, nusinešė.
+        Paskui atėjo keli iškarto ir ėmė mus kvotinėti. Nepriprasta vieta, svetimi mokytojai — norėjai, kad tik greičiau paklaustų, kad tas egzaminas kartą baigtųsi. Iššaukė ir mane. Paklausinėjo iš rusų kalbos, nusiuntė iš aritmetikos ir religijos
+        atsakinėti. Einu prie mokytojo ir manau: kaip bus, taip bus, bent bus pabaigta. Mokytojas klausia šio, klausia to; aš galvoju, ką žinau — sakau, tik man dar vienas klausimas vis painiojasi; kodel mokytojui skvernai taip iškirpti, ir rūpi pamatyti,
+        kas tose jo sagose primarginta. Gal del tų skvernų ir sagų tik į rengiamąją klasę tepatekau.</p>
+      <p>Apsiverkiau, kad kitus mano draugus į pirmąją, o mane tik į rengiamąją priėmė. Ramino tėvelis, suramino kunigas, priėjęs: mane, kad tėvelio baramas graudinuosi. Pasakė, kad dar jaunas esu, nuo rengiamosios pradėjus būsią lengviau mokytis.</p>
+      <p>Paskelbę, kas į kurią klasę priimti, liepė po kelių dienų ateit į gimnaziją.</p>
+      <p>Tėvelis tuojau suderėjo man kertelę viename mokinių gyvenamajame bute: sulygo užmokėti metams šimtą dešimtį rublių ir žąsį penėtą atvežti; nupirko gimnazisto kepurėlę ir nudardėjova namo kraičio susitvarkyti.</p>
+      <p>Džiaugiausi, kad nebegrįšiu į elementarinę. Žinojau, kad gimnazijoje nei liniuotės, nei pančio nematysiu. Džiaugėsi ir namiškiai. Gal labiausiai Kazys. Pasišaukęs mane, pažiūrėjo iš pryšakio, pažiūrėjo iš šono, paskui pasiėmęs į rankas kepurėlę
+        pavartė, vėl liepė užsidėti.</p>
+      <p>— Dabar tai kas kita,— tarė: — visas prancūzas.</p>
+      <p>Tai buvo trečiais — ketvirtais metais po karo vokiečių su prancūzais. Per karą ir po karo paprūsėje pardavinėdavo daug paveikslėlių su vokiečių ir prancūzų kareiviais. Rusijos gimnazistų kepurėlės tuomet buvo labai panašios į prancūzų kareivių
+        kepurėles.</p>
+      <p>Nuo tos dienos ėmė mane studentu šaukti — taip mūs krašte gimnazistus vadindavo.</p>
+      <p>Visa, ko reikėjo, turėjau, tik mandieraitė liko pasiūdyti. Pasiūdyti netruko, tik paskui gimnazijoje turėjau su jąja nesmagumų. Mandieraitė turėjo būti iš mėlynos gelumbės, stačia apikaklaite, sidabriniu siauru kaspinėlu apvadžiota, ir viena eile
+        sidabrinių sagų. Tų sagų turėjo būti lygiai devinios. Siuvėjas viską padarė, kaip reikiant, tik buvau žemo ūgio, tai mano liemenėlyje tik septynias sagas tesutalpino. Taigi del tų dviejų nesutilpusiųjų sagų turėjau paskui baimės. Mat, gimnazijos
+        inspektorius labai žiūrėdavo, kad vaikščiotume susisagę: ims, būdavo, susitikęs parodo pirštu į krūtinę:</p>
+      <p>— Saga neužsekta. Patupdysiu!</p>
+      <p>O tupdydavo į karcerį. Tas karceris tai buvo tamsokas ankštas kambarėlis. Karcerio elementarinėje nebuvo ir del to su juo nebuvau apsipratęs. Labai bijodavau, kad inspektorius kaip nors nesuskaitytų mano sagų ir nepatupdytų. Sukausi, kaip
+        įmanydamas: susitikęs su inspektorium ar knygomis ar ranka krūtinę prisidengdavau.</p>
+
+    </div>
+<div type="chapter">
+<head>Gimnazijoje ir kvatieroje</head>
+
+      <p>Taigi, išlaikęs egzaminą į gimnaziją, kelias dienas namieje paviešėjęs, nudardėjau su tėveliu į Mariampolę. Apsigyvenau toli nuo gimnazijos, miesto pakraštyje, mokinių „kvatieroje“. Dviejuose kambariuose mūs „studentų“ buvo lygiai dešimts: aš, dar
+        vienas mažas, septyni penktaklasiai ir „dizorca“ — prievaizda, aštuntos klasės mokinys.</p>
+      <p>Rytdieną turėjome susirinkt į gimnaziją. Pamokų tą dieną dar nebuvo, tik klasėmis skirstė, tvarkė</p>
+      <p>Pabudau gana anksti — kažin kodel nenorėjau ilgiau miegoti. Nusiprausiau, batus nusižvilginau, mandieraitę užsitempiau, atsigėrėme kavos ir norėjau jau eiti į gimnaziją.</p>
+      <p>— Da anksti, — sako Juozukas, tas mano pusbrolis, kurs mane į gimnaziją rengė. — Gimnazija da uždaryta.</p>
+      <p>Po valandėlės išgirdau kur toli skambinant.</p>
+      <p>— Dabar eik, jau šaukia, — paragino Juozukas.</p>
+      <p>Šaukė į gimnaziją nedideliu varpu, kabėjusiu gimnazijos kieme ant aukšto stiebo, po stogeliu.</p>
+      <p>Taip skambindavo kasdien, kad visi laiku susirinktų, nes „kvatierose“ laikrodžių nebūdavo, o kišenėje, bent mažųjų mokinių, retas teturėdavo.</p>
+      <p>Išgirdę varpelį, traukdavo iš visų kerčių gimnazistai, „veršiukus“ (rancus) ant pečių užsidėję. Pakeliui įbėgdavo į sankrovėlę nusipirkti, kam ko stigdavo. Del to ir sankrovininkai laukdavo, kada gimnazijoje suskambins. Atsistoję duryse, būdavo,
+        šaukia, kaip kurs įmano:</p>
+      <p>— Może student co kupi? (Gal ką pirksi ?)</p>
+      <p>— Mam dobry papier do skrobania. (Turiu gero paskutamo poperio).</p>
+      <p>— Panicz, panicz, mam orzechčw. czekolady. (Ponaičiuk, riešutų, šokolado turiu).</p>
+      <p>Mieste gimnazistą būtinai lenkiškai kalbindavo ir panič ar student šaukdavo. Išpradžių man tai keistai atrodė, tik kai niekas iš kaimo draugų ir pažįstamų negirdėdavo, tai nieko — tegul ir ponaičiuku vadina, kad nor.</p>
+      <p>Gimnazijoje ir „kvatierose“ buvo liepta tiktai rusų kalba kalbėti. Prasižengusiųjų prieš šį įsakymą nebausdavo, tik bardavo; del to jo klausydavom tik tie, kurie lenkų kalbos dar nemokėdavom.</p>
+      <p>Lietuvių kalbos nedrausdavo, nes lietuviškai ir taip niekas balsiai nekalbėdavo nei gimnazijoje, nei butuose — žinojo, kad gimnazistui taip kalbėti nepritinka, nes ištikro koks būtų iš tokio panič, student. Tik inspektorius, kokį vakarą į
+        „kvatierą” atėjęs, paklausinėdavo, ar „lietuviškų kalendorių“ kartais neturime. Kam jam, rusui, tų kalendorių reikėdavo — nesakydavo. Tik kai kurs kokią lietuvišką knygelę parodydavo, tai sau pasiimdavo.</p>
+      <p>Su penktaklasiais „kvatieroje“ kalbėdavau rusų kalba, nes lenkiškai dar nesurazgydavau. Jie buvo tokie pat ūkininkų vaikai, kaip ir aš, bet jau lenkiškai išmokę ir lenkiškai kalbėdavosi. Tik retkarčiais, iki nebuvau į vagą įėjęs, užsimiršęs
+        imdavau ir lietuviškai išsižiodavau, tik tuojau ir užsičiaupdavau. Bet kartą vienam, nepamenu, ką norėjau papasakoti, rodosi, kaip mane kitados žąsinas buvo išperetijęs. Pradėjau gerai, rusiškai, tik paskui nepasijutau, kaip visą nutikimą lietuviškai
+        nupasakojau. Tik pabaigęs pasakoti, supratau, ką padaręs. Tokia paskui buvo gėda, tokia gėda — daug didesnė, kaip kada elementarinėje buvau vyresniajam tą kiaušinį įdavęs.</p>
+      <p>Mažesnieji savo tarpe, žinoma, ir lietuviškai pasišnabždėdavome. Pasakodavomės, kurs kaip augęs, ką namieje veikdavęs, kur mokęsis. Kur čia tu apie visus tokius daiktus rusų kalba susišnekėsi, kai jos gerai nemoki.</p>
+      <p>Čiauškėdavom visi savaip: kurs zanavykiškai, kurs kapsiškai, kurs dzūkiškai. Įsiklausę, kaip kurs kalba, paskui vienas kitą pajuokdavome. Mane, Naumiesčio apskrities žanavyką, pagaudavo vokiškus žodžius į kalbą bemaišant. Sakydavau: „šlėktai
+        (negerai) darai“, giliuką (laimės) turėjau“; užtai nezanavykai mane prūsu vadindavo. Aš stebėdavausi, kad Mariampolės, Vilkaviškio kapsai ne kaip, o kap sako — užtai juos kapsais ir vadina. Jie daug lenkiškų žodžių painiodavo. Dzūkai iš Prienų
+        apylinkės kai ką labai nepaprastai tardavo: sakydavo „Dzievas žino“, o ne „Dievas žino“; dzvi, o ne dvi.</p>
+      <p>Tėvai, mūs švenčių parsivežti suvažiavę, vienas kito kelintą žodį taipgi ne iš karto suprasdavo. Ir drabužiais nevienokiais dėvėdavo. Kapsai vaikščiodavo ilgais skvernais, plačias skrybėles dėvėdavo. Dzūkų švarkai ir sermėgos būdavo užpakalyje
+        strėnose dviejose vietose suraukti.</p>
+      <p>Tą viską mes pastebėdavom. Kas būdavo nepriprasta, tuo stebėdavomės. Geriausiai kiekvienam patikdavo, kaip jo krašte kalbėdavo, dėvėdavo. O patys, į ponaičiukus nusižiūrėdami, ir batus ir kelinaites tokias pat norėdavom turėti, na ir greičiau
+        lenkų kalbos pramokti, kad nei zanavykiškai, nei kapsiškai, nei dzūkiškai šnabždėtos nereikėtų. Tik tiek būdavo mums keista, kad tie, kurie lenkiškai buvo pramokę, nemokėdavo taip smagiai, kaip mažieji, pasišnabždėti.</p>
+      <p>Šiaip ar taip, gimnazijoje buvo daug geriau, kaip elementarinėje. Ir draugų daugiau—buvo iš ko pasirinkt, ir pančio nebūdavo matyti. Tekdavo girdėti, kad inspektorius vieną kitą liepęs gimnazijos tarnui rikšte išplakti, bet tai retai būdavo.
+        Plakti buvę uždrausta ir tik su tėvų žinia tatai darydavęs. Karcerio taipgi galėdavo išvengti, kurs mokėdavo kiek valdytis.</p>
+      <p>Tik ne visi mokėdavo karcerio išvengti. Kiti dažnai tenai tupėdavo — tupėdavo, o ne sėdėdavo, nes nei suolo, nei krėslo karceryje nebuvo.</p>
+      <p>Patekdavo tenai ne būtinai kokie padaužos ar nedori vaikai.</p>
+      <p>Čiževskis buvo šiaip labai ramus vaikas, geras draugas, nesipykdavo, nesikivirčydavo. Tik per pamokas jam turbūt labai nuobodu būdavo: tai draugą taip kumštelės, kad tas suriks, tai visą klasę prajuokins. Kartą žvirblį į gimnaziją atsinešė ir per
+        pamoką bežaisdamas paleido. Už tai ir gaudavo patupėti. Tik nevisumet, tupėdavo — kartais tarnas, atėjęs išleisti rasdavo jį ant plikų grindų bemiegantį.</p>
+      <p>Į karcerį eidavo ramiai, nesipriešindavo.</p>
+      <p>Smalaitukas rodėsi labai rūpestingas vaikas. Mažai žaisdavo, nuolat savo knygas, sąsiuvus vartydavo. Tiesa, knygas vartydamas, nevisumet į jas žiūrėdavo. Žiūrėk, klasėje ir bara jį, už ką pamokos neišmokęs. Arba pamiršęs namieje parašyt, kas buvo
+        duota, iš draugo nusirašė — ir vėl jį bara. Kelis kartus pabaręs, ims mokytojas ir patupdys. Nesisekdavo vaikinui.</p>
+      <p>Kiti, būdavo, daug sugaišta bežaisdami, ką kita beveikdami, bet geriau išeidavo. Štai Kalvaitukas, būdavo, vėliau už Smalaituką į stalą sėsdavosi. Įkibs į vienas knygas — pamurmės, akimis į lubas žiūrėdamas, pamirkčios ir meta į šalį, kitą į
+        rankas ima. Arba sąsiuvinį užgulęs, plunksna pačirškins, lūpas atstatęs, ir pabaigta. Anksčiau už kitus gulti nueis, o klasėje, kai mokytojas paklaus, tai kaip riešutą kremta.</p>
+      <p>Koks buvo pramuštgalvis Klimukas. Prie visokių žaidimų, juokų — pirmutinis. Judus, kai juokiasi, tai visa burna, o klasėje tarytum ne tas vaikas. Nebuvau girdėjęs, kad kurs mokytojas karceriu būtų jį gąsdinęs.</p>
+      <p>Iš gimnazijos tiktai Kalėdų, Velykų ir vakacijų tegaudavau parvažiuoti. Ir mane retai lankydavo. Bet ką padarysi: į didesnį mokslą pasirengęs, turėjau ir tuo tenkintis.</p>
+
+    </div>
+<div type="chapter">
+<head>Du amatu</head>
+
+      <p>Į gimnaziją stojęs, dar kelerius metus du amatu varydavau: per mokslo metus mokydavausi, vasarą ganyti padėdavau.</p>
+      <p>Mokslas ganiavai nekenkdavo, o ganiava mokytis dar gerokai padėdavo. Kai mokytojas imdavo aiškint, kur pietų, kur žiemių šalys, kur rytai ir kur vakarai, tai galėdavau ir neklausyti. Mokėjau pažinti, kada saulė pietuose: kai šešėlį gali peršokti,
+        tai ir geni perpietės — vadinasi: kai šešėlis striukiausias, tai pats vidudienis, o kur saulė stovi per vidudienj, tenai pietūs, o paskui užpakalyje žiemiai, kairėje rytai, dešinėje vakarai. Tai gerai žinojau. Ir šiaip ką apie žemę pasakodavo, tai
+        lengviau už miesto vaikus supaisydavau. Žinojau, iš kur vanduo upėse randasi: buvau matęs, kaip pavasarį upeliai teka, Šešupės pakrantėse du šaltiniu žinojau. Ir daug kita ko. Apie augalus, paukščius, gyvulius taip gi daug išmaniau. Piemuo viską
+        žino, kas jo laukuose ir miškeliuose yra. O kai savo lauke išmanai, tai ir kaimynuos kvailys nebūsi. Del to ir apie svetimus kraštus kai pasakodavo, geriau nuvokdavau.</p>
+      <p>Gimnazijos mokslas ganyti nepadėdavo. Bet kartais piemenims knygelę kokią paskaitydavau ir perpietėmis rašyti kaikuriuos mokydavau. Atmenu, ir Kazį buvau išmokęs pavardę pasirašyti. Didesniam mokslui jo rankos buvo perkietos.</p>
+      <p>Ganiava „studentui“ lyg nepritikdavo: jau kaip ir ponaitis, o paskui kiaules sakioji. Tik tėveliai kitaip manydavo. Ir Kazys sakydavo, kad ganyti tai vis tiek, kaip mokslas eiti. Užtai ganiava į sveikatą eidavo. Po vasaros atostogų, būdavo, grįžti
+        raudonas, saulės nudegęs, lyg jaunesnis, šviesesniais plaukais — nuo saulės pagelsdavo. Kai reikėdavo gimnastika daryti, tai vieni juokai būdavo — ir nušoki toliau, kaip prieš vakacijas, ir stiebu aukštyn kaip vyras sliuogi.</p>
+      <p>Bet klasėje po vakacijų būdavo sunkiau keturios, penkios valandos išsėdėti. Klausai, klausai, būdavo, ir nepasijunti, kaip mintys kažin kur į laukus nuskrijo. Šviesu, platu tenai, o čionai keturios sienos ir... Štai mokytojas ims ir iššauks. Ką
+        tik buvai nuskriejęs į alksnynėlį, o čia liepia tau aplinkui Eiropą keliaut ir visus pusiasalius įvardinti.</p>
+      <p>Ir vėl imi, kaip mažesnis būdamas, dūsauti, kad greičiau klasę pabaigtum, kad pagaliau visą tą gimnaziją išeitum.</p>
+      <p>Tos klasės taip rūpėdavo, kad ir atostogų parvažiavę klases eidavom. Užsibrėšime, būdavo, su draugais keturis skritulius tuo pačiu viduriu, tik ne vieno didumo, ir šaudome iš saidokų. Kurs į vidurinį, mažiausiąjį skritulį pataiko, tas gauna 5,
+        kurs į antrąjį — 4 ir t. t. Kurio strėla ir į paskutinį ratą neįsminga — gauna 1. Po kokius penkius kartus šovę, žiūrime, kurs į aukštesniąją klasę perėjęs, kurs toj pačioj lieka. Juo aukštesnėje klasėje kurs būdavo, juo iš toliau turėdavo šaudyti.</p>
+      <p>Ėjau lipau gimnazijoje iš klasės į klasę, iki išėjau iš piemens metų. Bene nuo trečios klasės palioviau vasarą ganęs. Metęs savo antrąjį amatą, ganiavą, prie lauko darbų padėdavau: šieną grėbdavau, javus rišdavau — kas iš eilios eidavo. Oi, geras
+        tai mokiniui daiktas vasarą padirbėti. Mano kaimynai ponaičiai dažnai, būdavo, nežino ką nusitverti, nuobodžiauja. Kad prasimankščius, gimnastiką, būdavo, prasimano. Nėra geresnės gimnastikos per lauko darbus.</p>
+      <p>Pradėjęs lauko darbus dirbti, jau nebebuvau mažas. Delto ir mano pasakojimas čionai baigiasi.</p>
+    </div>
+
+  </body>
+</text>
+</TEI>

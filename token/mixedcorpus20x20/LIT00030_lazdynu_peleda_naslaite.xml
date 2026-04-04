@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LIT00030" xml:lang="lt">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Našlaitė : ELTeC edition</title>
+        <author>Lazdynų Pelėda (Sofija Pšibiliauskienė) (1867-1926)</author>
+        <respStmt>
+          <resp>editor</resp>
+          <name>Arūnas Gudinavičius</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>
+        <measure unit="words">11040</measure>
+        <measure unit="pages">62</measure>
+      </extent>
+
+      <publicationStmt>
+        <p></p>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://www.epaveldas.lt/object/recordDescription/LNB/C1B0002985911">Našlaitė</ref>
+          <publisher>Martynas Mažvydas National Library of Lithuania</publisher>
+        </bibl>
+        <bibl type="firstEdition">
+          <title>Našlaitė</title>
+          <publisher></publisher>
+          <pubPlace></pubPlace>
+          <date>1902</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+
+    <encodingDesc n="eltec-1">
+      <p></p>
+    </encodingDesc>
+
+    <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+      <langUsage>
+        <language ident="lt" usage="100"/>
+      </langUsage>
+      <textDesc>
+        <e:authorGender key="F"/>
+        <e:size key="short"/>
+        <e:canonicity key="low"/>
+        <e:timeSlot key="T4"/>
+      </textDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2020-02-29">Arūnas Gudinavičius added header
+      </change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text>
+    <front>
+      <div type="titlepage">
+        <p>Našlaitė</p>
+        <p>Ne pasaka.</p>
+        <p>Parašė Lazdynų Pelėda.</p>
+      </div>
+    </front>
+
+    <body>
+
+      <div type="chapter">
+        <head>***</head>
+
+        <p>Kaime jau buvo sumigę, tik Bagdono bute pro langą šviesulėlis spingsėjo. Niekas nei nesistebėjo, nes jau buvo papratę per dvejus metus tą šviesulėlį matyti. Taip, jau dveji metai, kaip pati Bagdonienė mirties laukė nesulaukdama. Tik senoji
+          Jonieška, gailėdama brolienės, kas vakaras, savo vištas palesinusi, bėgo čionai nakvoti. Netoli buvo jai eiti, nes gyveno pas kaimyną Bernotą. Nereiktų taip vienai būti Bagdonienei, — turėjo vyrą. Už girtuoklio ištekėjo. Tėvai gynė, nenorėjo leisti;
+          o ji — eit ir eit. Kas motrišką perkalbės, kada įsigeidžia tekėti? — Turbūt, niekas. Kodėl ji ėjo? Ar mylėjo? Tiesą sakant — ne. Žadėjo nebegerti, kai ją paimsiąs, — pagailėjo ir ėjo. Tarėsi, savo kantrumu jį pergalėsianti, į gerą kelią išvesianti;
+          bet nežinojo, jog pritruks vieko, ir ji pusiaukelėje pasiliks, o jis eis savo keliu, kaip ėjęs.</p>
+        <p>Nevieną kartą mėgo jisai girtas pareiti, daugiau į gyvulį, nekaip į žmogų, panašus. Ji ir tuokart, jo kojas apkabinusi, maldavo, kad pasiliautų. Jis tai valandai žadėdavo, o paskui vėl gėrė. Ji rūpinosi, verkė; beverkdama, ir ligą įgavo.</p>
+        <p>Vargingas buvo jų gyvenimas, nes ne į vieną vietą abudu šlavė: ji šlavė, o jisai blaškė. Kad ir dideliame gyvenime, o kitą kartą maža kas bebuvo. Aruodai tušti, gyvulių taip-pat nekiek te buvo. Dabar jau į pačios kraitį įsisuko ir mažne visą su
+          savo draugais pragėrė. Nei vieno trečiadienio nepraleido namie: tą dieną buvo turgus miestelyje — girtuoklių prašmintinis. Kiekvieną kartą tik ant rytojaus tepareidavo namo. Kur nakvojo, kas gali žinoti: po žydo stalu, jei žydas susimylėjo ir už durų
+          jo neišvilko — už karčemos durų.</p>
+        <p>Trylika jau metu taip vargo, vis turėdama viltį, kad geriau bus. Dažnai manė: duos Dievas, pasiliaus. Bet jis visiškai tai nepamanė. Kaip ta žolelė, neturinti kur užsivynioti ir augti, veizdėdama į dangų, vargingai raitosi ant žemės, iki lietus
+          nesublaškys ir karšti saulės spinduliai nesudegįs, — ji vargo sunkų vargą viena pati, nerūgodama, nekeikdama. Vieną širdies atgajų turėjo, tai vienatinę savo dukrelę. Augino ją, gero mokė. „O kai ji numirs, kas bus?“ dažnai savęs klausėsi, bet
+          atsakymo savo galvoje nerazdavo. Todėl, jauzdama dabar galą savo vargų, buvo susirūpinusi. Dažnai Jonieška žodžio išjos išgauti negalėdavo ir sėdėdavo per ilgus vakarus vienos dvi, kaip nebylės, o Roželė snaudė pas krosnį, apkabinusi kelius ir galvą
+          į abi pusi linguodama.</p>
+        <p>Ir šiandien trėčiadienis jo nėra .... Dienelė praėjo, jau vakaras . . . O ne, jau ne be vakaras — jau naktis. Jo nėra . . Ligonis į langą veizdi: aušrelės laukia; jai-taip prailgo ta naktis — rasi, paskutinė. Kažin-kas barkštelėjo į langą ... tai
+          vėjas judina obelies šakas; ir vėl nieko negirdėti, tik vėjas, į čiukurus įpuldamas, vadžioja liūdnas dainas. Nieko nėra . . . Bagdonienė tokia nekantri šią naktį: nuo daikto žvalgos, dūsauja ir dūsauja. Jonieška priėjo prie lovos.</p>
+        <p>— Kas yra, brolienėle? Ką skauda?</p>
+        <p>— Nieko neskauda.... Laukiu . . .jo . . . paskutinį kartą pašnekėti noriu. Rasi, mirštančios prašymas didžiau jo širdį sugraudįs . . . Rasi .... rasi, jau ne manęs, tik savo vaiko pasigailės. Man neilgai ant svieto bе būti . . . Dar šią dienelę, o
+          ryt bus, rodosi, sudieu šiam svietui . . .</p>
+        <p>— Rasit, duos Dievas pagyti — ramino Jonieška.</p>
+        <p>— E, kam niekus kalbėti; jau valandomis dvasios nebeatgaunu .... trokštu. Kunigėlį parvežkite, dar su vyru pašnekėsiu, tą mažulėlę mano peržegnosiu, ir gana ....</p>
+        <p>Jau švito; ligonis užsnūdo, ir Jonieška, kailinius po galva pasikišusi, ties langu ant suolo užmigo.</p>
+        <p>Saulelė tekėti pradėjo, o jiedvi dar tebemiega. Rasit, ilgai taip būtų miegojusi, bet jiedvi pabudino didelis trenksmas. Jonieška pašoko nuo suolo, pribėgo pri durų ir kuo-greičiausiai atsklendė sklęstį. Užduryje stovėjo Bagdonas, be kepurės,
+          baisiai visas susipurvinęs, vos ant kojų nustovėti begalėjo. Per slenkstį peržengti taikėsi, bet nesisekė. Paėmė piktumas:</p>
+        <p>— Rupūžės, rūgstate! Žinai, gaspadoriaus nėra, gali patinginiauti! ....</p>
+        <p>— Tai būk: niekas nevaro! — atsiliepė Jonieška.</p>
+        <p>— Nelok, nes dantis išrinksiu! — kumsčią suspaudęs, artinosi — Aš tau!.... Į tą tarpą suklupo ir parvirto.</p>
+        <p>— Ai .... ai, gyvatės! tegul pagįsiu, pamankštįsiu jus . . . pa . . .</p>
+        <p>Jonieška įėjo į vidų. Ligonė nemiegojo.</p>
+        <p>— Ar parėjo?</p>
+        <p>— Parėjo . . .</p>
+        <p>— Girtas? . . .</p>
+        <p>— Taip, girtas . . .</p>
+        <p>— O, Dieve! Dieve! . . . Jonieškėle, nubėgk pas Domeiką, paprašyk, tegul kunigėlį parveža — paprašyk!</p>
+        <p>Jonieška pažvelgė į Bagdonienę: balta buvo, kaip drobė balčiausia.</p>
+        <p>— Galiu, galiu, jei nori; kunigėlis nenumarįs, jei Dievas laikys.</p>
+        <p>Apsižvalgė ir apsisiautusi išbėgo. Bėgo greitai; kojos šalo: žolė, kaip visada rudeni, buvo apšarmojusi.</p>
+        <p>Neilgai truksi, parbėgo; reikė apsivalyti. Langą nuplovė, stalą nušluostė, o Roželei ąslą pašluoti liepė.</p>
+        <p>— Ar išvažiavo kunigo? — paklausė Bagdonienė.</p>
+        <p>— Išvažiavo, brolienėle, iš . . . tuojau parveš.</p>
+        <p>— O jis kur?</p>
+        <p>Dabar ir Jonieška atminė, jog jis po durimis tebe guli; reikė jį išten atimti.</p>
+        <p>Duris pamaži pravėrė. Bagdonas gulėjo, kaip gulėjęs; tik nemiegojo; bet nesikėlė: rasi manėsi, lovoje besivoliojąs.</p>
+        <p>— Na! ar nesikelsi biaurybe tu! gėdą bent turėk! pati miršta, o tu latrauji! Oi brolau, brolau! užmokės tau Dievas, tu savo atrasi, nemislyk! . . . Kelkis! Tuojau kunigas parvažiuos; nėr kur įeiti, o tu guli, kaip ta kiaulė, prisprogęs!</p>
+        <p>— Kunigas? ... Ar velniai čia jį ves? Ką jis čia dirbs atvažiavęs? — bumbėjo keldamos nuo žemės.</p>
+        <p>— Dar nežinai, judošiau! Tigi pati . . . — nepabaigė sakyti, į priemnę įėjo trįs moteriškos ir vyriškis.</p>
+        <p>— Tegul bus pagarbintas Jėzus Kristus.</p>
+        <p>— Ant amžių amžinųjų, Amen, — atsakė Jonieška.</p>
+        <p>— Ar jau parvažiavo?</p>
+        <p>— Ne dar; prašom į vidų.</p>
+        <p>Žmonelės suėjo kaimynies lankyti, o vyrai pasiliko prieminioje. Bagdonas, truputį susigėdinęs, pas kaminą stovėjo, o kaimynas Stankus tarpduryje pypkę išrėto traukė ir į Bagdoną veizdėjo. Nusijuokė antgalo ir tarė:</p>
+        <p>— Oi, kaimyne, kaimyne, kaip tamsta save žudai bereikalo ....</p>
+        <p>— Čort! — atsakė Bagdonas, ranka pamojo ir pradėjo žvalgyties po prieminę. Paėmė, kibirą ir nuėjo; pasisėmęs, įpylė į lovį ir prausties pradėjo; vos prie lovio stenėdamas prisilenkė.</p>
+        <p>— Na, tarė Stankus: tamstą, kaimyne, gerai kas pavaišino, vos pasilenki; draugija įkarklavo ir . . . dažyves paleidai . . . Tai ir pasiduosi? . . .Cit! —pirštą į augštį pakėlęs, tarė Stankus — rodos važiuoja ! . . taip važiuoja!</p>
+        <p>Pypkę į kišenių įkišo; balsiau suskambėjo varpelis ir kunigas įvažiavo į kiemą.</p>
+        <p>Moteriškės suklaupusios pragydo „Tegul bus pagarbintas“, o kunigas, iššokęs iš vežimo, stačiai, nesižvalgydamas, įėjo į vidų. Bagdonienė, išeiginiuose drabužiuose, klūpojo prie stalelio, ištaisyto į altoriaus vietą.</p>
+        <p>Duris uždarė . . . Ilga ir graudinga buvo ta paskutinė išpažintis, nes, kaip duris atidarė, seno kunigėlio akyse žibėjo ašaros . . . Nieko niekam nesakė, tik Roželę verkiančią priglaudęs ramino, tardamas:</p>
+        <p>— Dievo šventa valia — neužmiršk Jo ir Jis tavęs neapleis . . .</p>
+        <p>Bagdonas nedrąsiai prie kunigo prisiartino ir į ranką jam pabučiavo:</p>
+        <p>— Tėveli dvasiškasis, ar ilgai bebus?</p>
+        <p>Kunigas į Bagdoną paveizdėjo ir ant valandos jų akįs susidūrė.</p>
+        <p>— Nebijok, lig kitos seredos liuosas būsi: galėsi nebegrįžti namo — niekas nelauks! niekas!</p>
+        <p>Ranką savo iš Bagdono rankų ištraukė ir į vežimą sėsti ėjo. Atsisukęs da „Tegul bus pagarbintas“ visiems pasakė. Kunigas įsėdo, Domeika arklius sukirto ir vienu vėju iš kiemo išlėkė.</p>
+        <p>Ant kiemo liko Stankus ir Bagdonas, susirūpinęs, piktas ar liūdnas — negali žinoti. Moters Bagdonienę į lovą atgal paguldė. Balta ir dabar buvo, kaip numirusi: nuvargino ją ta paskutinė išpažintis; valandomis trokšti pradėjo.</p>
+        <p>— Rožele!</p>
+        <p>— Roželė priėjo. Bagdonienė šventą kryžių ant jos padėjo.</p>
+        <p>— Rožele mano, tegul Dievas tau padeda. Pasiliksi viena, kaip paukštelis lizde . . . Būk gera, mylėk artymą ir Dievą. Atmink: ateis valanda — susieisime, atmink, kad neišdyktam ....</p>
+        <p>Roželė verkė, ir Bagdonas verkti pradėjo . . . Nedrąsiai, kaip vagis, įslinko į vidų ir atsistojo gale kojų prie lovos. Atsistojo ir veizdėjo į tą išbalusį pačios veidą; valandomis, akis nudūręs, dūmojo. Rasi norėdamas save išsiteisinti, ieškojo
+          atmintyje, kuo galėtų apkaltinti savo pačią. Ir grįžo į tolimus, į pirmus metus gyvenimo su pačia. Paėmė ją nuo tėvų, kaip kvietką -iš darželio nuskynė: tokia buvo jauna, nekalta . . . Taip, jis paėmė, parsivedė į vargą, į rūpestį, paniekino ją; o
+          prieš Dievą prižadėjo jos vadovu būti; mylėt ir neapleisti ... Ar mylėjo? . . . Kiekviename varge ji buvo kantri; ji norėjo jį vesti geru keliu, ji — silpna žmona ... o jis bėgo nuo jos žodžių į karčemą pasiguosti savo draugams. Rasi, dar būtų mintis
+          ir savo darbus perkratinėjęs, bet ligonė ant lovos pasijudino ir atsisėdo pamatė vyrą.</p>
+        <p>— Išsipagirojai jau, tėvai! gerai, norėjau sudieu tau pasakyti . . . Taip, sudieu ant šio svieto! Nebijok, nebesakysiu, kad negertum .... nes žinau, kad meluosi . . . Apgaudinėjai mane tryliką metų . . . Prižadėk atiduoti Roželę Jonieškai ir kas
+          liko mano parneštų drabužių. Ar prižadi?</p>
+        <p>Bagdonas nieko nesakė; per ūsus jam ašaros rietėjo. Bagdonienė į jį veizdėjo:</p>
+        <p>— Neverk nors šiandien; laiko nėra ... Saulė leidžiasi, o rytojaus ne kožnam sulaukti . . . Sakyk! sakyk! ... aš tavo ašarų mačiau ir žinau, kas tai yra girtuoklio ašaros .... Sakyk, prižadėk! . . .</p>
+        <p>— Prižadu . . .</p>
+        <p>— Dabar sudieu! Tegul Dievas atleidžia tau kaip aš tau atleidžiu! ... — Pradėjo kosėti ir trokšti . . .</p>
+        <p>Jonieška žvakę uždegė.</p>
+        <p>— Ne, ne — tarė — pavadinkite Liudviką : tegul jis maldas skaito, tegul aktus kalba — niekas taip nemoka, kaip jis.</p>
+        <p>Jonieška brolį pastūmė:</p>
+        <p>— Bėgk! ....</p>
+        <p>Išėjo; už valandos parėjo vezdamasis jauną vaikiną!</p>
+        <p>— Tegul bus pagarbintas . . .</p>
+        <p>— Ant amžių amžinųjų, Amen — atsakė ligonė, ir jos akįs nušvito. Savo baltą ranką prie jo ištiesė:</p>
+        <p>— Liudvikėli! — tarė — aš tavęs prašysiu, jei Jonieška mirtų, tu mano dukrelę poterių išmokyk, ir Dievą mylėti, ir knygą skaityti, kaip pats moki. Jei ji tavęs verta bus, paimk ją ir vesk, kaip pats eini . . . Nuo dvaro sergėk ir nuo dvariškių . .
+          . Dabar kalbėk aktus ....</p>
+        <p>Liudvikas pradėjo kalbėti. Bagdonienė kelis kartus į jį paveizdėjo; akyse jos blizgėjo ašaros. Ne vieną vakarą, kad vyras po karčemas girtuokliavo, jis jai skaitė šventųjų gyvenimą, ar kitas knygas — ir tildė verkiančią širdį, ir mažino to
+          gyvenimo skausmus. — Todėl ir dabar, paskutinėje valandoje, norėjo jį matyti.</p>
+        <p>Bagdonienė vėl orą grobstė, neatsigavo. Vėl uždegė žvakę ir įdavė ligonei. Žvakė degė šviesiai ir vienodai, rodės visiems, kad ligonė miega . . . Žvakė pradėjo virpėti ir krypti . . . Jau nustojo ligonė paskui Liudviką kalbėti, gulėjo ramiai . . .
+          Dar vieną kartą sunkiai, sunkiai atsiduso ir ant pogalvio nusileido. Sudrebėjo visa ir akis atmerkė, kad paskutinį kartą paveizdėjus į dukterį; dvi didelės ašaros nurietėjo per užšalusį veidą — tai šio svieto nuopelnas.</p>
+        <p>Bagdonas stovėjo gale kojų, kaip stulpas, ir rasi taip dar ilgai būtų stovėjęs, kad Jonieška nebūtų pradėjusi barti:</p>
+        <p>— Po laiko nėra ko gailėties! Giedotojų veizdėk, Liudviko neišleisk: kas kalnų maldas mels; ant varpų nešk skubiai! ... Ir aš rėkčiau, jei butų kada ....</p>
+        <p>Bagdonas išėjo, o ji pradėjo įkapes veizdėti. Nuėjo į klėtį, skrynę atidarė — tuščia buvo, kaip iššluota. Atidarė antrą, antros gale rado porą sijonų, juodą kikliką ir saują skudurėlių — daugiau nieko; visur tušti pašaliai. Raištelių visur ieškojo
+          — niekur nerado. Jonieška pečius traukė.</p>
+        <p>— Rožele! Rožele!</p>
+        <p>Mergaitė atbėgo;</p>
+        <p>— Ko klausei, tetute?</p>
+        <p>— Raištelių ieškau, niekur nėra! ar nežinai, kur mamytė laikydavo?</p>
+        <p>— Kad neturėjo, ką laikys! . . . vieną tėtuliuks sakėsi pametęs, antrą Bernotienė už skolą atsiėmė, o vieną dar baltą palaikėlį mėgdavo raišioties . . .</p>
+        <p>Jonieška pečius traukė:</p>
+        <p>— Neturėjo ! sako .. . man nepasakysi: mačiau ir žinau . . . Saugok Dieve nuo tokio nusibaigimo! —tarė drabužius imdama.</p>
+        <p>Iš klėties išėjo abidvi.</p>
+        <p>— Uždaryk, Rožele, mano vaikeli, klėtį, nes visokio svieto bus — tuos pačias skudurus dar kas išneš.</p>
+        <p>Roželė ėjo paskui ją, kaip nenorėdama. Jonieška glaudė mergelę ir tildė. Bet ne motynos buvo tas glaudimas : svetima ranka niekados nebus tokia — kaži-kaip norėtų, nepriglaus taip maloniai, kaip motyna. Todėl šiandiena našlaitei ašaros nedžiūvo;
+          jos širdelė numanė, kad šiame pasaulyje nebeturi jau nei kam pasiguosti, nei nuliūdusi pagalbos ieškoti; todėl vaikščiojo ne sava.</p>
+        <p>Subrėško jau. Laidotojai rinkties pradėjo. Visi kaimynai ėjo nabaštikės lankyti, nes gerai su visais gyveno. Bagdono nebuvo; su pazvanais kaip išėjo, dar nesugrįžo . . . Parėjo ir jis. Nesuprantama baimė ėmė jį, kiek; kartų prie mirusios pačios
+          prieiti jam reikė todėl į Liudviko vietą dvaro arkliams ganyti pasamdė, o jį į savo vietą laidotuvių gaspadoriumi padarė. Juodu tik su Jonieška ir sukosi. Liudvikas mirusios lavoną ant lentos padėjo. Šį vakarą pirmą kartą jis ją apkabino, nuo lovos
+          keldamas. Tamsu buvo, niekas nematė, kaip jis pabalo; dantis sukandęs kentėjo. Kas jo širdyje dėjosi — jis pats tik žinojo.</p>
+        <p>Kas tai buvo, kad širdį teip gėlė? Rasi mylėjo ? Ne. Kaip galėtų mylėti moteriškę ištekėjusią? jis tos minties neprisileido. Gailėjosi jos, kol gyva buvo; mėgdavo jai, jos širdgėlos sustabdymui skaityti žiemos vakarais; priprato, ir ne dyvai, kad
+          sunku buvo persiskirti ant amžių. Niekada neišsidavė jai, kad jam taip brangi buvo, bet šį vakarą pirmą kartą negalėjo suvaldyti savo širdies. Vienok, kad uždegė žiburį ir taisėsi kalnas giedoti, niekas nieko nenumanė: nuo jo akių ašaros nudžiūvo, ir
+          už stalo sėdosi prie maldų. Balsas jo vėl buvo vienodas ir nedrebėjo.</p>
+        <p>Šį vakarą Bagdonas daug kartų girdėjo šnekant:</p>
+        <p>— Ačiū Dievai, žmonelė pabaigė savo vargus.</p>
+        <p>Kiti, veizdėdami į numirusią, kalbėjo:</p>
+        <p>— O, Dieve! ką tas bedūšis iš jos padarė! . . . Čia nukentėjo — tenai nebekentės.</p>
+        <p>Daug tokių kalbų gavo išgirsti; kaltas buvo . . . tylėjo. Atsibudo jo sąžinė; rasi ir norėtų pasitaisyti, bet jau pervėlu. Gėda jį ėmė ir gailestis; nieko prie kasynu nesikišo. Jonieška su Liudviku visą tvarką vedė. Tik išryto, neverčiamas,
+          eglelių parnešė ir vežimą pritaisė kūnui vežti. Tą dieną, nuvežęs, dar parvažiavo drauge ir negirtas, bet vis truputį išgėręs.</p>
+        <p>— Koks velnias gimė, toks ir sproks — pratarė Jonieška.</p>
+        <p>Kaip per miglą po trobą žvalgėsi, barties norėjo, bet neturėjo ant ko numesti piktumo — pačios jau nebėra. Sesers bijojo: ta, būdama už jį vyresnė, nuo mažų metų viršų ant jo turėjo, mėgo kartais pagandinti ir apstumdyti; todėl prieš Joniešką
+          nedrįso skerėčiot. Ant suolo pas langą sėdėjo ir sunkiai dūsavo. Už tai rytmetį po laidotuvių niekas Bagdono nebematė. Jo draugai, kaip įmanydami, ramino bičiulį sunkiame rūpestyje.</p>
+        <p>Žmonės po tris rieškučias žemių ant grabo metė ir paskui kunigą pradėjo namo traukti. Tik mažos mergelės nuo kapo nutraukti negalėjo; prikritusi prie žemės, verkė savo motynos. Ją vieną turėjo ant svieto, tėvo kaip būtų nebuvę. Po kelias dienas
+          nepareidavo namo, o kartais per visą savaitę. Tuomet kaimynės, pasitikusios teiravosi Roželę, kur tėtė? Ji visuomet atsakydavo: „nežinau“, nes motyna tiek tik teleido sakyti.</p>
+        <p>Motyna visai nenorėjo, kad Roželė kur nuo savo trobos toliau vaikščiotų, net prie kaimo vienmečių nelabai leizdavo. Roželė, nenorėdama motynos rūstinti, daugiau laikėsi namie; priprato taip ir gera buvo.</p>
+        <p>Kartais vakaro laiku kaimo ar dvaro vyrai kad pradės būdavo dainuoti, ji, ant tvoros pas gluosnį sėdėdama, klausė tų dainų ir niekada prisiklausyti negalėjo. Graudi gaida žemaičių dainos jos dvasioje kaip linguote lingavo ir ant valandos nešė ją į
+          kitą svietą, o kartais širdyje pasidarydavo neapsakomai ilgu. Tokią valandą, kad būtų paklausęs kas, ką ji dūmojo, nebūtų, mokėjusi atsakyti, nes kalboje nėra tokių žodžių, kurie galėtų išreikšti tuos jaunos dvasios pageidimus. Motyna viena
+          suprazdavo — juk ir ji buvo jauna, tik be laiko pavyto, kaip žolelė pievoje, dalgio papiauta. Matydama dukrelę užsimąsčiusią klausė jos:</p>
+        <p>— Kas tau? ar sergi?</p>
+        <p>— Nesergu, tik ilgu, mamyte, taip ilgu, kad dvariškius išgirstu dainuojant . . . Norėčiau ten bėgti.</p>
+        <p>Motyna galvą palingavo ir tarė:</p>
+        <p>— Ne blogo, bet gero tau noriu. Pasistebėk, mano vaikeli, vakaro laiku sukūrus ugnį, kaip mažos plaštakės puola stačiai į aną: vienos krinta į žarijas, ir tuojau sudega, o kitos, nusvilusios sparnelius, krinta ant žemės ir raitosi, iki
+          nenusiraito, nebegalėdamos su savo draugėmis lakstyti ir prie jų pritikti. Saugokis dvaro ir dvariškių ir atmink senų žmonių priežodį: dvaras ne kaimynas, o ponas ne brolis.</p>
+        <p>Ir vėl Roželei, paklausius motynos, nerūpėjo dvaras, ir prie gaspadorystės trūsėsi; ir vėl gyveno ramiai, linksmindamos viena kitą.</p>
+        <p>Dėlto Roželė negalėjo atverkti savo motynos. Visi išvaikščiojo, o ji dar verkė ir verkė. Rodėsi viena esanti, niekas nepadyvys; dabar gali verkti, kiek tik nori.</p>
+        <p>Bet Jonieška neapleido Roželės: stovėjo netoli, į ją veizdėdama; per seną, rūkšlėmis suartą veidą, ašaros rietėjo. Ne mirusios, bet to vaiko gailėjosi. Į dangų paveizdėjo</p>
+        <p>— gana, laikas namo, saulelė jau žemai. Priėjo prie Roželės, paėmė už rankos ir tarė:</p>
+        <p>— Gana, Roželė, — liaukis verkusi: mamytės neatverksi, o gyva į žemę nemuksi .... gana . . .</p>
+        <p>Roželė nuo žemės atsikėlė ir ėjo paskui senę. Netoli trobos jau buvo, kaip Jonieška pasiklausė:</p>
+        <p>— O tėvo nei neregėjai?</p>
+        <p>— Kur tu regėsi — liūdnai atsakė Roželė ir, daugiau nieko nekalbėdama, įėjo į trobą.</p>
+        <p>— Tegul bus pagarbintas, — pasakė Jonieška senu papratimu, bet niekas nebeatsakė.</p>
+        <p>— Dabar gaspadinaukime, Rožele! Paršeliai nešerti, bėgk, mano vaike, bulblaiškių parnešk, o aš tuo tarpu, valgyti kaisiu.</p>
+        <p>Nebuvo laiko tame nuliūdime ilgai būti; nebuvo kam už jas dirbti, reikė pačioms mažiausią daiktą aprūpinti. Jonieška nelaikė mergiščios be darbo nei valandos: greičiau širdelę pergels, manė sau.</p>
+        <p>— Aš, kad mano motynėlė mirė, раs ponus auklėjau vaikus. Kas auklei verkti leis? Juk alga mokama — reikia vaikus linksminti, — ne rėkinti. Naktį, iki užmigsiu, galiu paverkti. Ot, gėlė širdį, o kad valios nedaviau — greitai nustojo.</p>
+        <p>Kad jau visus namie darbus apdirbo, pasivadinusi Roželę į klėtį, rengėsi jos kraitį sudėti į vieną vietą. Reikia apsidirbti, kol laikas: paskui neduos Bagdonas. Ką tik rado, uždarė į skrynę ir raktą į kišenių įsidėjo.</p>
+        <p>— Dabar eisime pavalgyti toje troboje paskutinį kartą, o ryt kelsimės pas mane.</p>
+        <p>— Pas tamstą?! — o tėtulis? . . .</p>
+        <p>— Tėtulis .... tegul namie lieka .... — O rasi kitą pačią parsives, o pas pamotę karti duona.</p>
+        <p>Pavalgė.</p>
+        <p>Roželė rykus nuplovė. Nuvargusi senė nusiavė kojas, įėjo į šoninę ir atsigulė. Po valandos sušuko:</p>
+        <p>— Rožele! Gulk su manim, lova plati, viena bijosi.</p>
+        <p>— Nebijosiu, tetute; gulėk, gulėk ... aš pas pečių prasnausiu.</p>
+        <p>Jonieška nieko daugiau nesakė. Dar valandėlę barškino rožančiais, paskui nustojo ir krankti pradėjo</p>
+        <p>Roželė, pravėrusi pamaži duris, išspruko lauk. Naktis buvo tokia graži, mėnesiena, be vėjo. Atsisėdo ant tvoros pas gluosnį ir dūmoti pradėjo apie savo praeitį. Įsistebėjo į šviesų dangų, į mėnesį, į debesis ir tas žvaigždeles mažas, kaip jos
+          mainėsi ir mirkčiojo. Viena tokia mažiulėle žvaigždelė krito, palikdama baltą taką ant dangaus.</p>
+        <p>— Kažin-kas mirė, — pamanė — ... O! Viešpatie, Viešpatie .... Ir vakar tokia žvaigždelė turėjo kristi, kai mano motyna mirė. Dieve visagalis, kam ją nubraukei?</p>
+        <p>Verkti pradėjo.</p>
+        <p>Ištolo išgirdo dainuojant. Klausė, o tykus vakaras leido žodžius girdėti: „Vanduo bėga, per akmenis šoka.</p>
+        <p>„Kas nemok mylėti — malonė pamoko...</p>
+        <p>Tolesnių žodžių nenugirdo, nes kažin-kas antrą eilę paėmė vamzdeliu. Po valandos vėl dainuoti ėmė:</p>
+        <p>„Viena žvaigždė šviesi, kita dar šviesesnė, „O mano mergelė už visas gražesnė . . .</p>
+        <p>— Tai Liudvikas dvaro arklius gano, — pamanė — tai jis dainuoja.</p>
+        <p>Rožele klausė, iki nenutilo, o kai dainuoti nustojo, jai tos dainos ar to balso buvo gaila — net vėl verkti pradėjo. Žvaigždelės balo ant dangaus, pradėjo aušti ir iš upių kėlėsi baltas rūkas. Ji tame rūke daug matė, ko kitos akįs nebūtų
+          mačiusios. Medžiai stovėjo dabar baltu rūku aptraukti ir tekančios saūlės spinduliuose blizgėjo ir mainėsi ororykštės varsomis.</p>
+        <p>Sukilo rytmetinis vėjelis, pradėjo lapelius judinti ir rasa didelėmis ašaromis nuo medzių kristi .... Tartum medžiai verkė, gailėdamies praėjusios naktelės ....</p>
+        <p>Roželė į trobą sugrįžo, pas pečių atsigulė ir užmigo. Atsibudo šoninėje. Langas buvo užleistas drobule, saulelė jau buvo augštai. Išgirdo Joniešką po trobą bevaikščiojant ir šoko iš lovos.</p>
+        <p>— Tetute, — pradėjo nedrąsiai — bučiau padėjusi, viena vargsti.</p>
+        <p>— Maža bėda, nekokias darbas ir аš dirbau, nepersidirbsiu. Dabar prauskis ir valgyk, nes kartu bus tai ir pietus.</p>
+        <p>— Roželė pradėjo valgyti bulbienę.</p>
+        <p>— Ar parėjo tėtė? — paklausė.</p>
+        <p>— Tai, ims ir pareis .... duok Dieve, ant vakaro.</p>
+        <p>Nespėjo tuos žodžias ištarti, išgirdo kažin-ką ateinant. Įėjo Bagdonas.</p>
+        <p>— Tegul bus pagarbintas . . .</p>
+        <p>— Ant amžių amžinųjų, Amen — atsakė lyg nenorėdama Jonieška. Girtas jisai buvo, kaip visuomet, bet dar ant kojų susilaikyti galėjo. Svyruodamas priėjo prie suolo ir sunkiai atsisėdo.</p>
+        <p>— A-a-a ... — atsidūsėjo, nusispiovė, pypkę iš kišeniaus išsitraukė ir rakinėti pradėjo, bet darbas tas jam nevyko. Bekrapštinėdamas, šipulį nulaužė ir pypkę į vidurį aslos sviedė:</p>
+        <p>— A, nei velnias! . . .</p>
+        <p>Jonieška pečius traukė:</p>
+        <p>— Ko čia siunti? kas čia kaltas?</p>
+        <p>Jis susigėdino ir lengvu balsu pradėjo:</p>
+        <p>— Seserėle mano mieliausia, ar virei kąnors šiandien? Velniškai ėsti noriu. .</p>
+        <p>— Kaip nevirsi .... valgyk! Paskutinį kartą išviriau; reik ir man namo grįžti, gana beviešėti!</p>
+        <p>— Seserėle! Neapleisk manęs, pasigailėk . . . Mergaitei mano ir man be moteriškos sunku ... o tau juk nei gyvenimas, nei kas ...</p>
+        <p>— O vis reikia.</p>
+        <p>— Ką ten reikia! dvi vištos ir rainys, tai ir čionai patilps, o be reikalo ir už kampą moki.</p>
+        <p>Ji klausė, nieko nesakydama. Bliūdą paėmė, viralo pripylė ir ant stalo pastatė. Duonos atriekusi, torielį su mediniu šaukštu Bagdonui padėjo. Jis į viralą paveizdėjęs, nevalgė. Ėmė žvalgyties, kepurę stvėrė ir iš užstalio kėlėsi.</p>
+        <p>— Čort! neėsiu! Kam aš ėsiu? Ar aš šuo, kad sakytų man: „lakk“ ! Kad jau man nėra kam drauge ėsti, tai te nebūna! Nuprogkite.Eisiu po velnių, tiek mane bematysite. Ne taip buvo, kad mano motynėle gyveno.</p>
+        <p>Girtuoklio akįs drėgti pradėjo.</p>
+        <p>— Tau rodosi, kad aš . . . durn .... kad gėręs — tarė rėkdamas, ne! Kad iš manęs tyčiojies, aš išmanau, nebijok!</p>
+        <p>Nosį į tarppirštį įspriaudęs, nušnypštė ir balsą permainęs tarė:</p>
+        <p>— Nėra ko padyvyti, kad kartais prie vyrų lašelį įtraukiu: mums reikalo kartais, be to negalima atlikti. O šiandien nugirdau dideliai linksmą naujieną.</p>
+        <p>Jonieškos akįs pasidarė šviesesnės:</p>
+        <p>— Tegul . . . kas per naujiena? — paklausė!?</p>
+        <p>— Sėski kartu ėsti, tai pasakysiu.</p>
+        <p>Ji torielį nuo lentynos paėmusi, sėdo prie stalo.</p>
+        <p>— Rožele, ir tu artinkis šian, mano vienturte dukrele! Sūnaus neturiu, viskas tavo: ir tas gyvenimas ir viskas, ką aš turiu. Jonieškėle! ar supranti mano kalbą? — burną savo prie jos per stalą prilenkė ir į akis veizdėjo, juokdamasis — ar supranti?</p>
+        <p>— Ar aš maža? Ko čia niekais džiaugties! Žemė priguli ponui, o dar tu čia galvoji, kam ją palikti! Tu pats džiaugkis, vietą turįs, ir veizdėk, kad kuomet, drapanas surinkęs, nespruktum, kur akis neša. Kam reikia niekus kalbėti! nei klausyti nenoriu.</p>
+        <p>Bagdonas visu balsu juokties pradėjo:</p>
+        <p>— Kas kaltas, kad tu kvailė, — tarė. — Klausyk, aš tau pasakysiu: kaara-a-alius mums žemę duos — suprask! Nuo ponų atims ir mums duos. Šiandien susiėjau staršiną; jis sako: Bagdonai, klausyk, ar duotum pusbutelį, kad tau kas gyvenimą duotų? Tai
+          jau, sakau, duočiau ir du, tik duok! Jis sako: o ateik į „sielską“; šiandien vieną naujieną norime jums apgarsinti; yra sprauninkas ir asesorius; ateik! Tiesa, nueinu — „sielskoje“ vyrų,vos gali prasigrūsti. Kai jau visi buvome, perskaitė mums
+          karaliaus ukazą, kad mums duos žemę — žmonėms liuosiems, kurie nuo 18 . . metų ją valdė. Tai! matai!</p>
+        <p>Bagdonas kalbėti nustojo ir veizdėjo šypsodamas į seserį.</p>
+        <p>— Netikiu aš, — sakė ji — už ką gi jums duotų? Už ką?</p>
+        <p>— Už ką? Ir aš tiek težinau. O už ką mus išpo ponų bizūno atėmė ir liuosus padarė? ką?</p>
+        <p>— Kas man rūpi; tai vyrų dalykas, jiems apie tai galvoti. Dėl manęs tegul duoda, aš nepavydžiu, bet man rodosi, kad to nebus.</p>
+        <p>— Bobų kalba! — Pamojo ranka Bagdonas, pasiėmė kepurę ir išėjo pro duris. Nuėjo stačiai per lauką takeliu ant Stankaus, nes rūpėjo jam pasakyti kaimynui linksmą žinią iš pradžios ailutės! Tiesa, linksmesnės žinios negalėjo išgirsti mužikai:
+          šmotelį savo žemės turėti taip norėjo kiekvienas iš jų. Niekados nesupras šito mužikų džiaugsmo tie, kurie žemės nedirba savo rankomis, kurie savo prakaito į ją nelieja, kurie jos širdingai nemyli. Dauguma ponų nesupranta to noro gauti žemę ir
+          stebisi. Stebisi tie, kurie, turėdami daug, savo žemės rubežių gerai nežino; tie, kurie ant kelių mėnesių parvažiavę į savo tėvynę, tiek ją težino, kiek vakaro laiku apsipirštiniavę išeis pasivaikščioti, neturėdami kur dėti laiko. Tie pasistebėjo ir
+          gerumu leido meruoti savo žemę. Kiti, vadinamieji plikbajorai, kurie skolose paskendę, benorėdami susilyginti su ponais, tie netik stebėjosi, bet ir pavydėjo. Jie tuojau pradėjo karą su mužikais, kuri daug kartų be reikalo nubaigė tokį plikbajorį ir
+          mužiką. Dėl ko tą karą vedė, negali žinoti, nės kiekvienas iš tokių plikbajorių turėjo žemės perdaug, nes ir tos nei gerai apdirbti, nei apsėti neįstengė. Vienok žemės duoti nenorėjo ir pliko dar labiau, belakstydami po kaimą ir po visas peklas,
+          vezdami dažnai neteisingą bylą.</p>
+        <p>Mužikai tuo laiku buvo neprieinami. Jeigu ir atsirazdavo bajoras, kurs, gailėdamasis jų, bandė visą padėjimą išguldyti, tai mužikai klausyti nenorėjo, tardami: „Kaip karalius sakys, taip ir bus.“ Ant to baigėsi visa kalba mužiko su bajoru. Dėlko
+          taip buvo?</p>
+        <p>Oi, bajorai! bajorai! Jųs savęs pasiklauskite ! Ne vienas, perkratęs darbus savo bočių, savo tėvo ir ant galo paties, supras, jog kitaip būti negalėjo, nes mužikai maskolius laikė per savo gelbėtojus iš-po sunkio jungo. Rodos, nebuvo bajoro, kurs
+          numanė, kad jiems reikia būti tamsios liaudies vadovais. Nenorėjo su mužiku pašnekėti kaip su žmogum, ne, to jiems nereikė. Mužiką matė tik prie darbo, ir niekuo daugiau žmonės jiems nebuvo, kaip tik gerais ir blogais darbininkais.</p>
+        <p>Laukiamas laikas atėjo. Į Degaičių dvarą atvažiavo matininkas ir ten apsigyveno. Mužikams tai baisiai netiko: pabūgo, ydant ponas jo neperkalbėtų — dar gali žemės kuriam neduoti. Kaimynai susirinko pas Judeikį ir nusprendė, kad reikia matininką
+          pas Bagdoną į klėtelę perkelti. Klėtelė švari ir ne maža, o jiems drąsiau bus prieiti. Taip ir padarė. Ant rytojaus, kaip tik pamatė lauke matininką, stalelį statant, tuojau nusiuntė iš savo tarpo du gaspadoriu, Stankų ir Bagdoną. Nedrįsdami ėjo,
+          ištolo dar kepures nusiėmę ir, arčiau priėję, pasakė: „Tegul bus pagarbintas“ . . . Matininkas apsižvalgė, bet nieko neatsakė. Ant stalelio kažin-ką statė ir stumdė ir prisimerkęs veizdėjo.</p>
+        <p>Abudu stovėjo, vienas antram liepė pradėti kalbą, o nei vienas nedrįso. Antgalo Stankus pradėjo:</p>
+        <p>— Poneli, kad loska ... — ir nutraukė.</p>
+        <p>Matininkas vėl apsižvalgė.</p>
+        <p>— Čevo? — iš-po sutrauktų juodų antakių į žmonės veizdėjo. — Ne imėjų vremeni,</p>
+        <p>— pasakė ir nusisukęs vėl ant stalelio ka-žin-ką ėmė dėliuoti.</p>
+        <p>Kaimynai mirktelėjo vienas kitam. Stankus kažin-ką iš kišeniaus ištraukė, iš popierio išvyniojo ir prisiartino prie matininko.</p>
+        <p>— Kad loška poneli .... čia tamstai susidėję su šituo kaimynu, Bagdonu, norime duoti ... — tarė Stankus, kišdamas į matininko ranką pinigus.</p>
+        <p>Tas šviesesnėmis akimis paveizdėjo į mužikus. Nors jam nelabai patiko, kad dviese tuos pinigus jam duoda, bet jo rankos, papratusios imti, išgriebė tuojau iš Stankaus rankų pluoštą popierėlių.</p>
+        <p>— Za što eto?</p>
+        <p>— Tai dėl tos žemės, poneli; būk malonus, nepamažink . . .</p>
+        <p>— A-a-a . . . charašo; dam ziemli, dam</p>
+        <p>— sklaidydamas pinigus, sakė matininkas</p>
+        <p>— по, по, ant pradžios to užteks . . . nie mnogo .... štož dielat, perdaug nie choču.</p>
+        <p>Pinigus įsikišo į kišenių.</p>
+        <p>— Dar vienos loskos norėjom: būk, poneli, taip geras, pas Bagdoną persikelk. Klėtelė švari, o tamstai bus arčiau mieruoti ateiti . . .</p>
+        <p>— Mano trioba šita, — prašneko Bagdonas.</p>
+        <p>Matininkas, tikrą savo pelną matydamas, dar tą patį vakarą persikėlė pas Bagdoną. Žmonės sukosi apie jį, kaip įmanydami: netrūko jam nei vištienos, nei kiaušinių, nei geros degtinės, už paskolintus pinigus nupirktos.</p>
+        <p>Su Bagdonu didžiai suteikė: tas jam neįmanė kaip įtikti, katinu ir šunimi vertės. Kol keturius mužikus apmieravo, tol pas Bagdoną buvo. Ant išleistuvių žmonės bankietą pakėlė. Poną matininką apgirdė ir patįs kartu smarkiai užsivežė. Kiekvienas iš
+          apmieruotų gaspadorių dar po keletą popierėlių ant kelio įdavė, kad paskubintų patvirtinti juos. Tas kiekvienam žadėjo, kas tik ko prašė, ir žmonės liko linksmi, turėdami viltį, kad stiprų savo reikalą apdirbo.</p>
+        <p>Jau nuo pirmos savaitės po išvažiavimo matininko jie laukti pradėjo popierių ir į ,,sielską“ ėjo ir ėjo kiekvieną seredos ir nedėlios dieną, patirti; bet nieko nebuvo. Jau ir pusė metų praėjo; kiti sakė, rasi užmiršo, ir pradėjo išnaujo rašyti
+          prašymus; tik kur siųsti? Jie patįs nežinojo. Kaip ponas raštininkas pasakė, taip buvo, kur reik jis siuntė. Kad taip žmonės, atsidėję būtų paieškoję „sielskos“ mėšlyne, rasi ne vienas savo prašymą ten būtų radęs; bet niekas neieškojo, o ponui
+          raštininkui gerai buvo keletą rublių pasigriebti. Ne brangininkas juk buvo: kartais užteko ir 15 rublelių už teisingą išguldymą kokio-nors dalyko. O! tais metais laimėjo visi vagįs!</p>
+        <p>Ponai raštininkai aiškiai pilvus ištempė. Kad būtų galėję, visų žmonių reikalus būtų pratęsę lig sūdo dienos; vargas tik, kad nei suturėti, nei paskubinti nieko negalėjo.</p>
+        <p>Vieną kartą linksmas parėjo Bagdonas iš miestelio ir Jonieškai išpasakojo, kaip susiėjęs vieną poną, ir tas jam už 20 rublių žadėjęs per savaitę viską apdirbti.</p>
+        <p>— Ką padarysi? daviau, nors pasiskolinęs, žemė ne dvidešimties rublių verta ... ką padarysi ....</p>
+        <p>Jonieška atsiduso.</p>
+        <p>Ką padarysi, kad tavęs niekas neperkalbės! ryžkis! tavo dvars, tavo gers, tik man rodos, kad tu ir kelnes pridėsi, iki tu tą žemę gausi. Matysi. Duok Dieve, bet tikėti nesinori.</p>
+        <p>— Bobų kalba!</p>
+        <p>— Na, na! kad tik neįvyktų.</p>
+        <p>Verptuvą smarkiau sukti pradėjo ir nutilo.</p>
+        <p>Roželė, skuzdama bulbes, klausė vyresniųjų kalbos. Bagdonas nuvargęs virto į lovą ir tuojau užmigo. Niekas dabar jam nerūpėjo: atsidėjo ant Jonieškos. Ta jam gaspadine ir gaspadorium buvo. Mažne kas diena sakė: „eisiu namo“, vienok neėjo, gaila
+          jai buvo to brolio-liurbos. Dvi savo vistas ir rainį parsinešė, lovą Bagdonas parvežė, ir jau pasiliko čionai gaspadinauti.</p>
+        <p>Bet gaspadinauti nebuvo ant ko. Iš penkių karvių vos viena liko ir kumelė akla, kur dar per lenkmetį važiodavo su ja bajorams maistą į mišką. Kitus gyvulius Bagdonas būk dėl skolininkų išgabeno į miestelį, o kiti sakė, kad pragėręs. Skolininkai
+          vis lankė ir lankė Bagdoną. Jis jų prašės palūkėti, žadėdamas prasigyventi, gavęs savo žemę. Ir vėl skolininkai kentė.</p>
+        <p>O Bagdonas, kaip ėjo į dvarą „dienas“, taip ėjo. Antgalo sulaukė. Popieriai atėjo. Žmones į „sielską“ sušaukė ir pasakė, ko jie nelaukė išgirsti. Ne linksma buvo žinia, nes visi buvo nuliūdę ir susirinkę taravosi, pakaušius kasydamies.</p>
+        <p>— Kas bus? — klausė vieni. Kitigi sakė:</p>
+        <p>Tegul biesas nemato! kad būčiau žinojęs; ne būčiau tiek pinigų dėjęs.</p>
+        <p>Apgarsino šiandien, kad reikią važiuoti į Šiaulius priimti popierų ir užmokėti 15-tą procentą. Kiek išeina tas penkioliktas procentas, biesas jį žino.</p>
+        <p>Ėjo prie žinovų pasiteirauti, ir net nusigando patyrę, kiek tai išeina; o paskui per 04 metų mokės valdžiai dar daugiau, nekaip mokėjo dvarui.</p>
+        <p>Bagdonas parėjo nusiminęs ir nešnekus. Jonieška tuojau suprato, kad atsitiko kas blogo; bet nieko neklausė. Ką gelbės klausiant, ir ką ten moteriškei kišties į vyrų reikalus. Bagdonas, nieko nesakydamas, nuėjo gulti. Pavakare atsikėlęs ir akis
+          krapštinėdamas, nusikabino nuo gembės pantį ir išėjo kumelės supančioti; tai visas jo buvo darbas. Supančiojęs, jau nebeparėjo. Jonieška matė, kad per lauką pas Stankų nukeliavo. Stankų rado ką-tik nuo darbo parejusį bevalgant vakarienę. Kaimyną
+          tuojau prie stalo prisivadino.</p>
+        <p>— Prašau, kaimynai, prie šutinės.</p>
+        <p>— Ačiū, nei valgis nebeina, kad žmogui rūpi.</p>
+        <p>— Na, kas yra?</p>
+        <p>— Kas bus? Miestelyje išgirdau naujiena ....</p>
+        <p>Ir pradėjo pasakoti apie savo verksmingą padėjimą, — kad reikią važiuoti į Šiaulius mokėti pinigus, o čia jų nėra. Tų pinigų prašyti ir atėjo jis pas turtingą kaimyną.</p>
+        <p>— Sakyk, kaimynai, ką dabar daryti? Tik viena kumelė ir karvė yra; už jas, pardavęs, gausiu kokius 20 rublių, o reikia 60 rublių — daug trūksta .... Kaimynai, susimilk tą kartą, duok!</p>
+        <p>Stankus užsimąstė.</p>
+        <p>Ar žinai, stačiai pasakysiu: duoti netruksiu įduoti, o iškur atiduosi? Juk jau 25 įdaviau. Atmeni?</p>
+        <p>— Kaip neatmįsi? — O po valandos tarė: dar šitą kartą susimylėsi, nežus. Jeigu nori gyvenimą galiu užstatyti; o kad ne, imk gyvenimą iš pusės.</p>
+        <p>— Kam man to rūpesčio, kaimynai.</p>
+        <p>Valandą sėdėjo Stankus užsirūpinęs, antgalo prašneko:</p>
+        <p>— Ar žinai, gaila man tavęs; pripratę esame iš mažų dienų, dėl to pasakysiu dar žodį: 30 rublių duosiu, ką darysi, tai turėsi pusę, o antrą pusę bene sugraibysi kokiu-nors būdu.</p>
+        <p>— Žinai, reikės veizdėti ....</p>
+        <p>Bagdonas dėkavoti ėmė.</p>
+        <p>— Nėra už ką, nėra, tai .... tarp kaimynų .... Tik šiandien neduosiu. Tamsta turi minkštą širdį. Nedėlioj dar išleisti gali. Tegul būna pas mane, juk sykiu važiuosime.</p>
+        <p>— Gerai, gerai! Kaip padarysi, taip gerai — tarė Bagdonas.</p>
+        <p>Vėlu buvo, kada Bagdonas, kaimynui sudieu pasakęs, ant namų braukė neapsakomai linksmas.</p>
+        <p>Nedėliojo karvę ir kumelę pardavęs, gavo 20 rublių. Dešimtinės jam dar trūko. Galvojo, galvojo — gera mintis jam atėjo:</p>
+        <p>— Roželės kraitį užstatysiu, ir bus — prasidžiugo — bet savęs nepasiklausė, ar turėjo teisę tai daryti.</p>
+        <p>Užstatysiu, tik nuo Jonieškos ar galėsiu išgauti?</p>
+        <p>Tai jam rūpėjo ir, dėl drąsos pusbutelį išmaukęs, rūpindamasis namo parėjo.</p>
+        <p>Jonieška kažinko susiraukusi buvo. Rado ją ką-tik iš bažnyčios parėjusią; abi su Rožele pietus kaitė.</p>
+        <p>Bagdonas laukė sutemos. Bevalgant, pradėjo privadžioti:</p>
+        <p>— Jonieškėle mano, viskas gerai; pinigų kaip dvare ....</p>
+        <p>— Užtai gyvulių nėra, nėra ko džiaugties............</p>
+        <p>Vėl valandą nieko nesakė.</p>
+        <p>— Dar keleto kapeikų nepritenka . . . Kam aš čia turiu slėpti . . . Jonieškėle! nepykk! aš tau visą tiesą pasakysiu: dešimties rublelių trūksta.</p>
+        <p>— Dabar ką įmanysi parduoti? ar dūšią, jeigu dar jos neužstatei .... Vargu ją turi — tęsė Jonieška rusčiai, į brolį veizdėdama.</p>
+        <p>Bagdonas pirštus laužė, net braškėjo, ir nieko nesakė.</p>
+        <p>— Iškurgi ištrauksi, tikrai? — pradėjo Jonieška.</p>
+        <p>— Tai nepykk .... Tai aš žadėjau tavęs prašyti...........</p>
+        <p>Jonieškos akyse žaibai tviskėjo.</p>
+        <p>— Durniaus šmote! ko tu iš manęs tyčiojiesi? ko tu mane užpuoli? a... a... tu misliji, kad tu mane čionai priputinai, tai neapsakoma man laime? ar aš nepaėdusi buvau . . tasssai .... Visą mano turtą žinai: dvi vištas, lovą ir katiną Rainį
+          parsivežiau!</p>
+        <p>Vištą nuo laktos sugriebusi, į akis Bagdonui sviedė.</p>
+        <p>— Še susprogk! še . . . — balso jai trūko.</p>
+        <p>Bagdonas akis užmerkė . ..</p>
+        <p>— Štiš laukan, gyvate, d ar akis išdraskysi!</p>
+        <p>Vištą nuo savęs atmetė:</p>
+        <p>— Tu čia negyvatuok! Kad mano gyvulėliui nėra vietos, tai ir man tegul nebūna!</p>
+        <p>Drebančiomis rankomis vilkties pradėjo.</p>
+        <p>Bagdonas pažiūrėjo į seserį.</p>
+        <p>— Kam čia! ar girdėjai! nei aš tavęs noriu pykinti, nei juokties; norėjau tai... prašyti, kad man Roželės audeklus leistum užstatyti.</p>
+        <p>Jonieška, į jį veizdėdama, raudona buvo ir visa drebėjo.</p>
+        <p>— Jau ir tai parūpėjo? Aš ir misliju, argi užmirši? Kas dėjo! Toks gaspadorius viską turi žinoti! . . .</p>
+        <p>Bagdoną piktumas pagavo:</p>
+        <p>— Jei neduodi, neduok, o nesityčiok! Neduok! įsikišk ... — liežuvį prikando.</p>
+        <p>Kepurę pasigriebęs, pro duris buvo beeinąs.</p>
+        <p>— Oje! oje! kodėl neduosiu! ar aš čia, kaip nelabasis pinigus, tuos skarulius turėsiu apgulusi? Atiduosiu at .. . viską.</p>
+        <p>Lakstė po butą, lyg ko ieškodama; viedrą paspyrė, kėdę parvertė, naščius į užkrosnį užsviedė, raktą nuo gembės nutraukė ir pro duris išpuolė:</p>
+        <p>— Eik šian, eik! . . .</p>
+        <p>Į klėtį įpuolusi skrynę atidarė:</p>
+        <p>— Še! še! imk!</p>
+        <p>Bagdonas stovėjo, veizdėdamas mažne į tuščią skrynę. Ji drabužius mėtyti pradėjo; porą stuomenų audeklo dar išmetė, tris pogalvius ir dar kažin-kokį ryšelį. Ant dugno buvo skarulių saujelė ir tuos sugriebusi į akis jam metė.</p>
+        <p>— Te! te ir tuos! — juokties pradėjo.</p>
+        <p>Dabar jau neberūpės, gali dabar keliauti.</p>
+        <p>— Raktą ant grindų pametė ir iš klėties išlėkė vienu vėju.</p>
+        <p>Bagdonas į vieną krūvą viską susistūmė ir į drobulę susirišo. Duris užrakinęs, iš klėties išėjo. Į butą nedrįso eiti, tik nuėjo į daržinėlę ir atsigulė.</p>
+        <p>Ant rytojaus, pasiskolinęs iš kaimyno kumelę, saulei tekant, daiktus išvežė. Tą dieną nesugrįžo. Per kelias dienas nebuvo namie; buvo Šiauliuose. Kur jisai klaidžiojo, niekas nežinojo — nebuvo ir gana. Niekas jo labai nei nelaukė. Roželė nuo mažų
+          dienų paprato tėvą retkarčiais tik tematyti. Dienos laiku Joniešką vadavo, o ant vakaro, kada senė užmigdavo, ji pas gluosnį atsisėdusi klausė Liudviko dainuojant.</p>
+        <p>Dėl ko tas balsas taip malonus jai buvo, pati nežinojo. Tas Balsas nuliūdusią širdelę kartais ramino, kaip kūdikį motynos dainelė, o kartais palikdavo tokį rūpestį, kad rodės, mergelei širdį kas graužte graužė.</p>
+        <p>Iš tiek balsų tą balsą jos dvasia atskyrė, tas balsas garsiai atsimušė našlaitės širdyje.</p>
+        <p>Žiema jau artinosi, šalta buvo ir jaunikaitis dainuoti nustojo. Užėjo biaurios dienos.</p>
+        <p>Vakarais susėdusios bute abidvi su Jonieška verpė kaimynams, nes savo darbo nebuvo, o druskos ir duonos reikė. Verpė, klausydamos vėjo ūžimo, lytaus pliukšėjimo, o kad ilgu razdavosi, giedodavo liūdnas giesmes — štai ir vakaras praeidavo.</p>
+        <p>Nedėlios vakarais ateidavo Liudvikas, mokė Roželę skaityti, kartais ir pats skaitė. Tuomet moterįs nei juste nejuto, kur vakaras pradingdavo, tokių puikių knygų tas Liudvikas turėjo. Taip žiema praėjo, žemė linksmiau išrodė. Tik pas Bagdoną kas
+          kartas blogyn ėjo. Tiesą sako: kad žmogui nevyksta, tai ir nesiveda.</p>
+
+      </div>
+      <div type="chapter">
+        <head>***</head>
+
+        <p>Vieną nedėlios dieną Jonieška iš bažnyčios parėjo kažin-ko nesmagi, ir įgulė. Ko jai nesudavė: dvi gyvates sugėrė, krupį su medum grūstą — nieko negelbėjo, matyt mirtis buvo žadėta. Nei trijų dienų nepraėjo, kaip ją padėjo ant lentos.</p>
+        <p>Neliko Jonieškos, kaip būtų nebuvusi. Tik Roželė kartais apsiverkdavo amžiną atilsį už jos dūšią kalbėdama.</p>
+        <p>Iš palaidotuvių pareinant, prisipainiojo prie Roželės viena boba. Matyta buvo, bet jos nepažino, nes motyna neleizdavo su ta boba susiartinti.</p>
+        <p>Boba šnekinti pradėjo:</p>
+        <p>— Mažiulėle mano, viena pati likai, varguole!</p>
+        <p>— Dievo valia — atsidūsėjusi tarė Roželė.</p>
+        <p>Boba, akis raudonu žiurstu šluostydamos,</p>
+        <p>pradėjo lyg raudoti:</p>
+        <p>— Kur dabar eisi, širdele, kas priglaus ? kas pamyluos? O Dieve! tokia jaunutė!</p>
+        <p>Balsą permainiusi, akis primerkė ir biauriai vaipydamos, tarė vėl:</p>
+        <p>Ar žinai ką ? eikim pas mane. Aš kaimynė, Šukienė, Šukienė, tur-būt, girdėjai? Mane visi žino: pas mane visa jaunuomenė širdį atgauna — vėl vaipyties pradėjo.</p>
+        <p>Mergiščia to jos tarškėjimo visiškai nesuprato.</p>
+        <p>— Mudu su vyrų susiraminti norime: bevaikiai esame; ką daugiau dirbsime? Nedėlios vakarais susirenka pas mus vaikinų, kaip liepų — čiaupydamos ir laižydama varvančias seiles, sakė boba. — Kartais ateina ir dar geresnių . . .</p>
+        <p>Paveizdėjo į Roželė ir negalėjo suprasti, ar klauso, ar ne. Prie jos ausies prisikišusi sušnabždėjo:</p>
+        <p>— Kartais pats ponaitis ateina.</p>
+        <p>Tai sakydama, net laižyties pradėjo.</p>
+        <p>— Didžiai mokytas ponaitis: 23 metus ėjo klesas, dvejus metus buvo Šiauliuose, paskui važiavo į Mintaują; ten vėl netiko, nes nebuvę kaip reikią; paskui važiavo į Varšuvą, paskui dar kažin-kur. Dabar yra Rygoje, bet nebe klesose,o didesniame
+          mosksle; kažin-kaip ? neatmenu! . . . Beje, palitoninkais juos vadina. Begalo pakipšnus ponaitis ir čiuinas. Kurie tą mokslą eina, tai dėvi mažą kepuraitę, cidabro galionėliu apsiūta .... Negali apsakyti ....</p>
+        <p>Vėl Šukienė atsivėpė, į mergelę, kaip driežas į gegužę, veizdėdama.</p>
+        <p>Arčiau prisitraukė:</p>
+        <p>— Tik bėda! ne visos jam mergos tinka ir į nibres ne visur nori vaikščioti; jis jaunas mėgsta. Tokia, kaip tamsta, galiu sakyti, tiks: išsyk kaip kibte prikibtų. Skaisti, dikta, galiu sakyti, ponaičiui tiksi, — aš jau numanau.</p>
+        <p>Mergelė nieko nesakė; galvoje jos ūžė nuo to tarškėjimo, kurio betgi nesuprato.</p>
+        <p>— Dėl biškelio neišeisi iš kelio. Kai aš jauna buvau! a . . a . . a . . . buvau kaip maliavonė. Dabar ko jau benorėti? Pirmiau mano veideliu ponai ir kunigai džiaugės, o dabar ir kumelės baidosi. Juk visada graži neperbūsi.</p>
+        <p>Pakelėje ties kryžium sugriebė mergelę už rankos.</p>
+        <p>— Mano mieliausia! einame kartu, einame pas mane! aš jau duonos nepasigailėsiu. Eiva! Aš tave ponia padarysiu, šilkuose šnabždėsi.</p>
+        <p>Baimė neapsakoma ėmė Roželę. Atminė pasaką, senai girdėtą, apie peklos lervą. Kažin dėl ko, į bobą veizdėdama, pamane, kad tokia ta lerva buvo; taip jai širdis prie tos bobos nelinko.</p>
+        <p>— Poryt pas mane nibrelė, eiva! Ateis dvaro arkliagonis; gražus vaikinas, tik durnas, davatka baisi: nei jis apie mergas moka apsisukti, ir į nibrę kad ateina, tai tik dėl mados, kad kiti eina. Nuo ryto bažnyčioje gieda, po visam išeina. Nei jis
+          pas Abromą užeis; o ten jau galėtų: ten ir geros asabos eina. Tiktai ką dainuoja puikiai. Vieną kartą bėgsiu, sakau, pasikibinti, mat, netoli pamiškėje mano trioba. Kaip tik subrėško, lekiu. Jis, ugnį susikūręs, knygą varto. Už koją sugriebusi vilkti
+          pradėjau, o tas, mat, nei juoko neišmano; von, rupūže! sako; sena, o durna, ar velnias tave čia po girią tampo? — O pats jau, tur-būt, sakau, pasensi? — Šalin eik! —</p>
+        <p>— Kad taip jauna, tai nevarytumei, sakau. O jis nuodėgulį iš ugnies ištraukęs, prie manęs prišoko; — o kelis kartus tu mane prie mergos nutvėrei? Kam tu mane užkabini? — Kaip pašels šakalyti ....</p>
+        <p>Nuo to karto einu pro šalį, lyg nematanti.</p>
+        <p>Roželei dabar reikė, eiti tiesiok. Boba, sugriebusi ją už rankos, taku per lauką tempė.</p>
+        <p>— Ko čia! nesididžiuok, eikim! Nepatiks, niekas nelaikys pririšęs.</p>
+        <p>Rankos jos nepaleido. Roželė ėjo, kaip ant mirties; baimė didžiausia ją ėmė. Traukties norėjo, bet turėjo eiti.</p>
+        <p>— Šitai, mano troba.</p>
+        <p>Duris atidarė, įėjo.</p>
+        <p>Tegul bus pagarbintas — pasakė Roželė.</p>
+        <p>Niekas neatsakė, tik lovoje raižytės pradėjo vyriškas. Pamatęs motriškas, ant lovos atsisėdo.</p>
+        <p>Boba tuojau ėmė tarškėti:</p>
+        <p>— Parėjo, pasimeldė mamutė; o tau, tėveli-balandėli, ar ne buvo ilgu?</p>
+        <p>— Ar žinai? kaip įguliau, tai ligšiolaik miegojau — tarė vyras, supurusius plaukus taisydamas, ir pradėjo žovauti. Kėlėsi nuo lovos, patempė augštyn nusmukusias kelnes ir prie krosnies priėjo.</p>
+        <p>— Šitai, mamute, šutinės katile rasi, ėsk.</p>
+        <p>— O pats, tėveli, širdele, ar nekandi.</p>
+        <p>— Nenoriu, — atsakė vyras ir vėl į lovą dribo, rankas už galvos užkėlęs.</p>
+        <p>— Na, balandėle, kąsk — tarė boba Roželei — aš raginti nemoku; kokia diena toks ir vaišis.</p>
+        <p>Roželė, išbuvusi čia dvi dienas tarėsi metus išbuvusi. Nedėlioje nei į bažnyčią neleido boba Roželės — nibrės laukė.</p>
+        <p>Tikrai, pradėjo rinkties nibrininkai, vaikinai, eidami iš bažnyčios. Rinkos šiokie ir tokie vyrpalaikiai, mergų traukiami. Pas Abromą kitos, matyti, buvo buvusios, nes raudonos buvo, kaip bijūnai, ir vaikinams ant kaklo kabinėjosi.</p>
+        <p>Tuojau kaip virte užvirė pas Šukį. Vieni dainavo, kiti kriokė nežmoniškais balsais.</p>
+        <p>Vieni pašaliais cypino, o kitos poros, nuvargusios, ir į lovas suvirto. Roželė tarėsi pragare esanti. Tokia ją paėmė gėda, kad akių neturėjo kur dėti; pasieniais slankiojo, bėgti norėjo, bet savo raiščių nei skepetos niekur nerado. Ant priegrindės
+          išėjo ir susigėdino: Liudvikas sėdėjo ant suolo prie buto; galvą pasirėmęs. Ir jam čia trošku buvo; atėjo su kitu, bet troboje nenorėjo stovėti.</p>
+        <p>Pamatęs Roželė, labai nustebo.</p>
+        <p>— Iš kur tamsta čionai, Roželė? Ką motynėlė sakytų pamačiusi? vajė, vajė!</p>
+        <p>Roželė, skaisčias akis nuleido žemyn.</p>
+        <p>— Šukienė parsivedė, nenorėjau eiti, prispyrė.. . ir ėjau, — teisinosi mergelė.</p>
+        <p>— Ar tamstai čia patinka?</p>
+        <p>— Kas tiks? O kur ištruksi?</p>
+        <p>— Ar šoki? — paklausė Liudvikas.</p>
+        <p>— Nemoku, atsakė.</p>
+        <p>— Ar ilgai čia stovėsi?</p>
+        <p>— Ne, bėgsiu, baimė mane ima ir gėda.</p>
+        <p>— Taip ir daryk — tarė Liudvikas — doros mergelės nesivalkioja po nibres.</p>
+        <p>— Dėko?</p>
+        <p>— Ilgai pasakoti; o jeigu nori, Rožėle, ateik pas mane vakarę, kada visi sumigs. Nebijok, Rožėle, kad ir vienas ganau, — nuraudonavo, žodžių savo susigėdinęs, ir nežinojo ką sakyti.</p>
+        <p>— Ateik, nebijok ....</p>
+        <p>— Ko aš galiu bijoti, kad tamsta kartu būsi.</p>
+        <p>Jis nusišypsojo ir į mergelę paveizdėjo. Patiko jam ta mergaitės nekaltybė; jis norėjo ją visada tokią matyti. Bet pats nežinojo, kaip nuo visų svieto pavojų reikia tą mergelę apginti. Norėjo dar sakyti, bet šuo sulojo.</p>
+        <p>Abudu apsižvalgė. Į kiemą įėjo svečias, juodai apsidaręs. Ištolo išrodė jaunas, bet arčiau jam priėjus, veidas pasirodė nuvargęs, burna buvo pavytusi, neskaisti. Turbūt, neprimatė, nes galvą kraipydamas, akis savo juodas merkė. Nosi turėjo
+          abžargintą akiniais tie jam turėjo aiškiai spausti, nes nuolat nosį virpino. Kepuraitė maža, kaip kumsčia, apsiausta sidabriniu galionėliu, ant viršu-galvės vos laikėsi. Ėjo, lendre mosuodamas. Eisena jo nebuvo eisena jauno vaikino: ėjo, kaip senas
+          kazoko arklys, kojas keldamas peraugštai. Rodės, jog sunku jam buvo savo menką kūną pakelti.</p>
+        <p>Roželė nei nuo durų pasitraukti nespėjo, kaip svečias prie jos pristojo.</p>
+        <p>— Na, tu gražulėle mano! — tarė, ir nosį jai dviem pirštais suspaudė. Ji apkaito, norėjo pasitraukti, bet jis už rankos nutvėrė.</p>
+        <p>— Tancavoti eikim! Roželė iš baimės balso neteko. Bet ne į butą traukė ją tas „šilo velniukas“. Įsitraukė mergelę į priemenę, prie savęs prisiglaudė ir siekė bučiuoti.</p>
+        <p>Ji stūmė jį nuo savęs ir maž-maž neišsprūdo, bet svečias savo liesomis drebančiomis rankomis vėl ją nutvėrė, tik stipriau. Veizdėjo į ją savo juodomis akimis taip keistai, lyg nežmoniškai. Gynėsi, spėkos jai trūko, o jis juo labiau pašėlusiai
+          glaudė prie savęs. Iš kišeniaus kažin-ką spindintį ištraukė, ir už apikaklės jai užmetė.</p>
+        <p>— Te! nerėkk! užsmaugsiu!</p>
+        <p>— Jezau-Marija! gelbėkit mane — sušuko Roželė prislėgtu balsu.</p>
+        <p>Liudvikas, kaip tik pamatė, kad ponaitis — jis tai buvo — įsitraukė Roželę į vidų, įbėgo ten, bet niekur neatrado. Buvo iš vidaus beišeinąs, kaip Roželę šaukiant išgirdo. Jam pasirodė, kad kamaroje šaukia, bet ir čia nieko nerado. Tuo tarpu
+          ponaitis, bijodams jauno vaikino kumščios įsprūdo į butą.</p>
+        <p>Roželė liko liuosa, verkė rankom akis apkniaubusi.</p>
+        <p>Liudvikas pripuolė:</p>
+        <p>— Kur tas velnias? Ką jis čia darė?</p>
+        <p>— Glaudė, smaugė, nei pati nežinau .... bučiuoti norėjo . . .</p>
+        <p>— Ar bučiavo?</p>
+        <p>— Ne! .... Paskui — pasakojo Roželė —kažin-ką spindintį už apikaklės man užmetė.</p>
+        <p>— Parodyk!</p>
+        <p>Liudviko akįs blizgėjo. Ji, ranką užkišusi už apikaklės, ištraukė sidabrinį rublį ir padavė. Jis tą rublį iš nagų jai ištraukė ir, priėjęs prie tvoros, į tankų notrinyną sviedė.</p>
+        <p>— Nereikia tau tokių pinigų, ne! — tarė paraudonavęs — Rožele, ne vieta čia tau, einame!</p>
+        <p>Jo balse ne prašymas, bet liepimas buvo žymu.</p>
+        <p>Už rankos nutvėręs, vedė ją, nieko nesakydamas. Nepajuto, kaip prie savo trobos priėjo. Jos ranką paleido.</p>
+        <p>— Dabar pasakysiu, jeigu klausysi: kad niekur iš savo buto neitum. Nebijok, nors ir viena čia būsi; nėra ko bijoti: čia blogo nėra, čia būk! vakarą aš arklius arčiau pasivarysiu, ateik pas mane .... Aš tau puikių pasakų papasakosiu, ateik,
+          nebijok. Ar ateisi?</p>
+        <p>— Ateisiu.</p>
+        <p>— Pasilikk sveika, eik į butą! jau aušta, aš bėgsiu prie arklių.</p>
+
+      </div>
+      <div type="chapter">
+        <head>***</head>
+
+        <p>Vieną kartą sėdėjo savo bute, pietus išvirusi. Laukė tėvo. Daug tokių dienų buvo, kad laukė, o nesulaukė. Šią dieną parėjo baisiai susirūpinęs; atsisėdo pas krosnį, rankomis galvą susiėmė ir verkti pradėjo. Roželė išsigando — pagailo tėvo.</p>
+        <p>— Kas yra tamstai? —paklausė nedrąsiai.</p>
+        <p>— Prapuolę esame amžinai! rytoj atvažiuoja vyrai gyvenimo aprašyti. „Sielska“ nuo savęs liepė, nes aš neišsimoku. Kur tu dingsi? kur aš? ai! vaikeli! reiks eiti, kur kojos neš.</p>
+        <p>— Reiks, tai reiks, o kągi darysi. Aš pristosiu kur-nors, tamsta kur į didelį dvarą...</p>
+        <p>— Ar ne bijosi viena būti? — paklausė Roželės.</p>
+        <p>— Papratau jau, nebebijau . . .</p>
+        <p>Kepurę pasiėmęs, pro duris eiti ketino!</p>
+        <p>— Pavalgyk bent, tėvai. Nieko daugiau neturiu . . . Vis širdie bus netuščia!</p>
+        <p>Torielių sausų bulbių su druska padėjo.</p>
+        <p>Jis į tas bulbes paveizdėjo; paskui atsisėdo, ir pirštais lupinėti pradėjo. Tas valgis jam prie širdies nėjo; valgė, atsisakyti nenorėdamas. Ir Roželė kartu valgyti prisėdo, bet ir ji nelinksma šiandien buvo.</p>
+        <p>Bagdonas pirmas kalbėti pradėjo:</p>
+        <p>— Kaip aš tave suėdžiau, kaip aš tave suėdžiau! . . . Kur tu dabar dingsi?</p>
+        <p>— Dievas aprūpįs, — prieš vėją nepapūsi. Tarnauti eisiu; ne viena tarnavo, ir nežuvo, nežūsiu ir aš.</p>
+        <p>Pirmą kartą tėvas su dukteria drauge pavalgė, gal-būt, ir paskutinį — kaip keleiviai. Kepurę pasiėmęs, tėvas tarė:</p>
+        <p>— Rožele, pasilikk sveika! Jei tau Liudvikas vietą prirodys, stok ... Aš pas brolį į Žagarę eisiu, rasi nepareisiu greitai . . . nesirūpink.</p>
+        <p>Apsižvalgė po savo trobą ir ašaras praliejo.</p>
+        <p>— Kaip keleiviai . . . paėdę ... ir eik, kur akis neša . . . Balsas jam užtroško, gaikščiodamas verkė.</p>
+        <p>Roželė į tėvą žiūrėdama, rėkti pradėjo.</p>
+        <p>— Iš tokio gyvenimo neliko nei krepšio, nei drabužių dorų!</p>
+        <p>Tiesa, nuplyšęs buvo; sermėga sulopyta, kojos į klumpes apautos.</p>
+        <p>Laukan išėjo. Užėjo smulkus lytus; buvo gana šilta, nors vietomis dar gulėjo pusnynai sniego. Roželė išėjo paskui, menką skepetaite apsigobusi, nes geroji atliko pas Šukienę.</p>
+        <p>— Bene nustos lyti? et . . . sudie!</p>
+        <p>Ji priėjusi į ranką tėvui pabučiavo.</p>
+        <p>— Su Ponu Dievu, tėveli.</p>
+        <p>Bagdonas gėdėjosi savo ašarų; apykaklę augštai pasistatė, kepurę ant akių užsispaudė ir išėjo. Roželė vakaro laukė. Kaip ilga ta diena!</p>
+        <p>Sutemo. Ji pas gluosnį klausyti pradėjo . . . Nieko negirdėti . . . Po valandos atsiliepė Liudviko balsas:</p>
+        <p>O! kaip pasiilgsta širdis Be tavęs mieliausia!</p>
+        <p>Aš dūsauju, tu negirdi,</p>
+        <p>Nės esi toliausia . . .</p>
+        <p>Jos širdelė plakė. Į tą balsą pradėjo bėgti. Vėjas lengvai lenkė žalias eglių viršūnes ir tarė dainai. Pas eglyną sušnabždėjo. Roželė apsistojo . . . Tai arkliai ėdinėjo. Ankstybas dar pavasaris buvo, bet pašaro žmonėms pritrūko, ir dėl to arklius
+          jau leisti pradėjo.</p>
+        <p>Šuo sulojo. Liudvikas jį nutildė:</p>
+        <p>— Cit, Meški! gulti eik! — ar tu, Rožėle?</p>
+        <p>— Aš . . .</p>
+        <p>Pluoštą šakų į ugniavietę metė ir ugnį užkūrė. Eglinės šakos tuojau užsiėme, ir šimtas kibirkščių nulėkė į padangę.</p>
+        <p>— Sėskis.</p>
+        <p>Roželė atsisėdo. Jis iš kitos pusės ugnies atsigulė kniubsčias ir burną rankomis pasirėmė. Žiūrėjo valandą, nieko nesakė, bet buvo matyti, jog atsidžiaugti negalėjo. Roželė į motyną panaši buvo; tik skaistesnė, nės tiek vargo dar nebuvo mačiusi.</p>
+        <p>Vaikino akyse ašaros sublizgėjo. Delnui užsidengė. Valandą taip pabuvo, paskui drebančiu balsu paklansė:</p>
+        <p>— Kaip jums eina, Rožele?</p>
+        <p>— Kaip eis! persiskyrėva šu tėvu kiekvienas sau . . .</p>
+        <p>— Kur tėvas?</p>
+        <p>— Į Žagarę išėjo.</p>
+        <p>— Pas brolį?</p>
+        <p>— Taip.</p>
+        <p>— O tamsta? . . .</p>
+        <p>— Aš . . žadėjai vietą prirodyti . . . rodyki — stosiu.</p>
+        <p>— Pas Balandienę eik. Žmona išmintinga, darbo yra, bet to nereikia bijoti. Vakarais, kaip dabar, nesusieitumėm, nės abudu seni žmonės, dievobaimingi ir kreivai į tai žiūrėtų.</p>
+        <p>— Dėl ko?</p>
+        <p>— Kaip aš tau dabar pasakysiu ? Taip, nepadoru. Pati Balandienė man tetutė; aš tenai kiekvienos nedėlios pavakare nueinu — pasimatysime. Bevaikiai, viena du, pamils tave, jei gerai tarnausi. Būk gėra, ir tau bus gera. Ir aš daug dirba: dieną prie
+          darbo einu, naktimis ganau arklius lig pusryčių duoda pamiegoti, o kartais ir to nėra, -o vis dėlto nenusprogau. Jau treti metai ant vietos esu.</p>
+        <p>Ji klausė, jo žodžius į širdį dėjosi.</p>
+        <p>— Dirbkime, Rožele, trūskime, o po kelerių metų .... rasit kaip toj dainoje:</p>
+        <p>Jei ne šį metelį — kitą rudenėlį.</p>
+        <p>Aš tave vaduosiu nuo sunkių darbelių.</p>
+        <p>— Jei Dievas duos, į porą sueisime....</p>
+        <p>Ugnį taisyti pradėjo, dar žagarų užmetęs.</p>
+        <p>Vėl šviesi liepsna į augštį pašoko.</p>
+        <p>— Negu manęs nenorėtumei, gal geresnį rasi . . . turtingesnį ....</p>
+        <p>Šviesius savo plaukus per pirštus braukė ir į mergelę, kaip į paveikslą žiūrėjo.</p>
+        <p>Jai skepetėlė nusmuko. Dar patogesnė liko. Gelsvos kasos, kaip vainikas, raitėsi aplink galvą. Graži buvo savo nekaltu gražumu. Akis į žemę nuleidusi, tylėjo. Liudvikas nuo žemės atsikėlė, į dangų paveizdėjo.</p>
+        <p>— Gana, Rožele, kalbai galo nebus, o žiūrėk, jau švinta. Eik namo, gali paskui kas sutikti.</p>
+        <p>— Paklausk, ar namie bus man vieta ... netariu kur eiti . . . Kaip praauš, vesk mane, kaip žadėjai, pas Balandį.</p>
+        <p>Liudvikas susirūpino.</p>
+        <p>— Jei kitaip negalima, ką darysi. Tik man rūpi, kad ko nesusitiktumėm. Šukienei tuomet liežuvių metams užtektų.</p>
+        <p>Praaušus, greitai per eglyną išvedė Roželę.</p>
+        <p>Seniams mergina patiko. Po kelių nedėlių pamilo ja, kaip savo vaiką. Jauniems ir gera buvo: dažnai pasimatyti galėdavo, nes seniai Liudviką didžiai mylėjo.</p>
+
+      </div>
+      <div type="chapter">
+        <head>***</head>
+
+        <p>Ponaitis baisiai užpyko. Pirmą kartą atsitiko jam, kad kas sidabrinio rublio nenorėtų. Dvaro mergos neįmanė, kaip prisimeilinti, kad tik pakibintų, o ta piemenė jį atstūmė, jį apjuokė.</p>
+        <p>— Taip nebus, ai ją turiu rasti! Jei danguje yra — iš dangaus nutrauksiu; jei pekloje — iš peklos išgriebsiu, o ją pergalėti turiu ir gana!</p>
+        <p>Pas Šukienę nuėjo. Ta už sidabrinį viską pasakė. Patyrė ponaitis, kad kas vakaras, sutemus, pareina Roželė iš pievų, valgyti nešusi darbininkams. Ir kuriuo takeliu eina, ir tai žinojo.</p>
+        <p>Vieną pavakarę, kaip temti pradėjo, jis tankiam lazdyne ant didelio kelmo atsisėdo ir laukė. Laukė, kaip žvėris savo aukos. Dėl ko jos laukė? Rasit, sakysite, kad ponaitis prastą mergelę pamilo? Ne, ne tai buvo. Dar klausimas, ar tas gyvas
+          numirėlis galėjo mylėti. Jis, kurs nuo dvylikos metų paleistuvingą gyvenimą vedė .... ne, jis nemylėjo. Tik akims jo atbodo matyti tas pusplikes, perveržtas panas, atsidžiaugė jomis; jo gyvuliškiems pageidimams geresnė buvo tokia skaisti, jauna,
+          nekalta mergelė.</p>
+        <p>Valandą laukė . . . nieko nėra. Nekantriai žiūri į tą pusę, iš kurios turi ateiti</p>
+        <p>Roželė . . . nėra . . . Ant pavytusio veido pasirodė raudonos pėtmos akįs žibėjo.</p>
+        <p>Sausos šakelės subraškėjo ant žemės, išgirdo einant. Paveizdėjo pro šakas, — taip, ji ėjo su puodais. Ponaitis ant tako išbėgo, rankas išskėtė ir velniškai juokties pradėjo. Roželė atsisuko bėgti, bet ponaitis vienu šuoliu prišoko ir už abiejų
+          rankų nutvėrė, visas drebėdamas.</p>
+        <p>— Rožele mano! mieliausia mano, nebėgk! jei Dievą širdyjė turi, nebėgk!</p>
+        <p>Tas Dievas jam dabar priežodžiu buvo.</p>
+        <p>Nejuto pats, jog jo smaili nagai į merginos rankas smenga, bet tame pasiutime jis nieko nebežinojo.</p>
+        <p>— Rožele mano! aš tave pamilau! aš tave naktį sapnuoju, aš tavęs per dieną išsilgstu. Aš, ponų vaikas, tave prastą mergaitę ......Aš tave visokiais turtais apipilsiu, tik mane mylėk! Aš tave su savim už rubežiaus išvešiu. Visko turėsi; šilkuose
+          vaikščiosi, tik mane mylėk, to vieno noriu. Mano motyna apženyti mane nori. Imsiu pačią, bet tave tik mylėsiu, tau mieste namus užimsiu, aš tave ponia padarysiu. Prieš tave mužikai galvas lenks . . .</p>
+        <p>Balso jam trūko, šnekėjo, kaip iš-po žemės.</p>
+        <p>Mergina, nusigandusi, maža tos kalbos suprato, bet jos širdyje truputis gailesio dėl to ponaičio atsirado. Nedaug jau gynėsi, kada jis apsikabino ją ir bučiavo skaistų veidą savo nublyškusiomis, pavytusiomis lūpomis. Ponaitis lenkties pradėjo;
+          baltas buvo, kaip drobė, tik akįs juodos iš-po kaktos baisiai žibėjo. Roželė išsigando.</p>
+        <p>— Ponaiti, kas yra? ar sergi?</p>
+        <p>— Taip, sergu . . .</p>
+        <p>Atsisėdo ant kelmo, ir pradėjo braukyti drėgną savo kaktą. Mergina žiūrėjo į jį nusigandusi: kad nenumirtų tik čionai be kunigo, be žvakės.</p>
+        <p>Rožele, vandens duok!</p>
+        <p>Jo balsas buvo silpnas. Ji, paėmusi puodelį, bėgti taisėsi, bet jis už rankos nutvėrė.</p>
+        <p>— Ar grįši? . . . grįši? Klausyk: jei negrįši, tai ir rytoj šituo taku nebeik . . . —_ iš gilumos atsikvėpė — nebeik, nes aš čionai galą pasidarysiu! aš pasipiausiu, ar pasikarsiu — blizgantį sidabro kriaunimis peilį išsitraukęs parodė. — Veizdėk!
+          . . .</p>
+        <p>— Kam tamsta tokį žodį sakai? Juk Dievas mato ir girdi.</p>
+        <p>— Taip, senelis žila barzda žiūri pro langelį ir užrašo, ką mes dirbame . . .</p>
+        <p>Juokties ėmė, o juoką tą miško garsas pagriebė, ir rodės, kad velniai jam pritaria. Nuo tų žodžių paėmė mergelę baimė. Puodą pasigriebusi, į upę vandens eiti norėjo.</p>
+        <p>— Ar grįši?</p>
+        <p>— Grįšiu — atsakė Roželė.</p>
+        <p>Nuėjo ir už valandėlės atnešė salto vandens. Truputį gėrė.</p>
+        <p>— Rožele! — tarė — paimk skepetėlę, pašlapink ir man prie galvos pridėk. Galvą skauda, pusiau sprogsta... pasigailėk manęs, tu mano Rožele!</p>
+        <p>Ji paklausė: skepetėlę pamerkusi, jam padavė.</p>
+        <p>— Negaliu, ne . . . pati pridėk!</p>
+        <p>Priėjusi šlapią skepetėlę prie kaktos pridėjo. Ponaitis pasitraukė nes kelmas buvo didelis.</p>
+        <p>— Sėskis — tarė.</p>
+        <p>Ji drovėjosi. Tada, apkabinęs ją, pats pasisodino, ir savo galvą ant jos krūtinės padėjo.</p>
+        <p>— Širdis alpsta — tarė — apkabink man kaklą, rasi užsnūsiu, ar nebus geriau.</p>
+        <p>Paklausė. Sėdėjo valandą, nieko nešnekėdamas. Roželė į dangų veizdėjo. Mėnulis švietė, o jai rodėsi, kad juokiasi, į ją žiūrėdamas.</p>
+        <p>— Ne veizdėsiu į mėnulį— tarė sau. Visokios mintįs per galvą jos perėjo. Ištolo išgirdo dainuojant, bet graudžiai, didžia graudžiai.</p>
+        <p>Dėlko jis taip liūdnai dainuoja? Gal-būti, jo širdis jaučia negerumą. Ar aš griešiju, ar ne? Bet mano širdis jau linksta prie ponaičio. Jis labai nelaimingas ir labai mane myli .... Liudvikas nemoka nei taip mylėti, nei taip glamonėti.</p>
+        <p>— Gana — tarė ponaitis — jau vėlu, namo eisime.</p>
+        <p>Vėl merginą apsikabino ir žiedą auksinį ant jos piršto užmovė. Žiedo žalia akis mėnesio spinduliuose, kaip gyvatės akis, žibėjo.</p>
+        <p>— Tai atmintis, tai pradžia; daugiau turėsi, jei norėsi.</p>
+        <p>Dar pabučiavo ir nuėjo.</p>
+        <p>Švito. Roželė skubino ir nejuto, kaip įėjo į butą ir atsigulė.</p>
+        <p>Ant rytojaus per visą dieną kaip migloje išvaikščiojo.</p>
+        <p>Vakaro laukė, nes ponaitis ateiti prašė. Vakarę Roželė atėjo, bet ponaičio nerado: norėjo brangesnis būti, o rasit ji pati atpigo. Laukė. Pakarklyniais ėjo du vyru, poniškai apsidarę; abudu turėjo mažas kepurėles ir abudu juokėsi. Ponaitis ant
+          lazdyno parodė, tylomis šnekėjo ir kvatojo. Paskui, draugą savo palikęs, į lazdyną įėjo, staiga prie Roželės prišoko. Jie išsigando, sušukti norėjo, bet ponaitis apkabino ją ir ėmė bučiuoti.</p>
+        <p>— Mieliausia mano! paskutinis vakarėlis: ryt jau išvažiuosiu . . .</p>
+        <p>Ji sudrebėjo.</p>
+        <p>— Man važiuoti reikia.</p>
+        <p>Mėnuo už debesų užlindo; pradėjo ūkties. Ponaitis mergelę glamonėjo, ji jau nebęsigynė ....</p>
+        <p>Šį vakarą ponaitis neilgai buvo, laiko neturėjo.</p>
+        <p>Po valandos tarė:</p>
+        <p>— Eiti reikia.</p>
+        <p>— Ar jau?</p>
+        <p>— Taip širdele, jau!</p>
+        <p>Kažinkas jo rankose subarškėjo ... Ilgą raudonų karielių eilę jai ant kaklo užkabino.</p>
+        <p>— Dabar pasilikk sveika! Jei Berdičevo pačtą žinai, rašyk man smulkiomis ašarėlėmis ... juokties pradėjo.</p>
+        <p>Roželei kojos nutirpo. Norėjo bėgti — nepabėgo. Ponaičio juoką atsakė antras iš karklyno, o merginai rodėsi tas juokas taip baisus, taip biaurus ir nežmoniškas; tarė jau pekloj esanti. Bėgo pristodama, nes spėkos neturėjo; drebėjo visa iš baimės.
+          Prie buto pribėgo ir klausės: nieko negirdėt, tik vėjas judino žalias eglių viršūnes.</p>
+        <p>— Ar aš miegojau? Ar tai sapnavau?...</p>
+        <p>Ne, ne sapnas tai buvo! Raudoni karieliai kadaravo ant kaklo.</p>
+        <p>— Oi, Dieve, Dieve! kur aš dabar dingsiu? Kur akis reiks dėti! Liudvikas ryt ateis? ... Oi, Dieve, kur aš pasidėsiu? . . .</p>
+        <p>Atėjo nebelaukiama jau nedėlios pavakare. Liudvikas pas Balandį atėjo. Kalbos jiems šią dieną trūko, bijojo vienas-kito. Roželė, akis nudūrusi, pirštus laužė; jis žiūrėjo savo mėlynomis akimis, plaukus per pirštus braukė ir nieko nesakė. Ką sakys!
+          Nujautė ką blogo. Širdį jam gėlė, taip gėlė.</p>
+        <p>— Jau vėlu, reiks keliauti. Sudieu, tetute, — priėjęs į ranką jai pabučiavo — Roželę leisk palydėti mane ... ar leisi?</p>
+        <p>— Tegul eina, ar aš tavęs nežinau — atsakė senutė. — Su kitu vargiai leisčiau.</p>
+        <p>— Rožele, eiva!</p>
+        <p>Išėjo, jis pirma, ji paskui, nedrąsiai, lyg bijodama. Paėjęs truputį, Liudvikas sustojo.</p>
+        <p>— Rožele! mano sirdis nujaučia kažin-ką, nes skauda neapsakomai. Tu man sakyk, kas tarp mudviejų rados? kas? Ar pamilai kitą? Pasakyk, aš tavęs nelaikau: tol tu ne mano, iki bažnyčioje nesuriš . . . Pasakyk . . .</p>
+        <p>Mergina, akis nuleidusi, stovėjo, visa drebėdama.</p>
+        <p>— Kaip aš tau pasakysiu? — verkti pradėjo. — Tiek pasakysiu, Liudvikėli, kad nei tu man, nei aš tau . . . Dabar žmonės tave pirštais rodytu, kad mane paimtum . . . Užmiršk, ne laukk ...</p>
+        <p>Liudvikas dabar arčiau prisitraukė, ranka sava ją apkabino:</p>
+        <p>— Rožele, ką tu kalbi? aš nesuprantu! Dabar pamatė ant jos kaklo raudonus karielius.</p>
+        <p>— Iškur gavai? iškur?</p>
+        <p>Roželė apkaito ir vos prašnabždėti stengė:</p>
+        <p>— Ponaitis davė............</p>
+        <p>Vienu savo stiprios rankos braukymu patraukė karielius, ir jie, kaip kraujo lašai, po žemę išlakstė.</p>
+        <p>— Tegul eina po velnių! Rožele, nepykk ... Aš tavo motynai paskutinėje valandoje žadėjau, aš negaliu ... — Ranką jos paėmė</p>
+        <p>— Rožele, Rožele! ką tu manai!</p>
+        <p>Pamatė auksinį žiedą.</p>
+        <p>— Ir tas nuo jo? — Ir tas nuo ponaičio.</p>
+        <p>— Jėzau Marija! argi Dievas tave apleido?</p>
+        <p>— kaip gi galėjai imti? Rožele! Rožele!</p>
+        <p>Ji graudžiai verkti pradėjo. Liudvikas, numovęs žiedą sviedė į tankumyną.</p>
+        <p>Rožele, neverkk, ne! Aš tave šią žiemą paimsiu, tu manęs klausysi; ai tave sergėsiu nuo viso blogo. Dievas mūsų neapleis . . . Dabar vėlu, sudieu, mano širdele! Kaip laiko prigausiu, rasit ir šiokią dieną ant valandos užbėgsiu; tik neverkk, mano
+          mažiulele!</p>
+        <p>Ji nieko neatsakė, ir taip juodu persiskyrė. Ant rytojaus niekur nerado Roželės. Senė Balandienė rūpinosi, bet nieko negelbėjo</p>
+        <p>— nebėra ir nebėra.</p>
+        <p>* * *</p>
+        <p>Praėjo vasara, užstojo ruduo. Žiema prašoko, jau ant antro pavasario ėjo. Tik lytingas ir biaurus šis pavasaris.</p>
+        <p>Vieną vakarą senuko Balandžio nebuvo namie. Liudvikas pas tetutę nakvojo. Lijo, vėjas pro sąsparas veržėsi ir liūdnas gaidas vedžiojo. Šuo sulojo ir nutilo.</p>
+        <p>— Ar tik neparvažiavo dėdė.</p>
+        <p>— Kas dėjo — tarė senė — tolimas ir biaurus kelias . . . Rodos, į duris subarškino? — paklausė.</p>
+        <p>Liudvikas atsikėlė paveizdėti. Šakalį užsidegė ir į priemenę išėjo.</p>
+        <p>— Jėzau! . . . — balso jam pritrūko ir persižegnojo.</p>
+        <p>Bagdonienė stovėjo priemenėje: tokia</p>
+        <p>— pat balta, baisi . . . Žiūrėjo į ją, iki ji antgalo neatsiliepė. Ne Bagdoniene tai buvo, tik jos duktė, Roželė.</p>
+        <p>— Rožele! . . .</p>
+        <p>Už rankos ją paėmė, į vidų įsitraukė. Tiesiok prie senutės priėjusi, kelius jai apkabino.</p>
+        <p>— Dovanok man! dovanok! — verkti pradėjo.</p>
+        <p>Senutė ją priglaudė.</p>
+        <p>— Nepykau, tik rūpinausi.</p>
+        <p>— Neatstumk manęs! nebeturiu kur dingti . . . Tarnavau — gaspadorius numanė . . . išginė . . . Miške Ponas Dievas davė — gaikščiodama verkė.</p>
+        <p>— Užteks duonos ir tau, ir vaikui — tarė senelė. — Kur turi? . . .</p>
+        <p>— Triškiuose palikau pas Veroniką: žadėjo priveizdėti, kol nepareisiu.</p>
+        <p>Naktis jau buvo, senelė užmigo. Roželė pas pečių sėdėjo, o Liudvikas į ją žiūrėjo. Nebe tokia skaisti ji buvo, kaip pirma, dabar liesa buvo įr išblyškusi. Gailesis suspaudė vaikino širdį.</p>
+        <p>— Varguolele, kaip tu save susižudei!</p>
+        <p>Ji nieko nesakė. Jis arčiau prisitraukė.</p>
+        <p>— Nei gero žodžio man .... nieko, mano Rožele? dėl ko taip ....</p>
+        <p>— Ne tau aš ... aš nuo viso svieto atskirta.</p>
+        <p>— Tik ne nuo manęs!</p>
+        <p>— Dievas atleidžia, o žmogus negali.</p>
+        <p>— Tu mano ant amžių!</p>
+        <p>Ji vėl pradėjo verkti. Liudvikas prisiartino, kieta savo ranka jei ašaras nubraukė ir pirmą kartą prispaudė prie krūtinės.</p>
+        <p>— Dievo akyse tu mano, širdele, ir kūdikį, nieko nekaltą, už savo priimsiu, tik neverkk! Niekuomet negirdėsi nuo manęs pikto žodžio, tavo praeitį kaip į vandenį . . .</p>
+        <p>Pradedant švisti, Roželė išėjo. Ėjo į Triškius pas Veroniką.</p>
+        <p>— Tegul bus pagarbintas . . .</p>
+        <p>— Ant, amžių amžinųjų. Oi-oi-oi, ne-miega per visą naktį — pradėjo Veronika — vargas su tokiu vaiku. Nei ko duoti : duonos šmotelį sukramčiau, padariau žinduką, o dabar nebeima nei to.</p>
+        <p>Roželė priėjo prie lovos. Menkas gelsvas vaiko kūnas išrodė dar gelsvesnis dienos laiku. Jau nei nebeverkė, tik cypė išsižiojęs.</p>
+        <p>— Peno nori mažiulėlis — tarė Veronika.</p>
+        <p>— Ką gi dabar duosi? — Roželei ašaros rietėjo per veidą. — Eisiu.</p>
+        <p>Palūkėk, — tarė Veronika — arielkos duokime truputį, tai užmigs.</p>
+        <p>Ištraukusi butelį, sumaišė su vandeniu truputį arielkos ir, skarulėlį pamirkydama, vaikui kišo. Vaikas virpėdamas žindo. Po valandos pradėjo merkties, jau nebe cypė užmigo: nebejuto bado.</p>
+        <p>Roželė atsidūsėjo, veizdedama į vaiką, ir pati verkti pradėjo.</p>
+        <p>Po valandėlės, skepetą paėmusi, išbėgo. Bėgo tiesiok vieškeliu; paskui pasisuko artimesniu keliu ant dvaro, per laukus. Į priemenę įėjo, „Tegul bus pagarbintas“ ištarė, bet niekas jai neatsakė. Tą valandą išėjo iš pakajaus įsitaisiusi merga; ėjo
+          kraipydamos, nei pati nežinojo, kaip eiti gražiau. Pamatė Roželę ir paklausė:</p>
+        <p>— O ko čia?</p>
+        <p>— Ar yra ponaitis?</p>
+        <p>— Yra, bet neturi laiko, kavą geria.</p>
+        <p>— Ir aš neturiu!</p>
+        <p>Roželė duris atidarė ir, įėjusi į vidų, atsistojo.</p>
+        <p>Ponaitis sėdėjo už stalo, apkrautas visokiais pyragais ir kavą gėrė.</p>
+        <p>— Kas tu? ko nori? — nepažino jos, tik vaipydamasis žiūrėjo.</p>
+        <p>— Kas tu?</p>
+        <p>Bagdoniutė Rožė.</p>
+        <p>Jis susiraukė, kažin-ką atminęs, bet nenusiminė.</p>
+        <p>— Ponaiti, atėjau prašyti... duok duonos savo vaikui! badu miršta ... duok ...</p>
+        <p>— Nepažįstu tavęs! Kas man rūpi ? Nereikė susilaukti, jei neturi kuo auginti. Ar aš kaltas? — juokties pradėjo.</p>
+        <p>Roželė verkdama šaukė:</p>
+        <p>— Susimylėk!</p>
+        <p>— Ar aš visiems mergų vaikams duoną duosiu? ana ve! mat, ko įsigeidžia.</p>
+        <p>— Susimylėk ant savo vaiko! Kad matytum, kaip sunku badu mirti ...</p>
+        <p>Dabar ponia nuo kėdės pašoko ir prie Roželės pripuolė.</p>
+        <p>— Tu paleistuve! tu! Kaip tu tokią nešlovę ant mano vaiko išdrįsai mesti? tu! — rėkė paraudonavusi, ir ranką pakėlė, norėdama užgauti Roželę, bet ponaitis motyną sulaikė.</p>
+        <p>— Tavo rankelės, motynėle, gaila į tokią biaurybę sutepti.</p>
+        <p>Pirštinę užsimovė ir už peties paėmęs Roželę išstūmė. Dar pro duris pravertas žiūrėjo šypsodamasis. Paskui tarė:</p>
+        <p>— Ar atmeni, kokią dainą nibrė dainavo? Reikė įsidėmėti:</p>
+        <p>„Oi, panele, oi jaunoji, juk tarėjai valią.</p>
+        <p>Kam trotijai vainikėlį, per savo svavalią?“ —</p>
+        <p>Duris uždaužė, o Roželė liko beverkianti.</p>
+        <p>Valandą stovėjo, nežinodama, kur dingti; paskui išėjo tiesiok ant miestelio. Pas Veroniką nuėjo. Vaikas dar tebemiegojo, tik valandomis virpulys jo kūnelį kratė. Turbūt, ką-nors liūdnai tas mažiulis sapnavo, nes cypė, lyg rėkti norėdamas, ir
+          sunkiai dūsavo. Roželės, žiūrinčios į tą vaiką, akįs buvo pilnos ašarų.</p>
+        <p>Mintis kažin-kokia jai atėjo:</p>
+        <p>— O ką kitą darysi? — pasakė pati sau.</p>
+        <p>Temo ir lijo.</p>
+        <p>— Nieko nesusitiksiu, — galvojo Roželė. — Veronika pas kaimynus išėjo, niekas nematys ....</p>
+        <p>Apsisiautė, vaiką ant rankų pasiėmė ir išėjo. Ėjo vieškeliu, paskui pasuko ant malūno.</p>
+        <p>— Vanduo didelis toje vietoje .... neilgai kentės . . .</p>
+        <p>Priėjo prie vandens; įsiūbavo vaiką vieną kartą, antrą — rodėsi jai, kad kas už rankų laiko . . . Trečiu kartu maži aštrųs nageliai įsikibo įjos ranką. Visa sudrebėjo: atsiliepė motynos širdis, pagailo, bet jau nebegalėjo suturėti.</p>
+        <p>Vanduo pūkštelėjo ... ir vėl nieko negirdėti, tik vėjas lazdas lanksto ir ties malūnu vanduo ūžia. Stovėjo . . . Klausė vandens šnabždėjimo. Tas vanduo taip maloniai jai kalbėjo, o ji klausė: „Eik šian, aš tavė priglausiu, aš tavo širdies gėlą
+          nustabdysiu ant amžių . . . Mano vilnyse užmirši apie svietą, apie sopulius, apie vargus, būsi liuosa, turėk tik drąsą, mirtis viena . . .“</p>
+        <p>— Dūšią ir taip pražudžiau. Kiek laiko jau nei išpažinties nebeatlieku, nei brostvų nenešioju. Užmiršau Dievą ir Jis mane apleido...</p>
+        <p>Užsimerkė, rankomis galvą apsikabino ir virto į vandenį. Rodėsi jai, kad šimtai velnių juokties pradėjo.</p>
+        <p>Tą valandą stiprios rankos ją sugriebė ir išgirdo balsą:</p>
+        <p>— Nuo žmonių išbėgai, o nuo Dievo ne! Išdykauti mokat, o kad vaiką auginti, tai ne! Gėda, žinai . . . Griekas neplaktas nebus, aš to nepaleisiu!</p>
+        <p>Pažino seno Jurgio žvejo balsą.</p>
+        <p>Po kelių dienų varė Roželę dešimtininkai geležiniuose pančiuose į Papilę kalėjiman. Bjaurus buvo kelias, šlapias, iki kelių reikė bristi. Vedė ją artimesniu taku pro dvaro sodą. Priešais pamatė kažin-ką atvažiuojant. Roželė tuojau pažino kas ir
+          atsistojo ant kelio. Ir anas važiuojantis pažino ją, pro šalį pralėkti norėjo, bet Roželė geležiniais suskambino; arkliai pasibaidė ir ant vietos sustojo.</p>
+        <p>— Taip, baugu, kad kas ant tako atsistoja? Aš žinau! ir man baugu buvo, kaip mane lazdynuose užpuolei. Tau rūpėjo, kad dar aš užsilikau kaime nekalta!</p>
+        <p>Stačiai į akis jam žiūrėjo. Jis dabar akis nuleido.</p>
+        <p>— Negana, kad suėdei mane, dar savo vaikui pasigailėjai duonos! Atmink, nekaltas kraujas šaukiasi . . . Atmink! sunku yra badu mirti! Tu nepatyręs to, tu turtuose paskendęs. Kad Dievas tau tokią mirtį paskirtų, kokią tu savo vaikui sutaisei! Kaip
+          gerai: tamsta liuosas, tamsta nieko nekaltas, tik aš . . . Taip, aš paleistuvė, aš šiokia, aš tokia. Poniškas vaikas badu mirė, aš pasigailėjau ... ir nuvažiavo po vandeniu žuvelėms penui. Rasit, kokia žuvelė neturėjo kuo savo vaiko maitinti ... Taip
+          kalta viena . . . mano vienos tas vaikas buvo! . . . — verkti pradėjo. — Norėtumei važiuoti? paspėsi, ne ką dirbai, kaime nibrės nėra šiandien. Pažiūrėk į mano parėdus! —rankas gelžiniuose iškėlė. — Kaip gerai, kad tamsta nieko blogo nesi padaręs,
+          nes tavo baltos rankos, papratusios auksinius žiedus mūvėti, nepakeltų tokių. Na, tau šalta, važiuok; dar slogą įgausi! Ką darysi! ir man nešilta. Eikim!</p>
+        <p>Ir vėl suskambėjo geležiniai. Ji ėjo pirma, paskui dešimtininkai. Dabar taku pasuko į pamiškį, pro Bagdono trobą; paskui per šilą, ant galo pro Balandį.</p>
+        <p>Ant skiedryno Liudvikas virbus kapojo. Pamatęs einančius, — savo akimis netikėjo, nes dar nieko nežinojo. Balandžio šuo sulojo. Senelė pro duris pažiūrėjo, galvą iškišusi.</p>
+        <p>— Rožele! mano Rožele! Susimylėkit, nors ant valandėlės į vidų įeikit apsišildyti, juk ji visa dreba .. .</p>
+        <p>Dešimtininkai apsižvalgė, bijodami, kad neapskųstų kas. . . . Suėjo. Roželę įsivedė senelė į šoninę.</p>
+        <p>— Rožele mano! kam tu taip padarei, kam tu save susiėdei? Mes bevaikiai tave buvo pamilę, visą mislį turėjom . . . Vakar štai jam — tęsė rodydama įeinantį Liudviką — mano senis sako: imk Roželę ir gyvenkite čionai. Mudu numirsiva ir jums viskas
+          liks ... Daugiau giminių neturime.</p>
+        <p>Senė verkti pradėjo; Roželė jai kelius apkabinusi verkė taip-pat. Dešimtininkas Ruzgis atsiliepė: — Na, gana, reik eiti!</p>
+        <p>— Tetute — nedrąsiai tarė Liudvikas — leisk, aš juos nuvešiu.</p>
+        <p>— Gerai sakai, vaikeli. Pasikinkyk tuojau. Savo drabužiais ją pervilko, kiek galėjo per geležinius pančius.</p>
+        <p>— Valgyk truputį, varguolėle.</p>
+        <p>— Negaliu, širdis nepriima.</p>
+        <p>— Kentėk, kaip galint, vaikeli. Sunkų vargą sau susitelkei — tarė senelė, į priemenę išėjo ir kažinką į ryšelį rišo. Įėjo Liudvikas.</p>
+        <p>— Pasikinkiau, kur tetutė?</p>
+        <p>— Išėjo kažin-kur.</p>
+        <p>Kantriai kentėk, Rožele — tarė, arčiau prie jos priėjęs — ir Dievas atleis. Kentėk! Šventieji netiek kentėjo ir dangų užsipelnė.</p>
+        <p>— Ne man tai; jau mane biesai apstojo, nei poterių nekalbu, nei brostvų nebe nešioju ...</p>
+        <p>— Ar ir dabar neturi?</p>
+        <p>— Ne.</p>
+        <p>Jis savo nusikabino, pabučiavo ir jai uždėjo.</p>
+        <p>— Tegul Dievas tave sergsti!</p>
+        <p>Roželė verkė. Liudvikas, priėjęs, apkabino ją:</p>
+        <p>— Neverkk, širdele! Duos Dievas, perkentėjusi pareisi ... Aš nuo savo žodžių nebėgu: paimsiu tave. Tik kalėjime niekų neklausyk, rasit, ilgai reiks būti . . . Melskis, gailėkis . . .</p>
+        <p>— Na, važiuokim, jau vakaras! atsiliepė Ruzgis.</p>
+        <p>— Eikim — pasakė Liudvikas, ir verkti pradėjo. Įėjo senelė. Roželė jai kojas apkabino; senelė kryžių ant jos galvos padėjo.</p>
+        <p>Daug laiko praėjo, ir daug kas persimainė.</p>
+        <p>— Iki teismo Roželė gavo penkius mėnesius kalėti. Šiauliuose po teismo dar metus. Kartais varė areštantus gatvių šluoti. Tuomet nevienas, praeidamas, keletą kapeikų metė savo nelaimingam artymui, bet daug ėjo pro šalį ir nei paveizdėti į juos
+          nepaveizdėjo.</p>
+        <p>Kaitra buvo didi. Roželė su kitais gatvę pas cerkvę šlavė. Gatve pamatė einant ponus. Turtingi buvo, nes puikiai apsidarę abudu ir linksmi. Pro šalį buvo bepraeiną, kaip Roželė galvą pakėlė. Pono akįs ir jos ant valandos susitiko. Jis sudrebėjo ir
+          atbulas atsitraukti norėjo. Ponia, kuri su juo ėjo, paklausė :</p>
+        <p>— Kas tau?</p>
+        <p>— Negaliu į vargą tokį žiūrėti.</p>
+        <p>— Gerą širdį turi — pasakė ponia ir prasijuokė. — Duok jai ką-nors.</p>
+        <p>Jis drebančiomis rankoms išėmė porą sidabrinių rublių ir, nežiūrėdamas, Roželei duoti norėjo.</p>
+        <p>— Nereikia man. Jeigu turi, užpirkk mišias už savo vaiko dūšią!</p>
+        <p>— Nepriėmė? — paklausė ponia — ką sakė? ....</p>
+
+      </div>
+      <div type="chapter">
+        <head>***</head>
+
+        <p>Paleido Roželę. Sugrįžo į savo kraštą, bet tokia buvo persimainiusi, kad niekas jos nebepažino. Į miestelį įėjo. Subatos vakaras buvo ir bažnyčios varpai gaudė.</p>
+        <p>— Rasit kas pažįstamas mirė — pamanė sau ir prie varpininkės priėjo.</p>
+        <p>Pasakyk, žmonele, kas mirė?</p>
+        <p>— Senis Balandis. Amžiną atilsį dovanok jam Viešpatie; geras žmogus buvo. Dabar gyvenime paliko savo gentį Liudviką Šiauliuką; geras vaikinas. ... O štai ir jis.</p>
+        <p>Roželė prie varpnės prisitraukė, kad Liudvikas jos nepažintų. Jis pro šalį nuėjo. Ant rytojaus nieko dar bažnyčioje nebuvo, tik viena menkai apsidengusi moteriškė meldėsi pas altorių. Rožančių giedojo pažįstamas ir tiek numylėtas balsas. Pavargusi
+          negalėjo jau melsties, tik klūpojo, į kertelę įlindusi.</p>
+        <p>Jau po visam buvo, o kaip visuomet per atlaidus, taip ir šiandien kryžių dalijo. Roželė drauge su kitais atsiklaupė. Kažinkas ją už rankos nutvėrė. Pažiūrėjo — Liudvikas greta klūpojo. Nuraudonavo, sulig žemės pasilenkė.</p>
+        <p>— Pas Florijono kryžių laukk manęs ...</p>
+        <p>Ateinančią nedėlią išgirdo svietas užsakus</p>
+        <p>Liudviko ir Roželės. Kas apsakys, kiek kalbų buvo. Ne vienas ir į akis Liudvikui sakė: „Argi jau tiek beišmanai paleistuvę iš kalėjimo paimti“. Mergos pirštais jį rodė, kitos į akis tyčiojosi. Liudvikas visiems sakė:</p>
+        <p>— Tur-būt, man gera, kad aš imu.</p>
+        <p>— Ne kitas su ja gyvęs, kas kam rūpi.</p>
+        <p>Keletas metų praėjo. Svietas daug užmiršo. Juodu gyveno laimingu vargdienių gyvenimą. Svietas užmiršo, o Roželės širdis ar užmiršo?</p>
+        <p>Kas atsitiko su Bagdonu? Žinomas jo galas: vieną šaltą žiemos naktį girtą užpuolė jį pusnįs ir sušalo.</p>
+        <p>Galas.</p>
+      </div>
+
+    </body>
+  </text>
+</TEI>

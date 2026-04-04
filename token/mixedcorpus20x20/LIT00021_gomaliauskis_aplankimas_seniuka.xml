@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LIT00021" xml:lang="lt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Apłankimas seniuka dieł brolu żemajcziu ir lietuviu : ELTeC edition </title>
+            <author> Gomaliauskis, Petras (1820-1968) </author>
+            <respStmt>
+               <resp>editor</resp>
+               <name>Saulius Keturakis</name>
+            </respStmt>
+         </titleStmt>
+         <extent>
+            <measure unit="words">14246</measure>
+            <measure unit="pages">127</measure>
+         </extent>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
+               <ref target="https://www.epaveldas.lt/object/recordDescription/LNB/C1B0002994970">
+                  Apłankimas seniuka dieł brolu żemajcziu ir lietuviu </ref>
+               <publisher>Martynas Mažvydas National Library of Lithuania </publisher>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Apłankimas seniuka dieł brolu żemajcziu ir lietuviu</title>
+               <publisher>Spaustuwej M. B. Neumana.</publisher>
+               <pubPlace>Dunaburgas</pubPlace>
+               <date>1853</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc n="eltec-1">
+         <p/>
+      </encodingDesc>
+      <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+         <langUsage>
+            <language ident="lt" usage="98"/>
+            <language ident="ru" usage="1"/>
+            <language ident="pl" usage="1"/>
+         </langUsage>
+         <textDesc>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <e:canonicity key="low"/>
+            <e:timeSlot key="T1"/>
+         </textDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2020-02-10">Saulius Keturakis added header </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="titlepage">
+            <p>APLANKIMAS</p>
+            <p> SENIUKA </p>
+            <p>DIEŁ BROLU ŹEMAJCZIU IR LIETUVIU </p>
+            <p>PAR</p>
+            <p>KUNEGA GOMALEWSKI</p>
+            <p>KAMENDORIŲ BAZNYCZES ILLUKSTAS </p>
+            <p>Apraszitas</p>
+            <p>IR ING SPAUSTUVE PADUOTAS</p>
+            <p>DUNABURGE.</p>
+            <p>Spaustuwej M. B. Neumana.</p>
+
+
+            <p>1853</p>
+
+         </div>
+      </front>
+
+      <body>
+         <p>Печатать позволяется : </p>
+         <p>съ темъ, чтобы по отпечатанiн представлены были въ Ценсурный Комитетъ узаконенное число
+            экземпляровъ. </p>
+         <p>Вильно, 11 Iюня 1852 года. </p>
+         <p>Ценсоръ, Статскiй Совет. и Кав. </p>
+         <p>А. Мyхинъ. </p>
+         <div type="liminal">
+            <p>MIŁOŚNIKOWI RZECZY OJCZYSTYCH</p>
+            <p>W. JX. PIOTROWI </p>
+            <p>ŁUKAWSKIEMU </p>
+            <p>Archiprezbyterowi Wornieńskiemu </p>
+            <p>w dowod przyjaźni </p>
+            <p>poświęca </p>
+            <p>Autor. </p>
+         </div>
+         <div type="chapter">
+            <head>PARSKIRYMAS 1. </head>
+            <p>Buwa taj diena szwenta, diena dydziu atpusku; sauly par diena źeme rajtidamos, jau
+               wakarop łajstis pradiene, ir apszwisdama kałnus, myszkus ir łankas, łabaj graźu dare
+               akiwejzda: o Dangus nors taj rudenop buwa, wienok dieł pagadliwa łajka buwa skajdrus.
+               Pabaźni źmoneles po Nyszparu grinźa isz baźniczes koźnas ing namus sawa. Berniuokaj
+               ir mergajtes pułkajs ejdamy ir linksmaj dudnodamy skubynos ing sodas sawa. Mergajtes,
+               dieł apturieima atpusku, musieje buty spawiednes, o dieł paszynawones tejp dydze
+               swecze, kurin ing szyrdy sawa turieje priimt, buwa wieźliwaj apdaritas; nes turieje
+               kajp dumoju wysugraźiauses ant pecziu kuskas, o ant gałwos raudonas rutomis
+               apsmajkstitas stanczkas, kures buwa noug sawa panikiu uź rieszutus ir uogas gawuses.
+               Rajnoutajs syjonajs łoena audyma, o kurios nemokieje sau audyma isztajsity, tos ir
+               kartunynejs apsywyłkuses — szniourełkas drieźas graźej pasioutas, ir kwartugiukaj
+               bałtaj iszmazgoty. — O czewerikus ir poncziakas po paźasties dieł paszynawones
+               neszies.</p>
+            <p>Berniuokaj tejpogi priderantej pasy riedziusys; myliniemys kelniemys ir sermiegomys,
+               drieźomys arba raudonomys szalbierkomys ir galonutomys kiepuriemys, batus ant pecziu
+               uźsydiejusys, eje taworczistiej joukdamos ir źertawodamys, arba szwentas giesmes
+               giedodamy — taj małonu źiuriety ant tos pabażnios jaunoumenes.</p>
+            <p>Ne dydziousy weźymukusy, wiena kumele waźiawa ukyninkaj; bobas siedieje ratu galy, o
+               wiraj waźniczioje — ir anie tejpogi isz atpusku grinźa. Ale kad ant neszcziestes
+               atpusku łajke buwa tame miesteliej ir kiermoszius, todieł wienas pyrka, kytas pardawe
+               — nes matity buwa, wirus su gelźiu ir naujomys kepuriemys, o bobas su puodelejs ir
+               kałwaratajs namol kelaujenczius. — O prie tokiu pyrkyniu, matit jog be magaricziu
+               neapsyeje; nes regiejau kas sarmata ir sakity, jog ne wysy isz atpusku diewabajmingaj
+               grinźa. — Ne pas wiena gaspadoriaus kepury ant szaliés nukripusy, o botags tankej
+               aplink gałwa sukos. Pasylinksmynos tejpogy ir moteres, rnatit jog ir anu ne tuscze
+               gałwa — prisymerkuses — muczy nuswyrusy, ir nosy paraudonawusy. O kajp smutnu
+               źiuriety ant tokiu pawejksłu! kou wemty nepradiejau matidamas daugibe tokiu isz
+               atpusku pagrinsztancziu. Ale łoska Pona Diewa ne pas wysu taj buwa. Tejsibe jog
+               daugibe isz waźiuojencziu apsystodawa prié karczymos, wienok nekurié ir proszaly
+               waźiuodawa, skubindamos prié sawa gaspadoristes, prié wajku ir szejminas, ir
+               rupindamos ar nestojese koke neszcziesty namuose, o tiems Ponas Diewas prawadninku
+               buwa, nes kłause se uwoga kozoniaus, kurin kunegas klebonas baźniczioi sake. O kou
+               ant spawiednes parsergieje, ko bekłausy! to nie isz mysles neiszłajd.</p>
+            <p>Pakłausiau wiena ukyninka, kursaj su manymy gretomajs waźiawa, Prietelau! diełko tu
+               kajp matau jau dwy karczymas prawaźiawaj, o nie pas wienos neapsystojej? ar
+               neregiejej koks pułks stowieje prie koźnos karczymos? </p>
+            <p>Ejk tiewaj ty! atsake ukyninkas: ar asz jau sziometa sułaukys tiek protą teturieczio?
+               par ketures nedieles łaukiau tun atpusku musu baźniczeliej kajp gerwe giédros, o
+               priesz atpuskus abudu su mana boba ir wajkajs par trys dienas myslyjom kumy mums
+               tropyjos Diewa uźrustinty, o dabar cziesu tun atpusku iszsyspawiedojome, priźadiejom
+               pagal musu iszgałieima sergietis grieku, szęn cieła diena parlejdom ant garbies Pona
+               Diewa, kłausiem wysy su mana boba ir wajkajs Mysziu szwentu, Kozoniaus, ir Nyszparu —
+               afierawojom musu proces Diewuj; tad negu isz prota buczio iszeis kad ant garbies
+               Diewa tejp brangy diena parłejdys, wakara pradieczio welniuj tarnauty. Oj! oj! asz
+               atmynu geraj kou saky musu prabaszczius nesenej baźniczioi; jog ne puse szwentos
+               dienos Diewuj priguł, ale wysa; o graudej sakidamas pamoksła su pekłos armyjomys
+               sumajsze tus wysus, kurie szwentomys dienomys po karczymas ger ulewo.</p>
+            <p>Geraj mana tiewukaj! pakolyjau ukyninka, ir parsyskiriem. </p>
+            <p>Ansaj kepure nutraukys ir gałwa nulenkys pasake: teguł bus pagarbintas Jezus
+               Chrystus, pasysuka po kajries maźu keluku ing soda sawa; o asz waźiawau tolesnej ir
+               skubynaus idant suwysu nesutemtum pyrm, neg ing paskyrta wieta dasytekczio, ir
+               uźwaźiawau terpo kytu wiena ukyninka, kursaj siediedamas ant padore ir apkaustita
+               weźymuka, kuremy buwa pakinkita riéby kumele, szalyp katros biega linksmus kumelis su
+               warpuku po kakła. Siedieje ukyninks su źaluku sawa bernu gretomajs ir kerawoje
+               wadziomys, o boba ano, galy weźymuka susygunźusy kiuksoje. — Ukyninks buwa padorej ir
+               czistaj apsydarys; ruda sermiega apsywylkys, dyrzu parsyjuosys, su kepałuszu ant
+               gałwos— o boba turieje ant gałwos aukszta muczy, su raudona szylkyne kuska parjusta,
+               koptona źidra ir bagdatyny kuska ant pecziu. — Wysy błajwus, nes linksmąj terpo sawys
+               kałbieje apej tou, kou gyrdieje ant pamoksła, kąjp grażu kozoniu aniems geradieis
+               pasakė i t. t. o nejutos nie patys, kajp aplękusys wiena ir antra karczema, jau
+               nebetolin sawa sodos buwa, ir jau gałiejos matity isz toła uź eźerele terp berziniuku
+               pastatita trobike.</p>
+            <p>Jau saule pradieje łejstis ir pauksztej giedoty nustoje, wiejesnutika; osze istelge
+               szalip kele siedenty seniuka. Nebuwa taj źebrokas,nej ubagas, nes buwa geraj
+               apsydarys; wienok matit jog isz sweczios szalies kelejiwys, nes ir terba barsiukyny
+               turieje ant pecziu užkabinta, ir iwyny łazda dieł pasyriemyma, arba noug szunu
+               atsyginyma. </p>
+            <p>Teguł bus pagarbintas Jezus Chrystus suszuka seniuks rawe siediedams ir nulenkdams
+               gałwa, kad jau priwaźiawa artin ukyninkas. </p>
+            <p>— Ant amźiu amźynuju amen — atsake wysy ir apstabe sawa kumele. </p>
+            <p>— Iszkurgy kelaui tiewaj? ar isz toła? </p>
+            <p>Oj! isz toła — atsake seniuks: isz źemajcziu esmiu. Wajkszcziodamas par baźniczes,
+               uźejau czion ing jumsu puse, buwau szędiena ant atpusku, ale pristo jau keliej, o dar
+               skaudulis man isymety ing koje, negalu niepaejty; norieczio jau byszky pasyilsiety ir
+               kame nors parnakwoty, bet padabnej cze niekur niera artin niejoke dwara?</p>
+            <p>Ira czionaj netolin, atsake ukyninks: uź kalniuka isz cze nematity; ale po kajries
+               ejsy tumy medejs apswadintu kelu, aplink tą eźerele, ir pamatisv tujaus dydy sodna, o
+               tujaus ten ir dwara. — Dware giwen ponaj łabaj miłaszyrdingy, ten gausy walgity,
+               gerty ir parnakwoty.</p>
+            <p>Diekawoju jums uź gera rodą — atsake nepaźinstamas seniuks, keldamos noug źemes; bet
+               wieł sukryta prie źemes dejoudams — oj! oj! tas skaudulis sustirom — neźynau kajp asz
+               ten dasywylksiu? </p>
+            <p>Gyrdiedama taj boba, sznybszterieje sawa wiruj ing ausy kelys źodzius, o wirs gałwa
+               kasidams nedransej tare: parpraszau tiewajty, nors waszec bajoryszkaj iszrodaj, o mes
+               źynoma muźykaj, źmones prasty; wienok jej padaritumej łoska, praszom siesty su mumys
+               ing musu weźyma, o pas mums nors newygadnej parnakwosy. Weczere atrasma kou Diewas
+               dawe, o mes geros rodos busma turiedamys pas sawy, sweczios szalies swety. </p>
+            <p>— Pone Diewe atnagradik miłaszirdingus darbus! atsake seniuks. — Jej juns many su
+               toke gera szyrde priéjemate ing namus sawa, asz su padiekawone priéjemu jusmu
+               miłaszyrdiste ir gera szyrdy jumsu.</p>
+            <p>Taj kałbiedamas seniuks, isyryta ing weźyma, o Ukyninkas, kurem wardas buwa Martinas,
+               su sawa pacze Krystina prieturnje uź ranku Seniuka ir wysy nuwaźiawa tolesnej.</p>
+            <p>Seniuks isztraukys toszyne tabokiarka, pacziastawoje sawa gaspadorius źemajtyszku
+               taboku ir tejp ing dransesny paźinty sueje, o tejp terpo sawies dudnodamys iwaźiawa
+               ing soda ir apsystoje prié duriu trobos. Tuojaus wiresnejsis sunus Jonuks iszbiegys
+               isz trobos ir pabucziawys tiewams ing ranka, isieda ing weźyma ir sugrejbys wadzes,
+               nuwaźiawa szwyłpaudams ing stałda ir pasziery kumele. — O Duktie Maryke, padabniu
+               spasabu prisywytojusy, uźprasze tiewus ir swety ing troba. </p>
+            <p>Budinks buwa ne naujes, bet su wysu geras; sienas dajles, iszbaltintas ir kamyniuks
+               labaj padorus pastatitas. — Langaj skajdrus, neapruky ir neiszdauźity. Stałs dydys,
+               nełab senej malawotas. Zedlej balty ir wysy paszalej pazerny.</p>
+            <p>Ant galytynioje łanga stowieje kriżius, ne mandre darba, bet su pawejksłu
+               Iszganitojaus Jezususa; o prie kriźiaus, buwa padieta grabniczes źwake, pleczkike
+               szwensta wandens, wajnikelej dar noug Diewa kuna uźsylykusys ir nobaźenstwas knigele,
+               isz kurtos Maryke su Jonuku, namie budamýs meldies nobaźenstwas łajke. </p>
+            <p>Kada taj wys istelge seniuks; tad ir akys ano atszwyta isz dziauksma. </p>
+            <p>O taj! pradieje kałbiety : tad matity jog cze giwen pabaźny ir Diewabajmingy źmones,
+               ir jog Diewas su jumys giwen! — Parejau daugibe giwentoju, bet retaj kamy tejp graźu
+               pariedka atradau; ale cze, jau ir szyrdej linksmiaus radose. — O kajp taj szłowingas
+               iwedymas, wysumet turiety po akymys pawejksła Iszganitojaus musu, kursaj uź musu
+               griekus pakutawodamas, tejkies ant smercze kriźiaus pats sawy iszduoty. Matidamas
+               muka ano; kursaj isz musu atsywoźitum rugoty ant sawa kętieimu, skausmu? kurs
+               atsywoźitum rugoty ant sawa wargu, prociu, pripodku, neszczieszcziu ir kłapatu? Arba
+               kursaj gał buty źmogus tejp uźkitiejusios szyrdies, idant neatłajstum nepritelems
+               sawa, jej atmintum, jog tas Iszganitojes, kibodamas ant kriźiaus meldies už
+               nеprietelus prie Tiewa sawa: „Pone atłejsk aniems, nes neźynos kou dara. ” O
+               Pażwelgys tejpogy ant to paties kriźiaus, ar nepawinas tieszitis jog turiedamas
+               wysokius kętieimus, tur kou tam patem Diewuj afierawoty. O tejpogy — kałbieje
+               tolesnej seniuks: tokes szwentynibes, kajp cze matau, ir noug grieka pritur: nes nors
+               tejsibe jog Diewas ira wysur; Danguj ir ant żemes, ir ant koźnos wietas, ir wysumet
+               źiur ant musu, ir mata netiktaj darbus, ber ir mysles musu; wienok źmogus kajpo
+               słabnas ir ułomnas, tankej uźmyrszt ant to: bet kajp tik źwylkteries ant pawejksła
+               nukriźewota Iszganitojaus, tujaus turiedamas uźimta gałwa kokiomys tuszcziomys
+               myslomys, arba parimtas nekątribe, arba rustibe, wysus tus pagundynymus grejtaj
+               pargałies ir atmes; o mysle ir szyrdy prie dangyszku dajktu pakełs. O kou ajszkiu ir
+               dydziu grieku, kur tokes uźsyłajka szwentynibes, taj pewnaj neatrasma; nes tuosy
+               namuosy, kur kriźius wysada stow ant łanga, kur grabnicze primen mums, jog neiłgaj
+               giwensma cze ant swieta, jog neużyłga rejks numyrty, ir stotis po akymys Diewа dieł
+               atydawyma rokunda isz wysu musu darbu, źodziu ir myslu wysa giwenyma; tousy namuosy,
+               kur su tykru tykieimu ir paszynawone uźłajka szwenstas źoles ir szwensta wandeny;
+               tuosy namuosy, pewnaj nebus nej gyrtibes, nej barniu, nej musztiniu, nej kiejksmu,
+               nej joke papyktynyma. O ką! ar ne tejsibe Panie Marcinie?</p>
+            <p>Loska Pona Diewa — atsake gaspadorius Martins! — dar lyg sziol saugoje mus Diewas
+               noug tun neszczieszcziu. Wienok nebeto kad kartajs źmogus isz ułomnastes nenupułtum.
+               Geraj gyrdiejau aną diena sake musu klebonas, jog ir tejsingas septinys kartus dienoi
+               grieszyj, — tejp ir mums; nors wysy byjomos Pona Diewa, o wienok źynoma kajp
+               gaspadoristiej, tankej tropyjes isz nepasysaugoima, ta szin, ta tą sugrieszyty; ir
+               kad wakara pradedas myslity sawiep apej sawa darbus, tad jau atrandy sawa sumneniej
+               ir daugiaus neg septinys griekus. </p>
+            <p>Ale kajp regiu waszeć wendrawodamas po swieta, daugel esy jau matys, nes wys kajp isz
+               raszta skajtaj? — gataus buczio lyg ritojaus kłausitis tawa gera moksła. Juk tejsibe
+               kalbant ir musu geradieis geresnej mus nepamokintum. — Iszkada kad mana maźuju wajku
+               niera. — Ale źynoma po Nyszparu iszeje, o piestims wys ne tejp grejtaj, kajp
+               waziuotims, — butumem dar mes pasykłausiusys wysy prietelyszkas kałbos milema mums
+               swecze. Ale szytaj garbie Ponuj Diewuj ir anie parejna.</p>
+            <p>Jau wiresniusius mana wajkus paźynaj, o szytaj tie maźesnijej. Sunus wadynas Juzuks,
+               o dukteres, wiena Elzyke, o antra Rozalyke. Ko wiepsote wajkaj! Pabucziuoket swecziuj
+               ing ranka — o, o taj tejp. — O dabar kad wysy dieku Diewuj susyrinkom, galem siesty
+               prie weczeres. </p>
+            <p>Kada tejp rokawos Martins su seniuku , tu terpu wiresnioje duktie Maryke, iszieme isz
+               pecziaus ir pastaty ant stała dydy puodely szutintu kopustu, o antra puodely
+               piaustitu bulbiu, su łaszynejs szutintu; padieje bluda warszkies su smetonu,
+               puskepaly griinos duonas, ir puse kapos raugintu agurku; o Jonuks , atnesze toriełka
+               czista kajp auksa medaus — otaj dieł prijemyma pakelejwe swecze, kurin aniems Ponas
+               Diewas atsiunty.</p>
+            <p>Pareje ir bernas isz susiedistes, susywoke ir nedidys piemenuks. Wysy tad sustoję
+               aplink stała — parsyźegnoje — o seniuks rankas sudieis, pradieje bałsu kałbiety
+               małda, kurę wysy paskun jo kałbieje: ,, Paržegnok ir pabłagasłowik Pone Diewe mus, ir
+               tas dowenas tawa, kures mes isz łoskas ir apwajzdas tawa, walgity pradedam, idant mes
+               dowenomys tawa pastyprinty, gałietumem Tawy garbinty ir uź anas Tau diekawoty, par
+               Pona musu Jezusa Chrystusa. Amen. ”</p>
+            <p>— Potam wysy susieda ir skanej walgity pradieje.</p>
+            <p>O kad jau alky parmete, seniuks wieł pradieje kałbiety: O taj tujaus paźinty
+               prociauninka gaspadoriu ir sukry gaspadyny, nes taj wys ir czistaj ir skanej, ir
+               wieźliwaj ir gausej sutajsita — matity jog jums Diewas duod łajme. O kajp matau ir
+               bicziu tury Panie Marcinie“? — Et, tare Martins: apej taj waszec rokukes su mana
+               wiresniuju sunumy Jonuku; — ansaj pats ir spitlu sugawa, patsaj ir auły iszkyrta,
+               isztajsy ir darzeliej pastaty — ansaj apej anas rupynas — o dabar garbie Diewuj jau
+               trys aulus tur. — Ansaj tad waszeci medumy ciastawo.</p>
+            <p>— Duok Diewe ant swejkatas atsylipe Jonuks raudonudams ir źemaj kłoniodamos.</p>
+            <p>— Pone Diewe pabłagasłowik! — atsake seniuks — duok Diewe idant ir ant senatwes tie
+               Diewa sutwierymaj, tawys neapłajstum. — Oho! kajp isygabensy ing daugibe bicziu,
+               tucziesu dydy paspara giwenymy igisy; nes kou auliej rasy, taj kajp gataus graszys,
+               kursaj weltu atejna.</p>
+            <p>— Ale kajp ne! atsylipe tiewas Martinas : — ir aną diena pardawe pyłna puodely czista
+               medaus, ir jeme trys rublus su wyrszumy; o dar ir kyta tur puodely arty pylne, bet
+               taj łajka zopostuj, dieł majsta bycziu, arba dieł dydze swecze, o waszka szędiena
+               nunesze ing baźnicze, ant afieras.</p>
+            <p>— Taj iszmintingaj ir padare! atsylipe su dziauksmu seniuks. Wys turem noug Diewa,
+               todieł Diewuj isz musu wysu dajktu, nors dalele atyduokem. Kas su Diewu ir Diewas su
+               anumy; — Kas dieł malones Diewa su biednu ubagu duonas kansnelu pasydalis, tam Diewas
+               dwejopaj sugranźins. Ale kajp macziau szędiena ant atpusku jumsu Baźniczioi, žmones
+               atnesze ir sudieje ant ałtoriaus duonas maźiunykus bakanelus, arba (kajp pas musu
+               źemajcziu saka) pagrandynu kus; jau matity, jog tie nenoriedamys dara afiera ir ne
+               isz szcziros szyrdies; nes duodamas afiera, pawinas iszskyrty kou geriausy, kou
+               graźiausy. O dabar dieł sawys pewnaj palyka namuosy dydziuosius bàkanus, o ing
+               Baźnicze pagrandynuka atnesze. O Dar kar sarmata ir kałbiety; macziau, jog kyty
+               atnesze isz waszka padyrbtus werszius, arklus, ir wysokius giwolus. Arba kojes rankas
+               ipatej isz waszka nulypitas, kurios ant pawejksła dydzes iszrody, o tusztwydurej
+               buwa; ir kad suspausy, tad isz dydze ant pawejksła arkle arba jaucze , ledwa trys
+               łatus waszka padarisy. Oho! pamyslyjau sawiep: — jau źmones gudrus atsyrada; jau ir
+               Pona Diewa nor apgauty. O tu Jonukaj, kajp tu darej ? turbut bicziu keleta nulypys, o
+               dar tusztwyduriu, neszej ant afieras, idant taw bites pasywestum?</p>
+            <p>Ne, atsake Jonuks dransej duonas pluta kansnodamas. — Asz wysa waszka szinmeta kur
+               gawau, sulajdziau ing wiena łujta ir nunesziau ant afieras.</p>
+            <p>Taj iszmintingaj ir padarej—kalbieje seniuks. — Diewas ne ant tun afierawotu dajktu
+               źiur, bet ant szirdies źmogaus; o tejpogy źyna ansaj geraj, intencye duodancze.
+               Nerejk cze lypity, nej arkle, nej oźe, nej rankas, nej kojes. Oho! kad tejp musu
+               pusiej atnesztum kas ant afieras iszpustus jauczius arba arklus, tad kunegs
+               prabaszczius su makaru iszwitum isz baźniczes, tokius afieras daritojus.</p>
+            <p>Kłausik Panie Marcinie! Nastotks, gyrtibe, tingieimas, jau daugibe źmoniu ant
+               ubagistes atwede, ale pasakik tu patsaj, ar atsytyka kamy regiety arba gyrdiety,
+               idant miłaszyrdiste, ałuźnas ir afieras bent wiena źmogu ant ubagistes atwestum? </p>
+            <p>— Nu, tas tejsibe kad ne — atsake wysy kartu.</p>
+            <p>— O ką! ar matote? artaj netejsibe raszte szwentame kyta karta skajcziau paraszita.
+               „Garbink Pona isz turtu tawa, o bus pylpy kłuonaj tawa. ” Ale sergiekes Jonukaj sake
+               tolesnej seniuks, idant wysa medu neiszpardawotumej, nes kajp bites nepriteks majsta;
+               o tu neturiesy iszko idiety, tad badu anas iszmarinsy.</p>
+            <p>— Jau asz ir patsaj apej taj myslyjau; atsake Jonuks — idant kartajs dieł dauge
+               pasyłokamyis, be nieka nepalykty.</p>
+            <p>— Taj ne taj, idant be nieka nepalykty, sake seniuks: ale juk taj medus ira walgys
+               bicziu, dieł kurio anos cieła wasara procewo — tejsibe, jog anos tos sawa duonas
+               negał suwalgity, ir diełto isz anų proces, Diewas dałejda mums wartoty; bet atmink,
+               jog grieku nawet butum, krywydity ir ticzioms badu marinty nekalta sutwieryma, isz
+               kurio proces ir mes nemaźa pełna turem, rasy apej taj nie mysloj pas tawys nebuwa? —
+               Jonuks prisypaźyna ir padiekawoje uź gera roda, o seniuks šaky tolesnej. — Ir asz tau
+               diekawoju, jog kłausaj parsergieimu senu źmoniu, wysumet tejp darik, o niekumet
+               neapsygaudinsy: nes sens źmogus kad ir paburgies kartajs, o wienok wys daugiaus źyna
+               nekajp tu; nes ilgiaus uź tawy giwena ant swieta, daugiaus maty ir datiry nekajpo tu.
+               — O kas tus agurkus augyna?</p>
+            <p>Maryke — wysy wajkaj atsake — Juzuks lisas kase, o ana siekła noug paczios ponios isz
+               Dwara igyjusy paswadyna, łajsty ir rawieje, ir ing miestele jau keleta kapu nunesze
+               parduoty — ir ant źiemos cieła suktyne prisude.</p>
+            <p>— Pagire taj wys seniuks, o Maryke juokdamos isz dziauksma, pasylękusy uźdenge akes
+               su kwartugiuku. — Pagire ir warszkes su smetonu, nes buwa wieźliwaj sutajsitas ir
+               smokaunes.</p>
+            <p>Elzyke su Rozalyke taj gyrdiedamas uźsytrauke juokdamos uź nugaras Marykes, nes anu
+               taj darbas buwa, karwes mylszty ir warszkes liety. </p>
+            <p>Kou wys gyrdiedama Motina tare nedransej: tur but musu duona nepatink waszecej, kad
+               maź jos tewalgej? </p>
+            <p>— Kajp taj maź tare seniuks ? O! gera rike atrikiau o jau szizgaties ir
+               pabajgiau.</p>
+            <p>— Aha! pratare juokdamos Martins: bo taj mana boba paty tou duona kepe, ir diełto cze
+               isyźioje; noriedama idant ir aną pagyrtumej.</p>
+            <p>Krystina prasyjuoke jog wirs akurat mysle anos uźtyka, o Seniuks nugłumźawa aną
+               kolidamas jog duona geraj irauginta, atminkinta ir iszkepta; o nors jau sotynas buwa,
+               wienok dar atrikys szmocziuka suwalge.</p>
+            <p>Uźboczik swetajty tarė Martins. — Oriełkas neturiu; kad buczio tykiejęns jog Diewas
+               mums toky swety atsiuns, buczio koke gorczuka parsyweźys isz atpusku
+               parwaźiuodamas.</p>
+            <p>— O! tegut Diewas gełb! bałsu atsake seniuks. O kam ta oriełka? ar be anos negał
+               apsyejty ? kartajs, kad źmogus parszalys, susygadyj czierkute dieł apszyldima
+               wyduriu, o ir taj daugias dieł modos, nekajp dieł rejkała — o wasara asz nie ing
+               burna nejemu. O kamgy wanduo? kamgy Diewas sutwiere sraunes upes ir czistus
+               szaltenius, jej ne diełto, idant gerdamy isz anu ir siłas atgajwintumem, ir swejkata
+               uźłajkitumem? Oriełka źmones patys iszmyslyje ant sawa prapulties — kad dar aną su
+               protu gertum, tad butum geru dajktu; ale kad ana dieł daugel, stojes tiek
+               neszczieszcziu pryczynu; wercze kad anos nie ant swieta nebutum. — Asz taj ne isz
+               sawa pyłwa kałbu, bet daugel swieta pareis, daug macziau. — Ot — kajp sziauliecziuosy
+               Joniszkiecziuosy ir wysuosy zubawyszkiusy, nemodoj oriełka; ten nepamatisy atpusku
+               łajky źmones prie karczemos kajp muses prie medaus susyrinkusius — ten gaspadorius su
+               dydziu interesu, arba kelejwys ing kar czema jej iejs — o mergajtes! tad saugok Diewe
+               jej kury iejtum, tad wysa parakwyje pyrsztajs nubaditum. Ir diełto ukyninkaj
+               turtingy, szejmina szczira, mergajtes cnatliwas: taj malonu źiuriety ant tejp graźiu
+               apsyeimu. Asz pats ir po szej diena atmenu, kajp tiewas mana myrdamas, isake mums
+               wajkams sawa, idant po ano smercze oriełkas ant pagraba nie ing namus neinesztumem,
+               prieduodamas idant newajkszcziotumem ing karczemas, nej namuosy oriełkas
+               nelajkitumem, jej norem idant Diewas duotum mums łajminga giwenyma. Ale paprusiej! ir
+               Lietuwoj! o łabiaus panemonejs — ten dyde atmajna! nej ant weseles, nej ant bankieta,
+               o nawet (kou su aszaromys rejrs sakity) nej ant pagraba be oriełkas neapsyejna. Ten
+               ant duszes myruse neatmen bytiktaj wysy gyrty butum. Myslyj neszcziesliwy, jog jej
+               daug oriełkas iszgers, tad dusze isz cziszcziaus iszwalnins—dyde łoska, jej czwertka
+               duos ant mysziu, o ant oriełkas ir kelys rublus iszłejd. Jej Diewabajmingas Tiewas,
+               arba koke nors bobaly ir palyktum keletą rublu ant pagraba, tad sunus arba namyszkej
+               duos kuneguj koke rublu, o kytus wysus pyningus suwadynys gętes ir susiedus pragers.
+               Ten — sake tolesnej seniuks: — Mergajtes be jokios sarmatas, dransej ejna ing
+               karczema, kartu su bernioukajs, ger, ulewo, tancewo: o ta gyrtibe, (žynoma kajpo
+               pradze wysoke grieka) stojes pryczynu nutrotyima cnatas ir daugel kytu
+               palejstuwiszcziu. — Oho! Martinaj ir tu jau esy augys žmogus, ar netejsibe senej
+               sakoma ira: „jog jej mergajte pamatisy ejnanty ing karczema, tad jau nieka isz anos
+               dora negał tykietis. ” O ir wysy źmones kad palautum gerty oriełka, tad dydzioje puse
+               grieku ant swieta atstotum.</p>
+            <p>Po tos kałbos, kurios wysy isyźiojusys kłausies, sukyła wysy kartu, o seniuks stojęns
+               parsyźegnoje ir rankas sudieis, bałsu atkałbieje małda: „Diekawojem tau Diewe Tiewe
+               łoskawiausys uź wysas geradieistes tawa ir uź tas dowenas, kuriomys pasility tejkejs,
+               buk paszłowintas dowenosy ir wysuosy darbuosy Tawa, Amen. ”</p>
+            <p>Potam seniuks padiekawoje gaspadorems uź tejp skаnе weczere ir gausy pasiłka, o anie
+               wieł gejde idant taj butum ant swejkatas. Gaspadorius Martins paklause seniuka, ar
+               jam dar skaust koje? ir bene rejktum rieto pasiunsty ing dwara pri cyrulninka idant
+               parnesztum koke mąsty? Ale seniuks uźpewnyje jog niejokiu liekarstwu nerejk — jog
+               wakara ejdamas gulty pritwers medu su taukajs, o nakty реwnaj skaudulis pratruks, ir
+               jej miłaszyrdingy gaspadorej dar dałejs rieto diena pasyilsiety pas sawys, tad
+               porieto dransej galies tolesnej kelauty. Ant gała dar wałanda pasyrokawys, paklause
+               Martina: be ne cziesas jau butum ejty ant atylse ? </p>
+            <p>— Jau cziesas atsake Martins: rieto kajp szwint reiks kelty, nes dar daug darbu ira
+               ant łauka. — Rugius garbie Ponuj Diewuj jau atsiejau, bet wasaroje dar daug ira
+               nesuweszta ir nepjauta — rejk skubiety idant rudens lietus neuźpułtum. Ale uźboczik
+               svvetajty — sake tolesnej Martins gałwa kasidamas. Pas musu toke iwesta noug senowes
+               mada, jog wysy kartu kałbame poterius ritmetynius ir wakarynius, o po małdos, dar
+               wiena giesmele giedam — rasy waszec nenoriesy buty su mumys draugistiej ?</p>
+            <p>— Tas iwedymas tare seniuks; łabaj ira pagyrtas — nieuźkaźyką to niekumet
+               neapłejskete—diełto tad jums Diewas ir toke łajme duoda — nes patsaj pasake, ,,kur
+               ira du, arba trins susyrinky wardon mana, ten ir asz esmiu.” Uwoźokete patys; ar gał
+               kas buty malonesne Diewuj ir źmoniems, kajp matity Tiewa ir Motina, gaspadoriu ir
+               gaspadyne, kartu su sawa wajkajs ir szejmina garbynanczius Diewa, isz kurio rankas,
+               wysa pylny giwen?</p>
+            <p>— Tejp atsylipe Martins: — kyta karta asz pats buwau prawedninku, ale jau dabar
+               akymys neprimatau—dabar wysada Maryke skajta bałsu isz knigos małdas, nes ana uź
+               wysus geriaus mоk skajtity — ale jej tiktaj nesybyjos waszecej gyrdent skajtity.</p>
+            <p>— O taj diełko atsake seniuks? gerus darbus darity niekumet niera sarmatas nej
+               bajmes. Jogej mok skajtity taj łabaj padoru. Teguł uź taj diekawoj jums tiewams sawa
+               jog negajłiejoties kaszta ant iszmokynyma, ir dwara panikej jog dowenoje tejp graźe
+               knigele. Jej ira tokie, kurie mok geresnej skajtity, tad nediwikemos; nes ame dydesny
+               ir moksła tur. O! teguł Diewas gełb idant asz turieczio pyktintis isz tejp garbinga
+               jumsu iwedyma draugistiej kałbiety małdas wakarynes ir ritmetynes. Nu,— kłaupkemos
+               wysy, o Maryke kajp wysada, tejp ir dabar teguł buni prawadninke. Maryke pajeme sawa
+               kniga auksa ałtorius ir atsykłaupuse priesz kriźiu szwenta, isz pradzios nedransej; o
+               potam kas karts balsesnej kałbieje małdas wakarynes, „Tiewe musu” — „Swejka Marya” —
+               „Tykiu ing Diewa Tiewa” — „Aniols paswejkyna.”— Lytania pri Pannos Szwencziauses — o
+               ant gała czistu ir ajszkiu bałsu pragida giesme wakaryne. „Łaba naktys Jezau” ir
+               tujaus cieła troba ajszkejs, czistajs ir nobaźnajs bałsajs stojos pripyldita. O
+               seniuks su aszaromys diekawoje Diewuj , jog dar atsyranda ant swieta tejp pabaźny ir
+               Diewamilentys gaspadorej.</p>
+            <p>Kad giesme pabajge ir afierawone sukałbieje, tad seniuks pamyrkys dydij pyrszta ing
+               szwensta wandene ir diedamas kriźiu ant kaktas, ant łupu ir szyrdies bałsu kałbieje.
+               „ Diewe buk mysloi mana. Diewe buk łupose mana. Diewe buk szyrdiei mana: dabar ir ant
+               amźiu Amen. ” Potam paswejkyna wiens antra „łaba naktys, łaba naktys” nueje su
+               gaspadoriumy ir berniuokajs gulty ant sziena ing darzyne, o motryszkoses pasylyka
+               troboj ir sugule. Krystina su mażaj dukteryke łowoi, o kytas taj ant suła, taj ant
+               pecziaus sau gulikła patajsies. Grejtaj wysy sumyga, o tame łajke Aniołaj sargaj
+               budieje ir wartawoje wysa giwenyma, tun Diewamilencziu źmoniu; idant koks pripodkas
+               neatsytyktum.</p>
+         </div>
+         <div type="chapter">
+            <p>PARSKIRYMAS 2. </p>
+            <p>Po pusiaunakcze kada dar wysy darzyniej ant sziena smarkej miegoje ir
+               pasyniurniedamys knarke, ibyldieje itratieje ing kiema kaźykas su medynejs ratajs; (o
+               ir tie trety pernaj kajp smalos be macziusys, nes kaukdamys biega); ir netolin noug
+               darźynies apsystojes bajsej dejawa. </p>
+            <p>Atsybuda wysy ant tejp netykieta bałsa o seniuks gałwa pakielys suszuka „koźna dwase
+               Diewa garbyn” kas cze? </p>
+            <p>— Ej! Ej! atsylipe Martins, akes sau krapsztyniedamas, taj tur buty koke nors
+               neszczieste. </p>
+            <p>O Jonuks su Juzuku isz szoka pro wartus, — bet Juzuks tuojaus sugrinźa taridamas. Ne:
+               taj susiedas musu po senowes pasylinksmyna isz atpusku parwaziuodamas, o kumele ano
+               netropyje ing sawa namus, bet cze uźklida. Jonuks pasylyka prie weźyma, ansaj nuwesz
+               jin ing namus, nes patsaj susiedas sawies newałda, o su lieźuwiu, ułb kajp kałakuts
+               negał niesuprasty.</p>
+            <p>O Pone Diewe tare atsyduksieis seniuks! o kajp smutnas padieimas toke źmogaus! o dar
+               pagrinsztancze isz atpusku! o rase ir po szwentos spawiednes! </p>
+            <p>— Ach mana Swetajty! atsake Martins: jau taj ne pyrms karts — ale grieks apej taj ir
+               kałbiety. Tuojaus ieje ir Jonuks.</p>
+            <p>— O kas ten gyrdiety pakłause wysy?</p>
+            <p>Negeraj gyrdiety atsake Jonuks. Susieds jau smercziop ziur — wysas sumusztas ir
+               pamielinawys.</p>
+            <p>— Jezus Marya! suszuka seniuks : — o taj neszcziesty! o taj korone Diewa!</p>
+            <p>Ar negał cze kamy norint cyrulninka sugrejbty? </p>
+            <p>— Dware musu ira; atsake Jonuks. </p>
+            <p>— O! kad anam źyne duoty! gał dar ansaj koke nors roda priduotum, ale kas ten nuejs?
+               o wienok rejk cze pasymyslity, nes cze turem gera imiesle ant pagelbieima artyma: o
+               Diewamilentys źmones jeszka tokiu imieslu, idant par dawyma pagalbas artymuj,
+               gałietum padauginty gerus darbus sawa, uź katrus Diewas tejp gausy zapłota Dangui
+               priźadieje. </p>
+            <p>Martins kłausies isz pyrma, o potam tarė: Jonuk! siesk ant kumeles ir biek kajp be
+               dwases ing dwara, o žiuriek idant kartu su cyrulninku sugrinsztumej — rejk artyma
+               gelbiety, jej norem idant mus Diewas gelbietum. </p>
+            <p>— Uźtykra jog Diewas jus gelbies — grejtaj atsake seniuks: nes patsaj Diewas pasakė
+               ,,jog miłaszyrdingy, rniłaszyrdiste apturies. ” Ale pakoł sunus pagrinsz ejkem
+               apźiuriety lygony o gał koke nors pagałba gałiesma priduoty.</p>
+            <p>Jau buwa geraj praszwytusy o anudu apsydariusys ir poterius sakałbiejusys, pas
+               susieda nukelawa. </p>
+            <p>Oj nemandru cze seniuks atrada pawejksła! Budinkaj parkripusy, stogaj kiaury, nes
+               kajp nupłesze pawasare dieł parałkusiu giwolu. tad ir lyg szio łajka dar tebier
+               nesutajsity. Swyrhas be jutrinas , be dariu , pusts; o troba paty kajp kiaulyninkas,
+               brudna, prirukuse; tamsy; łangaj suruky, szmotajs iszdauźity ir lentykiemys
+               uźkajszity. Dures sugruwuses, o po slenkszcze apstus purwinas. Wyduj wajkaj brudny,
+               nenuprausty, storajs, juodajs ir nudryskusejs marszkynejs apwylkty, neiszszukuotv,
+               pyłwaj pliky. Motina paty juoda, su suweltajs płaukajs biegioje isz kerczios ing
+               kercze, kejkdama braszkindama ir kaźyką po noses burgiedama; o lygonys dejawa
+               gułiedamas ant suła prie pecziaus.</p>
+            <p>Smutnas tas buwa akiwejzdas; o dar smutnesnys, pamyslyjus ant to, jog tos myzeristes
+               ir tun wysu neszczieszcziu, patys gaspadorej buwa pryczynu. Ant paties akiwejzda
+               szyrdys pusiau sproksta.</p>
+            <p>Seniuks wienok prisyartyna prie pecziaus ir kłausynieje sergancze susieda, kas do
+               pryczyna jog tejp sumusztas parważiawa? O lygonys nors negałieje ajszkej kałbiety,
+               wienok isztare keleta źodziu isz kuriu gałiejom suprasty, jog isz atpusku
+               pagrinszdamas apsystoje prie karczemos, ir kajp apkajta jam kakta, susymusza su
+               kaźykumy. Bet gudrus, karczemninkas, byjodamas idant ano namus neapkriestum, ingdieje
+               aną ing weźyma, ir kumele papłake. </p>
+            <p>Cze sieniuks atsyduksieis pradieje kałbiety: O neszcziesliwy juns szimkorej ir
+               karczemninkaj! neźynau ar bus isz jumsu bent wienas Danguj! jumsu pawinaste ira
+               storotis wysus pakelejwius priimty ir prideranty wygada duoty — juns pawiny esate
+               parsergiety wysus idant oriełkoj mieros neparimtum, juns pawiny esate nezgadoj
+               esanczius sugadity, o dabar patys apgirdote źmones ir uź czierka oriełkas isztraukate
+               paskutyne grasze noug ukyninku. Ar neźynote jog wysokes pyktas, kursaj dedase namuose
+               jumsu; wysokes grieks, wysokes par girtibe isznewoźoimas Diewa, wysy błogy
+               atsytykymaj isz gyrtibes paejnantys, wys ant duszes ir sumnenes jumsu bus sudieta. O
+               źmones! źmones krykszczionys! katalykaj! juns esate sutwerty ant abrozda ir pawejksła
+               Diewa! atpyrkty brangiausiu krauju Jezusa Iszganitojaus! argy neatmenate, ant to, jog
+               muszdamos ir wolodamys patys sawy po purwus; muszate ir po purwus wolojete tągy
+               abrozda Diewa. Esate sutwierymu iszmintingu; o trotidamys par girtibe tą iszminty;
+               jau nepadabny stojeties ing źmogu, bet ing stroszniausy bestyje. O ką dabar kałbiety
+               apej dusze? Dusze sawa nustumate ing giłuma Pekłos, kur rejks wietoj oriełkas gerty
+               smała su sieru werdanty ir anoi par amźius degty.</p>
+            <p>Seniuks taj kałbiedamas graudej apsywerke, o lygonys gułiedamas prie pecziaus,
+               duksauty pradieje. </p>
+            <p>Seniuks pakłause paczios, ar senej wirs buwa spawiednes? </p>
+            <p>— Par sekmynes atsake pacze. </p>
+            <p>Cze seniuks subarys jog tejp iłgaj uźtense spawiedne, padawynieje roda idant kąnorint
+               pasiunstum prie kunega geradieje, nes wysupyrmiause lekarstwa apczistyims sumnenes
+               pawina buty — wysugeriausys daktaras, kunegas; o kad geraj iszsyspawiedos, su Diewu
+               pasyjednos ir szwentajs sakramentajs bus apwejzdietas, tad ir liekarstwas geresnej
+               pamaczis.</p>
+            <p>Ale taj nełabaj patyka paczej. Susyrauke ir po noses burgiety pradieje: jog niera kou
+               pasiunsty; jog taj jau anam nepyrms karts tejp syrgty — jog kajp iszmiegos bus
+               swejkas i t.t. </p>
+            <p>Seniuks taj gyrdiedams su pika ir rustibe Diewa pagraźoje; o pacze pradieje raudoty
+               ir ant sawa neszcziesliwa padieima rugoty. </p>
+            <p>Dabar necziesas werkty ir wajtoty tare sragej seniuks: dabar rejk parjednoty ir
+               parpraszity uźrustinta Diewa — rejk patajsity tou pykta, kurin padariete, rejk
+               pakutawoty, rejk gajlietis uź sawa griekus ir kątrej priimty tou korone, kurę Diewas
+               uź jumsu pałejstuwistes tejsingaj atsiunte. Jau asz pats praszisiu tawa susiedu
+               Martina idant nusiunstum rieto sunu sawa prie kunega geradieje, tejp kajp szędiena
+               jau iszsiunty sawa Jonuka ing dwara prie cyrulninka. Szędiena wirs tawa niera dar
+               błajwus, nej geraj prisygatawois, tu tad kałbiek anam apej Diewa, storokes anam
+               pardiety apej tejsibe ano, kursaj nagradyj uź gerus o koro uź blogus darbus, ikałbiek
+               idant gajłietumes uź sawa pałejstuwiste ir pastanawitum daugesnej niekumet ing sawa
+               paproty nebegrinszty, jej Diewas anam giwenyma pailgintum; o kartu pardiek wiruj
+               tawa, idant turietum wylty miłaszyrdistiej Diewa, kursaj su ukwata prijem ir
+               iszkłausa pakutawojenczius grieszninkus. Tejpogy ir tu pate gajłiekes jog ir tu
+               padiedawa anam ulewoty o gaspadoristes neźiuriedawa; ir nawet esy papratyme kejkty,
+               kajp szin rita gyrdiejau. Pastanawik tad Ponuj Diewuj, jog jau niekumet nebekejksy, o
+               wysus pripuolas ir pripodkus, kantrej Diewuj ant garbies afierawodama nukiętiesy —
+               potam paimk kniga ir skajtik wiruj pabaźnej; rokunda sumnenes, ir nobaźnas
+               małdas.</p>
+            <p>Motriszke nedrinsdama dieł sarmatas, wienok iszpaźyna, jog nemok skajtity. Kou
+               girdiedamas Martins pasakė: jogej, jej to rejkałas butum, gałiesiu asz atsiunsty sawa
+               Maryke idant lygoniuj skajtitum ir uź aną mełstumes. </p>
+            <p>Taj aniems bekalbant pribuwa ir cyrulninks isz dwara ir padawe lygoniuj puse
+               styklyniczes sutajsitu liekarstwu, kures buwa su sawymy atsyweżys — ir kytas
+               liekarstwas tajsity pradieje. Ale atsysukys ant musu seniuką pradieje kalbiety: „Duok
+               Diewe idant taj ant gera iszejtum, nes asz myslyju jog anam neuźyłga rejks ir kunega.
+               ” </p>
+            <p>Iszgyrdys taj Martins, priźadieje rieto kajp szwintant pasiunsty sawa Jonuka prie
+               kunega geradieje, o szin wakara atsiunsty Maryke dieł pagelbieima moteryszkej
+               paszalus apwality.</p>
+            <p>Jau abuodu su seniuku kepures pajemusys norieje iszejty, ale seniuks atsygrinźys sake
+               paczej lygone: Atmink motin, jog rieto priimste ezion ing namus jumsu didy swety;
+               Pona galibiu, Diewa giwa szwencziauseme sakramente paslepta. Newałnu aną priimty ing
+               toke kiaulyninka. O nors Diewas neźiur ant tun pawyrszutyniu źenkłu paszynawones;
+               wienok jej łaukdame dydze swecze źmogaus, storojemos apczistity wysus paszalus,
+               diełkogy negalem tou padarity Diewuj? Juk Diewas, taj ne tarnas musu, ir jej pas
+               mumys atejna, tad ne isz pawinastes, ale isz neiszpasakitos łoskas sawa dara. Ziuriek
+               tad idant pecziu anksti iszkurentumej, idant dumu nej garu nebutum, idant asła butum
+               iszłuota ir smeltiems arba egliems iszbarstita, łangaj ir sułaj numazgoty; nes su
+               grieku nawet butum ing tokius brudnus namus priimty tou, kursaj patsaj budamas
+               cziszcziausys, su tejp dydziomys łoskomys dieł pagałbas żmogaus atejna.</p>
+            <p>Nebyjog waszec atsylipe Martins: mana Maryke czion bus; ana wysa pasystoros — o
+               pamatisy pats rieto, kajp wysus paszalus atrasy kytonyszkus.</p>
+            <p>Taj kałbiedamy iszlinda pro anksztas dures pasylękusys ir eje namol.</p>
+            <p>Uźtykra! tare Martins: Patsaj Ponas Diewas czion waszeci ir atsiunte, dieł szcziestes
+               to biedna susieda ir dieł pamokynyma musu, jej ne waszec, pew naj tas biednas muna
+               susiedas, be jokios pagałbas butum numyrys.</p>
+            <p>— О kas jej ne tu patsaj tou pagałba anam daraj atsake seniuks?</p>
+            <p>— At , kou apej taj ir kałbiety tare Martins: man nie gałwoi nebūtum buwy jej ne
+               waszec.</p>
+            <p>Seniuks pasymyslyje pyrmesnej, o potam pradieje kałbiety: uźpewna Diewas, kursaj wysa
+               swieta rieda, ne be pryczynas ir mane czion pas jumsu atwede; praszikem tad ano idant
+               isz to wysy paźitka apturietumem. Jej asz nekuriuosy dajktuosy jus pamokynau, ir
+               paukwatyjau, tad ir dieł sawes turiu nemaźa paźitka, nes taj Diewas jau sawa knigose
+               uźrasze ir kumet tumet gausej man uźtaj uźmokies: ale toi pat knigoje ir tawa wysy
+               tie gery darbaj ira jau suraszity. Zynok Martinaj! jog jej kas nor geraj darity ir
+               pagałba artymuj priduoty, tad koźname łajke gał taj darity; ale nerejk apłejsty
+               niewiena atsytykyma, kur gał artyma pagelbiety, idant ku daugiaus geru darbu
+               sukrautumem ir uź taj noug Diewa gausy uźmokesne atimtumem. O dar rejk źynoty, jog
+               gery darbaj ir apsyeimaj, kytus patrauk ant gera giwenyma; blogus atytrauk noug
+               pykta, o gerus kerawo idant isz kele gera giwenyma neiszklistum. Duok Diewe idant ta
+               musu storone, tam biednam susieduj ir ano gimynej, butum ant dwasyszka paźitka.
+               Negalu kajliej stygty źiuriedamas ant anu nędznastes, kury kajp matau ira wajsiumy
+               błoga giwenyma.</p>
+            <p>— Ach mana swetajty! tare atsyduksieis Martins: kad butumej matys tou giwenyma koksaj
+               pyrmu buwa? juk taj asz dar atmenu, kad ciełoj sodoj nebuwa padoresne giwenyma kajp
+               tas; dar mana tiewas (amźyna jam atylse dowenok Pone) buwa biednas, kada pas susieda
+               wys geraj klojos. Arklu, karwiu, buwa pyłnaj; o awiu be skajtlaus. Arodaj niekumet
+               tuszty nebuwa, o budinkaj kajp gera dwariuka! Ale tejsibe kałbant, nors wysa pyłnaj
+               buwa, nors łaszyniu paltes ajłoms sukabintas swyrne kiboje; o musztynej po kerczios
+               pełieje; wienok kelejwys nej ubagaj neiszdege dantu. — O kou nakwines! nieks niekumet
+               negaudawa, arba susieda sugelbiety! to ko bekłausy; nes senis NN. buwa skupas ir kad
+               berlinka ikryzdawa ing makszna, ta jau saules nebregies; ale Diewas pakoroje ir
+               paczius, ir wajkus.</p>
+            <p>Sunus kajp apsyźanije, igawa pacze pykta, uparocze, prasydieje namuose barnes,
+               nezgadas ir kejksmaj; bo senis iszkodamas paczios dieł sawa sunaus, neźiurieje ant to
+               idant butum cnatliwa ir Diewa milenty, ale bytiktaj pasoga gera turietum — tejp tad
+               ir pasybajge anu szezieste. Tiewaj terpo kejksmu ir łojoniu kajpo pekłoj kokioj
+               dienas sawa pabajge, o sunus apiemys gaspadoriste, neturiedamas pakajaus noug
+               uparoczes paczios ir nemokiedamas nukętety tou kriźelu, pasyłejda gerty, ulewoty,
+               tingiety, pasybajge senowes zopostaj, o nauju nieks nesurinka; pradieje gaspadoriste
+               nikty, arkluka po arkle, karwike po karwes tiłoms pardawoje; o kou Diewas duos ant
+               łauka, taj rudens łajke naktymys nuejdawa ing miestele prie źida, arba prie sodos
+               szimkoriaus. Tas musu wieł szimkorius łokomczius ir be sumnenes, gataus wysa nauda uź
+               oriełkas czierka priimty neuwoźodamas ar taj kas atnesz łocnus, arba wogtus dajktus,
+               ir tejp mana susiedas, ar taj sziena prapjaus, zaraz weź parduoty; ar medziu Dwaras
+               paskyrs ant kajtros, zaraz kert, weź ir parduoda, priesz kytus kałb jog taj ant
+               czinsziaus ir padotku, o wys taj ant oriełkas! Ir diełto geriause meta jau apej
+               kałiedas duonas nepritenk, nej giwolu nebetur kumy majtinty. Ejna, prasza, pryklyjes
+               Ponuj, gwałtu łend ing magazyna, o Ponuj nemałonu duoty tokem, kursaj isz geros wales
+               ir sawa kaltibes netur kumy mysty. Aut gała Pone atłejsk jam sunkius griekus! jau ir
+               wagistes pasyrode, ręda ir padotkaj uźsytense, jau tad Dwaras ir źeme szin meta
+               źadieje atimty, nes mata ant ko jau dabar ateje.</p>
+            <p>Aha! kou darity Martinaj ? atsake seniuks: niekumet ant dora neiszejna, jej kas sawa
+               błogu darbu nemata ir nepatajsa anu. Nediwikes jog kou Tiewas skups ir
+               nemiłaszyrdingas rase ir su krywdu artyma surinka, taj sunus pałajdunas wys
+               iszbarste, tejp wysada dedas ant swieta; nes kajp łabaj Diewuj pasydabo szczira
+               proce, tejp nepasydabo szyrdys uźkitieiusy ant nędznastes artyma. Gyrdiejau asz wiena
+               apej taj pasaka, ale teguł bun taj ant wakara kajp wysy wajkaj susyrinks, tukartu
+               jums pasakisiu; o tumy terpu pasakik man Martinaj, kajp tu prabagotiejej, nes sakej
+               jog tawa tiewas buwa iszpyrma biednas?</p>
+            <p> Ar intykiesy swetajty jog asz ir patsaj neźynau kajp taj stojose! tare Martins su
+               dziauksmu. At, Ponas Diewas dawe łajme. Tiewas mana su wysu buwa biednas, kada tou
+               wieta apieme, kurioj asz dabar giwenu; ale Ponas matidamas jog buwa storaunas,
+               netingynis ir wysumet błajwus; dawe jam kumele, karwe, oźka, łauka uźsieje ir dar isz
+               magazyna pękys purus rugiu ant duonas pridieje; tumy terpu wajkaj priauga, daugesnej
+               siłos igyje, nes darbyninku pribuwa. Łaukus kaskarts geresnej iszgiwendawa ir
+               dydesnius wajsius atimdawa; o kad terpo sawys zgadoj be barniu ir kejksmu giwena, ir
+               nieks ing szales nej ing karezemas neneszioje. Ot isz łoskas Pona Diewa, sugranźyna
+               Dwaruj igita skoła; buwa wysumet kumy ir ałkana papeniety, ir ubaga kartajs apdarity;
+               o jej graszys koksaj pasypajniodawa, taj ne ant oriełkas, ale ant gaspadoristes
+               padiedawa.</p>
+            <p>Po smercze tiewa asz apiemiau giwenyma kajpo wiresnys sunus. </p>
+            <p>Par keleta metu su brolejs mana ir sesermys tejp giwenau zgadoj ir wienibiej, jog
+               wandens łaszas terpo musu neprasysunke; o potam brolej pajeme kyta wieta, seseres
+               iszeje uź wira. O kajp turtajs pasydalyjom, jau man wiel nieka nebelyka; źeme wienok
+               buwa jau isz senowes isygawusy, o Diewas pabłagasłowyje wajsems, grejtaj pragiwenau.
+               Dabar turiu wysako; skołos neturiu, ręda ir padotkus apmoku, ir turiu wylty pas
+               Diewa, jog ir tolesnej mana gaspadoriste nenupułs; nes Diewas dawe man Pona Diewa
+               milente pacze, kury iszmokyna wajkus bajmes Diewa; niekumet pas musu neiszgyrsy nej
+               kejksmu, nej barniu; tiktaj byjaus kad neigiczio koke uparocze ir złastyninke marcze,
+               idant ir mana maźusius wajkus neiszmokintum kejkty ir rustubes Diewa ant wysa
+               giwenyma neuźtrauktum, ale turiu wyłty pas Diewa, jog neapłejs manes, nes asz netoks
+               durnius kajp mana susieda tiewas, asz źynau jog dydze pasoga nepadaris źmogu
+               szcziesliwu; asz iszskyrsiu dieł sawa sunaus, nors wysubiedniause mergajte, bet
+               cnatliwa ir tykraj Pona Diewa milenty, o jej sunuj mana patyks, tad priimsiu aną uź
+               marcze ir miłiesiu kajp sawa duktere.</p>
+            <p>Seniuks taj su dydziu dziauksmu kłausies, o potam pradieje kalbiety: asz negaliu
+               parmanity; kas taj dedas ant swieta? rodos jog wysy źmones tur prota ; bet nekurie
+               tejp ira akly, jog nemata kame ira szczieste, o kame neszczieste? ir po akymys
+               turiedamys szczieste, neejna paskou szcziestes, bet gwałtu werzas prie neszcziestes.
+               Koźnas źyna ir mata, jog proce, stotks, małone Pona Diewa, zgada ir wienibe; ira taj
+               pradze wysokios szcziestes: o priszingaj; gyrtibe, nastotks, wagistes, barnes,
+               kejksmaj ir tingieimas, ant wysudydziausiu neszczieszcziu ir ubagistes atwed; wienok
+               welyj budamys tuosy pyktuosy papratymuosy nędznaj giwenty ir smutnaj numyrty, nekajpo
+               giwendamys bajmiej Diewa ir szcziestiej, spakajnej su czistu sumnene pabajkty dienas
+               sawa.</p>
+            <p>— Tejp, tas tejsibe, atsake Martins, o wienok daug tokiu źmoniu ira ant swieta. </p>
+            <p>Tejp terpo sawes kalbiedamy, pareje cieła soda ir prisyartyna prie malawota kriźiaus,
+               kursaj galy sodos szalyp kele buwa pastatitas. Cze seniuks apsystoje, o kepure
+               nutraukys ir gałwa nulękys, bałsu, su dydze nobaźenstwa atkałbieje tou trumpa
+               maldele, kury prí kriźiaus su atpuskajs noug baźniczios S-tos Paskyrtajs ira kalbama.
+               „Kloniojemos tau Pone Jezau Chrystau ir garbynam Tawe, jog par szwenta kriźiu tejkejs
+               atpyrkty swieta.” Potam suspaudy wienas antram rankas, parsyskire.</p>
+            <p>Martins nueje ing sawa łauka zirniu piauty, o seniuks patsaj wienas nueje ing gojuka,
+               idant isz ten apźiurietum ir geraj paźintum padieima sodos ir spakajnej be
+               pariszkadas roźancziu atkałbietum. </p>
+            <p>Kada seniuks pareje ing namus Martina, ikanden ir Maryke parbiega isz łauka idant
+               paimty kniga ir ejty prie susieda lygone.</p>
+            <p>Prisyniere bałta kwartuga, syjona atmajne, o apsypraususy ir plaukus sudajlynusy jau
+               iszejty norieje. </p>
+            <p>— Pałauk Maryke! atsylipe seniuks</p>
+            <p>kerczioj siediedamas: ar taj prie lygone ejsy? o kou tu ten dirbsy? </p>
+            <p>— Skajtisiu psalmas, lytanies, ir kytas nobażnas małdas atsake Maryke.</p>
+            <p>— Ale żynok muna duktie sake seniuks: jog negana anam małdas skajtity, bet rejk idant
+               ansaj geraj prisygatawotum prie spawiednes, bo ir tu paty kada ejny spawiednes, tad
+               kajp ant suda Pona Diewa ejny, ir stojusins priesz kunega, kajpo priesz Diewa wysas
+               tawa kaltibes iszpaźinsty po skajtlumy, praszidama idant Diewas isz miłaszyrdistes
+               sawa dowenotum ir atłajstum; priźadiedama szyrdingaj, jog daugesnej ing tus nej ing
+               kytus griekus neipulsy; tejp ir lygoniuj rejk atminty wysus sawa griekus, o nawet isz
+               wysa giwenyma; nes jej ansaj budamas sawa papratyme wajkszczioje spawiednes ir
+               niekumet sawa giwenyma nepatajse, tad matity jog prie spawiednes neturieje tykra
+               gajlese nej pastanawyima daugiaus nebgrieszity; o be to wysa spawiedne negał buty
+               woźne. Ale kajp tu anam priminsy griekus ano? artury knigele Rokunda sumnenes?</p>
+            <p>Neturiu atsake Maryke.</p>
+            <p>Ach iszkada! tare seniuks: tad paklausk lygone, ar źyna kiek ira prisakimu Pona
+               Diewa? o kada atsakis jog deszimtys, ir iszkalbies anus, tad tu imk po wiena, koźna
+               prisakima ir priwadziok jam ant pomietes, o ansaj teguł myslyj sawa szyrdiej ir teguł
+               patsaj sawa sumnenes pakłaus bene kurin prisakima parźenge? Ir tejp: imk wysupyrmu
+               pyrma prisakima. „ Pyrms neturiek Diewu swetymu priesz many. ” Czion pasakik lygoniuj
+               idant uźsystanawitum wałanda gera: gał tykieje burtoms, zabobonams, arba patsaj
+               kokius monus dare? gał sapnus iszguldynieje ir aniems tykieje? gał pas źiniu
+               wajkszczioje, wardyninku, monininku, noriedamas ko norint dasyźynoty, arba patsaj
+               kokius norint monus dare? gał nekarta rugoje Ant Diewa bluźnidamas isz nekantribes,
+               jog Diewas netejsingas, nemiłaszyrdingas? o pasakik tejpogy lygoniuj, jog netiktaj
+               taj darity arba kałbiety ira grieku, bet ir pamyslity nawet; ir diełto kożna grieka
+               trejokiu spasabu źmogus pyłda; mysle, źodziu ir darbu; o wysutankiausej mysle; nes
+               kartajs źmogus ir nedasyłejd pacziu darbu grieka dieł bajmes arba dieł sarmatas, ale
+               tur nora dasyłejsty ir apej taj su patykymu myslyj. </p>
+            <p>Potam imk antra prisakima. ,,Antras neimk warda Pona Diewa dowenaj.” Czion wieł
+               pasakik lygoniuj idant walanda uźsystanawitum , gał netejsingaj prisigas dare, o jej
+               ir tejsingaj, gał be rejkała, isz papratyma baźyjos? arba be uwogas ir be
+               paszynawones, juokuose arba źertuose warda Jezusa arba Maryos mynawoje? o jej
+               negałietum atminty skajtlaus, kiek kartu koke grieka dasyłejda? tad pawinas
+               spawiedninkuj pasakity, kiek kartu nedieloj, arba mienesiej koke nors grieka papylde,
+               ir ar iłgaj buwa tokeme paprotiej? Imk tolesnej trety prisakima. „Trets atmink
+               szwenta diena szwensty. ” Czion wieł wałanda teguł pasymyslyj, kajp par sawa giwenyma
+               uźłajke szwentas dienas? gał darbus kokius dyrba, procewoje? gał parłejzdawa ant
+               miegoima, tingieima uogawyma, medzioima, źwejoima; o ne ant nobaźenstwas? o kou
+               pyktesnej, gał szwenta diena eje ing karczema, tynaj giere, ulewoje, pałejstuwawa?
+               gał nebuwa baźniczioi ant Mysziu szwentu ir kozoniaus su uwoga nekłase? Ejk tolesnej
+               prie ketwyrta prisakima. „Ketwyrts szynawok Tiewa ir Motina tawa. ” Czion teguł
+               uźsystanawyj lygonys, kajp kyta karta sawa tiewus szynawoje ? gał iwede ing złaste,
+               anu nekłause, priesz anus burgieje, ir kiek kartu? gał ant tiewu priesz susiedus
+               błogaj kałbieje, arba patsaj sawiep mysłyje? gał nekarta tiewa arba motina prie
+               aszaru atwede? O tejpogy tiewajs wadynas netiktaj gimditojej musu, bet wysoke
+               wiresnibe tejp dwasyszka, kajp ir swietyszka; ir diełto gał sawa ponu arba kunegu
+               nekłause, neszynawoje, priesz anus murmieje, anus krywydyje, arba błogaj ant anu
+               kałbieje?</p>
+            <p>Maryke kłausies o seniuks tejp tolesnej kałbieje: Imk potam pękta prisakima, „pękts
+               neuźmuszk.” Użmuszty gał trejopaj; ant kuna, ant duszes ir ant szłowes. Ant kuna gał
+               uźmuszty par atiemyma giwastes; ant szłowes par aprejszkyma kytiems błogus artyma
+               darbus, ar taj tejsingus ar netejsiugus; o ant duszes, par iwedyma artyma ing koke
+               nors grieka smertełna. Ir tejp jej kas błogaj kałb ant artyma priesz trys asabas,
+               wysu pyrmu uźmusz ant szłowes artyma, ant kurio błogaj kałb, ir kartu tas trys
+               asabas, kurios tos kałbos su ukwata kłausos uź musz ant duszes; nes anas itrauk ing
+               grieka apkałbas; nes ir anos ligej grieszyj kajp ir tasaj, kursaj kałb. Ar supranty
+               Maryke?</p>
+            <p>Suprantu suprantu, atsake Maryke: </p>
+            <p>— Nu, tad tokiu spasabu, imk koźna prisakima Pona Diewa ir parkratik wysus pakarcziu,
+               ant koźna prisakima priwadziodama ir dałejzdama lygoniuj, griekus sawa atminty. Kada
+               pabajksy prisakimus Diewa, tad ligiu spasabu rejk ir Baźniczes. S. prisakimus
+               parkratity. Septinius griekus dydziuosius, dewinys griekus wadynamus swetymus,
+               keturius griekus ing dangu szaukenczius; o ant gała lipk lygoniuj ant pawinaszcziu
+               sawa stona uźsystanawity.</p>
+            <p>— Ant kokiu pawinaszcziu uźkłause Maryke ?</p>
+            <p>Zynoma ant kokiu tare seniuks: juk susiedas jumsu nebuwa nej ponu nej pardietoju, bet
+               buwa ukyninku, gaspadoriumy, ir tiewu wajku sawa; todieł tegul pasymyslyj ar szcziraj
+               procewoje dwaruj ? ar tejsingaj atbuwa łaza? ar wajkus sawa mokyna bajmes Diewa? ar
+               anus koroje uź błogus darbus arba kałbas? ar poterius ir wysus prisakimus iszmokyna?
+               ar priźiurieje idant szejmina szwentomys dienomys ejtum ing baźnicze, idant
+               pokarczemas newajkszcziotum? arba rasy pyktus kokius darbus arba kałbas matidamas ir
+               girdiedamas terpo szejminas, neparsergieje ir nesubara anu? i t. d.</p>
+            <p>— Aha! suprantu suprantu atsake Maryke.</p>
+            <p>— Nu, tad ejk tare seniuks: ejk prie susieda ir źiuriek idant wys ten rieto padorej
+               atrastumem.</p>
+            <p>Kada jau prisyartyna wakaras ir wysy namol susyrinka, tik wienos Marykes, kury
+               sergieje lygony susieda nebuwa, tiewas Martinas primyny seniukuj, jog priżadieje
+               wakara łajke pasakity pasaka wajkams.</p>
+            <p>— Tas tejsibe atsake seniuks; ale rase juns wajkaj par diena nusyprocewojusys esate
+               pawargy? rase nenorieste kłausity? o gał ir miega norete? </p>
+            <p>— Oto! atsylipe wysy; mes gatawy esam par cieła nakte waszeces kłausity. Nu, kada
+               teip, tad sieskete wysy ing runda ir kłausikete. </p>
+            <p>— Cze seniuks isztrauke sawa toszyne tabokerka, o uźtraukys sztiwaj taboka ir
+               gaspadoriu su gaspadyne paczestawois, tejp kałbiety pradieje. Szę diena su jumsu
+               tiewu iłgaj kałbiejome ir dpej szin, ir apej tą, źynoma kajp tankej buwo terpo źmoniu
+               daug jau ant swieta regiejusiu, o iłgaj ant swieta giwenant ir gera ir błoga rejk
+               pamatity. Kałbiejome apej skupibe ir apej miłaszyrdiste; szytaj tad apej tou
+               pasakisiu jums wiena pasaka. Ar taj tejsibe ar netejsibe, to neżynau? jej norete
+               tykiekete o jej nenorete netykiekete; ale gał buty ir tejsibe nes drukawotoj knigoj
+               atradau tou pasaka paraszita.</p>
+            <p>Kyta karta, senej, łabaj senej, buwa wienas senas ubagas; krieklejs apsydarys, wysas
+               nuszalys ir iszalkys ateje pas wienos bagotos gaspadynes, praszidamas idant duotum
+               jam walgity ir szyltaj prie pecziaus atsyilsiety dałejstum; bet ta nemiłaszyrdinga
+               gaspadyne, nepajudyna szyrdies sawa ant nędznastes źmogaus; atstume jin pikdama
+               łojodama ir dures uźdare. Ubagas eje smutnas łazdele pasyremdamas, o szytaj biedna
+               źmona naszle netolin inumaujenty, iszgyrduse łojone ir sragius źodzius anos bagotos
+               gaspadynes, kada pamate tougi ubaga pro szale ejnanty, paszauke aną pas sawes, su
+               dydze małone prijeme, dawe jam duonas ir piena ing bludziuka ingpile, ir neiszłejda
+               isz sawa trobikes pakol nepasyilsieje ir neapsyszylde. Ubagas iszejdamas atsysuka ir
+               uźdieis ranka ant gałwos tos biednos naszłes tare: „miłaszyrdinga źmona! koke darba
+               rieto anksti wysupyrmu pradiesy dyrbty, tou par cieła diena dyrbsy. ” Ta
+               diewabajminga naszłe nesuprata źodziu ubaga ir neuwoźodama ant anu, spakajnej nueje
+               gulty.</p>
+            <p>Rijta kada atsykiele ir poterius sukalbieje, pamyslyje parmieruoty strugsniuka plonos
+               drobes, kurin wakariksztej uź sawa proce noug susiedkas buwa gawuse; o kada pradieje
+               mieruoty, tad drobe rankose tejp pratinsa, jog par cieła diena mierawa be joke atylse
+               ir primierawa pyłna sawa trobike, o nawet ir swyrniuka ir kamara dydejs rytynejs
+               drobes prikrowe; o uź koźna rytyny gałiejos dransej po 15 rublu duoty.</p>
+            <p>Kada dasyżynoje bagotoi susiedka apej tejp stebuklinga pagausynyma drobes, nuź
+               werkty, nuź blauty; jog par łocna kaltibe nutrotyje tejp daugel turtu. Trokszt
+               szyrdingaj idant tas ubagas sugrinsztum. Ir tejp stojose, jog sugrinźa po kelu
+               nedielu; o kada istelge ta gaspadyne isztoła aną par soda ejnanty, uźbiega jam uź
+               akia, uźprasze ing sawa namus, priźadiedama wysa jam wygada duoty. „Ejk pas manes
+               tiewukaj tare: nors szędiena ira szwenta, ale turiu skane weriena, baltos duonas:
+               praejusioj nedieloj wirs paskerde parsza duosiu łaszyniu ir kyłbasiu ir kotik
+               noriesy; ejk tad su manymy, nes jej neejtumej, tad myslisiu jog tebepiksty uź anos
+               dienos darbus; ale anądiena turiejau daug kłapatu, buwau pykta, uźboczik tada ir
+               neatmink ant to.” Ubagas pakłause, ieje ing tos bobas namus, walge ir giere, o potam
+               atsykieles uźdieje ranka ant gałwos gaspadynes ir tare; bet netejp kajp anaj biednaj
+               naszlej „miłaszyrdinga źmona” ale staczej „źmona!” koke darba rieto anksti dyrbty
+               pradiesy, taj ir par cieła diena dyrbsy ir nueje poterius kałbiedamas.</p>
+            <p>Boba su dydziu dziauksmu nueje gulty; bet uźmygty negalieje, nes sawiep dumoje:
+               „busiu dydze pony, pyrksiu saw dwara, turiesiu tarnus ir padonusius, o susiedkas
+               pawidies man; waźyniesius karietose, grażej riedisius. ” Rejk źynoly, jog ta boba
+               uźcziesa pasydieje majszely pynigu po poduszkas, myslidama sawiep, jog kajp tiktaj
+               atsykełs, tujaus pradies pynigus skajtity ir lyg wakara neparstos.</p>
+            <p>Kada jau auszty pradieje, boba nie źegnoty neparsyźegnojusy sijka po poduszkas prie
+               pynigu, bet tame pat łajkę błusa uźszoka ant kaktas ir smarkej ikanda; boba norieje
+               pasykasity, ale o korone Diewa! kajp pradieje sawy kasity ir płeszily, jog nej ana
+               pate, nej susybiegy ant gwałtos susiedaj , ranku jos iszturiety negałieje. Płesze ir
+               draske sawy kas karts dydesnej, bet lyg wakara tejp błusu pasydaugyna, jog boba
+               neźynodama kur pasydiety iszbiega isz namu ir noug to łajka neżyna nieks kur ana gała
+               gawa. </p>
+            <p>Nu, ką wajkaj ar gera pasaka? Ar tejsinga nagrada taj miłaszyrdingaj źmonaj ir korone
+               taj łokomczej ir nemiłaszyrdingaj bobaj , uźkłause juokdamos seniuks? bet niekoke
+               atsakima negawa; nes berniuokaj ir mergajtes juokies susyimdamy o ir tiewaj martins
+               su krystina kajliej netwieries. </p>
+            <p>Ar matote wajkaj sake tolesnej seniuks? jog Diewas netiktaj nagradyj uź gerus darbus,
+               bet tejpogy sragej koro uź błogus. O tejpogy, niekumet nerejk darity geraj dieł sawa
+               szłowes, arba darity geraj diełto, idant czion ant swieta dieł sawes pełna
+               turiety.</p>
+            <p>Biedna ta ir miłaszyrdinga naszłe, susymiłieje ant nędzna ubaga dieł małones Pona
+               Diewa ir netykietaj atnagradita palyka; o ta łokomezy bagotoi gaspadyne, papenieje ir
+               pagyrde tougi ubaga trokszdama noug ano gausios nagradas ir bagotiszcziu, o wietoj
+               to, tejsingaj pakorota palyka. Tejp tad ir mes darikem geraj nediełko kyta, kajp
+               tiktaj dieł garbies ir małones Diewa ir dieł gera artyma, o pewnaj ir mums Diewas
+               atnagradis jej ne tame giwenyme, tad aname amźyname, kuremy tykemos po smercze buty,
+               jej czion giwendamys ant swieta gerajs musu darbajs uźpelnisma.</p>
+            <p>Zynau asz dar wiena łabaj graźe pasaka, kury jums pewnaj patyktum, ale szędiena jau
+               wiełu ira, o tiewaj jumsu dar manies isz namu sawa newara, rieto tad wakara pasakisiu
+               jums; dabar tad kłaupkem wysy, kałbiekem poterius ir afierawokem Diewuj musu ciełos
+               dienos darbus; o tejpogy pasymyslikem, bene apybrozyom szędiena Pona Diewa, idant
+               rieto atsargingesnejs butumem. Jonuk! imk tu kniga kada Marykes niera ir skajtik
+               małdas wakarynes. </p>
+            <p>— Cze suklaupe wysy ir sukałbieje, kajp wakar wysas małdas ir poterius, o kada wysy
+               sukyła tad tare seniuks: źiuriekete wajkaj, rieto anksti rejk atsykelty, idant łajku
+               prisygatawoty ant priemyma kunega su S. Sakramentu, kursaj pri sergancze susieda
+               atwaźiuos. Łaba naktys, łaba naktys, ir nueje gulty. </p>
+         </div>
+         <div type="chapter">
+            <head>PARSKIRYMAS 3. </head>
+            <p>Ant ritojaus seniuks pałapyna Juzuka ant drobinu idant sergietum ir kajp pamatis isz
+               toła atwaźiuojenty kunega, duotum źyne. </p>
+            <p>— Parwaźiuo! parwaźiuo! suszuka Juzuks.</p>
+            <p>— Seniuks tad subaudys wysa gymyne Martina ir artymusius susiedus, iszeje giedodamas
+               szwentas gismes uź gała uliczes, idant sutykty tejp dydy swety Pona ir Diewa sawa,
+               kursaj Dangu ir źeme wałda; o kada kunegas prisyartyna, tad wysy puole ant kelu ir
+               gałwas lyg źemes nulenkdamys, atydadawe wysudydziause garbe tam uźsłeptam Diewy, o
+               atsykiełusys neparstodamys giedoty eje pasku kunega, kursaj pamažu waźiawa lyg trobos
+               sergancze susieda.</p>
+            <p>Seniuks ieis ing wydu, diwyjos isz dziauksma, dyde atmajna matidamas. Atrada troba
+               iszsmelkita szwenstomys źoliedys, asła iszszluota, kiema ir primeny iszwokta,
+               czistomys giałtono mys smełtiemys ir lelyju źidajs iszbars tita, stała czista ir
+               balta skoterty pridenkta, ant stała wydaus stowieje kriźius, kurin Maryke isz namu
+               sawa atsynesze, uźdegta grabnicze, szwenstas wanduo su krapiła ir toriełka su
+               szmocziukajs bowełnas ir kansniuku duonas su drusku idant kunegs turietum kumy sau
+               pyrsztus su szwentu alejumy suteptus nutrinty, jej to rejkałaus. Łangaj wysy buwa
+               nupłauty ir rutomys apkajszily. Lygonys gułieje bałtoi łowoj, bałtajs ir czistajs
+               marszkynejs apwyłktas, jau nej parszelej, nej wysztelej po asła newalkiojos, nes tame
+               łajke stałduose uźdarity buwa. Zodziu sakant matity jog Maryke prie pagałbas
+               gaspadynes sawa susiedkas, negajłiejos nej prota nej koju dieł prijemyma tejp dydze
+               swecze. </p>
+            <p>Kajp tiktaj kunegs padieje S. Sakramenta ant stała ir paszwente namus, tad wysy
+               atsytrauke uź duriu idant negyrdietum spawiednes lygone, nej kałbos spawiedninka, ir
+               gidoje Lytanie apej S. Sakramenta o potam wysy kałbieje małdas priesz kommunie.</p>
+            <p>Kada kunegs dawe lygoniuj sakramenta paskutyne patepyma, wieł wysy gidoje ir meldies
+               ant intencyes lygone, kursaj su dydziu gajłesiu ir skausmu szyrdies, tus wysus
+               sakramentus prieme. Po pabajktu ceremoniu, kunegas bowełna atieme sawiep ant
+               sudegynima, pasake dar keleta źodziu lygoniuj, kursaj atmindamas ant sawa dydziu
+               grieku graudziomys apsylije aszaromys. Patieszyje aną kunegas, lipe turiety wylty
+               miłaszyrdistiej Diewa ir sawa kętieimus uź griekus afierawoty ir dar priźadieje
+               patsaj uź aną pasymelsty; o kada jau namol waźióty norieje; Martins uźprasze pas
+               sawes ant sniedones. Padiekawoje kunegas uź gera szyrdy Martina ir nepazgardyje łoska
+               to Diewamilencze źmogaus; ale iszejdamas dar pagire jog wysy paszałej nors biedny,
+               wienok czistaj ir graźej isztajsity.</p>
+            <p>— Maryke tad juokdamos ir bucziuodama kuneguj ing ranka tare: ar tad tejp dar
+               rejkieje isztajsity ir priazdabity tou biedna trobele dieł tejp dydze Pona!
+               Baźniczioi kajp graźej ałtorej isztajsity o ir tejp kunegas klebonas wys dar naujes
+               prideda azdabas; ale mumsu cieła wyltys, jog Diewas ant musu troszkyma szyrdies
+               dydesnej ziur, o kad negalem kou dieł ano padarity, tad turem wylty jog Diewas taj
+               praboczis. </p>
+            <p>— Geraj kalbe muna duktie atsylipe kunegas: Diewas nerejkałauje noug źmogaus to, kou
+               źmogus negał; o ir wysumaźiause afiera jej tiktaj isz geros ir szcziros szyrdies
+               paejna, bus noug Diewa priimta ir gausej uźmokieta. Noriu dar jums padiekawoty ir
+               pagirty, jog lygone neszcziestiej neapłajdote; atminkete mana wajkaj! jogej kas
+               tornauje lygoniuj, tas patem Diewuj tarnauje; o ar gal buty dydesne źmogaus
+               szcziesty, kajp tarnauty Diewuj ? o kas dieł lygone neszcziestiej neparoda
+               miłaszyrdistes, tas dieł paties Diewa nedara miłaszyrdistes ir negał tykietis noug
+               ano miłaszyrdiste apturiety; wienok su gajlesiu ir sarmata rejk iszpaźinty, jog
+               tankej atsytink, jog lygonys guł troboj be joke apwejzdieima; asabliwaj kada bernas
+               arba samdyninkas arba inamie koke arba seniuks koksaj, kurs jau negał procewoty, tada
+               nieks ant to lygone jau neadbo, nieks nepakłaus ar nerejkałauje ko? nieks nepaduos
+               wandens łasza; o kada rejk kunega parweszty, tada tamy łajke taj arklu niera, taj
+               cziesa niera; teguł Diewas gełb noug toke uźkitieima szyrdies! Tie kurie tejp dara,
+               gwałtu stum noug sawes pałajmynima Diewa ir wysas nupełnas pas Diewa, kures par gerus
+               darbus gał igity, parmajna ing grieka.</p>
+            <p>Taj pasakys eje kunegs pas Martina. </p>
+            <p>Troboj Martina atrada jau sniedone gatawa. Kiauszine, sure, medu, duona ir rukszta
+               piena su warszkiemys ; (nes buwa taj pastninka diena). Nepazgardyje taj wys kunegs
+               geradieis, su ukwata walge ir ału giere; nes żynoje jog silidamos namuose Martina,
+               nemaźa partaj anam patieka padaris. Ant gała inesze Jonuks ir obulu gonidamas anus
+               jog maźy ir ikyrmiei.</p>
+            <p>— Seniuks uźsyszoka ir pradieje kałbiety: Nediwaj jog maźy ir ikyrmiei obulej,
+               macziau asz medzius noug kuriu obulus renkate, kuriu juns neapwejzate geraj,
+               padziuwusiu szaku neapkapojete, diełto tad tokius ir wajsius iszduoda. Medys be
+               priwajzdas par cziesa su wysu iszdijksta, diwyjus asz cze łabaj, jog toi pusiei maźaj
+               matau sodnu ir wajsingu medziu, gał źmones to kampa dar neiszmana kajp dydy pełna gał
+               turiety isz wajsiu gera medze; o łabiaus netolin miestele giwenantys, kur be joke
+               kłapata gał anus parduoty. Medy tiktaj priwejzdiety rejk; o ukyninkuj gatawa graszy
+               bėjo łocnos proces atnesz. O! kajp małonu kelejwiuj waźiuoty par soda, kur prie koźna
+               giwenyma graźus sodnaj, bujnes obeles su nuswyrusejs obulejs!</p>
+            <p>— Tejsibe atsake kunegas geradieis, ir asz pats nekarta noriejau paukwatity
+               parakwyjones ant isztajsima sodnu, czion nerejk niejoke kaszta, bet tiktaj maźos
+               proces ir priwajzdas; o asabliwaj kajp ta Martinaj, kurs esy storaunas gaspadorius:
+               jej tejp nuejtumej ing Dwara, papraszitumej poną keletą jaunu medziu, arba cziepu,
+               tad pewnaj netiktaj ponas nepawidietum ale dar ir pagirtam uź tawa gera darba; nes
+               Ponas jumsu łabaj ira geraj darąs dieł sawa padonuju, o łabiaus kada mata storone
+               źmogaus dieł sawa paźitka.</p>
+            <p>Padiekawoje Martinas uż gera roda, o kunegas użkłause seniuka, kajp senej wiesz toi
+               sodos? </p>
+            <p>— Noug atpusku łajka geradiei esmu pas tun miłaszyrdingu źmoniu, kurie mane pawargusy
+               ir ant koju nupuołusy ing namus sawa prieme. </p>
+            <p>— Tad neisztos puses esy? kłause tolesnej kunegas?</p>
+            <p>— Esmiu isz źemajcziu ir at, tiktaj saw ant senatwes uźsygejdziau daugesnej swieta
+               pamatity, jau daugel apłankiau wietu, buwau szin pawasare wylniuje ir daugel
+               stebuklingose wietose, dabar ejnu ing Szydława, o potam rejks grinszty ant namu idant
+               par źiema senus kaułus prie łocna pocziaus apszyldity. Ant pawasare wieł rejks
+               kelauty ing koke nors szale jej Diewas dałejs.</p>
+            <p>— Uźpewna esy bajoru uźkłause kunegas kad tury walna wale wajkszczioty po swieta?</p>
+            <p>— Ne, geradiei — atsake seniuks; uźgymiau isz ukyninku Tiewu tejp kajp ir tas
+               Martins, isz maźumos atieme mane ponas ing dwara, o ten tarnaudamas wiernaj Diewuj ir
+               ponuj par szeszioleka metu, iszmokau lenkyszkaj, pyrmu buwau piemenuku, potam
+               kłapcziumy, lokajumy, o ant gała palykau szieporiumy; ale łoska Pona Diewa nej
+               myslity nemyslyjau apej bajoriste; nes musu szaliej ledwa bajorelys tujaus putas kajp
+               eźis, nors iszalkys, bet graźej pasyriedys, o apej Pona Diewa ir Baźnicze S. tad ko
+               bekłausty? Myslyj jogej bajoras ir uź Pona Diewa wiresnys. Jau ir Baźniczioi nenor
+               prikłaupty, ale płaukus braukidamas stou kakta iszstatys. Pas musu bajorams nerejk
+               nej małdos, nej poteriu; o spawiednes tankesnej nekajp metuose karta ejty, taj uź
+               sarmata dieł sawes paskajta.</p>
+            <p>— Ale tad ten źemajcziuose ir kunegaj tur but wysa pylny ir Baźniczes graźej
+               isztajsitas kada ten daug bajoru uźkłause kunegas? nes bajoraj niekam rędas
+               nemokiedamys ir łaźos neejdamys gał daugesnej ant isztajsima baźnicziu duoty ? </p>
+            <p>— Ejk kunegajty! atsake seniuks — anie patys tika idant oriełkas czierka pas kunega
+               iszgerty, pietus pawalgity, arba arbatas styklynicze sugribty, o kuneguj arba ant
+               baźniczes duoty, to nemynawok! Senowiej rots buwa kas kyta, tankus bajoras myrdamas
+               po keles deszimtys, ir po szimta musztyniu ant baźniczes palykdawa; o kiek kartu
+               kunegas nuwaźiodawa pas bajora, niekumet tuszczioms neparwaźiuodawa; ale dabar, kajp
+               iszwyrta tos naujes madas, isyponewoje girtibes, tad turiedamys grasze, welyj ant
+               oriełkas nekajp ant afieras padiety. Tejsibe jog ir asz su Ponu waźyniedamos po
+               swieta, prisystebiejau wysam kam; macziau ir gera ir błoga, o ir prasymokynau po
+               biszky; ir jej buczio norieis, tad pewnaj buczio kajp saka palykys źmogumy; nes ponas
+               mane miłieje ir norieje man duoty wałnasty, o budamas wałnu, buczio gałieis sziuse
+               cziesuse iszsyprowity bajoristes; bet kajp macziau jog daugibe sztarkiu źaluku, kurie
+               ejdamys pasku źambe butum gałiei sułaukty senatwes, pasyłejda ant tingieima, newede
+               dwasyszka giwenyma, atsydawe ant pyjokiszcziu arba bajoryszkos pujkibes; isznajkyna
+               wysus tiewu sawa turtus; padiekawojau tad ponuj sawa uź ano gera szyrdy ir atsakiau;
+               kam man ta wałnaste? kam man ta bajoriste kada Diewas man muźyku uźgimty dałejda.
+               Prasziau pona idant man dałejstu apsyźanity su Diewamilenty mergajty, proczka to
+               paties Dwara, ir namol atłejstum. Ponas dałejda pagał mana wales, o asz su pagałba
+               Diewa, tiewus mana iszkarszynau ir wajkus szcziesliwaj uźaugynau, isz kuriu turiu
+               nemaźa patieka ir pagałba. Sunuj atydawiau giwenyma, kursaj mane kajpo tiewa mił ir
+               szynawo, wysa turiu isz gausingos rankas Diewa; o szytaj ant senatwes kajp sakiau,
+               uźsygejdziau parejty nekures stebuklingas wietas ir padiekawoty Diewuj uź ano
+               apwajzda ir wysokes geradieistes.</p>
+            <p>— Ale pałauk seniukaj pasake kunegas! Geraj jog tejp pamiłiejej tou stona ukyszka,
+               kuremy uźgymej, o asabliwaj sziusy cziesusy, kuriuse nedaug ira źmoniu, katri butum
+               konteny isz sawa stona; bet ar nepamyslyjej ant to, jog loke łoska pona wajkams
+               rejkalinga? </p>
+            <p>— Geradiei mana atsake seniuks! myslyjau asz nekarta; ale dumojau sawiep; jej wajkaj
+               mana mokies miłiety Diewa, tad wysada szcziesliwy bus ant swieta ir po smercze.
+               Cnatliwajs muźykajs mana wajkus padariau; ale cnatliwajs bajorajs kas źyna ar man
+               butum nuwiky padarity ar ne? O ar negeresnys geras muźykas nekajpo błogas bajoras?
+               Kajp gery ponaj ir bajoraj, tejp ir gery muźykaj rejkalingy ant swieta, ar netejsibe
+               geradiei? Jej tad kas uźgyme Ponu, teguł buni ponu, ale geru. Kas netejp grejtaj
+               nuwikst kajp mums rodos; o jej kas użgyme muźyku, teguł źyna jog ira muźyku; teguł
+               nemeta sawa sermiegas ir źambe, nes anas duona jam duoda.</p>
+            <p>Ant gała jej bajmiej Diewa pasku źambe wajkszczios, ir ing Dangu tropis.</p>
+            <p>Gyrdiejau asz wiena karta, kajp musu klebonas ant kozoniaus sake apej wiena bagota
+               Pona, kursaj pametys sawa turtus ir pałociu isyźadieis, pristoje prie wiena muźyka uź
+               berna; o procewodamas dieł Diewa par cieła sawa amźiu, szwentu palyka. </p>
+            <p>— Tas tejsibe atsake kunegas. Ta pasaka neiszmyslita, ale tykraj buwa toksaj
+               atsytykymas , kursaj paroda jog jumsu ukyninku stonas, ira wysumilemiausiu akyse
+               Diewa ir jog dieł praszczioku, prociauninku, bytiktaj mokietum sawa proces, kłapatus
+               ir kętieimus Diewuj afierawoty atydaritas ira Dangus. Wienok rejk źynoty jog koźnamy
+               stone esant gał atrasty iszganima, jej tiktaj wiernaj sawa pawinastes iszpylditum.
+               Diewas tejp mandrej pariedy tou swieta, jogej kanecznej rejkalingy ira Ponaj ir
+               tarnaj, bagoty ir ubagaj, o wysudydziausej rejkalingy ukyninkaj; ir diełto, koźnas tą
+               stona kuremy uźgyme pawinas miłiety ir gerajs apsyeimajs storotis igity łajme pas
+               Diewa ir szłowe pas żmoniu. Juns tad mana wajkaj, kuriems Diewas daWe gerus ponus,
+               kurie jus kajpo Tiewaj sawa wajkus mił, diekawokete uź taj apwajzdaj Diewa ir
+               neimkete saw uź pykta, jej newysumet jumsu rejkałams gal uźgana padarity. Neimkete
+               tejpogy uż pykta, jej jus uź tejsinga kalcze korotum, nes anie tur waldze ant jumsu
+               nuog Pona Diewa duota. Storoketies idant jumsu błogajs darbajs neuźpelnitumete ant
+               korones, atyduokete dwaruj skolas, jej kokes uźtraukiete, apmokieket czinsziu ir
+               padotkus; nes isz anu źemes mintate. Diewas tejp pariedy idant juns ponams
+               procewotumet, o ponaj idant jumsu rejkalus apwejzdietum. Kłausikete ir szynawokete
+               wysus pardietojus ir wiresnius, kurie noug Ciezoriaus ira pastanawity dieł uźlajkima
+               pariedka; nes jej tos wiresnibes nebutum, tad daugel atsyrastum pałajdunu, wagiu, ir
+               kytu pyktadieju, kurie płesztuin, musztu, rubawotu; o tejp niewienas negałietum
+               spakajnej giwenty ant swieta. Miłiekete tejpogy jumsu Tiewa Ciezoriu, kursaj noug
+               Diewa ira pastatitas uź waldimiera ir sudze źemyszka, idant koźnam pagał ano darbu
+               atyduotum, uź gera geru; o uź pykta pyktu. Nemyslikete jog kytur gał buty geresnej,
+               nekajpo tame kampe, kureme uźgymiet, atminkete jog źmogus niekur czion ant swieta
+               tykros szcziestes neatras; ale koźnas ir koźname stone, tur sawa proces, wargus ir
+               kłapatus, idant atmintum jog ira źmogumy; o tus wargus ir kłapatus tukartu pabajgs,
+               kada giwenty ant swieta parstos ir nuejs ing aną tiewyszke amźyna. Ten atras dieł
+               sawys tykra szcziesty, jej czion ant swieta giwendamas gerajs darbajs uźpelnis; ko
+               jums Martinaj ir saw isz ciełos szyrdies żiczyju.</p>
+            <p>Pabajgys kunegas sawa kałba, pabłagasłowyje wysa gymyne diewabajminga Martina ir
+               iszwaźiawa namol. </p>
+            <p>Kada kunega iszłajda, tad seniuks kałbiety pradieje; o taj kunegas! o taj tarnas
+               Diewa! kajp graźej jus wysada mokyn! Diekawoty pawiny esate Diewuj, jog jums dawe
+               toke geradiei. Tiktaj rejk ano kłausity ir ano kałba użłajkity; o pewny galete buty,
+               jog buste wysy Danguj. Ar juns mokate aną wysy szynawoty tejp kajp priguł? </p>
+            <p>— Kajp neszynawoty toke mumsuTiewa tare Martins, juk taj musu wysa patieka, jej mus
+               pamokyn, warguose patieszyj ir rejkałuose paduod gera roda, mes aną milem tejp kajp
+               paty Diewa. </p>
+            <p>— Ir słusznej atsake seniuks; nes kunegas ira wietoi Diewa pastatitas, ir jej jus
+               mokyn, tad ne sawa źodejs ale paties Diewa; tun tada źodziu tejp pawiny esate
+               kłausity, kajpo kada patsaj Diewas kałbietum, rejk tejpogy melstis uź kunegus idant
+               Diewas Dwase sawa S. anus patwyrtintum, noug pykta uźlajkitum ir duotum łoska sawa
+               ant iszgalieima sawa procioi lyg smercze; o asabliwaj sergietis błogu kałbu ant
+               kunega; ba nors ir koźna apkalba ira grieku, bet apkałbiety kunega tolin sunkesnys
+               grieks, nes anims wysudydziausej szłowe ira rejkalinga.</p>
+            <p>Kada pabajge seniuks sawa kałba, kurios wysy kłausies, tada wysy padiekawojusys anam
+               uź gera pamokynyma, nueje koźnas prie sawa darba. </p>
+         </div>
+         <div type="chapter">
+            <head>PARSKIRYMAS 4. </head>
+            <p>Tou paty diena kada wakara wysy susyrinka, Krystina primyne seniukuj wakarikszty
+               priźada, jog aniems dar wiena pasaka priźadieje pasakity. Seniuks su ukwata uźgana
+               padare praszimuj wajku kurie tejpogy rankas bucziuodamy prasze seniuka, idant aniems
+               koke nors pasaka pasakitum; ale pratarė dur seniuks; jog ta pasaka nebus kajp wakar
+               tejp juokinga, wienok łabaj graźe; nes ajszkej paroda geribe Diewa; o potam uźtraukys
+               taboka, tejp pradieje kałbiety. Wiena Nedieldieny po pietu, wysy ciełos sodos wajkaj
+               nueje ing baźnicze ant Myszparu ir pamoksła arba katachizmu; o terpo kytu wajku, buwa
+               wiena syrata Onike, kurios tiewaj senej jau buwa iszmyry ir tiktaj isz łoskas diedes
+               ir tatułas buwa užauginta; kada kunegas klebonas pabajge pamoksła ir jau wysus wajkus
+               namol atłajda, tejp aniems pasakie. „Ejkete mana wajkaj ir atminkete jog koźnas isz
+               jumsu pawinas geraj darity dieł pasydaboima, Diewuj, tejp dydys kajpo ir maźas, tejp
+               bagotas kajp ir biednas, wysy pagał sawa iszgalieima pawiny darity geraj; nes niera
+               niewiena žmogaus, kursaj negałietum sawa artymuj duoty pagałba, arba koke nors
+               miłaszyrdiste padarity.” Onike pagrinszdama isz Baźniczes ir myslidama apej sawa
+               syratiste, graudej pradieje werkty ir kałbieje sawiep. ,,Oh asz neszcziesliwa jog
+               nieką gera negalu padarity! esmiu biedna syratele, nieka neturiu, niewienam negalu
+               pagałbas duoty, ir diełto niekumy negalu Diewuj pasydaboty. ” Tejp sawiep kałbiedama
+               ir nenoriedama idant kas pamatitum paraudonawuses noug werksma akes, atsytolyna isz
+               kele ir maźu takelu eje; o źynodama jog nieks anos namuose nełauke, nes diede tankej
+               aną muszdawa o tatuła sawa wajkajs uźimta, neadboje ant augintynes; siedos tad pas
+               keruka myszkynes roźes ir prisystebieje jog tas kerelis tejp buwa sausas jog ir
+               łapelej pagełtonawy ir źiedelej pawity buwa. ,, Gajłu man tawes roźele” tare Onike:
+               „jau tu myrszty noug troszkyma, nieks tawes nełajsta, o lietaus senej jau wysy
+               łaukeme” taj kalbiedama Onike nubiega prie sraune upele, kursaj netolin pakalniemys
+               biega ir po keleta kartu maźomys sawa rankeliemys atneszdama wandeny, aplajsty
+               roźele, kury akysy anos atsygawa. Jau ir lapełej stojose źalesny ir źiedelej
+               raudonesny.</p>
+            <p>Onike tad ejdama tolesnej krasztajs sraunej biegancze upele tare: ,,Oj upeli! upeli!
+               tu atgajwynaj roźiu kereli, o asz biedna syratele kumy Diewuj pasydabosiu? ” </p>
+            <p>Ejdama tolesnej pamate daug maźu akmeniuku piewose iszmietitu; surinka anus wysus ir
+               ing giłuma upele imete, o atsyduksiejusy tare: „O juns akmeniukaj! kajp juns
+               szcziesliwy, jaw jusu nebekejks piowieis dalgy uźgawys; nes atsytolynote isz tos
+               piewas; o asz biedna syratele kumy pasydabosiu Diewuj?” Kad jau saule łejstis
+               pradieje, tad Onike byjodamos idant kur nepaklistum, skubynose namol ir kada
+               prisyartyna prie sawa sodos, pamate patworiej padieta maźa wajka wistikluose
+               suwistita, kurin motina palyka idant gałietum geresnej giwolus ing darza suwaryniety;
+               o palykdama pakabyna ant gałwos kudyke wieje melniczike isz łentykiu padyrbta dieł
+               zabowas; bet kada wakara wiejes nustoje; tad ir melniczike suktis nustoje; todieł
+               wajkas łabaj werkdamas szauke; matidama taj Onike, jeme isz wysos siłos pusty o
+               melniczike grejtaj suktis pradieje. Kou matidamas maźas wajkas, palowe werkty ir
+               rankeles isztizdamas juoktis pradieje; ant gała uźmyga. „O kajp tu szcziesliwas
+               wiejeli!” tare sapiew Onike: „tu pusdamas ir tou zabowa sukdamas uźmygdej maźa wajka;
+               o koke patieka turies motina? kada spakajnej miegtanty sunu atras! o asz biedna
+               syratele kumу pasydabosiu Ponuj Diewuj?” Potam Onike nubiega namol; o prisyartynusy
+               prie trobos sawa ir iszgyrduse sragu bałsa sawa diedes, duksauty ir isz bajmes wysa
+               drebiety pradieje ; o ledwa dures prawiere, tujaus gyrtas diede su wiezdu, kurin
+               rankoi turieje, tejp smarkej uźgawa anaj ing gałwa, jog ant wietas padieje. Biedna
+               syratele dar ant źemes krysdama tare „ bieda man, jog niekumy Diewuj negaliejau
+               pasydaboty!” Diede matidamas isz sawa wałes paejnanty toke neszcziety, pradieje
+               szaukty ir rankas sau łauźity; diedina tejpogi jeme klikty; o neturiedamys ir
+               negaliedamys niejoke ratunka priduoty, nunesze aną ir ant łowas padieje. Uźdege
+               grabniczes źwake, pastaty prie gałwos kriźiu ir ing rankas abrozdeli įspraude ; bet
+               nieks jau atgajwinty Onikes nopatropije.</p>
+            <p>Kada tejp szauke, klike ir wienas ant antra kalcze mezdamys desperawoje, umaj
+               atsywiere dures ir ieje pawargulys ubagas, jeszkodamas Onikes, idant padiekawotum uź
+               atgajwynima roźes, po kurios uksmiu iłsiedamos apturieje swejkata ir padaugynima
+               siłu; ateje susiedas girdamas Onike uź anos storone jog nurinka akmenys isz ano
+               piewas, ant gała atsyrada ir moteryszke, ku rios wajka pabowyje ir uźmygde; ir kada
+               matidamys aną numyruse graudej wysy raudoje, tad trąksmas dawies gyrdiety, kajpo
+               butum żeme sudrebiejusy ir o stebukłaj nepaimty! Atsiunty Diewas Anioła, kursaj akyse
+               wysu kajpo isz miega paźadyna Onike, ir nutwierys uź rankas prikiele; kury kada
+               siedose tare anaj Aniołas. „Diewas uź tawa gerus darbus, dałejda tau ilgesnej giwenty
+               ant swieta, esy biedna ir syrata, netury isz ko duoty afieras nej biednus szelpty;
+               ale darej tokius darbus kurius gałiejej ir anuose nejeszkojej szłowes, bet dieł
+               pasydaboima Diewuj darej. Atmink tad jog Diewas ne ant dyduma afieru źiur ale ant
+               geros szyrdies ir troszkyma žmogaus; darik tad geraj par cieła amźiu tawa, o niekumet
+               noug Diewa nebusy apłejsta. ” Taj isztarys Aniołas isznika isz akiu anu.</p>
+            <p>Diede Onikes parsygandys isz toke regieima, rankas sudieis prisijga jogej daugesnej
+               niekumet oriełkas nebegers, idant isz girtibes padabne nedasylajstum grieka. Pacze
+               ano tejpogy, kajp pyrmu buwa sragy ir nemiłaszyrdinga noug to karta atsyrada geresny
+               ir łagadnesny ir tejp abudu pamilieje syratele kajpo sawa łocna wajka.</p>
+            <p>Onike augdama ing metus, auga kartu wysokiuosy geruosy darbuosy ir par wysa sawa
+               amźiu dary geraj dieł pasydaboima Diewuj. </p>
+            <p>Pabajge seniuks sawa pasaka, o wysy gatawy buwa tolesnej kłausity.</p>
+            <p>Krystina ir wajkaj jau nejuokies kajp wakar, bet pasylękusys aszaras brauke ir rankas
+               sudiejusys diwyjos isz apsakita stebukła; ale seniuks tare: jog taj ne Ewangelia ,
+               jog taj gałieje buty, o gałieje ir nebuty; wienok jej Diewas tejp norietum, wys taj
+               gał buty; nes ir kas diena matom dydzius stebukłus Diewa, ant kuriu nawet neuwoźojem
+               dieł to jog jau pripratom ir mysłyjem jog jau tejp ir pawina buty. Matote czion mana
+               wajkaj kałbieje seniuks tolesnej, matote kajp Diewas mił ir gausej uźmok pakara ir
+               miłaszyrdiste; matote tejpogy kajp koźnas wienas, senas ir jaunas smarkus ir wojoks,
+               didys ir maźas, bytiktaj norietum, wysada gał geraj darity. O tejpogy matote jog
+               Onike atradusy roźiu kerely, ne nułauźe szaRelu anos, neiszrowe, nepaspire ejdama pro
+               szały, bet idant geresnej augtum apłajste aną. Tejpogy atradusy piewoj daugibe
+               аkmуnu, nemieczioje ten kur piowiejuj rejks dalgy traukty, ale nurinka idant ir žołie
+               wygadnej augtum ir piowieis sau dalge neatkyrstum. O pas jusu ar tejp ira? szytaj! ar
+               gaspadorius głusnius paswadyna, ar akmenymys rubeźiu atskire, tujaus dieł swawales,
+               rejk medzius iszrauty, rejk akmenys iszspardity, o! taj łabaj negeraj, nes par taj
+               krywyda dedase gaspadoriuj. Macziau asz czion netolin jusu sodos, kajp senowiej
+               graźej kels berzajs buwys apswadintas, ale tie medej nułupyniety, nubrazduoty, ir jau
+               nekurie padziuwusys; o taj wys maźu wajku, piemenu darbaj. Nesakau asz taj tau
+               Martinaj nej tawa wajkams, nes anie pewnaj tokiu zbytku saugojes; wienok matity jog
+               ir jumsu sodoj ira iszdijkusiu wajku.</p>
+            <p>Ledwa seniuks taj pabajge kałbiety, o szytaj Maryke ipułanty uźdususy ir parsygandusy
+               kałbiedama jog susiedas jau rnyrty pradieje. </p>
+            <p>Iszgyrdusys tou naujina sukyła wysy kłausitojej ir wysy duksaudamys nueje ten, kur
+               smertys dusze noug kuna perskyra. Ir uźtykra, atrada lygony jau paskutynioj wałandoj.
+               Kojes ir rankas uźszałuses, kakta szałtu prakajtu apypyłta, akes miety ing wysas
+               szales, kajpo ratunka jeszkodamas; jau kałbiety negałieje, ale dar wysa prota turieje
+               ir ajszkej gyrdieje. </p>
+            <p>Maryke nors nuiłsuse, grejtaj uźdege grabnicze, kurę su sawymy atsynesze, o seniuks
+               padawe lygoniuj ing rankas kriźiu; potam wysy sukłaupe, skajte małdas prie
+               myrsztancze ir lytanije, kurę kada pabajge , o lygonys jau kas karts retesnej
+               duksawa, tad seniuks ajszkiu bałsu ing ausy lygone kałbieje: Jezus Marya Juzapaj
+               szwentas pribukete man ant pagałbas toi wałandoi smercze mana! Diewe atłojsk griekus
+               mana, dowenok kaltibes mana! Diewe ing rankas Tawa atyduodu dusze mana! Czion lygonys
+               sunkej atsyduksieje ir rankas ing szaly numetys amźynaj uźmyga. </p>
+            <p>Pacze nabaszninka werkty ir plaukus sau draskidama pyktu bałsu blauty pradieje; kur
+               dabar su maźajs wajkajs pasydies! </p>
+            <p>Seniuks subara aną iszpyrma, o potam łengwej kałbiety pradieje: strosznus ir bajsus
+               pawejksłas, kada smertys milema prietelu apłanka; o nors żynom jog be wales Diewa
+               niejokes pyktas negał mumys sutykty; nors źynom tejpogy, jog Diewas ira wysugeriausiu
+               Tiewu wysu syratu; wienok ant pawejksła myruse tiewa, motinos, brole, arba
+               prietelaus, negalem nors norietumem aszaru prituriety; ale źynok motin, jog tawa wira
+               kunas numyrys ir uźszalys, nebejaut tawa gajlese, jau nej regiety, nej gyrdiety
+               nebegał; o dusze ano nieka noug tawies nerejkałauje, kajp tiktaj małdu, afieru Mysziu
+               S. ałuźnas, ir ku daugiausej geru darbu , par kurius ir dusze wira tawa noug tos
+               pakutas, kury uź griekus ano noug tejsinga Diewa cziszcziui ira paskyrta iszwalninsy,
+               ir par afieras Mysziu S. ir gerus darbus uźsypelnisy ant tosgy amźynos
+               szcziesliwastes, ing kurę wysy kelaujem. Palauk tad werkty , o nuejk ing dwara,
+               pasykłaniok ponuj ir papraszik lentu grabuj padyrbty; o ponas matidamas tawa
+               nędznaste, duos tau, nes ira miłaszyrdingu dieł wysu, o asabliwaj dieł sawyszkiu.
+               Ziuriek idant wiras tawa, padorej, pagał buda Baźniczes S., tejp kajp prider ant
+               katalyka, butum pałajdotas. Kada tejp seniuks kałbieje, wajkaj Martina nors su ukwata
+               kłausies, wienok par diena nusyprocewojusys, jau snausty pradieje, nes ir wienas ir
+               kytas źiowauty jeme. Sujudyna tad seniuks wysus, ir pasymełdusys iszeje namol; o
+               pagrinźusys ir małdas wakarynes sukałbiejusys, nueje wysy ant atylse.</p>
+         </div>
+         <div type="chapter">
+            <head>PARSKIRYMAS 5. </head>
+            <p>Ledwa diena praszwyta, tujaus atbiega nuluduse susiedka, ir prasza Martina idant pora
+               rublu paźicziotum, nors keletu gorcziu oriełkas nupyrkty. </p>
+            <p>— Byjok tu Pona Diewa! suszuka seniuks bepoteraudamas. Ar tu isz prota ir iszejej! ar
+               tu ant pagraba myslyi oriełka gyrdity źmones! Wira tawa, kursaj isz oriełkas numyre
+               dar kunas neuszała, o tu myslyi su ta paty oriełka dar ir kytus czestawoty! Jej tad
+               tau malonus atmynimas ant wira tawa, jej nory turiety spakajnasty tawa sumnenes, ir
+               jej trokszty szcziesliwastes dieł wira tawa? tad tu myslik apej dusze ano, o ne apej
+               oriełka. Ziuriek idant turietumej kou ant Mysziu S. duoty ir ekzekwiju, o ne ant
+               oriełkas. Melskes ir pate, praszik Pona Diewa idant anam griekus atłejstum ir amźyna
+               atylse duotum; o tau patej idant duotum</p>
+            <p>Dwase S. ant patajsima giwenyma tawa, o ne apej oriełka myslik. </p>
+            <p>— Ale, atsake metoryszke; juk nie ant pagraba nieks neatejs, jej oriełkas nebus. </p>
+            <p>— O taj pagonyszkas iwedymas! tare seniuks: gyrdity ir czestawoty źmones ant pagraba!
+               O kou tu do iszkada turiesy, jej nedaug swieta tebus ant pagraba wira tawa? Geriaus
+               maźa susyrinkyma cnatliwu ant pagraba turiety, nekajpo daug girtuklu. Jej kurie isz
+               jumsu susiedu mił Diewa ir artyma, ir jej patys nor idant ant anu pagraba kyty
+               susyrinkusys mełstumes, tie atejs ir be oriełkas; nes atejs nediełto idant gerty ir
+               walgity, ale melstis uź dusze numyruse; o jej kurie dieł oriełkas tiktaj ant pagraba
+               ejna, tad nerejk tokiu czionaj, teguł geresnej neejna, ir jej tokiu nebus, tad
+               dydesne bus Diewuj garbie, nes tame susyrinkyme pri numyruse, grieka girtibes
+               nematis.</p>
+            <p>Dieł uźgesima troszkyma ir suwylgima burnos gidotojems, mes su Martinu duosma roda.
+               Ejk tad tu namol, apwejzdiekete ir apczistikete paszalus, nabaszninka apdarikete
+               padorej, paty melskes prie Diewa, o Diewas neapłejs tawies. Mes su Martinu tujaus
+               atejseme. </p>
+            <p>Kada ta moteryszke iszeje , seniuks pakłause Martina; kokiu budu łajdoj toi pusiei
+               nabaszninkus ? </p>
+            <p>— Martins burna prauzdamos ir gałwa szukuodamas tejp kalbieje: Jej numyrszta
+               gaspadorius, tad tujaus uźmusza karwe arba pora awiu, parweźa pora deszimtu gorcziu
+               arba daugesnej oriełkas, suprasza susiedus ir gętes, gied szwentas giesmes gidotojej,
+               o tejp parłejdusys prie oriełkas diena arba dwy, nuweźa numyrusy wysutynoj ing sodos
+               kapus ir uźkas; po pałajdoima tejpogy dar wiena ir antra diena nuejna, pakol swetej
+               namol iszwajkszczio.</p>
+            <p>— Tad nie kunega nepraszote dieł pałajdoima pakłause seniuks? </p>
+            <p>— At, jej bagotas numyrszta ir taj jej pateme miesteliej, tad gętes arba wajkaj
+               prasza; o jej biednas, arba nors ir bagotas ale sodoi, tad kunegas nej źynoty neźyna;
+               ale wieny susiedaj iszgierusys keleta gorcziu oriełkas pałajdoj.</p>
+            <p>O pagonyszkas iwedymas! Таrе atsyduksieis seniuks: nors ant sau biedniause pagraba,
+               jej tou daly atydietum ant Mysziu S. ir Ekzekwiju , kurę iszłejd ant oriełkas, tad
+               nors numaźintum pakuta cziszcziui paskyrta. O dabar par girtibe dar padaugyn rustibe
+               Diewa!</p>
+            <p>Loska Pona Diewa pas musu źemajeziuose niera tun pyktu iwedymu, bet kajp tiktaj
+               źmogus numyrszta, tujaus gętes arba susiedaj myslyj apej prideranty pagał buda
+               Baźniczes S. pałajdoima, duoda ubagams ałuźna ir Mysziu S. ku daugesnej storojes
+               uźpyrkty.</p>
+            <p>Ira ir żemajcziuose tokiu pagonyszku iwedymu, kajpo taj: parubeźiej paprusejs ir
+               panemonejs; ale ir ten nors wysa pagraba be geru darbu ir małdu Baźniczes S. atlajka,
+               wienok nors ant Mysziu S. gymynie numyruse, kumet tumet atsymynuse uź dusze
+               nabaszninka duoda; o dar ir atmynymus rudens łajky dara; ale kajp paprusiej ir wysajs
+               parubeźejs, tad newercze idant kunegaj klebonaj dałejstum tokius atmynymus prowity;
+               nes atmynymaj bajges ant to, jog uźpyrks wienas skajtitas arba giedotas Myszes S. o
+               patys susyrinky ing szpitole par cieła diena ger, wałga, o ant wakara pesztis ir
+               łojotis prasydeda. Jau boba nebegał nie ing weźyma isyrysty; o wirs akys uźmerkys,
+               kujudamas ir gałwa kinknodamas, kada rejk namol waźiuoty, nej wadziu nebatrañda.</p>
+            <p>Tykos nekarta man patem regiety, ir gyrdiety, jog iszwaźiawa ing atmynymus smutny ir
+               nuludy, o parwaźiawa dajniuodamys arba kejkdamys. O pas jumsu Martinaj ar darote
+               kokius atmynymus? </p>
+            <p>— Mes lietuwyninkaj nej kurszej atsake Martins: nej źynoty neźynom, kas taj atmynymaj
+               ? </p>
+            <p>— Neźynau geraj nie asz, kałbieje seniuks: ale kajp man pasakoje musu klebonas, ira
+               taj atmynymas uź duszes tiewu, brolu, seseru, gęcziu ir prietelu, arba wienos kokios
+               asabas, par małdas noug Baźniczes S. ant to paskyrtas, kurios wadynas Ekzekwijoms,
+               par afiera Mysziu S. ir ałuźnas. Tejp źemajcziuose Diewabajmingy źmones dara dienoi
+               sekmoj po smercze nabaszninka, dienoi trisdeszimtoi, ir po pabajgos apskrytu metu
+               noug smercze tos asabas, uź kurios dusze dara atmynymus.</p>
+            <p>Ant tun tad atmynymu susyrenka gętes ir susiedaj o pasymełdusys Ekzekwiju łajke ir
+               iszkłausiusys Mysziu S. koźnas waźiuoje ing namus sawa. Ale kajp cze bus Martinaj,
+               rejk mums skubintis prie nabaszninka susieda, idant ten koke nors duoty pagałba; nes
+               negal mums kajpo katalykams niewiena atsytykyma apłejsty, kur gał geru darbu dieł
+               sawies padauginty. Tu kajp esy geros szyrdies, butumy pewnaj taj bobaj pażicziois
+               pora rublu aut oriełkas, kada ana tawies prasze, ale kajp asz uź oriełka aną
+               sułojojau, tad wysy nutyłote ir ant nieka tas praszimas pasybajge, wienok pora rublu
+               pażicziok anaj, bet ne ant oriełkas, ale ant afieras , teguł tujaus nuneszi pas
+               kunega klebona ir teguł paprasza idant priderantej pałajdotum.</p>
+            <p>— Geraj, atsake Martins; asz gataus ir arklus sawa duoty kunuj nuweszty.</p>
+            <p>— Nu, tad ejkem pas susieda o wys bus geraj. </p>
+            <p>Nueje abudu ing pagraba linksmej kałbiedamy ir dziaugdamos, jog sawa roda ir turtajs
+               gałieje artymuj priduoty pagałba; atrada jau Maryke ir Jonuka giesmes gidenczius ir
+               daugel kytu Diewabajmingu mergajcziu ir berniuoku. Isz Dwara Ponas miłaszyrdingas
+               atsiunty ałaus baczkike; kotrina atnesze роrа suriu ir dydy bakana bałtos duonas; ir
+               tejp pakoł moteryszke noug kunega klebona nuneszusy igitus noug Martina pyningus
+               pagrinźa; wysy graźej giedoje ir nobaźnaj mełdies, nes nie wiena akes oriełka nebuwa
+               uźpyltas. </p>
+            <p>Seniuks daboje pariedka idant sumyszyma koke nebutum. Juzuks pora arklu pakinkys
+               atwaźiawa kuna weszty, ir kada jau nabaszninka isznesze isz trobos , tad seniuks
+               prakałbieje wysiems susyrinkusims idant mełstumes uź dusze ano, kurem Diewas dalejda
+               nors priesz smerty pasyjednoty su sawymy, parsergiedamas girtuklus, jog tos łoskas
+               negał wysy tykietis. Patieszyje nuludusy moteryszke, duodamas roda, idant po
+               palajdoima wira, storotumes wajkus sawa iszmokinty bajmes Diewa ir idant paty
+               patajsitum sawa giwenyma, jej nenor par sawa amźiu neszcziesliwaj wargty ant swieta
+               ir amźynaj po smercze praźuty; ant gała ajszkiu bałsu pragida: ,,Swejka Karałiene
+               Motina miłaszyrdistes. ”</p>
+            <p>Kada nuweźe ing parakwyjes Baźnicze, kunegas klebonas ingprawodyje ing namus Diewa,
+               atgidoje kartu su kunegu kamendoriumy wiena dale Ekzekwiju ir Myszes gidotas su
+               keturiomys, źwakiemys; o ant gała nułejda ing parakwyjes kapus gidodamas ir mełzdamos
+               pagal istatima Baźniczes S. Tejp tad graźej pałajdojusys kuna mełzdamos uź dusze ano,
+               wysy koźnas ing namus sawa pagrinźa. O nors girtuklej ir rugoje, jog oriełkas ant to
+               pagraba nebuwa; bet Diewas czion niejokiu grieku neuźrustintas, pewnaj prijeme małdas
+               wierniuju ir iszlusawa dusze nabaszninka noug muku cziszcziaus.</p>
+            <p>Martins su seniuku ir Krystina susieda ing weźyma katrame kuna atweźe, o wajkaj
+               piesty skubynos namol. Kada pora warstu noug miesta nuwaźiawa, iszgyrda ir pamate
+               pułka szaukencziu ir dajniuojencziu źmoniu priesz atwaźiuojenty. Wieny rajty joje,
+               kyty waźiuoty waźiawa, o kada prisyartyna, tad seniuks kepure nutraukys ir gałwa
+               nulenkys tare: Teguł bus pagarbintas Jezus Chrystus, ale nie wienas nieka neatsake;
+               nes matity jog wysu kaktas apkajtuses buwa. Wieny ant arkle kajp be dwases łieke,
+               kytas weźyme siediedamas oźe bałsu rieke, o kytas kajp parszas isztysas gułieje. </p>
+            <p>— Taj musu sodos wesele tarė Martins : wakar prasze ir mane idant ing tou wesele sn
+               mana boba ir wajkajs atejczio, ale kada czepat susiedistiej atsytyka pagrabas, tad
+               aplejdziau wesele nej wajku tinaj nełejdziau, idant padorej musu susieda pałajdoty
+               gałietumem. </p>
+            <p>— O taj geraj ir padarej tare seniuks: źinoma tokeme źmoniu girtu susyrinkyme ir
+               tokioj draugistiej , butumy ir tu ir tawa wajkaj wysokiu błogu źodziu prisykłausiusys
+               ir błogu darbu prisystebiejusys. Ale kajp regiu Martinaj jusu kampe wysy trauk
+               sztiwaj oriełka, nes jej ant pagraba be oriełkas negalete apsyejty, tad ant weseles
+               ko be klausty? </p>
+            <p>— Nu, jau waszec nekrywydik musu tare Martins juokdamos: wienok tejsibe kałbant, pas
+               musu dyde butum sarmata gaspadoriuj, jej ant weseles wysy swetej girty nebutu.</p>
+            <p>— Jau asz matau tare seniuks: nes ir isz to susyrinkyma, kursaj prawaźiawa, niewiena
+               błajwe neatrastumej, bet wysy (kajp saka źemajcziuose) bajoraj buwa.</p>
+            <p>Pernaj meta ejdamas panemonejs prisystebiejau koksaj tinaj weseles łajke iwedymas.
+               Ten atkeławys ing wiena miesteli, ingejau ing karczema dieł pasyilsieima ir atradau
+               gausu susyrinkima. Wysy buwa linksmy, dajniawa, juokies ir tancewoje; o muzykants
+               prie pecziaus kujudamas, czirszkina sawa skrypicze po ko paźynau jog wesele ten isz
+               netolymos sodos buwa atwaźiawuse idant jaunikys su mergajty par prijemyma S.
+               Sakramenta moteristes, wienas antram wiernaste, malone ir wieźliwaste priźadiedamys,
+               prisiga taj patwyrtintum; ir Baźniczes S. par kunega klebona, blagasławenstwa
+               atimtum. Asz prisyartynau prie wiena apisene swota, kursaj rodies man but
+               gaspadoriumy swodbos, o paswejkynys ir źemajtyszku taboku paczestawois paklausiau: ar
+               jau po szluba jaunikajtej ? „Ne, atsake swotas; ale tujaus baudemos ejty ing
+               Baźnicze, o jej tury ukwata gałiesy ir wa szec musu draugistiej buty.” Padiekawojau
+               uź gera szyrde swotuj, wienok tołynaus noug tos draugistes, ir kampe tiktaj
+               siediedamas stebiejaus tam susyrinkymuj girtuoklu; nes ar ingtykiesy Martinaj jog
+               toke iwedyma dar buwau nematys!</p>
+            <p>Kada isz Baźniczes po szluba pagrinźa, tad gaspadyne tun namu Pone Ejzykiene sutyka
+               jaunikius tarpduriej ir padawe ant toriełkas duona, druska ir oriełkas pleczkike.
+               Jaunikej prijeme łoskawaj tus monus, kajpo koke błagasławenstwa noug źidełkas, ir
+               tujaus jaunoje ipatej isztraukuse isz po paźasties plonos drobes stumeny, Ejzykienej
+               źemaj kłoniodamos atydawe ; o kajp sutrauke muzykans sawa skrypicze, tad wysy, ar
+               źidas ar katalykas, ar senas ar jaunas, wysy sustoje ing tanciu.</p>
+            <p>Kada jau saule uźsyłejda, tad pony swocze apdenge stała su bałta skoterty ir apkrowe
+               mejsomys, peczenkomys, surejs ir piragajs; liepe ejzykienej keleta butełku oriełkas
+               pastatity ir pora gorcziu ałaus. Suprasze cieła swodba ant pietu. Prasze ten ir mane,
+               bet asz matidamas anu wysu apkajtuses kaktas, nenoriejau terpo anu majszitis.</p>
+            <p>Po pietu dar wałanda ir szejp ir tejp; bet kajp wysy iszuta, tad berniuokaj
+               isydariusys, o kyty be kelniu nawet; mergajtes ipatej pusplykes, drała par wysa nakty
+               kazoka szokty! O kokiu ten žodziu, kałbu ir błogu buwa darbu, tad ir apsakity negał. </p>
+            <p>Asz nenoriedamas tos begiedingos źemyszkos pekłos nej akymys mana regiety,
+               iszsynieszynau ing stadała idant spakajne dieł pailse atrasty wieta. Uźkłausiau wiena
+               swota: ar wysada tejp tame kampe atsyprowynieja swodbas? Atsake man jog „ noug
+               senowes pas musu toksaj iwedymas jog pyrmuj nakte rejk kanecznej ciełaj swodbaj
+               karczemoj nakwoty; o nors wienas kunegas tankej Baźniczioi uź taj bardawa ir ing
+               turmely tankej swotus parwedys isz karczemos suswadindawa, wienok nieka nedarody.
+               Kajp tiktaj ansaj iszwaźiawa isz musu parakwyjes, tujaus tas iwedymas wieł
+               atsynauina.” Ant gała neźynau kajp ten buwa; nes parnakwois ir pasyilsieis iszejau
+               ing tolesny kelone; wienok nebenorieczio regiety tun wysu anu apsyeimu, nes gał
+               dasymyslity jog ir namuosy sawa tokiu pat spasabu oriełkas prisyryjusys kajp pabłudy
+               nej patys neźynos kou darą. O pas jusu Martinaj ar dedase tokes pałejstuwistes
+               weseles łajke ? </p>
+            <p>— O! ne, atsake Martins: pas musu karczemosy ne nakwo weselninkaj; namuose wienok
+               daug zbytku atsyranda, źynoma kajp ant weseles, kad dar tos oriełkas maźiaus te
+               gertum, tad rasy ir wieźliwaj elgtumes, ale pas musu taj ne wesele jej wysy girty
+               nebutum. </p>
+            <p>— O! Nekuriose źemajcziu parakwyjose tare seniuks: łabaj dyde atmajna! Ten
+               weselninkaj atwaźiuoje anksti, ten jaunikej iszkłausiusys Mysziu S. atbuwusys
+               spawiednes ir prijemusys SS. Sakramenta, ejna prie szluba; o padariusys prisiga
+               priesz Diewa ir błagasławenstwa noug Baźniczes S. atiemusys; ejna ing szpitole, duoda
+               ubagams ałuźna ir patys sniedone atłajka; ant gała waźioje namol be szaukimu ir
+               klikimu. Namuose tejpogy pasysilyjusys ir skane ałaus atsygierusys, parłajd tou
+               wakara ant dajniawyma ir szokynieima ale padorej ir priderantej. Zodziu sakant isz
+               tokios weseles ir Diewuj garbie ir źmoniems dziauksmas. O kou Martinaj! ar gal
+               tykietis giara pagiwenyma tun jaunikiu, kurie czion pro musu szale prawaźiawa, kada
+               ant anu swodbos wysy kajp macziau gyrty?</p>
+            <p>— Nu, Diewas źina tare Martins, jej Diewas padies, gał ir geraj terpo sawies
+               giweuty.</p>
+            <p>— Kajp taj tare seniuks: kajp gał Diewas aniems błagasłowity, kada ten Diewa niera?
+               kada ant anu weseles wysy welnej matidamys anu griekus isz dziauksma tancewoje.
+               Norent błagasławensta Diewa igity, rejk szluba łajke uźpraszity źmones tykraj Diewa
+               milenczius ant swodbos, o ne girtuklus ir kokius pałajdunus, idant Diewas niejoke
+               grieka swodbos łajke neregietum. Ir tu tad Martinaj buk gudrus kada tawa Maryke uź
+               wira iszłejsy, arba sunu apźanisy. Ziurek idant ant swodbas daugesnej butum cnatu ir
+               geru darbu, nekajpo grieku; ojej pamatitumej koky nors pałejstuwy źmogu arba girta,
+               tuojaus iszwarik ir atskyrk isz draugistes swodbos, idant kajpo awys nusususy, kytas
+               suskiu neapłajstum, ir prakejkyma Diewa ant jaunikiu neuźtrauktum. Jej sziuose
+               cziesuse daugel matome ant swieta neszcziesliwu moteriszcziu, jej duodase regiety ir
+               girdiety tejp daugel stone moteristes neapikantas, barniu, nezgadu, ir kejksmu; tad
+               uźpewna ne isz kytos paejna pryczynas, kajp tiktaj jog jaunikej priimdamys tou stona,
+               neprasze Pona Diewa apszwityma prota ir apjowyima sawa S. wales, nekłausies rodas
+               sawa spawiedninku, eje ing tou stona dieł doczesnu dajktu, arba dieł kunyszku
+               razkaźiu.</p>
+            <p>— At, tare Martins: asz źmogus praszcziokas nedaug kou iszmanau, tikwin źynau kajp
+               sake man kunegs klebonas, kada żanijaus, kou ir patsaj datiriau: jog nej bagotistes,
+               nej turtaj , nej kunyszky razkaźej nepadaris szcziesliwa moteriste bet zgada, wienibe
+               ir błagasławenstwa Diewa. </p>
+            <p>— Tejp ira tare seniuks: o asz ir pasenau ir dar atmenu kou man kunegas klebonas uź
+               tryju nedielu pyrm szluba pasake: taj ira: tus trys dajktus: Pyrma: Uźsystanawity ir
+               paźinty wale Diewa, ar esmiu ing tou stona paszauktas ir paskyrtas? Antra: Idant jej
+               noriu tame stone szcziesliwaj bajkty dienas sawa, priimczio tou stona szwentabliwaj,
+               taj ira: idant cziesu szluba ir swodbos nebutum girtibes namuose mana, ir kytu
+               pałejstuwiszcziu. Trecze: Idant buczio stone łoskas Pona Diewa, taj ira: idant
+               sumnene nebutum niejokiu grieku smertełnu sumozota. </p>
+            <p>— Ale jau waszec, tare Martins; tejp rokui, kajp isz knigos skajtaj, o kłausidamos
+               waszecis, nej justy nepajutome, szyt jau ir soda atwaźiawome. </p>
+            <p>Kada pagrinźa namol ir pietus pa walge, tad seniuks padiekawois uź czesne pasake: jog
+               jau cziesas tolesnej kelauty; nes jau koje ano iszgyje ir par ketures dienas atylse,
+               pagausyna siłas sawa.</p>
+            <p>Ant tun źodziu, wysy smutny atsyrada. Pawiesziek dar pas mumys tare Martins, mes tau
+               duonas negajlemos, kajp tiewa mes tawe szynawosma ir kłausisma tawa geru moksłu ir
+               darisma tejp, kajp tu liepsy idant ir Diewuj ir źmoniems patyktumem.</p>
+            <p>— Pasylyk pas mumys atsylipe Krystina.</p>
+            <p>— O! pasylyk pasylyk tare wysy wajkaj aszaras braukidamy.</p>
+            <p>Ale seniuks atsake: ir asz turiu namus ir wajkus, małonu ir man mana gimtuwes, mana
+               tiewyszke ir mana stogelis, po kurio uźgymiau. Juns czionaj giwenkete kur jus Diewas
+               pastate ir darikete tejp, kajp Diewas prisake.— Diekawosiu Diewuj jog man dałejda
+               paźinty tejp cnatliwus ir Diewa milenczius źmones; o nors dabar rejk man su jumys
+               parsyskyrty, wienok mysloi mana ir szyrdiei su jumys wysados giwensiu, ir wysumet
+               melsius uź jus prie Diewa, idant jums duotum gera giwenyma ir wysokiose geribiese
+               tejp dwasyszkose, kajp ir kunyszkose padaugintum. Gał buty jog neuźyłga wieł pas
+               jumys sugrinsziu, nes ne be pryczynas sakoma ira: jog „kałnas su kałnu nesusyejna, o
+               źmogus su źmogumy wysumet gal susyejty.” Szcziesliwa tad regieima, teguł jums Diewas
+               duoda wysoke łajme. Teguł bus pagarbintas Jezus Chrystus.</p>
+            <p>— Ant amźiu amźynuju. Amen, atsake wysy. </p>
+            <p>Seniuks tad szwenstu wandeniu pasykrapyis ir parsyźegnois, iszeje.</p>
+            <p>Ejdamas ant kałna apsystoje, ranka prie kaktas pridieis paźwelge ing tou puse kur
+               namaj Martina, atsyduksieje, parźegnoje, ir szarpejs źinksnejs nueje. O Martins ir
+               ano wysy namyszkej, łauk pawasare kajp gerwe gidros, turiedamys wylty, jog seniuks
+               dar pas anu sugrinsz, ilgesnej pawieszies ir wieł daug geru moksłu ir pasaku aniems
+               pasakis.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

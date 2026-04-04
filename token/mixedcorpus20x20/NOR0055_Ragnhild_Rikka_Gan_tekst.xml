@@ -1,0 +1,4191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="NOR0055" xml:lang="nb">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rikka Gan ELTeC-utgaven
+    </title>
+    <author ref="viaf:59886290 https://www.wikidata.org/wiki/Q2338861">Jølsen, Ragnhild  (1875-1908)</author>
+    <respStmt>
+     <resp>
+      ELTeC encoding
+     </resp>
+     <name>
+      Michael Preminger
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     27623
+    </measure>
+    <measure unit="pages">
+     0
+    </measure>
+   </extent>
+   <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
+</publicationStmt>
+   <sourceDesc><bibl type="digitalSource">
+     <ref target="https://www.bokselskap.no/boker/rikkagan/tittelside">
+      Utgaven er basert på Rikka Gan i bind I av Samlede skrifter fra 1923 (NB digital)
+     </ref>
+     <title>
+       bokselskap.no Ragnhild Jølsen: Rikka Gan
+     </title>
+    </bibl><bibl type="firstEdition">
+      <ref target="https://www.nb.no/items/91d15265c8c1316c3becce0bf669ba83">
+        NB Bokhylla
+      </ref>
+       <author>
+        R. Jølsen
+       </author>
+       <title>
+        Rikka Gan
+       </title>
+       <pubPlace>
+        Kristiania
+       </pubPlace>
+       <publisher>
+        H. Aschehaug &amp; Co. (W. Nygaard)
+       </publisher>
+       <date>
+        1904
+       </date>
+       <idno type="wiki">
+        None
+       </idno>
+      </bibl></sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p n="eltec-0"/>
+  </encodingDesc>
+  <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+   <langUsage>
+    <language ident="nb" usage="100"/>
+   </langUsage>
+   <textDesc>
+    <e:authorGender key="F"/>
+    <e:size key="short"/>
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+    <e:timeSlot key="T4"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change><change when="2020-11-15">Checked by checkup
+                script</change><change when="2020-11-13">ran oldCheckUp to update</change>
+   <change when="0001-01-01"/>
+  </revisionDesc>
+ </teiHeader>
+ <text type="novel" xml:id="BS_Jolsen_Ragnhild_Rikka_Gan_xml_text">
+ 
+  <!-- <p>
+    bokselskap.no 2012
+    Ragnhild Jølsen:
+    Rikka Gan
+    Teksten er
+basert på xml-fil mottatt fra Universitetet i Oslo/dokpro.uio.no.
+Dokpros tekst er hentet fra:
+    Samlede
+Skrifter
+    . Aschehoug, Oslo, 1909.
+    Teksten er lastet ned
+gratis fra
+    
+   </p>
+   <p>
+    Ragnhild Jølsen
+   </p>
+   <p>
+    Rikka Gan
+   </p>
+   <p>
+    1904
+   </p>-->
+ 
+    <front><div type="liminal">
+   
+     
+    <head>
+     
+     INDLEDNING.
+    </head>
+   
+   <p>
+    Sorte laa Gan Gaards Huse med sit søvnige Ekko, og Trærødderne skalv
+nede i Haven.
+   </p>
+   <p>
+    Sol kom gnistrende ved Sommertid, klar og stærk som bare Sommersol
+kan gnistre. Magted ikke gnistre i noget paa Gan: Ikke i en Tagsten på
+Mønet. Ikke i en enslig Rude. – Det turde da tjene som en Lignelse
+dette, hvordan Gan Gaard ved Sjøen nu ikke længer hørte Dagen til, –
+slig den lukked sig sammen, tæt og tvær, og sov i sin faldne
+Storhed.
+   </p>
+   <p>
+    Men naar Mørket kom sivende op af Vandet og ud af Skogen – naar
+Maanen kom glidende ildrød over Sjøen – naar Skyggerne leired seg sorte
+og dybe – da var det, at Gan Gaards Huse vaagned og vokste. Og der blev
+en Mummel af Historier og Minder, en Sus og en Hvisk som af Mennesker,
+der havde levet.
+   </p>
+   <p>
+    Og Sagn, der gnistred i Mørket.
+   </p>
+   <p>
+    – – –
+   </p>
+   <p>
+    Paa Loftet paa Gan stod et Kobberkar. Engang havde det skinnet
+udenfor en Kirkes Port.
+   </p>
+   <p>
+    I et Vægskab paa Gan stod et Bæger af Ler. Og af det Bæger turde
+ingen drikke.
+   </p>
+   <p>
+    Paa en Hylde paa Gan laa en Bøile af Jern. Med den havde en Frue
+fæstet sine Folk til Væggen.
+   </p>
+   <p>
+    Fru Brynhilda var hun kaldt, denne mægtige Frue. – Fra hendes Tid
+skrev det sig kanske det underlige Bæger af Ler, det med de kronragede
+Munke i Bøn. De, der i Lys af en svindende Dag blev til Kvinder paa Rad
+i en Galge, mens Galgen dannedes af Bægerets Rand, hvorpaa de ulæselige
+Zifre stod ridset. – Og fra hendes Tid skrev det sig kanske det irrede
+Kar af Kobber, det, der var smedet af en Rømling fra Sverige – han, som
+var ung og deilig med slanke Hænder og brændende Øine – og blaat Blod
+under den sodede Hud.
+   </p>
+   <p>
+    – Men det være nu, som det vilde, med Karret og Bægeret – ett sagdes
+for visst: At fra Fru Brynhilda skrev sig selve Gan Gaard ved Sjøen.
+   </p>
+   <p>
+    For det var hun, som havde bygget den med dens mange Vinduer og
+hemmelige Gang, med dens Piber paa Taget og Stentrappe foran Porten. Og
+det var hun, som havde anlagt dens store Have. Og pleiet og stelt om den
+Aar efter Aar, alt imedens hun holdt sin egen Rettergang og ikke saa
+nogen Overmand paa Jord, – alt imedens Haaret graanedes, og hun dreves
+den store Overmand imøde – ham, for hvem Menneskekraft er som et
+hvirvlende Løv.
+   </p>
+   <p>
+    – Men Fru Brynhildas Døtre havde en Ulykke rammet. Og de havde
+maattet rømme fra Modergaarden – ind i Skogene – bort i Fjeldene – faa
+vidste hvor – før der vokste op en Slægt udi Bygden, en, med stærke
+Kvinder og svage Mænd, en, hvis Arv fra Mor til Datter var Hemmeligheder
+fra Gan og et stolt og stridigt Sind.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Imedens havde Trærne trivedes i Gan Gaards Have. Der var blevet røde
+Æbler og gule Plommer og brede, vellugtende Linde. – Men da Gaarden kom
+i Bondehænder, blev Lindene fældet, og op af de saftige Stubber skjød
+tykke Skud, mens de gode Frugttrær, berøvet sit Ly, langsomt døde ud, et
+efter et.
+   </p>
+   <p>
+    Og Tid forløb, og Sol og Blæst tørred Saften i de afkuttede
+Lindestammer. Da sygned ogsaa de tykke Skud. Blev staaende og sprike,
+uragtigt døde, som jordfundne Trær med Rødderne op.
+   </p>
+   <p>
+    Paa denne Tid var det, at rige Mattias Agas Opkjøber kom og
+tilhandled sig Gan Gaard ved Sjøen, og dens Mølle og Skog og dens
+privilegerede Sag, – rige Mattias Aga, som var nødt til at have en
+Bestyrer paa sit Gan.
+   </p>
+   <p>
+    Og denne Bestyrer blev Jon Torsen.
+   </p>
+    </div></front>
+  <body> <div type="group">
+    <head>
+     
+      I.
+     
+    </head>
+    <p/>
+   <div type="chapter">
+    <head>
+     I.
+    </head>
+    <p>
+     Det kan vel være omtrent hundred Aar siden nu, at Jon Torsen leved
+  – skral og uduelig som alle Brynhilda-Slægtens Mænd.
+    </p>
+    <p>
+     Jon Torsen var gift med sin Mosters Datter, en lang, mager og
+  viljefast Kvinde, som fødte ham mange Børn, ja, fler end ønskeligt
+  var.
+    </p>
+    <p>
+     Og Jon Torsen havde en Søster.
+    </p>
+    <p>
+     – Naar Folk høilydt forundred sig over, hvordan i Alverden Jon
+  Torsen havde bekommet den Post paa Gan, vidste altid nogen at berette
+  om to Kvinder, en mørk og en lys, som havde reist den lange Vei til
+  nærmeste By og talt hans Sag hos selve store Mattias Aga. «Hvad sagde
+  saa Aga?» hed det ofte ondskabsfuldt. «Trodde han kanske, to
+  Tiggersker var sluppet ind til ham?» – Aanei – skulde tro – de ligner
+  ikke Tiggersker heller – med
+     det
+     Blikket og
+     den
+     Maaden at snakke
+  paa! Ja, Madamen havde vel ladt mer tilbageholden og beskeden hun da.
+  Men Jomfru Rikka – Kors i Krøgels! – hun havde sagtens kneiset som en
+  Stashest, saa den svære Haarknuden hendes dukked langt ned i
+  Nakken.
+    </p>
+    <p>
+     «Jeg vilde gjerne ha det slig, Hr. Aga!» havde hun sagt tilslut med
+  sin noget haarde Stemme. Men saa havde hun ogsaa smilt og blottet de
+  store, hvide Tænder:
+    </p>
+    <p>
+     «Hr. Aga kan jo ialfald forsøge.»
+    </p>
+    <p>
+     Og hvordan det var eller ikke, saa havde sandelig Brasken, Hr. Aga,
+  reist sig op, og ligesom smilende, halvt kavalermæssig svaret:
+    </p>
+    <p>
+     «Ja ja ja – naar det er som Damerne bemelder, kan jeg jo takke min
+  Gud ved at faa den Jon Torsen til Fuldmægtig.»
+    </p>
+    <p>
+     «Men hvordan i Alverden kan saa den Jon Torsen holde sig der paa
+  Gan?» lød kanske Spørgsmaalet videre. «Forkjøler han sig ikke nærsagt
+  af et Fluevift forbi Næsen, – og har han rede paa nærsagt
+  nogetsomhelst?» – Aa aa, – kunde saa Svaret lyde, – det gik nok.
+  Kvinderne styrte til Hverdags. Og til Søndags, naar Aga var der, da
+  skikked de Jon Torsen ivei med Strikketørklæder under Trøien. –
+  Ulykkelig var Jon Torsen, Stakkar, han dulled foroverbøiet afsted med
+  Haanden om sin skjæggepjuskede Hage. «Aak, aak,» sagde han. «Ja, ja.
+  Der er mangen en Brøit i Bjerget.» Og det var nok ofte maadelige Svar,
+  de Aga fik paa sine utallige: «Hvordan er det med det, Torsen? – Og
+  med det? – Og med det?» – Men gik gjorde det alligevel – ja saamænd! –
+  For naar de kom tilbage, Mattias Aga og hans Fuldmægtig, da dufted der
+  Steg paa Bordet og Rosenrøgelse paa Ovnen, – og ikke havde Aga været
+  den Mand, han saa ud til, havde han ikke da velbehagelig leet indi sin
+  store Knebel:
+    </p>
+    <p>
+     «Jo, jeg takker, nu er det blit hyggeligt paa mit Gan.» – Og mens
+  Fernanda Torsen sad hos ham under Maaltidet og passed hans Tallerken
+  med Nyrestykker og Fedt, hørte undertiden de, som gik i Dørene,
+  hvorledes hun belagde sine Ord:
+    </p>
+    <p>
+     «Min Mand sidder inde i sit Kammer og tænker,» sagde hun. «Han
+  tænker saa meget for at faa udført alt paa det bedste. Han er en
+  trofast Hund, er han, som gjerne gav sit Liv for Hr. Aga. – Saa sagde
+  han forresten, Provsten i Moskog: «Jon Torsen har bare
+     en
+     Feil,» sagde han – «det er, at
+  han er noget forknyt af sig. Og ofte er det, som om Ordenes rette
+  Betydning blir siddende ham i Halsen.» Men se, – det siger jeg, Hr.
+  Aga, – om det saa skal tales om Moses, saa havde han heller ikke godt
+  for sin Tunge, – – og hvem tjente vel sin Herre bedre?»
+    </p>
+    <p>
+     – Om nu Aga tænkte noget særdeles ved dette Madamens vel overveiede
+  Snak, eller han kun tænkte paa hendes gode Mad – nok er det: Aga var
+  ingen lei Mand. – «Det er jo bra, Torsen,» sagde han ved Leilighed til
+  denne – «og bedre blir det.» – Nei, nei, – ingen Sag der Kvinderne var
+  listige, og der det kom an – ikke paa Dygtighed, men paa Gunst og
+  Gave.
+    </p>
+    <p>
+     Nu! Det var dog ikke alle, som likte sig paa Gan. Som nu Fru Aga. –
+  En eneste Gang havde hun været der, og da kom hun om Aftenen, men
+  reiste om Morgenen, fordi det havde spøgt for hende om Natten: En hvid
+  Skikkelse var kommet ned Væggen i hendes Værelse og blevet staaende
+  der, indtil den ligesom begyndte at danse op og ned for Fru Agas Øine,
+  – og saa var alt blevet sort for hende.
+    </p>
+    <p>
+     Fernanda Torsen havde smilt saa tvungent den Morgen:
+    </p>
+    <p>
+     «Fru Aga er ikke vant med slige tunge Værkensdyner,» sagde hun.
+  «Næste Gang» – –. Nei nei nei, Fru Aga vilde ikke tilbage til Gan, om
+  saa Dynen tusen Gange blev af silketrukken Edderdun! –– Men hvordan
+  var det nu, og – hvem havde seet det? – Inde i Gangen stod Jomfru
+  Rikka, da Fru Aga kjørte af Gaarden.
+    </p>
+    <p>
+     «Den Gang rak jeg Ærind, Fernanda,» sagde hun og lo saa inderlig
+  godt.
+    </p>
+    <p>
+     – Den Jomfru Rikka, den Jomfru Rikka, hun havde nu alt paa sin egen
+  Maade:
+    </p>
+    <p>
+     «Hvad skulde hun her, den lille, forvænte Fru Aga?» havde hun siden
+  sagt. – «Komme her i blaa Kjole med lange Baand og sætte hele Gan paa
+  Hovedet for sin Skjødehunds Skyld – ordinere uldne Tæpper, varm Melk
+  og Kamferdraaber. – Da tror jeg vel, at Hyldethe skulde være ligesaa
+  godt, svarte jeg og rørte mig ikke af Flekken. Ha! Jeg, Rikka Torsen,
+  vilde ikke opvarte et Menneske i Verden – langt mindre da Fru Agas
+  Silkepudel! Men hun skrev sig det nok bag Øret –– synes se hende, der
+  hun sad i Lænestolen, før Aga kom hjem fra Bruget, og maalte mig over
+  Viften med sine store, nærsynte Øine. – «Kniplingsdukken,» siger
+  Fernanda, «som ikke kan faa Børn engang!8Ja, der sad hun da, vifted
+  sig og myste, og Viften den gnissed som vissent Løv, – og jeg tænkte
+  og tænkte: Dig vil jeg ikke se her mere, tænkte jeg. Hahaha, tænkte
+  jeg rigtig? – Hvad skulde hun her hun, har jeg ogsaa spurgt Hr. Aga,
+  her paa svarte Gan – hun, som gaar i Brokade og Pell – hun, som træder
+  paa Brysselertæpper og har Lugteflasker af Guld? – «Jeg overtalte
+  hende jo til det,» svarte han, «fordi Veiret var smukt som hun selv.
+  Men det kosted mig sagtens et stolt Diadem at faa hende beroliget
+  efter den Turen.» – Haha, jeg skjønner nok, jeg, Hr. Aga – burde jeg
+  ha sagt – du er under Silketøffelen, du. Bare rart, at ikke du, hvis
+  Farfar var norsk Skogbonde, før Handelshuset Aga vokste tilveirs – at
+  ikke du i Længden blir kjed af at slikke Flødegrød med en dansk
+  Baronesse.» – Der sagde Jomfru Rikka saa sandt et Ord, at det blev
+  gjentaget efter hende.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     II.
+    </head>
+    <p>
+     Det var, da der legtes Høg og Due paa Gan. – Kvældsolen stod i
+  Aasskaret mod Vest, og Kvældvinden strøg over Gans Gaardsplads med
+  Duft af Hæg og af blaa Syrin. Og Par for Par hvirvled Duerne ud, blev
+  fanget, blev Høge, blev Duer paany. – Det flagred med Livbaand,
+  Hængekrøller og tynde Florlinons-Kjoler, og Kavalerernes Frakkeskjøder
+  stod under Løbet som de sorte Vinger paa en Bille.
+    </p>
+    <p>
+     «Sidste Par ud – fly ud!» Mattias Aga selv stod i Skjorteærmer
+  foran Rækken.
+    </p>
+    <p>
+     «Rrr ud – ud! A haha – aa, hei – ii – æ,» hærmed Ekkoet i Gans
+  gamle Huse; det klapred som af Træsko, naar Prestens rapfodede Døtre
+  var i Farten, og Herbyjomfruernes Latter sendtes styg og ærtende
+  tilbage.
+    </p>
+    <p>
+     «Sidste Par ud – fly ud!» – Ud, og atter ud, hvirvled Parrene – tog
+  hinanden, blæste Pusten og kom altid de samme tilbage.
+    </p>
+    <p>
+     «Høgen er doven,» begyndte nogen at raabe.
+    </p>
+    <p>
+     «Høgen er mæt!»
+    </p>
+    <p>
+     «Høgen er træt!»
+    </p>
+    <p>
+     «Sidste Par ud,» lød Agas dybe Stemme. Han stod der saa rolig og
+  fortog sig ikke. Vendte blot Hovedet undertiden og holdt Øie
+  nedigjennem Rækken. – Men med ett blev Blikket leende indi
+  Øienkrogene.
+    </p>
+    <p>
+     «Ud, ud – sidste mine Duer!» forandred han.
+    </p>
+    <p>
+     Jomfru Rikka kom farende paa den ene Side – i lange, spænstige
+  Skridt og med løftet Kjole – og paa den anden Side kom den lille
+  Prokurator fra Haug.
+    </p>
+    <p>
+     «Hun forleder mig til at bli ung igjen,» sagde han forundret, – og
+  kom sig ogsaa ganske rapt fremad – som en Yngling paa stive Ben.
+    </p>
+    <p>
+     «Hænderne af Lommen, Hr. Aga!» raabte Jomfru Rikka, hun sprang ret
+  forbi ham, – og Aga stakte med en kort Latter Haanden ud og sprang
+  efter.
+    </p>
+    <p>
+     – At Aga kunde springe! At Rikka Torsen var smidig! – Slig hun lod
+  ham komme indpaa sig, men svinged rundt og lod ham gribe i Luften! –
+  Slig hun sprang imøde, og hid og did, og han aldrig fik Tag i hende! –
+  – Prokuratoren blev staaende fortabt midt ude paa Pladsen og se paa
+  dem. Selskabet raabte og lo, saa Rækken løstes. Og Gan Hovedbygning
+  gav Spektaklet tilbage, dystert, grættent, som en Gyger, der uroes i
+  Søvnen, – mens Rikka Torsen sprang om uden en Lyd af Latter, men
+  Tænderne skinned, fordi hun pusted med aaben Mund.
+    </p>
+    <p>
+     «Der tabte De, Aga,» raabte hun overgivent tilsidst, da Aga stansed
+  og tørred sig med Lommetørklædet over Panden. Mattias Aga suged
+  Læberne til sig:
+    </p>
+    <p>
+     «Naa Jomfru Rikka!» – han sprang uventet ud paany. – Da stak Jomfru
+  Rikka overrumplet i Løbet, ret frem, som skudt af en Bue – uden
+  Afstikkere og Svinger, tvers over Gaardspladsen og videre –.
+    </p>
+    <p>
+     «Stop lidt, I springer for langt!» skreges der efter dem. Men ret
+  frem fór Jomfru Rikka, stadig ret frem – over Markerne med det lange
+  Græs – over et Gjærde, som knak – opover en knudret Skraaning. Aga
+  efter og halende indpaa. En Stund syntes det endog, som løb han
+  jevnsides med hende uden at strække Armen ud. – Men det sidste Glimt
+  af dem saa de øverst paa den solbelyste Bakke. – – Blæsten tog i
+  Jomfru Rikkas røde Kjole, og et Øieblik flagred den op, vildt som et
+  løsrevet Seil.
+    </p>
+    <p>
+     «Rikke, Rikke!» skreg Prokuratoren, og hans Stemme blev tynd og
+  skingrende.
+    </p>
+    <p>
+     «Ikke, ikke,» svarte Gans hemmelighedsfulde Ekko. Og udover Sjøen
+  sendte det de glade Menneskers Larm – Dump i Dump, som Slagene af en
+  sprukken Klokke.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     III.
+    </head>
+    <p>
+     Om Rikka Torsen var smuk? Kanske Rikka Torsen kunde kaldes smuk.
+  Hun havde skjær Hud over retskaarne Træk, og kraftige hvide Hænder.
+  Men hun havde ogsaa fremstaaende, blasse Øine, som stak saa
+  besynderlig af mod det sorte Haar. Og hun var bred over Hofterne og
+  ugratiøs – undtagen naar Sindet kom i Oprør, enten nu af Sorg eller
+  Glæde, da kunde hun faa over sig en udfordrende og selvbevidst Gratie,
+  som stod hun foran et Speil. Vistnok ikke det lille gulrammede, som
+  hang i et Hjørne af hendes Kammer og gav hende skjævt Ansigt, men
+  snarere et af blaaligt skinnende Metal.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     – En Lørdagskvæld Jomfru Rikka gik gjennem Skogen til Morbroderen i
+  Ud, rakte hun Haanden i Veiret og stønned undertiden. Og hun maatte
+  tænke paa saa mangt, Jomfru Rikka, – for at kunne tvinge Tankerne bort
+  fra det hun nødig vilde. – Længe tænkte hun paa Barndommen og det Gan,
+  hun havde lavet af Pinder og Kvist oppi Fjeldet. Hvorledes hun til Sjø
+  havde fyldt Vand i en Skaate, og hvorledes hun havde sanket «Dag og
+  Nat» og legt med dem i Gan Gaards Huse – og de hvide og de gule og de
+  glimrende blaa, hver fik de sit Navn og sin Bestilling; men de
+  vakreste, hun kunde finde, de sorte fløielsbløde med den stærke Stilk,
+  det var Fru Brynhilda og hendes Døtre – yppigmørke, i slæbende
+  Dronningekaaber. Og den slankeste blege, det var Adelsmanden fra
+  Jordhytten. Og paa denne, den lille Jomfru Rikkas «Gan Gaard i
+  Bjerget» levedes et Liv fuldt saa rigt og mangfoldigt som det paa «Gan
+  Gaard ved Sjøen», hvorom Moderen fortalte saa ofte – der Alverdens
+  Herlighed havde havt til Huse. – «Mor,» sagde Barnet undertiden, fyldt
+  af sine brogede Drømme, «tror du, jeg engang vinder noget stort, Mor?»
+  – «Hold frem, som du be gynder,» hørte hun endnu Moderens dybe Stemme,
+  «og min stolte Riketta naar længer end andre.»
+    </p>
+    <p>
+     Men der Rikka Torsen nu gik henover Skogstien uden at mærke,
+  hvordan Kvistene slog hende i Ansigtet, husked hun en halvglemt
+  Hændelse. – Hun saa sig selv springe om med «Dag og Nat» i Haanden
+  uden at finde de vakre, hun ønsked, – og hun saa et gammelt Kvindfolk
+  med Bylt paa Ryggen stanse op ude paa Veien. «Hvad ser du paa, du?»
+  spurgte den lille. Konen rakte Haanden frem, men det var noget leit
+  ved hende, som irriterte Barnet; det gjorde en utaalmodig Bevegelse:
+  «Jeg har ingenting at gi dig.» – «Din stygge Unge!» sagde da den Gamle
+  og greb hende arrig i Armen. – «Vil du vide, hvad jeg saa paa? – Det
+  var det fæle, hvide Ansigtet dit med alt det svarte Haaret om. – Og nu
+  ser jeg mer: At du har et Aarekors over Næseroden. Det betyr, at du er
+  mærket fra Fødselen, du! – Hæ! Heller er jeg mig selv end dig, Styggen
+  – tvi!» – – Undertiden havde Rikka Torsen som Barn gjenkaldt sig
+  Fantekjærringens Ord, naar noget gik hende imod, og nu – en hel
+  Aarrække efter – var de atter kommet til at lyde for hende – – just
+  fordi hun med en halv Frygt for Fremtiden gik og roded sig tilbage i
+  Fortiden. Som om ikke Fortiden ogsaa havde sine Skygger? – – I
+  Femtenaarsalderen havde Rikka Torsen mistet sin Far, og Kaptein
+  Torsens Enke maatte flytte fra Chefsgaarden og leve af en tarvelig
+  Pension nede i Bygden. – Saa havde Moderen fundet paa, at de skulde
+  reise fra Moskog til Ud. – Der var bedre Mennesker og friskere Luft,
+  sagde hun, – og der laa den gode Smaagaard oppi Aasen, hvorfra hun i
+  Ungdommen havde seet den lille Løitnant Torsen komme ridende. – – Og
+  der i Ud var de da blevet boende, Kaptein Torsens Enke og hendes tre
+  Børn, og havde slaaet sig kummerlig igjennem. Menneskene der var netop
+  ikke bedre, og Luften der netop ikke friskere. Et Stykke borte saa de
+  et mismodigt Skimt af Sjøen og tvers bagenfor Lerbakken det sorte Tag
+  af Gan. – Det var en maadelig Lykke, da Gyrilda blev gift med en
+  Garver i Staden; men Moderen fik Tilhold der, da hun gjennem Aarene
+  havde pantsat sin Pension. Og en fattigslig Lykke blev det, da
+  Broderen giftedes med Kusinen fra Moskog, – og de, efter at have
+  opbrugt hendes beskedne Arv, ikke havde mer tilbage end Aarerne bagpaa
+  sine Hænder. Jomfru Rikka var dog den, der fandt Udvei, da Nøden
+  grinte for Døren, – og hun var det, som havde ment, at skulde noget
+  give Lykke paa Jord, saa maatte det være Gan ved Sjøen.
+    </p>
+    <p>
+     Jomfru Rikka gik og slog utaalmodig i Træstammerne, til hun fik se
+  Taarnet af Kirken i Ud. Og som hun saa, at Taarngluggerne lukkedes,
+  skyndte hun sig frem og kom ind ad Kirkegaardsporten, just som den
+  gamle Klokkeringer holdt paa at laase Kirkedøren.
+    </p>
+    <p>
+     «Naa naa, er det dig, Jomfru Rikka,» mum led han monotont, da hun
+  lagde Haanden paa hans Arm. «Nei nei, du glemte ikke gamle Morbror
+  denne Lørdagskvælden heller. Herren signe den glade Giver – hvad for
+  Godter har du idag da Rikkamor?»
+    </p>
+    <p>
+     Den Gamle satte sig paa en Grav og begyndte med sine store,
+  rystende Hænder at løse Knyttet op.
+    </p>
+    <p>
+     «Jeg har ringet med Mellemklokken ikvæld, Jomfru Rikka,» sagde han.
+  «Jeg liker den bedst, for den uror dem mindst. – Ser du, Jomfru
+  Rikka,» fortalte han hende som saa mangen Gang før – «det var jo
+  Storklokken, som tog Hørselen fra mig; saa det ved jeg nok, at den er
+  som selve Guds Ord til at sige: Annammer du mig ikke, skal du dø. Men
+  for de Døde hernede kan alligevel ingenting forandres – ligeoverfor
+  dem nytter ikke Magtsprog! Derfor ringer jeg heller med den anden, den
+  siger saa jevnt og ligetil: Imorgen er det Helg. Imorgen er det Helg.
+  – Det er baade for levende og døde. Laa jeg selv dernede, vilde jeg
+  synes om at høre det, jeg vilde tænke mig Kirken her oppe med
+  Solnedgangen bagom. – Men skal der tales om Freden, Jomfru Rikka, – da
+  er det for den Sags Skyld nok, naar jeg ringer med min mindste Klokke
+  – du ved den gamle af Messing, Jomfru Rikka, – som har saa fin en
+  Klang, kan jeg huske. Jo jo, se
+     den
+     er nok til at bringe vildfarende tilbage og gi Tanken Ro, – ja, om det
+  saa er Misdæderne derudenfor Muren. – – – Engang jeg gik her ved
+  Kvældstid, hørte jeg dem aande og ynke sig under Jorden. – Giv os af
+  din Fred, du gamle Klokkeringer, var det, som de bad. – Min Fred er
+  fra Gud, sagde jeg. Men hvad jeg kan give jer, skal I faa. – – Og saa
+  klemted jeg saa smaat paa min mindste Klokke. Og straks blev her stilt
+  i Haven. –– Gaar du alt, Jomfru Rikka? Farvel, Farvel – og tak for du
+  var her og ikke glemte en gammel Slægtning, fordi han i 30 Aar ikke
+  har duet til andet end at være Klokkeringer i Ud.»
+    </p>
+    <p>
+     Den gamle Mand blev siddende igjen paa Graven, holdende sin Kasket
+  som Tallerken mellem Knærne. Blæsten rusked i de graa Totter paa hans
+  Hoved og svinged med Græsstraaene paa Gravene. Blæsten sang saa
+  enstonig i Orgelet inde i Kirken. Og langt bagom det hvide Taarn gik
+  Solen ned.
+    </p>
+    <p>
+     «Gid jeg var dig, Morbror,» sagde Rikka Torsen ved sig selv – «der
+  du sidder med dine Hornbriller paa, gammel, ensom og døv, i din egen
+  Verden og i din stærke Tro paa Gud og dine Klokker.»
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     – Denne Lørdagsaften var det, at Rikka Torsen paa Hjemveien fra
+  Klokkedrageren i Ud, slig hun gik i sine mangehaande Tanker, traadte
+  af fra Stien, – og da hun saa sig om, vidste hun ikke bedre end at
+  blive gaaende paa maafaa bortover.
+    </p>
+    <p>
+     Og Sulten kom. Og Mørket. – Og snart blev det uroligt mellem
+  Trærne.
+    </p>
+    <p>
+     Rikka Torsen var dog hverken bedrøvet eller ræd ved ikke at finde
+  frem; fordi det i denne Nat lidt efter lidt – saaledes som det imellem
+  kan hænde Menneskene – med en hel visionær Klarhed var gaaet op for
+  hende, at hvad hun saa gjorde, blev dog Livet værdiløst for hende
+  selv.
+    </p>
+    <p>
+     Og Jomfru Rikka gik og gik. – Hvst! – der hvæste en Ugle. Og der
+  flaksed det af Vinger. – Der var underlige Fugle i Skogen, – syntes
+  hun stundom – var det ikke, som skimted hun Trærne tvers gjennem dem?
+  Og der var rare, smaa Væsener og saa fæle Forverdenens Dyr, at det gav
+  et Sætt i hende; men altid forvandled de sig til Tørtrær og
+  Stubber.
+    </p>
+    <p>
+     Og hun begyndte at gaa i en Halvdøs. – Og tilslut blev hun saa
+  træt, at Knærne skalv, og hun tydde ind i en Tykning. Da kom hun ind i
+  noget med Vægge og Tag – ikke vidste hun, enten det var Dyrehi eller
+  Menneskebo; men som Øienlaagene faldt i, dæmred noget for hende om den
+  svenske Rømling.
+    </p>
+    <p>
+     Da syntes hun, hun lagde sig paa grøn Mose imellem Trærne. «Om Udyr
+  dræber Rikka Torsen,» sagde hun, «da gjør det lidet. Rikka Torsen er
+  falden.»
+    </p>
+    <p>
+     «Elsked du ham, Rikka?» hvisked nogen fra Skogen.
+    </p>
+    <p>
+     «Nei. Nei.» Og der fór Feberfrost gjennem hende.
+    </p>
+    <p>
+     «Ve over Kvinden, som falder uden Elskov,» hvisked det saa. «Synd
+  følger Synd. Hvad tror du, Rikka Torsen, at «Kvinden uden Kjærlighed»
+  har, naar Rusen er borte?»
+    </p>
+    <p>
+     «Skammen.»
+    </p>
+    <p>
+     «Ja. Og der findes ikke den stakkars Sten, hvortil hun kan støtte
+  sit Hoved. Pine følger Pine, Rikka Torsen, Livet tilende.» – Og Rikka
+  Torsen følte sine Lemmer svide som en Værkbruddens. «Er du Menneske,»
+  hvisked det igjen, lavt som Vinden i Trækronerne – «tag da
+  Mennesketrøsten – er den end skral: Der er fler, som lider, end du. Og
+  en, som har lidt, der du nu ligger.»
+    </p>
+    <p>
+     Langt borte hørte Rikka Torsen en Klokkeklang lyde. Og Vinden gik i
+  Trærne. Og ingen Dyr hylte.
+    </p>
+    <p>
+     Idetsamme kom en ung Mand over Lyngen. Hverken saa han til høire
+  eller venstre; men aldrig havde Jomfru Rikka seet saa herlig en Gang
+  eller saa stolt en Holdning. – Hun fandt intet forunderligt ved, at
+  han gik der, men fornam en Tomhed, fordi han var gaaet forbi. Og hun
+  laa videre – uden Drømme og uden Tanker – og Trærne suste – og Klokken
+  ringte – – da bøied nogen sig over hende. Hun saa op i et blegt Ansigt
+  med vaagdunkle Øine. Hun saa ogsaa, han havde mørke, iturevne Klæder,
+  og Brystet var nøgent. Og der paa det nøgne Bryst var ridset en
+  flyvende Fugl.
+    </p>
+    <p>
+     «Hvem – hvem er du?» spurgte Rikka Torsen.
+    </p>
+    <p>
+     «Vilde Vaa.»
+    </p>
+    <p>
+     Hun grebes af en stor Glæde og rakte Armene ud:
+    </p>
+    <p>
+     «Vilde Vaa. Vilde Vaa. Endelig kom du.»
+    </p>
+    <p>
+     Men den unge Mands Ansigt blev fjernere – blegere – Fuglen og de
+  fillede Klæder – der kom Taage imellem.
+    </p>
+    <p>
+     «Naar Klokkerne ringer for dig næste Gang, Rikka Torsen,» syntes
+  hun, han hvisked. – Hun reiste sig møisommelig og gik ud efter ham. –
+  – – Og Klokkerne kimed – stærkere og nærmere – – nogen snakked med høi
+  Stemme og tog hende i Armen, og – Rikka Torsen vaagned.
+    </p>
+    <p>
+     Hun fandt sig selv liggende inde i Skogtykningen, hvor Solskinnet
+  faldt i Flaker mellem Trærne, – og foran hende stod den gamle
+  Klokkedrager med sin Klokke. Han nikked tilfreds:
+    </p>
+    <p>
+     «Der kom Spurlag efter dig idagmorges, Jomfru Rikka,» sagde han.
+  «Aa, jeg vidste nok, jeg vilde finde dig – – – min mindste Klokke,
+  Jomfru Rikka. Min mindste Klokke.»
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     IV.
+    </head>
+    <p>
+     Den brede Kaross med de massive Hjul holdt for Gan Gaards
+  Stentrappe helt uventet en Kvældstund.
+    </p>
+    <p>
+     Jomfru Rikka hørte en Prusting af Hestene og lav Snak, idet hendes
+  Svigerinde lukked Porten op. Saa hørte hun nogen hænge Tøi af sig ude
+  i Gangen, og Døren til Stasstuen lukkes op og igjen. Og der blev
+  stille en Stund. Bare Lyden af en kort, brysk Latter naadde en eneste
+  Gang ind til hende, delte ligesom Stilheden i to. – Jomfru Rikka likte
+  ikke det hele, slig hun laa der og lytted, og gad nødig gjøre noget
+  for at faa vide, hvad der var paafærde. Kanske tænkte hun ogsaa sit –
+  og fik en Tanke bekræftet, da Svigerinden kom ind:
+    </p>
+    <p>
+     «Riketta,» lød det, halvt stakaandet, «Riketta, du maa staa op. Aga
+  er kommet og vil gjerne snakke med dig.»
+    </p>
+    <p>
+     Jomfru Rikka saa Skimret af sin Svigerindes Ansigt og syntes der
+  stod Ubehag af det. – «Snakke med mig?» sagde hun tvært. «Imorgen ja
+  kan Aga faa snakke med mig.»
+    </p>
+    <p>
+     «Nei, nei,» sagde Fernanda Torsen. – «Aga skal reise for at se paa
+  et Skogstykke i Mo alt imorgen tidlig. – Skynd dig nu, Riketta,» lagde
+  hun raadsnar til – «det er vist om Selims, som endelig vil ha dig i
+  Huset.»
+    </p>
+    <p>
+     «Sagde han det?» spurgte Jomfru Rikka.
+    </p>
+    <p>
+     «Nei, ikke netop. Og jeg fandt det ikke passende at spørge. – – Men
+  du ved jo, Riketta,» kom det overtalende, «Aga ser paa vores alles
+  bedste – saa naar han vil tale med dig – –»
+    </p>
+    <p>
+     Jomfru Rikka snudde sig om paa den anden Side:
+    </p>
+    <p>
+     «Nei, saa sandelig om jeg staar op, Fernanda.»
+    </p>
+    <p>
+     «Er du gal?» hvisked nu Fernanda Torsen forskrækket. «Hvordan tør
+  du fornærme Aga? Gud hjælpe saa dig og os alle.»
+    </p>
+    <p>
+     «Sig, at jeg er syg – sig, at du ikke faar vækket mig – sig, hvad
+  Djævelen du vil. – – – Nei, jeg staar ikke op.» Jomfru Rikka reiste
+  sig halvt og lo mellem sammenbidte Tænder. – – –
+    </p>
+    <p>
+     Saa vidste Fernanda Torsen, der intet Udkomme var, og hun gik
+  langsomt tilbage ud af Døren:
+    </p>
+    <p>
+     «Gud hjælpe dig og os alle.»
+    </p>
+    <p>
+     Men Jomfru Rikka sprang op, idet Døren lukkedes efter hende, og
+  skjøv Slaaen for.
+    </p>
+    <p>
+     Saa blev hun videre liggende der lysvaagen og lytte. Men hun
+  behøved snart ikke at spidse Øren efter lave Lyd. – Der gik det haardt
+  i Stuedøren. «Naar jeg, Mattias Aga, vil snakke med Jomfru Rikka,»
+  hørte hun en ry Stemme, «saa vil jeg, – om jeg saa selv skal vække
+  hende» – – og der greb det i Klinken til Jomfru Rikkas Dør.
+    </p>
+    <p>
+     «Naa saa» – der fulgte en ildevarslende Latter, og – «Godnat
+  Madam!» – Saa tunge Skridt opad Trappen. – – – Og med ett var der
+  stille i Huset. – – – Dødsens stille som foran Storm og Ulykke.
+    </p>
+    <p>
+     Et Øieblik syntes det Jomfru Rikka, som om Skyggerne vokste.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Ved Solopgang holdt atter den brede Kaross foran Gan Gaards
+  Stentrappe.
+    </p>
+    <p>
+     «Kjør med, Torsen,» befalte Mattias Aga. Han bredte et flammet Plæd
+  over sine Knær og læned sig tilbage, som var hele Verden hans, mens
+  Jon Torsen tynd og forhutret krøb op paa Bagsædet. Mattias Aga saa
+  spottende paa sin Fuldmægtig denne Gang:
+    </p>
+    <p>
+     «Aak, aak, Torsen,» sagde han med en Skuldertrækning – «der er
+  mangen en Brøit i Bjerget.»
+    </p>
+    <p>
+     Jon Torsen smilte med sit barnslige Smil: «Det gaar nok, Hr.
+  Aga.»
+    </p>
+    <p>
+     – – Men det gik slet ikke. For ud paa Eftermiddagen kom Jon Torsen
+  tilbage:
+    </p>
+    <p>
+     «Jeg er daarlig, Fernanda,» sagde han. «Aga kjørte videre til Byen
+  og lod mig gaa de tre Mil i Solstegen fra Mo. – – Aak, aak.» – Og Jon
+  Torsen blev liggende tilsengs i en stor Sygdom fra denne Dag.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     V.
+    </head>
+    <p>
+     Lige nedenfor Gans fordums Have ligger en sort Bjergknaus. Den
+  strækker sig tørstig ud i Vandet, og i Maaneskin ligner den et
+  drikkende Dyr. Der findes ligesom et Par Trin der i Fjeldet –
+  vanskeligt at sige om fra Gud eller Mennesker, – til Baadstø benyttes
+  Knausen den Dag idag.
+    </p>
+    <p>
+     – Engang Rikka Torsen stod i sit Vindu, saa hun en Baad lægge til
+  dernede. Hun forstod, det var af dem derover fra Herby, – de, som
+  duved udpaa Sjøen saa om Kvælderne og blæste Fløite og sang. Hun saa
+  Kavalererne byde Hænderne frem, og Damerne trække sine Kjoler sammen i
+  en Knude oppe under Barmen, – og saa hopped de leende iland paa Gan
+  Gaards Grund.
+    </p>
+    <p>
+     «De Mennesker hører Livet til,» tænkte Jomfru Rikka. «Hos dem
+  rinder Blodet lyst og let, og de plages ikke af Mareridt under
+  Søvnen.» Og i en bittersød Kval, hvorved hun selv syntes sig at vokse,
+  der hun stod i Gans Vindu, følte hun sit eget Blod, tykt og tungt –
+  uden lys Latter og uden lys Elskov. – «Nei, jeg vilde ikke bytte med
+  dem,» mumled hun. – «Høit hænger de søde Druer, Jomfru Rikka, og –
+  sure er de,» sagde en Stemme dybt indi hende. Men Rikka Torsen smilte
+  hovmodig:
+    </p>
+    <p>
+     «Ja, udadtil lever de vel et straalende Liv, disse Mennesker. Men
+  indadtil – er de som Høkerboder! – Der stykkes det ud, og
+     der
+     deles det ud saa smaat, saa
+  smaat af alle Sindets Rørelser – af Vemod, af Sorg og af Længsel efter
+  brændende Glæder. – – Har de da Sjæl, disse? – Kanske det ved Døden
+  vil gaa dem som Luftens Børn i Eventyret, at de forvandles til Bobler,
+  som brister. Mens vi andre – – ja, om os strider baade Himmel og
+  Helved!»
+    </p>
+    <p>
+     Rikka Torsen saa de unge Mennesker bryde en blomstrende Kvist af
+  Nypetornen dernede, og idet en af dem holdt den høit fremfor sig i
+  opstrakte Hænder, skred han syngende frem, og Selskabet fulgte
+  syngende efter – to og to – op gjennem Gans træløse Have. – Jomfru
+  Rikka traadte uvillig tilbage ind i Værelset. Hun havde nu faaet en
+  egen Mening om den Slags Byfolk, siden Fru Aga var der, – og en Uvilje
+  for at træffe Mennesker, hvis Blik muligens kunde sige: Hvad er vel
+  du? – Og ærgerlig vrænged Jomfru Rikka Omkvædet efter:
+    </p>
+    <p>
+     «Ingen maa gjøre vor Glæde Mén. Se – vi følger en Rosengren!»
+    </p>
+    <p>
+     – Saa forstod Jomfru Rikka, at de havde stoppet op ikke langt fra
+  hendes eget Vindu, og hun hørte Forsangerens freidige Røst:
+    </p>
+    <p>
+     «Mine Damer og Herrer – se, dette er vor Mattias Agas Residens her
+  ved Sjøen!» – Og mange talte med og lo.
+    </p>
+    <p>
+     «Her er Løndøre i Tapeterne og et Skelet under Jorden,» fortsatte
+  Stemmen.
+    </p>
+    <p>
+     «Her er et Drikkebæger fra Noa, og her gaar Spøgelser i Lyse!» – Og
+  stadig blev der talt og leet, – og hun hørte, de vilde indenfor.
+    </p>
+    <p>
+     «Det skal bli lidet af,» mente Jomfru Rikka, – og hun skyndte sig
+  afsted for at stænge Porten for dem.
+    </p>
+    <p>
+     Men Jomfru Rikka kom ikke tidsnok til at blive useet. Og just som
+  det muntre Selskab satte sine Fødder paa Stentrappen, stod hun midt
+  foran dem. Et Par af de unge Damer vak til idetsamme og tog sig for
+  Brystet – de vidste siden selv ikke hvorfor. Men Forsangeren – Jomfru
+  Rikka drog stadig Kjendsel paa Stemmen –tog atter Ordet:
+    </p>
+    <p>
+     «Disse Damer og Herrer ønsker gjerne at bese Mattias Agas Hus,»
+  sagde han lystig.
+    </p>
+    <p>
+     «Dertil er ikke Anledning,» svarte Rikka Torsen. «For der er Sygdom
+  her.» Og hendes Stemme slog haard og frastødende ned iblandt dem.
+    </p>
+    <p>
+     «Saa faar vi da ikke se,» sagde nogle. «Og her som skal være saa
+  besynderligt.» – Og andre surmuled som Børn. – Men en ung Mand med en
+  forunderlig deilig Mund traadte frem, idet han tog Hatten i
+  Haanden.
+    </p>
+    <p>
+     «Naar her er Sygdom, Jomfru – saa tilgiv, at vi kom.»
+    </p>
+    <p>
+     Jomfru Rikka saa forundret paa den unge Mand.
+    </p>
+    <p>
+     «Kanske I alligevel kan gaa ind,» kom det mildere, «hvis I gaar
+  forsigtig og ikke uror den Syge.»
+    </p>
+    <p>
+     – Og saaledes gik det da til, at Jomfru Rikka trods alt gik foran
+  ind gjennem de mørke Rum. Og de unge Mennesker fulgte saa stille
+  efter, at hun bagenfor sig kun hørte den knitrende Lyd af deres Klæder
+  eller saavidt fornam deres Aande, naar nogen nysgjerrig titted hende
+  over Skulderen. Heller ikke hørte hun Udraab som fra Fru Aga, om hvor
+  skrækkeligt der var. Og derfor viste hun dem endog det gamle Lerbæger
+  og Bøilen og fortalte dem Historien om Kobberkarret, som var hamret af
+  den unge Adelsmand oppi Skogshytten. Hvordan han en Dag gik ned til
+  Bygden med det smukke, røde Kobberkar og falbød det til en Bonde, – og
+  hvordan han saa – vel i Følelse af sin Fornedrelse – kasted det mod
+  Bondens Hoved. Hvordan han alligevel fik gaa urørt bort, fri som en
+  Fugl og rank som en Flamme, baade forbi stærke Næver og en knælende
+  Pige – og ingen saa ham siden. Men hvordan Kobberkarret blev tillagt
+  en Egenskab senerehen – at give Lyd, naar Drabsmænd kom i dets Nærhed
+  – og derfor havde staaet som Angiver en Tid udenfor Kirkeporten i Ud.
+  – – – De unge Damer trak Øienbrynene i Veiret og smilte som Børn, der
+  fortælles Eventyr. – Men da de spurgte efter Løngangen og den
+  hemmelige Dør, smilte Jomfru Rikka og fortalte atter – fortalte jevnt
+  og uden store Ord, om hvorledes hendes Slægts Kvinder var de eneste,
+  der kjendte til dette, og hvorledes de havde fortiet Hemmeligheden
+  saaledes, at endnu vidste ingen anden noget derom. – Efter dette
+  syntes hun at mærke, at de saa paa hende som paa en synderlig Ting, –
+  og hun blev i godt Lune deraf og saa elskværdig, at hun indtog dem for
+  sig.
+    </p>
+    <p>
+     «Bliv med os over, Jomfru Rikka,» sagde de, «og vær hos os en
+  Stund.»
+    </p>
+    <p>
+     Det vilde hun dog ikke – fordi hun husked, hun ingen Kjole havde,
+  som var pen nok. – Men hun gik med dem ned paa Bjergknausen og vifted
+  til dem, indtil deres Lommetørklæder fortoned sig for hende som hvide,
+  bundne Sommerfugle flagrende over Vandet. – Og meget ønsked Jomfru
+  Rikka, at den unge Mand med den skjønne Mund skulde vifte længer end
+  de andre.
+    </p>
+    <p>
+     Det
+     gjorde han dog ikke. Og
+  Jomfru Rikka gik nedslaaet tilbage til Gaarden. – Derudenfor
+  Stentrappen laa deres besungne Rosengren nedtraakket og vissen. Jomfru
+  Rikka tog den op og saa paa den. Saa rysted hun paa Hovedet:
+    </p>
+    <p>
+     «Hvorfor hylded de den først og glemte den siden? Nei, de
+  Mennesker, dem forstod hun alligevel ikke.»
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     VI.
+    </head>
+    <p>
+     Længe havde det staaet for Rikka Torsen som en Underlighed, dette,
+  at rige og elegante Mennesker ikke behøved hverken at være overlegne
+  som Fru Aga eller bryske som Hr. Aga. Men at de istedet lod høflige og
+  uskadelige og fremfor alt: en god Del elskværdigere end Jomfru Rikka
+  selv. Og hun havde en Tid med Venlighed tænkt paa disse Mennesker, som
+  var kommet hende saa kameratslig imøde og ingen Vægt havde lagt paa
+  hendes første afvisende Optræden.
+    </p>
+    <p>
+     Men hvordan det nu er, saa skal der jo lidet til, der Bitterheden
+  ligger paa Lur, – og som Dagene var forløbne, og hun lidt efter lidt
+  havde glemt de lyse Ansigter, husked hun den unge Mand, som ikke havde
+  viftet dengang. Uagtet hun, Rikka Torsen, havde ønsket det som
+  ligeoverfor ingen anden Mand i sit Liv! – Og saa seg da atter
+  Bitterheden frem, naar hun tænkte paa dem, naar hun saa Lyset af de
+  røde Lygter derover – eller hørte Sangen ude paa Vandet. – Aanei –
+  Jomfru Rikka brød sig ikke om at se nogen af dem igjen – mindst af
+  alle den unge Mand med den skjønne Mund. Hvad skulde det være til?
+     Han
+     vilde ikke elske hende, og –
+     hun
+     vilde ikke elske ham. Nei. Nei.
+  – –
+    </p>
+    <p>
+     Og dog: Naar hun sad dernede ved Sjøen, Jomfru Rikka, helst ved
+  Skumringstid, naar Vandet laa sort af Skygge, – da var det netop denne
+  ranke, unge Mand, som paa en Maade spilled med i hendes Drømme. – Saa
+  underligt det lyder – hun saa hans slanke Skikkelse i andre Forhold og
+  i en anden Tid – smelted det blege Ansigt og den skjønne Mund i ett
+  med Drømmesynet i Skogshytten. – Og saaledes kom det for hende en
+  Kvældstund dernede:
+    </p>
+    <p>
+     «De Mennesker derover,» tænkte Rikka Torsen – «javist er de smukke!
+  – Javist er de nydelige! – De er som de nette Smykker i
+  Perlemorsskaalen – de havde heller ikke noget Mærke ved sig af Livsens
+  svimlende Dybder. – – Men se – om de nu blev kastet ud fra sin
+  tilmaalte Vei, disse Mennesker,» tænkte hun videre – «om de maatte
+  drikke af Ydmygelsens og Lidelsens Bæger, da vilde skjænkes dem
+  Lidelsens Sjæl. Og hun trodde nok, der var de af dem, som vilde blive
+  herlige som den unge Adelsmand i Skogshytten. –
+     Ham
+     havde sikkert en ublid
+  Skjæbnehaand stødt ud i Mørket, og
+     han
+     havde maattet drikke af
+  Fornedrelsens Kalk – og derfor var det, at hans Blik blev saa dunkelt
+  og dybt, at det bored sig som en Brand i Hjerterne og bøied i Knæ selv
+  den myrdedes Datter. – Og se – saa mægtig blev han i Kraft af sin
+  Lidelse, at de, som skulde forbande ham, bad for ham til sin Gud, – og
+  de, som skulde dræbe ham, stod som lammet og – turde ikke!» – Og som
+  hun sad der, Rikka Torsen, kom hun til at elske sit Drømmebillede, i
+  den Skikkelse det nu og – hun syntes – altid havde staaet for hende. –
+  Det var saa mangt – tænkte hun – hvem vidste, om der ikke var
+  Mennesker, som hørte sammen, selv om Aarhundreder skilte? – Om der
+  ikke for ethvert Menneske, som ingen Kjærlighed fandt, gaves en
+  «enkelt» enten tilbage eller fremover i Tiden? – Og om saa var, da
+  vidste hun sikkert, hvem hun skulde tilhørt. – – Ja, havde hun levet
+  hin Gang, Rikka Torsen, da havde han sagtens stanset op den unge
+  Adelsmand:
+    </p>
+    <p>
+     «Hvem er den Pige,» vilde han kanske spurgt – «hun med de lyse Øine
+  og det sorte Haar?»
+    </p>
+    <p>
+     «Det er Fru Brynhildas ulykkelige Datter,» kunde Svaret lydt.
+    </p>
+    <p>
+     «Hvem er den unge Mand,» vilde Rikka Torsen spurgt – «han med
+  Gangen, Munden og det blege Ansigt?»
+    </p>
+    <p>
+     «Vilde Vaa.»
+    </p>
+    <p>
+     – Aa, hun saa nok, hvad han var – bedre end andre – saa hans
+  straalende Byrd skinne som Guld gjennem Fattigdommen! – – – Og der var
+  Larm og Latter paa Gan, og Fru Brynhilda sad øverst i sin Have. Og
+  nedover Bakken der roded og planted bøiede Skikkelser i Vaarens vaade
+  Jord. Og Kvældvinden strøg langsmed Sjøen. Og Fru Brynhildas Datter
+  sneg sig smidig henad Jorderne. – Men langt inde i Skogen sad Vilde
+  Vaa foran et af de blanke Kobberkar og ridsed sig i Brystet med en
+  Kniv, tegned de Tanker, som bodde derindenfor – Gribben, som sled
+  baade Dag og Nat. – Og Blodet randt nedad Brystet. – – Men saa trak
+  det sig til et Smil om den deilige Mund:
+    </p>
+    <p>
+     «Er det dig, Brynhildas Datter?»
+    </p>
+    <p>
+     «Det er mig – Vilde Vaa.»
+    </p>
+    <p>
+     – Saa skulde hun siddet hos ham Uveirskvælderne, naar Stormen
+  bruste med Orgeltoner gjennem Skogen, – og de skulde lukket Hyttens
+  Dør. Og Regnveirskvælderne, naar det drypped og rasled graatvaadt af
+  Skogen, og Hubroen brummed borti Bjerget, da vilde han fortalt om det
+  Liv, han havde levet, – fortalt det derinde i den sodede Hytte, med
+  Farver hentet fra Himmel og Hav. Og saa tilsidst vilde den kommet, fra
+  det inderste af ham selv, Fortællingen om, hvordan der under den
+  herligste Skal kunde krybe fæle Orme; – hvordan han, Vilde Vaa, havde
+  seet det og villet rydde Stygheden bort; og hvordan han til Tak blev
+  drevet af Lande som – Forræder mod Konge og Folk.
+    </p>
+    <p>
+     Og hun, Brynhildas Datter, vilde seet sig blind paa de gnistrende
+  Øine. –
+    </p>
+    <p>
+     Men Maaneskinskvælderne vilde de gaaet om nede ved Sjøen og inde i
+  Skogen – der Skogen var dunklest, og de høie Furuer stod som mægtige
+  Tempelsøiler. –
+    </p>
+    <p>
+     Og deres Elskov vilde været rig og mangfoldig som ingen anden
+  Elskov paa Jord. Nok ogsaa, fordi han kunde blive saa ond Vilde Vaa
+  med sit heftige Sind, – og de kunde
+     begge
+     blive saa onde, at den ene
+  næsten ønsked at se den andens Lig. Men saa kom Afbigtens Stund – og
+  Forsoningens – og saa ønsked nok den ene at bære den andens Sorg. Og
+  mest hang hendes Øine ved hans Mund, og hendes Mund ved den store Fugl
+  paa hans Bryst.
+    </p>
+    <p>
+     «Du vilde Vilde Vaa,» kunde saa Rikka Torsen sige og strække Armene
+  ud mod det glinsende Vand – «du, nedifra de dybe Sjøer – du ind ifra
+  de sorte Skoge. Du stolte Vilde Vaa for Alverdens Skjønhed – dig
+  elsker jeg, Vilde Vaa – dig og ingen, ingen anden.»
+    </p>
+    <p>
+     Saa uvirkelige var de, Rikka Torsens Drømme. Og dog saa intensive
+  og stærke. – Og tilslut hented hun ind paa sit Værelse den unge
+  Adelsmands Kobberkar og planted det fuldt af de stærkeste Bregner.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     VII.
+    </head>
+    <p>
+     Der kan siges et Ord, at den der gaar i Drømme, den vaagner til
+  Frost. Og den der vaagner til Frost, den faar det længe ondt.
+    </p>
+    <p>
+     «Du gaar og stirrer saa ud i Veir og Vind,» sagde Fernanda Torsen
+  til sin Svigerinde en Dag. «Du tænker vel paa, at din Bror er syg – at
+  han kanske aldrig mer kommer sig op? Og da tænker du vel paa, hvad vi
+  saa skal gjøre med ham?» – Og i Smug strakte hun Hænderne bag sig og
+  kjærtegned de smaa Børn, som hang i hendes Skjørt. – Jomfru Rikka saa
+  hende stivt ind i Øinene:
+    </p>
+    <p>
+     «Og du tænker vel paa, at Aga er en Skurk?» spurgte hun tilbage.
+  «Og da tænker du vel paa, at du nødig vil styrte din Svigerinde i
+  Elendighed; – fordi du ogsaa selv er den nærmeste til at sørge for din
+  syge Mand og dine Børn?»
+    </p>
+    <p>
+     «Elendighed?» svarte Fernanda Torsen, idet hun greb haardt om
+  Jomfru Rikkas Haandled. «Hvem snakker om Elendighed for dig? Det er jo
+  over os andre Elendigheden kommer – Sult, Sygdom og Skam.»
+    </p>
+    <p>
+     «Sagde du Skam, Fernanda?»
+    </p>
+    <p>
+     «Hvad andet skulde jeg kalde det, du, naar jeg jaged Børnene paa
+  Bygden at tigge Mad? Naar vi knapt havde Tag over Hovedet? – Og du,
+  stolt Jomfru,» tilføied hun langsomt – «vilde du slaa Følge som
+  Bagstekone til Hverdags – som Kokkekone til Høitids – eller vilde du
+  gaa tilbage hid, gjøre Stemmen bedrøvelig og bede: «Godt Veir, Hr. Aga
+  – godt Veir. Nu har det regnet og sneet, saa min Bror ligger for
+  Døden. Godt Veir, Hr. Aga, og De skal aldrig angre det.» – Men Hr.
+  Aga, som da grangivelig tror vide, hvad der bor i den Jomfru Rikka af
+  Machinationer og Trods, han trækker beklagende paa Skulderen bare:
+  «Se, nu har jeg for det første lovet den Post paa Gan til en anden,»
+  siger han. «Og desuden – De forstaar dog, Jomfru, en dødssyg Mand har
+  jeg liden Brug for.» – Men for gammelt Kjendskabs Skyld, fordi du har
+  leflet med ham i Krogene, fordi du har ladt dine vandblaa Øine spille
+  nedover ham, og fordi du har udstillet dit Legeme i stolte og
+  udfordrende Stillinger – se slig! – derfor vil han kanske tage to, tre
+  – hvo ved? – fire, fem Dalere op af sin Skuffe til Afhjælp for den
+  øieblikkelige Nød. Men saa vil ogsaa Hr. Aga, der han sidder saa godt
+  og lunt i sin polstrede Stol, ligegyldig vinke med Haanden mod Døren:
+  «Adjø, Jomfru, Adjø!» – Og saa ved jeg en, som dog altid godt har
+  kunnet like Hr. Agas Hyldest, – fordi han er rig og har Magtens
+  Straalekrans om Hovedet – hahaha – javel! Saa ved jeg en, som vil sige
+  til sig selv: «Jovist var jeg en Tosse, der jeg gik med Skrupler.» Og
+  graate vil du Ydmygelsens og Angerens Taarer, Rikka, ud af disse dine
+  taareløse Øine.» – –
+    </p>
+    <p>
+     Saaledes kunde Fernanda Torsen tale sin Sag for Jomfru Rikka – med
+  mange Haandbevægelser og Efterligninger baade af den ene og den anden,
+  indtil hun syntes at have sagt nok for denne Gang, – og hun lukked
+  Munden braat igjen og hentet sin Rok frem fra Krogen.
+    </p>
+    <p>
+     Saa sad de da videre de to Kvinder i det halvmørke Rum, der
+  Stilheden forstørredes ved Rokkehjulets Snurr. Og ofte forekom det
+  Jomfru Rikka, der hun selv sad med Hænderne i Skjød, at den anden
+  traadte endnu en Rok, og Traaden hun der spandt, spandt hun af Guld,
+  Blod, Ondskab og fine Trevler af Kjød. Og Rokken var Jomfru Rikka.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Saa hændte det ogsaa en Dag, at der til Jon Torsen kom et Brev med
+  Agas Haandskrift. Madam Torsen aabned det, og da Jomfru Rikka saa,
+  hvorledes det faldt paa Gulvet under Læsningen, ante hun nok nogen
+  Modgang.
+    </p>
+    <p>
+     – Jomfru Rikka gik ned til Sjøen og blev siddende der i en Halvdøs
+  Dagen udover. – Men ikke før kom hun ind saa henimod Kvæld, før
+  Svigerinden mødte hende ude i Gangen og bad hende følge med ind i
+  Broderens Værelse.
+    </p>
+    <p>
+     Der slog hende imøde en kvalm og sødlig Lugt af Jod. Og der var en
+  tæt og uluftet Varme derinde.
+    </p>
+    <p>
+     «Han sover jo, Fernanda,» sagde Jomfru Rikka og vilde allerede
+  vende i Døren.
+    </p>
+    <p>
+     «Jeg vil bare vise dig noget,» hvisked den anden. «Og saapas tør
+  jeg vel uleilige dig, Rikka,» kom det med stor Bitterhed, «som at faa
+  dig hen til din Brors Sygeseng. – – Se her – hvad du ikke før har
+  seet.» Hun bretted Skjorten væk og fremviste et stort, aabent Saar paa
+  Jon Torsens Bryst. Saaret var rødt og materiesprængt, og for hvert
+  Aandedrag rørte sig noget bag en Hinde. – Noget saa ondt syntes Jomfru
+  Rikka aldrig at have seet. Og det løb hende i kolde Rislinger nedad
+  Ryggen, indtil hun fik Blikket bort fra Saaret – opimod Broderens
+  Ansigt, som laa saa afbleget og lidelsesfuldt der paa Puden. – Saa saa
+  hun op paa Svigerinden med sine store Øine hvidnende af Rædsel:
+    </p>
+    <p>
+     «Gud!»
+    </p>
+    <p>
+     «Vidste du ikke, han var kjertelsvag?» hvisked Fernanda Torsen.
+  «Det kom til Udbrud, da han forkjølte sig paa Kjøreturen med Aga.» Hun
+  glatted som i Tanker en Fold paa Lagenet:
+    </p>
+    <p>
+     «Han er som en forkjælet Unge nu under Sygdommen – – og saa er det
+     det
+     da, Riketta,» kom det meget
+  langsomt – «at idag fik han Opsigelse fra Aga. – – Men hvad gaar af
+  dig, Rikka?»
+    </p>
+    <p>
+     Jomfru Rikka havde grebet om Sengestolpen og stod der med kridhvidt
+  Ansigt.
+    </p>
+    <p>
+     «Det er bare Luften herinde,» sagde hun. Men Madam Torsen maatte
+  faa hende tilsæde og hente Vand til hende.
+    </p>
+    <p>
+     «Ja, det er ondt altsammen, Riketta,» sagde hun meget venlig. «Men
+  – om nu du snakked med Aga?»
+    </p>
+    <p>
+     Der blev en tung Stilhed. Nogen Fluer surred borti Vinduet, og den
+  Syge ynked sig isøvne.
+    </p>
+    <p>
+     «Jeg
+     skal
+     snakke med ham,» sagde
+  Jomfru Rikka endelig. Og hun blev siddende med begge Hænder for
+  Panden.
+    </p>
+    <p>
+     «Det lader til, du er blit den stærkeste nu, Fernanda,» mumled hun
+  om en Stund.
+    </p>
+    <p>
+     «Det er, fordi jeg har mest at kjæmpe for, det, Svigerinde,» svarte
+  Fernanda Torsen i stille Triumf.
+    </p>
+    <p>
+     «Du
+     har
+     ikke,» modsagde Jomfru
+  Rikka og saa op mellem Hænderne. «Nei, du
+     har
+     ikke, siger jeg,» gjentog hun
+  heftigere.
+    </p>
+    <p>
+     Fernanda Torsen vendte sig bort uden Svar. Men idetsamme trak et
+  Smil over hendes haarde Ansigt. – Udenfor Vinduet legte to bredbyggede
+  Smaapiger med «Kjæmper», og for hver Gang et Blomsterhoved faldt, lo
+  de himmelhøit af Glæde:
+    </p>
+    <p>
+     «Jeg vandt!»
+    </p>
+    <p>
+     «Nei, jeg!»
+    </p>
+    <p>
+     «Nei, jeg!»
+    </p>
+    <p>
+     «Hahaha – aa Gyrilda, vi tabte begge.»
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Der forløb mange Nætter, i hvilke Jomfru Rikka slet ikke fik
+  sove.
+    </p>
+    <p>
+     Som hun laa der i en af disse søvnløse Nætter og tænkte og stirred,
+  vidste hun ikke bedre tilsidst, end at hun stod op og satte sig foran
+  Kobberkarret.
+    </p>
+    <p>
+     «Er du her, Vilde Vaa?» sagde hun. «Aa, jeg ved nok, du er ikke.
+  Men du skjønner da, det er til Livsens Skjønhed, jeg klamrer mig.»
+    </p>
+    <p>
+     Men da hændte der Jomfru Rikka noget forunderligt: – Som Bregnerne
+  bugned udover Karrets Sider, og der sev ifra dem en krydret Lugt i
+  Sommernatten, skimted hun med engang en blaa Liljeblomst, der langsomt
+  gled op ifra Bladene. – Saa slank var den. Og saa vag og deilig som en
+  Himmelskygge. –
+    </p>
+    <p>
+     Jomfru Rikka blev siddende som i en stor og hellig Andagt uden at
+  røre hverken Haand eller Fod – – indtil hun saa den glide bort i
+  Mørket. –
+    </p>
+    <p>
+     Da bøied hun Hovedet i Hænderne, Jomfru Rikka, og sukked. Sukked
+  saa saart og tungt som en anden ung Pige, der kan sørge over sin
+  spildte Lykke paa Jord – ved en Hilsen fra ham, hun elsker.
+    </p>
+   </div></div><div type="group">
+     <head>
+     
+      II.
+     
+    </head>
+  
+   <div type="chapter">
+    <head>
+     I.
+    </head>
+    <p>
+     «Dette Gan – dette Gan – og de, som bodde der – hvem blev vel klog
+  paa dem? – Hvorfor var nu pludselig Tjenestefolkene opsagt? – Alle
+  undtagen Jomfru Rikkas gamle Barnepige. Ja,
+     hun
+     skulde nok røgte de Par Kjør
+  som stod igjen i Fjøset, mens Besætningen forresten med Besvær og
+  Ulempe var sat ud paa Foder. Men hvorfor var da ikke heller et ungt,
+  stærkt Menneske blevet hyret? – Hvorfor vilde de ligesom ikke se Folk
+  der paa Gaarden? – Hvorfor blev ikke engang Lønningerne udbetalt paa
+  det vanlige Sted, men af en betroet Husmand nede paa Bruget? – Hvorfor
+  – hvorfor? – Der maatte være noget – de var jo ganske enfoldige – som
+  saa ofte Folk, der endelig vil skjule noget. – Hvorfor?» – – Der
+  danned sig en Uendelighedens Række af ubesvarede Spørgsmaal i den
+  gamle Prokurators Hoved, slig han kjørte henad Landeveien i Sneveiret.
+  – Han syntes, der var ligesom et For hæng fore, og som han sad der og
+  saa og saa ind i Sneen, som faldt, syntes han tilsidst, han kjørte sig
+  selv i rund og rund Ring under faldende Sne, som dækked og gjemte,
+  gjemte og dækked det utrolige i Verden. – – «Ja, der var et Myldr af
+  Ting til at skjule», – vidste den gamle Prokurator. Han gjenkaldte sig
+  det alt: – «
+     Det
+     havde Fernanda
+  Torsen sagt. Og
+     det
+     Jomfru Rikka.
+  Og
+     det
+     havde Jon Torsen sagt, der
+  han laa i sin Seng, at mer gudvelsignet Mand end Aga fandtes vel ikke
+  – han, som i egen Person tog sig af Brugets Drift under sin
+  Fuldmægtigs Sygdom. – Saa det var vel ikke mer end rimeligt, – havde
+  Rikka Torsen lagt til paa sin underlig haanske Maade, – at de gjorde
+  lidt igjen for den herlige Aga – at de indskrænked sig og sparte paa
+  Udgifterne for ham. – – Aa aa, den Besparelse, den kunde omtvistes;
+  den hang daarlig sammen – som – som løs Sne – som løs Sne.» –
+  Prokuratoren vikte sin Hest af fra Bygdeveien, der han vidste Ganveien
+  saa omtrent skulde være. – «Sne. Sne ja,» gjentog han aandsfraværende.
+  «Sne, som dækker. Sne, som gjemmer. Sne saa tæt og svær, at den næsten
+  ikke trænges igjennem» – alt imedens den Skimlede stamped sig tungt
+  gjennem Snedriverne, og Prokuratoren selv maatte støtte til snart med
+  det ene Ben snart med det andet, at ikke Slæden skulde vælte.
+    </p>
+    <p>
+     «Saa, saa – staa nu her, Balderbraa,» sagde han, da han endelig
+  kunde holde Hesten an foran Gjærdet. – Men selv blev ogsaa den gamle
+  Prokurator staaende. For noget saa ødsligt som her inde paa Gans
+  Gaardsplads syntes han aldrig i sit lange Liv at have seet. Saa tyst
+  og mennesketomt var der. – Sneen hvid og urørt. Bare med nogen enkelte
+  dybe Mærker saa her saa der efter Folk, som havde gaaet frem og
+  tilbage i sine egne Fodspor. Og havde der ikke røget lidt af Gaardens
+  ene Pibe, kunde enhver forsvoret, at der ingen bodde paa Stedet.
+    </p>
+    <p>
+     Prokuratoren vidste ikke rigtig, hvorfor der paakom ham slig en
+  trykkende Fornemmelse ved at se det Ødet, en lignende, som naar man
+  kommer til et Hus, hvor der er ny Sorg. – Prokuratoren strøg sig over
+  Panden:
+    </p>
+    <p>
+     «Saa, saa, Balderbraa, staa nu rolig. Saa finder nok
+     jeg
+     Løsningen imens.» – Den gamle
+  Prokurator trak sin Tulup op over Knærne og begav sig ufortrøden ivei
+  ud i Sneen.
+    </p>
+    <p>
+     Da han kom frem til Porten, tog Fernanda Torsen imod ham.
+    </p>
+    <p>
+     «Det var en rar Gjæst,» lød det. «Her hvor knapt Skjæren kommer
+  flyvende.»
+    </p>
+    <p>
+     – Aa, det var da saa og saa. Det var ogsaa rart at se Gansfolket
+  igjen. Forresten havde han et Ærinde.
+    </p>
+    <p>
+     Men den gamle Prokurator maatte slet ikke faa frembære det Ærinde,
+  før han vel havde børstet Sneen af sig og tilsidst sad lunt og godt
+  fortøiet i Jon Torsens Armstol.
+    </p>
+    <p>
+     «Nu kan De komme med det, Prokurator,» sagde da Fernanda Torsen og
+  satte sig foran ham – de smaa Øine spillende af vagtsom Gløgghed. «Det
+  skulde vel ikke være Folkene?»
+    </p>
+    <p>
+     – Jo netop – det var Folkene! De havde været hos ham og forklaget
+  sig over at være afskediget uden Varsel. – Og nu spurgtes der, om det
+  ikke var ligesaagodt, Madam Torsen tog dem tilbage med det samme, saa
+  kanske hun slap Mulkten.
+    </p>
+    <p>
+     Fernanda Torsen smilte.
+    </p>
+    <p>
+     «Nei, Prokurator,» sagde hun – «nu er De nok feil underrettet om
+  mangt og meget.» – Sagen var, at Tjenerskabet alt længe havde været
+  hadefuldt mod hende, fordi hun ikke taalte Uregelmæssigheder i nogen
+  Retning, hverken at der dreves Uterlighed, eller blev stjaalet Hø,
+  eller smughuggedes i Ganskogen. – «Besynderligt med det, Prokurator:
+  Feilen er ikke at gjøre en gal Ting; men Feilen er at paatale den.» –
+  Saa fulgte da Forklaringen, om hvorledes hun ved disse Afskedigelser
+  ikke alene havde varetaget Agas Tarv, men ogsaa sin egen. For naar
+  sandt endelig skulde siges, saa trodde hun, de var fulde af ondt
+  allesammen, og – da der var Barn i Huset. – –
+    </p>
+    <p>
+     – De blev da passiarende baade vel og længe om dette. Og saaledes
+  som det nu stilled sig, fandt Prokuratoren Fernanda Torsens Adfærd
+  ligeoverfor Folkene forstaaelig nok. Bare sad han i Stilhed og undred
+  sig over, hvor ganske anderledes dette
+     nu
+     tog sig ud end tænkt. – Om han
+  blev svag herinde – tabte Dømmekraften? – Ganske forfærdet skjøv han
+  Tanken fra sig og lod andre faa Rum istedet. Men uvilkaarlig maatte
+  den gamle Prokurator se sig om, hver Gang der lød Fodtrin i Huset
+  eller blev lukket i en Dør. – Der var i Grunden en egen Em for ham ved
+  dette Gan, – begyndte han at synes. – Han kunde døve det ned, naar det
+  var en Stund, siden han havde været der; men
+     naar
+     han var der: Umuligt.
+    </p>
+    <p>
+     «Tjenestefolkene er fordringsfulde nu tildags,» endte Fernanda
+  Torsen noget. «De vil sandelig ha baade i Hæk og i Sæk. Og spille
+  Mestere atpaa.»
+    </p>
+    <p>
+     «Det er sandt – det er sandt,» svarte Prokuratoren, halvt i Taage.
+  – Daarlige Tjenere burde ikke syes Puder under Armene hverken af Loven
+  eller andre. – «Jeg skal jage de Knebler paa Porten, skal jeg! – – Men
+  hvor er Jomfru Rikka?» spurgte han uventet. «Jeg tror stadig at høre
+  hende; men hun kommer ikke.»
+    </p>
+    <p>
+     «Hun ligger syg idag,» svarte Madamen.
+    </p>
+    <p>
+     «Er Jomfru Rikka syg?» sagde den gamle Prokurator. Madam Torsen
+  haabed hun saa feil, at
+     ikke
+     det
+  blege Ansigt blev endnu blegere idetsamme. – «Saa ligger de da begge,»
+  kom det saa, paafaldende roligt, «baade Bror og Søster.»
+    </p>
+    <p>
+     – Ja, de gjorde det. Maatte det bare gaa fortere over med hende end
+  med ham.
+    </p>
+    <p>
+     – Det gjorde det nok; hun var stærk, Jomfru Rikka. – «Aa ja ja, det
+  var trist ikke at se Jomfru Rikkas Ansigt lyse herinde. – Hils hende
+  fra mig!» sagde han saa, og fik med engang travelt med at komme afsted
+  – «og sig, at skulde hun nogengang trænge Hjælp i noget, saa faar hun
+  komme til den gamle Prokurator paa Haug.»
+    </p>
+    <p>
+     – «Hm, hm – han skulde vel aldrig ha skjønt noget,» hvisked
+  Fernanda Torsen, da hun stod i Vinduet og saa Prokuratorens Skimlede
+  stampe med flagrende Man gjennem Sneen. – «God i Videnskaben. Daarlig
+  til at anvende den. – Faar staa sin Prøve det ogsaa,» mumled hun og
+  kneb Læberne til.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     II.
+    </head>
+    <p>
+     Efter en lang og ensom Vinter, i hvilken da Sneen laa om Gan – i
+  Hauge og Volde som over en nedsneet Fæstning – blev der dog atter Liv
+  paa Gaarden: Tjenere fæstedes paany, og alt gik i sin gamle Gjænge. –
+  Fernanda Torsen saaes igjen, skrapp og drivende som ingensinde før.
+  Jon Torsen skulde heller ikke klage: Bedst som han laa, var han ogsaa
+  oppe en Dag. Den eneste, Vinteren havde forandret noget, var Jomfru
+  Rikka, hun holdt sig helst for sig selv og saa anstrængt ud – var
+  hvid, saa hvid, at hun næsten var farlig at se paa. Øinene glimted
+  ofte med Blikket til Siden, og Læberne saaes kun som en smal, rød
+  Stribe.
+    </p>
+    <p>
+     Og udpaa Vaarparten hændte der rigtignok noget besynderligt paa
+  Gan. Men ingen fik ligesom rigtig Tag i, hvad det var, – og saa døde
+  det da bort med Dagene, som lysned.
+    </p>
+    <p>
+     Det var, at der en Dag var kommet en Gut ind i Kjøkkenet paa Gan,
+  der Folkene netop sad og hvilte sig efter Eftasverden.
+    </p>
+    <p>
+     «Madam, Madam,» sagde han, «der flyder noget hvidt paa Brønden –
+  noget, som er tullet i Lin.»
+    </p>
+    <p>
+     Fernanda Torsen slap noget ned idetsamme, og der var de, som
+  bemærked, at hun var graaere i Ansigtet end Asken i Skorstenen.
+    </p>
+    <p>
+     «Nei gjør det det, Gutten min,» sagde hun alligevel rolig. «Ja,
+  Isen ligger længe iaar.»
+    </p>
+    <p>
+     «Nei, nei, det er ikke Is,» svarte Gutten. «Kom med og se.»
+    </p>
+    <p>
+     «Det har vel ingen Hast,» mente Fernanda Torsen. «Sæt dig du, saa
+  skal du faa en Taar Kaffe du ogsaa. – Sid dere ogsaa,» sagde hun til
+  Folkene. – «Kjedlen er nok drøi idag. – – Nei, vent lidt du, Far,»
+  stopped hun Gutten, just idet han vilde smutte ud af Døren. «Hvor skal
+  du?»
+    </p>
+    <p>
+     «Se paa det i Brønden vel!» svarte Gutten.
+    </p>
+    <p>
+     «Skam dig,» skjændte da Fernanda Torsen og tvang Gutten foran sig
+  hen til Langkrakken. «Jeg mener dig godt og byr dig Kaffe, og saa vil
+  du vende Ryggen til som en anden Skøier. Nei tak du – sligt tar jeg
+  ikke imod.»
+    </p>
+    <p>
+     Saa maatte de alle drikke Kaffe paany. Og gamle Inger sendtes i
+  Kjælderen efter Fløde. Men der blev hun sagtens baade vel og længe,
+  før hun endelig kom tilbage med en Spilkum saa tilsølet, at Gud alene
+  maatte vide, hvor hun havde været henne med den.
+    </p>
+    <p>
+     Saa hvisked hun noget til Madmoderen, som fik denne blid med
+  ett:
+    </p>
+    <p>
+     «Nu kan du lidt Folkeskik til en anden Gang da, Gutten min,» lød
+  det. «Og nu skal jeg sandelig bli med dig for at se paa det rare, jeg
+  ogsaa. – Ja, kom med allesammen!»
+    </p>
+    <p>
+     Men da de kom ned til Brønden, var der slet ingenting. Gutten
+  undred sig og forsikred, og nogen af Folkene lo af ham. Høiest lo dog
+  Fernanda Torsen og gamle Inger. – Og tilslut vendte Fernanda sig om
+  mod den Gamle:
+    </p>
+    <p>
+     «Aa, spring bort, du Inger,» sagde hun, stadig leende, «og se
+  efter, om nogen af Ænderne mine er sluppet ud.»
+    </p>
+    <p>
+     Straks efter kom da Inger tilbage og meldte blinkende, at netop saa
+  var det.
+    </p>
+    <p>
+     «Naa, det kunde jeg tænke,» sagde Fernanda Torsen, «at det var
+  Anden min. – Men nu gjælder det, at vi tar bedre Vare paa den herefter
+  da, Inger.»
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     III.
+    </head>
+    <p>
+     Paa den anden Side Sjøen var Latter og Dans. Der redes i Optog paa
+  bekransede Heste. Og der jagtedes i græsgrønne Djævledragter. Ja, der
+  stod en Glans af Herbyherligheden viden om, og Folk i Omegnen vilde
+  helst ikke snakke om andet.
+    </p>
+    <p>
+     Bare Rikka Torsen gav ingen videre Agt paa den iaar. Hun gik noget
+  sløv og tanketom og brød sig med ingenting. – Og det var hende slet
+  ingen Glæde, da det en Dag udpaa Forsommeren hændte, at to unge Damer
+  der over fra kom for at hilse paa hende. Det var den ene af Jomfruerne
+  fra Herby, – som hun jo kjendte fra før. Og det var en ung Dame, hun
+  drog Kjendsel paa fra det muntre Følges Besigtigelse af Gan, for
+  hendes fine og stolte Ansigts Skyld.
+    </p>
+    <p>
+     Efter en Stund at have snakket og leet satte denne unge Dame sig
+  paa Stentrappen og tog sit Sytøi frem.
+    </p>
+    <p>
+     «Det er noget, jeg maa ha færdigt,» sagde hun og undskyldte sig
+  smilende. – De andre smilte ogsaa. Rikka Torsen vidste ikke, hvorfor
+  hun blev saa varm i Øieblikket.
+    </p>
+    <p>
+     «Det maa være morsomt saant noget,» sagde hun og strøg med Haanden
+  over Silken. – Men om den unge Dame ikke heller vilde sidde et andet
+  Sted end der paa Trappen, hvor det blæste?
+    </p>
+    <p>
+     «Tak. Det er ligegodt overalt,» sagde den anden lyst. «Det maa
+  gjerne blæse.»
+    </p>
+    <p>
+     Jomfru Rikka syntes, det var det underligste unge Menneske, hun i
+  sine Dage havde seet – denne, som kom for at hilse og saa leende gav
+  sig til at sy derude paa Gaardstrappen. – – Rikka Torsen saa rigtignok
+  ikke ganske nogen Sammenhæng deri. – Men
+     den
+     fik hun, da hun selv og
+  Jomfruen fra Herby gik ud i Haven for at se efter nogen sjeldne
+  Blomster, som skulde gro der.
+    </p>
+    <p>
+     «Er hun ikke yndig, Katarina,» sagde hun. «Og saa rar du! – Nu har
+  hun sikkert foresat sig noget, som skal ske, hvis hun faar syet saa og
+  saa langt – noget om
+     ham
+     naturligvis» – og Jomfruen nævnte et Navn, som Rikka Torsen forstod
+  maatte være Navnet paa den unge Mand med den skjønne Mund. – «Han er
+  ogsaa saa forelsket i hende,» fortalte den unge Pige videre – «han
+  følger hende som en Page – – og han er ogsaa herlig, Kai, naar han er
+  forelsket – Øinene brænder og ler.»
+    </p>
+    <p>
+     «Og Munden?» spurgte Rikka Torsen.
+    </p>
+    <p>
+     «Munden? – Aaja, Munden ler vel ogsaa, tænker jeg.»
+    </p>
+    <p>
+     «Og brænder?»
+    </p>
+    <p>
+     «Aa sagtens, Riketta. – Ogsaa noget at spørge om forresten! – – Men
+  du – hun – ja, du saa det jo – bare hans Navn nævnes, reiser hun
+  Hovedet som en Blodshest for Signal.»
+    </p>
+    <p>
+     Rikka Torsen bøied sig og tog et Straa op fra Jorden. – «Er de
+  forlovede, de to?» spurgte hun.
+    </p>
+    <p>
+     «Aa hvad – spørge om saant, naar de begge. – – De har det vel hos
+  sig selv endnu; men alle ved det.»
+    </p>
+    <p>
+     «Saa skal de vel holde Bryllup engang?» – Rikka Torsen følte med en
+  Slags Vellyst, hvordan hun for hvert Spørgsmaal ligesom vred en Kniv
+  rundt i sig selv.
+    </p>
+    <p>
+     «Katarina siger, hendes Bryllup skal staa paa Herby,» fortalte den
+  anden. «Hun selv vil ha Kjole af rød Silke, siger hun – og
+  Brudepigerne skal være i rosenrødt Flor. – – Hør, Riketta – nu synger
+  hun! – Har
+     hun
+     kanske ikke en
+  deilig Stemme?»
+    </p>
+    <p>
+     De to unge Piger blev staaende og høre. Og Sangen toned ung og klar
+  mellem Gans gamle Huse.
+    </p>
+    <p>
+     «Sagtens kan hun synge,» afbrød pludselig Rikka Torsen, «naar hun
+  er saa lykkelig. – Og er saa det noget at tilbede et Menneske for,»
+  kom det halvt haanligt, «at Lykken er dumpet ned paa det?»
+    </p>
+    <p>
+     «Men kjære dig, Rikka.»
+    </p>
+    <p>
+     «Jeg siger, hvad jeg vil,» sagde Rikka Torsen, høit og irriteret,
+  idet de nærmed sig den unge Dame paa Trappen. «Gider jeg gaa paa Taa
+  og tage med Silkehansker som I?» – og hun lo haardt. – Den unge Dame
+  paa Stentrappen fór lidt sammen og saa op.
+    </p>
+    <p>
+     «Nu har jeg syet det, jeg skulde,» sagde hun saa og reiste sig
+  smilende. «Aa, slig en vakker Dag, Jomfru Rikka!» Og hun retted og
+  strakte sine slanke Lemmer.
+    </p>
+    <p>
+     «Kan være,» sagde Rikka Torsen, – «for den, som ser det.»
+    </p>
+    <p>
+     «
+     De
+     ser det da, Jomfru Rikka?»
+  sagde den unge Dame forundret.
+    </p>
+    <p>
+     «Nei, jeg ser bare Graaveiret, jeg,» svarte Rikka Torsen bittert.
+  «Sort Sorg og sort Nat. – Jeg hører ikke Lyset til, jeg, ser De, – og
+  har aldrig – saa synes jeg nu – følt andet end tungt i Livet.»
+    </p>
+    <p>
+     Den unge Dame havde rullet sit Sytøi sammen. – «Det gjør mig ondt
+  for Dem, Jomfru Rikka,» sagde hun deltagende. «Jeg vilde gjerne, at
+  alle skulde se Livet som jeg.»
+    </p>
+    <p>
+     – Kort efter tog de to unge Piger Afsked, og Frøken Katarina gik
+  derfra med en stor Kvast gule Liljer i Hænderne. – Men nede i Bakken
+  saa hun sig tilbage og frøs lidt:
+    </p>
+    <p>
+     «Hvad er det med hende, du?» spurgte hun Veninden. «Hun er
+  uhyggelig; men alligevel liker jeg hende.»
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     IV.
+    </head>
+    <p>
+     En Sankthanskvæld gik alle Husfolkene paa Gan afsted for at se
+  Midtsommerbaalene brænde.
+    </p>
+    <p>
+     Bare Jon Torsen og hans Søster blev tilbage.
+    </p>
+    <p>
+     – Jon Torsen gik tilsengs. Og Jomfru Rikka blev siddende paa sin
+  vante Plads ved Vinduet. Ikke det, der vendte ud til Sjøen, langsmed
+  hvilken alle de røde Baal skinned, – men et, der vendte mod
+  Gaardspladsen og Solnedgangen i Nordvest. For – «Begtønderne, de
+  svidde i Hjertet, de,» tænkte Rikka Torsen. – Hun havde ogsaa nok bare
+  af Røgen, slig den seg sig ind i Brystet paa hende og samled sig der
+  til en tung og trykkende Knytneve. Og Rikka Torsen stønned dumpt Gang
+  paa Gang, som hun sad der.
+    </p>
+    <p>
+     Noget som et hvidligt Slør gled bortover i Bakkelierne. Og
+  Sankthanshimmelen straaled, som gav den Genskin af alle Verdens Baal.
+  – Jo, nu blev der leet og hvisket, – vidste Rikka Torsen. – Nu dansed
+  Heksene. Nu sad der Krøblinge ved hellige Brønde. Nu kunde lægende
+  Urter samles. – For ingenting holdt Alnatur tilbage inat – til Bredden
+  skjænked den af sit yrende Liv – for alt og alle – kun ikke for Rikka
+  Torsen; for hende havde den forskudt.
+    </p>
+    <p>
+     – Som hun sad der Rikka Torsen, tænkte hun ogsaa paa den unge Dame
+  som havde sidet derude paa Stentrappen, – og paa
+     hendes
+     lyse Tilværelse i Modsætning
+  til Rikka Torsens mørke. – – Og altimedens blegned og slukned
+  Sankthanshimmelens glødende Farver.
+    </p>
+    <p>
+     Da – som hun endnu sad der fik hun en Fornemmelse at at der kom
+  nogen, – og hun strakte sig ud af Vinduet.
+    </p>
+    <p>
+     «Sesaa,» mumled hun, idet hun fik se, – og den kjendte Følelse af
+  Ubehag kom over hende. «Der er det sandelig, Følget fra ifjor.» – De
+  kom da ogsaa som dengang, to og to i Række. Men der dreied de raskt om
+  Hushjørnet. – –
+    </p>
+    <p>
+     «De tar det anderledes iaar,» tænkte Rikka Torsen, da hun samtidig
+  opdaged et andet Følge, der kom imøde fra det andet Hushjørne. Og
+  syntes hun, de var nogen gode Narre, som stopped op der ude paa
+  Gaardspladsen og neied og bukked sig til Jorden, før de gik hinanden
+  forbi. – «Saa var det godt, jeg slap at snakke med dem,» tænkte hun. –
+  Men hun blev meget forbauset, da hun ikke før havde sat sig ned, før
+  de atter kom tilbage – og atter mødtes midt ude paa Gaardspladsen.
+  Denne Gang hilste de rigtignok ikke, men stansed, og lo umaadelig. –
+  Som de skiltes, bemærked Rikka Torsen, at der foran hvert Følge gik en
+  rank, ung Kvinde i en meget gammeldags Dragt. Og Følget forresten
+  havde store Hatte paa og ganske korte Skjørter eller Bukser.
+    </p>
+    <p>
+     «Dette var da en underlig Leg,» tænkte Jomfru Rikka. «Hvorfor gaar
+  de her istedetfor at se Sankthansbaalene brænde? – Men kommer de igjen
+  endnu engang, vil jeg raabe til dem.» – Og ikke før havde hun tænkt
+  det, før de kom for tredje Gang – hastig gaaende om hvert sit
+  Hushjørne – og mødtes midt ude paa Gaardspladsen. Men denne Gang
+  hverken hilste de eller lo. Vred Hænderne istedet, graat og hulked. –
+  Saa skiltes de som før, og det ene Følge kom strygende forbi Rikka
+  Torsens Vindu.
+    </p>
+    <p>
+     «Vent lidt,» fik hun saavidt sagt. «Faar jeg se paa jer?» – Men
+  ingen vented. Ingen saa meget som vendte Hovedet om mod hende.
+    </p>
+    <p>
+     Rikka Torsen forundred sig adskilligt over dette. Og da de ikke kom
+  tilbage for nogen fjerde Gang, reiste hun sig skyndsomt for at se dem
+  nedover Havebakken. – Da kunde hun rigtignok ikke fatte, hvor de var
+  blevet af. Saa dem ingensteds. – Der paakom hende en Lyst efter at
+  vide noget nærmere om dem, og hun skyndte sig ud.
+    </p>
+    <p>
+     Det skumred derudenfor, og Husene kasted dybe Skygger. Langt paa
+  den anden Side Sjøen gløded et Par røde Baal. En indestængt Ko brølte
+  en eneste Gang nedifra Fjøset. Men det underlige Følge saa hun intet
+  mere til. Rent som sunket i Jorden var det baade med Latteren og
+  Graaten. Og tilslut syntes hun, Stilheden blev saa stor, at den suste
+  efter dem.
+    </p>
+    <p>
+     Som hun da atter kom ind, og Rummene forekom hende mørkere end før,
+  faldt en stor Utryghed over Jomfru Rikka. Det kom for hende, som kunde
+  hun hvert Øieblik vente de to Følger ind ad hver sin Dør. Hun frygted
+  at se deres lyse Dragter derinde og høre Latteren og Graaten. – Og den
+  stærke Rikka Torsen begyndte at skjælve i Rædsel:
+    </p>
+    <p>
+     «Herre du Gud, Herre du Gud – frels mig for dem – Herre du Gud!»
+  Hun gik baglængs ind paa sit Værelse og kasted sig næsegrus i
+  Sengen:
+    </p>
+    <p>
+     «Herre du Gud!» – –
+    </p>
+    <p>
+     – Da Fernanda Torsen kom hjem fra Sankthansfesten, fandt hun sin
+  Svigerinde liggende paaklædt derinde i Kammeret.
+    </p>
+    <p>
+     «De kom,» sagde hun, – og Fernanda trodde, hun talte over sig – «de
+  kom igjen og igjen» – hun lyste op mod hende med alt det skrækslagne
+  hvide i sit Ansigt:
+    </p>
+    <p>
+     «Først ler de,» sagde hun. «Siden graater de.»
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     V.
+    </head>
+    <p>
+     Lidt efter lidt var to Modsætninger kommet frem hos Rikka Torsen:
+  Naar Tankerne havde myldret over hende i lange Tider, fulgte der siden
+  Stunder, hvori Sjælelivet laa i Dvale, Stunder, hvori hun kun følte,
+  og gik i Ledebaand af sit stærke Legeme. Hun var da blevet af de, som
+  ikke længer menneskelig Magt kan tvinge. – Og det var jo netop, hvad
+  hendes Omgivelser nødigst vilde – tvinge hende fra Elskov.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Rikka Torsen havde inde i sit Kammer en Brandmur. Lige indtil den
+  stødte Siden af et stort Skab, som var fastspigret til Væggen. Paa
+  dette Skab var i blaat og hvidt malet en Amor og en Slange. – Engang
+  havde Rikka Torsen kunnet fortabe sig i Beskuelsen af denne
+  besynderlige, lille Fyr, hun havde ogsaa fundet noget Farve og gjort
+  hans Vinger større og hvidere. Men senerehen havde Rikka Torsen leet
+  af den Amor, og hun havde ofte tænkt, hun egentlig burde sværte ham to
+  Horn paa Hovedet og en Hale. Hun befatted sig jo endel med dette Skab,
+  Rikka Torsen, og kunde vanskelig undgaa det.
+    </p>
+    <p>
+     Naar Rikka Torsen kom ind i sit Værelse, kunde det hænde, hun skjøv
+  Slaaen for Udgangsdøren, gik saa hen til Skabet, kikked derind, og gik
+  atter tilbage.
+    </p>
+    <p>
+     Men undertiden kunde det ogsaa hænde, hun traadte helt ind i det
+  store Skab og lukked Døren efter sig fra Indersiden.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Engang, der var kommet Folk tilgaards og to brede, rødbrune Heste
+  var sluppet i Havnehagen, kom Rikka Torsen ind paa sit Kammer.
+    </p>
+    <p>
+     En Stund drev hun urolig om derinde. Hun saa ud af Vinduet og ud af
+  Døren til Gangen. Hun trak Gardinerne for og trak dem atter tilbage.
+  Hun sad, og hun laa. Saa begyndte hun at se paa Døren med Amoren og
+  Slangen. Saa, uden dog at se. Og hun lukked Skabdøren op og atter
+  igjen. Men tilsidst drog hun Pusten langt og gik indenfor.
+    </p>
+    <p>
+     Rikka Torsen skjøv en smal Lem tilside og kom opover en trang
+  Trappe inde i Brandmuren. Hun blev staaende et Øieblik ved en
+  Fordybning i Muren, skjøv saa atter en Lem tilside, kom ind i et Skab
+  som nedenunder – og derfra ind i et stort Kammer.
+    </p>
+    <p>
+     Der stod en Mand derinde med Ryggen til.
+    </p>
+    <p>
+     «Her er jeg,» sagde Rikka Torsen.
+    </p>
+    <p>
+     Det gav et Chok i den store Mand, og han vendte sig om mod
+  hende:
+    </p>
+    <p>
+     «Riketta.» Saa blev han staaende og stirre.
+    </p>
+    <p>
+     «Spørg ikke, Mattias Aga,» sagde Rikka Torsen og kasted stolt med
+  Hovedet. «Berolige dig forresten – og giv din Frue et smukt Diadem.»
+  Hun lo haardt; men Øinene hvidned, og Munden var som Blod.
+    </p>
+    <p>
+     Mattias Aga rakte Hænderne frem og lo:
+    </p>
+    <p>
+     «Riketta, Riketta – hun er som Ilden.»
+    </p>
+   </div></div><div type="group">
+     <head>
+     
+      III.
+     
+    </head>
+    
+   <div type="chapter">
+    <head>
+     I.
+    </head>
+    <p>
+     Hvad om den røde Hane nu galte over Gan? – Hvad om Flammer kom
+  slikkende og urodde sorgfri Mennesker i Søvnen? – Og de Øine, som før
+  havde smilt Dagen lang, skulde stirre forvildet frem for sig, før
+  Røgen blinded dem. Og de Læber, som før havde leet, slig Latter, der
+  er kold og klar som Dagens Lys, skulde aabne sig til Rædselens og
+  Nødens Skrig. Og der alle Udgange fandtes stængte, skulde de glemme
+  sine zirlige Manerer, disse Mennesker, – og fare omkring som
+  forstyrrede Dyr med latterlige Fagter og forvredne Fjæs. – «Vig af
+  Veien nu!» skulde Rikka Torsen raabe. «Vig af Veien! – Her kommer
+  Rikka Gan, som I skyr, fordi I ingenting forstaar og ingenting ved. –
+  Her ser I Dødens Storhed for Livets Flitter – og det er jeg, Rikka
+  Gan, som har git jer det. Jeg, jeg, som ogsaa kan gi jer Livet
+  tilbage.» – Og haanende vilde hun fortælle dem om Udgangen, hun
+  kjendte, hvor Røgen ikke kom ind. – Og hun vilde se dem storme om sig,
+  som var hun en Profetinde. – «Afveien, siger jeg. Afveien! Bare én vil
+  jeg frelse – han der – for hans skjønne Munds Skyld!» – –
+    </p>
+    <p>
+     Men om nu Mestermanden kom og tog hende for hendes Ugjerninger? –
+  Nei, ikke skulde Rikka Torsen dø for Bøddelhaand! – Vidste kanske ikke
+  hun, Rikka Torsen, om et søvndyssende Middel – et, som varmed for
+  Kulde – et, som kjølned for Brand? – Saa fik hun da give Slip paa
+  Hevnens fulde Vellyst og istedet efter Ildspaasættelsen lægge sig paa
+  sin Seng og tage Pulveret ind. – Men om hun nu blev ræd i Halvdøsen
+  uden at kunne komme bort? Og Lysstriberne i Døren kunde blive røde
+  Traade, som skar i Sindet, og saa – det store Helvedes Mareridt, naar
+  Luerne trængte sig ind og begyndte at hoppe over Tapetet! – – Aa, hvad
+  – det vidste hun ikke? Kanske hun netop vilde ligge og smile. – «Aa,»
+  vilde hun sige, som da hun drømte for længe siden – «jeg drømmer om
+  Ild, – og det betyder Kjærlighed.» Og hun vilde synes, Tanken paa den
+  Kjærlighed varmed og lyste, indtil en stor, høitidelig Stilhed kom
+  over hende – – Døden. – –
+    </p>
+    <p>
+     Rikka Torsen sad og boltred Tanken i alt det onde, hun ønsked gjøre
+  disse Mennesker, som sang og lo derudenfor. Og hun knytted Hænderne
+  undertiden og lo med: Vent! Vent! De skulde faa føle, hvem de saa over
+  Hode! – – Vel havde Gan staaet tjenerløs endnu en Vinter, – vel havde
+  hun, Rikka Torsen, følt sig, som var hun et afhugget Træ, – vel saa
+  hun nu kanske frastødende ud iblandt disse af Livet forkjælede.
+    </p>
+    <p>
+     – – – Men havde vel hun bedt Agas Gjæster komme – – hvem eied Gan,
+  eller Aga? Aga, som eied det i Kraft af usle Mynter, eller hun, som
+  eied det i Kraft af Forfædrene? – Og med hvilken Ret kom saa disse
+  Mennesker i Torsenernes Hus og vred sine Skuldre væk og gjorde Rikka
+  Torsen ondt? – Hun skulde gjengjælde det – gjengjælde det – saa hun
+  ogsaa Frøken Katarinas vakre Ansigt imellem dem. Frøken Katarina var
+  sagtens ikke bedre end de andre. – –
+    </p>
+    <p>
+     – Det var noget som Gnister om Rikka Torsen. Hvide Gnister i
+  Dagslys, slig hun kom frem i Døren.
+    </p>
+    <p>
+     «Kunde jeg faa Aga i Tale?» spurgte hun meget høit.
+    </p>
+    <p>
+     – Rikka Torsen havde tænkt gjennem Aga at faa Gjæsterne fra Herby
+  til at blive paa Gan Natten over. Men det gik ikke, – fordi Aga blot
+  opfatted det som en smuk Anmodning til ham selv om ikke at reise
+  didover med dem.
+    </p>
+    <p>
+     «Vær tryg, Riketta,» sagde han. «Jeg skal alligevel bli her tilbage
+  hos dig.»
+    </p>
+    <p>
+     – Saa tænkte Rikka Torsen at bore Hul i Baadene. – Men nede ved
+  Stranden sad to Smaagutter og fisked.
+    </p>
+    <p>
+     Da endelig satte Rikka Torsen sig ind blandt Gjæsterne for at se,
+  hvad Tid og Anledning vilde give.
+    </p>
+    <p>
+     «Hvorfor snakker de ikke til mig?» tænkte hun, som hun sad der og
+  lod Blikket flakke. «Hvorfor trækker de Stolene væk, der jeg er, eller
+  – er det af Godhed bare?» Og hun sad der længe og tænkte paa dette og
+  saa og saa paa de rige, unge Mennesker. – Om det nu var Vinen, –
+  tilslut paakom der hende en Lyst til at lege med Livet og med dem:
+    </p>
+    <p>
+     «Var De med forrige Aar og besaa Gan?» spurgte hun pludselig en af
+  Damerne.
+    </p>
+    <p>
+     – Nei, hun havde ikke været med.
+    </p>
+    <p>
+     «Ved De, at der er Løngange her?» spurgte Rikka Torsen. – Jo, Damen
+  havde hørt det.
+    </p>
+    <p>
+     – Om de andre vidste det? – Om de andre havde hørt Sagnet om, at
+  den, som fandt Løngangen, skulde blive Dronning? – Eller: Hun skulde
+  faa en Mand herlig som en Gud. Eller: Hun skulde faa den, hun havde
+  kjær.
+    </p>
+    <p>
+     Da sprang først Frøken Katarina op. Siden alle de andre unge Damer.
+  Og de begyndte legende at famle over Tapeterne. – De banked ogsaa i
+  Væggene med sine fine, smaa Knoker og lagde Øret indtil for at høre
+  Hulrummets Lyd.
+    </p>
+    <p>
+     «I finder den lettere ovenfra,» sagde Rikka Torsen, – og de fulgte
+  hende villig opad Trappen og videre fra Rum til Rum. – Ingen af de
+  unge Damer lagde Mærke til, hvorledes Rikka Torsens Ansigt, for hvert
+  Rum de kom længer bort fra Trappenedgangen, blev hvidere og Smilet
+  større.
+    </p>
+    <p>
+     «Led bare!» sagde hun stadig. «Der! – Kanske der! – Gad vide, hvad
+  I vilde sige til det, I fandt derinde – haha!»
+    </p>
+    <p>
+     – «Hysch! – Her gaar en Ulv i Mørke,» hvisked hun, idet de kom ind
+  i et halvmørkt Kammer, et med et eneste lidet Vindu opunder Taget.
+  «Den, som snakker høit, kalder den frem fra Væggene.» – Hun greb en af
+  dem i Armen. – «Hvad sidder der i Krogen?» hvisked hun næsten
+  uhørligt. – Damerne fór sammen, og – var der ikke ogsaa en mørk
+  sammenkrøbet Skygge derborte? – «Aa Gud – slip os da ud,» bad de.
+  Frøken Katarina rørte ved Rikka Torsens Haand; – den laa haardt paa
+  Klinken, mens Rikka Torsen selv stod bred og stærk med Ryggen mod
+  Døren.
+    </p>
+    <p>
+     «Nei, nei – nu staar den paa den anden Side – – jeg hører den snuse
+  i Sprækken.» – De unge Damer fór tilbage som Løv for Blæst.
+    </p>
+    <p>
+     «Denne Vei,» sagde Rikka Torsen og viste dem videre. – – «Her
+  dræbte en Mand sig,» hvisked hun – «fordi Djævelen trued ham dertil.
+  Det vil da sige: Livet blev ham for haardt.
+    </p>
+    <p>
+     – Ty! – banked det ikke i Væggen? – Haa haa – han hører, at jeg
+  fortæller. – – Her, her – saa kommer vi bort fra ham» – og hun førte
+  dem ind i det sidste Rum.
+    </p>
+    <p>
+     Det var et stort Hjørneværelse, det med mange store Uldhauge udover
+  Gulvet, og et langt Bord, hvorpaa blandt andet ogsaa stod et gammelt
+  Krus og et Kobberkar. – Damerne tydde sig som Fluer mod Ruderne og
+  Lyset. – Rikka Torsen satte sig ned i den Uldhaug, som var nærmest
+  Døren.
+    </p>
+    <p>
+     «Ja, hvad gjør vi nu? – Har I nogengang kløvet i Bjerg, saa høit og
+  galt, at I hverken kom op eller ned? – Skal jeg fortælle jer
+  Historier, mens I staar der? – Har I hørt om Fru Brynhildas Døtre? – –
+  Den ene dræbte sit Barn og skjulte det i Løngangen her. Jo, pas bare
+  paa – ha ha ha – der er Barnelig i Gangen. Søg! Søg! – Og derfor toges
+  begge Fru Brynhildas Døtre for at brændes som Hekse; men de blev ikke
+  brændte, – fordi de fik flygtet ind i Skogen. – – Ja, nu mørkner det
+  alt. – Aa, se der – rørte ikke Ulden sig?» – – Damerne saa alle
+  forskrækket did, hun pegte – og idetsamme hørtes en skarp Lyd som af
+  Fyrstaal, der strøges.
+    </p>
+    <p>
+     «Hvad var det?» spurgte en af dem.
+    </p>
+    <p>
+     «Hvad var det, ja?» gjentog Rikka Torsen, hun sad med begge
+  Hænderne bag Ryggen. – «Se bort paa Bordet der,» fortsatte hun saa –
+  «der laa engang en Jernklave. Nu er den lavet om til Grindehængsler.
+  Men det vil jeg si: Aldrig hørte jeg mer ilsint Skrig i nogen Grind
+  før. – – Og se det Bæger – det er kanske Lidelsens Bæger – hvem ønsker
+  drikke deraf?»
+    </p>
+    <p>
+     – Atter lød den skarpe, strygende Lyd.
+    </p>
+    <p>
+     «Men hvad er det, Jomfru Rikka?» raabte Frøken Katarina og sprang
+  nogle Skridt frem som i Selvforsvar. Rikka Torsen saa stivt fremfor
+  sig og smilte:
+    </p>
+    <p>
+     «Det er Kobberkarret – smedet af Vilde Vaa.»
+    </p>
+    <p>
+     «Rrr – rr – rrr – rr!» klang det idetsamme i Kobberkarret.
+    </p>
+    <p>
+     «Hørte I, det svarte?» spurgte Rikka Torsen, først udfordrende som
+  før. – Men saa reiste hun sig og blev staaende. – «Ved I,
+     hvorfor
+     det svarte?» mumled hun
+  saa, lavt ved sig selv. – «Jo, jo – det er, fordi der er en Morder
+  herinde.
+    </p>
+    <p>
+     – Forstaar I det ikke – forstaar I det ikke, spørger jeg?» – og
+  over det hvide Ansigt drog sig som jordskimlede Skygger. – Saa –
+  pludselig – løfted hun Hænderne over Hovedet og fór skrigende tilbage
+  for en dvask Røg, som seg op fra den Uldhaug, hun havde siddet i. –
+  Men værre skreg de unge Damer – de trodde saavist, at Alverdens
+  Styggelse var kommen over dem – og de stimled sig sammen i en Klad
+  oppe ved Vinduet. – Men en af dem fik ogsaa Vinduet af Krogene, og –
+  Guds Hjælp! – saa hørtes der et høit, vildt Skrig over de andres, og –
+  en dump Lyd nedifra Bakken.
+    </p>
+    <p>
+     «Hun blir jo liggende,» var der nogen, som raabte.
+    </p>
+    <p>
+     «Hun har slaaet sig ihjel!»
+    </p>
+    <p>
+     «Katarina! Katarina!»
+    </p>
+    <p>
+     «Se saa – se saa ja,» sagde Rikka Torsen, med engang ganske rolig –
+  og hun gik frem og tramped i Ulden. – Døren reves op, og Kavalererne
+  kom ind, tilkaldt af Skrigene. – «Deres Forlovede ligger udenfor
+  Vinduet,» sagde hun til ham med den skjønne Mund. Den unge Mand
+  udtalte blot Navnet og styrted tilbage. – De øvrige fulgte efter ham,
+  mange i Flok og en efter en – – tilsidst blev Rikka Torsen alene. –
+  «Smæld nu paany,» sagde hun og traadte hen til Kobberkarret. – Da
+  skimted hun noget, som laa nede i Bunden. Hun tog det op. – Det var
+  Frøken Katarinas Elfenbensvifte.
+    </p>
+    <p>
+     Rikka Torsen blev staaende og stryge sig over Øinene. – Saa gik hun
+  langsomt og nølende gjennem Rummene og nedad Trappen. Dernede betænkte
+  hun sig lidt, snudde saa helt omkring og gik ind i sit Kammer.
+    </p>
+    <p>
+     Rikka Torsen satte sig ned med Hænderne for Øinene, men hørte
+  alligevel, hvorledes der blev sprunget ude i Gangen og smældt i
+  Dørene. Og hun hørte Jammer og Graat.
+    </p>
+    <p>
+     Saa syntes hun engang, det stilned derude, – og hun voved se ud af
+  Vinduet. – Da saa hun dem staa med sænkede Hoveder om en Baare. Der –
+  ved Siden – laa den unge Mand iknæ. Og der – imellem hvide Lagen – saa
+  hun Frøken Katarinas deilige, blege Ansigt med de lukkede Øine. – – –
+  Saa vendte Rikka Torsen sig væk fra Vinduet og satte sig paany inde i
+  Værelset med Hænderne for Ørene.
+    </p>
+    <p>
+     Men om lidt hørte hun atter Klagerne og Jammeren. Og det steg og
+  sank, steg og sank. Men tilslut syntes hun, det blev enstonigt som
+  Sjøskvulp i Graaveir. – Da forstod hun, de gik med Baaren ned til
+  Baadene.
+    </p>
+    <p>
+     Rikka Torsen tog Hænderne væk fra Hovedet, der var store, røde
+  Mærker efter dem, og hun saa sig om med matte Øine:
+    </p>
+    <p>
+     «Først ler de,» sagde hun sagte. «Siden graater de.»
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     II.
+    </head>
+    <p>
+     Mattias Aga og Rikka Torsen stod sammen oppe paa det store
+  Hjørneværelse Dagen efter Frøken Katarinas Død.
+    </p>
+    <p>
+     De dalerrunde Afskygninger fra Ruderne faldt paa Mattias Agas
+  Ansigt, mens hans smaa dybtliggende Øine gnistred af Harme.
+    </p>
+    <p>
+     Og Rikka Torsen stod der haanlig og stridslysten – vel udhvilt
+  efter Gaarsdagens Spænding – paany færdig til at sætte haardt mod
+  haardt.
+    </p>
+    <p>
+     «Det var hyggeligt for mig, at det blev Ulykke her,» sagde Aga. «Og
+  jeg ved nok, hvem jeg kan takke.»
+    </p>
+    <p>
+     «Ja, tak mig bare.»
+    </p>
+    <p>
+     «Det maatte da bli paa en egen Maade» – han rysted hende i Armen:
+  «Forstaar du ikke, du er gal? Du – du er gal.»
+    </p>
+    <p>
+     Hun vred sig bort i et Rykk:
+    </p>
+    <p>
+     «Haha – nei, gal er jeg ikke. – Hvad Vægt paa at brænde Dukker,
+  Aga?»
+    </p>
+    <p>
+     «Nu blir du anklaget,» sagde Mattias Aga videre. «Ingen kan frelse
+  dig.»
+    </p>
+    <p>
+     «Jo, du.»
+    </p>
+    <p>
+     «Aa – kunde jeg, vilde jeg alligevel ikke. – Hvad Vægt paa at
+  beholde slig en?»
+    </p>
+    <p>
+     Da lo Rikka Torsen og gik i Had lige op under Mattias Agas Ansigt
+  og slog til ham paa Kindet. – Han stirred forbauset paa hende et
+  Øieblik – saa slog han igjen. Rikka Torsen lo sin korte, uhyggelige
+  Latter – og saa begyndte det ene Slag at tage det andet deroppe paa
+  Uldværelset, og Madam Torsens omhyggelig ordnede Uldhauge traadtes
+  hulter til bulter. – Mattias Aga mælte ikke et Ord, men pusted tungt
+  og med enkelte Støn.
+    </p>
+    <p>
+     «Skurk,» hugged Rikka Torsen ud gjennem Tænderne. «Skurk – Skurk.»
+  – Hun blev smidig i Kampen som en Tiger. Hun rev ham blodige Klor over
+  Ansigtet, og stundom var det, som om hun fræste. Og hun lo og følte
+  ikke Slagene fra ham. – Men borte i det ene Vindu, husked hun, laa en
+  stor, spids Saks – den skulde hun ha Tag i! – – Rikka Torsen rygged og
+  rygged – nærmed sig stadig Vinduet og Saksen. – – Alt famled hun med
+  Hænderne i Vindusposten, følte det kolde Staal. – «Nu skal du faa det,
+  Mattias Aga, – saa du aldrig reiser dig mer.» – Men i det samme fornam
+  Rikka Torsen en Smerte i Hovedet – og var det, som om Gulvet gled bort
+  under hende. – – –
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Hun slog Øinene op – og lukked dem braat igjen; hun havde seet lige
+  ind i Agas sortbrune Blik. – Vreden havde stilnet hos ham, den
+  seirende – nu laa han iknæ og holdt den kolde Staalsaks mod en
+  brændende Bule i hendes Hoved:
+    </p>
+    <p>
+     «Hvordan er det med dig, Riketta?»
+    </p>
+    <p>
+     Uden Svar stirred hun spottende op paa ham.
+    </p>
+    <p>
+     «Havde jeg ikke gjort dig uskadelig, havde du brugt skarpe Vaaben,
+  du,» sagde han undskyldende.
+    </p>
+    <p>
+     «Hvis
+     jeg nu
+     blir anklaget, skal
+  jeg nok til Gjengjæld anklage Aga for Overfald,» svarte hun dumpt.
+    </p>
+    <p>
+     «Det vil lidet nytte for Jomfru Riketta,» sagde Aga. «Men hun skal
+  alligevel gaa fri.»
+    </p>
+    <p>
+     «Lad dem bare anklage mig, Aga,» lød det nu. «Panden værker –
+  Sindet værker – Livet værker – alt – alt» – hun stønned og strakte
+  Hovedet langt tilbage. Mattias Aga lagde sin Haand paa hendes kraftige
+  Hals, just der hvor Pulsaaren banked:
+    </p>
+    <p>
+     «Underligt med dig, Riketta,» hvisked han, – «er det ikke som
+  hvide, levende Kjødfibre binder mig til dig.»
+    </p>
+    <p>
+     Rikka Torsen hørte ikke længer, hvad han sagde, Feberrødmen kom og
+  gik over hendes Ansigt, – og idet hun kasted paa Hovedet, mumled hun
+  Gang paa Gang:
+    </p>
+    <p>
+     «Saa faar jeg en rød Snor om Halsen – saa faar jeg en rød Snor om
+  Halsen. – Det klinger i Bøddelens Økse – og i Kobberkarret til Vilde
+  Vaa.»
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     III.
+    </head>
+    <p>
+     Efter Slagsmaalet med Aga, blev Rikka Torsen længe liggende i en
+  Hjernesygdom, hvori mangehaande utrolige Ting syntes hænde omkring
+  hende. – Skygger af Mænd og Kvinder legte og sloges frempaa Gulvet. Og
+  smaa, smaa Gutter og Piger kom ud fra Væggene og talte til hende.
+    </p>
+    <p>
+     «De spørger mig,» sagde hun til gamle Inger, som sad nede ved
+  Sengeenden, «hvorfor Kvinder havde saant Had til
+     dem
+     , mens andre Barn faar Kys og
+  Kjærtegn og varm Melk med Sukker i. – De spørger, hvordan mon det Liv
+  vilde været, som blev berøvet dem. – Og jeg siger dem, at de
+  Levnetsløb vilde blit de elendigste af alle. – Men de graater og
+  siger, at det elendigste Liv er dog Livet værd. Og slig som nu er, har
+  de ikke Fred; for indviet Jord dækker dem ikke. – Jeg siger dem, at de
+  bør ikke gaa her altid og plage mig, som er syg. For her er ogsaa
+  andre i Huset, som kan fortjene deres Plagerier – – ikke sandt
+  Inger?»
+    </p>
+    <p>
+     «Hysch – hysch da!»
+    </p>
+    <p>
+     «Saa blir de forkuede staaende borte ved Væggen og snufser og
+  graater, halvt med Ryggen til. Ja, ved du Inger: Selv naar jeg ikke
+  ser dem, hører jeg dog deres Graat indi Væggen.» – – Og hun kunde
+  reise sig op og hviske ind i Ingers Øre: «Det ligger derinde. – Aa,
+  tag det væk du – lov mig det Inger – vil du – vil du?» – Ja, ja –
+  Inger loved det. – «Det er godt – det er godt – – vil du ogsaa gi det
+  Klæder paa. – De fryser, siger de. Og de er blaa og røde af Frosten.
+  For alle er de nøgne, Inger. Undtagen en, som har et sort Fløielsklæde
+  over sig – den er Fru Brynhildas Datterdatter. Hun graater ikke – hun
+  staar bare stille midt paa Gulvet som en liden Prinsesse. – Hende
+  synes jeg Synd i; for hendes Liv var kanske blit en Dans paa Liljer. –
+  Men de andre – stakkars, stakkars, – i Skam var de blit trukne fra
+  Fødsel til Død. – – – En er saa liden, liden med et stygt Mærke paa
+  Halsen. Jeg synes, jeg kjender det. – – – Bed for mig Inger. Eller –
+  syng noget, du. – – – Fader vor – de kommer i Rundkreds de smaa
+  Fredløse, de staar der med foldede Hænder – – du, som er i Himlene –
+  de ser mod det svarte Taget, Inger – Herregud, saa de vel nogengang
+  Guds lyseblaa Himmel?»
+    </p>
+    <p>
+     Saa kunde hun ogsaa se Dommedagssyner mellem Himmel og Jord. – Og
+  stundom kunde hun sige:
+    </p>
+    <p>
+     «Der kommer hun, hun med det stolte Ansigt, hun, jeg skræmte ud af
+  Vinduet. – Tænk du, tænk: – Jeg har det bedre end i Livet, – siger
+  hun. – Bedre at knuses ung og lykkelig end Tomme for Tomme at visne
+  bort fra Livet. – – Hun er deilig, Frøken Katarina – og nu har hun
+  vundet baade Livets og Dødens Krone. – – Ved du, Inger, – hende elsked
+  jeg. Netop hende. Og
+     hende
+     dræbte
+  jeg» – og hun hulked uden Taarer og vred Hænderne høit over sit
+  Hoved:
+    </p>
+    <p>
+     «Jeg ulykkelige, ulykkelige – nu gik hun, og jeg faar aldrig mere
+  se det deilige Ansigtet.» – –
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     En Dag aabnedes Døren til Jomfru Rikkas Kammer, og ind kom en
+  gammel affældig Kone, som ikke kunde holde Hovedet roligt.
+    </p>
+    <p>
+     Det var Rikka Torsens Mor.
+    </p>
+    <p>
+     Den Syge satte sig op i Sengen, idet hun fik se hende:
+    </p>
+    <p>
+     «Hil være Fru Brynhilda,» sagde hun høitidelig. «Kommer hun end som
+  en Straffens Guddom, modnes dog Kornet, der hun træder.»
+    </p>
+    <p>
+     Den Gamle tog sin Datters Hoved mellem sine Hænder og saa hende
+  kjærlig ind i Øinene:
+    </p>
+    <p>
+     «De siger, det er daarligt med dig, Riketta,» sagde hun med dyb
+  skjælvende Stemme – «at du mister Forstanden. – Nei, nei – det gjør
+  hun vist ikke – – min kloge stærke Riketta skal bli klog og stærk
+  paany.»
+    </p>
+    <p>
+     «Har jeg da lidt uskyldig?» spurgte den Syge – «siden jeg skal faa
+  Opreisning istedet for Straf? – Nei, Fru Brynhilda – tag kun
+  Jernbøilen med. For skyldig er jeg – skyldig.»
+    </p>
+    <p>
+     Den gamle Kone rysted paa Hovedet:
+    </p>
+    <p>
+     «Gud velsigne dig, Barnet mit,» sagde hun og tørred en Taare ud af
+  Øinene – «han gjøre dig snart frisk igjen.»
+    </p>
+    <p>
+     Den Syge saa op med sine fanatiske Feberøine:
+    </p>
+    <p>
+     «Du stolte og herlige Fru Brynhilda,» sagde hun og kyssed den
+  rynkede Haand – «slig jeg tilber dig, blir jeg snart frisk igjen, som
+  du siger.»
+    </p>
+    <p>
+     Den Gamle svarte da intet, men hun strøg og strøg over Datterens
+  sorte Haar. – Og – som var der en dulmende Kraft i den gamle Mors
+  Kjærtegn, sank Rikka Torsens Øienlaag altid dybere ned over Øinene. Og
+  som den Gamle satte sig hos hende paa Sengefjælen, lagde den Syge sig
+  mat tilbage – Læberne hvisked, og der drog sig til et Smil:
+    </p>
+    <p>
+     «Kunde du gjøre mig frisk, Fru Brynhilda – – Vilde Vaa – – nedved
+  Sjøen» – –
+    </p>
+    <p>
+     Og kort efter sovned Jomfru Rikka og – sov sig Bedringen til.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     IV.
+    </head>
+    <p>
+     Da hun var bleven helt frisk, Rikka Torsen, og intet andet Men
+  havde efter sit voldsomme Sammenstød med Aga end nu og da en ufatte
+  lig Tomhed i Hjernen, sad hun meget inde i Stuen og saa paa sin gamle,
+  stygge Mor. – Nei, nei – ingen skulde ane, at Rikka Torsens Mor havde
+  været skjøn i sin Ungdom – hun med den store, klumpede Næse, og Kind,
+  som hang i Rynker – og for den, som havde seet hende, da hun var ung,
+  skulde hun staa som et Bevis for, hvordan Livsens Slid og Strid kan
+  herje. Men for Rikka Torsen var hun det deiligste i Verden, slig hun
+  sad der storbygget og kroget og klirred med sine Strikkepinder. – Og
+  kunde det end ikke nytte Jomfru Rikka at tale Betroelser til den
+  Gamle, der var ligesaa døvhørt som Broderen i Ud, saa fandt Jomfru
+  Rikka en Fred i kun at være i Nærheden af hende.
+    </p>
+    <p>
+     Men kom Svigerindens Smaapiger ind til Farmoderen, jaged Jomfru
+  Rikka dem skinsyg ud. Og en Dag sagde den Gamle bebreidende:
+    </p>
+    <p>
+     «Du kunde la mig ha den Glæde, Rikka, at ha Børnene om mig.» – Da
+  sagde Rikka Torsen mange haarde Ting, som det var godt, Moderen ikke
+  hørte.
+    </p>
+    <p>
+     «Lar du ikke Børnene være hos mig, vil du angre det,» sagde den
+  Gamle.
+    </p>
+    <p>
+     «Det tror jeg nok,» svarte Rikka da – «alting angres, naar
+  Tilværelsen er kommen paaskjæve.»
+    </p>
+    <p>
+     – Ofte syntes det dog Rikka, at al hendes Kval var for intet at
+  regne mod den store Beskjæmmelse, som kunde tage hende ligeoverfor
+  Moderen. – «Min Rikka er god og vakker,» kunde den Gamle sige. «Min
+  Rikka har et Ansigt som en Helgen og Hænder som en barmhjertig Søster.
+  – Ti, Børn, naar Faster Rikka snakker! Ved I, jeg drømte en Tid, at
+  min Rikka skulde bli større end andre. Jeg drømmer det endnu.»
+    </p>
+    <p>
+     «Hold nu op med dette, Mor,» kunde Datteren bede hende. Den Gamle
+  ante nok, hvad hun sagde, men fortsatte stædig: – Saa hun ikke, hvor
+  den Rikka kunde daare? – Ja, om det saa var Mattias Aga – – aa, hun
+  saa det nok! – – Saa kunde hun hviske til Datteren og listig spørge
+  hende, om den Agas Frue var sygelig? – Om hun plagedes af Gigt,
+  Maveonde eller Sug for Brystet? – Om hun ofte var der ude paa Gan?
+    </p>
+    <p>
+     Naar saa Rikka Torsen havde rystet paa Hovedet til et for et af
+  disse Spørgsmaal, da skalv den Gamle mer end ellers og mumled:
+    </p>
+    <p>
+     «Galt for min Rikka, at hun gjemmer sig her paa Gan. – Galt – galt
+  – galt. – Hun skulde ud herfra, hun – – jo jo, slig hun vilde funkle i
+  Lyset.»
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     I denne Tid efter Sygdommen, mens Moderen sad inde i Stuen, sank
+  Rikka Torsen sammen og søgte i Løndom at bede til sin Gud.
+    </p>
+    <p>
+     Stundom gik hun da ind i Skogen, hvor ingen kunde se hende. Og
+  stundom gik hun ned til Sjøen og lagde sig paa Knæ der i det vaade
+  Siv.
+    </p>
+    <p>
+     Saaledes bad engang Rikka Torsen ud af sin formørkede Sjæl; men
+  Bønnen ligned Røverens paa Korset, han, som fik Forbandelse istedetfor
+  Paradisets Herlighed:
+    </p>
+    <p>
+     «Gud. Gud. Om du er Gud over Livsens og Dødens Nøgler – om du er
+  Gud over Kornnegets Spurve og Afgrundens Drager, – da kan du vel ogsaa
+  tvinge Dragerne bort fra mit Levnets Liv og siden gi mig Livet i
+  Døden. Gud. Gud» – og saa længe laa hun med de foldede Hænder løftet,
+  at hver en Blodsdraabe veg fra dem. – – Blegblaa lyste Himmelen over
+  det høie Siv med de sorte Blomsterklaser. – Tæt over hendes Hoved skar
+  graalige Fugle, – og naar Vinden fór gjennem Sivet, da var det, som
+  hørte hun smaa Klokker ringe. – Men ned paa Rikka Torsens løftede
+  Hænder slog sig Sværme af Myg og Bremser. – – «Gud Fader rører ved
+  mine Hænder,» tænkte hun. «Gud Fader vil tilgive mig.» – Og endnu
+  længe laa hun der med Sivet rundt sig og Himmelen over sig, i Haab om
+  Guds Haands Indgreb i hendes Levnet. – –
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     V.
+    </head>
+    <p>
+     Ingen Nat er som Sankthansnatten en Mærkepæl i Sommeren, denne det
+  levende Livs Nat, hvori Jordens Safter svulmer og alle Underverdenens
+  Kræfter siges at have Spillerum mel lem Trærne. Ind i det enlige
+  Menneskes Sind mærker sig Heksenatten, Troldnatten, Aar efter Aar med
+  sine Stemninger, Varsler og underlige Eventyr: – Sælsomt er det for
+  den, der gaar fjernt fra de Steder, hvor mange Mennesker ler. Herligt
+  er det for den, som endnu selv hører Livet til. Men knugende er det
+  for den, hvem store Synder trykker.
+    </p>
+    <p>
+     – – –
+    </p>
+    <p>
+     Saa var det da, at der atter oprandt en Sankthansaften over Gan, i
+  hvilken Rikka Torsen blev alene hjemme, mens de andre drog afsted for
+  at se Midtsommerbaalene brænde.
+    </p>
+    <p>
+     Rikka Torsen saa efter dem, der de gik. Og knapt saa hun sidste
+  Glimt af den gamle Mor forsvinde borti Bakkerne, før hun skyndte sig
+  ind af Porten, fandt et stort Traadnøste frem og gik atter ud. Saa
+  laaste hun Huset af og vandred ensom henover Markerne.
+    </p>
+    <p>
+     Langs Sjøen brændte Midtsommerbaalene røde i den skumrende
+  Sommerkvæld, og enkelte Steder syntes det, som naar Maanen spiller i
+  Vandet, stille, stærke Søiler af Guld. Og Midtsommerbaalene, hvorom
+  smaa, sorte Skikkelser kunde sees, blanded sin Røg med Røgen fra Sjø
+  og Myr – og atter bølged den sit hvide Slør om Markens unge Blomster.
+  Dem plukked Rikka Torsen op i sin Kjole. Det var den rosenrøde
+  Tjæreblomst med den sorte Stilk, det var den hvide Myrkala og den gule
+  stjernelignende Sankthansblomst. Dertil tog hun det fineste Løv af
+  Birk og de vellugtende Blade af Poppel, – og hun bandt det sammen,
+  bandt og bandt, saa Traaden ofte skar hende ind i Fingrene.
+    </p>
+    <p>
+     Da hun havde bundet langt nok, tog hun forsigtig den lange
+  Blomsterguirlander over Armen og vandred halvt sløv en Korsgang ad
+  Kirkegaarden til. Hun havde længe tænkt paa det, og hun maatte gaa,
+  mente hun, for sin Sjælefreds Skyld. –
+    </p>
+    <p>
+     Landeveien laa forladt, og hvid af Støv, og langs den skimred lyse
+  Buske af Hæg. Et Par Græshopper sang nedi Grøften, og alt eftersom hun
+  gik, syntes hun, en skrabende Akerriks fulgte. – Men der var stille
+  forresten, en Stilhed, dobbelt stor – som for den, der intet hører,
+  men ved, at i samme Hus er Latter og Støi.
+    </p>
+    <p>
+     Idet Rikka Torsen tog op til Skogstien, følte hun en svag Modstand
+  over sit Ansigt og Hænder af udspændte Traade mellem Kvistene. Langt
+  borte i Aasen syntes hun at se tre sorte Fugle sidde. Og Grantrærnes
+  Grene blev for hende besynderlige, gamle Skikkelser med Koster i
+  Hænde. «Men nede i Uren,» tænkte hun, «der sidder Troldet med
+  kuglerunde Øine og Veirhaar om Gabet. Det sidder som en stor Edderkop
+  midt i et Net. Og det fanger underligt Guld i Skjærsommernatten –
+  Skjærsommerens egne Tanker fanger det.»
+    </p>
+    <p>
+     – Rikka Torsen gik frem uden Rædsel og uden Tanke paa det, som dog
+  laa nærmest for hende. –
+    </p>
+    <p>
+     Da hun stod nedenfor Kirkegaardsmuren, ønsked hun rigtignok at tage
+  et Salmevers i Munden; men da hun intet kunde huske i Farten, gav hun
+  sig stiltiende til at klyve over med sine Blomster.
+    </p>
+    <p>
+     Først da hun stod helt inde paa Kirkegaarden, tog en Uhygge hende;
+  fordi hun syntes, der var Øine, som fulgte hende allestedsfra. – Hun
+  voved ikke se op for alle disse Øine. Og saa mange de var, var de
+  mange dog et, stort og knugende som Gudfaders. – Hun fik en Frygt for
+  at træde paa Gravene. Hun skjød Skuldrene sammen, snoed sig mellem
+  Haugene eller skridted over. – «Gud Fader – Gud Fader,» mumled hun,
+  der hun listed sig frem nedimellem Fattigfolksgravene hen til Havens
+  borterste Hjørne. – Nærmest indtil den store, sorte Eg – saa havde
+  Inger sagt. – Der kasted hun sig ned ved en liden Haug og slynged sine
+  Blomster om den. Men som hun laa der, øgedes Uhyggen for hende – fordi
+  hun tydelig hørte, der var ikke stille.
+    </p>
+    <p>
+     «Din Tro er ikke stærk nok. Bed! Bed!» – og Rikka Torsen bad –
+  nævnte Guds Navn op og op igjen, som Muhammedaneren, der vender sig
+  mod Øst. – Men da hun vilde reise sig, følte hun Blodet fryse i
+  Aarerne – saa tydelig saa hun noget røre sig indunder Egen – – noget
+  halvstort, mørkt med store, tomme Øienhuler – – der rørte det sig
+  igjen – og nærmere kom det – langsomt nærmere – – der strakte det
+  Armen frem. – – – Uden en Lyd segned Rikka Torsen ned over den lille
+  Gravhaug, uvilkaarlig gribende ned i Jorden med Hænderne. – – –
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     «Det er Morbro Klokkeringer, det er Morbro Klokkeringer,» vaagned
+  hun af en Stemme, som sagde. Hun saa usikkert op og saa, det var ingen
+  Død og ingen Djævel, men virkelig Klokkedrageren i Ud med de mørke
+  Hornbriller paa. Han havde ringet Sankthanskvælden ind og var bleven
+  ruslende der efterpaa, – og slig var det da gaaet til, at foruden
+  Rikka Torsen var den gamle Klokkedrager den eneste, som ikke var gaaet
+  afsted til Midtsommerfesten. – Hun tænkte, om hun skulde rømme bort
+  fra ham og siden benegte, at det havde været hende; men saa tænkte hun
+  atter, at det vilde ikke nytte hende stort. Og den døvhørte maatte
+  have sin Mening, den kunde ingen tage fra ham. – Hun reiste sig og
+  blev staaende taus foran Morbroderen.
+    </p>
+    <p>
+     «Gud hjælpe og trøste dig, Jomfru Rikka,» mumled denne. – «Give
+  Gud, din Synd ikke er større, end du kan bære den.» – –
+    </p>
+    <p>
+     «Men jeg ved nok, jeg,» lagde han til – «jeg ved nok hvad, naar
+  Kvinderne kommer snigende og blomstrer Grave ved Nattetid. – – –
+  Kanske vilde nok mange sige,» begyndte han igjen efter en Stilhed, «du
+  gamle Stolling, du arme Tusselad, du pligted at drage Forbrydersken
+  for Retten; for den, som synder mod Jorden, den skal ogsaa lide
+  Jordens Straf. – Men – nei, nei, jeg Klokkedrageren i Ud, jeg tier
+  alligevel stille.» – Den Gamle løfted høitidelig sin Haand mod
+  Himmelen:
+    </p>
+    <p>
+     «Gud skal dømme dig – og Gud skal straffe dig. – – Gud, som ser i
+  Hjerterne, han lader dig faa efter dine Synders Skyld – – hans Arm
+  naar du saa alligevel ikke bort ifra. – Men gak du, Jomfru Rikka – gak
+  du i Fred for mig, Klokkedrageren i Ud.» – –
+    </p>
+   </div></div><div type="group">
+     <head>
+     
+      IV.
+     
+    </head>
+      <div type="chapter">
+    <head>
+     I.
+    </head>
+    <p>
+     En Høst kom, hvori det regned og blæste, og Blæsten aldrig syntes
+  at tage Endskab. – Nogen siger, at Fanden gaar om i sligt forbandet
+  Veir. Andre siger, Guds Vrede er over Jorden. – Hvordan nu dette kan
+  have sig – Bønderne fik ialfald ikke pløiet den Høst, og Fiskernes
+  Garn fandtes iturevne i Sjøen. Kreaturerne satte sig fast i Myrerne,
+  og godt var det, at Sommeren havde været varm, saa Kornet vel var
+  bjerget i Lade. –
+    </p>
+    <p>
+     Det var saa: Formiddagen kunde vel Regn og Blæst holde en Hvil; men
+  ikke før gled det udover Eftermiddagen og mod Kvæld, før store Skyer
+  tog til at bunke sig sammen – i Syd, i Øst, i Vest og i Nord, – og i
+  den tolvte Time, ved Midnat, da havde de store Skyer krøbet op over
+  Himmelen – og røg de sammen deroppe til Uveir og Storm. – Hvem skulde
+  saa tro, dette var Sølvnætternes Tid, den med sin Maaneglans over
+  Taage og blegnet Løv. – Høsten havde ligesom hoppet Sølvnætterne over
+  og lod Jernnætternes Mulm falde ind i September. – – Udover Markerne
+  laa døde Sommerfugle, og mod Syd fløi Trækfuglene under lange,
+  klagende Skrig.
+    </p>
+    <p>
+     – – –
+    </p>
+    <p>
+     At Gan laa paa et vindbart Sted, var uomtvistet Sag. Men saa kunde
+  siges, at ingen rigtig vidste, hvad Uhygge var, før han kom indenfor
+  Gans Døre. For slig var det denne Høst, at var der sluttet en hylende
+  Kreds af Vindtrold om Gan, saa knuged ogsaa derindenfor et
+  Jernnætternes Mørke, hvori ingen Lysning kunde skimtes. –
+    </p>
+    <p>
+     Men der var heller ikke saa mange Mennesker, som kom did. Og heller
+  ikke blev de meget gjæstevenlig modtaget, de faa som kom. – Der sad
+  Madam Torsen med sin Rok og reiste sig saavist aldrig for at finde
+  lidt at byde – ikke en Kop varm Ølost, ikke den elendigste Skjænk med
+  Fusel i. Blot havde hun et uvilligt Sideblik, og lidet andet end ja og
+  nei var at faa af hendes Mund. – Jon Torsen havde nok lært sig til at
+  strikke nu; men det blev lidet med ham, der han sad og ynked sine
+  Vaneynk. – Jomfru Rikka var sjelden at se for Fremmedfolk. Hun var syg
+  – hedtes det – sengeliggende, egen, menneskesky. Og gamle Inger gik
+  oppe hos hende. – Der var saa mangt med Jomfru Rikka: Den Dag, hendes
+  Mor havde sagt, at nu maatte hun reise, for Gyrilda var med Barn
+  igjen, og hun maatte jo være hos den, der trængte hende mest – da
+  havde Jomfru Rikka slaat en Latter op. – Og efter Moderens Afreise var
+  Jomfru Rikkas haarde Sind atter kommet tilsyne. Og haardere blev det
+  Uge for Uge i denne Stormens og Uveirets Tid. –
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     II.
+    </head>
+    <p>
+     Folk, der kunde træffe til at færdes forbi paa Landeveien, hørte
+  undertiden en vild Sang i Blæsten nedifra Sjøen. – En Gut, der engang
+  havde sneget sig nærmere, vidste at fortælle:
+    </p>
+    <p>
+     – Der stod et sort Kvindfolk paa Bjergknausen – sagde han. – Og hun
+  stod og sang noget, som ligned en Salme. Men indimellem lo hun og
+  messed. Og lige, idet han vilde snakke til hende, vendte hun Ansigtet
+  om mod ham – hvidt var det som en Dødnings. – – – Og Gutten havde
+  taget tilbens, faldt og sprunget og faldt igjen, hovedkuls over Stok
+  og Sten, til han stod i Kammeret hos Mor. For saa fælen havde han
+  aldrig været før.
+    </p>
+    <p>
+     Det var Jess Andersen Næsset, denne Gut – netop den samme, som for
+  tre fire Aar siden, havde meldt om det rare, der flød paa Brønden. –
+  Og slig det var i disse mørke Kvælder, syntes han nu, at han i sit
+  unge Liv havde været med til saa mangt, hvortil ingen Forklaring
+  fandtes, at han stundom blev ganske underlig af Nysgjerrighed, og sin
+  Rædsel og Ubeslutsomhed tiltrods begyndte han – næsten som var han en
+  anden Vilje underlagt – at drive om paa Gan Gaards Marker eller
+  skjælvende at krybe i Ly for Veiret indunder Buskene ved Sjøen.
+    </p>
+    <p>
+     – Slig var det, at Jess Næsset engang saa det lyse gjennem en
+  Sprække i den tilspigrede Kjælderglugge paa Gan. Og han skimted ved at
+  titte gjennem Sprækken, afvekslende med høire og venstre Øie, noget
+  som et Kvindfolk, der krøb paa fire derinde og kravsed med Neglene i
+  Jordgulvet. –
+    </p>
+    <p>
+     Og slig var det ogsaa, at Jess Næsset forundred sig saa meget, at
+  hans Forundring kom til at lyde viden om. – –
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Engang Rikka Gan stod paa Bjergknausen og sang ind i Stormen med
+  sin store, uklare Stemme, hændte der hende noget besynderligt. Hun
+  vidste ikke siden, enten det var Drøm eller Virkelighed.
+    </p>
+    <p>
+     Det var, at der udover Fjeldet kom snigende noget mørkt mod
+  hende.
+    </p>
+    <p>
+     «Huscht,» sagde Jomfru Rikka og tramped med Foden. Men det blev der
+  fremdeles. Og hun fortsatte Sangen:
+    </p>
+    <quote>
+     <p>
+      «Haaiaa – jeg bryr mig hverken om Gud eller Fan – for jeg er
+    Rikka Torsen paa Ga – a – an!»
+     </p>
+    </quote>
+    <p>
+     Det sidste skreg hun ud, saa det skingred som et Rædselshyl over
+  Vandet. – Da hosted noget med Jon Torsens Hoste:
+    </p>
+    <p>
+     «Jeg ved det,» sagde det og lo – og hosted paany.
+    </p>
+    <p>
+     «Hvorfor sidder du her, naar du hoster?» spurgte hun.
+    </p>
+    <p>
+     «Jeg sidder overalt, hvor
+     du
+     er,
+  jeg,» svarte det sorte. «Har gjort det hele dit Liv.»
+    </p>
+    <p>
+     «Men jeg har ikke set dig før?»
+    </p>
+    <p>
+     «I alt hvad du gjorde, saa du mig; men du glemte, at jeg var
+  der.»
+    </p>
+    <p>
+     «Hvem er du da?»
+    </p>
+    <p>
+     «Jeg er din Hund og din Herre.»
+    </p>
+    <p>
+     «
+     Hvad
+     er du da?»
+    </p>
+    <p>
+     «Jeg er Rikka Torsens Skjæbne, jeg. – Tst, Rikka Torsen – jeg maa
+  følge dig til Døden; men ikvæld kan du følge mig.» – Saa gled det
+  sorte fore, og Rikka Torsen efter. – De kom op gjennem Gans Have, hvor
+  Trærødderne stod sorte og skalv i Blæsten – de kom forbi de mørke Huse
+  – – og de blev muret rundt af et Mørke saa stort, at Rikka Torsen
+  ingenting vidste. – «Nu er du fremme,» sagde det.
+    </p>
+    <p>
+     Rikka Torsen saa, og saa, at der i Mørket vokste en lysende Plet,
+  flak og bleg, som naar Maanen skinner paa Sneen. – Og hun saa, der
+  blev Liv i Lyskredsen. Og saa tog den til at flimre i lange Striber,
+  indtil den blev til et Vandfald, der fossed grønt og skinnende. Og
+  atter lidt senere til en glitrende Skumsky, som skifted i
+  Regnbuefarver – og saa blev der en Sky af Gnister, mens en Ildstrøm
+  løb dernedenfor. – Og Ildstrømmen gløded og raste, ulmed og slukned –
+  snart rød af Blod, snart skimlet af Galde. Tilslut sort og sugende som
+  Vandet i Sjøen. – Slig bredte det sig udover til en mægtig Flade og
+  forandred sig ikke. Men der blæste iskolde Vinde henover, – og Rikka
+  Torsen toges af en stor Utryghed.
+    </p>
+    <p>
+     «Hvad er det?» hvisked hun. «Hvad kommer?»
+    </p>
+    <p>
+     «Det er Livsens Flod,» svarte det underlige. «Livsens Flod, hvoraf
+  Skjæbnerne fødes. – – Jeg viser dig det, Rikka Torsen, fordi du elsker
+  mig.» Det lo en Latter, hvori hun gjenkjendte sin egen. Og Latteren
+  blev atter til Jon Torsens Hoste. – «Nei,» begyndte det paany – «du
+  ønsker ikke længer at være mig foruden. – Er det kanske ikke til min
+  Pris, du synger, naar du synger i Stormen? Er det kanske ikke til min
+  Pris, du taler, naar Øinene gnistrer og Nakken kneiser? – – Men siden
+  jeg lar dig se i det dulgte, Rikka Torsen, saa lad mig ogsaa sige dig,
+  at ikke sprang jeg, din Skjæbne, af Livsens Flod, da du sprang af
+  Modersliv. For vi Skjæbner, vi blir, hvad vi er, gjennem Slægters Liv,
+  vi. Og ikke havde du, Rikka Torsen, faaet mig til Skjæbne, havde du
+  ikke havt just de Forfædre, du har. – Og saaledes er det, den Vise kan
+  sige: «Hvert Menneskes Skjæbne er bestemt fra Evighed af.» – Ja, slig
+  den lever i Livsens Flod.» – For tredje Gang hosted det med Jon
+  Torsens Hoste.
+    </p>
+    <p>
+     «Hvor er du?» spurgte Rikka Torsen. «Jeg ser dig ikke.»
+    </p>
+    <p>
+     «Se over Floden.»
+    </p>
+    <p>
+     Rikka Torsen saa over den sorte, bølgende Flade. – Og som hun saa,
+  vokste der op fra Dybet Legemet af en rædselsfuld Orm, hvis finnede
+  Bugtninger høined sig tilslut mellem Himmel og Jord. Den rørte sig
+  dovent i den graatunge Luft. Men Vandene steg og bruste. – – Da
+  vaagned Rikka Torsen i en Dødsens Angst, der hun fandt sig liggende
+  dyvaad paa Bjergknausen.
+    </p>
+    <p>
+     Ned i Sjøen var atter Uhyret dukket. Men Regnet silred, og Vinden
+  blæste. Skyerne rørte ved Jorden. Og oppe i Gans Have skalv de krogede
+  Trærødder som i Rædsel.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     III.
+    </head>
+    <p>
+     Det kunde ikke negtes, at der enkelte Nætter var et svare Styr af
+  Stormen. Den rumsterte ind gjennem de aabne Loftsglugger, smældte Døre
+  op, og knaased i Jon Torsens møisommelige Regnskaber.
+    </p>
+    <p>
+     Slig udpaa Natten rusled og rasled det i hver en Krog, og det knap
+  i det gamle Træværk.
+    </p>
+    <p>
+     «Tyh!» sagde, ret som det var, gamle Inger og satte sig op i
+  Sengen.
+    </p>
+    <p>
+     «Hvad hører du, Inger?» spurgte Jomfru Rikka.
+    </p>
+    <p>
+     «Naa blev det borte,» svarte den Gamle. «Ja, slig er det, naar Even
+  Benløs er ude.»
+    </p>
+    <p>
+     «Tyh!» lød det atter om en Stund, og Jomfru Rikka saa der borte i
+  Halvmørket det gamle lyttende Hoved med det rudede Tørklæde knyttet i
+  to Strutter øverst paa Issen.
+    </p>
+    <p>
+     «Hvad er det, Inger – hvad er det?» spurgte hun paany.
+    </p>
+    <p>
+     «Hører du ikke?» hvisked den Gamle – «det tasser som paa
+  Hosesokker. Det knaaser saa laangt, saa laangt. – Naa – hørte du ikke
+  naa? – Det rasled.»
+    </p>
+    <p>
+     «Hvad skulde rasle, Inger?»
+    </p>
+    <p>
+     «Lænken – skjønner du vel.» Den Gamle hvisked saa lavt, at det
+  næsten syntes, kun som Læberne mimred:
+    </p>
+    <p>
+     «Ved du ikke du da, han trækker en Lænkestub efter sig ved venstre
+  Foden – Styggen? Naa – der igjen!» – –
+    </p>
+    <p>
+     «Og der,» hvisked Rikka, pegende mod Væggen, der Skyggen af den
+  Gamles Hoved med Tørklædesnipperne paa Issen dannede noget ligesom
+  besynderligt noget med Horn paa. – Den Gamle fór sammen:
+    </p>
+    <p>
+     «Huf da – slig du skræmte mig!» –
+    </p>
+    <p>
+     Rikka Torsen smilte blegt:
+    </p>
+    <p>
+     «Det er nok du, som næsten skræmmer
+     mig
+     ,» sagde hun. «Jo, det er god
+  Hjælp i at ha dig heroppe.»
+    </p>
+    <p>
+     «Hm, hm!» – Det gamle Tyende slap sig tilbage i Sengen. Men der
+  blev hun liggende og mumle et Salmevers: – – Hvor deilig er din Trones
+  Pragt, hvor vældig er dit Scepters Magt. – – Hvor godt dit Slot, hvor
+  retfærdig – hellig, værdig, fuld af Naade.» – – Op og op igjen,
+  enstonig og søvndyssende, men stadig svagere og fjernere nedifra
+  Puderne – «Retfærdig, hellig, værdig, fuld af Naade.» – –
+    </p>
+    <p>
+     – Den gule Talgpraas brændte saa døsig. Gav nu og da en Blunk med
+  et Par Gnister opimod Taget, satte Tande og oste. Jomfru Rikka rakte
+  Haanden ud og pudsed med Lysesaksen. Saa blev Vægen for kort og gav
+  kun et Lys som af en sodet Lygte. – Udenfor skreg en Musvaag. Nede
+  ifra Sjøen hørtes Lyd som af Skjæl, der klaprer.
+    </p>
+    <p>
+     «Inger,» sagde pludselig Jomfru Rikka. – «Inger – hørte du
+     det
+     , du?» Jomfru Rikka sad opreist
+  i Sengen: «Hører du da ikke, Inger?»
+    </p>
+    <p>
+     «Hvad hører jeg?» spurgte Inger i Søvnørsken.
+    </p>
+    <p>
+     «Smældet deroppe. – Der var det igjen!
+     Der
+     og
+     der
+     . – Den Gamle vendte sig
+  mumlende om paa den anden Side: «Hvor godt dit Slot – hellig, værdig,
+  fuld af Naade» – og sovned paany.
+    </p>
+    <p>
+     Men Rikka Torsen kasted sit Hoved tilbage og lo ved sig selv:
+    </p>
+    <p>
+     «Haa, haa – nei, du skræmmer ikke mig, ser du! Ved sligt føler jeg
+  bare min egen Styrke, jeg. Jeg er, hvad jeg er, og jeg ved det. Hos
+  mig er der ingen saar Samvittighed, som vækkes, ved at Kobberkarret
+  smælder i Stormen. – – – Dump!» Hun hæved Armen og lod den atter
+  synke.
+    </p>
+    <p>
+     «Aa, det er bare Blæsten, det,» mumled Inger. «Kanske Vinduet
+  deroppe er af Hasperne.»
+    </p>
+    <p>
+     «Men om det nu
+     er
+     saa,»
+  fortsatte Rikka Torsen, stadig stirrende op for sig – «at den myrdede
+  Bonde virkelig staar deroppe og slaar i Karret med Knytnæven? – Synes
+  se ham, jeg – synes se ham – – dump, ja! hvordan han staar der med
+  Hevn i sit tykke Gnierfjæs og trommer med Knokerne i Karret. – Saa
+  paastaaelig er han, Bonden, endog udover Døden, i at der gjordes ham
+  Uret ved at stoppe ham fra at æde Tykmelk og formere sin nidske Slægt
+  – – aa, du Vilde Vaa, hvor du vel havde Ret til at dræbe ham – – –
+  ligesom ogsaa alle de skulde være fredløse for Adelshaand, de, som er
+  smaa og ækle af Sind. – Dump! – Du kan holde op, du Bondekal deroppe –
+  du skræmmer mig ikke, har jeg sagt! – – Og indunder Smældene er en
+  Sang i Stormen – – Vilde Vaa – Vilde Vaa – som en Stormmelodi, slig
+  var dine Tanker.» – – Og Jomfru Rikka nynned med til den vilde Sang,
+  hun syntes høre ledsaget af Kobberkarrets dumpe Smæld. Og der hun laa,
+  syntes hun tilsidst se dem begge, den slanke Adelsmand og den plumpe
+  Bonde. – Jomfru Rikka sprang frem paa Gulvet. Gik hid og did. Blev
+  staaende ved Vinduet tilsidst og stirre ud.
+    </p>
+    <p>
+     «Hvad er det?» spurgte Inger bortifra Sengen.
+    </p>
+    <p>
+     – Udenfor suste det som af store Vinger. Sangen, den sang om Sorg,
+  Trods og Vildskab. Og Jomfru Rikka gned sine Hænder:
+    </p>
+    <p>
+     «Min Gud er i Veiret, Inger.»
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     IV.
+    </head>
+    <p>
+     En Eftermiddag sad Fernanda Torsen som vanlig ved sin Rok og med
+  sine Smaapiger om sig. – Joh Torsen sad i sin Stol og spikked
+  Nikkemænd og Uroer til at sætte paa Ovnen. – Uroerne nikked og bukked
+  alt dybere, eftersom Dagen led og Blæsten tiltog. Og Jon Torsen glæded
+  sig mer end Børnene, der, vante med Tilstellingen, stod noksaa
+  ligeglade og saa til med Hænderne paa Ryggen.
+    </p>
+    <p>
+     «De siger ja til alt, du spørger om,» forklarte han netop. «Og
+  Livet er dem saare bekvemt – bare de ikke bukker udfor.» Idetsamme
+  slængtes Døren op, saa Trækvinden blæste Lyset ud, og alle Jon Torsens
+  Nikkemænd ramled i Gulvet. Den yngste af Børnene begyndte at sutre, og
+  de to ældste hvisked forskrækket:
+    </p>
+    <p>
+     «Mor, Far – hvor er I?»
+    </p>
+    <p>
+     «Hvor er I, ja,» svarte Rikka Torsens Stemme, og hun hented en
+  Stikke og tændte Lyset for dem. Saa tog hun en Stol og satte sig hen
+  foran Fernanda Torsen. – Børnene tydde sig sky ind til Moderen. Jon
+  Torsen stilled hostende Uroerne op paa Ovnskanten med sine magre
+  Hænder, og paany begyndtes der med lange og korte Buk i Buk. –
+    </p>
+    <p>
+     «Naa,» spurgte Rikka Torsen – «gaar det dig efter Vilje,
+  Fernanda?»
+    </p>
+    <p>
+     «Hvordan mener du?» svarte den anden og saa hende stivt igjen ind i
+  Øinene.
+    </p>
+    <p>
+     «Har du godt Udkomme for Smaapigerne?»
+    </p>
+    <p>
+     «Derom trodde jeg ikke, du behøved spørge.»
+    </p>
+    <p>
+     «Jeg vilde jo gjerne høre det bekræftet,» sagde Rikka Torsen
+  haanlig. – Dertil svarte ikke den anden. Men de blev siddende og
+  stirre paa hinanden. –
+    </p>
+    <p>
+     «Har du ikke seet mig før?» spurgte tilsidst Fernanda.
+    </p>
+    <p>
+     «Gud bedre det,» sagde den anden. Og atter taug de og stirred.
+  –
+    </p>
+    <p>
+     «Tog du dig noget for, blev du lempeligere,» sagde Fernanda Torsen
+  saa.
+    </p>
+    <p>
+     «Hvis du vil, kan jeg gjerne reise fra jer.»
+    </p>
+    <p>
+     – Deres Nidstirring blev fiendtlig. Rikka Torsen lo lydløst, mens
+  der gik en styg Flimmer over hendes Øine:
+    </p>
+    <p>
+     «Lille Fernanda vokser jo til nu.» Hun tog og vendte Barnet om mod
+  Lyset: «Hun blir pen, Ungen, du. Gratulerer dig, Svigerinde, jeg
+  tænker nok, det gaar.» – Den anden kneb Læberne sammen og kunde ikke
+  faa ret Tvinn paa Traaden:
+    </p>
+    <p>
+     «Tag ikke i Barnet mit, du,» hvisked hun hæst. «Der blir Mærker
+  efter Fingrene dine.»
+    </p>
+    <p>
+     «Pas du Mærkerne efter dine egne Fingre,» svarte Rikka Torsen
+  haankoldt – «du kan s'gu mer end læse Fadervor bagvendt. – – Hvad
+  siger du da, Lillefernanda,» spurgte hun Barnet, «om at bli Faster
+  Rikkas Stedfortræder paa Gan – – gaa her saa pent og rusle?»
+    </p>
+    <p>
+     «Lad være, siger jeg!» Fernanda rev den Lille heftig til sig. «Dit
+  Udyr du er.»
+    </p>
+    <p>
+     Rikka Torsen fik nogle Trækninger om Munden, og var det et Par
+  Øieblikke med hende som med hendes Mor, at hun havde vanskeligt for at
+  holde Hovedet roligt.
+    </p>
+    <p>
+     «Jeg gad vide,» sagde hun saa, langsomt og lavt – «hvem igrunden er
+  det største Udyr af os?» –
+    </p>
+    <p>
+     «Det største Udyr er den, som gjør Barn Fortræd,» fremstødte
+  Fernanda Torsen.
+    </p>
+    <p>
+     «Da er du vel ikke
+     selv
+     sikker,
+  Fernanda?»
+    </p>
+    <p>
+     «Ti, ti – du Styggen – hvad har vel
+     jeg
+     gjort i Sammenligning med
+  dig?»
+    </p>
+    <p>
+     Rikka Torsen læned sig hviskende nærmere, Øinene hvidned og lo: – –
+  «Det ene er vel ikke bedre end det andet,» kunde høres – – – «naar
+  Lillefernanda bare blir fjorten – – –»
+    </p>
+    <p>
+     Da reiste Fernanda Torsen sig, tirret til det yderste: – «Du – du –
+  du,» gnissed hun hæst frem mellem Tænderne – med en Bevægelse, som
+  ønsked hun slaa med Tenen.
+    </p>
+    <p>
+     «Hvorfor er du saa vond paa Faster Rikka, Mor?» afbrød nu pludselig
+  en forskræmt liden Stemme bortifra Krogen. «Faster Rikka er jo god mod
+  mig, hun.»
+    </p>
+    <p>
+     Rikka Torsen saa didhen. – «Er jeg god mod dig, Lillefernanda?»
+  sagde hun hurtig.
+    </p>
+    <p>
+     «Ja,» svarte den Lille og fæsted sine store, troskyldige Øine paa
+  hende – «du siger jo altid, jeg skal faa være her efter dig. – Jeg er
+  glad i dig for det, jeg, Faster Rikka.» –
+    </p>
+    <p>
+     Rikka Torsen reiste sig langsomt og skjøv Stolen tilbage. Der blev
+  hun staaende, mens et Træk af en stor Skamfuldhed gled hende over
+  Ansigtet. – Saa vendte hun sig om uden et Ord og gik stille henimod
+  Døren.
+    </p>
+    <p>
+     «Det er sandt, Fernanda,» sagde hun derborte – «det værste Udyret
+  er jeg.»
+    </p>
+    <p>
+     Saa saa hun paa den Lille med et Blik som en saaret og lukked
+  forsigtig Døren efter sig. – –
+    </p>
+    <p>
+     – En liden Stund senere hændte det, at gamle Inger kom ind fra
+  Kjøkkenet:
+    </p>
+    <p>
+     «Jomfru Rikka graater,» sagde hun.
+    </p>
+    <p>
+     «Jomfru Rikka graater,» sagde ogsaa en gammel Lægdemand, som sad
+  derude.
+    </p>
+    <p>
+     Jon Torsen holdt Haanden bag det ene Øre:
+    </p>
+    <p>
+     «Graater Jomfru Rikka?» spurgte han.
+    </p>
+    <p>
+     Fernanda Torsen gik hen til Gangdøren og lytted:
+    </p>
+    <p>
+     «Ja, Jomfru Rikka graater, «nikked hun. Og de hørte alle en kvalt
+  Hulk indifra Jomfru Rikkas Værelse.
+    </p>
+    <p>
+     «Faster Rikka graater,» sagde Lillefernanda.
+    </p>
+    <p>
+     «Faster Rikka graater,» lalled de to mindste tankeløst efter.
+    </p>
+    <p>
+     «Gaa ind, du, og trøst Faster Rikka,» sagde Fernanda Torsen rapt og
+  skjøv Lillefernanda over Gangen.
+    </p>
+    <p>
+     Saa lukkedes Døren. Og der blev saa tyst i den store Stue. Bare
+  Vinden som peb om Hushjørnerne.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Efter denne Aften – saa kunde tydelig spores – foregik en stor
+  Forandring med Rikka Torsens Sind. – Hun kom ikke længer paa Stormens
+  Vis ind i Stuen, hun gik ikke ud, naar andre trak Dynen over Hovedet,
+  og hun laa ikke længer Nætterne udover og fantaserte og lo til Uhyggen
+  om sig. Heller ikke sang hun i Uveiret om Ormegaarden i Sjælen og
+  forsøgte ikke længer at skræmme sine Medmennesker ind i Musehullerne.
+  –
+    </p>
+    <p>
+     Hvad angik Rikka Torsens Forhold ligeoverfor hendes lille
+  Brordatter, saa havde hun siden hin Gang faaet en stor Godhed for
+  Barnet.
+    </p>
+    <p>
+     «Du Lillefernanda,» sagde hun saaledes engang, «kunde jeg saasandt
+  gjøre noget for dig – noget varigt godt – udover idag og imorgen.» Og
+  Tanken vokste sig stor hos hende, lysned sig ud som en Bjerk iblandt
+  Tidsler. Samtidig dog som hun fremdeles lod til at være tagen af en
+  Skamfuldhed for Barnet, og der hun saa den lille Pige, gik hun ofte
+  sky Svinger udenom.
+    </p>
+    <p>
+     Rikka Torsen begyndte forresten i denne Tid ogsaa at gaa afveien
+  for alle og enhver, og hørte hun Stemmer inde i Stuen, gik hun aldrig
+  derind.
+    </p>
+    <p>
+     Alt imedens holdt Styggeveiret sin evindelige Rumstering, hvor i
+  Huset det bare kunde slippe ind. Og nu laa Rikka og krøb sammen i
+  Sengen:
+    </p>
+    <p>
+     «Smælder det, Inger?» spurgte hun. «Jo, jeg tror, det smældte. Og
+  det gir saa dumpe Slag – hør! – Ved du, jeg synes, det ligner den
+  store Kirkeklokke i Ud. – Aa, at det skulde være her, det Karret. Nei,
+  det nytter ikke at flytte det bort, Inger. – – – Nu ved jeg: Laa det
+  end dybt nede i Sjøen, da vilde jeg høre det dumpe dybt nedifra, hver
+  Gang jeg bare kom paa Bjergknausen. – – Hør, hør! – aa Herre Gud –
+  ikke behøver du at hamre min Skyldbevidsthed ind i Hjertet nu. Saart
+  er det, og som Varme svider det for hvert af dine Slag! – – Ja, ser
+  du, Inger; for det er ikke, som jeg sagde dig før, nogen nærig
+  Bondemand som staar der og dunker for Hevns Skyld. Gudehaand er det
+  deroppe – for at minde og minde mig om mine Synder – i Døden skal
+  Misdæderen drives – til Døden skal Misdæderen bankes. Og Helvedet
+  begynder paa Jorden for det, som aldrig kan sones. Hør du – hør! –
+  slig levende Magt har Gud lagt i det Kobber. – – – Ja, ja – jeg ser
+  jer jo alle – ulykkelige vilde I blit; men Gud taaler ikke Indgriben i
+  sin Styrelse, derfor banker han. – – Hvad siger jeg? – Gud er
+  retfærdig – – hør! – Gud er Dommer. – Men er Gud da Bøddel, Inger. –
+  Kan du svare mig? – Aa aa, det Karret – det Karret! – –
+    </p>
+    <p>
+     Men Inger – hører du? – her jeg ligger og skjælver, kunde jeg ønske
+  at gaa ned til Sjøen, som han gjorde, han, den svenske Greven – tror
+  du han kom over, eller – tror du han blev der? – Kanske kom han
+  alligevel over! – – Jeg vilde ogsaa rømme – rømme over Sjøen – – hvem
+  ved, om ikke et nyt Liv kunde spire for mig derover? – Om ikke Gud,
+  som er naadig, vilde la mig faa leve før Døden. – – – Men – – der
+  smældte det stygt du!»
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     V.
+    </head>
+    <p>
+     Den gamle Prokurator paa Haug sad en Aftenstund i sit Kontor og
+  bladed i en gammel Foliant.
+    </p>
+    <p>
+     Den gamle Prokurators skarptskaarne Ansigt var blegt som altid; men
+  tættere end ellers fór de nervøse Trækninger om Munden. – Det var da
+  ogsaa en Sag saa sort, som Menneskesind kan tænke den, som
+  Menneskehaand kan udføre den, – den Sag, han nu fulgte fra Forhør til
+  Forhør indtil Forbryderskens Død paa Skafottet. Det var en Retssag, om
+  end forlængst overstanden, saa dog endnu skrigende hæst i
+  Menneskeminde: Rygter, som i en Aarrække sived ud dengang, havde ledet
+  til Undersøgelse, og hvad derved og gjennem Forhørene kom for Dagens
+  Lys, var mer end Øine taalte se, og Øren taalte høre. –
+    </p>
+    <p>
+     Nu var ogsaa stygge Rygter begyndt at flyde om i Bygden, og den
+  gamle Prokurator lagde Momenterne sammen – og trak nu, enten han vilde
+  eller ikke, Paralleler mellem dette nye, som havde naaet frem til ham,
+  og den gamle Kriminalhistorie i Folianten. –
+     Saa
+     læste den lille Prokurator:
+    </p>
+    <p>
+     «Jomfru Olivia F . . . ., Datter af Ritmester F . . . ., boende paa
+  Chefsgaarden Braaten i Ud. – Hm! Af gammel Familie, ja – Stoltheden
+  hævdet fra Barneaarene af. Faderen meget streng, eller kanske – svag i
+  Modgang! – – Usympathisk Ydre: Store Øren og Mund med tykke Læber. – –
+  – Naa saa saa» – den gamle Prokurator pusted lettet. – «For fire Aar
+  tilbage forlovet med en Løitnant, der pludselig reiste fra hende,
+  hvilket syntes at foraarsage hende ulidelig Sorg og Kvide. – – For tre
+  Aar tilbage befunden i nogenslags Forstaaelse med en Student, Huslærer
+  for hendes yngre Bror. – For to Aar tilbage ofte støiende i Kjøkkenet
+  med Tjenestegutten. – – – Hm – Stoltheden? – – – Siden overrasket paa
+  den gamle Husmand Nils Iversens Fang. – – – Naa saa saa» – den gamle
+  Prokurator smilte næsten velvilligt. – «Tilsidst, i Arresten, efter
+  Dødsdommens Afsigelse, udvisende sine libidinøse Tendenser endog
+  ligeoverfor Vogteren.» – – Prokuratoren slog Folianten igjen med et
+  stort Smæld: – «Her sidder jeg og søger Lighedspunkter mellem et
+  tarveligt Dyr af et Kvindfolk og hende, min blege Dronning paa Gan.
+  Her sidder jeg og søger at inculpere hende paa løseste Mistanke; fordi
+  en gammel, sladdervorren Husholderske fortæller om en opskræmt
+  Guttepoik, der har seet – hvad ved jeg? – Syner. Jeg, Prokuratoren paa
+  Haug, som heller skulde gaa til hende og si, at hun var mig kjærere
+  end alt andet i Livet» – – han afbrød sig selv, fordi noget hørtes
+  rusle ude i Gangen. – «Karoline!» raabte han til Husholdersken, «der
+  er vist nogen derude!» – Og han snudde sig halvt om paa Stolen, idet
+  Døren aabnedes, og en Kvinde med et Tørklæde for Ansigtet traadte
+  ind.
+    </p>
+    <p>
+     Denne Kvinde hilste ikke. Blev et Øieblik staaende ved Døren og
+  skjøv saa stiltiende Tørklædet fra Ansigtet. – Det gav et Sætt i den
+  gamle Prokurator. Saa reiste han sig raskt og gik med udrakte Hænder
+  mod hende:
+    </p>
+    <p>
+     «Jomfru Rikka,» sagde han med en Stemme, der skalv af Bevægelse –
+  «jeg sad just og tænkte paa Dem.»
+    </p>
+    <p>
+     Rikka Torsen traadte et Skridt tilbage og trak sine Hænder til
+  sig:
+    </p>
+    <p>
+     «Rør dem ikke, Prokurator – rør dem ikke.»
+    </p>
+    <p>
+     «Vist maa jeg røre dem,» sagde den gamle Kavaler – «saa ædle og
+  hvide Hænder» – og glemmende alt for sin Forelskelse, bøied han sig
+  ærbødig og berørte Rikka Torsens Hænder med sine Læber. – Saa hjalp
+  den gamle Prokurator hende Tøiet af og hængte det omhyggelig paa
+  Ryggen af en Stol.
+    </p>
+    <p>
+     «Jomfru Rikka var god, som kom indom mig i denne Uveirets Kvæld,»
+  sagde han. «Jomfru Rikka var vel paa Hjemveien fra Morbroderen i Ud?»
+  lagde han halvt smilende til.
+    </p>
+    <p>
+     «Nei. Jeg kommer nok ikke hid for Godheds Skyld,» svarte Rikka
+  Torsen, – og idet hun satte sig ned indenfor Lyskredsen, fór den lille
+  Prokurator tilbage. For et hvidere Ansigt havde han aldrig seet. – Og
+  som han blev staaende saaledes, den gamle Prokurator, og stirre ind i
+  dette retlinjede Ansigt, der, omgivet af det halvvaade Haar i uordnede
+  Lokker, minded om de Billeder, der undertiden sees af Medusa, – da
+  faldt det ham ind med en stor Klarhed, at her var nok Ærindet af en
+  gruopvækkende Sort. –
+    </p>
+    <p>
+     «Hvad tænkte De saa, Prokurator, før jeg kom?» begyndte Rikka
+  Torsen.
+    </p>
+    <p>
+     «Om De, Jomfru Rikka, mon skulde være en Syndens Dronning,» svarte
+  han langsomt; fordi han ret for hendes Øines og Ansigts Ind flydelse
+  ikke kunde snakke anderledes, end netop som han gjorde.
+    </p>
+    <p>
+     «Syndens Trælkvinde er jeg, Prokurator – og saavidt er det kommet,
+  at nu faar jeg bekjende mine Misgjerninger for Menneskers
+  Domstol.»
+    </p>
+    <p>
+     «Saa saa – saa saa,» – den gamle Prokurator skjøv stammende sin
+  Stol tilbage. «Men hvorfor kom De saa til mig, Jomfru Rikka? Hvorfor
+  gik de ikke heller til en af Statens Tjenere? – Til Lensmand, Fut
+  eller Skriver?» –
+    </p>
+    <p>
+     Det drog sig til et flygtigt Smil om Rikka Torsens Mund:
+    </p>
+    <p>
+     «Fordi jeg har Tillid til Dem, Prokurator. Og fordi De, hvis De
+  vilde, kunde hjælpe mig med noget.» Hun bøied sig nærmere, og
+  Udtrykket blev spændt af Iver:
+    </p>
+    <p>
+     «Bare jeg nu faar forklaret Dem dette.» – – Og Rikka Torsen
+  fortalte uden Omsvøb og Sky om sine forbryderske Veie og mangehaande
+  Tanker, de, der nu fornylig havde affødt Beslutningen hos hende at
+  tage Jordens Straffedom paa sig, – men nu tilsidst havde indgivet
+  hende en Tvil. – –
+    </p>
+    <p>
+     Fra først af hørte Prokuratoren kun saa halvt efter Rikka Torsens
+  Fortælling – optaget som han var af sin egen Skuffelse. Men eftersom
+  Juristen i ham vandt Overhaand, kom der lidt efter lidt Liv i hans
+  Ansigt. –
+    </p>
+    <p>
+     – «Saaledes mente jeg,» slutted Rikka Torsen, «jeg var istand til
+  at værge min lille Brordatter fra en Skjæbne, haard som min. – Ja,
+  hvis da De, Prokurator, vil hjælpe mig paa den Maade?»
+    </p>
+    <p>
+     – Den gamle Prokurator sad længe taus og tænkte sig om med Fingeren
+  langs Næsen.
+    </p>
+    <p>
+     «Jeg skal gjøre, som du mener,» sagde han endelig. «Jeg skal agere
+  Eftermaalsmand, og samtidig holde Lovens Arm tilbage, indtil du faar
+  udført dit Kneb. – Jeg skal handle mod min Overbevisning, fordi jeg
+  har følt Kjærlighed for dig, Rikka Torsen – – og dette Offer vil jeg
+  lægge paa min Kjærligheds Grav,» lagde han utydelig til og sukked. –
+  –
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     VI.
+    </head>
+    <p>
+     Mattias Aga kom en Eftermiddag kjørende gjennem Silregnet til Gan,
+  der han nu ikke havde sat sin brede Fod siden Forsommerens Tid. –
+    </p>
+    <p>
+     Da Mattias Aga havde lagt Tøiet af og med sit ludende Hoved var
+  traadt ind i Storstuen paa Gan, bar han sig ad som de Folk flest,
+  hvilke en Bekymring trykker: Han blev urolig gaaende frem og tilbage
+  paa Gulvet og vilde ikke tage Føde til sig. – Og da Fernanda Torsen
+  tilsidst fik nødet ham til at sætte sig ned ved Bordet, blev han
+  siddende med Haand under Kind og stirre mørkt fremfor sig. Jomfru
+  Rikka der borte ved Vinduet strakte Hovedet frem og smilte.
+    </p>
+    <p>
+     «Feiler Aga noget?» spurgte Fernanda Torsen omsorgsfuldt. «Har
+  kanske Aga forkjølet sig underveis? – Saa faar vel nogen sendes op
+  iaften med Hyldethe og Franskvin – – eller hvad siger du, Rikka? – Nei
+  – forsøg nu bare det lille Stykke, Hr. Aga, det er Nyre i.»
+    </p>
+    <p>
+     «Pinedød – jeg vil jo ikke ha da, Menneske!» fór Aga pludselig op.
+  – Fernanda Torsen trak paa Skulderen og reiste sig for at gaa ud:
+    </p>
+    <p>
+     «Nei nei, Hr. Aga.»
+    </p>
+    <p>
+     «Naa, det var forresten ikke saa ondt ment, Madam Torsen,» tog Aga
+  sig undskyldende sammen. «Jeg har nogle Forretninger, jeg tænker paa –
+  og desuden har jeg en Jobspost at bringe. – – – Det er ikke godt, nei,
+  naar saant falder i ens Hus.»
+    </p>
+    <p>
+     «Hvad er det, Aga?» spurgte Fernanda Torsen lavt, idet hun kom
+  tilbage. «Aga ved dog: Paa os kan han stole som paa sig selv.»
+    </p>
+    <p>
+     «Her er det,» sagde Mattias Aga, han tog et Dokument op af
+  Frakkelommen og bredte det udover Bordet. – Saaledes lød denne
+  Skrivelse:
+    </p>
+    <p>
+     «Til velbaarne Hr. Mattias Aga, .....
+     Dette for at meddele
+  Dem, at De i Anledning en i Deres Hus i Ud boende Kvindesperson,
+  Jomfru Rikka Torsen, – der, som inculperet for visse scandaleuse
+  Forbrydelser – D. og N. L. 6 – 6 – 7 – snarest bliver at anholde efter
+  forudgaaende Aastedsbefaring,
+     medicina
+  forensis
+     og Vidneførsel, – faar under Falsmaals Straf at indfinde
+  Dem paa Deres eiendes Gaard Gan i Ud trende Dage fra Datum.
+     Fra
+  Theodor Klyne, Prokurator i Ud.»
+    </p>
+    <p>
+     «Her skal da bli Opstyr,» mumled Mattias Aga, idet han folded dette
+  besynderlige Stævningsdokument sammen og stak det tilbage i
+  Frakkelommen.
+    </p>
+    <p>
+     Fernanda Torsen havde støttet sin Haand mod Bordet under
+  Læsningen.
+    </p>
+    <p>
+     «Lad saa bli,» sagde hun saa; men det lød lidet bestemt til hende
+  at være – «deraf vil intet komme.»
+    </p>
+    <p>
+     «Det vil nok,» svarte Mattias Aga og saa vist op paa hende: «Ved
+  De, hvad
+     medicina forensis
+     betyder?
+  – Undersøgelse af Delinkventens Legeme – kommer De forbi
+     det?
+     – – – Kunde Mennesket se
+  forud,» lagde han til, bitter i Tonefaldet – «skulde jeg vel ha vogtet
+  mig for de Personer, som hin Dag for Aar tilbage kom paa mit
+  Kontor.»
+    </p>
+    <p>
+     «Ikke behøver dog dette at skade hverken Dem eller os andre, Hr.
+  Aga,» sagde Fernanda Torsen efter en kort Betænkning. «Rikka Torsen
+  faar selv – og alene – tage sit Kors paa sig. Ikke sandt, Rikka,»
+  henvendte hun sig til denne, som den hele Tid havde siddet stille
+  derborte med fremstrakt Hoved og smilt – «ikke sandt, Svigerinde – du
+  er taus som Graven, du?»
+    </p>
+    <p>
+     «Nei, alt skal for Dagen,» lød nu Rikka Torsens Stemme, kold og
+  høi. «Mig er nu Skylden bleven for stor, og ikke øger jeg den mer med
+  Løgn eller Fortielse.»
+    </p>
+    <p>
+     Da var det, at den stærke Fernanda Torsen raved som for Slag, og
+  Mattias Aga fór op som stukket.
+    </p>
+    <p>
+     «Gaa nu ud, Fernanda – det er med Aga, jeg skal snakke,» sagde saa
+  Rikka Torsen lavt. Og paa et Tegn fra Aga gik Fernanda Torsen under
+  sagte Ynk og vridende sine Hænder ud af Stuen. –
+    </p>
+    <p>
+     «Hvad – hvad var det, du vilde gjøre?» spurgte Aga truende, der han
+  blev staaende foran hende.
+    </p>
+    <p>
+     «Nævne mine Medskyldige.»
+    </p>
+    <p>
+     «Derved vinder du ingen Naade.»
+    </p>
+    <p>
+     «Ikke af Mennesker. Men kanske af min Herre og Gud.» – Mattias Aga
+  blev staaende og se skummelt paa hende:
+    </p>
+    <p>
+     «Det nytter dig ikke,» sagde han – «du faar ikke trukket mig med.
+  Jeg har ingenting vidst, lille Rikka.»
+    </p>
+    <p>
+     Rikka Torsen trak Øienbrynene i Veiret:
+    </p>
+    <p>
+     «Fortæl nogen, at Aga ikke havde Øine at se med og Hoved at tænke
+  med – og se til, om de vil tro det.»
+    </p>
+    <p>
+     Mattias Aga tog til at vandre frem og tilbage over Gulvet i stærkt
+  Oprør:
+    </p>
+    <p>
+     «Du er gal. – Du er gal,» sagde han undertiden og stopped op foran
+  hende – «hvad vil du rode mig op i?» – Og han gik og gik, og stopped
+  paany:
+    </p>
+    <p>
+     «Hahaha – det var en vakker Historie – jeg, Mattias Aga.» – Og
+  atter begyndte han sin endeløse Gang.
+    </p>
+    <p>
+     «Tier du, skal du ikke tabe ved det,» hed det tilslut.
+    </p>
+    <p>
+     «Jeg har heller ingenting at tabe,» sagde Rikka Torsen koldt.
+    </p>
+    <p>
+     «Hør her, Riketta,» forsøgte han saa at overtale. «Jeg reiser til
+  Udlandet. Du tier. Og naar jeg kommer tilbage, er Sagen bortdøet og
+  mit Navn forskaanet.»
+    </p>
+    <p>
+     «Og Rikka Torsens Tunge stum for altid, mener du? – da er du
+  sikker, Aga.»
+    </p>
+    <p>
+     «Tier du, Riketta – skal du sagtens komme i kristen Jord.»
+    </p>
+    <p>
+     «Aa – fortjener jeg kristen Jord, saa faar jeg den nok alligevel.
+  Og det er efter min Fortjeneste, jeg skal ha.»
+    </p>
+    <p>
+     Da slog Mattias Aga sig for Panden og blev gaaende derinde med
+  tunge Skridt til langt paa Nat. Og Rikka Torsen blev siddende halvt
+  sammenkrøben paa sin Plads ved Vinduet, følgende ham med Øinene, frem
+  og tilbage, frem og tilbage – lig et Rovdyr, der lurer paa Bytte.
+    </p>
+    <p>
+     – Først langt ud paa Natten, da Regnet slog mod Ruderne og knaased,
+  som om nogen skulde staa der og kikke ind, fandt Rikka Torsen, at
+  Tiden var inde, – og hun reiste sig fra Stolen:
+    </p>
+    <p>
+     «Jeg ser, du har det ondt,» sagde hun. «Og det er vel ogsaa saa, at
+  det er værre for dig at miste dit Navn end for mig at miste Livet. –
+  Derfor har jeg hele Tiden siddet og søgt efter en Løsning paa dette.
+  Og nu tror jeg, jeg har fundet den.» – Aga tog hendes Haand:
+    </p>
+    <p>
+     «Hvad har du saa tænkt ud?» spurgte han.
+    </p>
+    <p>
+     «At jeg skal rømme – ikke andet. Men naar jeg er borte, vil ogsaa
+  det andet falde bort.» – Mattias Aga pusted lettere:
+    </p>
+    <p>
+     «Kunde det lykkes, Riketta, skulde jeg evig takke dig.»
+    </p>
+    <p>
+     «Det vil koste Aga mer end Takken,» sagde nu Rikka Torsen. Og hun
+  kunde ikke tvinge et Smil tilbage, da hun fortsatte:
+    </p>
+    <p>
+     «Det vil koste Aga Gans Bortforpagtning paa Livstid til min Bror.
+  Og det vil koste Aga et Gavebrev paa 3000 Spd til min ældste
+  Brordatter. – Og tilsidst maa Aga holde Heste færdige til mig paa
+  Graaen Skydsskifte.»
+    </p>
+    <p>
+     Da hændte det sagtens, at Mattias Aga prutted med hende og lod
+  mange Ord falde, at denne Udvei havde hun ikke foreslaaet af
+  Kjærlighed til ham. Men Rikka Torsen veg ikke en Haarsbred. Og
+  saaledes blev det, da den graa Dag sev ind af Vinduerne, at hun havde
+  faaet alt, som hun vilde. – –
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     VII.
+    </head>
+    <p>
+     Det var mod Aften på Gan.
+    </p>
+    <p>
+     Aga var reist allerede paa Formiddagen, dog først efterat
+  Dokumenterne var opsatte af den gamle Prokurator. Og nu laa de der
+  færdige med Vidners Underskrift.
+    </p>
+    <p>
+     Jon Torsen sad i stille Forundring. Og Fernanda Torsen gik rundt
+  med et fornøiet Drag om Munden. – Ellers lod det sig, at hun knapt
+  vidste, hvad godt hun nu skulde gjøre sin Svigerinde, slig hun disked
+  op med det bedste, Huset formaaed, og var det rent, som om hun krøb,
+  naar Rikka Torsen saa paa hende. Men naar Fernanda Torsen endogsaa
+  tilbød sig at ro sin Svigerinde over Sjøen, spilled vel en Del
+  Beregning med, idet hun hverken brød sig om at have Fremmede oppi
+  Tingen eller miste Baaden derover. –
+    </p>
+    <p>
+     Der blev ikke talt stort imellem de to Svigerinder, og hvad Rikka
+  angik, skulde det være vanskeligt at sige, hvorvidt hendes Tanker laa
+  i en Slags Skindød, eller hun gik og ante fjerne Syner der over Sjøen.
+  –
+    </p>
+    <p>
+     Nu havde Fernanda Torsen taget sit Syltetøi og sine varme Kager,
+  sin Hæggebærvin og sin tykke Fløde urørt af Bordet, og istedet sat ind
+  en pebret Spise af fedt Faar. Og nu var Rikka Gan borte. – – – – –
+  –
+    </p>
+    <p>
+     Rikka Gan gik gjennem alle Gan Gaards Værelser og mørke Rum. Hun
+  saa dem som for første Gang i sit Liv, og hun tog Afsked med dem som
+  en, der skal reise en lang Reise, men nok tror sig at komme tilbage
+  engang – med Straalekrans om Hovedet. – Rikka Gan stod en Stund i
+  hvert af de halvmørke Rum og saa sig om ifra Gulv til Tag, og det drog
+  forbi hende i en ustanselig Strøm – Ord, som her var blevet sagt,
+  Handlinger, som her var blevet udførte. – Se her, her var det ogsaa,
+  hun en Vaardag havde skrevet «Vilde Vaa» paa Bjelken, da hun syntes
+  Verdens Skjønhed smilte. – – Nu var mange Aar forløbne og nu – Rikka
+  Torsen rev en Naal ud af sit Haar og skrev i begyndende Trods sit eget
+  Navn dernedenunder med store, haarde Skrifttræk, og Datum og Aarstal.
+  For: – Ikke var Livet endnu tabt – nei, nei – gjennem Brot og Brand –
+  intet skulde knække hende! – Hvad havde egentlig hun gjort, hun, Rikka
+  Torsen? En ond Skjæbne var det, som havde holdt hende fast i lange
+  Fangarme. Og hun havde været vild som det bundne Skogsdyr. – – –
+  Skulde hun kanske straffes for sin egen Skjæbne? – Nei – langt derover
+  der skulde Solen lyse! – – «Jeg takker dig, Gud,» sagde Rikka Gan
+  høitidelig og folded sine Hænder, «fordi du har løst Lænkerne for mig
+  nu.» – –
+    </p>
+    <p>
+     Ude paa den lange Gang der saa hun nedad Trapperne. – – – Tredive
+  Alen havde et Brudeslæb været paa Gan: Da Bruden stod borterst i
+  Gangen, da flød endnu Slæbet som en hvidfossende Bæk nedad alle
+  Trapper. – Hvem vidste, hvad Tiden gav – engang naar Rikka Gan kom
+  tilbage – – Pauker og Trommer, Rikka Torsen, – Mænd paa hvide Heste og
+  Fruer med flagrende Fjær – – Fakler og Blomster høit omkring Gan – og
+  silkebetrukne Vægge. – Hvad er umuligt, Rikka Torsen, for den, der er
+  stærk, den, der har Vilje, Skjønhed, Ungdom og List? – List som en
+  Slange imellem Torne.
+    </p>
+    <p>
+     Etsteds blev Rikka Torsen staaende og se ned for sig. – – – Den
+  Tærskel der – over den havde mange snublet. Ikke fordi den var hverken
+  bred eller høi. Men der laa over den som en Rendesnare af Ondskab. Thi
+  indenfor havde en Tid uvillige Menneskers Domstol staaet. –
+    </p>
+    <p>
+     Saa traadte da Rikka Torsen over den, – og der i Skummerheden var
+  det, som fornam hun en Hvisking om Gjerninger, der var gjort – og
+  uretfærdig bedømte. – Og hun tænkte paa sine egne – og der fandtes
+  ikke Anger i hendes Sjæl. –
+    </p>
+    <p>
+     «Rikka skal ride Uveir af som en Havgast,» sagde hun ved sig selv
+  efter noget, hun engang havde hørt. Og videre gik hun fra Rum til Rum.
+  Og undertiden lod hun Haanden glide kjærtegnende henover Bjelkerne: –
+  – «Da skulde I komme til Ære,» mumled hun, «om jers Aand stod mig bi
+  frem i Livet.» – Og atter dukked der frem for Rikka Torsen et Feland,
+  et Fata Morgana, som nu engang var kommet til at skinne i hendes
+  Levnets uendelige Ørken. – – – Og da tog Rikka Torsen til at drømme
+  med et Haansmil om Læberne, som vilde hun sige: Se, kan
+     jeg
+     ikke tænke lyse Tanker endnu!
+  Ja svært mig bare til, du Skjæbne – jeg skal leve og stride som
+  Uveiret selv, det som har gnistrende Lyn og Brand i Mørket – – hvad
+  knuser mig, Rikka Torsen? –
+    </p>
+    <p>
+     Og Rikka Gan saa sig om i det store Hjørneværelse, det med
+  Uldhaugene udover Gulvet. Hun saa paa det store Kobberkar der paa
+  Bordet og gav det endog et Dunk med Knokerne – fandt ud, det var
+  alligevel ikke den Lyd, hun havde hørt i sit Værelse, de Nætter hun
+  havde frygtet.
+    </p>
+    <p>
+     Hun tog endogsaa i det gamle Bæger og gik hen til Vinduet med det.
+  – – – Saa gaadefuldt det var, dette Bæger! – Og i sin stigende Trods
+  ridsed hun med Naalen Tegnene efter rundt Randen. – Da saa hun
+  rigtignok, der kom en gulagtig Farve frem af Støvet – – hun saa, der
+  blev Bogstaver – – hun saa, der blev Ord – med Punkter og Stjerner
+  mellem hvert. – – – Og der blev mer – Gud hjælpe Rikka Torsen – trak
+  det sig ikke som til en flammende Skrift langs Bægerets Rand! – I
+  næste Øieblik faldt Bægeret i Gulvet. – – –
+    </p>
+    <p>
+     «Mene mene tekel ufarsin,» havde hun læst i Flammerne langsmed
+  Randen.
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     VIII.
+    </head>
+    <p>
+     Det flimred i Vinduerne paa Gan. Blæsten kom fygende i Bygevis fra
+  Nord. Og Sjøen gik i lange Skvulp mod Bredden.
+    </p>
+    <p>
+     Det var mørkt i Veiret, og ingen kunde se Baaden, som var
+  udpaa.
+    </p>
+    <p>
+     Men agter sad en sort Kvindeskikkelse, i hvis Ansigt det hvidned
+  som af Skum. – Og ved Aarerne sad en anden Kvinde, – og hun rodde, saa
+  Tollepinderne gnissed og gren.
+    </p>
+    <p>
+     «Det gaar ikke,» sagde hun tilsidst – «du faar reise imorgen
+  istedet.»
+    </p>
+    <p>
+     «Nu er vi halvveis jo,» svarte den anden – «da ved du, det er
+  ligesaa let at ro frem som tilbage.»
+    </p>
+    <p>
+     «Du glemmer, at jeg endda maa over igjen for at naa hjem. – Nei, du
+  faar vente, Riketta.» – Og Fernanda Torsen vendte Baaden rundt mod
+  Lyset fra Gan.
+    </p>
+    <p>
+     «Giv mig Aaren, du,» bad Rikka Torsen, «saa skal jeg hjælpe dig! –
+  Aanei, Fernandamor,» sagde hun, da hun vel havde faaet den. «Ikke faar
+  du mig tilbage til Gan ikvæld.» Og hun stik imod. – «Venter Hestene
+  derover,» mumled hun, «og alt er ordnet, saa skal jeg ogsaa frem, kan
+  du tro.» –
+    </p>
+    <p>
+     «Vær lidt fornuftig, Riketta,» overtalte den anden – «bare
+     jeg
+     kommer af ved Gan, kan jo
+     du
+     ro over alene.»
+    </p>
+    <p>
+     «Bare
+     jeg
+     kommer af ved Herby,
+  kan
+     du
+     ro over alene.»
+    </p>
+    <p>
+     «Nei, siger jeg – du ser jo, Veiret øger.»
+    </p>
+    <p>
+     «Og da er det bedre, jeg kommer i Livsfare end du, mener du! – Det
+  skal vi bli to om, Fernanda.» Og de rodde med hver sin Aare og til
+  hver sin Kant, saa Vandsprøiten stod over Baaden. –
+    </p>
+    <p>
+     «Vær nu rimelig, Riketta,» overtalte Fernanda Torsen paany – «paa
+  denne Maade ser du, hvorlangt vi kommer.»
+    </p>
+    <p>
+     «Ro
+     med
+     mig, kommer vi
+  længer.»
+    </p>
+    <p>
+     «Nei, ro
+     du
+     med mig.»
+    </p>
+    <p>
+     Og de rodde. Snart saa de Lyset fra Gan, og snart saa de Lyset fra
+  Herby, alt eftersom de selv eller Blæst og Bølger dreied Baaden rundt
+  – og tilslut skjelned de ikke mellem dem. –
+    </p>
+    <p>
+     «Der er Lyset fra Gan,» sagde den ene listig.
+    </p>
+    <p>
+     «Der er Lyset fra Herby,» sagde den anden.
+    </p>
+    <p>
+     Men den ene trodde ikke den anden og ikke sig selv. Og rundt i Ring
+  rodde de, stadig lige langt ifra begge Lysene – midt ude paa Sjøen. Og
+  Tollepinderne gnissed, og det klapred i Tofterne. – Og som Minutterne
+  forløb, tiltog ogsaa Uveiret i de to Kvinder. –
+    </p>
+    <p>
+     «Du sagde engang, du havde mest at kjæmpe for,» sagde Rikka Torsen:
+  «Nei,
+     jeg
+     har nok det.»
+    </p>
+    <p>
+     «Hvad har
+     du
+     at kjæmpe for?»
+  haanspurgte den anden.
+    </p>
+    <p>
+     «Jeg har Livet, jeg aldrig har levet.»
+    </p>
+    <p>
+     «Jeg har mine Børn, Rikka!» – Fernanda Torsen snapped efter Rikkas
+  Aare. Rikka rev sin Aare til sig, saa Baaden tog Vand ind:
+    </p>
+    <p>
+     «Børn – det er mer, end jeg har,» svarte hun kortpustet. – Kort
+  efter gled hun og kom paa Knæ ned i Vandet. Fernanda lo:
+    </p>
+    <p>
+     «Sidder du godt? – Kom heller her og ro.»
+    </p>
+    <p>
+     Rikka Torsen hørte ikke paa hende:
+    </p>
+    <p>
+     «Hvad gjorde du med den anden, du?» spurgte hun hadefuldt.
+    </p>
+    <p>
+     «Spørg heller dig selv, hvad du gjorde med den første og tredje,»
+  sagde Fernanda brutalt – «og tak os, som skjulte Ugjerningen.»
+    </p>
+    <p>
+     «Men den anden, du,» sagde Rikka igjen – «den, du loved at tage som
+  din?»
+    </p>
+    <p>
+     «Har jeg ikke sagt dig det?» skreg Fernanda Torsen.
+    </p>
+    <p>
+     «Jeg tænker, du løi. Den var vel ikke død, men den blev det!»
+    </p>
+    <p>
+     «Ti stille du! Anklag dig selv og ikke andre. – Sig mig: Hvordan
+  var det med den tredje, du – nu fornylig?» spurgte Fernanda
+  haanligt.
+    </p>
+    <p>
+     «Det ved vel hverken du eller jeg,» lød det først steilt og
+  udfordrende. – «Bare ved jeg, jeg rev mine Hænder tilblods paa
+  Jordgulvet i Kjælderen» – kom det bristefærdigt efterpaa, hun sank
+  sammen, halvt nedi Vandet og glemte at ro. Den anden holdt ogsaa sin
+  Aare op:
+    </p>
+    <p>
+     «Hvor har du den?» spurgte hun aandeløst. «I Vægskabet? – Bag
+  Kisten? – Sig bare hvor –
+     hvor
+     ,
+  hører du?» –
+    </p>
+    <p>
+     «Kanske er det formasteligt af mig at ville leve,» mumled nu Rikka
+  Torsen hen for sig – «kanske er det derfor, det regner og blæser saa
+  stygt, Fernanda – fordi jeg ikke skal komme over, men tilbage til Gan
+  – til Ligene – og til de Dødsdømtes Bæger – – mene – mene tekel» – og
+  pludselig skreg hun i Rædsel:
+    </p>
+    <p>
+     «Nei, jeg vil leve – leve, leve!» – og hun stak sin Aare i Vandet
+  og rodde, saa det brændte, Baaden i rund, rund Ring.
+    </p>
+    <p>
+     «Holdt du – holdt,» skreg Fernanda: «Jeg skal ro
+     med
+     dig, hører du.»
+    </p>
+    <p>
+     «Hvilken Synd har jeg begaaet?» spurgte Rikka Torsen nu anklagende
+  og holdt inde med Roingen. – «Har jeg arel nogen Skyld i, at min
+  Skjæbne sprang slig frem af Slægternes Liv? – snart som en liden
+  Pusling med Jon Torsens Hoste – snart som et Udyr op af Vandene,» – og
+  atter skreg hun langt og skingrende:
+    </p>
+    <p>
+     «Der – der – ser du den ikke, Ormen – – Finnen øverst paa Ryggen –
+  lige opunder Skyerne!» – Hun sprang op paa Toften – skreg igjen og
+  vifted med Armene:
+    </p>
+    <p>
+     «Gud og Djævel slaas om os, Fernanda!»
+    </p>
+    <p>
+     «Kom ned igjen,» raabte Fernanda: «Det er Gan paa Ganbakken, du ser
+  jo.»
+    </p>
+    <p>
+     Rikka Torsen lod sig falde ned i Baaden:
+    </p>
+    <p>
+     «Deri laa min Skjæbne kanske,» kom det mat: «Min egen Latter, Jon
+  Torsens Hoste, Gan paa Ganbakken – – – Nei, nei, ikke did,» gisped hun
+  og hængte sig paa Aaren. Og Baaden rulled, halvfyldt af Vand. –
+    </p>
+    <p>
+     «Det er tungt nu – tungere end før.»
+    </p>
+    <p>
+     «Øs da.»
+    </p>
+    <p>
+     «Nei.»
+    </p>
+    <p>
+     «Ro da – ro
+     med
+     mig! – Ellers
+  synker vi!»
+    </p>
+    <p>
+     «Ro, ja, ro – men bort fra Gan!» – Og Rikka kasted sig ned ved
+  Siden af Fernanda.
+    </p>
+    <p>
+     «Ro, ro – ellers synker vi,» raabte de begge samtidig og stak
+  Aarerne i Vandet.
+    </p>
+    <p>
+     «Ro, ro – ja,» mumled Fernanda Torsen og bed Tænderne sammen – «nu
+  tror jeg snart, vi taber begge.» – –
+    </p>
+    <p>
+     «Den svarte Muren der,» sagde Rikka Torsen stillere – «hvad om der
+  bagom den var straalende Liv og Herlighed?» – og taget ind i sin
+  Ungdoms Drøm strakte hun Armene ud:
+    </p>
+    <p>
+     «Vilde Vaa. Vilde Vaa.»
+    </p>
+    <p>
+     Men da rodde de sig ind i et skumsort Mørke. – –
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     IX.
+    </head>
+    <p>
+     Udpaa Kvælden kom den gamle Prokurator tilbage til Gan og spurgte
+  efter Jomfru Rikka. –
+    </p>
+    <p>
+     «Hun er ikke hjemme,» lød Svaret fra Jon Torsen – «hun vilde
+  endelig et Ærind over Sjøen – og Fernanda rodde hende.»
+    </p>
+    <p>
+     «Jeg mente – jeg mente,» sagde den gamle Prokurator, «det kunde
+  ikke hastet saa. – Men slig det blæser, kommer de kanske tilbage.»
+    </p>
+    <p>
+     – Ja, det tænkte nok ogsaa Jon Torsen. Han bad den gamle Prokurator
+  at sidde ned saalænge. Men snart sprang Prokuratoren op og begyndte
+  rastløs at drive frem og tilbage over Gulvet.
+    </p>
+    <p>
+     «Jeg tænkte, jeg skulde faaet se hende endnu engang,» mumled han
+  ved sig selv. – – «Nei, nei – hun var ikke ond hun; men hun var stærk
+  og vildsom» – og den gamle Prokurator blev længe gaaende over Gulvet
+  og smaasnakke. – – –
+    </p>
+    <p>
+     «Hvad var det?» spurgte en af de Smaa og lytted.
+    </p>
+    <p>
+     «Hvilket?»
+    </p>
+    <p>
+     «Det, som skreg.»
+    </p>
+    <p>
+     «Naa naa naa,» – den gamle Prokurator rev Vinduet op, saa Vinden
+  fór ind og blæste Lyset ud. – I en Ulykkesfornemmelse kom ogsaa de
+  andre derhen og lytted. –
+    </p>
+    <p>
+     Der var sort derude. Bare metalblanke Skimt af Sjøen, naar Kornmod
+  fór over Himmelen. Og det rasled af Tagsten, og det skvulped fra
+  Sjøen, og det silred og drypped fra Taget. – Og de lytted og lytted –
+  og vilde snart lukket Vinduet til. –
+    </p>
+    <p>
+     Da skar et Skrig gjennem Stormen. –
+    </p>
+    <p>
+     «Faster Rikka,» sagde Lillefernanda og klamred sig til
+  Prokuratorens tynde, skjælvende Haand.
+    </p>
+    <p>
+     «Rikka Torsen,» hvisked Prokuratoren.
+    </p>
+    <p>
+     Og – atter lytted de. Og atter hørte de den vilde Stemme gjennem
+  Stormen. Og Gang paa Gang. Men tilsidst hørte de en skurrende lavere.
+  –
+    </p>
+    <p>
+     «Mor,» sagde Børnene og begyndte at graate.
+    </p>
+    <p>
+     «Der kjæmpes nok og – tabes,» mumled Prokuratoren.
+    </p>
+    <p>
+     «Hvad er det?» spurgte Jon Torsen. «Jeg hører lidt lidet.»
+    </p>
+    <p>
+     – – Saa hørte de heller ikke andet end Børnenes Graat og Vindens
+  Slag i Vindushasperne.
+    </p>
+    <p>
+     Prokuratorens hvide Skjæg hvirvled over hans Skulder. – Ja, Vinden
+  hven alene, og den halvsunkne Baad ved Stranden klapred. Og stille
+  syntes der – som efter en pints sidste Skrig paa Steilen. –
+    </p>
+    <p>
+     – Saa lukked de Vinduerne paa Gan og tændte det sluknede Lys. –
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Den gamle Prokurator tog sin Kappe paa og gik gjennem Uveiret hjem
+  til sit Hus. Han vidste ikke rigtig, om det var Indbildning; men –
+  syntes det ham, som om Stormen havde lagt sig en Del, siden det sidste
+  Skrig døde hen der nedifra Sjøen. –
+    </p>
+    <p>
+     Men der han var kommen ind i sin gode Stue, Prokuratoren, blev han
+  gaaende og gnide sine frostkolde Hænder og sukke saa tungt Gang paa
+  Gang, og lidet hjalp det at gjentage den gamle Tanke, som nok evig ny
+  paatrænger sig dem, der selv sidder lunt, mens Stygveir tumler:
+    </p>
+    <p>
+     «Godt at være i Ly for Storm. Godt at være i Ly for Storm.» – Og
+  inden Morgenen gryed, havde den gamle Prokurator slaaet op i sin store
+  Bog. – – –
+    </p>
+    <p>
+     Saaledes lød den, den gamle Prokurators Optegnelse:
+    </p>
+    <p>
+     «Rikka Torsen Gan og Fernanda Torsen Gan – begge af saa gammel
+  Slægt, at Mændene er degenererede og Kvinderne underkastet Manier:
+    </p>
+    <p>
+     En
+     Kvinde var stærk og dræbte
+  sine Børn af Had og Stolthed. En anden Kvinde var stærk og dræbte
+  andres for sine. Og begge led de Herrens Straf. Og det den første blev
+  afslaaet i Straffen, det havde hun allerede havt i Livsens Pine. – Den
+  anden ser jeg lidet Særsyn ved, og hendes Misgjernings Størrelse kan
+  andre maale. – Men saaledes er det, at denne første, Rikka Torsen Gan,
+  maa kunne undskyldes fremfor Guds Domstol:
+    </p>
+    <p>
+     – Og aldrig havde denne Pige havt nogen, med hvem hun kunde tale
+  fint og stille. Aldrig Forstaaelse uden Klager. Aldrig Betroelser uden
+  Sorg. Og aldrig havde Kjærligheden rørt hende. – Ja, om hende kan der
+  da i Sandhed siges – og det siger jeg, Prokuratoren paa Haug:
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     «Gud Herren hende mætted med bedske Ting.
+    </p>
+    <p>
+     Han gjorde hende drukken af Malurt.»
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     X.
+    </head>
+    <p>
+     Sorte laa Gan Gaards Huse med sit søvnige Ekko. Og Trærødderne
+  skalv nede i Haven. – Ingen snakked paa Gan, og ingen lo, og var det,
+  som om noget var død i Gan Gaards Sjæl siden hin lange Stormens Nat. –
+  –
+    </p>
+    <p>
+     – Og Ulykkesbudskabet naadde ogsaa den gamle Klokkedrager i Ud.
+    </p>
+    <p>
+     Han kom udpaa Eftermiddagen, – sagde ingenting, men nikked og
+  mumled – fik Tag paa en Baad og rodde ud paa Sjøen.
+    </p>
+    <p>
+   Og Vinden havde lagt sig.
+    </p>
+    <p>
+     Og Sjøen laa saa rolig og tam, at vel ingen skulde fatte, den kunde
+  vriste sig Menneskeliv i Favn.
+    </p>
+    <p>
+     Der blev den gamle Klokkedrager staaende med en Klokke i Haanden.
+  Og besynderlig klar og fin lød Klokkeklangen over det graatunge
+  Vand.
+    </p>
+    <p>
+     Og Solen titted frem og kasted Striber over Vandet. Og Solen gled
+  ned bagom Aasen i Vest.
+    </p>
+    <p>
+     Og den gamle, døve Klokkedrager blev staaende og ringe med sin
+  mindste Klokke, indtil Maanen kom sløret frem bagom Skyerne.
+    </p>
+    <p>
+     Saa folded han Hænderne og læste og mumled – – –.
+    </p>
+    <p>
+     «Min mindste Klokke, Jomfru Rikka,» sagde han tilsidst. «Min
+  mindste Klokke.» Og han nikked paa sit store Hoved og rodde
+  fortrøstningsfuld iland.
+    </p>
+    <p>
+     Og Taagen kom glidende, sølvhvid, isnende, og Frosten fulgte med
+  blaableg Himmel. – Og dybt nedi Sjøen var Rikka Torsens Tanker
+  stilnet. – – –
+    </p>
+   </div></div>
+  </body>
+  
+ </text>
+</TEI>

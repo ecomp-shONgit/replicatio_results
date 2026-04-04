@@ -1,0 +1,3069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="NOR0042" xml:lang="nb">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     En Professor ELTeC-utgaven
+    </title>
+    <author ref="https://viaf.org/viaf/283661824 https://www.wikidata.org/wiki/Q6224495">Vibe, Johan Ludvig Nils Henrik  (1840-1897)</author>
+    <respStmt>
+     <resp>
+      ELTeC encoding
+     </resp>
+     <name>
+      Michael Preminger
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     23159
+    </measure>
+    <measure unit="pages">
+     0
+    </measure>
+   </extent>
+   <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
+</publicationStmt>
+   <sourceDesc><bibl type="digitalSource">
+     <ref target="https://www.bokselskap.no/boker/enprofessor/kolofon">
+      Utgaven er basert på teksten i 1. utgave, 1882 (Kristiania, Cammermeyer).
+     </ref>
+       <author>
+           J. L. N. H. Vibe
+       </author>
+       <title>
+           Digibok
+       </title>
+       <pubPlace>
+           Kristiania
+       </pubPlace>
+       <publisher>
+           Alb. Cammermeyer
+       </publisher>
+       <date>
+           1882
+       </date>
+       
+     
+    </bibl></sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p n="eltec-0"/>
+  </encodingDesc>
+  <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+   <langUsage>
+    <language ident="nb" usage="100"/>
+   </langUsage>
+   <textDesc>
+    <e:authorGender key="M"/>
+    <e:size key="short"/>
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+    <e:timeSlot key="T3"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change><change when="2020-11-15">Checked by checkup
+                script</change><change when="2020-11-13">ran oldCheckUp to update</change>
+   <change when="0001-01-01"/>
+  </revisionDesc>
+ </teiHeader>
+    <text type="novel">
+<front>
+    <div type="titlepage">
+    
+    <p>JOHAN VIBE.</p>
+    
+    <p>EN PROFESSOR.</p>
+    
+    <pb n="2"/>
+    
+    <pb n="3"/>
+    
+    <p>EN PROFESSOR.</p>
+    <p>FORTÆLLING ar</p>
+    <p>JOHAN VIBE.</p>
+    
+    <p>KRISTIANIA. FORLAGT AF ALB, CAMMERMEYER.</p>
+    <p>1882,</p>
+    <pb n="4"/>
+    </div>
+</front>
+     <body>
+         <div type="chapter">
+             
+ <head>1ste Kapitel.</head>
+             
+<p>
+Martin og hans Broder Andreas's Barndom og tidligste Ungdom.
+</p>
+
+<p>
+artin Aamot var ældste Søn &gt; af Hattemager Nils Sivert- sen Aamot og Anne Ka- trine Aamot født Bøen. Forældrene boede i en af Smaabyerne paa Vestlan- det.
+</p>
+<p>
+Martin var en kvik Gut, og Forældrenes nærmeste Omgangsven, Kom- mandersergeant Kristiansen, der var Martins Gudfader, morede sig undertiden med at notere ned de piquante Bemerkninger, Barnet fremkom med. En Aften kom Kommandersergeanten til- fældigvis til at læse et Brudstykke af en Biografi over Gøthe. Det slog ham ved denne Leilighed, at de mærkelige Ytringer, der var citeret fra
+</p>
+<p>I. Vie: Ee Profowor 1</p>
+
+
+<pb n="6"/>
+
+
+
+<p>
+(Gøthes Barndom i hele sin Tankegang havde paa faldende meget tilfælles med enkelte af Martins Ytringer. Ved senere at læse Biografier over et Par andre store Mænd, opdagede han, at noget lignende var Tilfældet. Han betroede Faderen sine Iagttagelser.
+</p>
+<p>Hattemageren rystede paa Hovedet,</p>
+<p>
+eJeg giver ikke meget for Martins Bemerk- ninger», sagde han, «Sagen er vel den, at den ene Unge omtrent gjør ligesaa kløgtige Bemerk- ninger som den anden; men hvis Ungen bliver til Noget, naar han bliver voksen, saa noterer man ned Rub og Stub af, hvad han har sagt, fra han var en Næve stor, og anfører det som et Bevis for, at han alt fra Barn af var bestemt til at blive noget Stort. Men bliver ikke Ungen til Noget, saa er der ikke en Kjeft, som lægger Merke til, hvad han har sagt, da han var liden, om det saa er aldrig saa merkeligt.»
+</p>
+<p>
+«Sig ikke det, Hattemager Aamot! Sig ikke det», sagde Kommandersergeanten. «Store Mænd fremkommer, baade medens de er Børn, og naar de ligger paa sit Dødsleie, med Ytringer, hvori man kan skimte den ualmindelige Begavelse, Saaledes var det sidste, den omtalte store Digter Gøthe, der hele Tiden havde arbeidet i Oplys- ningens Tjeneste, ytrede paa sit Dødsleie hine merkelige Ord: «Mere Lysl&gt;»
+</p>
+<p>«Det var de sidste Ord min Søster Maren</p>
+<p>…</p>
+<pb n="7"/>
+
+
+<p>
+    ytrede ogsaa», svarede Hattemageren, «og hun var EG ingen stor Digterinde. Jeg har hørt Doktor Sønsteby sige, at der ikke er noget, som er mere almindeligt, end at Folk paa sit Dødsleie beder om mere Lys»
+</p>
+<p>
+ea, ja», sagde Kommandersergeanten, «jeg vil ikke modsige Dem, Aamot; men De gjør blodig Synd mod Gutten, hvis De ikke lader ham gaa den studerende Vei.«
+</p>
+<p>
+Hattemager Aamot svarede ikke herpaa, men Kommandersergeantens Ord havde gjort Indtryk paa ham, og 3 Aar senere blev der i et Familieraad, hvortil Kommandersergeant Kristian- sen og Fourer Bækkevold var tilkaldte, fattet den Bestemmelse, at Martin skulde sættes ind paa Stedets Latinskole. Samtidig blev der besluttet, at Martins yngre Broder, Andreas, skulde blive Officer. Madam Aamot talte vistnok noget for- virret Tøi om Død, Saar og Lemlæstelse; men Kommandersergeant Kristiansen og Fourer Bække- vold beroligede hende. Der vilde aldrig blive Tale om Krig her i Landet, forsikrede de. Vor Armé var, som Fourer Bækkevold ytrede, en Fredsarmé,
+</p>
+<p>
+Martin var 11 Aar, da han blev sat ind paa Stedets Latinskole. Andreas frekventerede Bor- gerskolen, men da demne Skole var mindre skik- ket som endelig Forberedelse for Krigsskolen, blev han sendt ind til Kristiania et Aar, forinden han skulde underkaste sig Optagelseseksamen.
+</p>
+<p>Få</p>
+
+
+
+<pb n="8"/>
+
+<p>
+Forældrene havde ingen anden Kundskab om, hvad Andreas tog sig til under sit Ophold i Hoved- staden, end den, som de modtog gjennem hans egne Breve, men efter disse at dømme, gjorde han gode Fremskridt.
+</p>
+<p>
+Det var om Høsten, at han var oppe til sin Optagelseseksamen. Den Aften, da Censuren var faldt, sad han paa sit Værelse i Kristiania sam- men med en Kammerat, Andreas saa modfalden ud og tegnede Tal paa Bordet med Pegefingeren.
+</p>
+<p>
+eDet var en flau Historie», sagde han, «det var cn meget flau Historie.»
+</p>
+<p>
+«Det er ikke noget at tabe Modet over», sagde Kammeraten, «du faar forsøge paa en Frisk igjen til næste Aar, saa skal du se, det gaar bedre.»
+</p>
+<p>
+«Jeg skulde give en god Dag baade i Eksamen og Krigsskolen», sagde Andreas, «naar det ikke var, fordi jeg skal hjem. Men kommer jeg hjem, og mine Forældre faar høre, hvorledes det er gaaet, bliver det et saadant Spektakel, at det ikke bliver til at holde ud. Naar jeg kun var vel over mit Ophold hjemme, fik det gaa, som det kunde forresten. Men nu skulde jeg netop have lidt Moro, og nu er den forspildt for mig.»
+</p>
+<p>Kammeraten lod til at grunde paa noget.</p>
+<p>eHar du Slægtninge her i Byen?» spurgte han.</p>
+<p>«Nei», sagde Andreas,</p>
+<pb n="9"/>
+
+<p>
+eHer er ingen, som dine Forældre korrespon- derer med?»
+</p>
+<p>elngen undtagen mig», sagde Andreas.</p>
+<p>eResultatet af Eksamen kommer jo ikke i Aviserne?»</p>
+<p>elkke saavidt jeg ved.»</p>
+<p>
+    «Saa skriv hjem», udbrød Kammeraten, «og fortæl, at du har staæet dig.»
+</p>
+<p>Andreas saa paa Vennen.</p>
+         <p>«Fortælle, at jeg har staaet mig», udbrød han</p>
+<p>
+eJavist», fortsatte Kammersten. «Uniform har du ikke havt Tid til at skaffe dig, før du rei- ser hjem, det ved dine Forældre meget godt, og hvem kan saa se udenpaa dig, enten du er Ka- det eller ikke.»
+</p>
+<p>— eMen det maa jo en Gang blive opdaget»,</p>
+<p>sagde Andreas,</p>
+<p>
+    «Den Tid, den Sorg», sagde Kammeraten. «Den første Storm har du i alle Fald undgaaet.»
+</p>
+<p>Andreas's Ansigt opklaredes.</p>
+<p>
+    «Jeg gjør det», sagde han. «Jeg har hørt, at der skal blive ualmindelig livligt hjemme i Høst, og kommer jeg hjem som Kadet, bliver jeg buden i alle Selskaber og Baller i Byen og bliver estimeret ligesaa godt som et voksent Menneske; men faar de Nys om, at jeg er gaaet rejekt, saa skal jeg dø paa, at jeg ikke kommer i et eneste voksent Selskab. Jeg skriver hjem og siger, at jeg er sluppet igjennem.» i
+</p>
+<p>Bh</p>
+<pb n=""/>
+
+
+<p>
+«Sig ligesaa godt, at du har faaet bedste Karakter», sagde Kammeraten, «det koster det samme.» i
+</p>
+<p>eDet er sandt», sagde Andreas.</p>
+<p>
+Allerede samme Aften skrev Andreas hjem og fortalte, at han havde staaet sig brilliant og faaet bedste Karakter til sin Eksamen.»
+</p>
+<p>
+Andreas havde ikke taget feil, naar han an- tog, at han som Kadet vilde blive estimeret som et voksent Menneske, Han stillede sin ældre Bro- der Martin ganske i Skyggen. To Dage efter hans Ankomst holdt hans Fader et stort Selskab for sin Søn Kadetten, hvor hans Skaal blev udbragt af Kommandersergeant Kristiansen, der i varme Ordlag roste Andreas's Dygtighed og udbredte sig over den Glæde, som det maatte være for Forældre at have saadanne Børn.
+</p>
+<p>
+. Hattemageren takkede. Han var stolt af sin yngste Søn, sagde han, Andreas havde altid væ- ret en flittig, snil, ordentlig og fredelig Gut, og han tvivlede ikke om, at han vilde gjøre Hans Majestæts Uniform Ære. Han maatte takke alle de Tilstedeværende for den- Deltagelse, de havde vist ham og hans Søn ved at indfinde sig i hans ringe Hus denne glædelige Aften.
+</p>
+<p>
+Efter dette Selskab fulgte der i den lille By en Række Festligheder, hvor Andreas stadig blev buden. Han modtog endog Invitationer til Fa- milier, i hvis Hus hans Forældre ikke nød den
+</p>
+
+<pb n="11"/>
+
+<p>
+Ære at komme, saaledes til Konsul Samuelsen og Byfoged Sparre. Andreas var stor for sin Alder, og da Hattemagerens Familie og Omgangs- venner ved alle Leiligheder gjorde det mest mu- lige ud af hans «glimrende Examen», var det ikke langt fra, at han blev betragtet som en af Byens Lø- ver. Enkelte af Byens yngre Damer tænkte allerede paa den glimrende Fremtid, der forestod Andreas, og i Baggrunden af det saaledes aabnede Per- spektiv, skimtede de utydelig en Generalsuniform med Kantiller, Guldfryndser, røde Skjærf og en uoverskuelig Række af Ordenstegn og brogede Baand.
+</p>
+<p>
+Endelig var Andreas's Ferietid ude, og han vendte tilbage til Kristiania for at træde ind paa Krigsskolen.»
+</p>
+<p>
+Det var omtrent ”/« Aar senere, at Hatte- mager Aamot modtog et Brev fra Bestyreren af den Skole, hvori Andreas var bleven indsat det foregaaende Aar, Bestyreren skrev kortelig, at Skolepengene for det forløbne Kvartal nu maatte remitteres. At Andreas ikke var sluppet igjen- nem ved Prøven i Høst, var ikke Skolens Skyld, men Bestyreren nærede det Haab, at han vilde staa sig saa meget bedre til næste Aar.
+</p>
+<p>
+Hattemageren vilde ikke tro sine egne Øine, Hans Kone følte sig forvisset om, at her forelaa et nedrigt Forsøg paa at narre Penge af dem, og Kommandersergeant Kristiansen mente, at 
+</p>
+
+
+<pb n="12"/>
+
+<p>
+Bestyreren maatte have forvekslet Hattemager Aamot med en anden Fader, der ligeledes havde en Søn ved Navn Andreas. Hattemageren skrev øjeblik- kelig til Bestyreren og gjorde ham opmerksom paa hans formentlige Feiltagelse, eftersom hans Søn allerede var Kadet. Han fik et spidst Svar med fornyet Krav paa Skolepenge. Under den Korrespondance, som nu udviklede sig, gik det endelig op for Hattemageren, at hans Søn An- dreas havde ført ham bag Lyset.
+</p>
+<p>
+Han blev yderst forbitret over denne Opda- gelse, og hans Vrede blev ikke mindre, da Sam- menhængen blev bekjendt i Byen, og han maatte taale Skoser af taktløse Venner, der stadig kom med Forespørgsler om, hvorledes det stod til med hans Søn «Kadetten». At Andreas til næste Høst slap igjennem og viste sig i Uniform, kunde hverken forsone Forældrene eller den lille By, som han havde holdt for Nar, og det var med den største Mistillid, at Hattemageren imødesaa Ud- faldet, da Martin den paafølgende Høst reiste ind til Hovedstaden for at absolvere sin Eksamen
+</p>
+<p>artium,</p>
+
+<pb n="13"/>
+         </div>
+         <div type="chapter">
+<head>2det Kapitel.</head>
+
+<p>
+Martin gjør de første forberedende Skridt paa den videnskabelige Bane.
+</p>
+<p>
+    , attemager Aamot sad netop ved Så: sin Frokost, da der indløb Brev fra Sønnen, Det var stilet til Moderen, som brækkede det og begyndte at læse høit Z GS eKjære Moder», begyndte det, «jeg har staaet mig bril liant og har erholdt bedste Karakter til min Eks- amen — «Hvad staar der?» raabte Hattemageren. «Jeg har staaet mig brilliant og erholdt bedste Karakter til min Eksamen», gjentog Mad. Aamot. Hattemageren slog i Bordet, saa Kopperne dansede.
+</p>
+
+<pb n="14"/>
+
+
+<p>
+«Staaet mig brilliant og faaet bedste Karak- ter til min Eksamen», raabte han og snappede Brevet, «jeg ved, hvad det har at betyde. Han er naturligvis ikke sluppet igjennem; men jeg lader mig ikke holde for Nar to Gange. Lad ham komme og forsøge at binde mig noget paa Ærmet, saa skal jeg vise ham, at han endnu ikke er andet end en Guttehvalp, om han saa er gaaet rejekt 100 Gange»
+</p>
+<p>
+Da Martin tre Dage senere kom hjem med Dampskibet, blev han ubehagelig overrasket ved at merke, at hans Fader ikke modtog ham med den Jubel, som han havde ventet. Mad. Aamot havde sat Kage og Vin ind; men Hattemageren raabte barsk:
+</p>
+<p>«Tag Vinen u</p>
+<p>
+eJeg havde tænkt, at vi skulde ønske Martin tillykke», ytrede Madamen.
+</p>
+<p>
+«Tag Vinen ud», gjentog Hattemageren, edet er ikke værd at forhaste sig, og du Martin kan følge med ind paa mit Kontor.»
+</p>
+<p>
+    «Svar mig nu oprigtigt», sagde Faderen, da de var alene, «hvordan er det gaaet?»
+</p>
+<p>«Jeg har staaet mig brilliant», begyndte Sønnen.</p>
+<p>
+«Faar jeg se din Karakterseddel», sagde Hattemageren.
+</p>
+<p>cMin Karakterseddel», sagde Martin.</p>
+<p>
+eJa vist, dit Eksamenstestimonium», sagde Hattemageren.
+</p>
+
+
+
+<pb n="15"/>
+<p>i</p>
+
+<p>
+Martin" blev rød og begyndte at stamme. Han var bleven saa overrasket over den uventede Modtagelse, at han holdt paa at tabe Koncep- terne.
+</p>
+<p>
+eJeg — jeg — jeg tror næsten, at jeg — har glemt den», stammede han.
+</p>
+<p>«Glemt den»; raabte Hattemageren.</p>
+<p>
+Med mindre — med mindre», vedblev Mar- tin, at den skulde ligge i Kufferten.
+</p>
+<p>
+    «Du gjør bedst i at finde den», sagde Hatte mageren.
+</p>
+<p>Martin gik ud for at lede.</p>
+<p>
+Da han kom ind igjen, gik Faderen op og ned ad Gulvet med en Stok i Haanden.
+</p>
+<p>«Naa», sagde Faderen og stansede.</p>
+<p>
+Den — den — den var ikke i Kuffertem, sagde Martin.
+</p>
+<p>Han stammede endnu mere end før.</p>
+<p>
+Faderen bevægede Stokken ganske sagte frem og tilbage.
+</p>
+<p>
+«Du gjør ligesaa godt i at tilstaa», sagde han, «du har ikke glemt Seddelen, men du tør ikke vise den frem. Jeg kan se det paa dig. Du er gaaet rejekt, ikke sandt?»
+</p>
+<p>eJeg forsikrer —» begyndte Martin.</p>
+<p>
+cTilstaa. lige saa godt med det samme», gjentog Faderen. «Jeg lader mig ikke føre bag Lyset af begge mine Sønner.»
+</p>
+<p>Han begyndte at bevæge Stokken raskere.</p>
+<pb n="16"/>
+
+
+         <p>«Jeg giver dig mit Æresord paa —» begyndte Martin,</p>
+<p>
+	»Husk paa, at jeg kan skrive ind til Universitetet», afbrød Hattemageren ham.
+</p>
+<p>
+eDet behøves ikke, det kommer jo i Aviserne&gt;, raabte Martin.
+</p>
+<p>
+sKommer det i Aviserne», udbrød Hattema- geren, «kommer det i Aviserne, saa skal vi snart faa Sandheden at vide. Posten er kommet idag.»
+</p>
+<p>
+Med disse Ord tog han Hat og Frakke paa og gik ned i Klubben,
+</p>
+<p>
+Her fandt han ganske rigtig i den første Avis, han tog i Haanden, Martins Navn opført blandt Aarets Præceterister. Han følte sig dog ikke ganske sikker, og først da han havde sam- menlignet flere Blade af stik modsat Farve, og fundet, at de alle, hvor uenige de forøvrigt var, stemmede overens i sine Meddelelser om Martins Eksamen, ilede han hjem for at gjøre Sønnen en Undskyldning.
+</p>
+<p>
+    Mad. Aamot havde aldrig delt sin Mands Tvivl, og alle hendes Bestræbelser gik kun ud paa at faa bekræftet, at Betydningen af Ordene «Laudabilis precæteris» var: «Rosværdig fremfor de Øvrige»
+</p>
+<p>
+    «Martin er altsaa bedre end de øvrige», sagde hun, «han er bedre end de øvrige, Aamot, læg Merke til det.»
+</p>
+         <p>«a, ja, skjæm bare ikke Gutten ud, Moder»,</p>
+
+
+
+<pb n="17"/>
+
+
+<p>
+sagde Hattemageren, «men lad os først se, om han fortsætter, som han er begyndt.»
+</p>
+<p>
+Efter 8 Dages Ophold i Hjemmet, reiste Martin tilbage til Kristiania for at læse til anden Eksamen
+</p>
+<p>
+    Den følgende Vaar havde han allerede absol- veret denne. Denne Gang havde han husket, at tage Karakterseddelen med. Den lød paa «Law dabilis precæteris». aderen hengav sig nu ganske til sin Stolt- hed og Glæde, og den unge Begavelse modtog mange Beviser paa Agtelse af Indbyggerne i hans Fødeby. Den Ytring, som en af hans fordums Lærere lod falde, nemlig, at han aldrig havde tvivlet om, at Martin kunde «proppe i sig, hvad det skulde være», men at han var forvisset om, at han var aldeles blottet for Evne til virkelig
+</p>
+<p>
+igt Arbeide, prellede virkningsløst tilbage under den almindelige Anerkjendelse, og Hatte- mageren lod ham som Belønning for hans glim- rende Eksamener faa Lov til at besøge London, hvor Hattemageren havde en Broder, der drev Fiskeforretninger.
+</p>
+<p>
+Under Martins Ophold i London talte Fade- ren og dennes nærmeste Omgangsvenner meget om hans Fremtidsudsigter, og der blev lagt mange Planer i den Anledning.
+</p>
+<p>Efter to Maaneders Forløb kom han hjem.</p>
+<p>En Formiddag 3 Dage efter hans Hjemkomst,</p>
+
+
+
+<pb n="18"/>
+
+
+
+
+<p>
+kaldte hans Fader ham ind paa sit Kontor. Der var foruden Faderen og Sønnen ikke andre til- stede end Kommandersergeant Kristiansen og Fourer Bækkevold.
+</p>
+<p>
+Kommandersergeanten og Foureren reiste sig og hilste paa militær Vis, da Martin traadte ind, og Faderen bød ham en Plads i den eneste Læ- nestol i Værelset
+</p>
+<p>
+cDet er paa Tiden, at Du vælger et Brød. studium, sagde Faderen, da Piberne var tændte, ehar du fattet nogen Bestemmelse i saa Hen- seendet»
+</p>
+<p>Martin rystede paa Hovedet,</p>
+<p>«Ikke endnu», sagde han,</p>
+<p>
+«Theologien føler du, saavidt jeg ved, ingen Interesse for», sagde Faderen,
+</p>
+<p>elkke det mindste», svarede Martin.</p>
+         <p>«Og heller ikke for Retsvidenskaben?»</p>
+<p>cNei», sagde Martin.</p>
+<p>«End Medicinen?»</p>
+<p>
+«Jeg synes ikke om at skjære i Kadavere», svarede Martin.
+</p>
+<p>
+    «Philologien maatte ligge nærmere for dig», vedblev Faderen, «du har jo altid staaet dig godt i Sprog paa Skolen?»
+</p>
+<p>
+«Skulde det være noget, saa maatte det være Philologien», sagde Martin, «men jeg har ingen Lyst til at læse med Unger.»
+</p>
+
+
+<pb n="19"/>
+
+
+<p>
+    «Du har ingen Lyst til at læse med Unger», gjentog Faderen.
+</p>
+<p>
+cNei», sagde Martin, «jeg føler intet Kald i den Retning»
+</p>
+<p>Her hævede Kommandersergeanten Hovedet.</p>
+<p>
+    Det er heller ikke noget for Martin», sagde han, «Martin maa ikke slide sig op paa en elen- dig Skole. Det kan han overlade til Kompagni- traverne. Med Martins glimrende Eksaminer maa man kunne stille sig højere Formaal.»
+</p>
+<p>
+Der opstod en høitidelig Pause, medens Hat- temageren dampede af Piben.
+</p>
+<p>
+    «Har du aldrig tænkt paa Universitetet, Mar- tin?» sagde han.
+</p>
+<p>Martin stirrede paa Faderen.</p>
+<p>ePaa Universitetet», gjentog han.</p>
+<p>
+eJa», sagde Faderen, «har du aldrig tænkt paa dett&gt;
+</p>
+<p>
+cNei», svarede Martin, «men siden du siger det, saa skal jeg tænke paa det.»
+</p>
+<p>
+eUniversitetet er netop noget for Martin», sagde Kommandersergeanten, «Videnskaben har Krav paa Mænd med Martins Evner.»
+</p>
+<p>
+Der opstod atter en høitidelig Pause, medens Hattemageren indhyllede sig i Røgskyer.
+</p>
+<p>«Hvilket Fag vilde du kaste dig over?»</p>
+<p>spurgte ban, «Jeg ved ikke», sagde Martin.</p>
+<pb n=""/>
+
+
+
+
+<p>
+sDet maatte vel blive noget i Retning af Sprogvidenskab», vedblev Hattemageren,
+</p>
+<p>«Ja», sagde Martin, »gjerne det.»</p>
+<p>«Latin eller Græsk», sagde Faderen.</p>
+<p>«Heller levende Sprog», sagde Martin.</p>
+<p>
+«Saa?» sagde Faderen, «det havde jeg ikke tænkt — -
+</p>
+<p>
+    «Overlad De den Ting til Martin, Hattemager Aa sagde Kommandersergeanten, «det tænker jeg, han forstaar bedst.»
+</p>
+<p>
+	«Det forstaar Martin bedst», supplerede Fourer Bækkevold,
+</p>
+<p>
+Otte Dage efter drog Martin ind til Kristi. ania for at lægge sig efter Studiet af levende Sprog.
+</p>
+
+
+
+<pb n="21"/>
+         </div>
+         <div type="chapter">
+<head>3dje Kapitel.</head>
+<p>Martin beslutter at studere i Gøttingen.</p>
+
+<p>
+et blev snart bekjendt, at Martin vilde ofre sig for Videnskaben, og han var saa heldig straks ef- FSA ter sin Ankomst til Hovedsta- 5 den at stifte Bekjendtskab med 3 å 4 anseede Universitetslærere, der vare særdeles forekommende mod ham. Pro- fessor Simonsen, Professor Wint og Professor Dr. Barth viste ham samtlige den største Velvilje, Navnlig var det dog Professor Lunde, en fjern Slægtning af Mad. Aamot, som tog sig varmt af Martin. Professor Lunde kom efterhaanden til at mære et oprigtigt Venskab for sin Protegé og hjalp ham, hvor han kunde, med Raad og Dad. Martin tilbragte sin Tid i Kyistiania i Stil hed, delt mellem at gaa paa Professor Simonsens I. Vibe: Ta Protasor, 2
+</p>
+
+
+<pb n="22"/>
+
+
+<p>
+og Professor Lundes Forelæsninger, spille Kort, studere levende Sprog i sit Hjem og læse Aviser, Da Martin i Almindelighed ikke talte synderligt, fordi han som oftest Intet havde at sige, og hon heller ikke var morsom, kvik eller vittig, var han saa heldig at blive anset for en alvorlig, grundig og tænksom ung Mand, til hvem man kunde knytte de bedste Forhaabninger.
+</p>
+<p>
+Saaledes gik 3 Aar, og da Martin ikke be- sad synderligt Initiativ, kunde der gjeme være gaaet endnu et ubegrænset Antal Aar, uden at Martin havde forandret sin Arbeidsmetode, hvis ikke en Samtale med Professor Lunde havde bragt ham til at gjøre et alvorligt Skridt fremad paa den Bane, hvorpaa han havde slaaet ind.
+</p>
+<p>
+Det var en mild Septemberafien, netop 2 Aar og 11 Maaneder efter Martins Ankomst til Kristiania, at han og Professor Lunde spadserede udover Drammensveien.
+</p>
+<p>
+De havde gaaet længe i Taushed, da Pro fessoren greb Ordet.
+</p>
+<p>
+cAamot», sagde han, «det er jo Deres Mening at blive knyttet til Universitetet, ikke sandt?»
+</p>
+<p>eJo», svarede Martin.</p>
+<p>
+cMen da kan De ikke længer gaa her hjem- me og vegetere. De maa bort.»
+</p>
+<p>«Bort», sagde Martin, «hvorhen?»</p>
+<p>eDe maa tilbringe nogen Tid ved et eller</p>
+
+
+<pb n="23"/>
+
+
+<p>
+andet tysk Universitet», sagde Professoren. «Vil De vinde Anseelse som en virkelig Videnskabs- mand, maa De studere mindst et Aar ved en af Udlandets videnskabelige Anstalter. Hvad mener De om at reise til Gåttingen og frekventere Pro- fessor Wolffs Forelæsninger over germaniske Sprog?»
+</p>
+<p>
+«Saavidt jeg ved, ere hans Forelæsninger trykte», sagde Martin. «Jeg kan faa dem paa Universitetsbibliotheket.»
+</p>
+<p>Professoren stødte ærgerlig Stokken i Marken.</p>
+<p>
+«De har ikke sat Dem ind i den videnska- belige Metode endnu, Aamot», ytrede han, «De staar Dem selv i Lyset. Tror De, jeg var blevet den Mand jeg er, hvis jeg ikke havde ligget i Tyskland. "Det vil være nyttigere for Deres An- seelse, at De studerer et Aar i Gåttingen, end at De tilbringer 10 Aar hjemme med at læse fra Morgen til Aften.»
+</p>
+<p>«Jeg skal søge et Stipendium», sagde Martin.</p>
+<p>
+eMen i saa Fald maatte De først skrive en Afhandling», sagde Professoren.
+</p>
+<p>
+«Naar jeg vidste, hvad jeg skulde skrive om», sagde Martin.
+</p>
+<p>Professoren grundede.</p>
+<p>
+eVi talte igaar Aftes om Udbredelsen af Lyden «th» i de gammelgermaniske Sprog», sagde han, «De ved, at den endnu findes i danst
+</p>
+<p>og engelsk. Den findes i Oldnorsk, og den Ej</p>
+
+
+<p>Fr</p>
+<pb n="24"/>
+<p>
+2 fandtes ogsaa i gammel Gothisk. Skulde ikke det kunne være et Thema for en kortere Af handling?»
+</p>
+<p>eJeg ved ikke noget om Lyden «th»,» sagde Martin.</p>
+<p>
+Men De kan skaffe Dem noget at vide», sagde Professoren, «De læser jo Tysk flydende?e
+</p>
+<p>Martin nikkede,</p>
+         <p>«Og De kan læse en hel Del uden at blive træt»</p>
+<p>
+«Jeg kan læse mine 12 Timer i Døgnet, uden at det generer mig», sagde Martin.
+</p>
+<p>
+    «Nu vel», sagde Professor Lunde, «saa skal De skaffe Dem Professor Mohrs Verk «Uber die altgermanisehe Sprache» 4 Bind, Professor Sieblers Verk «Die Sprache der Westgothen» 2 Bind, Professor Bauers Afhandling «Die Islånder des zwlften Jahrhunderts» og Professor Gottlobs «Englische Sprachelemente», 3 Bind. Disse 4 tyske Verker maatte De læse to å tre Gange igjennem og gjøre Deres Notater, og skulde De saa ikke kunne skrive sammen et ste Verk paa norsk, saa maatte De være en ualmindelig ube- gavet Person. Kunde De desuden overkomme at gjennemlæse Professor Bartholdis Verk «Die Hauch- und Kehl-Laute im schwabischen Dia ekte», 14 Bind, saa var det saa meget desto bedre. Hvad siger De?»
+</p>
+<pb n="25"/>
+<p>at</p>
+
+<p>
+«Jeg vilde helst slippe for Professor Bart- holdi», sagde Martin.
+</p>
+<p>
+«Nu, ja, men begynd paa de øvrige Forfat- tere saa shart som mulig.»
+</p>
+<p>
+    «Jeg skal sætte mig i Virksomhed endnu den Dag imorgen», sagde Martin.
+</p>
+<p>
+Den næste Dag fik Martin Bøgerne forskrev- ne fra Tyskland. Samtidig skrev han et Brev hjem og spurgte, om hans Fader vilde skyde det Resterende til, hvis han (Martin) erholdt et Stipendium af Universitetet paa 10 å 12 hundrede Kroner til et Aars Ophold i Gåttinge
+</p>
+<p>
+Hattemageren viste Brevet til sin Kone, Straks efter blev Kommandersergeant Kristiansen og Fourer Bækkevold budsendte,
+</p>
+<p>
+Madamen iviede i Begyndelsen sterkt imod Reisen til Tyskland.
+</p>
+<p>
+»Jeg synes ikke om Martins Plan», ytrede hun, hvad skal han i Gåttingen? Gttingen er jo en liden Filleby. Er den ikke det, Kristian- send
+</p>
+<p>
+    «I Henseende til Indbyggerantal er den kun en By af 3die eller 4de Rang, Mad. Aamot», ytrede Kommandersergeanten, «men den har et meget stort Universitet, som tæller, jeg ved ikke hvor mange Professorer og Studerende.»
+</p>
+<p>
+«Skal Martin reise til Udlandet», sagde Mad, Aamot, «saa skal han reise til Rom. Det giver en ganske anden Anseelse at have været i Rom,
+</p>
+
+<pb n="26"/>
+
+
+<p>
+Alle de, som man bestemmer til at blive noget stort, sendes til Rom, det ved jeg meget vel, og min Martin er for god til at lade sig afspise med Gåttingen. Skal vi kaste Penge bort paa Gutten, saa vil jeg vide, at vi har noget igjen for Pen- gene»
+</p>
+<p>
+cMen», indvendte Kommandersergeanten, Martin er jo ikke Digter!»
+</p>
+<p>
+eDet var ikke Olaves Birkeland heller», sagde Mad. Aamot, «de faar nu sige, hvad de vil, Han havde skrevet en Samling «realistiske Noveller fra Livet i Sætersdalen», som han kaldte dem; men de var ikke mere realistiske, end jeg er realistisk; men saa kom det ud, at han vilde skrive en Samling sæterdalske Noveller til, og for at den skulde blive bedre end den første, saa sendte de ham over Hals og Hoved —»
+</p>
+<p>«Til Sætersdalen?» faldt Hattemageren ind.</p>
+<p>
+cNei», sagde Mad. Aamot, «til Rom, saa sandt jeg sidder her. Men min Martin er ligesaa god som Olaves Birkeland i alle Mader.»
+</p>
+<p>
+«Bedste Mad, Aamot», ytrede Kommander- sergeanten, «jeg tror, De bedømmer den Sag fellagtig. De maa huske, at Martin skal blive Videnskabsmand, og skal man blive det, saa lig ger man helst i Tyskland, Skal man derimod blive Digter, saa er Rom det bedste Sted.»
+</p>
+<p>
+Det er aldeles som at man sender enkelte Patienter til Sandefjord og andre til Modums,
+</p>
+<pb n="27"/>
+
+
+<p>
+faldt Foureren ind, «det ene Bad er ligesa for- nemt som det andet; det kommer an paa Syg: dommens Beskaffenhed, hvor man skal ligge.»
+</p>
+<p>
+«Det er sandt, Fourer Bækkevold», ytrede Hattemageren, «det sidste Eksempel slog mig. Martin skal faa Pengene.»
+</p>
+<p>
+Da Martin havde faaet Løfte fra sin Fader om at faa Understøttelse, begyndte han at læse fra Morgen til Aften. Til betimelig Tid fik han færdig en Afhandling paa 3 Ark om Lyden eth» i de gammel.germaniske Sprog, som han vedlagde sin Stipendieansøgning. Afhandlingen befandtes at røbe «flitigt Studium», og Martin fik sit. Sti- pendium. Om Hesten reiste han til Gåttingen.
+</p>
+<p>TE</p>
+<pb n="28"/>
+         </div>
+         <div type="chapter">
+<head>4de Kapitel.</head>
+<p>
+Martin gjør Bekjendtskab med en tysk Professor og en italiensk Musiker.
+</p>
+<p>
+traks efter sin Ankomst meldte Martin sig hos Professor Wolff,
+</p>
+<p>til hvis Forelæsninger han fik</p>
+<p>Adgang mod Erlæggelse af det</p>
+<p>sædvanlige Gebyhr. Som Pro</p>
+<p>fessorens Elev havde han </p>
+         	<p>Adgang til at deltage i de af</p>
+<p>
+denne foranstaltede Kolloquicr. Uagtet Martin gjorde, hvad han kunde for at holde sig frem, skjænkede dog Professoren ham liden Opmærk- somhed, hvorimod han viede 5 eller 6 rige Ame- rikanere, af hvem han ventede store Ekstrahono- rarer, sin hele Interesse, Hændte det imidlertid en ' og anden Gang, at Professoren under Kolloquierne
+</p>
+<pb n="29"/>
+
+<p>
+rettede et Spørgsmaal til Martin, blev denne al- årig Svar skyldig, uagtet Svarene ikke altid var saa heldige at vinde Professorens Bifald.
+</p>
+<p>
+Blandt Studenterne vandt Martin hurtig en Omgangskreds. Derimod lykkedes det ham ikke at komme i nærmere Berørelse med nogen af Professorerne. Dette ærgrede ham, da han an- tog, at et nærmere Bekjendtskab med en eller anden af Gottingens videnskabelige Koryfæer, vilde gjøre et godt Indtryk, naar han vendte hjem til Norge.
+</p>
+<p>
+Saaledes stod Sagerne, da der 2 å 3 Maane- der før han skulde reise, indtraf et Par Begiven- heder, der uformodet bragte ham i Berørelse med to af de mest anseede Professorer ikke alene i Gåttingen, men i hele Tyskland.
+</p>
+<p>
+Martin havde oprindelig boet i Ziegler-Gasse No. 17, men maatte efter et halvt Aars Forløb flytte, da han af sin Vertinde, cn ægte tysk huslig Kvinde, ikke blev trakteret med andet til Middag end tynd Suppe og Mchlspeisen, saa, at han tilsidst afmagrede i en Grad, der fyldte hans Venner med Forfærdelse, Hans nye Logi laa i Winkelstrasse. No. 23, hvor han havde et Væ relse i 3dje Etage med to Fag Vinduer, der vendte ud til en Have,
+</p>
+<p>
+Martin fik her bedre Kost end i sit forrige Logi, men Opvartningen var slet, og han var -undertiden i Forlegenhed med, hvordan han skulde
+</p>
+<pb n=""/>
+<p>
+26 blive kvit Vaskevandet om Morgenen. Han valgte gjerne den Udvei at øse det ud gjennem Vinduet i Nåboens Have.
+</p>
+<p>
+En Morgenstund, netop som han havde øst en usædvanlig fuld Vaskevandsbolle ud gjennem Vinduet, syntes han, at han fra Dybet hørte for bitrede Udbrud som «Schweinigel», «Bestie» o, 1,
+</p>
+<p>
+Martin følte sig imidlertid tryg ved sin op: høiede Bopæl i 3die Etage og bekymrede sig ikke om disse fjerne Toner, men iførte sig rolig sin Frakke og begav sig ud for at frekventere Professor Wolfis Forelæsninger.
+</p>
+<p>
+Et Kvarter efter at han var gaaet, ringede der paa Entréklokken, og da Pigen lukkede op, stod der en ældre Herre med graat Haar og et ophidset Ansigt udenfor.
+</p>
+<p>
+Den fremmede Herre spurgte, hvem der boede i Værelset med de to Vinduer, der vendte' ud mod Haven. ,
+</p>
+<p>
+    «En udenlandsk Student», sagde Pigen, eved Navn Aamot.»
+</p>
+         <p>«Er han hjemme?» spurgte den fremmede Herre.</p>
+<p>
+Nei, han var nylig gazet ud, og ventedes ikke hjem før til Middag.
+</p>
+<p>
+sHils ham fra Professor Schumacher», sagde den fremmede Herre, «og sig —»
+</p>
+<p>«Fra hvem?» spurgte Pigen.</p>
+<p>Den fremmede Herre tog et Visitkort frem,</p>
+
+
+
+<pb n="31"/>
+
+<p>
+    «Der», sagde han, «lever ham det og sig, at, jeg ønsker at se ham hos mig, saasnart han kom- mer hjem, Øjeblikkelig, forstaar De.» 
+</p>
+<p>«Til Middag?» spurgte Pigen.</p>
+<p>
+eJa! ja vist», sagde den Fremmede hefi etil Middag, straks han kommer hjem! Øieblik- kelig, forstaar De.»
+</p>
+<p>Med disse Ord fjernede han sig.</p>
+<p>
+Man kan lettere forestille sig end beskrive den behagelige Overraskelse, som Martin følte, da han kom hjem Kl. halv et og paa sit Bord fandt et Visitkort med Navnet: Professor Schu- macher. Schumacher var Professor i Latin og Græsk og nød den største Anseelse i hele Gåt- tingen. Der var kun en af Universitetslærerne, som var mere berømt, det var Professoren i San- serit, Biermann, som boede i 2den Etage i sam- me Hus som Martin.
+</p>
+<p>Martin ringede.</p>
+<p>cHvem bragte dette Kort?» sagde han.</p>
+<p>«En ældre Herre med graat Haar», svarede Pigen.</p>
+<p>«Sagde han noget, da han leverede det?»</p>
+<p>
+cHan bad mig hilse og sige, at han ønskede at se Hr. Aamot hos sig til Middag.»
+</p>
+<p>
+eHan ønskede at se mig hos sig til Middag», gjentog Martin, «du er vis paa det?»
+</p>
+<p>eJa», svarede Pigen, «ganske vis»</p>
+         <p>«Godt», sagde Martin, «Du kan gaa&gt;</p>
+
+<pb n="32"/>
+
+
+<p>
+Martin erindrede, at Professor Schumacher var en Ven af Professor Wolfi, og paa samme Tid mindedes han med inderlig Tilfredshed, at Professor Wolff havde været usædvanlig forekom- mende mod ham de Par sidste Dage. Professor Wolff maa have omtalt mig som en ualmindelig haabefuld Elev, tænkte han, og Professor Schu- macher har faaet Lyst til at gjøre mit perso: Bekjendtskab. Jeg maa ikke lade ham vente,
+</p>
+<p>
+Han aabnede Komodeskuffen og tog frem en ren Skjorte.
+</p>
+<p>
+sKjole og hvidt», sagde han, medens han skiftede Lined, «Kjole og hvidt vilde være en Taktløshed, naar jeg har faaet Invitationen sam me Dag. Ikke at gjøre nozet Toilette vilde være Mangel paa Opmærksomhed, Kjole og sort maa være det korrekte. Kjole og sort! Sandsynlig- vis en mindre Middag, ikke andre end de nær- meste.»
+</p>
+<p>
+Medens han kædte sig, hørte han en Stem- me ude i Gangen. Han kjendte den, den tilhørte hans Ven Albert Schnurbusch fra Hannover,
+</p>
+<p>
+    «Hvor skal du hem», sagde Albert Schnur- busch, da han traadte ind og fandt Martin færd med at trække sine lakerede Støvler paa.
+</p>
+
+<p>
+Martin svarede ikke, men pegte hen paa Visitkortkurven, hvor han havde lagt Professor Schumachers store Kort øverst.
+</p>
+
+<pb n="33"/>
+
+
+<p>
+«Professor Schumacher», sagde Albert Schnur- busch, «hvordan nyder du den Ære&gt;
+</p>
+         <p>«Anbefalinger», svarede Martin, «Professor Wolfil&gt;</p>
+<p>
+    «For», vedblev Albert Schnurbusch, «Profes- sor Schumacher er ikke den Mand, som gjør Visit til enhver.»
+</p>
+<p>
+«I Almindelighed», sagde Martin med Selv- følelse, «jeg ved det; men der gives Undtagelser.»
+</p>
+<p>
+eSaal&gt; sagde Albert Schnurbusch, saa?» Ja, saa gratulerer jeg.»
+</p>
+<p>
+    «Og mu», sagde Martin, «faar vi gaa Jeg vil ikke lade Prof ssor Schumacher vente med Middagen for min Skyld Du undskylder.»
+</p>
+<p>Med disse Ord ledsagede han sin Ven ud.</p>
+<p>
+Da de gik nedover Trappen, kom de forbi Professor Biermanns Entré, hvor der paa en Mes- singplade stod graveret med store Bogstaver: Friedrich Biermann, Professor i Sanskrit.»
+</p>
+<p>
+Albert Schnurbusch bemerkede, at det mu bare skulde mangle, at Martin ogsaa blev invi- teret til Professor Biermann.
+</p>
+<p>cVilde det være saadan Ære» spurgte Martin.</p>
+<p>
+En Invitation til Professor Biermann en Ære for en Student», sagde Albert Schnurbusch, «ja, det skulde jeg tro. Han er kanske den første Viden- skabsmand i Tyskland. Han er Søn af en De tailehandler i Freiberg og er alligevel bleven gift
+</p>
+
+<pb n="34"/>
+
+
+<p>
+med en Baronesse HohenloheMeiningen, saa du kan forstaa, han ikke er nogen almindelig Mand. Hans Egteskab har ikke gjort ham mindre arro- gant.» ;
+</p>
+         <p>«Er han saa arrogant?» spurgte Martin</p>
+<p>
+    «En opblæst Herre», sagde Albert Schnur- busch, chan er ikke yndet. Der kommer aldri nogen af de Studerende i hans Hus, naar de ikke enten er ligesaa høiadelige som Hohenlohe- Meiningerne 'eller ansces for idetmindste at være Professoremner.»
+</p>
+<p>
+Udenfor Porten skiltes Martin og Albert Schnurbusch,
+</p>
+<p>
+Martin havde ikke langt at gaa. Professor Schumacher boede i Gøthe-Strasse, og Martin behøvede kun at svinge om Hjørnet af Kvartalet for at være udenfor Professorens Gadedør, Han ringede paa, nævnte sit Navn for Tjeneren og blev vist ind i et dunkelt Værelse, halvt et Kom torværelse, halvt et Forværelse, medens Tjeneren gik for at melde ham.
+</p>
+
+<p>
+Martin syntes ikke, at dette var den Maade, hvorpaa han havde ventet, at han som hædret Middagsgjest skulde blive modtaget, men det var sandt, Tjeneren kjendte jo ikke hans Navn, Martin stod og saa ud af Vinduet, medens han ventede. Det vendte ud til en liden Have. Det forekom Martin, at han etsteds havde seet en
+</p>
+
+<pb n="35"/>
+<p>st</p>
+
+<p>
+Have, som lignede denne, men hvor, kunde han ikke erindre,
+</p>
+<p>
+Endelig aabnedes Døren til Sideværelset, Martin vendte sig og stod Ansigt til Ansigt med en ældre Herre med graat Haar.
+</p>
+<p>
+cDe er den udenlandske Student, som bor hos Mad. Ratze i Winkelstrasse No. 23, 3die Etage», spurgte Herren og nærmede sig Martin.
+</p>
+<p>
+Martin smilte forbintlig og gjorde sit sirligste Buk.
+</p>
+         <p>«Ja, det er mig, Hr. Professor», sagde han.</p>
+<p>
+Professoren blev ganske rød i Ansigtet, me- dens han lagde den højre Haand paa Bordet og. satte den venstre i Siden.
+</p>
+<p>
+eJeg har ladet Dem hente», udbrød han, sfor at sige Dem, at De havde fortjent en Dragt Prygl» R Martin blev i første Øjeblik en Smule for- bauset, men han fattede sig øjeblikkelig og be gyndte at smile og nikke paa en yderst gemytlig og hjærtelig Maade. Denne Tiltale maatte være en behagelig Spøg af Professoren, beregnet paa at indlede en fortrolig og ugenert Omgangstone.
+</p>
+<p>
+Professoren blev endnu rødere i Ansigtet end før og traadte et Skridt frem.
+</p>
+<p>
+eDe havde fortjent en Dragt Prygh», gjentog han, «forstaar De det?&gt;
+</p>
+<p>
+Martin lo endnu mere gemytlig end forrige Gang og nikkede gjentagende paa Hovedet med
+</p>
+<pb n="36"/>
+<p>
+5 en skjelmsk Mine. Professor Schumacher maatte være en usedvanlig spøgefuld Mand.
+</p>
+<p>
+Professoren blev ganske purpurrød i Ansigtet og saa ud, som om han kunde faa et Slagtilfælde paa Stedet.
+</p>
+<p>
+eDe er den mest uforskammede Karl, jeg i mit Liv har truffet», brølede han, «øser De en Gang til Deres skidne Vand ud i min Have, melder jég Dem for Politiet. Havde det ikke været af Hensyn til Deres Ungdom, saa skulde jeg faaet Dem relegeret fra Universitetet, De in- fame Karl. Pak Dem fra mit Hus og lad mig ikke oftere se Dem for mine Øine. Aldrig i mit Liv har jeg truffet en saa infam Person. Paa Døren &gt;
+</p>
+<p>
+Der var intet andet for Martin at gjøre, end skyndsomt at fjerne sig.
+</p>
+<p>
+Han vilde ikke gaa hjem, forat hans Verts- folk ikke skulde anstille ubehagelige Reflektioner over, at Middagen saa snart var forbi. Han tog derfor Veien til en afsides Restauration, hvor han haabede at skulle kunne indtage sin Middag uden at træffe nogen af sine Bekjendte,
+</p>
+<p>
+Martin fik sin Middag i en afsides Krog af Spiseværelset; men han kunde paa de stjaalne Øiekast, de øvrige Spisegjester — mest Haand. verksfolk og Landmænd — sendte ham, mærke, at hans til Forholdene lidet passende Dragt, Kjole og lakerede Støvler, vakte en vis Forundring.
+</p>
+
+
+
+<pb n="37"/>
+<p>på</p>
+<p>
+Det var Martins Plan at blive siddende i Re- staurationen til Skumringen faldt paa, og saa snige sig hjem i al Stilhed. Kjedsomheden blev ham imidlertid til Slutning saa uudholdelig, at han maatte ud og røre paa sig. Han haabede, at han skulde undgaa at møde nogen, som kjendte ham, naar han holdt sig i de afsides Gader i Nærheden af Restaurationen.
+</p>
+<p>
+Skjebnen pleier imidlertid altid være saa ond- skabsfuld, at den fører Folk i ens Vei, netop naar man ønsker at være ubemerket, og Martin havde neppe gaaet 5 Minutter, før han fik et venskabeligt Slag paa Skuldren.
+</p>
+<p>
+Han vendte sig og stod Ansigt til Ansigt med Albert Schnurbusch, netop den af alle hans Kammerater, som han i dette Øieblik nødigst vilde have mødt.
+</p>
+<p>
+«Nu», sagde Albert Schnurbusch, «er Mid- dagen allerede forbi?»
+</p>
+         <p>eJa», sagde Martin, «Middagen er forbi.»</p>
+         <p>«Og du spadserer endnu omkring i sort Kjole»</p>
+<p>
+ejeg skal derhen igjen i Aften», sagde Martin, «Kl. 8. Jeg skal være 4de Mand i en IHombre. Jeg tog mig kun en Tur for at kjøle mig af»
+</p>
+<p>eVar der stort Selskab?» spurgte Schnur- Dusch.</p>
+<p>«Circa 20», svarede Martin.</p>
+<p>3. Vibe: Ea Profowor 3</p>
+<pb n="38"/>
+
+<p>
+«Og hvem var det?» spurgte Schnurbusch. «Ingen, som Du kjender», sagde Martin. «God Vin?» spurgte Schnurbusch. «Fortreftelig», sagde Martin,
+</p>
+         <p>«Og Professoren sely, er det en behagelig Mand?&gt;</p>
+<p>
+»Overmaade behagelig», sagde Martin, «høflig, elskværdig og forekommende. Han behandlede mig, som om jeg havde været hans egen Søn.»
+</p>
+<p>Albert Schnurbusch saa paa Klokken,</p>
+<p>
+«Det er jo Klokken 8, Du skal derhen igjen?» sagde han.
+</p>
+<p>«Kl. 8 begynder IHombren», svarede Martin.</p>
+<p>
+«Saa kan du følge med i Klubben, saalænge», sagde Schnurbusch, «du har endnu halvanden Ti- me igjen. Koret er samlet idag.»
+</p>
+<p>
+Martin var bange for, at Albert Sohnurbusch, hvis han sagde nej, af sit Venskab skulde lade sig forlede til ikke at skilles fra ham i Løbet af de halvanden Time, der var igjen til Kl. 8 og sluttelig maaske følge ham til Professor Schu. machers Dør. Han samtykkede derfor og fulgte Albert Schnurbusch til Klubbens Samlingssted,
+</p>
+<p>
+Den Ølhal, hvori Martin, Albert Schnurbusch og deres Venner pleiede at mødes, laa ikke langt borte, De fleste af Kammeraterne var allerede samlede, og Martin og Albert blev modtagne med høie Leveraab, da de traadte ind. Der var kun cen fremmed i Lokalet. Det var en ung,
+</p>
+
+
+
+<pb n="39"/>
+<p>
+mørkhaaret Mand med en Violin. Han sad afsides ved et Vindu, halvveis dækket af de mørke Gar- diner.
+</p>
+<p>
+Martin var en udmerket Kammerat, og hans Ankomst var derfor Signalet til, at der blev tømt en Masse «hele og halve Salamandre». Antallet blev end yderligere forøget, da Albert Schnur- busch fortalte, hvilken Opmerksomhed Professor Schumacher havde vist Martin. Martin vaandede sig under sine Kammeraters Gratulationer og drak, som han var gal for at skylle Ærgrelsen ned. Til Slutning begyndte hele Koret at skraale Studentersange, hvorunder Martin, der havde en Stemme som en Tyr, særlig udmerkede sig ved at brøle, saa det gav Gjenlyd fra alle Vægge.
+</p>
+<p>
+Det var høist merkeligt at se, hvilken Virk- ning Sangen havde spaa den unge Mand med Violinen. Han havde hidtil siddet ganske stille. Men aldrig saa snart havde de første Strofer af Sangen lydt gjennem Hallen, før. han for op af sin halvt hvilende Stilling og fik de besynderligste Trækninger om Munden og Øinene, Da man begyndte paa den anden Sang, hvor Martins Stemme navnlig var hørlig under Afsyngelsen af Koret:
+</p>
+<p><quote>
+	<l>«Juk he, juk he, juk dideludei</l><l> Juk dideludei jukhe </l>&gt; </quote></p><p>blev den Fremmedes Bevægelser endnu mere 
+
+         	foruroligende. Han skar ikke alene Ansigter, men </p>
+
+<pb n=""/>
+<p>
+begyndte ogsaa at skrabe med Benene og holdt samtidig begge sine Hænder for Ørene.
+</p>
+<p>
+Efterat denne Sang var sunget tilende, og Ekkoet af det sidste: «Juk dideludei juk he I&gt; var hendøet i Luften, blev der et Øiebliks Stansning, og den Fremmede begyndte gradvis at gjenvinde sin Rolighed, da Martin pludselig fik det Indfald at synge en Solo. Den Fremmede hoppede for- melig paa Stolen, da Martin satte i med sine Lungers fulde Styrke, og han var ikke kommen tilende med første Vers, før den Fremmede greb Violinen og styrtede ud af Værelset.
+</p>
+<p>
+Da Martin var færdig med sin Solo, saa han paa Klokken, lod som han blev meget altereret over, at den allerede var 8, tog sin Hat og ilede ud af Værelset med den Bemerkning, at Professor Schumacher ventede paa ham med THombren.
+</p>
+<p>
+Han havde ikke gaaet langt, før han indhen- tede den Fremmede, der gik langsomt ned ad Gaden med Violinen under Armen,
+</p>
+<p>
+«Vor simple, fordringsløse Sang lod ikke til at behage Dem», sagde Martin, da han var kom- men paa Siden af ham,
+</p>
+<p>Den Fremmede vendte sig og saa paa Martin.</p>
+<p>
+«Jo, jo», sagde han paa gebrokkent Tysk, «Sangen meget smuk, men den ikke passe for mine Øren.»
+</p>
+			<p>«De er Udlænding?» sagde Martin.</p>
+			
+			
+			<pb n="41"/>
+			
+			
+			
+			<p>«Itliener», 
+sagde den Fremmede, «Signore Kohumbo, Musiker. i</p>
+			<p>Martin spurgte, om han havde været længe ! i Gttingen.</p>
+			<p>«Kom i Formiddag», 
+sagde den Fremmede, log reiser i Morgen Eftermiddag til Berlin. Jeg vente  hvad kalder de det  ma soeur med Jernbane om en Time. Jeg vil 
+møde hende. Hun ikke været her før og ikke vide, hvor hun skal tage ind.»</p>
+			<p>«0g nu gaar De hen paa Hotellet saa længe, sagde 
+Martin.</p>
+			<p>Den Fremmede rystede paa Hovedet.</p>
+			<p>4«Nei, sagde an, «jeg bor i Bellevue. Me- get langt fra Jernbane. Jeg vil gaa, 
+spadsere i Gaden til Jernbane bliver aabnet.</p>
+			<p>NHoør, ved De hvad, sagde Martin, kan De ikke lige saa godt sætte Dem oppe hos mig, 
+medens De venter. Jeg bor her lige ved i det store Hus tilhøire, som De ser paa den anden Side at Gaden. Derfra har De ikke mere end 3 
+Minutters Gang til Jernbanen; den er her lige om Hjørnet.</p>
+			<p>Talieneren var meget taknemmelig for Mar- tins Tilbud og fulgte ham op 
+paa hans Værelse.</p>
+			<p>Det var ikke mere end skyldig Tak for Mar- tins Gjestfrihed, at den Fremmede efter en Tids Forløb fik Violiien 
+frem og begyndte at spille for sin Vert. I Begyndelsen spillede han efter )</p>
+			
+			
+			<pb n="42"/>
+			
+			
+			
+			
+			
+			<p>18 Hukommelsen; men senere tog han et Hefte Noder frem af Baglommen paa sin Frakke og spillede efter 
+disse.</p>
+			<p>Ulykkeligvis havde Martin ikke mere musi- kalsk Sans end en almindelig Ko, ellers vilde han have indseet, at man kunde lede 
+blandt En- ropas færste Kunstnere, inden man fandt en Mand, der forstod at aflokke Violinen saadanne Toner, som den unge Ialiener. Men 
+Martin havde en høist umusikalsk Fornemmelse af, at Omkvædet: «Juk dideludei, jukhele sunget af kraftige Studen- terstruber, var en 
+ganske anderledes stemnings- fuld Præstation end Signore Kolumbos Klimpren pPaa Violinen, som han i sit stille Sind kaldtedet.</p>
+			<p>Det 
+vakte derfor ingen Indsigelse fra Martins Side, da Signore Kolumbo efter at have spil 4 å 5 Melodier, lagde Vilolinen og Noderne fra sig 
+og begyndte at konversere.</p>
+			<p>Han besad Sydlændingens hele ig</p>
+			
+			<p>Barnlighed, og de havde ikke talt en halv sammen, før han 
+fortalte Martin om sin Barndom og sin Ungdom, og hvorledes han i Begyn- delsen havde kjæmpet med Modgang. Han var en Son af fattige 
+Landsbyfolk, og som han gjen- tagende sagde, han havde begyndt med to tom- me Hænder», med to tomme Hænder.» Signore Kolumbo var 
+øiensynlig meget di- strait, og efter hvert som han fortalte, glemte</p>
+			
+			<pb n="43"/>
+			
+			
+			<p>han ganske sine 
+Omgivelser og talte snarere til sig selv end til Martin.</p>
+			<p>Pludselig lød Lokomotivets Piben. Signore Kolumbo for op som af 
+Dremme.</p>
+			<p>«Jebane», raabte han, Jerbane. Ma soeur maa ikke komme og ikke finde andet end fremmede Ansigter. Jeg maa 
+afsted.»</p>
+			<p>Med disse Ord greb han Hatten og styrtede ud af Døren; men endnu var han saa inde i sin Tankegang, at han, medens han 
+ilede ned ad Trappen, mumlede balvhit for sig selv: Med to tomme Hænder, med to tomme Hænderl» og inden Martin kunde faa gjort ham 
+opmerksom paa, at han havd: glemt Violinen og Noderne, var han nede paa Gaden.</p>
+			<p>æræs</p>
+			
+			
+			
+			<pb n="44"/>
+			
+			
+			
+			<p>en samme Eftermiddag sad Pro- fessor Biermann, Fru Biermann og hendes Broder Oberst Her- 1, man, Baron af 
+Hohenlohe-Mei- ⁶ ningen, samlede i Dagligstuen i Etagen nedenunder.</p>
+			<p>Det var endnu tidlig paa Aaret; men det var en usædvanlig mild 
+Dag, og Fruen havde sat et Vindu op. Samtalen havde dreiet sig om almindelige Gjenstande, da Opmærksomheden uformodet vaktes ved klare 
+Violintoner fra Eta- gen ovenover. Vinduerne i Værelset ovenpaa maatte ogsaa staa oppe, sa tydelig klang To- æmne i den stille 
+AprilAften. Det var en af Verdis Melodier.</p>
+			
+			<pb n="45"/>
+			
+			<p>Professor Biermann var usædvanlig musi- kalsk, og det 
+samme var Tilfældet med de to tilstedeværende Eksemplarer af Familien Hohen- Iche-Meiningen. De havde ikke lyttet længe til Spillet, før 
+det gik op for dem, at den Spillende maatte være en Musiker af fremragende Bega- velse. Melodi fulgte paa Melodi, og da endelig den 
+sidste forstummede, sad Professoren, Fruen og Obersten endnu i flere Minutter i aandeløs Taushed og lyttede.</p>
+			<p>Obersten var den 
+Første, der brød Taus heden.</p>
+			<p>Saa spiller ingen Dilletante, sagde han, aa spiller kun en Kunstner og det en Kunstner af Rang. Hvem 
+er det, som bor i Leiligheden ovenover, Svogerle</p>
+			<p>sJeg ved ikkee, sagde Professoren, »jeg tror det er en Enke efter en 
+Embedsmand.</p>
+			<p>Hun har vist en Logerende, sagde Fruen, vjeg har af og til paa Trappen mødt en yngre Mand, der er kommen fra Etagen 
+ovenfor. Det er, hvis jeg ikke tager feil, fra hans Værelse Mu- sikken kommer.e</p>
+			<p>Men at du ikke har forhrt dig om hans Navn, 
+elskværdige Søstere, sagde Oberstene, »at have en saadan Begavelse boende i samme Hus, som En selv, uden en Gang at vide, hvad han 
+heder, er en Skam for et Medlem af vor Familie,</p>
+			
+			
+			<pb n="46"/>
+			
+			
+			
+			<p>der altid har beskyttet 
+Kunsten, navnlig Mu- sikken.e</p>
+			<p>Men idag er det første Gang, vi hærer ham., sagde Fruen.</p>
+			<p>vFørste Gang ? spurgte Obersten, . 
+hvorledæs det?e</p>
+			<p>Jo viste, sagde Professoren, *De maa huske paa, at vi i hele Vinter har boet i Værelserne paa Sydsiden. Det var 
+først iforgaars, at vi flyt- tede ind her. Der kunde gjerne været musikalsk Soirée hver Aften i Værelset ovenpaa for alt, hvad vi kunde 
+hre.</p>
+			<p> Men vi skal indhente det forsømter, sagde Fruen og ringede.</p>
+			<p>Tjeneren, der kom ind, fik Ordre til at sor. høre sig  
+underhaanden og saa diskret som  om Navnet paa den unge Mand, der logerede i Værelset ovenover, og om hvad Lands- mand han var.</p>
+			<p>Ti 
+Minutter efter kom Tjeneren tllbage Den unge Mand, som boede ovenpaa, var en Udlænding, sagde han, en Nordmand. Hans Navn var Amot, 
+Martin Amot. Han sta vede Tilnavnet med to A'er. Han var sandsynligvis fattig, tilføiede Tjeneren, da han kun havde eet Værelse; han var 
+forøvrigt ude meste Parten af Dagen.</p>
+			<p>Vil du ikke bede ham i din Soirée paa Torsdag, Svogers, sagde Obersten, da Tjeneren</p>
+			
+			
+			<pb n="47"/>
+			<p>*</p>
+			<p>var gaaet, »jeg længes efter at høre god Musik, og det er vi sandelig ikke forvænte med i Göttin- 
+gen. Frøken von Eschingen skriger som en Skjære.</p>
+			<p>⁸Det vilde unegtelig gjøre Selskabet mere interessante, sagde Fruen, om vi kunde 
+byde Musik,e</p>
+			<p>sJeg skal sende ham en Invitation endnu den Dag imorgens, sagde Professoren.</p>
+			<p>Bor du ikke først gjøre en Visite 
+sagde Fruen, fattige Kunstnere er undertiden stolte.e</p>
+			<p>sBevidstheden om deres Fattigdom gjør den Slags Folk langt ømfindtligere 
+ligeoverfor virke lige eller indbildte Tilsidesættelser end Folk af vor Stands, tilføiede Obersten.</p>
+			<p>Det er ganske sandte, sagde 
+Professoren, det er det rigtigste at gjøre Visit først. Derved far jeg ogsaa Anledning til at sikre mig mod en mulig 
+Feiltagelse.e</p>
+			<p>Martin sad den næste Formiddag og havde Hovedpine. Signore Kolumbos Violin og Noder, som denne endnu ikke havde 
+afhentet, laa foran ham paa Bordet, da Pigen stak Hovedet ind og meldte Professor Biermann.</p>
+			<p>sPro  Pro  Professor Hvem?: raabte 
+Mar- tin med en dunkel Rædsel for at han maaske mod sit Vidende og Vilje ogsaa kunde være kom- met til at fornærme denne Hædersmand, 
+</p>
+         	<p>Professor Hvem?-</p>
+			
+			
+			<pb n="48"/>
+			
+			<p>Pigen fik ikke Tid til at svare, forend Pro- fessorens høie Skikkelse 
+og aristokratiske Ansigt med de store Whiskers viste sig i Døren.</p>
+			<p>Undskylde, sagde han, at jeg forstyrrer Dem i Deres Studier; men 
+jeg kunde ikke mod- staa min Lyst til at hilse paa Dem. Jeg har en Gang havt den Fornøielse at</p>
+			
+			<p>Violinisten Ole Bulle, 
+vedblev Professoren. Siden den Tid har jeg altid næret en levende Interesse for alt, hvad der er norskt. Det maa tjene til Undskyldning 
+for min Paatræn- genhed.</p>
+			<p>sJeg vidste ikke, at mit Navn var bekjendt udenfore  begyndte Martin.</p>
+			<p>Han vilde sagt udenfor 
+Studenterkredsen, men Professor Biermann afbrød ham.</p>
+			<p>»Om Navnet Martin Aamot endnu ikke er bekjendt, saa vil det i hvert Fald 
+inden ret mange Aar være bekjendt inden vide Kredser, sagde han smilende. Det tør jeg vel forudsige, uden at være nogen stor 
+Spaamand.</p>
+			<p>Martin vovede ikke at se op, men stirrede undselig paa Noderne, som laa foran ham. Saa forlegen blev han over den 
+Anerkjendelse, som $aa uventet blev ham tildel, og det fra en saa- dan Kant, at han neppe havde Aandsnærværelse nok til at bede 
+Professoren sætte sig.</p>
+			
+			<pb n="49"/>
+			
+			<p>sBliver De længe i Göttingene spurgte Pro- fessoren, da han havde taget 
+Plads.</p>
+			<p>sOm to Maaneder reiser jeg herfrae, sagde Martin</p>
+			<p>1Saa haber jeg endnu at kunne have den Fornielse at se Dem i mit 
+Hus, indenDe reisere, sagde Professoren.</p>
+			<p>Martin fremkom med en keitet Taksigelse.</p>
+			<p>Professoren havde længe seet paa Violinen, 
+som laa paa Bordet foran Martin. Nu tog han den i Haanden og betragtede den nøiere. Pro- fessoren var en Kjender.</p>
+			<p>En Kremonesere 
+sagde han.</p>
+			<p>sEgte Kremonesere, sagde Martin. Det turde han trygt sige, thi det havde Signore Ko- lumbo fortalt ham den foregaaende 
+Dag.</p>
+			<p>Men lad mig ikke forstyrre Dem længere, sagde Professoren og reiste sig, jeg erindrer, hvor kostbare Minutterne var, da jeg 
+selv som ung Mand arbeidede for at-erhverve mig et Navn og en Stilling. Livet er kort, men Kunsten lang, som Ordsproget siger. ]a, ja, 
+Farvel, jeg haaber, at det ikke er sidste Gang, vi sees.*</p>
+			<p>Med disse Ord rakte Professoren ham Haan- den og fjernede 
+sig.</p>
+			<p>Martin var i den syvende Himmell Havde Professor Biermann ikke udtrykkelig nævnt ans Navn, vilde han have følt sig fristet 
+til at anse det Hele for en Feiltagelse. Men nu havde han</p>
+			
+			
+			
+			<pb n=""/>
+			
+			
+			
+			
+			<p>med 
+rene Ord sagt Martin Aamot. Navnet Mar- tin Aamot vilde inden faa Aar blive kjendt i vide Kredse, havde han sagt, saa her var en 
+Misforstaaelse umulig. Hvad behovede han nu at bekymre sig omen gammel Grincbider som Professor Schumacher, nar en saadan Autoritet som 
+Professor Biermann havde forudsagt. at han vilde blive en berømt Mand. Dette maatte ufeilbarlig skyldes Professor Wolfts rosende Om- 
+tale. Professoren havde ogsaa havt Grund til at være fornøiet med ham i den senere Tid; men det var alligevel meget venligt af Professor 
+Wolf, at han havde henledet Professor Biermans Op: merksomhed paa ham. Han lovede sig selv, at han til Gjengjæld paa sin Side skulde 
+vise sig sa forekommende og hjertelig som mulig mod Professor Wollf.</p>
+			<p>Paa Professor Wolffs Forelæsninger den næste Dag blandede han 
+sig ogsaa i Samtalen paa en saa kolegial Maade, svarede paa Professorens Spørgsmaal med en saa rolig Mildhed og ledsa- gede sine Svar 
+med et saa venskabeligt og vel- villigt Smil, at Professoren troede, at han havde en Skrue løs og ved Hjemkomsten betroede sin Kone, at 
+han nærede alvorlig Frygt for, at den unge Aamot holdt paa at gaa fra Forstanden.</p>
+			<p>Da Martin kom hjem fra Forelæsningerne, traf han 
+i Gangen en galloneret Tjener, der rakte ham et Brev fra Professor Biermann.</p>
+			
+			<pb n="51"/>
+			
+			
+			<p>Brevet lød som 
+folger</p>
+			<p>«Hr. Martin Aamot!</p>
+			<p>Tør min Hustru og jeg udbede os Æren af Deres Nærværelse ved en liden Soirée i Morgen Aften Kl. 8. 
+Vi ved, at Timemre er kostbare for en Mand, der som De har en betydelig Fremtid, og at den ikke kan maales med det almindelige Maal; men 
+vi haaber dog, at Deikke vil afslaa vor Indbydelse. At denne Invitation kommer saa sent, haaber jeg, De undskylder paa Grund af, at jeg 
+først igaar nød den Ære at gjøre Deres personlige Bekjendtskab; men min Hustru brænder af Begjærlighed efter at lære Dem at kjende og 
+vilde ikke høre Tale om nogen Udsættelse.</p>
+			
+			<p>Deres ærbodige Friedrich Biermann.e</p>
+			<p>Martin blev saa overvældet af 
+Lyksalighed over denne Indbydelse og de smigrende Ord, hvori den var affattet, at han ikke sansede at give Tjeneren noget Svar, men 
+læste Brevet op igjen og op igjen.</p>
+			<p>Forst da Tjeneren spurgte, hvad han skulde svare, kom Martin nogenlunde til sig selv.</p>
+			<p>Sig 
+saa mange tusinde Taks, udbrød han, sig Professoren og Fruen saamange tusinde Tak. Jeg skal have den Ære at indfinde mig til det 
+fastsatte Klokkeslet.-</p>
+			<p>Martin var fuldstændig optaget af </p>
+			
+			<pb n="52"/>
+			
+			
+         	<p>Invitationen hele den Dag og 
+hele den næste Formiddag. Han skaffede sig en Chapeau bas, kjøbte et Par nye Støvler, og da han troede, at have op- daget en 
+mikroskopisk Plet paa sit ene Kjole- ærme, bestilte han en ny Kjole hos Skrædderen. Han maatte gribe sig an; han holdt paa at komme i 
+Vinden i de selskabelige Kredse i Göttingen.</p>
+			<p>r</p>
+			
+			
+			<pb n="53"/>
+			<p>|ÆRRR</p>
+			
+         </div>
+         <div type="chapter">
+			<head>6te 
+Kapitel.</head>
+			<p>Soiréen hos Professor Biermann.</p>
+			<p>artin blev mødt med den største Forekommenhed af det elegante Selskab, der var 
+samlet hos Professor Biermann.  Professoren ilede ham imøde, da han traadte ind, hilste ham med den mest udsøgte Artighed og anholdt 
+omat maatte presentere ham for Husets Frue, som ved Navnet Martin Aamot rakte ham Haanden med et saa huldsaligt Smil, at Martin blev 
+ganske varm om Hjer tet og ikke kunde hitte paa det tarveligste Svar paa de forbindtlige Ord, som Fruen rettede til ham. Heldigvis blev 
+han befriet fra sin For- legenhed, ved at Professoren kom for at forestille J. Vibe: En Pofr. h</p>
+			
+			<pb n="54"/>
+			
+			
+			<p>ham for forskjellige celebre Personer, der havde udtalt Ønsket om at gjøre hans Bekjendtskab. Det forekom Martin, at det maatte 
+være et me- get musikalsk Selskab, hvori han havde gjort sin Indtrædelse, eftersom alle de fornemme Herrer og Damer, han gjorde 
+Bekjendtskab med, lod til at have stillet sig til Opgave væsentlig at konver- sere ham om Musil</p>
+			<p>Martin, der nødig vilde røbe sin 
+Uvidenhed paa dette Felt, gav saa korte og undvigende Svar som muligt. Stor Jubel vakte det, da han paa Spørgsmaalet; om hvad han 
+foretrak, enten den tyske eller italienske Musik, freidigen svarede: «Ubetinget den tyske, i den Overbevisning, at dette Svar var det 
+hofligste, nar han, som i Aften, befandt sig udelukkende sammen med Tyskere.</p>
+			<p>Saaledes gik et Par Timer, da en Dame paa omkring 30 
+Aar nærmede sig Pianofortet.</p>
+			<p>«Frk. von Eschingen», hviskede hans Nabo, en Løitnant ved Gardehusarerne, en udmerket Stemme. I alle 
+Fald til en Dilletantstemme at være, tilføiede han hurtig.</p>
+			<p>Martin befandt sig i Nærheden af Pianofortet, da Frøken von Eschingen 
+nærmede sig. Der stod to å tre Herrer mellem ham og Frøknen, men da hun havde sat sig og faaet Nodere frem, trak de sig som ved en 
+fælles Overenskomst til bage, saa at Martin kom til at staa nærmest</p>
+			
+			
+			
+			<pb n="55"/>
+			
+			<p>Frøknen, som i 
+det samme, accompagneret af Pianoet, stemmede i en Sang, sandsynligvis af en eller anden berømt Komponist, hvem, havde Martin ikke den 
+fjerneste Anelse om.</p>
+			<p>Martin havde læst noget om, at den nærmest staaende Herre ved saadanne Leilighed:r pleiede at vende 
+Nodebladet for den Dame, som spillede, og han kunde ogsaa se paa et stjaalent Øiekast, som Freknen sendte ham, da hun kom over paa den 
+anden Side af Nodebladet, at hun ventede denne Opmærksomhed af ham.</p>
+			<p>Martin vilde have givet hundrede Kroner til, at han havde havt 
+den fjerneste Anelse om, paa hvilket Punkt denne Venden af Bladet skulde foregaa; men Noder var ham ligesaa uforstaaelige som 
+Hebraisk.</p>
+			<p>Frøknen sendte ham atter et Blik; det var ikke til at holde ud. I sin Fortvivlelse valgte han den Udvei, at stirre ud i 
+det tomme Rum med et forvildet Blik, som om han varaldeles for- tabt i Musikken, og i sin Henrykkelse ikke havde Øie og Øre for andet 
+end Tonerne.</p>
+			<p>Frøknen blev nødt til at vende Bladene selv. Det var som en lydelig Bebreidelse af Martins Samvittighed, hver Gang 
+han horte Lyden af et Blad, der blev vendt, og Sveden perlede formelig paa hans Pande, men han holdt sig tappert og vedblev ufravendt at 
+stirre paa det tomme Rum ovenover. Frøknens Hoved.</p>
+			
+			
+			
+			<pb n="56"/>
+			
+			
+			
+			
+			
+			
+			
+			<p>Endelig var Sangen endt, og Frøken von Eschingen reiste sig. Hun var en Smule forlegen, og ytrede, fortrinsvis 
+henvendt til Martin, at hun idag desværre ikke var ved Stemme, hvilket bragte Martin til at mumle noget, om at han følte sig 
+overordentlig tiltalt, en Vtring, som lod til at glæde Frøknen meget.</p>
+			<p>«Hun sang ikke saa godt, som hun pleier», hviskede 
+Løitnanten ved Garde-Husarerne til Mar- tin, hun generte sig for Dem.»</p>
+			<p>Martin fik ikke Tid til at undersøge om denne Bemerkning 
+var alvorlig ment eller ikke, da Fru Biermann i det samme nærmede sig og med sit mest vindende Smil spurgte, om de saa ikke skulde faa 
+den Fornøielse at høre Martin.</p>
+			<p>Migl raabte Martin. eHore migl»</p>
+			<p>Ja vist, sagde Fruen, «De maa ikke være saa grusom at sige 
+nei.»</p>
+			<p>Martin vidste ikke, hvad han skulde svare, da han pludselig saa sig omgivet af en hel Kreds af ældre og yngre Damer, der med 
+de mest straalende Øine, de mest indtagende Smil og det mest bedaarende Tonefald bønfaldt ham om ikke at være saa hjerteløs at skuffe 
+deres Forhaab- ninger; men lade sig høre, om det saa kun var en eneste Gang.</p>
+			<p>Saa uimodstaaelig virkede disse indtrængende Bonner 
+af en saadan Skare af elskværdige Damer paa Martins Sind, at han var i stor Beraad med</p>
+			
+			<pb n="57"/>
+			
+			<p>sig selv om 
+han ikke skulde opfylde de Smukkes Begjæring ved at istemme Omkvædet: «Juk he, juk he! Hei dudelidei eller en anden lystig 
+Studentersang, da alle Damerne ved Synet af Professoren, som nærmede sig med en Violin, med en Mund udbrød, at han nu umulig længer 
+kunde modstaa.</p>
+			<p>Umiddelbart efter stak Professoren ham Violinen i Haanden.</p>
+			<p>Martin rystede paa Hovedet og leverede Violinen 
+tilbage, idet han samtidig gjorde en af- værgende Bevægelse med Haanden, som om han vilde protestere mod at have nogetsomhelst med den 
+Tingest at skaffe.</p>
+			<p>Professoren blev rød og bemerkede, at det just ikke var nogen første Rangs Viclin, men han havde dog altid 
+anseet den for brugelig.</p>
+			<p>«Men, tilføiede han, ekanske jeg faar Lov til at lade Tjeneren gaa op og hente Deres egen Kremoneser. 
+h</p>
+			<p>+Min Kremoneser», sagde Martin, jeg har ingen Kremoneserl»</p>
+			<p>«Men den Violin, som jeg selv saa oppe paa Deres ord, sagde 
+Professoren, «De sagde --</p>
+			<p>«Den tilhørte Signore Kolumbo», sagde Martin, han har hentet den for længe siden.»</p>
+			<p>«Signore 
+Kolumbo, raabte Professoren.</p>
+			<p>«Signore Kolumbo, gjentog Damerne.</p>
+			
+			
+			<pb n="58"/>
+			
+			
+			
+			<p>(Det er 
+altsaa ikke Dem, der er Musiker, vedblev Professoren.</p>
+			<p>«Det er altsaa ikke Dem, hvis Spil vi beun- drede forleden Aften», tilføiede 
+Fruen.</p>
+			<p>«Nei vist, det var Signore Kolumbo, svarede Martin.</p>
+			<p>«Hvor er da Deres Ven, Signore Kolumbo at træffed» spurgte 
+Fren.</p>
+			<p>«Han er reist til Berlin igaar, sagde Martin, «jeg har ikke talt med ham mere end en eneste Gang i mit Liv.</p>
+			<p>«Men tør 
+jeg da være saa fri at spørge om Deres Stilling», ytrede Professoren.</p>
+			<p>sJeg er Student», sagde Martin, og frekven- terer Professor 
+Wolffs Forelæsninger.»</p>
+			<p>«Student», raabte Fruen.</p>
+			<p>Frekventerer Professor Wolffs Forelæsnin ger», supplerede de 
+Omkringstaaende.</p>
+			<p>Ja, jeg lægger mig som vordende Viden- skabsmand efter de germaniske Sprog, ytrede Martin med 
+Selvfølelse.</p>
+			<p>De germaniske Sprog er et meget interessant Studium», ytrede Professoren og saa sig om.</p>
+			<p>Vist meget interessant, 
+tilføiede Fruen.</p>
+			<p>vOvermaade interessant», supplerede de Om- kringstaaende.</p>
+			<p>Professoren og Fruen gjorde Martin en kort 
+Undskyldning, fordi de havde uleiliget ham og fjernede sig derpaa. De Omkringstaaende</p>
+			
+			
+			
+			
+			<pb n="59"/>
+			<p>det samme, og to Sekunder senere stod Martin alene igjen med en Baronesse Goldberg, som havde talt meget med ham og været 
+usædvanlig forekommende mod ham i Aftnens Lob.</p>
+			<p>Martin følte en Trang til at soutinere sin Stilling som norsk Professor-Emne, og 
+vendte sig rask til Baronessen, der smilte saa nedladende, som om intet var paafærde.</p>
+			<p>Deres Naade tror ikke, hvilke store viden- 
+skabelige Resultater, der i den senere Tid er vundet ved Studiet af de germaniske Sprog, ytrede han med en Videnskabsmands rolige 
+Værdighed, «Professor Wolff har ved sine Undersøgelser paa Sprogvidenskabens Omraade, kastet et nyt Lys over mangt et dunkelt Træk i 
+Germanernes ældste Historie. De forskjellige Stammers oprindelige Bo- pæle, de Veie, som Indvandringen har taget, Stam- mernes indbyrdes 
+Slægtskab saar gjennem et grundigt Studium af Sprogets ældste Former en ny Belysning. Kort sagt –</p>
+			<p>Udtrykket i Baronessens Ansigt 
+fik, efter hvert, som Martins Tale skred fremad, mere og mere Præget af den mest udelte Opmerksomhed.</p>
+			<p>4«Hvor interessant», udbrød 
+hun, «hvor over ordentlig interessant1 Fru Eichenfels, tilføiede hun hurtig og nærmede sig denne Dame, der i det samme gik 
+forbi.</p>
+			<p>De to Fruer vekslede et Par Ord med dæm- pet Stemme; derpaa vendte Baronessen sig om</p>
+			
+			
+			<pb n=""/>
+			<p>56 mod 
+Martin med sit mest huldsalige Smil og et lidet høist elskværdigt eUndskylds, og for- svandt tilligemed sin Veninde.</p>
+			<p>Fra dette 
+Tidspunkt ophørte enhver Kon- versation for Martins Vedkommende. Han nær. mede sig flere Grupper, men ingen kjendte ham, og ingen 
+bekymrede sig om ham, og han havde en Fornemmelse af, at han var ligesaa meget udenfor Selskabet, som om han havde siddet oppe paa sit 
+Værelse i 3dje Etage. Ved Aftensbordet kom han til at staa ved Siden at Løitnanten ved Gardehusarerne, der i Aftenens Løb havde været 
+saa meddelsom. Martin havde haabet, at han atter skulde indlede en Konversation, men nei, han talte til Høire og Venstre, forbi Martin 
+og over Martin, men lod, som om han aldeles ikke bemerkede Martin.</p>
+			<p>Da Martin endelig tog Afsked og vendte tilbage til sit beskedne 
+Værelse i 3dje Etage, maatte han tilstaa, at han ikke egentlig havde moret sig. Der fulgte heller ikke flere Invitatio- ner til 
+Professor Biermann. Det eneste, han havde igjen, var Brevet fra Professor Biermann, som han gjemte ombyggelig i sin 
+Komode.</p>
+			<p>Endelig var Martins Kursus endt. To Dage før sin Afreise begav han sig op til Professor Wolff for at erholde en Attest; 
+thi Professor Lunde havde sagt ham, at hvis han vilde have det tilbørlige Udbytte af sin Reise, maatte han</p>
+			
+			
+			<pb n="61"/>
+			
+			<p>kunne fremvise en Anbefaling fra den Professor, hvis Forelæsninger han havde frekventeret.</p>
+			<p>Professor Wolff 
+viste sig i Begyndelsen me- get unaadig mod Martin, og blev i høieste Grad entristet, da Martin lod falde nogle Ord om, at han havde 
+tænkt at- benytte Attesten, som et Trin paa Veien til selv at blive Professor. Pro- fessor Waolff foreholdt Martin i en streng Tone, at 
+han vilde svigte sin Pligt som tysk Videnskabs- mand og som en Ungdommens Lærer, ved at ud- stede en Attest i dette Øiemed, og udmalede 
+med gruopvækkende Farver, hvilken frygtelig Skandale det vilde være; og hvilken Forbitrelse det vilde fremkalde blandt den studerende 
+Ungdom, hvis Martin ved Hjælp af hans Attest skulde forsøge at blive Professor f. Ex. i Göttingen, et Uni- versitet, hvor man hidtil 
+havde været vant til at lytte til Mænd som ham selv og Professor Bier- mann. Professoren blev imidlertid beroliget, da Martin 
+forklarede, at han aldrig havde næret en saa formastelig Tanke som den at blive Professor i Tyskland; men at det kun havde været hans 
+be- skedne Mening at blive Lærer ved Universitetet i sit Fædreland. Professoren erkjendte med stor Beredvillighed, at Martin ved sin 
+stadige Tilstede- værelse paa hans Forelæsninger havde erhvervet et betydelig Præ fremfor de af Professoree ved Universitetet i 
+Kristiania, der ikke havde nydt denne Lykke, og at han ved blandt sine Lands</p>
+			<pb n="62"/>
+			
+			<p>8 mænd at udsprede nogle af de 
+Guldkorn, han havde opfanget paa Professor Wolfs Forelæsnin- ger, vilde bidrage mægtig til Kulturens Udvikling i sit fjerne Fædreland, 
+og da Martin endelig i al Underdanighed androg om at maatte faa Lov til gjennem en Oversættelse at gjøre en af Profes- sorens Verker, 
+hvoraf der hidtil kun var solgt 30 Eksemplarer, tilgjængelige for sine stakkels Lands- mænd, blev Professoren saa medgjorlig, at han 
+ikke alene meddelte ham Tilladelsen til at oversætte hans Verk, men ogsaa gav ham den forlangte Attest.</p>
+			<p>Denne var forfattet i saa 
+rosende Udtryk,- at Martins Ven i Liv og Død, Albert Schnurbusch, blev ganske gul af Misundelse og tog en meget kjølig Afsked med Martin 
+paa Jernbaneperonnen, da denne to Dage senere forlod Göttingen, for med Nordbanetoget at begive sig paa Hjemveien.</p>
+			
+			
+			<pb n="63"/>
+         </div>
+         <div type="chapter">
+			<head>7de Kapitel.</head>
+			<p>Martin begynder at blive berømt.</p>
+			
+			<p>- artin havde under sit Op- 3 holdi 
+Göttingen korrespon-  deret med et Par af sine Venner og Beskyttere i Norge og fortalt saa me- get om sit ærefulde Be- kjendtskab med 
+Professor Schumacher og Professor Biermann, som han fandt det hensigtsmæssigt al meddele. ;</p>
+			<p>Hans Rygte var derfor ilet foran ham, 
+og</p>
+			
+			
+			<p>allerede paa Veien fra Bryggen til Hotellet kunde han paa de opmerksomme og venlige Hilsener se, at man havde 
+hørt om den Lykke, han havde gjort.</p>
+			
+			<pb n="64"/>
+			<p>Det var som et heldigt Varsel, at han lige foran Døren til Grand Hotel 
+traf sine Beskyttere Professor Simonsen, Professor Wint og Professor Dr. Barth,</p>
+			<p>De røbede alle tre en oprigtig Glæde ved at gjense 
+Martin og fulgte ham op paa Hotellet. Martin maatte her mundtligen bekræfte, hvad han havde skrevet i sine Breve. Som et Vidnesbyrd om, 
+at hans Meddelelser kun var en nøgtern Gjengivelse af Sandheden, fremlagde han i al Beskedenhed Professor Wolffs Attest, Visitkortet fra 
+Professor Schumacher og Brevet fra Professor Biermann.</p>
+			<p>Brevet fra Professor Biermann gjorde et sterkt Indtryk navnlig paa 
+Professor Simonsen og Pro- fessor Dr. Barth, der selv i sin Tid havde ligget i Göttingen og kjendte Forholdene der.</p>
+			<p>«Det er 
+merkværdig», sagde Professor Barth, ten egenhændig Skrivelse fra Professor Biermann og det i saadanne Udtryk.</p>
+			<p>«Især naar man 
+kjender Professor Biermann, supplerede Professor Simonsen, og ved, hvor van- skeligt det var at faa saa meget som et eneste 
+anerkjendende Ord fra den Kant.»</p>
+			<p>«En Mand, som altid pleiede at holde sig i fornem Fjernhed fra de Studerende, ytrede Pro- fessor 
+Barth.</p>
+			<p>vEn rentud utaalelig Aristokrat inden Viden- skabens Verden», tilføiede Professor Simonsen,</p>
+			
+			
+			<pb n="65"/>
+			<p>61 4som vi ikke har og med Guds Hjælp aldrig faar Mage til her i Landet.»</p>
+			<p>+Og saa Attesten fra Professor Wolff», – 
+begyndte Professor Wint.</p>
+			<p>Professor Barth afbrød ham.</p>
+			<p>eAttesten er al Ære værd», sagde ban, men den kunde ogsaa en anden have 
+faat. Brevet fra Professor Biermann derimod, hvor der med rene Ord staar</p>
+			<p>At Aamot gaar en betydelig Fremtid imøde», supplerede 
+Professor Simonsen.</p>
+			<p>+Og at Timerne er kostbare for en Mand, som han, tilføiede Professor Barth, det har noget at sige.»</p>
+			<p>4Ja, 
+jar, sagde Professor Simonsen, jeg an- ser Deres Fremtid for sikret, Aamot, hvis De bliver ved, som De har begyndt. Gjem Professor 
+Biermanns Brev som en Helligdom. Det mere end opveier hvilkensomhelst Attest, De kan faa ved vort Universitet.»</p>
+			<p>Med disse Ord og 
+et varmt Haandtryk skil- tes de tre Professorer fra Martin.</p>
+			<p>Det var merkværdigt, hvor hurtig Rygtet om Martins gryende Storhed 
+udbredte sig i videre Kredse. Det blev snart til en Troesartikkel selv blandt skeptiske Folk, at Martin var en viden- skabelig Begavelse 
+af første Rang. Der fortaltes Anekdoter, hvis Oprindelse ingen kjendte, om Viringer, der skulde være faldt fra forskjellige</p>
+			
+			
+			<pb n="66"/>
+			
+			
+			
+			
+			<p>Videnskabsmænd i Anledning af Martins eminente Dygtighed, og der begyndte 
+blandt de Studerende at gaa det Ord, at der for Tiden ikke fandtes mere end 3 Mænd i Europa, der var Martins Overmænd i germaniske 
+Sprog. Det var Profes- sor Wolff i Göttingen, Professor Russmann i Minchen og Professor Weller i London. Af disse var dog Professor 
+Weller i London uden Sam- menligning den mest fremragende. Professor Waeller i London var saa stor, at han i sin Tid vilde blive bisat i 
+Westminster-Abbediet. Det var høist sandsynligt, at Martin kunde komme til at overfløie baade Professor Wolff og Professor Russmann, men 
+saa stor Mand som Professor * Weller i London blev han aldrig, derom var alle enige</p>
+			<p>Den Anseelse, som Martin havde erhvervet, 
+havde ogsaa tilfølge, at han kom adskillig med i Selskabslivet. Han dannede ved saadanne Leilig- heder gjerne Centrum for en liden 
+Kreds, som oftest af Damer, som lyttede til med spændt Opmerksomhed, naar han af sin Erfarings rige Skat meddelte interessante 
+Oplysninger om det høiere Selskabsliv i Gttingen.</p>
+			<p>Paa denne Maade levede Martin et Aars Tid meget behageligt paa sin vundne 
+Berømmelse. Han gjorde imidlertid intet for at soutinere denne. Det var en Aftenstund cirka 5 Fjerdingaar efter sin Tilbagekomst fra 
+Tyskland, at han begav sig</p>
+			<pb n="67"/>
+			
+			<p>op til sin Ven Professor Lunde. Professoren havde allerede i længere Tid tænkt at 
+tale alvor ligt med Martin og foreholde ham hans Uvirk- somhed. Han gik nu lige løs paa Sagen.</p>
+			<p>Hør, Aamot», sagde han, «De maa 
+begynde at vise en Smule selvstændig videnskabelig Virk- somhed, De maa skrive noget. Det er jo Deres Mening en Gang at naa frem til 
+Universitetet, ikke sandt? Men vil man blive noget i Verden, maa man ogsaa udrette noget.»</p>
+			<p>eg vca ile det», sagde 
+Martin.</p>
+			<p>«Ved De ikke det? g</p>
+			<p>Nei», sagde Martin, «jeg kjender mange Folk, baade i Politiken og Videnskaben, der gaar og 
+gjælder for store Mænd, uden at de i hele sit Liv har udrettet det ringeste. Se nu f. Eks. Professor Sønsteby, hvad har han gjort? Jeg 
+synes bedst om den Methode.»</p>
+			<p>eMen det er ikke alle, som forstaar at prak- tisere den», sagde Professor Lunde. «Rent ud sagt, min 
+kjære Aamot, gjør De ikke noget for at haandhæve Deres Anseelse ved et eller andet grundigt selvstændigt Arbeide, saa kan De snart 
+ganske forspilde det gode Omdømme, De har erhvervet i Opinionen.»</p>
+			<p>«Jeg har tænkt meget paa en passende Op- gave for Dem, Aamot, 
+vedblev Professor Lunde. «Oprigtig talt, tror jeg ikke, De er anlagt for det mere komplicerede Tænkningsarbeide, men</p>
+			
+			
+			<pb n="68"/>
+			
+			
+			
+			
+			<p>De er ikke uden Samler-Evne. Nu findes der i vore mere afsidesliggende Fjeldtrakter 
+et stort og ubearbeidet Materiale af ukjendte Ord og Former, der samlet og bearbeidet kan faa et uberegneligt videnskabeligt Værd. Det 
+gjør der utvivlsomt.»</p>
+			<p>Jasaa, sagde Martin, gjør der det</p>
+			<p>vUtvivlsomt», vedblev Professor Lunde, «kunde De nu ikke søge et af 
+de indenlandske Reisesti- pendier for under en Sommers Ophold f. Eks. i Telemarken og Sætersdalen at samle sprogligt Materiale, som De 
+saa kunde bearbeide ved Til- bagekomsten. Hvad siger De om det?»</p>
+			<p>«Hvis det er absolut nødvendigt, begyndte Martin.</p>
+			<p>Ia, Gu' 
+er det nodvendigt», sagde Professor Lunde, edet kan De stole paa.s</p>
+			<p>«Saa faar jeg vel til- sagde Martin.</p>
+			<p>«Iad mig nu oe, De 
+viser Dem energisk», sagde Professor Lunde, ehvis De faar Stipendiet, hvilket jeg ikke tvivler om. Tal saa meget som muligt med Egnens 
+Bonder, Bondekoner, Hus- mænd, Budeier, kort, hvem De træffer paa. Men husk paa, at hvis De vil faa noget at vide af Bønderne, maa De 
+ikke begynde at udfritte dem, men se til at vinde deres Fortrolighed, og saa under Samtalens Lob aflure dem deres sprogelige 
+Eiendommeligheder. Gaa ind i deres Tankegang, vær ligefrem og gemytlig. Skjænk Mændene en Dram og forær Fruentimmerne</p>
+			
+			
+			<pb n="69"/>
+			
+			<p>2dg o</p>
+			<p>«Glasperler, Knive, Speile Martin.</p>
+			<p>Professor Lunde bankede ærgerlig Asken ud af 
+Piben.</p>
+			<p>€Aa nei, det er jo i Afrika, det», sagde han. nei, Brystnaale, Ørenringe og lignende. — Ja, ja, faa nu først Stipendiet, 
+saa gaar nok det evrige.</p>
+			<p>Martin satte sig straks i Virksomhed og ind- leverede Ansøgning om at erholde 400 Kroner af de 
+indenlandske Stipendier efor under en Som- mers Ophold i det sønden- og vestenfjeldske Norge at samle og bearbeide Sprogstof fra Folke- 
+Dialekterne.»</p>
+			<p>Det var ikke uden Protest, at Martin erholdt Stipendiet, saa meget var hans Prestige sunket i den sidste Tid, og han 
+kunde ikke skjule for sig selv, at han var længer fra en Professorpost end nogensinde siden sin Hjemkomst fra 
+Göttingen.</p>
+			<p>FSROG</p>
+			
+			<p> begyndte</p>
+			<p>J. Vibe:  v ]</p>
+			
+			<pb n=""/>
+			
+			
+         </div>
+         <div type="chapter">
+			<head>8de Kapitel.</head>
+         
+			<p>Martin 
+tilbringer nogen Tid hos Presten Veilo.</p>
+			<p>dbyttet af Martins videnskabe lige Reise lod ikke til at skulle blive righoldigt. Han 
+havde opsnappet ecirca hundrede nye Dialektord, mest Navne paa Kjoreler, Gaardsredskaber og Tignende Gjenstande, der ikke var kjendte i 
+Byen, samt en Del Verbal-Former, som han havde Grund til at anse for nye; men som Resultatet af en hel Maaneds Arbeide  man skrev nu den 
+17de Juli  var Udbyttet temmelig mavert, og Ud- sigterne ingenlunde lovende.</p>
+			<p>Da skulde der indtræde en Begivenhed, der skulde faa 
+en betydelig Indflydelse paa Martins</p>
+			
+			
+			
+			
+			
+			<pb n="71"/>
+			
+			<p>Fremtid. Martin boede i Reglen 
+paa Skifterne; men om Dagen aflagde han Visitter rundt om paa Bondegaardene og i Huswmandsstuerne og gav sig efter Professor Lundes Raad 
+i Snak med Bøn- derne om alle mulige Gjenstande, ligefra aande- lige og religiøse Spørgsmaal og ned til Kjøkken- stel og 
+Madlavning.</p>
+			<p>Paa en af disse Udflugter kom Martin til at fjerne sig usædvanlig langt fra sit Logi. Det var allerede sent, og skulde 
+Martin vende tilbage ad Landeveien, vilde han ikke komme hjem før efter Solnedgang. Han speidede derfor efter en Gjen- vei. Medens han 
+gik saaledes, fik han ved en Svingning af Veien Øie paa en Mand med en brun Frakke og en Straahat, der gik et Par hun- drede Skridt 
+foran ham og i samme Retning som han. Manden, der ikke var klædt som Bønderne paa de Kanter, maatte enten være en Bymano eller en af 
+Bygdens Embedsmænd.</p>
+			<p>Martin paaskyndede sine Skridt og indhentede den Fremmede. Det var en ældre Mand med et blidt, forekommende 
+Udtryk i sit Ansigt.</p>
+			<p>Martin tog til Hatten og spurgte den Frem- mede, om han kjendte nogen Gjenvei til Skiftet Sandaak.</p>
+			<p>Den 
+Fremmede nikkede venlig.</p>
+			<p>Jo, sagde han, hvis Martin vilde følge med saa skulde han vise ham en Gjenvei, der føre ham til Sandaak 
+paa mindreenden Time.</p>
+			<p>”</p>
+			
+			
+			
+			<p>[.)me</p>
+			<pb n="72"/>
+			
+			
+			
+			
+			<p>«De bor paa 
+Sandaak? spurgte han.</p>
+			<p>«Ja, sagde Martin, «jeg har boet der i 3 Dage.»</p>
+			<p>De reiser for Deres Fornielsel spurgte den 
+Fremmede.</p>
+			<p>eNei», sagde Martin, jeg reiser med offent- ligt Stipendium.»</p>
+			<p>Den Fremmede lettede agtelsesfuldt paa 
+Hatten.</p>
+			<p>«Sandaak er et daarligt Sted, sagde han.</p>
+			<p>Afskyeligt», indrømmede Martin.</p>
+			<p>Maadelig Forpleinings, sagde den 
+Frem- mede.</p>
+			<p>Elendig», supplerede Martin.</p>
+			<p>Og ikke ganske renligs, sagde den Frem- mede.</p>
+			<p>eRent ud en Svinesti, endte 
+Martin.</p>
+			<p>tHer», sagde den Fremmede og stansede, her er Gjenveien. Den fører lige forbi Præste- gaarden De ser Taget af 
+Præstegaarden der nede i Dalen bag Træerne. Vi kommer til at følges ad endnu et Stykke. Jeg er Stedets Præst. Mit Navn er 
+Veile.</p>
+			<p>«Og mit er Aamot», sagde Martin.</p>
+			<p>Aamot? spurgte Præsten.</p>
+			<p>Martin nikkede.</p>
+			<p>«Martin Aamot», sagde 
+han.</p>
+			<p>«Martin Aamot», gjentog Præsten og </p>
+			
+			<pb n="73"/>
+			
+			
+         	<p>stansede, «Martin Aamot! dog vel ikke den 
+bekjendte Martin Aamot?</p>
+			<p>Martin forsøgte at sætte et beskedent An- sigt op.</p>
+			<p>seg ved ikke», sagde han, om jeg kan kaldes 
+saa.</p>
+			<p>Philologen, Sprogforskerens, vedblev Præ- sten, som har gjort saa megen Opsigt i Tysk- land.»</p>
+			<p>«Det kan ikke være andre 
+end mig, sagde Martin</p>
+			<p>Pastor Veile følte sig overordentlig henrykt ved at befinde sig Ansigt til Ansigt med en saa begavet ung 
+Videnskabsmand, og medens de vandrede henad Stien, kunde Præsten ikke blive træt af at udtrykke sin Glæde over at have gjort Martins 
+Bekjendtskab.</p>
+			<p>«Hvor længe tænker De at opholde Dem her i Bygden?» spurgte han.</p>
+			<p>«Otte å fjorten Dage», sagde 
+Martin.</p>
+			<p>«Men», sagde Præsten og lagde Haanden paa hans Skulder, ekunde De da ikke ligesaa godt tage Deres Ophold i 
+Præstegaarden</p>
+			<p>«Vi skal gjøre det saa godt for Dem, som vi kan», vedblev Præsten, «De skal ikke komme til at lide Ned. Vi kan 
+præstere en Ørret, som De ikke finder Mage til i det søndenfjeldske Norge, og vi har nylig slagtet, saa Huset er vel forsynet med Kjød. 
+Desuden har vi et Par Snes</p>
+			
+			
+			
+			
+			<pb n="74"/>
+			
+			
+			
+			
+			
+			<p>Kyllinger gaaende 
+og et halvt Dusin Ænder, hvis Dage er talte; Rgelaks</p>
+			<p>Martins Tænder løb i Vand. Han begyndte at glemme baade Universitetet og 
+Folkedialek- terne.</p>
+			<p>Hvis det ikke volder Bryderis, stammede han.</p>
+			<p>*Bryderi», udbrød Præsten, «hvor kan De tale saa? Det vil 
+baade være mig og min Hustru en Ære og Glæde at se Dem i vort Hus. Og De skal have Deres Frihed til at gaa og komme, som De 
+vil.»</p>
+			<p>⁶5aa megen Godhed kan jeg ikke modstaa, sagde Martin.</p>
+			<p>«Saa solger De med med det amme-, Sagaæ Præsten, og saa faar jeg 
+Lov til at sende Bud til Skiftet efter Deres Tøi</p>
+			<p>Martin takkede og fulgte Præsten gjennem en Grind, der førte over en rummelig 
+Gaardsplads hen til Præstegaarden, som var stor, saa komfor- tabel ud og paa sin Bagside var omgivet af en stor Have.</p>
+			<p>De traf 
+Præstefruen, to voksne Døtre og en voksen Søn, foruden et Par mindre Born samlede i Dagligstuen. Foruden disse Medlemmer af Fa- milien 
+fandtes 3 Fremmede, der var i Besøg i Sommerferierne, nemlig to beskedne unge Herrer, der stod i en Krog med Hænderne paa Ryggen og 
+ventede paa det Øieblik, da de skulde blive</p>
+			<pb n="75"/>
+			
+			
+			<p>presenterede og gjøre sine respektive Buk, og en Dame paa 
+19 eller 20 Aar med mørkt Haar og livlige Øine, som syntes med særlig Interesse at fæste sig paa Martin, da hun fik høre, hvem han 
+var.</p>
+			<p>De to unge Herrer blev presenterede som Student Mørk og Student Solid, og den unge Dame som Frøken Schultse. Hun var eneste 
+Datter af en formuende Skibsreder i den lille men velstaaende By Stokkesund.</p>
+			<p>Pastor Veiles Familie lod til at være livlige Folk. 
+Aftensbordet var vel besat, og Martin mærkede, at han var Gjenstand for en særlig Op- merksomhed, saa at han, da ban gik tilsengs om 
+Aftnen, følte sig mere tilfreds med sig selv og Verden, end han havde været paa Aar og Dag. Der var intet passeret, som kunde forbedre 
+hans Fremtidsudsigter, men saa underlig er det, den behagelige og selvtilfredse Stemning, han var kommet i, bevirkede, at Maalet at 
+blive Professor forekom ham at ligge meget nærmere, end den foregaaende Dag.</p>
+			<p>Og han havde ikke mindre Grund til at være tilfreds 
+de følgende Dage. Det var aabenbart, at der blev gjort Væsen af ham. Der diskedes op til Middagen, saa det var en sand Fornøielse, 
+Pastoren var Forekommenheden selv, og naar der var et ekstra godt Stykke Steg, reiste Fruen sig, og gik selv i egen Person med Fadet hen 
+til</p>
+			
+			<pb n="76"/>
+			
+			
+			
+			<p>n Martin for at byde ham det. De unge Damer følte sig øiensynlig smigret, naar 
+Martin henvendte sig til dem, og han havde den Tilfredsstillelse at mærke, at han stak de [beskedne unge Herrer fuldstændig 
+ud.</p>
+			<p>Navnlig syntes Frk. Schultse at finde et sær- deles Behag i Martins Selskab, og det traf sig hyppig, at han kom til at være 
+alene med hende. Smart traf han hende om Morgnen alene paa Verandaen, snart kom de under de fælles Spadser- ture til at skilles fra de 
+andre og vandre Side om Side, snart mødtes de tilfældigvis i en af Ale erne eller Lysthusene i Haven. Frk. Schultse var en livlig ung 
+Dame og let at konversere. Martin havde derfor intet imod disse Møder, og han begyndte efterhaanden at nære alvorlige Hensigter. Martin 
+og Frk. Schultse var vistnok i mangt og meget forskjellige, men de havde et fælles Tilknytningspunkt. De beundrede nemlig begge en og 
+den samme Gjenstand. Denne Gjen- stand var Martin. Martin beundrede nemlig sig selv og Frk. Schultse beundrede ogsaa Martin. I alle Fald 
+troede Martin, at hun gjorde det. Med dette sterke Foreningsbaand lod det til, at det kun var et Tidsspørgsmaal, naar Martin skulde 
+erklære sig, og hun give ham sit Ja.</p>
+			<p>Hvilken lykkelig Tid tilbragte ikke Martin i disse Dage. Spadserturene med Pastoren, Frk. 
+Schultse og de øvrige Damer om Formiddagen,</p>
+			
+			<pb n="77"/>
+			
+			
+			
+			<p>de hyggelige Middage, Legene paa 
+Grønningen om Eftermiddagen, hvor det ansaaes for en Ære, naar Martin vilde deltage; men fremfor alt Aften- timerne paa Verandaen, naar 
+hele Familien sad samlet ved et Glas Selters og Punsch eller et Glas Rhinskvin, Sukker og Vand. Der var ved disse Leiligheder næsten 
+aldrig andre end Husets Folk tilstede. Kun Præstens Nabo, en adstadig Gaardbruger, eller, som han tituleredes, Proprietær, ved Navn 
+Kornelius Magnussen Birkrem, kom af og til over til Præsten om Aftnen. Det var en meget taus Mand denne Kornelias Magnussen Birkrem. Han 
+deltog aldrig i Samtalen paa egen Haand, men svarede kun, naar han blev spurgt, og det ofte kort nok. At blive klog paa Kor- nelius 
+Birkrems Mening, var ikke let.</p>
+			<p>En Aften, omtrent 14 Dage efter Martins Ankomst, sad man som sædvanlig samlet paa Al- tanen. 
+Kornelins Magnussen Birkrem, der var kommen over denne Aften, havde placeret sig henne i en Krog med sin Pibe. Martin sad paa det 
+øverste Trin af Trappen og ved Siden af ham sad Frk. Schultse og heklede. Hun bøiede sig af og til henimod Martin og fremkom med en 
+dæmpet Bemerkning, som om han var den eneste, hun bekymrede sig om, og som hun fandt, det var Umagen værd at tale med. Martin følte sig 
+usigelig smigret ved den stiltiende Hyldest, som laa heri, og han vilde i dette Øieblik været</p>
+			
+			
+			
+			<pb n="78"/>
+			
+			
+			
+			
+			
+			<p>u</p>
+			<p>villig til at udføre de største Bedrifter for at be- hage Frk. Schultse.</p>
+			<p>Præsten 
+havde siddet fordybet i Aviserne. Den politiske Leder. han læste, bragte ham til i Forbigaaende at fremkomme med et Par Be- merkninger. 
+Frk. Schultse kom til at modsige ham, og der udspandt sig mellem disse To en len gemytlig politisk Diskussion. Frk. Schultse vVar ingen 
+stor Logiker, og hun mærkede snart, at hun trak det korteste Straa. I sin Nød ka. stede hun et Blik til Martin, som om hun ven- tede 
+Assistanse af ham.</p>
+			
+			<p>Var der noget i Verden, som Martin savnede Interesse for, saa var det Politik, men Frøken Schultses 
+Blik var saa indsmigrende og aandede en saa ubegrænset Tillid til Martins overlegne Dygtighed, at han blev lutter Fyr og Flamme og 
+kastede sig ind i Diskussionen med den største Hensynsløshed. Han blev mere og mere ivrig efter hvert, som han talte. Det ene Ord tog 
+det andet, og han huskede senere hen med Skam, hvorledes han til Slutning i Stridens Hede havde sat den skyldige Hoflighed tilside og 
+anvendt Udtryk som eBornerthed», eTaabelighed* og Mangel paa sund Sans- om sin ærværdige Modstander og hans Argumenter. Han kom først 
+til sig selv, ved at Kornelius Magnussen Birkrem reiste sig for at gaa, og Præsten afbrød Samtalen</p>
+			
+			<pb n="79"/>
+			<p>æ. med en 
+kort Bemerkning om, at det var paatide at forføie sig tilsengs.</p>
+			<p>Martin ærgrede sig dygtig over sig selv, da han begav sig op paa 
+sit Soveværelse. Han følte, at han havde forløbet sig, og det forminskede ikke hans Misnøie, at Anledningen havde været en Gjenstand, 
+der var ham saa fuldstændig lige gyldig, som Politik. Medens han var i denne Sindsstemning, faldt hans Øie paa Mannskriptet til hans 
+eSamling af Ord og Former fra Folke- sproget.» Det laa henslængt paa et lidet Bord mellem Vinduerne halvveis skjult af Toiletgjen- 
+stande. Martin var kommen til Præstegaarden den 17de Juli. Nu skrev man den 3dje August- I al den Tid havde han ikke beriget sit Manu- 
+skript med et eneste nyt Ord. Martin blev hed i Hovedet ved Tanken om sin utilladelige Dovenskab. Han aabnede Vinduet tor at kjøle sine 
+varme Kinder.</p>
+			<p>Medens han stod saaledes, fik han Øie paa Budeien, Marit, som tog Veien henimod Sommer- fjøset. Budeien var en egte 
+Thelemarksjente, og det faldt Martin ind, at en Samtale med hende maatte kunne skaffe værdifulde Bidrag til hans Ordsamling. Martin tog 
+i al Hast sin Hat, listede sig sagte ned ad Trapperne og ilede henover til Sommerfjøset, der laa temmelig afsides paa et Jorde.</p>
+			<p>I 
+den dunkle Aftenbelysning skimtede han</p>
+			
+			
+			
+			<pb n=""/>
+			<p>5 et Par hundrede Skridt foran sig en Mand, der tog den 
+samme Vei som han. Det var ikkemor- kere, end at Martin paa Gang, Holdning og Dragt kunde se, at det var en Gaardbruger fra en af 
+Nabogaardene, ved Navn Torgrim Braadland. Den unge Mand gik ind i Fjøset umiddelbart efter Budeien. Martin skyndte sig efter.</p>
+			<p>Det 
+lod ikke til, at Martin var videre vel- kommen. I det samme han traadte ind, saa han Torgrim Braadland over Hals og Hoved forsvinde ud 
+af en Bagdr, medens Marit satte et misfor nøiet Ansigt op. Martin lod sig imidlertid ikke forknytte, men satte sig rolig ned paa en Krak 
+og begyndte at indlede en Samtale. Budeien var i Begyndelsen ordknap og svarede kort og spy- dig, men efterhaanden tøede hun op og 
+begyndte at fortælle om sin interessante Fortid og sin ligesaa interessante Nutid. Hun var en Husmands- jente fra en anden Bygd og havde 
+tjent 3 Aar paa Præstegaarden. Idag havde hun maattet op- sætte Mælkningen af Kreaturerne ligetil nu Kl. 11 ; om Aftnen, fordi hun havde 
+været henne og</p>
+			<p>hjulpet nogle Sauer, som havde gaaet sig bort i Fjeldet. Det var et usædvanlig snaksomt Men- ! neske, og hun talte 
+til Martins store Glæde den mest oprindelige Dialekt, han endnu havde hørt. Han havde i hele Sommerens Løb ikke havt saa meget Udbytte 
+af nogen Samtale som af</p>
+			
+			
+			
+			
+			<pb n="81"/>
+			
+			
+			<p>Endelig var Marit færdig og lavede sig til 
+at gaa tilbage til Præstegaarden. Martin fulgte hende. Det var begyndt at blæse en kold Nor- denvind. Han knappede derfor sin Frakke, 
+bræt- tede Kraven op over Ørene og trak Hatten ned- over Øinene. Ved Indgangen til Bryggerhusbyg- ningen, hvor Pigerne 1aa, stansede 
+Marit og sagde Godnat. Martin fik pludselig en moralsk Indskydelse.</p>
+			<p>Hor, Marit», sagde han, har du længe kjendt Torgrim Braadland, 
+den Gut, som løb sin Vei, da jeg kom, mener jeg.</p>
+			<p>Marit blev rød, men svarede ikke.</p>
+			<p>«Vaær forsigtigs, vedblev Martin, og 
+lagde Armen fortrolig om hendes Skulder, idet han vendte sig imod hende, «vær forsigtig, Marit, med hvem du indlader Husk, at han er en 
+Gaardmandssøn og du bare en Husmandsjente. Lad dig ikke narre.»</p>
+			<p>Inderlig tilfreds med sig selv over det mo- ralske Raad, han havde 
+givet Marit, nikkede han til Afsked, sneg sig paa Taa henover Gaards- pladsen, aabnede Gadedøren med den yderste Forsigtighed og gik 
+ligeledes paa Taa op pas sit Værelse.</p>
+			<p>Han kunde i Aften notere ned i sit Manu- skript ikke mindre end 15 nye Ord, mest Be- 
+nævnelser paa forskjellige af Koens Legemsdele, foruden 3 nye Verbalformer. Kunde han gjøre</p>
+			
+			
+			
+			
+			<p>,</p>
+			
+			
+			<pb n="82"/>
+			
+			
+			
+			<p>78 en saa rig Host daglig, vilde han endnu kunne bringe et ganske 
+anseeligt Ordforraad med sig hjem.</p>
+			<p>Han gik tilsengs med den behagelige Be- vidsthed, at han denne Aften havde udrettet no- get 
+klækkeligt til Videnskabens Fremme.</p>
+			<p>At han var kommen til at opføre sig uhoflig ligeoverfor Præsten, var et lidet Skaar i hans 
+Tilfredshed, men han tvivlede ikke om, at det skulde lykkes ham atter at forsone denne, hvis han overhovedet var alvorlig 
+fornærmet.</p>
+			<p>Med denne Tanke slumrede han ind.</p>
+			
+			
+			<pb n="83"/>
+         </div>
+			<div type="chapter"> 
+			<head>9de Kapitel.</head>
+			<p>Presten 
+Veile gjør en sorgelig Opdagelse.</p>
+			<p>eg synes, ytrede Præstefruen, da</p>
+			<p>hun og hendes Mand den samme Aften var komne op paa sit 
+Soveværelse, jeg synes, at den unge Aamot er temmelig hen- synsles i sine Udtalelser.</p>
+			<p>«Det var i Diskussionens He- der, sagde 
+Præsten blidt, der var intet Ondt ment med det.»</p>
+			<p>eMen ligeoverfor en ældre Mand, som du, sagde Fruen.</p>
+			<p>Vi maa erindre, at 
+Ungdommen er varm- blodig, Moder», sagde Præsten, «der findes saa meget virkelig ondt i Verden, lad os ikke</p>
+			
+			
+			
+			<pb n="84"/>
+			
+			
+			<p>⁸</p>
+			
+			<p>hefte os ved de Feil, som ikke har sit Udspring fra et fordærvet Hjerte, men fra et 
+Øiebliks til- givelige Opbrusning.»</p>
+			<p>«Vi maa desuden tænke paa, vedblev han, «at vi er ældre Folk, Mo'er. Vi holder paa gamle 
+Skikke, gamle Sæder, gamle Anskuelser, men for Ungdommen stiller alt dette sig anderledes. Aamot er ung, hans Udvikling er faldt i en 
+an- den Periode end vor. Meget af, hvad vi finder mturlig og ligefrem, kan forekomme ham at røbe Ensidighed og Mangel paa 
+Dømmekraft.»</p>
+			<p>Har du lagt Merke til», fortsatte han efter et Par Minutters Pause, ehvorledes Forholdet mellem Aamot og Frk. 
+Schultse udvikler sig mere og mere. Det bliver et pent Par.</p>
+			<p>«Javist», sagde Fruen, edet forekommer mig forevrigt, at vor ældste 
+Datter, Janna, baade i Henseende til Ydre og –</p>
+			<p>Præsten loftede Haanden advarende.</p>
+			<p>eMoer, Mo'ers, sagde han, lad os ikke for- 
+falde til Misundelse. Lad dem faa hinanden, som passer sammen. Jannas Tid kommer nok ogsaa.  Jeg tror, jeg ogsaa er bleven ganske varm 
+af Attenens Diskussion, tilføiede han og aabnede et Vindu,</p>
+			<p>Straks efter tog han sin Hat og Stok og knappede sin Frakke. 
+¹</p>
+			<p>Hvor skal du hen? spurgte Fruen.</p>
+			<p>«Jeg vil tage mig en liden Tur, inden jeg</p>
+			<pb n="85"/>
+			
+			<p>s lægger mig», 
+sagde Præsten, eAftenen er saa sval. En Spadsertur vil gjøre mig godt.»</p>
+			<p>Da Præsten kom ud paa Gangen og gik forbi Martins Værelse, 
+opdagede han, at Døren til dette stod paa Glyt. Det undrede ham, men han tænkte, at Martin havde ladet den staa oppe for at faa frisk 
+Luft, og gik sagte forbi. Da han var kommen ud, tog han Veien om Kirken og udover Landeveien. Han gik langt, og vilde have gaaet endnu 
+længer, hvis ikke en kjølig Norden- vind havde bragt ham til at vende om. Præsten tilbagelagde hurtig Hjemveien og vilde netop gaa ind, 
+da han fik se, at Grinden til Haven stod aaben. Han gik hen og lukkede den for at ikke Hønsene skulde smutte ind den næste Morgen. Idet 
+han vendte sig for at gaa tilbage til Huset, fik han Øie paa en Pige og en Mands- person, der nærmede sig over Marken fra Som- 
+merfjøset. De gik tilsyneladende i en meget fortrlig Samtale, omtrent som Kjærestefolk. Præsten stod uvilkaarlig stille. Han var dækket 
+af et stort Lindettæ.</p>
+			<p>De to Skikkelser stansede foran Brygger- husbygningen. Præsten havde gode Øine. Han gjenkjendte i den 
+kvindelige Skikkelse sin Budeie, Marit. Mandspersonen havde trukket Hatten nedover Øinene og brættet Frakkekraven op, kort, gjort alt 
+muligt for at gjøre sig ukjen- delig, men  Præsten følte sit Hjærte banke</p>
+			<p>7. Vibe: En Profes ø</p>
+			
+			
+			
+			
+			<pb n="86"/>
+			
+			
+			<p>k vv</p>
+			<p>82  Skikkelsen havde en uhyggelig Lighed med Martin Aamot, som for en Time siden havde 
+taget høitidelig Godnat med hele Familien og var gaaet op for at lægge sig. Præsten fulgte de to Skikkelser i- aandeløs 
+Spænding.</p>
+			<p>Pludselig saa han Mandspersonen slynge Ar- men om Pigens Skuldre og bøie sig hen mod hende, og  saa forekom det Præsten  
+trykke et Kys paa hendes Læber. Derpaa vendte han sig mod Hovedbygningen og listede sig forsigtig som en Forbryder, paa Taa hen mod 
+Gadedøren. Uagtet han trak Hatten endnu dybere ned over Øinene og trak Frakkekraven endnu høiere op, medens han sneg sig henover 
+Gaardspladsen, filr dog Præsten Bekræftelse paa sin værste Formod- ning, da Skikkelsen et Øieblik vendte Ansigtet mod det Sted, hvor 
+Præsten stod. Det var hans Gjæst, hans hædrede, agtede Gjæst, Martin Aa- mot. Det var Martin Aamot, der drev dette Spil paa samme Tid, 
+som han gjorde stormende Kur til en elskværdig, tillidsfuld, uskyldig, ung Dame, der dvælede under Præstens eget Ta</p>
+			<p>Skikkelsen 
+sneg sig ligesaa forsigtig ind ad Gadedøren, som den var gaaet over Gaardsplad. sn. Præsten udstødte et dybt Suk. Da der var bleven 
+rolig, gik han stille ind og famlede sig frem til sit Værelse. Hans Hustru sov allerede.</p>
+			<p>Præsten Veile lukkede næsten ikke et Øie 
+hele Natten. Den næste Morgen Kl. 6 var han</p>
+			
+			
+			<pb n="87"/>
+			
+			<p>allerede oppe. Han gik ind paa sit Kontor, og 
+sendte Bud efter Marit. Han vilde tale med hende.</p>
+			<p>Da Marit traadte ind, gik Præsten hen og lagde Haanden alvorlig, men mildt paa 
+hendes Skulder og saa hende ind i Øiet.</p>
+			<p>*Har du Tillid til mig, mit Barn», sagde han,</p>
+			<p>Marit svarede et sagte Ja.</p>
+			<p>15aa 
+maa du ogsa vise mig fuld Fortrolig- hed», sagde Præsten, esvare mig aabent paa mine Spørgsmaal, og høre, hvad jeg har at sige 
+dig.»</p>
+			<p>Marit pillede forlegent paa Fryndserne af sit Tørklæde og kunde neppe faa et horligt Ja frem.</p>
+			<p>Du har en Tilbeder, 
+sagde Præsten.</p>
+			<p>Marit saa op.</p>
+			<p>Der er en Mandsperson», forklarede Præ sten, eder i den senere Tid har talt kjærlige Ord til 
+dig og har søgt at vinde dit unge ube- fæstede Sind. Ikke sandt?</p>
+			<p>Marit blev rød.</p>
+			<p>«Han har undertiden besøgt aig om Altnen- 
+vedblev Præsten, eigaar Aftes talte han med dig.»</p>
+			<p>sJa, sagde Marit, emen bare nogle faa Ord.s</p>
+			<p>«Han har kjærtegnet dig  
+maaske  maaske  kysset dig», sagde Præsten.</p>
+			<p>Bare  bare  et Par Gange», sagde Marit.</p>
+			<p>Faa eller manger, sagde Præsten, esa lad 
+det være sidste Gang. Lov mig det.»</p>
+			<p>(</p>
+			<pb n="88"/>
+			
+			
+			<p>Marits Stemme skjælvede, da hun svarede.</p>
+			<p>Han ser sa 
+troværdig ud, den Gutten.</p>
+			<p>«Menneskene dømme saa gjerne efter Skin- net», sagde Præsten. eTro mig, mit Barn, han søger ikke dit 
+sande Vel. Han vil kun besnære dit unge, ubefæstede Sind.»</p>
+			<p>Marit brast i Graad.</p>
+			<p>«Han har lovet at gifte sig med mig», sagde 
+hun.</p>
+			<p>«Lovet at gifte sig med digs, rasbte Præ sten og slog Hænderne sammen, lovet at gifte sig med dig! Du gode Gud, er det kommet 
+saa vidt. Han greb hendes Haand mellem begge sine. Lyt aldrig oftere til hans Ord», udbrød han, «tal ikke med ham, tænk ikke paa ham, 
+sky ham som en Morkets Engel. Kjæmp mod mit Bar, saa skal du se, du faar nok Hjælp til at overvinde Fristelsen.</p>
+			<p>Marit gik grædende 
+ud. Hun havde altid troet Torgrim Braadland saa godt, og nu havde baade Præsten og Martin advaret hende. Han havde aldrig været saa 
+sorgfuld i sit Liv.</p>
+			<p>Havde Martin været tidlig paafærde denne Morgen, vilde han kunne have seet Præsten umid- delbart efter 
+Samtalen med Marit begive sig ind til sin Kone og tale længe og alvorlig med hende. Han vilde maaske kunne have hørt Præsten ved 
+Slutningen af Samtalen ytre noget til sin Kone om, at ehun maatte advare Pigebørnene. Han</p>
+			
+			<pb n="89"/>
+			
+			<p>vilde 
+endvidere kunne have iagttaget, hvorledes Præstefruen derpaa havde en længere Samtale med sine Døtre og Frk. Schultse, og hvorledes 
+disse sidste straks efter hviskede en hel Del ind- byrdes og saa meget betænkelige ud. Han vilde ligeledes kunne have seet, at der 
+foregik en liden, men høist paafaldende Ombytning af Servietter ved Frokostbordet. Hver af Præstens Børn havde nemlig sin Serviette 
+indesluttet i en Serviettering, hvori Begyndelsesbogstaverne til hans Navn var indridset. Sluttelig vilde han have seet Præsten kalde 
+sit kvindelige Tjenestetyende ind og alvor- lig advare dem mod at lytte til Smiger og for- førende Tale fra ukjendte Mandspersoner. Det 
+var bedst, sagde han, ikke at nære blind Tillid til nogen, hvor bedaarende hans Tale end led, selv ikke, tilføiede ban efter en svær 
+Overvin- delse, selv ikke til Fremmede, der maatte dvæle under hans  Præstens  eget Tag.</p>
+			<p>Medens alt dette foregik, sov Martin de 
+Ret. færdiges Søvn.</p>
+			
+			
+			<pb n=""/>
+			</div>
+         <div type="chapter">
+			<head>10de Kapitel.</head>
+			<p>Martin falder i Unaade.</p>
+			<p>var næsten 9, da 
+Martin</p>
+			<p>(]  vaagnede. Han havde havt en</p>
+			
+			<p>sund Søvn og følte et ualmin- deligt Velbefindende, medens han klædte sig 
+paa og lod sig beskinne af Morgensolen, der tittede ind af hans Vinduer. Han vilde gjøre Præsten en liden Undskyldning for sin uhoflige 
+Optræden den foregaaende Aften, og dermed, haabede han, skulde den Sag være glemt, og saa vilde han rigtig nyde Tilværelsen paa Præste- 
+gaarden endnu en 8 Dages Tid.</p>
+			<p>Da Martin en halv Time senere med et straa- lende Ansigt traadte ind i Spisestuen, sad 
+allerede</p>
+			
+			
+			
+			<pb n="91"/>
+			
+			
+			<p>hele Familien ved Frokostbordet. Martins Plads ved Siden af Præsten 
+stod og ventede paa ham. Men da han havde sat sig og vilde henvende nogle Ord til Frk. Janna, som hidtil havde siddet ved hans venstre 
+Side, opdagede han, at hun havde flyttet ned til Moderen, medens Husets voksne Søn havde indtaget den ledige Plads ved Siden af Martin. 
+Han antog, at dette maatte bero paa en Tilfældighed og henvendte derfor sine Bemærk- ninger til Præsten, som svarede høflig, men saa 
+til- bageholdende som om handenne Morgen havde seet Martin for første Gang i sit Liv. Martin afbrød Samtalen med Præsten og fremkom med 
+et Par muntre og spogefulde Bemærkninger, der var ret- tede til hele Selskabet, men de fandt ingen Anklang. Der var ingen, som lo, og 
+ingen, som svarede. Martin vilde fjerne den formodede Aarsag til Misstmningen, og gjorde en, som det forekom ham, meget pen og 
+fyldestgjørende Undskyldning for sin mindre passende Optræden under Diskus- sionen den foregaaende Aften. Præsten svarede med 
+tilsyneladende Oprigtighed, at det ikke var noget at tale om; men  den høitidelige Stem- ning vedvarede. De unge Damer talte mest ind- 
+byrdes, og Fruen hensank af og til i begrædelige Betragtninger, medens hun legede med Gaflen og stirrede aandsfraværende paa Tallerkenen 
+foran sig. Man havde hos Præsten bibeholdt den gamle Skik, efter endt Maaltid at gaa rundt og tage</p>
+			
+			
+			<pb n="92"/>
+			<p>d 
+!</p>
+			
+			
+			<p>38 hverandre i Hænderne og takke for Maden. Mar- pleiede navnlig at veksle trofaste Haandtryk med de tre unge 
+Damer, men denne Gang havde de stillet sig sammen i en Krog og omslynget hverandre med Armene, saa at Martin maatte indskrænke sig til 
+at bukke.</p>
+			<p>Formiddagen gik hen paa en for Martin hoist uhyggelig Maade. Det var, som om hele Fa. milien havde sammensvoret sig om 
+at være alle andre Steder, end netop der, hvor Martin var. Præsten opholdt sig paa sit Kontor, og Fruen holdt til i Kjøkkenet. Hvor de 
+unge Damer var, kunde Martin i Begyndelsen ikke opdage. Fnde: lig fik han Øie paa Præstens ældste Datter, Frk. Janna, der var 
+beskjæftiget med at sanke Stikkels- bær i et stort brunt Stenfad, men da hun fik ve Martin, lod hun Fadet med Bærene i Stikken og 
+lygtede op til Huset. En anden Gang saa han Præstens næstældste Datter, Frk. Karoline, nederst i Haven lige ved Elven. Martin skyndte 
+sig ned- over. Hun kunde ikke komme op til Huset uden at passere forbi ham; men da hun fik se Martin, fattede hun en resolut Beslutning, 
+løb ud i Baaden; greb Aarerne og roede over til den anden Bred, som om det gjaldt Livet.</p>
+			<p>Hvad der imidlertid uden Sammenligning 
+ærgrede Martin mest, var dog, at de beskedne unge Herrer, der hidtil havde behandlet ham med den største Ærbødighed, nu var begyndt at 
+se</p>
+			
+			
+			<pb n="93"/>
+			
+			
+			<p>⁸9</p>
+			<p>paa ham med et næsvist og overlegent Smil, og endeg tillod sig at give 
+impertinente Svar, naar han talte til dem.</p>
+			<p>Scenerne fra Frokosten gjentog sig ved Mid- dagsbordet. Da Martin havde drukket sin 
+Kate, som dennegang ikke som sædvanlig blev serveret af en af de unge Damer  de var gaaede op paa sit Værelse efter Middagen  men af en 
+gammel 64-arig Husholderske, begav han sig op paa sit Værelse. Hans Vei gik forbi det Værelse, hvor de unge Damer boede. Døren til dette 
+stod halvaaben, og han fik, idet han passerede forbi, høre følgende Brudstykke af en Samtale mellem Frk. Janna og Konstance 
+Schultse.</p>
+			<p>Han er vist indtaget i dig», ytrede Frøken )anna.</p>
+			<p>eAamot, sagde Frk. Schultse, det vil jeg da ikke haabe. Du kan 
+vide, at der aldrig kan blive Tale om noget fra min Side efter det Ind- blik, jeg har faaet i hans Karakter siden igaar 
+Aftes.</p>
+			<p>4«Nei, det er sandt, sagde Frk. Janna. Det gjør Fader mest ondt</p>
+			<p>I dette Øieblik blev Døren lukket, sar Mar- tin ikke 
+fik høre mere.</p>
+			<p>Hvad han allerede havde hrt, var imidlertid fuldkommen tilstrækkeligt til at give ham Anled- ning til bitre 
+Betragtninger. Han nærede ikke Tvivl om, at Frk. Schultse havde været indtaget</p>
+			
+			
+			
+			<pb n="94"/>
+			
+			
+			<p>9%</p>
+			<p>i ham. Det var ham derfor en utaalelig Tanke, at han ved en eneste Aftens Hidsighed og Frem- fusenhed skulde have 
+udslettet de ømme Folelser, han havde vakt hos denne elskværdige Skabning og dobbelt utaaleligt var det, naar han erindrede, at det var 
+for at komme hende tilhjælp, at han havde indladt sig i hin ulykkelige Disput. Det var utaknemmeligt af Frk. Schultse, at hun ikke tog 
+Hensyn hertil. Naar han blot kunde saa en Samtale med hende, uden at der var andre til. stede! Han vilde da opbyde hele sin Elskvær- 
+dighed og prøve, om han ikke atter skulde kunne bringe Flammen til at blusse i Veiret.</p>
+			<p>Han tog sin Hat og gik ned i Haven for at 
+overveie, hvorledes han skulde bære sig ad, for at faa tale med hende paa to Mands Haand. Medens han gik saaledes, fik han pludselig Øie 
+paa Frk. Schultse i egen Person. Hun gik skraas over Markerne henad en Sti, som Martin vidste fortsattes over et kuperet Terræn gjennem 
+Braater og Udmarker. Da hun var forsvundet bag Smaa skoven, forled Martin rask Haven og slog ind paa den samme Vei som hun.</p>
+			<p>Han 
+havde ikke gaaet langt, da han, ved at vende sig, fik Øie paa den ene af de beskedne unge Herrer, der fulgte den samme Retning, som han 
+selv. Han var et godt Stykke bagenfor Martin, men der var dog ikke mere end s å to Mi- nutters Gang imellem dem. Den beskedne 
+unge</p>
+			
+			
+			<pb n="95"/>
+			<p>9 Herre maatte ligeledes have bemerket Martin; thi denne saa, uagtet Afstanden, at han paaskyn. 
+dede sine Skridt. Han havde iensynlig det samme Maal, som Martin. Da. Martin umiddel- bart efter traadte ind i Smaaskoven, tabte han ham 
+afsyne.</p>
+			<p>Den Sti, som Martin fulgte, blev et Stykke længere borte overskaaret af en liden Elv. Elven var ikke mere end 6 å 8 Alen 
+bred, men den var temmelig dyb og gik i Fos og Stryk, saa at det ikke var mulig at vade eller springe den. Man havde derfor forsynet den 
+med en liden Bro med et Rækværk paa den ene Side. Broen var dog ikke fæstet til Bredden, men laa løst hen- kastet over Elven.</p>
+			<p>Da 
+Martin var kommen over Broen, vendte han sig, løfteéde den op med begge Hænder og slyngede den ud i Elven, saa at den seilede ned- over 
+med Strømmen.</p>
+			<p>Martin fortsatte efter denne raske Daad sin Gang henover Braaterne med forholdsvis Rolig- hed. Den beskedne unge 
+Herre kunde nu komme, naar ban vilde. Martin var sikret mod Afbrydel- ser fra den Kant.</p>
+			<p>Han havde ikke gaaet længe, før han saa 
+Fi. Schultses Straahat og lyse Kjole mellem Birkekrattet. Frk. Schultse vendte sig rask ved Lyden af Skridt. Hun blev saa forskrækket, 
+da hun fik se Martin staa foran hende med et</p>
+			
+			
+			
+			<pb n="96"/>
+			
+			
+			
+			<p>***</p>
+			
+			
+			<p>huldsaligt Smil, at hun vendte sig og begyndte at ile hjemover i fuld Fart.</p>
+			<p>Martin fulgte efter hende.</p>
+			<p>*De kommer 
+ikke hjem den Veis, sagde han.</p>
+			<p>Frk. Schultse svarede ikke, men paaskyndede sine Skridt.</p>
+			<p>Broen er gaaet ud, vedblev Martin. 
+«De kommer ikke over Elven.</p>
+			<p>Frk. Schultse standsede og saa op.</p>
+			<p>De befandt sig paa en liden Høide, og Mar tin pegede med 
+Fingren nedover mod Venstre, hvor den lille Elv brusede frem mellem Stene og Krat.</p>
+			<p>*Se der, sagde han, i den Svingning, El- ven 
+gjør dernede, der seiler Broen nedover med fuld Fart. Inden ¹s Time er den nede i Stor- elven. Ser De?.</p>
+			<p>Frk. Schultse fulgte 
+Martins Finger. Det Var kun altfor sandt. Broen drev nedover.</p>
+			<p>*Vi maa gaa tilhire, sagde Martin, og tage over Broen ved 
+Solberg.»</p>
+			<p>Frk. Schultse stod et Øieblik tvivlraadig, men slog derefter ind i den angivne Retning, men med saadan Ilfærdighe, at 
+Martin havde vanske lig for at følge hende.</p>
+			<p>Det var heldigt, at jeg traf Dem», ytrede Martin, medens de fulgtes ad henover Stien. 
+Jeg har jo ikke talt med Dem i hele Dag.</p>
+			
+			
+			<pb n="97"/>
+			
+			<p>Der fulgte intet Svar.</p>
+			<p>Der er ingen paa 
+Præstegaarden, som jeg har sandan Tilfredsstillelse af at være sammen med som Dem, sagde Martin. De er den eneste i hele Huset, som jeg 
+vilde savne, hvis De reiste.</p>
+			<p>Frk. Schultse vedblev at skride frem med uformindsket Hurtighed.</p>
+			<p>Martin fortsatte.</p>
+			<p>«Frk. 
+Janna og Fik. Karoline er jo meget elsk- værdige Damer», sagde han, men jeg kan ikke tale med de To saa let, som jeg kan tale med Dem. 
+Det kommer af, at Deres Tankegang og min Tankegang falder sammen. Jeg tror, til- føiede han med Salvelse, jeg tror, at vi har den samme 
+Livsopfatning, Frk. Schultse.»</p>
+			<p>Der gik et Sæt gjennem Frk. Schultse ved denne tring. Hun paaskyndede sine Skridt endnu mere, og 
+Grenene af Orckrattet, der strakte sig henover Stien, streifede undertiden hendes Hoved og Skuldre.</p>
+			<p>Martin bøiede Grenene høfig 
+tilside.</p>
+			<p>«Tag Dem iagts, sagde han, «De ødelægger Deres smukke Hat, og, tilfølede han galant, Deres smukke Ansigt.&gt;</p>
+			<p>Der 
+opstod en kort Pause. Frk. Schultse gik hele Tiden med bortvendt Ansigt.</p>
+			<p>* Langs Stien voksede der Linæa. Martin pluk- kede et Par 
+og rakte dem henimod Frk. Schultse.</p>
+			
+			
+			
+			<pb n="98"/>
+			
+			
+			
+			
+			
+			
+			
+			<p>Holder De af Linæa?» spurgte han.</p>
+			<p>Holder De af Linæad gjentog han, da der intet Svar fulgte, «holder De af 
+Linæa?»</p>
+			<p>Nei», svarede Frk Schultse.</p>
+			<p>«Jasaal» sagde Martin. «Det var merkeligt. Synes De kanske bedre om Violerts 
+"</p>
+			<p>Nei», sagde Frk. Schultse.</p>
+			<p>End Lillekonvaler⁹</p>
+			<p>¹Nei», sagde Frk. Schultse.</p>
+			<p>Martin forstummede, og man horte kun 
+Ly- den af Frk. Schultses Kjole, der raslede henover Stien, medens hun ilede afsted med uformindsket Hurtighed.</p>
+			<p>Han maatte slaa 
+ind i en anden Tone.</p>
+			
+			<p>«Vi gaa umaadelig hurtig», sagde ban, vi skyde en saadan Fart, at man gjerne kunde tro, at vi 
+flygtede for Nogen, at jeg f. Eks. havde bortført Dem, og at en grusom Fader var i Hælene paa os»</p>
+			<p>Martin sagde dette i en 
+gemytlig, indsmig- rende Tone.</p>
+			<p>«Jeg husker», vedblev han, idet han bøiede sig fortrolig ned mod hende. «Jeg husker, at jeg som 
+Barn nærede et romantisk Sværmeri for Bortførelser. Jeg havde læst en hel Del Rid- der-Romaner, kan De forstaa. Jeg har endnu den Dag 
+idag bevaret noget af dette Sværmeri. . At</p>
+			
+			<pb n="99"/>
+			
+			
+			<p>tage en ung Dame paa mine Arme, bære hende 
+gjennem Skov og Krat</p>
+			<p>Frk. Schultse var i den sidste Tid begyndt at ile afsted med en saadan Fart, at hun uaflade- lig snublede 
+over Stene og Trærødder.</p>
+			<p>«Bære hende gjennem Skov og Krat», ved- blev Martin med Varme, «til en afsides Rid- derborg eller et 
+andet ensomt Sted, hvor Hvad er der paafærde?»</p>
+			<p>Frk. Schultse var formelig begyndt at løbe. I det samme Martin udtalte den sidste 
+Sætning, snublede hun over en Sten og faldt.</p>
+			<p>Nartin ilede til og loftede hende op.</p>
+			<p>Hvorledes gik det?» spurgte han 
+deltagende. Hvorledes gik det?»</p>
+			<p>Frk. Schultses Svar indskrænkede sig til en nervøs Anmodning om, at han skulde slippe 
+hende.</p>
+			<p>Hun var nu kommen paa Benene, men Mar- tin holdt fremdeles den ene Haand om hendes Liv, medens han med den anden børstede 
+Støvet af hendes Ærme.</p>
+			<p>eStødte De Dem? sagde Martin mildt, estødte De Dem?»</p>
+			<p>Iad mig gaa-, sagde Frk. Schultse, «lad mig 
+gaal»</p>
+			<p>«Hvorhen?» spurgte Martin, og saa op.</p>
+			<p>Jeg vil hjem», sagde Frk. Schultse, «jeg vil</p>
+			
+			
+			<pb n=""/>
+			
+			
+			<p>p</p>
+			
+			
+			<p>hjem, hører Del Jeg vil hjem! Hjem til Præste- gaarden</p>
+			<p>De sidste Ord blev borte i en Strøm 
+af Taarer.</p>
+			<p>Martin traadte et Skridt tilbage og stirrede forbauset paa hende.</p>
+			<p>eMen du gode Gud, hvad gaar der af Dem? udbrød 
+han.</p>
+			<p>Han havde neppe udtalt disse Ord, før Ho- vedet, Ansigtet og Kroppen af en ung Mand viste sig over Randen af en Bakke knapt 
+ti Skridt foran dem. Det var det andet beskedne unge Menneske, der under den trykkede Stem- ning, som herskede paa Præstegaarden, havde 
+taget sin Tilfugt til en ensom Spadsertur og tilfældigvis havde slaaet ind paa Veien over Sol- berg, hvorved han uden at vide det, var 
+kommen til at gaa Martin og Frk. Schultseimøde.</p>
+			<p>Det beskedne unge Menneske opfattede øie- blikkelig Situationen. Inden 2 Sekunder 
+var han ved Siden af Martin og Frk. Schultse. Han trængte sig raskt ind i det aabne Rum, der var opstaaet imellem dem, og idet han 
+vendte Ryg- gen mod Martin og Ansigtet mod Frk. Schultse, bød han hende med beskeden, men ædel Anstand Armen, som hun modtog halvt 
+mekanisk, medens hun holdt sine taarefyldte Øine fæstede paa Jorden.</p>
+			<p>«Vaær ikke bange, Frk. Schultse, sagde det</p>
+			
+			<pb n="1"/>
+			
+			<p>beskedne unge Menneske, «vær ikke bange. In- gen skal forulempe Dem, naar jeg er tilstede.»</p>
+			<p>Samtidig vendte han 
+sig halvt om og kastede et udfordrende Blik paa Martin.</p>
+			<p>«De skal ikke lide Overlast», vedblev han, «De staar under min 
+Beskyttelse, og jeg vilde vove mit Liv for at forsvare Dem. ]a, det ved Gud, jeg vilde Støt Dem paa mig, saa skal jeg ledsage Dem 
+sikkert hjem, hvem der saa, til- føiede han med hævet Stemme, ehvem der saa skulde ville vove at lægge Dem Hindringer i Veien.</p>
+			<p>Med 
+disse Ord kastede han endnu et udfor- drende Blik paa Martin og drog sluttelig bort med Frk. Schultse under Armen, medens Martin stod 
+igjen aldeles maalløs af Raseri.</p>
+			<p>At det beskedne unge Menneske, som Mar- tin oversaa af sin ganske Sjæl og af sit ganske Hjærte, 
+vovede at tilbyde Konsfance Schultse sin Beskyttelse, og det mod ham, mod ham, mod ham, der netop selv havde Krav paa at beskytte hende, 
+det var til at blive gal over. Martin nær rede i dette Øieblik det mest brændende Ønske, om at han havde befundet sig i Patagonien, Pa- 
+nama eller et andet lovløst Land, hvor man ikke tog det saa nøie. Nu maatte han indskrænke sig til i Taushed at se efter de To, der Arm 
+i Arm forsvandt bag Træerne.</p>
+			<p>Imidlertid havde det første beskedne unge</p>
+			<p>J. Vibe En Pfemer. 1</p>
+			
+			
+			<pb n="2"/>
+			
+			
+			
+			<p>øs</p>
+			<p>Menneske skyndt sig nedover for at træffe Frk. Schultse. Da han kom til den lille Elv, saa 
+han, at Broen var borte. Det unge Menneske besad, tiltrods for sin Beskedenhed, adskillig Dømme- kraft, og han indsaa derfor 
+øieblikkelig, at Broen ikke paa egen Haand havde grebet Initiativet til at reise nedover Elven, men at dette maatte skyldes 
+Martin.</p>
+			<p>Det unge Menneske var en Smule indtaget i Frk. Schultse, og han spekulerede derfor et Øieblik paa, om han ikke skulde vove 
+sit Liv ved at forsøge at vade gjennem Elven; men da den var meget leret, afstod han fra sit Forsæt i Bevidstheden om, at han ikke vilde 
+gjøre noget ubetinget fordelagtigt Indtryk, hvis han fremstillede sig for sin Elskede som en van- drende Mudderpram.</p>
+			<p>I det Sted 
+ilede han op til Præstegaarden og berettede f de sterkeste Farver og med en overordentlig betænkelig Mine om denne nye Niddingsdaad af 
+Martin. Det vakte derfor den største Fryd, da Frk. Schultse kort efter indfandt sig i god Behold ledsaget af det andet beskedne unge 
+Menneskel Hvor hun, i Anledning af de frygtelige Scener, hun havde gjennemgaet, blev omfavnet, kysset og dægget for af Frk. Janna og 
+Frk. Karolinel</p>
+			<p>Da Uhyret Martin eri halv Time efter traadte ind, fik han et knusende Blik af Frk. Janna og</p>
+			
+			<pb n="3"/>
+			
+			
+			<p>Fik. Karoline, hvorpaa de ømt geleidede sin stakkels forfulgte Veninde ind i Sideværelset.</p>
+			<p>De unge 
+Damer forblev i Sideværelset til Spisetid, medens de beskedne unge Herrer van- drede frem og tilbage mellem Dagligstuen og Sideværelset 
+med en selvbevidst Gang og et mandigt Udtryk i sit Ansigt, og af og til frem- kom med en opmuntrende tring til Trøst og Husvalelse for 
+den stakkels jagede Fugl.</p>
+			<p>Der blev denne Aften ikke drukket Punsch og Limonade paa Verandaen. Derimod var der en hel Del Hvisken 
+mellem Præsten og Fruen og mellem Fruen og de unge Damer, og det forekom Martin, at han en Gang hørte Sætnin- gen: «Tidlig oppe i 
+Morgen.»</p>
+			<p>Kl. 9 brød man op for at gaa tilsengs.</p>
+			<p>..F;</p>
+			<p>t</p>
+			
+			
+			
+			
+			
+			
+			<pb n="4"/>
+         </div>
+         <div type="chapter">
+			<head>11te Kapitel.</head>
+			<p>Martin forlader Præsten Veile.</p>
+			<p>t stod klart for Martin den 
+næste Morgen, og det var, at enten matte det komme til en </p>
+         	<p> fuldstændig Forsoning mellem ham og Præsten, eller ogsaa maatte han 
+reise jo før jo heller.</p>
+			<p>Da han kom ned om Morgnen, hørte han Lyden af Knive og Gafler i Spisestuen, men for- øvrigt var der ganske 
+tyst. Idet han aabnede Daren, saa han, at Bordet var meget kortere end sædvanligt. Præsten sad, som han pleiede, for den øverste Ende af 
+dette. Paa den ene Side , sad Præstens voksne Søn og det ene af de </p>
+         	<p> beskedne unge Mennesker. Paa den anden Side sad det andet 
+beskedne unge Menneske, og for den</p>
+			
+			<pb n="5"/>
+			
+			<p>tr</p>
+			
+			<p>nederste Ende af Bordet sad den 64-aarige Hus. 
+holderske og'skjænkede Kaffe, men ingen af Da- merne var tilstede, og der var heller ikke dækket til dem. Der stod kun en aaben Plads 
+til Martin.</p>
+			<p>«Min Hustru, mine Døtre og Frk. Schultse er reiste i Besøg til Sorenskriverens, sagde Præ sten, da Martin havde sat 
+sig.</p>
+			<p>Martin spurgte, om de blev længe borte.</p>
+			<p>«Det ved jeg ikker, sagde Præsten, det kommer an paa Omstændighederne, maaske 
+en Uge, maaske længere.</p>
+			<p>Resten af Maaltidet gik hen i Taushed.</p>
+			<p>Da man havde reist sig fra Bordet og var gaaet ind i 
+Dagligstuen, forsvandt de unge Her- rer, og Præsten og Martin blev alene.</p>
+			<p>«Jeg er bange for  begyndte Præsten.</p>
+			<p>«Jeg tror 
+desværre  ytrede Martin</p>
+			<p>«De vilde have sagt nogets, bemærkede Præsten.</p>
+			<p>«Nei, vær saa god, sagde Martin, «jeg kan 
+vente.</p>
+			<p>Jeg vilde kun have ytret», sagde Præsten, vat jeg er bange lor at ger nu, efter at Mo'er og Smaapigerne er reiste, ikke 
+længer vil blive nogen Fornielse for Dem her paa Præstegaarden. Jeg er i Almindelighed stille, og jeg har desuden i disse Dage meget at 
+tage vare, og min Søn og hans Venner er jo ikke noget passende Selskab for Dem.» .</p>
+			
+			
+			
+			
+			
+			
+			<pb n="6"/>
+			
+			
+			
+			
+			<p>1o2</p>
+			<p>Martin blev rød. Han kunde ikke tage feil , at Præsten paa en hoflig Maade 
+viste ham Døren.</p>
+			<p>«Hr. Pastoren er kommen mig i Forkjbet, sagde han, jeg havde netop tænkt selv at gjøre opmærksom pa, at jeg maa 
+afsted.»</p>
+			<p>Ønsker De Hesten i Formiddag eller i Ef- termiddag?» spurgte Præsten.</p>
+			<p>«Tak, jo før jo heller, Hr. Pastor», sagde 
+Martin. Først bør det dog komme til en For- klaring. Der har hersket en Misstemning mellem</p>
+			<p>. osde to sidste Dage, og jeg har 
+gjættet Grunden.»</p>
+			<p>* saa Fald, sagde Præsten, etror jeg, at vi bør forskaane hinanden for en Forklaring. De maa selv 
+føle</p>
+			<p>Martin vilde have svaret, men blev afbrudt ved at der blev banket paa Døren, og en ældre Herre traadte ind.</p>
+			<p>Det var 
+aabenbart Pastor Veile en stor Let- telse, at den pinlige Forklaring blev forhindret. Han ilede den Fremmede imøde og trykkede begge 
+hans Hænder.</p>
+			<p>vGod Dag, min kjære Doktor, udbrød han, hvor længe det er, siden jeg har seet Dem. Tak skal De have, fordi De 
+kom.»</p>
+			<p>Han vilde presentere; men Martin afbrød ham kort.</p>
+			<p>Undskyld», sagde han, men jeg maa pakke mit Tøi.</p>
+			
+			
+			<pb n="7"/>
+			
+			
+			<p>«Hesten skal staa færdig, naar De kommer ned», sagde Præsten.</p>
+			<p>Martin takkede og gik.</p>
+			<p>Da 
+han kom ned igjen, sad Præsten og Dol- toren i hvert sit Sofahjørne og talte sammen. Paa Bordet foran dem stod der et Bræt med Vin og 
+Kage.</p>
+			<p>Præsten reiste sig-</p>
+			<p>«Jeg har ladet min egen Reisekarjol spænde fors, sagde han, den er rummelig og forsynet med 
+udmerkede Fjedre. I den vil De kunne sidde bekvemt. Vil De ikke drikke et Glas Vin, før De reisert</p>
+			<p>«Nei Tak, sagde 
+Martin,</p>
+			<p>Med disse Ord rakte han Præsten en løs Haand og bukkede for Doktoren. Præsten fulgte ham ud paa Trappen, og to Minutter 
+efter sad han i Karjolen.</p>
+			<p>Det var heldigt for Martin, at han var af en stridbar Natur, ellers vilde Ærgrelsen have været ham 
+uudholdelig. Nu havde Vreden Overhaand hos ham. Aldrig, sagde han til sig selv, al- drig i mit Liv skal jeg oftere indlade mig i po- 
+litiske Diskussioner, i alle Fald ikke med gamle, bornerede Præstemænd. Han har ikke engang skjønnet, at jeg handlede i Overilelse. En 
+Jurist vilde have taget Sagen paa en anden Maade. Han vilde vurderet en Disput for, hvad den er</p>
+			<p>Martin spiste en tarvelig Middag 
+paa </p>
+			
+			<pb n="8"/>
+			
+         	<p> Sandaak og reiste om Eftermiddagen til det næste Skifte, Bjørnerud,</p>
+			<p>De resterende 
+halvanden Maaned af Sommeren benyttede han til at forøge sin Samling af Dia- lektord. Men de Ærgrelser, han havde gjennem- gaaet, og 
+fremfor alt Tabet af Frk. Schultse, lagde et saadant Beslag paa ham, at han ikke kunde holde sine Tanker tilstrækkelig rettede paa sit 
+Arbeide, og han kunde ved Ankomsten til</p>
+			<p>* Kristiania i Slutningen af September ikke skjule for sig selv, at Udbyttet af hans 
+evidenskabelige Reiser var uhyggelig mavert.</p>
+
+			<pb n="9"/>
+         </div>
+         <div type="chapter">
+			<head>12te Kapitel.</head>
+			
+			<p>Martin tager 
+Doktorgraden.</p>
+			<p>artins frste Gang var op til hans Ven, Professor Lunde, som han viste sit Manuskript.</p>
+			<p>Professoren bladede det 
+gjennem.</p>
+			<p>«Er det det Hele)</p>
+			
+			<p>spurgte han.</p>
+			<p>4Ja», sagde Martin, edet er det Hele.»</p>
+			<p>«Ved De hvad, sagde 
+Professoren, edet er lovlig tyndt. Til Deres eneste selvstændige vi- denskabelige Arbeide at være, er det virkelig utilladelig 
+tyndt.»</p>
+			<p>«Mit eneste videnskabelige Arbeider, sagde Martin, «mit eneste videnskabelige Arbeide! De glemmer min Afhandling om Lyden 
+eth.</p>
+			<p>«Jeg sagde Deres eneste selvstændige</p>
+			
+			<pb n=""/>
+			
+			
+			
+			<p>videnskabelige Arbeide», ytrede 
+Professoren, og Afhandlingen om Lyden eth», tror jeg, vi helst skal lade være at omtale i den Forbindelse.» Martin satte et modfaldent 
+Ansigt op. Professoren følte Medlidenhed med ham. (ja, ja- sagde han, De faar ikke tabe Mo- det, men i hvert Fald se til at gjøre det 
+mest mulige ud af det Stof, De nu en Gang har faaet sammen. Naar De forsyner Bogen med s: mange Anmerkninger, Citater og Sammenligni ger 
+som mulig, og ledsager den med en viden- skabelig Fortale, saa kan den kanske endda frem- træde som et ganske respektabelt Arbeide. Og 
+det falder mig ind  kunde De ikke benytte llingen som Grundlag for en Disput for ktorgraden? «Disput for Doktorgraden», sagde Martin. 
+«Javist», sagde Professor Lunde, «Doktor- værdigheden vil give Dem et videnskabeligt Stem- pel, som det kan være godt at tage med. Tænk 
+pa det.» Martin indsaa det rigtige i Professor Lundes Raad, og han fulgte det punktlig. Mod Slutnin- af November havde han faaet sammen 
+en - tykkere Bog, end nogen skulde have formodet, wde seet hans Optegnelser samme Host.</p>
+			
+			
+			
+			
+			<pb n="111"/>
+			
+			
+			
+			
+			<p>Disputatsen, der var berammet til den 3dje Februar, havde samlet et talrigt Auditorium, 
+som med stille Forventning skuede op paa den unge Aamot, der, iført Kjole og hvidt Halsbind, thro- nede paa Kathedret, omgivet af en 
+Masse Folian- ter, hvorfra der hist og her stak Papirmerker frem, for at Auditoriet og de tilstedeværende Universitetslærere skulde faa 
+det Indtryk, at Martin havde læst dem allesammen.</p>
+			<p>Disputatsen gik i Begyndelsen godt, og Mar- tin, der havde været noget forknyt, 
+da han traadte frem, begyndte at føle en vis videnskabelig Selv- tilfredshed, der tydelig viste sig i hans smilende Ansigt og ranke 
+Holdning, da alt pludselig fik et forandret Udseende ved Professor Mortensens Optræden som 3dje Opponent. Denne Mand, der var bekjendt 
+over hele Universitetet for sin hensynsløse og inhumane Karakter, plukkede Af- handlingen itu paa den mest skaanselløse Maade og 
+behandlede Martin omtrent som en Forbryder, der er oppe til Forhør.</p>
+			<p>Martin begyndte at stamme, tabte Koncep- terne, blev indviklet 
+i en haablos Række af Selv- modsigelser, og bragtes til Slutning saa fuldstæn dig til Taushed, at hele Publikum sad i den pin- ligste 
+Forlegenhed og sluttelig, da Disputen var forbi, sneg sig bort med en Ilfærdighed og Stil- hed, som om de hver for sig paa Doktorandens 
+Vegne, følte alle en ond Samvittigheds Kvaler.</p>
+			
+			<p>».</p>
+			<pb n="112"/>
+			
+			<p>Martin kunde ikke skjule for sig selv, at 
+Disputatsen havde været en Fiasko, og han gil hjem i en yderst nedtrykt Stemning. Han kunde efter det ueldige Resultat ikke gjøre sig 
+noget Haab om at opnaa Doktorgraden. En saadan Skandale, som at gaa rejekt ved Doktordisputat- sen, vilde for bestandig atbryde hans 
+videnskabelige Bane.</p>
+			<p>Bedømmelseskomiteen havde traadt foreløbig sammen umiddelbart efter endt Disputats, men var bleven enig om 
+ikke at afgjøre Martins Skjæbne med det samme, men udsætte Bedøm- melsen et Par Dage. Det havde dog allerede under den første 
+Sammenkomst vist sig, at Stem- ningen var imod Martin.</p>
+			<p>Der var kun en af Komitéens Medlemmer, paa hvis Deltagelse Martin kunde 
+gjøre Regning. Det var Professor Haabøl. Denne elskelige Mand var viden bekjendt for sin Humanitet og Hjær- tensgodhed. Han strømmede 
+formelig over af den ædleste Menneskekjærlighed. Der fortaltes, at han en Gang, som ganske ung Professor, havde givet en Døgenikt 
+Karakteren 6, hvorpaa Døgenik- ten til stort Tab for sit Fædreland, var gaaet hen og havde forkortet sit kostbare Liv. Dette havde havt 
+en saadan Indflydelse paa Professor Haabols af Naturen ømme Gemyt, at han fra denne Dag med hemmelig Angst skuede paa enhver Eks- 
+aminand som et Individ, der ved den mindste</p>
+			<pb n="113"/>
+			
+			<p>Strenghed kunde forledes til Selvmord. Profes- sor Haabøl vilde 
+heller have uddelt DoktorDi- plomer i Grams end tilføiet et ungt Menneske, der aldrig havde tilføiet ham noget Ondt, Sorg og 
+Skuffelse.</p>
+			<p>Dagen efter Doktor-Disputatsen mødte denne fortræffelige Mand paa sin Morgenspadsertur Martin, der saa bleg og medtaget 
+ud og tog Veien nedover mod Bryggerne. Dette Syn skar Professor Haabøl i Hjertet. Han kom til at mindes Døgenikten, hvis Støv nu hvilede 
+i den sorte Jord, og Frokosten vilde ikke smage ham. Selv om Martin ikke fulgte Døgeniktens Eksem pel, kunde han dog, hvis man viste 
+Strenghed, lettelig forfalde til Drik eller paa anden Maade gaa tilgrunde.</p>
+			<p>Disse Forestillinger fik efterhaanden saadan Magt over 
+Professor Haabøl, at han besluttede at gjøre alt, hvad der stod til ham, for at bevæge sine Kollegaer til ikke at vise Strenghed mod 
+Martin, men lade Naade gaa for Ret.</p>
+			<p>To Dage senere traadte Bedømmelseskomi- teen sammen. Foruden af Professor Haabøl og Professor 
+Mortensen, bestod Komiteen af Profes- sor Buk, Professor Zimmer og Professor Als.</p>
+			<p>Professor Mortensen aabnede Mødet.</p>
+			<p>«Det 
+kanr, ytrede han, efter den Fiasko, Hr. Aamot har gjort, naturligvis ikke være Tale om at kreere ham til Doktor. Saa vidt jeg 
+ved,</p>
+			
+			
+			<pb n="114"/>
+			
+			
+			
+			
+			<p>hersker der ingen Dissents om, at hans Disputats var en 
+Prostitution baade for ham selv og for Universifetet.»</p>
+			<p>Der lød en bifaldende Mumlen fra Professor Buk, Professor Zimmer og 
+Professor Als.</p>
+			<p>Martins Skjæbne vilde have været afgjort, hvis ikke Professor Haabøl havde grebet Ordet.</p>
+			<p>«Lad os betænke os 
+to Gange, mine Her- rer», sagde han, einden vi indlader os paa et saa alvorligt Skridt, som at negte Doktoranden Di- plomet. Det vilde 
+være første Gang i Universite tets Annaler, at en Doktorand var bleven refu seret, efterat hans Afhandling er godkjendt. Lad os betænke 
+os vel, inden vi foretage et saa ekstra- ordinært Skridt.</p>
+			<p>«Det faar være første Gang eller ikke første Gang», ytrede Professor 
+Mortensen, emen naar Hr. Aamot ikke har fortjent at blive Doktor, san har ban ikke fortjent det, og dermed Basta.»</p>
+			<p>Har Professor 
+Mortensen ogsaa betænkt, hvad Følgerne kan blive af et saadant Skridt?» sagde Professor Haabel, ejeg har seet unge Men- nesker blive 
+knækkede for hele Livet for mindre end det.» 7 «Saa faar han knækkes, sagde Professor Mortensen, «jeg ser ingen Ulykke i 
+det.»</p>
+			<p>Professor Haabøl blussede af ædel Harme.</p>
+			<p>«Det kan hænde, at Professor Mortensen ikke ser nogen Ulykke i, at et ungt, 
+haabefuldt</p>
+			
+			
+			<pb n="115"/>
+			<p>1u</p>
+			
+			<p>Menneskes Fremtid bliver forspildt for hele Li- vet», sagde han, emen det 
+gjør jeg, og Gud ske Lov mange med mig. Her er ikke Tale om at begunstige den unge Aamot paa nogen aridens Bekostning, eller overhovedet 
+om at forurette noget Menneske. Her er kun Tale om at vise en Smule Skaansomhed i sin Bedømmelse, og sandelig, under de Omstændigheder, 
+strækker jeg mig saa langt, jeg kan.</p>
+			<p>«Der er noget, som heder Retfærdighed», sagde Professor Mortensen, «det faar vi ikke 
+glemme.»</p>
+			<p>4«Men der er noget, som heder Humanitet, sagde Professor Haabøl, det faar vi heller ikke glemme. Jeg tænkte, at Professor 
+Mortensens egen Samvittighed</p>
+			<p>«Jeg skal passe min Samvittighed selv, sagde Professor Mortensen.</p>
+			<p>a, jals sagde Professor 
+Haabøl, enok af det, jeg vil lægge mine Kollegaer paa Hjerte, at en ung Mands Ve og Vel for Tid og Evighed maaske afhænger af den Dom, 
+vi kommer til at alsige idag. Jeg gjentager det, lad os betænke det. Den unge Aamot er gaaet til denne Disput med Tillid og 
+Fortrøstning, og jeg vil spørge Dem, hvorledes De tror, at hans Følelser vil være, hvis han skulde lide en saadan Tort som den, at blive 
+offentlig refuseret. Vi kan tilfreds- stille den saakaldte strenge Retfærdigheds For- dringer og fælde en skaanselløs Dom; men 
+hvis</p>
+			
+			<pb n="116"/>
+			
+			
+			
+			<p>derved sker en Ulykke, har vi intet Middel til at rette paa den.»</p>
+			<p>«Et 
+saadant Resonnement», sagde Professor Mortensen, er ikke andet end Kjærringsnak og Nathueagtighed.»</p>
+			<p>«Kjærringsnak og 
+Nathueagtighed», udbrød Professor Haabøl.</p>
+			<p>«Ja, sagde Professor Mortensen, den Slags Humanitet, som Professor Haabol præker, er 
+mere fordærvelig for Samfundet end den mest hensyns- Jøse Strenghed.»</p>
+			<p>«Jeg har altid søgt at handle efter min bedste 
+Overbevisning, sagde Professor Haabol, og jeg troede ikke, at jeg skulde blive betegnet som en for Samfundet fordærvelig Person, fordi 
+jeg og saa af og til lader mit Hjærte faa Lov til at tale et Ord med.</p>
+			<p>Det er altsammen meget brav»; åagde Pro- fessor Mortensen; 
+«men Deres bedste Overbevis ning er efter min Mening ensbetydende med Man- gel paa Retfærdighedsfølelse og Pligtsans.»</p>
+			<p>a, ja» 
+sagde Professor Haabøl, efter dette har jeg ikke mere at sige. Vil Professor Mor tensen optræde paa denne Vis mod en Mand, der aldrig 
+har fornærmet ham enten i Ord eller Gjerning, saa faar han i Guds Navn gjøre det; jeg kan kun appelere til mine Kollegaer. Jeg tror 
+ikke, at jeg enten ligeoverfor Professor Mor- tensen eller nogen anden af mine Kollegaer er</p>
+			
+			
+			
+			
+			<pb n="117"/>
+			
+			
+			<p>optraadt paa en saadan Maade, at jeg har for- tjent en slig Behandling.»</p>
+			<p>Professor Haabøls Stemme 
+klang brudt, me- dens han udtalte disse Ord. Professor Haabøl var almindelig afgjort blandt sine Kollegaer, og hans rørte Sindstemning 
+gjorde derfor sterkt Indtryk.</p>
+			<p>Professor Als greb Ordet.</p>
+			<p>«Professor Haabøl har Ret», sagde han, eden Maade, hvorpaa Professor 
+Mortensen i dette Til- fælde har overfuset en Kollega, finderjeg i høieste Grad upassende.»</p>
+			<p>«Jeg har ikke overfuset nogen», sagde 
+Pro- fesssor Mortensen.</p>
+			<p>4Jo, De har», sagde Professor Als, «De har kaldt Professor Haabøl en Nathue.»</p>
+			<p>sJeg har blot sagt, at 
+hans Ressonement begyndte Professor Mortensen.</p>
+			<p>«De bar beskyldt ham for at mangle Ret- færdighedsfølelse og Pligtsans», sagde 
+Professor Als, edet har vi alle hørt. Den Maade, hvor- paa De i det Hele taget tillader Dem at optræde ligeoverfor Kollegaer, har vakt 
+almindelig Uvilje inden Fakultetet, det vil jeg sige Dem. Jeg kom her i den Tanke at stemme mod Doktoranden, men efter Deres Optræden 
+idag, slutter jeg mig til Professor Haabøl. Jeg vil ikke ved min Stemmegivning bidrage til at støtte Dem i Deres taktløse 
+Optræden.»</p>
+			<p>J. Vi EPt '</p>
+			
+			<pb n="118"/>
+			
+			
+			
+			<p>«Os jeg ælutter misg til Prosessor Als-, sagde 
+Professor Zimmer, jeg var ogsaa fra først af til- bøielig til at stemme mod Doktoranden, men paa Professor MortensensPræmisser gaar jeg 
+ikke med.»</p>
+			<p>«Kan De forsvare for Deres egen sunde Sans , begyndte Professor Mortensen.</p>
+			<p>«Det kan De overlade til mig selv at 
+be- dømme, sagde Professor Zimmer, jeg anser ikke Udnævnelsen af en ny Doktor for en Haupt- und Staats-Affaire, men sammen med Dem gaar 
+jeg ikke.</p>
+			<p>«Saa til Votering, sagde Professor Morten- sen, «jo før jo heller..</p>
+			<p>Resultatet blev, at Professor Mortensen og 
+Professor Buk stemte mod Martin, medens Plu- raliteten, Professor Haabøl, Professor Als og Pro- fessor Zimmer stemte for 
+ham.</p>
+			<p>Martin vilde ikke tro sine egne Øren, da han om Ettermiddagen fik Meddelelse om Udfaldet af Voteringen. llan maatte ud for at 
+faa sit Sind i Ligevegt.</p>
+			
+			<pb n="119"/>
+         </div>
+         <div type="chapter">
+			<head>13de Kapitel.</head>
+			
+			<p>Hvad der hændte Martin i Hotet 
+Royal.</p>
+			<p>artin lagde Veien ud over Storgaden om Tøien og kom tilbage over Grenland. Paa Hjemveien kom han forbi Hotel Royal. Han 
+havde gaaet hurtig og var bleven tørst, og gik derfor ind i Restaurationen for at faa et Glas Øl.</p>
+			<p>Han satte sig ved det lange 
+Spisebord. Der var kun en Gjæst tilstede foruden ham. Gjæsten sad skraas overfor Martin ifærd med en Kalve- kotelette. Den Fremmede saa 
+op, da Martin satte sig. Martin gjenkjendte ham ieblikkelig.</p>
+			<p>Det var Proprietær Kornelius Magnussen Birkrem. »</p>
+			
+			
+			
+			
+			<pb n=""/>
+			
+			
+			
+			
+			<p>Kornelius gjenkjendte ogsaa Martin og rakte ham Haanden over Bordet 
+med et «Tak for sidst, som blev gjengjældt ligesaa venskabelig.</p>
+			<p>«De reiste svært braat fra Præstegaarden», sagde 
+Kornelius.</p>
+			<p>a, sagde Martin, «jeg kom hurtigere af sted, end jeg havde tænkt.</p>
+			<p>«De gav ham ordentlig den sidste Aften, vi var 
+sammen», sagde Kornelius.</p>
+			<p>«Gav ham ordentlig)» spurgte Martin ehvad mener De.</p>
+			<p>Præsten vel, sagde Kornelius, da De dispu- 
+terte med ham. Han havde godt af, hvad han fik. Jeg sagde ikke noget, men jeg stod paa Deres Side hele Tiden.»</p>
+			<p>«Jeg havde liden 
+Glæde af den Aften», sagde Martin, «bagetter blev jeg vist Døren.»</p>
+			<p>Kornelius lod Kniv og Gaffel synke.</p>
+			<p>Vist Døren», sagde 
+Kornelius, edet er da ikke muligt.»</p>
+			<p>Jo, sagde Martin, «netop vist Døren. En hoflig Vert.</p>
+			<p>os det bare fordi De var kommen op 
+og skjendes med ham?» raabte Kornelius, eder var ikke noget andet imellem eder?»</p>
+			<p>vIkke det mindste», sagde Martin, edet skrev sig 
+Altsammen fra Disputen.»</p>
+			<p>Derpaa forklarede Martin kortelig, hvad der var passeret efter hin Aften, saaledes som han</p>
+			<pb n="121"/>
+			<p>117 havde opfattet det. Han undlod dog at fortælle Scenerne med Frk. Schultse.</p>
+			<p>«Ja, saadan er de», sagde Komelius, da 
+Mar- tin var færdig, saadan er de alle. De præker Overbærenhed og Kristenkjærlighed for andre, men naar de selv skal vise den i 
+Gjerningen, saa er der ikke andet end Had og Avind og Forflgelse. Nei, det er det sikreste at tie.»</p>
+			<p>I det samme traadte der tre 
+nye Gjæster ind. Den første var en ung, sterkt bygget Mand i Uniform. De to andre var civilklædte. Den ene var høi, maver med mørkt Haar 
+og Skjæg og dybtliggende Øine. Den anden var næsten lige- saa høi, men var lys og fregnet.</p>
+			<p>Der undslap saavel Martin, som den unge 
+Mand i Uniform et Overraskelsesskrig, da den sidste traadte frem i Lyset, og de fik se hin- anden.</p>
+			<p>Martin-, raabte Manden i 
+Unisorm.</p>
+			<p>Andreas» raabte Martin og sprang op.</p>
+			<p>Det var hans yngre Broder, Andreas, som han ikke havde seet paa over fire 
+Aar.</p>
+			<p>«Jeg kom først til Byen i Middagss, sagde Andreas, da de havde vekslet de første Hilsner, eellers skulde jeg have været oppe 
+og hilst paa dig. Jeg har ligget paa Landmaaling i Sommer, som du kanske ved, og har ved den Leilighed gjort Bekjendtskab med et Par af 
+vore forste Mænd. Maa jeg præsentere.»</p>
+			
+			
+			
+			<pb n="122"/>
+			
+			
+			
+			<p>«Sagfører Lerbek», sagde 
+han, og pegede paa den høie Mand med det sorte Haar og Skjæg og de dybtliggende Øine, der imidlertid havde vekslet Haandtryk med 
+Kornelius Magnussen Birkrem. eSagfører Lerbek, første Repræsentant paa Storthinget fra sit Distrikt. Gaardbruger Holseth», vedblev han 
+med en Haandbevægelse mod den lyse Mand med det fregnede Ansigt, «fjerde Repræsentant for samme Distrikt. Min Broder, Martin Aamot, 
+Sprogforsker.»</p>
+			<p>«Vi har hørt Dem omtale», sagde Sagføre- ren, idet han og Holseth vekslede Haandtryk med Martin.</p>
+			<p>Martin 
+bukkede.</p>
+			<p>«De er en af dem, vedblev han, der har gjort Norges Navn bekjendt i Udlandet.</p>
+			<p>Martin gjorde en passende Indvending, 
+men Sagføreren afbrød ham.</p>
+			<p>«Vi følger med oppe i vort Distrikt ogæaa- sagde han, vi ved, at De har gjort megen Op- sigt i 
+Tyskland. Vidste man, at De var Nord- mana.</p>
+			<p>ja-, Sagde Mærtin</p>
+			<p>«Vidste man det virkeligs, faldt Gaardbru- geren 
+ind.</p>
+			<p>«Det er der ingen Tvivl om», sagde Martin.</p>
+			<p>For, sagde Sagføreren, eman har i Udlan- det en Tilbøielighed til at røre 
+Norsk, Svensk</p>
+			
+			<pb n="123"/>
+			
+			
+			<p>og Dansk sammen. Hvordan var det i saa Hen- seende i Gottingen</p>
+			<p>«Før min 
+Ankomst, sagde Martin, vidste man daarlig Besked, men jeg har oplyst dem om Forholdet,</p>
+			<p>«Man opfatter vor statsretlige Stilling nu? 
+sagde Sagføreren.</p>
+			<p>«Fuldstændig», sagde Martin, ei alle Fald i Gøttingen; for de øvrige tyske Byer kan ikke jeg svare.</p>
+			<p>sJa, 
+ja, sagde Sagføreren, «Rom blev ikke bygget paa én Dag.»</p>
+			<p>Etter denne Replikveksling trykkede Sagføre- ren atter Martins Haand, 
+hvorpaa Gaardbrugeren gjorde det samme.</p>
+			<p>«Kan du saa ikke sætte dig op paa mit Veærelse, sagde Andreas og tog Martin under Armen, 
+og tage dit Øl der. De følger vel og- saa med Hr. Sagfører og De Hr. Holseth»</p>
+			<p>sJo, Tak, sagde Sagtøreren, jeg og Hol- seth kommer 
+om en Stund. Vi skal bare fan noget at leve af først.</p>
+			<p>«Lerbek og Holseth er indflydelsesrige Folk, sagde Andreas, medens han og 
+Martin gik op ad Trapperne, navnlig Lerbek. Se til at gjøre dig gode Venner med dem.</p>
+			<p>Andreas beboede et rummeligt Værelse i 2den 
+Etage paa to Fag Vinduer. Det var sterkt</p>
+			
+			
+			<pb n="124"/>
+			
+			
+			<p>oplyst af en Gaslampe med 4 Blus, der hang 
+ned fra Loftet.</p>
+			<p>De havde ikke siddet længe, før Lerbek og Holseth traadte ind.</p>
+			<p>Lerbek gik lige hen til Martin og gav ham et 
+varmt Haandtryk.</p>
+			<p>«Vi har hørt, hvorledes De er bleven be- handlet», sagde han, evi har talt med Proprietær Birkrem.»</p>
+			<p>Da hån 
+havde sagt disse Ord, flyttede han en Gyngestol hen til Bordet og satte sig. Hol- seth tog en Rørstol og satte sig ligeoverfor Sag- 
+føreren.</p>
+			<p>«Vi ved, hvorledes De er bleven behandlet, gjentog Sagføreren, da Andreas havde trukket op en Flaske Øl og skjænket i 
+Glassene, og vi er oprørte, baade jeg og Holseth. Ikke sandt Holseth</p>
+			<p>Jo, sagde Holseth, det er vi.</p>
+			<p>«Det er kommet vidt i 
+dette Land», vedblev Sagføreren, enaar Folk bliver vist Døren, fordi de ytrer frisindede Anskuelser. Det er kommet vidt da.</p>
+			<p>a, da 
+er det kommet vidt, sagde Holseth.</p>
+			<p>«Folk skal ikke forfølges for sine politiske Meninger», sagde Sagføreren, tringsfriheden vi vi 
+i hvert Fald beholde.»</p>
+			<p>«Det er snart det eneste, vi har igjens, supplerede Holseth.</p>
+			
+			<pb n="125"/>
+			
+			
+			<p>«Naar vi ser saadanne Udslag af Fanatismen, da gjælder det, at enhver Mand er paa sin Post», sagde Sagføreren, ellers kommer vi 
+snart ind i nussiske Tilstande. Det gjælder, at alle frisindede Maænd holder sammen, Holseth. Ja, vi behøver sagtens ikke at spørge, paa 
+hvilken Side De staar», henvendte han sig til Martin.</p>
+			<p>Martin vilde have svaret, at han gav Politik- ken en god Dag, men Andreas 
+traadte ham ad- varende paa Foden.</p>
+			<p>«Jegt sagde Martin, jeg staar paa den rette Side.»</p>
+			<p>«Det vidste jegs, sagde Sagføreren, og 
+hæ- vede Glasset, «Skaall»</p>
+			<p>Holseth gjorde det samme.</p>
+			<p>«Skaal», sagde han.</p>
+			<p>De er sandsynligvis ikke vel seet af et vist 
+Parti herinde, sagde Sagføreren.</p>
+			<p>Neæ-i-, sagde Martin nølende.</p>
+			<p>«Nei», faldt Andreas raskt ind, ede hader Martin værre end 
+Pesten.</p>
+			<p>Saal sagde Lerbek, e5a.</p>
+			<p>«Værre end Pesten, gjentog Andreas, «kunde de flaa ham levende, saa gjorde de 
+det.»</p>
+			<p>«Jasaa, sagde Sagføreren. De staar rime- ligvis heller ikke i Kridthuset hos vor landsfa- derlige Regjering</p>
+			<p>Nei det 
+kan De forlade Dem paa, at han</p>
+			<pb n="126"/>
+			
+			
+			<p>122 ikke gjør», sagde Andreas, Martin er frygtelig forhadt af de 
+Styrende. Han har endnu ikke kunnet opnaa nogensomhelst fast Stilling ved Universitetet, medens Folk, der ikke er Tiende- parten saa 
+fortjente af Videnskaben som Martin, bliver trukket frem paa hans Bekostning. Martin bliver tilsidesat paa alle 'optænkelige 
+Maader.»</p>
+			<p>Der opstod en Pause, medens Lerbek sad hensunken i Betragtninger og af og til nippede til Glasset.</p>
+			<p>«De kunde jo 
+forsøge at gaa direkte, sagde han endelig.</p>
+			<p>At gaa direkte», sagde Martin.</p>
+			<p>Direkte til Storthinget», forklarede 
+Lerbek.</p>
+			<p>*De mener, stammede Martin, «De mener et  et  et ekstraordinært Professorat</p>
+			<p>Lerbek tog Piben ud af Munden og blæste 
+en lang Rogsky ud i Luften.</p>
+			<p>«De kunde jo forsøge, sagde han.</p>
+			<p>Holseth havde siddet urolig paa Stolen under den sidste 
+Replikveksling.</p>
+			<p>Det er vel ikke værd at binde sig, sagde han.</p>
+			<p>«Nei, nei», sagde Sagføreren, emen forudsat, at han har 
+Kvalifikationerne, og derom vil vi selv dømme, Holseth. At en Mand er bleven tilside sat og vist Døren, fordi han ytrer frisindede An- 
+skuelser, vil i alle Fald ikke skade ham blandt vore Meningsfæller.»</p>
+			<pb n="127"/>
+			<p>123 Nei, sagde Holseth, edet vil det ikke.» Og 
+det vil heller ikke skade ham», fortsatte</p>
+			<p>Lerbek, at han ikke gaar den sædvanlige </p>
+         	<p>vidtleftige Omvei gjennem Fakultet og 
+Kollegium og</p>
+			<p>Departement og Regjering, men henvender sig</p>
+			<p>direkte til Magtens Kilde. Ikke sandt, Holseth,</p>
+			<p>det vil ikke 
+skade ham.</p>
+			<p>Nei, sagde Holseth, edet vil ikke skade ham.</p>
+			<p>Sagføreren vendte sig til Martin.</p>
+			<p>Saa skaf alle de Oplysninger 
+og Atte- ster, De kan, og lever dem til mig», sagde Ler- bek, esaa skal jeg og Holseth gjøre, hvad vi kan.  Og hvad vi kan forsvare for 
+vor Samvittig- hed, tilføiede han.</p>
+			<p>Martin fremstammede en Taksigelse.</p>
+			<p>«Vi ved jo, af hvad vi har hørt om Deres Op- hold i 
+Tyskland, at De er en usædvanlig dygtig Mand, sagde Sagføreren, saa jeg antager ikke, at vi kommer til at vove noget ved at anbefale 
+Dem. Ikke sandt Holseth?</p>
+			<p>«Vi faar vente, til vi har seet Dokumenterne, sagde Holseth.</p>
+			<p>«Naturligviss, sagde Lerbek, det er 
+ikke min Hensigt at overrumple nogen.»</p>
+			<p>Martin takkede sine to nye Venner paa det varmeste. De sad endnu en god Stund sammen alle 
+fire og førte en hyggelig og gemytlig Sam- tale</p>
+			
+			<pb n="128"/>
+			
+			
+			
+			<p>Otte Dage senere indleverede Martin 
+sin Af- handling og forskjellige Attester og Oplysninger til Sagfører Lerbek, som gjentog sit Løfte omat tage sig af hans Sag. Det havde 
+lykkedes.Mar- tin foruden Attesten fra Professor Wolff, i Aarets Løb at skaffe sig tvende andre tyske Attester, samt en Attest fra 
+Professor Lunde, hvorhos han hos Sagfører Lerbek deponerede 10 å 12 private Breve.</p>
+			<p>Sagen skulde fore i Mai.</p>
+			
+			
+			<pb n="129"/>
+         </div>
+         <div type="chapter">
+			<head>14de Kapitel.</head>
+			<p>Martins Skjæbne afgjores.</p>
+			
+			<p>et var den 29de Mai, at Martins Sag var opslaaet til 
+</p>
+			
+         	<p> Behandling i Thinget. I Komiteen % stod der 5 Stemmer mod 5, ⁸ saa Sagen var hoist tvivlsom.</p>
+			
+			<p>⁷? Martin havde ikke sovet meget den Nat, og det var i den største Spænding, at han vandrede op og ned i Gangene udenfor Gal- 
+leriet og ventede paa, at hans Sag skulde blive behandlet. Man havde sagt ham, at det ikke var passende, at han selv viste sig blandt 
+Publi- kum ved denne Leilighed; men han havde ikke kunnet udholde Uvisheden. Han maatte være tilstede, hvad det saa skulde koste.</p>
+			
+			
+			
+			<pb n=""/>
+			
+			
+			
+			<p>Endelig kom det skjæbnesvangre Øieblik Sagfører Lerbek reiste sig og talte 
+Martins Sag.</p>
+			<p>Han citerede Attester og Breve og udbredte sig, støttet til disse Dokumenter, med en saadan Varme om Martins eminente 
+Begavelse og store Fortjenester af Videnskaben, at det forekom denne, at han maatte være en af de mest lovende Videnskabsmænd, som 
+nogensinde havde levet og nogensinde vilde komme til at leve. Da Ler- bek var færdig, reiste en af den modsatte Frak- tion af Komiteen 
+sig og bad om Ordet. Han talte mod Martin og søgte at svække Virkningen af Lerbeks Ord. Da han var færdig, reiste en anden sig og talte 
+i samme Retning. Martin holdt ikke ud at være paa Galleriet længer. Det begyndte at kvalme for ham. Han ilede ud paa Gangen og begyndte 
+at gaa op og ned i en Spænding, der boldt paa at kvæle ham. Af og til gik han hen til Galleridøren for at høre, hvem der talte. Den 
+sidste, han hrte, var Gaardbru- ger Holseth, der omtalte Martin med den største Beundring, men foreslog Sagen udsat til et senere Thing, 
+eftersom Professorgagerne for Tiden var saa sma, at det ikke var noget at byde en saa fremragende Mand som Martin. Man burde til et af 
+de følgende Thing tage under grundig Over veielse, om der ikke skulde være Anledning til at træfle ekstraordinære Foranstaltninger til 
+at</p>
+			
+			<pb n="131"/>
+			
+			
+			
+			<p>skaffe Martin en Stilling, som svarede til hans Fortjenester.</p>
+			<p>Det blev 
+aldeles uudholdeligt for Martin. Han maatte tale et Par Ord med Sagfører Lerbek, hvad det saa skulde koste. Han begav sig neden- under i 
+Gangen foran Storthingssalen og sendte et Bud ind til Lerbek.</p>
+			<p>Medens han ventede paa denne, blev han tiltalt af en af 
+Repræsentanterne, der tilfældigvis kom ud fra Salen. Martin kjendte ham af Ud- seende. Det var en Skibsrehder fra en af Smaa- byerne, en 
+meget konservativ Mand, vidste Martin.</p>
+			<p>+Om Forladelse», sagde Skibsrehderen og tog til Hatten. Om Forladelse, er det ikke Hr. 
+Aamot?.</p>
+			<p>Jo, sagde Martin, edet er mig.»</p>
+			<p>«Deres Sag anbefales af Sagfører Lerbek, vedblev Skibsrehderen, etør jeg spørge, 
+staar De paa samme Side som den Mand? Man har ym- tet om –</p>
+			<p>Martin rystede energisk paa Hovedet.</p>
+			<p>«Jeg staar paa den rette 
+Side», sagde han.</p>
+			<p>Skibsrehderens Ansigt opklaredes.</p>
+			<p>«Det kundejeg tænke», sagde han, edet har naturligvis kun været 
+Bagvaskelse.</p>
+			<p>Undskyld, vedblev han, idet han tog Hat- ten ærbødig af og trykkede Martins Haand, eund- skyld min Paatrængenhed; men 
+i disse Tider kan man ikke være forsigtig nok, med hvem man</p>
+			
+			
+			
+			<pb n="132"/>
+			
+			
+			<p>betror det 
+vigtige Kald at være Ungdommens Lærer. Undskyldl»</p>
+			<p>Han trykkede atter Martins Haand og fjer nede si</p>
+			<p>Skibsrehderen var neppe 
+afsyne, før Lerbek viste sig i Gangen.</p>
+			<p>«Hvordan gaar det? hviskede Martin, Hol- seth</p>
+			<p>«Holseth er en Forræder, svarede 
+Lerbek, «Udsættelsesforslaget er kun en Udflugt for at forpurre Sagen; men De skal ikke tabe Modet. Jeg har endnu min bedste Trumf i 
+Baghaanden. Stol paa migl»</p>
+			<p>Med disse Ord begav Lerbek sig ind i Sa- len, medens Martin atter gik op paa Gangen udenfor 
+Galleriet.</p>
+			<p>Udsættelsesforslaget syntes at vinde stor Til- slutning, og flere og flere Talere erklærede, at de vilde slutte sig til 
+Holsethh Det saa mørkt ud for Martin. Da var det, at Sagfører Lerbek atter reiste sig og gjorde opmærksom paa, at hvis man nu ikke greb 
+Anledningen til at sikre sig Martin, da vilde han til evig Skam og Skjænd- sel for det Land, hvis Navn han havde gjort be rømt i 
+Udlandet, blive nødsaget til at tage An- sættelse ved et eller andet fremmed Universitet. Det var Taleren bekjendt, at Martin allerede 
+havde havt en Mængde fordelagtige og ærefulde Tilbud fra tyske Universiteter, men han havde</p>
+			
+			
+			<pb n="133"/>
+			
+			<p>129 hidtil afslaaet disse, uagtet de i pekuniær Hen- seende var fordelagtigere end en Post ved vort Universitet; Martin foretrak 
+nemlig, forsikrede Lerbek, at arbeide for sine egne, selv om For- tjenesten derved skulde være mindre.</p>
+			<p>Lerbeks Tale gjorde et 
+sterkt Indtryk baade paa Repræsentanterne og paa Tilhørerne paa Galleriet. En af disse, der traf Martin paa Gan- gen  han kjendte ham af 
+Udseende  nærmede sig og spurgte med Ærbødighed, om han virke- lig heller vilde arbeide for sine egne, end mod- tage en Ansttelse i 
+Tyskland, selv nar han der fik høiere Betaling.</p>
+			<p>«Nar jeg der fik høiere Betalings, raabte Martin, enei Gu' vilde jeg ei. Hvor kan 
+det falde Dem ind.»</p>
+			<p>Martin havde ikke hørt Lerbeks Tale.</p>
+			<p>I dette Øieblik blev der raabt Votering fra 
+Præsidentstolen.</p>
+			<p>Martin begav sig op paa Galleriet. Aldrig havde han gjennemgaaet saadan Sjælekval, som den han følte, medens 
+Stemmerne blev afgivne. Han kunde blive halv vanvittig, naar der af og til led 3 å 4 Neier i Træk.</p>
+			<p>Endelig foregik Optællingen. 
+Resnltatet blev oplæst af Præsidenten med lydelig Røst. Pro- fessorgagen var bevilget med 57 mod 54 Stemmer.</p>
+			<p>Martins Hjærte 
+bankede af en usigelig Fryd. Han styrtede ned paa Gaden for at træffe en,</p>
+			<p>J. Vibe EnPror ]</p>
+			
+			<pb n="134"/>
+			
+			
+			
+			<p>hvem han kunde meddele sin Lykke. Den første han medte, var hans Ven, Professor Lunde, der havde spadseret op 
+og ned udenfor Bygningen for at oppebie Resultatet af Sagens Behandlin Professoren blev næsten ligesaa glad over Martins Held, som denne 
+selv.</p>
+			<p>Martin havde leiet et Hus paa en af Øerne en halv Mils Vei fra Byen, hvor han boede i Sommermaanederne. Han pleiede ikke at 
+mod- tage Besøg, men i Aften maatte han have nogen at tale med. Han spurgte derfor Professor Lunde, om han ikke vilde følge med ud. En 
+Ret fersk Fisk og et Glas Vin kunde han byde ham. Dampbaaden gik Kl. s.</p>
+			<p>Professor Lunde lovede, at han skulde komme.</p>
+			<p>Til det 
+fastsatte Klokkeslet mødtes de to Venner paa Bryggen og begav sig ombord. Da det blæste en Smule, gik de ned i Kahytten. Det var saa 
+tidlig paa Aaret, at der endnu ikke var flyttet mange Mennesker ud paa Landet, og det undrede derfor ikke Martin, at der foruden ham og 
+Professor Lunde ikke fandtes mere end een Passager i Salonen.</p>
+			<p>Det var en ældre Herre, der var fordybet i en Avis. Han sad 
+saaledes, at Martin ikke kunde se hans Ansigt; men det forekom ham, at han skulde kjende Figuren.</p>
+			<p>Da Martin kort efter hævede sin 
+Stemme for at sige et Par Ord til Professor Lunde,</p>
+			
+			<pb n="135"/>
+			
+			
+			
+			
+			<p>vendte den ældre Herre 
+Hovedet og saa op fra Avisen.</p>
+			<p>Martin havde ikke taget feil, det var Pastor Veile.</p>
+			<p>Martin bukkede fremmed, og Præsten gjen- 
+gjældte hans Hilsen paa samme Maade.</p>
+			<p>Etter en Tids Forløb lagde Præsten Avisen tilside. Martin havde taget Plads ligeoverfor ham 
+paa den anden Side af Kahytten, og de kom saaledes til at sidde Ansigt til Ansigt. Martin kom til at tænke paa den skjæbnesvangre 
+Disput, og bragtes derved gjennem en Ideassosiation til at mindes Budeien Mant, som han havde talt med hin Aften.</p>
+			<p>Maa jeg gjøre 
+Pastoren et Sporgsmaal?» sagde Martin.</p>
+			<p>Præsten tilkjendegav sit Samtykke ved en Bøining af Hovedet.</p>
+			<p>«De havde en Budeie», 
+fortsatte Martin, een Budeie ved Navn Marit, hvor er der bleven af hende</p>
+			<p>Præsten tilkastede Martin et strengt Blik.</p>
+			<p>Hun er 
+gift», sagde han høitidelig, egift med en agtværdig Gaardmand ved Navn Torgrim Braadland.»</p>
+			<p>4Nu, Gud ske Lov», sagde Martin, edet 
+var jo heldig.»</p>
+			<p>Hvem er Marit spurgte Professor Lunde, vat sige, hvis det ikke er en Hemmelighed?».</p>
+			
+			
+			<pb n="136"/>
+			
+			
+			
+			
+			<p>«Nei, langtfrav, sagde Martin, «Marit er den Bondepige, som jeg fortalte Dem om, hende, 
+som jeg lærte saa mange nye Ord af. Hun har ikke ringe Fortjenester af min Afhandling.»</p>
+			<p>Og Torgrim Braadland, sagde Professor 
+Lunde, hvem er det? De lod til at kjende ham ogsaa.</p>
+			<p>«Javist, sagde Martin. Derpaa fortalte han Professoren omstændelig, hvad der 
+var passeret hin Aften, da han havde været nede i Sommer- fjøset og talt med Marit. Jeg og Marit fulgtes ad hjem, endte Martin, og da 
+jeg vidste, at han var Gaardmand og hun bare en Hus- mandsjente, troede jeg ikke, at han mente det alvorligt, og gav hende derfor en 
+indtrængende Advarsel, da jeg tog Farvel med hende. Etter hvad jeg hrer, har det altsaa været overfdig.»</p>
+			<p>Præsten havde fulgt 
+Martins Forklaring i den største Spænding. Da Martin var færdig, tog han Lommetorklædet frem og begyndte at af tørre Sveden, der perlede 
+i store Draaber paa hans Pande.</p>
+			<p>«Hvilken  hvilken  Aften var det, dette passerede» spurgte han.</p>
+			<p>En Aften, hvis Begivenheder 
+jeg ikke bry- der mig om at rippe op, sagde Martin.</p>
+			<p>Præsten havde reist sig og lagde Haanden paa Martins Arm.</p>
+			<p>«For Guds 
+Skyld, sagde han, esvar mi</p>
+			
+			<pb n="137"/>
+			
+			<p>133 Var det  var det den anden Aften, før De reiste</p>
+			<p>sJa netop, sagde 
+Martin, det var en mer- kelig Aften i flere Henseender. Det var deiligt, mildt Veir, da jeg gik ud, men der indtraadte et saa pludseligt 
+Omslag i Løbet af en halv Time, at jeg maatte brætte Frakkekraven op over Ørene, da jeg gik hjem.»</p>
+			<p>Præsten trrede atter Sveden af 
+Panden.</p>
+			<p>«Jeg er bange for», sagde han, jeg er bange for, at jeg har gjort mig skyldig i en Uretfær dighed. Havde De  havde De 
+aldrig talt med Budeien før»</p>
+			<p>«Nei», sagde Martin, havde jeg saasandt truffet hende før, skulde jeg have forøget min Ordsamling med 
+mindst hundrede Ord.»</p>
+			<p>vOg De har heller ikker, vedblev Præsten, tikke  ikke  lovet hende Egteskab?»</p>
+			<p>«Lovet hende Egteskab, 
+raabte Martin, ver De gal, eller tror De, jeg er det? Hun var jo, saavidt jeg skjønner, allerede den Gang for- lovet med den Bondemand, 
+som jeg nu horer, hun er gift med.» ;</p>
+			<p>«Der er ingen Tvivl om det», udbrød Præ sten, «der er ingen Tvivl om det. Jeg har gjort mig 
+skyldig i en sørgelig Vildfarelse. Kan De tilgive mig, Hr. Aamot», vedblev han og tog Martins Haand mellem begge sine, «kan De bære over 
+med en gammel Mands Feiltagelse?»</p>
+			
+			
+			<pb n="138"/>
+			
+			
+			<p>Martin stirrede paa Præsten med den storste 
+Overraskelse.</p>
+			<p>«Kan De tilgive mig min fornærmelige Op. førsel mod Dem de to sidste Dage, De var i mit Hus. Kan De tilgive det 
+spurgte Præsten.</p>
+			<p>«Jeg forstaar ikke, hvad De mener», sagde Martin, emen — jeg tilstaar det  min noget uhøflige Optræden under 
+Diskussionen gav for- modentlig Anledning til –</p>
+			<p>«Nei, nei, nei», sagde Præsten Veile, «De gjør mig Uret. De gjør mig Uret. Det 
+Hele beror paa en beklagelig, en utilgivelig Misfor- staaelse fra min Side.»</p>
+			<p>Det lykkedes snart Præsten og Martin ved Professor 
+Lundes Bistand at komme til en fuld- stændig Forklaring.</p>
+			<p>Den gamle Præst var saa bedrøvet over sin Feiltagelse og paa samme Tid 
+saa glad over at bans Mistanke mod Martin havde været ugrun- det, at man maatte have været af et meget ufor- sonligt Gemyt, for ikke at 
+glemme langt alvor- ligere Fornærmelser end dem, Martin havde vær ret Gjenstand for, og Martin var, i den glade Stemning, hvori han 
+befandt sig idag, mindst af alt tilbøielig til at vise Uforsonlighed.</p>
+			<p>Og nu-, sagde Præsten, maa De hilse paa min Hustra og mine 
+Døtre og Frk. Schultse. Hun er ogsaa med. Vi reiste indom Stokkesund</p>
+			<pb n="139"/>
+			
+			
+			<p>paa Veien og fik hende til at 
+slutte sig til os paa vor Hovedstadstur.»</p>
+			<p>Med disse Ord bankede han paa Døren til en liden Separatkahyt i Bagstavnen af 
+Skibet.</p>
+			<p>Moer, kom herind, raabte han, og tag Janna og Karoline og Konstance med dig. Her er en gammel Bekjendt, som ønsker at 
+hilse paa eder.»</p>
+			<p>Et Øieblik efter traadte Fru Veile og de unge Damer ind.</p>
+			<p>De bukkede stift, da de saa Martin, og de unge 
+Damer gjorde Tegn til at ville flygte til- bage til Damekahytten; men Martin mærkede dog til sin Glæde, at Frk. Schultse 
+rødmede.</p>
+			<p>«Passiar: raabte Præsten, «Passiarl Er det en Maade at tage imod en gammel Ven? Tag Hr. Aamot i Haanden. Naa, na, na, 
+ingen Undselighed. Rasktl</p>
+			<p>Fruen og de unge Damer saa overrasket paå Præsten. Det var aabenbart Alvor. Fruen og Præstens Døtre 
+nærmede sig en efter en og gav Martin en løs Haand: Frk. Schultse ind- skrænkede sig til at bukke.</p>
+			<p>Præsten Veile lo.</p>
+			<p>«Ja, 
+ja, sagde han, «jeg faar først tale med min Hustry, sa retter nok alt sig. Men jeg er ikke blevet præsenteret for Deres Ven, hen- vendte 
+han sig til Martin.</p>
+			
+			<pb n=""/>
+			
+			
+			
+			<p>Pastor Veile, Professor Lunde», præsente- rede 
+Martin.</p>
+			<p>«Professor Lunde», gjentog Præsten, emin Hustru, mine Døtre, Frk. Schultse, Datter af Skibsrehder Schultse i 
+Stokkesund.»</p>
+			<p>1Og maa jeg til Gjengjæld præsentere min Ven, Professor Aamot, sagde Professor Lunde, sja, det vil sige, han er ikke 
+endnu udnævnt til Professor, men jeg tror ikke, Regjeringen vil lægge Hindringer i Veien, og Gagen er idag bevilget.»</p>
+			<p>Hvad hrer 
+jeg», raabte Præsten og greb Martins Haand. eEr De endelig bleven paaskjøn- net efter Fortjeneste. Gratulerer tusinde Gangel Ja, det var 
+da ikke for tidlig. Nu Kone og Daøtre og De, Frk. Schultse. Nu maa I ogsaa gratulere.</p>
+			<p>Damerne udtalte med svag Stemme en Gra- 
+tulation, men holdt sig forsigtig i et Par Favnes Afstand fra Martin.</p>
+			<p>Martin spurgte, hvor Præsten og Damerne agtede sig 
+hen.</p>
+			<p>«Vi har tænkt at tage os en Eftermiddags- tur i det Grønne, sagde Præsten, og saa vende hjem med Dampskibet i 
+Aften.</p>
+			<p>«Men kunde ikke De, Deres Familie og Frk. Schultse ligesaa godt følge med hjem til mig og spise Deres Aften sammen med 
+Professor Lunde og mig», sagde Martin. «Jeg kan byde en Ret</p>
+			<pb n="141"/>
+			
+			
+			
+			<p>fersk Fisk og et Glas Vin. 
+Stedet er ikke 5 Minutters Gang fra Dampskibsanløbsstedet.»</p>
+			<p>sJo, tusind Tak, sagde Præsten, hvad me- ner du, Mo'erh</p>
+			<p>«Jeg 
+tror, det er bedst, at vi bliver ved vor frste Bestemmelses, sagde Fruen.</p>
+			<p>De unge Damer stak Hovederne sammen. Derpaa ytrede Frk. 
+Schultse, at hun under ingen Omstændighed kunde tage imod Invitationen. Hun havde besluttet at spadsere i Skoven.</p>
+			<p>Præsten 
+lo.</p>
+			<p>«Jeg faar først tale et Par Ord med Mo'er», sagde han.</p>
+			<p>Derpaa trak han Fruen hen i en Krog og førte en hviskende Samtale 
+med hende. Umid- delbart efter trak Fruen og de unge Damer sig tilbage til Damekahytten. Ti Minutter senere indfandt de sig atter i 
+Salonen med tilfredse, lyse og fornøiede Ansigter og takkede samtlige saa meget for Indbydelsen.</p>
+			<p>Der herskede endnu en Smule 
+Forlegenhed ligeoverfor Martin, og de unge Damer lo og spøgte mest indbyrdes; men da Isen først var brudt, kappedes de om at være 
+elskværdige.</p>
+			<p>Hvor skjælmsk og koket var ikke Frk Schultse, da de vandrede fra Dampskibsanløbs- stedet gjennem Birkeskoven op til 
+det lille Hus, som Martin havde leiet. Hvor livligt, muntert og spøgefuldt gik ikke Samtalen senere ved </p>
+			
+			<pb n="142"/>
+			
+			
+			
+			
+         	<p>Aftensbordet, og med hvilken dyb, deltagende Interesse hørte ikke de unge Damer og navnlig 
+Frøken Schultse paa Martins Bemærkninger og paa hans Skildringer af, hvad han havde oplevet i det sidste Aar.</p>
+			<p>Endelig slog 
+Afskedens Time. Martin fulgte sine Gjæster ned til Dampbaaden. Baade Fruen og de unge Damer trykkede ham varmt i Haan- den, og det 
+forekom ham, at Frk. Schultse havde Taarer i Øinene.</p>
+			<p>Det var den lykkeligste Dag i Martins Liv. Det var ham ikke mulig at lukke et 
+Øie om Natten, saaledes var hans Bryst opfyldt af Fryd og Jubel. Jeg er det heldigste Individ, som no- gensinde har eksisteret i dette 
+Land», raabte han halv it til sig selv, medens han laa paa sit søvnløse Leie, aldeles betagen af sin Lykke. Først ud paa Morgenstunden 
+faldt han i en let Slummer.</p>
+			<p>Han havde faaet Præstens Adresse og be- søgte ham den næste Dag. Præsten og Damerne skulde endnu blive 
+14 Dage i Byen, og Martin benyttede sin Tid saa godt, at han 3 Dage for Præstens Afreise kunde præsentere Frk. Schultse som sin 
+Forlovede. Dagen efter modtog han kongelig Udnævnelse som ekstraordinær Professor uden Forpligtelse til at holde 
+Forelæsninger.</p>
+			<p>Samme Høst stod Martins Bryllup.</p>
+			<p>Det var en Aften omtrent et Aar efter</p>
+			<p>⁶</p>
+			
+			
+			<pb n="143"/>
+			
+			
+         	<p>Bryllupet, at han og hans Kone sad alene sammen i sin lune Dagligstue i Homansbyen, Martin læste i en Bog ved 
+Skinnet af en Hængelampe, og hans Kone sad bøiet over sit Heklearbeide.</p>
+			<p>Pludselig hævede hun Hovedet.</p>
+			<p>«Holder du paa med 
+noget videnskabeligt n, Martin sagde hun.</p>
+			<p>eNei», sagde Martin og saa op, ehvor kan det falde dig ind?»</p>
+			<p>«Jeg tænkte blot», 
+sagde hans Kone, eat n, da du har saa god Tid, maatte du kunne ud- rette noget stort.»</p>
+			<p>Martin lagde Bogen fra sig.</p>
+			<p>«Min 
+kjære Konstance, sagde han, det be- høves aldeles ikke. Jeg er nu naaet lykkelig i Havn, og med Guds Hjælp skal jeg forsvare min 
+Stilling uden oftere at maatte tage min Tilfugt til videnskabelige Arbeider. Jeg har gjort mit, da min Tid var, lad nu andre gjøre 
+sit.»</p>
+			<p>«Hvor alt er gaat let og godt for dig, Martin», sagde hans Kone.</p>
+			<p>a, Gud ske Lov, sagde Martin.</p>
+			<p>«Hvor forunderlig 
+du er bleven ført», ved- blev hans Kone.</p>
+			<p>«Ja», sagde Martin, ehver Gang jeg har troet, atjeg havde gjort noget rigtig dumt, er det 
+blevet til min største Lykke. -</p>
+			<p>Hans Kone greb hans Haand over Bordet,</p>
+			<p>«Martin, sagde hun, du har meget at takke</p>
+			
+			
+			<pb n="144"/>
+			<p>.</p>
+			
+			<p> Forsynet for baade paa dine egne Vegne og paa Universitetets, som</p>
+			<p>Martin fik et 
+voldsomt Anfald af Hoste.</p>
+         	<p>«Lad os ikke tale mere om den Sag», sagde han.</p>
+         	<p>«Men lad os være taknemmelige, Martin», sagde hans 
+Kone,</p>
+			<p>«Ja vist», sagde Martin, «lad os det.»</p>
+			<p>Det var et smukt Syn at se det unge Par siddende Haand i Haand i fælles Tak til 
+Forsy- net for dets vise og faderlige Styrelse.</p>  
+         </div></body>
+ </text>
+</TEI>

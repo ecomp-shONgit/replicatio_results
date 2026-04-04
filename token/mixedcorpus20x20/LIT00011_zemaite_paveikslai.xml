@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LIT00011" xml:lang="lt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Paveikslai : ELTeC edition </title>
+            <author> Žemaitė (1845-1921) </author>
+            <respStmt>
+               <resp>editor</resp>
+               <name>Saulius Keturakis</name>
+            </respStmt>
+         </titleStmt>
+         <extent>
+            <measure unit="words">11913</measure>
+            <measure unit="pages">102</measure>
+         </extent>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
+               <ref target="https://www.epaveldas.lt/object/recordDescription/LNB/C1B0003195372">
+                  Paveikslai </ref>
+               <publisher>Martynas Mažvydas National Library of Lithuania </publisher>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Paveikslai</title>
+               <publisher>Kasztai ir spauda "Vienybė Lietuvininkų" </publisher>
+               <pubPlace>Plymouth</pubPlace>
+               <date>1899</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc n="eltec-1">
+         <p/>
+      </encodingDesc>
+      <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+         <langUsage>
+            <language ident="lt" usage="100"/>
+         </langUsage>
+         <textDesc>
+            <e:authorGender key="F"/>
+            <e:size key="short"/>
+            <e:canonicity key="low"/>
+            <e:timeSlot key="T3"/>
+         </textDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2020-02-10">Saulius Keturakis added header </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="titlepage">
+            <p>PAVEIKSLAI.</p>
+            <p>Parašė</p>
+            <p>Žemaitė </p>
+            <p>Plymouth, PA.</p>
+
+            <p>Kasztai ir spauda "Vienybė Lietuvininkų" </p>
+            <p>1899.</p>
+         </div>
+      </front>
+
+      <body>
+         <div type="chapter">
+            <p>Lietus ir lietus per kiaurą dienelę! Tarytum, niekad nebebus giedros: apsiukęs,
+               apsiniaukęs dangus iš visų pusių, vėjas vakarinis debesis dumia ir dumia į rytus —
+               lekia smulkiais lašais vilnydami lietų; nors smulkus lašai, bet teip sodrus, juog
+               żemė visa pasriuvo vandeniu, ant smiltyno labai giliai smunka pėda; aut velėnos
+               tuojau padrėko, o ant kieto, suvażinėto żvyryno tvaksojo klanų klanai, ant kurių
+               pluduriavo burbulai; kur lomelės — vienalyte vanduo tyvalioja. </p>
+            <p>Tokioj darganoj nė ant oro paukšteliai neskrajojo, kiutojo papurę, kur po šlapiu
+               lapeliu palindę; naminės vištos gunżės į pastoges, tik su didżiu reikalu — ant
+               kutnojimo gaidżio prie slieko — brido pasikaišiusios; balandżiai sulindę į čiukurą
+               burkuodami pešėsi ir bučiavosi. Antims tai berots gadynė: kvarkdamos, purvinos,
+               šlapios kumpinėjo, skubėjo iš vieno į kitą klaną, kiekviename turšėsi ligi pat akių. </p>
+            <p>Žmonės darbininkai negalėjo darbuotis po laukus, kiekvienas pastogėj išrado sau šiokį
+               tokį knyburį; tik kur ne kur matyti vyrai pasiraitę braido apie arklius su pančiais,
+               brizgilais. O tie piemenėliai-vargdienėliai — jiems nepaguodos nėra — sušlapę,
+               sušliurę čiużinėjo apie savo bandelę. </p>
+            <p>Vakarop vėjalis truputį nuščiuvo, lietus praretėjo, nuslinko debesys į rytus;
+               vakaruose, pakraštyj debesų raudona saulelė leisdamos atsiveizėjo priešais antrame
+               pakraštyj dangaus — aiškus kampas orarykštės pasirodė; ant valandėlės nušvito visi
+               pašaliai. Netrukus saulelė użkrito uż miško, orarykštė išgaišo; progydruliais kur ne
+               kur żvaigżdelė spiktelėjo. Piemenėlis subirbino birbynę, bandelės barškalai ant namų
+               barškėjo. </p>
+            <p>Sodne medżių šakos nulinkusios varvino vandenį nuo lapų; pukštelėjus vėjui sukrutėjo
+               medżiai ir vanduo nubiro lašais ant smiltinuotų takelių. Sodno gale nuo šiaurės dvi
+               tankios eglinės eilės, tarpe kelias nugrėbstytas ir smiltims išbarstytas, o nuo
+               šiandienykščio lietaus truputį pabliuręs. Gale tos gatvėm tankiame keryne suolelis, o
+               priešais ant stulpelio apskritas akmuo użmautas. Ant to suolelio tankumoje sėdėjo
+               jauna mergelė ir graudżiai verkė. </p>
+            <p>Mėnuo patekėjęs, pasilenkdamas pro debesius żiurėjo per tarpus šakų, tarytum
+               norėdamas paklausti: „ko tu mażele verki?!..” Vėjas pukšnodamas stačiai jai į veidą,
+               draikė ant kaktos gelsvus plaukelius, tarytum, norėdamas atvėsinti raudonus
+               skruostelius, użkaitusius nuo rietėjimo ašarų. Krutinė jos kilsavo skausmu ir giliais
+               duksėjimais; rankeles sunėrusi nuleido į skreitą; żiedras akeles, storai ašaruotas
+               įdurė tolyn, tolyn — į żarą; bet nė żvaigżdelių tenai spiksančių nematė. Gilmėje jos
+               omenės stovėjo gyvai paveikslas vyriškio sudarios stovylos, su garbiniuotais
+               plaukais, żiedrioms akimis, rausvais usais ir barzdele — apie jį nuoširdżiai mergelė
+               dumojo. </p>
+            <p>— „Kelintą vakarėlį laukiu čia ligi vėlumo? jo kaip nėra, teip nėra!... Iš pradżios
+               visuomet pirmutinis manęs laukė, arba atbėgusi tuojau pajusiu be įšokant per tuinus —
+               apsikabinęs karštai prispaus prie širdies, arba atsiklaupęs priešais po vieną
+               pirštelį rankų išbučiuos; o tų żodelių jo meilums!... Niekad neużmiršiu kaip sakė:
+               „Zoselyte, tu mano širdelyte! uż viso svieto grożybes grażesnė, uż visas brangybes tu
+               man brangesnė, uż visas saldybes mano širdżiai saldesnė, uż visas żvaigżdeles ant
+               dangaus skaistesnė; be tavęs negaliu gyvas buti, vienos dienelės neišturėčiau tavęs
+               nematęs, tu mano širdies dżiaugsme! kaip aš tave myliu neišpasakytai ir mylėsiu ant
+               amżių!... Jeigu aš tau meluočiau, sakė, kad mane toj valandoj perkunija nutrenktų
+               arba kiaura żemė prarytų, tegul gyvas į peklą krisčiau“. żegnojosi, Dievo vardo
+               šaukė, brostvas bučiavo. Kaip-gi ne įtikėti tokioms prisiegoms, kas galėtų ir
+               pamislyti, juog tai gal but melagystė ?!“...</p>
+            <p>Sušnabżdėjo šakos, Zosė, kaip iš miego krustelėjo, apsiżvalgė — nėra nieko!... Vėl
+               apsipylusi ašaroms duksavo. </p>
+            <p>„Dievuliau brangus! kur aš dabar dingsiu, jei jis pames neims manęs?! Lenkiasi dabar
+               ištolo, negaliu nė pasakyti juog kas vakarą čia jo laukiu... Pirmu vienu pażvelgimu,
+               mirktelėjimu susipratom, o dabar nė żodżių mano nebesupranta... Gal ko pyksta?!...
+               Gal aš kuo jam nusidėjau?!... Bet kam teip reikėtų mane varginti, mano širdelę
+               gildyti? Ar gi negalėtų stačiai man išrugoti, jei kas nepatinka; ar gi aš jo
+               neklausau?... Użgynė man šokti, į susirinkimus vaikščioti, nedainuoti, pagalios nė
+               šnekėtis su nieku neleido — visko klausau, kiekvieną użsakymą išpildau, per tai visi
+               pradėjo juoktis, pirštais į mane rodyti... Neżiurėčiau nieko, kad tik jisai mylėtų...
+               Bet nelaimė mano! matau — jo meilėje jau didelę atmainą“.... </p>
+            <p>Mergelei ašaros kaip żirniai rietėjo. „Perspėliojo, teisybė, mane ponia ir gaspadinė,
+               kad neużsitikėčiau nėkokiam vaikinui; lindo keli jau pirma, pagaliaus ir patsai ponas
+               lindo: kur użpuldamas grobstė, bučiavo, dar ir į ranką nesykį, bet nuo visų laimingai
+               atsikračiau, nes nė vienas ne įsmigo teip giliai į širdį; o Topylis nors nė vienai
+               mergai netinka — visos jį peikia, ir aš pati girdżiu ir matau, juog keikunas ir
+               użsispyrėlis, dėlto nieko — mano širdelę kaip su reteżiu prikaustė prie savęs? Tegul
+               visas svietas šauktų, juog nebus jisai geras pačiai, neżiurėsiu nieko, kad tik imtų;
+               stengčiaus iš visos išgalės nulenkti, slaugyti, klausyti o mylėti begalo; ir jis mane
+               tada mylės. Nors neturtuose vargčiau, visoko netekčiau, bado pasiekčiau, pataikysiu
+               vis nukentėti, jei tik jį mylėti galėčiau.... </p>
+            <p>Mylėti — dumojo mergelė — kas man użgįs mylėti?! Nor ir pamestų jisai mane, aš galiu
+               jį širdingai mylėti!... Bet kur man reiks dingti pamestai?!... Matušėlė kaip man yra
+               sakiusi „dabokis vaikeli! Jei tu kaip pasidarysi nesirodyk man nė ant akies!
+               išsiżadėsiu tavęs ant amżių!“... Nepriglaus, nepasigailės matušėlė, nė pasiskųsti jai
+               negaliu. Pulčiau prie ponios — ir ta atstatys, tuojaus išgįs, sakys: „ko ne klausei
+               manęs?“ kur gi tuomet dingsiu?!... Nieko neveiksiu, niekur globos negausiu, jei bent
+               smertis susimylėjęs greičiau prispėtų“... </p>
+            <p>Sukliko pelėda ant pat galvos mergelės; baisiai nusigandusi pašoko ir neatsižvelgdama
+               nubėgo namo. </p>
+            <p>* * * </p>
+            <p>Šiltame prikvėpintame kambaryje, su išmuštomis puikiai sienomis, stovi apskritas
+               poleruotas stalas viduryj blizgančios aslos, apstatytas į ratą minkštomis
+               linguojančiomis kresėmis; ant vidurio stalo lempa šviesi, kaip saulė, nuleista nuo
+               lubų, kybo ant žibančių retežių; pusė stalo apmesta pluokštais laikraščių; atsisėdęs
+               gale vieną lakštą skaito ponas. Čiupra jo stačia, juoda, spindanti, kaip susmaluota,
+               akys didelės, kaip vabalai: jei į ką pažiurėjo — kaip su jiešmais perdurė. Vyras —
+               jaunas raudonas, suraitytais usais, linksmo veido, gražios stovylos. </p>
+            <p>Ponia teipogi skaitė. Baltai raudona mėlynakė, geltonas karčiuks garbiniuotas,
+               papurentas ant kaktos, eilia żaibuojančių akmenaičių, auksu sumazgyta, spinduliavo po
+               jos kaklu, kreizuoti, išpustyti rubai verżė liemenį; mażiulėlis laikrodėlis ant aukso
+               reteżėlio kybojo ant krutinės; ant rankų teip gi użmautos auksinės rinkės. Veidas jos
+               nors storai apdulkintas baltais miltais, vienok nurodė daug vyresne uż poną. </p>
+            <p>Dvi mażos panelytės papuoštos kaip lėlytės bovijosi, ritinėdamos ant stalo auksinius
+               żiedus, jas dabojo nebejauna jau auklė. Mażoji pradėjo każiko verkšlenti; ponia
+               pasiżiurėjusi į laikrodėlį tarė auklei: </p>
+            <p>— Laikas panytėms jau gulti, veskis į miegamajį kambarį, użdegk żaliają lampą,
+               pašaukk Zosę — tegul pataiso joms patalynę.</p>
+            <p>— Kasżin kaip tą Zosę reik prisišaukti: ašarojo, šniurkščiojo visą popietį, o vakare
+               każikur prapuolė, tur but użmigo kur įlindusi; bepigu jai, o man nė valandėlės
+               pailsio nėra, turiu buti, kaip prie saito pririšta.</p>
+            <p>Nuėjo auklė, bambėdama, vienu vaiku nešina, antru vedina. Ponia, surinkusi żiedus,
+               susimaustė ant rankų ir atsisėdusi šnekėjo: </p>
+            <p>— Vienos nelaimės su tomis mergomis! Kaip ir ta Zosė: ligi šiol berots negalima buvo
+               atsigėrėti jos darbštumu, o dabar suvis pasileido: liepk ką dirbti — żiurėk kitką
+               bedirbanti; šaukk paduoti ką — żiurėk kitką beduodanti; susimaišiusi, kaip pusklaikė,
+               tarsi, įsimylėjusi, tur but kas nors apsuko jai galvą arba suvisu apgavo. Prakeikta
+               tų vyrų mada! — vedęs ar ne — prie jaunų mergų kimba, kaip smala prie tekinio: ir
+               patys jas išpaikina.</p>
+            <p>Tai sakydama, tėmyjosi, kokį įspudį padarys jos kalba ant pono. Tas beskaitydamas jau
+               pradėjo švypsoti, metęs popierą, galva kinknodamas ir į pačią żiurėdamas, juokėsi: </p>
+            <p>— Ciapa, tu ciapa! — sako į ponę</p>
+            <p>— iš pirmo tavo żodżio supratau, ką tu nori sakyti. Lygini mane prie tokios šiukšlės!
+               Ant to steigdamas, ar gi ąš nerasčiau kiek tiek vertesnės; bet aš netoks żmogus, —
+               man to nereik! Šimtai mergų nors grażiausių te voliojas man po kojų, nė viena
+               neprikibs, nė iš kelio manęs neišves. Ar nevalia ant juoko pagirti katrą grażią?! Bet
+               ištiesų, kad pradėtų katra lįsti, maučiau į żandą, net apsilaiżytų!</p>
+            <p>Juokdamiesi abudu pouai bučiavos. Patraukė skambalą — ant to balso tarnas, augštas
+               padoras vaikinas, įbėgęs paklausė: </p>
+            <p>— Ką ponia liepsi?</p>
+            <p>— Zosę šaukiau, ne tave — tarė ponia.</p>
+            <p>— Nėra jos: auklė šaukė, niekur neprisišaukė, tur but nulėkė pas Topylį — juokdamasis
+               użbaigė tarnas.</p>
+            <p>Ponas į tarną akis įdurė. Ponia dyvydamos paklausė: — Ką? Zosė pas Topylį laksto? Ką
+               tu čia plepi. </p>
+            <p>— Teisybė, ponia! įsimylėjo merga, prisikabino be malonės prie to vaikio, rėkdama,
+               kaukdama paskui jį laksto; tas nė atsikratyti negal.</p>
+            <p>Ponia, kraipydama galvą, užsidegė žvakę ir išėjo. </p>
+            <p>— Gali eiti gulti — pasakė ponas tarnui, ir pats išėjo.</p>
+            <p>Ponas, eidamas karidoriu, subarškino į vienas duris: „Esu” atsiliepė viduje. </p>
+            <p>— Įnešk man šalto vandens.</p>
+            <p>Paliepęs ponas įėjo į kitą kambarį; įkandin paskui jį įnešė Zosė vandens stiklą;
+               pastačiusi ant stalelio, spėriai grįžo atgal. Nutvėrė ponas į glėbį bėgančią Zosę,
+               greitai tylomis kalbėjo. </p>
+            <p>— O, tu melagėle! sakei „nemylėjau ir nemylėsiu nė vieno”; Topylį mat gali mylėti, o
+               manę ne! bent pabučiuok!</p>
+            <p>Zosė sukdamos kaip stums poną į krutinę nuo savęs, net pasišliejo. </p>
+            <p>— Salin!—sušuko — ne man lygus esi ir ne kibinėkis! Ne sykį sakiau! O kad tu
+               neliausi, tuoj pasakai! po niai!</p>
+            <p>— Cit, tu ożka! Tylėk! — draudė ponas Zosę išlekiant pro duris. Patsai użsidegęs
+               żvakę nuėjo apżiurėti savo vaikų. Każiką patyliais pašnibżdėjo auklei, ta nieko
+               neatsakydama, palinkčiojo tik galva: „gerai, gerai!”</p>
+            <p>Ponia sėdėdama prieš didżiausią zerkolą, vyniojo plaukus ant popierėlių. Zosė taisė
+               patalą. Ponia pirmoji prašneko: </p>
+            <p>— Niekados nesitikėjau, kad tu bumei tokia paleistuvė, kaip dabar persitikrinau. Ar
+               gi tau negėda lakstyti pačiai pas vyrus? laimė dar kad ponas neużsiimąs su mergomis;
+               o kad tik bent ant juoko pakibintų, paskui nebeatsikratytų. Begėdės! Paleistuvės! Dar
+               sykį išeik tu vakare — tuojaus išvarysiu nuo savęs, arba apskųsiu tavo motinai,
+               išgirsi tu, ko negirdėjusi, kaip išpers gerai tau kailį, tuomet nė vaikiai
+               nebeużstos. Ji prašė manęs valdyti tave; o kad tu neklausai, tesiżino, pati tevaldo!
+               Ką tu mislyji jieškoti sau nelaimės? Vaikis tave greitai apjuoks, labiau toks, kaip
+               Topylis: akyls, buvuol’s, padorus — ne tau lygus, nė jisai tave paims. O kur tu
+               paskui dingsi, kas tave priglaus? Katrą tu pakaltįsi, tas paniekįs tave ir ką tu jam
+               padarysi?! Kiekvienas tave pačią pakaltįs, niekur globos negausi, niekas
+               nepasigailės, nės po teisybės, mergos visada yra kaltesnės, ne kaip vyrai....</p>
+            <p>Ponia šnekėjo ir šnekėjo vis tą patį, nors Zosės senei nebebuvo. </p>
+            <p>Ta, apėjusi savo darbus, użsidariusi kambarėlyje, krito kryżium prieš Dievo muką, ir
+               gailiai verkdama šaukė: </p>
+            <p>— Dieve mielaširdingiausis! priimk į juodą żemelę, suvalyk, użdengk mane nuo svieto
+               akių, gelbėk nuo lieżiuvių piktumo, šią pat naktelę atimk mano gyvastį!... </p>
+            <p>* * * </p>
+            <p>Stonėje, veżikų kambaryj, susirinkę dvariškiai kortas lošė — iš piningų, iš butelio,
+               tų nebetekus iš brieżiukų; pakyrėjus, metę kortas, juokavo. </p>
+            <p>Użteks, pakako jau kortos! — sakė medinčius, bepigu butu negrįżti su mokančiais, o
+               jus nė vienas nemokate. Ot, kaip aš buvau prie kniazio Bybikovo, budavo susimesime
+               ant kortų, użsikaisime samavorą — cukriaus, romo ligi soties — uliavosme, duosime
+               garą per kiaurą naktį; įeis ir mergos — siuvėjos, pakajavosios įsipuošiusios — tai
+               moja pačtenija! Kad prie manęs kibo! kaip muselės prie medaus: viena „panie Teopyl!”
+               kita „panie Teopyl!”</p>
+            <p>Vienas vaikinas pusbalsiai pamietavo: — viena „pantofel!” kita „pantofel!” </p>
+            <p>— Ar tu, durniau, mislyji, išrodżiau kaip tu ahlauche? — Dabar tai apsileidau, o
+               tuomet išsipamadavęs, gelumbiuotas, kaliošuots, čiels ponaitis, mocpanie!</p>
+            <p>— Je, je — sako tas pats vaikinas — ponaitis — „kalės šuds”, ponaitis „kalės
+               šuds”!</p>
+            <p>— Maučy, rapuka, sukin sin! — sušuko medinčius ir vėl lengviau tęsė toliau. — Ne tik
+               slużankos, bet ir pačios ponios seilę rijo. Kaip buvau prie grapo Suvoro— pats senis
+               buvo, o pati jo jauna — kanečnai buvo użsistačiusi išsiveżti mane uż gronyčės, sakė:
+               „durniau, nebijok, apščėslyvysiu aš tave”. Nusamdė mane potam baronas fon de Fleri,
+               išvażiavom į Niżnagorod, iš ten į Paryżių; viena kupčienė, našlė buvo użsimaniusi
+               tekėti — bagota, milijonierka! — kad ne butų buvusi ruskė, pevnai bučiau apsiżenyjęs;
+               kiek aš esu jos tabako surukęs! paimsiu iš kromo, norėsiu użmokėti, „nienado,
+               nienado! ” šaukė iš tolo. Żinoma reikia turėti poznane, reik atvitoti: ir aš
+               vzajemnie tankei ją pačestavojau; buvo piningų, buvo iško gerti! Aut baliaus prie
+               grapo Naikino—jisai iš davė savo miškuose cesarską palevonę; ciesorius sėdėjo sau
+               miške aut krėslo, o cesarska svyta ir senatoriai varinėjo ant jo żvėris; kaip tik
+               żvėris koks kyšr! tuojau tam tyčia pastatytas lekojus šmakšt ir pakiš ciesoriui
+               gatavai użprovytą strielbą; ciesorius — paukšt! ir nušaus użvarytą żvėrį: ką tik
+               neperšovė Vilniaus gubernatorių: jisai użvarė ant ciesoriaus lapę ir pats atsitupęs
+               żiuri; kaip šaus tik ciesorius — paukšt! lapei uodega nulėkė, o šruotai visi į
+               gubernatorių; turėjo potam darbo daktarai kol išlupinėjo. Mus šešis lekojus suskyrė
+               slużyti į stalą, pasirėdėm po formos juodais prakais, baltoms kelnėms, ligi kelių
+               pančiakos raudonos, użraišiotos mėlynomis štonżkomis su kukardomis żemiau kelių,
+               čeverykai geltoni paryżski, stosovany kapeliušas po pażastim dėl formos — kaip lėlės
+               vaikinai visi, o aš uż visus čiuinesnis! Ministras vnutrennich diel perveizėjo mus,
+               iškratė teip sragiai, juog netik peilio, bet nė adatos nevalna prie savęs turėti; ant
+               prisiegos mus varė prie seno barzdylos popo. Tuomet uż tris dienas slużmos gavome
+               zaplatą nuo ciesoriaus po penkis rublius, o ką padarysi?! — vis użdarbis! ir tų pats
+               ciesorius neturėjo, nuo gubernatoriaus pasiżičyjo. Aš begalo įtikau. Ciecorius,
+               tapnodamas man į petį, sakė:</p>
+            <p>— Ty vierno żmudiak?</p>
+            <p>— Da, żmudiak, tolko dvorianin — atsakiau.</p>
+            <p>— Vyżų vyżų, čto tinkrasyvi. A bil ti v Krożach?</p>
+            <p>— Da točno tak, bil. Na, kaip aš pradėjau pasakoti ciesoriui, kaip ten buvo, kas ten
+               dėjosi! Ciesorius tik pečius trauko, da trauko žiurėdamas į gubernatorių kauniškį.
+               Tas, nuraudęs kaip burokas, merk da merk man, kad nebepasakočiau čielos teisybės
+               ....</p>
+            <p>Kitą syk su tokioms vožnioms asaboms perstavojau, o dabar įlindau čia prie jusų, kaip
+               į kokią urvą, nė piningų nebeliko ir pats čyst apnokau — nebepažintu nė miesčionkos! </p>
+            <p>— Dabar ir vienos Zosės užtenka — tarė senis vežikas jau snausdamas.</p>
+            <p>— Kaip yra sakoma: šuo iš bado ėda ir vabalus; teip ir man Zosė — kad vertesnės nėra,
+               turi ir tokios užtekti, iki pakyrės, potam spirk į šalį ir — vabank! Kiek jau tokių
+               esu perleidęs, ne Zosės bestovinčių, bet pašėlusią ir turiu ščėstį ant mergų: tik aš
+               pamisliju ant kokios, galiu iš kalno sakyti, juog jau mano.</p>
+            <p>— Sčėstį, šcėstį! — atkartojo veżikas — tamstai berots ščėstis, o tai mergelei amżina
+               nelaimė.</p>
+            <p>— Ko norėjo, to ir dastojo — atsakė Topylis.</p>
+            <p>— Bene ji per gvoltą ir prisimetė į meilę, tik ir tamsta pats turėjai maż daug
+               šnekint.</p>
+            <p>— Na, ant to tai štuka mano lieżuvio! Delikatniai mandriai kaip imsiu komplementus
+               šnekėti malonėtis — netokias mandras subalamutyjau nesuskaitomai sykių; o Zosė kas
+               tai man znočyja: vieno piršto pamojimu prikibo kaip smala prie tekinio.</p>
+            <p>— Uż tai tokį nekaltą kudikį ir negali spardyti į šalį, jei su savo mandru lieżuviu,
+               kaip giries, pritraukei jos širdį; nereikėjo apgaulioti, nės tamsta vyriška galva ir
+               ne jos metuose beesi; neštuka suėsti jauną vaiką ant viso jos amżiaus, reikia ir į
+               savo sążinę pażvelgti.</p>
+            <p>Ka, ka, ka! — susijuokė Topylis — dar sumnenė dėl mergos! man kepurė da kepurė, o ji
+               te kirkinės, kaip katė kur użpečkyje. Ar aš nemačiau? ir Zosė budavo ateis į pliušką,
+               tai su tais palkusais šoks, dainuos, dračysės; — zlastis mane ėmė; pastanavyjau —
+               mano Zosė! beveizint nustumiau visus paršelius. Vot, dabar štuka: ani tibe, ani mine
+               ... — kvakėjo użsivertęs — żinos nabagė juog aš ne jai lygus! </p>
+            <p>Vaikinas, kurs pirma pamietojos iš Topylio pagyrų, dabar nusispjovė į delną, kepurę
+               pasmaukė ant pakaušio; išraudonavęs, kaip gaidys, net akys jam żaiżaravo! Atsistojęs
+               priešais Topylį, sugniaużęs kumščias — żiopt, żiopt! — nė żodżio neištarė, rodos
+               lieżuvis jo sustingo. Visi pradėjo juoktis, tas pro duris! Išlekęs pro duris sukeikė,
+               sumurmėjo; ėmė arklius šerti, o sau ašaras braukė ir braukė rankove. </p>
+            <p>Trioboje pasiliko vienudu Topylis su vežiku. Tas vėl pradėjo: </p>
+            <p>— Ar żinai, p. Topyli, juog nelabai ir gali lygintis prie Zosės; tik anai dabar bėda,
+               kol parglabos motiną, o dėl kitoko nė kokio strioko: vyras jai atsitiks, nors ir ne
+               tuojau, nes da jauna. Tur tėvo palikimą keletą šimtų, jauna, grażi, prie to sinti
+               grażiai moka. Išmintingas vyras jos nekaltįs, nebrakįs, jei tik bus piningai. Dabar
+               tiktai nėra kam użsiimti: čia į tamstos garbanas galėtų įsivelėti uż apgavimą.</p>
+            <p>— Na, naujiena! Merga man padarys ką! Kiek yra atsitikimų, juog merga su vaiku
+               atsistoja vyrui prie šliubo, kitą beimant, o ką gauna? klebonas użdaro pirmają į
+               kiaulininką iki su kita suvinčiavoja. Merga ir pavuosto špygą.</p>
+            <p>Su klebonu kita — sako veżikas — o kad teip kas motinai patartų, įkištų advokatui
+               kokią šimtinę, teip grażei įsivelėtų ponaičiui į kailinius!... Čia bepigu gera prova:
+               merga metų gal septyniolikos, o preikšas gal daugiau kaip antrą tiek tur amżiaus;
+               kaip aviną sudas nukirptų. Dėl manęs żinokis, o ištikro ant żenybų, żiurėk, motina
+               dar nenorėtų uż tamstos leisti; ji tikisi išleisti kur į namus uż gaspadoriaus. </p>
+            <p>Topylis, padumojęs valandėlę, paklausė: </p>
+            <p>— O kur tuos piningus motina laiko? Turbut ant procentų ar banke.</p>
+            <p>— Kur tau ji duos ant procentų! tokia kytra boba; turbut prie savęs laiko, slepiasi,
+               niekam nesigiria turinti; pagalios nė Zosė neżino, tik mano pati, kaip jos giminaitė;
+               jai parodżiusi ar penkis šimtus, sakanti: „Zoselei tėvas paliko; kaip nutekės
+               atiduosiu”.</p>
+            <p>Topylis tylėjo, veżikas, użsikuręs pypkę, vėl šnekėjo: </p>
+            <p>— Aš nesuprantu šios gadynės vaikinų meilės: nieko daugiau netyko, kaip tik prilįsti,
+               kad tik apgauti! kokia ten nebutų merga, be jokio skyriaus: ir tuomi giriasi dar,
+               didżiuojasi. Tfu! kas ta do meilė po velnių! Kitą sykį kol aš išsiskyriau pačią
+               budavo patiks kokia merga, żiurėsiu iš tolo ir šiaip, ir teip, kamantinėsiu, bet jai
+               to nerodysiu, juog juog ji man patinka; truputį pasergėsiu ant jos kokią kliaudę —
+               idi sebe k čiortu! bet be jokios nuskriaudos ir be priekabės. O pażinęs šit savają,
+               kaip įsimylėjau, tai nė šimts velnių nebutų manę nuo jos atitraukęs, — gatavas į
+               vandenį ar į ugnį šokti, kad tik jos širdį pasiekti! O pirma mylėti, vylioti mergą,
+               pakyrėjus paspirti nuo savęs, amżinas galgonas teip tegali daryti!</p>
+            <p>Topylis pasukinėjęs usus, pakrankščiojęs tarė: </p>
+            <p>— Pons Katauski! Esi svietavas żmogus, ir nevieno pečiaus duonelę valgęs, turi tiek
+               razumo ir išmanai, juog aš esu stone ir galiu į vertesnę kibti kaip į Zosę, ale aš
+               netoks żmogus: nors mizerna mergelė, bet aš nepamesiu jos, kaip yra sakoma „reik
+               vieną kartą apakti”; apsiżenijus vienas smertis terupės. Tuotarpu laba naktis! Kitą
+               sykį pašnekėsime apširniau, sykį pradėjai, turėsi ir baigti. </p>
+            <p>Veżikas įėjęs gulti juokdamasis pasakojo pačiai savo šnekalą su Topylių. </p>
+            <p>* * * </p>
+            <p>Sena, maża, sulinkusi triobelė prastai išrodo iš lauko, bet vidui labai švaru: asla
+               iššluota, smiltimis išbarstyta, langeliai, stalelis nušveisti, lova baltai pataisyta.
+               Moteriškė nebejauna, balta skepetėle galvą apskritai susirišusi, po langu każiką
+               knibinėja — turbut tos triobelės gaspadinė. Kita daug jaunesnė, švelniai apsidariusi,
+               įšoko pro duris. </p>
+            <p>— Tegul bus pagarbintas Jėzus Kristus! Dėdienėle, ką beveiki?</p>
+            <p>— Ant amżių amżinųjų! Viešnia — nebuvėlė — turbut dvaro šunys išsikovė, kad tu pas
+               mane atėjai; kątik ketinau eiti pas jus paveizėti, bene išdvėsote: nė Zosė niekuomet
+               neatitabaluoja. Kas begirdėti po dvarą? Sėskis!</p>
+            <p>— O kas ten bus girdėti, dėdienėle?! et, tiktai — makalai, tabalai — maišomės, kaip
+               po šiupinį.</p>
+            <p>— Ir aš kartu—tarė senukė sėsdama</p>
+            <p>— sapnuoju kas naktį: żunu, vargstu, po purvyną braidau, vis po dvarą. Bausius,
+               bausius eiti pas Zosę: rodos nedrąsu landyti; lauksiu kiekvieną dieną ji bene
+               atitrauks, valiukė! Ir nepasiilgsta manęs?!</p>
+            <p>— Dėdienėle, żinoma, tarnysta: kur pamislyjęs neišlėksi. — Boba košė żodżius per
+               dantis, żiūrėdama dėdienei į akis. — Każikas ir Zosė... paliko teip nesmagi... be
+               jokio linksmumo... niekur nebelaksto... ir pas mus retai teatbėga.</p>
+            <p>— Tur but ponia prituri? — paklausė senoji..</p>
+            <p>— Kasżin, dėdienėle, ar ten ponia įkremta, ar darbo nevalioja... tokia išbalusi...
+               tankiai matyti użsiverkusi... gal serga... arba valgis netinka... neżinau, ko?... lyg
+               Zosė atsimainė dideliai.</p>
+            <p>— Ko čia teip įzgi — smarkiai paklausė senoji — bene pajuokė biesas jau Zosę? Na, jei
+               tą velnias pasuko ir blogai pasidarė — sako kumščia mušdama į stalą — tai vaikas
+               išmanytų Jezaus malonę!</p>
+            <p>— Dėdienėle, juk tamstai vaikas tai vaikas: kad ir teip butų, dėlto nieko
+               nepadarytumei, reikėtų dovanoti.</p>
+            <p>— Nepadaryčiau?! Ką tu čia plepi? — sušuko, išraudonavusi, kaip kalakutė, bobe
+               dovanoti!... mat plepalas — nepadaryčiau!—kad duočiau! tai duočiau tai bezlepyčiai
+               dvasės pasiklausydama; tave ir tavo vyrą ir tą jos preikšą priperčiau — galva negalva
+               ponams akis išbadyčiau! — šaukė boba; lakstydama po aslą vieną grobė kitą metė ir vėl
+               grobė: tai skepetą ar puodelį tai kedę pastumė ir vėl patraukė; šėlo, keikė Zosę su
+               velniais. Jaunesnioji juokėsi tyloms żiurėdama įtokį įniršimą, paskui pratarė:</p>
+            <p>— O ką padarytumei, dėdienėle?! Pertum, pertum visus nuo krašto, ant galo apilsusi ir
+               dovanotumei.</p>
+            <p>— Kad tu nesulauktumei!... Bet palukėk tu padla! — grażojo pripuolusi arti — ir tu
+               augini vaikus, neżinai kaip ir tavomsioms gal nušlypti!</p>
+            <p>— Žinoma, dėdienėle, kad auginu ir myliu, o neżinau, kokiais bus; tik tą żinau
+               aiškiai, kol tik gyva busiu, didżiausioje vaiko nelaimėj arba nusidėjime niekados
+               neišsiżadėsiu, bet visada kaip įmanydama gelbėsiu ir priglausiu.</p>
+            <p>— Kad duodi patuoką paleistuvėms, tur but ir pati tokia pat buvai, o aš ne! żiurėk,
+               mes buvome penkios seserys, kitos nebejaunos nutekėjom, o ar pasileidom bent viena?
+               musų giminėje nebuvo mergos su vaiku ir nebus! Išsiżadu Zosės, jei teip pasidarė! Nei
+               savo akimis nenoriu jos matyti! Tesprogsta šiandien pat kartu su savo benkartu! Aš ją
+               prakeiksiu, użmušiu!...</p>
+            <p>— Liaukis, dėdienėle! nekeik bereikalo, jug nieko dar nematai, nė jokios
+               paleistuvystės. — Topylis, musų medinčius, įsimylėjo į Zosę, įsityżo żenytis, manojo
+               prašė piršti, dėlto duktė liko rupesninga ir nubudusi, o blogo nieko nematyti tarp
+               anuodviejų; żinoma, kiekviena tekėdama rupinasi.</p>
+            <p>— Użtat teip ir šnekėk — tarė truputį atlyżusi senoji!</p>
+            <p>— Tik, dėdienėle! Nelabai mums patinka tas jos kavalierius, nesumanome piršti ar
+               griauti, bijau kad neprapultų mergelė ant viso amżiaus; bene butų verčiau vienai
+               vargti norint ir su vaiku — saugok Dieve — liktų?</p>
+            <p>— Šitaigis tau ir čia kalba! „nepatinka”, „kad neprapultų”; lyg kada nutekėjusi merga
+               prapuola; vyras truputį vertesnis uż velnią, jei tik ne luošas ir pamaitina pačią.
+               Negriausiu, netrauksiu, nevilkis; kad tik ima Zosę, taisysiu ir duosiu, ką tik
+               išmanydama, savo żenteliui; ir tavasis te perša. Ar tuomet bus laikas, kaip striokas
+               użeis?! Tuomet nemislyk nieko neiškaulytų nuo manęs, atsiżadėčiau Zosės ant
+               amżių!</p>
+            <p>* * * </p>
+            <p>Rudens diena nors saulėta ir šviesi, bet vėjas šiaurės labai żvarbus ir moteriškujų,
+               paprudėje skalbenčių, nosys pamėlynavo, kaip slyvos; bet jos neżiurėdamos šalčio, nė
+               šiaurės vėjo, smagiai klegendamos darbavosi, o kaip praplyšo dainuoti, tai laukai
+               skleidėsi. Zosė vedė, kitos pritarė, juo našiau daina kilo, tuo spėriau apie
+               plovinius šarpavo. Zosė net tekina laksto, kiekvienai bobai padeda, perveizi; pagrobs
+               kulimą, nulekia, išdżiausto ir vėl pagrįżusi dainuodama šarpuoja.</p>
+            <p>— Żiurėk, Zosilaite, baltus plovinius atiduoti pastarajį kartelį — sako veżikienė —
+               man rodos paminės ir ponia tavo dalbą: begu pataikys kita teip ištaisyti, kasżin
+               kokią pakajavają parveża šį vakarą!</p>
+            <p>— Zoselė teisiai tarnavo keletą metų, uż tai jai ponia doras vestuves pakels.</p>
+            <p>— Kur čia ne! — pridėjo kita — gaspadinė antai treikė, kad reik tiektis alų daryti,
+               pyragus kepti; kaip mat nepaslenka! rodos ponų naudos gailisi. Ko tau tingėti, jei
+               tik ponai neskundżia.</p>
+            <p>— Geri mano poneliai, geri! — gylė Zosė — netik vestuves man kelia, bet dar kaip
+               apdovanojo! duok Dieve jiems atpelną! Naujintelaitę siuvamają mašiną man nupirko, kur
+               kelias dešimtis kaštuoja. Kame kitus ponus tokius rasi?</p>
+            <p>— Ar jus żinot, mergelės — sako apysenė boba — Zosės dėta aš nė skersa neżiurėčiau į
+               tą Topylį. Į ką tu ir įsispitrėjai, mergele! kad bent butų doras żmogus! Dabar tik su
+               lieżuviu temoka gyventi: tai vieną, tai kitą įsikandęs, prilos, priskųs ponui; paėda
+               širdį visiems!</p>
+            <p>— Visada doroji merga tur patekti blogam vaikinui. Bene tas Topylis bus doru vyru?!
+               prapuls jauna mergina, įkris kaip muselė į išrugas!</p>
+            <p>Snekučiavo bobos savytarpėj pusbalsiai, paskui balsu każikatra Zosės paklausė: </p>
+            <p>— O kur tave išves tas Topylis po vestuvių?</p>
+            <p>— Niekur! busime čia pat liki Topylio metų galo; ponai mane laiko, duonos man
+               neskundżia.</p>
+            <p>— Zose, Zose! — šaukė każikas użpakalyj.</p>
+            <p>Visos bobos atsisuko. Be ateinąs Topylis, każiką baltą gumuliuką nusitvėręs. </p>
+            <p>— Ką teip įsitarškėjai?—sako Zose — turbut ausys kruta, ar użkimštos, kad negirdi
+               mano šaukimą. Dėlko mano brudnios beliznos nesurinkai išplauti ?</p>
+            <p>— Rinkau, jieškojau, neberadau daugiau.</p>
+            <p>— O manęs pasiklausti negalėjai? Tikra pliozė — nesakyk į tokią — per tave gavau
+               patsai nešti teip toli. Išplauk ir tuos — še!</p>
+            <p>Kaip metė Zosei atneštajį pundą ir apskleidė visą jos galvą; išsiskleidę marškiniai,
+               pasirodė bjauriai priteršti. Bobos — żvylgt, żvylgt viena į kitą! Zosė numetė nuo
+               galvos. </p>
+            <p>— O tu šalaputriau! — sušuko veżikienė — dżiaugkis, kad tavo Zosė nepikta. Kad teip
+               man, įduotumei kauzurus uż tokį darbą!</p>
+            <p>— Prabočyk, ponytėle! — kloniojosi Topylis, pakylėjęs kepurę — norėjau per kojas,
+               tropijau per galvą — juokdamasis nuėjo atgal. —</p>
+            <p>* * * </p>
+            <p>Sena matušėlė šį vakar ir langelius mażne praveizėjo: kur bus buvus, šoks prie lango,
+               apsiżvalgys po triobelę, šė pelę pravers, pasiżiurės, nuo puodelio museles nubaidys
+               ir vėl żiur pro langą. — „Turbut kojas ir użkilnojo — bambėjo sau — čyst jau pavakarė
+               o dar nėra!” Skrynios viršų pakėlusi, pavartė, panaršė skaras; użvėrusi vėl prie
+               lango. Ant galo kalelė sulojo ir pasigerino; įbėgo Zosė pailsusi, pabučiavo motinai į
+               ranką. </p>
+            <p>— Kur anuodu pasiliko? — klausia motina — ko teip vėluojatės? negali nė sulaukti.</p>
+            <p>— Tuojau ateina, truputį pasiliko.</p>
+            <p>Zosė puolė ant kelių prieš motiną, pagrobusi rankas jos bučiavo, verkdama meldė: </p>
+            <p>— Matušėle, balandėle! Pasigailėk manęs, pasigailėk manęs, pasigailėk!</p>
+            <p>Kas tau rados? ko tu nori? ar pabludai? ko verki?! sakyk!... </p>
+            <p>— Matušėle, matušėle! Gelbėk! Nebeleisk manęs uż vyro, priglausk mane vieną; dirbsiu,
+               trusiuos, siusiu, ką tik użpelnysiu, viską tau atiduosiu.</p>
+            <p>— Dėl meilės Dievo! Turbut tu iš proto išėjai!</p>
+            <p>— Neišėjau, matušėle, neišėjau, bet įgijau protą! Atsivėrė man akys, matau, juog
+               prapulsiu aš uż jo: nemyli ir użvarinėja ir dabar jau mane, verčiau nebetekėti, vieną
+               kartą nukentėti, ne ko visą amżį verkti. Visos bobos ir Marcelė tokią duoda man rodą
+               atsitraukti nuo Topylio. Mamaite susimylėk!</p>
+            <p>— O tu padla, bestija! — šaukė motina atšokusi atbula — kokių mat išmislų bereikia,
+               bobų lieżiuvio klausyti! o man użkarti savo benkartą auginti! Ne, to nebus niekados!
+               Tiko jis tau pirma, tur tikti ir dabar. Pasikloniok dar jam, kad tavęs nepametė
+               apteršęs. Šiukštu! kad daugiau to negirdėčiau! O kad imsi ożiuotis, kaip matai pagalį
+               paėmusi išperiu kailį! Arba von man ir iš akių! kad daugiau nebematyčiau tavęs, nė
+               tavo benkarto!</p>
+            <p>Tuotarpu įbarškėjo veżikas su Topyliu, abudu jau įšnabaravę. Pasisveikinę su
+               mamunėle, pašurmuliavę po aslą, pasistatė ant stalo butelį degtinės. Motina padėjo
+               użkandos, susvadino visus vaišinti. </p>
+            <p>— Mamunėle, lenkk iki dugnelio, lenkk! Prašom!</p>
+            <p>— Negaliu, żenteli! Negaliu —teip macni!</p>
+            <p>— Kad negeri, nemyli manęs, mamunėle!</p>
+            <p>— Kur čia nemylėsi tokį puronėlį!</p>
+            <p>— sakė motina, glostydama Topylį — tai mano żentelio grażumėlis, kaip purinis
+               dobilėlis! Kiekviena tavo garbanėlė verta po šimtelį!</p>
+            <p>— Kol aš buvau po miestus — pradėjo rokuoti Topylis įsireiżėjęs — Paryżiuje prie
+               grapo Golubievo, nė iš tolo ...</p>
+            <p>— Ką čia użvedi ilgą kalbą! — pertraukė veżikas — man reikia skubėti namon; šnekėkit
+               kas reikalinga.</p>
+            <p>— Vo kas bus mikalinga kalba: šit parodysiu mamai żiedus šliubinius, kokius nupirkau
+               — pastumė ant stalo żiedus.</p>
+            <p>— Vaje, koki spindą — dżiaugės motina, čiupinėdama.</p>
+            <p>— Użtai brangus — tarė Topylis — jie yra čysto aukso, dente.</p>
+            <p>— Kas tai yra dente? — klausė motina.</p>
+            <p>— Tas żodis lenkiškai išsivirożyja</p>
+            <p>— stors arba lietinis; kiti żiedai ar spilkos yra tuštviduriai, pusti, tai lenkiškai
+               vadinas masyv, toks auksas pigesnis, o mano żiedai brangesni; manęs nieks neapgaus,
+               aš persimanau ant cenos.</p>
+            <p>— Kam tokius brangius pirkai? użtektų ir pigesnių.</p>
+            <p>— Aš żmogus neprasčiokas ir nemużikas; man teip: jei ką perku, nors brangiausiai
+               użmoku, bet tur buti akuratnei, doskonalus daiktas, o prastą pigų można verčiau
+               nepirkti. Kiek aš aukso esu perleidęs per savo rankas! Kaip buvau ant obovionzko prie
+               p. Žulikovo, Kamčatkoj, strošna kiek ten kromų!...</p>
+            <p>— Klysti jau iš tako kalbos, p. Topyli! — pertraukė veżikas — verčiau trumpai,
+               pasikloniojęs matušėlei, sakykis, ko atėjęs; ant galo ir ji pati numano, ko mums
+               truksta prieš vestuves.</p>
+            <p>— Numanyti numanau juog piningai visada yra reikalingi, bet ir pas mane nėra
+               pertektinai.</p>
+            <p>Krapštinėdama galvą motina pravėrė skrynę ir išėmė sulankuotą popierėlę, išvyniojo iš
+               jos pluokštą bumaškų ir padėjo ant stalo prieš Zosę. </p>
+            <p>— Sia! — pako — vaikeli, tavo penkesdešimts, kur tu pati użsipelnei ir pas mane
+               dėjai; atsiimk dabar pati arba vyrui atiduok, kaip nori.</p>
+            <p>Topylis nieko nelaukdamas suglemżė piningus sakydamas: </p>
+            <p>— Zosiunėle mano dukrele, dabar jau aš tavo apekunu; kas tau truks, mano rupesnis, o
+               tu mane tik šėnavosi, klausysi, mano paliepimus pildysi, ar gerai ar blogai padariusi
+               niekuomet prieš mane nemeluosi, busi mylima; aš esu geros širdies, kas man paklusnas,
+               begalo myliu, su pakara paskutinį można nuo manęs ištraukti. Kad teip keltume
+               veseliją mieste, pamatytumei ko nebutu: visokių trunkų, ciastų, pulkava muzika,
+               użpirkčiau drożkas svečiams vażioti. Aš jau teks żmogus, kad jau ką provyti, tai
+               šauniai, vistauniai; użtai kur mieste pasisukau, visur mane magnatu vadina. Kitą sykį
+               nuvażiavom į Černogorską, begaliniai didelis, miestas....</p>
+            <p>— Matušėle! — pertraukė veżikas — atidavei piningus Zosės locnuosius, o gi nuo savęs
+               ar nė maż nepridėsi ant pirmos pramatnos?</p>
+            <p>— Vaikučiai! kokio čia norėt pridėjimo? jug ką tik turiu, kokius truputėlius,
+               visitėli jums pateks: tą vieną vaiką teturiu, ji maue iškaršįs ir naudelę visą
+               sugerbs. Żentelis, matau juog geriausias esi żmogus, mylėsi pačią ir manęs nespardysi
+               senatvėj, teipogi ir mes tamistą mylėsime begalo.</p>
+            <p>Topylis użmaukęs jau gerai degtinės, sugraudintas motinos pagyrimu įpuolė į tokį
+               širdingumą, bučiavo rankas, kojas motinos nuoširdżiai beveik su ašaromis kalbėdamas: </p>
+            <p>— Mamuniečko brangiausia! Saugok Jėzau, neišgirsi nėkuomet grubijoniško żodelio,
+               tamsta nė Zosiukė, Sv. aniole sergėk! Jei turėčiau jums kokią priklastį padaryti,
+               verčiau gyvas į peklą įšokti!...</p>
+            <p>— Gana, gana tu mano balandėli! širdies mano patiekėle! — verkdama matušėlė glostė
+               Topylį, bučiavo — tokį brangų żentelį gavusi bent laimingai amżelį pabaigsiu. </p>
+            <p>Zosė pirma nulindusi, o dabar iš dżiaugsmo net ašarėlę nubraukė, dėkavodama širdyje
+               matušėlei, juog ją subarė ir neleido atsitraukti nuo tokio brangaus vyro. </p>
+            <p>* * * </p>
+            <p>Dabar Zosė jau linksma, pasotinta ant viso amżiaus: pasiekė ant galo, ko teip
+               dideliai troško, meilė Topylio nebepertruks ligi grabo lentos! </p>
+            <p>Po vestuvių persikėlusi į vyro kamarėlę sukosi sau lizdelį ant gyveninio, aptaisė,
+               apvalė kerčias, perveizėjo vyro drabużius, menkus teradusi parsinešė nuo matušėlės
+               porą ritinėlių drobės, siuvo vyrui reikalingiausią apdarą. </p>
+            <p>Iš nieko teip nesidżiaugė kaip iš mašinos: teip gerai ir lengvai ėjo, kaip
+               patepta.</p>
+            <p>Vakare, vyrui iš miško parėjus, globstė jį, bučiavo, šildė, kojas nuavė, padavė
+               šiltai laikytus pietus, šnekino maloniai, rodė savo dienos darbą, sakydama: </p>
+            <p>— Topyle štai pasiuvau tau aštuonerius marškinius, dar ketveri bus; żiurėk ar geros
+               apkaklikės!</p>
+            <p>— Su tokiais marškiniais — tarė Topylis skersoms żiurėdamas — į čystus mużikus reik
+               pavirsti; nebeatmenu kuomet naminiais dėvėjau; kaip pašėlę braiżys nugarą.</p>
+            <p>— Sirdelyti! Dabar jau teks naminiais dėvėti, nės tavo krominiai visi skindeliais
+               nutruko, o tie, nebijok, nebraiżys: tokia plona drobė, dar išmogliuosiu, bus kaip
+               bovelna.</p>
+            <p>— Kas čia do per pasiuvimas! pfu! — spjaudė Topylis, vartydamas marškinius: rankovės
+               kaip tarbos, kvaldai kaip sijonė, apkaklės kaip vėdarai; kad nemokėjai, reikėjo manęs
+               pasiklausti, bučiau pamokinęs po pormos pasiuti, o tu nemoki; navet nė matyte dar
+               nematei bieliznos dorai pasiutos; papratusi mużikiškai pavyżti, ir mane nori tokiais
+               apvilkti; neprilyginsi mane prie savęs, galėsi pati dėvėti. — Teip bambėdamas Topylis
+               użsikuręs papirosą atsigulė.</p>
+            <p>Zosė savo pasigyrimu vyrui atsimušė nuo jo żodżių, kaip nuo kietos sienos; skausmu ir
+               apmaudu jos kakta nuraudo; o mašina spėriai sukosi, barškėjo ligi vėlumo. </p>
+            <p>Vos paspėjo Zosė vyrą apsiuti, dvariškiai beveizint apmetė ją darbais: vaikiukai
+               pirko drobes, perkelius, arba naminius; prašė, meldė pasiuti, nės Zosė labai dailiai
+               įgebėjo. Todėl neapsikopė siuvimu; nebuvo tos dienos, kad nepaimtų uż darbą keletą
+               auksinų. </p>
+            <p>Pribrėkšmiais, atlikę nuo darbo, rinkosi dvariškiai pas Topylienę: vienas atimti
+               darbą, kitsai įduoti, kits pasimieruoti arba użsimokėti. </p>
+            <p>Vyras parėjęs randa Zosę visada nevieną; uż pirmą susiraukė, paskui subambėjo, ant
+               galo vieną vakarą, išsirinkus vaikinams, labai smarkiai sušumijo ant pačios: </p>
+            <p>— Paleistuve tu, begėde! Atmink Zose juog tu mane išvesi iš kantrybės: aš tave su
+               tavo vaikinais visus išpersiu; tik aš netoksai żmogus, nenorėjau šį vakarą tau gėdą
+               padaryti. Susivesk tu juos kitą sykį, atmink, įduosi kailį!</p>
+            <p>Zosė nusigandusi didelėms akimis żiurėjo į vyrą, nesuprasdama prieżasties jo apmaudo,
+               paskui bučiuodama jam į rankas maloniai paklausė: </p>
+            <p>— Topylėli, dušelyte! ko teip apmaudauji? Ką čia blogą pamatai, kad vaikinai atėjo
+               dėl siuvinių; ar uż tai pyksti, kad per nedėlę użdirbau trejetą rublių tau ant
+               tabako?! — Tai sakydama siekė vyrą pabučiuoti.</p>
+            <p>— Salin po velnių! — pastumė vyras Zosę nuo savęs — neprašau aš tavo użdarbio, gavai
+               uż mano galvos duoną ir ėsk! Pamatysiu daugiau besiuvant, mašiną su kirviu sukaposiu
+               ir tau pačiai tiek berasis. Trumpai pasakau: nebevożykis daugiau tiems palkumams
+               siuti, jei nori sveiką kailį dėvėti. </p>
+            <p>Ką padarysi?! Zosė tur išmintingo vyro klausyti; vienam pabaigė darbą kitam ne, bet
+               visiems atidavė siuvinius, pasisakė nulaużiusi adatą, nebegalinti siuti; mašiną į
+               skrynelę użdarė. Be jokio darbo Zosei ilgu, parsinešė nuo matušėlės keletą dešimtelių
+               linų, pasiskolino verptuvą. </p>
+            <p>Parėjęs vyras vakare, rado Zosę beverpenčią; pašokusi nurėdė vyrą, nubučiavo,
+               nuglamonėjo, padavė valgyti, pataisė lovą, pati atsisėdo verpti. Verptuvas truputį
+               barškėjo. </p>
+            <p>— Ot ko nekenčiu baisiai, to praklento verpalo! — tarė Topylis, valgydamas — net
+               ausys mano bijo to plerpinimo. Mesk po biesais tą ożį; bo kad spirsiu, tuo į smulkius
+               trupinius supiškės! Ar ne velnių darbininkė? Verpalą pasiims pasigirti darbštumu,
+               arba man ant zlasties ko nekenčiu dirbti.</p>
+            <p>Zosė tylėdama pastatė verptuvą į kerčią ir juokdamasi paklausė: </p>
+            <p>— O ką dabar dirbsiu?!</p>
+            <p>— Pirštu rurą użkišusi saldų tancių šokk!.. Dar mat erzįs kaip piemenį; aš su tavim
+               kiaulių neganiau, juodnugare! Chamuvka! tokią te turi poznanę, neišmanai savo
+               ščėsties uż mano galvos. Kits mano vietoj tau tokios loskos nebutų padaręs; šunį
+               apsikabinusi butum bekaukianti. — Teip bambėdamas użsimovęs kepurę, każinkur
+               išėjo.</p>
+            <p>Zosė nuliudusi dumojo, dumojo ilgai; laukė vyro ligi vėlumo, bet nebejuto, kokiu
+               laiku jis parėjo gulti. </p>
+            <p>Zosei per kiaurą dieną be jokio darbo begalo prailgo; šian ir ten pasivalkiojo,
+               paskui nuėjusi pas ponią, paprašė ką norint paskaityti. Ponia, żinodama, kad Zosė
+               mėgsta skaityti, prikrovė jai knygų čielą malką. Zosė dżiaugdamos parsinešė visą
+               glėbį.</p>
+            <p>Vakare vyras parėjęs rado Zosę su knyga rankoj. Spėriai pametusi ant stalo knygą
+               šokinėjo, puldinėjo apie savo vyrelį, taisydama ir paduodama, ko tiktai jisai
+               pageidavo, Rodos nebebuvo jam nė kokios prieżasties bartis. Priešingai, šį vakarą
+               teip nusiteikęs, juog papasakojo keletą atsitikimų kitą sykį pritiktų po miestus.
+               Pakyrė jus šnekėti vienai klausytojai, išėjo pas veżikus. </p>
+            <p>Zosė atgal pasiėmė knygą; vyras po valandos sugrįżo gulti. Kaip tik pro duris, tuoj
+               ant pačios paleido gerklę. </p>
+            <p>— Maldauninke velnių! Ar į biesų minyškas įsirašei? per naktis sėdėti įsismerkus į
+               biblijoteką! čia vieta tavo knygai! — Tai sakydamas capt knygą pačiai iš nagų, švilpt
+               po lova — pustodomka! Żiburį deginti dėl tokių glupstvų! Pasiimtumei verčiau darbą!
+               Berazumiai tiktai skaito; iš to pablusta, išdurnėja, o tu ir be tų knygų mażai te
+               turi razumo, da skaitydama ir to paties nustosi. </p>
+            <p>Teip pramanydamas apskritai aut visų skaitytojų, użputęs żiburį, atsigulė. </p>
+            <p>Zosei suspaudė skausmas, kaip su replėmis, širdį, net prakaitas ją apipylė. Ilgai,
+               ilgai klupojo, suglaudusi delnuose veidą prieš paveikslą nukryżiavotojo, karštai
+               melsdama sau kantrybės. </p>
+         </div>
+         <div type="chapter">
+            <head>II. </head>
+            <p>Pavasarėlį grażus ir tykus oras. Saulelė ką tik nusileido, vos vos tik šildo, Šviesa
+               jos teipo gi lengvesnė. Apšvietus įskipai miškus, tarytum pasilenkusi, pro pakočius
+               żiuri į skleidżiančius lapelius, sprogstančius pumpurėlius ir ant żemės klestančias
+               żoleles: Pirmutinės żolės didżiavosi pranokusios kitaa żolelės, apgożė kiminus,
+               paslėpė po savo lapais skujas ir rudenyje nubirusius lapus, dżiaugės savo użugiu
+               pastiebusios ilgus sprandelius, baltuosius veidelius atgrężusios į saulelę, tarytum
+               dėkavojo uż pirmutinį išauklėjimą, garbanojosi, baltavo, żaliavo, klestėjo
+               apsiautusios kiekvieną kelmelį, kiekvieną kuitynėlį; kur tik miške progumėlė, ten
+               burelis, kitur — burelis, o kur didesnis plotelis, tarytum drobulėms priskleista.
+               Trakuose, po krumus ir żolynus, nedrąsios żybuoklės slapstėsi lapeliuose
+               įsikniaususios, żabarėliais użaiskreibusios, kiutodamos żolynėlyje, kvėpėjo.
+               Pakraščiais miško, kaip jaunosios prie vinčiavonės, baltais rubais pasirėdżiusios,
+               klestėjo jievos; greta jaunos eglės, skujų raudoniais apkibusios šakos. Per vidurį
+               miško ištiestas siauras kelelis, tankiai perkirstas skersai įdubusiu sušliaużiotu
+               takeliu, kuriuo priešu priešais kużėjo darbininkės skruzlėlėlės, nieks joms nekliudo
+               valkioti šapelius, nės kelelis jau išdżiuvęs.</p>
+            <p>Per mišką eina du żmoneliai: vyriškis — augštas, suraitytais usais, su viena sermėga,
+               naginėtas, vienoje rankoje ryšelis, antroje susikibęs su moteriške;—ta basa, su
+               kikliku, perkeline skepetėle apsigobusi, o vilnonę skepetą pasisvėrusi ant liuososios
+               rankos. Matyti šarpavo keliauti, nės abudu išraudonavę, apšilę, każiką balsiai
+               šnekučiavo, tankiai juokėsi, pażvelgdami į viena kitą. Kelias nubėgo po kairia,
+               anuodu po dešinia pasisuko taku stačiai ant liepto. Miškas pasibaigė, prasidėjo
+               trakas, skardingi atkrančiai Dubysos. </p>
+            <p>— Čia budavo żydi żibuoklės — tarė vyriškis ir, paleidęs ranką pasisuko į krumus.
+               Moteriškoji, taku į pakalnę pasileido tekina; kaip kurapka rytėjo pakalniui;
+               pabėgėjusi porą varsnų, atsidurė pačiam atskardyje, netoli liepto ant kalvelės
+               atsisėdo, iš kur suvis kitoniška żiura priešais tiesėsi. </p>
+            <p>Skardinga Dubysa, nusimalšinusi jau iš pavasarinių patvynių, nusekusi su visu, vagoj,
+               tik mėlynavo; nors gana srauniai gurgėjo, sukosi į verpetą, putojo, šniokštė, pykdama
+               skubėjo, bet nesiplietė į pievas — vienoje vagoj’ talpinosi. Kalnuoti atkrančiai,
+               apaugę krumais grażiai mainėsi šviesesniu ir tamsesniu żalumu; paupiai dauboje,
+               sausai nusekę, teipogi żaliavo, šmotais net geltonmargiai nuo sużydusių purvażolių;
+               pačiais pavagiais iš abiejų pusių upės, kaip użbrėżta, juodavo apsekę šapai ir
+               šamalai, nurodė rubeżių pavasarinio użtvinimo. Pievose, paupiais kobrinėjo gyvuoliai,
+               graibydami nors retą, ką tik dygstančią żolelę; bureliai żąsų pėrėsi, nardė po
+               vandenį; po ilgo perėjimo dżiaugės išvedusios vaikus į ganyklą; geltoni żąseliai, ką
+               tik apsipukavę, kilsavo ant bangų Dubysos; nestengdami paplaukti prieš vandenį,
+               piepdami kabinos aut krašto. Piemenėliai braidė, taškėsi po upę, šokinėjo per
+               akmenis, arba vamzdijo visokiais balsais, visaip nnrodydami dżiaugsmą iš sulauktos
+               šilumos. Gaujos lakštingalų čiauškėjo, pleškėjo garsiai uż kits kitą, tarytum eidami
+               į lenktynes su piemenėlių vamzdeliais. Kur ne kur po krumus pašmieżavo baltos
+               skepetėlės, kvietkaujančių mergikių. Uż kalnų każikur burelis dainavo...</p>
+            <p>Moteriška, sėdinti atskardyje, atsismaukė skepetėlę, nubraukė sušilusę kaktą, visa
+               krutine atsikvėpė šilto ir kvapaus oro, mėlynomis akimis apvedė tolyn aplinkui ir
+               nustabdė ant liepto; čia użsidumojo każi kokiais minėjimais... Iš użpakalio,
+               įsikibdamas į elksnius, nusileido nuo skardżio vyriškis nusitvėręs keletą żybuoklių,
+               atsisėdęs greta tarė: </p>
+            <p>— Mat, kiek żybuoklių radau!</p>
+            <p>Neatgrężdams jos akis į żybuokles savo pasigyrimu vėl nutvėrė ją uż rankos ir,
+               suspaudęs pirštus delne, paklaus? </p>
+            <p>— Ar neapilsai teip greitai bėgdmaa Magdele?</p>
+            <p>— Ne; kaip čia grażu pasėdėti! Aš niekuomet nepraeinu tos vietos neapsistojusi, jei
+               ne atsisėsti, tai nors apsiżvalgyti turiu visada.</p>
+            <p>Vyriškis rudoms liepsnotomis akimis meta šian ir ten: </p>
+            <p>— Teisybė, čia grażu, pavaizu... o tie paukščiai virte verda!... każikas dar dainuja,
+               ir gerai sutaria... tykums oro! nė lapelis Dekruta... puikus vakaras!... meilu man
+               sėdėti, o labiausiai greta mano mylimosios; pirmą sykį čia sėdim abudu.</p>
+            <p>— Tai vis niekis dabarnykščiai grażumai, bet aš turiu čia senovės meilų širdżiai
+               įspudį!</p>
+            <p>Rudujų ir mėlynujų akių pażvelgimai susidurė. Vyriškis, żiurėdamas į truputį rauplėtą
+               Magdelės veidą, tarė: </p>
+            <p>— Turbut su kokiu vaikinu čia sėdėjai?</p>
+            <p>— Mażne įspėjai, Juozupėli —tarė Magdė, glausdama galvą prie jo peties. — Vieną, patį
+               mylimajį, pirmą sykį čia pamačiau. — Ir vėl rudosios akys įsmigo į mėlynaisias.</p>
+            <p>— Kas jis toks buvo, Magdel? pasakyk, norėčiau żinoti.</p>
+            <p>— Gerai: kaip pasakysiu, ir żinosi. Pernai prieš Velykas, pačių paleidimu,</p>
+            <p>Żeberienė użsimanė kadugių dażiniams; siunčia mane parnešti; niekur nėra, kaip tik
+               šiame miške. Atėjau prie liepto iš anos pusės Dubysos: pakaraščiais dar ledai, o
+               vanduo teip użkilęs, mażne sulyg lieptu, o tas be paramčio; ėmiau rėploms ir
+               peršliaużiau į šią pusę. Prisipjoviau naštą, atsinešiau, niekaip negaliu atgal
+               pareiti; nuėjau antai prie anos brastos ir taisausi bristi; żiuriu į pakalnę:
+               atšvilpauja vaikinas, kirvį pasibraukęs, strykt ant liepto ir eina sau, kaip keliu;
+               pamatė mane ir pradėjo šaukti: „bobutėle, ką čia dirbi? bene żadi bristi?”—„kad per
+               lieptą bijau eiti” sakau eidama arčiau. Żiuriu, nepażįstamas. Kaip pervers mane
+               akimis! net kakta man użkaito. „Eikš, aš tave pervesiu” sako. Susimaišiau, nebeżinau,
+               ką sakyti, kaip daryti, nebedrįstu nė akių pakelti, čiupinėjuosi tik apie naštą.
+               Vaikinas priėjęs użsimetė sau ant kupros mano kadugius, nusitvėrė mane tvirtai uż
+               rankos ir veda per lieptą. Kaip aš paskui jį ėjau, nebeżinau, tik jutau stipriai
+               suspaustą savo ranką jo delne; dar eidamas šneka: „o tai protas? ir kaip tu čia
+               butumei perbridusi?! Jei bent stačiai į aną svietą”. Pametęs mano kadugius
+               prieškalnyje, patsai atgal lieptu grįżo į šią pusę; aš pasilikau, kaip pakluikusi:
+               širdis man tvaskėjo, kakta kaito, akise regėjau įsmeigtas jo rudas akis. Żvilgterėjau
+               atsigrężusi, jau jisai šiame atskardyje; tol veizėjau, kol tik per krumus użmačiau jo
+               kepure. Nuo to akise nebeišdilo jo paveikslas, iš galvos ir iš širdies mano; ligi
+               šiandien tebėra giliai, giliai įsmigęs! </p>
+            <p>— Juozeli, ar atsimeni vilkęs mane per lieptą? — apsikabinusi jo kaklą paklausė.</p>
+            <p>— Kaip priminei, rodos, truputį miniu, juog pareidamas pas Raubą, vieną sykį jauną
+               mergelę pervedżiau. Daug buvo tokių atsitikimų, kol paramtį pataisėm. Kartą Tytavėnų
+               davatką, kitą sykį żydą su kromu pervilkau. O tu man pirmą sykį įstrigai į akį per
+               mėšlaveżį dvaro talkoje; nuo to, teisybė, dieną naktį stoksojo akise Żebelių Magdė; o
+               rudenyj, kaip pagarsino, juog Kumża tave imsęs, tuomet tai nė valgyti, nė użmigti
+               negalėjau, iki nuo tavęs neišgavau żodelio.</p>
+            <p>— Kada tai buvo!.. Aš pirmiau tave pamilau Juozeli! nuo pat pirmutinio pamatymo.
+               Tuomet, kaip susitikome čia ant liepto, parėjusi namo niekaip negalėjau użmiršti to
+               vaikino. Kas żino iš kur jis buvo?!.. Kas jis toksai?... Kur nuėjo?... ar aš
+               susitiksiu kuomet su juomi?... ir teip toliau tokie mąstymai neišėjo man dieną naktį
+               iš galvos. Uż kelių dienų brakšt! ir beįeinąs tas pats pas mano gaspadorių paskolinti
+               pjuklo. Sumišo mano verpals, ratelis pašėlo, siulas nutruko, šniuras nukrito, tekinys
+               ėmė priešingai suktis; čiupinėjuosi, taisausi, o burna kaista, kaip liepsna; vienatį
+               kartelį pażvelgiau, bet jis to nematė. Kaip išėjo, gaspadinė sako:</p>
+            <p>— Padorų vaikiną nusisamdęs Rauba.</p>
+            <p>— Anoks nepadorus— pridėjo Jonike — akys tokios rudos...</p>
+            <p>— Aš tuo tarpu pasilenkiau pakojų pasitaisyti. Paskui, kur tik teko jį pasitikti, ar
+               sušnekti, begalo nedrįsau, neżinau, dėlko; o jo żodelis kiekvienas smigo man į širdį,
+               veidas gulėjo įsismerkęs giliai mano akise.</p>
+            <p>Tai sakydama, Magdelė apkabino Juozapo galvą ir bučiavo akis: </p>
+            <p>— Aš dėl tavęs Magdele, daugiau širdgėlos prityriau, susikrimtau nesykį pamatęs tave
+               bešėlstant su kuomi. Atmenu dvaro talkoje pirmą sykį įsispytrėjau į tave. Jonas
+               nutraukė tau skepetėlę, tu jam numetei kepurę, jis įkibo tave risti, tu jam
+               nepasiduoti; aš iš apmaudo vażiuodamas su valkčiu tyčioms pataikiau stačiai ant tavo
+               kapstyklės, trakšt! ir nulaużiau kotą; tu pašokusi, capt! żiuri — nulaużta, żvilgt į
+               mane, tik latatai į mišką, beveizint ir atsinešanti lazdinį kotą; użsimovei šakę,
+               įkalei kotą ir vėl kapstai! kad bent pusę żodżio man butum pasakiusi: ar tu — velne,
+               ar tu kas, kam nulaużei? ar—użdėk kitą. Aš to tik ir meilyjau, o ana nė vampt; tokia
+               pakramta paėmė...</p>
+            <p>Juokėsi abudu. </p>
+            <p>— Aš numaniau, juog tu tyčiomis mane erzini — tarė Magdė — dėlto nieko ir nesakiau,
+               atmenu aiškiai. Neveikiai dar pradrįsau su tavim šnekėtis.</p>
+            <p>— Kaip ten buvo, teip, kad tik dabar gerai, Magdele!...</p>
+            <p>— Teip man čia gerai — tarė Magdė, priglaudusi galvą prie Juozo krutinės — o saulelė
+               visiškai jau ant laidos. Eikim, sutems?</p>
+            <p>Slenka laikas, lekia diena po dienos, sanvaitė po sanvaitės, metas po meto, kaip
+               raiti joja: nepaspėjo vasara išaušti, żiurėk, atslenk jau ir ruduo, įkandėn, żiema
+               genasi — beveizint ir vėl saulelė augštyn, pavasaris artyn. Linksmybėse ar
+               nuliudimuose, turtuose ar varguose gyvena żmogus — vis tiek laikas neżvalgydamas
+               neapsistodamas lekia ir lekia išmieruotu taku... </p>
+            <p>Daug lytaus išlijo, daug giedros iškaitino, daug sniego iškrito ir vėl sutirpo, daug
+               sykių Dubysa użtvino, putojo ir vėl, nukritusi vagoje, srauniai bėgo, daug sykių jau
+               persimainė nuo propernykščio pavasario, kada grażiame laike, grażioje vietoj, pačiam
+               paupyje susisėdę Magdelė su Juozu meilingai kalbėjosi. </p>
+            <p>Šiandien, nors jau daugiau, kaip dveji metai pralėkė nuo tos dienos, ir laikas
+               kitoniškas, nės jau šv. Jonas, labiau vasarop, vienok pavakarėlis toks pat grażus. </p>
+            <p>Pażįstami mums Magdelė su Juozu, senei jau apsivedę, Sutkai, gyvena trobelėje ant
+               kelių margų savo żemės, Juozapui nuo jo tėvo atiduotos. Tėvas — senelis, ne teip
+               senelis, kaip dusulingas — nebegalėjo sunkiai dirbti. Motina, nors tvirtesnė, viena
+               nevaliojo lauką apdirbti. — Todėl liepė vyresniamjam sunui Juozapui, apsivedus
+               pareiti gyventi. Visi dirbo, kiek katras begalėdamas krutėjo ir visi dailiai
+               maitinosi, vienoje trobelėj’ ir vienoj’ kamarėlėje talpindamiesi. Duonelės, putrelės
+               użteko iš savo żemelės; turėjo karvę pasimilżti, kumelėlę — żemelei išarti, paršelį —
+               pasiskersti; vištelė, gaidelis, katelė, šunelis — štai ir visi gyvuoliai ir visa
+               nauda: mażai te turėjo, mażai te ir reikėjo. Uż tai širdinguose jausmuose buvo gan
+               turtingi. </p>
+            <p>Šį vakarą, kaip sakiau, grażu ir tyku: pievos żaliuoja; rugeliai siubuoja, żiedais
+               apsidraikę, dulka, net migloja; gegużės kukuoja, piemenėliai dainuoja, net garsas į
+               dangų mušasi, kur tik akį użmeti, ar ausį atkreipi, visur širdis dżiaugiasi. O prie
+               musų Sutkų nieks nesidżiaugia grażumu gamtos, bet visi nuliudę, nusiminę, su ašaroms
+               akise grobstos, pagelbos jieško: Magdelė suspausta sopulių, dejuoja troboje;
+               tėvas-senelis lauke użsikvempęs ant tvoros, kosėdamas poteriauja — skubinai barškina
+               rażančių ir ašaras sau braukia, Juozapas, išpuolęs iš trobos, rankas laużydamas
+               šaukia: „Jezus Marija! nebelauksiu nieko, tuojau vażiuoju prie daktaro!” motina
+               išsiginusi paskui verkdama tarė: </p>
+            <p>— Ką tu, vaikeli, padarysi su ta viena kumelėle? — nenorės dakraras nė vażiuoti; o
+               dar prieš naktį.</p>
+            <p>— Dar ir ratukai tebėra mėšluoti reik pirmu nuplauti — pridėjo tėvelis.</p>
+            <p>— O ką aš dabar veiksiu? Duokit rodą, tėtulėliai — verkė Juozapas — bijau Magdelę
+               numarinti.</p>
+            <p>— Pone Jezau, sergėk nuo smerčio! — sušuko tėvas — bėgk į sodżių bene gausi kame
+               arklius.</p>
+            <p>— Niekai — tarė motina — arkliai visų jau ganykloje, naktis użėjo, kada kas bus, o
+               čia reik spėriai; verčiau — bėgk į dvarą, apkabink ponios kojas, ji susimylės, nusiųs
+               arklius daktarai... bėda man, kad aš pati negaliu bėgti, bijau čia prastoti... żinau,
+               kad tuojau išmelsčiau....</p>
+            <p>— Tu, motin, buk prie ligonės, o tu, Juozai, greitesnis bėgk skubinai — liepė tėvas —
+               neišgandink ponios ir pats netruk, pasiimk kepurę — użsikosėjęs šaukė Juozui, nės iš
+               paskubos buvo be kepurės bebėgąs.</p>
+            <p>— Netrukk Juozeli, netrukk! — ragino motina grįżdama į vidų. Bet Juozapas
+               nebegirdėjo, nės jau per pusvarsnį buvo ant dvaro nubėgęs. Motina, żengdama per
+               slenkstį, jau Magdelei kalbėjo: </p>
+            <p>— Juozas išbėgo į dvarą, pasiklonios poniai ir parveż daktarą, pagelbės tave, mano
+               pupele! Sunku kentėti nabagėlei. — klostinėjo, glostinėjo ligonę. Ta, motinai
+               bučiuodama į ranką, tarė:</p>
+            <p>— Ačių mamytei, kad patarei daktarą parveżti, gal dar neprisieis mirti...</p>
+            <p>Viltis spėrio sulaukimo pagelbos paramino Magdelę: nutilo, użmerkė akis ir gludojo
+               kantriai. </p>
+            <p>Tėvas poteriaudamas dumojo: „jeigu negautų arklių dvare, reikėtų nors viena kumele
+               vażiuoti... Juozas nabagas laksto, kaip sudegęs: pirmas sykis — nesumano, ką
+               bedaryti. Kiek kartų man teip budavo! Bet daktaro nė sykio neveżiau, katras
+               augo-użaugo, katras mirė-numirė... o motina ir šiandien sveika tebėra; ir čia man
+               rodos apsieitų be daktaro, tik truputį kantrybės... Biednas vaiks! Nė tėvas, nė
+               motina — netur prie ko šauktis, mes ir vyras — visa giminė; tie tėvai, tie
+               globėjai... bent pamatys juog mylim ir tausojam... nors tiek turės uż savo darbus ir
+               vargus... </p>
+            <p>Teip dumodamas ir pasikosėdamas traukė ratukus prie klano nuplauti ir pasitaisyti dėl
+               visoko. Motina, nuraminusi ligonę, żygiavos apie apyvoką, nės saulelė jau visiškai
+               leidosi. Pamačius tėvą betraukiant ratukus, nubėgusi stumė bardamasi: </p>
+            <p>— Dvasios neatgauni, o teip sunkiai trauki! nematei mane pasišaukti.</p>
+            <p>— Użtenka darbų ir tau, matušėle!</p>
+            <p>— Su darbais pusė bėdos, kad tik Dievas duotų visiems sveikatą... Ot, ar aš nesakiau!
+               — ir bredi į vandenį; tai per naktį paskui krankš, nė akių nesudės — ryto — čielas
+               ligonis.</p>
+            <p>— Kas padarysi, matušėle! musų vaikai — musų vargai.</p>
+            <p>Żara vakarinė temo-temo, niekaip nesutemo. Dangus żvaigżdelėms jau apsipylė. Żemė
+               drėgna rasa apsigrendė, o żara vis dar tebėra; siaurėjo ir tamsėjo iš vakarų, bet
+               tęsės, kaip kokia juosta pakraščiu dangaus per visą šiaurę į rytmečius; ten plietės,
+               kilo, balo ir švietėjo. Rytų pusėje ta pati pavirto jau į aušrinę żarą, kurioje
+               mėnesio pjautuvėlis spinksojo. Saulelė tebemiegojo giliai įsismerkusi baltojoje
+               żaroj’. Vėjalis miegojo, każikur uż miškų tykiai nugulęs. Nejudindamas nė lapelio,
+               miškas teipogi miegojo. Bemiegė grieżlelė nustojo jau čerkšti; į jos vietą pabudo
+               pirmasis vėversėlis: truputį pačiurškęs, pamażi, rodos nedrąsiai, pradėjo savo
+               giesmelę vingiuoti. Pajutęs naminis gaidys pašoko, sparnais suplasnojęs, staiga
+               użgiedojo.... </p>
+            <p>Tuo laiku Sutkų kiemelyje stovėjo puikus porinis veżimėlis. Veżikas — barzdyla su
+               ilgu ploščiumi, baltais guzikais, kepurė baltais kraštais, — sėdėjo ant pasostės to
+               veżimėlio: vadżias rankoje nusitvėręs, galvą nuleidęs, į barzdą įsikniausęs, skaniai
+               snaudė. Pora širvų żirgų pakinkytų uors prunkštė ir su kojoms kasė żemę, bet stovėjo
+               ant vietos, kaip įsmeigti. Tėvelis kertelėje ant kaladėlės susirangęs, kiutodamas
+               girdėjo troboje Magdelės dejavimą, guodżiojimą motinos, verksmą Juozapo, aiškią kalbą
+               daktaro. </p>
+            <p>Saulelė tekėdama spinktelėjo į Sutkų trobos langelį; toje pat valandoje tenai staiga
+               suriko kudikis.... Tėvelis atsiduksėjo lengvai, kaipo butų sunkiausis akmuo nuritėjęs
+               jam nuo širdies, rankas susidėjęs pakėlė į dangų; Juozapas ant pirmutinio balso
+               kudikio visas sudrebėjo, nebeżinojo kas su juomi dedasi: ašaros, kaip lytus, lijo, o
+               kartu širdingai juokėsi; skaudus skausmas staiga virto į didżiausią dżiaugsmą. Motina
+               garbstydama globstė kudikį, glaudė ant rankų ir kartu ašaras sau braukė. Juozapas
+               kartu verkdamas ir juokdamasis puolinėjo nuo motinos prie daktaro ir atgal prie
+               motinos, abiem rankas bučiuodamas; truputį atsikluinėjęs iš pirmutinio įspudżio,
+               krito ant Magdelės kojų; ta juokdamosi rankas prie jo ištiesė. Użmiršę savo vargus ir
+               skausmus, susiglaudę meilingai, verkė dżiaugsmo ašaromis. </p>
+            <p>* * *</p>
+            <p>Saulelė visuomet vienoje pusėje teka, antroje leidżiasi; kas diena vienodai rieda per
+               dangų iš rytmečių į vakarus. Mėnuo teipo-gi vienodai mainosi: sykį vakaruose pasirodo
+               plonutėlis, kas kartas storėdamas użauga į apskritą ritinį; tuomet šviečia per naktį;
+               ir vėl kas karts dyla; sudilęs pasirodo rytmečiuose vėl plonutėliu pjautuvėliu.
+               Šviesus mėnesėlis persimainė jau dešimtimis sykių, o spindanti saulelė leidos ir
+               tekėjo tukstantimis kartų nuo to laiko kada pirmą sykį ant šio balto svieto suvirkęs
+               Sutkų Jonelis pradżiugino tėvus ir senučius. </p>
+            <p>Nors per tą pralėkusį laiką nemaż ašarų iškrito Sutkams, daug rupesčių ir skausmų
+               nesykį širdį nuspaudė, dżiaugsmai ir linksmybės, kaip żaibu kartais spiktelėjo,
+               vienok laikas nieko neprailgo, treji metai rodos, kad viena diena praslinko. Sutkų
+               gyvenime atmainos teipogi visai mażai: Senelis — vienokiai pasikosėdamas poteriauja
+               ir ką galėdamas dirbinėja; motina vienokiai gera ir nuolanki; Magdelė vienokiai
+               švelni ir darbšti; Juozapas vienokiai rupestingai darbuojas apie savą nors mażą ukę.
+               Jonelis vienas tik labai atsimainė: tuomet kudikėlis silpnas, nevaldąs nė kokio
+               sąnarėlio, verkiąs neżinodamas ko, o dabar — kojalėmis savo bėgioja greitai, pasisako
+               ko verkia arba juokiasi, ir su šuniuku ritasi, dėvi ilgus marškinius ir ant galvos
+               jau nulaiko kepurę.</p>
+            <p>Šiandien karšta dienelė, saulelė, kaip deginte degina; o ten toli pakraštyje dangaus
+               guli juodi murai, kuriuose griaustinis, kartais vos tik girdėtinai, bet rusčiai
+               sudunda. Sutkų šeimyna po kiemelį bruzda, kiekvienas prie savo darbo: Juozapas tašo
+               lentas, skubina, darbuojasi niekur nesiżvalgydamas, prakaitas jam net čiurkšlėms eina
+               per burną, o ant pečių marškiniai net grężiami; pasistatęs šeip teip naują triobelę,
+               stengias ir išgrįsti, sako: „bus šilčiau żiemą senučiui kojoms, bus geriau ir
+               Joneliui su Juočkum voliotis”. Senutis ir Jonelis pasišnekėdami renka skiedras ir
+               dėlioja padarżėn šalyje į pastogę. Motina —prieaugėje naujosios triobelės, pavėsyje
+               plazda prie verptuvo ir linų kuodelio; tekinėlis birbdamas sukasi; ji kas valanda
+               pasilekdama żiuri įšpulę ir glosto kuodelį, o siulą paseiliodama traukia ir traukia
+               per pirštus. Magdelė, milštuvėlę nešdama, pareina papieviais iš alksnyno; netoli
+               kiemelio nusišnypštė nosį, Jonelis pajutęs, pasigrobė kvortelę, bėga priešais
+               šokinėdamas.</p>
+            <p>— Mamyte, pienelio, pienelio!... Magdelė, użkėlusi vartus, pametė tuščią milštuvėlę
+               ir drebančiu balsu tarė:</p>
+            <p>— Šėmukę nebegyvą radau... pripampusi, kaip statinė, kuo ne sprogsta...</p>
+            <p>Jos żodżiai kaip żaibas użgavo visus: Juozapui kirvis iš rankų iš krito, motinai
+               siulas nutruko, tėvui skiedros pabiro; visi su nusistebėjimu ir išgąsčiu żiurėjo į
+               Magdelę. Ta, vos ištarusi tuos żodżius apsipylė karštoms ašaromis; Jonelis tik
+               juokdamasis barškino su kvortele po tuščią milżtuvėlę... </p>
+            <p>— O Jezau, Marija, kokia nelaimė! — Sušuko motina, użlaużusi rankas. — Tokia gera
+               karvelė!.. likom dabar be pieno lašelio...</p>
+            <p>— Kad bučiau rytą patsai neišva: ręs... — pridėjo senutis — tokia buvo smagi,
+               sveika... kas galėjo įr pamislyti?!</p>
+            <p>Juozapui tokia netikėta nelaimė labai sugildė širdį, o Magdelės ašaros kaip su peiliu
+               jam širdį pervėrė. </p>
+            <p>— Ne verkk, širdele neverkk! Davė Dievas nelaimę, duos ir rodą kitą karvelę įgyti; ar
+               gi mes nepapratę vargą vargti, kokią valandą pasrėbsime ir juodą putrelę; tik ne
+               verkk, negraudink man širdį — ramino Juozas pačią.</p>
+            <p>— Su didżiaisiais pusė bėdos, visaip gali pakentėti — atsiliepė motina — bet tas musų
+               mażiulėlis Jonukėlis kur dings be pienelio?! O tai Dievo prastojimas: ne nuėjom nėi
+               vienas nuo pat ryto nė paveizėti karvelės!...</p>
+            <p>— Rinkau paršeliui żolės — teisinosi Magdė — neturėjau laiko nueiti.</p>
+            <p>— Nieks čia tavęs dėlto nekaltina, širdfle, nieko nebutų gelbėję, kad butumei ir
+               prisisėdusi sėdėjusi, kad jai sprogtina użėjo.</p>
+            <p>— Ar nereiktų eiti skurą nuimti?</p>
+            <p>— Dieve saugok! nereik! — šoko</p>
+            <p>Juozapas — įversiu į duobę suvisu: teip staiga krito, gal kokia nedora arba kimbanti
+               liga; tamstos sveikata brangesnė, kaip tos naginės. </p>
+            <p>— Ne verkkit, vaikučiai, nesirupinkite —tarė motina—jau aš apmislyjau kaip gelbėtis:
+               baigiu verpalą, gausiu porą rublelių, nueisiu pas vaikus, gal gausiu po kelis
+               rublelius pasiskolinti ir nusipirksime karvelę ant Sv. Petro. Neverk k Magdele,
+               Dievui garbė!..</p>
+            <p>— Jau apsiskolinome, matušėle, nuo Onos ir nuo Petro rąstams pirkti; nebent paršelį
+               verčiaus parduosime, gausime kokią dešimtį — atkutęs jau paišelis.</p>
+            <p>Senutis, sėdėdamas ant rąsto, ranka pasirėmęs żiurėjo į nuliudusį Juozą, jieškantį
+               lopetos, żiurėjo į użsiverkusią Magdę ir į użsirupinusią motiną ir dumojo:</p>
+            <p>— Kokia tų nabagų vaikų širdis?! Pardavė karvelę, pardavė kumelę, dar apsiskolino...
+               vis ant tos triobos.... sakė: „tėtušėliams bus šilčiau”... teisybė senoji buvo visai
+               supuvusi... kad butų karvę nepardavę, nė kokios bėdos. . ne paskutinė butų
+               nusprogusi... parduos paišelį, o kokia tos nabagės bus širdelė? teip šėrė, żolias
+               rovė, vargo, meilyjo sau, o dabar kitam reiks atiduoti ir likti be mėsos kąsnelio,
+               jei dar bent kiek gaus?... Berods turiu dar apsigniaużęs tą penkioliką rublių... nė
+               pačiai nesakau... kad teip atiduočiau? Butų čia ant karvės... Nedidelis daiktas
+               įduoti... o kas atiduos? numirus nė mišioms nebus... te prašo nuo svetimo, bent
+               rupįsis atiduoti... o jei negaus? anie jauni—srėbs ir juodą putrą, o man kaip reiks
+               nuryti?... Et diena po dienos galiu numirti, prasidżiugs radę pagrabui, visam kam uż
+               teks... kruvina bėda be karvelės, tiesa... kiek buvo karštų reikalų, tiek sykių, vis
+               iškentėjau nedavęs... Tegul! neduosiu nė dabar — pamojo su ranka.</p>
+            <p>Juozapas išėjo karvės użkasti. Magdelė, pasirinkusi skiedrų, nusineszė pietums
+               pravirti. Motina skubėjo špules lenkti ir kas valanda żvalgės į kilstančius debesius.
+               Jonelis glaudėsi aplink senutį, o jisai vis pasirėmęs, dumojo ir dumojo: atiduoti
+               paskutinius slepiamus grašgalius, ar ne? ant galo pamislyjo: „kaip bus, teip, lauksiu
+               dar pietų, pabandysiu juodus viralus valgyti”. </p>
+            <p>Saulelė stovėjo pačiame dangaus viduryje, kaitino į pat viršugalvį; miškai papilkavo
+               lyg dumais aprukę, šniokštavo tirštu ir šiltu vėju; oras pasidarė troškus; visų
+               żolelių lapai išvytę gulėjo ant żemės. Pakraštyje dangaus kaskarts rinkosi debesys:
+               tams-juodai margavo, šmotais baisiai juodi, šmotais kruvinai rausvi, šmotais šviesiai
+               gelsvi, kitur juodai rudi,— o teip stori ir gilus, nepermatomi, tarytum iškilusi
+               jura, vilniuojanti audra juodų vandenų: arba kaip kokie kalnai tamsus juodos żemės,
+               be pasiekimo saulės spindulėlio, be żolės lapelio, be medżio šakelės, be jokio gyvo
+               vabalėlio. Smarkus griaustinis, tarytum sutrankęs ir sumaišęs visą jų pa-viršį, dabar
+               pačius nuogus kalnus stumia pamażi kas kart augščiau, rodos ritina per didżiausius ir
+               kiečiausius akmenis: kits akmuo pritriekštas sunkumu, sprogo — net kibirkštys išlėkė
+               — ir vėl rieta, grumėdami toliau per dangų. Kruta, maišosi, kyla augštyn ir vėl
+               virsta pakalniui, rodos tuojaus użgrius żemę, bet vis ant vietos, vis toli, vis
+               prisivengia saulės. Griaustinis grumia, bilda, spardosi, rodos teip toli, o kokį
+               trenksmą daro! — net żemė virpa; o saulės niekaip nepabaugina: juo griaustinis
+               debesise šėlsta — juba saulelė karščiau kaitina; rodos atrėmusi spinduliais, nulaiko
+               audrą atstu nuo savęs. </p>
+            <p>Juozapas nušilęs, nuvargęs, susikrimtęs, atgajaus jieškodamas ar alkį ramindamas,
+               srėbė juodus batvinius po keletą šaukštų ant kiekvieno kąsnio duonos, użsikvempęs ant
+               torielkos, nė akių niekur nepakeldamas; tik kartais su rankove braukė prakaitą
+               varvantį nuo kaktos. Magdelė, pasisodinusi ant kelių Jonelį, atlaużusi šmotelį duonos
+               įdavė jam į rankelę, kitą pati pakando ir, vėsindama batvinius, siurbstė ir Joneliui
+               tą patį šaukštą prikišo; tas, pasrėbęs, ėmė šalin pliurkšti iš burnelės ir iš
+               šaukšto; metęs duoną į żemę ir pats nusirito nuo motinos kelių. Magdelė taisės pati
+               srėbti, kąsnis duonos atsistojo jai gerklėje, o ašaros ėmė lašėti stačiai į torielką;
+               atsikėlusi nuo stalo išėjo pro duris. Senutis siurbstė batvinius, kramtė duoną,
+               kosėjo, vėl srėbė, kąsnelį duonos įsimerkė į torielką, vėl kosėjo, valgė, kramtė,
+               kaip ne savo dantimis, o batviniai torielkoje nėmaż nen usekė: kiek įsipylė, tiek ir
+               stovėjo. Motina, siurbstydama pirmoji prašneko: </p>
+            <p>— Griaustinis użia ir użia be perstojimo, bet vis ten toli, šiaurėje, rodos mums
+               neklius, ant vietos išsilis, bet baugus debesys. P. Jezau, sergėk nuo krušos! Jei
+               matysiu, ne kyla ant musų, bėgsiu tuojau pas Vożkienę, nešiuosi verpalą, nešiuosi
+               vilnonę skepetą: zyle, pelėda versiuos, o karvelę turim nors ant bargo nusipirkti. —
+               Pażvelgė į tėvą: vienas — senas, antras — mażas, abudu išmirs badu. </p>
+            <p>Juozapas, żegnodamasis pavalgęs, pażvelgė nuliudęs į tėvą; išėjęs jieškojo pačios.
+               Ta, pavėsyje uż triobos kerčios atsisėdusi, graudżiai verkė. Juozapas sėdos greta,
+               apsikabino, priglaudė jos karštą galvą prie suspaustos skausmu savo širdies; juto,
+               juog reikia raminti, reik tramdyti nubudusią savo mylimąją Magdelę, bet niekaip
+               nesisekė prašnekinti; glostė su ranka jos galvą, ir jam pačiam ašara nurietėjo,
+               atkartojo tik motinos żodżius: </p>
+            <p>— Ne verkk, Magdele, Dievui garbė! </p>
+            <p>Stojos dabar Juozapui akise visos valandos linksmos ir laimingos, toli jau
+               pralėkusios: — kada pirmą kartą pamilęs Magdelę pilna širdżia meilės, pilna galva
+               vilties, dumojo ir żadėjo apipilti ją laime ir meile, — żadėjo iš visos išgalės
+               stengtis, kad jai niekados nieko netruktų; rupinos rodos apie tai kiek beišgalėdamas
+               ligi šiol; bet dabar nelaimė trenkė, kaip griaustinis: sudużo ir sutrupėjo puikios jo
+               viltys ir grażus użmanymai, palikdami į vielą rupestį ir širdgėlą... Gaila jam seno
+               tėtušėlio, kramtančio sausą duonelę; gaila kudikėlio verkiančio pienelio; gaila geros
+               matušėlės paskendusios rupesčiuose... Bet gailestis verkiančios pačios viršijo visus
+               skausmus sukilusius per nelaimę. Glaudė pačią prie savęs, apkabinęs drebančioms
+               rankoms, o verksmingu balsu ramino ir gudżiojo:</p>
+            <p>— Ne verkk, širdele! negildyk man širdies: tavo kiekviena ašarėlė kaip su peiliu mane
+               varsto. Tu verki, rugoji, o čia mano kaičios nė maż nėra; gana!... bent nusimalšinki
+               negaliu niekur skausmu tverties, kad tu verki!...</p>
+            <p>Magdelė nusišluostė skruostus, su nušvitusia kakta glaudės prie vyro, šypsodama: </p>
+            <p>— Juozeli, balandėli, kas tave gal kaltinti?! Ot teip sau apsiverkiau bereikalo.
+               Dovanok tą kartą, nebematysi nė vienos ašaros daugiau: kaip dėsis teip — viskas bus
+               gerai, nesirupink, Juozeli!</p>
+            <p>Teip ramino vienas kitą Juozapai. Tuotarpu tėtušis eidamas į klėtį, pamojęs motiną
+               prie savęs, tarė: </p>
+            <p>— Ar żinai ką, motin? jug aš turiu apsigniaużęs dar keletą rublelių iš senovės; ar
+               čia reik duoti ant karvės, arką?! Kaip tu sakai?</p>
+            <p>Motina prasidżiugusi sušuko: </p>
+            <p>— Ko-gi be lauki nedavęs, tėtušėl?! jei tik turi, duok tuojau, matai juog kruvina
+               bėda. Mat koks! ir prieš mane slepiesi turįs piningų!</p>
+            <p>— Kaip gi prieš tave ne slėpsiu? tu jei tik żinai, tuojau tau duok ir duok; tiek ir
+               te żinai — rugojo senis; paskutinius ir viską tik vaikams sukišti. O kaip numirsiu,
+               kas bus su mano laidotuvėms?! Tuomet reiks lakstyti po kiemus, numirėlį
+               pasiguldżius.</p>
+            <p>— Nesirupink, tėtulėl, — juokėsi motina — niekur numirėliai nesivolioja
+               nelaidoti...</p>
+            <p>— Ar matai kokia tu! — pertraukė senis — tai tik į żemę įkišti ir gana! o kame
+               mišios? kame pazvanai ir... użsikosėjo senis — tau tik atiduok ir atiduok daugiau
+               nieks nerupi.</p>
+            <p>— Teip, teip, gerai, laikyk mišioms, o tuotarpu srėbk juodą putrą, tai bent greičiau
+               numirsi. Verčiau dabar duok karvei nupirkti, o kaip kitą prisiauginę parduos; tuomet
+               tau piningus atiduos: bus vilkas sotus ir avis čiela. </p>
+            <p>— Tu, motin, visuomet moki išrokuoti, kad tik nuo manęs išvilti. O ko vaikas vedė
+               pliką mergą? ko ne veizėjo, kad turėtų maż daug? — butų beturįs dabar.</p>
+            <p>— Tėtulėli atsiminei po smerčio trečioje dienoje pe..ti — juokėsi motina: Kelinti
+               metai, kaip vaikas żenotas, dabar liepi ištekliaus jieškoti. Su dalia parėjusi butų
+               mumis bevarstanti żodżius, o ant šios ką išrasi? Tur but, kad uż mus visus daugiau
+               dirba ir visus lenkia?!... Kame tik tėtulėli, kame tie tavo grašgaliai? duokš,
+               veikiai pradżiuginsi ir vaikų širdelę. Kad butų triobos nestatęs, butų greit
+               nusipirkęs karvelę... Duok, ne buk teip kytras, ne valia — kam ir pasisakei turįs,
+               kad nenori duot?!</p>
+            <p>— Tokia tai visada tavo roda!... żinai gi bereikalo sakiausi.</p>
+            <p>Besilygstant seniams, Jonelis apkabino senučio kelį ir vartydamas tuščią kvortelę,
+               čiauškėjo: </p>
+            <p>— Senuti, senutėli! usciu pienelio! usciu pienelio!... usciu!...</p>
+            <p>Senutis pasilenkęs glostė Jonelį o motina pridėjo: </p>
+            <p>— Ar gi tau tėtulėli, negaila to kudikėlio?! ar gi tavo širdis akmuo? aš ne galiu nė
+               veizėti. — Pradėjo balsu verkti.</p>
+            <p>— Te, te, matušėle, atiduodu, tik ne verkk—tarė senis, verdamas skrynios viršų —
+               penkioliką turiu, visus atiduodu: żinokitės, pirkit, tik susimildama neżlembk!</p>
+            <p>— Juozap, Magdele! — pašaukė motina. — Duok pats, tėtulėli, ir pasakysime vaikams,
+               kad rupintusi veikiai atiduoti.</p>
+            <p>Įbėgo Juozapai nusigandę, mislyjo, kad vėl kokia nelaimė. </p>
+            <p>Tėvas, duodamas dvi popierėles, tarė: </p>
+            <p>— Vaikai! atiduodu paskutinius grašgalėlius karvei nupirkti, bet veizėkit mane
+               palaidoti darai.</p>
+            <p>Magdelė ir Juozapas prasidżiugę apkabino tėvams kojas. </p>
+            <p>— Dėkui, tėtulėli — tarė Juozapas: —širdingai dėkui! ne lauksime laidotuvių tamstos,
+               — użauginsime kitą karvę, parduosime ir sugrążinsime piningus. Dėkui, dabar nustumei
+               mums rupestį. Kol tik mano gyvastis ir sveikata valios, tol stengsiuosi, kad
+               tėveliams netruktų nieko; o palaidoti tėvus padoriai yra priderėjimas mano ir
+               kiekvieno vaiko.</p>
+            <p>Magdelė teipo-gi kaip įmanydama dėkavojo. Saulelė iškrypusi iš pietų lengviau
+               kaitino; debesys šiaurėje kas kartas balo ir skystėjo, rodos virto į permatomą tirštą
+               miglą, šmotais dar šviesesni sukapoti tik išilgai juodais brieżulėliais, rodos,
+               atsirėmusiais į żemę. żaibai użgeso, o griaustinis, każikur uż miškų nubildėjo.
+               Augščiaus, pačiame skliauste aiškiai żydravo dangus; priešais saulę ant debesų żibėjo
+               puiki orarykštė. Vėjalis skystesnis — vėdavo medżių lapus, atgaivino suvytusias
+               żoleles, atvėsino ir troškinantį orą. Matušėlė apsisiautusi skepeta, skubėjo jau pro
+               vartus. Juozapas ryšį verpalų pamovęs ant lazdos, użsivertė sau ant kupros, dar sykį
+               tėveliui į ranką, dar sykį Jonelį bučiavo, dar sykį meiliai pażvelgęs į Magdelę,
+               nubėgo paskui matušėlę. Magdelė, linksmai dainuodama, įsėdo į darżą ravėti. Senutis,
+               atsisėdęs ant rąsto, šnekėjosi su Joneliu, pasakojo, kad bobutė su tėte parves
+               karvelę ir pamilż pienelio... </p>
+            <p>* * * </p>
+            <p>Pażvelgkim į Sutkų gyvenimą dar uż dešimties metų. Atmainos dabar didesnės. Senutis
+               jau pirm kelerių metų atsigulė į juodą żemelę amżinai ilsėtis, bet atstu pirm
+               numirimo priėmė atgal nuo vaikų savo penkioliką rublių, kuriuos paskyrė ligi
+               kapeikos, kur dėti ir ką użpirkti uż jo dusią. Vaikai netik uż tuos piningus, bet
+               mażne antrą tiek pridėjo, palaidojo grażiai su devintinėms ir metinėms o po to dar
+               kas metą użperka atminimus uż dušią tėvelio. </p>
+            <p>Nors żmonelės kas metas renkas po kits kitą į vieną ir tą pačią żemelę, o svietas
+               dėlto lieka tokiu pat pilnu svietu, kokiu buvęs nuo pat sentėvių. Nors żmonelės vis
+               mainos, vieni mirdami, kiti į jų vietą gimdami, augdami, sęsdami ir vėl mirdami, o
+               gamta liekta vis ta pati, su toms pačioms, visada vienokiomis atmainomis oro. </p>
+            <p>Šį vakarą teipo gi grażus pavakarėlis. Saulelė lenkės netoli miško viršunės, pamażi
+               rietėjo pakalniui, kaip didżiausias raudonas ritinys. Dienovidżio šviesus jos
+               spindulei każikur użlużo, į vietą użsisiautė perregiama, kaip šidras balta migla, per
+               kurią, kaip per giliausią vandenį, plaukė nuoga saulelė be baimės akių leisdama į
+               save żiurėti. Tykus vėjalis virpino apušies lapais ir nešiojo kvapą vystančios į
+               šieną żolelės, gulinčios pradalgėse żalioje pievoje. Dubysa tykiai gurgėjo per
+               żvyryną, tarytum pavargusi darbininkė laukia tik vakaro, laukia valandos pailsio.
+               Visur tyku; kartais tik gandras suklekina, arba piemenėlis vamzdelį subirbina. </p>
+            <p>Magdelė netoli savo triobos, pasilenkusi uż darżo rovė linus, pas ją bovyjosi
+               nedidelė grażi mergaitė. Pakalnėje, elksnyne, keletas bandos šlemštė pażėlusius jau
+               atolus. Piemenėlis pusdamas į vamzdį ir pakaitais dainuodamas artinosi prie dirvos.
+               Mergaitė pasišokėdama bėgo priešais. </p>
+            <p>— Joneli, Joneli! duok man vamzdelį papusti!</p>
+            <p>— Te, Marele, papusk, teip — gerai birbia?</p>
+            <p>Marelė putė, birbino ir dżiaugdamos juokėsi. </p>
+            <p>— Jau baigi rauti, mamyte? Pati viena — pavargai; šnekėdamas Jonelis rinko saujas ir
+               statinėjo į gubeles. Motina atsitiesusi rišdama, tarė:</p>
+            <p>— O tu, Joneli, gerai išalkai? nebuvai nė ant pavakarių; mudvi su Marele turėjom čia
+               duonelės; paėmęs użsikąsk! paskui padėsi sustatinėti. Teip skubu nurauti, laikas jau
+               bėgti namon, — Kazelis tur but jau pakyrėjo bobutėlei, o ir tėtė netrukus
+               susivoks.</p>
+            <p>Marelė prilakino Joneliui grebšelį, tas atsilaużęs duonos, użsitepė sviesto iš
+               abrinelio, valgė, o antraja ranka rinko ir mėtė saujas į kruveles. </p>
+            <p>— Ne atėjai pirma, Joneli! karvės jug negyliavo? butumei man padėjęs anksčiau
+               nubaigti.</p>
+            <p>— Mamyte, aš tvorą tvėriau, kur tėtės buvo pradėta, teip skubėjau, nė valgyti ne
+               ėjau, privariau ligi pat volo galo.</p>
+            <p>— Kas tau mietus susmeigė?</p>
+            <p>— Nusinešiau kedę ir pasistodamas įmušiau su šlėga.</p>
+            <p>Motina nubaigusi rauti, nusišluostė prakaitą, pażvelgė į saulę, ir ėmusi statinėti
+               šnekėjo: </p>
+            <p>— Gerai, vaikeli, kad imiesi uż darbo, reik stengtis padėti tėtei: matai kaip jis
+               vargsta, użdarbauja, maitina mus visus, iš jo kruvinos procios turime duonelės,
+               apdarą ir gyvuolėlių kiek reikiant. Turi jau dvyliktus metus, gali jau ir pats
+               išmanyti.</p>
+            <p>— Mamyte! jug kad tėtė ne norėtų pats, galėtu mane leisti su dielėms į Kuršėnus, ar
+               aš ne nuvażiuočiau? Tėtė tuotarpu pasilsėtu — šnekėjo rimtai, kaip senas vaikis —
+               bene aš vażiuoti ne moku: kur į pakalnę —użšok ant veżimo, kur į kalną, nušokęs
+               pastumėk su pečiu, paniuk, jei katras arklys ne traukia— ar aš ne matau, kaip tėtė
+               vażiuoja?! arklius raiżyti ne reikia.</p>
+            <p>Motina żiurėjo dżiaugdamos į Jonelį ir juokės: </p>
+            <p>— Uż keletos metų gal tą ir padarysi, jei Dievas duos sveikatą, bet dabar, vaikuti,
+               ne gali, ne tam dar tavo amżius, verčiau po namus slaugyk tėtę, darbuokis galimą
+               darbą; gaua to, kad tėtė matys, kad tu ne tingi.</p>
+            <p>— Żinau aš mamyte, juog tingėti — griekas. Ir bobutė sako, kad dykai valgoma duonelė
+               verkia.</p>
+            <p>— Żinoma verkia, vaikeli, kas dykai nor valgyti — tvirtino motina — żiurėk tėtulis
+               kiek prakaito išlaisto bedirbdamas duonelę, ir tu sek jo pėdas. Dėkui Dievui,
+               pabaigėm! Bėgkim, Marele, namon! Jei tik ryto ne lis: saulelė plaukia, kaip per
+               vandenį.</p>
+            <p>— Saulelė ir vakar teip pat leidosi be jokio spindulėlio, bet varnų tiek nebuvo —
+               šnekėjo Jonelis eidamas kartu — šį vakarą kokiais buriais čiulkinį gruda!...
+               żiurėkit! — aida, aida! Visur kaip debesys; o kramtos kaip pašėlusios. Tėtė sako,
+               juog prieš lietų teip jos šėlsta.</p>
+            <p>— Gal buti ir teip — pridurė motina.</p>
+            <p>— Nėra baimės, kad ir lytų —tęsė Jonelis — musų rugiai suveżti; šienas suvalytas,
+               nebebus niekas ant lauko; linams, mamyte, jug nieko dar ne kenks? Kaipo bobutė sako:
+               „kas apdrėkįs, tas ir išdżiovįs”.</p>
+            <p>Arti kiemelio atsigrężė motina į vieškelį. </p>
+            <p>— Nematyti dar tėtės — tarė — Marele, bene palikai grepšį?</p>
+            <p>— Ne palikau, štai parsinešiau!</p>
+            <p>Motina įbėgo į vidų, sukosi apie apyvoką, Jonelis įsisodinęs Marelę į ratukus lakstė
+               aplink kiemelį; abudu juokės, kvakėjo. </p>
+            <p>Bobutėlė, kaip senei bematyta, per mierą jau pasenterėjusi, visai į kuprelę
+               sulinkusi, bet senu papratimu darbšti ir greita. Išėjusi surinkti skarų nuo tvoros,
+               ant Jonelio barėsi: </p>
+            <p>— Ko teip lakstai, kaip aitvaras? vaikui ir sprandą nusuksi, verčiau suveizėk
+               gyvuolius, żąsis, vakaras nebetoli; įnešk virbų ugnelei, paslaugik matušėlę, matai,
+               kaip ji sunkiai dirba. Toks dičkis — gali jau padėti darbuotis, nedykai lakstyti.
+               Vaikeli mokinkis użsipelnyti sau duonelę!</p>
+            <p>Jonelis, sustojęs bėgioti, į seserį tarė: </p>
+            <p>— Klausykim bobutėlės! lėksime, Marele su ratukais į patvorį pavolyje, ten yra kruva
+               skiedrų, kur tėtė mietus tašė:—Susipylę parveżšime ir karves parsivarysime.</p>
+            <p>— Aš vażiuota vażiuosiu, na! tu mano arkliuks!</p>
+            <p>Jonelis, atsikėlęs vartus, nulėkė su Marele ratukuose. Parvażiuojant Jonelis traukė,
+               o Marelei liepė stumti. Kaip jis atsisukęs pażiurės, tuomet ji stumia, o kaip jis
+               traukia, ne mato, tuomet ji atsigulusi ant skiedrų vażiuoja. </p>
+            <p> Vos paspėjo pro vartus namon, kaip ir tėvas parbrazdėjo. Vaikai, metę savo darbą,
+               puolė priimti. Jonelis bučiuodamas į ranką, kartu ėmė tėvui iš rankų botagą ir
+               vadżias, šoko arklių nukinkyti. Marelė įsikibusi į skverną tėvui, čiauškėdama
+               pasakojo, kaip vażiuota vażiavusi skiedrų.</p>
+            <p>— Tėtulėli, uż ką bėruką pażebojai? — klausė Jonelis.</p>
+            <p>— Kam jis be proto lekia, negali išlaikyti ne żeboto.</p>
+            <p>Jonelis varsbėdamas šnekėjos su bėruku. </p>
+            <p>— Aa tu valiuki! ko nesiliauni? Użtai gavai geleżį pakramtyti ir smugis dar kliuvo,
+               żinosi bėgti rimtai; duokš pavalkus, lenk galvą! trrr, lenkk! o teip.</p>
+            <p>Kumelė, miniodama vadżias, graibė veją. </p>
+            <p>—Trrr tu pelėda!—Saukė ant kumelės—ko nestingi? Apkaitęs bėrukas nabags! — apkabinęs
+               kaklą arklio, prisiglaudęs nuvedė prie tvoros, atgal grįżo kumelės numauti. Magdelė
+               išėjusi sušuko: </p>
+            <p>— Tėtė jau susivokęs!</p>
+            <p>Tėtė dabar jau tikrą vardą nešiojo, tai nebepirmutinis nuliudęs ir nusiminęs Juozas;
+               dabar linksmas ir ramus, dżiaugėsi laime ir pasisekimu, żydėjo sveikata ir tvirtumu.
+               Sveikinosi širdingai su savo mylimaja Magdele, teipos gi labai atsimainiusia. Dabar
+               nebeišblyškusi Magdelė, bet su geru paliaukiu druta bobelė, baltai raudona, skaisti,
+               kaip rożė purinė, matyti, gerą ganiavą turinti. </p>
+            <p>Tėtulėlis gyrė savo gaspadinę, Marelę ir, kuri po kišenes graibės „zuikio pyra go”,
+               paskui paėmęs ant rankų bučiuodamas nešėsi per kiemelį, atsisukęs dar tarė: </p>
+            <p>— Prikabink, Joneli, arklius prie tvoros, teatsiput, kol mes pavalgysime.</p>
+            <p>Magdelė sukosi apie vakarienę. Juozapas, pabučiavęs matušėlei į ranką, atsiklaupęs
+               prie lopšio, šnekino čverties metų Kazelį: nupraustas baltai, riebus, kaip rubuilis
+               vaikas, rodos pażino jau tėvą, nės šnekinams krykštė ir spardėsi. Nubučiavęs jam
+               rankeles ir kojales, sėdosi su savo šeimyna prie vakarienės. Magdelė klausinėjo apie
+               kelionę. </p>
+            <p>— Mażne prisigavau šį kartą — tarė Juozapas— truputį per didelį veżimą prisikroviau,
+               sunkiai traukė; kur į kalną, vis gavau pastumėti ir pečiai mażne skauda.</p>
+            <p>— Kam reik teip godėtis — barės motina — besigaluodamas benenustosi sveikatos, ar ne
+               teip ir tėvas nabašnikas bedirbdamas per ne mierą įgavo dusulį ir da ne persenas gavo
+               po velėna palįsti.</p>
+            <p>Debesėlis skausmo perbėgo visiems per kaktą dėl priminimo mirusio tėvelio, tai
+               pasergėjusi, motina tarė: </p>
+            <p>— Ką padarysi? mes jo nebesulauksime, o jis mus belaukia pasitikti.</p>
+            <p>Magdelė iš naujo użvedė kalbą apie użdarbį ir kelionę. </p>
+            <p> — Pernai vasarą ir per żiemą nors tarpais vażiavau — kalbėjo Juozapas — o żiurėk, iš
+               to użdarbio użmokėjom visas skolas, gali stačiai sakyti, juog triobą ir klėtelę
+               pasistatėm, arklį nusipirkom, dar ištekliaus liko. Laiks lig laiko po du rubliu
+               użvażiuoti, tai ne niekai!</p>
+            <p>— Ar ne prapuls tas tavo išteklius, </p>
+            <p>Juozai — tarė motina — vienam ir kitam įkaiš:ojai be jokio raštelio.... </p>
+            <p>— Ką padarysi, mama, kad jo tokia gailinga širdis — teisino Magdelė — šį pavasarį
+               Jonas verkia, kad jam kumelę pavogė, kartu ir Juozaps verkdamas duoda jam paskutinius
+               dešimt rublelių...</p>
+            <p>— Kaip gi nesigailėsi?! — pertraukė Juozapas —pavogė żmogui kumelę pačiame
+               darbymetyje, sėjamu laiku, kur kiekvieną valandą reik ašvynio; piningų savo netur: nė
+               żmogui plaukti, nė šaukti! vagį sekiotis — pėsčias nepaspės, o čia arti, sėti vėl
+               butinai reik — ką gi darysi nedavęs paskutinius?!</p>
+            <p>— Nieks tavęs ne peikia, Juozeli, uż tai — teisinosi pati — aš tik sakau juog tu be
+               galo gailingos esi širdies; tuomet ne gelbėtumei żmogaus jeigu ne turėtumei pats nė
+               skatiko.</p>
+            <p>— Ot Kvečas mokesniams truko — daviau kelis rublius — kalbėjo Juozapas —żymantą
+               broliai butų ištaksavoję uż „išderżkas” — vėl paskolyjom porą dešimtėlių... vis bėda,
+               vis reik gelbėti; o dėl niekų dirbti kokius raštus — ne grażu su saviškiais. Atiduos
+               żmonės — kiekvienas turi sążinę.</p>
+            <p>— Kartais ir labai norėtų atiduoti, o kad nebėr iš kur — tarė motina. — Ir tavo,
+               vaikeli ne iš upės pasemiama, bet kruvinai użdirbta kapeika, reik pasimisyti, jug ir
+               patsai, turi vaikus....</p>
+            <p>— Mama nesibark, — prašė Magdelė — tesiżino, teduod, nes nėra jam didesnio dżiaugsmo,
+               kaip sugelbėti, ar ką gerą kam padaryti; jau tame dalyke atsigimęs suvisu į
+               matušėlę.</p>
+            <p>Pertraukė kalbą Jonelis: apsisiautęs ilga sermėga, rankoje nusitvėręs pančius,
+               pasisakė jojąs arklius ganyti. </p>
+            <p>— Ak tu mano kudiki! — šoko tėvas — kur tu vienas josi? gali naktį nusigąsti ar
+               ką...</p>
+            <p>— Ne vienas ganysiu, tėte: nujojo Jankų Domė, żymantų Antaniuks, josime visi į
+               Skynymus, jau susitarėme... susikursime ugnį. Tėte, miegok ramiai; aš pareisiu bandos
+               išvaryti, kaip išauš.</p>
+            <p>— O tai mano vyras! — dżiaugės tėvas — imkis kailinius pasikloti, negulk ant plikos
+               żemės, kad nesusirgtumei. Eikš, aš tave ant kumelės użsodinsiu, nepasilikk nuo
+               kitų!</p>
+            <p>— Joneli, įsikišk duonelės! — šaukė bobutėlė — mażiulėlis tas mano!</p>
+            <p>— Te Joneli, varškės — kišo motina į kišenį — pravers tau, vaikeli pusryčiams
+               użsikąsti.</p>
+            <p>— Ne sėsk, Joneli, ant bėruko — šnekėjo tėvas pas arklius, jok verčiau ant kumelės;
+               tas beprotis kartais baidosi, gal tave išmesti; šit kailinius paklojau, op!... Ar
+               turi brieżiukų? Te, ne gulk arti ugnies.... veskis Juočkų... surėżk bėrukui...</p>
+            <p>— Laba naktis! — Sušvilpęs Jonelis nujojo.</p>
+            <p>— Dieve padėk!—perżegnojo tėvas, keldamas kiemelio vartus.</p>
+            <p>Gera valanda, kaip saulelė jau nusileido, pagalios ir vakarinė żara jau uż geso;
+               juoda prietamsa apsiautė visą żemę. Dangus, be jokio mėlynumo, ir be skaistumo, be
+               jokio spindulėlio ir be vienos żvaigżdelės pilkavo tik truputį ant galvos, kaip
+               storais dumais aprukęs, o pakraščiais jungėsi tamsenybėje su miškais ir kalnais;
+               negalima atskirti rubeżio dangaus nuo żemės, kaskarts juodesnė tamsa dengė laukus,
+               pievas, miškus ir pelkes. Nė paukštelio, nė żvėrelio, pagalios nė naminio gyvuolėlio
+               — niekur nė balso: visi jau saldżiu miegu użmigę — ilsėjos. Toli spiksojo tik ugnelė
+               arkliaganių ir retkarčiais, kaip iš po żemės, atsiliepė atbalsis tilstančios jau
+               dainelės... Ir vėl visur tyku... Vėjalis tik kartais pustelėjo maišydamas drėgną
+               miglą, tarytum skelbdamas netrukus šiltą lietų.</p>
+            <p>Bobutėlė, Marelė ir Kazelis — skaniai jau miegojo, o Juozapas, su Magde sėdėjo ant
+               suolelio po langu; żiurėjo abudu tolyn prieš save, bet jų akys niekur nesirėmė, matė
+               tik savyje mylimųjų paveikslus. Ilgas valandas teip sėdėdami, nors nė żodelio į viens
+               kitą ne isztarė vienok labai daug apipasakojo viens kitam apie savo laimę. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

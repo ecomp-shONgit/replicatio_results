@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml"
+ schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml"
+ schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LIT00025" xml:lang="lt">
+ <teiHeader> <fileDesc> <titleStmt>
+ <title>Laisvės metu : ELTeC edition </title>
+ <author> Antanas Petrauskas (1881-1944) </author>
+ <respStmt> <resp>editor</resp> <name>Vincas Grigas</name> </respStmt> </titleStmt>
+ <extent> <measure unit="words">25832</measure> <measure unit="pages">200</measure> </extent>
+<publicationStmt> <p></p>  </publicationStmt>
+ <sourceDesc> <bibl type="digitalSource"> <ref target="https://www.epaveldas.lt/object/recordDescription/LNB/C1B0004124925"> Laisvės metu </ref> <publisher>Martynas Mažvydas National Library of Lithuania</publisher> </bibl> <bibl type="firstEdition"> <title>Laisvės metu</title> <publisher>Laukaičio ir b-vės spaustuvė</publisher> <pubPlace>Seinai</pubPlace> <date>1908</date> </bibl> </sourceDesc> </fileDesc>
+ <encodingDesc n="eltec-1">
+        <p></p></encodingDesc>
+ <profileDesc xmlns:e="http://distantreading.net/eltec/ns"> <langUsage> <language ident="lt" usage="100"/> </langUsage> <textDesc> <e:authorGender key="M"/> <e:size key="short"/> <e:reprintCount key="low"/> <e:timeSlot key="T4"/> </textDesc> </profileDesc>
+ <revisionDesc><change when="2020-08-14">Vincas Grigas added title page</change>  </revisionDesc> </teiHeader>
+ <text>
+ <front><div type="titlepage">
+<p>LAISVĖS METU</p>
+<p>(apysaka iš paskutinių atsitikimų)</p>
+<p>„Šaltinio“ knygynas SEINAI,</p>
+<p>1908 M.</p> 
+<p>Laukaičio ir b-vės spaustuvė, Seinai</p>
+<p>Laisvės metu</p>
+<p>(Apysaka iš paskutinių atsitikimų).</p>
+ </div></front>
+	 <body>
+ <div type="chapter">
+ <head>I. Mykaičių Jonuks</head>
+<p>Gražus buvo vasaros rytas. Saulutė dideliu-dideliu raudonu ratu išlindo iš ryto krašto ir linksmutė, yt žiburėlio žiedelis, pabėrė ant žemės tūkstančius auksinių savo spindulių. O jie visi, tie spinduliai, tik žėri, tik plevena kiekviename rasos lašelyje, tik supas linksmai, vėjo siūbuojami, žolynų viršūnėse...</p>
+<p>Aukštai, nė akia nematyt, į padanges iškilę vieversėliai sveikina tekančią saulę-matutę ir čiulba jai kuoįvairiausias daineles...</p>
+<p>Piemenėlis, išginęs savo bandą, išsitraukė iš kišeniuko medinę su rageliu dūdelę, prisidėjo prie papurusių nuo miego lūpų... Ir liejas iš vaikiuko krūtinės paslaptingas koks balsas... Plaukia jisai per laukus ir pievas ir ten tik toli-toli už upės, atsimušęs į mišką, nyksta ore.</p>
+<p>Paprasta tai, rodos, dainelė, bet kokia ji maloni, kaip ramina ji širdį, kiek gražių minčių ji žmogui paduoda!..</p>
+<p>Ypatingai tą rytmetinę piemenėlio dainelę baisiai mėgdavo Mykaičių Jonukas, kaip jį paprastai žmonės vadindavo. Buvo tai gana ūgalotas vaikinas. Jojo pilną gudrybės veidą puošė gražųs, kaip vaškas, geltoni ūsai ir smailai apkarpyta barzdelė; o iš užpakalio, vėjo kedenami, vėdylavo toki pat garbiniuoti plaukai. Gražiai sustatytą jo stuomenį dengė trumpas studento žiponaitis, „kurtka“ vadinamas, žalsvai-mėlynais apvadais ir didelėmis geltonomis sagomis papuoštas. Iš aprėdo aišku buvo, kad Mykaičių Jonukas buvo universiteto studentu.</p>
+<p>Saulei tekant, žiūrėk Jonuks jau ir kuria ant kapinių, kurios gražiu medžių vainiku žaliavo už miesto, šale-pat plento. Kapinės Mykaičiui puikiai buvo pažįstamos; jis žinojo kiekvieną takelį, kiekvieną, galima sakyt, kapą. Nes dar būdamas mažas mėgdavo jis labai dažnai lankyties ant kapinių. Išpradžių tai darydavo kartu su savo mamyte, o paūgėjęs ir pats viens nubėgdavo. Nubėgęs apžiūrėdavo mažas Jonuks kiekvieną kapelį, apeidavo beveik kiekvieną kryžių ir atskaitydavo parašą ant kiekvieno paminklo. Radęs kur parašą: „Sveika Marija“, Jonuks dievotai atsiklaupdavo ir karštai melzdavosi už dūšeles. Pasimeldęs, tokį jis jauzdavo savyje džiauksmą, kad neiškęzdavo nepasigyręs savo mamytei:</p>
+<p>— Mamytėle! man dūšelių taip gaila, aš už jąs kasdien meldžiuosiu!. —</p>
+<p>— Gerai, gerai, vaikeli, — atsakydavo džiaugdamosi dievota Mykaitienė. — Iš to vaikiuko tik turi užaugti geras žmogus — mąstė ji sau.</p>
+<p>Bet vos tik Jonuks paūgėjo, dapuolė į gimnaziją, draugai ėmė davinėti jam visokias knygas, kuriąs jis godžiai skaitydavo. Beskaitydamas visai užmiršo apie savo mylimąsias dūšeles, ėmė dvejoti apie Dievo esybę, skverbte jam skverbėsi baisios mintįs:</p>
+<p>— O gal ir teisybė, kad Dievo nesama? Juk va štai ir knygose parašyta, kad Dievą pramanė vien tik kunigai, kvailiems žmonėms gązdinti...</p>
+<p>Užėjus toms mintims, Jonuką visada, nežinia nė dėl ko, nė ką, perimdavo šiurpuliai ir visas jo kūnas, nelyginant apušies (drebulės) lapelis, pradėdavo drebėti. Jam ypač baisu darydavosi pamąsčius, kas būtų su žmonėmis, jei jie visi pradėtų į Dievą netikėti. Jis žinojo keletą tokių netikinčiųjų, bet visi jie buvo nedori žmonės: viens iš jų buvo vagis, kitas girtuoklis, trečias vėl nė šioks, nė toks.</p>
+<p>— Jeigu visi žmonės netikėtų — tai visi toki būtų? — nerymastaudamas klauzdavosi jis pats savęs. Ir nežinodavo, kaip sau tą klausimą išaiškinus.</p>
+<p>— Teisybė, jie negeri žmonės — pamažu imdavo sau aiškinti Jonuks — bet štai va Bladas, jis yra mano draugas, juk aš jį visą perdėm pažįstu, jis ir-gi netiki nė į Dievą, nė į dūšią, o vienok žmogus nei nieko sau. Žmonės šneka, kad perdaug naktimis jis valkiojąsis, bet ar tame kas yra bloga?! —</p>
+<p>Taręs tai, mųsų Jonuks visai nusiramindavo ir persitikrindavo, kad visai nereikia į Dievą tikėti, nė į Jį melsties. Pertai ir ant kapinių jis eidavo ne melsties, bet pasigėrėti vasaros rytu, linksmiu paukščiukų čiulbėjimu, o ypatingai jis mėgdavo, ant kapo sėdėdams, klausyti tų piemenėlio dūdelės dainų. Tarytum, jos jam ką primindavo, lyg sugraudindavo jam širdį, lyg pakeldavo jį visą aukštyn.</p>
+<p>Taigi ir šiandie, sulaukęs Mykaičių Jonuks nedėldienio, vos tik pasirodė pirmutiniai saulutės spinduliai, jau vaikščiojo po kapinyną. Nors šiandie paukščiukai čiulbėjo linksmiaus, negu kitados; nors liejos po visas padanges liūdnas dūdelės balsas, bet tas viskas mųs Jonukui, iš viso-ko matyt buvo, neperdaug rūpėjo... Jis, suraukęs kaktą, pasinėręs giliose mintyse, greitu žinksniu vaikščiojo po kapinyną ir pamažu kaž-ką pats su savim kalbėjosi.</p>
+<p>Po valandėlės pradėjo jis labiau nerimastauti ir kaskart kalbėti aiškesniu balsu:</p>
+<p>— Taip, mums duota liuosybė!.. Mums leista kalbėti, kas mums patinka... Nutraukyta nuo mųs senovės vergijos pančiai... Taip, mums duota šiokia tokia liuosybė — tad gi reikia pasinaudoti, reikia žmones šviesti, kelti iš ilgaamžio miego ir vesti prie laimės... Męs turime mokslą — męs turime savo broliams kelią pravesti. Užtat šiandie susirinks žmonės, einu jiems visą pasakau teisybę, tegu kįla, tegu meta nuo savę priespaudų jungą. Einu.</p>
+<p>— Kur eini? — sušuko kažinkieno iš užpakalio balsas. Mykaitis krūptelėjo ir atsigrįžo atgal.</p>
+<p>— Aa, tai tu, Baršty! Ko taip išnetyčių rėkauji? Pfiu! ko tik priepuolos neįvarei!</p>
+<p>— Neįvarysiu, neįvarysiu, nesibijok, Jonuti, manęs! Žiūrėk tiktai, kad tau kas kitas priepuolos neįvarytų! O! Jonuti, saugokis tų žiedriųjų, ką tave vilioja, akelių!.. Saugokis!..</p>
+<p>— Kokių akelių? Nesuprantu, Baršty, ką kalbi! Kokios čia žiedriosios akelės gal mane viliot?!</p>
+<p>— Klausyk, Jonai — paėmęs už rankos Mykaitį, tarė Barštys — kam tu čia nuo manęs slepiesi? Lyg aš nežinau, ar nesuprantu? Bene aš nemačiau niekad žmonių įsimylėjusių? Oi-oi-oi! neprigausi tu seno vilko; ne iš vienos aš krosnies duoną valgęs ir ne vienam esu piršęs!..</p>
+<p>— Kas tau daros, Baršty, ištiesų aš nesuprantu. Ar tu girtas, ar kokis galas tau daros? Žiedrios akelės, senis vilkas, piršlyba... ir kokį tai visa tur ryšį su priepuola?!</p>
+<p>— Nesupranti?! Aa, taip, nesupranti! O kur tu rengiesi eiti, jei ne pas... Žinau aš jaunųjų širdis gana gerai. Aš ir vidurnaktyje pažinčia tavo mintis!..</p>
+<p>— Apie tat tu šneki?! — pilnu nusistebėjimo balsu atkirto Mykaitis. — Tau, kaip matau, daugiau nieks ir nerūpi, tik žiedriosios akelės, akelės ir akelės. Tame visa tavo, Baršty, laimė!</p>
+<p>— Ne, Jonuti, prie akelių reik pridėt ir stiklelis.</p>
+<p>— Apie tą laimę, turbūt, tau ir sapne sapnuojas? — pilnu pašiepimo balsu užklausė Mykaitis.</p>
+<p>— Kur gi nesisapnuos? Šiąnakt, jau paryčiu parėjęs namo, sakau, reikia nors truputį prisnūsti. Pridedu prie patalo galvą ir vos tik sudėjau akis, ogi žiūriu — prieš mane išpradžių lyg matyta: rodos, Rugieniūtė, bet paskui žiūriu ir nepažįstu ar tai dvasia, ar tai žmogus. Aukšta-aukšta, liesa, kaip nendrelė; kaklas, kaip gulbės; plaukų kuokštai, kaip aukso siūlai, spindi pasidriekę per grakštųjį josios liemenį... O akįs tos, akįs!.. sunku ir apsakyt: šit stačiai traukte žmogų traukia ir už širdies griebia...</p>
+<p>— Jei dvasia esi — antgalo sušukau — tai palaimink mane! O jei esi žmogus — būkie mano mylimojo Jonuko sandrauge!</p>
+<p>— O ji? — paklausė Mykaitis.</p>
+<p>— Ji, vos tik išgirdo tuos paskutinius mano žodžius, meiliai nusišypsojo ir bematant išnyko, kaip šešėlis. Bet aš ir dabar lyg tuomet ją matau. Man rodos — tai matytas kur veidas ir tos akįs, ir plaukai, ir gražusis jos liemuo. Aš turiu tau jąją surast. Ai tai būt pora, tai bent pora, nors po stiklu dėk! — sušuko Barštys ir iš to džiaugsmo, pridėjęs pirštus prie burnos, taip meiliai juos pabučiavo, kad net kitam gale kapinių aidas atkartojo.</p>
+<p>— Kad tave galas, Baršty! Nors tu jau bemeluodamas ir nuplikai, bet nėra ką, puikiai meluoji. Taip meluodamas, tu ne vienam gali galvą apsvaiginti...</p>
+<p>Bet visgi dabar tegu bus gana tų akelių. Matai, čia yra svarbesnis dalykas. Kaip girdėjai, mums duota neva konstitucija, duota liuosybė. Dabar galime nieko nesibijodami visa žmonėms aiškinti ir kelti juos iš miego. Šiandie šventa, susirinks į bažnyčią daugybės žmonių, tai gi nesnauskime. Pasiprašykime Bladą, tu ir aš, visi trįs nuveisim pas bažnyčią, aiškiai pasakysim žmonėms, kad jau gana ilgiaus miegoti ir būti kitų vergais. Žmonelės nuvargę, parsidirbę, saule įdegę, o čia juos, kaip dėlės, činauninkai siurbia, ponai niekina, o kunigai gązdina kokiu tai išgalvotu Dievu ir pragaru.</p>
+<p>Eime, brolau, atverkime tamsiesiems akis, parodykime savo broliams kelią į geresnį bei laimingesnį gyvenimą.</p>
+<p>— Gerai, Jonuk, eime. Tegu juos galas visus tuos činauninkus ir ponus. Juk dar neperseniai ir aš pats iš „akadamijos“ (kalėjimo) sugrįžau. Tegu juos kelmai su savo tvarka! Sako, aš pavogęs kaimynui lašinius... Tai už tai mane į kalėjimą?!. Didelio daikto lašiniai.., o kur liuosybė?.. Kad aš noriu — tai vagiu...</p>
+<p>— Ne, Baršty, čia jau negerai kalbi. Juk ir prie konstitucijos vogti bus draudžiama.</p>
+<p>— Bene aš vogiau? Sušalęs buvau, ant aukšto užsilipau sušilti. O jei besišįlant užsimaniu valgyt, tai kokia mano kaltybė, jei aš pasiėmiau lašinių paltį. Juk aš noriu valgyt, o jie mane už tai baudžia! Tegu juos nežinau kas griebia!.. — keikė užsidegęs Barštys.</p>
+<p>— Tai menkniekis, kas buvo — tai supuvo — ramino Mykaitis. — Eiva vely žmonėms prakalbą sakyt.</p>
+<p>— Arba tas mųs klebonas — nenorėdamas nutilti, vis keikė Barštys — ar ne juodašimtis, ar ne tamsybių apaštalas? Aną dieną ateina, ateina, vyrs, į Dorius, kad ims ant manęs, kad ims visaip plūsti.</p>
+<p>— Jeigu rasit, girdi, kada-nors Barštį-siuvėją atėjusį naktį į jųs pirkčią, išmeskite tą ištvirkėlį lauk, su šluotomis, moters, išmuškite jį!..</p>
+<p>— Na gana, gana plūsti — malšino Jonuks — eiva greičiau, jau laikas.</p>
+<p>Draugai išsivedė per kapinių vartus ir nusivedė tiesiog į bažnytkiemį.</p>
+
+</div>
+ <div type="chapter">
+ <head>II. Prakalba</head>
+
+<p>— Mamytėle! žinot kokią jums šiandie naujieną iš miesto parnešu?! — tarė jauna, graži Rugieniūtė, sveikindama savo motiną.	</p>
+<p>Senoji Rugienienė buvo tai viena iš rimčiausių ir išmintingiausių visoje apielinkėje moteriškių. Jau keletą metų, pakasus savo vyrą, ji, viena-nešlė likusi su duktere ir sūnumi, vedė visą ūkį. Beūkininkaudama ji išdirbo sau tvirtą, galima sakyt, vyrišką būdą ir apsukrumą: ką ji pasakys, tai bent bus pasakyta! Taigi ir dabar, kada jos Onytė parbėgo iš miesto su naujienomis, Rugienienė sau labai rimtai, išpalengvo ėmė jos klausinėt:</p>
+<p>— Tai kokios tos naujienos?</p>
+<p>— Ogi, mamytėle, mačiau cicilikų pamokslą... Žinot, mamyte, visi rėkia: cicilikai, cicilikai, aš maniau, kad jie tai baisųs žmonės, kad ką tik patinka ant kelio tuoj piauja, ar muša. — Jie, sako, ir griausmus iš dangaus siunčia, kad tik žmones naikinti... Kaip aš, žinot, norėjau, kada nors pamatyti, kaip tie cicilikai atrodo. O jų, lyg tyčia, nėra ir nėra. Girdėt būdavo, tai ten jie pamokslus sakydavo, tai ten, o pas mus neateina ir gana.</p>
+<p>Bet šiandie tuoj po Mišių aš su Dorių Mariute išeinava iš bažnyčios, o čia žmonės, nelyginant bitės iš avilio, tik pilas už šventoriaus. Bėga visi, kas gyvas: seni ir jauni: cicilikai, girdi, pamokslą sako.</p>
+<p>— Vaje gi tu mano, cicilikai! bėkiva — sakau — Mariute ir mudvi paklausyt!</p>
+<p>Prieinam arčiaus, žiūrime: viens vaikinas toks gražus, toks gražus, kad nors į raštą dėk, stovi patvoryje ank akmenų krūvos ir rankoms mosykuodamas, vis kaž-ką kalbą; išgirsti negalėjau: mudvi pertoli ir prieš vėją stovėjova.</p>
+<p>— Tai ką jis pasakojo, tas vaikinas, nieko, sakai, negirdėjai? — užklausė Rugienienė, rimtai išklausius Onutės pasakojimo.</p>
+<p>— Girdėjau, teisybė, keletą žodžių, bet kas čia įsitėmys...</p>
+<p>— Ogi, mamytėle, koks tas vaikinas gražus... Plaukai geltomi, ilgi, garbiniuoti, vėdyluoja, tarytum, mano dievmedžio šakelės, veidas — tai mano ir bijūnas taip puikiai nežydės! Akįs... visas, sakytum, nulietas ir gana! Prasijuoks — tai, anot pasakos, lyg, daimanto šaką nulaužus, tik skamba, tik virba jojo balsas... O toks švelnutis, toks meilutis, kad ėmus tik prisiglausk prie širdies ir gana!..</p>
+<p>— Tai čia tu, Onyte, tiktai su jo gražumu. Didelio daikto gražumas, bene iš gražumo tyrę virsi? Aš norėčia sužinot ką jis pasakojo?</p>
+<p>— Jei jis toks gražus, mamyte, — perkirto motiną Onytė — tai turėjo labai gražiai ir kalbėti!</p>
+<p>— Nu ne! kas kita būti gražum, o visai kas kita — gražiai šnekėti. Tie cicilikai ir aš girdėjau — rimtu balsu pradėjo Rugienienė — nekas žmonės...</p>
+<p>— Ale, mamyte, aš cicilikų nemačiau! Sakau, aš daugiau nieko nemačiau, kaip tik tą gražųjį vaikiną! — karštai gynėsi Onytė.</p>
+<p>— O kaip tau rodosi, tai cicilikai ne vaikinai? Gal manai, kad jie tai ne žmonės? Matai, vaikeli, cicilikai, tai yra tie pats mųsų vaikinai, kurie kovoja su dabartine vyriausybe. Jie, mat, nori naują tvarką užvesti, o senąją panaikinti. Jie, kaip girdėt, ir į Dievą nelabai nor tikėt, ir Bažnyčią pajuokia ir kunigus ir pamaldas...</p>
+<p>— Ne, mamyte, to tai jau tasai vaikinas nekalbėjo! — gynė duktė.</p>
+<p>— Nekalbėjo!., ką tu sakai, kad nekalbėjo, juk ką tik pati buvai prisipažinus, kad nieko negirdėjai, o jau dabar tvirtini, kad nesakė!.. Vai, vaikeli, matyt, tasai gražusis cicilikas tau apsuko galvelę!..</p>
+<p>Tarus tai, Rugienienė rimtai pažiūrėjo dukterei į akis ir pridūrė:</p>
+<p>— Saugok, Dieve, kad tu, Onute, ciciliką pamylėtum!</p>
+<p>Išgirdus tuos motinos žodžius, Onytė susigėdo ir paraudo, paraudo, kaip raudonųjų jurginių žiedelis. Matai, senoji visą teisybę įspėjo. Bet nenorėdama ji prisipažinti, bandė ginties:</p>
+<p>— Būta čia meilės! girdi, turi jis kam save mylėti ir be manęs! — drebančiu nuo susijaudinimo balsu tarė Onytė. Bet tuo-tarpu jos veidai dar labiau užkaito, o kraujas gįslose tvinksėte tvinksėjo. Gėda mat, buvo merginai prisipažinti prie meilės, o taiposgi ir gėda, kad per akis taip savo motinai meluoja, ko Onytė nuo mažens nedarydavo. Taigi dabar, visa susigėdus, ji stovėjo ir nežinojo, nė ką atsakyti, nė kur pasidėt. Ir kažin ligi kol ji būtų taip stovėjus, jeib nepareina namo jos brolis Juozas su seniu Doriu.</p>
+<p>Juozas buvo tai gana gerai pramokintas vaikinas: jis baigė gimnazijos šešias klesas, o po to porą metų mokinosi ūkiškoje mokykloje. Mokslą pabaigęs, Juozas sugrįžo į tėviškę, nes nebuvo kam vesti be jo ūkio. Dorys gi buvo netolimas Rugienių giminė ir nuo seno jau su Rugieniais Doriai didelėje prietelybėje gyveno. Ir šiandien Juozas, grįždamas iš bažnyčios namo, užsivedė pas save ir Dorį.</p>
+<p>— Tegu bus pagarbintas! — tarė Dorys, žengdamas per slenkstį.</p>
+<p>— Ant amžių! — atsakė jam, paskui eidamas, Juozas ir, šale stalo sėdėdama, Rugienienė.</p>
+<p>— Kaip matau, kūmute, negali atsigėrėti savo gražiąja dukrele. Abi sukišę nosis ir čiučianatės, kaip tie paukšteliai! — sveikindamasis su moterim, juokėsi Dorys.</p>
+<p>— Žinia, kumuti, senų pasakyta: dukrelė — paukštelė, plunksnytės sužėlė ir purpt nuo motinėlės!—</p>
+<p>— Nė taip, nė ką! — įsikišo Onytė — aš mamytę myliu ir niekur nuo jos nepurpsėsiu!..</p>
+<p>— Jųs visos, vaikeli, taip šnekat, kol koks ūsorius nepavilioja! — juokdamosi tarė Rugienienė.</p>
+<p>— Bet kokia šiandie Onytė graži — žydi, kaip gėlė! — gėrėjosi Dorys.</p>
+<p>— Ar aš nesakiau, vaikeli, visi mato, kad tasai cicilikas sukautino tavo širdelę! — juokėsi senoji.</p>
+<p>— Tai, mamyte, šneki nė šį, nė tą! Kas man tas cicilikas — dar labiau užkaitus, tarė Onytė ir apsigrįžus išbėgo per duris. Visi ėmė juokties.</p>
+<p>— Apie kokį, kumute, čia šneki ciciliką? Gal apie tą, ką šiandie pamokslą sakė? — užklausė Dorys.</p>
+<p>— Taigi, taigi apie tą patį. Parbėgus Onutė iš bažnyčios, be kvapo įpuola į grinčią: mamyte, girdi, ciciliką mačiau. O jau toks gražus, kad nė raštu neaprašytum.</p>
+<p>— Tas tai teisybė, kūmute, — aiškino Dorys — vaikinas nepaprasto gražumo, bet ir proto nemažo. Kad pradėjo jis šiandien pasakot! Apie viską! Ko jis nežino?! Ir vyriausybės šunybes, ir mųs ūkininkų vargus-nelaimes... apie viską. Ir gražiai šneka. Man tik tai vien nepamėgo, ką jis pradėjo perdaug užtarti už darbininkus:</p>
+<p>— Jųs dirbat, girdi, per išilgas dienas, liejate prakaitą, degate ant saulės, rankos jųs pūslėtos, suskilę, o koks jųs pelnas? — štai menkų pora auksinų ir prastų barščių su duona mitalas!.. Darbininkai, girdi, susipraskite! Tas tai jau ne po mano madai. Jau ir taip nežinai, kaip prie darbininko prieit: vaikščioji kaip apie poną, o jis dar vis keterą šiaušia ir gana. Kas bus, jei dar juos labiau išpaikyt!.. Su tuo tai jau nesutiksiu niekados! — karščiavosi Dorys.</p>
+<p>— Leiskit, dėdute, ir man darbininkų klausime porą žodžių pratarti — visą laiką tylėjęs, tarė Juozas. — Matot, daug yra teisybės, ką jųs, dėde, dabar šnekėjot apie darbininkus: jie, ypač pas ūkininkus, visiškai ištvirko ir dar labiau ištvirks, jei męs apie jų būvį nepasirūpįsime.</p>
+<p>— Kaip čia apie juos rūpinties — rūsčiai pertraukė Dorys — bene sugrąžinus rykščių madą, kaip senovėje buvo. Tuomet viskas būtų gera!..</p>
+<p>— Rykštės, dėdule, mat, ne visai pritiktų žmogui, turinčiam pilną protą. Net ir pats Dievas, nors Jis kiekvienoje valandoje gal nubausti prasikaltusius žmones, tečiaus to nedaro. Jis davė žmogui protą ir liuosą valią ir nori, kad jis, tas žmogus, pats be jokios prievartos gyventų taip, kaip veda jo protas. Tuomet tik žmogaus geras darbas turi vertę; o jeigu jis tą gerą darbą dėl prievartos atliktų — tai kokia čia gali būti jo vertė? Taip lygiai ir su darbininkais. Jei męs visada juos laikysime per gyvulius ir per prievartą su rykštėmis versime prie darbo, tai kol jie matys ant savęs rykštę — dirbs, o ne — tai lik sveiks!</p>
+<p>— Ne, męs darbininkus pripažinkime lygiais sau žmonėmis, apšvieskime juos, parodykime jiems, kad dirbti kiekvienas žmogus privalo ne iš prievartos, bet dėl to, kad aprūpinus savo ir vaikučių gyvenimą, kad dirbti Dievas mums paliepė!</p>
+<p>— Išmokįsi tu vėją, vaikeli! — klausydama sūnaus išvadžiojimų, prabilo senoji.</p>
+<p>— Šiandie, mamyte, ne! Taip greit išmokyt tos visos tamsios — juodos darbininkų minios negali. Bet pamažu, pamažu per keletą, o gal ir per kelioliką metų, o visgi išmokįsim ir gana. Pažiūrėkime tiktai, kaip kituosekraštuose. Juk tik ir ten tie pats darbininkai, ir rykščių nėra, o vienok dirba ir net smarkiai dirba. Dėl ko dirba? — užtai, kad darbininkai tenai apšviesti, supranta darbo naudą, tai ir dirba. O kad lengviaus būtų jiems susirasti darbą, ir kad geriaus galėtų sunaudoti savo darbo vaisių — susitvėrę jie yra į tam tikras draugijas bei sąjungas.</p>
+<p>— Tai gal manytum, Juozuk, ir pas mus įvesti darbininkų draugijas ir sąjungas? — šypsodamasis užklausė Dorys.</p>
+<p>— O kaip manot, dėdute, draugijos— tai ne tik darbininkų, bet ir ūkininkų ir visų žmonių galybė. Per draugijas žmonės lengvina savo vargus, spartina savo darbus.</p>
+<p>— Na, aš labai norėčiau žinot, kokiu būdu tos tavo draugijos gal man paspartint darbą. Bene ateis jos man padėt dirbt?!. —</p>
+<p>— Dirbt, kaip ne dirbt — aiškino Juozas — bet, esant draugijoj, galima daug viens nuo kito gražių patarimų išgirsti. Antgalo, kad ir dirbt, dėlko negali susitverti tokia ūkininkų draugija, kurie įsitaisę bendras mašinas ir darbui įrankius gal viens kitam padėt apdirbt laukus, arba, kitaip sakant, ateiti viens kitam į talką, kaip ir dabar kai-kuriose šalyse yra daroma. Kaip ūkininkai, taip, sakau, ir darbininkai gal, į draugijas susitvėrę, turėti savo kasas, iš kurių gautų pašalpą senatvei, ar ligai atėjus.</p>
+<p>— Nemiršta, vaikeli, badu dar ir dabar jie — tarė senoji Rugienienė. — Katras, vaikeli, buvo jaunas geras žmogus, tai ir senatvėje žmonės jo neapleidžia!..</p>
+<p>— Ana va, ką mamytė sako! — sušuko tuo tarpu grinčion įbėgus Onytė. — Sako, geras žmogus ant senatvės nekenčia bado. Ogi Stepšių senukas, ką Išlandžių dvare ilgus metus artojavo, koks, sako, buvo geras žmogus ir koks darbininkas, o dabar?</p>
+<p>— A, Stepšys! O! tai parinktas žmogus! Atsimenu pats, kaip sykį suvėjau su Išlandžių ponu: tai, girdi, duok man, Dory, dešimtį tokių Stepšių, kaip šits, tai aš galėsiu paleisti visus savo kumečius, o dvaras mano bus puikiau įžiūrėtas, negu dabar! Na, ale tai ir buvo: nė degtinės, nė pypkio, nė jam kompanijų, nė jokių šelmybių, nieko. Jis tik žinojo du keliu: vieną į bažnyčią, kitą į darbą. Tai pašauktas žmogus!.. Aá, ūú — gyrė vis Dorys ir, rodos, vis dar norėjo tą žmogų girti.</p>
+<p>— Taigi, matot, dėdule, koks tai buvo žmogus, o senatvėje ko susilaukė? — tęsė Onutė. — Ana pereitą žiemą aš anksti, dar nešvitus, ateinu į bažnyčia. Žiùriu, palei šventoriaus zomatą, pusnyne kas gumšo. Prieinu arčiau, žiūriu ir nepažįstu: be kepurės, galva nuplikus, ausįs ir keletas likusių plaukų apšarmoję, net balti, kaip sniegas. Rankos pajuodę, dreba, laikydamos dvi dideles lazdas. Ant pečių nudriskusi, vienų lopų, rudinė. Kojos: pėdos visai basos, o blauzdos apvielotos kokiais tai skarmalais, kurių galai prisivėlę sniego ir vilkdamiesi paskui varkšą, suledėję barška...</p>
+<p>— Ai-ai-ai!.. ai... ai... ai!.. — dejavo varkšas, o tas jo dejavimas vos-vos išsiverždavo iš pusiau-suledėjusių lūpų ir čia pat ant vietos kurčiai nyko ore.</p>
+<p>— Seneli, seneli! — arčiau priėjus, ėmiau jįjį šnekinti — tau šalta, varkše?! Te skepetą apsisupk nors savo galvą! Te ir sūrio su duona, gal nevalgęs esi.</p>
+<p>Bet varkšas nesijudino nuo vietos, tik pakreipė į mane savo blizgančias akis ir linktelėjo galva. Truputį palukėjęs, dar sykį linktelėjo ir, vos sugirdėt, tykiu balsu puse lūpų pratarė:</p>
+<p>— Ačiu, tau vaikeli! jau man to visko nereik!.. Neturiu kur galvos priglaust... Šalta man... Dieve tu mano!.. Ačiu vaikeli, ačiu... — ir vis tik tiek ir tiek kalbėjo, o ašaros, kaip žirniai, jam per skruostus bįrėjo...</p>
+<p>— Vargeli — pamislijau — tu mano! Ir nežinia, kas širdį, tarytum, replėmis sugniaužė. Norėjau verkti — nesiverkė, norėjau gelbėti senelį — neturėjau kuo ir kaip. Antgalo, priėjau prie senelio, paėmiau už rankos ir traukte įtraukiau į bažnyčios priangį. Pasodinau ant trepų, apgaubiau skepeta jam galvą, ir surinkus skudurų, — apvyniojau kojas...</p>
+<p>— Sėdėk, sakau, varkše, gal visgi čia šiek-tiek šilčiau ir ramiau tau bus!.. Tai matot, mamyte, sako, geras žmogus ir pasenęs nemirs badu!</p>
+<p>— Stepšys, tai kas kita! Ir jis būt nemiręs badu — ėmė aiškinti Dorys — jeib senasis ponas bųva Išlandžiuose. Bet ponui susibankrutijus — žmogus tur vargti... Ką padarysi — tai nelaimė!.. Nelaimė...</p>
+<p>— O kiek tokių nelaimių ant to margo svieto yra? — ūmai ir smarkiai sušuko Juozas. — Kad būtų mųsų darbininkai apsišvietę, kad turėtų savo draugijas, tuomet nereikėtų jiems, senatvės sulaukus, drebėti nuogam ant šalčio ir mirti badu, kaip Stepšiui reikia! Nereikėtų tuomet žiūrėti, ar ponas nusibankrutijo, ar ne; darbininkui vistiek: draugija turi savo kasą, iš kurios duoda maistą ir aprūpina darbininko ligą, nelaimei atsitikus</p>
+<p>— Gal, vaikeli, ir teisybę šneki — ant galo, atsidusus, tarė Rugienienė.</p>
+<p>— Ir dėl manęs tegu bus teisybė, bet aš pažiūrėsiu, kaip jųs gyvęsite su tomsi teisybėmis — pridūrė Dorys; atsistojo ir, atsisveikinęs Rugienius, išėjo namon.</p>
+</div>
+ <div type="chapter">
+ <head>III. Pirmoji pažintis</head>
+<p>Doriui išėjus, išėjo ir Juozas apsitrūsti apie gyvulius, nes jau artinosi vakaras. Saulė, apsitraukusi raudona varsa, dideliu ratu pamažu leidos už medžių viršūnių, ilgus-ilgus tiesdama jų, tų medžių, šešėlius ant žemės... Dar viena valandėlė — ir toji mylimoji saulelė išnyko iš mųs akių...</p>
+<p>Atėjo puiki vasaros naktis.</p>
+<p>Kas apsakys, kieno jausmai apims tą puikumą ir grožį puikiųjų Lietuvos naktų?! Kieno širdies jos, tos naktįs, netraukia prie savęs, kieno minčių nekelia ten aukštai-aukštai kartu su paukšteliais į mėlynąsias padanges?!</p>
+<p>Ant dangaus milijonų milijonai žvaigždelių mirga ir blizga, tarytum, nusėta žybuoklių žiedais. Štai Vakarinė, didelė, skaisti, nelyginant žvaigždžių karalienė, plačiai paskleidus savo spindulius, rimtai plaukia dangaus skliautais. Čia Grįžratis čia broliai-šenpiūviai sustoję į glitą, o čia, tarytum kieno išgązdintos, sietynėlyje glaudžias viena prie kitos suspitę žvaigždelės; o ten vėl šimtai — tūkstančiai — milijonai dangaus kibirkštėlių žybsi aukštybėse, net ir akis sugriebti jų negal!.. Ir visos tos žvaigždelės: ir didelės ir mažos — tai linksmutės plevena sau, ir purtenas, tarytum, vištyčiai po smiltis, dangaus mėlynėse!..</p>
+<p>Tarp tų gražiųjų žvaigždelių, kaip tėvulis tarp savo vaikelių, palengva mėnulis vaikštinėja, o malonią savo šviesą siunčia jis ant žemės. Ir išblyškusi ta mėnulio šviesa šviečia ir mišką ir ežerą ir žemę. O žemė, pailsus nuo dienos rūpesčių, ilsis sau užmigus saldum miegu.</p>
+<p>Visur tyku: neišgirsi nė žmogaus balso. nė gyvulio riksmo. Kada-ne-kada tik parugėje kiškelis, jieškodams sau maisto, suūksi, kukulakė pelėda sušvilpia, arba paupiais lankose griežlelė liūdną nuolatos traukia savo dainelę: grieš-grieš, grieš-grieš; o putpela jai pritardama: pus-pe-li, pus-peli!.. — nuolatos vis rėkia.</p>
+<p>Ir miško, žaliuojančio gale Rugienių lauko, sumigo plunksnuoti dainininkai, vieni tik medžiai nesiliauja tarp savęs šlamėties kokią tai paslaptingą kalbą...</p>
+<p>Puikus buvo tai vasaros vakaras! Rugienių seniai jau visa šeimyna sugulė, vien tik Onytei miegas nelipdė blakštienų. Ji viena, nuvėjus į seklyčią, atsisėdo šale lango ir pasirėmus gėrėjosi tuo puikiu vasaros vakaru. Per langą jai labai gražiai matyt ir tas žvaigždėms nusėtas dangus, ir miškas, ir blizgantys nuo mėnulio šviesos kaimo ežeras... Onytė ilgai — ilgai nesijudindama sėdėjo ir žiūrėjo į tą puikų vakaro reginį, o mintįs jos, dievai žino, kur skrajojo po padanges už tų skaisčiųjų žiburėlių.</p>
+<p>— O Dieve Tu mano! — antgalo prabilo mergelė viena sau — Dieve Tu mano! kaip puikiai papuošei savo rankų darbus! Bet kaip gi stebėtiną sutvėrei Tu žmogaus širdį?! Niekad aš dar, tokios puikios nakties neregėjau, o vienok jos grožybė neužima šiandie mano širdies. Mano širdžiai permaža tos grožybės — ji siekia ten kur toli-toli...</p>
+<p>Ir rodas, kad aš jį pamatyčiau dabar prieš save stovintį... o!.. būtų daug puikiaus ir maloniaus, negu žiūrėti į šią išblyškusią mėnulio šviesą!.. Koks jis puikus! Turbūt, ne iš mųs krašto, aš jo dar niekad nebuvau mačiusi... Plaukai — kaip auksas, garbiniuoti, vėdyluoja... Akįs — gražiaus už dangaus žvaigždeles spindi... Koks jis malonus... Sėdėtuva čia greta viens kito, čiučentuva kaip paukšteliai, mylėtuvos... Dieve, Dieve...</p>
+<p>— Bet ką aš čia mąstau — pašokus nuo vietos, sušuko mergina — juk tai užginta tokios mintis.</p>
+<p>Tuotarpu seklyčios durįs pamažu tik girkšt atsidarė ir įėjo Rugienių tarnaitė, Magdulė. Vargdienė tai buvo mergina; ją dar nedidelę, dešimtų metų, Rugieniai parsivežė pas save, išaugino ir mylėjo ją, kaip savo dukterį. Ypatingai su ja sutikdavo Onytė, nes jodvi buvo abi vienmetės, sykiu augo, sykiu žaizdavo, sykiu dirbdavo ir viena kitą, kaip sesers, mylėdavos. Jodvi viena nuo kitos niekados ir su nieku nesislėpdavo. Jei Onytė ką sužinodavo, tuoj bėgdavo apie tai pranešti Magdulei; o ką Magdulė žinojo, dalydavosi su Onyte. O šiandie, lyg tyčia, nors daug ką viena kitai turėjo pasipasakoti, bet neturėjo kada: čia svečias, čia triūsa apie vakarienę, naujienos taip ir likos.</p>
+<p>Dabar gi, visiems sumigus, Magdulė neiškentė, ji pirmutinė nuėjo pas Onytę.</p>
+<p>— Argi ir tu, Magdulė, dar nemiegi?! — pilnu nusistebėjimo balsu užklausė Onytė, pamačius įeinant savo draugę.</p>
+<p>— Neramu, žinai, Onytėle, man vienai, aš taip labai tavęs išsiilgau, rodos, amžį nemačius — tykiu, švelnučiu balsu aiškino Magdulė.</p>
+<p>— Gerai, sesyte, ką manęs neužmiršti, ypač šiandie ir man nežinia kodėl neramu. Kažin kokios mintįs, svajonės...</p>
+<p>— Ar žinai, Magdulė? — staiga permainius balsą, užklausė Onytė — aš šiandie girdėjau cicilikų pamokslą.</p>
+<p>— Ir aš girdėjau. Mudvi su savo tetule po pamokslu išėjova pasišnekėti: seniai buvova mačiusiosi. Mums besišnekant, tik žiūrim — bėga žmonės ant rinkos; nuvėjova ir mudvi. Netoli tavęs, Onyte, stovėjova.</p>
+<p>— O ką, kaip tau atrodo tie cicilikai? — nerimastaudama klausinėjo Onytė.</p>
+<p>— Du, kaip du: nė šio, nė to vaikinai, bet trečiasis, ką ilgai kalbėjo, tai žinai, Onyte, puikus vaikinas. Man tuojau į galvą atėjo: kad šitoks mųs Onytei patektų — tai būt pora! Abu geltonplaukiai, skaistveidžiai, aukšti, graikštųs...</p>
+<p>— Tai, Magdule, ir nušnekėjai! Jis mokytas, gal turtingas, o aš ką? — lyg truputį susigėdus, teisinos Rugieniūtė.</p>
+<p>— Mokytas, sakai, Onyte, o bene tu nemokyta?</p>
+<p>— Tai!.. koks mano mokslas? Vos-ne-vos pabaigiau pradinę mokyklą ir porą metų pasimokiau mezginių... o jis...</p>
+<p>— Teisybė, jis išmažens vis mokinasi ir mokinasi — aiškino Magdulė.</p>
+<p>— Tu jį pažįsti? — greit perkirto Onytė.</p>
+<p>— O! gana gerai pažįstu. Jis mano truputį dar giminė. Man šiandie apie tai tetulė išpasakojo.</p>
+<p>— Kaip jo pavardė? — žingeidžiai vis klausė Rugieniūtė.</p>
+<p>— Jonas Mykaitis. Jis gyvena netoli kapinių. Jo tėvai turi gražų ūkį, o jį tiktai vieną. Atsimenu, kaip dar aš maža būdama pas juos tarnavau... Jonuks tuomet ir nekas dar buvo, truputį už mane didesnis. Bet koks jis buvo geras, stačiai jį visi ant rankų nešiodavo...</p>
+<p>— Tu pas juos tarnavai? Kur jis ligi šiol buvo, kad niekad, o niekad, man rodos, aš jo dar nemačiau.</p>
+<p>— Kur tu, Onyte, jį matysi. Juk jis nuo-pat mažens vis mokinasi, namo labai kada retai parvažiuodavo, jeib kada vakacijų metu — aiškino Magdulė.</p>
+<p>— Matai ir pati sakai, kad toks mokytas, o manai, kad kaimo merginą pamėgtų?</p>
+<p>— Taigi aš sakau, Onyte, kad žinau. Jis pats mano tetulei pasisakęs, jog neimsiąs panaitės, bet kaimo lietuvaitę... O antgalo kuo tu menkesnė už panaitę?.. Užsidėk ponių parėdus — pats karalius prieš tave lenksis. Juk visoje apielinkėje gražesnės per tave, Onyte, nėra, tikėk man... Aš nepataikaudama tau sakau...</p>
+<p>— Tai... tai... — nežinodama ką atsakyti, taiksėjo Onytė... Jos širdis pradėjo smarkiau plezdėti, veidai užkaito, o mintis vėl pasklijo po visą pasaulį. Kad tai Dievas duotų!.. kad galėčiau su juo gyventi... Koks jis gražus, meilus, kaip gražiai šneka... ir ilga-ilga virtinė Jonuko pagyrimų plaukė, kaip vilnįs, per Onytės galvą...</p>
+<p>— Ale sako, kad jis į Dievą netikįs? Pajuokiąs Bažnyčią, pamaldas ir kunigus? — valandėlę pasvajojus, ėmė ūmai vėl Onytė klausinėti savo draugės.</p>
+<p>— 	Kaip jaunas buvo Jonuks, tai dievotesnį per jį vaikiną sunku buvo surasti — aiškino Magdulė. — Atsimenu, lyg šiandie, kaip vieną sykį Jonuks, parbėgęs nuo kapinių, apsikabino savo motinai už kaklo:</p>
+<p>— Mamyte, girdi, aš būsiu kunigu.</p>
+<p>— Kodėl, mano vaikeli? — klausia motina.</p>
+<p>— Ogi, girdi, kunigai tankiai meldžiasi už dūšeles, o aš taip labai už jąs noriu melsties... man jų taip gaila... Bet dabar, girdėjau, kad Jonuks jau šiame dalyke atsimainė. Į Bažnyčią neinąs, į nieką netikįs...</p>
+<p>— Jei taip, tai jis jau mano nebus! — nuliūdusiu balsu, galvą linguodama, tarė Rugieniūtė. — Aš katalikė, o jis ne; aš Dievą myliu, o jis ne; aš kunigus gerbiu, o jis juos pajuokia... ne jis, jei taip, manuoju būti negal...</p>
+<p>— Nepyk, Onyte, ne, aš tikrai nežinau ar jis toks, ar ne. Aš tik kitus apie jį taip šnekant girdėjau, gal jis visai kitoks...</p>
+<p>O antgalo, kad būtų ir taip, tai perdaug nėra ką bijoties. Juk žmogus mainosi: šiemet gal būt suklydęs, o kitus metus gal pasitaisyti.</p>
+<p>— Teisybė ir tai, daug tokių žmonių yra, kurie susipranta ir meta savo suklydimus... Bet ką čia mudvi šnekavos, kaip Dievas duos, taip bus. Eiva gult! — šiek-tiek susiraminus, tarė Onytė ir, užsikėlus, apsikabino Magdulę, prispaudė arti prie savęs ir keletą kartų saldžiai pabučiavo.</p>
+<p>— Magdule, tu vargdienėle, apie mane rūpiniesi, o nepamąstai. kas su tavim dėsis, kurioj šalelėje tavasis auga...</p>
+<p>— Tai, Onytėle, — kuo ne per verksmus ėmė Magdulė kalbėt — by tik tau būtų gera, o su manim kaip dedama. Aš našlaitė, kam manęs reikia?!. —</p>
+<p>Ir varkšei pabiro per skruostus ašaros.</p>
+<p>Mėnulis gi, savo išblyškusią šviesą paskliedęs ant žemės, maloniai žiūrėjo į tąs dvi jaunas merginas, svajojančias apie savo ateitį... Žiūrėjo ir palengva vis leidos į vakarų šalį...</p>
+<p>Išsikalbėjusios mųsų draugės sugulė, bet dar ilgai miegas neužmerkė joms akių... Vienai iš jųdviejų nuolatos akyse vis stovėjo jaunas geltonplaukis vaikinas, o kitai slinko pro akis praėjusieji ir dar būsiantieji jos gyvenimo vargai ir ašaros...</p>
+
+</div>
+ <div type="chapter">
+ <head>IV. Po prakalbai</head>
+
+<p>Tuo tarpu, kada Rugienių name, viskas buvo tyku ir ramu, kitame parapijos krašte, šale parapijos kapinyno, visai buvo kaskita.</p>
+<p>Prie kapinyno kampo, nors buvo naktis ir mėnulis seniai nusileido, bet dar šviečiant ant dangaus žvaigždelėms, aiškiai matyt buvo riogsanti ilga Mykaičių pirkčia. Dideli jos langai nuo lempos, yt žarijos žerėjo ir skliedė į palangę ilgus šviesos šmorus.</p>
+<p>Viduje, prie stalo, sėdėjo penki vyrukai. Du turėjo užsiželdę nedideles barzdeles ir ilgus plaukus; viens buvo jau apysenis, juodais ūsais ir raukšlėta kakta vyras; o du, tai dar visai jaunu vyruku.</p>
+<p>— Vyručiai! žinote ką, — staiga pakilęs nuo suolo, sušuko viens iš barzduolių — Plankius, kurs sykiu su savo broliu Endriumi čia atvyko svečiuosna — žinote ką?! Jei męs į savo kumpaniją priimdinėsim kožną bevieną, kaip ligi šiol darėme, tai neką nuveiksime!..</p>
+<p>— Kodėl taip, broliau, kalbi? — užklausė, taipogi pasikeldamas iš užstalės, viens iš jaunųjų vyrukų.</p>
+<p>— Kodėl? — klausi, Endriuk?. — Todėl, kad žmonės mųs ims nekęsti. Tik pažiūrėkime, kokius męs savo draugijoje turime. Nors padėkim, imkime Barštį. Koks jis žmogus — visi aplinkiniai žino: ir vagis, ir peštukas, ir girtuoklis, ir valkata... O męs su juo draugaujame.</p>
+<p>— Tai teisybė! — pritarė ir kitas, turįs gražią barzdelę ir puikiai garbiniuotus ilgus plaukus. Jis mums jau pažįstamas — Mykaičių Jonuks.</p>
+<p>— Jei ištikro, tasai Barštys yra tokią apie save apielinkėje išsidirbęs blogą nuomonę — tęsė Plankius — tai męs jį kuo-greičiau nuo savęs atmeskime. Nesa žmones ir mus palaikys už vagis ir plėšikus, jei kartu su juo draugausime.</p>
+<p>— Aš net ir girdėjau taip apie mus šnekant! — pridūrė Mykaitis — Būta ko čia, girdi, klausyt! Valkatų būrelis susirinko ir pliauškia nežinia ką!.. Dievaž, aš tą šiandie per prakalbas nuo žmonių girdėjau. Viens net griebėsi už akmens ir norėjo sviesti man į kaktą, jeib kaimynas jo nesulaiko.</p>
+<p>— Tokiu būdu nutariame Barštį išmesti iš savo draugijos? — išklausęs to pasakojimo, užklausė tasai apysenis, juodais ūsais žmogus — Kubilius — Išmest, tai išmest... lengvas tai darbas... Bet, draugai, atsiminkime, kad mažas mųs būrelis, sunku bus į Barščio vietą kitą tokį surasti!.. Tegu jis vagis ir girtuoklis... bet visgi tai gudrus ir vikrus vaikinas. Jis mums gal būti kada labai naudingas!</p>
+<p>— Vardas — mums tai naudingiausias daiktas. Kaip gerą vardą turėsime — tuomet lengva bus ir šimtai susirasti draugų... O be vardo, tai ir Barštys nieko nepagelbės!.. — Tai tiek aš sakau! — baigdamas kalbėti, tarė Plankius.</p>
+<p>— Aš gi — aiškino Mykaitis — nevisiškai tinku su Tamstos nuomonėmis. Barštys dabar nedoras žmogus, o jei męs jį atstumsime nuo savęs, bus dar nedoresnis. Mano nuomone, neišmeskime jo iš savo tarpo, bet tik įgraudinkime jį, kad daugiau atsižadėtų savo juodo amato. Jei apsiims pasitaisyti, ko nuo jo mums šalinties.</p>
+<p>— Tinkame, tinkame visi su tamstos nuomone! Išbart jį už nedorus darbus!.. Mirtimi jam pagrąsint, jei nenorės taisyties! — pritarė keli balsai.</p>
+<p>— Labą vakarą! — tarė tuotarpu įžengdamas per slenkstį Barštys.</p>
+<p>— Apie ką jųs čia taip baratės. Ką jųs ketate taip smarkiai bausti?..</p>
+<p>Visi draugai nutilo. Jiems nedrąsu buvo. Mat, galėjo Barštys girdėti, kad apie jį buvo šnekama. Matydamas tai, Barštys smarkiau užklausė:</p>
+<p>— Ko jųs visi nutilote, lyg žemes pardavę? Ko jųs pabūgote? Gal manote, kad aš šnipas? —</p>
+<p>— Taip nemanome — antgalo įsidrąsinęs, tarė Kubilius — bet čia kalba buvo apie tamstą, būk nevisai dorai užsilaikąs. Ir vagiliaująs tamsta, ir mėgstąs išsigerti perdaug, ir paleistuviaująs...</p>
+<p>— O tamsta ne? — pasižeidęs Barštys prišoko prie Kubiliaus — tamsta doriaus už mane gyveni? Kas pereitą nedėldienį voliojosi po purvyną, kas? ar ne tamstelė?</p>
+<p>— Gana, gana, dar susipešite — ėmė</p>
+<p>juodu skirti Mykaitis. — Tu, Baršty, esi kaltas, visi ant tavęs kaip ant vilko uja, taigi žiūrėk, kad nuo šios dienos pasitaisytum.</p>
+<p>— O jei nepasitaisysi, tai ve... — atkišęs brauningą, tarė viens iš jaunųjų.</p>
+<p>— O tamstai ve!.. — durdamas špygą vaikinui po nosimi, suriko Barštys ir jau buvo besimojąs tvykstelti savo priešininkui į žandą. Bet čia visi supuolė ir perskyrė juodu.</p>
+<p>— Gana, tai tegu bus gana — antgalo, mostelėjęs ranka, tarė Barštys. — Galiu aš pasitaisyti, bet žiūrėkite, kad ir jųs visi pasitaisytumėte!</p>
+<p>— Vyrai! kas čia?! — staiga prišokęs prie lango ir atstatęs ausį, sušuko Kubilius — švilpia? Švilpia... ar girdite? Kazokai!!</p>
+<p>— Ne, tai nieko — aiškino Mykaitis — panaktinis eina dvare panaktę ir švilpia...</p>
+<p>— Kur čia tau panaktinis, kad švilpia keliose vietose!.. Vyrai neškimės, čia jau, matyt, ant mųs rengiama kailio.</p>
+<p>— O kaip su kancelerija? — užklausė viens iš draugų.</p>
+<p>— Tegu ją šimts tą kanceleriją. Mano kailis man brangesnis už viską,</p>
+<p>— Ee! tamsta, nemaniau, kad toks bailus, kaip kiškis... Tai būta man revoliucijoneriaus — ėmė juokties Barštys.</p>
+<p>— Jei taip sakai, tai eime!</p>
+<p>— Eime — visi vienu balsu tarė ir pasiėmę kepures, revolveriais rankose nešini, išėjo.</p>
+<p>Kancelerijos būstas buvo gana dar atokiai nuo Mykaičių. Reikėjo dar praeiti pro smuklę ir dvejus dvaro kumečių gyvenimus. Kancelerija stovėjo ant upelės kranto, pačiame dvaro viduryje.</p>
+<p>Mųsų vaikinai praėjo smuklę ir leidosi į pakalnę pro kumetbučius. Štai už kumetbučio tik švilpt... Už upelio kitas — švilpt, už kluonų — švilpt... Šunes sulujo...</p>
+<p>— Vyručiai, atgal — nesavu balsu sušuko Kubilius — jau po mųs... Va Jezus Marija gelbėkit mus!</p>
+<p>Ir pasipustęs padus dumt atgal ant kapinyno, paskui jį Barštys ir kiti.</p>
+<p>— Tegu juos kur, su savo kancelerija ir su viskuo. Visas dvaras nemiega, o jiems čia tik kancelerijos plėšt! Eikit sau! manęs neprigausit! — vos-vos nuo pailsimo kvėpuodamas, vis keikė Kubilius. O Barštys juokėsi. Plankius pyko, kad jo draugai toki netikę, bailųs ir ištvirkę.</p>
+<p>— Ką su tokiais gali padaryt? — galvojo jis sau, kad vos tik kas sušvilpė, o jie, kaip maži vaikai, nežino kur iš baimės dėties!</p>
+<p>Pavojus praslinko. Nustojo švilpę. Mųs draugai vėl susirinko visi pas Mykaičius.</p>
+<p>— Nemaniau, kad tamsta, Kubiliau, esi dar prarūgęs senovės raugu. Šiandie gi aiškiai pamačiau, kad tamstai ne revoliucijonerium būt, bet davatka; ir ne iš brauningų šaudyti, bet tik kunigams rankas laižyti! — pilnu pašiepimo balsu juokėsi Barštys.</p>
+<p>— Atsimink, Baršty, kad mane užgauni!</p>
+<p>— Užgaunu?! — ka-ka-ka-ka — kvatojosi Barštys — girdi, užgaunu!.. O ką tamsta kalbėjai bėgdamas nuo kancelerijos? Prie ko šaukeisi? Taip, tai nėra Dievo, nė dūšios, o kaip ėmė švilpti, tai atsirado ir Jezus ir Marija... Ka-ka-ka!..</p>
+<p>— Matai, dovanok, broliuk, netyčia išsitariau, iš senovės papročio — dikčiai susigėdęs, teisinosi Kubilius. — Matai, kada nelaimė, tai užmiršti žmogus ką ir bekalbąs...</p>
+<p>— Dovanokite man — įsikišo Plankius — tamstos dabar viens kitą koliojatės užtikėjimą, jei neapsirinku, ar teisybė?</p>
+<p>— Taip! — atkirto Kubilius — Barštys man prikaišinėja, būk aš dar visiškai nesu atsimetęs nuo senovės prietarų. Juokiasi iš manęs, ką aš netyčia išsitariau: Jezus Marija... bet aš tai, sakau, visai netyčia išsitariau... Aš jokio tikėjimo nepripažįstu — teisinosi Kubilius, tikėdamos rasti pritarimą ir pas Plankių.</p>
+<p>Kubilius apsiriko. Plankius buvo doras vaikinas. Jis gyvai tikėjo į Dievą ir stropiai pildė katalikų priedermes. Užtat nemaža jis pasipiktino, išgirdęs apie Barščio nedorą gyvenimą, o dabar dar labiau pasipiktino, girdėdamas, kaip Barštys, norėdamas nužeminti draugų akyse Kubilių, prikaišinėja jam tikėjimą, tarytum, tikėjimas būtų viens iš didžiausių prasikaltimų. Susopo Plankiui širdį, kad jo draugai net ligi tol priėjo.</p>
+<p>— Tamsta manęs nepažįsti — išklausęs teisinimosi Kubiliaus, pradėjo Plankius — ir manai, kad aš pritarsiu tau ir pagirsiu tavo netikėjimą. Dikčiai tamsta apsirinki. Aš nuo mažens į Dievą tikėjau ir tikėsiu, ir visas kataliko priedermes pildysiu. Nes aš esmi persitikrinęs, kad be tikėjimo ir didžiausias mokslas eina per niek!..</p>
+<p>Visi draugai tylėjo ir nežinojo, ką ant to atsakyti. Plankius buvo baigusis universitetą Maskvoje, o poto šešerius metus mokėsi užsienių universitetuose. Jis buvo rimčiausias ir išmintingiausias iš visų draugų ir narsiausias revoliucijonerių vadas. Pertai, nors anie visi keturi draugai visai netikėjo, bet ginčyties su Plankium nė viens neišdrįso. Kokią porą minutų visi tylėjo ir laukė, ką Plankius toliau pasakys.</p>
+<p>— Patvirtinimui mano žodžių — tęsė lukterėjęs truputį Plankius — pasakysiu tai. Žmogus visuomenei atneš didelę naudą tik tuomet, kada jis išsižadės pats savęs. Kol gi jis rūpįsįs pats savimi, tuomet visuomenės reikalai eina šalin. Išsižadėti gi paties savęs žmogus gal tiktai su pagalba religijos ir tikėjimo. Tikėjimas mums aiškina, kad žmogaus prigimimas sugadintas, pilnas palinkimų prie pikto ir nėra ką prie jo perdaug prisirišti. Priešingai, nuo-pat mažens męs turime smarkiai kovoti pats su savimi, kad nepasidavus kūno geiduliams. Ir kuris tuos geidulius ir palinkimus prie pikto pergali, tas tik yra doras žmogus, tas tiktai gal daug nuveikti žmonijos naudai. Pavyzdžiui imkime du vaikinu. Vieną karštą kataliką, o kitą neturintį jokio tikėjimo. Ir pažiūrėkime. Anasai katalikas bus visuomet doras, teisingas, nuolankus, blaivus ir darpštus vaikinas, nesa tų dorybių nuo jo reikalauja jojo tikėjimas. Netikintysis gi — bus visai priešingai: ir girtuoklis, neteisingas ir pilnas puikybės, o apie jo dorybę nėra ką ir kalbėti...</p>
+<p>Visi draugai tylėjo ir pamažu vis raudo, nes Plankius, rodos, iš knygų, skaitė jų gyvenimo ydas. Viens tiktai Mykaitis, nors jis ir netikėjo į Dievą, bet nedorybėmis visokiomis biaurinosi; mat, dar nuo mažens atsiliepdavo jame gražus motinos išauklėjimas. Užtat jis viens tik ir išdrįso Plankiui pertarti:</p>
+<p>— Šiame, tai nevisai su Tamsta sutikčia. Juk ne visi, kurie netiki į Dievą, yra nedorųs žmonės. O vėl ne visi tikintieji yra aniolais... Kiek yra ir katalikų ištvirkėlių.</p>
+<p>— Nesakau, kad visi netikintieji būtų ištvirkę, arba visi katalikai šventi. Ne! yra visokių, bet čia dalykas tame yra, kad tikėjimas žmogų verčia būti geru, jeigu žmogus jo klauso. O jei neklauso jo ir nepildo savo tikėjimo priedermių, tai tame ne tikėjimas kaltas, bet žmogus.</p>
+<p>Teisybė, ir tarpe netikinčiųjų galima surasti saujalę, nors labai mažą, dorų žmonių, bet tiktai dėlei to, kad jie iš-mažens buvo tikinčiųjų tėvų auklėjami ir dora jiems giliai į širdį įsėta. Tas išauklėjimas ir dora pereina žmogui į prigimimą ir tokiu būdu pasiliekti ligi mirsiant, norint žmogus jau to tikėjimo būtų visai išsižadėjęs.</p>
+<p>— Bet dar tamstą pertarsiu — atsiliepė Mykaitis — jei sulig tamstos nuomonės, tikėjimas yra taip labai reikalingas, tai kodėl dabartinė žmonijos srovė rūpinasi to tikėjimo visiškai atsikratyti. Ir netik tai randas pas mus, bet ir kitur, ar paimkim prancūzų žemę, ar valakų, ar kitas šalis.</p>
+<p>— Kad žmonės dabar nori numesti nuo savęs tikėjimą, tai tamsta teisingai patėmijai. Bet kodėl jie taip daro, mano nuomonė šiame dalyke tokia. Mat, kaip nelyginant upės vanduo nuolatos vis teka ir teka pirmyn, taip ir žmonės vis eina pirmyn. Auga naujos kartos, gema nauji sumanymai, nauji valstijos sutvarkymai, nauji darbo įrankiai... Pripratus gi prie tų naujų sutvarkymų ir sumanymų, nevienam pareina į galvą ir tikėjimą užmesti į senovės palaikus, o surasti šį-tą naujo, kas galėtų tos persenėjusios religijos vietą užimti. Užtat jie tikėjimą atmeta, o jo vieton stato protą, kuris juos dažnai suklaidina.</p>
+<p>Kita gi žmonių dalis yra tokių, kurie daugiau nieko nenor, kaip tik linksmai pagyventi ir visiems savo pageidimams pakakinti. Bet šiandie, kada visuomenė yra tikinti ir prisilaiko doros, tokiems linksmūnams koktu vesti skirtingą nuo kitų gyvenimą; juos visi pirštais bado... Taigi, norėdami jie nusiteisinti savo nepadorų gyvenimą savo sąžinėje ir žmonių akyse, aiškina visiems, kad jokio Dievo nebesama ir jokiems senovės prietarams tikėti nereikią!</p>
+<p>— Et, tamsta, šneki, ar nešneki, o tikėjimas tai atžagareivių darbas ir gana! — nusijuokė Barštys.</p>
+<p>— Kurie didesni atžagareiviai: tikintieji, ar netikintieji, tai dar didelis klausimas — lėtai išvadžiojo Plankius. — Pirmeivybė, mano nuomone, yra tada, kada žmogus rūpinasi nuolatos pažinti, kas yra bloga jo gyvenime; o pažinęs, tą blogą tuoj meta nuo savęs šalin ir pakeičia geru. Taip lygiai, kad ūkininkas mets nuo meto apžiūri savo namą. Radęs kur patręšusį sienojį, tuoj jį meta, o jo vieton deda kitą naują. Taigi, man rodos, vien tik žmogus, turintis stiprų tikėjimą, gal būti tikru pirmeiviu; nes jo tikėjimas verčia jį pažinti savo blogus palinkimus ir darbus, arba nusidėjimus, o pažinus, juos nuo savęs atmesti ir gerais pakeisti, kaip tas ūkininkas su troba savo darė. Tam tikslui yra įstatytas net ir pakiltos sakramentas arba išpažintis. Per išpažintį žmogus nuolatos savo gyvenimą atnaujiną. Tokiu būdu išpažintis yra pirmeivybės sakramentu.</p>
+<p>Žmogus sutvarkęs savo privatinį gyvenimą, sugebės sutvarkyti ir nuolatos gerinti ir viešąjį.</p>
+<p>Tuotarpu žmonės, neturintieji jokio tikėjimo, visai nesirūpina sutvarkyti savo dūšios, taip sakant, reikalus ir gyvena, kaip kuriam patinka. Nemokėdami sutvarkyti pačių savęs, toki žmonės neįveik sutvarkyti ir pagerinti savo viešo gyvenimo...</p>
+<p>— Taip bent sulig mano nuomonės išeina! — baigdamas tarė Plankius.</p>
+<p>— Iš tamstos kalbos aišku, kad esi karštai tikintis žmogus, tai kokiu būdu tamsta gali revoliuciją kelti? — paklausė ligi tol tylėjęs viens iš jaunųjų vaikinų, Bladas, aštuontos klesos mokinys.</p>
+<p>— Revoliucija kas kita, o kas kita tikėjimas — ėmė vėl aiškinti Plankius. — Katalikų tikėjimas visai neužgina revoliucijos kelti prieš tokią valdžią, kuri yra neteisinga ir skaudžia mųsų teises. Ir žydai, randame Šventajame Rašte, kovėsi su visokiais savo neprieteliais, kesinančiaisi ant jųjų liuosybės; ir katalikai nekartą jau grūmėsi su savo prispaudėjais, o Bažnyčia jiems to visai nedraudė. Aišku. Jei vagiui užpuolus ant mųsų namo, galima ginties ir net jį peršauti, jei jis nesitraukia, — tuo labiau galima ginti nuo vagių ir visą savo tėvynę...</p>
+<p>— Kaip tamsta šneki, tai, rodos, būtų teisybė — vėl įsikišo Kubilius — bet pasakyk, kodėl gi dabar mųs revoliucijos kunigai nepagiria. Socijalistus keikia, kaip įmanydami, o žmonėms liepia, — kas ciesoriaus, atiduoti ciesoriui“?</p>
+<p>— Čia vėl kas kita. Kunigai į revoliuciją nesikiša, nes jie turi savo darbą: aprūpinimą žmonių dvasišku maistu, bet gerų revoliucijonerių jie ir nekeikia. Jie tik keikia, kaip patsai, tamsta, pasakei, socijalistus. Socijalistai, matai, visai kas kita: jie ne tik su svietiškąja vyriausybe varo kovą, bet ir su Bažnyčia ir tikėjimu. Jeigu gi socijalistai užpuola ant Bažnyčios, tai kaip gi toji Bažnyčia nepeiks jų darbų?!. O tais žodžiais „kas yra ciesoriaus, atiduokite ciesoriui“ Bažnyčia nori mums priminti, kad męs turime turėti ant savęs šiokią-tokią viršenybę — valdžią, kurios turime klausyti. Nes kitoniškai pasidarytų anarchija, betvarkė. Kokia gi ta valdžia bus: ar tai respublika, ar konstitucijinė monarchija, ar kita kokia, tai Bažnyčiai vistiek!..</p>
+<p>— Ale tegu bus gana to tikėjimo — perkirto Kubilius — jau antri gaidžiai pragiedojo, o lauke švinta, eime jau namo.</p>
+<p>— Jau laikas, laikas — visi vienu balsu pritarė Kubiliui. Visi sustojo ir ėmė sveikinties.</p>
+<p>— Laikas, tai laikas — atsisveikindamas svečius, tarė Mykaitis — bet kada, draugai, ir kur męs vėl susiveisime. Man rodos, būtų geriausiai kitą subatvakary vėl čia ant kapinių, arba pas mane. Gerai?</p>
+<p>— Gerai, gerai!.. — atsiliepė visi balsai. Durįs virstelėjo ir draugai kas sava žara išvaikščiojo į namus.</p>
+
+</div>
+ <div type="chapter">
+ <head>V. Tarybos</head>
+
+<p>Svečius išsileidęs, Mykaitis užpūtė žiburį ir nusirengęs atsigulė į lovą. Visoje pirkčioje buvo kuogiliausia tyka, vien kada-ne-kada buvo girdėt kvėpavimas už sienos gulinčios senutės-Mykaitienės. Varkšė, nusidirbus per dienas, ir per miegus nuolatos vis dejuoja, tarytum, jaučia visų savo dienų iškentėtus sopulius. O tie jos dejavimai ir kvėpavimas kurčiai skriejosi po visą kambarį...</p>
+<p>Mykaitis gulėjo ir klausė to, tamsoje paslaptingai atrodančio balso, o mintįs jo skriejo nežinia kur. Jam ypatingai galvoje stovėjo atsitikimai šios dienos. Prakalba... žmonių minios... draugai... Barštys... svečiai Plankiai... kanceliarija... švilpimai.... o galų galiausia į jo mintį skverbėsi toji Plankiaus kalba apie reikalingumą mųsų gyvenime tikėjimo.</p>
+<p>— Ir aš kada-tai taip galvojau — mąstė Jonuks — ir aš tikėjimą gyniau... ir buvau doras... Teisybę tasai Plankius sakė, o dabar, kada pradėjau netikėti, jau-jau keletą kartų buvau perdaug ir užsidrožęs ir kuo-tik priešais dorą neprasižengiau... bet susilaikiau... Kodėl susilaikiau? — gal man mokslas tai rodo, kad reikia dorą išlaikyti? — Ne! mokslas man nieko nerodo, nes mano profesoriai koki mokyti žmonės, tarytum, savo galvose viso pasaulio mokslą nešioja, o tečiaus koks jųjų gyvenimas?!. Mųsų tarnaitė Magdulė, nors visai nemokyta, o daug gražiaus gyvena, neg anie mano profesoriai!.. Kodėl? — užtai, kad ji tiki į Dievą, o profesoriai ne?.. Ar-gi tai butų teisybė?.. Bent taip Plankius šiandie pasakojo. Plankius — mokytas vyras ir visur buvęs ir daug ką matęs. Ir jis sako, kad tikėjimas reikalingas sutvarkymui musų gyvenimo, tai galima jam tikėt...</p>
+<p>Tikėt?.. Kaip tai, aš vėl pradėsiu tikėt į tą Dievą, kurio, sakiau, jog visai nėra?.. Imsiu garbint Tą, kurį ligi tol buvau niekinęs?..</p>
+<p>Ir čia Jonukui pasidarė skriūdu ir lyg kažinko baisu, ar tai neramu. Jis, pasikėlęs, atsisėdo ant lovos, užsiėmė veidą ir kažką užsimąstė.	</p>
+<p>Tuotarpu senutė-motina garsiau sukvėpavo ir, giliai-giliai per miegus atsidusus, pusbalsiai ėmė kalbėti:</p>
+<p>— Jezau, Jezau!.. maloniausias, susimilk ant manęs!..</p>
+<p>Ištarė ir nutilo. Bet po valandėles vėl ėmė kalbėt:</p>
+<p>— Marija, gailestingiausioji motina! sugrąžink man mano vienatinį sūnelį!.. Išprašyk jam šventąją Dvasią, kad sugrįžtų vėl prie Dievo!.. Oi Marija, Marija... — kuo tolyn vis neaiškyn kalbėjo senoji, ant-galo vėl visai nutilo. Tiktai aidas, nutvėręs paskutįnius jos žodžius, nešiojo po kambario tamsybes ir nuolatos vis kartojo:</p>
+<p>— Marija... Marija!..</p>
+<p>Jonuką visą perėmė šiurpuliai. Jam pasidarė baisu ir skriūdu:</p>
+<p>— Kaip tai? mano mylimoji mamytė, kurią aš nuo mažens taip gerbiau, prie kurios buvau taip prisirišęs, skaito mane už visai jos išsižadėjusį?.. Ji prašo, kad Marija mane jai sugrąžintų... Kur aš dingau... Mamyte...</p>
+<p>Dar ką norėjo ištarti Jonuks, bet jam lūpos susičiaupė, ėmė jam visi nervai drebėti... Iš akių ašaros nebyrėjo, bet akyse, tarytum, kas ugne svilino... Jis apsikniaubė ant priegalvio, norėjo užmiršti tą baisų įspūdį, bet tie motinos žodžiai, lyg kokia įkyri musia, vis zvembė ir zvembė jam pro ausis...</p>
+<p>— Mamytėle, — neišlaikęs, jis vėl ėmė pats su savim kalbėti — tu našle būdama mane auginai nuo mažens, per naktis nemigai, ant rankų nešiojai... vargai, varkšele, vargai, paskutinį savo skatiką man atidavei, kad tik mane žmogum pastačius... O dabar... senatvėje ir miegant negali dėl manęs pasilsėti... Ir per miegus aš tau sapnuojuos, lyg kokia šmėkla!...</p>
+<p>Apsikniaubė dar labiaus mųs Jonuks ir nutilo, jam perskaudu pasidarė... Nepoilgam miegas užmerkė jam nuvargusias blakstienas.</p>
+<p>Jau aukštai panedėlio rytą saulutė buvo pakilus, žmonės seniai jau, nelyginant skruzdės po skruzdyną, pakrikę po laukus, skubiai dirbo kiekvienas savo darbą.</p>
+<p>Nusibodo jau ir piemeniukui dūduoti savo rageliu. O mųsų Jonuks dar miegojo. Netoli tik pusryčių jis porą kartų pasiraivė, apsivertė ant kito šono ir atvėrė akis. Saulutė pro langą visą spindulių glėbį driekė tiesiog į Jonuko lovą.</p>
+<p>— Jau laikas kelties — pasiraivęs dar porą kartų, balsu tarė vaikinas.</p>
+<p>— Gulėk dar, gulėk, varkše, — atsiliepė iš kerčios senutės — motinos balsas — nuvargai vakar, taip ilgai čia plepėjote... Pamiegok dar...</p>
+<p>Jonuks, išgirdęs motinos balsą, pasuko galvą į kerčią. Motina klūpojo ties Nuolatinės Pagalbos Švenčiausiosios Motinos Paveikslu ir susiėmus rankas, akis įsmeigus į malonų Dievo Motinos veidą, karštai meldėsi. Saulutės spinduliai, prasimušę pro langą, nelyginant žuvytės vaiskiam upelio vandenyje, gražiai mirgėjo po pražilusius, kaip obelis, senutės plaukus...</p>
+<p>Dirstelėjo į ją Jonuks ir viską suprato: ko ji taip karštai meldžiasi, kas guli akmeniu jai ant širdies... Neatitraukdamas akių, ilgai jis žiūrėjo ir į tuos žilus, nuo saulės blizgančius plaukus, ir į jos malonų, nuo senatvės surumbėjusį veidą, į lūpas, nuolatos krutančias ir tariančias karštus maldos žodžius, į aukštus antakius, kurie nuolatos vis tai pasikeldavo aukštyn, tai užslinkdavo ant blakstienų, išspauzdami iš-po jų dideles ašarų kruopas... O tos ašaros po vieną vis byrėjo, kaip žirniai, tai ant krūtinės, tai ant knygų, tai ant žemės ir kiekvieną kartą nuo captelėjimo balsas sklijo po kambarį...</p>
+<p>Jonuks tylėjo ir žiūrėjo; galvoti nieko negalėjo, nes galvoje jam viskas maišėsi.</p>
+<p>Pasimeldus ilgą valandą į Dievo Motiną, senutė atsikėlė, apsišluoštė ašarotus savo skruostus ir palengva prisiartino prie sūnaus lovos.</p>
+<p>— Ar jau negali, vaikeli, užmigti? — uždėjus sūnui ant peties ranką, patyka užklausė senutė.</p>
+<p>— Ačiu, mamyte, miegojau gana gardžiai — bučiuodamas sudžiūvusią savo motinos ranką, atsakė Jonuks.</p>
+<p>Su tais žodžiais motinos su sūnum šneka vėl nutrūko. Senutė sedėjo ant lovos krašto, o Jonukas gulėjo ir abu tylėjo. Bet iš veido matyt buvo, kad juodu abu baisiai susijaudinę. Senutė visa buvo išblyškus, jos antakiai nuolatos vis judėjo, o lūpų patįs kraščiukai vos žym virbėjo, matyt, norėjo ką kalbėti, bet nedrįso, ar nežinojo iš katro galo pradėt. Jonuko gi veidas taiposgi nuolatos vis mainės ir mainės. Jis laukė, ką motina jam pasakys.</p>
+<p>Prasėdėjus jiedviem taip valandėlę, antgalo senutė surinko visą savo drąsą, sunkiai atsiduso ir, paėmus Jonukui už galvos, prabilo:</p>
+<p>— Vaikeli, vaikeli tu mano!.. Kas bus iš tavęs?!. Rodos, kaip gražiai aš tave auginau... Ir mokiau... kad primanyčia, rodos, visą širdį tau atiduočiau... o tu?!. užmiršai, vaikeli, mane... Išsižadėjai manęs... apleidai senatvėje... Tai ir mano viltis!.. visas mano paramas!..</p>
+<p>Ir senutei išnaujo pabiro graudžios ašaros.</p>
+<p>— Mamytėle! — susigraudinęs ir laikydamas motinos ranką, ėmė teisinties sūnus — mamytėle! kodėl taip kalbi? Kada aš tavęs išsižadėjau?.. ar aš tau kada nors kokį negražų žodį drėbiau, ar paniekinau?.. Aš tave kaip mažas, taip ir dabar myliu...</p>
+<p>— Taigi, vaikeli, sakai, manęs nepaniekini, ar gali būti didesnis paniekinimas, jei tu pajuoki visa tai, kas mano širdžiai yra brangiausio... Sakaisi manęs neužmiršti; o ar gal būt didesnis užmiršimas, jei užmiršti visa tai, ko aš tave mokinau... Tavo tėvelis ir aš buvome katalikai, tas tikėjimas buvo tai didžiausias mųsų turtas. Taigi tą didžiausią savo turtą norėjome tau palikti... O tu, nedorasis vaikeli, didžiausius savo tėvų palaikus praleidai... Tu tikėjimo išsižadėjai, tu bažnyčion neini, išpažinties neatlieki... tu iš visko to juokiesi... O ar aš žinau, gal toliaus ir manęs pačios išsižadėsi ir pajuoksi mano senatvę, kaip tikėjimą mųs pajuokei...</p>
+<p>Čia senutei pasidarė dar skriūdžiau, ji pradėjo balsu verkti:</p>
+<p>— Neužilgo numirsiu... Visų numirę tėvai tur kam nors, numirus, už jų dūšias atminti, o aš... nė „Sveika Marijos“, nė „Amžiną atilsį“... aš vargdienė... Dieve, Dieve, Marija, priduokite man kantrybės... Vaikeli...</p>
+<p>Jonuks tuo tarpu tylėjo. Jis kovojo pats su savim, kad neišsiduoti savo susijaudinimo, nes širdyje jam skriūdu darėsi. Jis gana aiškiai matė kokią širdgelą užduoda jis savo motinai, jautė visą nuoskaudą, kurią jis savo mylimai motinai daro, viską jis jautė ir net ėmė jį pagundos mesti savo draugus, o pradėti vėl senoviškai, su Dievu gyventi, ypač kad net toks mokytas, kaip Plankius, tam pritaria. Bet dabar taip greit nenorėjo išsiduoti su tuo motinai, o norėdamas ją nuraminti, bandė kalbą į ką kitą pakreipti:</p>
+<p>— Tai, mamyte, būta čia verksmo! Eik vely prirenk man pusryčių, aš tuoj keliu. Viskas bus gera.</p>
+<p>Senoji, dar truputį paverkus, susiramino ir apsišluosčius išėjo į virtuvę.</p>
+<p>Valandai praslinkus, Mykaitis jau buvo apsidabinęs ir sėdėjo už stalo prie pusryčių. Senoji gi Mykaitienė, sunešus visus pusryčius ant stalo, vėl prisėdo prie sūnaus.</p>
+<p>— Nors niekad neklausai jau manęs senos — tarė ji — bet visgi prašysiu aš tavęs vieno daikto, paklausyk, susimildamas, manęs nors sykį!..</p>
+<p>— Ale, mamyte, aš dėl tavęs visa padarysiu, tik tu nusiramink.</p>
+<p>— Jei taip, tai aš prašau tavęs, Jonuk, jieškok tu sau kuogreičiau žmonos, Man senai jau nusibodo vienai plunkti... Gana jau privargau, pasiimk dabar tu paragauk to vargo!</p>
+<p>— Jieškok pačios!.. lengva tai pasakyt, bet kur ją surasti?..</p>
+<p>— Jeigu manęs klausytum, tai ir čia tau patarčiau.</p>
+<p>— Ale, mamyte, patarkie, prašau. Aš tavo nuomonę nuolatos branginau ir brangįsiu...</p>
+<p>— Jei nori gerą ir dorą, ir išmintingą, ir dar nepaprastai gražią pačią sau gauti, tai imkie, Jonuk, tu Rugienių Onytę. Gal tu ją jau ir pažįsti?</p>
+<p>— Pažint, tai ne, nepažįstu, bet jau man apie ją daug kalbėta. Visi ją nepaprastai giria, net esanti gerai pamokyta mergina. Aš jos brolį gana gerai pažįstu. O tai puikus vaikinas; jei būtų tokia ir sesuo, tai, nėr ką, šaunią turėtume šeimininkę.</p>
+<p>— Bandyk tik, vaikeli, su ja susipažinti, gal Dievas duos ir pateks ji į mųs namus. Aš ją nuo mažo kūdikėlio pažįstu ir Magdulė, ką pas mus mažytė tarnavo, o dabar pas juos būna, tai ji man daug apie Onytę pripasakojo. Tai aniolas, anot jos, ne mergina... Bandyk, Jonuk, bandyk!</p>
+<p>O širdyje tuotarpu senoji tikėjosi, kad jei imtų Jonuks Rugieniūtę, tai noroms nenoroms turėtų pasitaisyti. Toji mergina tokia dievota ir išmintinga, kad pataikytų jį pertikrinti ir prie Dievo patraukti! O pačios, žinoma, ir žodžiai kitoniškai į širdį krinta...</p>
+<p>— Mamyte! sakai, aš tavęs niekad neklausąs, taigi kad parodžius, jog tai neteisybė, aš tokiame svarbiame reikale, kaip rinkime sau pačios, tavęs paklausysiu. Jau net aš turiu pasirinkęs tam ir kvieslį. Sutarėme šiandie vakare važiuoti pas Rugienius.</p>
+<p>— Šitaip?!. Dieve, duok tau, vaikeli, gerą pasisekimą! — suplojo iš džiauksmo senoji ir linksma išbėgo prižiūrėti šeimynos, kuri susirinkus buvo pusryčiauti.</p>
+
+</div>
+ <div type="chapter">
+ <head>VI. Kovotojai už laisvę</head>
+
+<p>Išėjus draugams iš Mykaičių, vyresnysis Plankius tuoj nuo jų atsiskyrė ir nuvėjo pas savo tetą, kuri gyveno kitame bažnytkaimio gale.</p>
+<p>— O męs, vyrai, ir, kaip bobos, tuoj eisime gult? — užklausė Barstys.</p>
+<p>— Tai ką veikt? Eime ir męs truputį kur kokiame užkampyje snustelt — aiškino jaunieji. Mat, jie dar buvo nepratę taip per naktis baldyties.</p>
+<p>— Et! bobos jųs man ir gana! visą dieną vargus, neturėti burnoje nė gurkšnelio!.. Tai man vyrai!.. Sijonais tik jus apsegt... gaila kelnių... — keikė Barštys.</p>
+<p>— Į smuklę, tai jau aš neisiu! — bailiai ėmė išsikalbinėti Kubilius. — Velniai žino, ką gali dar smuklėje užtikti! Gal kazokai tūno kur užsislėpę... Eime vely kur užsnūst!..	 </p>
+<p>— Ka-ka-ka-ka!.. Kazokai!.. Vaikas dar iš tavęs, Kubiliau, ir gana... Ar seniai dar burnelę nuo pienelio apsivalei?!. — zibatavo Barštys.</p>
+<p>— Vaikas ne vaikas, o kam bereikalingai man į maišą lįsti?!.</p>
+<p>— Koki kelmai tave į maišą kemša?. Kokis čia tau maišas sapnuojas... Eime vely, išsimesime po gurkšnelį, tai ir visokį maišai iš akių išdulkės... Vyrai! eime! — suriko, atsigrįžęs į jaunuosius, Barštys įr, nusitvėręs Kubilių už skverno, nusitįsė į traktiernę (smuklę), kurią čia-pat dvaro paktorius — žydelis žmonių širdims palinksminti prieš porą metų įkūrė.</p>
+<p>Nors dar labai anksti buvo, bet žydelis ir ankstybais svečiais neniekina. Vos draugai pasibeldė į duris, ant tų pėdų smuklininkas, užsimetęs švernelį ant pečių, pusiau užmerktomis nuo miego akimis, išbėgo ir įsileido svečius.</p>
+<p>— A!.. laba ryta!.. ponas Barštys ir p. Kubilius!.. Dažnųs mano svečiai!.. Dieve, duok jums, vyručiai, sveikatos, vakar kad sakėt, tai sakėt... Niu, tai aš dar taip išmintingai kalbant niekad negirdėjau...</p>
+<p>— Na, na, na!.. negirk perdaug. Kitu syk nuo pagyrų gal apsvaigt galva!.. — neva žemindamiesi, draudė žydelį draugai!</p>
+<p>— Niu, ponai, mažu po tų saldžių prakalbų pasivilgyt sau norėsit gerkles?</p>
+<p>— Būt gera! Bet pasakyk, Jankel, kas šiąnakt čia taip labai švilpė... Gal kazokai jodinėjo? — vis dar bijodamas klausinėjo Kubilius.</p>
+<p>— Kozokai? — Niu, juos tegu cholerija!.. Kam jie čia reik?.. Ne, tai ne kazokai, mųs panaktiniai švilpė, tamstos galit ramiai pas mane būt... Čia nieks nė kraštu piršto jųs nepalytės!..</p>
+<p>— Na tai gerai, duokš „sorokupką“...</p>
+<p>Žydelis tuoj išbėgo į kitą kambarį, o neužilgo atbėgo su bonka rankoje.</p>
+<p>— Niu, kaip tokiems ponams, vargdienių užtarytojams, aš parinkau fain!.. Tik prašau gert ir girt. —</p>
+<p>Teisybė „sorokupkoje“ būta nepaprastų lašelių: ištuštinus ją, mųsų draugams jau ėmė markti akyse. O čia žydelis vis dar juos myli ir myli, vis prašo paragaut. Draugai ragauja ir giria. Galų-gale mųs draugai ir visai nusiragavo: įsidrąsino, įsimeilino ir ėmė skųsties viens kitam savo sielvartas bei vargus.</p>
+<p>— Žinai, brolužėli, — apsikabinęs bučiavo Barštys Kubilių — tas mųsų klebonas... tai, žinai, tikras tamsybių apaštalas... Ką jis ant manęs daro... Kolioja, keikia, dirba, kaip tik išmano... Girdi, jisai esąs socijalistas!.. O! taip aš esmi socijalistas!.. o ką tu, klebone juodašimti!.. — skerėčiodamas po ąslą, rėkė Barštys. — Aš kovotojas už laisvę, o tu, ilgaskverni, esi tamsybių apaštalas... Paleistuvis, girdi, vagis, peštukas... — man dabar pilna liuosybė... Oi-oi-oi giedos raudoni gaidukai... giedos!.. ir neilgai tas klebonas gyvęs, kaip ponas savo rūmuose... Paminės jisai Barštį — paleistuvį!.. Ilgą amžių...</p>
+<p>— Tai ką čia ilgai laukt, eime dabar ir parodysim jam, kad dar socijalistai gyvuoja! — ėmė karščiuoties visi draugai. — Eime!</p>
+<p>Ir susikabinę už rankų už laisvę kovotojai išsivedė pro duris. Lauke jau pradėjo pamažu švist. Aukštai girdėt buvo vyturiukų čiulbėjimas... Draugai patraukė tiesiog prie klebonijos.</p>
+<p>— Bet žinot, vyrai, ką — męs dabar klebonijos nedėkime, nes jau švinta, gal mus suimti, tai viena: o kita, jei sudegįsime kleboniją, tai visa parapija ant mųsų baisiai įnirš ir gal dar kada mus užmušt. Mano nuomone, tegu dar toji klebonija pariokso. Ateis laikas, kada ir páts žmonės ją padeks, kartu su klebonu ir visomis davatkomis... — aiškino viens iš vaikinų — Bladas, kurs dar buvo blaiviausias ir už juos visus išmintingiausias.</p>
+<p>— Gerai tu sakai! Tegu tą kleboniją galas!.. Eime vely męs pas Plušą — tai šnipas. Jis mane Klebonui priskundė. Jis pirmutinis mane teisman padavė, kad aš jo lašinius pavogiau ir už tai turėjau kalėjime ilgą laiką tupėti... Eime pas jį, męs jam parodysim, kaip gera šnipuot...</p>
+<p>— Kaip su šnipu su juo pasielgt!.. — pritarė visi.</p>
+<p>Apsigrįžo ir nuvėjo pro smuklę atgal, pas Plušą.</p>
+<p>Jiems bevaikščiojant, jau ir saulutė dikčiai pakilo. Plušai seniai jau buvo užsikėlę. Pats Plušas taisė grėblius, nes, rasai nukritus, ketino eiti prie šieno; o pati trūsėsi apie pečių: pusryčius kaitė. Šešetas mažų vaikučių, visi sugulę viename patale, sukišę viens prie kito galvutes, saldžiai dar miegojo.</p>
+<p>Jiems taip besitrūsiant, virst, durįs atsidaro ir įeina Barštys, paskui jį Kubilius ir du vaikinai, visi revolveriais rankose negini. Plušienė, pamačius tokius baisius neprašytus svečius, persigando, ir, lept, bliūdą iš rankų išmetė ir, visa išbalus, nežino, ką daryti.</p>
+<p>— Pošol von, boba, į šalį, jei tau gyvybė miela! — suriko Barštys, atkišęs revolverį moteriškei į krūtinę.</p>
+<p>— Va, Jezus, galvažudžiai!.. — nesavu balsu suriko Plušienė ir puolėsi prie mažučių savo kūdikių.</p>
+<p>— Dabar bus gana tau daugiau šnipuot — pripuolęs prie Plušo, suriko Barštys ir patraukė iš revolverio tiesiog varkšui į krūtinę... ir tas kaip pagalys krito į užpečkį. Tuomet, įniršę mųs draugai, ėmė kiek katras galėdamas pliekti iš revolverių.</p>
+<p>Nelaiminga motina, persigandus, pripuolė prie savo vaikučių ir, apsikabinus juos, tarytum, paukštelė, norėdama apginti savo mažučius nuo užpuoliko, ėmė šaukties į Dievą pagalbos...</p>
+<p>— Jezau, Marija, Juozapai šventasis... tėvelį mųsų... vargdieniai-našlaičiai... liksime... kur jųs dingsite... Oi, Dieve, Dieve!.. — užlaužus rankas šaukė moteriškė, ir pasikėlus nuo lovos puoliės užpuolikams po kojų.</p>
+<p>— Susimylėkite nors tų mažučių... palikite nors gyvybę... nors kunigą jam... Pasigailėkite!.. Dieve brangiausias!..</p>
+<p>Bet mųs draugai, kurie vakar taip gražiai apie artimo ir vargdienių meilę kalbėjo — šiandie jokio pasigailėjimo nepažįsta. Šaudė, kol jiems užteko kulkų ir nepailso rankos.</p>
+<p>Antgalo pasibaigė kruvinas darbas.</p>
+<p>— Vyrai, gana! — suriko Barštys. Ir visi vėl su revolveriais rankose išėjo iš pirkčios. Sutikę ateinant berniuką į grinčią, revolveriais pagrasino jam ir paliepė kuogreičiau pakinkinti porą arklių ir nuvežti juos, kur lieps.</p>
+<p>Persigandęs, berniukas kuogreičiau pakinkė arklius, pats atsisėdo į vežimą už vežėją, o draugai susėdo į galą ir išvažiavo. Pervažiavo vieną kaimą, kitą, atvažiavo į girią. Grįžkelė. Ant grįžkelės dar neseniai pastatytas gražus naujas kryžius, su aiškiu, gražum parašu: Tegu bus pagarbintas Jezus Kristus.</p>
+<p>— Sustok! — liepė Barštys. — Vyrai! žiūrėkite, koks tų žmonių dar kvailumas! Ant kelio stato stuobrius, ir prieš juos tur dar kiekvienas kepures laužyti! Nevienam gal ir arkliai nuo tų baidyklų pasibaidė. Na kuris iš mųs tiesiau šauja?.. Katras pataikysim tiesiog į mūką?</p>
+<p>— Aš! — atsiliepė Kubilius.</p>
+<p>— Aš! — atsiliepė Bladas.</p>
+<p>— Ir aš — pritarė Endrius Plankius. </p>
+<p>— Jųs manot, kad tik jus galėsit tai padaryti, o ve žiūrėkit — suriko Barštys ir atkišęs brauningą:</p>
+<p>— Plumpt! — iššovė. Kulka tiesieg pataikė Jezui į burną ir perlėkė perdėm. Paskui Barštį šovė Kubilius ir visi išailės. Vieną sykį, kitą sykį... Kulkos dūzgė apie Išganytojaus kančios ženklą.</p>
+<p>— Ir prieš ką čia imties kepurę — rodydamas Plaušių berniukui į sušaudytą kryžių, juokėsi Barštys — męs sušaudėm, o kas mums pikta pasidarė?!</p>
+<p>Vaikinas nieko tam neatsakė: jam plaukai ant galvos šiaušės, žiūrint į tąs baisias revijas, ligi kokių žmonės prieiti gal. Atsišaudę ligi norui, mųsų už liuosybę kovotojai susėdo vėl į vežimą ir liepė vežti į-pat girios vidurį. Mat tenai gyveno girios sargas, kuris buvo visoje apielinkėje nusišaukęs turtingu.</p>
+<p>Jie nuvažiavo, o gražusis kryžius, ant kurio prieš valandą kybojo, auksu aptraukta, puiki didelė Išganytojaus kančia, dabar pasiliko visas apdraskytas, suskylėtas... Kančia keliomis kulkomis pernerta, suskaldyta, sunaikinta...</p>
+<p>Porą valandų pavažiavę, mųsų keleiviai privažiavo prie girios sargo vartų. Svetimų pas sargą tuomet nieko nebuvo. Jis tik viens su aštuoniolikos metų sūnumi buvo namieje. Pačią-gi ir kitus vaikus buvo išleidęs, lyg tyčia, tai dienai į svečius pasiviešėtų.</p>
+<p>Privažiavus prie vartų, Barštys paliepė berniukui sustoti ir apsigrįžti arklius atgal į girią, o jis pats su draugais išlipo iš vežimo ir nuvėjo drąsiai į sargo grinčią. Sargo tuomet sėdėta prie lango ir dar ištolo pamatyta neprašyti svečiai. Užtat, nelaukdamas, kad atvyktų į vidų, jis skubiai pašoko prie durų, jas užrakino ir drūčiai brūzguliu užbrūzguliavo.</p>
+<p>Barštys, priėjęs prie durų, pabeldė smarkiai kumščia.</p>
+<p>— Atidaryk! — suriko.</p>
+<p>— O kam reik? — užklausė iš vidaus sargas.</p>
+<p>— Sakau, atidaryk, juodašimti! — dar smarkiau suriko Barštys ir paėmęs kuolą ėmė versti duris. Anie gi draugai didesniam sargo įbauginimui ėmė šaudyti iš revolverių į langus.</p>
+<p>— Eé! — mano sau sargas — kaip žiūriu, bus čia man bloga!</p>
+<p>Ką daryt? Ilgai nelaukęs, griebia jisai vieną dvivamzdę pats, kitą paduoda sūnui, užsitaisė grankulkėmis, persižegnoji ir ant „žūt-but“, ant vienosios, girdi, kaip bus, taip bus. Ir prisidėjęs prie peties — plūmt! per duris į Barštį, kurs baigė duris versti.</p>
+<p>Suspigo tik sykiu kažinkas ir plumtelėjo už durų ant žemės. Sargas antru-syk pabandė savo dvivamzdinės ir vėl naujas riksmas... Ratai sudundėjo...</p>
+<p>Po valandėlės viskas nutilo, rodos, kaip ir nieko čia nebūtų buvę. Tik ties priemenios durimi išlauko matyt buvo didelis kraujų raštakas ir duryse dvi didelės, dviem pirštams įkišti, skylės, o grinčios nuo kiemo langai, tarytum, trandžių išlandžioti... skylutės, tik skylutės išvien...</p>
+
+</div>
+ <div type="chapter">
+ <head>VII. Darbų įspūdis</head>
+
+<p>— Jau šešta valanda, o Barščio kaip nėr, taip nėr!.. — vaikščiodamas po kambarį, nerymastavo Mykaitis. — Juk, rodos, aiškiai mudu sutarėva šiandie penktą po pietų valandą išvažiuoti... o jo nėr!.. Tai dar man tokis žmogus!.. žodžio nelaiko!..</p>
+<p>— Na, ale nėr ką man gaušuot, kad prižadėjo jis, tai turės atvažiuoti, reik eit pačiam šiek-tiek apsišvarinti — mostelėjo Jonuks ranka ir išėjo į kitą kambarį, kur stovėjo jau padėtas bliūdas vandens, veidrodis, skustuvas, žirklaitės, muilas ir kiti reikalingi dabinimuisi daiktai. Jonuks išsirėdęs atsisėdo prieš veidrodį, apsikarpė gražiai sulig mados barzdelę, apsiprausė, susišukavo, užsidėjo naują baltučiukę apykaklaitę, lempes, apsirėdė nauju žiponu, prisisegė šilkinę kukardą. Porą kartų dirstelėjo į veidrodį: iš vienos pusės, iš kitos ir apsigrįžęs vėl išėjo į seklyčią laukti atvažiuojant piršlio. O jo lyg tyčia nėra ir gana. Mykaitis jau buvo beišeinąs iš kantrybės, ėmė net smarkiai plūsti ant Barščio už tokį nemandagų suvadžiojimą. Bet štai, bar-bar, kažinkas užvažiavo į kiemą.</p>
+<p>— Na, nors sykį jis atsibeldė — tarė pats sau Jonuks — jau aš jį barsiu už toki dilinimą... Kur dar Rugieniai, o čia septinta valanda, neužilgo ims temti... Dar, ko gero, sumigusius rasime, tai bus gražiausia!..</p>
+<p>Tuo tarpu durįs atidarė ir ant slenksčio pasirodė vyresnysis Plankius.</p>
+<p>— Labą vakarą, Jonuk! — tarė jisai artindamasis prie Mykaičio. — Nors tamsta vakar kvietei mus į subatvakarį, bet neišlaikiau taip ilgai...</p>
+<p>— Ačiu, ačiu mielam sveteliui. Tamsta kasdien pas mus malonus svečias... Prašome sėsti, o aš eisiu pas mamytę, kad parengtų šį-tą užkąsti — ir buvo jau Jonas beeinąs į virtuvę, bet Plankius jį sulaikė:</p>
+<p>— Ačiu tamstai už gerą širdį, bet valgyti aš neturiu kada. Aš pas tamstą trumpai tik valandikei, tuoj vėl važiuoju. O ir tamsta, kaip žiūriu, pasirengęs kur į kelionę, netrukdysiu!..</p>
+<p>— Dėl mano kelionės, tai nieko, jeigu tik tamsta malonėtum, tai mieliai savo kelionę kitai dienai atidėčiau!..</p>
+<p>— Ne, ne, negaliu — teisinosi Plankius — aš tik valandėlę. Žinai ką, Jonuk? — ūmai permainęs balsą ir sodindamas ant suolo Mykaitį, tarė Plankius — ar tu girdėjai, ką tie mųs valkatos šiandie pridirbo?!.</p>
+<p>— Koki valkatos? — nieko nesuprazdamas, užklausė Mykaitis.</p>
+<p>— Ogi Barštys, Kubilius, Bladas ir maniškis brolis — Endrius... Jie, kada męs išėjome iš jųs — tęsė Plankius — jie visi keturi, (ale monai kas juos ten nešė!) nuvėjo į smuklę ir ten pasilakę, kaip kiaulės, pridirbo tokių revijų, kad mums visiems gal būt šilta!..</p>
+<p>— Revijų, sakai? Kokių? — nerymastaudamas užklausė Jonuks.</p>
+<p>— Ar tu pažįsti Plušą, ką čia netoli bažnytkaimio, nežinau kokiame kaime, gyvena?</p>
+<p>— Pažįstu, na tai ką? — klausė Mykaitis ir laukė, kad tik greičiau išgirdus, kas čia buvo.</p>
+<p>— Taigi tasai Plušas — aiškino Plankius — esąs labai doras žmogus, labai geras esąs ūkininkas. Jis kadaisia susipykę su Barščiu. Ar lašinius jam Barštys išvogęs, ar naktimis neduodavęs jam miego, ar ko? — nežinau tikrai. Bet tik Plušas, neiškentęs, ėmė ir padavė Barštį teisman už vagybę. Teismas pripažino Barštį kaltu ir įkišo kalėjiman keliems mėnesiams. Nuo to laiko Barštys griežė vis ant Plušo dantį ir vis grasinosi, kad jis jį pamįsiąs!..</p>
+<p>— Žinau aš jų visą tą istoriją — pritarė Mykaitis. — Barštys ant Plušo pyko dar ir už tai, būk Plušas skundžiąs Barštį klebonui.</p>
+<p>— Taigi, žinai ką tie, šuns snukiai, šiandie padarė! Imk ir įsisuk jiems į galvą atkeršyti Plušui už Barštį. Prisilakę, vos gyvi, nuvėjo paryčiu su brauningais pas Plušą ir dann jį pliekti.</p>
+<p>— Ar Plušą? — sušuko staiga Mykaitis.</p>
+<p>— Plušą! varkšui vieną, sako, kulką įvarė stačiai į krūtinę, o devynes čia į blauzdas ir kirkšnį... vos esąs gyvas ir nežinia, ar išliksiąs nuo mirties...</p>
+<p>— O pati, vaikučiai? — klausinėjo Mykaitis.</p>
+<p>— Pati, persigandus, apmirė nuomarium, ir dabar visą tąso be perstolio, nežinia kas bus... vaikučiai įgązdinti, nuolatos rėkia, kiek tik įgali, ir jokio svetimo žmogaus prie savęs neprisileidžia.</p>
+<p>— O ginti nebuvo kam? —</p>
+<p>— Plušas turėjo vienų-vieną berniuką ir tas kluone miegojo. Išgirdęs lermą, bėgo žiūrėt, kas čia daros. Bet duryse susitiko Barštį su draugais, kurie privertė jį kuogreičiau arklius pakinkinti ir visi, berniukui važnyčiojant, išvažiavo kažin kur. Sako, matę juos važiuojant girios link. Jiems išvažiavus, susibėgo ir kaimynai ir šis ir tas, bet ką, kulkų neišimsi, o valkatų jau nėra.</p>
+<p>— Šitaip?! — valandėlę patylėjęs, viens sau tarė Jonas — aš dar Bladą už dorą laikiau, o čia?!. Tai, mat, kur ir mokytas žmogus nueina! Aštuonių klesų mokinys su chuliganais!?!. Begėdžiai, juodašimčiai!.. Ir tamstos brolis Endriuks?.. rodos, toks gražus ir meilus vaikinas... tokį begėdišką, juodašimtišką darbą atlikti?!. Gėda mums visiems, kad su tokiais chuliganais męs užsidėjom!.. Gėda!.. Eime kur akįs neša... nes tasai nekaltas kraujas dar mus sutaškys... Ne, ne!.. baisu, baisu... tai žvėrįs, gailestingumo neturį... — blaškėsi, bėgiodamas po kambarį, Mykaitis...</p>
+<p>— Ar aš nesakiau vakar, kad tuos chuliganus iš mųs draugijos reikia išmesti?! Juk Endriuks nėra toks blogas vaikinas, jis niekados nebūtų tokio biauraus darbo daręs, o gal ir Bladas... bet papuolę į tokių ištvirkėlių draugiją, kaip Barštys ir Kubilius, matai kur nuvėjo... neišgero senų pasakyta: prie kokio prilipsi, tokiu pats liksi.</p>
+<p>— Bet, ar žinai, tamsta, gerai tu sakei, kad už tą darbą gal būt mums ir visiems šilta... Juk vakar per prakalbas mus visus drauge matė: ir Barštį ir Kubilių ir Bladą ir judu su broliu ir mane. Žinoma ir bėdą suvers ant mųs visų. Gal vertėtų kur-nors mums prasišalinti, bent ligi kol neišsiaiškįs visas dalykas? — užklausė Mykaitis.</p>
+<p>— Prasišalint tai dabar mudu negalim. Nesa tuomet aiškiai visi pasakytų, kad tai mųs darbas. Vely būkime čia ir laukime, kuo baigsis.</p>
+<p>— Ak dėl manęs! — pritarė Jonas. — Laukime.</p>
+<p>— Ale aš su tomis naujienomis tamstą užtrukdžiau, o gal ir labai skubus laukia reikalas.</p>
+<p>— Skubus, kaip neskubus, ale, mat, ką tik jau buvau pasirengęs. Bet nieko — palauks! Antgalo aš galėčiau tamstai tą reikalą ir pasakyti.</p>
+<p>— Būtų labai malonu, jei galima — tarė Plankius.</p>
+<p>— Dalykas, mat, tame. Tamsta gana gerai žinai, kad aš tėvuko jau dešims metų, kaip neturiu — pradėjo Mykaitis — ūkį veda viena senutė motina: du vyresniu broliu turėjau, tai abu pasimirė, aš dabar likau vienų-viens. Aš, pabaigęs aštuonias klesas, buvau manęs eiti universitetan, bet mamytė sudraudė. Reikės apimti ūkį, nes senoji — jau parsilaksčius, parvargus, norėtų senatvėje šiek-tiek pasilsėti. Taigi maniau greitu laiku pasijieškoti sandraugės savo gyvenimui, bet tik nežinau, kaip čia bus su šitais reikalais.</p>
+<p>— Et ką, tamsta! nėra ką perdaug bijoties. Dalykas paaiškės ir bus nubausta, kas kaltas, o tamsta, ką čia? — ramino Plankius.</p>
+<p>— Taigi šiandie mudu su Barščiu ketinome ir važiuoti į pasaulį pamedžiot sau mylimosios... bet kad jau Barštys šitaip, tegu jį kelmai...</p>
+<p>— O, ar negalima žinot, į kurį kraštą tamsta rengeisi medžiot? — klausė Plankius.</p>
+<p>— Teisybė, nėra su kuo prieš tamstą, slėpties, juk, man rodos, netolimi esate ir giminės su Rugieniais!</p>
+<p>— Su Rugieniais? — juk mudu su Juozu pusbroliai, drauge augova, drauge vakacijas praleizdavova... A!.. tai pas jų Onytę tamsta taikai?</p>
+<p>— Taip! — patvirtino Jonas.</p>
+<p>— Nėra ką, tamsta skonį turi puikų... Mergelė, kaip darželio lelija... išmintinga, mokyta, meili, mandagi... ir teisybę pasakius, toji mergina tiktai tau, tamsta, ir tiktų... Tai būt pora!..</p>
+<p>— Ją visi giria: ir šioki, ir toki. Būt malonu gauti gerą sau sandraugininkę, bet ką? — piršlys mano sukvailiojo, pridirbo tokių revijų, kad saugok Dieve!</p>
+<p>— Jei tamsta norėtum, tai galėčia ir aš tamstai, vieton Barščio, papiršliauti.</p>
+<p>— Labai būtų man malonu! — tiesdamas Plankiui ranką, sušuko Jonas. — Tik tamsta piršliauk, o kieno piršlybos galės būt laimingesnės, kaip pusbrolio...</p>
+<p>— Na tai gerai! — tarė Plankius — tamsta jau esi susiruošęs, o aš irgi šiandie norėjau su Rugienių Juozu pasimatyti, tai kartu galėsime du zuikiu nušauti: ir aš reikalą savo atliksiu ir tamstai gražiąją Onytę prirodysiu...</p>
+<p>— Jei taip, tai dar geriau — sušuko nudžiugęs Jonas. — Važiuojam!</p>
+<p>— Mamyte! vakarienės man nerenk, aš išvažiuoju — įkišęs į virtuvę galvą, tarė motinai ir skubiai apsivilkęs viršutiniais rūbais išėjo su Plankium į vežimą.</p>
+<p>Neužilgo ratai subarškėjo ir piršliai išvažiavo į Rugienius. Kelias į Rugienius, lyg tyčia, ėjo pro Plušą ir per šilą, pro kryžių, kur Barštys su savo draugais bandė savo akies tiesumą.</p>
+<p> Jau dikčiai buvo aptemę, kada mųs piršliai privažiavo Plušo vartus. Kieme ir grinčioje viskas buvo tyku ir tamsu, jokios gyvos dūšios nematyt buvo. Mat, subėgę žmonės, kuogreičiau pusgyvį Plušą ir jo pačią išvežė į ligonbutį, o vaikus giminės atsiėmė pas save. Gyvuliams prižiūrėti palikta buvo piemenuks, bet ir tam nakvot prisakyta buvo ateit į kaimyną, nes namieje vienas bijojo gulėt. Bernukas gi, išvežęs užpuolikus, dar negrįžo. Važiuojant pro vartus, Mykaitį, visą lyg koki šiurpuliai perėmė. Jam rodės, kad girdi jisai, kaip jo buvusieji draugai pliekia iš brauningų į pusgyvį Plušą... Rodos, mato, kaip Plušienė parpuolus raičiojasi po užpuolikų kojomis, melzdama pasigailėjimo... Vaikučiai iš išgąsčio susispietė, kaip, vilkui užpuolus, avių pulkas, į krūvutę ir šaukia kiekvienas kiek jo gerklė neša...</p>
+<p>— Brrrrrr... — pasipurtė Mykaitis. — Kaip baisu!</p>
+<p>Plankius taiposgi tylėjo. Jis galvojo sau, kas tai būtų šiame pasaulyje, jei visi būtų toki ištvirkėliai, kaip Barštys su savo draugais, jei visi taip išsižadėtų Dievo ir tikėjimo?..</p>
+<p>— O!.. tuomet būtų tikras ant žemės pragaras... Tuomet kasdien galėtum išgirsti panašius atsitikimus, kaip šiandie su Plušu atsitiko... Ir jam šiurpuliai ėmė po visą kūną varstyti.</p>
+<p>Jiedviem taip begalvojant, susyk tik išgirdo — plykst! iš brauningo ir girti balsai:</p>
+<p>— Iš kelio, žalčiai! —</p>
+<p>Plankius su Mykaičiu susyk iš balso suprato, kas čia važiuoja. Kubiliaus aiškiai galima buvo suprast balsas. Šiuodu pasitraukė į šalį ir sustoję laukė, kol grįštantieji iš medžioklės už laisvę kovotojai nepravažiuos.</p>
+<p>Valandėlė, ir vežimai buvo greta viens vieno.</p>
+<p>— Kas čia važiuoja? — suriko Kubilius. — Ptprū-rū, rū! Sustok, vaike! — paliepė berniukui. Tasai sustojo.</p>
+<p>— Kas čia, sakau, važiuoja? — garsiau ėmė rėkt pasigėręs Kubilius. — A-á-á, tai tu, Mykaiti! — antgalo, pažinęs Jonuką, šaukė girtuoklis.</p>
+<p>— Važiuosim mudu, ar pasišnekėsim su tais valkatomis — patykoms paklausė Plankiaus Mykaitis.</p>
+<p>— Pasišnekėkiva truputį. Išsiklausinėkiva, kur jie buvo, gal dar ir daugiau tokių revijų jie pridirbo.</p>
+<p>— Ir kur tave, Kubiliau, dievai taip vėlai neša?.. O! Čia ir Bladas ir Endrius!..</p>
+<p>— pamatęs tuotarpu kįlančius iš vežimo senovės savo draugus tarė Mykaitis. — O kur Barštys? O tau, Bladai, kas yr, kad taip vos-ne-vos eini? Ar prisitrenkei kur, ar kokis galas? —</p>
+<p>— Tegu juos velniai! — užkeikė Kubilius ir mostelėjo atgalia ranka. — Matai męs buvome nubausti vieno juodašimčio — girios sargo. Męs jam buvome uždėję išmokėti į revoliucijos kasą keturis šimtus rublių pabaudos už tai, kad jis neleidžia žmonėms dovanai girioje malkaut. Mųs visų čia giria, kas gal mums uždrausti ją kirst!</p>
+<p>— Ar aš nesakiau? — kumštelėjęs alkūne Mykaičiui, tarė Plankius. — Bus čia dar gana košės!</p>
+<p>— O kur Barštys? — antru-syk užklausė Mykaitis. Tuo tarpu vežime kažinkas subruzdėjo, sunkiai atsiduso ir pasikėlęs bandė atsisėsti. Bet, matyt, baisųs skauduliai buvo jį apėmę, kad, truputį pasvyravęs, vėl, kaip maišas, krito į vežimą.</p>
+<p>— Vai-ai-ai! gelbėkie, Jonuti! — sudejavo iš vežimo.</p>
+<p>— Kas tau, Baršty? — pripuolęs prie vežimo sušuko Mykaitis. — Pasakokit, kas čia buvo?..</p>
+<p>— Kas buvo? — nieko nebuvo!.. — aiškino Kubilius. — Kaip sakiau, nuvažiavova pas tą juodašimtį atimti pinigų, o jis iš dvivamzdės peršovė Barščiui šoną, o Bladui dvi kulki įvarė į šlaunį... Tai tuo ir pasibaigė mųsų kontribucija!..</p>
+<p>— Na, ale aš jam nedovanosiu!.. — silpnu balsu grąsinosi vaikinas-Bladas, vos-ne-vos susilaikydamas nuo sopulio.</p>
+<p>— Baršty! žinai, tai tau gerai! Už tokius juodašimtiškus darbus!.. Ką tu padarei Plušiui?!. — rųsčiai ėmė koliot Mykaitis.</p>
+<p>— O kam jis mane klebonui skundžia? Kam jis mane už lašinius skundė?.. — dejuodamas kalbėjo Barštys.</p>
+<p>— Žinai ką, Baršty, kad būtum dabar sveikas, tai aš tau pirmutinis taip padaryčiau, kaip girios sargas padarė... Juodašimti tu!.. — ėmė karščiuoties Mykaitis. —</p>
+<p>— Kaip šunį už tokį nedorą darbą užmušt tave tik ir gana!..</p>
+<p>— Šitaip? — vos vebleno Barštys — tai pažiūrėsim, katras greičiau galą, kaip šuo, gausime — tu, ar aš...</p>
+<p>Plankius, matydamas, kad čia gal išeiti dar vėl kokia komedija, nutvėrė už skverno Mykaitį ir tęsė į vežimą.</p>
+<p>— Eiva, girdi, važiuot, nėra laiko!.. Tegu jie sau važiuoja, gal nutruks kur sprandą... O tu, vaikine, paminėsi! — grūmodamas ranka broliui Endriui, tarė Plankius — bus tau su chuliganais susidėti!..</p>
+<p>— Paminėsi ir tu!.. — jau geras varsnas pavažiavus vieniems nuo kitų, šaukė gulėdamas vežime Barštys ir Kubilius.</p>
+
+</div>
+ <div type="chapter">
+ <head>VIII. Piršliai</head>
+
+<p>— Tegu bus pagarbintas! — tarė įeidamas per duris senis Dorys.</p>
+<p>— Ant amžių amžinųjų! O! dėdulė ir šiandie nepatingėjo mųs atlankyt! Prašom, prašom toliau! — sveikindamas Dorį, kalbėjo Rugienių Juozas.</p>
+<p>— Matai, Juozuk, jau senas, mokytų vaikų neturiu, tai, žinai, nuobodu vienam vakare namieje sėdėti. O čia dar tos vakarykščios kalbos man taip daėda, kad negali. Sakau, eisiu pas Juozą dar apie tuos darbininkus pasikalbėti.</p>
+<p>— Ačiu, ačiu, dėdute, kad manim neniekinat. Labai bus ir man malonu dar šiek-tiek apie tą klausimą plačiau pakalbėt.</p>
+<p>— A! ir dėdulė čia — sušuko įbėgus į grinčią jaunoji, kaip stirna, Onytė. — Sveiki drūti, kaip laikotės? — Ir priėjus pabučiavo seniui į ranką.</p>
+<p>— Ačiu, Onyte, viskas gera! Tik žinai, tavo tas Stepšys neduoda man ramumo, atėjau, gal ką ir daugiau man papasakosi! — juokėsi senuks, žiūrėdamas į savo grakščią giminiuotę.</p>
+<p>— Kodėl ne? — prašom sėst! —</p>
+<p>Dorys atsisėdo už stalo, o Juozas priešais jį, o Onytė išbėgo į virtuvę vakarienės gaminti.</p>
+<p>— Žinai, Juozuli, tame, kad nelabai gera šiandie darbininkams gyventi, tai aš tau pripažįstu jau teisybę. Vakar parėjęs namo, atsiguliau į lovą, bet miegas nelipdė man akių. Neturėdamas ką veikti, aš pradėjau ant pirštų skaityti tuos darbininkus, kurie, netekę sveikatos, turi eiti per svietą su krepšiais... Ar įtikėsi man, žinai, perskaičiau visus pirštus vienos, perskaičiau kitos rankos ir antru-syk perskaičiau ir trečiu-syk, o vargdienių dar ilga-ilga virtinė vis eina ir eina pro mano akis. Jie visi buvo geri ir darbininkai žmonės, bet vienam ranką mašina sutrynė, kitam koją, trečiam ramatas atėmė visus sąnarius, ketvirtam pati paliegus, vaikai nesveiki... Ir visi neturi kada užsidirbti maistui nė skatiko, o seniau nieko neužsitaupino, tai ką darysi? — Eik šunų lodyt!..</p>
+<p>— O užšitaupyt, kad būtų ir norėję, negalėjo — pritarė Juozas — nes nuo jauno krūva mažų vaikų, pati prie jų tur nuolatos prikukus sėdėti, dirbti negal, o pats vos-ne-vos į metus šešiolika rublių ir šiokią tokią ordinariją užsidirba. Ir ką čia, Dievuliau, už tos šešiolika rublių su pačia ir šešetu, o gal ir dar daugiau, vaikučių padarysi?!.</p>
+<p>— Teisybė, tai teisybė, kad vargas, dabar aš pats tai suprantu. Bet, žinai, Juozuk, šitie visi vargdienių užtarėjai nedaug ką pagelbės... Jie neva liežuviu užtaria už darbininkus, bet žiūri, kad daugiau juos nuskutus, kad tik daugiau iš jų išviliojus...</p>
+<p>— Ar čia kas užvažiavo? ar tik taip ausyse man nusidavė? — staiga pertraukęs kalbą, tarė Dorys.</p>
+<p>— Kas čia naktimis važinės, ve dešimta valanda! — eidamas prie lango, atsakė Juozas.</p>
+<p>Dorys toliau tęsė savo pertrauktą kalbą:</p>
+<p>— Šį laiką, žinai, Juozuk, nedaug rasi gailestingų žmonių. Dabar kiekvienas žiūri tik į savo kišeniaus naudą, o kiti — sau žinaisi!..</p>
+<p>— Bet ant visų taip sakyt negalima! — perkirto Juozas — yra ir gailestingų žmonių. Ana va, aš pats pažįstu daktarą Smilgių, jis, jei pasitaikys pas nuvargusį ligonį, tai nė skatiko neims. — Ką aš čia, girdi, tavo kraujus į kišenių imsiu! Net už savo ir vaistus tokiam nuperka...</p>
+<p>— Vaje tu mano, piršliai!.. Onyte, piršliai... — be kvapo įpuolus grinčion, suriko Magdulė.</p>
+<p>— Onytė virtuvėje! — išgirdęs apie piršlius, tarė Juozas Magdulei, o pats pasikėlė ir laukė svečių ateinant.</p>
+<p>— Labą vakarą! — tarė įeidamas per duris Plankius, o paskui jį ir Mykaitis.</p>
+<p>— Labą, labą, mylimieji sveteliai!.. Prašome tolyn! — kvietė Juozas svečius.</p>
+<p>— Dovanok, broliuk, kad taip vėlai mudu baladojavos, bet kelionėje, matai, visaip atsitinka! — pasisveikinęs su Juozu, tarė Plankius.</p>
+<p>— O čia mano draugas Mykaičių Jonas.</p>
+<p>— Pasipažįstam mudu gana gerai, pasipažįstam!.. Juk tik parapijonįs! — juokėsi Juozas. — Na prašom arčiau prie stalo!</p>
+<p>Svečiai visi susėdo. Plankius atsisėdo greta Dorio, Mykaitis tarpe Plankiaus ir Juozo.</p>
+<p>— Jeigu galima sužinot, apie ką tamstos prieš mums atvažiuojant, taip meiliai kalbėjotės, kad net keliu važiuojant buvo girdėt!.. — norėdamas pradėti kalbą, užklausė Plankius. Doriui lyg buvo truputį nesmagu, nes jis pažino, kad tuodu vaikinu kalbėjo prakalbas.</p>
+<p>— Tai žinia kaimynai, o dar nuo senų senovės dideli prieteliai, susivėjome, tai ir burbame nė apie šį, nė apie tą: — norėdamas ant ko kito nuvesti šneką, tarė Dorys.</p>
+<p>— Truputį, dėdute, perdaug save žemini, sakydamas, kad nė apie šį, nė apie tą kalbėjomės — pertarė Juozas. — Ne, męs apie labai svarbius klausimus kalbėjome. Męs kalbėjome apie vakarykščią tamstų prakalbą, ypač tą punktą, kur kalbėjote apie darbininkų vargingą padėjimą. Štai ir senuks Dorys šiandie pripažįsta, kad darbininkai skurdžiai gyvena.</p>
+<p>— Ką skurdžiai, tai skurdžiai, nėra apie tai kalbos — pritarė Plankius. — Man pačiam dabar neperseniai teko būti viename dvare. Norėdamas prisižiūrėti kumečių gyvenimui, užeinu į vieną kumetbutį. Ir, ar įtikėsit, prieminaitėje, iš lentgalių sukaltoje, visur skylės, vėjas pučia kaip per rėtį. vieton lubų, viršus šiaudais, ar mėšlais uždėta, mažytėlė, nėra kur žmogui apsisukti; ant tokių trūkių guli paguldytas ant skarmalų ligonis — dvaro skerdžius. Kol galėjo — ganė, apsirgo, tai prieš laiką ir eik į kapus.</p>
+<p>— Vargas, tikras vargas! — visi vienu balsu pritarė Plankiui.</p>
+<p>— Bet štai dėdutė sako, kad bepiga kalbėt apie vargdienių padėjimą, o kaip reik jiems tik pagalbą suteikt, tai užtarytojų ir nėra! — juokdamasis tarė Juozas.</p>
+<p>— O bene neteisybė?! — biskį užkaitęs, teisinosi Dorys. — Ana va Sūsninkuose Luobo — darbininko apsirgo pati. Varkšas, ką darys, pasiprašė kaimyno arklius ir važiuoja į miestą parsivežti daktaro.</p>
+<p>— Bet pas katrą čia užvažiavus? Viens ilgai miega — neprikelsi; kits, neva apskričio, bet niekam netikęs — senas... Et, bene reikia eiti pas Kaušių: aš tiek su juo draugavau ir atsišaukimus jo žmonėms dalinau ir pamokslų jo klausiau... Kaip gražiai jis kalba!.. visi broliai... visi lygųs... kaip labai vargdienius užtaria!.. Eisiu — mano sau Luobas — pas Kaušių ir gana. Jis — geriausias žmogus, nedovanai visų socijalistų vadovu jis yra...</p>
+<p>Kaip tarė, taip ir padarė. Nuvėjo, pabaladojo į duris.</p>
+<p>— Kas čia? — užklausė už durų.</p>
+<p>— Ponuli, pas ligonį? —</p>
+<p>— O į kur?</p>
+<p>— Į Sūsninkus!</p>
+<p>— Et, kad labai vėlu!</p>
+<p>— Ale, ponuli, pati miršta, susimildamas!..</p>
+<p>— Į Sūsninkus dešimt varstų, atgal vėl dešimt — tai reikėtų dvidešimt, nu, duosi penkioliką rublių, tai važiuosiu.</p>
+<p>— Ale, ponuli, aš nė rubliaus neturiu... Let-ne-let arklius išsiprašiau... Susimildami, ponuli, miršta pati, man paliks naštą mažų vaikučių, ką darysiu?..</p>
+<p>— Jei toks esi pavargęs, na tai duosi dvyliką rublių, tai bus gana!</p>
+<p>— Bene, ponuli, turėsiu skolinti... Ale, ką darysi, pasiskolįšiu, pati brangesnė už pinigus... Tik meldžiu važiuoti!</p>
+<p>— Ale... žinai ką, brolyti, — valandėlę pagalvojęs, tarė socijalistų vadas — aš negaliu važiuoti. Aš čia turiu tokį reikalą!..</p>
+<p>Jam ne reikalas rūpėjo, bet pamislijo, kad bus negražu nuo vargdienio tokią pinigų krūvą imti, tai jis nutarė velik visai nevažiuoti.</p>
+<p>Neturėdamas ką daryti, Luobas eina pas žydelį, kurs gyveno prie ligonbučio. Pabeldė į langą, žydelis kuogreičiau įsileido žmogelį, paklausęs, ko reikia, ant tų pėdų tuoj apsirengė ir neklausęs nė kiek duos, nė nieko, išvažiavo pas ligonį.</p>
+<p>Antgalo, aprūpinus ligonį, išleizdamas daktarą, Luobas duoda jam penkrublę... Žydelis pažiūrėjo į pinigą, paskui į vargdienį, išsiėmė tris rublius iš kišeniaus sugrąžino juos Luobui, o du sau už kelionę pasiliko...</p>
+<p>— Tau, kaip matau ir taip vargas, man užteks už darbą ir poros rublių...</p>
+<p>— Tai matot, koki socijalistai vargdienių užtarytojai — dvyliką rublių už porą valandų!? ir tai dar nevažiavo!.. — baigdamas sušuko Dorys.</p>
+<p>Mykaitis su Plankium ir Juozas klausė visos tos Dorio kalbos ir temyjo alei žodį.</p>
+<p>— Aš ir vėl tą patį pakartosiu, ką vakar jums, Mykaiti, pasakojau — pabaigus Doriui kalbėti, tarė Plankius — kad sutvarkymui mųsų gyvenimo būtinai reikalingas tikėjimas. Tikėjimo neužstos jokis mokslas, jokia draugija... Męs tik visi elgsimės padoriai, kad klausysime savo sąžinės balso; tuomet tik pavargėliais rūpįsimės, kada mųsų širdyse degs krikščioniška artimo meilė; kada tikėsime, kad, kiekvienas vandens lašelis, paduotas trokštančiam vardan Dievo, bus mums užmokėtas numirus... Jei tos krikščioniškos artimo meilės, kaip ir Kaušius daktaras, neturėsim, tai kol žmonės mus matys, tai šelpsime ir vargdienius ir teisingi būsim, bet vos tik pasitrauksime nuo žmonių akių — dings mųsų ir gailestingumas ir teisingumas.</p>
+<p>— Na, sveteliai! meldžiame užkąsti! — dėdama ant stalo vakarienę, lyg truputį svečių susigėdus, nedrąsiu balsu tarė Onytė. — Mamytė išėjo pas kaimyną, nepareina. Nusiunčiau Magdulę... tuoj pareis.</p>
+<p>— Tai mano sesuo! — perstatė Juozas Onytę Mykaičiui.</p>
+<p>— Labai malonu man pasipažinti! — sveikindamasis tarė Juozas.</p>
+<p>Bevakarieniuojant pargrįžo ir senoji Rugienienė. Papasakojo, ką girdėjo, ką šnekėjo. Vienu žodžiu, vakarieniuojant kalba ėjo nė apie šį, nė apie tą.</p>
+<p>Po vakarienės senis Dorys atsisveikino gaspadorius, svečius ir išėjo namo.</p>
+<p>— Tai matai, trukdome, jus be reikalo ir gana! — Doriui išėjus, pradėjo Plankius. — Šnekėjome apie daugelį dalykų, o apie tąjį, su kuriuo mudu štai su Mykaičiu užvažiavome neturėjome nė kada.</p>
+<p>— Bus laiko dar, tamsta, kas baimės... ramino Juozas.</p>
+<p>— Taigi, kad ilgai nedilinus, pradėsiu stačiai savo reikalus — tarė Plankius ir paėmęs senąją Dorienę už rankos, pasisodino ant suolo. — Mamyte, štai ve šitam vaikinui įpuolė jųsų dukrelė labai į akį... Jis norėtų jąją prisivilioti sau už žmona pačią...</p>
+<p>— Vaikeli, tai jaunųjų reikalai! aš į tai visai nesikišu... — rimtai atkirto Rugienienė — jie pasimylės, jie apsives, jie ir gyvęs... Tai jų reikalas.</p>
+<p>— Ale, mamytė, nebus tam priešinga, jei Mykaitis rūpįsis jųsų dukrelei įtikti? —</p>
+<p>— Man būtų labai malonu, kad gaučiau tokį žentą. — Aš gana gerai pažinojau tamstos ir tėvuką, o su mamyte ir dabar mudvi tikros draugės: ji našlė ir aš našlė. Sakau, būtų man labai malonu turėti tokių gerų ir išmintingų tėvų vaiką savo žentu!</p>
+<p>— Ačiu, mamyte, už jųsų prielankumą! — bučiuodamas ranką, dėkojo Mykaitis.</p>
+<p>— Nors dar su Onyte mudu ypatiškai nepasipažįstam, bet gal pasipažįsime ir labiau, kad tik mamytė tam nepriešinga.</p>
+<p>Poto daug dar kalbėjo apie ūkio reikalus, apie protėvius, gimines. Truputį pašoko, Juozui armonikų griežiant. Žinoma. Jonukui teko Onytė, o Plankius šoko su Magdule...</p>
+<p>— Na, Jonuk, laikas mudviem namo — po visų žaislų ir kalbų tarė Plankius — nes jau gaidžiai pragiedojo.</p>
+<p>— Laikas, tai laikas! Svečiai sukilo.</p>
+<p>— Mamyte, meldžiu katrą dieną štai su p. Juozu ir Onyte atsilankyti į savo senųjų pažįstamų vietą — prašė atsisveikindamas Mykaitis.</p>
+<p>— Labai maloniai, jei tik vaikai sutiks.</p>
+<p>— Sutinkame, sutinkame! — linksmutė sušuko Onytė.</p>
+<p>— Labai gražiai meldžiu... Gal būsiantįjį nedėldienį? tai aš laukčia...</p>
+<p>— Dėlko ne, galim ir nedėldienyj. Darbai apdirbti!</p>
+<p>— Nu tai gerai. Lauksiu. Su Diev!</p>
+<p>Ir svečiai išėjo.</p>
+
+</div>
+ <div type="chapter">
+ <head>IX. Įsimylėjusi</head>
+
+<p>Piršliai išvažiavo. Magdulė, tarytum, to tiktai ir laukė: ją buvo apėmęs neapsakomas džiauksmas, kuriuo norėjo pasidalinti ir su Onyte, o čia prie svečių negalėjo ji to padaryti. Užtat vos tik, juos išleidus, Onytė sugrįžo į grinčią, Magdulė pripuolė prie jos, įsitęsė į kamaraitę:</p>
+<p>— O ką, Onytėle, aš nesakiau?!. Ar nesakiau... kad atvažiuos?.. — sušuko su tokiu džiauksmu, kad, rodos, ją pačią būtų patikus kokia didelė laimė.</p>
+<p>Onytė ant greitųjų neturėjo ką nė sakyti: jai mintyse ir širdyje viskas maišės: ar čia džiaugties, ar čia ne, negalėjo numanyti ji. Tuotarpu Magdulė, glamonėdamasi prie savo draugės, yt paukštelė, nuolatos vis čiūčiano:</p>
+<p>— Puikus tai vaikinas, Onytėle! — Aš jį mažytį dar atsimenu... Aà koks geras... koks meilus... Sesyte, aniolą iš jo tu turėsi, ne vyrą!..</p>
+<p>— Tai, Magdulė, kad tu vis tokia: — giri, giri, o kas man iš to?.. — gal man jis dar visai neteks... Gal aš jam visai nepamėgau... — kaip paprastai, tykiu švelniu balsu teisinosi Onytė.</p>
+<p>— Nesibijok, sesele, nesibijok... pamėgai jam... jis tave myli karštai... aš tai pamačiau, kaip judu šokota... Dieve, tik duok, kad toji meilė kaskart vis augtų didyn... O antgalo kam tu ir nepamėgtum?.. Tave, sakau, visi myli, Onyte!.. — tarė Magdulė.</p>
+<p>Sugulė visa Rugienių šeimyna, atsigulė ir Onytė su savo drauge.</p>
+<p>Bet mergelei tą vakarą, kada pamatė savo numylėtąjį, tą, kuris Dievo jai paskirtas už draugą per visą jos gyvenimą, kuris džiaugsis ir kentės su ja kartu, ne miegas jai tuomet rūpi... Jos mintįs laksto, skrajoja po būsimąjį jųdviejų gyvenimą... bando įspėti visą tą laimę, kuri juodu patiks, visus tuos vargus, kuriais iškloti bus jų būsimojo gyvenimo takai... Kuo ne per kiaurą naktį Onytei vis pro akis slinko, tai Mykaičio gražus asmuo, tai, rodos, girdi ji, kaip tasai geltonplaukis sako žmonėms pamokslą ir skamba po visą kambarį jo balsas... Tai, rodos, mato visą Mykaičių ūkį... gerą jo senutę-motiną... vestuvės... draugės... bažnyčia... laimė, rodos, tiktai laimė, o daugaus nieko!..</p>
+<p>Po valandėlės, praslinkus toms šviesioms, kaip vasaros saulėta diena, svajonėms, ilga virtine pradėdavo eiti būsimieji vargai... Rodos, girdi ji, kaip Jonuks ima pliaukšti ant Dievo, ant Bažnyčios, ant kunigų... rodos, ji norėtų melsties... bet jis iš jos juokias, kvatojas, o tas juokas smeigia jai tiesiog į širdį, kaip peilis... Brrrr... baisu!.. — pasipurtė net Onytė ir pašoko nuo patalo...</p>
+<p>— Ne, ne, aš už netikėlio?.. aš... ne... ne... Neis...— norėjo ištarti „neisiu“, bet neišdrįso.</p>
+<p>— O gal tai visai neteisybė! Juk Magdulė sako...</p>
+<p>— Magdulė!.. — sušuko, manydama, kad dar ir Magdulė šale jos sėdi ir klauso jos kalbų. Bet nieks tam šauksmui neatsiliepė, nes Magdulė buvo išėjus į savo kambarį gult.</p>
+<p>Praėjo naktis; praėjo diena viena ir kita, o Onytei vis ramybės nėra... Ji vis laukia nedėldienio, kada prižadėjo važiuoti pas Mykaičius. Nuolatos vis ruošiasi ji prie tos kelionės: jau po keletą kartų išsimieravo visus savo drabužius, visaip dabinosi, bandė, kad tik jam patikus...</p>
+<p>Atėjo ketvergas. Buvo jau pavakarė: saulutė stovėjo lygiai su medžiais. Juozas su darbininkais buvo išėjęs į pievas šieno piaut. Senoji Rugienienė prisitaisius pavakariais išėjo pas šienpiūvius.</p>
+<p>— O tu, Onyte, pasaugok namas! — išeidama tarė motina. Onytei to ir reikėjo. Motina su puodais už vartų, o Onytė pašmakšt tuojau į seklyčią, už rakto, atsirakino savo skrynią:</p>
+<p>— Reik dar ve šitą sijonėlį pabandyt — tarė sau, išsiimdama naujutėlį, su kvalbanais ir sulig paskutinės mados su sagomis pasterbliuos, tamsiai-durpinį sijonėlį. Apsisegė ir, akies mirksnyje prišokus prie veidrodžio, apsisuko keliomis eiliomis, pasižiūrėjo, iš vienos pusės, iš kitos:</p>
+<p>— A!.. gražus!.. tai jau jį imsiu važiuodama...</p>
+<p>— Kur taip, Onytėle, rengiesi? — įėjęs tuo tarpu niekieno nepatėmytas, tarė klebonas. —</p>
+<p>— Tegu bus pagarbintas!..</p>
+<p>— Ogi tėvelis!.. — styptelėjo persigandus Onytė...</p>
+<p>Iškur čia tėvelis atsirado, kad aš nieko negirdėjau, kaip įėjot? — bučiuodama klebonui ranką, truputį susigėdus, tarė mergina.</p>
+<p>— Iškur? — ogi, mat, senis valkiojosi po laukus, tai, sako, reik eit pažiūrėt, ką veikia mano prieteliai... Ateinu, žiūriu į kluoną — nieko nėr, žiūriu į tvartą — nieko nėr... ateinu į grinčią, žiūriu šen, žiūriu ten — nieko nėr... Jau norėjau apsigrįžęs rėpliot sau namo, bet, sakau, dar reikia dirstelt į seklyčią... Būčia viską išnešęs, o nė lapė būtų nelojus... — juokėsi senukas.</p>
+<p>Čia turiu pasakyti porą žodžių apie kleboną. Buvo tai jau gana pagyvenęs žmogus, aukšto ūgio, žila, kaip obelis, galva, plačia kakta ir išmintingai žiūrinčiomis akimis. Visa parapija: ir dideli ir maži jįjį pažindavo ir mylėdavo. O vadinti jo kitaip nieks nevadindavo, kaip tėveliu. Jaunoji karta nežinojo nė tikros jo pavardės; jiems rodės, kad jis tėveliu gimęs, tėveliu apkrikštytas... ir dabar tėvelis... Bet nedovanai jam žmonės tokį gražų vardą davė. Jis tikrai buvo visos parapijos tėvas. Jis šioje parapijoje pergyveno jau dvidešimt suviršum metų ir per visą tą laiką, kiek įmanydamas, dirbo savo parapijos naudai. Bažnyčia buvo išpuošta, kaip lėlė, kožnam bevienam kaime sutaisytos buvo slaptos mokyklėlės, kurias „tėvelis“ patsai dažnai lankydavo ir vaikus mokindavo. Kožnas bevienas pas tėvelį rasdavo išmintingą patarimą ir pagalbą... Žmonės be jo nerimdavo, o jis be žmonių. Išėjęs pasivaikščiot, jis vis turėdavo kur užeiti pažiūrėti, anot jo, „ką mano prieteliai veikia“.</p>
+<p>Rugienienė, nunešus pavakarius, pamatė ateinant „tėvelį“, užtat, palikus pavakarius, kiek galėdama, skubinos pasitikt svečią.</p>
+<p>— Dovanokit, tėveli, kad taip pakrikusius mus radote — įpuolus seklyčion teisinosi senoji.</p>
+<p>— Darbymetė, mama, kas namie sėdės?.. Tokiu laiku tegu svečiai nevaikščioja! — juokėsi klebonas.</p>
+<p>— Ale kur čia tėveli, jums ir per darbymetę yra vieta... Be jųs ir darbymetė mums nesisektų!.. Ačiu tėveliui, labai ačiu, kad mųs neužmirštat!..</p>
+<p>— 	Kur čia, mamyte, tave užmirši, aš ateinu vis pasimokyti, kaip reikia šeimininkauti, kaip vaikai auginti...</p>
+<p>— Ačiu Dievuliui, sekasi viskas gerai</p>
+<p>— O gal kur rengiatės važiuot? kad štai Onytė taip gražiai pasipuošus? — rodydamas į Onytę, tarė klebonas.</p>
+<p>Onytė susigėdus išbėgo per duris.</p>
+<p>— Tai, tėveli, supaišysi Onytės! — aiškino Rugienienė — ji taip rėdosi jau visa savaitė. Tai apsirėdys, tai vėl nusirėdo...</p>
+<p>— Bene jaunikių, mamyte, laukia? — klausė klebonas.</p>
+<p>— Jau sulaukė, dabar tik rengiasi pati jaunikio atlankyti... Tų mergų, sakau, ir neišmanymas!.. Pereitą nedėldienį parbėga, parbėga uždusus:</p>
+<p>— Mamyte, girdi, mačiau ciciliką, o toks gražus, toks gražus, kad negali!.. — Aš tuoj įspėjau, kame čia visas dalykas. Ogi, žinot, panedėlio vakare ir atvažiuoja, tarytum, susimokinę.</p>
+<p>— Koks tai cicilikas? — užklausė Klebonas.</p>
+<p>— Aš nemačiau, sako, tas-pats, ką pamokslą sakęs... Mykaičių Jonuks...</p>
+<p>— Aa!.. Mykaičių Jonuks?!. — Tai gerų tėvų vaikas, bet dabar truputį padykęs pradeda jau neiti į bažnyčią. Dievo nepripažįsta... Klysta vaikinas... o taip, būtų labai šaunus — aiškino klebonas.</p>
+<p>— Ir aš, tėveli, tai apie jį girdėjau... Aš nelabai nė norėčiau už jo Onytę leisti, bet ji... tirpsta iš meilės...</p>
+<p>— Matot, tame dalyke, man taip rodos: Senieji Mykaičiai, ir aš ir jųs pažinojote, tai buvo pašaukti žmonės, buvo katalikai... ir rūpinosi vaikus kuogražiau išmokinti... Čia Dievas davė jiems nelaimę: pats jis pasimirė ir anie vaikučiai numirė, dabar reikės, mokslus metus, Jonukui imti ūkį. Jonukas, aš jį mažą išauginau, tai geras vaikas ir gražią tur dūšią. Čia viena nelaimė, tai netikusios mųs gimnazijos. Ten papuolęs, Jonukas paklydo. Draugai ir biaurios knygos išvedė jį iš kelio. Bet tai, sulig mano nuomonės, tik ligi laiko... Pereis pora metų</p>
+<p>— Jonukas bus vėl toks geras, kaip ir buvo. Kaip ratai, jei jie račiaus drūčiai padaryti, tai nors kada ir įvažiuotum į grabę, bet vėl juos ištrauksi ir bus sveiki... Taip lygiai ir žmogus, jei jis nuomažens tėvų gražiai išauklentas, jei jam išmažens kvėpta sveikas, drūtas Kristaus mokslas, tai kad ir pasitaikytų tokiam žmogui kada-nors iškrypti iš kelio ir įpulti į didelius nusidėjimus, bet anas sveikas, tėvų įkvėptas jam į širdį Kristaus mokšlas atitrauks jį vėl į teisingą kelią. Bent man taip rodosi.</p>
+<p>— Bet, tėveli, Jonuks ne tik ką yra netikėliu, bet dar, kaip girdėjau, ir revoliucijonerium.</p>
+<p>— To tai nėra ką bijoties — tarė Klebonas. — Revoliucijonerium tokiu, kokiu yra Mykaitis, męs visi esame. Jei mųs vyriausybė neteisinga, jei ji mus perdaug smaugia, jei ji mums neduoda nė spaudos, nė mokyklų, jei ant kiekvieno žinksnio mus sloginte-slogina, tai ką męs kitoniškai darysime, turime rėkti, turime bruzdėti, revoliuciją kelti ir reikalauti nuo valdžios teisybės bei palengvinimų... Užtat, mano nuomone, tokios mados revoliucijonerius ne tik ką nėra blogu žmogum, bet priešingai — yra tai žmogus aukštų jausmų, kuris atjaučia netik ką savo, bet ir kitų vargus... Žmogus, turįs sveiką dvasią, kuri nenor būt nelaisvės pančiais suvaižyta, ir visomis jėgomis stengiasi, yt toji paukštelė iš tamsios klėtkos išsimušti į laisvę... Iš to paeina revoliucija.</p>
+<p>Bet kalbėdamas apie revoliuciją, aš nekalbu apie tą nežmonišką kraujo liejimą, apie užpuldinėjimą ant nekaltųjų, apie deginimus, plėšimus, kuriuos daro plėšikų gaujos, revoliucijonerių vardą pasisavinusios. Katalikai tokių revoliucijonerių neapkenčia ir šalinasi nuo jų. Męs sakome: jieškokime savo teisių, bet nenorėkime skausti ir kitų; jieškokime laisvės, bet toji laisvė tur būti perimta Dievo baime; kelkime revoliuciją, bet ramiu būdu, be kraujo, be didelio krašto sunaikinimo!..</p>
+<p>Tokiu revoliucijonerium, man regis, yra ir Mykaičių Jonuks. Jis nori šaliai gerovės, nor nuversti senosios valdžios priespaudą-jungą, bet biaurisi žudymais ir kraujo praliejimu. Aš tai kalbu dėlto, kad aš Jonuką visą perdėm pažįstu; pažįstu švelnius jo širdies jausmus, kuriuos jam tėvai nuo-mažens įkvėpė. Ir pereitą panedėlį, kada keletas jo draugų sušaudė Plušą, kryžių ir daugybes kitokių revijų pridirbo, Jonuks su Plankium, sužinoję apie tai, kaip girdėjau, labai užpyko ant jų ir visiškai jų išsižadėjo!</p>
+<p>— Nesibijokit, mamyte, Jonuks yra geras vaikinas, nors dar šiek-tiek suklydęs... Bet atsiminkime tiktai, kad dar yra jaunutis, kraujas karštas... ale atvės, nurims... ir viskas bus gera... Leiskie už jo Onytę, bus puiki pora!.. — užbaigdamas tarė klebonas.</p>
+<p>— Dieve duok! kad šie žodžiai iš tėvelio burnos į Dievo ausį! — linksmai atsakė Rugienienė. — Bet visgi, žinot, tėveli, man baugu ir gana. Man žiūrint, Jonuks perdaug guvus, verda tik, rodos, visas ir gana... kad paskui gal juodu nesutikti.</p>
+<p>— E-e-e-e! to tai jau nėra ką bijoties, mama! Guvus, tai dar nėra nesutaikus. Visai priešingai, tie lėtieji dažnausia bųva nesutaikaus būdo!..</p>
+<p>— Ir senų, tėveli, kalbėta, kad lėta kiaulė giliai šaknį knisa — pritarė Rugienienė.</p>
+<p>— Taigi, taigi, tas priežodis labai yra teisingas — tvirtino klebonas. — Ar jųs pažįstat Grėbliūnų Kaziuką?</p>
+<p>— Vaje ir dar kaip, tėveli!</p>
+<p>— Ir jo pačią?</p>
+<p>— Labai gražiai pažįstu, puiki moteriškė — gyrė Rugienienė.</p>
+<p>— Tai matot, kol buvo nevedęs Grėbliūnas, koks jis buvo lėtas, kad, rodos, kuolą ant galvos jam tašytum — nesijudįs, o dabar kas? Rodos, lėtas ir dabar, bet koks sunkus su juo pačiai gyvenimas, tai, Dieve, saugok, brangusis!..</p>
+<p>Rodos, prieš porą savaičių, taip jau temstant, klausau kažinkas užvažiavo pas šventorių. Netrukus ateina pats Grėbliūnas. Jis man, pakšt-pakšt, vieną ranką, kitą:</p>
+<p>— Šiokis — tokis, tėveli, važiuokit pas ligonį, manoji labai sunkiai serga!</p>
+<p>Kad taip, žinoma, nėra ką laukti, kuogreičiau nusitvėriau, kas reikia, įsisėdau į vežimą ir važiuoju. O toks vakaras buvo tamsus, kad, rodos, maiše būtum: nieko nematyt. Bet, ką darysi — važiuojam. Kol atvažiavau, atėjo ir netoli pusiaunaktis. Įeinu į grinčią. Pakampėse snuduriuoja keletas, susirinkusių kunigėlio laukti, bobelių, lovoje gi guli ligonė.</p>
+<p>Priėjau prie jos. O ji, jaunutėlė, nes dar tik pora metų, kaip ištekėjus, nublankus-nublankus, kaip drobė, tik patįs lūpų pakraščiai, tarytum, raudonu siūlu apvadžioti, žerėjo raudoni, kaip ugnis... akįs įdubusios... Nuo visos karštis mušte mušė.</p>
+<p>Atsisėdau šale jos. Tuotarpu ji, atvėrė savo blakstienas, dirstelėjo į mane ir, pakėlus savo drebančią ranką, palengva persižegnojo... Ėmė išpažinti savo nusidėjimus... Aš-gi tylėjau ir daviau tam gęstančiam žiedeliui išpažinti visas savo dūšios sielvartas bei rūpesčius...</p>
+<p>Išpažino... apsivalė... daviau jai paskutinį į amžiną kelionę suraminimą... Jau rengiausi važiuoti namo, bet tuotarpu ligonis ūmai pakilo nuo patalo, nutvėrė man už rankos, ir pridėjo ją prie karštų, kaip ugnis, savo lūpų...</p>
+<p>— Tėveli! ar jo čia nėra? — po valandėlės užklausė ji ir pakėlus akis apmetė visą pirkčią... Bet čia-pat prie lovos stovėjo tik keletas kaimynių, o jo nebuvo.</p>
+<p>— Tėveli! — vėl tarė ligonis — melskis už mano vyrą!.. Melskis už mano mažutį kūdikėlį, kurį turiu našlaičiu palikti... Aš... jam viską dovanoju... Jis manęs neapkentė... mušė... štai ve dėl jo aš ir šį svietą apleisti turiu!.. — ir prasidengus visiems parodė pamėlynavusius, sutinusius savo pečius.</p>
+<p>— Tai visas mano toks kūnas, tėveli! — Ligonės blakstienos nerviškai ėmė drebėti ir akįs pažlugo ašarose...</p>
+<p>Aš ir moterįs stovėjome šale jos ir tylėjome, nes neturėjome, ką kalbėti...</p>
+<p>— Aš jam viską dovanoju!.. — tuotarpu vis sunkiau alsuodama, tęsė ligonė. — Aš jam dovanoju... aš jį myliu... Tėveli! melskis už jį... melskis, gal Viešpats jam šventąją Dvasią suteiks... Mažutis mano... našlaitis mano... melskis, tėveli... melskis...</p>
+<p>Mirties konvulsijos sugriebė nelaimingąją, persivertė porą kartų, dar sykį dirstelėjo į mus visus:</p>
+<p>— Aš jam... Jezau!.. — dar pusbalsiai prasiveržė pro stingstančias jos lūpas... Akįs pasidarė, kaip stiklo... keletą kartų sunkiai sudejavo... Ir atlikta.</p>
+<p>— Ai, Dieve, Tu mano! — atsiduso Rugienienė.</p>
+<p>Grėbliūnienė, toji geroji moteriškė, numirė. O mirė dėlto, kad vyras, parėjęs namo girtučiukas, taip jąją visą sumušė, kad neliko sveikos vietos nė pirštui uždėti.</p>
+<p>— Taigi, matai, mama, — baigė klebonas — lėtas, o kaip pasielgė! Užtat nejieškok žento sau lėto, bet išmintingo, kokiu galės būt, man rodos, Mykaičių Jonuks.</p>
+<p>— Ak, Dieve, duok! Jei tėvelis pataria, tegu bus ir taip! — truputį pamąsčius, antgalo sutiko Rugienienė.</p>
+<p>— Na, ale aš užsišnekėjam, o jau temsta, reik bėgt namo! — stodamas nuo suolo, tarė klebonas. — Kur Onytė? Ji, matyt, susigėdo, kad aš ją užtikau besidabinant prieš veidrodį! —</p>
+<p>— Tai, tėveli, žinai jas: jaunos ir kvailos, rėdysis — rėdysis, dairysis — dairysis aplinkui, kaip povas, negal savim atsigrožėti!..</p>
+<p>Tuotarpu durįs prasivėrė ir įbėgo Onytė:</p>
+<p>— Ką, mama, vyrams vakarienės virt? — užklausė priėjus prie motinos.</p>
+<p>— Neilgai, Onytėle, jau vakarienes pas mane virsi! — linguodama galva, atsakė motina. — Ve štai tėvelis būtinai verčia atiduoti tave tam gražiajam cicilikui, ką tau taip labai galvą apsuko!..</p>
+<p>Onytė užraudo ir nuleidus akis tylėjo, bet širdis jai visai atgijo.</p>
+<p>— Taip, taip, Onyte, tu nesibijok Jonuko! — tarė klebonas — jis geras vaikinas, o kaip tave gaus, tai dar geresnis bus.</p>
+<p>— Ačiu, tėveli, už gražų patarimą — bučiuodama klebonui ranką, susigėdus, tarė Onytė.— Jei jųs, tėveli, patariat, tai nėra ko man bijoties...</p>
+<p>— Tai, Dieve, tau, Onyte, padėk! Jonuką prisivilioti sau už vyrą, o tau, mamyte, turėti iš jo gerą sau žentą. — Tarė klebonas ir atsisveikinęs norėjo eiti namo. bet Rugienienė sulaikė:</p>
+<p>— Beje, tėveli, jųs arčiau gyvenate, ar negirdėjote, kur nusibastė Plušos užmušėjai?</p>
+<p>— Dievas juos žino, girdėjau, būk vieną katrą iš jų sargybiniai užmušę, o kitus suėmę. Gana. Kitu kart, dabar neturiu laiko.</p>
+<p>Išėjo.</p>
+
+</div>
+ <div type="chapter">
+ <head>X. Vargdienių apgynėjai</head>
+
+<p>Toli jau barškėjo Mykaičio su Plankium, važiuojančių į Rugienius, ratai, o mųsų įpykę draugai vis dar negalėjo atsiplūsti ant jų.</p>
+<p>— Valdžiai parsidavę juodu! — šaukė Kubilius — atžagareiviai!.. juodašimčiai, ne revoliucijoneriai!.. Girdi, užpyko, kad męs šnipą sušaudėme!.. pagailo... Būta ko gailėties, bene patįs jie šnipai!..</p>
+<p>Endrius Plankius tylėjo, nieko nekalbėjo. Jam nesmagu buvo, kad brolis nepagyrė jo darbo. Jis brolį gana aukštai statydavo ir jo nuomonę visada gerbdavo. Viename dalyke jis negalėdavo su broliu sutikt — tai tikėjimo dalykuose. Endriuks, dar būdamas ketvirtoje klesoje, gavo iš kur tai Darvino knygą, kurioje yra parašyta, kad žmogus nevisada tokiu būdavo, kaip dabar matome. Pirma kelių tūkstančių metų buvę žmonės beždžionių pavidale, su ilga uodega, nagais, aštriomis iltimis ir apžėlę plaukais. Bet paskui, nuo dažno sėdėjimo, uodega visai jam nutriušo, iltįs nudilo, nagai atšipo, o besiprausiant plaukai nupliko. Ir tokiu būdu pasidarė ir beždžionės žmogus. Užtat, kaip beždžionė — gyvulys, jokios dūšios neturįs, nė Dievo nepripažįstąs, taip lygiai ir žmogus esąs gyvulys ir jokios dūšios neturi, nė į Dievą netur tikėt.</p>
+<p>Paskaitęs tąją knygą, Endriuks susyk atsimainė: jam rodėsi, kad susekė visą pasaulio gudrybę. Jis nuo to laiko baisiai mėgdavo girties, kad paeinąs tiesia linija nuo didžiulės beždžionės, vadinamos gorilė. Apie dūšią ir Dievą Endriukiui nė neužsimink, jis visai nenorėdavo ir klausyt. Pertai, broliui kalbant apie Dievą. Endriuks visada mąstydavo, kad brolis tame punkte visiškai klysta, bet priešinties jam nedrįsdavo, jeib kada nusuka kalbą į ką kitą.</p>
+<p>Bladui taiposgi nelabai buvo smagu. Su Mykaičiu jis visada gražiai gyvendavo ir viens kitam užsitikėdavo. Dabar gi, pamatęs, kad Mykaitis labai pasipiktino iš jo darbo — truputį susigraudino.</p>
+<p>— Kokių monų judu dabar čia niurksote — rėkė Kubilius. — Matai, vaikučiai pabūgote, kad tuodu atžagareiviu mamytėms neįskųstų... Tai man vyrai?!.</p>
+<p>— Būta ko bijoties! — teisindamasis, tarė Endriuks. — Tegu juodu sau važiuoja galvatrūkčiais!..</p>
+<p>— Šitaip, tai kas kita! — gyrė Kubilius. — Jei esate vyrai, tai stok! Reikia pasidrūtinti, juk męs visa diena nieko burnoje neturėję, išalkome, kaip vilkai.</p>
+<p>— Gerai tamsta užmanei! — pritarė jaunieji. Barštys gi gulėjo ir tylėjo.</p>
+<p>Bematant, vežimas sustojo. Kubilius su Endrium, pasikrapštę kišenius, kožnas išsitraukė po bonkelę, kurias geras žydelis Jankelis neužmiršo išryto įkimšti jiems į kišenius — „ant zopasto“, kaip sakė jisai. Dvi bonkuti draugai patuštino girioje, o dvi dar likosi pilnos.</p>
+<p>— Degtinės yr, bet užkąst nėra! — tarė Endrius, išsitraukęs bonką.</p>
+<p>— Užkąst?! Eime! — mostelėjo Kubilius. Endrius nuvėjo paskui, o Kubilius pirma.</p>
+<p>Netoli vieškelio stovėjo pirktutė, kur gyveno kampininkė-moteriškė. Ji turėjo du sūnų Amerikoje, kuriuodu parsiųzdavo jai po keletą rublių reikalams. Užtat bobelė, nors dirbt jau neįveikė, bet gyvastį vis šiaip taip maitino. Kubilius su Endrium priėjo prie pirktelės; pabeldė į duris. Moteriškė, manydama, kad koki pakeleivingi nori kelio pasiklausti, atidarė jiems duris.</p>
+<p>— Na, bobute, duok mums kumpį ir dešrų męs norime valgyt! — tarė įėjęs Kubilius.</p>
+<p>— Ale, vaikeliai, vasara, kur gausi dešrų? kumpį, jei norite, tai jau ką — duosiu! — persigandus teisinosi senutė.</p>
+<p>— Duok, tegu tave galas, ir kumpį, tik neužmiršk ir duonos.</p>
+<p>Netrukus kampininkė, atjieškojus paskutinį savo kumpelį, atnešė draugams.</p>
+<p>— Kas jį gal valgyt! — riktelėjo Kubilius, imdamas kumpį. — Ve, žiūrėk, jau apipuvęs! — Ir stūmė senutę ir kampą.</p>
+<p>— Dievulėliau Tu mano! — sušuko varkšė — ką aš kalta, kitokio neturiu.</p>
+<p>— Tai duok mums pinigų — męs patįs nusipirksime!</p>
+<p>— Neturiu pinigų! Ve, mano visi pinigai! — rodydama pusantro rubliaus, teisinosi senutė.</p>
+<p>— Neturi? o sūnųs iš Amerikos neparsiunčia? — šaukė užpuolikas.</p>
+<p>— Neturiu, neturiu, kaip mane gyvą matot! — iš baimės drebėdama, vis gynėsi kampininkė.</p>
+<p>— Duokš ir tuos! Ką čia su boba ilgai barsimės! — ištraukęs iš rankų paskutinius senutės pinigus, tarė Kubilius ir apsigrįžę abu išėjo.</p>
+<p>— Na, vyrai, turime visko: ir duonos, ir kumpio, ir degtinės, bet pinigų boba-ragana ginasi neturint ir gana! Tegu ją kelmai!</p>
+<p>Po valandėlės bonkutės patuštėjo, o nuo kumpio su duona likosi vien mentė ir pluta. Barštys nieko nevalgė.</p>
+<p>— Dabar toliau! — įkaušęs, sušuko Kubilius.</p>
+<p>— Bet kur męs važiuosim? Baisu, kad kazokai neužkluptų? — klausė Bladas.</p>
+<p>— Ką čia kazokai! Pas Jankelį! Jis toks geras žydelis, taip gražiai išryto mus pavaišino, išgyrė mųs prakalbą... Pas jį, vyrai! — rėkė Kubilius, užmiršdamas, kad vakar vakare pats drebėjo iš baimės kazokų. Bet dabar degtinė pridavė jam drąsos ir išvarė iš širdies baimę.</p>
+<p>— Baisu pas Jankelį! — aiškino Bladas — Plušienė galės užvest ant mųs policiją! —</p>
+<p>— Neužves! — vis gynė Kubilius — Jankelis moka policijai uždėti akinius, kad mųs nematytų.</p>
+<p>— Tai pas Jakelį! — visi antgalo pritarė draugai. Pusvalandis, ir mųsų draugai buvo pas Jankelį.</p>
+<p>— Labą vakarą, Jankel! — įžengdamas tarė Kubilius. — Męs ir vėl čia!</p>
+<p>— Labai man malonu! — atsakė žydas, bet širdyje sau mano:</p>
+<p>— Gal būt čia ir man negera už tuos gojus! Jie sušaudė Plušą — visi tai žino ir policija apie juos sukinėja... Na, jei juos ras pas mane, tai gal manyti, kad ir aš prie jų priklausau!</p>
+<p>Šlecht gešeft! Bet ką čia padarius? Aà! bus gera! — nudžiugęs sudavė su plaštaka sau per kaktą Jankelis.</p>
+<p>— Prašom, prašom, gilyn! — atsikreipęs į Kubilių, tarė antgalo smuklininkas. — Kur daugiau geradėjų?!</p>
+<p>Bet štai paskui Kubilių įeina Endrius Plankius ir svyruojantis Bladas. Barštys gulėjo vežime: negalėjo pasikelti.</p>
+<p>— O kur mano prietelius? — klausė smuklininkas, nematydamas tarp jų Barščio.</p>
+<p>— Susirgo truputį, Jankel, guli vežime!</p>
+<p>Po valandėlės mųs draugai sėdėjo už stalo, o meilus smuklininkas vaišino juos „gardžiąja“.</p>
+<p>— Vat tai žmonės!— tuštindami bonkas, šaukė draugai — tai bent žmonės!.. Rėkia visi: žydai, žydai!.. Rask tu man tokį vaišų ir meilų, kaip žydelis?!</p>
+<p>— Na, Jankel, už tavo sveikatą! Tegyvuoja žydų-pirmeivių tauta!..</p>
+<p>— Tegyvuoja! — sušuko visi vienu balsu.</p>
+<p>Jankelis iš džiauksmo net į viršų pašoko.</p>
+<p>— Nu, ponai, jųs širdįs — tai kaip vaškas!.. Jos tirpsta, kaip pamato artimo nuoskaudą, nelyginant ledas nuo saulės.!. Tokios širdies neturės nė motina, nė tėvas, nė brolis, nė sesuo, nė prietelis nė nieks!.. Kad jum Dievas duotų sveikatą už tokius gražius darbus! —</p>
+<p>Čia žydelis baugiai pažiūrėjo į langą, nes ten kažin-kas susibeldė. Bet nieko nebuvo, tik Barštys braškinosi po vežimą.</p>
+<p>— Nu, o gal Barščiui pilvą susupo? — susiraminęs, užklausė Jankelis.</p>
+<p>— Pilvą varkšui, pilvą! — atsakė Kubilius — nunešk ir jam kokią porą lašelių!</p>
+<p>Akies mirksnyje žydelis jau buvo pas Barštį.</p>
+<p>— Nu, ponas Baršty, ačiu tau už tokį gražų darbą!.. Gerai tam Plušai... jis pereitą vasarą rinko parašus nuo žmonių, kad panaikinus mano smuklę... Aš, varkšas žydelis, su kuopa vaikų be smuklės kur aš dinkčia?.. Gerai tam vargdienių skriaudėjui...</p>
+<p>— Daugiau jisai jau nerinkinės parašų! — stenėdamas iš sopulio, tarė Barštys.</p>
+<p>— Nu, kad jųs toki geri ir tokias geras širdis turit, žinot ką, p. Baršty?</p>
+<p>— O ką?</p>
+<p>— Čia šale manęs yra kitas toksai mųs vargdienių neprietelis, tai „manopolis“. Jis ten daug patraukia prie savęs mano žmonių... Jųs jam taip padarykit, kaip Plušai! Tegu jį galas tą manopolį! Berniukai neša nuo tėvų ir gaspadorių javus pas mane, aš jiems už tai duodu alaus, kiek tik jie nori, bet jiems to neužtenka! Jie nori degtinės, o degtinės man negalima turėt; aš tik slapta po truputį, kaip tokiems ponams, kaip jųs, tai galiu, bet visiems — pfe! Baisu, gal užskųst. Kaip aš jiems neduodu degtinės, tai mokėk, girdi, pinigus, męs rasime „manopolyje“!.. Pfiu! už mano pinigus — manopolio šnapsą gert? Kur čia teisybė? — karščiavosi Jankelis, bet vis rūpinosi, kiek galint, ištykiau kalbėt, kad kitu-kart kas neišgirstų.</p>
+<p>— Gerai! padarysime ir jam!— tvirtu balsu tarė Barštys — pašauk tik anuos.</p>
+<p>— Vyrai! — atėjus aniems, tarė Barštys ir sunkiai sudejavo, nes yt peiliu nuvėrė jam per šoną. — Vyrai! štai mųs prietelis, Jankelis, skundžiasi ant monopoliaus, kad jam duoną paveržiąs...</p>
+<p>— Nesulaukimas! — visi vienu balsu sušuko draugai. — Biurokratų įstaiga tur mųsų prieteliui kąsnį nuo burnos atimti?. Eime, vyrai! Išdaužykim, kad jo nė ženklo neliktų!</p>
+<p>Žodis — darbas. Bematant, vežimas apsigrįžo ir nutarškėjo į pakalnę pro smuklę, kancelerijos linkon.</p>
+<p>Priešais-pat kanceleriją buvo tas „biaurusis“ monopolis. Sutemė; užvaizda buvo jau uždaręs monopolį, o pats, atsisėdęs už stalo, darė pelno sąskaitą.</p>
+<p>Ties monopolium vežimas sustojo. Kubilius išlipo iš vežimo, nuėjo pas langą ir pabarškino. Monopolio užvaizda, manydamas, kad tai kokis pažįstamas nori jį atlankyti, pasistojo ir atidarė duris. Bet vos tik atidarė, atšoko atgal: nesa priešais save pamatė atkištus tris revolverius. Norėjo šaukties pagalbos, bet draugai, nors buvo nusigėrę, bet visgi dar tiek nuvokė, kad uždraudė jam rėkti ir pagrasino nušausią.</p>
+<p>— Kur pinigai? — sušuko Kubilius.</p>
+<p>Užvaizda nužemintai priėjo prie stalo, atadarė stalčių ir parodė:</p>
+<p>— Ve, keletas rublių yra. Daugiau išsiunčiau į vyriausybę.</p>
+<p>— Į vyriausybę tu išsiuntei?!. — nesavu balsu suriko Kubilius. — Tu vyriausybei pinigus siuntinėsi?!. Tu vyriausybės tarnas... šnipas?!. Užmokėk čia tuoj mums penkiosdešimt rublių pabaudos, o ne — tai ve, padedam, kaip šunį!.. — Ir atkišo revolverius.</p>
+<p>— Susimildami! dovanokite bent gyvybę!.. Aš užmokėsiu. Ve, neperseniai atsiėmiau algos keletą rublių... imkite sau... Aš ir badą pakentėsiu... tik, susimildami, gyvybę!..</p>
+<p>— Tegu tave kelmai! — imdamas pinigus, užkeikė Kubilius — duodi trisdesimt — užteks ir tų, bet žiūrėk, kad daugiau nepardavinėtum degtinės!..</p>
+<p>— Bet ką aš kaltas? Nuvargęs esu, pati, vaikai... valgyt reikia... ką aš darysiu?! — skundėsi užpultasis. Bet mųs draugai, baisiai pasigailėję žydelio, nors tasai tūkstančius rublių klojo savo dukterims dalies, to varkšo visai nepaisė. Pasiėmę paskutinius jo pinigus, nutvėrė lazdas ir ėmė daužyt degtinės bonkas.</p>
+<p>Ką daužė, tai sudaužė, o likučius susigrobė ir nusinešė vežiman. Susėdo visi ir, atsilupdami „baltakės“ bonkas, danu ragauti linksmybės gėralo.</p>
+<p>Taip jiems besilinksminant, kur buvę, kur nebuvę, tik kyšt-pakyšt sargybiniai.</p>
+<p>Matai, Jankelis norėjo sykiu du kiškiu nušauti; sunaikinti neapkenčiamąjį monopolį ir vyriausybės akyse nekaltu likti. Užtat, išsiuntęs draugus į monopolį, jis kuogreičiau užsėdo ant kumelaitės ir kiek tik kvapo ištesa, dumt pas sargybinius į miestelį, aštuoni varstai atstu nuo bažnytkaimio.</p>
+<p>— Uch! ponučiai! — sušuko žydelis, įpuolęs į „staršos“ būstą — razboiniki! Galvažudžiai užpuolė, gelbėkit!.. —</p>
+<p>— Koki galvažudžiai? — užklausė „starša“. </p>
+<p>— Nu tie patįs, ką užmušė Plušą, jie dabar ir mane norėjo užmušt, jie buvo mano kambaryje ir reikalavo degtinės... Ui! ponai, gelbėkit, nes užmuš! —</p>
+<p>— O kur jie dabar?</p>
+<p>— Dabar jie nuvėjo monopoliaus daužyt... Aš gražumu prašiau, kad to nedarytų, bet kur tau jie klausys. Išgirdau tik bar-bar į pakalnę ir bonkos: dzin-dzin... o daugiau nieko... Ponuliai!.. — šaukė žydas.</p>
+<p>Sargybiniams to ir reikėjo. Jie kuogreičiau susirinko visi keturi ir štai pas mųsų draugus. „Starša“ tuojau pripuolė iš užpakalio, lapt, Kubilių į glėbį ir laiko. Bet Kubilius ir per girtumą neužmiršo savęs ginti. Jis, bematant, griebėsi už brauningo ir per petį paleido kulką į sargybinį. Kulka nudūzgė sargybiniui pro ausis. Tuomet anie sargybiniai pripuolė ir iš revolverių padėjo Kubilių ant vietos. Kiti draugai persigando ir užmiršo apie savo drąsą. Juos visus suėmė gyvus ir nugabeno į kalėjimą. Užmuštąjį gi Kubilių paliko šale monopoliaus, pristatę apsaugą lavono prižiūrėti.</p>
+</div>
+
+ <div type="chapter">
+ <head>XI. Pakastynos</head>
+
+<p>Pravažiavus plentu keletą verstų nuo geležinkelio, einančio į Kauną, ištolo dar pamatai abiem Nemuno pusėm žaliuojančius šilus.</p>
+<p>Kaip tik akia užmesti, išilgai ir skersai, gumšo išvien žalias, iš pušų viršūnių nupintas, vainikas... Tai ilsis jis, tasai gražusis vainikas, nesijudindamas, tarytum, dūmoja kokią tai paslaptingą dūmą... Tai, vėjui pakilus, siūbuoja-linguoja... Vilnįs, kaip jūrose, eina nuo krašto, ligi krašto; viena kitą veja, supas, liūliuoja... ir šniokščia patyka!..</p>
+<p>Kur-ne-kur tą pušų vainiką Nemunas perriežia ir skirias jis į dvi dali. Iš vienos pusės ir iš kitos žaliuoja vingiuotos pakrantės, o tarpu jųjų, atsimušę į saulės spindulius, blizga-mirga ir virba Nemuno vilnįs, kaip sidabrinis kasninkėlis per geltonąsias mųsų sesučių kasas... Čia platus, per pusvarstį, vandens plotas, banguoja, plakas į krantus, putoja... o ten toli, vos-vos žym blyksčioja siaurutėlis vandens takelis; dar toliaus, ir jis išnyko... Ir vėl tasai žaliasis šilo vainikas išvien gludo...</p>
+<p>Nuo vakarų, prie pat šilo privažiuoji didelį kaimą. Gale kaimo stovi nedidelė koplytėlė. Stogas jos ir sienos jau gerokai aptriušę, o kryžiai ant kapinyno, prie koplytėlės užtverto, kuo-ne visi į šonus išklypę.</p>
+<p>Tai buvo Brazdų kaimas. Brazdų gyventojai vesdavo gana ramų gyvenimą, kaip paprastai girininkai. Visame kaime, prireikus, sunku būdavo surasti vyrą, nes vasarą ir žiemą jie triūsdavosi po girias: vieni lentas piovė, kiti trobas statė, treti malkas į sieksnius kirto... bet namie nė viens nesėdėjo.</p>
+<p>Po to trukšmingo panedėlio, kada mųsų draugai sumanė revoliuciją kelti, atėjo pėtnyčia. Atgijo ir Brazdų kaimas. Vos saulutė pasirodė ant dangaus, Brazdų vyrai būriais rinkos pas galutinį savo kaimyną — Petrą Kubilių.	</p>
+<p>Petras Kubilius buvo tai tikras brolis užmuštojo ties monopoliumi. Jųdviejų tėvas mirdamas paskirstė didelį savo ūkį abiem sūnum pusiau. Petras buvo gana doras ir darpštus žmogus ir pertai ūkininkauti jam puikiai sekės. Kitas gi brolis — Mikas, jau nuo jaunumės buvo padykęs, o perdaug pamylėjęs degtinę ir linksmą gyvenimą, bematai ir prašvilpė savo dalį. Netekęs ūkio, Mikas susidėdavo su tais, kurie jį pamylėdavo degtine. Už degtinės bonkelę Mikas pasiryžęs būdavo ant visko. Kur peštynės — žiūrėk ten ir Mikas Kubilius; kur vakaruškos, vestuvės — ten ir jį rasi. Taigi ir dabar, atėjus laisvės dienoms, Kubilius prisiplakė ir prie revoliucijonerių, nors apie revoliuciją jis tiek išmanė, kiek Iršius apie kiaulieną.</p>
+<p>Pridirbus sykiu su draugais visokių riaušių, kaip skaitytojas atsimena, jis žuvo nuo sargybinio kulkos.</p>
+<p>Brolis, apie tai sužinojęs, išgavo leidimą parsivežti užmuštojo lavoną į Brazdus ir ten palaidoti.</p>
+<p>Laidotuvės buvo paskirta pėtnyčioje.</p>
+<p>Žmonių prisirinko begalės. Matai, visiems įdomu pamatyti, kaip „ciciliką“ laidoja. Ypač daugumas bėgo į laidotuves, nes girdėt buvo, būk ant kapų bus sakomos prakalbos. Kiekvienas norėjo išgirsti, kokią galima prakalbą pasakyti apie tą, kurio visa apielinkė kitoniškai niekad nevadindavo, kaip valkata.</p>
+<p>— Kažin, sesele, ar į bažnyčią numirėlį lydės, ar čia-pat ant šio kapinyno laidos? — užklausė pakuždomis viena atvykusių laidotuvėsna merginų savo draugės greta jos stovinčios.</p>
+<p>— Ale ką, sesut, sakai į bažnyčią! Juk jam visą amžių nereikėjo bažnyčios. Jis kunigų kitaip nevadindavo, kaip siurbėlėmis ir žmonių išnaudotojais. Kam jam ir dabar bažnyčios!</p>
+<p>— Ir man rodos, taip reikėtų — pritarė pirmoji — bet aš išnetyčių lyg išgirdau, kaip kažin-kokiu du jaunu barzdotu vyruku, neperseniai eidamu per duris, tarp savęs kalbėjosi — visgi, girdi, męs katrą nors surasim namieje. Jei ne kleboną, tai jaunąjį. Nevažiuos gražumu, tai štai brauningėlis pagelbės!</p>
+<p>— Aa, šitaip!! — numykė draugė. Pažiūrėsime, kas bus.</p>
+<p>Taip besikalbant, tik štai suskambėjo skardus vyriškas balsas: —</p>
+<p>— Draugai ir draugės!..</p>
+<p>Merginos sužiuro į tą šalį, iškur ėjo balsas. Tuo tarpu jaunas, gal kokios dvidešimties metų vyrukas, užsilipęs ant kėdės šale-pat numirėlio, garsiai ėmė varyti savo prakalbą:</p>
+<p>— Draugai ir draugės! Liūdną dieną susilaukėme! Štai viens iš karščiausių mųsų liuosybės apgynėjų guli ant lentos. Tai ąžuolas, kuris, savo krūtinę atstatęs, gynė mus nuo biurokratų ir mųsų siurbėlių vėtros!.. Bet... toji pasiutusi vėtra pergalėjo tą mųsų ąžuolą-apgynėją ir išrovė iš šaknų... Nedaug pas mus buvo tų ąžuolų, o dabar vėtra dar sumažino šiandienine auka jųjų skaitlių! Męs visi matome pavojų, jei tai pašėlusiai vėtrai pasiseks išnaikinti visus savo priešus, tėvynės apgynėjus, kokis buvo miręs Kubilius, tuomet vargas mums visiems!.. Ir vėl prasidės naujos priespaudos!.. Ir biurokratų jungas siurbsis į mųsų sprandus... Ir vėl tamsybė... Ir vėl šaltis ir badas... Taigi, vyrai, šiandieninė auka, tas pavojus mums grūmojantis, tegu priduoda mums naujų pajėgų, tegu sustiprina mųsų dvasią!.. Sukilkim, vyrai, ir stokim į eilę vyras į vyrą!.. Visi už vieną, o viens už visus.</p>
+<p>Kalbėtojas nutilo, bet paskutiniai jo žodžiai skambėte skambėjo klausytojų ausyse, taip smarkiai jie buvo ištarti!</p>
+<p>Žmonės tylėjo. Vieni nežinojo apie ką čia buvo kalbama; kiti vėl buvo užsidegę revoliucijonerių dvasia; akįs jųjų kaip žarijos žėrėjo, veidai užsiliepsnojo, visos gįslos drebėte drebėjo ir, rodos, kad turėtų jie ginklą, o tuo tarpu pasisuktų koks valdininkas, be abejo, smeigtų tiesiog jam į širdį. Taip kalbėtojo žodžiai įkrito jiems į širdį.	</p>
+<p>Bet buvo daugelis, o gal ir didesnė pusė, kurie arčiau pažinojo tą išrautą, kaip kalbėtojas sakė, „ąžuolą-apgynėją“, tik nusišypsojo ir gana. Viens net bandė ir garsiau išreikšti savo nuomonę:</p>
+<p>— Geras, teisybė, buvo „ąžuolas-apgynėjas“, — nėra ką! Degtinę naikyte naikino. Matyt, varkšas viens už visus stojo ir viens norėjo ją išnaikinti, kad kitiems netektų...</p>
+<p>Perdrąsųs buvo žodžiai. Žodžio liuosybė — tai geistinas daiktas, bet ne visiems ir ne visados. Kada „ąžuolai-apgynėjai“ kalba, tai turi pilną žodžio liuosybę, bet jei kas panorėtų šį-tą prieš „ąžuolus“ ištarti, tai nelaimė tam! Taip būtų buvę ir su mųsų drąsuoliu. Kalbėtojas ir visa jo partija, išgirdus tą žmogaus pilną pašaipos išsireiškimą, kuo nepašėlo. Ir kažin kuo būtų jųjų piktumas pasibaigęs, jeib į tą tarpą nesuriksta, įbėgęs į grinčią, viens iš svečių:</p>
+<p>— Vyrai, rodos, viršininkas važiuoja! Lekia, kaip tik gal, zovada. Kazokų nematyt, bet jie gal kur užuolanka atkuria!</p>
+<p>Rodos, kas būtų bombą metęs. Akies mirksnyje grinčia patuštėjo. Vieni metėsi pro kluonus į girią: kiti į šiaudus; treti, persigandę, bėgiojo po atšlaimą, ir nežinojo kur dingti.</p>
+<p>Tuotarpu įtariamasis viršininkas įsuko į atšlaimą.</p>
+<p>Buvo tai visai ne viršininkas su kazokais, bet du „draugu“ su kunigu, kurį parsivežė į vidurį, kaip, nuotaką, įsisodinę. Bet kaip nusistebėjo, pamatę atšlaime taip visus pakrikusius.</p>
+<p>— Negerovė! — manė jie sau — čia turėjo kas būti. Gal kazokai?</p>
+<p>Tečiaus neužilgo jų abejojimai išnyko, nes žmonės, pamatę, kai tai ne viršininkas, ėmė vėl iš šiaudų ir iš girios pamažu rinkties pas nabašninką.</p>
+<p>Netrukus visa ta žmonių minia patraukė į senąjį kapinyną. Kunigas, apsirėdęs bažnytiniais rūbais, ėjo pirma; paskui jį traukėsi visa linija raudonų ir juodų vėliavų, o ant-pat galo šeši vyrai nešė užmuštąjį Kubilių.</p>
+<p>Varsnas paėjėjus visai tai margai procesijai, einantieji greta su kunigu, kuriuodu nežinantis galėjo palaikyti už vargonininką su zakristijonu, nutvėrė kunigą už rankų ir liepė sustot.</p>
+<p>Visa procesija sustojo. Prasidėjo prakalbos tokio-pat turinio ir karštumo, kaip ir pirmoji, ką buvo kalbėta namieje.</p>
+<p>Prakalbai pasibaigus, procesija paėjėjo kitas varsnas ir vėl sustojo. Ir vėl prakalbos. Taip darėsi kas varsnos, ligikol nenuvėjo ant kapinyno.</p>
+<p>— Ligitol męs sakėme prakalbas — tarė kunigui viens iš lydinčių jį vyrukų, kuris išrodė zakristijonu, bet rankoje jis, vietoje krapylo, laikė brauningą — dabar, kunige, tu turi pasakyti!</p>
+<p>Kunigas valandėlę patylėjo.</p>
+<p>— Ką, nesakysi? — keldamas brauningą, užklausė brauninguotas zakristijonas.</p>
+<p>— Negaliu — teisinosi kunigas — man gerklę skauda, tai viena; o kita, ką aš galiu neprisirengęs pasakyti, ypač kad velionio jokio gero darbo nežinau...</p>
+<p>— Kaip jokio gero darbo nežinai? O revoliucija? O mirtis už liuosybę?</p>
+<p>— Taip, tai taip, bet jis į bažnyčią neidavo, jis į Dievą netikėdavo... Aš negaliu, Bažnyčia uždraudžia tokius katalikiškai laidoti — teisinosi persigandęs kunigas.</p>
+<p>— Ką čia Bažnyčia, męs to reikalaujam, ir turi, kunige, sakyt prakalbą, o ne, tai pasielgsime, kaip su tėvynės priešu! — įpykęs sušuko vaikinas, rodydamas rankoje brauningą.</p>
+<p>— Ko, tamsta, nuo kunigo nori? — įsikišo tuotarpu į tuos vaidus jaunas, su geltona barzdele, vaikinas. — Juk tamsta pats žinai, kaip Kubilius kalbėdavo, kad jam nereik nė bažnyčios, nė kunigų; jog jis nepripažįstąs nė Dievo, nė dūšios...</p>
+<p>— Netik Kubilius tai kalbėdavo, bet ir aš tai-pat sakau! — atkirto įtariamasis zakristijonas.</p>
+<p>— Tai matai, tamsta, — tęsė geltonbarzdis vaikinas — tu pats nepripažįsti, nė Bažnyčios, nė kunigų, nė nieko, tai kam reikalauji to, ko nepripažįsti. Jei aš žinau, kad aršenykas mane nuodija, tai aš jo už jokius pinigus nevalgysiu. Jei tamsta žinai, kad religija tiktai apkvaišinimas žmogaus proto, tai saugokis tu jos, kaip nuodų!.. O dabar koks čia pasielgimas — netiki, o nori bažnytinėmis apeigomis naudoties! Jei tamsta tiki, kaip Kubilius tikėjo, kad dūšios žmoguje nesama, tai kam dar visa ši iškilmybė? — Mesk kur stipeną į patvorį ir gana!..</p>
+<p>„Zakristijonas“ brauningą nuleido. Matyt, suprato savo klaidą ir, dėptelėjęs viena akia į tąjį barzdotą vaikiną, turbūt, sau manė:</p>
+<p>— Kuniginis tu esi ir gana!</p>
+<p>Tą vaikiną skaitytojai gana pažįsta, buvo tai Mykaičių Jonas. Jis, išgirdęs apie Kubiliaus nelaimingą mirtį, nors biaurėjosi jo negražiais pasielgimas, tečiaus visgi atsilankė į laidotuves. Pavažinėjęs porą dienų su Plankium, Mykaitis jau daug kame atsimainė, ypač religijos klausimuose. Nors dar aiškiai jis netikėjo, kaip tai būdavo kitados, bet nedaug ko reikėjo. Tikėjimas jo kasdien ėjo stipryn. Ir dabar, pamatęs, kaip tasai vyruks verčia kunigą daryti tai, kas jam uždrausta, labai tuo pasipiktino ir priėjęs ėmė jį kolioti.</p>
+<p>Nepabaigęs buvo Mykaitis savo ginčų su įtariamuoju zakristijonu, o čia ant kapo jau buvo kalbama vėl prakalbos. Kalbėjo, kas galėjo ir kas norėjo.</p>
+<p>Antgalo, kada visiems jau nusibodo tos prakalbos, lavoną užkasė ir, įsmeigę kapan raudoną vėliavą, užgiedojo „Atsimeskim nuo senojo svieto“, arba revoiucijonerių „Aniolas Dievo“, kaip žmonės tą dainą vadina, ir nuvėjo visi namo.</p>
+</div>
+
+ <div type="chapter">
+ <head>XII. Išdavėjas</head>
+
+<p>Keletas savaičių prabėgo nuo tų trukš mingų laisvės dienų. Daugumas jau pradėjo ir užmiršti apie baisiuosius tų dienų atsitikimus. Vieniems tik mųsų didvyriams jokiu būdu negalėjo išeiti iš galvos toji „už laisvę kova“, kaip jie vadino savo biaurius darbus. Matyt, tuo norėjo nors savo sąžinėje nusiteisinti ir sumažinti vidurini širdies graužimąsi.</p>
+<p>Palikę užmuštą Kubilių ties monopolium, likusieji trįs mųs „draugai“, sargybinių lydimi, atvažiavo kalėjiman.</p>
+<p>Laikas bėgo, kaip vanduo, o mųsų kovotojai sėdi kalėjime ir laukia savo teismo. O jo, lyg tyčia, kaip nėr, taip nėr.</p>
+<p>— Ar negirdėjai, Bladai, kas girdėt su Mykaičiu ir jo draugu Plankium? — vienu kart, taip jau temstant, neturėdamas ką veikti, iš nuobodumo, priėjęs prie Blado, užklausė Barštys.</p>
+<p>Po poros savaičių Barštys visiškai susveiko, nes kulkos jo mirtinai neužgavo.</p>
+<p>Bladas pakraipė galvą ir sausai atsakė:</p>
+<p>— Ne, nieko negirdėjau!</p>
+<p>Tuo Barščio su Bladu ir užsibaigė kalba, Matyt buvo, kad Barštys, ką turėjo savo širdyje ir tas, ką jis turėjo, jį nuolatos krimto ir graužė. Norėjo lyg kada-ne-kada jis tą vidurinę kirmėlę apreikšti ir savo draugams, ir tik laukė, kad jie pradėtų jo apie tai klausinėt. Bet anuodviem, Bladui su jaunuoju Plankium, visai negalvoj buvo Barščio rūpesčių sužinot. Ir e dviem, turbūt, kas gulėjo ant širdies, ir nuolatos jie vis tylėjo, kada-ne-kada tik persimezdami viens kitam po kokį vieną sausą žodelį.</p>
+<p>— Sakai, nieko negirdėjęs — šiuo kart vėl norėjo Barštys užmegzti kalbą — bet ką tu apie jį girdėsi! Jis ne toks kvailas! Mus įbugdinęs, pats gal šaipos su Plankium ir keikia veidmainingai mųs darbus.</p>
+<p>— Kaip ne keiks?!. — nerymastaudamas, perkirto jaunesnysis Plankius — kas tamstos gal nekeikt?..</p>
+<p>Jeib ne tamsta, ar ir mudviem būt reikėję čia, šiame smirdančiame kalėjime, trūnyti?..</p>
+<p>— Kalėjime, tai kalėjime — pritarė Bladas — bet kuo visas tasai dalykas baigsis?</p>
+<p>— Kuo baigsis — tai aišku, — du stulpu: o į vidurį męs!</p>
+<p>— Žinoma, kad taip! — tvirtino Bladas — už pasikėsinimą ant sargybinio gyvybės revoliucijos metu yra skiriama mirties bausmė...</p>
+<p>— Ne, vyrai, manęs šiame dalyke nekaltinkit, aš nieku nekaltas! Mane privedė prie to Mykaitis. Jis pirmutinis pradėjo sakyti prakalbas, o aš ėjau paskui jį...</p>
+<p>— Bet Mykaitis tamstai nei Plušos, nei sargybinio šaudyt neliepė! — supykęs, tarė Bladas.</p>
+<p>— O tamstai kas liepė? — suriko Barštys — kas Plušą pribaigė, ar ne tamsta, kas girios sargui per langus šaudė, ar ne tamsta? kas mane nuvedė į monopolį, ar ne tamsta? Tamsta esi kalčiausias — rėkė supykęs Barštys į Bladą — ir tamstai vienam prisieis tarp dviejų stulpų pakybti!..</p>
+<p>Tuo tarpu kalėjimo durįs prasivėrė ir įėjo kalėjimo sargas.</p>
+<p>— Rytoj, devintą valandą atvažiuoja tardytojas — monotonišku balsu tarė sargas — taigi būkite tamstos prisirengę, nes pirmutiniai tardymai bus apie jųsų darbus. — Tarė ir išėjo.</p>
+<p>Kalėjime visi nutilo. Barniai pasiliovė. Yra žmogaus gyvenime tokios valandos, kada, visas nustebęs, nežino ką pats nė pradėt, nė kalbėt. Taip lygiai, kada neatsargus keleivis, įbrenda į pales, tai bėga kuogreičiau, kupstas nuo kupsto šokinėdamas, kad tik greičiau pribėgus sausą, drūtą žemę. Bet koks jo nusistebėjimas, kada jis, valandą bėgęs, užiot drūtos žemės, pamato priešais save, plačiai paskriedusį savo vandenis, blizgantį ežerą. Bematant, stapt, jis sustoja ir valandėlę stovi, nesijudindamas ir abejodamas apie savo gyvybę...</p>
+<p>Taip stojosi ir su mųsų draugais. Išgirdę, kad rytoj bus tardymas, visi trįs bematant nustebo ir nežinojo, ką pradėt. Baisu ir neramu sykiu jiems darėsi. Visiems trims pro akis, kaip kokia šmėkla, praslinko pirma, pilna, gražium, saguotu žiponu, tardytojo figūra; paskui ėjo visa teisėjų eilia... Jų auksu žėrinti retežiai, veidai pilni rimtumo... antgalo baisųs geležiniai pančiai... kalėjimas... stulpai... žmonių minios... virvė... paskutinė valanda...</p>
+<p>— Ūù — visi trįs, lyg susitarę, pasipurtė vienu kartu.</p>
+<p>Tuo tarpu laikas bėgo. Saulutė jau išmetė iš-po žemės skrito pirmutinius savo šviesos spindulius ir užsidegė visas rytų kraštas, raudona, kaip liepsna, pazara. Žmonės sukilo. Visur bruzda, visur šneka.</p>
+<p>Artinosi baisioji devinta valanda. Kalinių gįslose kraujas pradėjo apmirti, o širdis taip baisiai plakė, kad, tarytum, butų joje šienpiuvys dalgi plaktuku kalęs.</p>
+<p>Visi laukė.</p>
+<p>Antgalo duryse smarkiai raktas subildėjo ir ant slenksčio pasirodė kalėjimo viršininkas, o šale jo du su nuogais durtuvais kareiviu.</p>
+<p>— Baršty! — garsiai pašaukė viršininkas.</p>
+<p>Barštys atsistojo, o du kareiviu paėmę jį išvedė iš kambario. Durįs vėl blankt, užsidarė ir sargo raktas graudžiai spynoje sučerškėjo.</p>
+<p>Pora varsnų nuo kalėjimo buvo tardytojo kambarys. Kareiviai stačiai Barštį į jį atvarė. Kambarys buvo tuščias. Valandėlę užtrukus, atėjo ir pats tardytojas su savo pagalbininkais ir sekretoriais.</p>
+<p>Prasidėjo tardymai. Kambario durįs uždarinėta, o prie adverijų sustojo su durtuvais kareiviai.</p>
+<p>— Ką tu pats pasakysi apie visus tuos savo darbus, kuriuos tu prieš mėnesį padarei? — užklausė tardytojas.</p>
+<p>— Aš... aš..., ponul,... aš nieko nežinau, aš nieko nekaltas!.. — ėmė kuo ne per verksmus teisinties Barštys.</p>
+<p>— Aš neklausiu, ar tu kaltas, ar ne, bet ką tu pasakysi apie tuos savo darbus? — išlėto, žodis po žodžio, tarė tardytojas.</p>
+<p>Tuotarpu, kada prasidėjo tardymai, į tardytojo priešbutį patyka durįs prasivėrė ir įėjo du jaunu vyruku. Juodu atsargiai prislinko prie durų ir pritūpę pridėjo ausį prie rakto skylutės ir godžiai tvėrė kiekvieną Barščio žodį, kurį jis tardavo savo pasiteisinimui. Kareiviai stovėjo išvidaus, tai juodu liuosai galėjo tą savo darbą atlikti.</p>
+<p>Tardytojas, pakartojęs savo užklausimą, laukė.</p>
+<p>— Aš sakau, ponuli, nieko nežinau. Aš esmi carui prisiekęs ištikimai tarnauti ir tarnausiu kuoištikimiausia. Aš nieko nekaltas. Čia kalčiausias yra Mykaitis, kuris būdamas gimnazijoje prisigėrė, Dievas žino, kokių mokslų, o dabar dar nori mus visus ant kartuvių pakabinti!..</p>
+<p>— Sakai, Mykaitis?!. — koks Mykaitis?— klausė tardytojas.</p>
+<p>— Jis gyvena bažnytkaimyje, šale-pat kapinių, o vardas jo Jonas. Jis mane prikalbino kelti revoliuciją. Aš tuomet buvau girtas, nieko nenuvokiau. Mykaitis liepė, tai aš ėjau. Liepė kalbėt — kalbėjau; liepė šaut — šov... — Norėjo ištarti šoviau, bet čia jam liežuvis suklupo ir gėda jam pasidarė, kad taip neteisingai šmeižia nekaltą žmogų. Bet po valandėlės ėmė jis save raminti: o kam jis, girdi, ketino mane peršauti, kam juodašimčiu vadino? — tegu jį dabar devyni vilkai suėda. Pažiūrėsime, katram bus pirmiau galas, ar man, ar jam. Primeluosiu tiek, kad jis neišsiliks gyvas...</p>
+<p>— Tai jis liepė tau šaut? — šaltai klausė tardytojas.</p>
+<p>— Liepė, ponuli, o aš buvau girtas, ėmiau ir iššoviau!</p>
+<p>— Į ką? — klausė valdininkas.</p>
+<p>— Į viską!.. — nežinodamas ką sakyt, tarė Barštys.</p>
+<p>— Į Plušą liepė tau Mykaitis šaut?</p>
+<p>— Lie... lie... liepė! — truputį pamekenęs, tarė Barštys.</p>
+<p>— Į girios sargą ir-gi liepė?</p>
+<p>— Liepė — jau drąsiau skundė Barštys.</p>
+<p>— O gert tau taipgi liepė Mykaitis?</p>
+<p>— To tai jau ne, neliepė — gynė Barštys. — Ale jis man liepė sudaužyt monopolį, tai aš sakau, kad caro gėrybė nenuveitų perniek, tai nors į burną reik išliet, o ne į žemę!..</p>
+<p>Čionai tardytojas nusijuokė, nes matė, kad Barštys, kiek galėdams, meluoja, kad tik save išsiteisinus. Truputį apsvarstęs visą dalyką, atsikreipęs į Barštį, vėl tarė:</p>
+<p>— Bet jųs nesiginat, kad dalyvavote visose tose riaušėse?</p>
+<p>— Aš dalyvavau..., bet... bet aš buvau girtas... aš nesupratau...</p>
+<p>— Jei dalyvavot — šaltai aiškino valdininkas — tai jųs esate kalti ir smarkiai už tai būsite bausti. Ei! kareiviai, paimkite jį kalėjiman. Surakint jį geležiniais pančiais! —</p>
+<p>Kareiviai bematant apleido savo vietas ir greitai ėjo prie Barščio. Bet netikėtas reginys. Barštys puolasi prie tardytojo. Tasai atsitraukia toliau. Barštys pribėga vėl arčiau ir krinta ant žemės. Apsikabino tardytojui už kojų ir danu jas ašaromis lieti ir bučiuoti:</p>
+<p>— Ponuli, ponuli!.. neprapuldykit manęs!.. pasigailėkite manęs! — šaukė nesavu balsu jisai. — Susimylėkite, o aš nuo šios dienos būsiu jųs žemiausias tarnas... Aš neišmaniau — tai padariau... Aš išduosiu visus, kurie dalyvavo tose riaušėse, aš viską išpasakosiu... tik man šį kartą dovanokite!</p>
+<p>Nors paprastai valdininko, ypač tardytojo, širdis būna samanomis apaugus ir nejaučia jokio pasigailėjimo, bet šiuokart, nežinia kodėl, jijė visai suminkštėjo. Ar tai iš pasigailėjimo, ar tai dėlei kitos kokios priežasties — nežinia.</p>
+<p>Tardytojas paliepė kaltininkui atsistoti ir tarė jam:</p>
+<p>— Man gaila tavęs, bet visgi aš negaliu visiškai tavęs nuteisinti. Bet prižadu tavo likimą rūpinties kiek galint pagerinti. Dabar geležinių pančių nedėsiu! — tarė tardytojas, o kareiviai, paėmę Barštį, išvedė į kalėjimą.</p>
+<p>Po valandėlės prieš tardytoją stojo Bladas, o po jo Plankių Endrius.</p>
+<p>— Na o jųs ką pasakysit savo reikale? — užklausė valdininkas Blado.</p>
+<p>— Aš daugiau nieko negaliu pasakyti, negut tai, kad aš pats to darbo niekad nebūčiau išdrįsęs padaryti. Mane privertė kiti.</p>
+<p>— Kas kiti jus privertė?</p>
+<p>— Barštys ir Kubilius — aiškino vaikinas.</p>
+<p>— Kiek jųs dalyvavot tose riaušėse?</p>
+<p>— Aš tik su jais sykiu vaikščiojau ir važinėjau, bet nieko pikta nedariau — gynėsi Bladas.</p>
+<p>— Prakalbas kalbėjai? — tyrinėjo valdininkas.</p>
+<p>— Kalbėjau, bet priverstas.</p>
+<p>— Vėliavą nešiojai?</p>
+<p>— Man įbruko į rankas, tai nešiau.</p>
+<p>— O kokia ta vėliava buvo. Juoda, ar raudona?</p>
+<p>Čia vaikinas tylėjo; nežinojo, ką pasakyt: kokia būt geresnė: raudona ar juoda? Antgalo sumąstęs:</p>
+<p>— Raudoną! — tarė jis.</p>
+<p>— Raudoną?! nusistebėjo tardytojas — ė! tai bus jums bloga!..</p>
+<p>— Ne, ne, ne! Juodą, juodą aš nešiau vėliavą! — persigandęs, taisėsi vaikinas.</p>
+<p>— Juodą?!? — dar labiaus nusistebėjo valdininkas — tai dar bus blogiau!</p>
+<p>Vaikinas visiškai persigando, nežinojo nė kaip teisinties: sako raudoną — negera juodą — ir vėl negera... tai kaip bus gera? — manė jis sau.</p>
+<p>— Ne, aš buvau pamiršęs, — persigandusiu balsu tarė vėl vaikinas — aš ne juodą, bet raudoną vėliavą nešiau!</p>
+<p>Senas vilkas-tardytojas nusišypsojo šaltai ir tarė:</p>
+<p>— Gana! — Kareiviai išvedė kaltininką. Endrius Plankius visą laiką tylėjo ir nė žodžio neištarė savo nė nusiteisinimui, nė apsikaltinimui.</p>
+<p>Tuo tardymas ir pasibaigė.</p>
+</div>
+
+ <div type="chapter">
+ <head>XIII. Suėmimas</head>
+
+<p>Dabar grįšime į Mykaičius. Jau ne viena savaitė prabėgo nuo Jonuko su Onyte pirmutinio pasimatymo, bet arčiaus juodu susipažinti vis dar negalėjo. Nes tuo tarpu Kubiliaus mirtis, jo laidojimas, kazokų šnipinėjimas perskyrė tuodu jaunu, vienas kitą karštai pamylėjusiu, asmeniu ilgam laikui.</p>
+<p>Dabar tiktai, kada jau beveik viskas aprimo, žmonės užmiršo apie baisiuosius atsitikimus, galima buvo vėl pradėti sutartuves.</p>
+<p>Ir taip. Vieną gražų nedėldienį, išsileidęs visus namiškius bažnyčion, Mykaitis ramiai sau vaikštinėjo po sodelį ir gėrėjosi puikiu vasaros pabaigos oru.</p>
+<p>Medžiai, apsikrovę geltonais, kaip vaškas, rausvais, kaip mergaičių veidai, vaisiais, pailsę nuleido savo ilgas šakas žemyn ir, rodos, šit jau visai nuluš ir su dideliu trenksmu bumptels į žemę. Bet ne, šakos nulinkę tuno sau ramiai, o vaisiai, prie jų prilipę, tarytum, juokiasi savo rausvai-geltona varsa, ir šildosi ir gerėsi saulutės spinduliais.</p>
+<p>Po obelų ir kriaušių šakomis stovi išsimėtę į visas šalis, kaip kareiviai ant „bivuako“, mėlyni, geltoni, raudoni aviliai. Bitulės, tų avilių savininkės, šildomos saulutės spinduliais, dūzgia linksmai ir viena per kitą skubinas į darbą, kad greičiau prisinešus sau reikalingo per žiemą maisto.</p>
+<p>Aukščiau medžių, po išsirpusias uogas, čiulba visas pulkas visokių paukščiukų. Tarp jųjų pirmą, žinoma, vietą užima pilkasparnis žvirblelis, kuris linksmu ir skardžiu savo: čyrr-čyrrr-čyrrrr... skambėjo po visą Mykaičių sodelį...</p>
+<p>Malonu pasivaikščioti po sodelį, kada pilnas jis yra gėrybės ir gyvybės! Čia žolėje pilna yra visokių vabalėlių ir kirmėlėlių; o jie visi, kiekvienas, kiek galėdams, dirba, bėgioja, lakioja ir rūpinas aprūpinti savo nors trumputėlį amžį.</p>
+<p>Mykaitis turėjo tokią dvasią, kuri baisiai mėgdavo visokias gamtos grožybes; užtat dabar, vaikščiodamas po sodelį, gėrėjosi tuo visu margumynu ir, užmiršęs visas savo dvasios sielvartas, pynė savo ateities vainiką: Čia ve padidįs jis tą gražųjį sodelį, pratęs jį net ana už upelio... Trobas visas atnaujįs: kluoną patrauks toliau į galą sodelio, tvartus — į kitą šalį, grinčią štai ve pastatys viduryje sodelio...</p>
+<p>Čia bus stiklinės gonkos, vienos ir kitos, o medžių šakos, marguliuojančios vaisiais, pridengs gonkų stiklus nuo saulės spindulių... Ir pavėsyje galės juodu... sau ramiai sėdėti... čiučianties... ir dviese, ne taip kaip šiandie reik vienam, bet dviese galės pinti plenus būsiančiam savo gyvenimui...</p>
+<p>O tie plenai, plenai... koki jie platųs, koki masinanti, kaip dažnai jie žmogų suvilioja!..</p>
+<p>Bet Mykaitis nesitikėjo, kad jo plenai gal jį patį kada-nors prigauti. Ne, anaiptol, jis tvirtai tikėjo, kad ką sumanys — tai ir išpildys. Teisybę sakant, Mykaitis tai padaryt galėjo, nes turėjo gana tvirtą būdą.</p>
+<p>Svajodamas apie savo ateitį, Jonuks nė nepatėmijo, kad jau visai artinosi pavakarė. Pastebėjęs tai:</p>
+<p>— Ogi jau saulutė visai su medžiais — tarė jis sau — o aš svajoju kažin apie ką! Juk dar arkliai negirdyti!</p>
+<p>Apsigrįžęs, Mykaitis pasileido eiti į tvartus. Vos jis praėjo grinčios kampą, žiūri: į atšlaimą įvažiuoja pilnas vežimas žmonių. Du vyru ir trįs moterįs. Ir moterų vieną susyk pažino — tai buvo jojo motina; o kitos dvi lyg matytos, bet Jonuks per skepetas negalėjo pažint jų. Iš vyrų vieną taiposgi tuoj pažino. Buvo tai Rugienių Juozas. Šale jo sėdėjo senis Dorys; Jonuks ir jį dabar pažino. Ir moteris pažino, nes iš-po skepetos aiškiai žėrėjo, kaip vaisiai nuo medžių šakų, skaistusis Onytės veidelis. Šale jos sėdėjo senoji Rugienienė. Jonuks nustebo. Nesitikėti svečiai.</p>
+<p>— Labą dien! — sėdėdamas dar vežime, prabilo Rugienių Juozas. — O ką, Jonuk, ar męs neišpildėm savo prižadų? Sakiau, kad kada-nors atlankysime tave, dabar ir atlankėme.</p>
+<p>— Ačiu, malonųs sveteliai! Ačiu, nesitikėjau, kad jųs apie mane taip ilgai atmintumėt. Ačiu! Prašom greičiau iš vežimo į vidų! —</p>
+<p>Ir pribėgęs padavė pirma savo motinai ranką, padėdamas jai išlipti ir bričkos; poto iškėlė senąją Rugienienę; galų gale ir Onytę.</p>
+<p>Džiauksmui nebuvo galo. Sujudo visas Mykaičių namas. Virtuvėje pasklijo visoki kvapai. Seklyčioje vaišinosi viens kitą kuo tik įmanydami.</p>
+<p>— O gal, malonųs sveteliai, kol dar drūtesnį užkandį moters pagamįs, panorėtų po sodelį pasivaikštinėti? — pasiūlė Mykaitis.</p>
+<p>— Labai maloniai! — vienu žodžiu pritarė visi svečiai.</p>
+<p>— Aš myliu labai po sodelį vaikštinėti! — pritarė ir Onytė.</p>
+<p>— Tai, tamsta, mano pamėgimus turi! — meilindamasis prie jos, kalbėjo Mykaitis. Visi svečiai ir Jonuks už valandėlės išsivedė į sodelį.</p>
+<p>Juozo buvo pramušta galva į ūkį, tai jis, nieko nepaisydamas, atsiskyrė nuo kuopos ir išbėgo į laukus pasižiūrėti, kaip laukuose javai liūliuoja, kaip gyvuliai atrodo.</p>
+<p>Senoji gi Rugienienė taiposgi neperdaug turėjo poetišką širdį ir neperdaug mėgo gėrėties gamtos grožybėmis. Pertai, pasiėmus už rankos senį Dorį, nusivedė po didele kriaušia ir, skindamiesi vaisius, ėmė ragauti jų skanumo. (Taip daro visi praktikai žmonės). Likęsi Mykaitis su Onyte (o gal visi taip tyčia ir taikė, kad juodu vienu palikus), žinoma, kaip jaunieji, ėmė išpradžių viens kitam pasakoti kiekvienas savo pamėgimus ir palinkimus.</p>
+<p>— Žinot, Onyte, kaip aš mėgstu šitaip vienas po šį sodelį vaikštinėti!.. Ir kažin-kas tuomet man į galvą plaukia... Rodos, vįską tą valandą aš užmirštu ir tik prieš akis slenka koki tai puikųs gamtos parėdyti paveikslai... Žiūrėtum, rodos, į juos, žiūrėtum ir niekad neatsižiūrėtum...</p>
+<p>— Taip lygiai ir aš! — švelniu balsu pritarė Onytė. Bet iš jos balso matyt buvo, kad ji rengias ką nors svarbaus pasakyti, ar sužinoti, a!e ką, nežinia buvo.</p>
+<p>— Dažnai ir aš — truputį pamąsčius tarė Onytė — mėgstu po savo darželį vaikštinėti. Koks tai bųva gražus reginys, kada sužaliuoja ir sužydi visi mano žolynėliai. Čia, kaip kraujas raudoni, žalioja bijūno žiedai; dideli, švelnųs, kaip aksomas, nulinkę į žemę, pupso tarp plačių, pirštais išaugusių, bijūno lapų. Aplinkui raudonąjį bijūną, į glitą susipynę, raudonos, geltonos, šėmos, vyšniavos, margos, žydi uzarėlių taurelės, o plačiai pasklijęs gardus jųjų kvapas vilioja tūkstančius bitelių.</p>
+<p>Tie maži vabalėliai, prilėkę prie gilios uzarų taurelės, girdi joje skanų kvapą, dūzgia aplinkui; jieško, bet negal pasiekt! Pergili, bitužėle, tau taurelė! Ir ilgą taip laiką pradūzgenus, susikankinus, su tuščioms kojelėms grįšta į savo namelius...</p>
+<p>Už uzarų traukiasi visa linija žaliųjų rūtų krūmai... Kaip puikiai jos auga! Net juodos, į gerbinius, kaip štai tamstos plaukai, sukas ir bėga aukštyn... Čia dimnai kvepiančios rezetos, čia čebatėliai, rožės, gvaizdikai, žiburėliai...</p>
+<p>Kaip tai puiku! Gal tamsta niekad nesigrožėjai tokiu reginiu. Kiekvieną kart, kada aš nuveinu į darželį, vis, tarytum, iš knygų skaitau, kaip galingas, kaip išmintingas Aukščiausiasis Sutvertojas, kurs tai visa taip puikiai sutaisė!</p>
+<p>— Tai, Onyte, bene tai Dievo darbas? — pertarė Mykaitis — juk tu pati savo rankomis susodini, parenki, išravėji tąs gėleles, tai už tai puikiai ir atrodo...</p>
+<p>— Ne, tamsta, to tai nekalbėk! — lyg truputį supykus, atkirto mergina. — Bepiga man sodinti ir pasirinkti, kad Dievas juos sutvėrė ir augina, ale pabandyk, tamsta, patsai nulipinti tuos švelnučius, kaip aksomas, bijūno žiedus, arba nulieti dimnas uzarų taureles!..</p>
+<p>— Nulipinti... Nulipinti, tai nulipinti, kam juos lipint, kad pati gamta juos padarė.</p>
+<p>— Gamta?! — sušuko Onytė. — O ką, tamsta supranti tuo vardu — gamta?</p>
+<p>— Gamta?.. gamta... juk tai paprastas žodis! — nežinodamas greitu laiku kaip išaiškinus tą žodį, mikčiojo Jonuks</p>
+<p>— Tamsta velik sakyk, kad jie pats išnetyčių pasidarė, o ne gamta juos sutvėrė. Bet jei jie išnetyčių iš žemės išlindo, tai kodėl daugiau tokių gražių gėlelių iš žemės išnetyčių neišdygsta. Jei jau bijūnas, uzaras, rožė išnetyčių atsirado, tai gal ir šimtai kitokių gėlelių tokiu-pat būdu išnetyčių išaugti. Bet to męs nematome. Kokios buvo mano darželyje gėlės, kada dar buvau maža, tokios-pat yra ir dabar. Rezetų, teisybe, nebuvo, bet aš jąs parsinešiau iš Dorių Mariutės ir įsisodinau, bet jos ne išnetyčių išaugo...</p>
+<p>— Kodel dabar neišauga naujos gėlelės? — Todel kad dabar žemės pajėgos sumažėjo. Ką žemė galėjo, tai jau išdavė. Dabar jau daugiau naujų augalų išduoti negal, tik senuosius maitina. — Aiškino Jonas.</p>
+<p>— Kodel-gi pirmiau galėjo, o dabar negal? — vėl klausė Onytė. — Kas jai suteikė pirmiau tą galybę?</p>
+<p>— Kas suteikė žemei ta galybę? — Pati savyje ji nuo-pat pradžių ją turėjo! — gynė vis Jonas.</p>
+<p>— O kas jai pradžią davė? — vis klausinėjo mergina.</p>
+<p>— Pradžią iškur žemė gavo? — Pati per savo pasidarė.</p>
+<p>— Kaip tai iš nieko ji pasidarė? — skambėjo merginos balsas.</p>
+<p>— Iš nieko nieks negal pasidaryt. Išpradžių turėjo būti mažos dulkelės, kurias mokyti atomais vadina. Daugybė tų atomų susigrūdo į daiktą ir pasidarė didelis žemės gumulys.</p>
+<p>— Vaje tu mano! Iš dulkių tokia didelė žemė! Bet iškur tos dulkės buvo?</p>
+<p>— Dulkės, tai jau jos nuo-pat pradžių buvo!</p>
+<p>— Kaip tai jos galėjo būti?! Juk viskas, kas tik yr ant žemės, turi turėti savo pradžią. Ir tos dulkės turėjo turėti kokį-nors geradarį, kuris jąs sutvėrė. Jąs sutverti turėjo iš nieko, ko nė viens gyvas daiktas padaryti negal. Čia turėjo būti kokia-nors aukštesnė pajėga, kuri galėjo ir iš nieko o žemę ir visus ant jos esančius daiktus sutverti. Tąją gi pajėgą visagalinčią vadiname Aukščiausiuoju Sutvertoju, arba Dievu, kurio esybės tamsta nepripažįsti. O šie sutvėrimai tau kaip pirštu į Jį rodyte rodo.</p>
+<p>— Nesitikėjau, Onytėle, tave taip gražiai šnekant išgirsti! — neturėdamas ką sakyti, tarė Jonas ir tuo pačiu norėdamas kalbą į ką kitą atkreipti. Bet kur tu su moteriške užbaigsi! Kad pradės ji apie ką kalbėti, tai nebus galo jos privadžiojimams ir prirodinėjimams.</p>
+<p>— Arba ve, tamsta, žiūrėk į šituos vabalėlius! — rodydama ranka į bitutę, tęsė Onytė. — Žiūrėk, kokie jie mažyčiai, o kokie išmintingi. Kaip puikiai jie susitaisę yra savo būklas, kaip stropiai renka savo saldų medų, kaip gerbia savo motinėlę ir kaip labai josios klauso... Kas joms suteikė tą gudrybę? kas paliepė joms tokioje vienybėje gyventi? kas įsakė tokią savo vyresniems paklusnybę išlaikyti? Gal, sakysi, tavo prigimimas? Tai kodėl tavo prigimimas neliepia to daryti kitiems vabalėliams, o tik bitulėms, kodėl prigimimas širšių neišmokina nešti į avilius saldų medų, nors jos visiškai panėšios į bitutes? Kas pasako bitutėms, kad ateis šalta žiema, kad reikia apsilipinti savo avilį, pasigaminti sau maisto? Gal, tamsta sakysi, prityrimas. Bet prityrimas gali priversti prie to tik senes bitutes, pergyvenusias nors vieną žiemą, mačiusias savomis akimis baisias žiemos pūgas ir šalčius. O ką gal apie tai žinot bitutės šiųmetės? — Juk jos dar nė viena žiemos nematė, o tečiaus jaunas spiečius išanksto, nors dar šilta, o jau rengiasi prie žiemos. Kas tai visa surėdė? Kas taip visokį gyvį aprūpino? Jei ne Dievas Visagalingiausias?!..</p>
+<p>Mykaitis tuo tarpu tylėjo ir žiūrėjo į užkaitusį merginos veidą. Kaip puikiai ji tuomet išrodė!</p>
+<p>— Puikiai, Onyte, kalbi. Tečiaus aš visgi nenoriu į Dievą tikėt ir gana. Apie visą tą gamtos tvarką, ką kalbėjai, tai nėra ką perdaug stebėties. Daug yra stebėtinų daiktų. Gal tu niekad nematei dabar naujai išrastų mašinų. Kad tu ten pažiūrėtum, tai pamatytum stebuklų. Ko ten nėra!..</p>
+<p>— Stebuklų?! — atkirto mergina. — Matyt, tai aš nemačiau jokios didesnės mašinos, bet aš tik tai žinau, kad nė viena mašina gyvybės netur; nė viena negal pati nė rašyti, nė skaityti, nė kalbėti, nė judėti, kaip štai šisai vabalėlis! — Ir paėmus nuo žolės mažulėlį, vos akia užmatyt, raudoną vabalėlį, kurį žmonės Dievo karvute vadina ir parodė Jonukui.</p>
+<p>— Žiūrėk, tamsta, koks mažytis vabalėlis, vos-ne-vos akis gal apimti, o juda. Kas jį judina? Jis pats: nori — bėgioja, nori — gula. Tegu gi dabar pabando jųs nors viena mašina kaip šits vabalėlis padaryt, ar padarys? — Ne! užtai, kad gyvybės netur!</p>
+<p>Būt ir kažin ligi kol Rugieniūtė taip prirodinėjus, bet čia ją pertraukė senoji Mykaitienė, kuri atbėgus prašė visus svečius vakarienės, kuri skaniai parengta jau garavo ant stalo.</p>
+<p>Vakarienė jau baigėsi. Svečiai buvo užvedę kalbą apie ūkį, ypač Juozas užsipuolė, kad nereikią visai pūdymo palikti. Senis Dorys tam prieštaravo, sakydamas, kad kaip žmogus, taip ir žemė reikalauja posilsio. Kiti vėl kitaip šnekėjo. Seklyčia nuo kalbų ūžė, nelyginant bičių avilys.</p>
+<p>— Kazokai! — kažinkas įbėgęs per duris sušuko.</p>
+<p>Kad lyg būt perkūnas į grinčią trenkęs, visi sudrebėjo, išgirdę tą baisų vardą.</p>
+<p>Nesuskubo dar iš nuostabos atsikvošėti, o priemenioje jau pentinai čerškėjo. Durįs atsidarė ir šeši vyrai, ginkluoti kardais ir nagaikomis, puolėsi prie Mykaičio.</p>
+<p>— Ty Mykaitis? — suriko viens iš jų.</p>
+<p>Mykaitis drąsiai atsistojęs tarė:</p>
+<p>— Aš. Ko nuo manęs norit? —</p>
+<p>Su tuo žodžiu kazokų nagaikos pakilo į viršų ir visos kartu švilpdamos nukrito Jonukui ant galvos...</p>
+<p>— Va Jezus, Marija!.. — suriko visos moterįs ir metėsi ginti mylimąjį vaikiną.</p>
+<p>Nagaikos vis kilo aukštyn ir krito vienos ant Jonuko galvos, kitos ant jo motinos ir kitų, o aštrųs pentinai draskė šonus parpuolusiai-apalpusiai Mykaitienei.</p>
+<p>Po valandėlės vėl buvo viskas tyku. Pusgyvį Mykaitį, įsimetę į vežimą, kazokai išsivežė į kalėjimą. Mykaitienė gi buvo taip suspardyta ir supliekta, kad gulėjo ant lovos, kaip negyva...</p>
+</div>
+
+ <div type="chapter">
+ <head>XIV. Kalėjime</head>
+
+<p>Mykaitis kelionėje į kalėjimą visiškai apalpo. Kraujas iš sprando ir veido čiurškėte čiurškėjo ir per drapanas krito jis į vežimą. Jonuks jautėsi, kad pajėgos vis mažinas, o kazokai čia nestoja pliekę... Išpradžių jis dar stengėsi šiek-tiek laikyties ir nepasiduoti sopuliams. Galų gale tečiaus neišlaikė. — Jis apmirė.</p>
+<p>Auštant kazokai jau buvo pas kalėjimo duris. Durįs sunkiai atsidarė, o keturi vyrai paėmę nelaimingąjį Jonuką įnešė į kalėjimą. Durįs vėl užsidarė. Kazokai nujojo savais keliais.</p>
+<p>Ilgai taip apalpęs gulėjo Mykaitis, nesijudindamas ir nesijauzdamas pats savęs. Kada tiktai gydytojas atėjęs apžiūrėjo jojo žaizdas ir davė sustiprinančių vaistų, Jonuks, po ilgai su mirtimi kovai, pravėrė savo blakstienas. Bet tuoj vėl jąsias uždarė ir pasipurtė visu kūnu. Po valandėlės vėl atvėrė; o akis žaibo greitumu apibėgo visą kambarį, kuriame turėjo jis gulėti.</p>
+<p>Keturios plikos sienos, per kurias tęsėsi ilgi geltoni raštakai — likučiai nuo žiemos dregnumo. Lubos ir visos palubės baltavo, tarytum, kalkėmis pabaltintos butų buvę, nors baltinant nieks jų niekados nematė. Tai ne kalkės, bet pelėsiai buvo jąsias taip aptraukę. Grindįs supuvusios, kakalys perskilęs keliose vietose širpsojo, kaip medžio prakarta.</p>
+<p>Permetė Jonuks tą visą savo rūmą akimis ir kuogreičiau pasiskubino jas vėl užmerkti. Nes perdaug skriūdu darėsi. Bet gyvam žmogui sunku ilgai užsimerkusiam būti. Mykaitis bandė vėl atsimerkti, bet į kambarį bijojosi dirstelti, jo akįs metėsi į patalą, ant kurio ilsėjosi sumuštas jo kūnas. Biaurus, juodas maišas, prikimštas kietų šiaudų — buvo jo patalas. Kitas gi toks-pat juodas, bet mažesnis maišas — buvo tai pagalvys. Visas pagalvys ir patalas, jei galima taip juos pavadinti, buvo apkrekėję jo pačio krauju, kurs dar po biskį vis bandė sunkties per gydytojo apraišalus.</p>
+<p>Rankos visos buvo vienuose kruvinuose šmoruose; galvos negalėjo pajudinti, nes visa buvo. sutinus. Pečiuose jautė taiposgi, kad sopuliai kaip peiliai varstė...</p>
+<p>— Och! — sunkiai, sunkiai atsiduso Mykaitis; Iš akies jam tuotarpu nenoroms išsiveržė didelė-didelė, kaip pupa, ašara... Matyt, tai vaikinas pajuto, kad tuojau veidą užsidengė rankomis. Mat, jam buvo gėda pasirodyti verkiančiu ir jis stengėsi savo širdį suimti geležinėmis valios replėmis, bet prigimimas viską pergali. Ašaros ritosi jam per veidus viena paskui kitos ir maišėsi kartu su užkrekėjusiu iš žaizdų krauju...</p>
+<p>Atsiduso dar sykį vaikinas ir vėl užsimerkė. Prisiglaudė prie pagalvio ir bandė save nuraminti. Tuo tarpu vaidentuvė nenorėjo nutilti ir gana. Prieš akis stojosi lyg gyva... ji... Onytė, kurią jis taip labai pamylėjo. Taip, ji! Jos skaistusis veidas užkaitęs, kaip rožė žydi... lūpos, kaip žiedelio lapeliai, nuolatos vis virpa ir kiekvieną kart prasiverdamos rodo visą eilę baltų, kaip sidabras, gražiai sutaisytų dantų... Kalba ji rodos! Taip! kalba ji ilgai, karštai apie Dievo esybę, apie savo darželio puikumą... rodo savo smulkiose rankose mažą vabalėlį ir, rodos, šaukte šaukia...</p>
+<p>— Duok, tamsta, jei gali savo mašinoms tokią gyvybę, kokią matai šitam vabalėlyje! —</p>
+<p>Jos veidas tuotarpu dar karščiau užsidega ir pakėlus į dangų akis šaukia:</p>
+<p>— Ar tamstai permaža prirodymų? Ar neskaitai, tamsta, iš to visko, kaip iš knygų, jog ten yr Aukščiausias Viešpats?!. — o balsas jos Mykaičio ausyse kaip varpelis skambėjo.</p>
+<p>Mykaitis pasipurtė. Atvėrė jis savo akis, kad nors dar kartą pamačius veidą tos, kurią jis visa širdžia ėmė mylėti. Atsimerkė, bet jos nebuvo. Tai buvo tik tuščios svajonės ir atsiminimai susopėjusios jo dvasios. Praplėšė jis dar plačiau akis ir metė jas į šalį, kur stovėjo tokia pat lova, kaip ir jo. Mykaičio akįs sustojo ir valandėlę nemirkčiodamos žiūrėjo į vieną punktą. Jos pamatė stebėtiną sutvėrimą.</p>
+<p>Netoli Mykaičio ant lovos, arba, genaus, lentos, kuri tarnavo kaliniams vietoj lovos, gumšojo kokia tai didelė mėsos kupeta. Į žmogų nedaug ką buvo toji kupeta panaši. Visas jos viršus apžėlęs ilgais, kaip karklynas, plaukais, kurie, susivėlę į visas šalis, didelėmis striuogomis išklypę, nurodė, kad ant kupetos padėtas buvo suveltas pakulų kuodelis. Tik iš-po tų susivėlusių plaukų žibančios baisiai dvi aki, rodė, kad žmogaus tenai esama. Bet kaip baisiai tos akįs žibėjo ir mėtė piktumo žaibus! Rodos, jos gyvą Mykaitį norėjo praryti!</p>
+<p>Jonuks atitraukė nuo tos šmėklos savo akis ir dirstelėjo toliaus. Ir vėl nustebo. Greta tojo baisaus kaimyno sėdėjo kitas vaikinas. Jaunas dar jis buvo, kokios aštuoniolikos-devyniolikos metų. Veidas buvo jo dar visai grynas, bet veidai visiškai įdubę, po akims traukiasi mėlyni, į kraštus pereinanti į žalsvus, šmorai. Akįs nuolatos vis klaidžioja po visą kambarį ir matyt buvo jose ištvirkimo ženklas.</p>
+<p>— Ko dabar kaip stuobris tyli? — atsivėrusios kaip dumplės baidyklos lūpos paleido kaip griausmą žodžių pundą.</p>
+<p>— Tai ką aš tau pasakosiu? — pusiau nusišypsojęs, užklausė greta jo sėdintis vaikinas.</p>
+<p>— Ar didelė jųs partija? — vėl užklausė šmėkla.</p>
+<p>— Partija mųs ligi tol dar neperdidėlė — ėmė aiškinti vaikinas — bet tikimės, kad neužilgo pasididįs. Mųs partija veikia Naumiesčio ir dalyje Vilkaviškio apskričio.</p>
+<p>— Kaip jųs partija vadinasi? — klausė baisusis.</p>
+<p>— Męs ligi tol save pasivadinome „Bulių partija“, bet toliaus turėsime tą vardą pakeisti. Nesa dabar visi iš mųs vardo juokias.</p>
+<p>— Ka-ka-ka-ka!.. — kaip perkūno dundėjimas pabiro po visą kambarį iš kupetos balsas. — „Bulių, girdi, partija“. Ka-ka-ka-ka!..</p>
+<p>— O koks uždavinys jųs partijos?</p>
+<p>— Mųs partijos uždavinys — kovot su dabartine vyriausybe. Męs renkame pinigus ginklams nusipirkti.</p>
+<p>— Kokiu būdu?— klausė kaimynas.</p>
+<p>— Mat, męs norime viską išnaudoti. Ligi tol naktimis vyrai nors dažnai lankydavos po būdeles ir klėtis, bet tai jiems nieko neatsiėjo. Mųs partija nutarė, kad kuris norės naktimis pasivalkioti, turi į mųs partijos kasą mokėti muitą. Kas muito neįmoka, tam negalima naktį nė ant gatvės pasirodyti. Narių jau gana daug prisirašę ir visi išpildo savo priedermes kuogeriausia!</p>
+<p>— Tai daug jau susirinkote į kasą ginklams pirkti? — klausė vis susivėlėlis žmogus.	</p>
+<p>— Būtų jau gana daug, bet tik nelaimė, kad mųs valdyba mėgsta labai linksmą gyvenimą; ką nariai įmoka — ji viena nakčia prašvilpia.</p>
+<p>— Na o tu ar seniai prie „Bulių“ priklausai?</p>
+<p>— Aš — teisinosi vaikinas — ne nuo perseniai. Dar tik aštuontas mėnuo.</p>
+<p>— Nu, nu, nu! matyt iš tamstos akių, kad stropiai atlikdavai savo priedermes!.. — Ir pasileido baidykla juokais.</p>
+<p>Vaikinas lyg truputį susigėdo, jei galima susigėdinimo ženklu pavadinti labai kvailą nusišypsojimą. Po valandėlės vėl susiramino ir atsigrįžęs į šmėklą užklausė:</p>
+<p>— O tamsta, prie kokios partijos priklausai?</p>
+<p>— Aš priklausau prie Anarchistų-komunistų partijos „Galtinės“. Mųs truputį geresnė partija, negu jųsiškė. Męs norime nugriauti visokią vyriausybę ir valdžią. Męs kovojame su valdininkais, kunigais ir ponais, o jųs tik su bobomis!.. Raka ka-ka!.. Čia vėl visas kalėjimas sudrebėjo nuo baisaus juoko.</p>
+<p>— Žinai ką, vyruti, kiek męs kunigų apkraustę, kiek žmonių išžudę!? Aną savaitę ateiname mudu du draugu į dvarą pas poną:</p>
+<p>— Duok! — sakom męs jam — pinigų revoliucijos reikalams. Jis neduot, męs reikalaut. Tuo tarpu, žinai, kur buvęs kur nebuvęs studentėlis su revolveriu į mus iššovė. Mano draugui gana dikčiai įšovė, bet aš tą snarglių ant vietos padėjau. Kaip daviau, tik lept, ir išsitiesė, kaip varlė! —</p>
+<p>Čia kalbėtojas nusijuokė, kad, tarytum, buvęs išteisybių varlę, o ne žmogų užmušęs.</p>
+<p>Arba anuo kartu užmušėmė šnipą. Ar įtikėsi, vyruti, aš turėjau ve šitokį chinų peilį; tai žinai, kad pripuoliau aš prie to šnipo, visą savo peilį įsmeigiau jam į gerklę net ligi koto! Ištraukiau. Antru syk į širdį visą įsmeigiau! Šnipas tik pakratė kojas ir atlikta!</p>
+<p>Paskutinius žodžius kalbėtojas su tokiu džiauksmu užbaigė, kad rodos būtų jisai buvęs kokioje didelėje puotoje, ar kokį garbų darbą atlikęs.</p>
+<p>Mykaitis ligi tol vis klausė šnekos tų dviejų nepažįstamų sau draugų. Bet paskutinis pasakojimas apie žmonių žudymus taip jam pasibaisėjo, kad net visas sudrebėjo, o akyse, nors jas užmerkė, rodos, gyvas stovėje užmuštasis su peiliu širdyje.</p>
+<p>Netrukus jis nusiramino ir pamažu užmigo. Perkentėjęs tiek vargų, mųsų Jonuks miegojo gana ilgai. Anksti rytą tiktai jis pajuto kieno tai ranką ant savo pečių ir balsą:</p>
+<p>— Kelkis, tamsta, štai laiškas paslapčiomis tau atsiųstas. Pasiskaityk jį ir tuoj sudegink, nes kitu kart galiu už tai aš papulti. Laiškų paslapčiomis čia jokių negalima siuntinėti.</p>
+<p>Mykaitis godžiai nutvėrė laišką į rankas ir ilgai žiūrėjo į adresą, iš kurio norėjo įspėti kieno rašytas. Bet negalėjo įspėti — nežinoma ranka. Vien tik širdis gal šiek-tiek prijautė. Antgalo prasiplėšė. Skaito.</p>
+<p>Gerbiamasai Tamsta!</p>
+<p>Nežinau, ar ras mano šits laiškiukas Tamstą dar gyvą, ar ne. Nes parėjo gandas iš kalėjimo, būk Tamsta visai buvai apalpęs.</p>
+<p>Dieve Tu mano! kas galėjo tikėties tokios nelaimės. Aš negaliu per naktis užmigti: nuolatos kapai vaidinas ir Tamstos žaizduotas veidas vis į mane žiūri! O, Dieve, aš viską atiduočiau, kad tik Tamstą, vėl sveiką regėčiau. Aš kasdien meldžiuos prie Marijos už Tamstą, meldžiuosi prie tu šventųjų, kurių dūšias Tamsta mažas būdamas savo maldomis iš čysčiaus išgelbėjai... Aš meldžiuosi, kad Tamsta sugrįštum prie Dievo...</p>
+<p>Namieje viskas einasi gerai. Nors mamytė baisiai kazokų sumušta, bet jau eina sveikyn. Tamstą išvežus, aš pati pasilikau pas jus, mamytės prižiūrėti. Pati savo rankomis išploviau nuo nagaikų žaizdas, apraišiojau ir gydau, kaip tikras gydytojas. Tikiuosi, kad mano ligonis neužilgo visiškai pasveiks. Tuomet ketiname atvažiuoti Tamstos atlankyti.</p>
+<p>Kartu prie šito laiškiuko pridedu ir šituos dvidešimt penkis rublius, kuriuos mųsų gerbiamas klebonas, išgirdęs apie Tamstos nelaimę, įdavė Tamstai nusiųsti. Bus, girdi, nors vaistams nusipirkti.</p>
+<p>Tikiuosi neužilgo pasimatysime. Tamsta, turime viltį, neilgai būsi kalėjime, nes visi tavo prieteliai kartu su klebonu, kiek galėdami, rūpinasi paliuosuoti.</p>
+<p>Tamstai atsidavus Onytė.</p>
+<p>Mykaitis godžiai akimis perbėgo visą tą trumpą merginos laiškiuką. Paskui jį antru kartu ir trečiu ir ketvirtu kartu visą nuo pradžių ligi galo perskaitė, perskaitė... Palukėjo ir vėl ėmė skaityti tuos prastus Onytės žodžius. Antgalo sudėjo laiškiuką, giliai paslėpė po savo patalu ir atsidusęs tarė:</p>
+<p>— Ji mane myli!.. Ji manęs ir dabar neužmiršta... Ji meldžiasi už mane... Ji tiki, kad Dievas jos maldų išklausys... Ji savo rankomis apraišiojo mamytės žaizdas... Ji mųs namų neapleido, kada mus visi apleido!..</p>
+<p>Taip ji ir visus maniškius myli... Ir aš ją myliu... Myliu iš gilumos širdies, kaipo didžiausią prietelį, pastiprinantį mane mano nuliūdimuose. Myliu ją kaipo draugę savo gyvenimo... Myliu, nes verta ji mylėti...</p>
+<p>Čia Mykaitis nutilo.</p>
+<p>— Taip aš ir visi ją mylime... bet kodėl?... — truputį patylėjęs klausėsi pats savęs Jonuks. — Kodėl aš jąją myliu, o štai šių mano kaimynų taip biauriuosiu? Jos paveikslas mane suramina, o šiuodviejų baisios šmėklos mano dvasią priverčia drebėti? Kodėl? kodėl? — vis lindo jam į galvą tas klausimas, lyg įkiri musia.</p>
+<p>— Todėl — antgalo sąžinė jam atsakė — kad Onytė yra tikinti į Dievą, yra gailestinga, jos veidas spindi nekaltybės ženklu... Tuotarpu šie kalėjimo draugai abu netikėliai, ištvirkėliai, nuožmųs. Tai mat koks skirtumas tarp tikinčio ir netikinčio žmogaus: ans doras ir gailestingas, šits gi priešingai — ištvirkęs ir nuožmus. Taigi Dievas turi būti, nes kitoniškai žmonės visi pavirstų i nuožmesnius už plėšriausius žvėris. Bet... bet... aš neišmanėlis... kaip aš grįšiu prie Tavęs, Aukščiausi!?.. — sušuko nelaisvis. — Teisybė, ir aš meldžiausi už dūšeles, bet kaip seniai!..</p>
+<p>Mykaitis apsikniaubė ir apsiliejo ašaromis. Jis pažino savo klaidą. Jis norėjo grįšti prie Dievo... bet galvoje viskas maišės, o širdyje viskas virte virė.</p>
+</div>
+
+ <div type="chapter">
+ <head>XV. Sugrįžo</head>
+
+<p>— Laikas — tai geriausias vastas nuo dvasios sielvartų — pasakė kokis tai sumanus žmogus. Ir teisybę pasakė. Nekartą žmogui užeina tokios sunkios valandos, kad girdi, kaip replėmis gniaužo, juodos mintįs slogina dvasią, o baisios sielvartos pina jai aštrų vainiką... Jau rodos negalima tų sunkenybių bus išlaikyti, rodos sutrįs josios, suardys žmogaus visą gyvenimą... Bet ne, prabėga diena, kita, o žiūrėk tie visi vargai ir sielvartos jau ne taip baisiai atrodo, jau ne taip sunkiai gula ant širdies... Dar prabėgs kokis laiko gabalėlis — nelaimių kaip ir nebūta! Žmogus vėl linksmas ir praėjusias savo dienas užmiršęs!</p>
+<p>Taip tasai brangusis laikas gydė ir Mykaičių namui užduotas žaizdas. Išpradžių motina diena dienon, nežiūrėdama į savo sopulius, užlaužus į dangų rankas, šaukėsi į Aukščiausiąjį pagalbos ir suraminimo!.. Mylimasis Jonuks stovėjo per dienas jai akyse su pulku budelių, kurie negailestingai miklino savo nagaikas ant jo pečių...</p>
+<p>Nieko negelbėjo nė Onytės raminimai, nė gerojo klebono — „tėvelio“ žodžiai. Jai rodės, kad be Jonuko viskas prapuolė.</p>
+<p>Taip tęsėsi dvi savaiti. Laikas pataikė tai padaryti, ko negalėjo nė klebonas, nė Onytė. Mykaitienė po truputį užmiršo baisųjį įspūdį, susidrūtino ir į trečią savaitę jau kuo nevisai buvo sveika.</p>
+<p>Čia turiu priminti, kad nuo tos dienos, kada kazokai suėmė Jonuką, klebonas — „tėvelis“ pasiliko kasdieniniu Mykaičiuose svečiu. Jis, mat, nuo senovės buvo labai gražioje santaikoje su seniais Mykaičias; bet pastaruoju metu stebėtinas kartais Jonuko pasielgimas paretinęs buvo „tėvelio“ atsilankymus. Nalaimei gi namą patikus, „tėvelis“ buvo visu jo globėju. Jis šelpė kiek galėdamas nelaisvį, prižiūrėjo Mykaičių ūkį, ligino senąją motiną.</p>
+<p>Kada vieną vakarą, klebonas atlikęs visas bažnyčios pareigas, atsilankė pas savo prietelius, rado Mykaitienę labai nuliūdusią.</p>
+<p>— Kas mamytei darosi? — užklausė klebonas. — Jau vėl pradedi po senovei liūsti?</p>
+<p>— Kur čia, tėveli, neliūsi? žiūrėkit, ką rašo Jonukas iš kalėjimo.</p>
+<p>— Kam jis rašo? — užklausė klebonas.</p>
+<p>— Vieną laiškiuką štai atsiuntė man, o kitą Onytei — su tais žodžiais Mykaitienė pakišo klebonui savąjį laiškiuką. Klebonas pasiėmė ir garsiai ėmė skaityt:</p>
+<p>Mylimoji Mamyte!</p>
+<p>Ačiu Jums iš visos širdies, kad neužmirštate manęs! Ir aš kasdiena Jus miniu ir rūpinuosiu apie Jųsų sveikatą. Ačiu labai ir gerbiamam mųsų klebonui. Nesitikėjau, kad jojo širdis galėtų mane ir visą mųsų namą taip numylėti! Tai ne žmogus — bet aniolas suramintojas, tai mųsų tėvas ir globėjas!</p>
+<p>Meldžiu, mamyte, praneškit jam ir pačios nusiraminkit, nes aš jau suradau Tą, kurį buvau per keletą metų apleidęs; jog vargas ir Jųsų karštos maldos pasiekė Aukščiausiojo Sostą ir suteikė man tai ko aš nevertas buvau — tikėjimą. Taip, aš dabar tvirtai tikiu į Dievą. Tas atsitikimas tegu Jus visus suramina, nes jei dabar reikėtų mirti, tai kataliku mirsiu!</p>
+<p>Sakau, jei reikėtų mirti, nes ištikrųjų nežinau savo padėjimo. Vakar buvo tardytojas. Iš tardytojaus akių mačiau, kad mane turėjo kas smarkiau suskųsti. Jo veidas buvo baisiai surūgęs, o akįs mėtė piktumo žarijas. Man nedavė daug nė teisinties. Užmetama man, būk aš Plušą nušovęs ir kitas riaušes dirbęs. Dabar esmi aš apkaltas geležiniais pančiais, kaip kokis galvažudys. Jei nepasiseks teisybės išrodyti — grąsina mirties bausmė. Gelbėkit kiek galėdami. Neužilgo bus teismas. Rinkite liudytojus, kurie matė visus tuos dalykus. Ypač gi melskitės už mane, nes Jųsų maldos galingesnės už budelių kalavijus!</p>
+<p>Apie Onytę nieko neminiu, nes jai už jos malonią širdį aš ypatiškai padėkojau į ją rašytame laiške.</p>
+<p>Jus mylintis sūnus Jonas.</p>
+<p>Klebonas, perskaitęs, laišką padėjo ant stalo ir, pakėlęs akis, pažiūrėjo į priešais save sėdinčią Mykaitienę ir Onytę. Jodvi godžiai tvėrė kiekvieną laiško žodį ir užsimąstę nesijudindamos sėdėjo. Per nuliūdusius judviejų veidus riedėjo ašaros. Nusišluostė ir klebonas sau veidą, nes ir jam, nors laikėsi, bet visgi išsiveržė kelios ašarų spurgos, beskaitant jaunos, neseniai prie Dievo sugrįžusios, dūšios jausmus, rengenčiosiosi prie mirties.</p>
+<p>Jaunam numirti! Kaip baisu! Dar nė neparagavo gyvenimo saldybės, o čia jau kapas, plačiai atvėręs savo nasrus, laukia kad greičiau prarijus naują auką!..</p>
+<p>— Mamyte! truputį patylėjęs tarė klebonas — nusiramink. Tu gana gerai žinai, koks buvo Jonuks. Juk jis visai netikėjo į nieką. Ką jam aš, ką tu, ką štai Onytė jam prikalbėjome, o jis ne, prie savo ir gana. Dabar gi žiūrėk, ko męs per ilgą laiką nepadarėme, Viešpats Galingasis vienoje valandoje padarė. Kalėjimas tai buvo Jonukui Dievo rykštė, rodanti jam teisybės kelią. Taigi, mamyte, ir tu, Onyte, nesirūpinkite perdaug; Dievas galingas, Jis išgelbės nekaltą vaikiną, kaip nekaltą Danielių išgelbėjo ir liūto nasrų. Rytoj su ta mintimi atlaikysiu už Jonuką Šventas Mišias, į kurias ir judvi su visa šeimyna ateikit.</p>
+<p>— Tikiu, tėveli, visiems jųsų žodžiams. Dievas galingas! — bučiuodama ranką, tarė Mykaitienė.</p>
+<p>Tuo tarpu seklyčios durįs atsidarė ir įėjęs vaikinas skambančiu balsu tarė:</p>
+<p>— Tegu bus pagarbintas Jezus Kristus! —</p>
+<p>Visi nutilo, lyg stabu ištikti. Savo akim netikėjo. Ir taip ilgą minutą visi tylėjo.</p>
+<p>— Dievulėliau! jau jis žuvo! — baisus Mykaitienės išsiveržęs balsas suardė tylą. —</p>
+<p>— Dievulėliau! pražuvo! Štai šmėkla jojo stovi mano akyse!..</p>
+<p>Bet čia neregėtas pasidarė reginys, Įtariamoji šmėkla puolėsi į glėbį Mykaitienės:</p>
+<p>— Mamyte! — šaukė jisai — tai ne šmėkla, bet aš gyvas tavo Jonuks sugrįštu sveikas į namus. Jųsų maldos mane prie Dievo sugrąžino, tos karštosios jųsų maldos ir nuo budelių mano gyvybę išgelbėjo!</p>
+<p>Kas tuomet darėsi Mykaičių namuose sunku ir apsakyt. Ir juokėsi ir verkė ir vėl juokėsi ir vėl verkė visi, kas tik buvo gyvas namuose.</p>
+<p>Praslinkus valandėlei po to atsitikimo ir visiems ligi noro prisidžiaugus, svečias, o aplinkui jį visi namiškiai, susėdo prie stalo ir prasidėjo paprasti tokiuose atsitikimuose klausimai.</p>
+<p>— Pasakyk, vaikeli, kokiu būdu išsiliuosavai nuo giltinės, apie kurią tu rašei savo laiške, kurį štai dar tik ką skaitėme? — užklausė motina.</p>
+<p>— Apie tai, kokiu būdu aš išsiliuosavau nuo kartuvių, tai daug kalbos; galima būtų surašyti visas knygas. Jei turėsite tiek kantrybės — paklausykite, aš maloniai jums papasakosiu.</p>
+<p>— Klausom visi, Jonuti, tik pasakok — nerymastaudama tarė Onytė.</p>
+<p>— Sunkus manęs laukė likimas — pradėjo Mykaitis pasakoti — aš buvau priskųstas, kaip apie tai jau jums rašiau savo laiške, būk po mano vadovavimu čia buvo kelta visa revoliucija: ir Plušas užmušta, ir girios sargas užpulta ir monopolis sudaužyta ir viskas. Kada man tardytojas tuos visus apkaltinimus perskaitė, aš pastačiau akis ir nežinojau ką jam ant to atsakyt. Aš visai tokio apkaltinimo nesitikėjau. Ir žinoma, paklausus tardytojui, ar teisybė tai visa, aš drąsiai jam atkirtau:</p>
+<p>— Tai yra melas. Aš galiu nors visą apielinkę liudytojais statyti, jog aš to viso nedariau!</p>
+<p>Matyt, ponui tardytojui nelabai įpuolė į skonį toks drąsus mano aiškinimasis. Toliaus jis manęs klausia:</p>
+<p>— Ką jųs pats apie save pasakysit?</p>
+<p>Aš ant to atsakiau, kad aš jokios revoliucijos ligi tol dar nekėliau ir nemanau kelti, nes dar pertamsųs prie revoliucijos žmonės.</p>
+<p>Po to dar tardytojas šio to manęs paklausinėjo ir galų gale paliepė pančiais surakinti ir į kalėjimą nuvesti atgal.</p>
+<p>Iš jo veido aš mačiau, kad man rengiama neperdaug saldi ateitis. Bet ką darysi. Reik kentėt ir laukt. Ačiu Dievui, kad tuomet jau buvau pilnai tikintis žmogus ir Dievo apvaizda buvo didžiausiu mano suraminimu.</p>
+<p>Mane užrakino vienų vieną į tamsų kambarėlį, kurį saulės spinduliai tik užtekant vos-ne-vos aplankydavo ir nušviezdavo mano akis. Nuo to tardymo aš beveik visą laiką nesumerkdavau akių. Man galvoje nuolatos stovėjo baisi šmėkla kartuvių paveiksle.</p>
+<p>Vargstu taip vieną dieną, kitą ir laukiu baisaus teismo, kuris mane, tikrai žinojau, pasmerks mirtin. Laiškas mano į jus rašytas jau dvi savaiti, užmiršau, o antgalo nė nežinojau kokią padėti dieną. Tuomet mano visi posmai buvo susimaišę.</p>
+<p>Antgalo, nežinau po kelių dienų sunkaus mano kentėjimo, klausau, duryse sunkiai sučerškėjo sargo raktas ir neužilgo tarpduryje pamačiau stovintį tarną, o už jo kalėjimo viršininką.</p>
+<p>— Mykaiti! jųs tardymas tuoj bus antru kart pakartotas, nes pas tardytoją naujos apie jus žinios.</p>
+<p>Nežinojau aš tuomet, ar iš to man reikia džiaugties, ar verkti. Gal mano kaltybę sumažint nauji tyrinėjimai, bet gal ją dar padidint,</p>
+<p>Du kareiviu prie manęs tuotarpu prisiartino ir paliepė eiti pas tardytoją. Mano geležiniai pančiai ant rankų ir kojų sunkiai sužvangėjo ir skriūdus to žvangėjimo aidas skriejo po kalėjimo ilgus, vingiuotus, tamsius kantorius. Paskui manęs kambarėlio durįs vėl baisiai sudundėjo.</p>
+<p>Salėje jau laukė manęs ponas tardytojas. Aš prisiartinau prie jo.</p>
+<p>— Jųsų tardymas yra paantrinamas — monotonišku balsu apskelbė man tardytojas. — Nes viens iš liudininkų, kuris svarbiausias jųsų kaltes pirmiau išrodinėjo, dabar tai visa atšaukė ir prisipažino, kad jis tai visa iš neapykantos pasakęs. Kiti gi liudytojai, kurie buvo šaukti jųsų reikale, visi pripažino, kad jųs visai tose riaušėse nedalyvavote. Net tai-pat patvirtino ir miestelio sargybiniai su žandarais, kurie tą dalyką stropiai šnipinėjo. Taigi, pasiremdamas ant aukščiaus išdėstytų jums liudininkų prirodymų, pripažįstu, kad visai bereikalingai jųs esate suimti, o dar bereikalingiau turėjote tokį laiką kentėti kalėjime. Aš jųsų bylą, kaipo visai be jokių prirodymų, pertraukiu ir jus paliuosuoju namo.</p>
+<p>Tais žodžiais valdininkas užbaigė mano kentėjimus. Geležiniai pančiai tuoj numanęs nukrito, aš pasijutau liuosas. Norėjau šokti iš to džiauksmo ir apkabinti savo išliuosotoją, o kartu ir įbugdintoją... Bet kas jis toks buvo? Kur jis yra? — Nežinojau.</p>
+<p>Taip man besidairant, jaučiu kas už peties traukia:</p>
+<p>— Eiva, Jonuk, tu esi liuosas! Eiva greičiau iš šio prasmirdusio kampo!</p>
+<p>Aš atsigrįžau. Koks mano buvo nusistebėjimas, kada už savo pečių pamačiau Juozą, tavo, Onyte, brolį. Apsikabinau jį, išbučiavau visą, rodos, amžį būčiau jojo nematęs. Taip aš jųs visų išsiilgau!..</p>
+<p>— Išsiilgome, Jonuti, ir męs tavęs — tarė senas klebonas — atskaitėme ir dienas ir valandas tavęs belaukdami.</p>
+<p>— Bet kas per neprietelis, ką tave, vaikeli, norėjo prapuldyti, ar nesužinojai? — užklausė Mykaitienė.</p>
+<p>— To tai, mamyte, ant greitųjų nesužinojau. Bet aš tikiuosi, kad visgi kada nors tai visa sužinosiu.</p>
+<p>— O Juozas kur, jei sakot judu matėtos?</p>
+<p>— Juozas namie, mudu abu sugrįžome sykiu. Jis — geras mano prietelis, neužmiršo manęs nelaimėje, atvažiavo atlankyt, o čia girdi, kad mano tardymas. Ateina, klauso, kad mane paliuosuoja. Pasiima ir su savim parsiveža. Mane pas vartus paleido, o pats nuvažiavo mamytės atsivežti...</p>
+<p>Mykaičiui bešnekant, įeina ir Juozas su savo motina, o paskui juos eina ir senutis Dorys. Ir vėl prasidėjo toji pati scena. Bučiavimaisi, džiauksmas, laimė.</p>
+<p>— Tai matai, Rugienių mamyte, nesitikėjai, kad Jonuką sugrįžusį matysi. O kas labiau, nenorėjai man tikėti, kad Jonuks kada nors prie Dievo sugrįš. Dabar žiūrėk štai-tikras katalikas; pats iš savo persitikrinimo įtikėjęs į Dievą, bus geras, neabejoju ir per visą savo amžių! — tarė Klebonas.</p>
+<p>— Taip, tėveli! — tarė Mykaitis, ir priėjęs pabučiavo klebonui ranką — taip! aš tikiu, kad mane Dievas pats savo rykšte privertė prie savęs sugrįšti. Aš sugrįžau ir liksiu prie Jo ligi savo mirties!</p>
+<p>— To aš nuo tavęs ir tikėjausi, Jonuk! — tarė klebonas. — Taigi tokiam tiktai, kaip tu, turi ir Onytės ranka tekti. Kaip judu meilės ryšys suriš, tikiuosi, kad visoje mano parapijoje kitos tokios šeimynos, kaip jųs būsite, neatsiras.</p>
+<p>— Dieve duok! tėveli, kad tasai jųsų noras išsipildytų! — tarė visi ligi vienam esantieji kambaryje.</p>
+<p>— Taigi jaunoji pora eikšiate pas mane, klaupkite, o aš jus palaimįsiu ir žiedus judviem sumainysiu!</p>
+<p>Jaunieji suklaupė. Klebonas pakėlė ranką ir žegnodamas tarė.</p>
+<p>— Aš laiminu jųsų abipusią meilę ir geidžiu, kad ji pasiliktų prie jųs lig mirties!</p>
+</div>
+
+ <div type="chapter">
+ <head>XVI. Užbaiga</head>
+
+<p>Gal skaitytojas norėtų sužinoti, kodėl paskui Barštys atšaukė savo neteisingą liudijimą ir koksai anų trijų draugų buvo likimas? Čia daug būtų pasakojimo, bet aš trumpai tą visą istoriją išdėstysiu.</p>
+<p>Yra šiame pasaulyje žmonių tokių, į kuriuos pažiūrėjus, rodos jieji netur visai nė širdies, nė sąžinės, nė gailestingo jausmo. Rodos, jiems vistiek, ar medį girioje nukirsti, ar aštrų savo peilį artimui įvaryti į širdį net ligi pačiam kotui. Jam, rodos, vistiek, ar braidžioti po balas, arba po žmogaus kraujo klanus. Jam parduot savo brolį, tai menkas daiktas! Tai Kainai tikri!</p>
+<p>Bet išteisybių tokių žmonių, į piktą ir į gerą žiūrinčių šalta akimi, nėra, arba bent labai mažas skaitlius. Daugumas iš tų piktadarių turi tokią-pat, kaip ir męs širdį ir sąžinę ir jausmus. Tiktai toji širdis yra visai atstingus ir daug reikia vargo kol ji sušįla. Toji jų sąžinė yra užmigdyta. bet ateina valanda, kad ji pabunda iš ilgaamžio miego ir ima nuolatos nelaimingą savo auką, kaip kirminas, graužti.</p>
+<p>Taip stojosi ir su Barščiu. Praleidęs girtuoklybėje ir ištvirkime visą gyvenimą, ne vienam rodės, kad jis neteko visai sąžinės ir niekados prie Dievo nesugrįš. Bet visai stojosi priešingai.</p>
+<p>Po pirmutinio tardymo, kad Barštys priskundė Mykaitį, jam pradėjo daryties neramu. Jis jautė, kad visai neteisingai gal atimti gyvybę jaunam vaikinui, kuris ligi tol daug ką jam pagelbėjo. Sąžinė ėmė judinties. Prie to dar prisidėjo ir kitas dalykas.</p>
+<p>Skaitytojai atsimena, kad tardytojui pradėjus Barštį klausinėti, priemenioje už durų klausė du vaikinu. Buvo tai Mykaičio iš gimnazijos draugai. Jie, sužinoję, kad tą dieną bus tardymai politikiškų bylų, nubėgo nors per skylutę pasiklausyti.</p>
+<p>Išgirdę gi visą begėdišką Barščio pasielgimą su Mykaičiu, juodu kuogreičiau surašė smarkų laišką ir paslaptomis Barščiui nusiuntė. Tame laiške jie pagrąsino Barščiui, kad jis atšauktų savo žodžius, o ne, tai vistiek neišeis gyvas.</p>
+<p>Barštys, gavęs laišką, ne tiek jis pabūgo grąsinimo mirtimi, kiek to, kad žmonės žino jo melagybę. Pabūgo, kad apie tai nesužinotų Mykaitis. Toji baimė privedė jį ligi to, kad suprato visą savo kaltę ir pasišaukęs viršininką išpasakojo visą teisybę.</p>
+<p>Barštys dabar jau po žeme. Virvė jam nutraukė gyvenimo siūlą. Bet prieš mirdamas parsikvietė kunigą ir tikru gailesčiu apmazgojo viso savo amžio purvus.</p>
+<p>Bladas atsidūrė keleriems metams į katorgą. Endrius Plankius, nes dar buvo visai jaunų metų, atiduotas motinos priežiūrai.</p>
+<p>Bažnytkaimyje gi, netoli kapinyno, Mykaičių namuose dabar jau rasi gražią porą jaunų ūkininkų, kuriems ūkis, anot žmonių, klojas kaip ant sviesto. Tie ūkininkai — tai Jonuks su Onyte!</p>
+</div>
+
+ <div type="chapter">
+ <head>GALAS.</head>
+
+<p>Trumputis paaiškinimas.</p>
+<p>Apysakai turinys yra paimtas visas gyvai iš tikrų atsitikimų. Kurie, žinoma, ne vienu laiku ir ne vienoje vietoje atsitiko, bet visgi tai tikrai buvusieji faktai.</p>
+<p>Autorius.</p>
+</div>
+</body>
+</text>
+</TEI>

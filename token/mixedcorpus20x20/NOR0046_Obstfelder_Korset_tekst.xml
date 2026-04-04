@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="NOR0046" xml:lang="nb">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Korset ELTeC-utgaven
+    </title>
+    <author ref="viaf:69039405 https://www.wikidata.org/wiki/Q539525">Obstfelder, Sigbjørn  (1866-1900)</author>
+    <respStmt>
+     <resp>
+      ELTeC encoding
+     </resp>
+     <name>
+      Michael Preminger
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     16378
+    </measure>
+    <measure unit="pages">
+     0
+    </measure>
+   </extent>
+   <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
+</publicationStmt>
+   <sourceDesc><bibl type="digitalSource">
+       <ref target="https://www.nb.no/items/b109a3d844bd620036cab17e58920fad">
+           Sjekket mot førsteutgave, bokhylla.
+       </ref>
+       <author>
+        S. Obstfelder
+       </author>
+       <title>
+        Digibok
+       </title>
+       <pubPlace>
+        Kjøbenhavn
+       </pubPlace>
+       <publisher>
+        GYLDENDALSKE BOGHANDELS FORLAG
+       </publisher>
+       <date>
+        1896
+       </date>
+       <idno type="wiki">
+        None
+       </idno>
+      </bibl></sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p n="eltec-0"/>
+  </encodingDesc>
+  <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+   <langUsage>
+    <language ident="nb" usage="100"/>
+   </langUsage>
+   <textDesc>
+    <e:authorGender key="M"/>
+    <e:size key="short"/>
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+   	<e:timeSlot key="T3"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change><change when="2020-11-15">Checked by checkup
+                script</change><change when="2020-11-13">ran oldCheckUp to update</change>
+   <change when="0001-01-01"/>
+  </revisionDesc>
+ </teiHeader>
+ <text type="novel" xml:id="NB_Obstfelder_Sigbjorn_Korset_en_Kjerlighedshistorie_xml_text">
+  
+  <front>
+   <div type="titlepage">
+   <p>
+    SIGBJØRN OBSTFELDER
+   </p>
+   <p>
+    KORSET
+   </p>
+   <p>
+    EN KJÆRLIGHEDSHISTORIE
+   </p>
+   <p>
+    •KJØBENHAVN
+   </p>
+   <p>
+    GYLDENDALSKE BOGHANDELS FORLAG
+   </p>
+   <p>
+    (f. hegel &amp; søn)
+   </p>
+   <p>
+    1896
+   </p>
+   </div>
+  </front>
+     <body>
+         <div type="chapter">
+ <p>Hun er smal og slank. Hun går ikke jevnt, hun hopper lidt for hvert fjerde skridt.</p>
+			<p>Ret som det er tar hun en sten op, kyler den langt udover sjøen i vandladen, slig at den hopper op igjen, en, to og tre gange,</p>
+			<p>Så ler hun til en linerle, som står og vipper i fjæren. Så danser hun to skridt.</p>
+			<p>Men stop! Hvad er det? Hun sætter sig ned. Hun blir så gammel, så gammel i ansigtet. Hun blir så sørgmodig. Hvad kan hun ha at sørge over, hun som er så ung.</p>
+			<p>Det varer ikke længe. Hun hopper høit</p>
+			<p>op i luften, smyger sig så om havegjærdet,</p>
+			<p>plukker en blomst, mens hun løber, bider 1</p>
+			<pb n=""/>
+			
+			<p>to tre kronblade af og kaster den, går ind i stuen, på tå.</p>
+			<p>Hun lyser en halv side. Så glider hun ud igjen, Mfvalt hulken. Ingen har snakket til hende. (Bfun har ikke trættet med nogen.</p>
+			<p>Derude står hun og hvisker noget, med sammenbidte tænder, fræser som en kat. Hun står på volden. Solen går ned. Van- det skvulper. Alt er ro.</p>
+			<p>Men hun knytter næve, Hun hæver armen høit op. Hun sætter de unge bryster trod- sende ud mod sjøen. Og pludselig skriger hun, så stærene blir vilde af skræk: Jeg vil! Jeg vil!</p>
+			<p>Så synker brystet. Det gik som en storm udover. Nu er det stille. Øinene er store, pupillerne sorte.</p>
+			<p>— Hun har lagt sig. Armene ligger udstrakte opover, smale som slanger, musku- Jøse. Øinene er lukkede. Sover hun?</p>
+			<p>Nei. Pludselig farer hun op, limnedet fyker om hende, hun fræser: Jeg vil! Jeg vil!</p>
+			<p>Hvad er det hun vil?</p>
+			<pb n="11"/>
+			
+			<p>Dette billede står så ofte for mig. Og jeg har dog ikke set hende dengang. Jeg kjendte hende ikke da. Da jeg mødte hende, var hun ikke smal om lænderne, men rig og yppig, der var 
+ikke den evige flugt over ansigtet, der var ikke brysternes trods.</p>
+			<p>På en anden måde skifted ansigtet. Det kunde få et udtryk, som det beholdt så længe, så skifte om i et andet, som stod.</p>
+			<p>Hvorfor ser jeg da nu, da jeg søger at fremmane for mig hendes billede, netop dette for mig, dette som jeg ikke kjendte? Er det fordi jeg så godt husker, hvordan hun en morgen løfted 
+den nøgne arm højt op mod taget — hun hæved sig pludselig, hun løfted armen, alle hendes ansigts muskler strammed sig — var også det dette: Jeg vil! Jeg vil!</p>
+			<p>Hvor det kunde glimte i hendes øine! Som om hun havde en sol inde i brystet.</p>
+			<p>Men hun kunde gråte så sårt. Hun r</p>
+			
+			<pb n="12"/>
+			
+			<p>kom undertiden til mig og kasted sig på fanget mit og gråt, så hele kroppen hendes skjalv, skuldrene skjalv, brystet, lænderne.</p>
+			<p>Da havde jeg intet andet at gjøre end bare at ta let og mygt hendes hode ind til mig og holde hende sådan hos mig.</p>
+			<p>Jeg havde nok en egen måde at holde hende på, som hun likte. For et af hen- des udtryk var det, at hun elsked mig, fordi jeg var den eneste, hos hvem hun turde gråte ud.</p>
+			<p>Hun havde en stor gråtsjø i brystet, sa hun, som måtte få fosse ud sommetider.</p>
+			<p>Jeg vet ikke hvoraf det kom, jeg syntes ofte, at det var en tung byrde, der lå ved mit bryst, at det at holde hende, mens hun gråt, var som for en mor at føde et nyt menneske til 
+verden. Jeg syntes, jeg gjorde noget, som var så dybt og alvorligt, som vilde bli regnet med i mit livs bog</p>
+			<p>Det var engang, hun var gåt hort fra mig efter et sådant udbrud, at der var lige- som noget sårt ved hjertet, der hvor hodet</p>
+			<pb n="13"/>
+			
+			<p>hendes havde ligget, og jeg sa høit til mig selv: Hun kan vist aldrig forlade mig!</p>
+			
+			<p>Forlade mig! Var hun da hos mig? Jeg vidste jo ikke engang hvorfor hun gråt! Jeg vidste ikke, hvad det var for sorger, hun skulde gråte ud.</p>
+			<p>Det var just det, som var det sælsomt hellige: Jog ransaged ikke. Jeg lod hende bare gråte hos mig</p>
+			<p>Jeg sad og tænkte: Hun lider. Hun har det ikke godt. Det er godt at få gråte hos nogen. Det letter. Jeg forstår smerte. Jeg kan så godt ta imod den, jeg vil så gjerne smelte den for 
+hende, om jeg kan.</p>
+			<p>Forlade mig! Hun kom til mig no og da. Jeg vidste intet om hende ellers.</p>
+			<p>Det kunde jo være, at det var en eller anden mand, der havde voldt hende sorg. Jeg vidste ikke det, jeg. Det kunde være, at hun selv havde gjort noget, der gjorde hende uendelig 
+bekymret.</p>
+			<p>Jeg tænkte ikke over det. Jeg hare</p>
+			<pb n="14"/>
+			
+			<p>tænkte som så: Hun har ikke fred! Det er ikke enkelt og godt og roligt for hende. Jeg vilde så gjerne gi hende fred, se hendes bryst hølge rolig, langsomt, godt.</p>
+			<p>Hun kom af og til hos mig. Hun satte sig ved siden af mig, Ia hodet sit på skul- deren min, kyssede mig.</p>
+			<p>Hun var også glad, når jeg kyssed hende. Og hun sa, at hun elsked mig.</p>
+			<p>Gjorde hun det? Elsked bun mig alle- rede da?</p>
+			<p>Hvor hun var i mellemtiden, det vidste jeg ikke. Jeg vidste intet om hende. Jeg spurgte hende ikke. Hvergang tanken på at spørge streifed mig, var der noget som holdt mig tilbage.</p>
+			<p>Hun havde lyseblå øine. Havde hun den lyseblå fløielskjole på, vidste jeg neppe, hvad som glimted lyseblåest, kjolen eller øinene. Jeg vidste ikke, hvad som glimted mygest.</p>
+			
+			
+			<pb n="15"/>
+			<p>Den lyseblå fløielskjole! Hvor dog meget i livet kan knytte sig til en død ting, til en kjole, et armbånd. Menneskene gjør de døde ting levende.</p>
+			<p>Nævner jeg blot for mig disse ordene: Den lyseblå fløielskjole — så står en hel række stunder for mig.</p>
+			<p>Men holst én. Der ikke går ind i nogen hændelse. Bag hvilken det ei stormer. Den var som stille, dybt vand, den kvelden.</p>
+			<p>Træet, mod hvilket hin sad, elven, som netop der gik uden hvirvel.</p>
+			<p>Jeg så de ordene:</p>
+			<p>— Se på det gjærdet som står stille, mens elven går. Det er først når man ser på gjærdet, af man kan se på elven at den går,</p>
+			<p>Ord, som ingen videre betydning har. Og jeg synes dog jeg hører dem ud fra en tid, som er forsvundet, og som en trylle- formel maner de frem dage, som ikke kom- mer igjen.</p>
+			<p>Hendes skjælvende ja! Som om jeg talte til hende om noget skjæbnesvangert.</p>
+			<pb n="16"/>
+			
+			
+			<p>Og så var det glæde.</p>
+			<p>Ti efterat vi havde tiet en lang stund begge, og set på det samme, og elven havde ført vore blikke med sig, så sa hun:</p>
+			<p>— Jeg er glad.</p>
+			<p>Jeg — er — glad, så hun sagte og langsomt.</p>
+			<p>Den glæde, kvinden føler, når hun er moden og det går i broda bølger hos hende, sitrer. Den dugger øiet så mygt. Den er som månestriben på fjorden når den dirrer</p>
+			<p>Hvor jeg ser det for mig! Fløielskjolen i løvet, det var som den blev til ét med hendes legeme, og hendes legeme blev til farve.</p>
+			<p>Hun sad så godt i den. Det yppige der er ved fløil viste hendes brysts fylde, viste den og dølged den igjen, smelted den hen i små mørkeblå-bløde, flakkende skygger.</p>
+			<p>Jeg begynder vist af Di lyrisk. Tilgiv mig. Men det er mig så delligt at dvæle ved dette, forsøge at male det slig som det var.</p>
+			<pb n="17"/>
+			
+			<p>Som det mer og mer kveldede, smelte hun mer og mer, smelted sammen med løvet, med sekunderne, som ikke hørtes,</p>
+			<p>Det er den eneste aften hun vilde roge. Hun sa:</p>
+			<p>— Jeg ser gløden på din cigaret, det er alt jeg ser.</p>
+			<p>Jeg sa:</p>
+			<p>— Jeg ser gløden på din hånd.</p>
+			<p>Hun sa:</p>
+			<p>— Nu hører jeg bare elven. Før hørte jeg den ikke. Da så jeg den bare.</p>
+			<p>En husker slike sætninger, længe efter flammende ord er udbrændt, Skrevet er det intet, ti det or tonen, en har gjemt langt inde i øret, tonen, som klang sammen med det hele.</p>
+			<p>Det er mange år siden mu. Men der er mætter, da de to glødende cigaretter står for mig i mørket, og de tyste sætninger klinger i stilheden.</p>
+			
+			<p>in, og jeg ser</p>
+			<pb n="18"/>
+			
+			<p>Var kanske også det den deiligste stund, dengang jeg ikke havde oplevet det som skulde opleves. Denne store stilhed, før livet kommer, og sorgerne, er den det dei- ligste?</p>
+			<p>Hun sad ligeoverfor mig dengang. Hun sa, hun var glad. Det gjorde mig glad, at hun var glad. Men kjendte jeg hendes glæde? Forstod jeg den?</p>
+			<p>Siden kom megen sorg.</p>
+			<p>Men nei! De deiligste stunder, også de kom dog siden. Så forunderlig sammen- satte, rige og tunge af alt det, som kom til, som bragte storme i mig og oprørte mit sind, der før havde 
+været så roligt.</p>
+			<p>Vidunderlige dage, sole og regnbuer midt indimellem det alt!</p>
+			<p>Jeg har ikke tid til kunstfuldt at forme min beretning. Det raser ind på mig, nu da jeg ser tilbage derpå, og jeg må få for- tælle alt for at få ro. Snart er også natten slut. Jeg 
+har allerede hørt én fugl vågne.</p>
+			<pb n="19"/>
+			
+			<p>Jeg vilde fortælle om, hvordan hun, hvis ansigt var gammelt, trist, da jeg så hende første gang, forvandledes, der kom nye træk, der udslettedes rynker, hendes øine fik farve, hver 
+dag gjorde hende yngre.</p>
+			<p>Jeg vilde fortælle om den lykke det var, at dette skyldtes mig. At jeg havde magten tl det.</p>
+			<p>Tilslut var det som hun fordobledes for mig. Pigens tendre slankhed vugged i hendes yppighed, jomfruens håb mod det hemmelig hedsfulde glimted og glimted inde i det an- sigt, som 
+livets sorg havde skrevet sin smerteligt dellige sang på.</p>
+			<p>Det er et vidunder. Og det er så vanskeligt for mig at spore efter, hvordan det rigtig gik for sig, og hvordan det blev så.</p>
+			<p>Og det var så indvævet med tunge, friste ting,</p>
+			<p>Mens jeg sidder her og vil skrive det ned, da strømmer de ind på mig, når jeg vil gjenkalde mig billedet af det foryngede ansigt. Og når jeg vil huske på, hvordan sorgen kom og la 
+glans over lykketimerne,</p>
+			
+			<pb n=""/>
+			
+			<p>da atter ser jeg dette stormende unge i hendes øie, som er det yngste af alt, som er mer end ungdom, ny ungdom, evig ung- dom, ungdom ved lykke, ungdom skabt af mig.</p>
+			<p>Som den kvelden hun havde fåt det silke- slaget. Hun vilde absolut spendere vin. Hun for fra mig uden at si et muk. Ind i en vinhandel.</p>
+			<p>— Madeira! råbte hun.</p>
+			<p>Hun snakked og lo, satte sig på en stol, dingled med benene som en liden jentunge.</p>
+			<p>Der stod en klynge mennesker og talte sammen. Jeg så, de fulgte os med øinene, da vi gik ud. Vi hørte en af dem hviske:</p>
+			<p>— Lykke!</p>
+			<p>(Det var under de tre måneder ved sjoen, de tre måneder, som var en eneste uafbrudt henrykkelse.)</p>
+			<p>Hun kasted hodet bagover og så på klyngen med det gladeste ,ja% i øinene, jeg</p>
+			
+			<pb n="21"/>
+			
+			<p>har set. Jeg glemmer det ikke. Jeg husker også, hvordan de så efter os med et blik, somom de vilde si:</p>
+			<p>— Vi har aldrig set noget så vakkert. Der gives dog endnu lykke i verden.</p>
+			<p>Men jeg mærker, at jeg vil helst tilbage</p>
+			<p>til de strålende øjeblikke. Jeg fortæller ikke det som lå imellem. — — Jeg husker så godt, da jeg så ham for forste gang. Vi mødtes, som man for det meste pleier nm for tiden, på en 
+restau- rant. Han var billedhugger.</p>
+			<p>Jeg har vel neppe nogensinde havt slig pludselig lyst til at lære et menneske at kjende. Lidt efter hvert kom også vi to til at samtale for os selv, vi gled bort fra de andre ved 
+samme bord.</p>
+			<p>(Der er så lidet orden i min beretning. Jeg må fortælle, at dette var adskillig tid før de fire måneder. — Det var fire ialt.)</p>
+			<p>Aldrig har jog sådan fornummet, hvor- dan et andet menneske kan gi ord til dét, en</p>
+			<pb n="22"/>
+			
+			<p>selv endnu famler efter ordet for. Der er næsten noget pinligt deri, fordi man dog kanske helst selv vilde finde frem til ordet.</p>
+			<p>Vi talte ikke om kunst. Heller ikke om kvinder.</p>
+			<p>Jeg husker bedst det han sa, idet det elektriske lys netop holdt paa at blaffe og restauranten pludselig blev mørk. Siden gik vi ud og gik længe om på gaderne.</p>
+			<p>— Vi savner ærbødighed, vi savner ærbødighed! Har vi kanske ærbødighed for solen? — sa han, idet det elektriske lys gik ud, og vi reiste os og spasered snak- kende gjennem den tomme 
+restaurant.</p>
+			<p>— Solen, som står op igjen i alt det lys og alle de former af lys vi ser om</p>
+			<p>Har vi ærbødighed, — vi var kommet ud på gaden, og nogle omstreifende kvinder gik forbi 05, — har vi ærbødighed for 'en kvindes smil?</p>
+			<p>En kvindes lykkesmil, en kvindes lykke- smil... Å nei, nu har vi holdt os kvinderne fin livet hele tiden, og vi taler kanske</p>
+			
+			<pb n="23"/>
+			
+			<p>bedst om dem, når vi ikke taler om dem. Jeg vilde bare sagt:... Hvormange gange vender en kvindes lykkesmil tilbage?</p>
+			<p>Han var af dem, som gir mer i tonen og takten end i selve ordene, som ved en liden pause pludselig får sagt tingen, får sagt det, der er det inderste individuelle, som man brænder 
+efter at få sagt.</p>
+			<p>— Og så skulde vi ikke ha ærbødighed før det øieblik, det er der, smilet, — så skulde vi ikke kaste os på knæ og kysse kvindens fod, mens hun smiler!</p>
+			<p>Vi gjør ikke det. Vi har ikke ærbødig- hed.</p>
+			<p>Den højeste autoritet i verden er det dellige.</p>
+			<p>Det er en dårlig magthaver for tiden. ++ Ja det har vel kanske altid været skralt med det enevælde.</p>
+			<p>Ærbødighed .. hvad er det jeg mener med det?</p>
+			<p>Jeg mener for exempel vi skulde ha ærbo- dighed for os selv. Vi skulde ikke pine os</p>
+			<pb n="24"/>
+			
+			<p>og finde ud alt det vonde og file vi finder ud om 05.</p>
+			<p>Vi har ved gud ingen ret til at pine os, vi har ved gud ingen ret til at pine os selv, mer end vi har ret til at pine ,andre.</p>
+			<p>Ved gud om vi har!</p>
+			<p>Han blev heftig, knytted hånden, og syntes at glemme mit nærvær.</p>
+			<p>Det var længe efter, at han sa:</p>
+			<p>— Og vi kan pine andre tildøde ved vor selvpinsel.</p>
+			<p>Han sa det så dæmpet, og han sa ordet »tildøde" så langsomt og sorgfuldt.</p>
+			<p>Og han tog mig idetsamme i hånden og så farvel og gik.</p>
+			<p>Da jeg var gåt fra ham, var jeg i en underlig, ny stemning. Og med engang stod Rebekkas billede (vi kaldte hinanden forresten aldrig ved navn, jeg syntes ikke hendes passed på hende, 
+hun syntes ikke mit passed på mig) så tydelig for mig, og</p>
+			<pb n="25"/>
+			
+			<p>det var det sælsomme: tydeligere end når jeg havde set på hende selv. Og jeg havde dog holdt hende i min arm og set meget længe og nøingtig på hende.</p>
+			<p>Hun var blit som en ny inde i mig. Og et spørsmål var kommet op: Hvem er hun?</p>
+			
+			<p>Det var længe, før jeg sov ind, og jeg Ii og tænkte ustanselig på hende. For- underlige tanker. Jog syntes ikke jeg havde set hende endnu. Havde jeg folt nedad hendes kjolebryst? 
+Havde jeg virkelig Ingt mærke til hendes hånds tryk?</p>
+			<p>Og det sused i mig som en svag blæst: Hvem er hun, hvem er hun?</p>
+			<p>Vilde jeg vide hendes fortid? Nei. Vilde jeg vide hvor gammel hun var? Nei. Vilde jeg vide, om hun havde kysset andre, og hvem? Ni.</p>
+			<p>Det var ikke det, jeg vilde vide. Hvem er hun, langt, langt derinde?</p>
+			<p>Og — hvis er hun? Er hun da min?</p>
+			<pb n="26"/>
+			<p>…</p>
+			<p>— Og. Der sneg sig om i mig ligesom en gryende morgenrøde: Hvis hun var min! Hvis nu hun virkelig var min!</p>
+			<p>Havde hun da ikke sagt, at hun var min?</p>
+			<p>Jo. Det havde hun.</p>
+			<p>Men kunde det være muligt? Havde hun ment det slig? Havde jeg da aldrig tænkt på, hvor det vilde være fagert, om hun var min? Hvor alle stjerner måtte skinne, hvor solen måtte være 
+til!</p>
+			<p>Jeg vågned op senere på natten. Jeg overrasked mig selv i at si højt: Hun har grædt, Hvorfor er det hun gråter?</p>
+			<p>Jeg tændte lys og stod op. Hun havde bragt mig roser, en gul og tre røde.</p>
+			<p>Jeg havde jo ikke set på dem, set hvor vakre de var!</p>
+			<p>Hun havde bragt mig dem. Mens jeg var ude, havde hun sat dem i mit vand- glas.</p>
+			<p>Jeg tog roserne, en for en, og kyssed dem.</p>
+			<pb n="27"/>
+			<p>19 Og jeg tog glasset og flytted det hen ved sengen.</p>
+			<p>Duften gjorde mig ikke ondt. Men jeg kom ind i sterke og såre dromme,</p>
+			<p>Et par dage efter dette var hun hos mig. Jeg fortalte hende om det nye be kjendtskab. jeg havde gjort. Jeg er af dem, som, når de holder af en kvinde, har en higen efter, at hun skal 
+lære at kjende og holde af alt og alle, de holder af. De mænd, jeg ellers i den tid var sammen med, havde jeg vel ikke fundet såmeget ved, at jeg havde følt denne higen. Det var ander- 
+ledes med ham. Han havde gjort et sterkt indtryk på mig, og jeg kunde ikke tænke mig andet, end at hun vilde glæde sig ved at møde ham.</p>
+			<p>Jeg foreslog, at vi skulde være sammen næste aften, spise sammen og drikke vin sammen. Jeg så allerede i fantasien den dellige stemning, der vilde opstå, ved at vi tre var sammen, 
+hvorledes livet vilde samle</p>
+			<p>F</p>
+			<pb n="28"/>
+			
+			<p>sig som i et brændpunkt hos os tre i den stund. Jeg så for mig hvordan hun vilde sidde og høre spændt på ham, og hvordan jeg selv vilde da sidde og glæde mig ved hendes øines spil, 
+når hun fulgte hans ord.</p>
+			<p>Jeg overraskedes ved, at hun afbrød mig med et kyssende nei.</p>
+			<p>Jeg trængte ind på hende. Jeg kunde ikke tro, at det var hendes mening. Det var måske blot et lidet fint koketteri, eller kanske en slags træghed ved at stifte et nyt bokjendtskab.</p>
+			<p>Men hun svarte på alle mine grunde med et kyssende nei.</p>
+			<p>Jeg talte videre om ham, mer og mer varmt og beundrende. Hun sad og så på mig med et blik, jeg ikke for havde set hos hende, så dybt.</p>
+			<p>Tilslut kasted hun sig på knæ foran mig, rakte mig begge hænder og sa, — næsten som i angst:</p>
+			<p>— Å bed mig ikke mere, kjære.</p>
+			<p>Jeg havde aldrig set hende som efter denne samtale. Eller var det, fordi jeg selv</p>
+			<pb n="29"/>
+			<p>Et</p>
+			<p>var begyndt at se anderledes på hende? Ansigtet var så dellig varmt, der var en sådan teus dybde i oinene.</p>
+			<p>Da hun skulde gå, satte hun op sit hår foran speilet. Jeg droges mod hende. Vi så begge vore ansigter i speilet. Hun så mit. Jeg så hendes,</p>
+			<p>Var det en tåre, der var i hendes øie? Eller var det et lykkesmil?</p>
+			<p>Jeg var mu meget sammen med Bredo, billedhuggeren. En egen sympathi drog os sammen. Talfald følte jeg den for ham. Der var noget hos ham, som jeg ikke havde fundet ved andre, og som 
+gav mig en for- nemmelse af, at det jeg kunde føle, se og tænke, ikke var bare særheder, som ikke kunde være til hos andre end mig, men at det samme kunde skjælve også i andre 
+menneskers bryst, måske i nogen af de bedste, dem hvom livets musik griber sterkest.</p>
+			<p>Det var mig også så velgjørende, at der</p>
+			<pb n=""/>
+			
+			<p>ikke forudsattes mellem os noget af dette man kalder , venskab". Vi talte aldrig om de rent privato ting. Jeg kjendte ikke en- gang hans bosted, og han ikke mit. Mødet mellem vore 
+personligheder var så naturligt, så ubvungent, og der var i vor omgang så megen respekt for det hos hinanden, en vil ha for sig selv. Han gav mig ingen af disse særlig sterke håndtryk 
+der forpligter. Man spørger sig, når man går ind til sig selv: Hvad betød det egentlig. Hans hånd- tryk kom blot, når der var noget, der havde bevæget ham, eller bevæget os begge.</p>
+			<p>Han kunde si ord, der bragte mine tanker ind på baner, jeg havde ledt efter. Jeg kunde si ting, der var ham som mæng- lende led i en kjæde, han sysled med.</p>
+			<p>Det var som naturen blev større og helligere om os under vort samvær, vort liv fik en pludselig lysbrydning over sig, der gjorde det til det eventyrlige, enhver ønsker, at ens liv 
+skal være. Og når vi gik fra hinanden, var det som med engang det hemmelighedsfulde stod mellem os, —</p>
+			
+			<pb n="31"/>
+			<p>El</p>
+			<p>det hemmelighedsfulde, der dog er i livet, Dag livet og omkring det.</p>
+			<p>Jeg husker så godt, når jeg kom hjem på mit værelse efter vore spøsereture, og stod og famled efter fyrstikkerne: Tingene fik et skin om sig fra det evige, jeg sa til mig selv: Her 
+bor du, her er dit værelse, hvor du tilbringer en del af dit jordliv, hvor en tid dine åndedrag samler sig.</p>
+			<p>Så var det jeg kom på hans atelier. Jeg vilde helst fortælle det på en anden måde. Om det var muligt, i musik. Det smerter mig at skulle finde ordet, det noi- agtige udtryk for alt. 
+Er det ikke at for- doble en smerte? Og er det ikke en synd at gjenta det som var? Det som var, det var, det blinked og forsvandt!</p>
+			<p>— Han viste mig først sine tidligste arbeider. De gjorde intet indtryk på mig. De syntes mig en kun halvt sammensmeltet blanding af påvirkning og vage forsøg på</p>
+			
+			<pb n="32"/>
+			<p>Er</p>
+			<p>at finde frem mod et jeg, der endnu ikke var dukket rigt op af livets bad.</p>
+			<p>Men så kom der noget ind i det, han havde gjort. Det var først et hode. I det samme jeg så det, stod med engang for mig den første aften vi havde været sam- men, — ikke såmeget vor 
+samtale, som heller det der foregik i mig selv, efter at jeg var kommet hjem. Hvordan jeg havde sagt til mig selv: Hun, Rebekka, er blit ny inde i mig!</p>
+			<p>Alle hans ting var forskjellige, høst forskjellige, motiverne forskjellige, ansigterne forskjellige. Der var både glæde, sorg og grubel. Men mig blev altsammen ét.</p>
+			<p>Der var en kvinde der vil kysse. Det er som hele hendes legeme vil samle sig i kysset, hun vil kysse, som en tiger springer på sit bytte. Det er som hendes læber siger uden ord: Nu 
+vil jeg kysse, nu vet jeg ikke om jeg i mit liv kommer til at kysse flere gange, og derfor vil jeg kysse, — jeg vil, jeg vil.</p>
+			<p>Jeg følte et pludseligt stik i hjertet. Jeg</p>
+			<pb n="33"/>
+			
+			<p>havde aldrig før havt en lignende fornem melse. Var der andre end hun, der vilde kysse sådan?</p>
+			<p>Havde hun, Rebekka, ståt der borte i krogen, ladt sine klær falde, sådan som modeller gjør? Den eneste kvinde jog havde holdt i mine arme, var der en anden, som kjendte alle hendes 
+træk, kjendte dem bedre end jeg, — hendes bevægelser, å hendes bevægelser, som når hun strøg håret til bage sån — eller når hun slynged brystet ind til mig sån! — Ja! Nu stod de med 
+engang for mig, alle!</p>
+			<p>Ja hun var der. I alt dette ler. Hvor forskelige end ansigterne og lemmerne var, så var der dog altid deri noget af hendes legemes sjæl, hendes lemmers melodi.</p>
+			<p>Jeg kunde ha villet le ud, gråte, gjemme mig bort. Og dog blev der mig en slags selvpinende nydelse i at stå og se, finde igjen en linje her, som jeg selv havde set, en anden linje 
+der, som jeg endnu ikke havde set, men som jeg vidste var hendes.</p>
+			<pb n="34"/>
+			
+			<p>Jeg gik længe om. Som i ørske. Jeg sansed ikke, hvor jeg gik.</p>
+			<p>Pludselig kom en tanke op: Det var min fantasi, som legte med mig. Jeg var ikke sammen med andre kvinder end Re- bekka, i lang tid havde alle mine tanker dreiet sig bare om hende. 
+Jeg så hende i alt.</p>
+			<p>Jeg kjendte så lidet til kvinder. Der kunde være dem, der ligned hende, der havde de samme. bevægelser. Og kanske var der hos Bredo og mig noget fælles, der gjorde, at vi så det 
+samme hos kvinden.</p>
+			<p>Jeg var kommet ud mod fjorden. Den havde on af sine stille timer. En følelse af dellighed greb mig: Jeg så hende i alt! Jeg fandt hendes bevægelser i alt jeg så. Alle kvinder blev 
+til hende. Hele verden var hende.</p>
+			<p>Det dybe øie, hvormed hun havde set på mig! I naturen, i kunsten, i manden, i altet var der ét, hvorfra alt stråled ud og flod tilbage — det øie!</p>
+			<p>— Jeg sad på en bænk, mens jeg tænkte</p>
+			
+			<pb n="35"/>
+			
+			
+			<p>dette. Med ét faldt det mig in denne bænk vi sad på, første gang vi kyssed hinanden.</p>
+			<p>Hvorfor netop den? Hvordan var det gåt til, at jeg uden at sanse det netop var kommet derud?</p>
+			<p>Hun havde søgt:</p>
+			<p>— Som du kysser ingen i verden.</p>
+			<p>Jeg fik atter et stik i hjertet. Hun havde tænkt på nogen. Hun havde husket andre kys. Måske på samme bænk havde hun kysset nogen anden. På samme bærk kanske!</p>
+			<p>Havde jog da nogensinde tænkt mig, at bun ikke for havde kysset, at hun ikke havde elsket? Hvad var det, der var blit af mig? Hvorfor vælted jeg alt dette om i hodet mit?</p>
+			<p>Hun var kommet til Jeg havde tat hende ind til mig. Og jeg havde jo netop tænkt: Hun har måske elsket og er blit skuffet, er blit såret deri. Jeg havde været stolt netop over det, at 
+hun kunde</p>
+			
+			<pb n="36"/>
+			
+			<p>lægge sit hode så trygt mod mit bryst, uden at jeg stilled hende et eneste spørs- mål, uden at der for mig var nogen fortid.</p>
+			<p>Jeg havde jo villet, at der hos mig skulde være bare nu, et stort, delligt mu, deiligere og delligere, alt eftersom denne følelse nådde hende og trængte ind i hende og varmed hende 
+op i hele hendes indre.</p>
+			<p>Det havde vistnok ikke været klare tanker, kun instinktivt. Det var nu, jeg så, at slig havde jeg villet det.</p>
+			<p>— Hvergang min hånd streifed bænken, hvor hun havde siddet, hvor hendes kjole havde foldet sig, kom stikket: Det var hende, som var i det ler, kun hun havde den sjæl i armen.</p>
+			<p>Jeg havde spurgt ham, om han ikke havde havt en og samme model til de fleste ting. Han havde sagt:</p>
+			<p>— Jeg tror hun er kommet ind i mange ting mig uafvidende.</p>
+			<p>Der var noget ved disse ord, som pinte mig. Jeg havde ikke tænkt over, hvad han</p>
+			
+			<pb n="37"/>
+			
+			<p>mente, da han sa det. Men tonefaldet havde sat sig fast.</p>
+			<p>De forfulgte mig hine ord.</p>
+			<p>Hvorfor havde denne mand straks fra første oieblik draget mig san uimodståelig? Om det kanske netop var, fordi hun havde været i hans liv, formet i ham, lagt sjæl i</p>
+			
+			<p>hans arbeider, (Og det hemmelighedsfulde, som der under- tiden kom mellem 03, — det var hende.</p>
+			<p>Det var hende, jeg uden at vide det, havde søgt hos ham, — gjenlyden af hendes stemme, jog havde søgt i hans ords klang, — gjenspellingen af hendes sind, jeg havde søgt i hans 
+vekslende stemninger.</p>
+			<p>Hvis det var så, måtte jeg så ikke hade ham? Mitte jeg ikke hade hende, som ikke var åben mod mig? Måtte jeg ikke hade hele livet, som brugte mig til at spille tering med?</p>
+			<p>Noget af det, som gjor os til mænd i livet, kom mod mig ud af alle disse tyngende</p>
+			
+			<pb n="38"/>
+			
+			<p>tanker. Man blir pludselig var noget der er udenfor en, noget der er hojere, sterkere end en selv, det rører ved en, det blir ens eget, og en blir selv sterkere end on var før, og 
+rigere, sorgfuldt rigere, glad rigere, alt eftersom lodderne falder.</p>
+			<p>Der er noget sterkt i dette: ikke at ta afgjørelse, ikke at udtale for sig den be- stemte dom om det som møder em. Det er som man selv forsvinder ligeoverfor det mangfoldiges 
+storhed, — og blir selv større, idet man lar det store drage gjennem sig istedetfor at lukke det ude.</p>
+			<p>Det er san vanskeligt at forklare. Der er ting, man ved at bruge do rigtige ord kan få andre til at forstå, — men der er også enkelte ting, som trods alle ord ikke kan forstås uden 
+at noget lignende er op- levet,</p>
+			<p>(Jeg filosoferer måske for meget. Men når jeg mu sidder og søger at se det hele for mig, hvordan det væved sig sammen, da er det jeg ser, hvordan det usynlige la islet ind i det 
+synlige, og hvordan det, der</p>
+			<pb n="39"/>
+			
+			<p>voksed op og blev til det store flammende, netop var det som lå bag, og ikke det som let kan fortælles, og det blir mig en vemodig tilfredsstillelse at se, hvordan det alt i dyb- den 
+gik til).</p>
+			<p>— Jeg følte, at jeg vilde ikke kunne hade eller anklage. Istedet fyldte mig on underlig, sorgblandet forventning. Hvad vilde skjæbnen bringe?</p>
+			<p>Jeg blev som on kirke med stor lyd- favn, der står og venter på salmen. Det kan bli on bryllupssalme, og det kan bli en sørgemesse.</p>
+			
+			<p>Denne forventning behersked mig aldeles, den næste gang hun var hos mig. Jeg havde aldrig været sådan mod hende. Hun vilde kysse mig. Jog gik fra hende. Hun bad mig af tale. Jeg 
+tous.</p>
+			<p>Jeg satte mig i et andet hjørne af værcl- set. Og jeg følte dog, at denne adskillelse var større end nogen i verden.</p>
+			<p>Alt i mig droges mod hende. Mer end</p>
+			<pb n=""/>
+			<p>æ</p>
+			<p>nogensinde. Jeg vented på noget der skulde komme, noget der skulde tænde al varmen i mig. Jeg vilde favne hende, som jeg al- drig før havde favnet hende, og jeg gjemte mit blik. Jeg 
+vilde lægge en blødhed i ord og stemme som aldrig i mit liv, — og jeg tied.</p>
+			<p>Jeg følte, at der foregik noget i hende. Mens alt i mig higed efter at tænde hele mit selv, hele mit liv til et glodende blus, havde jeg en anelse af, at det hun følte stramme mod 
+sig, det var isende, åræbende kulde.</p>
+			<p>Jeg kunde kjende i mig, hvor hendes ansigt skifted smertelig. Jeg havde en inderlig lyst til at so hendes træk. Men jeg tvang den tilbage.</p>
+			<p>Længe før hun udtalte de ord, som jeg nu gjengir, var det som det skjelv og gråt i mig: Nu vil hun tale, nu kjæmper det i hendes bryst, hun kan ikke få ordene frem, hun presser dem 
+frem:</p>
+			<p>— Vil også du pine mig?</p>
+			<p>Hun sa det lavt, meget lavt, med en</p>
+			
+			<pb n="41"/>
+			<p>ES</p>
+			<p>klangløshed, somom hun selv var gåt bort fra de ord, hun udtalte. Hun riste sig derpå langsomt. Jog forstod, at hun havde besluttet at gå.</p>
+			<p>Men idet det forvirret stormed i mig, alt det, som havde forfulgt mig i den sidste tid, gled væk, alt det, som havde været hos mig fra først af, kom igjen, — løb jeg did- hen, tvang 
+hende ned i sofaen, In mig på knæ foran hende, råbte, hvad jeg for ikke engang havde hvisket:</p>
+			<p>— Jeg elsker dig, jeg elsker dig, om dagen og om natten, jeg elsker dig til vanvid.</p>
+			<p>Hun hørte på mig, stille, med stille øine. Hendes bryst gik hoit, mens jeg sa ordene, og længe efter. Så kasted hun sig heftig i mine arme og gråt som aldrig for. Men midt under 
+tårestrømmen reiste hun sig op og sa, somom hun vilde lægge betydning i ordene:</p>
+			<p>— Nu gråter jeg ud alt hvad jeg har levet.</p>
+			<p>En stund efter sa hun</p>
+			
+			<pb n="42"/>
+			<p>ax</p>
+			<p>— Så skal jeg aldrig gråto mere.</p>
+			<p>Derpå stansed hendes gråt. Og — — hun sovned ved mit bryst, der vi sad!</p>
+			<p>Jeg sad og holdt hende, som man holder et lidet barn. Jeg sad og så mig om i værelset og hørte på hendes ånden.</p>
+			<p>Så var der en hed kind og et blødt, vådt kys. Hun var halvvågen.</p>
+			<p>Så en stund efter:</p>
+			<p>— Å, det er jo dn alligevel! Jeg var så bange, at jeg ikke var hos dig.</p>
+			<p>— Det blev den sidste gangen jeg så hende gråte.</p>
+			
+			<p>Jeg havdo siddet ligeoverfor hende, kold og fremmed, som om hun var noget mig uvedkommende. Og netop lige efter var det, det var kommet.</p>
+			<p>Hvordan var det gåt til? Jeg forstod det ikke. Jeg vidste bare, at da hun vilde gå, så stod det for mig som en ildskrift Hun må ikke, må ikke gå. Og så havde</p>
+			<pb n="43"/>
+			
+			<p>jeg sagt det. Som on orkan var det brust ud af mig, at jeg elsked.</p>
+			<p>Selve ordet for det, der gjorde mig sår, havde hun udtalt. ,Også du" — ,du ligesom den anden, eller ,de andre".</p>
+			<p>Og netop da var det, det var sket. Netop mens hun nævnte det der havde smertet, var det det skreg i mig: Jog må — jeg vil — kysse hendes klædebon.</p>
+			<p>Det er en af de få gange i mit liv, at jeg har handlet uden at vide forud, hvad der skulde ske, ligesom drevet af ukjendte magter. Man føler noget vidunderlig delligt ydmygt derved. 
+Der flyder en let, sitrende varme ned over ens skuldre og ryg efterpå, og det er somom hjertet ikke ligger hårdt I brystet, men i et leie af æther,</p>
+			<p>Værelset var blit til et tempel, hvor de ordene havde lydt. Alt gled hen i en må af lykke, en lykke, som hviled inde i en stor tåre.</p>
+			<p>Og for jeg sovned fik jeg et så vakkert syn, hvormed tankerne endte og drømmene begyndte: Hele verdensrummet var en stor</p>
+			<p>r</p>
+			
+			<pb n="44"/>
+			
+			<p>skjælvende tåre, hvori alle stjerner og sole svømmede.</p>
+			<p>Mon jeg havde ikke ro. Jog kastedes frem og tilbage.</p>
+			<p>Snart droges jeg opover mod atelieret, gik frem og tilbage uden at gå ind.</p>
+			<p>Snart igjen kom der en stor svulmende glæde i mig, en stolt vilje til selv at herske over nuet og gjøre det rigt. Jeg vilde be- skytte hende, værne hende mod alt som havde været og 
+som skulde komme! Havde andre været i hendes liv, var hun så mindre derfor? Var hun ikke blot rigere, hemmelig hedsfaldere?</p>
+			<p>Men ak! så kom atter det andet igjen! Og uden at jeg vidste af det, var jeg kommet derop. Jeg stod i gangen, jeg hørte mit hjerte banke. Det hamred i mig: Dette skulde du ikke gjøre. 
+Dette er ikke vakkert. Dette skulde du ikke gjore.</p>
+			<p>Og imens så gjorde jeg det.</p>
+			<p>Nogle skridt fra døren stansed jog. Ti</p>
+			
+			<pb n="45"/>
+			
+			<p>der lød stemmer. Han var ikke alene. Den anden stemme var hendes.</p>
+			<p>Det gik forbi som et lyn, men jeg glemmer Jeg derude, — han derinde, for hvem jeg havde følt mer end for nogen anden mand, — hendes stemme, den der havde hvisket og talt og grædt i 
+min stue.</p>
+			<p>Kanske stod hun der nøgen. Det som jeg blot havde vovet at ane, som jeg havde syntes det var en brøde at gjætte, det stod derinde foran en andens øine, — ikke foran en mig fremmed, 
+ikke en, hvis blikke kunde prelle af og være ligogyldige. Nei, ind i huden vilde de trænge, hver fold vilde de fange og forstå.</p>
+			<p>Som en drøm var det undertiden kommet over mig, kun om natten, da man overlistes af det, som dagen ikke tør tænke sig: Om hendes legeme nogengang skulde slumre i mine arme. I 
+dæmringen skulde det være til for mig, løndomsfuldt som livets ophav.</p>
+			<p>Hvor var det løndomsfulde, når hun</p>
+			
+			
+			
+			<pb n="46"/>
+			
+			<p>havde ståt derinde i fuldt lys, alt det der der havde hoblet som de lette, vare sæbe» bobler i mine drømme, det var afdækket, hver linje åben, kjendt af en anden?</p>
+			<p>Selv de største kvaler er sjelden ublandede. Menneskets følelse er næsten aldrig en enkelt, hel. Der føjer sig andre til. Og der isprænger sig tanker. Det er måske netop i de største 
+smerter, at de dybeste fødes. Og er det måske det, som gjør at menneskene ikke bukker under i lidelsen?</p>
+			<p>Hver nerve i mig sitred og gråt, det føltes som min brystvæg var fuld af blod.</p>
+			<p>Men på samme tid var det som alle mine sanser var blit så åbne. Jeg syntes jeg kunde so inde i alt, som var, som fødtes, døde, led og frydedes, et net, et guddoms- net. Jeg så, 
+hvordan livet var sammen- tvundet i masker, som intet menneskeøie kan spore trådenes gang i, men vel stun- dom skimte den vældige fantasi i.</p>
+			<p>Det var ikke mange dage siden at alt</p>
+			
+			
+			<pb n="47"/>
+			
+			<p>havde været så stille. Jeg havde ikke tænkt på, at hun kunde bringe mit indre i oprør. Og jeg havde ikke havt end den svageste attrå efter at kjende hendes veie og hæn- delser.</p>
+			<p>Jeg havde været så stolt og sterk. Og mu var jog som ospelovet. Hvergang det atter kom for mig, sådan som jog havde ståt derude, sådan som hendes stemme havde lydt derindefra, så 
+brændte mit bryst, der hvor hendes hode havde ligget.</p>
+			<p>Jeg havde git hende mit hjerteblod, mens jeg havde strøget hendes hår, hun havde suget af mit hjerte. Og jeg havde ikke vidst det.</p>
+			<p>Det var som en verdensomvæltning var sket. Kunde det vel nogensinde nu bli som før?</p>
+			<p>Hun bedrog mig, løi for mig, hykledt</p>
+			<p>Mon hvordan kunde hun så se slig på mig? Og hviske slig ind i øret mit, at jeg var den eneste, hos hvem hver fiber, hun eied, følte sig hjemme, og ikke mistroisk?</p>
+			<pb n="48"/>
+			
+			<p>Jeg droges mod smerten, som man drages mod en gåde. Jeg søgte atter op Bredo. Vi sad sammen langt ud på aftenen. Vi blev mer fortrolige end nogensinde før. Vi sad nær hinanden, og så 
+hinanden dybt ind i øinene, som for at lære at kjende hin- andens hemmelige kummer eller fryd uden at spørge.</p>
+			<p>Pludselig var det, — vi sad og talte om ting der slet ikke vedrørte kvinder, — at han så på mig med et langt blik og så det ene ord:</p>
+			<p>— Rebekka.</p>
+			<p>Jeg mødte hans blik. Jeg spurgte:</p>
+			<p>— Hvad mener du?</p>
+			<p>Han så alter på mig. Så sa han hurti</p>
+			<p>— Å. Intet.</p>
+			<p>Vi sad ligeoverfor hinanden ved et lidet bord. Det var en kafé, hvor ikke byens mere kjendte folk gik. Der var ikke fler end ps tilbage, og lamperne over de andre borde var blit 
+slukkede,</p>
+			<p>Jeg ser det lile bord for mig. Vi sidder</p>
+			
+			
+			
+			<pb n="49"/>
+			<p>"</p>
+			<p>ligeoverfor hinanden. Efter en stunds taus- hed hæver han øiet og siger det ene ord: — Rebekka.</p>
+			<p>Hvem kan forklare det? Jeg havde gåt i frygtelig spænding. Og da han så selv nævnte ordet, så forstilte jeg mig. Jeg kunde ha spurgt, ha fåt vide alt.</p>
+			<p>Og kanske alt vilde ha gåt ander ledes da.</p>
+			<p>Da hun næste gang kom til mig, var jeg taus og kold. Jeg kunde ikke fh et ord frem. Jeg løb ikke som sidst imod hende, da hun vilde gå.</p>
+			<p>Hun så intet. Hendes læber var lukkede. De bævred let. Hendes øine var sænkede, somom de så noget for sig fra et andet sted eller en anden tid,</p>
+			<p>Først da hun holdt på klinken, sa hun med en egen sår stolthed:</p>
+			
+			<pb n=""/>
+			
+			<p>— Jeg går. Og jeg kommer ikke mer igjen. Hun stansed endnu et øieblik, som vented hun noget fra mig. Så sa hun smertefuldt: — Dette skulde du ikke ha gjort!</p>
+			<p>Men da hun var gåt, var det som tusend tårer inde i mig, der havde været frosset til is, smelted, og blodet gjød sig så hedt op langs kindet.</p>
+			<p>Og jeg hørte bare hendes sidste ord og denne klangen af stemmen. Hvad var det den sa? Jog havde ventet forklaringer, håbet, at noget skulde hænde eller siges, som gjorde al uro til 
+intet. Hvorfor vente forklaringer?</p>
+			<p>Hun havde forståt alt. Alt havde der været i den klangen.</p>
+			<p>Var der mon nogen i verden, der havde den klangen, der svøbte sig slig om hjertet mit, så det hvergang slog hølere og højere, somom. det vilde døve alle hjernens pinende tanker?</p>
+			<pb n="51"/>
+			
+			<p>Jeg havde ydmyget hende. Jeg havde ladt hende stå ved døren som en hund. Jeg havde ikke sagt et eneste ord til hende, havde gjemt væk øinene. Også elsked jeg hende jo!</p>
+			<p>Stryge hende over håret! Bare en eneste gang få stryge hende over håret. Jog skulde re det så godt og stilt. Stryge væk alt det, hun havde havt vondt og ækelt i livet, stryge ro og 
+fred ind i hver nerve hos hendet</p>
+			
+			<p>Så var det, der ud af alt dette atter strog mod mig drømmen om det, jog ikke havde turdet tænke mig, men så sår og blød.</p>
+			<p>Og der var i den et begjær mod at vide, så ræd og sitrende. Det var somom det, der skulde komme, måtte være enten døden eller livet.</p>
+			<p>Og jeg skrev breve, hvori alle mine ord la sig på knæ:</p>
+			<p>— Kom!</p>
+			<pb n="52"/>
+			<p>u</p>
+			<p>Å, hvor jeg husker disse dage! Der hændte jo intet nyt, og dog husker jeg dem, mens jeg har glemt store smerter. Nu — da ingen kan komme og banke med sin lille hanskekno — har jeg så 
+tidt endnu den samme hede hævren i mig.</p>
+			<p>Jeg sad der, hvor hun så ofte havde været, og det var mig som vented jeg et nyt væsen. Man drømmer i sin tidligste ungdom om det første kys. Den samme drøm havde jog, men tusend 
+gange heder, tusend gange angstfuldere, mod den kvindes, som ofte havde kysset mig.</p>
+			<p>Om hun slik som i gamle dage, — det var blit som i henfarne tider, — som da vilde pludselig banke Jet med hanskehånd på døren, og før jeg kunde nå den, stå på det lille teppet, hvor 
+hun så mange gange havde ståt, — å det var som en million år siden, — og se på mig, se sådan, — såden — på mig.</p>
+			<p>Det vilde aldrig i verden være som da! Det vilde være noget — noget jog ikke vidste hvad var.</p>
+			
+			<pb n="53"/>
+			
+			<p>— Hvem kan male en mands venten? Det stormer, det raser, det kjæmper mellem det hårde og bløde, mellem manden og kvinden i ham. I det ene øjeblik brusende anklager, i det næste den 
+vekeste ydmyghed. Hun skal få føle, at hun har ladt en mand sidde og gjøre sig til slave af tid og rum for en lumpen kvindes skyld, hun skal en- gang få føle det! Å nei, hvis hun kom i 
+dette øieblik — jeg skulde gjøre det ydmy- geste, jeg kunde hitte på, jeg skulde kysse hendes sko der, hvor den er smudsig, jeg skulde — skulde —</p>
+			<p>Så atter stille stunder, som pauser i en ouverture, da pludselig hvert eneste instru- ment holder inde. Man står udenfor livet. Men sagte begynder det at liste sig om en igjen, i nye 
+former, i nye, forbausende ak- korder. En ser, at en aldrig har kjendt verden, aldrig set sig selv.</p>
+			<p>Og det skyder op i en som et lyn: En må ikke dø, for guds skyld ikke dø endnu! Der er så meget on har og skulde ha git, og ikke har git, — en må ikke dø, — og</p>
+			<pb n="54"/>
+			<p>sl en har ikke set, hvordan tingene ser ud, —. en har jo ikke hørt efter, hvordan det er fuglene kvidrer, — der er linjer i hendes hånd en ikke vet om!</p>
+			<p>Under denne tid sad jeg en dag i par- ken. Jeg havde netop forladt Bredo. Nogle ord, han havde sagt, lød atter og atter for Han havde sagt:</p>
+			<p>— Kvinden er som en guirlande. Hun er i alt, hun er som en farlig vedbende. Hun snor sig om alle mænd og alle huse, Hun vinder sig om éns fod, og han falder, hun krænser sig vakkert 
+om en anden, og han vandrer i duft. Hun undergraver det ene hus, og hun stiger vakkert mod taget på det andet.</p>
+			<p>Og det er altid den samme kvinde. Der er tusen, ja hundretusen mænd i vorden. Men der er blot én kvinde, blot en eneste én. Det er den samme kvinde, som er i alle kvinder, det samme 
+snigende fantom, — der kan gjøre sig så lidet som en mus</p>
+			
+			<pb n="55"/>
+			<p>”</p>
+			<p>— og så vældigt og. vidunderligt som et fata. morgana.</p>
+			<p>Ja et fantom er hun. Ti det som i virke- ligheden er kvinderne, disse lærerinder og disse kasserersker og disse baldamer og disse matroner, — det er ikke kvinden. Kvinden er et 
+fantom, der vandrer usynlig imellem os, på hjerter og hjerner, og har vandret sådan fra urtid af, den evige Eva. Se det er det farlige: Vi gjor den enkelte kvinde til kvinden, — 
+kvinden, fantomet mellem 05.</p>
+			<p>— — Å, (vedblev han sørgmodig) man vet aldrig, hvor hun er! Man tror hun slumrer i ens arme, og så er hun tusen mile borte!</p>
+			<p>— Det var blit tusmørke. Et stykke fra mig sad endnu en barnepige. Et lidet pigebarn legte sig foran hende. En dame nærmed sig. Hun talte til barnet. Hun lofted det og kyssed det. 
+Hun stod længe og så på det. Så satte hun det ned på jorden igjen, mens hun tog op en porte-</p>
+			
+			<pb n="56"/>
+			
+			<p>monnaie, Jeg så hende gi først et penge stykke til den lille, så et til barnepigen,</p>
+			<p>Derpå gik hun. Jeg fulgte efter uden at sanse, at jeg gik. Det var som var jeg ikke længer til. Mine øine hang ved hendes lænder, som de gynged sig, hendes fødder, som de flytted. 
+sig.</p>
+			<p>Hun var forsvundet. Men inde i mig gynged sig hendes lænd, flytted sig hendes fod. Jeg havde aldrig set det slig for. Hun havde blot været i min stue, siddet ved min side.</p>
+			<p>Det gynged og gynged i mig.</p>
+			<p>Fra denne tid har jog fåt en overtro på blomster.</p>
+			<p>Der var hos mig en stor rød tulipanknop, hun havde bragt mig. Selv havde jeg kjobt en hvid hyazinth.</p>
+			<p>Det var en morgen jeg så, at hyazinthen havde bøiet sig henimod den kant, hvor</p>
+			<pb n="57"/>
+			<p>o</p>
+			<p>tulipanen med det gronne om stod. Jeg laved en pinde og støtted den op.</p>
+			<p>Men næste morgen havde den atter bøjet sig, trods pinden, og havde ludet sig ned i det grønne og næsten nået knoppen.</p>
+			<p>Natten derefter sov jeg dårlig. Jog tænkte på Rebekka, og min længsel brændte mig. Jeg følte også sen mer end almindelig sterk duft.</p>
+			<p>Og næste morgen havde min hyezinth nået hondes tulipan, og knoppen havde foldet sig ud.</p>
+			<p>Men samme dag kom hun.</p>
+			<p>Hun kom. Men hun var blit en anden.</p>
+			<p>Der var kommet noget nyt i øinene. Jeg havde trot de var blå. Nu var de dybgrå.</p>
+			<p>Hun holdt hodet på en anden måde</p>
+			<p>Hun, var/blit langsommere, somom hun nod sin lænds vuggen, tausere, somom hun hørte efter hvordan hendes bryst ånded.</p>
+			
+			<pb n="58"/>
+			
+			<p>Der var også noget i hendes øiehår, — et smil, — måske blot en tindren.</p>
+			<p>Hun drog mig, som sjøen drager mid- sommernat. Jeg følte hendes bryst nær mig. Jeg følte, at det var mit, at jeg kunde se det, kysse det. Og jeg voved ikke.</p>
+			<p>Jeg rorte ved hendes brystnål.</p>
+			<p>Hun sænked blikket.</p>
+			<p>En stund efter sa hun, — og det var som ordet skjalv frem dybt nede fra noget dulgt og i mange år gjemt:</p>
+			<p>— Du må.</p>
+			<p>Og jeg voved ikke.</p>
+			<p>— Der var en vidunderlig sart sky over hende, ikke jomfraens, — sælsommere, ræd- dere, dybere.</p>
+			<p>Så kom natten, og vi sank sammen, og jeg kan ikke skildre, hvad det var. Ti for mig var det livet.</p>
+			<p>Så er det, de fire måneder kommer.</p>
+			<pb n="59"/>
+			
+			<p>Der kan vist ingen ha oplevet noget sligt. Hel og fuld lykke er så sjelden. Den er en solmimose, næsten ingen har set.</p>
+			<p>Det blov aften og morgen, og det blev aften og morgen over en stilhed, hvori alt i os kunde synge. Vi sad i timevis med hodet til hinandens hryst for at høre hin- andens hjerte 
+banke. Og det hørtos så stort og sælsomt i huset ved havet. Hun la sig ofte på knæ foran mig og lå sådan, og jeg måtte ikke tale, for hun vilde Jytte til det store dellige, så hun.</p>
+			<p>Selv sed jeg så og lod øinene glide ud- over sjospellet, som veksled under solen, som gik op og ned, — og var det eneste, som veksled.</p>
+			<p>Det var en stilhed, hvori to kan se og hore, hvad en alene ikke ser og hører. Det var engang vi syntes, vi hørte solen synge inde i rammets bund.</p>
+			<p>Jeg gav hende mine tanker. Vi gik ude lange kvelde, da jeg talte uden ophør, — om menneskenes liv på jorden, om stjernernes dans, om dødens løndom. Somme-</p>
+			<p>B</p>
+			<pb n=""/>
+			<p>se</p>
+			<p>tider kjendte jeg hendes oine hvile på mig, og jeg syntes, det var så lidet, det jeg vidste. Sommetider følte jeg hendes hånd trykke min, uden at hun syntes af vide af det.</p>
+			<p>Jeg lærte hende at kjende ved navn hver sten på stranden, jeg lod hende se i mikroskopet. Jeg forsøgte at få hende til at skimte livets linjer fra det laveste mod højden, fra det 
+inderste mod periferien.</p>
+			<p>Jeg afbrød mig undertiden midt i. Jeg vidste ikke, om hun hørte mig. Det var som hun gik i en lys drømmeverden, og somom hun blot lod sig omsvobe af min tale som af en fjern 
+menneskelig susen.</p>
+			<p>Å nu, da det er længe siden, nu da jeg sidder og ser tilbage, husker jeg mangen småting, der dengang gik mig forbi. Man er så ofte i livet fordybet i sig selv, man får ikke tid, 
+eller har ikke ro, til at se det som foregår i de andre, selv ikke hos den man er sammen med dag og nat.</p>
+			
+			<pb n="61"/>
+			
+			<p>Netop nu kom det saa levende op for mig, hvordan hun en formiddag, da hun var gåt til speilet for at ordne håret, idet- samme veg tilbage som forskrækket. Så blev hun stille, og stod 
+og så opmerksomt, så og så.</p>
+			<p>Og derpå kom hun løbende. Omfavned mine knæ, kyssed mine klær, mine hænder, krob omkring mig, kyssed mig, hvor det kunde falde sig, rev op min vest og kyssed mig på brystet.</p>
+			<p>Hun bar sig ad som en hund, der har været forvildet og har fundet sin herre.</p>
+			<p>Hun fandt hver dag på noget, der gjorde hende nyere og lysere. Hun stak hele haver af roser i brystet, i beltet, i håret, overalt hvor de bare kunde få plads.</p>
+			<p>Hun begyndte at tale om bamdomsdage.</p>
+			<p>Billeder, der havde været glemte under livets uro, steg op for hende, og med hodet på</p>
+			<pb n="62"/>
+			
+			<p>min skulder sad hun og rulled frem for mig dag efter dag fra den tid før noget havde hændt hende.</p>
+			<p>Hun havde nye udtryk i ansigtet, der ligesom havde været gjemte dybt nedi hendes bryst og mer og mer havde nærme sig lyset og mu stod der i fuld sol. Der kom små toner ind i stemmen, 
+som hun selv lo over, og ikke vidste hvor kom fra.</p>
+			<p>Og det var som det hang sammen alt i en varm velklang. Det kunde se spredt ud den ene dag, men så bandt det sig den næste sammen med noget.</p>
+			<p>Der var en egen betydning i de minder, der kom op, — de kunde dukke frem ud af et kys, ud af et glimt, hun trode at se i mit øie, eller ud af en tone i hendes egen røst.</p>
+			<p>— Jeg husker, så hun. — Jeg ser for mig, så hun.</p>
+			<p>— Jeg husker, hvordan jeg engang — jeg tror jeg var fjorten år — gik ved stranden. Jeg gik og gik, og jeg kom på steder, hvor jeg ikke havde været. Det</p>
+			<pb n="63"/>
+			<p>syntes mig alt som et eventyr, der hvor jeg kom, og jeg gik med en angst.</p>
+			<p>Jeg stansed ofte og pressed begge hæn- deme for brystet. Jeg så ud over havet, og det var med engang blit så uendelig stort — det samme hav, som ikke langt derfra rulled forbi vort 
+hjem, — jeg havde ikke set, at det var så stort, og jeg turde ikke se på det. Og jeg vendte øineno ind mod landet, men det var så uendelig vildt, og bag fjeldene var der et evigt mørke, 
+— og jeg turde ikke se ind mod landet.</p>
+			<p>Så gik jog fremover med hænderne foran brystet og så blot ligeud. Og da var det jeg tilslut så noget lysende blåt foran mig i sandet.</p>
+			<p>Det var en plante, jeg aldrig havde set. Den havde nogle store, blå, kjødfulde blom- ster. Det var et blåt, som var så lyst og silkegtigt, at det var som selve sandet havde skabt 
+dem. Da syntes jeg den planten var så vidunderlig. Og jeg dromte om den hele natten.</p>
+			<p>Og siden — og var I</p>
+			
+			<p>e det rart? —</p>
+			
+			<pb n="64"/>
+			
+			
+			<p>gik jeg i årevis og fandt aldrig den planten igjen, og mer og mer vidunderlig blev den for mig, og jeg har aldrig siden fundet den. Og nu, når jeg ser mig tilbage, er det noget af 
+det jeg husker, mens de store barnesorger er glemte,</p>
+			<p>— Slig kunde hun sidde og småsnakke.</p>
+			<p>Tilsidst var det som hun fordobledes for mig. Inde i hendes yppighed så jeg pigens tendre slankhed bugte sig, jomfruens undren mod det hemmelige glimted og glimted inde i det ansigt, 
+som livets sorg havde ridset sine smerteligt dellige runer på.</p>
+			<p>Det var et vidunder — barndomseven- tyret i moderbrystet. Det rev mig hen som livets eget digt, hvori gråten er latter og latteren gråt.</p>
+			<p>Men de vi havde levet to tre måneder sådan, kom der noget nyt hos mis. Det var undertiden jeg syntes hun gled</p>
+			<pb n="65"/>
+			<p>tå</p>
+			<p>bort fra mig. Jeg kunde holde hende om livet, og pludselig kunde det kjendes i mig, somom jog var blit så ene. Når jeg så så på hende, var hendes øine inde i en verden jeg ikke 
+vidste om.</p>
+			<p>Når jeg gik ud alene, begyndte jeg at Dli rastløs, jeg kunde ikke gå længe. Der greb mig en hygt: Måske var hun nu, i dette øieblik, holdt op at elske mig. Jeg måtte hjem, jeg måtte 
+se på hende, se hende se på mig, føle, at hele hendes væsen ånded mod mig og bare mod mig.</p>
+			<p>I førstningen var dette mig nok. Men lidt efter lidt heller ikke dette. Jeg greb hende heflig og fald af uro om livet, jeg spurgte: Elsker du mig? Jeg spurgte atter og atter: Er du 
+sikker på, at du elsker mig, bare mig?</p>
+			<p>Hun måtte si mig mange, mange gange, at hun elsked mig. Jeg bad hende at kjærtegne mig. Jeg bad hende lægge armen omkring mig, forat jeg kunde føle, at hun var hos mig.</p>
+			<p>En frygt, der kunde stige til fortvilelse,</p>
+			
+			<pb n="66"/>
+			
+			<p>kunde komme over mig, forat hun skulde forlade mig, at jeg en eller anden aften, når jeg kom hjem, skulde finde huset tomt.</p>
+			<p>Det var en aften jeg var mer end al- mindelig urolig. Jeg forlod hende, jeg sette mig ved vinduet og la hodet i mine hænder. Hun måtte komme efter mig, kjærtegne mig.</p>
+			<p>Da var det hun sa endelig, — med en klar, monoton stemme, som siden har lydt for mig hver dag:</p>
+			<p>— Det or forbi,</p>
+			<p>Jeg blev som gal. Jeg sprang op, klynged mig ind til hende, greb om hende, somom jeg vilde kvæle hende, kasted mig ned foran hende, skrog:</p>
+			<p>— Elsker du mig ikke længer?</p>
+			<p>— Mer end nogensinde,</p>
+			<p>Men det er forbi. Det.</p>
+			<p>Der var også en anden ting. Hver fjortende dag reiste hun ind til hovedstaden.</p>
+			<pb n="67"/>
+			<p>so</p>
+			<p>Hun sa det var nodvendigt, og jeg spurgte ikke om grund.</p>
+			<p>Men som uroen voksed hos mig, be gyndte det at plage mig, at jeg ikke vidste, hvad det var hun gjorde, hun, med hvem jeg leved barm til barm.</p>
+			<p>Jeg trængte ind på hende. Hun sa mismodi — Vil du da endelig vide det?</p>
+			<p>Jeg reiser ind for at kysse mit barn.</p>
+			
+			<p>Og alle de gamle kvaler dukked påny op.</p>
+			<p>En tung vemod kom over mig. Hun havde været andres. Der var det af hende, der havde knoppet og blomstret, uden at jeg havde set det og levet med det. Måske noget af det vakreste, det 
+der flygter og aldrig kommer igjen, det havde andre eiet.</p>
+			<p>Og mer og mer tynged det mig: Hendes barn var ikke mit barn.</p>
+			<p>Hvem var hun igrunden? Hvad var</p>
+			<pb n="68"/>
+			
+			<p>det hun havde oplevet? Hvorfor var hun blit skilt?</p>
+			<p>Det var ikke længer som før ikke længer de lange, tause dage.</p>
+			<p>Der var nok stunder, da det sused og sang i mig, og havets bølger var i mig som solfyldte drifter. Da alt atter var helt.</p>
+			<p>Men der var on evig brand og bræn- ding, som så atter kom igjen.</p>
+			<p>Flere gange var det, at hun så på mig med en dyb smerte i blikket.</p>
+			<p>— Hvad er det? spurgte jeg.</p>
+			<p>— Du ser så forunderlig på mig.</p>
+			<p>Der var</p>
+			
+			
+			<p>Det var en dag jeg dreves mod stor- byen, mod menneskemasser og larm. Det var som jeg ikke længer kunde tænke i denne stilhed, hvor hun var overalt, så mit eget jeg blev borte.</p>
+			<p>Jeg reiste. Jeg så mylderet på stationen, med jernvævet over. De store huse i gaderne</p>
+			<pb n="69"/>
+			<p>en så néd på mig som uhyrer med mange øine.</p>
+			<p>Det hvirvlod om mig, øine, stemmer, skridt. Længst ude blev aftenrødmen gjen- nomboret af høie tårne og spå</p>
+			<p>Jeg gik og så på hvert oiepar.</p>
+			<p>Jeg havde ikke vidst af det. Så gik det op for mig, at det var hende jeg så efter.</p>
+			<p>Men i den hele by var der ikke ét an-</p>
+			<p>igt, som havde dét, — dette som det var ligesom min sjæl kjendtos ved fra et forud« tilvær.</p>
+			<p>Os jeg så, at det var hun, som var blit borte for mig.</p>
+			<p>Og jeg begyndte at se hende for mig sådan som hun var, men som jeg ikke havde havt fred til at se hende. Ud af jernnettene og husvinduerne og menneske- fødderne og spirene tvandt sig 
+hendes træk, større og dybere end jeg havde vidst dem, og jeg så dybt i hendes bryst værelser jeg ikke havde været inde i.</p>
+			<pb n=""/>
+			
+			<p>Men før jeg reiste hjem igjen, gik jeg ind på en restaurant, ind i den inderste krog.</p>
+			<p>Det var mig som et rart kobberstik fra gamle, glemte tider. Øl og brændevin kom og forsvandt, opvartere skreg, smørrebrød dansede, mens folk i overtøj snakked, lo, gisped.</p>
+			<p>Så så jeg komme ind ad døren en mand, der ikke gik ganske som de andre. Hans øine gled ud i rummet, og han så ikke på nogen. Han gik foroverbøiet, og det var som om han havde om sig 
+en del af mørket, som han kom fra.</p>
+			<p>Også han søgte sig frem til den inderste krog. Jeg reiste mig. Jeg hilste. Ti det var Bredo.</p>
+			<p>Han så mig ikke i øinene. Han kunde ikke tale. Først da han havde drukket meget, begyndte han. Han stammed, han talte febrilsk, indimellem fyldte han sit glas med brændevin og slugte 
+det i ét drag, idet han sa:</p>
+			<p>— Jeg må drikke. Jeg må drikke.</p>
+			<pb n="71"/>
+			
+			<p>— Hun er borte, så han. — Jeg går og går. Jeg finder hende ikke... Hun er borte. (Han havde aldrig talt sådan om en hende) … Atelieret er stængt.. Jeg kommer der ikke mer... Jeg går 
+forbi om kveldene … om kveldene … mange ganger... Jeg går ikke op... Jeg tør ikke gå op.</p>
+			<p>Det var en nat jeg gik op... Jeg fik</p>
+			<p>ikke fred. Jeg stod op af sengen … . af mit leie... Jeg gik op ad gaderne. .. der var en konstabel som sov, og en pige som var fuld... Jeg kom derop... Det var spøgelser. Mit livs 
+lig… . mit eget livs lig lig. lig. Jeg er sluttet at arbeide. Jeg falder sammen. Menneskene (han så sig om) - menneskene, jeg går blandt dem, fordi jeg hader (han steg i stemmen)</p>
+			<p>Jeg hader (han kneb tænderne sammen, og han så mig stivt ind i øinene med et blik, hvori der næsten var noget vanvittigt) hader . . . jeg hader dette usynlige, som sniger sig om mig, 
+som jeg aldrig kan få</p>
+			
+			
+			
+			
+			
+			<pb n="72"/>
+			<p>[|</p>
+			<p>tag på, aldrig komme i åben kamp mod. jeg hader.</p>
+			<p>(Så slog han om i dyb sorg) Jeg går i parken. Jeg ser på hendes barn. Jeg kjøber sukkertøi til det. Der er noget af hende. Jeg stryger det over håret... En eneste gang... langt 
+borte. jeg så kjolen, — det er bare hun, som går'slik, — hun dreied om hjørnet, — jeg løb, — hun var borte.</p>
+			<p>Vet du, hvad hun heter! Vet du, hvad hun heter! (Han sa det næsten truende.)</p>
+			<p>Å nei... du får ikke vide det. Kan ske finder jeg hende, og da er der bare en eneste i verden, som skal høre mig nævne det navnet. Da skal jeg være god mod hende. (Det var som han i 
+stemmen vilde vise, hvor han skulde være uendelig god mod hende.) Jeg skal være så om, — å hun skal ha det så godt. Jeg skal aldrig være mørk, aldrig mørk.</p>
+			<p>Den tanken, at det håret … det lange håret, som falder sådan nedover som sorg, nedover skulderen og brystet og ryggen —</p>
+			<pb n="73"/>
+			
+			
+			<p>at det snor sig om en anden ... en anden jeg vet ikke hvem... at han suger ind i sig de buerne, drikker de deilige trækkene.</p>
+			<p>Å (han sænked stemmen næsten til hvis- ken) vet du hvad det er: ha inde i sig hver linje af et menneske, sovne ind om natten med en af de linjerne, vågne op med den... og så gå og... 
+gå og</p>
+			<p>(Han tog sig til hodet.) Jeg blir gal!</p>
+			<p>(Så sank han længe hen i dybe tanker. Endelig så han langsomt:)</p>
+			<p>Mon kanske må kunst betales. Kanske må det Promethevsverk her i dødens rige at ville trænge ind i algudens eget taber nakel, — harmoniens hjem, — skabelsens mysterium, — kanske må 
+det bødes med titanens smerte .. . og titanens . . . savn.</p>
+			
+			<p>Jeg reiste hjem samme aften. Men jeg frygted at se hende igjen. Vi tændte tre lys i salen. Vinduerne</p>
+			<p>var åbne. 5</p>
+			<pb n="74"/>
+			
+			<p>Vi sad tanse hver på sin side af bordet. Luften var fuld af minder om kys. Men det var som de blev til sår i mig.</p>
+			<p>Og ude fra havet kom der og la sig over mig en skræk. Jeg syntes jeg så det lige foran mig og følte under mig et grænse- løst dyb, hvor der var en verden for sig nede på bunden.</p>
+			<p>Jeg stod op og lukkede vinduet.</p>
+			<p>Men da blev det værre. Der var blot hun, som sad der, og imellem os en med fortrukket ansigt, som jeg stjal fra og løi for.</p>
+			<p>Og for første gang fik jeg en tanke, som selv under den største uro og tvil neppe havde dæmret: Hun er en slet kvinde.</p>
+			<p>Da følte jeg hendes hånd på mit hode. Lydløst havde hun nærmet sig.</p>
+			<p>Hun var ligbleg.</p>
+			<p>Jeg kunde ikke tale. Som et kuldegys for en ny tanke gjemnem mig: Hun ved- kommer mig ikke.</p>
+			<p>Hun stod en stund. Så gik hun lang- somt ud. Jeg hørte døren lukkes stille.</p>
+			
+			<pb n="75"/>
+			
+			<p>Jeg hørte hende gå ude på gangen. Jeg hørte hendes dør gå op. Så hørte jeg ikke mere.</p>
+			<p>Men da jeg havde siddet en stund, syntes jeg, jeg hørte det gråte udenfor vinduet, og henover sjøen. Jeg lukked op, men derude var det stille, og Karlsvognen og Melke- vejen lå nede 
+på bunden af vandet uden at røre sig.</p>
+			<p>Jeg satte mig igjen. Men atter hørte jeg det gråte.</p>
+			<p>Det faldt mig ind: Hun gråter.</p>
+			<p>Og en stor medlidenhed med — jeg vidste ikke hvad — greb mig.</p>
+			<p>Jeg gik derind. Hun sad der stille. Men hun gråt ikke.</p>
+			<p>Jeg satte en stol ligeoverfor hende. Jeg greb begge hendes hænder og så hende ind i øinene længe uden at tale.</p>
+			<p>Der var noget som en sterk blygsel kommet over hende. Hun slog øinene ned for mig, og hun kyssed mig ikke.</p>
+			<p>Og det voksed for hver aften. Hun havde ikke mere det ildfalde blik henad</p>
+			<p>&gt;</p>
+			<pb n="76"/>
+			
+			<p>nat. Når jeg kom hende nær, fik hun en sitren, somom hun var ræd mig. Gav hun sig så hen, var det så uendelig bange og bævende.</p>
+			<p>Jeg sank hen i et dybt tungsind. Jeg grubled og kunde ikke finde frem. Og det var som noget indi mig vilde rive mig istykker.</p>
+			<p>Jeg kunde sidde og læse, og hun var i stuen, og jeg mærked det ikke.</p>
+			<p>Vi kunde gå hele dagen uden at tale til hinanden, — men så kunde vi mødes i korridoren, og pludselig greb vi hinandens hænder og trykked dem uden at se på hin- anden.</p>
+			<p>Men når vi henad aftenen dreves sam- men i et kys, kunde jeg få en pludselig pinefuld lede derved: Imellem os stod et ansigt, med håret reist tilveirs af kval</p>
+			<p>Når dette hændte, blev hun dødbleg.</p>
+			<p>Så hun det samme syn?</p>
+			<pb n="77"/>
+			
+			<p>Jeg begyndte at gå ud. Jeg spilled billard på byens klub i timevis. Jeg blev en glimrende billardspiller. Det var vist, fordi jog havde så fuldt af andre tenker i hodet, at jeg 
+aldrig follod. Som man i søvne kan gå på tagrender, gjorde jeg, uden at lægge mærke til det, forbausende stod.</p>
+			<p>De mænd, der var om mig, gled bort i en sky, de var som hoder på et maleri. Inde fra kaféen hørte jeg glassene rasle.</p>
+			<p>Men hele tiden havde jeg en forfærdelig længsel hjem igjen. Jeg forestilled mig, hvordan hun skulde komme imod mig, kaste sig om mig, spidse munden, når jeg var langt borte.</p>
+			<p>Hun gjorde det ikke. Det var somom alt var slut. Der var noget stolt, fremmed i hendes øine.</p>
+			<p>Jeg led forfærdelig derved. Men under- tiden følte jeg, at også mit eget væsen for- andredes, at jeg var mørk i ansigtet og hård i stemmen. y</p>
+			<p>Hendes ansigt blev mer og mer sådan,</p>
+			
+			<pb n="78"/>
+			
+			
+			<p>som jeg ikke havde set det, siden første gang jeg mødte hende. Der var kommet en rynke, der havde været borte, der var blit noget slukket ud i oinene, og ofte havde det over panden 
+noget træt, tungt.</p>
+			<p>Jeg glemmer dem aldrig, disse billard- timer. Jeg føler mig undertiden som da ha kridt på queuen, mens hodet vrider sig i ulidelig spørgen. Det var ingen klare tanker. Ingen rene 
+smerter. Undertiden gjorde jeg mig bebroidelser. Det var øie- Dliksvis, at jog så mig selv dybt under mig, ussel og foragtelig.</p>
+			<p>En aften blev dette så sterkt, at jeg af: brod spillet og gik. Det var mørkt, og mit hode var så fuldt af tanker, at jeg så ikke, hvor jog gik. Jeg kjendte græs og stene under mig, 
+og buske omkring mig. Jeg hørte pludselig en bæk sildre, og jeg husked, at det var dér, hun en dag havde drukket af sin hule hånd. Det var da, jeg havde set, hvor smuk den var. Solen 
+havde</p>
+			<pb n="79"/>
+			<p>er skinnet igjennem den. Om aftenen havde jeg kysset alle hendes fingre. Hun havde sagt:</p>
+			<p>— Hvorfor kysser du alle mine fingre jaften?</p>
+			<p>Sådan var hele mit forhold til hende. Jeg vandred i bælgmorke og så intet og følte alt. Men pludselig kunde noget glimte frem, noget skvulpe.</p>
+			<p>Da jeg kom til vort hus, kasted jeg en sten på hendes rude, der lyste. Hun luk- ked op:</p>
+			<p>— Hvem der?</p>
+			<p>— Det er mig.</p>
+			<p>— Å, det er dig.</p>
+			<p>Der var et ckko i nærheden. Og inde fra mørket gjentog det: Mig — dig.</p>
+			<p>Hun gik ind i værelset og kom tilbage og råbte:</p>
+			<p>— Vent, så kommer jeg ned.</p>
+			<p>Hun kom ned. Hendes hår flommed</p>
+			
+			<pb n=""/>
+			
+			<p>om skuldrene. Vi satte os på en sten. Hun sa:</p>
+			<p>— Nu slår jeg håret om dig.</p>
+			<p>Så slog hun sit hår over mig, og jeg gjemtes i det.</p>
+			<p>— Elsker dn mig? sa hun.</p>
+			<p>— Jeg elsker dig.</p>
+			<p>Så slog hun håret tilbage og s</p>
+			<p>— Råb ud over sjøen: Jeg elsker dig.</p>
+			<p>Jeg råbte:</p>
+			<p>— Jeg elsker dig.</p>
+			<p>Ekkoet, som var i nærheden, gjentog:</p>
+			<p>— Jeg elsker dig.</p>
+			<p>— Hører du hvordan det skvulper? spurgte hun.</p>
+			<p>— h.</p>
+			<p>— Hører du hvad det skvulper? Det skvulper: Jeg elsker dig.</p>
+			<p>— Hører du, det blæser? Det blæser: Jeg elsker dig.</p>
+			<p>Så gjemte hun mig atter i håret, og så- dan sad vi. Det var somom hun vilde gjemme mig bort for noget ondt.</p>
+			
+			<pb n="81"/>
+			
+			<p>Om natten vågned jeg. Det var som nogen havde kysset mig på panden. Jeg løRed hodet og lytted. Det forekom mig, at der lå en hund på teppet foran sengen. Jeg hørte det puste. Jeg så 
+efter. Det var hun. Hun lå der og sov med en pude under hodet, i natdragt.</p>
+			<p>Jeg turde ikke vække hende. Jeg tog hende så langsomt og forsigtigt jeg kunde og bar hende ind i hendes seng. Hendes øine var hele tiden fast lukkede. Men må- ske sov hun ikke.</p>
+			<p>Jeg så på sjøn. Der var endnu en brandrød stribe efter aftenen. Jeg strakte op mine arme. Jeg eied livet, skjønheden. En stolthed skjalv i mig.</p>
+			<p>Slik som jeg længted efter morgendagen havde jeg aldrig længtet.</p>
+			<p>Å, det hun havde levet, det hun havde levet udenfor mig, — var ikke også det mit? Når solen kom, vilde jeg gå til hende og spørge, om ikke alt var mit. Og alt</p>
+			<pb n="82"/>
+			<p>Er</p>
+			<p>skulde bli godt. Og det skulde bli som aldrig tilfon.</p>
+			<p>Jog lå længe om morgenen. En livets seiersrus var i mig. Nu skulde det begynde. På tusende nye måder skulde mit væsen slynge sig ind i hendes. Der skulde aldrig mere noget kunne 
+komme imellem.</p>
+			<p>Jeg tog et bad. Jeg klædte mig i mine festklær. Så gik jeg ind til hende.</p>
+			<p>Hun var borte. På bordet lå en seddel:</p>
+			<p>— Jeg er reist til byen.</p>
+			<p>Der var jo intet så forunderligt deri. Men jeg blev urolig, og det voksed udover dagen. Jeg gik omkring somom noget usyn- ligt forfulgte mig. Og uden at vide det, var jeg tilslut 
+kommet til jerbanestationen. Jeg løste billet, halvt sanselos. Jeg steg ind i en kupé. Jeg reiste,</p>
+			<p>Jeg drev op og ned i alle gaderne. Jeg vilde ikke, nei, jeg vilde ikke. Jeg kunde</p>
+			<pb n="83"/>
+			<p>Fi</p>
+			<p>ikke tænke klart, alt hvirvled om i et kaos, skjælvninger, jog ikke kunde si hvad kom af, minder, dunkle, kvalfulde anelser, så igjen følte jog indi det små kys på læben, så ot smil, 
+hun engang havde smilet. Men ind i alt brændte det: Gå ikke, gå ikke.</p>
+			<p>Og hvorfor skulde jeg gå derop? Hvor var det kommet fra, at jeg skulde gå derop?</p>
+			<p>Sådan gik jeg i timevis. Jeg flygted ud i udkanten af byen for ikke at komme i det kvartal. Jeg gik høit op på en højde.</p>
+			<p>Der lå byen, et underligt, mangehodet, mangøiet, af menneskene skabt væsen, i kåbe af damp, pustende røg. Den tog næring fra skibe, fra jernbaner. Telefontråde og telegraf- tråde var 
+nerver, hvori det suste, følte og tænkte, gik med bud. Så stansed øiet: Der var det, der var gaden. Hvilket var det blandt tagene?</p>
+			<p>Så måtte jeg ile igjen. Jeg så intet mer. Jeg bare gik og gik. Tilslut var jog i et gårdsrum, jeg så, at det var et gårds- rum, jeg så mig selv gå op ad trapperne, jeg stod i en 
+gang</p>
+			
+			<pb n="84"/>
+			
+			<p>Så kom jeg til mig selv. Der lød stem- mer. Den ene af dem var hendes.</p>
+			<p>Den ene af dem var hendes. Den kom ud gjennem nøglehullet og dørsprækken, sådan som en stemme kommer fra mørket, Jøst fra alt det som ses. Jeg så hele hen- des sjæl bag den. Aldrig 
+havde jeg hørt den slig, aldrig havde jeg vidst, at jeg elsked den slig, den samme stemme, som havde lydt for mig så ofte, små blinkende lyd, der vinder sig som guldhår om ner- vere, så 
+de blir varme, og de vet ikke hvad det er, de vet hare, at de blir så varme, og har det så godt der inde i den sangen.</p>
+			<p>Hvorfor begyndte jeg på denne fortæl- ling? Å hvorfor begyndte jeg på den? Det or som hjertet atter skulde briste. Jeg trode jeg var blit så sterk og mægtig rolig. Mangegange for 
+vilde jeg skrevet det ned, fordi jeg synes der er noget, som menne- skene må få vide, at de ikke skal gjøre</p>
+			<pb n="85"/>
+			<p>n</p>
+			<p>det så ondt for sig selv, at de ikke skal hade alt det i gråt, som var født til at ha latterglans over sig, — men jeg turde ikke, for hvergang jeg vilde begynde, så tænkte jeg som 
+så: Det kan du godt skrive, — og det, — og det, — — men, når du kommer til det, — til det, da stemmen kom ud gjennem dørsprækken, det sidste du havde af hende, det sidste, kan du da? Og 
+jeg turde ikke.</p>
+			<p>— Atter så jeg i et blåt lyn nettet, nettet, over mig, under mig, mellem os</p>
+			
+			<p>allesammen.</p>
+			<p>Jeg løb ud. Jeg husker, at jeg sa til mig selv: Til Amerika! Til Amerika! Til Amerika! Og jeg vidste vist knapt, at jeg så det. Jeg lob og løb, mens alt drog sig frem for mine øine 
+og gjennem mine øren, som havde hændt. Jeg så hver stund for mig, jog søgte at trænge ind på dybet, finde noget bag, og noget bag, og noget bag dér igjen.</p>
+			<pb n="86"/>
+			<p>7 .</p>
+			<p>Jeg husker, at jeg pludselig så ind i to øine, to barnlige, undrende øine med lys- lokket hår om panden. Det var en kvinde af tusen, det. var måske rent tilfældig, at hun vækked mig 
+af mine grublerier, og dog står hun ofte for mig igjen, pludselig som dengang, og hendes barneøine trænger ind i hjørner af mig, jeg selv ikke vet om. Der kom et øieblik en rar ro over 
+mig: der var en anden verden til, der var noget til uden- for den kvinde, alt hos mig leved i.</p>
+			<p>Og timerne gik. Folk, som var ude, gik hjem i husene. Der blev stille på gaderne, Og der var blot de lysende vinduer. Alt, som jog så, blev så betydningsfuldt, af og til kunde jeg 
+hviske: Der dør nogen dér. — Derinde er der sorg, — det raser inde i et bryst, og ingen vet det.</p>
+			<p>Det var ved midnatstid, at jeg kvak op ved en røst, der virked ubehagelig på mig: — Hvor vil De egentlig hen?</p>
+			<pb n="87"/>
+			
+			<p>Det var on høj, bredskuldret mand.</p>
+			<p>— Ja for De render jo her rundt det samme kvartal uafladelig</p>
+			<p>— Jeg render rundt det samme kvartal?</p>
+			<p>— Ja, det ved gud De gjør.</p>
+			<p>Det forekom mig, at der var ironi i hans ord.</p>
+			<p>— Vil De ikke være med mig ind og ha et glas whisky. Jeg kjender Dem, De er. (han nævnte mit navn). Jeg har længe havt Jyst til at tale med Dem.</p>
+			<p>Hans væsen frastødte mig, men jeg fulgte ham.</p>
+			<p>— Jeg har et værelse her lige i nær- heden.</p>
+			<p>Det var de eneste ord, der blev talt, mens vi gik. Først da vi havde famlet os opover trapperne og var inde i stuen, sa han lige ind i mit ansigt med et forbindt- ligt smil:</p>
+			<p>— Jeg er hendes mand. Var hendes mand, rettere sagt. Vi var for presten sammen, for alteret. De kan tro hun var nydelig i brudekjole, — nydelig.</p>
+			
+			<pb n="88"/>
+			<p>so</p>
+			<p>Jeg vet, at De er … ja hvordan skal jeg udtrykke det. hm... hendes tilbeder for tiden. Hun interesserer mig, må De vide. Og derfor morer jeg mig med at følge hendes …. virksomhed en 
+smule, Tet han sa de sidste ord, rakte han mig en cigarkasse og kom således til at se på mig. Der for en skygge henover an- sigtet hans. Han sa i en noget forundret tone:</p>
+			<p>— Det gjør Dem ondt, at jeg bruger et sådant udtryk? Jeg trode .</p>
+			<p>Jeg ber om undskyldning, hvis jeg skulde ha såret Deres Deres følelser.</p>
+			<p>Som sagt, hun interesserer mig. Hun hører til den type af kvinder, som jeg til lader mig at kalde for — mangfoldige. De er bedst, når man har dem på frastand. Når man koldt kan 
+studere dem. Jeg har beholdt dette værelse, som jeg engang... af visse grunde ….. var nødt til at ha. Det morer mig sådan engang imellem at følge hendes færden.</p>
+			
+			<pb n="89"/>
+			<p>st</p>
+			<p>Men nogen rival er jeg ikke. Jeg skal om ikke lang tid til at gifte mig igjen. Så De kan være sikker, hm!</p>
+			<p>Jeg var også for rå for hende. For rå.</p>
+			<p>Hun sa mig det: Jeg var for rå. Jeg trådte på hendes finere følelser.</p>
+			<p>Si mig: Har De fine følelser? Ja, jeg behøver jo ikke spørge. Men, hm, har De nogengang følt kvindehæl på Deres finere følelser.</p>
+			<p>Å, det er morsomt .. . det er morsomt kan jeg fortælle Dem … det er den højeste vellyst! Den aller, allerhøjeste!</p>
+			<p>Ikke så, at jeg har dem. Jeg er rå, meget rå. Men er det ikke forunderligt, at først da det hele var forbi, begyndte hun at interessere mig sådan ... psykologisk, — da hun, om jeg så 
+måtte sige, havde trådt på mine... hm ., . anden klasses fin- følelser.</p>
+			<p>Efter en pause fortsatte han:</p>
+			<p>— Det er nu alligevel mig, som fik det første af hende.</p>
+			
+			<pb n=""/>
+			<p>æ</p>
+			<p>De kan tro, hun var deilig dengang. Som en røskat") ... som en røskat.</p>
+			<p>Hun påstod, at det var bare kroppen jeg elsked. Det er mu min anskuelse, at det er det eneste, der er mening i. Det er noget forbandet sygeligt det andet. Den unge, friske elskov, 
+det er kroppen det, krop som dras mod krop. Alt det andet bør helst være en lukket bog, la hende ha alt dette med sjælen og det for sig selv.</p>
+			<p>Har De mærket, hvor pokkers ondt det er at glemme? — Denne røskatten, ser De, denne røskatten…</p>
+			<p>Idet han sa dette, gik han til vinduet og rulled gardinet op. Først nu gik det op for mig, at værelset lå ligeoverfor atelieret.</p>
+			<p>— Der er lys.</p>
+			<p>Et spørsmål vilde frem, men modviljen mod at la dette mig så fremmede menneske se min bevægelse, lod mig trænge det til- bage hvergang. Tilslut brød det frem, åndeløst:</p>
+			<p>5 Lækat.</p>
+			<pb n="91"/>
+			
+			<p>— Tror De hun er der?</p>
+			<p>Han så på mig, — jeg vet ikke, om det var medlidenhed eller skadefryd, — så sa han:</p>
+			<p>— Vist er hun der. Det er da fanden gale mig ikke noget morsomt uden.</p>
+			<p>Han begyndte at nærme sig. Han sa:</p>
+			<p>— Si mig .. har De kysset ... har De kysset … ha, det er sådan en nydelig liden uskyldig en... har De kysset … den sidder på venstre side ... har De kysset lige under brystet .</p>
+			<p>Har De kysset .</p>
+			<p>Han var kommet helt ind til mig, han 4 på mig, han bøied sig ind til øret mit, han blæste et ord ind i det, det suser endnu derinde,</p>
+			
+			
+			<p>Jeg husker en nat. Der var ingen, ingen mennesker, uden to, der var bare stjerner. Der er kommet et par skidne læber på.</p>
+			<p>Få</p>
+			<pb n="92"/>
+			<p>ET</p>
+			<p>Jeg kunde ikke reise derned igjen. Lede havde fyldt mig.</p>
+			<p>Men da et par dage var gåt, var der noget som begyndte at vifte henover panden. Tilslut kom der noget blødt etsteds derpå. Hvad var det?</p>
+			<p>Så husked jeg et kys, jeg havde følt engang i drømme. Det vilde ikke bort. Jeg reiste.</p>
+			<p>Hun var der ikke. Hun var intetsteds, Jeg gik langs stranden. Jeg så, at båden var borte. Jeg lånte en anden og rode ud Jeg fandt vor. Den Iå alene og flød. Jeg trak af mig og dykked 
+ned. Tilslut havde jeg hende i mine arme.</p>
+			<p>Der var endm hulningen efter hendes hode i puden, puden, hvor der stundom havde været to hulninger. Jeg kom til at røre ved den. Der gled frem en pak)</p>
+			
+			<pb n="93"/>
+			<p>s</p>
+			<p>Der stod mit fornavn på. Jeg turde ikke åbne den.</p>
+			<p>Jeg gik omkring i alle værelserne. Ingen var hos mig.</p>
+			<p>Jeg kom af og til at stå foran en små- ting, — en hånål, — et bånd.</p>
+			<p>Jeg stod lange tider og så på det. Men jeg turde ikke røre ved det.</p>
+			<p>Jeg vandred om i alle værelserne, uden ophør, dag og nat.</p>
+			<p>Så ringed klokkerne og hun blev be- gravet.</p>
+			<p>Da jeg var blit alene, tog jeg frem pakken,</p>
+			<p>Jeg fandt først et forseglet brev:</p>
+			<p>— Til min datter, når hun blir tyve år,</p>
+			<p>Så en dagbog. Den var kun påbegyndt. Ti kun de første sider var beskrevne. Det var dateret, — lige indtil klokkeslettet, —</p>
+			<pb n="94"/>
+			<p>det var altsammen fra den første tid vi var Kjendt, længe før de fire måneder.</p>
+			<p>Så en stor konvolut til mig.</p>
+			<p>Her følger, hvad en, som nu er død, har skrevet til ham, som måske drev hende ind i døden.</p>
+			
+			<pb n="95"/>
+         </div>
+         <div type="chapter">
+			<head>DAGBOGEN</head>
+			<pb n="96"/>
+			
+			<pb n="97"/>
+			<p>eg har det så godt. Det er så stille.</p>
+			<p>Jeg sidder og ser på den lille lampen og vil ikke mer. Nei, jeg vil ikke mer.</p>
+			<p>Hvorfor kan jeg aldrig få fred for det brystet? Hvorfor skal vi ha bryst, vi kvinder?</p>
+			<p>Der er et ord, jeg aldrig tør hviske uden at skjælve? Det skjælver i mig, så jeg fryser. L—y—k—k—e—n.</p>
+			<p>Ja, jeg fryser. Jeg vil lægge mig. Jeg vil brede over mig den gode, varme dynen. Jeg vil sove.</p>
+			<p>Han. — Kommer det atter listende?</p>
+			<p>Er jeg da ikke færdig med alt det der? Har jeg ikke lidt nok?</p>
+			<pb n="98"/>
+			<p>za</p>
+			<p>Hvorfor trykked min hånd hans? Jeg vidste det forst bagefter</p>
+			<p>Nei — jeg vil ikke mere. Jeg vil ikke.</p>
+			<p>— Jeg kan ikke like hans na:</p>
+			<p>Om det var muligt! Om det var i verden! Det er undertiden, somom hans øine skulde ha set på mig hver nat fra evighed af,</p>
+			<p>— Nei Nei Jeg vil ikke. Det er vansind at tro på lykken.</p>
+			
+			<p>Jeg kan ikke forstå, at jeg har levet, at der har været så mange dage. Det er som tåge alt. Jeg husker bare én ting: At jeg fødte. :</p>
+			<p>Alt det andet er i en tåge. Sovek: meret. Ansigtet, som bøied sig over mig. Uh nei! Jeg tør ikke tænke på det!</p>
+			<p>Og så kom der mange mænd, og breve, mange breve, og blomster.</p>
+			<p>Hvorfor kan jeg ikke få fred for det? Jeg synes det store fipskjægget rører ved</p>
+			
+			<pb n="99"/>
+			<p>on</p>
+			<p>mig igjen. Hvorfor skal det komme op igjen netop nu? Væk! Væk!</p>
+			
+			<p>Jeg hører mine ogne skrig den natten, fødselsnatten.</p>
+			<p>Jeg elsker dig jo, mit barn, jeg elsker dig jo af hele min sjæl. Forråder jeg dig, er jeg utro mod dig? Å, hvad skal jeg gjøre? Jeg må jo leve, mit barn, jeg må jo leve livet! Jeg 
+har jo ungdom, jeg har jo noget delligt inde i mig, som må være til! Å, jeg har såmeget, såmeget!</p>
+			<p>Å, livet er så ondt, det er så vanskeligt, så grænseløst vanskeligt at gjore alting rigtig, sådan som det skal gjøres.</p>
+			<p>Nu er der bare et eneste stort kys til i verden.</p>
+			<pb n=""/>
+			
+			<p>Ingen er som han. Ingen kan det, som han kan. Han luller mig ind som et lidet barn. Og er vi ikke alle små børn i dette store, evige mylder?</p>
+			<p>Hans ord er for mig som de første blå« og violer da jeg var barn. Det er som jeg er til. Min barm går. Op og ned. Det er så varmt og godt. "Tænk, at man kan glemme!</p>
+			
+			<p>Han har skabt mig.</p>
+			<p>Å, hvordan kunde han gjøre det nu? Nu, da alt var blit anderledes i verden.</p>
+			<p>Men han kan jo ikke vide.</p>
+			<p>Det var så ondt. Jeg kunde intet si.</p>
+			<p>»Dette skulde du ikke ha gjort."</p>
+			<p>Det var som jeg snakked i søvne, da jeg sa det.</p>
+			<pb n="1"/>
+			<p>CE]</p>
+			<p>Kjære Tulla! Det er bare hos dig, der</p>
+			<p>er ro. Når jeg sidder og holder dig ved</p>
+			<p>brystet mit, da er der ikke mere. Så</p>
+			<p>savner jeg ikke. Så håber jeg ikke. Så jeg ikke det, som jo ikke findes.</p>
+			
+			<p>PS</p>
+			<pb n="2"/>
+			
+			<pb n="3"/>
+         </div>
+         <div type="chapter">
+			<head>BREVET.</head>
+			
+			<pb n="4"/>
+			
+			<pb n="5"/>
+			<p>skede! I disse nætter, som måske blir mine sidste her, hvor du gav mig livet, vil jeg skrive til dig og forsøge at forklare dig alt. Du forlader mig hver dag, og jeg er stolt, og jeg 
+kan ikke komme til Men om natten, når du sover, kommer jeg til dig og kysser dig på din pande, som jeg elsker. .</p>
+			<p>Jeg har længe anet, at der måtte komme noget. Og fra af du var i byen, vet jog, at jeg må dø.</p>
+			<p>Du har aldrig spurgt mig, om hvad jeg har oplevet, og jeg har aldrig sagt dig det. Jeg vilde det så. Jeg vidste ikke hvorfor. Men når jeg nu sidder her, mens alt er stile, da forstår 
+jog, at det var netop, forat det skulde bli så uendelig stort (jeg tor</p>
+			
+			
+			
+			<pb n="6"/>
+			<p>en neppe tro, det er hændt) at det skulde være så.</p>
+			<p>Jeg vilde være det dellige for dig, som du ikke vidste alt om. Havde jeg fortalt dig alt, da vilde du ha tænkt så meget på det og lagt så meget i det. Jeg vilde være til for dig bare 
+sådan som du så mig.</p>
+			<p>Elskede! Vær vis på, at der har for mig, Rebekka, ikke været andet her i livet end dig, og hvad du gav mig.</p>
+			<p>Du vil kunne spørge efter. Du vil kunne få vide en masse ting om mig. Folk vet jo alt. Du vil få vide, at jeg blev skilt, man vil sige, det var min fell, du vil få vide om mit 
+forhold til Bredo.</p>
+			<p>Å, du vil intet få vide! Folk vet intet. Det som et menneske har levet, det vet ingen. Det, der føles mellem to, har ingen greie på.</p>
+			<p>Og har jeg syndet og gjort ondt, — mod én vet jeg, at jeg har været tro og ren og kysk i hver fiber, som jeg eier, fra jeg vidste, at han var til.</p>
+			<p>0, hvorfor vidste jeg det ikke for!</p>
+			
+			<pb n="7"/>
+			
+			<p>Å, hvorfor går du fra mig? Jeg længes så forfærdelig efter dig? Aner du ikke, hvor jeg pines om dagene, når du er borte fra Hvor er du? Hvad gjør du?</p>
+			<p>Kan du ikke skjønne, hvor det er for- færdeligt, når jeg har levet hver time hos dig så længe, og du lar mig alene? Kan du ikke skjønne, at det kommer over mig alt, og stikker mig og 
+klær mig nøgen og pisker mig?</p>
+			<p>Kan du ikke skjønne, at alt blev ander- ledes hos mig, da jeg mødte dig? Og alt det som har været, det står i veien for min fred og min glæde, og der er blot én, som kan ta det bort, 
+du,</p>
+			<p>Å, hvorfor kommer du ikke ind til mig? Du går og lægger dig for dig selv, — jog hører, når du går op i sengen, — og jeg får ikke se det ansigt, som er alt for mig i verden.</p>
+			<p>Men jeg er aldeles ikke sint på dig, ti du har jo git mig alt, — mig selv har du git mig, — men jeg kan ikke gå til dig. Jeg vilde så gjerne klappe dig, hvis du lider,</p>
+			<p>fr</p>
+			
+			
+			<pb n="8"/>
+			
+			<p>— og du har det vist ikke godt, kjære, — men jeg kan ikke. Jeg er så bange for, at der skal ske noget. Og det må ikke ske, Jeg er så bange for, at du skal spørge. Og jeg er så bange 
+for, at du skal forhåne mig.</p>
+			<p>Det må ikke sket</p>
+			<p>Kjære, jeg føler det somom du pisker mig hele dagen. Og jeg er blit saa liden og foragtelig, og jeg kan ikke forstå, at jeg nogensinde har turdet regne mig for din, og jeg tor ikke 
+gå til dig. Du er så langt borte, du sidder oppe i en tordensky og ser ned på mig. Og hvis jeg kom og kyssed dig, så vilde du støde mig bort fra dig, Og det må ikke ske. Nei, det må 
+ikke sket</p>
+			<p>Å, hvorfor kommer du ikke hjem og er hos mig — det er jo din jeg er.</p>
+			<p>Jeg kan ikke få det bort. De står for mig hele dagen, de ser på mig, de sorg. modige øinene. Jeg føler, at der kommer</p>
+			<pb n="9"/>
+			
+			<p>noget, ja, jeg føler det, det kommer, det kommer. Å, gud give jeg kunde si det til dig, og spørge dig, du som vet alt Men jeg føler, at jeg må ikke.</p>
+			<p>Du vet ikke, hvor det er forfærdelig stile her i huset om dagene. Jeg synes sommetider, at hele havet flyder ind ad vin« duerne. Jeg selv sidder alene og forladt midt inde i 
+verdensrummet med en frygtelig angst. Alt hvad jeg har gjort går forbi mig. Og der er en mørk stemme som spørger: Hvorfor gjorde du det så? Hvorfor gjorde dn ikke det så?</p>
+			<p>Jeg vidste aldrig, hvad jeg skulde gjøre. Det faldt mig aldrig ind at tænke derover. Jeg gjorde det første det bedste. Først da du kom, så stod det med engang for mig: Sådan skulde 
+du ha gjort! Og jeg så, at man kan gjøre hundre andre ting end dem man gjor.</p>
+			<p>Det er en skrækkelig tanke!</p>
+			<p>— Å, jeg kan ikke forstå, at'jeg skal do, før du engang har været god mod mig</p>
+			
+			
+			
+			<pb n=""/>
+			
+			<p>igjen, rigtig god imod mig, som i gamle dage.</p>
+			<p>Der er noget, som er begyndt at for- følge mig, du! Det er så fælt. Jeg kan ikke få det bort! Å, hvad skal jeg gjøre? Hvorfor er du ikke hos mig? Er jeg da fordærvet? Ja jeg føler 
+det. Jeg er for- dærvet. Jeg kan aldrig bli ren mere!</p>
+			<p>— Hans øine var som den evige sorg. Dine er lyse. De kan være tunge. Men når du smiler, da er du det lyseste der er til Når han smilte, 4, det var ikke smil, det var gråt, han smilte 
+istedetfor at gråte.</p>
+			<p>— — Nei jeg tør ikke tænke mer jaften. Mit hode er så træt Nu vil jeg gå ind en stund og sove ved din seng. Det er så godt.</p>
+			<p>Jeg kan ikke mere. Jeg føler, at jeg må gå til ham. Jeg ser intet andet end de mørke, tunge oine. Jeg ser dem overalt.</p>
+			<pb n="111"/>
+			
+			<p>De drager mig. Å, hvad skal jeg gjøre, hvad skal jeg gjøre?</p>
+			<p>Det er så tungt for brystet, jeg kan ikke ånde. Jeg drommer hver nat om ham, jeg drømmer, at han dræber sig, og det døende blik, det sender han mod mig.</p>
+			<p>— — — Å gud, hvad har jeg gjo Hvordan kunde det gå til? Efter alt det dei- lige! Jeg husker ingenting. Jeg vilde blot gå og se ham. Han la hodet sit på fanget mit, han gråt, den 
+sterke manden gråt, så han rysted, han vred sig i pine, — og så tog jeg ham om hodet, — og så, — og så, — jeg husker ingenling, — det var som et evigt mørke, — altsammen var sorg, bare 
+sorg, — for jeg kunde jo aldrig</p>
+			
+			<pb n="112"/>
+			
+			<p>Di din sådan som jeg skulde være, og jeg vilde aldrig mer komme tilbage til dig, for alt er jo blit så vondt, og jeg vilde do, jeg vilde do.</p>
+			<p>Å, tilgiv, at jeg er her igjen, her hvor der er helligt, at jeg går her med fødderne mine, at jeg ser på sofaen med øinene mine. Men hvor hører jeg til i verden, når jeg ikke hører 
+til her? Å, jeg forstår ingenting! Da jeg kom til mig selv igjen, så vilde jeg bare løbe til dig og fortælle dig alt, men hvordan skulde du tro mig, du kan jo aldrig mer tro mig, du kan 
+jo ikke tro noget af hvad jeg siger, hvordan skulde du kunne tro mig, og da kan jeg ikke se øinene dine, øinene dine kan jeg ikke se. Og så vidste jeg, at jeg måtte do, at jeg var din i 
+evighed. vidste jeg, — somom jeg ikke havde vidst det før! Også måtte jeg bare få kysse alle stederne engang til, der hvor du har siddet, og der hvor du har ligget, og jeg vilde liste 
+mig ind om natten, for jeg kan ikke mere se dig i øinene, — når du sov, du skulde</p>
+			
+			<pb n="113"/>
+			
+			<p>ikke høre det, og så var du ikke hjemme, å, hvor er du, hvor er du?</p>
+			<p>Å, jeg kommer på denne stygge tanken, som undertiden kom inde i brystet mit, og jeg vred mig i sengen for at få det bort Bogå en synd, begå en synd mod dig, netop mod dig, og du 
+skulde slå mig, du, ån alene, og jeg vilde ligge på knæ for dig hver eneste dag til jog døde, og be dig om tilgivelse, — dig, — min gud. For jeg kan ikke tænke mig nogen anden gud.</p>
+			<p>Men nu kan jeg aldrig mer se dig. Og jeg vilde heller ikke tåle, ikke engang mu, at du forhåned mig, ikke du. Og jog vilde ikke kunne leve uden at se på øinene dine, sølene mine.</p>
+			
+			<p>Jeg er blovet så rolig. Og mu ser jeg alt så klart, og jeg vil forsøge at forklare dig alt, forat du måske kan forstå bedre hvordan jeg er. Og så vil du måske engang tilgi mig. Ja, 
+jeg vet du vil tilgi mis. For du må.</p>
+			<pb n="114"/>
+			<p>sæ</p>
+			<p>Jeg har været sådan, jeg, kjære elskede, at jeg altid har gåt og trod på noget så umådelig. stort som måtte findes, noget så vidunderdelligt, at on ikke kunde forestille sig det. 
+Lige fra barn af, så har jeg aldrig havt ro, men hvergang jeg tænkte: Nu er det der, mu er det der kanske! så styrted jeg mig ind i det med hud og hår. Men det blev altid til sorg.</p>
+			<p>Da jeg så mødte dig, var jeg så bange, Ti hvordan turde jeg vel tro, at det kunde komme!</p>
+			<p>Jeg vilde ikke tænke på dig. Jeg gjorde i. Men det var som noget tvang mig til at gå til dig, og jeg sik og banked på din dør, og min fod gik mod min vilje.</p>
+			<p>Og så blev jeg så dodsensræd, da jeg forstod, at det var du, hvem gud havde skabt mig for. For jeg kunde jo ikke tro, at ikke alt var for sent, jeg kunde ikke tro, at det hoieste 
+endnu kunde komme,</p>
+			<p>Hver eneste gang var jog så dodsensræd, at du skulde spørge mig om noget. Og</p>
+			
+			
+			<pb n="115"/>
+			
+			<p>selvom du ikke spurgte, så måtte du jo ane.</p>
+			<p>Å aldrig, aldrig kan du som siger, at du intet havde oplevet før, ha folt dette som jeg følte inde i mig, da det så alligevel kom, brevene dine, altsammen. Det var som 
+undergjemninger. Jeg tror sikkert, at jeg har havt det deiligste af os to.</p>
+			<p>For en kamp du må ha havt! Jeg har elsket dig så grænselost derfor, at det har været somom brystet ikke kunde holde.</p>
+			<p>— Men så blev du urolig igjen. Eller var det mig, som blev det først? Var det hos mig, det begyndte? Jeg kan huske, at jeg havde glemt alt, alt. Men så kom det så småt: Jeg havde 
+ikke alt det jeg vilde gi dig. Jog kunde ikke være det jog skulde være. Mit bryst var ikke ungt. Jeg følte pletter på mig ligeoverfor dig og ligeoverfor lykken. Jeg var ikke så høi og 
+delig, som jeg vilde være.</p>
+			<p>Kan du forstå, hvor det var ondt?</p>
+			<p>Og kan du forstå, hvor det var skrække-</p>
+			<pb n="116"/>
+			
+			<p>ligt, at min fortid kunde ikke udslettes? Den vilde altid stå imellem.</p>
+			<p>Å, jeg kan ikke forstå, hvordan du så- dan kunde få mig til at glemme alt. Der var hele dage og nætter, ja hele uger, at der ikke var fnug andet end det. Å tak, takt</p>
+			<p>Jeg er så rolig, Jeg er glad, fordi jeg skal do, og du vil også bli glad, det skal du nok se, for så vil alt bli godt. Jeg er blit fyldt af noget jeg ikke kan sige, jeg synes næsten 
+ikke jeg hører hjemme på jorden længer.</p>
+			<p>Et andet sted, der må det kunne ske altsammen. Ikke sandt, du? Et andet sted må jeg kunne bli ny, skat intet står imellem. Jeg føler det så deiligt og stort og klart, du! Og når det 
+er langt ud på natten, så gjor alt det, som har været om dagene i det sidste, mig ikke ondt længer, det blir så småt, og det var jo hare netop,</p>
+			<pb n="117"/>
+			
+			<p>fordi vi var så forfærdelig glad i hinanden, at det kom.</p>
+			<p>Jeg er jo født for din skyld. Men noget kom imellem. Men så fandt vi jo hinanden. Og så vet jeg om dig. Og du vet om mig.</p>
+			<p>Og så kommer du og finder mig, når jeg er færdig. Du er mand, og du har så- meget at udrette på jorden endnu. Men jeg venter på dig. Jeg er kvinde, og kvinden er til for at gi manden 
+mod og kraft til at gjøre alt det, han skal gjøre på jorden.</p>
+			<p>Og det vil jog gi dig!</p>
+			<p>Jeg tror også, at det er, fordi du har fortalt. mig såmeget delligt, at døden står sådan for mig. Du trode vist ikke, jeg var med i alt det du sa. Men du må ikke tro, at ikke også vi 
+kvinder ser og tænker på hvordan alt er, og forundrer os over himmelen og jorden og stjernerne og døden</p>
+			
+			<pb n="118"/>
+			
+			<p>og alt det som er. Skulde ikke vi det, vi, som har følt inde i os fødselens vidunder?</p>
+			<p>Det var det højeste af alt, når du talte, Da tror jeg, du gav mig det største du kunde gi mig.</p>
+			<p>Jeg hørte ikke hare på dine ord, jeg følte, hvordan du følte det, du tænkte.</p>
+			<p>— Der var såmeget mer jeg skulde ha sagt. Men jeg længes mod det store lys, der skal gjøre mig til en anden. Jeg tvin- der dig af mit hår ot kors, som du finder blandt disse papirer. 
+Jeg vil be dig om at bære det altid nærmest dit bryst.</p>
+			<p>Ja, jeg vet, at du må bli min tilslut. Jeg har tænkt såmeget. Jeg tror næsten aldrig, at cn kvinde træffer den, hun er født for. Der er så mange, en kan elske, men den, en er født 
+for, træffer en næsten aldrig Og så kanske hun, som ikke allerede her finder ham, træffer ham siden, et andet sted.</p>
+			<p>Vi to var født for hinanden. Og netop derfor måtte der ikke være noget, ikke noget imellem os, ikke sandt, du?</p>
+			<pb n="119"/>
+			
+			<p>Korset er mu færdigt. Og jeg selv er færdig. Min kjærlighed følger dig overalt Korset skal fortælle dig, at jeg elsker dig nat og dag med den reneste, høieste kjær- lighed.</p>
+			<p>— — Jeg har kysset puden. Farvel! Vær glad! Jeg er glad!</p>
+			<p>år</p>
+			<pb n=""/>
+			
+			<pb n="121"/>
+			
+			<p>i</p>
+			<p>hvorfor kunde det ikke altid ha været</p>
+			<p>hos mig som hin første tid, da jeg intet andet vilde end at ta hende ind til mig, gjøre det enkelt og godt for hende, få hendes bryst til af bølge roligt, langsomt, godt?</p>
+			<p>Da hun lå der med myrten om hodet, dn havde det med engang skinnet for mine øine: Du var til for at være den, som kunde gi hende fred. Og du pinte hende til- døde.</p>
+			<p>Jeg læste hendes breve op igjen og op igjen, i flere år. Tilslut steg der ro op derfra til mig, en ro som fra selve ovig- heden.</p>
+			
+			
+			<pb n="122"/>
+			
+			<p>Måske havde det alt måttet bli så, fordi jeg var sådan. Havde jeg ikke været sådan, var hun ikke blit drevet til det hun</p>
+			<p>jorde. Men jeg kjendte ikke mig selv.</p>
+			<p>Og så er da måske livet og det, som kommer til en udenfra, blot til for at være som et bugtet speil, hvorpå vort indre ruller sig frem i en mangfoldig, uberegnelig bugtet spiral, 
+indtil man har set endog den fjerneste, skjulteste vrå i sig selv.</p>
+			
+			<p>Jeg har skrevet af det, hun efterlod mig, Jeg har skrevet det af altsammen. Der er måske ting, der kommer op igjen, eller som er uvæsentlige, men for mig er hun i hver linje, og jeg 
+kan ikke kritisere,</p>
+			<p>Jeg har ikke mer at fortælle. Solen er ståt op. Jeg synes, den gloder sterkere og sterkere for hver dag. Jog elsker natten, ti den har som millioner dage i sig. Jeg elsker dagen, ti 
+den er som selve livets rindende strøm.</p>
+			<p>Og som jeg mer og mer nærmer mig</p>
+			<pb n="123"/>
+			
+			<p>evigheden, synes mig solen pragtfuldere og stjernerne nærmere. Jeg føler mit bryst vide sig ud for at modtage det som var og er og altid blir. Bliver da menneskene yngre dag for dag 
+istedetfor ældre?</p>
+			<p>— Nu er folk begyndt at gå nede på gaden. De iler til sit arbeide. Jeg hører træskoene ramle. De tunge arbeidsvogne knager i stenene.</p>
+			<p>Jeg må også gå til mit. Jeg har en mat igjennem skuet mod det, der drog igjen- nem mig og tændte alle mine celler. Jeg har søgt at binde det sammen alt og se.</p>
+			<p>Jeg må arbeide. Men ud af doku menterne stiger stundom en undren: Hvad vil der ske?</p>
+			<p>Ja hvad vil der ske, hvad vil der komme, når vort cellevæv er forbrændt?</p>
+			<p>Forbrændes det for at danne noget nyt, større, herligere, hvortil det som var godt og lyst i jordlivet var emner, — eller er drømmen, drømmen der dukker frem af livets sorg, er den 
+endemålet?</p>
+			<p>Jeg tror, jeg. Hun blev min martyr og</p>
+			
+			
+			
+			<pb n="124"/>
+			
+			<p>min helgeninde. Hun ofred sit liv for vor Kjærlighed.</p>
+			<p>For andre kan jo ikke hendes breve være hvad de er for mig. For mig er hvert ord deri som vingeslag af hvide, store evighedsfugle, og som solstråler fra et hjerte i verdens midte, 
+hvis hede slag aldrig op- hører.</p>
+			<p>Hendes breve er mig en bibel. Der står alt deri. Der er visdom, hvor vel ingen anden kan se den.</p>
+			<p>Det er vel fordi det er mer end skrevne ord for mig. Hun, som jeg har levet de øieblikke med, der lyser over mit liv som planeter, hendes legeme og blod er disse ord.</p>
+			<p>Det vil kanske synes mange en guds- bespottelse. Men hvem er gud? Er han ikke det, vi nærmer os på stjernernes uende- lige trappe, på livenes krystallisering, på sjælenes evig 
+fornyede møde? Måske han vil mindst af alle forarges over, at jeg hver aften kysser i tilbedelse det lille hårkors.</p>
+			<p>Om morgenen, når solen hæver sig over</p>
+			<pb n="125"/>
+			<p>Frej</p>
+			<p>havet i et rødt, som gjorde den det til det blod, der vander jorden, — de fyldes mit bryst af trangen til at skabe, til at drysse om mig for hver jordlivsdag spirer og funker.</p>
+			<p>Om aftenen, når solen går ned i et farverige, somom det blod, den om morgenen såde, havde ynglet, havde gjort én til tusende, havde gjort rødt til alle de millioner nuancer, der er 
+evig glæde i at drysse og føde frem og dræbe og føde påny, — se da, da får jeg denne undren: Hvad er det, det herlige, Jordens skønhed, hendes deilige sjæl spår, at der skal komme?</p>
+			<p>Jeg søger at se og forestille mig. Men mine jordsanser strækker ikke til.</p>
+         </div>
+     </body>
+ </text>
+</TEI>

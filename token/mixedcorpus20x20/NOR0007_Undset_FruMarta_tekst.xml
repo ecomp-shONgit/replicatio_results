@@ -1,0 +1,2531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="NOR0007" xml:lang="nb">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fru Marta Oulie ELTeC-utgaven
+    </title>
+    <author ref="https://viaf.org/viaf/59124011 https://www.wikidata.org/wiki/Q80889">Undset, Sigrid  (1882-1949)</author>
+    <respStmt>
+     <resp>
+      ELTeC encoding
+     </resp>
+     <name>
+      Michael Preminger
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     25802
+    </measure>
+    <measure unit="pages">
+     129
+    </measure>
+   </extent>
+   <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
+</publicationStmt>
+   <sourceDesc><bibl type="firstEdition">
+     <ref target="https://www.nb.no/items/f968e130774818bc763ff7298fb70cab">
+      Bokhylla, nasjonalbiblioteket
+     </ref>
+     <pubPlace>
+      Kristiania
+     </pubPlace>
+     <publisher>
+      Aschehaug
+     </publisher>
+     <date>
+      1907
+     </date>
+     <idno type="wiki">
+      https://www.wikidata.org/wiki/Q11968448
+     </idno>
+     
+     
+     
+    </bibl><bibl type="digitalSource">
+       <author>
+        S. Undset
+       </author>
+       <title>
+        Det norske språk- og litteraturselskap 2007.
+         Sigrid Undset: Fru Marta Oulie.
+        Utgave ved Gry Berg og Liv Bliksrud.
+       </title>
+       </bibl></sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+   <langUsage>
+    <language ident="nb" usage="100"/>
+   </langUsage>
+   <textDesc>
+    <e:authorGender key="F"/>
+    <e:size key="short"/>
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+    <e:timeSlot key="T4"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change><change when="2020-11-15">Checked by checkup
+                script</change><change when="2020-11-13">ran oldCheckUp to update</change>
+   <change when="2010-09-16">ENW 
+    Kodekontroll.
+   </change>
+   <change when="2009-05-24">HB 
+    Kodet opp grunnstruktur og lagt til sideskiftstagger.
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="novel" xml:id="NSL_Undset_FruMarta_tekst_xml_text">
+  <body>
+   <div type="group">
+    <head>
+     <pb n="[1]"/>
+     
+      I
+     
+    </head>
+    <pb n="[2]"/>
+    <div type="chapter">
+     <p>
+      <pb n="[3]"/>
+      
+      . –
+     </p>
+     <p>
+      – Jeg skriver det ned og sidder og stirrer  paa de ord – de er alle mine tanker. – Saadan skrev jeg engang
+      Ottos navn og stirret paa det: Otto Oulie, Otto Oulie, Otto Oulie. –
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Ottos breve kommer saa præcist som tirsdag og lørdag kommer. Han er ved godt mod og skriver, det gaar stadig fremover. Naar jeg har læst dem, sidder jeg altid med den samme skuffelse; de er saa upersonlige: Endda han næsten bare skriver om barna og hjemmet, og saa lidt om, hvordan de lever oppe paa sanatoriet; men det er, som det ligesaa godt kunde gjælde hvilket som helst andet hjem og andre barn.
+     </p>
+     <p>
+      Jeg skammer mig selv over, at jeg tænker paa denslags ting – fæster mig ved hans forretningshaand og forretningsstil – jeg føler jo alligevel i hvert eneste brev, hvor han gaar og længes
+      <pb n="4"/>
+      efter os alle deroppe, min stakkars gut, og er glad i os.
+     </p>
+     <p>
+      Jeg kan forresten ikke heller faa sammen et eneste naturligt og utvungent brev. Jeg skriver ene og alene om barna, men ser selv, hvor daarligt mine breve er skrevne. Det merker vist forresten ikke Otto.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Ottos brev idag var mere trist end noget tidligere. Han længes saa forfærdelig hjem. Han siger, han har siddet hele eftermiddagen og læst mine og gutternes gamle breve og seet paa fotografierne vore. «Jeg kysser billederne af dere alle hver eneste aften; det lille, som
+      Henrik tog af
+      Einar og dig paa hytten, hænger over sengen min, men jeg tar det ned og kysser det hver aften, i det samme jeg slukker lyset.»
+     </p>
+     <p>
+      Han ber, jeg maa endelig komme op til ham i paasken; ja vennen min, jeg skal nok komme. Aa, jeg længes nok efter dig, jeg med, Otto. Men det, jeg længes efter, er
+      det umulige; det er noget, som jeg vilde give mit liv og min sjæl for at gjøre uskeet.
+      Aa, at have en fri, sund, god samvittighed! Der skulde ingenting kunne ta modet fra mig da, nei du skulde faa styrke og haab og livskraft med hvert eneste ord, jeg
+      <pb n="5"/>
+      skrev eller talte til dig, jeg skulde være baade far og mor for barnene, mens du var borte.
+     </p>
+     <p>
+      Jeg skulde ikke havt en eneste tanke paa mig selv da, bare for dere mine kjære, bare for at faa dig frisk igjen, Otto. – Jeg føler mig saa ussel ved det, at jeg altid gaar og grubler og tænker paa mit eget; men jeg kan ikke slippe det et øieblik. Og det er lige vondt idag, som da det var nyt, eller det er værre. Fordi jeg maa bære det ganske alene, slaar det ind, saa det sidder som kræftsaar paa sindet. Og jeg blir jo mindet om det tyve gange om dagen – det er ikke til at holde ud, naar Otto skriver, om jeg nylig har seet noget til Henrik, om han kommer ofte op til os og slig. Han taler om ham i hvert eneste brev næsten. Og saa alle hilsenerne til
+      Aase, «lille søde
+      Minkeba, som far næsten ikke har seet –» han vil altid høre alt muligt om hende.
+     </p>
+     <p>
+      – Gud ved, hvad der vilde hænde, om jeg en dag sagde til Otto: «Aase er ikke dit barn, Henrik og jeg, vi to, som du har trodd aller bedst i hele verden og holdt mest af, vi har bedraget dig; det er Henrik, som er far til Aase.»
+     </p>
+     <p>
+      Jeg ved ikke, hvad han vilde gjøre – jeg kan slet ikke tænke mig det. Jeg ved bare,
+      <pb n="6"/>
+      hans liv vilde være ødelagt i bund og grund, saa der intet var tilbage – hvor skulde han vende sig hen med sin grænseløse, forfærdelige forurettelse. At vi havde forraadt ham, der selv har været saa tro – pinlig tro i hver smaating. Siden vi blev gift, har jeg jo seet, hvor han bare har levet for sit hjem, mig og barna – som vi var hans kreditorer – og hver time, han kunde afse, og hver øre, han tjente, var det vor ret at ta.
+     </p>
+     <p>
+      Han tror vist ikke engang rigtig paa denslags – utroskab og ægteskabsbrud – som paa noget, der kan forekomme inden hans egen horisont. I periferien af hans eksistens forekommer det nok af og til, at en mand har «forført en dame» eller bedraget sin kone, eller har været gift med «et skidt», og Ottos syn paa tingene er saare usammensat, og han siger altid om saadanne tilfælde, at han eller hun burde skydes eller hives i en sæk og puttes i Akerselven.
+     </p>
+     <p>
+      Stakkars Otto – og stakkars mig.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Jeg er begyndt at føre dagbog igjen. – Jeg holdt ogsaa dagbog, dengang jeg var forelsket i Otto, men jeg fik ikke skrevet stort i den; jeg gad ikke sætte mig ned og tænke paa mig selv dengang.
+      <pb n="7"/>
+     </p>
+     <p>
+      I gamle dage blev jeg altid forarget, naar de paastod i bøgerne, at en kvinde bare var lykkelig, naar hun gik op i et andet menneske. Nu siger jeg ja og amen til det, som til alle de andre udtraadte og skjævhælede sandheder, jeg har bestridt i min ungdom.
+     </p>
+     <p>
+      Nu forstaar jeg, hvorfor forbryderen bekjender, og
+      hvorfor katolske kvinder forfalder til at gaa og skrifte. – Jeg sagde engang, jeg skulde kunne begaa et mord og leve videre med min egen samvittighed til medvider og dommer og straf eller benaadning. Herregud, jeg gaar bare og spekulerer paa at faa bekjendt for nogen – ligger og tænker det ud om natten; for eksempel, at en af ungerne kommer engang som voksen i stor sjælenød og betror sig til sin mor – og jeg fortæller alting til ungen til skræk og advarsel og styrkelse og hjælp og frelse – æsch.
+     </p>
+     <p>
+      For en svir det skulde være at sidde i en skriftestol og vrænge sig for en prest bag et gitter og gaa hjem, lettet og tvættet med ren samvittighed. Eller kunne sidde sin synd af paa tugthuset. –
+     </p>
+     <p>
+      Nu sidder jeg altsaa istedetfor og skriver side op og side ned om det. – Herregud ogsaa, for en
+      stymper jeg er blit! Jeg bildte mig ind, jeg skulde tænke mindre paa det om dagen og ligge vaagen mindre om nætterne. – Det har
+      <pb n="8"/>
+      holdt stik til en viss grad, men det kommer vel snarere af, at jeg har havt paaskerengjøring. –
+     </p>
+     <p>
+      Imorgen reiser jeg til Lillehammer.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Jeg prøver at skrive igjen, fordi jeg ikke længere holder mine egne tanker ud. Det er, som en overmenneskelig fantasi havde spekuleret ud altsammen og gjort det saa ulidelig og pinende og oprørende som mulig. Jeg er nær ved at bli omvendt til at tro paa forsynet igjen.
+     </p>
+     <p>
+      Jeg har bedraget min mand, som var ung og vakker og snil og trofast og bra og nobel – med hans bedste ven, som er hans kompagnon og min fætter, som jeg har kjendt, fra vi var unger, og som engang førte Otto og mig sammen. Og nu ligger Otto oppe paa Grefsen og har tæring, og min elsker betaler for ham og forsørger os allesammen. – Og Otto aner ingen verdens ting, og jeg kan ikke komme op til ham, uden han taler om for en mageløs ven Henrik er, og for en mageløs kone han har. – Til syvende og sidst lader det næsten til, at af mine fire barn skal det netop være den ungen, vi har prakket paa ham, som skal være hans hjerte nærmest, og som han altid vil høre om.
+      <pb n="9"/>
+     </p>
+     <p>
+      – Hele elendigheden fik jeg rede paa, da jeg var oppe hos Otto i paasken. Han vilde hjem, og da jeg sagde, jeg syntes, han maatte hellere bli der, til han var helt frisk, svarte han, at han kunde ikke bli ved med at ta mod dette af Henrik; dengang han reiste op, havde han trodd, han skulde bli frisk paa et par maaneder, saavidt at han kunde begynde paa kontoret igjen. – Saa fik jeg vide, at da de gik i kompani, Otto og Henrik, gik det saadan til, at Henrik satte hele sin kapital i Ottos lille forretning. Jeg havde altid trodd, at Otto arvet da
+      <emph>
+       endel
+      </emph>
+      efter svigerfar, om det nu ikke var saa meget; men der var altsaa ingenting. Forretningen gik jo fremover, og han havde gode forbindelser, men for lidet penge at arbeide med, og selv om Otto nok er en svært dygtig forretningsmand, saa siger ialfald han, at Henrik bar sig ad som en god ven dengang.
+     </p>
+     <p>
+      «Jeg har arbeidet som en hest, saalænge jeg var frisk,» sagde Otto, «og jeg havde ingen samvittighed af at reise, da Henrik foreslog det, men jeg kan ikke bli ved med at ligge her i aarevis paa det dyreste kursted i landet omtrent.»
+     </p>
+     <p>
+      Jeg havde nær røbet altsammen; det var saa forfærdelig, i det samme jeg hørte det. Jeg kunde bare være enig med Otto; jeg foreslog,
+      <pb n="10"/>
+      at vi skulde leie udenfor byen, og jeg skulde pleie ham saa godt, saa godt – ja Gud, hvor jeg bad ham om det. Det var ogsaa, fordi jeg saa gjerne vilde faa gjøre noget for ham, og Otto var svært bevæget; han graat med hovedet paa min skulder og klappet mig ustanselig paa kinden og hænderne. Men han vilde ikke for barnene – og stakkar, jeg skjønte, han vovet ikke at forsøge paa et samliv paa den maaden, vi nu maatte leve. – Det er forfærdelig at se, hvor han lider og hænger ved livet; han er ræd nu. –
+     </p>
+     <p>
+      Han reiste nedover sammen med mig og var hjemme i tre uger. Jeg var glad for at ha ham, for jeg holdt næsten ikke ud at være alene længer, men Gud alligevel, hvor det var skrækkelig. – Og saa at se paa, hvor ræd han var for at smitte barna, og saa hang de jo efter ham og han efter dem.
+     </p>
+     <p>
+      Han var paa kontoret hver dag, og jeg fik jo høre om Henrik først og sidst, og Otto havde ham med hjem til aftens og middag, ret som det var. Det var jo ikke bedre for Henrik, og det var mig en trøst. Man blir ussel; jeg studerte i stilhed paa, om Henrik var blit mere graa i haaret i de sidste par aar, men med min bedste vilje kan jeg ikke opdage, han har forandret sig noget, siden han kom fra England.
+      <pb n="11"/>
+     </p>
+     <p>
+      Otto er paa Grefsen nu; han fik en sterk blodspytning, straks efter han var kommet did, og ligger tilsengs endda. –
+     </p>
+     <p>
+      Jeg har faat en post paa min gamle skole efter ferien. Jeg er naturligvis sjæleglad for det; saa kan jeg og barnene leve næsten uden hjælp fra forretningen. Paa den anden side er jeg blit saa doven af at gaa og ha det saa godt, som jeg har havt det i de sidste aarene. – I grunden vilde jeg vist helst sidde i en lænestol og spekulere over mig selv hele dagen; jeg gruer til at skulle ta fat og arbeide igjen.
+     </p>
+     <p>
+      Den eftermiddag, det var blit bestemt, at Otto skulde ligge paa Grefsen, kom Henrik ind til mig i barneværelset, hvor jeg sad:
+     </p>
+     <p>
+      «Saa længe Otto er syg, maa vi to forsøge at lade, som der ingenting havde været mellem os, Marta,» sagde han, «– vi maa!»
+     </p>
+     <p>
+      Han har ret, han skal hænges.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Imorgen blir Aase et aar. Det har været det længste aar, jeg har levet. Jeg har daarlig samvittighed overfor min lille tulla; jeg synes ikke, jeg har været god nok mor for hende. Ikke for de andre tre heller forresten – hjemmet er nok langt fra slig, som det skulde være.
+      <pb n="12"/>
+     </p>
+     <p>
+      Aa mine søde unger, ja jeg skal ta mig sammen; dere skulde jo bare se smil og solskin og høre gode ord hjemme. – Som det har gaat i den sidste tid, er det allerede begyndt at gaa galt. Det er ikke bare, fordi gutterne er blit større, at de ikke mere kommer som i gamle dage og vil kjæles for – naar jeg samler dem om mig om eftermiddagen alle de tre store, saa putter de ikke mere hovederne ind i fanget mit og ind til brystet og slaas ikke mere for at faa mest af mor. – –
+     </p>
+     <p>
+      Jeg gruer mig til imorgen. – Det traditionelle chokoladelag kan jeg jo ikke narre ungerne for. Einar og
+      Halfred var her og maste for, at jeg skulde hjælpe dem med at pirke penger ud af sparebøsserne; de skulde kjøbe presenter til tulla. Jeg maatte ta mig sammen for ikke at bli utaalmodig, og det merket de naturligvis; de lusket noksaa slukøret af. Stakkars smaa – –. Jeg maa ogsaa op til Otto en tur imorgen.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Idag er det min bryllupsdag.
+     </p>
+     <p>
+      Jeg tog de tre store med op til ham; jeg turde simpelthen ikke reise op alene. Jeg merket, Otto likte ikke rigtig, jeg havde dem med idag. – Det styrtregnet, og det var ogsaa en
+      <pb n="13"/>
+      grund til, at de ikke skulde været med, syntes Otto. – «De er nu vel endelig godt klædt paa, du? Faa kjende paa benene deres, barn – dere fryser vel ikke vel? Du ikke heller, Marta? – Aa kjære, kjære, du er vel forsigtig – du ved jo, det maa til. Pas for Guds skyld paa, de ikke gaar og forkjøler sig –.»
+     </p>
+     <p>
+      Han var oppe og sad i sin lænestol. Jeg var lige ved at graate, hver gang jeg saa paa ham, saa elendig mager han var blit, og saa slunken i klæderne. – Han prøvet at prate med mig og barnene, men det vilde ikke gaa. Einar og Halfred og
+      Ingrid sad paa hver sin stol og hang med hovederne. Vi skulde drikke vin, og da jeg klinket med Otto, tog han begge mine hænder i sine og kysset dem stille. «Tak Marta min,» sagde han bare. Saa var jeg færdig, jeg brast i graad, og Ingrid begyndte straks at skrige, løb hen og gjemte hovedet i mit fang. Jeg maatte ta hende op og trøste hende. – – Da jeg saa bort paa Otto igjen, sad han lænet bagover i stolen med lukket øine; det rykket om munden hans. –
+     </p>
+     <p>
+      Heldigvis blev det lidt opholdsveir, og barna kunde sendes ud i parken. Fra vinduet kunde vi se de tre smaa
+      pjok tusle nedover birkealléen. –
+      <pb n="14"/>
+     </p>
+     <p>
+      «Det er synd at ta dem hidop, Marta,» sagde Otto, – «det er ikke nogen moro for dem at komme her.»
+     </p>
+     <p>
+      Jeg svarte ingenting.
+     </p>
+     <p>
+      «Det er ikke nogen moro for dem at komme her, siger jeg,» gjentog han irriteret.
+     </p>
+     <p>
+      – Det er næsten det tristeste af alt, den grætne, forpinte tone, han sommetider taler i. Han kjendte den ikke, mens han var frisk.
+     </p>
+     <p>
+      «Ja vi skulde anet dette for elleve aar siden, du og jeg,» sagde han sagte. – «Gid vi havde – saa skulde du ikke siddet her med fire smaabarn og et vrag af en mand.
+     </p>
+     <p>
+      – Aa, hvor det saa anderledes ud da, Marta. Det var ikke dette, vi ventet os. –
+     </p>
+     <p>
+      – Husker du –,» sagde han, og han klemte mine hænder, saa det gjorde ondt. – «For elleve aar siden idag –.
+     </p>
+     <p>
+      – Men som du har været i disse aarene – Marta min egen, egen søde ven. – Mon du ved ogsaa, hvor glad jeg er i dig? Som jeg takker dig for disse aarene –.»
+     </p>
+     <p rend="airAbove">
+      Det begyndte at regne igjen, og ungerne kom op. Det var blit saa sent, at doktoren kom paa sin aftenvisit. Da vi skulde gaa, tog Otto barnene hen til sig:
+      <pb n="15"/>
+     </p>
+     <p>
+      «Dere er vel endelig snille og lydige mod mor, mens far er borte? Rigtig snille bestandig? Dere maa aldrig, aldrig gjøre mor sorg, barn! Hører du, du som er saa stor, Einar, du kan nok huske det, far siger dig; du maa altid være en god, bra gut, altid gjøre det, som du kan, for mor og dine søskende – du ogsaa Halfred, gutten min –.»
+     </p>
+     <p>
+      De graat og jeg graat. Vi var et ynkeligt optog, da vi gik nedover veien til trikken under vore paraplyer. Saa gik det til og med galt for Ingrid, og saa vaad hun var, maatte jeg ta hende paa armen, ellers var vi aldrig kommet til byen. Med hænderne fulde af ungen og paraplyen, og skjørtekanterne vaade og begge gutterne bag mig trampende i den bundløse landevei og øsregnet!
+     </p>
+     <p>
+      – Idag for et aar siden
+      laa jeg efter lilletulla. Otto sad hos mig og trøstet mig – vi kunde endda bli et lykkeligt guldbrudepar. For alvor kunde han vel ikke et øieblik tænke sig andet, end at han fort skulde komme over det.
+     </p>
+     <p>
+      For to aar siden var vi paa hytten, som vi altid pleiet vor bryllupsdag. Vi skaalte og drak champagne, og Otto sagde, han trodde, han var den lykkeligste mand i Norge. Jeg sad og tænkte paa, hvor grænseløst ulykkelig jeg var – hvor fremmede vi var blit for hinanden – og han
+      <pb n="16"/>
+      ante det ikke engang. – Jeg vidste
+      <emph>
+       ikke
+      </emph>
+      , hvad ulykke er!
+     </p>
+     <p>
+      Næste aar er jeg kanske enke –.
+     </p>
+     <p>
+      Hytten er averteret til salgs. Faar haabe, at den ikke blir solgt saa fort i de daarlige tider – ikke saa længe Otto lever.
+     </p>
+     <p rend="airAbove">
+      Naar jeg tænker paa hele vort ægteskab, er det paa en maade saa selvfølgeligt, at det gik saa. Paa en anden maade alligevel saa urimelig grundløst – dumt –. Og al min sorg løber sammen til vrede og bitterhed, og jeg kan ikke vende det mod andre end mod mig selv. – Man kan igrunden ikke gjøre noget fra eller til her i verden. Havde jeg vidst, dengang Otto og jeg begyndte at glide fra hinanden, det som jeg nu ved, aa vi skulde været lykkelige den dag idag! – Alligevel, skulde jeg leve de sidste fem–seks aarene om igjen og være, som jeg dengang var – jeg ved, det var blit det samme.
+     </p>
+     <p rend="airAbove">
+      Første gang, jeg saa Otto, var en anden september. Jeg kom nedover Kirkegaden i straalende solskin – i min sorte silkekjole og
+      duskeluen; jeg skulde helligholde mit fireaars studenterjubilæum sammen med nogen af kuldet. Jeg mødte Henrik, og han fulgte mig paa vei. Nede i gaden
+      <pb n="17"/>
+      kom en herre forbi forfærdelig fort, han hilste. Ildrødt haar, en masse fregner, pragtfuld figur, var indtrykket. Jeg spurgte, hvem det var.
+     </p>
+     <p>
+      «Aa det er en Oulie» – siger han. «Han er paa kontoret hos Berg og Bache, træmasse, ved du.»
+     </p>
+     <p>
+      «Hvor vakkert han gaar,» sagde jeg og vendte mig. Herren stod oppe i gaden og saa efter os.
+     </p>
+     <p>
+      «Det er en forfærdelig hyggelig, kjæk fyr,» sagde Henrik.
+     </p>
+     <p>
+      «Jeg skal hilse dig fra Oulie,» sagde Henrik et par dage efter. «Du har nok gjort et dybt indtryk paa ham, ser det ud til.»
+     </p>
+     <p>
+      To dage senere var jeg buden paa kaffe og punsch paa Henriks hybel. Det første jeg saa, da jeg kom ind, var Ottos røde lug. Det var vi to og en dame til.
+     </p>
+     <p>
+      Jeg var toogtyve aar dengang, og jeg havde aldrig været forelsket før. Jeg havde arbeidet meget og været meget flittig. Folk syntes, jeg var stiv; jeg var stille og tilbageholdende; i virkeligheden kom det af, at jeg var genert.
+     </p>
+     <p>
+      Overfor Otto følte jeg mig med en eneste gang overlegen; jeg merket nemlig straks, at jeg, som Henrik sagde, havde gjort et dybt indtryk paa Oulie; jeg begreb ogsaa straks, at det var ham, der havde bedt Henrik presentere sig
+      <pb n="18"/>
+      for mig. Da jeg takket for hans hilsen, blev han sprutrød: «De blev ikke sint for det da?» spurgte han flere ganger; «jeg vidste nemlig godt, hvem De var. De er jo saa forfærdelig flink, siger folk, De har jo
+      præceteris baade til artium og
+      andeneksamen.»
+     </p>
+     <p>
+      Han fulgte mig hjem om aftenen. Da jeg havde lagt mig, opdaget jeg, at jeg husket aldeles overvældende skarpt hver smaating ved Otto Oulies udseende. Smalt, benet ansigt, rødt haar, store, lysebrune øine og en masse mørke fregner; munden var meget fin og vakkert tegnet, og han havde prægtige tænder; de to forreste i overmunden sad lidt over hinanden – jeg husker, hvor tydelig jeg saa hans mund for mig. Hans figur havde jeg lagt merke til, straks jeg saa ham; i virkeligheden har jeg aldrig seet en mand saa vakkert skabt som Otto, slank og sterk og elegant; der var noget saa udsøgt ved den og hans maade at føre sig paa, at man maatte tænke paa et fint racedyr, en rigtig deilig hund. –
+     </p>
+     <p>
+      Han saa yngre ud, end han var, for han blev seksogtyve et par maaneder efter; men den aften hos Henrik, med det glatragede ansigt og med nedbrettet guttesnip og blaa jakkedres, trodde jeg ikke, han var over to–tre og tyve.
+     </p>
+     <p>
+      – Dagen efter mødte jeg ham, da jeg gik
+      <pb n="19"/>
+      fra skolen. Siden udover traf vi hinanden daglig. Først ligesom tilfældig, saa aftalte vi at mødes. Kjære, hvorfor skulde jeg ikke kunne gaa og træffe en ven, sagde jeg til mig selv. –
+     </p>
+     <p>
+      En eftermiddag, vi gik tur, blev det et frygteligt regnveir. Vi var netop i den gaden, hvor han bodde. «Gaar det ikke an, at jeg ber Dem gaa med op til mig saa længe?» spurgte han og saa noksaa klodset ud. – «Jeg har forresten saant et pent værelse,» sagde han, mens han laaste os ind.
+     </p>
+     <p>
+      I et hjørne stod en høibenet jernseng og en
+      vaskestol af blik. Midt paa væggen under et
+      skilderi stod en plyschsofa med bord og to lænestoler ligesom paa et konditori. Der var ogsaa et
+      konsolspeil med en potteplante foran i et hjørne, og saa havde han piano. – Han var svært stolt af sit værelse. Han havde en længere konference med sin værtinde i gangen, og saa kom hun ind med kaffe og hjembagt. Hun havde forklæde med hardangersøms bord paa og saa usigelig respektabel ud. Otto forestillet mig som frøken
+      cand. philos. Benneche. –
+     </p>
+     <p>
+      Otto var frygtelig høitidelig som vært. Jeg skalv ganske lidt paa haanden, da jeg skjænket kaffen. Otto gjorde det samme, da han rakte mig ild til min cigaret. – I speilet saa jeg, at
+      <pb n="20"/>
+      jeg var brændende rød i kinderne og meget kruset paa haaret; det kom af regnet – jeg tog mig ud, og det saa jeg paa ham ogsaa, at han syntes.
+     </p>
+     <p>
+      Efterpaa fik jeg ham til at synge. Jeg vidste, han var i Handelsstandens sangforening. «Jeg kan ingenting igrunden,» sagde han og satte sig til pianoet. Han sang
+      «Undrer mig paa, hvad jeg faar at se –». Han havde en vakker tenor og sang lidt sentimentalt.
+     </p>
+     <p>
+      Jeg havde hele tiden en liden skjælven siddende indi mig, som af spænding. Jeg fik lyst til at gaa rundt og røre ved hans sager, som var om ham til daglig. Saa lidet vi sagde hinanden, saa følte jeg, at vi var kommet hinanden saa nær.
+     </p>
+     <p>
+      Da jeg satte hatten paa foran speilet, stjal jeg et blad af hans plante og gjemte indeni hansken. Otto har siden sat det ind i en liden guldmedaljon til mig, og vi har helligholdt dagen som en festdag. – Da Otto hjalp mig i jakken, fik jeg pludselig lyst til at bøie nakken bagover og stryge den mod hans haand. Jeg vidste, nu kom det bare an paa mig, hvad der skulde ske. Og jeg følte en voldsom, gjerrig glæde ved at holde igjen – idag maatte der ikke hænde mere.
+     </p>
+     <p>
+      Jeg var buden didop hans fødselsdag. Der
+      <pb n="21"/>
+      var flere andre. Jeg saa dem ikke. Jeg sad i
+      feltstolen borte ved vinduet; Otto trak en liden krak frem og satte sig der; han sad der hele aftenen – jeg havde hans ansigt nedenfor mig hele tiden. – Hvad vi talte om, aner jeg ikke, Otto ikke heller.
+     </p>
+     <p>
+      «Neimen Oulie da,» raabte Henrik engang, «du er en nydelig vært – vi drikker din skaal!»
+     </p>
+     <p>
+      «Aa kjære –,» sagde Otto og gik bort til bordet. Jeg sank tilbage i stolen, mat som efter en lang anspændelse – det faldt mig ikke ind et øieblik, at jeg ogsaa burde gaat bort og skaalet.
+     </p>
+     <p>
+      Lidt efter sad han der igjen paa skammelen. Jeg havde en følelse af, at luften sitret mellem vore ansigter, som omkring en flamme.
+     </p>
+     <p>
+      Der blev aftalt en aketur, da vi gik.
+     </p>
+     <p rend="airAbove">
+      – Otto vilde endelig dra mig paa kjælken opover alle bakkerne. Jeg sad i en tung fortabelse og stirret paa hans skuldre. Hvor sterk han er, tænkte jeg, og følte pludselig et vellystigt ryk gjennem mig. – De sidste maaneder havde jeg jo igrunden gaat i en uafbrudt nervedirrende ophidselse. Men det var, ligesom jeg først i det øieblik blev aldeles bevidst om, hvordan jeg elsket ham – det overvældet mig, saa jeg følte mig
+      <pb n="22"/>
+      helt afmægtig i det samme – det var angst og undseelse og stolthed og fryd paa engang.
+     </p>
+     <p>
+      Der var en masse folk paa peisestuen den aften, luften var tæt af tobaksrøg og mados, og folk snakket øredøvende høit; men det var ligesom saa langt borte. Otto havde sat sig lige overfor mig. Han havde knappet op
+      Nansenjakken sin; han havde en blaa
+      flonelskjorte under med blød krave. Han var varm og lidt forpustet. Det var ligesom jeg blev ræd og ikke turde se paa det glimt af hans hals nedenfor struben, men jeg kunde ikke lade være at skotte – saa saa han paa mig –. Og vi slap ikke hinandens øine og sagde ikke et ord.
+     </p>
+     <p>
+      «Skaal da, Marta,» sagde en af damerne.
+     </p>
+     <p>
+      «Aa undskyld –,» sagde jeg forfjamset og blev rød. –
+     </p>
+     <p>
+      Da vi kom ud, sagde Otto med underlig tyk stemme – han havde ikke talt til mig, siden vi gik fra byen:
+     </p>
+     <p>
+      «Sæt Dem, skal jeg dra Dem.» –
+     </p>
+     <p>
+      Vi kom til Frognersæteren, og han satte sig bag paa kjælken. Da jeg lagde mig tilbage hos ham, følte jeg det, som jeg gav mig over, helt og holdent. –
+     </p>
+     <p>
+      Vi skiltes fra de andre ved Sporveisgaden. «Jeg skal følge frøken Benneche hjem,» sagde
+      <pb n="23"/>
+      han. Vi kom til min gadedør, og jeg stod af kjælken. Jeg havde ingen gadedørsnøgel.
+     </p>
+     <p>
+      «Min greier det kanske –,» sagde han utydelig. Han laaste op.
+     </p>
+     <p>
+      «Godnat!»
+     </p>
+     <p>
+      «Godnat!» Han gik indenfor døren. Saa tog han mig pludselig i armene og kysset mig. Jeg havde aldrig kysset nogen mand før. Det var, som jeg blev borte. –
+     </p>
+     <p>
+      – Da jeg kom op, sad jeg længe paa sengekanten i min vaade skidragt. Jeg sad som i en rus og følte bare mit eget hjertes slag, som sterkt og stødvis fik mig til at skjælve. – Gud i himlen, at det er mig, som har været saa lykkelig. – Jeg vaagnet af, at uret inde hos værtens slog fire. Mens jeg klædte mig af, fór det hedt og angst gjennem mig et par ganger – tænk om han ikke elsker dig paa den maaden, – om det bare er lidenskab – det var andre menneskers ord og tanker, de dukket op et sekund; men de blev borte igjen uden mening for mig, jeg sank hen i min lykkerus.
+     </p>
+     <p>
+      Næste morgen, da jeg kom ned paa gaden med mine skolebøger under armen, stod Otto Oulie paa hjørnet. Han saa mig dybt ind i øinene, tog stilebøgerne og sagde:
+     </p>
+     <p>
+      «Tænk, at du vilde være kjæresten min, Marta!»
+      <pb n="24"/>
+     </p>
+     <p>
+      Jeg kom til at le himmelhøit. – «Ja tænk!»
+     </p>
+     <p>
+      – Han har betrodd mig siden, at han havde spekuleret saa frygtelig paa, hvad han skulde sige. «Jeg var saa forskrækket, da jeg kom hjem, for jeg havde jo ikke faat sagt nogenting.»
+     </p>
+     <p>
+      Han mødte mig klokken to igjen. Dagen efter traf vi Henrik i Pilestrædet. Otto fløi paa ham: «Gratuler vors da, gammeln!»
+     </p>
+     <p>
+      Vi spadserte tur sammen hver dag efter skoletid, og om aftenen hentet jeg Otto paa kontoret. Vi blev enige om, at vi skulde gifte os til sommerferien. Otto havde atten hundrede, og jeg skulde bli ved at være lærerinde. Det skulde gaa storartet.
+     </p>
+     <p rend="airAbove">
+      Jeg var blit tat fuldstændig ved overrumpling. Ikke af Otto igrunden. Det var kilder, der var sprunget frem i mit eget væsens grund. Jeg sad og lyttet fortabt til den nye musik – i de lange aftener, naar vi havde sagt hinanden godnat, og jeg var kommet hjem til mig selv, sad jeg bare stille og lyttet.
+     </p>
+     <p>
+      At vi var saa forskjellige, det følte jeg dengang som en fryd; jeg gik i en evig henrykt overraskelse over, at vi, som var saa forskjellige, havde fundet hinanden.
+     </p>
+     <p>
+      Tegnelæreren vor var forlovet med en af mine
+      <pb n="25"/>
+      artiumskamerater. Hun hjemsøgte mig paa min hybel og plaget livet af mig med at ville snakke om kjærlighed.
+     </p>
+     <p>
+      «Jamen er det ikke vidunderligt? Aa! Saan at ha en, som forstaar en fuldt ud. Som man kan snakke med om alt –
+      <emph>
+       alt
+      </emph>
+      simpelthen!»
+     </p>
+     <p>
+      De gik paa Kirkeveien og snakket om – alt simpelthen.
+     </p>
+     <p>
+      «Ja ved du hvad, Marta, fortrolighed maa altsaa til efter min mening – skal der være noget
+      <emph>
+       ideelt
+      </emph>
+      ved kjærligheden. Hvis der ikke er et sandt sjæleligt forhold, hvad blir der da igjen af det hele, sig mig det!»
+     </p>
+     <p>
+      «L’amour sans phrase,» sagde jeg og lo stolt.
+     </p>
+     <p>
+      «Lidenskab kalder jeg det, slet og ret – det er jo aldeles dyrisk – ja undskyld!»
+     </p>
+     <p>
+      «Aa jeg ber!» sagde jeg og lo endda mere.
+     </p>
+     <p rend="airAbove">
+      L’amour sans phrase. Jeg gik og gjentog det for mig selv, naar jeg var alene.
+     </p>
+     <p>
+      Kjærlighed, kjærlighed, intet andet var der i livet, som var livet værd. Jeg elsket saa fanatisk, at jeg ligesom aldrig kunde dukke mig dybt nok ned i min egen kjærlighed.
+     </p>
+     <p>
+      Og jeg følte, hvordan denne kjærlighed dag for dag gjorde mig vakker og frisk og straalende
+      <pb n="26"/>
+      – gav mig en uanet livsforstand, gjorde mig modig og lystig og uendelig overlegen.
+     </p>
+     <p>
+      Aa, jeg havde jo bare været et gammelklogt barn helt til nu – da jeg pludselig blev ung. –
+     </p>
+     <p>
+      Alt, hvad jeg havde læst, og alt hvad jeg havde lært – jeg blev ved at være glad i det, men jeg følte ogsaa, at det var midler, ikke maal. Det var vaaben, det var godt at ha til at greie sig gjennem livet med – men kjærligheden, det var selve livet.
+     </p>
+     <p>
+      Saa sundt følte jeg dengang, at jeg aldrig tvilte paa min egen kjærlighed og paa Ottos, eller paa at det var nok. Jeg behøvet en at elske og bli elsket af – aldrig et mandfolk til at «forstaa» mig. Aa hvor jeg havde ret dengang med min foragt for det simple, uopdragne fruentimmerskraal paa «forstaaelse» – det er bare, at de vil ha et mandfolk til at være urmager for sine kjedsommelige, forskruede smaa hjerner og spilde sin tid paa at dægge for deres forfængelighed.
+     </p>
+     <p>
+      Ak, vi uforstaaede kvinder – man kunde vist fortære et regiment, og det vilde ikke hjælpe; det er jo, naar hjertet begynder at bli goldt, naar vi ikke selv forstaar længere, at vi begynder at skrige paa forstaaelse.
+     </p>
+     <p>
+      Dengang forstod jeg Otto; jeg vidste ikke
+      <pb n="27"/>
+      selv, hvor klart jeg saa ham, nøiagtig som han var. Jeg forlangte intet af ham, som han ikke kunde gi – han var ikke vokset op hjemme mellem blodarme studerværelsesmennesker, havde ikke bodd mellem tante
+      Gulettas mahognimøbler og perlebroderier – hans far var tømmerhandler, og han selv var forretningsmand, og det med liv og sjæl; sportsmand og friluftsmenneske var han ogsaa, og følte sig som hjemme i sit barnekammer der, hvor jeg gik og nød stemninger og belysning, oppe i skogen vor. Det var den friske luft og solen, der brød ind til mig, hvor jeg sad over mine bøger, og Gud ved, jeg kastet dem fra mig og løb ud i den lyse verden.
+     </p>
+     <p>
+      Der har vist ingen mand været mere varsom og fin mod den unge pigen, han var glad i, end Otto – midt i vor
+      ubændige forelskelse. Saadan har han været, alle de aarene, vi har levet sammen ogsaa. –
+     </p>
+     <p>
+      Havde han anet, at jeg ikke syntes, han forstod mig, saa ved jeg, han vilde ærlig og redelig forsøgt at komme mig imøde, samvittighedsfuld til det yderste, som Otto er. Men naar han ikke gjorde det ringeste for at hindre mig paa mine veie, men tvertimod syntes, det var storartet, alt det jeg drev med, kvindesag og folkeoplysning og sligt, trodde han naturligvis,
+      <pb n="28"/>
+      alt var i orden. Han beundret mig som «rasende intelligent» – han som bestandig beundrer alt, han er glad i, barna og mig, Henrik, sine forældre og søskende, sit hus og sit hjem, haven og hytten – alt det, som er hans i verden.
+     </p>
+     <p>
+      Siden kom den tid, da jeg blev irriteret af hans evige, kritikløse beundring for alt, der var hans eget; men det var dengang, jeg havde ret, da jeg bare saa, hvor vakker han var i sin friske tillid og glæde.
+     </p>
+     <p>
+      Lad være, han dømte haardt og saa snevert mangen gang, han ikke forstod. Han var sund og god og sterk, og da er der meget, man kun faar se paa overfladen og ikke skjønner. Jeg dømmer mildt om mangt og meget nu – men det er, fordi jeg er medskyldig. Da jeg var ung og ren, dømte jeg haardere.
+     </p>
+     <p>
+      Man lærer saa længe man lever – men Gud hjælpe os for hvad vi lærer. At forstaa alt skal jo være at tilgive alt – men Gud fri mig saa for de mennesker, der tilgir formeget. Det er jo bare noget, vi trøster os med, naar livet begynder at slide præget af os, og vi har gjort forskjelligt, som vi vilde skammet os ved i vore bedre dage. Eller vi ikke har mod og energi til at leve efter vort eget sind. Saa slaar vi af paa vore fordringer – men til syvende og sidst
+      <pb n="29"/>
+      faar man alligevel her i livet i forhold til, hvad man fordrer. De unge, de er ensidige; for dem er der bare en vei til saligheden, og duer de noget, saa gaar de den; siden faar man øie paa saa mange veie, – man synes, den ene kan være saa god som den anden – saa sætter man sig og
+      lar fem være lige. Det er godt at ha tolerance og forstaaelse at skylde paa, naar man ikke
+      gidder gjøre noget med livet mere; men det er ensidigheden og egensindet, der naar noget, for det vil noget, og det er ungdommen. –
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Idag sendte jeg første gang gutterne fra mig; de skal være hos tante
+      Helene en maaned. De var saa søde i sine nye blaa
+      norfolkjakker med mange lommer, som jeg har syet til dem.
+     </p>
+     <p>
+      Efterat vi havde faat dem paa toget, reiste Ingrid og jeg op til Otto. Jeg maatte vise ham
+      tuppen, hun var altfor deilig! Hun maatte jo trøstes lidt, hun som ikke skulde reise, og saa fik hun ha paa rosenkjolen og røde sløifer i sine blanke, kobberrøde krøller. Hun er rent til at spise op, saa skjær i huden – det er næsten ikke til at holde op igjen, naar man først begynder at kysse den lille hvide halsen, som blir
+      <pb n="30"/>
+      borte i kjolens lyserøde ringning – og saa den munden og de store lysebrune øinene. –
+     </p>
+     <p>
+      Hun fløi og vimset om os, mens Otto og jeg sad paa en bænk nede i parken og snakket. Han var svært kjæk idag.
+     </p>
+     <p>
+      Aldrig før syntes jeg, udsigten deroppefra har været saa vakker som idag. Kanske det var solen, som gjorde det – denne elendige sommeren med det
+      uafladelige regn kan jo gjøre friske mennesker syge. De store, aabne, grønne bakker nedmod fjorden, og byen nedenfor, og aasernes lave karm, der luner og lukker, men saa rummeligt, at her ikke blir indestængt: Idag var fjorden ganske lys som sølv, og der laa som et fint slør af vædedamp over det hele. –
+     </p>
+     <p>
+      Som vi sad der, Otto og jeg, og han havde tat og lagt armen om mig, gled vi begge to hen i en mild og vek, vemodig lykkefølelse.
+     </p>
+     <p>
+      «Jeg kan ikke lade være at tro, at vi skal faa bli sammen,» sagde Otto. «Jeg merker jo, hvordan jeg blir friskere for hver dag. Du og jeg og barna, Marta!»
+     </p>
+     <p>
+      Jeg tænkte det samme. Jeg har jo mand og barn; der er jo uendelig lykke og rigdom i vente for mig endnu. Der kommer nok trange og vanskelige tider for os, nu naar Otto blir frisk – men hvad saa. Jeg synes bare, jeg maa
+      <pb n="31"/>
+      være lykkelig ved at faa lov til at arbeide og ta i – og ved, at jeg
+      <emph>
+       kan
+      </emph>
+      arbeide for mine elskede kjære. Hvor langt bort fra dem, jeg engang havde forvildet mig, skal de aldrig faa vide – og jeg tror selv, at mindet om min vildsomme færd i et øde og haabløst land, og mindet om den skamplet, jeg har sat paa mig selv, efterhvert vil glide tilbage og synke tilbunds i min sjæl. Jeg har lært af dette – uendelig varsomt skal jeg værne om hver mulighed for varme og lykke i vort hjem. Det skal ikke være forgjæves, at jeg har betalt den dyreste lærepenge. For en kvindes renhed, det er ikke nogen frase, det er en uendelig dyr skat, det ved jeg nu. Men kanske jeg skal kunne gi de andre mere nu, end jeg kunde før, kanske være mere lydhør for hver liden rørelse i deres sjæle – mest barnenes.
+     </p>
+     <p rend="airAbove">
+      Da jeg var ung pige, syntes jeg altid, at det at bli mor maatte være det største i verden. Saa underlig syntes jeg det var, at da det skulde hænde mig selv, kunde jeg næsten ikke tro det. Da jeg skulde ha Einar, var jeg saa overvældet af det, at jeg næsten skammet mig, for det
+      <emph>
+       var
+      </emph>
+      , som var der ikke andet i verden – barnet, jeg bar, fyldte mine tanker baade dag og nat – og
+      <pb n="32"/>
+      jeg som havde foresat mig at ta det saa umaadelig fornuftig og naturlig – herregud, det var da det, som skulde ske med alt hunkjøn i verden. Skjønt jeg gruet forfærdelig ogsaa, saa vilde jeg det med hver trevl af mig selv – om jeg saa skulde dø.
+     </p>
+     <p>
+      Men endda jeg synes, jeg elsker mine barn saa høit, som en mor bare kan elske, og endda jeg synes, jeg har elsket dem saa menneskeligt ogsaa og vaaget over hver liden udfoldelse af deres væsen, saa er der saa mange smaating, som Otto har seet før mig – smaa træk af hver isærs egenart, som han har gjort mig opmerksom paa. Jeg har nok havt andre interesser end barnene mine ogsaa; men jeg føler usvigelig sikkert, at det har ikke tat et fnug af min omhu fra dem, det var først, da jeg begyndte at fortabe mig i mit eget jeg og undersøge, hvad der manglet mig i min egen lykke. – Og de holder af mig igjen, mere end de fleste barn holder af sine forældre, tror jeg. Men endda
+      <emph>
+       er
+      </emph>
+      forholdet mellem Otto og dem ligesom mere umiddelbart. Det er vel, fordi han selv er mere umiddelbar. –
+     </p>
+     <p>
+      De ligner ham ogsaa. Einar saa det er rent komisk. Ogsaa i væsen – jeg saa bare hans energi igaar og idag; han vilde selv pakke sine
+      <pb n="33"/>
+      og Halfreds sager, og da han puttet billetterne og portmonæen og lommetørklædet og hængelaasene ned i sine forskjellige lommer og gjentog min instruks om, hvordan de skulde bære sig ad, naar de skiftet tog paa Hamar – det var aldeles en liden Otto. –
+     </p>
+     <p>
+      Halfred ligner ham mindre – han er ikke rødhaaret heller. «Det er din unge,» siger Otto. «Han spekulerer saa over tingenes væsen.» Ialfald er han forfærdelig til at spørge – om de besynderligste ting tit, og altid skal han ha rede paa «hvorfor det da?» Siger jeg, han skal ikke spørge saa meget, siger han bare: «Aaffer ikke det da, mor?»
+     </p>
+     <p>
+      Aase ligner ogsaa Otto. Det gjør mig saa uhyggelig tilmode. Jeg har læst noget lignende i en
+      fransk roman, men jeg trodde ikke det var mulig.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Jeg reiste op til Otto tidlig idag. Vi gik ned og satte os paa samme bænken som igaar. Og bedst som vi sad, kom Henrik.
+     </p>
+     <p>
+      Han skulde snakke med Otto om noget i forretningen. Jeg vilde gaa, men fik naturligvis ikke lov af Otto. Jeg skulde værsgod bli, saa kunde jeg følges med Henrik til byen.
+      <pb n="34"/>
+     </p>
+     <p>
+      Der gik vi altsaa alle tre i havegangen og snakket, Otto med min arm under sin, og Henrik paa min anden side. Otto var munter og høirøstet; han klaget blandt andet over, at han blev saa tyk – «og Marta, som sværmer saa for tynde mennesker – du vil gjerne ikke vide mere af mig, da?»
+     </p>
+     <p>
+      Jeg kan ikke lade være med at være rasende over, at Henrik kan beherske sig saa aldeles. At han kan gaa der og tale ganske naturlig med Otto og mig. –
+     </p>
+     <p>
+      Nu er jeg lige ulykkelig som før omtrent. Jeg havde arbeidet mig ind i en stilfærdig, glad forhaabningsfuldhed ved det jeg gik og fordybet mig i alle vore kjærlighedsminder. Jeg var begyndt at tro paa fremtiden. Saa dukker Henrik op. – Og han vil være der i al fremtid. Jeg kan ikke tænke mig, hvordan man skulde kunne komme udenom ham.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Otto saa ikke paa vort forhold dengang, saadan som jeg. For mig var det bare erotik; men for ham var det paa samme tid en forfærdelig alvorlig forpligtelse.
+     </p>
+     <p>
+      Jeg faldt vist aldrig paa at fortælle ham, hvordan jeg havde levet, før jeg traf ham, eller hvad
+      <pb n="35"/>
+      jeg mente og tænkte. De gange, vi kom ind paa sligt, var det Otto, som begyndte.
+     </p>
+     <p>
+      «Du Marta,» sagde Otto en dag, «jeg er ikke kristen – saan.»
+     </p>
+     <p>
+      Jeg husker, det var en søndag først i mars, vi var paa ski i Nordmarken. Straalende solskin og skogen tung af sne; foran os var der en liden hvid slette – en myr – med skispor bortover, i skyggen var sneen ganske violet. Vi sad og hvilte og spiste appelsiner. Lige bortenfor os
+      mulret en liden bæk under isen, og trærne omkring var ganske rimet til; nogen var helt frosset ind i tykke, klare isblokke. Det var et saadant lidet indefrossent træ, jeg havde vist Otto og spurgt ham, om han trodde, det nogengang kom til at sprette, og det talte vi om.
+     </p>
+     <p>
+      «Ikke kristen – saan», var forresten et udmerket udtryk. Han forklarte, hvad han trodde og ikke trodde – i en ivrig tone, som han ventet modsigelse. Der var ingen mening i, at presterne kom og forlangte, at man skulde tro, bare tro paa alt, der stod i bibelen, saa blev man salig, og brugte man sin fornuft, blev man fordømt – tro paa sligt, som at djævelen krøb rundt i æbletrærne og narret folk til at stjæle – eller at Gud sagde til Noa, hvordan han skulde bygge og tjærebre skibet sit. –
+      <pb n="36"/>
+     </p>
+     <p>
+      Det var hans sunde fornuft, der havde gjort oprør; han vilde ikke kritikløst tro det, som andre lærte ham. Han kritiserte endda temmelig skarpt. Men se paa kristendommen som en religion paa samme maade som alle andre religioner, var ikke faldt ham ind. Og han sluttet med at sige:
+     </p>
+     <p>
+      «Men jeg tror paa Gud, kan du skjønne.»
+     </p>
+     <p>
+      «Det gjør ikke jeg,» sagde jeg.
+     </p>
+     <p>
+      Og jeg satte mig til at udvikle, hvordan jeg trodde og ikke trodde – ikke paa nogen personlig Gud – «verden er altfor uretfærdig.»
+     </p>
+     <p>
+      «Det har jeg selv tænkt paa ofte,» sagde Otto. Han laa paa siden i sneen og saa op paa mig, næsten forfærdet.
+     </p>
+     <p>
+      «Verden er altfor stor, Otto, og vi for smaa. Og livet tar ikke noget hensyn til os.»
+     </p>
+     <p>
+      «Tror du ikke paa det evige liv heller?» sagde Otto sagte.
+     </p>
+     <p>
+      «Nei.»
+     </p>
+     <p>
+      Om aftenen, da vi endte denne skitur, som alle vore andre ture, med at Otto drak the oppe paa mit værelse, begyndte han igjen at tale om det. Og han blev hos mig til meget senere, end han pleiet, – han, som ellers var saa omhyggelig for at gaa i «passende» tid. Da han gik, sagde han:
+      <pb n="37"/>
+     </p>
+     <p>
+      «Igrunden tror jeg ikke, det er saa godt, at du ved saa meget mere end mig, Marta!»
+     </p>
+     <p>
+      Jeg var lidt skamfuld, da han var gaat. For dette kunde det godt være, vi ikke var kommet til at tale om ellers – kanske ikke, før vi engang var blit gifte. Og det kom for en del af, at jeg paa en maade havde undervurderet Otto – med embedsstandens overlegenhed over landsgutten. Jeg havde seet lidt til det i forholdet mellem Henrik og Otto – paa mange omraader vilde min fætter alene være meningsberettiget og feiet Otto saa temmelig af, naar han ytret sig. Nu følte jeg pludselig vrede over det – vi havde ingen ret til det, hverken han eller jeg. – Aa det dumme studentsnobberiet, at Otto var «bare» forretningsmand: Jeg havde i mit stille sind brugt det udtryk – som indledning til min jubel over det prægtige, vidunderlige friluftsmenneske, kraftkaren – men den aften skammet jeg mig, fordi jeg aldrig havde brydd mig om at kjende hans tanker.
+     </p>
+     <p>
+      Jeg følte det endnu sterkere engang siden.
+     </p>
+     <p>
+      Det var kort før vort bryllup. Vi havde været borte i leiligheden – jeg husker, Otto havde holdt paa med
+      «det tyrkiske hjørne» – med en lav, vægfast bænk og et lidet bord. Vi skulde
+      <pb n="38"/>
+      ha det til at drikke kaffen der; der skulde være tepper, som gik opover væggen. –
+     </p>
+     <p>
+      «Blaa,» sagde Otto, «rigtig sterkt kornblaa – og en masse blaa puder i alle schatteringer. – Blaat, det klær dig bedst.»
+     </p>
+     <p>
+      Det havde regnet om eftermiddagen, og nu mod aften var luften fugtig og varm som i et drivhus og mættet af blomsterduft. Over hele byen lugtet det af kastanjer og syrin, og da vi kom opover Kirkeveien, blev det rent overvældende, den bitre
+      em af birkeløvet og
+      duften fra blomsterhaverne – jeg kunde tydelig skjelne pionernes fine lugt, der minder om
+      japanske træsager, men mest var det kastanjerne og syrinerne. Jeg lagde merke til, husker jeg, hvor deilige de lysviolette syriner saa ud mod tunge, blaagraa skyer, som trak bort i øst.
+     </p>
+     <p>
+      Jeg tror, verden var skjønnere den aften, end jeg nogensinde siden har seet den. Vi kom til bakken overfor Vestre Akers prestegaard – i eftermiddagssolen var alting gyldent, de smaa skyfnug paa den blaa himmel og myggene nede over bækken og piletrærne langs veien. Det gnistret af væde i solskinnet, paa engen og paa trækronerne, der dryppet med tindrende draaber, og paa prestegaardens gamle blaa tegltag. Udover havegjærdet hang der hvide syriner, og telefon
+      <pb n="39"/>
+      traadene løb forbi ganske gyldne som strengene paa en stor guldharpe.
+     </p>
+     <p>
+      Vi gik ind i lunden overfor prestegaarden. Det har altid været et af mine yndlingssteder, den lille lund med
+      Blinderens murede gravsted oppe paa bakken; som den lille runde stensætning tænkte jeg mig dengang, saa borgruiner ud, og i det fine græs under løvtrærne vokser skjør, bleggrøn desmerurt.
+     </p>
+     <p>
+      Vi satte os paa en sten, der hvor der fører enslags allé med græsgrodd bund op til graven.
+     </p>
+     <p>
+      Otto havde været stille hele eftermiddagen. Og mens han sad der med albuerne paa knærne og hovedet i hænderne, og vi længe havde tiet, sagde han sagte:
+     </p>
+     <p>
+      «Du – der er en ting. Jeg synes – jeg ved, det er min pligt at sige dig det.»
+     </p>
+     <p>
+      Han gjorde et ophold og sagde saa:
+     </p>
+     <p>
+      «Jeg har – jeg er ikke – jeg har – jeg har kjendt andre kvinder saan – før.»
+     </p>
+     <p>
+      «Du synes, det er skrækkelig, kan jeg tænke – ser jeg paa dig,» sagde han lidt efter. «Jeg ved, du maa synes det. Jeg har ikke kunnet faa mig til at sige dig det før heller – du forstaar det ikke, naturligvis, og jeg kan jo ikke forklare – ikke fordi jeg vil undskylde det heller –.»
+      <pb n="40"/>
+     </p>
+     <p>
+      Jeg vilde tale, men han afbrød:
+     </p>
+     <p>
+      «Ikke i de sidste par aarene. Siden min søster
+      Lydia døde – du ved fru Jensen. Hun var saa forfærdelig ulykkelig gift. – Da lovet jeg mig selv et og andet saan. – Men før –. Det er noget, som du ikke kan forstaa – mens man er yngre, da er det ikke saan –.»
+     </p>
+     <p>
+      «Otto, du maa ikke sige mere!»
+     </p>
+     <p>
+      «Synes du, det er
+      <emph>
+       saa
+      </emph>
+      forfærdeligt,» sagde han og reiste sig.
+     </p>
+     <p>
+      Da reiste jeg mig ogsaa. – Det jeg følte, var bare forvirring og skam over mig selv – først, da han begyndte, en uhyre forbløffelse; det var saamænd noget, jeg aldrig havde tænkt paa. At sige, siden jeg havde forlovet mig – for et aar siden eller to havde jeg nok diskutteret spørgsmaalet om, hvad en mand skulde tilstaa o. s. v. – det
+      grasserte svært med at diskuttere dengang – og jeg havde havt krav. Men mens han talte og jeg saa, han havde det ondt, og det var forfærdeligt alvor for ham, følte jeg mig saa skamfuld og saa ydmyget, at jeg neppe turde se op. Aldrig, aldrig havde jeg brydd mig om ham, syntes jeg, anderledes end at jeg vilde ha ham til at synes, jeg var deilig, kysse og dægge for mig, lægge hænderne paa hans brede, sterke skuldre – men aldrig havde
+      <pb n="41"/>
+      jeg ledt efter hans sjæl for at være god mod den og elske den. –
+     </p>
+     <p>
+      «Nei, nei, Otto, du skal ikke sige mere. Kjære, hvad ret har jeg til at fordre sligt af dig. Jeg, jeg har aldrig tænkt paa at gjøre dig regnskab for det gale, jeg har gjort eller gjør – for stygge, onde, smaalige tanker og gjerninger – ikke engang tænkt efter, hvor meget jeg maa rette paa mig selv nu, vi skal gifte os.»
+     </p>
+     <p>
+      «Du – aa Marta, Marta –.»
+     </p>
+     <p>
+      «Sig mig alt, som du gjerne
+      <emph>
+       vil
+      </emph>
+      sige mig – jeg ved, jeg skal nok kunne forstaa dig – nu. Alt som du gjerne vil, en anden skal kjende og tale med dig om, det
+      <emph>
+       ber
+      </emph>
+      jeg dig sige til mig. Men der er ingenting jeg fordrer at vide eller synes, jeg har ret til at spørge dig om. For vi ved da, vi kan stole paa hinanden og er forfærdelig, forfærdelig glad i hinanden – ved vi ikke?»
+     </p>
+     <p>
+      «Aa jeg kan ikke sige dig, som jeg er glad i dig – at du kan ta dette saan!»
+     </p>
+     <p>
+      Saa gik vi tæt ind til hinanden, op og ned, i den gamle vaade allé, hvor draaberne dryppet og blinket den hele tid, og jeg var usigelig lykkelig og lidt skamfuld over, at Otto syntes, jeg var saa storartet. –
+     </p>
+     <p>
+      «Ja, naar vi nu blir gift, du,» sagde Otto,
+      <pb n="42"/>
+      og paa det kysset vi hinanden, til vi mistet pusten. Og da vi gik hjemover, følte jeg overlegen medlidenhed med alle de andre par, vi mødte.
+     </p>
+     <p rend="airAbove">
+      Ottos far og svoger kom ind til brylluppet. Min svigerfar var ikke rigtig fornøiet med den maaden, vi havde ordnet det paa – han vilde, vi skulde reist op til Løiten og holdt bryllup der, siden mine forældre var døde. – Vi havde været paa
+      Auli i paasken, men det var ikke saa hyggeligt. Endda de var svært venlige mod mig, forstod jeg nok, de hellere vilde, Otto skulde faat en pige med penger, og at de fandt mig for «fin» – skjønt Gud ved, jeg gjorde mig saa stille og beskeden som bare mulig. Men Otto var saa sød og fin og omhyggelig for, at jeg ikke skulde merke noget, saa jeg var glad for turen alligevel, og min svigerinde Helene er jo noget af det sødeste, som er.
+     </p>
+     <p>
+      Vi blev borgerlig viet, og saa holdt jeg middag paa Grand – to veninder af mig havde ordnet med det, og det var meget vellykket, saa svigerfar og
+      Tomas Nordaas blev i svært godt humør, inden Otto og jeg brød op.
+     </p>
+     <p>
+      Da jeg kom op paa mit værelse for at bytte min fine blaa dragt og lakstøvlerne, havde min
+      <pb n="43"/>
+      værtinde allerede begyndt at rydde ud af værelset. Sengklæderne var tat af sengen, og bordteppet laa brettet sammen paa et hjørne af bordet; mine egne sager stod stablet op i et hjørne, de skulde bringes
+      bort i leiligheden om aftenen.
+     </p>
+     <p>
+      Jeg
+      udgjød etpar taarer af enslags sentimental rørelse, mens jeg klædte mig om. Saa kom Otto, mens jeg stod og hegtet igjen bluselivet; han glemte at banke.
+     </p>
+     <p>
+      «Aa undskyld – du maa nok skynde dig lidt, klokken er næsten fire, ser du.»
+     </p>
+     <p>
+      Han gav sig til at pakke om
+      rypesækken min, tog ud af den og lagde over i sin. Han fik fat i noget undertøi, og jeg saa, han blev lidt rød.
+     </p>
+     <p>
+      «Du har vel nok strømper med vel?» sagde han og spændte igjen.
+     </p>
+     <p>
+      Saa travet vi opover Maridalsveien i det straalende solskin. Ottos kjøbmand, Helgesen i Sandakerveien, skulde kjøre os op til Nitedal.
+     </p>
+     <p>
+      Der var noget landligt, festligt, der mindet mig om alle gode dage i min barndom, ved Helgesens store gaardsrum, med stalde og lagere omkring, pumpe midt i gaarden og duer paa taget.
+     </p>
+     <p>
+      «Ja naa venta je Dere næsten ikke mere,» sagde Helgesen, «aa er detta frua Deres da, Oulie? Hu var rekti lita og pen au, hu,»
+      <pb n="44"/>
+      sagde han og gratulerte mig med et vældigt haandtryk.
+     </p>
+     <p>
+      Otto snakket lidt med Helgesen, mens vi kjørte – om folk opover Nitedalen og Maridalen, som jeg ikke kjendte. For mig hørte det saa fredeligt og hyggeligt ud – byen blev ligesom saa fjern og usandsynlig. Paa gaardene rundt Maridalsvandet stod høiet i saater; nogensteds kjørte de ind, og nogensteds var de saa smaat begyndt at skjære rugen – tversover vandet hørtes der ringlende lyd af en slaamaskine, og Otto og Helgesen talte om
+      aarsudsigten med iver og alvor. Da vi kjørte ind i skogen, tog Otto min haand og trykket den, men vi sagde intet.
+     </p>
+     <p>
+      «Ja naa faar dere ha god fornøielse da – level, Oulie, level, fruen!»
+     </p>
+     <p>
+      Helgesen smilte
+      smørret, da han satte os af.
+     </p>
+     <p>
+      Vi talte ikke stort, mens vi fulgte skogstien. Otto saa sig om efter mig etpar ganger, spurgte, om vi gik for fort, og gjorde en og anden bemerkning om, at det var svært, saa mange trær der var blæst ned – stien var tit helt spærret – og om, hvor vaadt det var paa myrene nu – og engang plukket han en haandfuld hvid marihaand og gav mig:
+     </p>
+     <p>
+      «Er de ikke pene? – Sæt dem i brystet dit – der tar de sig godt ud.»
+      <pb n="45"/>
+     </p>
+     <p>
+      Det var noksaa sent, og solskinnet var helt gyldent oppe i aaskanten. Af og til faldt der et solstreif ned paa stien, hvor vi gik – paa bunden af en kløft langs en liden brusende elv; saa glitret det i skumsprøiten og i de vaade birke og
+      olderbuske. Der vokste en masse store blaaklokker og tyrhjelm.
+     </p>
+     <p>
+      «Aa hvor de er pragtfulde,» sagde jeg, og Otto vendte sig.
+     </p>
+     <p>
+      «Liker du dem – ja, de er vakre. Der er saa mange af dem lige nedfor hytten.»
+     </p>
+     <p>
+      «Saa –» sagde Otto – «det var deilige greier – naa er
+      kloppen borte ogsaa.»
+     </p>
+     <p>
+      Vi var kommet frem til en liden fos; elven var bred og dyb der, og der laa bare en enkelt, rund stok til bro.
+     </p>
+     <p>
+      «Giv mig haanden nu,» sagde Otto. «Men kjære, søde Marta – hvad er det?»
+     </p>
+     <p>
+      Jeg havde saan hjertebanken, at jeg rystet, og jeg kunde merke, jeg var ganske hvid i ansigtet. Min haand var iskold.
+     </p>
+     <p>
+      «Men – kjære, er du ræd?» hvisket Otto.
+     </p>
+     <p>
+      Jeg slog armene om hans hals og gjemte ansigtet. Det var ikke angst heller – snarere en slags legemlig spænding. Da jeg i det samme fik foden opi et myrhul og vandet løb ind over støvlekanten, isnet jeg ligesom over hele kroppen,
+      <pb n="46"/>
+      – huden krympet sammen, og jeg følte mig saa nøgen i klæderne.
+     </p>
+     <p>
+      «Nu er vi straks fremme,» hvisket Otto, igjen, «bare op aasen her.»
+     </p>
+     <p>
+      Det var brat op.
+     </p>
+     <p>
+      «Saa –» sagde Otto, stanset og pustet ud.
+     </p>
+     <p>
+      Steilt nedfor os laa et stort, blankt vand. Og lidt borti, paa en liden grøn braate, midt i aftensolen, laa en liden graa stue. Vi kom til en skigar, og Otto lagde unna stokkene.
+     </p>
+     <p>
+      «Ja nu er vi hjemme da,» sagde Otto og tog omkring mig. Han kysset mig, og jeg følte, det var anderledes end alle andre kys, han havde git mig – ja et velkommenkys. Vi gik over volden; der var en masse violer og natogdag, og i hver stenrøs blomstret tyrhjelm og gjeterams. Nedfor os blinket vandet mellem birketrær og orekrat.
+     </p>
+     <p>
+      Paa trappestenen stod der et spand med melk og en kurv poteter – en svær buket markblomster laa ved siden af.
+     </p>
+     <p>
+      Otto laaste døren op og lod mig gaa først ind i den halvt mørke stuen.
+     </p>
+     <p rend="airAbove">
+      Det var bare fjorten dage, vi var paa hytten – Ottos sommerferie. Og Gud ved, de gik fort nok. Men endda naar jeg tænker tilbage
+      <pb n="47"/>
+      paa den tid, løser den sig op i tusen smaa lykkeminder.
+     </p>
+     <p>
+      Jeg husker en nat, jeg vaagnet i graalysningen. Først sad jeg længe op i sengen og saa paa Otto, og jeg syntes, jeg blev næsten ræd ved at være saa lykkelig – jeg havde ikke raad til at lægge mig til at sove igjen.
+     </p>
+     <p>
+      Jeg stod op tilsidst, og bare med et sjal over natkjolen sad jeg paa dørtærskelen og saa ud i den milde, disede morgen.
+     </p>
+     <p>
+      Det var længe, jeg havde siddet der, da Otto pludselig kaldte:
+     </p>
+     <p>
+      «Men kjære, – hvad sidder du der efter? Er du oppe alt?»
+     </p>
+     <p>
+      I en pludselig følelse, ligesom af skamfuldhed – angst for at røbe noget, jeg ikke vidste om han vilde forstaa, sagde jeg, jeg var staat op for at lave kaffe paa sengen til ham.
+     </p>
+     <p>
+      «Aa Gudbevarremig vel! Det var da en fabelagtig energi, der er kommet paa dig – du er da rigtig noe til kjærring ogsaa – væk mig, naar den blir færdig da,» sagde Otto og lagde sig til at sove igjen.
+     </p>
+     <p rend="airAbove">
+      En aften gik vi os vild. Det var saa mørkt som en sommernat kan bli, da vi kom til bredden af en stor myr, som vi ikke kjendte.
+      <pb n="48"/>
+     </p>
+     <p>
+      «Det lureste var, om vi lagde os til her,» sagde Otto. «Er du fælt ræd for at ligge ude en nat?»
+     </p>
+     <p>
+      Jeg syntes, det var storartet. En hel nat havde jeg aldrig været ude før.
+     </p>
+     <p>
+      Vi fandt os en liden smal seng mellem blaabærtuerne; Otto svøbte sin trøie og min jakke om fødderne vore, og saa laa jeg med hovedet paa hans skulder og saa op paa himmelen, der var lyseblaa, endda det var noksaa mørkt, og paa aasen ret overfor, der tegnet sig sort og skarp mod den gulhvide horisont – det fine, gulblege skjær, der flyttet sig rundt himmelranden, østover, speilende sig i vandhullerne udpaa myren.
+     </p>
+     <p>
+      Vi blundet lidt nu og da, eller laa og smaasnakket. Medet sagde Otto:
+     </p>
+     <p>
+      «Du – naar vi to faar en liden gut, skal den hede Einar. – Det havde jeg en bror som hed.»
+     </p>
+     <p>
+      Han havde nævnt den broren engang før – da vi var paa Auli i paasken. Jeg havde seet deres gravsted ved kirken, og Otto fortalte, at Einar var kommet afdage ved et vaadeskud.
+     </p>
+     <p>
+      Nu laa han og fortalte om broren – deres barndom, om den vintereftermiddagen, de var paa ski paa fjeldet, og Einar fik hele
+      børseladningen i laaret. Hvordan de strævet og
+      <pb n="49"/>
+      bandt under og ikke kunde faa stanset blodet – og benet holdt paa at fryse bort, mens de drog ham nedover paa skierne.
+     </p>
+     <p>
+      «Saa begyndte
+      Andreas, kameraten vor, at graate. Vi kunde ikke faa ham til at holde op. Og ikke vidste vi saa nøiagtig, hvor vi var heller – nok retningen og saan – men du kan skjønne, det var jo knap tid. –
+     </p>
+     <p>
+      – Der var saan en masse stjerner den natten, husker jeg – maaneskin og lidt nysne oppaa skaren – som jeg bad til Gud dengangen – ja da følte jeg mig vel liden.
+     </p>
+     <p>
+      Men ved du, saan som inat – da føler jeg mig ligesaa liden. Jeg tænker paa det du siger – om der er en gud, du, saa ligger vi her for ham som to smaa mus i et hul.»
+     </p>
+     <p>
+      Jeg knuget mig ind til ham – i en stille henrykt forundring over at høre ham sige just det, jeg laa og tænkte. –
+     </p>
+     <p>
+      Vi var paa hytten hver søndag, helt til langt udpaa høsten.
+     </p>
+     <p>
+      Det
+      var inden det var blit rigtig almindelig at have hytte. Vor var bare en gammel husmandsstue. Dengang, før vi bygget paa den, var der bare et kjøkken med peis og himmelseng og ingen andre møbler end de, der stod igjen efter husmandens – og saa to tre felt
+      <pb n="50"/>
+      stoler, som Otto havde transporteret op, og mange krukker til blomster – Otto elsker blomster og har et eget lag til at ordne dem – bare han stikker etpar i en kop, falder det saa vakkert for ham.
+     </p>
+     <p>
+      Vi indførte stadig forbedringer i løbet af sommeren, broderte duger og puder og
+      løibænk under vinduet.
+     </p>
+     <p>
+      I kammerset var der komfyr, der lavet vi mad. Otto var kok, jeg kunde ingenting, paastod han, og grasserte selv i skjorteærmer:
+     </p>
+     <p>
+      «Ja du Marta, du er vel et udueligt væsen!»
+     </p>
+     <p rend="airAbove">
+      Hver aften gik vi til Lillerud efter melk. Otto var bedsteven med alle folkene derborte, og jeg blev straks optat i familien. Jeg laa de lange svale aftener paa volden og snakket med
+      Ragna og ungerne, og oppe fra aasen hørte vi bjelderne til hestene, som gik løse i skogen – og jeg lyttet efter Ottos stemme, mens han sad paa trappen og talte med mor – Ragnas mor – og Ragnas mand.
+     </p>
+     <p>
+      Livet oppe i skogen gjorde forholdet saa lykkeligt og harmonisk mellem os. En øm og glad fortrolighed kom af sig selv, naar vi dagevis streifet rundt i skogen og plukket bær – over bringebærbraater mellem frodige bregner,
+      <pb n="51"/>
+      hvor jeg var ræd for orm, og hvor tyttebærene rødmet paa graa gamle træstubber – eller i skyggefulde blaabærlier med gyldne solstreif paa fløilsblød mose – paa myrer, hvor Otto sprang og plukkede de faa og fattige multer, som jeg værsgo skulde ha allesammen. Saa fortalte han om for en masse multer der var hjemme hos ham – og vi kom til at fortælle hinanden stort og smaat om vor barndom og ungdom – alt efterhaanden. Otto kjendte nærsagt hver vei og sti over hele Nitedal og Nordmarken, og hver fuglestemme og hvert dyrs liv, og veirtegn og stjerner og sligt – han havde jo fartet i skog og mark, fra han var saa stor som
+      tobak for en skilling. Og her ude blev jeg bare Ottos lille pige, som han passet paa.
+     </p>
+     <p rend="airAbove">
+      Det lille hus, hvor vi havde vort første hjem, er revet ned. Jeg er næsten glad for det nu – nu havde det været saart at gaa forbi og se andre bo der. Men den aften for nogen aar siden, da Otto og jeg kom forbi og fik se, de var begyndt at ødelægge stedet, stanset vi og stirret paa hinanden – jeg begyndte at graate, og Otto var vist mindst ligesaa bedrøvet. Huset var tomt og havegjærdet revet væk, flere af trærne laa fældet bortover ribsbuskene, som Otto havde plantet. Vi gik ind i haven; verandadøren stod
+      <pb n="52"/>
+      aaben, og saa gik vi ind og vandret om i de tomme, vinduløse stuerne. Vi sagde ikke stort, hellerikke mens vi gik hjem; vi var vist begge tilmode, som vi havde mistet et kjært fristed for vore tanker. – Det var dengang, jeg var saa misfornøiet med mit liv, og jeg syntes, det var som et symbol, at nu skulde de rive ned og ødelægge det sted, hvor jeg havde været saa lykkelig.
+     </p>
+     <p>
+      Da vi kom hjem, gik Otto ud i haven og der gik han omkring og puslet med roserne, der netop havde faat matter om sig – det var sent om høsten. Da jeg kom ud paa verandaen for at kalde ham ind til aftensbordet, sagde han saa trist:
+     </p>
+     <p>
+      «Vi skulde tat med os alle roserne vore, da vi flyttet – saa synd det er med dem. Og ribsene mine da du, nu var de netop begyndt at bli store.»
+     </p>
+     <p rend="airAbove">
+      Det var ikke noget flot hjem, vort første, men Gud saa hyggeligt. Huset havde været kuskebolig eller sligt til et landsted engang og havde faat en træveranda klistret udenpaa sig ved en anden leilighed. Den
+      sækkegaden, det laa for enden af, kaldte Otto «blindtarmen»; lønnetrærne fra haverne gik sammen over den
+      <pb n="53"/>
+      næsten; der var ubeskrivelig sølet vaar og høst – ungerne saa ud som griser bestandig, naar de kom ind, men jeg havde ikke hjerte til at skjænde paa dem – jeg skulde ofte gjerne været unge selv og bagt kage af den fede, svarte sølen og holdt butik paa en fjæl mellem to mursten.
+     </p>
+     <p>
+      Alle de rare greier, Otto bragte hjem til at pynte op med! Jeg syntes nok ofte, de var fælt stygge, hans urner og vaser – men jeg saa bare, at Otto var rørende opfindsom for at glæde mig og pynte op hjemmet, som han var saa stolt af. Han var altid tidlig oppe, og mens jeg klædte mig paa, fór han ud og ind og fortalte, hvem af roserne var sprunget ud inat, eller han trak op ræddiker til frokosten.
+     </p>
+     <p>
+      I mange stykker var han svært barnagtig. Mens vi
+      var forlovede, havde han søgt at skjule det – dengang var han ogsaa forfærdelig ræd for at vise sig naiv eller landsens. Efter vi var blit gifte, generte han sig ikke det mindste mere for det – jeg kunde jo hellerikke længere skjule, hvor forelsket jeg var i ham – og han koketterte nu en hel del med sin gutagtighed; han blev blandt andet fæl til at sige ting, som var saan lidt uskikkelige, men altid paa saan en uskyldig,
+      unget maade, som naar han aldrig blev
+      <pb n="54"/>
+      træt af at fortælle, at det var jo igrunden upassende, naar vor terne hed
+      Olerine; det opvakte urene fantasier.
+     </p>
+     <p>
+      Han moret sig kostelig over mine skolehistorier. En søndag havde vi hele min klasse til chokolade; Otto var en storartet vært for nitten smaapiger og holdt et leven med dem, til de var aldeles gale, alle tyve. Siden var hele klassen aldeles forelsket i «frøkens pappa». – Det var det andet aar, vi var gift, da Einar var et par maaneder.
+     </p>
+     <p>
+      Gud, hvor jeg var skidtvigtig af den ungen. Men Otto var meget værre. Og som han gjætet mig hele tiden før. Stakkar, mens jeg laa, havde han kjøbt en hængelampe; det skulde være en overraskelse, til jeg kom op, men han fortalte det forresten længe før og bar mig ind i uldteppet, forat jeg skulde faa se den.
+     </p>
+     <p>
+      Naar jeg hører lyden af en græsklippermaskine, maa jeg tænke paa den sommeren, Einar var liden. Jeg sad paa verandaen med en bog eller et sytøi og dovnet – saa paa Otto, der strævet i sit ansigts sved og skjorteærmer og klippet plænen hveranden dag mindst med en gammel græsklipper, han havde faat paa en auktion. Han havde et arsenal af havesager under verandatrappen, nok til at holde Slots
+      <pb n="55"/>
+      parken istand. Den singlende lyd af græsklipperen hørtes saa sommerfredelig ud, og jeg sad og faldt hen, til Otto kom op og forlangte, jeg skulde tørre hans pande, gi ham
+      lemonsquash eller komme ned og se paa hans otte blomkaalplanter og agurkerne. Og Einar laa i solskinnet og sov under sit slør, rød og varm og deilig, med de søde smaa hænderne, der kløp saa godt i brystet mit, naar han fik mad. –
+     </p>
+     <p rend="airAbove">
+      Igrunden begyndte det vist som en slags træthed – jeg var overmæt af lykken. Jeg har læst ensteds, at lykken er altid ens. Det var det.
+     </p>
+     <p>
+      Halfred var født, jeg var begyndt paa skolen igjen, gutten indforlivet i vor husstand med hele det apparat af arbeider, vaner og hensyn, der hører til hvert eksemplar af en husstand og tilsammen danner et hjem. Saa kom fra Ottos side akkurat de samme tilnærmelser og de samme følelser – alt som var hændt efter Einars fødsel, det gjentog sig. Dengang blev jeg lykkelig over det – nu syntes jeg, det var en smule komisk, lidt bedrøveligt, det stødte mig lidt. Herregud, tænkte jeg. – Saa vilde Otto, jeg skulde holde op paa skolen – hans egen forretning, som han havde begyndt, gik udmerket; det var netop i de gode tider. Vi havde ogsaa faat en noksaa
+      <pb n="56"/>
+      stor omgangskreds – mest Ottos forretningsvenner. Jeg tænkte lidt trist, hvordan han vilde udvikle sig til en rigtig spidsborger – anlæg havde han – og jeg vilde komme bort fra min egen kreds og fra mine interesser, som jeg altid havde hævdet, man godt kunde passe, om man fik mand og barn. – Saa vilde historien gjenta sig, til jeg blev træt og styg af alle de barn, jeg sagtens fik; tilsidst blev jeg nok reduceret til at være
+      et af numrene i den lange katalog over Otto Oulies lyksaligheder.
+     </p>
+     <p>
+      Alt dette stod ikke rigtig klart for mig, men det laa bag min melankolske stemning. Jeg følte jo, at som forholdet var mellem Otto og mig, var der fare for, at vi skulde gli fra hinanden. Og jeg klamret mig til mit arbeide og til barnene, som det var noget, jeg vilde ha i reserve, om jeg skulde lide skuffelse i det, der endda var det meste for mig i livet.
+     </p>
+     <p>
+      Otto trodde, jeg var syg, sendte huslægen vor op ret som det var, kommanderte mig til at drikke vin og spise jern, vilde ha mig til at reise op til Helene en tur eller op paa hytten, men især, at jeg skulde slutte paa skolen fra sommerferien. Jeg vilde ingenting – igrunden var det jo nyt, interessant og behageligt at sidde saadan trist og træt og gruble – især naar Otto kom, satte sig hos mig og dægget bekymret for mig:
+      <pb n="57"/>
+     </p>
+     <p>
+      «Men lille søde Marta min, hvad
+      <emph>
+       er
+      </emph>
+      det med dig da – kjære, ikke bli syg for os da, ven min!»
+     </p>
+     <p>
+      «Jeg feiler ingenting jeg, Otto,» sagde jeg og tog mod hans kys. Kanske haabet jeg at binde ham til mig paa den maaden ogsaa.
+     </p>
+     <p rend="airAbove">
+      Saa, da Otto skulde sin aarlige tur til London, vilde han ha mig med. Jeg vilde ikke – for det første kunde jeg virkelig ikke tænke mig at reise fra barna. Og for det andet –. Som ung pige havde jeg altid saa forfærdelig ønsket at komme ud og reise en tur, men saa skulde det være paa den maaden, at jeg bodde i byerne, lærte menneskene der at kjende, suget ind stedets stemning, sanset dets egenart. Dette vilde jo bli saa rent anderledes.
+     </p>
+     <p>
+      Naa, naturligvis blev jeg med. Og jeg moret mig storartet. Og skjønt jeg i førstningen vaagnet om nætterne paa de tider, jeg var vant til at staa op og se efter ungerne, om de havde sprællet af sig, og blev melankolsk ved at finde mig i hotelværelset og tænke paa smaaerne mine langt borte i Kristiania, saa savnet jeg dem meget mindre, end jeg havde ventet, saa jeg næsten skammet mig. – Otto fandt paa, at vi skulde reise til Paris med det samme, og der var vi otte deilige dage. Otto trak mig samvit
+      <pb n="58"/>
+      tighedsfuldt rundt for at se alt, som man skulde ha seet – museer og teatre og nogen forlystelsessteder, som Otto velvilligst tog for Paris’s mysterier. Og jeg fik hat og spadserdragt og to sæt silkeundertøi, og et delikat korset og silkeskjørt – i det toilet danset jeg cancan for Otto en morgen, vi kom hjem klokken fire og drak champagne paa værelset og glædet os omkap til at fortælle hjemme om vore udskeielser.
+     </p>
+     <p>
+      Saa kom jeg hjem, tog fat paa skolen med godt humør, og to fredelige aar igjennem var jeg noksaa fornøiet med livet.
+     </p>
+     <p rend="airAbove">
+      I virkeligheden var det kanske de sørgeligste bagateller, som gjorde altsammen.
+     </p>
+     <p>
+      Vi maatte ha en større leilighed. Vi havde det allerede saa trangt, at vi knapt kunde røre os, og nu skulde jeg ha nummer tre, saa nu maatte vi flytte. Kunde vi faat overetagen med, kunde vi greiet os, og saa var kanske alt gaat anderledes. Men snedkerens vilde ikke flytte.
+     </p>
+     <p>
+      Jeg var misfornøiet med den nye leiligheden paa forhaand. Jeg likte ingen af de
+      bekvemmeligheder, vi saa paa, og jeg befandt mig ilde, og var sint for det, og det var om høsten i et skrækkeligt veir – og Otto havde mindst syv andre leiligheder skrevet op – saa lod jeg mig
+      <pb n="59"/>
+      overtale af ham og verten. Men jeg var altsaa paa forhaand bestemt paa ikke at like mig i vor nye bekvemmelighed.
+     </p>
+     <p>
+      Gaden syntes jeg var væmmelig – et rigtig snobbestrøg med stygge smaa villaer og øde haver med et lysthus i det ene hjørne, hvor man kunde se, der aldrig kom til at sidde et menneske –
+      granitpiller ved porten med kjedelige navne, og cremefarvede gardiner og
+      majolikaurner i vinduerne, og i et glimt af stuen saa man staalamper og søiler og palmer og alt, som stygt var.
+     </p>
+     <p>
+      Otto syntes, det var et nydeligt strøg. Og da jeg hængte mig paa hans arm og lod meget lidende, sagde han bare:
+     </p>
+     <p>
+      «Ja kan du vente andet end at bli daarlig da, Marta, du
+      <emph>
+       vil
+      </emph>
+      jo ikke gjøre det, som doktoren siger.»
+     </p>
+     <p>
+      Saa maatte vi ha mere indbo. Vi fik akkurat dobbelt saa stor leilighed. Otto fik skindmøbler i sit røgeværelse, og vi gik rundt og saa paa «salon»–møbler og kunde ikke bli enige. En aften saa vi et stort møblement af
+      jakaranda i et magasinvindu. Otto syntes, det var saa nydeligt. «Det er russisk stil,» sagde han, Gud ved, hvor han havde det fra. Jeg sagde, jeg syntes, farven var pen – det var trukket med turkisblaa presset fløil. Otto forholdt sig hemmelig
+      <pb n="60"/>
+      hedsfuld en uges tid – saa slæbte han mig en aften bort i den nye leilighed. – Der stod det «russiske» i al sin pragt.
+     </p>
+     <p rend="airAbove">
+      Ingrid blev født. Det var nok Ottos hjertensønske, der gik i opfyldelse. Han var saa henrykt over hende og saa optat, at jeg næsten ærgret mig. Jeg syntes,
+      det saa latterligt ud, naar den store lange manden fór omkring med hende paa armen og snakket
+      klussemaal. Han fór lige ind i barnekammeret, naar han kom fra kontoret – før han gik ind til mig.
+     </p>
+     <p>
+      «Du moa, her tommer vi to! Jenta te fal? Ja, det var jenta te fal det! Ga i moa? Neida moa ikke ga i dei aa mei, Ingli – tomme du, ska vi pyle op den stygge moa, vi –.»
+     </p>
+     <p>
+      Og saa kjørte han hele ungen ind i ansigtet paa mig, uden at bry sig om, hvad jeg sad med.
+     </p>
+     <p>
+      «Isch, hvad er det for noget, du læser nu da,» kunde han sige, – «at du gidder!»
+     </p>
+     <p>
+      «Uf jeg er saa lei, saa lei af den dumme jentungen, at det lugter,» sagde Einar en dag, Otto maset med Tulla som værst. Otto blev sint, men jeg lo bare af Einar og tog ham paa fanget.
+     </p>
+     <p rend="airAbove">
+      Jeg var holdt op paa skolen for godt, da
+      <pb n="61"/>
+      Ingrid skulde komme. Ottos forretning gik aldeles udmerket nu, og vi havde ikke brugt stort de første aarene. Nu vilde Otto, jeg skulde ha det godt og mageligt, faa saa megen hjælp i huset, jeg bare ønsket og saan. – Saa begyndte jeg at læse en hel del igjen, hørte etpar forelæsninger, der interesserte mig, og jeg var med i flere klubber og foreninger.
+     </p>
+     <p>
+      Otto likte det ikke rigtig. Han sagde intet direkte til mig, men naar nogen af mine foreningsdamer var hos mig, var han ofte lidt utækkelig og vilde gjerne gi sig mine af at være en rigtig hustyran.
+     </p>
+     <p>
+      En dag var han inde, mens vi drak the og passiaret. I et øiebliks pause siger han saa:
+     </p>
+     <p>
+      «Unger,
+      <emph>
+       der er
+      </emph>
+      noget, jeg har glemt idag, hvad kan det være mon?»
+     </p>
+     <p>
+      Og begge gutterne skreg henrykt i kor:
+     </p>
+     <p>
+      «Du har glemt at gi mor juling vel!»
+     </p>
+     <p>
+      «Det er
+      sgu sandt – aa mind mig paa det iaften du, Einar!»
+     </p>
+     <p>
+      Det moret de sig forfærdelig over alle tre. Saa tog han en gut i hvert øre og drog af med dem:
+     </p>
+     <p>
+      «Nei naa gaar vi mandfolk ind til mig.»
+     </p>
+     <p>
+      Saa holdt de et leven i røgeværelset som vilde dyr.
+      <pb n="62"/>
+     </p>
+     <p>
+      En middag kom Otto hjem med en liden hundehvalp, han havde kjøbt. Det var en terrier, vi kaldte den
+      Peik og var forfærdelig henrykt over den. «Jeg vilde heller ha Peik end Tulla,» sagde Halfred.
+     </p>
+     <p>
+      Stakkars lille Peik. Vi havde den bare et halvt aar, saa blev den kjørt over. Otto maatte selv ta livet af den, og han graat og barna graat, og jeg graat.
+     </p>
+     <p>
+      Saa en dag, jeg stod og tog paa mig, kom Otto ganske heftig hen og sagde:
+     </p>
+     <p>
+      «Jeg skjønner ikke, hvad du skal gaa paa alt det der efter – jamen er du rar, Marta. At du tør! Dennegangen var det bare det stakkars vesle dyret – næste gang er det vel et af barna dine!»
+     </p>
+     <p>
+      «Ved du hvad – nu er du virkelig for nervøs! Men naar du altsaa har imod, at jeg interesserer mig for dette her – kvindesag og saan – saa synes jeg, du hellere fik sige det rent ud!»
+     </p>
+     <p>
+      «Du
+      ved godt, jeg har ikke spor imod det – jeg synes, det er saa bra og retfærdigt og alting – du kunde bare overlade det til andre en stund – saa længe du har tre barn, der er
+      <emph>
+       saa
+      </emph>
+      smaa.»
+     </p>
+     <p>
+      «Jamen du gode Gud, Otto, det kan bli længe, til jeg er færdig med at ha smaabarn!»
+     </p>
+     <p>
+      «Er du lei for, du har de barna, Marta?»
+      <pb n="63"/>
+     </p>
+     <p>
+      «Det gidder jeg ikke svare dig paa engang – forresten gjør du, hvad du kan ialfald, for at gjøre mig lei dem.»
+     </p>
+     <p>
+      «Hør nu, Marta – vi mandfolk er pent nødt til at passe vort arbeide og vor forretning. Selv om vi ikke faar tid til andet. Og naar dere gifter dere, saa ved dere, hvad deres arbeide blir i regelen. Jeg synes ikke heller, det kan være saant et forfærdelig kjedeligt arbeide at passe sine egne barn og holde sit eget hjem pent. Saa jeg har ikke saa vondt af dere. – Og om du en stund maa sætte dine interesser tilside af den grund – det er saa ikke andet, end hvad vi er nødt til, vi mandfolk med. – Herregud da, tror du, jeg har saa forfærdelig megen tid til at stelle med mine interesser, kanske?»
+     </p>
+     <p>
+      «Du er da ialfald i din sangforening,» sagde jeg.
+     </p>
+     <p>
+      «En aften om ugen! Synes du, det er for meget?»
+     </p>
+     <p>
+      «Nei det ved Gud – det er snarere forlidet!» sagde jeg.
+     </p>
+     <p>
+      Saa stod vi der og trættet.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Regn og regn. Det er til at bli sindssyg af saadan en sommer.
+      <pb n="64"/>
+     </p>
+     <p>
+      Det er værst med Otto; han vilde naturligvis bli fortere bra, hvis der kunde komme sol og varme i veiret. Uimodsigelig gaar det jo fremover, men langsomt, synes jeg. Skjønt lægen høres opmuntrende ud, kan jeg ikke lade være at være ængstelig. Det er vel bare nervøsitet – jeg har altid været fæl til at lade veiret virke paa mit humør. Stakkars Otto, idag snakket han næsten bare om Nordmarken. Jeg havde nemlig blomster med til ham fra Ragna, hun var indom igaar, og hun spurgte saa til ham og barna.
+     </p>
+     <p>
+      Jeg var hos Otto i hele formiddag. I eftermiddag klippet jeg papirleker til Ingrid – hun kjeder jo livet af sig paa denne maaden. Da jeg kom fra byen, flød lekerne til hende og Aase udover allevegne, og pigen er og blir umulig.
+     </p>
+     <p>
+      Jeg trives ikke her i Neuberggaden. Det er nu ogsaa forgalt at bry sig saan om alle ydre forhold – Gud ved, jeg synes, jeg gjør alt muligt for at kjæmpe mod mit humør. Men strøget
+      <emph>
+       er
+      </emph>
+      nu gyseligt. Alle disse halvfærdige gaderne og nye husene, der allerede ser forfaldne ud –
+      disse smaaleilighederne med
+      forlorent flot udstyr, tæt med smaa balkoner paa husene, grelt malede trappeopgange, skidne portrum, og i andenhver gaard en delikatesseforretning eller en skomager, og paa hvert hjørne en ny kolonialforretning –
+      <pb n="65"/>
+      jeg tror, der blir etableret en om ugen. Alle mennesker lader til at ha det ens her – hvergang der flytter et nygift par ind – og her er halvparten nygifte, og den anden halvpart har saan en 3–4000 om aaret og 6–8 barn, og to tredjeparter af fruerne gaar i cape og saakaldt «velsignede» omstændigheder – saa har de de samme tre møblementerne, plysch til stuen og egetræ spisestumøbler og mahogny senger og toiletkommode. – Isch at skulle ha trappeopgang med otte familier og bryggerhus med seksten og balkon, der kan bekikkes fra femten andre her i gaarden foruden nabogaardenes. Saa regner endda blomsterne ude paa altanen sønder og sammen – alle mine vakre, røde geranier, som jeg havde glædet mig saa til at bringe Otto buketter af.
+     </p>
+     <p>
+      Hvor deiligt igrunden det var at ha have. Jeg skal skjønne paa det, hvis vi nogensinde faar det saan igjen. Og telefon!
+     </p>
+     <p>
+      For barna er her igrunden ikke værst. Gutterne ialfald har det storartet paa alle disse byggetomterne og i de halvfærdige gaardene. For Ingrid og Aase blir det jo mest at være med pigen ud paa løkken og grave i sandet. – Naar jeg tænker paa, hvordan de andre havde det, da de var smaa – stakkars lille Ingrid
+      <pb n="66"/>
+      har ikke andet at holde paa med end at ta jord op i det lille røde blikspandet og helde fra den ene sandhaugen til den anden. – Naar det endda var saapas veir, at hun kunde det hver dag, fik man jo endda være tilfreds. Skjønt Gud fader bevare mig for en prøvelse det er med al den klædesvasken paa kjøkkenet. –
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Jeg føler mig saa græsselig forladt og fortvilet – især om nætterne, naar jeg ligger og længes efter Otto oppe paa Grefsen og Einar og Halfred paa Løiten. Sommetider tar jeg Aase over til mig hele natten for ikke at kjende mig saa alene. –
+     </p>
+     <p>
+      Dagene er bedre. Da tænker jeg og lægger alverdens planer for den tid, som skal komme. Men naar jeg saa rigtig tænker mig ud det liv, vi skal begynde, saa kan jeg næsten faa feber af utaalmodighed – herregud, herregud, hvorlænge skal dette vare. Det kjendes aldeles, som hjertet skulde sprænges. – Saa spør Otto, hvad der er iveien; han kan altid se det nu, naar der er noget iveien.
+     </p>
+     <p>
+      Det er rart, hvor sygdommen har gjort ham var – han merker snart hver mindste skiftning i mit humør.
+      <pb n="67"/>
+     </p>
+     <p>
+      Jeg har aldrig været saa glad i min mand som nu.
+     </p>
+     <p rend="airAbove">
+      Saa kom Henrik hjem fra England. Han havde arvet en onkel af sig, og han og Otto gik i kompagni.
+     </p>
+     <p>
+      Jeg havde egentlig tabt Henrik afsyne, siden jeg blev forlovet. Og han reiste over til England omtrent samtidig med at vi giftet os, og fik en udmerket stilling der. Otto og jeg besøgte ham, da vi var i London, og han og Otto korresponderte lidt; jeg skrev sommetider en hilsen paa Ottos brev og fik en lykønskning til min fødselsdag, og naar Otto meldte en familieforøgelse.
+     </p>
+     <p>
+      I den tid, de ordnet med det nye firma og saadan, faldt det af sig selv, at han kom meget hjem til os, og vi tre var ogsaa en hel del paa farten sammen, gik i teatret og spiste aftens ude og denslags.
+     </p>
+     <p>
+      Otto beundret Henrik ubeskrivelig. Jeg var fra først af virkelig mest glad over at ha ham hos os, fordi det paa en maade nærmet Otto og mig til hinanden.
+     </p>
+     <p>
+      Vi tre kom til at tale om mange ting. Henrik har altid likt godt at tale. Og vi luftet vore ideer som i gamle dage hos tante Guletta og
+      <pb n="68"/>
+      paa Henriks hybel. Det forstaar sig, det var jo meget anderledes – om saa bare af den grund, at vi nu allesammen havde erfaringer at tale ud af. Saa vi talte jo adskillig mindre. Henrik var forresten blit noksaa reserveret. Men han har nu altid havt svært godt for at holde smaa, velordnede foredrag om enhver ting.
+     </p>
+     <p>
+      Jeg tror, han vilde hjælpe os tilrette. Han kjendte os begge temmelig godt, kom udenfra og saa os i vort hjem, og tydeligvis forstod han straks situationen.
+     </p>
+     <p>
+      Det var altid ham, der førte talen ind paa ting, som indirekte rørte ved vort forhold. Altid saadan i sin almindelighed; vi lod alle tre, som vi slet ikke talte om os selv, – men alligevel fik Otto og jeg sagt hinanden saa meget, og Henrik gav snart den ene og snart den anden ret, fik pointerne frem, saa vi begge blev opmerksomme paa meget, som vi ikke før havde forstaat, – vi som gik midt opi det.
+     </p>
+     <p>
+      Altsaa, det var etslags opgjør – eller en oprydning. Og det kan jeg jo ikke negte – da der var ryddet op, saa det lidt tomt ud indeni mig.
+     </p>
+     <p>
+      Det var en farlig følelse. Jeg havde det nemlig saa godt og havde saa altfor god tid til
+      <pb n="69"/>
+      at beskjæftige mig med mig selv. – Saan som Otto er, saa virket det paa ham til, at han tog meget mere hensyn til mig end før. Han havde jo alt i mange aar stelt livet til for mig, uden tanke paa, at jeg muligens slet ikke var saa begeistret for det hjem og den omgangskreds og de vaner, han anlagde for os begge – det faldt ham ikke ind, at mine meninger var andet end «indfald», som han ikke havde tid til at beskjæftige sig med, og lutter travlhed for at gjøre det godt for mig.
+     </p>
+     <p>
+      Nu traf han pludselig paa de samme meninger hos Henrik. Jeg tænker mig, de allerfleste mænd hører mere paa en ven, som de til og med ser noksaa op til, end paa sin kone, som de har havt saan en otte–ti aar. Otto gjorde det ialfald.
+     </p>
+     <p>
+      Forresten styrket det ogsaa svært min selvtillid at være gjenstand for Henriks opmerksomhed og deltagelse.
+      <emph>
+       Lidt
+      </emph>
+      havde jeg jo altid beundret ham, saasom han var pen og snakket godt for sig; nu, hjemkommen fra udlandet, havde han nyhedens interesse, og det var ganske pikant at forny det gamle, fortrolige forhold. – Han havde efter sigende «levet» meget i de aar – i alle ordets betydninger; det antydet Otto, og fruerne i min kreds talte ivrig om det;
+      <pb n="70"/>
+      de fandt ham rasende interessant og sød og var svært imponerte – og jeg var jo saa passelig indgaat med dem, saa jeg var mere paavirket af deres synsmaader, end jeg selv vidste.
+     </p>
+     <p rend="airAbove">
+      Altsaa, jeg drev ganske passiv med strømmen og pleiet mine stemninger.
+     </p>
+     <p rend="airAbove">
+      Henrik havde indrettet et nydeligt ungkarshjem paa en kvist i Munkedamsveien. Otto og jeg tilbragte jevnlig aftnerne der – jeg i den gamle
+      hjørnesofa eller paa altanen, i snak med Henrik, der viste mig sine mapper og kunstsager, mens Otto sad ved flygelet – han var dengang svært ivrig med sin musik, tog timer hos fru Onarheim og øvet ind svære sager. – For mig var de aftnerne i Henriks stille, stilfulde stuer en ren
+      vederkvægelse.
+     </p>
+     <p>
+      «Fan saa nobelt Henrik har det, du,» sagde Otto, en aften vi gik hjem. «Det
+      <emph>
+       er
+      </emph>
+      nu noget andet end for eksempel – vort hjem.»
+     </p>
+     <p>
+      «Ja,» sagde jeg, – «det er du, som har æren af vort – liker du det ikke saa –»
+     </p>
+     <p>
+      «Gudbevars! Vist har vi det nydelig og baade hyggelig – men jeg mener bare, det er ikke saan – originalt – som Henriks. – Jeg er jo ikke vænnet til at skjønne mig paa
+      <pb n="71"/>
+      sligt, jeg,» sagde han lidt efter, «men igrunden saa forstaar jeg ikke, Marta – jeg kunde netop tænke mig, at du kunde faat det til i den stil.»
+     </p>
+     <p rend="airAbove">
+      Jeg ved ikke engang, hvad det var, vi havde trættet om den eftermiddagen – en eller anden smaating. Men jeg var grætten, fordi jeg havde havt et svare stræv med at rigge ud ungerne til barneselskab. Vi sad paa altanen og drak kaffe, og jeg var paastaaelig, saa Otto tilsidst brød ud:
+     </p>
+     <p>
+      «Du maa da for fan, undskyld, indrømme, at der er
+      <emph>
+       noget
+      </emph>
+      , du ikke skjønner bedre end alle andre!»
+     </p>
+     <p>
+      Henrik kom i det samme, og lige efter grosserer Høidahls barn for at hente vore. – Jeg havde ofte ærgret mig over Ottos naive beundring for disse smaa storborgerunger, især for de veslevoksne miniaturdamerne heroppe i Westend – det var rent som han følte sig beæret ved at hans barn skulde faa være sammen med dem. Nu sad han paa verandagelænderet og hørte paa det, som
+      den smaa
+      Judit gav tilbedste om alle de baller, hun havde været paa den vinter – det var godt at høre, at jentungen løi og skrød, men Otto sad rent imponeret og hørte paa.
+     </p>
+     <p>
+      I det samme skreg Halfred, han og Einar var
+      <pb n="72"/>
+      tydeligvis kommet
+      op og slaas – Otto fór ind for at se, hvad der stod paa.
+     </p>
+     <p>
+      I det samme han løb, saa Henrik og jeg paa hinanden og smilte. Og der var noget i det smil, som fik mig til at skamme mig over mig selv. Jeg følte, det gik Henrik ligedan. Og som for at forsvare mig, begyndte jeg at tale – for første gang rent ud om mit og Ottos forhold. Det blev nok nærmest en anklage mod min mand – han
+      <emph>
+       ser
+      </emph>
+      ingenting, sagde jeg som en slags undskyldning – men det
+      <emph>
+       blev
+      </emph>
+      en anklage.
+     </p>
+     <p>
+      «Nei, han ser ikke, at du er anderledes,» sagde Ottos ven, og han prøvet etslags forsvar, men det blev saa underlig mat.
+     </p>
+     <p>
+      Otto kom tilbage igjen; han skulde gaa, og han stanset ved min stol, kysset mig og drog mig op af stolen.
+     </p>
+     <p>
+      «Spør, om Marta er pen i den kjolen da? Er hun ikke nydelig kanske?»
+     </p>
+     <p>
+      Det var for at jeg skulde glemme, at han havde været hidsig. Saa gik han.
+     </p>
+     <p>
+      «Jo, gratulerer med ny kjole,» sagde Henrik og saa paa mig et øieblik. Saa tog han fort øinene til sig.
+     </p>
+     <p>
+      Men ikke fort nok. Og jeg havde hørt, han var saa rar i stemmen. Og det gav et hop i mit hjerte. Han er forelsket i dig!
+      <pb n="73"/>
+     </p>
+     <p>
+      Jeg tænkte slet ingenting ved det, andet end jeg syntes, det var moro. En sytten aars backfisch kunde ikke tat det mere tankeløst, glædet sig mere kynisk.
+     </p>
+     <p>
+      Jeg koketterte med Henrik den aften, bevidst og noksaa simpelt endda. Jeg havde en plug i min sko, som gjorde ondt, og jeg sparket skoen af og bad Henrik banke pluggen ned med en sten. Han gjorde det og gav mig skoen paa igjen.
+     </p>
+     <p>
+      «Det er svært, hvor du er fin da,» sagde Henrik, «gaar du med silkestrømper til hverdags?»
+     </p>
+     <p>
+      «Jeg faar saa mange af Otto,» sagde jeg, – «han fik smag for det i Paris,» – og jeg fortalte om, at jeg danset cancan for ham.
+     </p>
+     <p>
+      Henrik saa ud, som om han havde spist noget bittert. – «Det burde du virkelig forsøge igjen.»
+     </p>
+     <p>
+      «Jeg tror ikke, det vilde hjælpe noget nu,» sagde jeg. Vi gik op og ned i haven.
+     </p>
+     <p>
+      «Hver ting til sin tid, synes Otto, ser du.
+      <emph>
+       Han
+      </emph>
+      er færdig med cancan nu. Nu skal vi hygge os i vort koselige hjem. Og hygger ikke jeg mig, blir det leit for mig – for han
+      <emph>
+       ser
+      </emph>
+      det ikke engang. Det er ikke, fordi han ikke
+      <emph>
+       tænker
+      </emph>
+      paa mig, for det gjør han nok, men det er altid paa mig som hans egen
+      synderlige ting.»
+      <pb n="74"/>
+     </p>
+     <p>
+      Og vi talte igjen om Otto.
+     </p>
+     <p>
+      «Han tænker meget mere paa alle andre end paa sig selv, paa en maade. Men de andre maa være hans paa et eller andet vis. Derfor arbeider han saa godt ogsaa, for paa en maade arbeider han bare for sig selv – for sit. Gjøre et arbeide for arbeidets egen skyld tror jeg ikke, han kunde. Han kunde dø paa flekken, gladelig, for dig eller barna – men for en sag – nei!»
+     </p>
+     <p>
+      Husmand! – fór det gjennem mig. Jeg følte det med det samme, nei, det har du ingen ret til at sige; dette her er stygt og sjofelt, fy. Jeg prøvet at slette ordet ud – men ikke virkningen af det – jeg vilde se lidt ned paa Otto.
+     </p>
+     <p>
+      «Stakkar, han stræver for at opfylde alle dine ønsker saa fort, at du ikke faar tid til at
+      <emph>
+       ønske
+      </emph>
+      engang – og saa falder det ham aldrig ind, at noget menneske kan ønske anderledes end han. – Ser du, han har jo for længe siden glemt, at du ikke er
+      <emph>
+       født
+      </emph>
+      som Marta Oulie.»
+     </p>
+     <p>
+      «Henrik,» sagde jeg, «jeg ønsker sommetider, han ikke var saa forfærdelig snil – jeg ønsker næsten heller, han gav mig juling. For dette her, det er jo noget, som der ikke finds raad med.»
+     </p>
+     <p>
+      «Du har vel ogsaa selv lidt skyld – du maatte vel ogsaa kunnet hævdet dig lidt mere.»
+      <pb n="75"/>
+     </p>
+     <p>
+      «Nei. Jeg kunde det ikke, mens jeg var forelsket. Og nu bagefter –»
+     </p>
+     <p>
+      «Bagefter –» sagde Henrik, i en tone, som pludselig gjorde mig usikker, saa jeg saa ned og sagde sagte:
+     </p>
+     <p>
+      «Bagefter er bagefter. – Der finds ingen raad med det.»
+     </p>
+     <p>
+      «Bliv som Otto,» sagde Henrik heftig. «Det er raad. Otto, skal jeg sige dig, det er et menneske, som forstaar at leve, det. Leve! kalder folk det, naar en kar rangler sig i filler for at faa afløb for lidt af den energien, han ikke kan faa brugt op her hjemme i ordentligt arbeide. Otto, han kan arbeide han – gaar paa, saa det spruter. Du
+      <emph>
+       aner
+      </emph>
+      formodentlig ikke, for en forretningsmand han er – han
+      <emph>
+       vil
+      </emph>
+      gjøre forretninger, ser du, og det gaar, det gaar, hvad han kommer opi. Vitsen er, at Otto aldrig finder paa at ville noget, som ikke kan gaa. Folk føler det, de har tillid til ham. Han
+      spilder aldrig sine kræfter paa noget. – Og altid føler folk, det er
+      <emph>
+       fair
+      </emph>
+      , der han er med. – Igrunden er jeg jo en stymper mod ham – en ren uduelighed som forretningsmand.»
+     </p>
+     <p>
+      «Du! – Hvis du var det, tror du saa, du var kommet saan ivei over i England for eksempel!»
+      <pb n="76"/>
+     </p>
+     <p>
+      – «Aa det var mest heldet. – Forresten, det er ogsaa mere her hjemme, jeg merker det. Ude i verden er det lettere at være kar. – Nei ser du, saanne som Otto, der altid gaar videre veien frem og lar det, som er færdig, være færdig, og tar fat paa næste kapitel af livet, brændsikre paa, at det er endda bedre – det er de, der har ret, og ikke vi, som sidder paa veikanten og spekulerer paa det, som er hændt –
+      om det kunde været anderledes – og drømmer om, hvordan det var at naa det, som man
+      <emph>
+       ved
+      </emph>
+      , man ikke
+      <emph>
+       kan
+      </emph>
+      naa.»
+     </p>
+     <p>
+      «Saanne som du og jeg,» sagde jeg. –
+     </p>
+     <p>
+      «Som du og jeg ja.»
+     </p>
+     <p>
+      «Henrik,» sagde jeg, – «du skulde se at falde til ro.»
+     </p>
+     <p>
+      «Tak, – hvad mener du forresten med det?»
+     </p>
+     <p>
+      «Ja for eksempel – du kunde gifte dig.»
+     </p>
+     <p>
+      Henrik lo sagte:
+     </p>
+     <p>
+      «Naa – saa det anbefaler
+      <emph>
+       du
+      </emph>
+      !»
+     </p>
+     <p>
+      «En mand blir vist aldrig rigtig ulykkelig gift,» sagde jeg fort, – «altsaa, naar han ikke faar en daarlig kone. – Jeg tror da for eksempel ikke, en mand lider ved at være gift med en og elske en anden – naar hans kone er pen og snil da.»
+     </p>
+     <p>
+      Henrik saa over paa mig:
+      <pb n="77"/>
+     </p>
+     <p>
+      «Det ved du ikke noget om.»
+     </p>
+     <p>
+      Jeg blev forskrækket over, hvad jeg havde sagt – eller hvordan Henrik opfattet det. Jeg havde slet ikke ment at sige noget, der skulde referere sig direkte til Henrik og mig. – Paa samme tid følte jeg et sterkt velbehag ved saadan at glide udfor – uden at ha villet det.
+     </p>
+     <p>
+      Den følelse blev sterkere, mens Henrik sad og saa paa mig, saa han glemte at ta sine øine til sig – vi sad i halvmørket oppe paa altanen.
+     </p>
+     <p>
+      «Ser du,» sagde Henrik ganske sagte – «om jeg havde sagt, da du forlovet dig, at det vilde gaa saan – du havde ikke villet tro paa det, vel? Jeg tænkte det sommetider, det gaar ikke, de er for forskjellige, men du var saa lykkelig da, – du havde ikke hørt paa mig, og jeg tænkte, det kan jo ligesaa gjerne gaa godt. – Jeg syntes, det var daarligt at sige det ogsaa – det havde det været ogsaa forresten. – Du
+      <emph>
+       har
+      </emph>
+      været lykkelig ialfald.»
+     </p>
+     <p>
+      «Det var vist bedre ikke at ha været det.»
+     </p>
+     <p>
+      «Nei,» sagde Henrik. – «Det er fattigt, du, at maatte sige til sig selv,
+      <emph>
+       lykken
+      </emph>
+      , den har jeg aldrig kjendt.»
+     </p>
+     <p>
+      Jeg gik hen til ham.
+     </p>
+     <p>
+      «Stakkars Henrik –» sagde jeg og strøg nedover hans kind.
+      <pb n="78"/>
+     </p>
+     <p>
+      Jeg havde virkelig vondt af ham – og svært stor sympati, naar han var saa bedrøvet for min skyld.
+     </p>
+     <p>
+      Henrik greb pludselig haardt om mit haandled – med en brændende hed haand. Saa reiste han sig braat. Og mumlet noget, der endte med godnat. Tog sin hat fra bordet og løb. –
+     </p>
+     <p>
+      Jeg stod endnu helt
+      spekulativ og saa efter ham, da barnepigen kom og sagde, at Ingrid var daarlig, jeg maatte komme ind. – Hun kastet op, havde ondt i maven og skreg, og da jeg havde faat stelt hende og sengen hendes og stagget hende lidt, vilde hun ikke gi slip paa mig – jeg skulde bære hende og bysse hende, og hun vilde sove paa fanget mit.
+     </p>
+     <p>
+      Jeg sad med hende inde paa dagligstusofaen, da jeg pludselig kvak til; der var nogen udenfor vinduet. Jeg lagde barnet, som sov nu, paa sofaen og gik ud.
+     </p>
+     <p>
+      Det var Otto – jeg skalv i stemmen af skræk og en meningsløs, skyldbevidst forfjamselse.
+     </p>
+     <p>
+      «Men kjære i alverden – staar du her?»
+     </p>
+     <p>
+      Tulla vaagnet og lod sig godt fornøiet bringe tilsengs igjen af far. Otto kom ud igjen til mig, som var blit staaende i den mørke have.
+      <pb n="79"/>
+     </p>
+     <p>
+      «Det var da et besynderligt indfald af dig og staa der og titte,» sagde jeg gnavent.
+     </p>
+     <p>
+      Otto lo og tog godt og fast om mig.
+     </p>
+     <p>
+      «Ja sig det! Ved du, man kan faa saanne artige indfald. – Jeg kom udenfor haveporten og saa det lyse i stuen – saa kom jeg til at tænke paa, hvordan det havde været, om jeg havde været en fremmed, som kom og saa det lyse saan en vakker sommernat, fra et hyggeligt hus inde i en deilig have. – Saa bildte jeg mig ind da,
+      for leven, jeg gaar op gjennem haven for at se, hvad for folk der bor der, jeg ser, de har mange vakre blomster i haven sin, kjender lugten af tobaksblomster og resedaer – saa titter jeg ind og ser en nydelig, ung frue sidde inde i stuen med en deilig liden unge paa fanget – jeg stod Gud hjælpe mig og misundte mig selv.»
+     </p>
+     <p>
+      Og Otto lo med sin høie, friske guttelatter og knuste mig optil sig. Jeg kysset igjen – lange, varme, ømme kys gav vi hinanden, og tæt lænet ind mod hinanden gik vi
+      rundt og rundt om rosenplænen. –
+     </p>
+     <p>
+      «Det er paa tide vi gaar og lægger os du, skatten min,» hvisket Otto. Og vi gik arm i arm opover. Saa siger han, mellem to kys:
+     </p>
+     <p>
+      «Det er jo greit, Ingrid er forliden til at være med i barneselskab da.»
+      <pb n="80"/>
+     </p>
+     <p>
+      Det kom som en bøtte koldt vand ovenpaa dagens mange vekslende stemninger.
+     </p>
+     <p>
+      Jeg gjorde mig lempelig fri og gik ind. Og da Otto kom, afviste jeg yderligere omfavnelser med et blidt nik, jeg havde hovedpine.
+     </p>
+     <p>
+      «Henrik blev til aftens, han havde ogsaa hovedpine, luften var saa trykkende, vi fik vist torden.»
+     </p>
+     <p>
+      Otto medgav særdeles føielig, vi faar vist torden ja. – Og han gav mig
+      antipyrin og overveiet, jo, vinduet fik vist bli staaende, fik vi torden, vaagnet han vel nok. – Jeg laa med lukkede øine og et lidende smil og vendte kinden til, da han kysset godnat – og saa kysset han kinden, klappet panden og ønsket god bedring. Saa strakte han sig i sin seng, saa det knaget.
+     </p>
+     <p rend="airAbove">
+      Det er ligesom med den skjorten i
+      eventyret, hun havde spildt talg paa og prøvet at vaske ren. Jo mere hun vasket og gned, des svartere blev den.
+     </p>
+     <p>
+      Til en viss grad var det nu ligefrem uerfarenhed. For jeg havde virkelig absolut ingen erfaringer udenfor Otto. Og jeg var kommet til at se paa mig selv med hans øine, og da forholdet mellem os var blit hverdag og vane,
+      <pb n="81"/>
+      saa følte jeg mig sikker paa, at enten jeg likte det eller ikke, saa vilde livet jo aldrig mere have ærinde til mig, uden gjennem Otto eller barnene.
+     </p>
+     <p>
+      Saa opdaget jeg, at Henrik var forelsket i mig. Jeg blev virkelig ganske dum af overraskelse. Og jeg saa, at for ham var jeg et menneske for mig selv, ikke bare fru Oulie og mamman til tre smaa Oulier. – Jeg begyndte at betragte mig selv. – Jeg vidste nok, jeg var, hvad man kalder en pen, ung frue. Men jeg tror igrunden ikke, jeg tænkte større ved det – andet end, at den unge pigen, der stod billeder af paa Ottos skrivebord, hun var borte som sneen fra ifjor; jeg var jo heller ikke uvidende om den
+      ravage, tre barselsenge havde anrettet paa mine yndigheder. Nu opdaget jeg med en gang, naar jeg speilet mig, snørt og stram, i en ny, lys sommerkjole, med haaret høit opsat og krøllet, at jeg var sandelig og virkelig baade ung og vakker, trods de tre og tredve aar, tre barn og en indsat hjørnetand.
+     </p>
+     <p>
+      Det begyndte med et frimureri mellem Henrik og mig fra den aften – en melankolsk forstaaelsesfuld sympati. Fra min side har historien igrunden aldrig havt noget at gjøre med erotik eller kjærlighed. – Vore møder, vore ture
+      <pb n="82"/>
+      sammen i skumringen, mine besøg hos ham, hvor jeg merket faren, det utilladelige, sive ind over os og gjøre luften tung, Henriks kjærtegn –
+      jeg begjærte intet af alt det for hans skyld, men for min egen. – Jeg, jeg, jeg vilde hyldes af hans øine og hænder og læber; det kom ikke saadan, at jeg maatte gi mig selv hen til den, der var blit min viljes herre – men
+      <emph>
+       jeg
+      </emph>
+      vilde have
+      <emph>
+       ham
+      </emph>
+      , med hud og haar.
+     </p>
+     <p>
+      Det var en naturdrift, der brød op i mig,
+      raa og umættelig, og jeg lille tækkelige grossererfrue, der gik saa pent og stille og passet mit hus, blev i virkeligheden et ondt og farligt skadedyr. – Det var ikke ret og slet – forfængelighed, – noget inderligere, maaske det, som er sjælen i forfængeligheden eller sjælens forfængelighed.
+     </p>
+     <p>
+      Jeg tænkte ikke paa noget i verden uden dette mit jeg. Mine barn – jeg syntes, det var nok, naar jeg sørget for, at de fik mad og klæder, og jeg var uden at skamme mig sammen med min elsker to værelser fra der, hvor de laa og sov. Henrik, ham tænkte jeg vel allermindst paa;
+      igrunden brød jeg mig jo ikke mere om ham end om speilet paa mit toiletskab. For jeg tænkte aldrig paa, hvad han vel dog maatte lide ved forholdet. Ganske vist var han
+      <pb n="83"/>
+      meget bedre end jeg, for han elsket mig virkelig, og havde jeg bare kunnet lade ham være i fred, var hele historien ikke blit af. Igrunden er det altsaa ganske urimeligt af mig, at jeg hader ham nu. Alligevel – en mand paa otte og tredve aar skulde ikke være nogen
+      Gretchen, og han skulde respektert sin vens kone for vennens skyld, selv om konen fortjente alt andet end respekt. –
+     </p>
+     <p>
+      Otto – jeg
+      affærdiget ham med det ene ord husmand. Jeg kjørte ned og hentet ham, da han kom fra London, næsten skadefro, uden følelse af skam eller skyld. –
+     </p>
+     <p rend="airAbove">
+      Jeg tænkte slet ikke noget ved Ottos urolige, nervøse væsen, de første dage efter han var kommet hjem fra sin aarlige forretningsreise. – En dag sagde han, han vilde flytte ind og ligge i røgeværelset – «til jeg blir bra for denne hosten. Jeg vækker dig bare med den og uroer dere allesammen».
+     </p>
+     <p>
+      «Ja,» sagde jeg, «den er virkelig lei, den hosten din. Du har gaat med den helt siden ivaar, tror jeg. Du burde rigtig gaa til doktor med den.»
+     </p>
+     <p rend="airAbove">
+      Jeg vaagnet en nat ved det, at jeg syntes, Otto havde været inde i soveværelset. Jeg lagde
+      <pb n="84"/>
+      merke til, at døren ind til hans rum stod oppe – han pleiet at ha den lukket for ikke at forstyrre os med sin hoste. Jeg snudde mig om paa den anden side for at sove videre; men i min halvsøvn hørte jeg, at han var oppe og gik inde ved siden af.
+     </p>
+     <p>
+      Lysvaagen og underlig ængstelig blev jeg siddende op i sengen en stund – saa ved lyset af natlampen, at klokken var halv tre. –
+     </p>
+     <p>
+      Om en stund stod jeg op og listet hen til døren. Ottos seng var tom – han var ikke i værelset. Jeg tittet ind i dagligstuen – der stod han, helt paaklædt, henne ved hjørnevinduet. Han maa ha hørt mig komme, for han vendte sig om mod mig. –
+     </p>
+     <p>
+      I det samme jeg saa hans ansigt – –
+     </p>
+     <p>
+      Vor hyggelige, fredelige stue med det milde skjær fra gaslygten udenfor karnappet, det var, som der pludselig skyllet mørke og rædsel ud fra hver krog. – –
+     </p>
+     <p>
+      Jeg saa Ottos ansigt, blegt, fortvilet, fortrukket, jeg saa, han havde grædt. – Han ved det, jog det gjennem mig.
+     </p>
+     <p>
+      Hjertet støkket ligesom, og jeg kjendte ikke gulvet under mine fødder. Saa begyndte mit hjerte at hamre, mens der brød en klam sved ud allevegne over hele kroppen, og hænder og
+      <pb n="85"/>
+      fødder blev dødkolde. – Vi stod og stirret paa hinanden.
+     </p>
+     <p>
+      «Jeg kunde ikke sove,» sagde Otto underlig tykmælt og besværlig, – «det er ikke noget – saa tog jeg paa mig igjen og gik lidt ned i haven – gaa ind og læg dig du, Marta, det er ingenting.» –
+     </p>
+     <p>
+      Han gik nogen skridt frem, og saa sank han, som han segnet, ned i sofaen. Hovedet faldt fremover paa ham, og armen og haanden laa dødt paa bordpladen.
+     </p>
+     <p>
+      Angst og maalløs gik jeg fremover mod ham:
+     </p>
+     <p>
+      «Kjære, hvad er det – er du syg, Otto?»
+     </p>
+     <p>
+      Da kastet han sig frem over bordet og graat.
+     </p>
+     <p>
+      – Mig var det, som kaldte selve livet, det virkelige, levende liv,
+      <emph>
+       mit
+      </emph>
+      liv, paa mig, da jeg saa min mand graate. Jeg fattet om hans hoved, hans haandled, bøiet mig over ham og kaldte paa hans navn. Da han vendte sig, greb mig og drog mig ned paa sofaen ved sin side, gjemmende ansigtet i mit fang, saa jeg følte hans taarer og hans brændende aande mod min hud gjennem natkjolen – det var mit eget jeg, der vendte tilbage, det, som var vokset sammen med denne mand, og jeg graat, fordi han graat; taarerne brød op af mit væsens inderste grund, som vandet brister op over smeltende is. –
+      <pb n="86"/>
+     </p>
+     <p>
+      Otto reiste sig lidt, laa med hovedet bagover mod sofaryggen og samlet sig. Saa tog han om mit hoved og tørret taarerne af mit ansigt med sin ene haand:
+     </p>
+     <p>
+      «Stakkars, stakkars Marta, som jeg har skræmt dig – saa, saa, nei ikke graat.» –
+     </p>
+     <p>
+      «Ser du,» sagde han, da han var blit rolig, – «jeg hostet lidt blod op over i London – litegran bare. Men jeg gik til doktor straks, naturligvis –
+      spidskatarrh, sagde han. – Herregud, det er jo ikke saa farligt. – Dette her er jo bare nervøsitet af mig, jeg laa og kunde ikke falde isøvn – og saa –»
+     </p>
+     <p>
+      – Time efter time sad vi inde i den halvlyse dagligstue og snakket – prøvet at berolige hinanden. Træt, frysende, klam efter graaten, sad jeg hos ham og snakket trøstende og opmuntrende, og mindet om det, den sidste maaned havde gjort mig til, laa som en rædsel, der lurte paa mig – bare ikke se derhen! Jeg hvisket til Otto og klappet hans graathede ansigt, prøvet ligesom at flygte fra mig selv over i ham, og prøvet med mine svage hænder at holde ham oppe og støtte ham, naar jeg merket angsten komme over ham.
+     </p>
+     <p>
+      Saa bad han mig gaa iseng:
+     </p>
+     <p>
+      «Du sidder her og forkjøler dig, stakkar!»
+      <pb n="87"/>
+     </p>
+     <p>
+      – Og han lagde armen om mig og drog mig ind, og i sovekammerdøren stanset han, saa omkring sig paa de tre smaa sengene i natlampens lys og løftet armene lidt:
+     </p>
+     <p>
+      «Aa det er jo dem, jeg tænker paa – dem og saa dig, Marta – hvordan det skal gaa med dere!»
+     </p>
+     <p>
+      Jeg tog ham om halsen og kysset ham. –
+     </p>
+     <p>
+      «Kjære, kjære – spidskatarrh – lægerne siger jo nu, de aller fleste mennesker har havt det, uden at vide det engang.» –
+     </p>
+     <p>
+      Og jeg bad ham gaa iseng, rettet paa puderne og lagenerne og snakket for ham.
+     </p>
+     <p>
+      «Det er jo det, Marta, at mor døde af det – og Lydia og
+      Magda – –. Jeg har jo aldrig før tænkt paa det – jeg, som var saa kjærnefrisk og sterk – jeg syntes jo altid, skulde ikke vi to kunne gifte os med god samvittighed, hvem i verden skulde saa kunne det.» –
+     </p>
+     <p>
+      Jeg lagde mig, og jeg maatte op igjen for at se, om Otto faldt isøvn, og jeg dækket og dægget for ham som et barn. – Det var lyst, inden jeg faldt isøvn.
+     </p>
+     <p>
+      Klokken var elleve, før jeg vaagnet. Da jeg spurgte efter Otto, sagde pigen, at grossereren var gaat paa kontoret til sædvanlig tid.
+     </p>
+     <p>
+      – Gud i himmelen fri alle mennesker for slig en formiddag som den – –
+      <pb n="88"/>
+     </p>
+     <p>
+      Jeg skrev etpar linjer til Henrik – at alt maatte være forbi, at jeg var fortvilet og skammet mig. Ikke mere. Jeg skrev ikke, at jeg hadet ham. Ikke heller, at jeg ønsket, han var død. Men jeg ønsket det af hele min sjæl. Var han borte, skulde det været, som han aldrig havde været. – Jeg længtes efter Otto fra time til time og gruet, – bildte mig ind, han maatte faa vide det paa en eller anden maade, spekulerte ud alle de muligheder, der var for, at han skulde faa det at vide. – Og bare jeg tænkte paa ham, blødte det i mig af den gamle ømhed – en ømhed, der er ganske legemlig, men ikke er begjær – lyst til at røre, klappe, være snil mod hans hoved, hans pande, øine, mund, hænder – en moderlig ømhed, der er blit merkelig angst og sky nu. – –
+     </p>
+     <p rend="airAbove">
+      I den tid, som kom, levet jeg et liv, der var som at balancere sig frem paa en smal, smal egg; man maa ikke se omkring sig til nogen side, bare frem – ellers svimler man og styrter ned.
+     </p>
+     <p>
+      Jeg levet saa at sige fra dag til dag. Hver morgen kvalte jeg med magt alle tanker udover dagens arbeide, saa godt jeg kunde, og samlet al min kraft om det ene, at holde modet oppe dagen over og vise Otto og barna et roligt ansigt.
+      <pb n="89"/>
+     </p>
+     <p>
+      Jeg merket, jeg skulde ha et barn, og jeg blev nok fortvilet, men det var ingen ny fortvilelse – bare som om tommeskruen paa pinebænken blev dreiet en grad fastere. –
+     </p>
+     <p>
+      Det værste var Ottos bekymring over den lille stakkar, som skulde komme. Jeg merket, hvad han led ved at tænke paa det – skjønt han efter den natten aldrig nogensinde mere gav sig over eller klaget. Han havde det noksaa godt ogsaa; svært forsigtig var han, og vi tog allesammen alt det hensyn til hans sygdom, som vi kunde; men han blev ved at hoste, skjønt der ikke viste sig blod i opspyttet.
+     </p>
+     <p>
+      Vi leiet ved Vettakollen, og Otto var som oftest bare paa kontoret om formiddagen.
+     </p>
+     <p>
+      Henrik saa jeg jo heldigvis forholdsvis sjelden. Egentlig begriber jeg ikke, hvordan jeg kunde beherske mig og være saapas naturlig, naar vi var sammen. Men det gik lettere, end jeg selv havde tænkt mig mulig. –
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Mia Bjerke var heroppe i formiddag. Vi talte om mig, der skal begynde paa skolen igjen.
+     </p>
+     <p>
+      «Jeg maa sige, det er kjækt af dig, Marta,» siger Mia, – «men det kan da umulig være nødvendigt du – og Otto har det da saa bra nu.»
+      <pb n="90"/>
+     </p>
+     <p>
+      Det ser vist igrunden ogsaa noksaa meningsløst ud. Otto liker det heller ikke.
+     </p>
+     <p>
+      De andre mistænker mig vel igjen for at ville være original. Det gjør de jo altid.
+     </p>
+     <p>
+      De har altid merket, at jeg ikke følte mig rigtig hjemme mellem dem. Og alligevel har de bestandig været hyggelige mod mig. Mest for Ottos skyld naturligvis, men ogsaa fordi de er snille.
+     </p>
+     <p>
+      Jeg var buden ud til Jensens paa Snarøen isøndags. Jeg sad hele tiden og tænkte paa, hvor der egentlig er hyggeligt – med
+      moquettesmøblerne og urnerne og palmerne og søilerne; det er da ikke det, som det kommer an paa i et hjem, hvordan der ser ud, men hvordan menneskene er.
+     </p>
+     <p>
+      Hvis jeg virkelig havde været begavet, som jeg bildte mig ind engang, saa havde jeg forstaat længe før, at livet det er
+      <emph>
+       bare menneskene
+      </emph>
+      ; skjæbnen, det er bare menneskenes liv, der griber ind i hinanden. Og jeg, som kom til at leve mellem sunde, bra og dygtige mennesker, som Ottos venner er, jeg havde fundet ud, hvordan jeg kunde stemme mig sammen med dem; – jeg havde kunnet det, uden at gjøre vold paa mit eget væsen. Man
+      <emph>
+       kan
+      </emph>
+      det, – det gaar an at vælge ud af sit eget det, man har brug for til hverdags, og dyrke det.
+      <pb n="91"/>
+     </p>
+     <p>
+      Men jeg har gaat og sletikke tænkt, netop mens jeg bildte
+      mig ind at tænke. Jeg har aldrig forsøgt at se disse mennesker fra indsiden – jeg dømte dem udenfra, fra det, som sletikke er deres eget, deres væsen og smag og ideer, som de netop selv har faat udenfra. Mia, for eksempel – det som er moderne og udstillet i de fine butikerne, det er pent. Jeg har opholdt mig ved denslags ting hos hende og fundet, at vi to havde igrunden ingen fælles interesse – og saa er vi beggeto gifte og har barn.
+     </p>
+     <p>
+      Jeg var inderlig skamfuld, da hun kom herop idag. Mindst i to maaneder har jeg tænkt mig ud til hende, men opsat det. Saa kommer hun her for at tilbyde mig syltebringebær og har jordbær og roser med til Otto.
+     </p>
+     <p>
+      Stakkars lille Mia; hun har det ikke for morsomt hun heller med det evindelige ungesjauet. Det blev ikke mig, som gik rundt med roser og jordbær til mine syge venner, hvis jeg var Mia. Men hun sagde bare ganske spagfærdig, da vi kom ned fra Grefsen igjen og satte os i trikken:
+     </p>
+     <p>
+      «Uf ja du, Marta, der skal nogen til det værste ogsaa her i verden.»
+     </p>
+     <p>
+      Aa livet, livet, livet!
+      <pb n="92"/>
+     </p>
+     <p>
+      Alle de spildte, øde aar, jeg bare har gaat og stirret ind i mig selv, til jeg blev alene midt mellem alle menneskene, fordi jeg bare saa paa deres tilfældige, planløse spor, men ikke paa dem selv.
+     </p>
+     <p>
+      Fordi om jeg er lært til at se paa ting, de ikke ser, og fordi om folk har fyldt min hjerne med ting, de ikke tænker paa – hvad har det med livet at gjøre! Om en har sort haar og en brunt, en en rank ryg og en en kroget – vore legemer lever paa samme maaden, blodet løber gjennem aarerne, og det trænger til mad og drikke. Vore sjæle trænger det samme, lider den samme sult og tørst, om det er lidt forskjellig næring, de er opfødt til at kræve. – Vi har vel sagtens ikke anden sjæl end vort legemes liv, – den lever i os som flammen i stoffet, der brænder.
+     </p>
+     <p>
+      Alle mine vildfarne veie. – Nu skal det bli anderledes. Jeg ved ikke, hvad livet er, men ensomhed, det er ikke livet.
+     </p>
+     <p>
+      Saa sikkert, som vi er avlet og født af andres liv, saa maa vi opholde tilværelsen ved det, vi faar af andre. Og det maa vi kjøbe med at gi af vort eget hver eneste dag.
+     </p>
+     <p>
+      Sommetider, naar jeg sidder hos Otto, faar jeg saadan lyst til at lade mig glide ned ved
+      <pb n="93"/>
+      siden af ham, lægge mit hoved paa hans knæ og sige – jeg ved ikke hvad. Ingenting helst, kanske.
+     </p>
+     <p>
+      Jeg kan jo aldrig tale til ham om dette. Det er igrunden derfor, jeg har skrevet det ned altsammen, – det er det af mig selv, jeg har skilt ud og nu lægger hen – jeg har ikke brug for det i det liv, jeg skal til at leve.
+     </p>
+     <p>
+      Jeg har betalt mere for mine erfaringer, end et menneske har raad til. Men nu nytter det ikke at sørge over det.
+     </p>
+     <p>
+      I overmorgen kommer mine smaagutter hjem, og dagen derefter begynder jeg paa skolen. Det er ikke andet end arbeidet for mit hjem nu, ikke mere, men hellerikke mindre. Og saa kommer Otto hjem snart. Min egen, egen, egen ven!
+     </p>
+     <p>
+      – Der er sting af smerte, som aldrig vil holde op at pine – hver gang jeg ser Henrik, hver gang Otto kjæler for lille Aase. – Kanske kan jeg vænne mig til det med tiden. Andre har maattet gjøre det. Jeg ved bare, jeg
+      <emph>
+       maa
+      </emph>
+      kunne skabe lykke for mine egne – saa gaar det vel. Det
+      <emph>
+       skal
+      </emph>
+      gaa.
+     </p>
+     <pb n="[94]"/>
+    </div>
+   </div>
+   <div type="group">
+    <head>
+     <pb n="[95]"/>
+     
+      II
+     
+    </head>
+    <pb n="[96]"/>
+    <div type="chapter">
+     <pb n="[97]"/>
+     <p>
+      Jeg har siddet og bladet igjennem det, jeg skrev ned isommer. – Det er bare fire maaneder siden. Det er, som det mindst skulde være fire aar. Dengang var jeg saa sikker paa, det nok skulde bli godt.
+     </p>
+     <p>
+      Og alligevel har denne høst paa en maade gaat saa fort, som ingen tid før i mit liv, fra søndag til søndag, uden at jeg vidste, hvor dagene var blit af. Jeg syntes, skoleaaret var saavidt begyndt, og saa siger Halfred en dag: «Mor, idag er det tre uger til juleaften.»
+     </p>
+     <p>
+      Einar og Halfred var svært stille juleaften – især i begyndelsen da. Da jeg havde tændt træet, kunde jeg ikke lade være at graate – iaar var vi for faa til at gaa rundt det. Jeg gik ind i spisestuen; jeg vilde ikke, pigen skulde se det, og ikke barna heller da. Stakkar, de skal faa lov at glemme det, som er sørgeligt, saa meget de kan. Jeg husker fra mig selv, dengang
+      <pb n="98"/>
+      pappa var død. Skjønt jeg skammet mig over det og var bedrøvet over mig selv, saa følte jeg mig næsten forurettet, da etpar maaneder var gaat, naar mamma graat eller klaget. Barn skal slippe at sørge, siger Otto ogsaa.
+     </p>
+     <p>
+      Halfred kom ind til mig, mens jeg stod der, tog mig om halsen og kysset mig. Han stod tappert og prøvet at svælge graaten. Og da han var gaat, kom Einar.
+     </p>
+     <p>
+      De havde kjøbt saa mange presenter, gutterne, druer og blomster til Otto og til mig havde de foruden alt det, de havde lavet paa sløiden, kjøbt etpar fine, forede skindhansker. Jeg syntes, det var rent for galt, at de havde brugt saa mange penger til mig. Men Halfred fortalte stolt, hvordan de havde sparet sammen penger hele høsten:
+     </p>
+     <p>
+      «Og saa traf vi Onkel Henrik paa gaden om søndag, og saa fik vi to kroner hver os.»
+     </p>
+     <p>
+      Jeg fik mest lyst til at putte hanskerne afveien saa langt som selve den onde samvittighed. Men for gutternes skyld er jeg jo nødt til at gaa med dem, saa længe der er fillen igjen.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Otto vil ikke hjem. Siden han havde den første voldsomme blodspytning i høst, tror jeg,
+      <pb n="99"/>
+      han har havt det paa det rene, at han ikke kommer hjem mere.
+     </p>
+     <p>
+      Det er mit fortvilede indfald med at ville begynde paa skolen igjen, der er skyld i, at han vil bli deroppe. Og nu ser Otto en klog fremsynthed af mig i det og bilder sig ind, at hverken lægen eller jeg har trodd paa bedringen isommer, og han har opgivet alt haab. Jeg er aldeles raadløs, den virkelige grund kan jeg jo ikke sige ham, og mine forklaringer høres saa tomme ud. Jeg kan jo hellerikke gi op mit arbeide, som jeg har været saa heldig at faa – løbe til og fra paa den maaden gaar ikke an, og jeg maa jo være forberedt paa at skulle forsørge barnene. –
+     </p>
+     <p>
+      Naar det engang er forbi, maa jeg jo ogsaa tale med Henrik. Vi har undgaat hinanden hidtil. En dag sagde han – det var før Otto blev saa syg igjen: – «Naar Otto blir frisk, kommer jeg til at overtage en post i London.»
+     </p>
+     <p>
+      Den som bare kunde slippe at tænke paa alle denslags ting, og paa udkomme og næringssorger og slid og skolen – bare sørge og sørge og klamre sig til hvert minut, vi kan være sammen, vi som skal skilles.
+     </p>
+     <p>
+      Jeg gaar i en evig feber af angst og lider for hver time, som spildes, og jeg ikke er hos
+      <pb n="100"/>
+      ham. Og naar jeg saa er der, saa sidder jeg og sørger og lider og er ræd for at tale. Jeg sidder med mit sytøi og snakker om barna og om venner og bekjendte og bynyt, eller læser høit saanne ting, som han gjerne vil høre –
+      Lie og
+      Kielland og
+      Kipling – dødsens ræd for at komme ind paa det eneste, vi begge tænker paa. Saa ved jeg endda, at den ingen, ingen ting hjælper, denne gjerrige sparen paa hver draabe af den svindende livskraft – ikke det bitterste.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Vi elsker hinanden, og vi ved, at vi skal skilles. Der er ikke fnug af haab, ingen naade for al vor fortvilelse. Og saa siger vi ingen ting, skriger ikke op over livets ubarmhjertighed, hulker ikke med hinanden. – Idag talte vi om barnedaaben hos Bjerkes.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Jeg spekulerer og spekulerer paa en udvei til at faa Otto hjem. Jeg maatte jo kunne faa en vikar. Men han vil ikke. Han er ræd for barnene, siger han.
+     </p>
+     <p>
+      Han spørger altid saa bekymret efter Ingrid, hendes mave er i uorden, ret som det er. Og
+      <pb n="101"/>
+      iforgaars sagde han endelig, – jeg kunde forstaa, at han havde tænkt paa det længe:
+     </p>
+     <p>
+      «Er du viss paa,
+      det ikke er noget tuberkuløst? Jeg har
+      faat saan en angst i mig, du maa endelig være saa snil at faa hende ordentlig undersøgt.»
+     </p>
+     <p>
+      Jeg talte til vor huslæge, straks jeg kom hjem, og igaar var jeg hos en specialist med hende. De siger, det har ingenting med det at gjøre, men nu er jeg blit saa skræmt.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      «Jeg vilde alligevel ønske, jeg kunde leve bare til vaaren,» sagde Otto idag.
+     </p>
+     <p>
+      Han kan næsten ikke tale, klager over smerter i halsen, og øinene er ogsaa daarlige. Det er ligesom ansigtet er blit saa lidet, og hvergang han trækker pusten, blir der et stort, uhyggeligt hul under hagen.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Jeg blir irriteret, naar folk viser mig deltagelse, og irriteret, naar de ikke gjør det. De gamle af lærerne og lærerinderne paa skolen har saan sympati med mig – og jeg ærgrer mig; men de unge nye lærinderne, der sidder oppe paa lærerværelset og ler og støier eller er ved at
+      <pb n="102"/>
+      briste af indvendig lystighed, – de gjør mig ond. Jeg under ikke de unge piger deres glæde, og jeg kan smile spidst, naar de taler om livets herlighed, og jeg kommer med bitre og haanfulde visdomsord. Heldigvis gjør det vist forresten ikke spor af indtryk paa dem.
+     </p>
+     <p>
+      Hvor langt bort jeg er kommet fra alt det der. I virkeligheden har jeg ikke fnug af interesse for mit arbeide og ingen glæde i det. Jeg arbeider rent automatisk. Der er en hel verden af andet, der fylder mig nu.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Presten har været hos Otto.
+     </p>
+     <p>
+      Da jeg havde faat af mig tøiet, tog han min haand og holdt den fast; jeg skulde sætte mig paa sengekanten.
+     </p>
+     <p>
+      «Pastor Løkke har været her hos mig idag, Marta.»
+     </p>
+     <p>
+      Jeg vidste ikke rigtig hvad jeg skulde sige. Og Otto fortsatte:
+     </p>
+     <p>
+      «Det var mig selv, som sendte bud efter ham.
+     </p>
+     <p>
+      – Ser du, Marta, jeg orket ikke længer. Jeg har kjæmpet med det helt siden her i høst, da jeg skjønte – –. Jeg kan jo ikke sove stort om natten, og naar en saan ligger vaagen – –. Hver nat tænkte jeg, jeg taler med hende om
+      <pb n="103"/>
+      det imorgen. Men
+      saa naar du kom – jeg saa, du var træt og sliten og nervøs – saa vilde jeg ikke, jeg syntes, du kunde saavist ha nok at staa i endda. – Og jeg tænkte, det er fordi du er ræd, gut, at du ligger og finder ud alt dette her – –.
+     </p>
+     <p>
+      Aa men det er ikke bare det, Marta – – fordi om jeg ikke tænkte paa det, mens jeg var sterk og frisk og havde fuldt op af andet at tænke paa –
+      mit kjøbmandskab og min ager, som man siger. – Men naar man ligger slig som jeg nu, aa du kan være sikker paa, man merker, man har en sjæl!
+     </p>
+     <p>
+      Nei Marta, et menneskes liv
+      <emph>
+       er
+      </emph>
+      jo noget andet end alt andet liv paa jorden. Bare det, at man ligger og
+      <emph>
+       ved
+      </emph>
+      , at man skal dø og maa tænke paa det maanedsvis i forveien, at
+      <emph>
+       det skal
+      </emph>
+      hænde – og dem, som blir igjen efter en, hvad der skal bli af dem. – For ser du, det kan jo ikke nytte for os to at lade, som vi
+      <emph>
+       haaber
+      </emph>
+      længer – vel?»
+     </p>
+     <p>
+      Jeg laa paa knæ ved hans seng og graat. – Og Otto tog min ene haand og lagde den paa sit stakkars syge bryst et øieblik:
+     </p>
+     <p>
+      «Du forstaar det kanske ikke – men for mig ialfald –.»
+     </p>
+     <p>
+      Han laa selv og kunde ikke sige mere af
+      <pb n="104"/>
+      bare graat en stund. Saa hvisket han endda hæsere:
+     </p>
+     <p>
+      «Der
+      <emph>
+       maa
+      </emph>
+      være nogen, som er sterkere end vi mennesker.»
+     </p>
+     <p>
+      Jeg kunde ikke holde ud at tie stille længere, jeg syntes, jeg maatte kunne hjælpe ham lidt, og jeg hvisket igjen:
+     </p>
+     <p>
+      «Aa Otto, jeg har jo tænkt det samme!»
+     </p>
+     <p>
+      Da flyttet han den haanden, han holdt rundt om mig, op til min kind, og han saa mig ind i øinene og smilte lidt. –
+     </p>
+     <p>
+      Jeg blev der længe, saa længe, at det var ganske mørkt, da jeg gik nedover. Jeg fik heldigvis følge med en herre og en dame til trikken, uf den Grefsenveien er forfærdelig uhyggelig i mørke.
+     </p>
+     <p>
+      Presten Løkke har talt saa trøstende og beroligende med Otto. Han er vist forresten ogsaa en gjennem fin og elskværdig mand. Jeg gik ind paa alt, Otto sagde, og det tror jeg gjorde ham svært godt.
+     </p>
+     <p>
+      «Nei Marta,» sagde han. «Det er ikke saan. Naar man har sat fire barn ind i verden, og den, man er aller gladest i, skal sidde alene igjen, – aa det kan ikke være saan, at alle baand brister med døden.» –
+      <pb n="105"/>
+     </p>
+     <p>
+      Jeg orker ikke skrive mere iaften, jeg er saa jammerlig træt af at tænke paa alting.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Otto talte idag om vort ægteskab. Han har seet meget mere end jeg trodde.
+     </p>
+     <p>
+      Presten Løkke havde været hos ham idag igjen, og Otto snakket om det eneste, som nu fyldte ham.
+     </p>
+     <p>
+      «Jeg har fred nu, Marta. Aa det er godt at hvile ud i tillid til den, som er sterk og barmhjertig. Jeg havde aldrig trodd, jeg skulde kunne sige livet saa rolig farvel – jeg, som er saa ung og har saa uendelig meget at forlade. Jeg elsker jo livet saa, og jeg var saant et sterkt, friskt menneske. – Men nu ved jeg, at jeg mister intet af alt det, jeg holder af, jeg blir ved at eie det paa en anden maade – ligesom mere bare hjerte med hjerte. –
+     </p>
+     <p>
+      Jeg er saa glad for, at du ogsaa tror det samme. Du ved ogsaa, man kan ikke skilles for evig, naar man rigtig hører sammen. Jeg talte med presten om dig idag. Han siger, Gud forlanger vist heller ikke af dig, at du skal tage dette taalmodig og uden klage nu straks – men trøsten naar dig nok.
+     </p>
+     <p>
+      – Og barnene – jeg tror, Marta, jeg maa
+      <pb n="106"/>
+      kunne se dem og følge dem i aanden, fordi om jeg er død. Kanske vaage over dem ogsaa, paa en maade. Det er nok saa, at Gud vil være dem en bedre far, end jeg kunde – men kanske vi ikke blir helt skilt heller. –
+     </p>
+     <p>
+      Vi to, naar vi engang mødes –. Saa vil vi kunne elske hinanden meget inderligere end paa jorden, fordi der ikke længere vil være noget af det smaa, der har skilt os af og til.
+     </p>
+     <p>
+      Ser du, jeg ved jo nok, at du ikke altid har været helt lykkelig. Jeg saa det – i de senere aarene – du har altid været en urolig fugl, du lille vennen min. Jeg talte aldrig om det med dig – jeg var lidt ræd for at gjøre det værre bare. Aa, men det meste var nu da gode dage, Marta?»
+     </p>
+     <p>
+      Jeg sagde ja og jeg graat. Det er forfærdelig, at jeg er blit saa nervøs, jeg kan ikke holde taarerne tilbage, naar Otto taler slig. Men heldigvis gjør det ham ikke længer saa ondt, siden han er begyndt at tro.
+     </p>
+     <p>
+      «Egentlig har vi jo altid
+      <emph>
+       villet
+      </emph>
+      hinanden det bedste. Og Marta, engang vil vi forstaa og se alting – at alt det, som kunde
+      komme imellem, var bare smaa jordiske, uvæsentlige ting, som trængte ind mellem os udenfra. – Laa lidt i vane og opdragelse og saan. Hvor lidet det var,
+      <pb n="107"/>
+      det vil vi se en dag, naar
+      <emph>
+       ingen ting
+      </emph>
+      i den enes liv – er skjult for den anden.»
+     </p>
+     <p rend="airAbove">
+      Selv om jeg
+      <emph>
+       kunde
+      </emph>
+      tro, var der saa nogen trøst i det? «Naar ingen ting i den enes liv var skjult for den anden.»
+     </p>
+     <p>
+      Om man en dag fik se hinandens nøgne sjæle ja – og rigtig se, hvor uendelig smaa de ting var, der først skilte. Aa jeg gjorde oprør midt i himmeriges rige, fordi den, som var almægtig og alvidende, lod al den elendighed og skam og sjælefordærv og hæslighed komme – sive ind af smaabitte
+      ridser, ind i det, som begyndte saa straalende.
+     </p>
+     <p>
+      Somme tider længes jeg selv efter at tro. Jeg ønsker jeg kunde kaste det fra mig altsammen – sorgen over det meningsløse liv og ulykken, som er uoprettelig – og tro, at der var en mening med det altsammen, og en frelse. Men jeg kan ikke. Man maa jo gi slip paa sin egen sunde fornuft for at tro paa en
+      kjærlig Gud bag alt dette – og sin simpleste ærbarhedsfølelse for at kunne bilde sig ind det om den saliggjørende anger.
+     </p>
+     <p>
+      Presten havde snakket om prøvelserne, som Gud bøier de gjenstridige med – for en slavedrivergud!
+     </p>
+     <p>
+      Skulde ikke en mor tro paa det evige liv, siger Otto, hun, som selv gir liv. – Et barn er
+      <pb n="108"/>
+      et brev fra Vorherre, har jeg seet paa tryk. – En smaapige, der ikke rigtig ved, hvad hun gjør, naar hun lar sig overlevere med krans og slør og prest og klokker og musik og fanden til en mand, der ødelægger hende – en fattig kvinde, der gaar ud for at faa lidt leven, drikke sig fuld kanske for at glemme, hvor haabløst hun slider dagen lang – en pige, der blir overfaldt en kvæld paa en landevei af en fremmed slusk – de faar kanske «et brev fra Vorherre».
+     </p>
+     <p>
+      Hvad har Vorherre med mine barn. Hvad har det med evighed, hvordan kan det skulle leve uden ophør, der begyndte som et eg indeni mig. – Om barnet mit var død straks det blev født, hvordan skulde vi fundet hinanden – engang om længe, naar livet var slut for mig og. Kanske jeg havde prøvet at tro noget om det, hvis jeg havde mistet et barn. –
+     </p>
+     <p>
+      Vi mennesker skulde være skabt i Guds billede – dens, som styrer den uendelige verden. Jeg prøver at tænke det – og tænker paa mit
+      <emph>
+       liv
+      </emph>
+      , paa mine nærsynte øine. – – Jeg synes, det er barnetale.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      Jeg gik og stirret mig blind paa det, at Otto ikke forstod mig. Det faldt mig aldrig ind,
+      <pb n="109"/>
+      at ikke jeg forstod ham. – Vi har gaat i mørket og været hinanden saa nær, at havde jeg bare rakt en haand ud, havde jeg fundet ham ved min side. Vor unge elskov brændte ud, og jeg lod det slukne og saa ikke, hvor let jeg kunde næret ilden til en kjærlighed, som kunde gjort det lyst og varmt for os begge hele livet ud. Jeg, som syntes, jeg var saa klog.
+     </p>
+     <p>
+      Otto har seet, at vort liv gled ind i et feilt spor, og han har sørget over det – ikke saa bitterlig som jeg, han havde jo altid sit arbeide, og han har aldrig tænkt saa meget paa sig selv. Men han har sørget over det og længtet efter et inderligere samliv. –
+      <emph>
+       Hvor
+      </emph>
+      galt det var, saa han aldrig, dertil var pligt og troskab for ham altfor ligetil en sag, og aldrig har han vel i drømme engang tænkt sig, at to, som havde giftet sig i kjærlighed og havde hjem og barn sammen, kunde komme saa langt fra hinanden. Men jeg trodde jo altid, han intet saa.
+     </p>
+     <p>
+      Nu dukker det op i hans tale, men for ham er dette nu bare skyggen af ting, der
+      <emph>
+       har
+      </emph>
+      været. For nu er han færdig med alle disse ting. Han har havt let ved at gribe troen, han, hvis hele væsen er tro.
+     </p>
+     <p>
+      Han har spurgt mig, om jeg vilde nyde alterens sakrament sammen med ham.
+      <pb n="110"/>
+     </p>
+     <p>
+      «Gjør det ikke, hvis du ikke selv ønsker det, Marta. Disse ting kan jo ikke se saadan ud for dig, som staar midt i livet, som for mig. Du skjønner, dette maa du ikke gjøre for min skyld, men bare for din egen.»
+     </p>
+     <p>
+      Jeg er glad, jeg straks svarte ja, for jeg saa, hvor lykkelig han blev.
+     </p>
+     <p>
+      Jeg læser daglig i bibelen for ham, og vi taler nu altid om dette. Han taaler jo slet ikke at tale saa meget; hans sagte, hæse hvisken blir tilsidst helt borte, og jeg maa hvert øieblik hjælpe ham at gurgle og gi ham saftogvand at drikke. Saa tar jeg og læser for ham.
+     </p>
+     <p>
+      Jeg har ikke saa vanskelig for at gaa ind paa hans tankegang – og der er sommetider næsten som en trøst i denne legen at tro. Seet indenfra er der jo god nok sammenhæng i kristendommen – det er som at staa indeni en høi domkirke med farvede ruder – bare at jeg ved, at hele den virkelige verden og dagslyset er udenfor.
+     </p>
+     <p>
+      Aa herregud for en fortvilelse, at dette er slutten! Jeg lyver og lyver, ikke et ord, som jeg mener, tør jeg sige ham. –
+     </p>
+    </div>
+   </div>
+   <div type="group">
+    <head>
+     <pb n="[111]"/>
+     
+      III
+     
+     Løse blade
+    </head>
+    <pb n="[112]"/>
+    <div type="chapter">
+     <pb n="[113]"/>
+     <p>
+      Hvad for slags menneske er jeg igrunden? Jeg syntes selv, jeg var bra og klog, jeg gjorde en stor synd, men jeg mente vistnok, jeg var egentlig bare kommet til det, næsten uden skyld.
+     </p>
+     <p>
+      Nu ser det ud for mig selv, som jeg har været mere blind og uforstaaende end alle andre mennesker. Jeg kjender ingen, hvis liv er gaat saa istykker som mit. Og det maa jo komme fra noget inde i mig selv.
+     </p>
+     <p>
+      Naar jeg ser rundt om mig i stuen paa barna, der ligger og sover, saa tænker jeg paa, hvilke skuffelser jeg vel skal opleve med dem? Glider de mon fra mig, de ogsaa, som alt andet? – Jeg synes, mit liv har ikke været andet end det ene haab efter det andet, der er bristet, og den ene mulighed for lykke efter den anden, som jeg selv har knust. – Jeg er saa træt nu, at jeg forstaar næsten ikke, hvordan jeg skal
+      <pb n="114"/>
+      kunne leve videre – jeg er som knust indvendig af en hel række fald, og jeg orker ikke reise mig. –
+     </p>
+     <p>
+      Jeg tog papir og skrivesager frem for at svare paa Henriks brev. Jeg bilder mig ind, at jeg merker lidt af den gamle varme hos ham, naar jeg læser det igjennem. Men jeg har selv ingenting at svare paa det. Alligevel er det mig sletikke ligegyldigt, jeg er noksaa glad, fordi han endnu bryr sig om mig. Jeg tror ikke, vi kommer til at sees mere i verden, men der er en slags trøst for mig i at vide, at han sidder over i Newcastle og tænker godt om mig. Jeg tror nok, han vil bli ved med det; Henrik er igrunden trofast.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      
+      , der steger og brænder dag ud og dag ind. –
+     </p>
+     <p>
+      Jeg sidder borte ved skigaren i skogkanten eller nede ved elven. Ellers er her stygt afbrændt, men der er mosen endda frisk og grøn, og orebuskene er tætte og mørke i løvet. Der er lidet vand i elven, men det er friskt og svalt at sidde og høre det risle over stenene og se solskinnet falde ind mellem bladskyggerne, saa skummet tindrer, og insekterne blir som svævende gnister, hvergang de farer ud i lyset.
+      <pb n="115"/>
+     </p>
+     <p>
+      Eller jeg gaar op paa høiden. Der er ikke andet end granskog at se – granskogens ensformige, solforgyldte mørke bortover de lave, runde koller, og langt borte mod den sollyse himmel et skimt af en blaa aas. Der er en ro i skogen paa disse brændende, lyse dage, saa dyb som den evige søvn; man merker rent, hvor svagt og sagte livssafterne siver i trær og i lyng – tilsidst synes jeg, livet rører sig lige saa søvnigt og stille i min egen krop og min egen sjæl og min sorg synker tilbunds i mig og sover. –
+     </p>
+     <p>
+      – Barnene ser jeg neppe hele dagen. De er borte paa hytten og leger med den nye eierens barn. Einar vilde ikke være med didbort i førstningen; men nu gaar han ogsaa.
+     </p>
+     <p>
+      Bare Aase rusler rundt pladsen her med Ragnas lille bukseløse Tomas. Naar jeg tar hende paa fanget, og hun sidder og snakker, mest til sig selv, og jeg baade hører efter og ikke hører – saa tænker jeg paa, at inde i dette lille hodet ved mit bryst er der en hel verden – hvor meget mon jeg skal faa kjende af den? Det kan jo ikke nytte at bilde sig ind andet – ens egne barns sjæle er som fremmede lande med uendelig mange og lange veie, man aldrig kommer til at færdes paa.
+      <pb n="116"/>
+      En mor tror nok, hun kjender sine barn og forstaar dem, – men hvert eneste barn ved en dag, at hun gjør det ikke. – Alligevel, naar jeg sidder og holder om hende, er jeg ikke helt alene. Med sit barn paa fanget er man saa nær et menneske, som man kan komme.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      
+      , da Henrik spurgte, om jeg vilde gifte mig med ham. Jeg var saa træt, da Otto var død, saa træt,
+      at jeg sygnet, naar jeg tænkte paa, at jeg skulde kjæmpe mig alene gjennem verden med dem.
+     </p>
+     <p>
+      Da han sad ved siden af mig i kapellet, var han lige saa hvid i ansigtet næsten, som Otto havde været, da han laa i kisten. Og han skalv, som han frøs, mens presten Løkke talte om Guds barmhjertighed, som havde aabenbaret sig midt i sygdommen og døden, om Otto, som havde vandret i verden i sit kjøbmandskab og sin ager og stirret mod jorden, men havde faat blikket vendt opad i de tunge og ensomme stunder. – Sommetider kjendte jeg igjen Ottos egne ord, men uhyggelig fremmede og forvredne, som minder, der dukker op i drømme. – Saa talte han om den afdødes trofaste, opofrende hustru, og om hans ven og kompagon. – –
+     </p>
+     <p>
+      Det var hele tiden, som jeg drømte, med
+      <pb n="117"/>
+      salmerne og masserne af kranse og alle de vildfremmede mennesker i følget, alle de uhyggelige sorte floshatter, der var stimlet sammen, og en masse venner, jeg ikke havde seet eller tænkt paa i aar og dag. – –
+     </p>
+     <p>
+      Underlig uvirkeligt er det altsammen, helt fra den morgen der blev sendt bud til mig om at komme op straks.
+     </p>
+     <p>
+      Otto var ved bevidsthed og kjendte mig, men kunde næsten ikke tale. Han fik anfald af uro, og saa laa han indimellem helt stille. – Døden var saa helt anderledes, end jeg havde tænkt mig. Der var ingen egentlig dødskamp, sagde lægen; men rummet var fuldt af sivende uro, og Otto, som holdt min haand, saa pludselig ligesom bort fra os alle, ret ud, og hvisket: «Jesus –.»
+     </p>
+     <p>
+      Men lidt før gjorde han tegn, at han vilde sige noget til mig, og da jeg bøiet mig ned, hvisket han:
+     </p>
+     <p>
+      «Du maa ikke staa da, Marta – du maa sætte dig, kjære.»
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      
+      :
+     </p>
+     <p>
+      «Er da ikke straffen kommet forfærdelig over os to – at vi skal gaa her over Ottos grav og tænke paa, hvad vi har gjort, og der er ingen
+      <pb n="118"/>
+      ting, vi kan gjøre det godt med. Vi kan bare angre og angre, og det er unyttigt og gjør ikke noget levende menneske gavn!»
+     </p>
+     <p>
+      «Ja,» sagde Henrik.
+     </p>
+     <p>
+      «Saa længe vi lever, maa vi slæbe dette med os – vi er ulykkelige; det sidder indeni os som en sygdom, der aldrig kan forandre sig. Vi ved det!»
+     </p>
+     <p>
+      «Ved. – Aa hvad
+      <emph>
+       ved
+      </emph>
+      vi, Marta. At vi lider, og at vi har lidt – at vi blir ved at lide ogsaa. Men hvor det bærer hen – hvad livet kan gjøre ud af vore sorger, det ved vi jo ikke det mindste om.»
+     </p>
+     <p>
+      «Det siger du. Men jeg ved. Du taler om livet – jeg siger dig, livet er færdigt for mig nu.»
+     </p>
+     <p>
+      Henrik svarte ingenting. Han sad bare og stirret ud for sig.
+     </p>
+     <p>
+      «Hør nu Marta,» sagde han tilsidst, – «vi ved det jo begge to. Vi kommer jo til engang, naar en passe tid er gaat, at gifte os –.»
+     </p>
+     <p>
+      Jeg fór op. Jeg blev heftig, jeg jamret og raste og overøste ham med bebreidelser.
+     </p>
+     <p>
+      «Du har bedraget din bedste ven,» sagde jeg haanlig, – «forført hans kone – og inden han har ligget en uge i jorden, kommer du og snakker om, at nu skal vi gifte os!»
+      <pb n="119"/>
+     </p>
+     <p>
+      «Ja,» sagde Henrik stille, «saan er det.
+     </p>
+     <p>
+      – Du har ret, straffen er kommet forfærdelig over os. Men nu har vi engang kastet os ud paa strømmen, og vi er drevet hid, vi nu staar. Skammen og angeren og skjændigheden – vi kan ikke komme fra det. Men vi lever nu engang, og vi kan jo ikke lægge os bort og dø. Du har dine barn. Og jeg – vilde det hjælpe dig noget, om jeg døde – saa havde du jo ingen. Vi er nu engang henvist til hinanden. Saa faar vi vel heller se stillingen, saan som den er. Hver morgen, vi vaagner, saa er livet der med en dag, som vi skal igjennem – maa vi ikke heller prøve paa at leve det, saa godt vi kan?»
+     </p>
+     <p>
+      «Det er godt gjort, at du allerede kan se dette saa forstandig –,» sagde jeg bittert.
+     </p>
+     <p>
+      «Jeg synes, det bedste vi kan gjøre, er at være ganske ærlige mod hinanden og os selv,» sagde Henrik. «Bare du og jeg ved, hvad vi har forbrudt. Og vi har sandelig havt tid nok til at gjøre op med os selv, hvad det var. Og ogsaa, hvad der vilde komme. – Var Otto blit frisk, vilde jeg reist min vei – saa havde du maattet se, hvordan du kunde gjort det godt mod ham. Nu
+      <emph>
+       er
+      </emph>
+      han ikke mere – vi to kan hverken gjøre ham ondt eller godt; han eksisterer bare i dit og mit minde; om vi lader, som vi tar
+      <pb n="120"/>
+      hensyn til ham, er det jo bare til os selv –
+      vore egne stemninger, vi pleier. Det
+      <emph>
+       er
+      </emph>
+      bare du og jeg nu – vi maa prøve, hvad vi kan faa ud af livet. – Vi kunde vente en «passende» tid, – lade, som vi var saa sønderknuste, at vi ikke havde tanke for andet end sorgen. –
+     </p>
+     <p>
+      Men det er jo netop det, som er det forfærdelige, at vi ikke kan sørge, uden at sorgen blandes af minder om fortiden og tanke paa fremtiden.
+     </p>
+     <p>
+      Herregud, Marta – tror du ikke, jeg ønsker, saa jeg sommetider synes, jeg maa bli gal – at jeg nu kunde staa hos dig som din bror og din ven og sørge af et ærligt hjerte over Otto – at alt det, som vi begge er fyldt af, aldrig havde eksisteret – var noget, vore tanker end ikke kjendte. At om vi hørte om slige forhold, saa syntes vi, det var forvildelser, vi ikke kunde forstaa. –
+     </p>
+     <p>
+      Men nu er det der engang. Hvorfor skulde vi to saa spille komedie for hinanden. Lad os da ialfald være ærlige!»
+     </p>
+     <p>
+      «Aaja. Naturligvis har du ret. Jeg orker bare ikke at gaa tilbunds i det nu. Nei, jeg kan ikke tage det saadan som du. Aa Henrik, mit liv har været saa forfærdeligt helt siden da, saa du ved ikke –.»
+      <pb n="121"/>
+     </p>
+     <p>
+      «Ja Marta,» sagde han ganske stille, – «hvordan tror du
+      <emph>
+       mit
+      </emph>
+      liv har været i disse aarene?»
+     </p>
+     <p>
+      Men jeg gik op og ned i stuen, graat og klaget. Og jeg stanset foran ham:
+     </p>
+     <p>
+      «Det
+      <emph>
+       er
+      </emph>
+      forbi. Alting, alting. Hvorfor skal vi forsøge at bygge noget op igjen – hvad kan det nytte til? Og hvad er det, vi har ødelagt hinanden for – et lune, et indfald, ingenting, ingenting!»
+     </p>
+     <p>
+      «Marta, det som du kalder ingenting, har været hele mit liv, saa længe jeg kan huske næsten.»
+     </p>
+     <p>
+      Jeg stanset.
+     </p>
+     <p>
+      «Du ved det jo godt,» sagde Henrik, – «jeg har været glad i dig, fra jeg var gut næsten.»
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      
+      paa at gifte mig med ham. Jeg havde ganske vist ikke sagt, at jeg vilde, og vi talte aldrig om det, men det var da forudsætningen den hele tid.
+     </p>
+     <p>
+      Henrik kom op til mig omtrent daglig. Han var hyggelig mod barna paa sin stille maade – tog gutterne med paa ski om søndagene og sendte dem i teatret og sligt. Og overfor mig var han usigelig opfindsom og taalmodig for at faa lokket mig ud af min forstenede sorg.
+     </p>
+     <p>
+      Naar Henrik kom, satte jeg mig hen som et
+      <pb n="122"/>
+      fortvilelsens billede og nidsørget. Jeg pumpet ligefrem op al den forpinthed og træthed og græmmelse, som dog ellers faldt lidt til ro under dagens arbeide – jeg sad og udmalte for mig selv, hvor haabløst og ulykkeligt og ydmygende altsammen var – og saa lod jeg ham gjøre sit bedste for at tine op mit frosne og stumme væsen. Jeg lod ham tale, og jeg hørte paa med sørgmodigspotske smil og gav lakoniske orakelsvar; men jeg betragtet disse Henriks besøg som hans pligt og ansaa det som min hellige ret, naar jeg pinte ham.
+     </p>
+     <p>
+      Ja, jeg pinte ham det bedste jeg kunde, og Henrik fandt sig i mine luner med en engels taalmodighed og sagtmodighed. Jeg var sletikke noget glad i ham, men jeg tog mod hans kjærlighed og fingret og rev og sled i hans hjerte, saa godt jeg kunde.
+     </p>
+     <p>
+      «Jeg gidder ingenting,» sagde jeg en dag. «Der er ingenting i livet, der har noget værd for mig mere, fordi jeg nu engang føler, at jeg er trukket ned i skidtet, og jeg kan ikke komme op igjen – jeg siger det, jeg gidder ikke forsøge at reise mig op engang!»
+     </p>
+     <p>
+      Og da Henrik prøvet at ta mine hænder, rev jeg dem hidsig til mig: «Lad mig være!»
+     </p>
+     <p>
+      «Det er netop det, jeg ikke vil. Nu
+      <emph>
+       maa
+      </emph>
+      <pb n="123"/>
+      du tage dig sammen – vist
+      <emph>
+       er
+      </emph>
+      det lettere at sætte sig til at stirre paa fortiden, men det er jo rent selvmordersk! Du maa jo da videre – saa faar man da i Guds navn lade det døde være begravet og se efter, hvad for vilkaar man har at leve paa – om de er aldrig saa haarde at gaa paa.
+     </p>
+     <p>
+      Hvad skulde det hjælpe kanske, om jeg satte mig ned ved siden af dig og sørget – hvordan tror du, livet blir for mig herefter?
+     </p>
+     <p>
+      Jeg er jo egentlig skabt til at være en hæderlig mand – havde nogen sagt mig for ti–tolv aar siden, en dag skal du staa der og ha gjort det og det – tror du ikke, jeg havde bandet paa, det er umuligt! Jeg
+      <emph>
+       er
+      </emph>
+      blit en noksaa fattig mand, Marta – men fortiden, det er det, som
+      <emph>
+       har
+      </emph>
+      været, og at jeg er glad i dig er det, som
+      <emph>
+       er
+      </emph>
+      – og det er da det, som man faar forsøge at leve paa!»
+     </p>
+     <p>
+      Jeg vilde netop ha Henrik til at sige denslags ting. Jeg vilde se ham øse ud kjærlighed, se ham bundskrabe hos sig selv for at finde nyt livsmod at helde ud for mine fødder – til min stadige græmmelse smittet ham, og jeg saa og hørte, at han selv var modløs og fortvilet, og ikke trodde paa sine egne ord.
+     </p>
+     <p>
+      Og saa gik han træt tilsidst, og jeg gav mig
+      <pb n="124"/>
+      ikke, før jeg fik tærget livet af hans arme kjærlighed og trampet ud hver gnist af mod og haab hos ham.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      
+      . Og han vilde fremdeles, vi skulde gifte os. Men nu var det nok bare, fordi han syntes, det var hans pligt, og forat han kunde være saa meget som mulig for mig og barnene.
+     </p>
+     <p>
+      Men mens jeg saa paa, at Henriks kjærlighed visnet, blev jeg mer og mer ulykkelig. Det var ikke, fordi jeg elsket Henrik, men jeg forstod, at jeg selv jog fra mig den eneste, der brød sig om mig. Og jeg saa, at jeg bare havde arbeidet paa at gjøre ham ulykkelig, og at jeg ingenting havde forstaat her heller.
+     </p>
+     <p>
+      Men endda kunde jeg ikke tænke mig at bryde. Jeg følte mig saa lidet istand til at kjæmpe mig alene gjennem verden med alle barna. Slide alene aar ud og aar ind – jeg turde ikke tænke paa det.
+     </p>
+     <p>
+      Alligevel var det for barnenes skyld, at jeg gjorde forbi. Tænkte jeg paa en fremtid, aar efter aar at gaa fra strævet paa skolen til strævet hjemme, saa gruet jeg; men tænkte jeg paa, hvordan det vilde bli at leve sammen med Henrik – paa det hjem, hvor vi skulde bo med Ottos
+      <pb n="125"/>
+      og mine barn, og paa hvordan jeg maatte lyve og skjule for dem i stort og smaat – saa turde jeg ikke det heller.
+     </p>
+     <p>
+      Og den dag i mars, da jeg havde travet rundt Frognerdammen saa længe og tænkt, til jeg syntes, der var bare et eneste, jeg kunde vælge, hvis jeg skulde kunne holde ud med mig selv og berge den mindste smule selvagtelse, følte jeg en slags befrielse. «Naar du faar gjort det, vil du bli rolig,» tænkte jeg, – «du skal se, saa blir det nok bedre.»
+     </p>
+     <p>
+      Og jeg angrer ikke. Det er noget af det lidet, jeg ikke angrer i mit liv. Men jeg føler ingen glæde ved, at det er gjort. Jeg gruer lige meget for fremtiden. Det er ikke blit bedre.
+     </p>
+     <p>
+      Jeg gik op til Henrik; men mens jeg sad og talte borte i sofaen ved altandøren og saa paa hans blege, bedrøvede ansigt i skumringen, blev jeg selv mere og mere ulykkelig. – Jeg ved ikke, hvad jeg sagde – prøvet at forklare ham, hvad jeg havde følt den hele tid, tror jeg.
+     </p>
+     <p>
+      «Det er bedst, vi skilles helt, Henrik – det kan ikke gaa, om vi forsøger at begynde paa livet igjen sammen – vi kommer bare til at gjøre hinanden ondt.» –
+     </p>
+     <p>
+      «Aa nei nei nei, Marta, – det tør vi da ikke sige – det kan du ikke vide.»
+      <pb n="126"/>
+     </p>
+     <p>
+      «Det har vi da ialfald hidtil,» sagde jeg.
+     </p>
+     <p>
+      Da blev Henrik stille:
+     </p>
+     <p>
+      «Bare ondt! – Siger du det, Marta. – Ja, du har vel ret. – Endda – bare ondt!»
+     </p>
+     <p>
+      «Ikke du,» sagde jeg fort. «Men jeg har bare gjort
+      fortræd. Og nu er du ikke længer glad i mig engang.» –
+     </p>
+     <p>
+      «Jo Marta. Du kan nok ha ret kanske paa en maade – sommetider i det sidste trodde jeg selv, at jeg ikke var glad i dig mere. Men jeg var bare træt. Men nu, naar du kommer og taler saan, saa skjønner jeg det jo. Kjære, kjære – hvad skulde der være igjen af mig, hvis jeg ikke var glad i dig mere!»
+     </p>
+     <p>
+      «Jamen Henrik,» sagde jeg, «du ser jo, hvordan jeg er. Jeg har været styg mod dig altid, pint dig – jeg er ikke glad i dig, ikke i nogen er jeg glad mere.»
+     </p>
+     <p>
+      Henrik sad med ansigtet i hænderne, han jamret sig sagte, mens jeg talte.
+     </p>
+     <p>
+      «Aajo, Marta, aajo – man kan nok pine hinanden – om man er glad i hinanden.» –
+     </p>
+     <p>
+      «Aa Henrik, Henrik – dette
+      <emph>
+       maa
+      </emph>
+      være slut – jeg er træt og du er træt –.»
+     </p>
+     <p>
+      «Nei, jeg
+      <emph>
+       er
+      </emph>
+      ikke træt, aldrig, aldrig blir jeg træt, jeg er saa glad i dig –.»
+     </p>
+     <p>
+      Og han faldt pludselig over mig med kjær
+      <pb n="127"/>
+      tegn og bønner og trudsler og jeg ved ikke hvad.
+     </p>
+     <p>
+      Jeg fik slidt mig fra ham tilsidst. Han laa huket sammen i sofaen og hulket, og jeg stod henne ved pianoet:
+     </p>
+     <p>
+      «Du maa ikke være saa bedrøvet. Jeg fortjener ikke, at nogen er glad i mig –.»
+     </p>
+     <p>
+      «Det kan gjerne være,» sagde han træt. – «Det hjælper jo ikke mig.
+     </p>
+     <p>
+      – Min kjærlighed
+      duer naturligvis hellerikke noget, siden jeg ikke engang har kunnet faa dig til at bli glad i mig. Naar du ikke engang har forstaat – – saa nytter det jo ikke. Jeg har jo ingen ret da – min kjærlighed er jo ganske uduelig.»
+     </p>
+     <p>
+      «Henrik,» sagde jeg – «jeg ved, jeg burde bede dig om forladelse, – uendelig, uendelig om forladelse!»
+     </p>
+     <p>
+      «Hvad skulde det være for – at jeg elsker dig, og du ikke kan faa dig til at elske mig? Det kan du jo ikke noget for.»
+     </p>
+     <p>
+      Og han vendte sig bort, forat jeg ikke skulde se, hvor han graat. Og han kom efter mig og tog mine hænder haardt i døren.
+     </p>
+     <p>
+      «Det er bedst jeg gaar,» sagde jeg – «jeg skammer mig for dig; jeg har ikke fortjent, at du skulde sige mig et ord til farvel – jeg har
+      <pb n="128"/>
+      ikke fortjent, at du skulde være bedrøvet over, at jeg gaar – og jeg kan jo ingenting gjøre for at hjælpe dig – – Lad mig gaa, Henrik!»
+     </p>
+     <p>
+      «Ja,» sagde han og slap. – «Jeg ved jo, du gaar – jeg kan jo ikke holde paa dig –.»
+     </p>
+     <p>
+      Og han slap og lod mig gaa.
+     </p>
+    </div>
+    <div type="chapter">
+     <p>
+      
+      , efterat Henrik og jeg skiltes. Men jeg vilde været lige ulykkelig, om jeg havde prøvet at friste fremtiden sammen med ham.
+     </p>
+     <p>
+      For det er ikke sandt, at fortiden bare er det, som har været. Ialfald er det ikke sandt for mig.
+     </p>
+     <p>
+      Det er jo det jeg har forsøgt den hele tid – at faa min fortid bag mig. Alt det, der er hændt mig, har jeg prøvet paa at se som en historie, der er forbi.
+     </p>
+     <p>
+      Men naar jeg sidder heroppe om aftnerne og stirrer tilbage, saa synes jeg sommetider, at alt det, der er skeet og som jeg kan se, det er bare de udvendige virkninger. Og at de er stivnet netop i de former, er uvæsentligt og halvveis tilfældigt. Men under skimter jeg
+      en skygge – noget jeg ikke kan gribe, ikke engang ved, hvad jeg skal kalde –
+      en kraft. –
+     </p>
+     <p>
+      Og den er ikke stivnet og ikke død. Og
+      <pb n="129"/>
+      hvordan livet saa blir for mig, hvor stille det vil gaa og hvor lidet der vil ske, – saa vil det, som jeg ikke ved, hvad er, følge med mig. Det rører sig bag mig, det puster paa mig. – –
+     </p>
+     <p>
+      Jeg er træt af mine egne unyttige ord, som jeg prøver at stille min egen blødende smerte med.
+     </p>
+     <p>
+      Jeg husker paa noget, som hændte paa skolen, det første aar jeg var lærerinde. Det var en af de smaa, som blev kjørt over, lige udenfor skoleporten. De havde puffet hende ud i gaden, saa hun faldt, og en ølvogn gik over haanden hendes. Hun laa paa sofaen i lærerværelset, mens vi ventet paa lægen, og vi strævet og bandt under, og blodet silte ud gjennem alle de haandklæder, vi tullet om. Og hele tiden kavet den lille stakkaren med den anden haand og vilde rive klæderne tilside, mens hun skreg ustanselig:
+     </p>
+     <p>
+      «Jeg vil se paa haanden min – jeg vil se hvordan det ser ud – –.»
+     </p>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>

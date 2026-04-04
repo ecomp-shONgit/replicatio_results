@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="NOR0047" xml:lang="nb">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I afgrunden ELTeC-utgaven
+    </title>
+    <author ref="viaf:4505280 https://www.wikidata.org/wiki/Q2619465">Finne, Gabriel  (1866-1899)</author>
+    <respStmt>
+     <resp>
+      ELTeC encoding
+     </resp>
+     <name>
+      Michael Preminger
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     16022
+    </measure>
+    <measure unit="pages">
+     0
+    </measure>
+   </extent>
+   <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
+</publicationStmt>
+   <sourceDesc><bibl type="digitalSource">
+     <ref target="https://www.nb.no/items/d168e62f7bb18cdd7e90a3c608107af1?page=9&amp;searchText=i%20afgrunden">
+      Utgaven er basert på teksten i 1. utgave, 1898 (iflg. NB Tar-fil)
+     </ref>
+        <author>
+        G. Finne
+       </author>
+       <title>
+        Digibok
+       </title>
+       <pubPlace>
+        Kristiania
+       </pubPlace>
+       <publisher>
+        John Fredriksons Forlag
+       </publisher>
+       <date>
+        1898
+       </date>
+ 
+      </bibl></sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p n="eltec-0"/>
+  </encodingDesc>
+  <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+   <langUsage>
+    <language ident="nb" usage="100"/>
+   </langUsage>
+   <textDesc>
+    <e:authorGender key="M"/>
+    <e:size key="short"/>
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+    <e:timeSlot key="T3"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change><change when="2020-11-15">Checked by checkup
+                script</change><change when="2020-11-13">ran oldCheckUp to update</change>
+   <change when="0001-01-01"/>
+  </revisionDesc>
+ </teiHeader>
+ <text type="novel" xml:id="NB_Finne_Gabriel_I_afgrunden_xml_text">
+  <front>
+      <div type="titlepage">
+          <p>GABRIEL FINNE</p>
+          <p>I AFGRUNDEN</p>
+          <p>FORTÆLLING</p>
+          <p>NB Rana Depotbiblioteket</p>
+          <p>H</p>
+          
+          
+          <p>Kristiansnds Foebib</p>
+          <p>KRISTIANIA JOHN FREDRIKSONS FORLAG 1898</p>
+      </div>
+  </front>
+     <body>
+         <div type="chapter">
+			<p>Et langt ligfølge nærmed sig over sletten nedenunder mig, en uendelig række slæder under mat bjældeklang. Jeg lå skjult et stykke oppe i bakken og holdt udkig gjennem snetyngte 
+			    grene, Følget trak sig langsomt afsted som et sort kjæmpeleddyr over et lagen,</p>
+			<p>Jeg husker, at tårer fyldte mine øine, og at jeg jamred mig, da vognen med kisten passerte.</p>
+			<p/>
+			
+			<p> Bygdens stadselige ligvogn, sat på mejer. Og lige efter vognen i en slæde sad Helene, den dødes hustru, og ved hendes side den dødes mor. Helene med opløftet slør og med lommetørklædet i et væk til øinene. Men den dødes mor sad og havde et hårdt og spydigt træk om mundvigerne i sit kjølige, voksgule gammelkoneansigt</p>
+			<p>Og kirkeklokken satte pludselig i med råbende klang. Ligvognen var just i det veisving,</p>
+			<pb n=""/>
+			
+			<p> hvorfra både bryllupstog og gravølstog blev synlige for ringeren i tårnet.</p>
+			<p>Hjemme i min hytte langt oppe i åsen var der uryddigt og ufjælgt. Gulvet opfyldt af ved fliser og nedtråkket birkestrøelse, kogeapparatet Å uorden, peisen fuld af skidne kjørler. Kristofer husmands datter kom ikke mere og gjorde rent.</p>
+			<p>Jeg var ude i skuret og huggede ved. Huggede som en rasende for at glemme den dødlignende stilhed omkring mig. Et øieblik, jeg holdt inde for at hvile, kom denne stilhed listende 
+igjen, cn hvid ond stilhed. Og hver nerve i mig sitrede og lyttede. Om et væggeur havde hængt på en gren langt inde i skogen, jeg skulde hørt det tikke.</p>
+			<p>Med en følelse af, at noget ondt pustede mig bagfra i nakken, skred jeg ind igjen i hytten med min ved, låste døren, trak de røde gardiner for vinduerue og gjorde op ild paa peisen. 
+Jeg satte gryden med vand over og Og drak, indtil jeg syntes,</p>
+			
+			<p>laved mig toddy.</p>
+			<pb n="11"/>
+			
+			<p>1 L</p>
+			<p>troldene omkring mig sprak og blev til gemytlige kroværter, som klapped mig paa skulderen og sa: det er ikke san farligt, som De tror.</p>
+			<p>Og så ligger jeg i kvældingen paa min seng og ser ind i ilden og lader tankerne flakke - husker mig den dag isommer, da jeg hjerte gjennem skoge» nede 3 alen med OK. toren, min ven 
+fra skolen. Vi havde været i et par fattighesøg, da karjolen svinger ind i en allé. Nu kommer vi til et af de prægtigste mennesker, jeg kjender," siger han. ,Er det en</p>
+			
+			<p>syg?" — Ja, han dør, før aaret er omme." Og min ven fortæller om Olaf. At Olafs far døde tredve aar gammel, just som han havde giftet sig. Tæring. Og Olaf har det i arv. Og dertil 
+kommer empuyéme. Det eneste, som kunde hjælpe ham, var et langvarigt ophold i syden. Men han har ingen energi. Han vil ikke reise. Så har jeg givet ham det råd at forsøge med kognak. 
+Bedre at være en mådeholden dranker og kanske leve nogle aar .</p>
+			
+			<pb n="12"/>
+			
+			<p>Vi blev siddende der hos Olaf den hele eftermiddag. En ung rigtbegavet skolelærer og digter med den fineste takt og det mildeste smil. Om hans sygdom blev der ikke talt. Det løb af 
+som ved en venskabelig visit. Helene kom ind, meddelte, at kaffen var serveret på verandaen, og spurgte, om herrerne ønskede Hennesy eller Martell. Hun havde ikke været at se, siden hun 
+tog imod os på trappen. Måske, havde hun brugt tiden til at klæde sig om. Hun forekom mig forandret. Hun var i snehvid kjole, og jeg lagde mærke til et sort fløilsbånd om halsen, hvorved 
+dens fyldige hvidhed markeredes. Hun syntes at være pur ung. Så jeg blev forbauset, da der kom stabrende ind et barn på fire—fem år, en smørret, fed pige. Den lille brød sig ikke om 
+moderen og ikke om de fremmede, men satte kursen lige for faderen. Hun omfavnede hans knæ og så på ham kjærligt som en pudel, og derefter satte hun sig på gulvet og gav sig til at lege 
+med et perlebånd. Helene tog ingen del i samtalen, hun syntes at føle sig usikker. Og jeg blev ikke kvit den forestilling, at — hun skammede</p>
+			
+			
+			<pb n="13"/>
+			
+			<p>sig over det snøvlende afkom. Inga var virkelig en lidet præsentabel småpige. Snøftende og grim som en troldunge sad hun ved farens fødder, og hendes hastige blik bort til den brede 
+skjønne kvinde røbede mistro og lod én ane, at barnet ikke altid havde det godt på tomandshånd med sin mor . .</p>
+			<p>Så husker jeg en kvæld nogle uger senere. Jeg går gjennem skogen paa vei til min hytte. Solen står langt nede og oplyser med rødt »randskjær træstammernes søilerækker, så det er som 
+en æventyrhal at gå igjennem. I toppene etsteds slog der sig under syndigt leven en flok kråker ned. Og da jeg kommer til hytten, finder jeg Helene og Olaf siddende udenfor og vente på 
+mig.</p>
+			<p>Hvor blev det ikke en deilig kvæld! Vi lå ude i lyngen, Olaf hyllet i et tæppe, og pratede småt og dæmpet og lyttede til Gjøgen, som flyttede med sit koko! fra sted til sted i skogen. 
+Tilslut pratede vi slet ikke. Da så jeg på Helene, som forekom mig alt mer og mer vidunderlig i sin hvide, brede skjønhed. Stadig, trodsigt var hendes blik rettet på mig, jeg følte</p>
+			<pb n="14"/>
+			
+			<p>hendes øine som et par lurende grønne sole. Og når jeg prøvede på at møde dem, udvidede de sig og virkede onde og lammende, så jeg måtte rive mig løs, Olaf fik et kvælningsanfald, 
+under det iagttog hun ham mismodigt, med noget hårdt i udtrykket; men siden kastede hun sig ind til ham, strøg sveden af hans pande og mumlede: ,Stakkels Olaf! Stakkels Olaf!" (Og han 
+glemte at være den overlegent blide og rolige mand, han drog hende tættere til sig. Jeg hørte ham sukke i skjælvende syg og begjærlig vånde. Da anede jeg, hvad det dagligen kostede ham 
+at spille den for døden og den evige skilsmisse ligegyl.Jige.</p>
+			<p>De var komne op fra dalen den dag for at bo nogle uger i en hytte, som lå en ti minutters gang fra min. Men hun havde straks opdaget, at der var va tilbage til bygden efter 
+insektpulver og vilde vente med at bringe sengetøiet ind, til der var grundigen desinficeret. Bare Olaf kunde få lånt et teppe af mig at ligge på, så vilde hun gjerne sidde ude den hele 
+deilige nat.</p>
+			<p>Så redede vi Olafs seng på gulvet. Og derefter slog vi op en hængekøie mellem pejsen</p>
+			<p>gedyr, havde sendt pigen</p>
+			
+			<pb n="15"/>
+			
+			
+			<p>og væggen og spurgte, om hun vilde tage til takke med at hvile i den</p>
+			<p>Mens de klædte sig af, drev jeg omkring ude. Det begyndte allerede at lysne til morgen, fuglekvidder fra alle grene hilste den nye dag. Og inde bag mine røde gardiner gik nu to til 
+hvile, som snart skulde skilles for evige tider.</p>
+			<p>Da jeg omsider bankede på og listede ind, var der stilhed og søvn. Jeg lagde mig over min seng med ansigtet mod væggen, men fik ikke sove. Kastede mig om, tvang mig til at ligge med 
+lukkede øine for ikke at se den skjønne skikkelse hvilende i hængeneltets masker. Men djævlen gik over optugtelsen. Jeg så op alligevel. Hun lå vågen og plirte ned til mig, og derefter 
+slog hun de store øine helt op og så sorgfuldt ud for sig.</p>
+			<p>Hvilken underlig dag, den som fulgte! Olaf var træt og tung trods søvnen, og hun anbefalede ham at blive rolig liggende, indtil vi havde været nede og faaet alting i orden i deres 
+sommerbolig. Underveis var Helene den muntreste og allermest bedårende skabning. Ingen sorg og ingen anstændighed. Hun plukkede jordbær og slængte sig i græsset og kneb</p>
+			<pb n="16"/>
+			
+			<p>mig i låret, naar jeg var alvorlig. Og når jeg blev hed og nærgående, lod hun de grønne øine funkle strengt for straks efter at sige, at hun kunde godt lige mig. Jeg følte så godt, 
+Bvor det vilde bære hen, og da vi nåede til bytten, havde jeg ingenting imod, at hverken pigen eller lille Inga var kommen. Vi gik ind, og Helene trak på den karsligste måde en flaske 
+vin op og foreslog, at vi skulde drikke os glade.</p>
+			<p>De røde gardiner var for vinduerne, og udenfor summede det i solskinnet. Hun slængte sig over en madras og plirte på mig</p>
+			<p>— I mig findes der ikke moral, sa hun.</p>
+             
+  			<p>Og jeg var ingen Josef.</p>
+         </div>
+         <div type="chapter">
+             
+			<p>Med et suk farer jeg op og husker, at det mu er den hvide vinter, og at nu ligger Olaf i sin kiste dybt i jorden. Og jeg synes, nogen har været udenfor og rusket i døren. Det hanker 
+virkelig på døren.</p>
+			<pb n="17"/>
+			
+			<p>— Luk op Jean, hvis du er hjemme!</p>
+			<p>Jeg farer sammen. Det er Helene! hu — gravølskvælden! Hun har gået den lange vei i sneen! Jeg tumler bort og åbner. Hun stiger ind. Bærer ski og stav med.</p>
+			<p>— Lås for Guds skyld igjen! Lås straks! siger hun.</p>
+			<p>Hun stiller skiene i en krog og tager skindkraven af.</p>
+			<p>— Tal endelig sagte, Jean! Om nogen skulde ane, at jeg er her! Ingen har seet mig gå hjemmefra. Jeg sa, jeg var træt og forlod selskabet for at lægge mig. Jeg sneg mig ud bag låven og 
+løb veien henover, indtil svingen, der hvor du lå idag. Ja, for jeg så dig. Jeg vidste, du vilde ligge etsteds i skogen og kige efter kisten. Jeg gik op der og tog dit spor, og så har 
+jeg løbt i det. Men tænd lys! Jeg er så angst i dette mørke. Og stil lysene på bordet. Ellers kan de i tilfælde se vore skygger. Skulde nogen komme, så ikke åbn, men bare sig, at du har 
+lagt dig.</p>
+			<p>Jeg gjorde som hun bad mig. Og hun slængte sig over den ledige seng, dødtræt og stønnende. Men øinene var vidtåbne og vilde,</p>
+			<pb n="18"/>
+			
+             <p>og hun trak luften i tunge drag gjennem de sammenbidte tænder, Der gik en time i taushed. En gang forandrede</p>
+			<p> hun stilling under et langt suk. Så siger hun koldt:</p>
+			<p>— Der er ingen, som tror, at du er syg. Det havde været Jangt bedre, om du havde vist dig i gravøllet.</p>
+			<p>— Jeg kunde ikke ha spillet den komedie, Helene! Pause. Så springer hun op. — Kom med ikvæld da! Bare en stund! Nu er de drukne, og da glemmer de at vise sig stive mod dig. Og hans 
+mor, hun ved ingen ling. Og kommer du nu ned og er ganske naturlig i dit væsen, så tror hun heller ingen ting. Og du må fremfor alting ikke undgå mig dernede! Men tale med mig, så alle 
+ser det. Jeg bestilte en svær krans fra byen i dit navn. Alle beundrede den og troede, den var fra dig. Jeg går ikke derned, Helene. Jeg reiser til byen imorgen. Jeg har en følelse af, 
+at Olafs øie er her etsteds i stuen. Hun målte mig foragtelig, hun stod parat til at sige noget giftigt, da hun ved en lyd</p>
+			<pb n="19"/>
+			
+			<p>udenfra trak albuerne til sig og stod skjælvende med opskudte skuldre og lyttende øine. Hy—ys!</p>
+			<p>Udenfra hørtes en vedholdende harken, og lidt efter blev der rystet hårdt i dørens håndtag.</p>
+			<p>— Det er hende! Moren! hviskede Helene og holdt hænderne for tindingerne i spøgelsesangst.</p>
+			
+			<p>Og der udenfor gjennem nøglehullet tonte ind til os en langsom dødningestemme:</p>
+			<p>Du får komme ned igjen nu Helene. Såpas skylder du Olaf. Nu går jeg. Tvi!</p>
+			<p>Så hørte vi den gamle stabre væk.</p>
+			<p>Helene hviskede: Å Gud! Å Gud!</p>
+			<p>Jeg havde inderlig medlidenhed med hende og gik bort og tog hende varsomt i hånden. Men hun trak sig bort som fra berøring med en øgle og gav mig et blik, som skjalv af had. Så åbnede 
+hun døren og kastede skiene ud i sneen.</p>
+			<p>— Jeg har ikke været hos dig, forstår du? Jeg tar gjenvei gjennem skogen. Så er jeg dernede før hende. Farvel.</p>
+			<p>— Farvel Helene.</p>
+			<pb n=""/>
+			
+			<p>Uden at se sig tilbage lod hun stå til nedover. Stakkels Helene! Og stakkels Jean!</p>
+			<p>Den næste aften var jeg i byen. Det travle liv i gaden, menneskenes jag forbi lygtepælene, vognenes larm, de oplyste butikker, det virkede alt så skurrende efter den store stilhed 
+deroppe i skogene. Hver letfærdig tøs, jeg så, væmmedes jeg ved, og i ethvert forbiilende mandfolk så jeg ikke andet end et grisk dyr, hvis pande husede et eneste begjær, det at 
+krafse til sig selv det mest mulige af jordens forråd. For at komme ud af dette pinlige syn på tingene, lod jeg mig dumpe ned i en bodega med det forsæt at drikke mig glad i Champagne. 
+Og det lykkedes mig at komme i en sindsstemning, hvori det forekom mig, at alle mennesker var igrunden så inderlig snille og dumme, og at jeg var en af de snilleste og dummeste. Og 
+rundt i luften svævede ånderne og morede sig med at se på vort slid og resultatløse</p>
+			
+			
+			<pb n="21"/>
+			
+			<p> kav. Men mest morede de sig over dem af menneskene, der gik omkring, bærende på dump angst og mørk samvittighed. Jeg kom at mindes en lægprædikant, der under skildringen af de 
+retfærdiges Jyksalighed i det andet liv, nævnte som deres mest udsøgte nydelse den at stå på himmeriges balkon og skue ned i afgrunden, hvor de fordømte lå og vred sig.</p>
+			<p>En skraldende latter fra en af sidehvælvingerne i vinkjælderen vakte min opmerksomhed. Jeg gjorde mig et ærend der forbi. Øieblikkelig kjendte jeg den ene af de to herrer, som sad 
+der, han som lo.</p>
+			<p>Nei, er det ikke Jean! sa han og reiste sig. Nu maatte jeg endelig sætte mig da. Og så måtte jeg endelig komme med hjem iaften og hilse på hans kone. Der skulde være et lidet kalas 
+inat</p>
+			<p>Den anden herre blev forestillet som farmaceut Marsvin — hæ-hæ-hæ! — Marholm, Farmaceut Marholm.</p>
+			<p>Den sidste havde et lidet kortklippet hode og et tæt sort skjæg, som han nervøst trak i. Han havde store brune fraværende øine og</p>
+			<p>skjelede. Hans dragt var lurvet og fingrene </p>
+			<pb n="22"/>
+			
+			<p>svedige og spillende magre som instrumentstrenge.</p>
+			<p>Den anden drukkenboldt, min ven fra en bytur isommer, bar lorgnet, havde isgråt skjæg og rynket pande. Hans ansigt var talghvidt og værdigt. I hans hukommelse lå der på lager flere 
+hundrede uhøviske anekdoter. Ingen var på tomandshånd med ham uden at få høre et halvt dusin af dem. Hans strenge, værdige åsyn passede til de historier, han leverte, som en 
+ypperstepræst i fuldt ornat passer på en tingeltangeltribune, Han var guldsmed og skjønånd.</p>
+			<p>Nu mindedes jeg de dage isommer, da jeg var guldsmed Rustads gjæst på landstedet deroppe i bygrænsen. Jeg sad på en kafe med en kjending. Så kom den værdige herre bort og satte sig 
+hos os. Da vi langt på nat skulde skilles, jeg for at gaa til mit hotel, foreslog han mig at kjøre med hjem til sig og være hans gjæst de par dage. Nogle herlige timer tilbragte vi ude 
+paa verandaen. Al skov omkring stod og sov, åserne bag lå i blåt slør. Jeg havde hilset på børnene, tre yndige små piger. Og da de var lagt, gik min nye ven og</p>
+			<pb n="23"/>
+			
+			<p>jeg ud på verandaen og lavede os pjolter efter pjolter,</p>
+			<p>Jeg var smigret ved at høre en så pas gammel og erfaren mand kalde mig sin ven og sige du. Hans frue var fraværende, hun var i besøg hos slægtninge i Nordland.</p>
+			<p>Længe efter at guldsmeden var lagt, sad jeg ude og lyttede til måltrosten. Omsider krøb jeg træt tilkøis. Min seng stod ved siden af hans og var den, hvori hans frue pleiede at sove. 
+Jeg var lige ved at falde i søvn, da jeg hørte ham tale. Han hviskede i drømme sin kones navn: Agnes, Agnes!</p>
+			<p>Det var fuld morgen og jeg lysvågen. Jeg trak benklæderne på og gik ind gjennem stuerne, Tapeterne var oversåede med malerier og kunstgjenstande. Jeg blev stående foran billedet af 
+en ung dame. Et smalt alabasterhvidt ansigt med store forskende øine. Baggrunden var et dybrødt tapet. Med foldede hænder, hensunken i tilbedelse satte jeg mig på en stol med ryggen mod 
+det vågnende landskab. Jeg tænkte: Hvis du træffer en kvinde med de par øine, har du Dare at kaste dig ned og kysse mærkerne i sandet efter de skridt, hun går.</p>
+			<pb n="24"/>
+			
+			<p>Jeg kvap op ved en stemme, en grødet fyllerøst:</p>
+			<p>Ja, er hun ikke deilig!</p>
+			<p>Det var guldsmeden, som stod i døråbningen til soveværelset i bare skjorten.</p>
+			<p>Hvem er det? spurgte jeg.</p>
+			<p>Det er min kone.</p>
+			<p>En padde og en sommerfugl!</p>
+			<p>Ja, ær ikke det et deiligt billede, du! Og ved du, fortsatte han, — før hun vilde være mig utro, før vilde hun la halsen skjære over paa sig. Hun er bare to og tredve, du, og den 
+ældste småpigen er femten. Seksten år gammel var hun, da hun tog mig.</p>
+			<p>Jeg fulgte hans råd og gik ind for at søge hvile. Han lå en stund og mælede i halvhøi tone om hendes sjeldne egenskaber. Og mens fuglesangen lød der ude fra, sovnede jeg ind på den 
+pude, hvor hun pleiede at hvile.</p>
+			<p>Da jeg vaagnede udpaa dagen, var min ven længst i sin forretning. Pigen serverede frokost, og de tre børn viste mig omkring i haveanlæg.</p>
+			<p>Men de var sky og satte gammelfornuftige øine op, da jeg pegte paa maleriet af deres mor</p>
+			
+			<p>ine små</p>
+			<pb n="25"/>
+			
+			<p>og spurgte som ingenting, hvad det var for en dame.</p>
+			<p>Jeg blev guldsmedens gjæst etpar dage, og det lykkedes mig at vinde småpigernes fortrolighed. Den meste tid var vi i haven og slog kroket. Men om kvældene kom deres papa hjem med en 
+eller flere venner, udsøgte drukkenbolter, og da lagde der sig en kold skygge over børnenes væsen. Heldigvis lå deres soveværelse fjernt fra verandaen og stuerne, så ingenting af de 
+voksnes skidne prat nåede dem, efterat de var gået iseng</p>
+			<p>— Nu var det vinter. Min sjæl havde i ensomheden deroppe i skovene stirret ind i sin egen afgrund og mødt på bunden et ondt dyr med logrende drifter. Olaf lå i graven, men hans gode 
+øine havde fulgt mig med kold ny gjerrighed hver nat, indtil jeg med brændevin havde trukket skodder for bevidstheden. Vi har gjerne vort private helvede i os.</p>
+			<p>Men jeg var frank og stærk, der jeg med guldsmeden og Marholm i slæden kjørte mod et varmt og oplyst hjem. Spøgelserne var veget som skydotter for solen.</p>
+			<p>I entreen tog fru Agnes mod os. Hun hilste</p>
+			
+			
+			<pb n="26"/>
+			
+			<p>mig på en måde, som fortalte mig, at manden havde vist hende det galanteri at nævne min beundring for billedet på væggen.</p>
+			<p>Inde i stuerne var der lunt, dæmpet lys fra mange lamper med skjærme. Med den brutaleste og ærligste vilje til at forelske mig i husets frue, gav jeg mig ifærd med den opgave at 
+vinde hendes interesse. Hun var ikke vakker som på billedet. Kun øinene og ansigtets form var den samme som der. Hun selv var nervøs med rappe blik, der røbede hemmelige bekymringer. 
+Vistnok var hun den dannede dame med indtagende opmærksomhed mod sin mands venner. Men dog fik jeg en pinlig tæft af, at der også her var orme bag skallen. Hun var meget snøret og slank 
+som en ung pige, men havde lange indsatte fortænder</p>
+			<p>Jeg tænkte på den hvide, funklende Helene med hendes rovdyrvilje. Engang havde hun bidt mig i hagen, saa blodet flød, og der stod ar efter. Og nu fru Agnes — en tam perlehøne. Fine, 
+hvide fingre, dannet smil, ingen afgrunde.</p>
+			<p>Djævelen i mig dukkede op og sa: Hvis du nu kan etablere forhold med fru Agnes, så vil hun uddrive af din sjæl din erindring om</p>
+			
+			
+			
+			<pb n="27"/>
+			
+			<p>Helenes hedenske skjønhed og din komiske angst for den døde Olaf. Fru Agnes kjeder sig, hun har en gammel fyllefant til mand, og hendes kvindelige forfængelighed vilde, selv om hun 
+holdt sig selv og sit hus i ære, afholde hende fra at gjøre alarm.</p>
+			<p>Smaapigerne var gået tilro. Farmaceuten havde taget afsked.</p>
+			<p>— Sæt Dem her, da Jean, og fortæl lidt deroppe fra fjeldet! sa fru Agnes og flyttede sig i sofaen for at gjøre plads for mig.</p>
+			<p>— Sæt dig bare ved siden af a, du! Jeg skal ikke være skinsyg — men vogt dig for a, hu er farlig. Der er flere end du, som har brændt sig på a.</p>
+			<p>Mens min aldrende ven sa dette, stod han midt paa gulvet med en sløv og godmodigt plirrende mine. Hvorefter han sa godnat og ruslede ind i soveværelset. Lidt efter hørte vi ham bande 
+og spænde i væggen derinde. Å, det er støvlerne, jeg må hjælpe ham med! hviskede hun og forlod mig.</p>
+			<p>Atter sidder hun i sofaen og ber mig fortælle deroppefra. Og jeg fortæller, at jeg drev</p>
+			
+			<pb n="28"/>
+			
+			<p>omkring og ingenting bestilte uden at spise og sove og drømme.</p>
+			<p>— Men var De da ikke sammen med nogen?</p>
+			<p>— Nej, aldrig. Levede som en af de gamle gudfrygtige på en søiletop.</p>
+			<p>Og jeg digtede løgn til løgn, sålænge til hun fandt, at jeg var el mere end almindeligt menneske. Jeg fortalte hende, at naar jeg om morgenen slog døren op til min fjeldhytte, så 
+hoppede ræven nedfor trappen, hvor den havde siddet og nydt udsigten. Og naar jeg kaldte på den, kom den bort og fik et afgnavet spegekjødlår. Og hver nat sad der pan taget en liden 
+grå ugle. Den fløi i begyndelsen bort i nærmeste grantop, naar jeg om morgenen åbnede, men siden blev den så tam, at den kom ind og satte sig på sengestolpen.</p>
+			<p>Jeg følte overhovedet mit hele jeg så skakkjørt og forløiet, at jeg vilde ha følt det som</p>
+			<p>affektation at vise mig ærlig. Fru Agnes kom med en naiv bemærkning,</p>
+			<p>og jeg greb hendes haand og kyssede den og sa: — Gud, hvor De er deilig! Og jeg lukkede øinene, som om jeg lyttede til deilig musik og</p>
+			
+			
+			<pb n="29"/>
+			
+			<p>ikke turde se på solen. Og da hun ikke tog hånden bort, la jeg mit hode mod hendes bryst og slog armene om en smal midie med pantserhårdt korset. Og slig lå jeg, og jeg følte en fin 
+hånd klappe mig over håret og stryge mig rundt kindet. Og jeg dat på knæ og murrede med ansigtet i hendes fang og krystede hende, så hun slet ikke fik mig løsnet, og jeg mumlede, saa 
+hun måtte tro, det var en længe indestængt lidenskab. Hun strøg med begge hænder gjennem mit hår. Og jeg lå med Iukkede øine i hendes kjolefang og tænkte på Olaf og Helene. Ja, 
+hvilken hedensk mangel på skrupler i Helenes sjæl! Hvilken herlig styrke i sjælen! Hvilken pragt for mandfolket, når det tropper op i vedtægtens mundur! Mandfolket har fundet på det 
+med trofastheden hos kvinden, med de strenge straffe for utroskab for at ha</p>
+			
+			<p>en garanti — en garanti for, at de børn, der opfostres i reden og som han arbeider for at skaffe underhold, at de virkelig er hans og ikke en af vennernes. Der er kamp mellem kjønnene om magten. Er hun gift, og der opstår uenighed, kan hun ved hjælp af en liden ond skabsfuldhed bringe ham til selvmordets rand</p>
+			<pb n=""/>
+			
+			<p>Der behøves blot en liden trætte om, på hvilken skole lille Einar skal sættes. Manden stamper tilslut i gulvet og siger: — Det er mit barn! Jeg er far, og jeg bestemmer her!</p>
+			<p>Da kan kvinden gjøre sin mand ulykkelig, ja drive ham til det stirrende vanvid: Hun kan springe frem og måle ham med spodskmedlidende øine, sætte hænderne i siden og sige: — Dit 
+barn! Hvem garanterer dig, at det er dit barn!</p>
+			<p>Og hvis så manden ikke i samme øieblik går hen og blir morder, men er et tæmmet samfundsmedlem, så ser vi ham den næste måned drive omkring som drukkenbolt pg negativ filosof. Det 
+nytter ikke, at konen slænger sig på knæ og bønfalder ham om at tro hende, når hun siger det var spøg. Han er knust, hjemmet er forgiftet. Aldrig får han tilliden tilbage.</p>
+			<p>Paa knæ og med lukkede øine lå jeg og krystede fru Agnes og sa, jeg længtede, jeg Jængtede og jeg var lige sæl om al ting, når ikke jeg fik lov til at holde af én. Hun greb mig om 
+ørene og tvang mig længer op og spurgte, om jeg da ikke kunde holde af hende,</p>
+			<pb n="31"/>
+			
+			<p>— Vil du? Vil du? Vil du? hviskede jeg. Og jeg sprang op og knyttede hele mit væsen til et alvor og en jernhård bestemthed, som om det gjaldt at overbevise en lumsk, men nyttig 
+ågerkarl. Istedenfor at svare bøjede hun sig ned og kyssede mig på panden. Jeg vilde kysset hende igjen, men huskede på, at der måtte smage tobak og brændevin af min mund.</p>
+			<p>— Vil du, Agnes? Vil du møde mig imorgen klokken et? Og jeg nævnte et hotel.</p>
+			<p>Hun trykkede mig til sig og sa ja.</p>
+			<p>Jeg gik indover til byen med en følelse som en fatlig farmaceut, der pludselig har fået en arv. Forhold med fru Agnes! Diskretion! Indfødt bydame! Ingen samvittighed! Elegant 
+pelskåbe. Social position. Skjærmet ved et hjem.</p>
+			<p>Træt la jeg hodet mod puden, men fik ikke sove. Jeg blev koldere og klarere i hodet. Jeg inspicerte min sjæl og fandt, at jeg var dog en altfor utilgivelig stor kjæltring. Jeg huskede 
+de herlige dage i sommer i guldsmedens hjem. Hans ord den nat, han steg ind i stuen i bare skjorten og fandt mig hensunken i beskuelse af hustruens portræt. Ja, er hun ikke</p>
+			<pb n="32"/>
+			
+			<p>deilig, du! Og ved du —! Før hun vilde være mig utro, før vilde hun — —.</p>
+			<p>Det var til at bli gal over! Havde hun endda været skjøn som på billedet! Og ung! Og ikke havde havt de tre deilige børn! Og været rig og givet sin mand lommepenge og lov til for 
+hende at fare med hvilken dame han vilde. Men dette —! Et hjem som en kalket grav. Visselig var det ormstukket til grunden. Og nu var hun, hjemmels eneste pille, parat til at lave 
+forhold med den første den bedste ungdommelige slabbedask, som kunde bruge de hede gloser og de attråblinkende øine! Tvi! Og atter tvil Løgn på løgn. Og de rene børn. Hvor tomt og koldt 
+det vilde bli indeni deres før så tillidsfulde sjæl, når engang de fik øinene opladte for, hvem de havde til mor. De havde neiet for mig til godnat og nikket så varmt og hjerteligt, 
+fordi de af sin beundrede mors opmærksomhed mod mig havde draget den slutning, at jeg maatte være et godt menneske.</p>
+			<p>Mens jeg sløvt og hånsk lå og rodede med al denne råddenskab, sank jeg isøvn og vågnede klokken elve, Straks skrev jeg en billet</p>
+			
+			<pb n="33"/>
+			
+			
+			<p>og sendte den afsted med bybud. Billetten lød! Kjære fru Rustad. Tak til Dem og Deres mand for den deilige aften i Deres hjem. Tør jeg komme til middag hos Dem idag kl. 3? Jeg længes 
+så efter at se de deilige børn.</p>
+			<p>Disse dumme og skurkagtige linier sendte jeg med bybudet. Og beregnede, at hun vilde forstå meningen og ikke komme.</p>
+			<p>Og tryg som én, der har taget en nobel beslutning, sov jeg atter ind. Det bankede, det var høilys dag, pinlig snelys ind gjennem vinduet. Fuld rammel op fra gaden.</p>
+			<p>Det bankede virkelig, klokken var et. Jeg lå stille. Det bankede igjen, det var en hånd med handske på. Det greb i dørens håndtag.</p>
+			<p>En halv time efter gik jeg ud. Jeg spurgte hos portiéren, om ikke en søster af mig havde været der med et brev. Jo, der havde været en dame og søgt mig, men hun havde intet brev og 
+ingen besked givet.</p>
+			<p>Let som om alle livets drager var overvundne, gik jeg afsted og indom guldsmedens butik. Der sad fru Agnes. Tak for igår! Tak for igår!</p>
+			<p>Denne guldsmedbutik skulde komme til for</p>
+			<pb n="34"/>
+			
+			<p>alle tider at stå i min erindring, som det gemytligste helvede af alle helveder.</p>
+			<p>En aften kom agent Moldestad og frue ned til Rustads.</p>
+			<p>Nei, så dei-eilig, at Dere så ned da! råbte fru Agnes. Men ved de nyes ankomst løb stemningen ligesom ind i smult vande efter lystige sjøer, og jeg anede af den måde, hvorpå de to 
+fruer hilste hinanden, at forholdet ikke var det bjerteligste.</p>
+			<p>I agent Moldestad traf jeg den hypernervøse alkoholiker med de stirrende øine og den flaksende tankeflugt.</p>
+			<p>Smækker og elegant og livlig i vendingen som en linerle. Korrekt selskabsklædt, tætstudset sort skjæg og funklende lorgnet. Medens fru Moldestad var den småtskårent korrekte, 
+sorthalsede alvorsdame på de fem og tredive. Hun var grå og høi i ansigtet og lod øinene glide rundt, som var hun en opdagelsesbetjent mellem et mystisk selskab i en storbys nattekal</p>
+			<p>Hun fik et stramt udtryk, hvergang manden med ryggen mod de øvrige stod borte ved serveringsbordet og lavede sig ny pjolter.</p>
+			
+			
+			
+			<pb n="35"/>
+			
+			
+			<p>Det forekom mig, at der i disse to hjem, i min ven guldsmedens og i agentens, vist aldrig kunde trives humør uden under damp af spiritus.</p>
+			<p>Den lille soignerte agent var en mand af kunsten. Han stillede sig, da han var bleven inspireret af spriten, ud på gulvet og efterabede skuespillernes diktion. Og gjorde det godt, så 
+selskabet, hans egen frue med, krympede sig i latter.</p>
+			<p>Og da han var færdig, rømmede sig den ærværdigt udseende vært og spurgte med sit ærværdigste mæle: Nei, har du hørt den, du?</p>
+			<p>Ja, den har vi hørt så mange gange, så hans frue.</p>
+			<p>Men Sibelius har ikke hørt den!</p>
+			<p>Og dermed tog han en stol og satte sig ved mig. Og jeg fik en af de herlige anekdoter. Og mens hans fhisende latter lød-fra hans hede mund lige ind i mit øre, så jeg, hvor fru 
+Johanne slængte med hodet af indbidt ærgrelse.</p>
+			<p>Hvad er det, du sidder og murrer om? råbte han og sprang bort og lod hende lugte</p>
+			<pb n="36"/>
+			
+			<p>til sin spinkle, hårede næve. Hun sendte ham et blik fuldt af spot.</p>
+			<p>Det er mig, som er manden! — forstår du det! skreg han og var atter borte foran hende og denne gang med begge hænder knyttede under hendes næse.</p>
+			<p>Det blev pinligt i laget. Den sortklædte høihalsede frue fra Jeiligheden ovenpå havde visket som en myndig abbedisse blandt forfyldte kjørekarle. Hun havde blot målt ham, slået hans 
+hænder tilside, lagt sit hode i hånden og seet drømmende ud som mod en fjern og bedre verden.</p>
+         </div>
+         <div type="chapter">
+			<p>En aften, nogle dage derefter sætter guldsmeden mig med megen ondskabsfuldhed ind i Moldestads verden.</p>
+			<p>Moldestad er ung, Moldestad var rig. Indtil hun, fruen, fik gjort ham umyndig. Dette var</p>
+			<pb n="37"/>
+			
+			
+			
+			<p>i</p>
+			
+			<p>just isommer.  Rustad afleverte det med stor slæde.</p>
+			<p>Og jeg fik indblik i noget af det tristeste. Så uendelig tri</p>
+			
+			<p>En svag og begavet mand, som går tilgrunde lidt efter lidt, fordi hans kone vil det. Hun har tabt sin tro på ham, han er for hende ikke længere nogen mand, ikke længere den, med hvem 
+			    hun kan være sammen om at ale op det tremåneders gamle barn — — og så går hun hen og søger med alle midler at få knækket hans smule livsens kraft, så han sidder tilbage som et udsuget æggeskal.</p>
+         </div>
+         <div type="chapter">
+			<p>Forholdet begyndte saaledes:</p>
+			<p>Han vågner syg en morgen. Tømte flasker, søl og cigarstamper over gulvet. En ven, som er bleven for fuld, slumrer i en lænestol. Gråt lys ind. Af de 2—800 tusen, som vi arvede, er der 
+ikke mere end 100,000 tilbage. Hvad vil</p>
+			<p>dette føre til? </p>
+			<pb n="38"/>
+			
+			<p>Moldestad snur sit ansigt mod væggen med en bestemthed, som om han havde seet en ågerkarl på den anden side.</p>
+			<p>Og dybe tanker om sobert liv kommer op i ham,</p>
+			<p>Han spytter ad sit foregående liv</p>
+			<p>Og just som han spytter ad det, står hun foran ham med kaffebrættet, hun, præstedatteren fra etagen ovenfor</p>
+			<p>Sortklædt og med de gi nøgtern og hvid. En pensioneret præsis eneste datter. Selysil</p>
+			<p>Han ser de vederstyggelige levninger efter</p>
+			
+			<p>4, bebreidende øine,</p>
+			
+			<p>er, men mild som en nonne,</p>
+			<p>nattens orgie, han føler, der er en rædsom dunst i stuen. Hun er et bud fra en ren verden. Han husker, der er endnu et hundrede tusen kroner tilbage af arven. Og han griber hendes arm 
+og spørger inderligt: — Hv med dette liv, vil De da bli det rolig, som var det et spørgsmaal, hun længe</p>
+			
+			
+			<p>jeg nu holder op</p>
+			
+			<p>min? — Hun tar</p>
+			
+			<p>har ventet på. Ja, siger hun, det vil jeg. Nu skal vi se en måned.</p>
+			<p>Og da han i en måned har forsaget venner ag kafcer og tappert spillet sjak med den gamle pastor ovenpå, gifter han sig. Hun vælger at</p>
+			<pb n="39"/>
+			
+			
+			
+			<p>bo i villaen, hvor guldsmed Rustad bor. De kjøber fra Sverige egetræs møblement og indretter sig stilfuldt. Han kom straks under pisken. Den hellige præstinde havde forvandlet sig 
+til en meget bestemt kniven-på-struben blåstrømpe. Hun var større end ham af vækst og slog ham i gulvet under de næsten daglige slagsmål. Hun blev frugtsommelig. Hun bar nøglerne til 
+alle gjemmer. Der blev kun sat en halv øl ind til middag og en halv øl til aftens. Pigen skjelte til ham i frygt og havde en mine, som om hun ved mindste antydning til oprør vilde løbe 
+til nærmeste brandallarm.</p>
+			<p>Så begyndte han at frygte for disse middage under fire øine med sin frue, og blev ude dag efter dag. Men det rygtedes, at hun havde forvaltningen af hans penge, og det blev stop med 
+kreditten,</p>
+			<p>Det gik nedover og nedover med agenturet. Folk fandt ham ikke på kontoret. Eller det hændte, de havde just seet ham gå op og derfor fandt det underligt, at døren var stængt. Og ved at 
+studse derudenfor, kunde de høre listende trin og klir af glas, som blev sat tilside. Og et par, som keg igennem nøglehullet, havde seet</p>
+			
+			
+			<pb n=""/>
+			
+			<p>ham ligge henslængt på en sofa i dyb fyllesøvn. Mens nogle ubestemmelige individer på tå havde Jistet sig tilside og hviskede hy-ys!</p>
+			<p>Det var svæklingens ustyrlige sandselighed,</p>
+			
+			<p>som gjorde, at hun fik magten over ham. Vild af drik drev han på natten igjennem med at tilbede hende, mens han om dagen bøjede nakken under hendes pisk.</p>
+			<p>Til sine venner så han: Hun gjør mig gal Hun vil gjøre mig gal og få mig indespærret for at bli kvit mig og kunne leve frit af mine penge. Og ingen gik gjerne i hans hjem For der 
+vankede ingen spiritus, og hun var kjølig.</p>
+			<p>— En dag kom der telegram, at hendes eneste søster, en præstefrue i Hallingdal, var død. Hun gik først til pigen og gav hende spisekammerets nøgle samt ordre til kun at udlevere 
+agenten en halv øl til middag og en halv øl til aften. Derefter gav hun sin mand tyve kroner i lommepenge og lod ham følge sig tit jernbanestationen, hvor der foregik en afsked</p>
+			
+			
+			<p>med mange formaninger. Vor mand gik med lettet hjerte ud på v skjællene. En hel uge i frihed! Vi tar os et</p>
+			
+			<pb n="41"/>
+			<p>Er</p>
+			<p>par drammer først. Å, få en pitlahivert til, Di! Går så ned på torvet og ånder frit, som efter et fængselsophold. Træffer en gammel, hvidhåret, luvslidt og velbarberet skuespiller, 
+kone druknede i attenhundredenogenogfen En kunstner af den gamle skole, som bærer sin toga ret. Vi inviterer ham på et bæger i det</p>
+			
+			
+			
+			<p>nærmeste samlag. Og vi hører på hans mange</p>
+			<p>sirlige ord og gammeldagse kruseduller i talemåden.</p>
+			
+			<p>Kommen ud vi på en</p>
+			
+			<p>forulykket barber, som gjerne gjør følge ind i en ny kneipe. Barberen trækker os i ærmet og siger: Pas Dem for ham dér!</p>
+			<p>Vei, sitter du her, du rige fogel! råber en ung, uvasket maler, som stiger ind og styrer</p>
+			
+			<p>mod os med hjertelige lader Kllissen går det? E kjærringa på landet, sei du? Død og salte! Då ve eg bu hos deg! Come along! Come along! siger vor vei som ved at se sig i dette selskab 
+føler luftpust</p>
+			
+			<p>fra. friere egne. Barberen trækker ham i ærmet, men han</p>
+			<p>ændser det ikke. Bare ryster ham af sig.</p>
+			<p>Nu skal jeg få lov at invitere selskabet</p>
+			<p>hjem! —</p>
+			
+			
+			<p>iger han.</p>
+			<pb n="42"/>
+			
+			<p>Et bybud kommer ind, hilser dybt på vor ven og gnider hænderne mange gange.</p>
+			<p>— Du skal være med hjem! Du skal være min gjæst! siger agenten. Han trækker op tre femkronere og ber bybudet kjøbe brændevin for dem. Og så telefoner efter vogn!</p>
+			<p>En time efter er selskabet placeret omkring et pjolterbord på en altan. Et konglomerat af samfundsbærme. Man sidder i solskinnet og drikker sig fuld, man gaar ind og slænger sig med 
+skidne støvler på de edderdunstæpper, man prøver på at åbne skabene for at se, om det ikke er mere vin de</p>
+			<p>Pigen kiger ind og blir angst. Hun har fået instrukser af sin frue. Hun tror, den onde er kommen, og hun flygter ud af huset og hjem.</p>
+			<p>de. Men de er låste,</p>
+			
+			
+			<p>Dit fordømte —! vræler vor ven og søger at reise sig. — Vil du ud med nøglerne til spiskammeret</p>
+			<p>Han er efter hende. Han kommer ind igjen og siger, at det hæst er væk. Men ikke tag dere nær af det, venner. Vi har mere spiritus.</p>
+			<p>Og når banditterne ud paa kvælden vil til at gå, indbyder han dem alle til hvile. De</p>
+			
+			<pb n="43"/>
+			
+			<p>skal værsgo være hans gjæster indtil videre. Og så slænger han ud af sin og sin kones seng madratser og puder og tæpper. Læg dere på det. Selv lægger han sig til at snorke på de nøgne 
+sengefjæle.</p>
+			<p>— Banditterne vågner den næste morgen og begynder at drikke af vadskevandsmuggen. De murer noget om, at det er bedst at forlade</p>
+			
+			<p>dette hus. Det st mand, som ikke har nøglen til sit eget spi kammer.</p>
+			<p>Vor ven ligger plaget af spiritusangst og</p>
+			<p>år ikke rigtig til med en</p>
+			
+			<p>hører på dette</p>
+			<p>Har jeg inviteret dere til mine gjæster? Eller har jeg ikke inviteret dere? Nå! Så vent, til jeg er i klærne.</p>
+			<p>Og da han er paaklædt, går han ud og skriver et ligegyldigt telegram, som han sender pigen afgårde med. Hvorefter han går nedenom de ikke skulde ha en</p>
+			
+			
+			<p>under og spørger kjødøkse at låne ham. Vi skal nemlig ha oksesteg til middag.</p>
+			<p>Med kjødøksen hugger spisekammersdøren, og indenfor forefindes mange</p>
+			
+			<p>an låsen ud af</p>
+			<p>flasker vin og punsch.</p>
+			<pb n="44"/>
+			
+			<p>Stor jubel i stuen. Banditterne stod op og begyndte at se på ham med virkelig agtelse.</p>
+			<p>Også denne dag tilbringes i det gemytligste »frøidskap" med liderlige viser og råheder. Gemene hentydninger af alle slags. Man tænke sig en bande droskekuske i et styrtet fyrstepar 
+til plyndring overgivne bolig.</p>
+			<p>Vor veh agenten har aldrig vist sådan elskværdighed. Han overtraf alle værter i den kunst at glemme sig selv for sine gjæster.</p>
+         </div>
+         <div type="chapter">
+			<p>Et par dage efter. Vor ven går omkring, går ganske forladt omkring i sine egne stuer og</p>
+			
+			<p>fløjter og spiller piano afvekslende. De nedenunder maa slet ikke indbilde sig, at her er ond samvittighed her ovenpå. Tvertimod. Jubalon i sjælen! De har fået sin kjødøkse tilbage. 
+Rigtignok har banden i et overgivent øieblik været nede i haven og kastet snebold i hodet</p>
+			<p>på hinanden</p>
+			
+			<p>mt lige udenfor vinduerne efterladt sig ugalante mærker på det hvide dække. Men det har fruen dernede så inderlig godt af</p>
+			<pb n="45"/>
+			
+			
+			<p>!</p>
+			
+			<p>at ha for øje. Ingen affektation, kjære fru Agnes. Vi er nu engang dyr.</p>
+			<p>Det ringer. Det er telegram fra fru agenten, Mød mig iaften kl. 11. Det bæst! Hun havde sagt, hun vilde bli borte en hel uge.</p>
+			<p>Men bare modig, Ananias! Lykken hjælper</p>
+			
+			<p>den tapre. Foreløbig</p>
+			
+			<p> tilbringer vi natten ude i byen. Styrker os imorgen på en ti—tolv pitlahiverter, sætter på kontordøren en skreven lap: Bortreist i forretningsanliggender til ieftermiddag. 
+Viser os</p>
+			
+			<p>i villaen, fuldkommen ædru og renset efter et dampbad, og blir glædelig forbauset ved at se, at fruen er kommen tilbage. Telegram? Nei, har ikke modtaget noget telegram. Telegram 
+fra dig, siger du? Nei. Da må det ligge på kontoret. Jeg har ikke været indom dér, siden jeg måtte på denne forretningstur igår. — Ja, det rote her j</p>
+			
+			<p>Og sengklærne! Og alt</p>
+			
+			<p>svineriet! Ja, du kan tro, jeg hadde mas med. dem, før jeg fik dem ud! — Kommer ikke den</p>
+			
+			<p>før—dø—melige malerslasken her, ser du,</p>
+			
+			<p>trækkende med noen kjæltringer — dannede folk forresten, en skuespiller — jeg kan ikke godt hive dem ud, men i den tro, at de som.</p>
+			<p>gentlemen vil fortrække fra et hjem, hvor ingen</p>
+			<pb n="46"/>
+			
+			<p>vært er tilstede, går jeg på kontoret og græmmer mig der og bare ønsker, at du vilde komme snart. — Ja, og spiskammeret du! Havde jeg ikke vidst, hvor fattig og forsulten denne malerslasken var, skulde jeg ha meldt ham for politiet.</p>
+			<p> — Men nu, du kjære, kjære, er kommen hjem, vil jeg glemme alt nag. Ved du hvad, du — her er et brev fra —? Nei har jeg ikke</p>
+			
+			<p>lagt det i skuffen jpå kontoret —! Det var et Brev fra onkel Peter i Bodø; han siger, at du endelig må komme derop isommer. Jaja, den tid, den sorg. Jeg har forresten fået klo i en 
+affære nu, som der inden fjorten dage vil tilfalde bare på min part mindst otte tusen af kanske ti. En sagfører — ja dette skal være en hemmelighed sålænge — nå, han har valgt mig som 
+mellemmand. Godt at ha gamle venner, du! Og nu —! nu er du elskede hjemme igjen. Dermed kysser vi hende vildt og bærer hende bort på sofaen og — beseirer kvinden!</p>
+			<p>I disse tanker vandrede den ulykkelige, for livet knækkede ødeland ind gjennem byens gader, blæksprutens arme, som havde suget hans nerver ita.</p>
+			<p>Af pure angsten gik han hen og fyldte sig</p>
+			<pb n="47"/>
+			
+			
+			<p>med øl og snaps. Fik en flaske cognak med på kontoret, låste døren og turde ikke tænde lampen af frygt for at hun måske kunde komme med et tog tidligere fend i telegrammet n stile 
+sine skridt direkte fra stationen til ,agennt.</p>
+			
+			<p> og</p>
+			<p>turets. Han Ia sig på sofaen og begyndte at drikke. Skjæret fra en gaslygte trængte ind og oplyste væggen. Ude på gaden larmede livet Hvor ikke mørke er og ikke ikke den forfærdelige 
+spøgelsesangst.</p>
+			<p>gen klistrede han udenpå kontordøren lappen med: Bortreist i forretningsanliggender. Og gik til en af sine veninder fra de fri</p>
+			
+			<p>stilhed, er heller</p>
+			<p>Den næste mi</p>
+			
+			<p>hos hende var</p>
+			
+			<p>ungkarledage. Se, det lunt at være. Hun havde hjerte og venlig omsorg tilbage. Da hun hørte, han vilde ha kognak og var pengeløs, gav hun ham en tikrone.</p>
+			<p>Stakkars gut! Hun er nok ikke god mod ig, præstedatteren.</p>
+			<p>— Ingenting</p>
+			
+			<p>de han, der han sad, om hvad hans strenge frue foretog sig.</p>
+			
+			<p>Imidlertid var hun kommen aftenen iforveien og havde forundret sig over, at han ikke</p>
+			<p>var mødt frem paa stationen. Hun log en slæde</p>
+			<pb n="48"/>
+			
+			<p>og kjørle hjem. Fruen nedenunder var vågen. Og hun fortalte den hjemkomne om mandens meriter. Præstedatteren var hvid og hvas i ansigtet. Med et lys gik hun rundt i leiligheden, 
+måtte slå vinduer og altandøren op for ikke at kvæles af den stank, de brændevinsdrikkende banditter havde efterladt. Hun fandt tomflasker i kjøkkenet, ja selv i sengene. De kostbare 
+edderdunstæpper og puder var borte, pianoets taster var overklinte af punsch og tobaksaske, låsen i spisekammerdøren ophuggen.</p>
+			<p>— Får jeg lov til at sove på en sofå hos dere inat? spurgte hun fruen nedenfra.</p>
+			<p>Derefter låste hun leiligheden. Om morgenen lod hun telefonere efter en droske og kjørte så rundt fra pantelåner til pantelåner. Det lykkedes hende at få indløst alle de bortførte 
+sager. På hvert af lånekontorerne nedla hun påbud mod al la hendes mand herefter få nogetsomhelst lån. Min mand er umyndig! sa hun kort og strengt. Og la til, idet hun gik et si</p>
+			
+			
+			
+			<p>pt; Forstaar De!</p>
+			<p>Hun fik sendt bud efter den rømte pige, og de to i forening med en for dagen leiet stuepige: gav sig igang med at ordne leiligheden.</p>
+			<pb n="49"/>
+			
+			<p>Den hele tid blev hendes mand ikke nævnt.</p>
+			<p>Han kom hjem udpå kvælden, nogenlunde restaureret ved hjælp af søvn og et godt bad</p>
+			<p>Han vilde omfavne hende.</p>
+			<p>— Kom mig ikke nær! råbte hun og stod som et jern. Du kan lægge dig, når du vil, Din seng er flyttet ind i stuen dér.</p>
+			<p>— Men kjære du! sa han og dansed i glad uvidenhed og med udbredte arme mod hende.</p>
+			
+			<p>— Kom mig ikke nær, eller jeg telefonerer efter politi. Eller til Gaustad, la hun til</p>
+			<p>Dette virkede paa ham som et puf i brystkulen. Engang før havde hun slået på den streng, og han havde en anelse om, at hun</p>
+			
+			
+			<p>havde havt en konference med andre angående</p>
+			
+			<p>indstilstand. Han stod en stund og skjalv med forrykt</p>
+			<p>glødende øine. Han så et hadefuldt, foragteligt</p>
+			<p>hans</p>
+			
+			<p>djævelsk blik i hendes. Han så, hvor han var bleven taget grundigt ved næsen af denne halv</p>
+			<p>gamle grå og slue præstedatter. Som et smidigt</p>
+			
+			<p> kattedyr sprang han ind under hende og slog hende overende. En kamp opstod. Hun bed tænderne sammen og vred sig under hans</p>
+			<pb n=""/>
+			
+			<p>klo, men øinene fulgte hans med det samme triumferende had. Han dunkede hendes hode voldsomt mod gulvet, det var lige under en blomsteropsats, den væltede, og potterne knustes</p>
+			<p>med et brag. Man stormede op trapperne, og</p>
+			
+			<p>han så flere mennesker slå med skrækslagne blikke ude bag den opslagne dør.</p>
+			<p>— Hun bedrager mig! Hun har stjålet mine penge! Hun foranstalter skandaler, for at det skal se ud som jeg er gal, og hun kan få mig indespærret. Hun er en styg djævel! råbte</p>
+			<p>han til dem i døren, idet han trængte sig ud</p>
+			
+			
+			<p>fandt sin frakke og pelshue og styrtede ned trapperne.</p>
+			<p>Den tanke sleg op for ham og fyldte ham skold rædsel, dér han jog på måfå om i</p>
+			<p>byens gader: Var det sandt, at hun stod i forhold</p>
+			
+			<p>med</p>
+			<p>til en af lægerne ved en sindssygeanstall, og at de to vilde faa ham indespærret, så de kunde leve et hyggeligt forhold, og takket være hans</p>
+			
+			<p>arv ha et sorgfrit udkomme?</p>
+			<p>Han slentrede omkring længe den nat. Og sik tilsidst op på sit kontor og slængte hvil</p>
+			
+			<p>ig til</p>
+			<p>dér.</p>
+			
+			<pb n="51"/>
+			
+			<p>AT</p>
+			<p>Helene, Olafs hustru, var i byen. Første gang, jeg så hende, var en tidlig morgen, klokken kunde være mellem seks og syv. . Op gjennem den sjolle gade, hvor jeg var taget ind som 
+pensionist i et femteklasses hotel, kom hun den morgen side om side med en gift ekstraskriver i kirkedepartementet, Hun var ufjælg… Han også. Jeg skjønte, de havde sovet sammen i et af 
+de talrige logi for reisende. Jeg fløi ned pi gaden, slog klafferne til ulsteren op, så jeg var ukjendelig. På torvet gik de ind et portrum. Jeg passerte just forbi og så, de stod der og 
+kyssede hverandre.</p>
+			<p>Jeg gik den hele dag og drev omkring og drak snapser og stod på gadehjørnerne for at se, om jeg ikke kunde opdage Helene. Og jeg må vist i min store kvide ha rystet med hodet og seet 
+forrykt ud, for folk vendte sig ofte og sendte mig et blik.</p>
+			<p>Helene! Helene!</p>
+			<p>I en hel uge gjemte jeg mig inde på mit værelse. Gik bare ud om kvælden og drak ol og drammer.</p>
+			<p>En kvæld, jeg står på et hjørne, kommer en og slår mig på skulderen. Det er en gammel</p>
+			
+			
+			
+			
+			<pb n="52"/>
+			
+			
+			<p> klassekammerat, nu mediciner. Vi har på ti år ikke seet hinanden. Vi går og drikker vin, spiser østers, og da klokken blir mange, beder han mig endelig om at gå med på en liden 
+vii". Vi skal gå ned til Magda. Om jeg ikke kjendte hende? Det var den fineste jente, han vidste.</p>
+			<p>Vi kommer op et sted. En smuk kvinde fører os tilsæde i en sofa under en måneskinslampe. Vin kommer på bordet. Medicineren og hun går ind bag et forhæng. Jeg går bort jog ser på 
+alle de nipsgjenstande på den med et kniplingetæppe overdækkede kommode. Der står fem — seks fotogrammer på' stativ. Blandt dem et af — Helene, Helene i kabinetsformat. Under stod 
+skrevet: Fra din trofaste veninde Helene!</p>
+			<p>Jeg satte mig i en stol og tilbefalede al min 70. Da de to kom ud igjen, og hun havde sat sig ved min side, spurgte jeg saa ligegyldigt som gjaldt det en flis i væggen: Hvad er det 
+for en dame, De har der i kabinetsfotografi?</p>
+			<p>— Hun! Hun! Helene! Det er min bedste veninde, det!</p>
+			<p>— De kjender hende altså?</p>
+			<pb n="53"/>
+			
+			
+			
+			<p>— Jeg sku mene det! Manden er no dau! Sia har det gåt skit med a. Men jeg har vært a en god ven, kan Dem tru. Kom a ikke her for en måneds tid sia så belort å bedrit å så fuld a 
+insekter, at jeg måtte klæ a fluksens naken å gi 2 en a mine nye særker. Å så måtte jeg bade a. Hu fik god forpleining af mig, må De tru. Synd på a, stakkar!</p>
+			<p>— Ved De, hvor hun opholder sig nu? spurgte jeg.</p>
+			<p>— Politien var etter a. Jeg antar, hu er på Mangelsgården nå.</p>
+			<p>Så tungt, så tungt kan mange ha det. Et feilgreb, og individet ser en skygge falde over sig, en lang skygge, hvori det må vandre i bare sorg. Kommer økonomiske mangler til, bærer det 
+dybere og dybere ind i skyggen. Man ser sig forladt af Gud og mennesker, og man er prisgivet drukkenskab og et bittert opjaget sind.</p>
+			<p>Der var en røst som sa mig, at jeg fortjente at gå dybere og dybere i skyggen og se Helene gå med.</p>
+			<p>Jeg begyndte for alvor at leve det mest antisociale liv. Jeg følte mig kun vel blandt</p>
+			<p>de mest forkomne exsemplarer af mandkjøn og 1 støre. 1</p>
+			<pb n="54"/>
+			
+			<p>kvindkjøn. Jeg drak med dem og følte mig ét med dem. Aldrig fornam jeg et værre fysisk ubehag, end når jeg en aften var gjæst i et anstændigt hjem. I et hjem med the og pianoforte 
+og husfaderen efter maden med en pibe i Jænestolen og de velsindede blade på fanget. Jeg tvang mig til at le med af den mest vandede og uskyldige spøg. Og til at se tankefuld ud, når 
+datteren med åbent næb og opadvendte øine sang: Aftnen er stille, tonerne trille... , — Å, frøken! bad jeg, — vil De synge den: Månen lyser over havet, øde piazettan står —? Og så fik 
+jeg den med!</p>
+			<p>Og når jeg gik hjem fra sådan en fawilie, følte jeg mig som en røvermand, der er kommen til at deliage i et totalistmøde af skikkeligt borgerfolk, der titulerte hinanden brødre, 
+og sang falsk og drak kaffe. Gudskelov! endnu er kaféen ikke lukket! Opvarter! Pst! En grog!</p>
+			<p>— Jeg besluttede at undgå guldsmedens hjem. Ligedan Moldestads. Men en dag, et par uger efter hans frues hjemkomst, fik jeg besøg af den evigt skandallystne Rustad. Han måtte fortælle 
+mig om agenten. Han havde drukket</p>
+			<pb n="55"/>
+			
+			
+			<p>st</p>
+			<p>værre end nogen gang i det sidste. Og hun havde lykkeligen fået skræmt den sidste rest af vet ud af ham. Hun havde drevet ham til dilla, far. For at bli kvit ”en. Så hun kunde sidde 
+med pengene hans. Ja ja, san.</p>
+			<p>En tidlig, tidlig morgen skulde jeg se Helene igjen. Jeg trodde hun var reist fra byen. Jeg var just kommen ud af mit smudsige hotel og stod på det øde, grå torv. Jeg havde ikke kun
+net bekvemme mig til at drikke mig fuld den foregående aften. Og da jeg på længe ikke var gaaet ædru tilsengs, fik jeg denne nat ingen søvn.</p>
+			<p>Som jeg står på torvet og gyser af gråt ubehag, ser jeg et par arm i arm komme opigjennem en af de med kneiper og femte klasses hoteller fyldte gader. Jeg så på parret og trak mig så 
+ind i et åbent portrum for ikke at blive opdaget. Det var Helene! Ufjælg og grå som vintermorgenen. Iført en skrigende</p>
+			
+			<p>hat og slaskede klær. Arm i arm med — ja, denne anden! Min afskyelige fætter Julius Markussen, boghandler, avisudgiver, kolportør, foredragsholder, mormon, morfinist og 
+alkoholist, Ja, han var bleven gift for et par år siden,</p>
+			<pb n="56"/>
+			
+			<p>havde jeg hørt. Med en dame i Stockholm, en ung håndværkerdatter, som havde lært massage.</p>
+			<p>Julius Markussen og Helene. Jeg havde hørt, der skulde gives unge, smukke kvinder, som kunde lade sig forhekse af grimheden. Men da var altid grimheden parret med et par kloge 
+hundetro øine og en jætteenergi, som ryddede klippeblokke tilside for at det sarte elskede kvindevæsen kunde finde ly.</p>
+			<p>Og fætter Julius' øine! Et par stikkende blå, lurende øine i et galdegult, indskrumpet ansigt med krøllet sort emissærskjæg!</p>
+			<p>Hvordan havde Helene kunnet slå følge med ham? Denne udmagrede hyæne.</p>
+			<p>Nå. De forsvandt op i byen. Og jeg var glad for, at de ikke havde seet mig.</p>
+			<p>Næste dag er det søndag. Man går jo den lange formiddag omkring i sin puds og venter på, appetiten til middag skal indfinde sig.</p>
+			<p>Jeg får et slag på skulderen: Er det du, gamle fætter!«</p>
+			<p>— »Nei, goddag, goddag Julius, Er du i byen?</p>
+			<p>Gud, hvor han så Iuvslidt ud! Uvasket; ubarberet; skidden snip og en tynd regnfrakke,</p>
+			
+			
+			<pb n="57"/>
+			
+			
+			<p>hvis knapper var udrevne. Men hatten flot på skakke og en tone som hos en dansk provinsskuespiller.</p>
+			<p>— Ja, du blir vel hjem med og spiser middag? sa han. Jeg bor på Metropole.</p>
+			<p>Jeg fulgte med.</p>
+			<p>— Hvad driver du på med nu? spurgte jeg.</p>
+			<p>— Ja, så han og flyttede hodet langsomt. — det er et fossefald borte i Sverige, jeg har fået i opdrag at sælge. Passelig for en cellulosefabrik. Jeg får nu prøve her. Jeg kan ikke 
+garantere mere end 12 pCt. Har jo tilbud nok fra Sverige, men jeg vilde så gjerne ha de fleste aktier på norsk hånd.</p>
+			<p>Hm. Hvad er det for en svindel, du er igang med nu igjen! spurgle jeg og lo ovcrbærende.</p>
+			<p>Han slog hodet tilside og rystede det dovent, samtidig trak han øienbrynene op: jeg tor mine hænder indfor slig uvidenhed.</p>
+			<p>Vi kom til hotellet, hvor portiéren stod ved indgangen og ikke vørrede os et buk. Vi gik op gjennem mange trapper og steg ind i et rum. Ved et vindu ud mod en grå mur sad en tynd 
+kvinde med et barn paa fanget. Hun havde just grædt.</p>
+			<pb n="58"/>
+			
+			<p>Får jeg præsentere! sa han og udførte dette på en måde, som lod mig forstå, det var ham om at gjøre, at hans kone fik det mest duperende indtryk af mandens bekjendte.</p>
+			<p>Hun reiste sig og neiede og satte sig så igjen til at se ud på den grå mur. Barnet sad med hodet under hendes brystsjal</p>
+			<p>Min stolte ven gik op og ned og lod til at være i glimrende humør.</p>
+			<p>— Er det ikke en storartet bagage, vi har, hva? råbte han og pegede på en håndkuffert, der stod borte i en krog og ikke var større end et nisteskrin,</p>
+			<p>Som en skuespiller, der repeterer sin rolle, gik han op og ned og sled sig i sit grisne skjæg og hår</p>
+			<p>Nei, jeg tænker, af jeg er en mand på 70,000, hvis denne forretning går i orden du.</p>
+			<p>. Du skal få den silkekjole, jeg lovte dig, Annamor! sa han og var borte hos den triste kone og agerte kjærlig.</p>
+			<p>— Apropos du! Har du spist idag?</p>
+			<p>Jeg sa, jeg havde spist.</p>
+			<p>— Men et glas vin kan du ta vel?</p>
+			
+			<pb n="59"/>
+			
+			
+			<p>— Kellneren kom ind med det samme med en tallerken semouillegryn til barnet.</p>
+			<p>— Hør De kellner! sa Julius og gik op og ned og trak sig tankefaldt i det grisne skjæg — det så ud, som han havde glemt, hvad han vilde sige. Og kellneren stod der med et par spydige 
+øine.</p>
+			<p>— Ja, altså ,du —! sa min ven og kom ud af en tankedistraktion, — hvad vil du drikke altså?</p>
+			<p>— Nei, tak, jeg har ikke lyst paa nogen ting, sa jeg.</p>
+			<p>— Tøv med dig. Et glas vin skal du drikke med din gamle ven! Hør— kellner! En flaske madeira af den bedste! Å nei — vent lidt! De har vel ikke af den sort, jeg liker bedst! Min ven 
+Evensen hernede, han har en charmant madeira, det husker jeg fra sidst jeg var i byen. Jeg går heller ned til ham. Tak skal De have,</p>
+			<p>— Dermed vinkede han tjeneren af, flot som en general vinker et ligegyldig korporalsbud af.</p>
+			<p>Han iførte sig den lange kanarigule regnfrakke uden knapper og gik stolt ud.</p>
+			<p>Jeg vilde vende mig mod hans kone for at konversere hende i mellemtiden, men jeg så, at</p>
+			<pb n=""/>
+			<p>56 hun sad og hikstede og vilde skjule tårerne, Barnet begyndte at kvække, og hun reiste sig og gik op og ned på gulvet med det og brystede det.</p>
+			<p>Hvilken sorg! Hvilken sorg! Og hvilken foragt for mig, bare fordi jeg i hendes øine var mandens ven!</p>
+			<p>Om lidt kom Julius op igjen med sin mest stormodigt svingende mine. Han havde ingenting med sig. Men han gik bort og åbnede familiens lille kuffert, og frem af den, blandt 
+Darnebleier og filler, fandt han en flaske, som han hurtigt stak i lommen. Hvorefter han ringede.</p>
+			<p>— Tak tre vinglas, kellner!</p>
+			<p>— Denne madeira er den bedste, som er at opdrive her paa stedet! fik han tid til at sige, før kellneren forsvandt.</p>
+			<p>Konen sad og så ud som hun sank sammen i fortvilelse derborte ved vinduet,</p>
+			<p>Julius blinkede til mig og knyttede næven mod sin hvide spidse næse og sendte mig et par øine, som sa: Hys! Lad ikke nogen faa rede paa humbugen. Allermindst hun!</p>
+			<p>Derpaa skridtede han op og ned og talte om cellulosefabrikken i Sverige.</p>
+			
+			<pb n="61"/>
+			
+			<p>— Apropos du! Ved du, om min onkel, statsraad Krabbe er i byen nu?</p>
+			<p>Nej, det vidste jeg ikke.</p>
+			<p>— Hm! Julius gik op og ned ad gulvet. Jo, vist fanden er han i byen jo. Jeg fik jo et brevkort fra ham fornylig i Stockholm. Han sa, jeg maatte endelig besøge ham. Han vilde saa 
+gjerne se min kone. Hvad mener du, lille ven, om vi kjørte ud til ham idag? sa Julius og var borte med sit smiskende ansigt hos hende ved vinduet. — Skjøndt? la han til, — en søndag — 
+nei? Det er bedre, jeg går til ham en hverdag og får ham med på planen. Da har han bedre tid.</p>
+			<p>— Med grin som af en abekat fremstillede. min ven den flaske, han havde fundet frem blandt</p>
+			
+			<p>Darnetøiet. Det var en flaske af den berømte laddevin.</p>
+			<p>Jeg havde ikke lyst på vinen, hans frue heller ikke. Så drak han den alene. Ringede så atter, og begyndte, da kellneren kom, at skjælde alle toldbetjente ud, fordi de endnu ikke havde 
+villet udlevere hans kostbare bagage fra Sverige.</p>
+			<p>— »Ja, ja, jeg får gå ned og prøve på at få mine kufferterter udløst imorgen!</p>
+			<pb n="62"/>
+			
+			<p>Jeg var nær ved at gråte over al denne humbug. Min stakkels fyllefant af en fætter! Talte om vandfald og kapitaler, som var det smørrebrød.</p>
+			<p>Men han gik der med en mine. Jeg havde ikke mod til at sige mine oprigtige spørgsmål, sålænge hans kone var tilstede. Aldrig har jeg seet et så tamt og forknet væsen.</p>
+			<p>— Gav han sig ikke til at ringe igjen! Alt mens hans mine blev mere og mere stolt!</p>
+			<p>Kellneren stod der med whiskers og vaate øine.</p>
+			<p>Å høi! sa min ven og trak i barterne og så grundende mod gulvet, — ja, kone, du vilde altså gjerne ha en tur udover til Sandvigen. Ja, altså, hr. kellner vil De telefonere efter slæde 
+med to hester — skjønt —! det er jo så dyrt! Hvad mener du, kone! om vi tar en almindelig kjøreslæde. Hvorfor kaste så mange penge bort! Du blir med Søbelius! Altså, vil De telefonere 
+efter en slæde. Tre personer. 6—7 timer.</p>
+			<p>— Kellneren bukkede med et smil. Lidt efter meldtes, at slæden var der. Min ven i sin gule frak, hans kone i et stakkars plaid og barnet hyllet i tøibiter, indskibede de sig i slæden,</p>
+			<pb n="63"/>
+			
+			
+			<p> som holdt ved hotellets indgang. Portiéren med en skare tjenere stod og iagttog embarkeringen med spydig og medlidende mine.</p>
+			<p>— Kjører du ikke med? — siger Julius til mig. +</p>
+			<p>Jeg finder på en udflugt og går opover gaden.</p>
+			<p>— Så blir det den tunge triste søndagsvinteraften. Jeg driver langs gaden. En kusk kommer bort til mig og spørger, hvad det var for en, han dér, som jeg var isammens med, og som 
+kjørte med et fruentimmer og et barn. — Hvad da? — siger Jeg. — Han havde ingen peng jo! — Og så fik jeg vide, at den hele familie er bleven afsat nede ved jernbanestationen.</p>
+			<p>— Langs hovedgadens allé sidder der folk på bænkene, søndagsfolk, som de andre dage har for travlt til at ræke.</p>
+			<p>Ved elve—tolv tiden går jeg langs bænkene. En stemme kalder på mig. Jeg ser to individer, alene, som havde andre skyet at sætte sig ved deres side.</p>
+			<p>Som om det var noget rigtig humoristisk fortæller. Julius mig, at de har lavet det med</p>
+			<pb n="64"/>
+			
+			<p>kjøreturen for at dupere hotellet. Nu må de sidde her til over midnat, før de tør gå hjem i hotellet, da er alle lagt der. Og ingen kan se, at de ikke kommer kjørende tilbage igjen.</p>
+			<p>— Om jeg havde nogen penge? — Hverken han eller fruen eller barnet havde nyt næring siden iformiddag.</p>
+			<p>Heldigvis var endnu en kafé åben.</p>
+         </div>
+         <div type="chapter">
+			<p>Jeg begyndte at sky alt godt selskab, I min trods mod moral "og gode sæder var jeg tilbølelig til at kalde for idiot hver den, som ikke drak sig fuld hver aften, men stod tidlig op om 
+morgenen og nød kaffe og hvedebrød,</p>
+			<p>Måneden gik og jeg blev mer og mer fordrukken. Mine kjendte blandt de upper ten sendte mig vemodige blikke ligesom engle, der står på himmeriges balkon og beskuer en igrunden kjær 
+afdød fætter nede i dybet, hvor han spræller på sine gjerninger.</p>
+			<p>Konstablerne begyndte at holde øie med mig. Et par gange var de borte i mig, men jeg</p>
+			<pb n="65"/>
+			
+			<p>fik dem overbevist om, at jeg var forholdsvis ædru. Forøvrigt begyndte jeg at få sympati for de lazzaroner, som offentlig blev trukket til arresten for drukkenskab.</p>
+			<p>Så kom sommeren. Og en længsel fyldte mit sind, Længsel efter fjeldet, efter selskabet med Olaf og Helene, dengang forholdet endnu var rent. Og jeg fik ikke sove i mit sjofle 
+hotelværelse. Jeg gik ude og rækte i byens park, En aften traf jeg dér en ung dame fra min hjembygd. Hun var reist hid for at søge post og var just kommen med banen. Jeg havde ikke seet 
+hende på otte år. Det var Kamilla Bode, datter af præsten. Jeg blev så glad, at jeg rev hende ned med på en bænk og slog armene om hende og bed i fletten. Hun havde de samme forlløine 
+blå øine og det samme zigøinerfjæs som dengang, vi legte i hølåven der hjemme, og jeg kom til at bide hende i hagen, så blodet flød. Jeg så efter arret, hun havde det endnu.</p>
+			
+			<p>Men nu vi</p>
+			
+			<p>det ingen korte skjør</p>
+			
+			<p>r Jængere, mu var der af vildjenten blit en liden nydelig dame. Bare øinene var som en lokkende djævel i en nonneseng.</p>
+			<p>Jeg sad trist hen og gav hende sure svar</p>
+			<pb n="66"/>
+			
+			<p>på de spørgsmål, hun kom med om min livsstilling, og hvordan jeg havde det. Jeg legte med fletten og kyssede hende på ærmet som i søvne. Hun rystede i mig for at få mig til at 
+svare, men jeg 1å med lukkede øine og bed hende i tøet og lod, som jeg ingenting hørte.</p>
+			<p>Hun bad mig følge sig hjem. Vi gik op igjennem byen, kom ind i snevre smug mellem villahaver, syrener og gulddusk hang udover, og Kamilla var den sarteste rose. Med alkoholikerens 
+pludselige kjærlighedsdrift slog jeg armene om hende og kyssede hende. Et instinkt sa mig, at hvis jeg blev glad i hende, så hun suged al min tanke og opmærksomhed, så vilde lidt efter 
+lidt Helene og Olafs hvide spøgelse hortelimineres af min samvittighed, Ja, sådan ræsonnerte jeg. Hun blir nu her i byen, for hende kan du arbeide, hos hende kan du i de Jange aftener få 
+hvile dit hode, til hende kan du pludre al din stemning ud, hende kan du gi dine overflødige penge, hvis du får nogen, hende kan du komme til at elske, med hende kan du bli ét og engang 
+komme ud af din skidne ham.</p>
+			<p>Jeg følte hendes puls slå mod min. Og</p>
+			<pb n="67"/>
+			
+			<p>jeg bad hende gå med og drive natten igjennem, så vi kunde tales ved. Hun fulgte. Jeg kyssede hendes hænder uafbrudt og stansede og omfavnede hende. Og jeg sa til hende: — Hvis vi 
+giftede os Kamilla, så vilde snart fortryllelsen svinde. Jeg har endnu ikke seet mange ægleskaber, som har varet nogle år og ikke er hæslige. Kamilla fulgte mig som en viljeløs 
+blomst. Jeg gik ved siden og skalv, jeg var dødelig træt og så forelsket, at jeg gjerne havde Jagt mig ned i grøften, hvis hun bare havde villet komme og skjære struben over på mig. Jeg 
+tog hende under armen, og den var så mager, at jeg kom til at tænke på et rypeben. Jeg tog hende om barmen. Bare korset med ribben bag. Men jeg klyngede mig til forelskelsen. Jeg fik 
+hende ind i en park, ned på en bænk, og begyndte at bide hende i alle de tøistykker, hun havde på sig. Jeg løftede på flonellen og hun sank hen</p>
+			<p>Jeg fik et tag i kraven og sprat op. En politikonstabel stod der. Han havde bøiet sig under en buske bag bænken. Der foregår så meget en sommernat.</p>
+			<p>Kamilla fløi op, stelte på tøiet og var hvid,</p>
+			
+			<pb n="68"/>
+			
+			<p>så det lyste gjennem den hvide nat. Hun kastede sig mod mig i angst: — Gud! Gud! råbte hun.</p>
+			<p>— It no tøis! Di får værsgo følge med! sa politimanden.</p>
+			<p>— Jeg følger gjerne med. Men lad den dame gå hjem ifred. Det er min kone, sa jeg. — It no tøls! Hu får gå med! sa han.</p>
+			<p>Jeg havde to hundredekronesedler på mig. Jeg tog den ene op og stak den til konstablen og sa: — Hør nu, kjære ven, lad den dame gå hjem.</p>
+			<p>— Trur Dem, jeg lar mig bestikke! var svaret, og han greb mig hårdt i armen og kommanderte marsj!</p>
+			<p>Kamilla fulgte efter som lammet af skræk. Gang på gang gjorde jeg tegn til hende med den hånd, jeg havde fri, at hun skulde skvætte tilside, ind mellem træerne. Jeg bad konstablen, 
+jeg talte til ham, spurgle, om han ikke selv havde en kone eller en datter, og hvad han da vilde sige, om en af hans kolleger arresterte dem slig. Det nyttede intet.</p>
+			<p>Jeg fik se et par konstabler nede i gaden, og jeg prøvede det sidste for at frelse Kamilla</p>
+			
+			<pb n="69"/>
+			
+			<p>fra hullet. Jeg spændte bag og pegte med foden op i lunden ved siden af veien, og samtidig gav jeg konstablen af al min magt et slag i hodet. Jeg havde beregnet, at han skulde blive 
+svimmel af det et par sekunder, så jeg kunde ha mestret ham, til Kamilla var borte. Men isteden fik jeg et Kølleslag i skulderen, så jeg sank, jeg hørte en fløite, og lidt efter kom et 
+par uniformerte bondedrenge og hjalp mig på fode, Jeg så mig om. Kamilla stod der. Skjælvende og angst, som vilde hun anklage mig. De havde revet hendes tøi stykker. Rasende slog jeg til 
+politlet, fandt paa de gemeneste skjældsord. De slog mig med en klubbe, så jeg tilsidst ikke kunde gjøre modstand.</p>
+			<p>Jeg drev omkring mere sky end nogensinde og uden at foretage mig andet end at gå på guldsmed Rustads værksted, hvor vi spleisede til brændevin, eller at drive om på kneiperne med 
+marsvinet eller Julius Markussen, min</p>
+			<p>sørgelige fætter, endmere sørgelig end jeg. 1 afgrunden 5</p>
+			<pb n=""/>
+			
+			<p>Det begyndte at lakke med pengene. I klædedragten var jeg snart en lazzaron. Jeg lod stå til, jeg tænkte, det skulde være artigt: at</p>
+			<p>løbe linen ud. Ved at gå sådan på siden af</p>
+			
+			<p>samfundsstrømmen som en liden bitte smal, skidden vandåre for sig selv, fornam jeg et eget Mlosofisk velvære. Og jeg smilte så indfult fornøjet, når en af mine kjendte, som på lang 
+afstand havde fået øie på mig, skvat over gaden og så travl ud eller dukkede ind i en butik. De samme folk havde teet sig anderledes, når jeg ved tidligere besøg i byen var optrådt med 
+friskt og freidigt væsen, penge på lommen og altid dækket bord i mit værelse på hotellet. Og nu, ig på sjælen og økonomisk ruineret, lo jeg mig til godt humør ved</p>
+			
+			
+			<p>jeg gik omkring s</p>
+			
+			<p>at se, hvor de kjære helst undgik mig.</p>
+			<p>Jeg gik og drev om nætterne gjennem byens mest berygtede strøg. Jeg traf sammen med pigernes officielle kjærester, håndfaste karle med kniv i sliren og tugthus i erindringen De 
+samlede sig om mig, fik mig ind i mørke smug og sa: Mester, riv i et par flasker øl på vors da</p>
+			<p>En nat, jeg befandt mig i dette fremragende</p>
+			
+			<pb n="71"/>
+			
+			
+			
+			<p>selskab, og man bad om øl, fik man min sidste ti-krone til veksling. Han som skulde hente øllet, kom ikke tilbage, og én efter én forsvandt</p>
+			
+			<p>for at se eftern Kristofer</p>
+			<p>Der var én tilbage og holdt mig med opbyggeligt selskab. Jo, dem kommer nok, dem kommer nok! sa han, hvergang jeg vilde sige godnat. Vent bare, d loserer hos hu Anna heroppe. 
+Hvissom atte Dere vilde betru mig at skaffe Dem øl, så skal vi få det på flækken. Jeg skal garantere, at De skal få Dems</p>
+			<p>Han fik de to—tre kroner i sølv, jeg havde, og førte mig op gjennem smauget og hen til en port og bad mig vente, mens han gik op »Anna". Jeg gav nøie agt på, hvilken trappe, han tog. 
+Jeg tænkte, at kommer han ned igjen, så er der endnu en retfærdig i Sodoma. Jeg ventede og ventede, og sinnet tog mig. Jeg var ikke istand til at le af mig selv. Jeg blussede af</p>
+			<p>n kommer nok. Dem</p>
+			
+			<p>peng tebars,</p>
+			
+			
+			
+			<p>indignation som et barn. Tilsidst stormede jeg ind, op trappen. Der var bælmørkt. Ved det øverste trin, stødte jeg mod en dør og bankede på. Det lyste gjennem nøglehullet. Jeg hørte 
+dem tiske derinde. Jeg bankede på igjen.</p>
+			<pb n="72"/>
+			
+			<p>Med et ryk reves dører op, og min nye ven stod der, afklædt sin jakke. Er det her, Anna bor? spurgte jeg blidt. Å vil Di her? skreg han og knyttede næven.</p>
+			
+			<p>Jeg satte op min blideste mine i skjæret fra lampen derinde: Jeg vilde bare se, hvor der blev af Dem med pengene, lille vent så jeg.</p>
+			<p>Idelsamme smeldte han døren igjen, og jeg stod i mørket. Jeg gav mig til at dundre med støvlerne. Det skulde jeg ikke ha gjort. Døren blev revet op igjen, en stålbeslået hæl sendtes 
+op i luften og traf mig så voldsomt, at jeg tumlede baglængs ned de bratte trapper og faldt besvimet om. Da jeg vågnede, stod der et kvindemenneske over mig med en blodig klud, som 
+hun skyllede i et blikfad med vand.</p>
+			<p>Å jøs! å jøs! å jøs! sa hun og sa deltagende: De må da komme op, mand og få stelt på dere.</p>
+			<p>Og jeg gik med op, og hun fortalte så troværdigt, at han, som havde sparket, var hendes bror, og at han havde været så fortvilet over, hvad han havde gjort, at han ikke havde kunnet</p>
+			<pb n="73"/>
+			
+			<p> andet end flygte ud i natten igjen. Han havde ingen penge og ikke logi, derfor sov han hos hende, søsteren, på en sofa, når han en sjelden gang var i byen.</p>
+			<p>Jeg havde fået det velmente spark i kindbenet, hvor et stort stykke kjød var oprevet. Hun la forbinding på og indbød mig til hvile på sofaen, hvor ,broren" havde hvilet. Jeg var 
+træt og mat og følte mig overbevist om hendes venlighed, så jeg la mig til ro. Jeg skvat op ved et ynkeligt jamrende harneskrig. 1 nærheden af den brede seng, hvor min værtinde 
+allerede 1å og snorkede, så jeg en vugge. Jeg trak den hen til mig og begyndte at bysse — bysse. Et lidet blåhvidt kræk lå dernedi og snappede efter luft og skreg høit op med bestemte 
+mellemrum. Jeg skjønte den lille var alvorlig syg og vækkede moren.</p>
+			<p>— De må få doktor til hende.</p>
+			<p>— Å, hvad skal en fattig stakkar gjøre; dem er så dyre disse doktorne!</p>
+			<p>Dermed sov hun igjen.</p>
+			<p>Jeg vuggede og vuggede og keg på det lille svedige hode og tænkte på den tid om endel år, når denne små, hvis hun ikke var død eller</p>
+			<pb n="74"/>
+			
+			<p>i fængslet eller på hospital, sandsynligvis vilde sidde i samme helvede som moren nu og ønsker, der havde været brændevin i huset til at døve den lilles skrig med.</p>
+			<p>Jeg tog barnets hånd i min, det var som et par tynde, kolde champignonsstilke.</p>
+			<p>Jeg lovte mig selv, at jeg skulde skaffe læge og være omkring den lille, til jeg så, om hun blev frisk igjen. Og såsnart det blev morgen, gik jeg ud.</p>
+			<p>Jeg gik til en onkel, en stilfærdig, ciegod departementsmand og lånte et hundrede kroner, kjøbte en flaske mild sygevin og fik en ung læge, jeg kjendte, med ned til det syge barn. Det 
+var strubehoste. Og moren tog imod den besked med stor ro. Jeg foresatte mig at bli hos hende og passe på, at lægens anordninger blev fulgt. Den hele dag sad jeg ved vuggen og stelte med 
+barnet. Moren fik en tikrone til at kjøbe mad og vin for. Hun gik ud om kvælden og kom fuld hjem og bandte den lille, som nu lå i de si</p>
+			<p>»Løb efter doktor", sa) jeg, jeg turde ikke Jade hende alene ved vuggen.</p>
+			
+			<p>Iste krampetrækninger</p>
+			
+			
+			<pb n="75"/>
+			
+			
+			
+			<p>— da, giv mig peng til en da! Ellers vi'en it komme inat.</p>
+			<p>Hun fik endnu en pengeseddel. Barnet så ud som det sov. Og jeg faldt i søvne på so faen. Jeg vågnede, og det var morgen igjen. Jeg så en skikkelse liste ud døren, som blev stående 
+halv åben. Jeg greb efter vuggen og begyndte at bysse. Den lille lå hen med opsvulmet blåt ansigt, de små hænder krammede fast om dynen og var kolde, da jeg vilde løsne dem. Barnet var 
+død.</p>
+			<p>Jeg listede hen og vækkede dets mor og spurgte, om hun ikke vilde se op.</p>
+			<p>— Ja, jeg ved det. Ongen er dau, og så er a dau! sa hun og vendte sig mod væggen for at sove rusen videre ud.</p>
+			<p>Jeg stod en stund og tænkte på dette og fandt ud, at ligegyldigheden hos den ulykkelige skrev sig vist bare fra langvarig økonomisk misére. Og jeg syntes jeg så hende slænge lig i 
+en kloak for at slippe udgifter ved begravelsen og klokker og præst og hvad der nu indfinder sig ved et dødsfald. Derfor så jeg til hende: Er det mig muligt, skal jeg skaffe dig penge 
+til at bestride omkostningerne.</p>
+			<p>sit barns</p>
+			
+			<pb n="76"/>
+			
+			<p>Hun maa ha hørt bare det ord .penge'. For hun slængte lidt med hodet og snorkede: Bare gå, jeg har it tat dine penge! Bare gå! Beskylder du mig for tyveri, så —!</p>
+			<p>Hun var som et hvæsende dyr. Jeg skjønte, hendes sorg var for dyb, hun forlangte at være alene med sit døde barn. Og stille gik jeg min vei. Jeg satte mig på en kafe og bestilte fro
+kost. Men da jeg skulde til at betale, fandt jeg, at mine pengesedler var bleven fjernede, mens jeg sov. Du stakkels kvinde! Bare der havde været ti gange så meget i min lomme! Det 
+skulde været dig vel undt!</p>
+         </div>
+         <div type="chapter">
+             <p>Det lykkes os ikke at komme i harmoni med forholdene, vor mistanke til samfundet og de værdier, det opstiller, holder os tilbage fra at søge en af 
+                 dets havne. Vor stilling er meget 
+sørgelig. Vi har intet holdepunkt, intet mål, og vi siver langsomt 
+ned igjennem samfunds lagene, ned blandt vagabonderne og de åbenlyse banditter. Vi får anfald af længsler efter de mere</p>
+			
+			
+			
+			
+			
+			<pb n="77"/>
+			
+			
+			
+			
+			
+			<p>ti</p>
+			<p>primitive trin, vi vil æde mask med svinene, De gjennem slægtled møisommelig erhvervede moralske opstivere glider unna, en for en Vi står der tilsidst i vor dyriske nøgenhed. Og vi 
+ler ondt mod dem, som går rundt og prædiker, mens de tager sig selv alvorlig. Vort øie er skarpt til at opdage glimt af dyrehammen under det svulmende kravebryst og den sorte 
+selskabsdres. En mand reiser kysten rundt og tordner mod drik og drifter og elskovs lyst. Vi blir først urolige som udtrættede sviregaster, der i den lyse morgen lusker hjem og møder på 
+gaden den travle arbejdsmand på vei til værkstedet. Men ikke længe varer uroen. Vi spørger: Hvem er den mand, som står der og tordner mod gifte folks utroskab? Jo, det er ham, som stod i 
+forhold til sin bedste vens kone. — Og hvem er så han, som står og forbander sig på, at brændevinet nedstemmer sindet og gjør blodet tykt og tungt? En gammel fyllebøtte, som endnu 
+smugdrikker.  Kjæltringer alle tilhobe!</p>
+			<p>Jeg gik omkring i byen og slang uden mål. Jeg kunde slumpe til at hendrive aftenen i hjem, hvor der rådede orden og lykke. Men jeg sad</p>
+			
+			<pb n="78"/>
+			<p>modfalden og længtede derfra. Ud til kneiperne og de øllede fruentimmer. Ud i det klamme mørke mellem de søvnige gadelygter. Ud blandt lazaronnerne, som flokkende sig om mig kaldte 
+mig mester og bad om penge til stadig mere øl. Og som, mens de tråkked hinanden over skohælene for at få være mig nærmest, lod mig høre smiskende ord. Jeg sad der i de lune borgerhjem 
+og følte dragelse ud mod kredsen af disse logrende banditter, efter spændingen ved at gå i deres midte og hemmelig deres grønt lurende blikke. Mere end engang havde jeg stået med dem i 
+mørket ude på en bryggekant, mens de tyllede i sig den laddevin, jeg havde ladet dem kjøbe. Under stilheden, som faldt på, når en konstabel trådte gjennem gaslygtens lyskreds, så jeg ned 
+i vandet, som skvulpede mod bolværket. Der skimtede jeg vragstumper og korkepropper, indklint mod hinanden, skyllende opad stolpen. Et billede på menneskelige vrag, drevet sammen i en 
+klike, ind i de skumle kroge, hvor ikke vand eller</p>
+			<p>ved</p>
+			
+			<p>lys er klart.</p>
+			<pb n="79"/>
+			
+			<p>Guldsmedens værksted lå så nemt til; man man følte sig syg og træt i gaden og angst for alle de mennesker, som kavede med forretninger og ærender | sit alvors sved, og man stak opom 
+Rustad.</p>
+			<p>Altid var der nogen bag forhænget og drak. Lærlingen, som sad på en krak i butiken og altid havde et arbeide mellem hænderne, var bud til samlaget. Når en sjelden gang en kunde sleg 
+ind, var Rustad i et nu som forvandlet. Et par kaffebønner i munden, lorgnetlen på næsen, skjægget i orden, øinene strenge. De bag forhænget sad lydløse.</p>
+			<p>En aften var der en sjelden gjæst, en som Rustad behandlede med kjærlig ærefrygt. Forøvrigt en ganske ligetil mand. Det var kaptein Dover. Han drak som de andre og var på kam
+meratsfod med dem. Men han bragte duft fra den arbeidende verden. Og dog, og dog! Han var den, som tyllede brændevin i sig med den selvfølgeligste mine, Han tog op etpar sedler og 
+spurgte høflig: Får gutten lov at løbe efter Hennesy?</p>
+			<p>Det var en aldrende mand med ualmindelig markerte træk. Blygrå øine, svære, hængende</p>
+			
+			<p/>
+			<pb n=""/>
+			
+			<p> barter, hroraf pjolteren dryppede. Han sad med frakken halvt opknappet og hatten bag i nakken. Hans ord var knappe, det var, som kjendte han altfor vel, hvad der rørte sig i 
+sjælene hos guldsmeden og de hos ham fast stationerede fyllefanter. Der var træt forståelse i hans øine.,</p>
+			<p>Rustad havde låst butiken, slukket gassen derude og trukket forhænget til det indre tæt for. Hans krop vaklede, hans stemme lallede, men hans værdige mine var der, og øinene var 
+skarpe. Han var så skjælvende opmærksom mod kaptein Dover.</p>
+			<p>Går du hjem med iaften, du? spurgte han lavt.</p>
+			<p>— Nei, sal Dover strengt, men jeg skal hjælpe dig.</p>
+			<p>Å Gud velsigne dig for det, du! sa" Rustad og greb hans hænder, hvorefter han vendte sig mod de andre.</p>
+			<p>— Dere er mine venner, og jeg siger det nu til Dere. Jeg har ikke sagt det før idag, skjønt Dere har spurgt, hvad der var iveien</p>
+			
+			<p>med mig. Jeg var på nippet til at komme i tugthuset idag. Jeg sendte gutten ud alle mulige</p>
+			<pb n="81"/>
+			
+			<p> steder for at skaffe penge, men forgjæves. Får jeg ingen anden udvej, så ind at telefonere til ham og spørge, om han vilde hjælpe.</p>
+			<p>Banden lyttede og så spørgende på Dover. Denne spyttede og så foragtelig på guldsmeden.</p>
+			<p>— Jeg gjorde det for din kones skyld, Rustad. Og for dine børn. Du havde så inderlig fortjent at komme på tugthuset, Nu drikker jeg et afgjørende glas og går. Jeg tar Dem med, 
+Sibelius</p>
+			<p>Så stærk følte jeg denne mand, aldrig før havde seet, at jeg uden v mig og sa godnat med ham. var ude på gaden. De, sa han, som om han i lange tider havde fulgt mine skridt: De bør 
+komme ud af dette her, Sibelius. Hvis De ikke har penge, så har jeg til Dem. De må komme og bo hos mig. De må fremfor alting ha noget arbeide. Kan De tegne? Nå. Så skal jeg ta med fra 
+mit kontor arbeide til Dem. Vi drikker et glas på det. Jeg er svær, jeg, ser De! sa han og lo op i mit ansigt.</p>
+			<p>Vi gik ind og drak champagne. Kom så op i en drosje og kjørte ud at byen. Vi holdt</p>
+			
+			
+			
+			
+			
+			
+			
+			<pb n="82"/>
+			
+			<p>udenfor en gammel have. Det var senhøstes, en pige kom med lygte.</p>
+			<p>— Sæt istand til denne herre nede i Johans værelser! sa kapteinen.</p>
+			<p>Vi gik over en grusgang og kom lige ind i en varm og oplyst salon. En fin aldrende dame,</p>
+			
+			<p>vissenrød som et tørret æble, log imod os med smil og venlig, skarpe øine. Hun gned sine magre hænder og bød mig velkommen i huset</p>
+			<p>Jeg sa godnat og fulgte pigen, som lyste mig nedigjennem haven til en meget smal enetages bygning med verandaindgang. Der var to små værelser, fuldt møblerede og med væggene 
+dækkede af udklippede tegninger af illustrerte blade. Sengen var opredt, røde tø giner for vinduerne og ild i ovnen.</p>
+			
+			<p>Er dette ,Johans værelse?" spurgte jeg. — Ja, det er den unge hr. Dovers værelse.</p>
+			<p>Det har stået slig, siden han reiste. Hm. Jeg fik et indtryk af, at den unge</p>
+			
+			<p>hr. Dover på en en eller anden måde havde</p>
+			<pb n="83"/>
+			
+			
+			<p>afstedkommet sorg i familien, og jeg spurgte ikke mere.</p>
+			
+			<p>— Her var en kasse cigarer fra kapteinen (hun satte en kasse fra sig på bordet); og når kost eller noget andet, så beDe bare ringe på knappen dér. Godnat. Jeg anede ikke 
+sammenhængen med al denne venlighed fra kapteinens side tryg og varm. Hvilken velgjørende ro over nerverne den følgende morgen. Solen stod ind gjennem de røde gardiner, skygger af sagte 
+svaiende grene.</p>
+			<p>herren ønsker fr</p>
+			
+			<p>hav</p>
+			
+			
+			<p>en jeg følte mig</p>
+			
+			<p>gled over gulvet. Og istedenfor den irriterende gadelarm, som inde i byen jog mig op af leiet og hen efter kloral eller brændevin, 
+			    hørte jeg summen af et par sildige insekter og af 
+skyllende bølger Dover steg ind, med cigar i munden, færdig til at gå til dagens arbeide. Han vilde blot vide, hvor jeg havde mit toi og mine sager, 
+at han kunde få det alt sammen hentet --Og trænger De staks nogen småting, så lægger jeg lidt penge her, sa han. 
+</p>
+			
+			<p/>
+			
+			<p/>
+			
+			<p/>
+			
+			<p/>
+			<p>Siden idag kan vi tales ved om arbeide for Dem. Jeg klædte mig på og sik ud og satte mig</p>
+			<pb n="84"/>
+			
+			<p>på verandatrappen. Jeg sad midt i al høstens kolde herlighed. Gamle krokede æbletræer strakte nøgne grene udover gange, dækkede af nedfaldent muggent løv. Berberis og troldhæg stak 
+endnu grønne op af bladhavets kolde, gulbrandede og blodrødtstænkede tæppe. Og fjordens friske dybblå var baggrund for alt.</p>
+			<p>Haven lå i en sænkning. Jeg så intet af byen, men hørte den dumpe hamrende larm af dens liv. Et stykke oppe skimtede jeg kaptei nens gule villa inde bag gamle lindetræer. En altandør 
+blev slået op, og en høi ung pige i mørkeblåt trådte ud. Bange for at hun skulde få øie på mig, sneg jeg ind. Hvem var hun? Hvorfor vilde jeg ikke, at hun skulde se mig sidde derude? 
+Lidt efter hørte jeg skridt og raslen af en kjole i veiens løv. Jeg greb en avis. Det bankede, døren gik op og høit på tærskelen stod hun. Jeg var i det sidste så vænnet til de skumle og 
+skidne gadetøsfjæs, at jeg blev forvirret over denne fremtoning fra et lysere liv.</p>
+			<p>Jeg reiste mig keitet, blev rød, smilte idiotisk og fremstammede, som om det var noget, hun ikke vidste, at hr. Dover havde været så</p>
+			<pb n="85"/>
+			
+			
+			
+			<p>st</p>
+			<p>venlig, så uforklarlig venlig at tilbyde mig ophold her. Hun målte mig rolig. Det var den korrekte og rene dames kolde nysgjerrighed ligeoverfor det halvkomiske, evig bundhæderlige 
+og Jastværdige mandfolk:</p>
+			<p>— Her bodde Johan, min bror, sa hun. Han holdt et farligt hus, kan De tro. Far lukkede øinene til og forstrakte ham med penge i det længste. Alligevel skrev min bror falsk. Da var 
+det, far jog ham ad. Det er nu tre år siden. Ingen har hørt fra Johan. Vi ved ikke engang, om han lever. Men værelset her står, som da han forlod det. Og far vilde gi ham alle de penge, 
+han ønskede, bare han vilde komme tilbage. Jeg var kanske heller mod ham, skjønt jeg syntes så synd i ham. Far synes, De minder så om Johan. Jeg tror, det er derfor, han gjerne vil De 
+skal bo her</p>
+			<p>Hun talte, som om det hele var hende noksaa ligegyldig, s fjernet fra disse stakkels mandfølks, 1å i en fredet egn med stille grønne marker og høi blå</p>
+			
+			<p>ke snil</p>
+			
+			<p>m om hendes verden lå langt</p>
+			<p>himmel. Jeg så for mig i tankerne den mand, hun</p>
+			<p>skulde kunne elske. Idealmanden. Høi, bred, 1 afgrunden 5</p>
+			<pb n="86"/>
+			
+			<p>blåøiet, åben, alvorlig, stort blondt skjæg, hvide tænder, der aldrig havde smagt tobak eller brændevin; men fremforalt måtte han iage sig selv alvorlig, bære hovedet strengt og 
+høit og have et væsen, som skarpt afviste spøg og familiære tilnærmelser. Sligt et kjedeligt eksemplar drømte hun sikkerlig om. Slig en soigneret gorilla skulde få med bred lab herske 
+over hendes klokkeklare skyløse sjæl og gjøre hende om til en husmoderlig pligtopfyldende mama med børn og husholdningsbog og en lænkehunds instinkter for sin herres bedste.</p>
+			<p>Jeg havde seet den udvikling før. En høi og vidunderskjøn provstedatter i min hjemby, som vokste op med os gutter og som vi alle dyrkede. Vi kom tilbage som studenter og gjorde vore 
+hoser grønne. Men som foragtelige slaver behandlede hun os. Endskjøndt hun havde lidet seet af verden i forhold til os. Hun havde lavet sig et ideal. Det stemte med en på de kanter 
+opdukkende |teolog. En af disse erkekjedelige, frisindede teologer, som just er de værste. Naturligvis havde han rigelig med skjæg mens vi kun eiede lidt antydning til det under næsen. 
+Det er en mand! sa hun til os,</p>
+			
+			<pb n="87"/>
+			
+			
+			
+			<p>Det var uden tvil, at frøken Åse var af disse piger, der forguder sit eget legemes skjønhed og nyder dets renhed. Formskjøn, rig, uden et moralsk brøst, uangribelig. Ren og streng. 
+Et tilsølet, syndefuldt mandfolk mindes helligdages klokkeklang over kjølig vårjord, når han stedes foran sådan en dames åsyn.</p>
+			<p>Vi gik ned på en plæn i haver og begyndte et parti kroket. Som en lavpandet synder iagttog jeg den skjønne skikkelse med stjålne blikke, Hun spilte med sikkerhed og fornærmelig 
+ligegladhed. Jeg følte, hun spilte bare for at slå tiden ihjel. Havde jeg ikke været ved hånden, havde hun måske telefoneret efter et bybud, som mod en krone pr. time vilde håndtere 
+køen.</p>
+			<p>Jeg havde gjort et feil stød igjen og kom ikke gjennem bøile, mens hun alt var røver.</p>
+			<p>— Spiller De schak? spurgte hun?</p>
+			<p>Ja:</p>
+			<p>— Så tar vi hellere det. Jeg skal gå op efter.</p>
+			<p>»Så spiller vi hellere det. —?% Hun vilde absolut spille noget. Hun bar vel på sin sorg, hun også, som hun vilde hindre tankerne i at beskjæftige sig med. Det var mig besynderligt,</p>
+			<pb n="88"/>
+			<p>se</p>
+			<p>at en ung dame på sådan en herlig soldag vilde holde sig i denne gamle ensomme have fremfor at feie gjennem byens gader. Sikkert havde hun fuldt op af dem, der sværmede for hende. 
+Andre unge piger vilde måske bli syge, om de en dag ikke fik vise sig på promenaden.</p>
+			<p>Jo længere, jeg tænkte over hendes gåde, desto stærkere og mere helstøbt forekom hun mig at være. Hun bar ingen smykker, ingen stas paa kjolen. Den sluttede stramt om et slankt, 
+fuldudviklet legeme. Her i denne have går jeg, uberørte stærke jomfru, indtil den mand kommer, som min renlige sjæl vælger sig til hersker. Ja, hun var som den kolde hvide vandlilje, der 
+fæstet urørlig til samme flæk venter på dagen, da den skal åbne det herlige bæger for solen. En anden stemme i mig sa, at hun var en hovmodig, indolent spisemaskine, en forkjælet sjælløs 
+dydspalme. En død, duftløs statue. Hundrede slige til at regjere staten, og de vilde sætte alle mandfolkegaster paa proskriptionslisten og være tilstede ved henrettelsen som skar de op 
+maven paa mærkværdige hajer.</p>
+			<p>Min syndefulde krop gik i tunge blodbølger. Jeg vilde slænge mig næsegrus for hende som</p>
+			<pb n="89"/>
+			
+			
+			<p>en pisket hund. Eller saa vilde jeg gå hen og kvæle hende i had, mens jeg kyssede hende stykker,</p>
+			<p>Jeg besluttede at tale til hende som til et tænkende menneske.</p>
+			<p>— Frøken Åse, er De aldrig bange?</p>
+			<p>— Bange? For hvad?</p>
+			<p>For gåderne omkring os. For den djævel, som styrer tingene,</p>
+			<p>En aften kort før Jul gik jeg med frøken Åse og en veninde af hende indover til Byen. Jeg var som et nyt menneske, velbespist, velklædt og veludhvilet ved flere ugers regelmæssig 
+levemåde. Mine proletarsympatier var dunstet bort, alt mere som Åses kjølige fornemhed havde magtstjaalet mig. Af den ærbødighed, hvormed hun og hendes veninde blev hilset af nærsagt 
+hver eneste standsperson, fik jeg ret et indtryk af, at der vederfores mig ufortjent ære. At være i Åses selskab var at være under moralsk garanti. Hos hende følte jeg mig velbjerget som 
+en våd hund under en varm ovn. Og jeg var ikke langt fra at føle kjøterens uvillie mod fattigfolk og forfrosne stakkarer. Således mødte jeg etpar af de frakkeløse eksistenser, jeg 
+havde</p>
+			
+			<pb n=""/>
+			
+			<p>gjennemsviret mangen en sort nat sammen med. Jeg kom til at mindes en kirkedag i barneårene. Præsten stod paa stolen og skildrede de saliges lykke. Lykkens toppunkt var at stå på 
+himmeriges balkon og skue ned i dybet, hvor de vred sig i uendelig vånde, som havde fornærmet gud. Dernede så de udvalgte, hvorledes en ugudelig broder eller en i synden død søster lå 
+og sprællede under smerten. Og når de havde vederkvæget sig længe nok ved synet, gik de gøde ind og priste herren.</p>
+			<p>7 Min hundske dyrkelse af det ophøjede væsen Åse og min rædsel for nogengang at komme ned i mørket igjen, gav mig kjøterens biske hårdhed.</p>
+			<p>Med engang gik der som et søk af kold angst gjennem mig. Et hvidt frækt ansigt stod under et lyktepæl og målte mig. En bred kvinde i sjuskede skjørter. Helene! Jeg havde ikke seet 
+hende på måneder. Men jeg havde hørt om hende gjennem de offentlige piger. Jeg vidste, hun var i stadig forfølgelse af politiet. Hun skeiede udi en målestok, så selv Klara eller Agnes 
+eller Anna skyede at være kjendt med hende.</p>
+			<p>Gud bevare mig! Helene havde opgivet sin</p>
+			<pb n="91"/>
+			
+			<p>post under Gaslygten. Hun fulgte efter os! Sinnet får i mig, jeg brændte efter at vende mig og slå hende i gaden. "En afskyelig situation. Jeg tog Åse i hånden og hviskede til 
+hende, om hun vilde gjøre mig en tjeneste. Den at gå ind med på en Kafé. Det var et brevkort, jeg måtte skrive øjeblikkelig. Og jeg måtte hvile lidt for smerter i brystet.</p>
+			<p>3o, så gjerne. Både hun og veninden trængte til at varme sig på et glas vin.</p>
+			<p>Derinde på kaféen præsterte jeg en gådefuld frækhed. En ritmester ved kavalleriet kom bort og hilste på damerne, han greb endog en stol og satte sig ved vort bord. Jeg erindrede ham 
+fra for mange år siden. Jeg var en liden gut og i besøg i officersmessen på Gardermoen. Det var søndag aften, de ældre officerer sad med sine toddyglas. En for én af de til byen 
+permitterede herrer vendte hjem og bragte med en duft af livet derude. Fortalte de ferskeste anekdoter, mens de bryggede sig et glas. Blandt de ankommende var Jøitnant Våler, nu ritmester. Et fint indsmigrende væsen, udadlelig og militært korrekt. Man sad just og talte om</p>
+			<pb n="92"/>
+			
+			<p>hans elskerinde dernede i byen, en smuk operettesangerinde, da han meldte sig.</p>
+			<p>— Velkommen tilbage, hr. løjtnant! sa den gamle oberst, som havde en skjælm bag øret. Har herren moret sig godt. Var vi på teatret og hørte operaen.</p>
+			<p>— Hr. obersten behager at spøge. Jeg bad om permission for at besøge min mor.</p>
+			<p>— Nå, ja ja ja! Så hr. løitnant altså ikke den unge frøken Sjøblom, som synger.</p>
+			<p>— Jeg kjender ikke den hetære! sa løitnanten strengt og kvast, så der blev nogle øieblikkes pinlig taushed i messen.</p>
+			<p>Men alle følte, at han løi. Og i min guttesjæl satte der sig fast et had til hykleren.</p>
+			<p>Jeg havde ikke scet ham i alle disse år, Ved mødet med ham nu, ved hans nærværelses</p>
+			
+			<p>oplivende virkning på Åse, ved hans mandige sikkerhed, hans stærke væsen æsede hadet op i mig.</p>
+			<p>Han gik snarl og jeg følte, damerne syntes der blev tomt efter ham.</p>
+			<p>Åse målte mig:</p>
+			<p>— De var ikke høflig mod ham, Sibeli Hvad i verden har han gjort Dem?</p>
+			
+			<pb n="93"/>
+			
+			<p>— Ingenting. Jeg har bare engang været vidne til en gemenhed af ham. Den går mig aldrig af glemme.</p>
+			<p>— Ritmester Våler! Hvordan?</p>
+			<p>— Nå, sa jeg, det var en sommer for</p>
+			<p>mange år siden — —, og så fortsatte jeg om den utrolige sjofelhed. Jeg blev varm, hed af indignation.</p>
+			<p>Åse smilte.</p>
+			<p>— Men slig er jo alle herrer! sa hun.</p>
+			<p>— Gement! gement! råbte jeg og så ud som et moralsk punktum.</p>
+			<p>Åses store deilige åsyn var vendt mod mig i nysgjerrig undren. Jeg følte, at hvis hun så til mig: Du er manden, jeg vil ha! så vilde jeg med et forvandles til den retskafneste sam
+fundsstøtte, til den ubønhørligste Jastens fordømmer, ja til en sådan, som ad åre kunde komme på tale ved formandskabsvalget.</p>
+			<p>Der var et øieblik, hvor mange mennesker i kaféen pludselig så op. En kvinde med sjusket dragt og hvidt, forsviret ansigt var trådt ind og lod blikket vandre fra bord til bord. Hun 
+opdagede mig og stævnede lige bort, jeg mødte hende med mit giftigste blik.</p>
+			
+			<pb n="94"/>
+			
+			<p>— Lad mig få tale med dig, Sibelius.</p>
+			<p>— Jeg kommer straks. Vil De vente ude, sa jeg og greb i lommen. efter nogle papirer og en blyant. Jeg følte en mængde vågne blikke på mig. Et par kelnere nærmede sig og fordrev hende 
+ud igjen</p>
+			<p>— Hvem var det? spurgte Åse. Hun havde løftet sig og trak pusten dybt som efter en pludselig forskrækkelse.</p>
+			<p>— Det er en stakkels kone ovenfra landet, så jeg. Manden død, ingen penge. Jeg havde lovet hende en tjeneste. Jeg bare noterer op her et par steder, hun kan henvende sig.</p>
+			<p>Men både Åse og veninden havde stramme miner. Åse ringede og tog op portemonæen. De to damer kunde godt klarere for sig uden kavallerens bistand. De havde forresten. travlt. De skulde 
+ærend. Et koldt nik til farvel, og de seilede ud. Jeg følte, at om jeg havde gjort forsøg på at følge, vilde jeg være bleven afvi</p>
+			<p>Ritmesteren havde reist sig og stod med dybt buk. Damerne dreiede hoderne mod ham til en lang smilende hilsen. Jeg gik ud bagveien og lo halvfjollet. Stod i mørke på et vist sted og 
+bed tænder og spyttede og ønskede</p>
+			
+			<pb n="95"/>
+			
+			
+			<p>mig i jorden. Åse! Dum som en skinke! kold som en bordkniv. Sjælløs som et stearinlys. Og veninden, det ondskabsfulde dyrt Brændevin! Brændevin! At skylle sin ynkeli hed ned med.</p>
+			<p>I en fart var jeg ude på gaden, i en sjap fandt jeg mig et hjørne, hvor jeg kunde sidde ubemærket og døve mig.</p>
+			<p>Mit liv var så meningsløst. Så uden mål.</p>
+			
+			<p>Jeg syslede med tanken på revolveren, som kunde ende det hele. Havde jeg bare havt et menneske at holde af! Eller havde jeg bare havt den stærke kjærlighed til penge, som kan holde et 
+liv oppe! Så vilde jeg dér ha havt et mål. Nu sad jeg og døvede mig som så ofte før for at slippe for nattens søvnløse timer, disse martrende timer, hvorunder onde ånder flakser som 
+flaggermus om og opspiler sjælen i rædsel. Hvormange nætter havde jeg ikke ligget med lyset tændt og læst og læst, indtil bogen faldt mig ud af hånden, og jeg troede, søvnen var der. Men 
+for straks at fare op, skjælvende efter et stygt drømmesyn.  Alkoholistens og lediggjængerens sædvanlige helvede.</p>
+			<p>En mand kom bort og salte sig hos mig</p>
+			<pb n="96"/>
+			
+			<p>med et hæst god kvæld. Det var en kammerat fra skoledagene. Det uhyggeligste offer for spiritus. I mange år havde han daglig drukket en flaske kognak. Og sjelden spist middag før 
+henad aftenen. Nu var han bleg, sammensunken i frakken, blygrå, dødningeludende. Jeg spurgte, hvordan det gik. Med døde øine og uden at se på mig, mælte han, at han havde ikke mange 
+uger igjen. Tæring. Og det var bra. For til den tid vilde det sidste tusen</p>
+			
+			<p>kroner af hans arv være opbrugt.</p>
+			<p>Hans hænder skjalv og svedede. De blygrå øine flakkede angst i sine huler, som så de ind i et taust og iskoldt mørke. Han spurgte, hvordan det gik mig. Jeg fortalte om mine forrevne 
+forhold og sa, at jeg var kjed det hele. Men det interesserede ham ikke. Hans fraværende flakkende blik sa mig, at hans sjæl stønmede i et helvede, imod hvilket mine plager var som 
+et barns tandpine. Når en mand er ved at drukne, kan han heller ikke godt fatte medfølelse for Per eller Pål, som står inde på strandbredden og jamrer sig over, at hans hus skal gå til 
+auktion eller at naboen er løbet med hans kone.</p>
+			<pb n="97"/>
+			
+			
+			<p>Han vinkede til opvarteren og bad ham bringe sig en flaske kognak, godt indpakket.</p>
+			<p>— Jeg skal nemlig sige dig, endte han sig til mig, — jeg er bange for at få dilla, før jeg (dør. Om nætterne vågner jeg ofte i den forfærdeligste fangst. Har jeg så ikke kognak ved 
+hånden, er pinen ubeskrivelig.</p>
+			
+			
+			<p>Min ven så en stund !på mig med disse øine, hvoraf der stod gravangst.</p>
+			<p>— Forresten vedblev han, — tror jeg på udødeligheden. For om nætterne, når organismen ligger i hvile, lammet af alkoholen, er min sjæl på vandring gjennem rummet. Jeg bæres afsted som 
+et dun, og det er ingen ubehagelig fornemmelse at føle sig som et dun. Videre indser jeg, at sjælen har eksisteret fra evig tid. Hvoraf jeg slutter det? Jo, deraf at jeg føres hen i 
+længst svundne tider, min sjæl gjenkjender ig i perioder fra årtusinder tilbage. Jeg omgåes dyr af de underligste former. Især er der meget store dyr. Jeg har nogle gange revet mig løs 
+fra drømmesynet og sprunget frem og tegnet dyrenes skikkelser op efter hukommelsen. Dagen efter er jeg gået på biblioteket og i plancherne over fortidens fauna ganske rigtig</p>
+			
+			
+			<pb n="98"/>
+			
+			<p>stødt på de samme bæster, jeg har seet i drømme. Det er et uomstødelig bevis på, at sjælen har levet før.</p>
+			<p>— Eller at du som barn har seet de dyr i billedbøgerne, uden at du erindrer det, — så jeg.</p>
+			<p>Han vilde til at svare, men fik pludselig ondt og greb til halsen.</p>
+			<p>— Farvel Sibelius. Jeg føler, der kommer en hostebyge. Farvel. Jeg håber, du går efter min kiste,</p>
+			
+			<p>Det er stille kold nat, når jeg sniger ind i Dovers have og går ned til mit hus. Jeg er så træt og så tung af grå sorg. Jeg vilde uden kamp, uden betænkning sluge en dræbende dosis 
+gift, om jeg havde den inde. Thi ikke har jeg noget mål for den dag imorgen eller dagene derefter.</p>
+			<p>Men hvad er det? Det sorte på trappen? En varm mild anelse fylder mig — bare det var hende! Hun reiser sig, jeg ser på skikkelsen,</p>
+			
+			<pb n="99"/>
+			
+			
+			
+			<p>at det er Helene. Gud ske lov og tak! Jeg forstår det ikke, men det er som om der i denne nat vil ske noget godt med mig. Jeg går lige bort og omslynger hende, åbner frakken og lægger 
+hendes kolde, våde ansigt ind til mig, mens jeg klapper hende over håret: Stakkels, stakkels Helene! Hvad er det, du har gjennemgået for rædsler! Kom ind, at vi kan snakkes ved.</p>
+			<p>Lampen er tændt, og jeg har fået det til at &lt;sprake i ovnen. Hun står midt pa gulvet og følger mig med sløvt, dumpt blik.</p>
+			<p>— Og her bor du nu, Jean? Jeg talte til de to damer, du gik med. Jeg passede dem op, da de kom ud fra kaféen. Er du sint for det, Jean? Jeg vilde så endelig vide, hvor jeg kunde finde 
+dig. Jeg måtte tale med dig én gang</p>
+			<p>Jean.</p>
+			<p>Jeg kunde ikke komme med ord, hendes ydmyge søgende blikke greb mig, så jeg ikke vidste, hvor jeg skulde gjemme mig for skam. Jeg faldt på knæ, omslyngede hende og bad om forladelse 
+med hodet inde i hendes kjole. Jeg kjendte, hun bøjede sig og lod fingrene glide gjennem mit hår. Da jeg så op, smilte det over</p>
+			<p>hendes hvide forsvirte ansigt.</p>
+			<p>Jeg så disse poser</p>
+			<pb n=""/>
+			
+			<p>under øinene, som fortalte om nattevåg og fylderi, og jeg reiste mig forfærdet, over så gammel og styg, hun var bleven,</p>
+			<p>— Ja ikke sandt, Jean? Jeg er ingenting at se på nu mere? Men jeg er ikkke ond, Jean. Og jeg holder af dig. Vil du være med, så reiser vi op i skoven. Ikke der, hvor Olaf var. Men 
+et andet sted hen. Jeg længes efter hvile, og vi to kan jo bo sammen som venner. Ikke denne stygge sanselighed. Men som to mennesker, der hjælper hinanden med at arbeide. Vil du, Jean? 
+Så henter jeg barnet.</p>
+			<p>— Jeg stod ude på trappen, mens Helene klædte af sig. Et stille alvor og en ømhed, jeg aldrig havde kjendt, fyldte mig. Da jeg kom ind, Jå hun i min seng.</p>
+			<p>— Hvor det skal bli godt at hvile ordentlig ud en nat, sa hun. Tror du nu, at du får sove i stolen der?</p>
+			<p>På lange tider havde jeg ikke grædt. Men. tårer silte nedover mig, som jeg den nat lå på knæ ved Helenes leie og bad til Gud!</p>
+         </div>
+     </body>
+ </text>
+</TEI>

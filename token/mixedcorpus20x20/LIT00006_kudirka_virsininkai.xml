@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LIT00006" xml:lang="lt">
+   <teiHeader>  <fileDesc>   <titleStmt>
+      <title> Viršininkai. Margas paveikslēlis. : ELTeC edition  </title>
+      <author> Kudirka, Vincas (1858-1999)   </author>
+      <respStmt> <resp>editor</resp>   <name>Vincas Grigas</name>    </respStmt>   </titleStmt>
+      <extent> <measure unit="words">15671</measure>  <measure unit="pages">68</measure>    </extent>
+	   <publicationStmt> <p></p>  </publicationStmt>
+      <sourceDesc>    <bibl type="digitalSource">   <ref target="https://www.epaveldas.lt/object/recordDescription/LNB/C1B0003068314"> Viršininkai. Margas paveikslēlis. </ref>   <publisher>  Lietuvos Nacionalinė M. Mažvydo biblioteka </publisher>    </bibl>  <bibl type="firstEdition">   <title>Viršininkai. Margas paveikslēlis.</title>   <publisher>E. Jagomasto sp.</publisher>   <pubPlace>Vilnius</pubPlace>   <date>1895</date>  </bibl>  </sourceDesc>  </fileDesc>
+      <encodingDesc n="eltec-1"><p/></encodingDesc>
+   	<profileDesc xmlns:e="http://distantreading.net/eltec/ns">  <langUsage>   <language ident="lt" usage="100"/>  </langUsage>  <textDesc>   <e:authorGender key="M"/>  <e:size key="short"/> <e:reprintCount key="low"/>      <e:timeSlot key="T3"/>  </textDesc>  </profileDesc>
+      <revisionDesc> <change when="2020-08-16">Vincas Grigas added header</change>  </revisionDesc> </teiHeader>
+  <text>
+		<front><div type="titlepage">
+			<p>Perkūnas</p>
+			 	  <p>Viršininkai. Margas paveikslēlis. </p>
+			 	  <p>Vilnius</p>
+			 				 	  </div></front>
+      <body>
+	  <div type="chapter">
+            <head>I.</head>
+			<p>— Aš paviečio Dievas! — pasakē garsiai Vakkanalij Yziatkovič Kraglodurov, naujai atvažiavęs į Naupylę viršininkas, susirinkusiems save pasirodyt činovninkams. Pasakē, apsisuko ir išējo.</p>
+			<p>Nusistebējo činovninkai, išvydę tokį keistą ir netikētą viršininko pasirodimą. Tas nusistebējimas greit perėjo į nusiminimą. Buvo ko nusimint. Ką reiškia tie žodžiai: „paviečio Dievas“? Koks jis bus Dievas: ar visą matantis, ar visą imantis? Kaip elgtis patiems ir su tokiu viršininku?</p>
+			<p>Nors činovninkai, nosis, nuleidę tylējo, vienok per jų visų galvas perējo tos pačios mintys. Kada jau paskutine mintis atliko savo darbą galvoje paskutinio činovninko, pradējo visi skirstytis namo.</p>
+			<p>Instinktas tankiai geibi žmogų, reikia tik mokēt iš jo pasinaudot, činovninkai, matoma, tą gudrumą turējo, nes visi ik vieno, nors nebuvo, susitarę, atsidūrė pas Dine rupestį prigirdyt.</p>
+			<p>Ypatingas rupestis, ypatingai reikējo gert, ypatingos buvo ir pasekmes. Vienas, grįždamas namo, pataikē pas svetimą pačią. Kitas — nužengē šalia tilto ir ko neužsimušē. Trečias pradējo vaikščiot atbulas ir, vieton pataikyt ant namų, atsidurē už miesto durpinyčioje — į antrą dieną rado vargšą vos gyvą, bet jau visai išsipagiriojusi.</p>
+			<p>O tai vis iš nusiminimo.</p>
+			<p>Viršininko ištarimas tąpat dieną pasklido po Naupylę, o ant rytojaus ir po visą pavieti O visur sējo nusiminimą.</p>
+			<p>Nusimins vaitai. Vienas iš nusiminimo net išsipagiriojo, bet umai susiprato, negerai padaręs, ir vēl tuoj pasigērē.</p>
+			<p>Nusiminē valsčių raštininkai ir eme knistis po leistrus, skutinēt, prirašinėt, kad viskas butu ... o nieko nebutų.</p>
+			<p>Labiausiai nusiminē žydai, tik jie tuoj susigriebē: Kam mums — sako — laužyt galvas visiems, jeigu mes turime rabiną? Tegul jis įspēja mislį, o mes dirbkime savo darbą toliau.</p>
+			<p>Teip ir padare. Išrinkę nusiuntē pas rabiną du gudresniu žydeliu, kuriuodu užsidarē su rabinu ir ilgai, ilgai, kasžin ką tarēsi. Į keletą dienu tuodu pat pasiuntiniu atējo vėl pas rabiną ir džiaugsmingai išpasakojo štai ką:</p>
+			<p>Vakkanalij Vziatkovič Kruglodurov buvo paprastu kareiviu kare su turkais 187 ... Viename mušyje įlindo iš baimēš į balą. Kada vieni kitus nuo tos vietos nusivijo, išlindo Kruglodurov iš balos ir žiuri, ką čia dabar daryt. Apsirašiojo, kaipo didei pažeistas, paēmē nuo užmušto turko kepuraitę, o savąją užsidējo ant galvos. Išvydęs atjojančius turkus, užsimaudavo turkų kepuraite, savąją kišdamas po skvernu. Prieš maskolių užsidēdavo savo kepurę ir žegnodavosi į trikampį. Tai-gi ne vieni, ne kiti nieko jam nedarė. Besivalkiodamas po mušio lauką, rado turkų papartį ir neišpasakytai nudžiugo iš tokio radinio. Tik kaip jį nunešt pas vyresnyjį? Besrupinant apie tai, pakilo nuo žemes atsigaivinęs arklys. Kruglodurov pasinaudojo iš to ir, pasigavęs arklį, prisirišo. Kada pamate ištolo atjojančius maskolius, užsėdo ant arklio ir nulēkē priešais juos, iškēlęs papartį. Žinoma, tapo perstatytas vyresniamjam, gavo už narsybę šio Jurgio kryžių ir liko iškeltas į aficierus. Ištarnavus paskirtą laiką neturėjo ką su juom daryt, nes visai buvo nemokintas ir didelis girtuoklis, tai ir atsiuntē dabar čion į paviečio viršininkus.</p>
+			<p>— Gerai — tarē rabinas — duokite man tris dienas pamąstyti, o tada gausite nuo manęs atsakymą.</p>
+			<p>Sukakus trims dienoms, rabinas davē žydams atsakyma tokį:</p>
+			<p>— Jis sakosi, kad paviečio Dievas, tai neškite jam aukas — priims.</p>
+			<p>Žydeliai ant tų pēdu sutarē išmėgint rabino rodą, bet išsyk nepasisekus, pradējo ištikrujų rupintis.</p>
+			<p>Visai nieko nerupējo viršininkas tai kaimo žmonēms. Jie lemtai ne nežinojo, ar atsimainė senas ant naujo. Jie su viršininkais pažinties neturi nē kokios, mokesčiai tiepat ar prie vieno, ar prie kito, reikalų tiesiog su viršininkais neturi, tai ką da čia rupintis? Zydeliai vienok neiškęsdavo neužkabinę ir kaimo žmonių su žinia apie tokią naujieną.</p>
+			<p>— Juozai, ar žinai, kad dabar turime naują viršininką? Ui, tai laukinis žmogus, ne artyn neprisileidžia.</p>
+			<p>— Tai, ką toks ponas smarvę žydą prie savęs leisis?</p>
+			<p>— Ui Juozai, Juozai! aš tik nenoriu sakyt, kad tu durnas, o tu durnas. Tu nieko neišmanai. Palaukk, paskui kitaip kalbēsi, kaip tau reiks į to pono kišenių pripilt — tik tą te neišmanai.</p>
+			<p>Teisybe, Juozas to neišmanė, kaip tai jis turės pilt viršininkui į kišenių, jam nė į galvą niekad neatėjo, kad teip gal būt ir kad toks dalykas reiktą suprast.</p>
+			<p>Vakkanalij Vziatkovič iš teisybēs buvo toks, kaip jį aprašė savo pranešime žydeliai, „pusaklis aficieras“. Nežinodamas, ne kas tai pavietis, ne kas tai administracija, tapo išsyk paviečio viršininku. Bet kas tai yra but paviečio viršininku, ką reik daryt? Sito visai nenumanė. Dēlto-gi, vos tik atvažiavo, nuėjo pasiklaust rodos pas Matviejevą, buvusį prieš jį viršininku ir dabar laukiantį bylos, kurioje pats žymējo, kaipo didžiausias kaltininkas.</p>
+			<p>Matviejevas pasakē šiteip:</p>
+			<p>— Kas jums galvoj’, Vakkanalij Vziatkovič, kas tai administracija, kas tai pavietis? Jums gana žinot tiktai, kad jus viršininkas ir turit rupintis, kiek galima daugiau išgriebt štai šitų — ir galais suglaustų dešines rankos pirštu sudavē kelissyk Į sugaubtą kaireses delną. — Ar šeip valdysi, ar teip, vis tik tiek, mes visi viršininkai atsidursime ten — čia mostelējo ranka į Siberijos šalį. — Štai aš esmi dabar apskųstas, žinau tikrai, kad išsiųs manę ten, bet man vis tiek, nes spējau prisirinkti skatiko teip užtektinai, kad man ir ten bus ramu. Aš kalbu atvirai. Tiktai įsitemykite, Vakkanelij Vziatkovič — pridurē Matviejevas pasirengusiam eit Kruglodurovui — iš pradžių pasibranginkite! O iš kur imt piningus, kokiais keliais, tai teip-gi nesirupinkite. Jau čia įvesta nuo senei, kad patys piningai pas jus ateis, tik žerkite! Reikia tik išsyk gerai savę pastatyt — da pridurē Matviejevas.</p>
+			<p>Kruglodurov išējo. Suprato viską, tik nenumanē, kas tai yra ten. Vienok, išaiškinęs sau, kad tai turi but vieta, kur po smert ilsisi viršininkų dvasios, susiramino. Parējęs namo, šaukia pačią ir, trindamas iš džiaugsmo rankas, sako:</p>
+			<p>— Zinai ką, Pogoda Nenastjevna, piningų bus, bus, tiktai reikia išsyk gerai savę pastatyt. Bet kaip tai atlik, neišmanau — tars palukejęs. Lengva pasakyt, tik sunku išpilpildyt. O jau nēr, kada laukt ilgai.</p>
+			<p>Vakkanalij Vziatkovič nutilo ir veidas jo apsiniaukē.</p>
+			<p>Susēdo abudu su pačip ir sušaukē visas mintis į pagelbą.</p>
+			<p>— O kad tu teip pupteltum Į žandą vienam, antram, trečiam paeiliui, ka? Tai visi stovētų prieš tave išsitiesę, kaip kareiviai, pameni — atsiliepē Pogoda Nenastjevna.</p>
+			<p>— Teisybe, stovētų išsitiesę, bet..............čia, matai, reiktu švelniau...........kad bijotų, o nepyktų — atsakė pats.</p>
+			<p>Ir vēl abudu nutilo.</p>
+			<p>— Aš pasakysiu, kad aš štabrotmistras — sušuko Vakkanalij Vziatkovič, tarytum radinį radęs.</p>
+			<p>— Et, su savo štabrotmistru! — atrēmē nekantriai Pogoda Nenastjevna, kuri kasžin už ką neturējo širdies ant visų štabrotmistru.</p>
+			<p>Kruglodurovui tie žodžiai rodos baidyte nubaidē visas mintis. Taigi liovē toliau mąstęs ir lauke, ką pasakys pati. Neilgai lauke.</p>
+			<p>— Pasakyk, kad tu Dievas! o kad tavę nesumaišytų su kitais dievais, tai pridek: paviečio Dievas!</p>
+			<p>Pogoda Nenastjevna ištarė tuos žodžius iškilmingai ir stačiai, lyg parodydama, kad teip tiktai tur būt, ir kad nieks nieko geresnio jau nepramanys.</p>
+			<p>— Garai tu sakai — sutiko Kruglodurov jau ne tiek dēlto, kad butu pripažinęs gerumą užmanymo, kiek dēlto, kad tingējo laužyt galvą, da-gi žinodamas, nieko iš jos neišlaušęs.</p>
+			<p>Kaip Vakkanalij Vziatkovič gerai savę pastatę prieš činovninkus ir koki padare įspudį visame pavietyje, matēme augščiau. Dabar tik laukē geru iš to pasekmių. O kad laukimas abejotino dalyko visada neramus, tai nerimastį šiuo žygiu malšino degtine.</p>
+			<p>— Kas bus, Pogoda Nenastjevna? — klausia Kruglodurov savo pačios tarp vieno stiklelio ir kito.</p>
+			<p>— Bus gerai! — atsako tuoj Pogeda Nenastjevna balsu, neprileidžiancziu nė kokio abejojimo. Jai vis rodēsi; kad jeigu nebutų gerē tai viršininkas gali paliept, kad butų gerai. Tai ko da čia abejot?</p>
+			<p>Suramintas tokiais žodžiais, gērē viršininkas dvigubai tiek: tai iš nerimasties, tai iš džiaugsmo.</p>
+			<p>Kada rabinas pasakē: neškite aukas, tapat dieną pas viršininko duris jau laukē žydelis. Užklausus: Kas bus. Pogada Nenastjevna, vieton atsakymo, tarnaite, prasidariusi duris, apreiškē, kad „laukia su reikalu“. Viršininkas užsidarē kabineto duris, pirmiau įsileidęs žydą. Tas, linguodamas galva ir rinkdamas švelniausius žodžius, nedrasiai atsilieps:</p>
+			<p>— Ponas viršininke! Mes žydeliai jau Dievui dēkui perleidome daug viršininku, su visais gražiai gyvenome: ir jie, Dieve duok jiems sveikatą, pagelbēdavo mus reikale ir mes jų nepamiršdavome. Žinote ką, pons viršininke, turime mes czia tokį reikalą, mažą reikalēlį, tik be pono viršininko žodžio negalime atlikt.</p>
+			<p>Išpasakojęs, koks reikalas ir kuo gali viršininkas pagelbēt, žydelis užbaigs:</p>
+			<p>— Pons viršininke! Bukite teip geri, neatsakykite mums varguoliams žydeliams! Prie paskutinių žodžių atgniaužē delną ir pakišo Kruglodurovui 25 rublinę.</p>
+			<p>Viršininkas, kuris per visą laiką stovējo išsitiesęs ir tylsjo, da labiau išsitiesē. Atsimindamas rodą, kad reikia pasibrangint, suriko:</p>
+			<p>— Von!</p>
+			<p>Žydelis, persigandēs, staiga atgniaužē kairiąja ranką ir, išimdamas iš jos suglamžytą l0rublinę, drebančiu balsu atsiliept:</p>
+			<p>— Nu, pons viršininke, nepykkitel aš buvau užmiršęs, kad da kitoje rankoje turējau..............</p>
+			<p>— Pašol von, šuns vaikei — suriko da baisiau ne tiek dēl pasibranginimo, kiek iš piktumo, kad žydas jį norējo prigaut.</p>
+			<p>Žydas, išējęs, nubēgo pas savo bendrus ir išpasakojo viską, kaip atsitiko.</p>
+			<p>—Tai nieko — tarē vienas - tik matyt jis iš tų, kurie išpradžių branginasi, o paskui atpinga. O kad jis ima, tai tikras dalykas — kas jis butų per viršininkas, jeigu neimtų? Taigi nepasigailėkime dabar išsyk duot jam 100tinę, nors šitas reikalas tiek nevertas, bet paskiau ant kitų atsigriebsime, kaip viršininkas atpigs. Kad tik sykį pradētų imt .... tegul dabar ima, kiek pats nori, paskui priversime imt tiek, kiek mes duosime. Turējome jug reikalus ne su vienu viršininku. Jeigu jis butų ir kitoks, tai vis nieko nekenkia pabandyt.</p>
+			<p>Ta išmintinga roda visus patikrino ir žydai sutarē išsiųst jau kitą savo bendrą su šimtine.</p>
+			<p>Kruglodurov, nesulaukdamas sugrįžtant žydo, pradējo gailintis.</p>
+			<p>— Ar tik neperdaug pasibranginau? Kad nepagadyčiau gero pastatymo savęs! Tai negerai padariau neužklausęs Matviejevo, nuo kiek pradėti — atkartojo sau mintyje per visą vakarą.</p>
+			<p>Į trečią dieną tarnaitē vēl apreiške: „laukia su reikalu.“ Viršininkas vēl užsidarė kabinetą, įsileidęs žydą tik nusistebējo, kad jau ne tas pats. Zydas, ilgai nelaukdamas, pradējo:</p>
+			<p>— Pons viršininke! yra čia menkas reikalēlis. Ana dien buvome atsiuntē vieną žydeli su ponu viršininku pasikalbt, tik tas žydelis, perprašau poną viršininką, toks prastas, kvailas — jis nemokējo su ponu viršininku apseit ir padare mums gedą. Pons viršininke! neužpykkite, kad aš išdrystu prašyt nepamiršt apie mųs reikalą — užbaigē žydas ir ištiesē ant stalo visam gražume 100 tinę.</p>
+			<p>— Tai-gi žinokite, kaip pritinka elgtis su vyriausybe! — tarē Kruglodurov su visa didybe savo viršininkytes.</p>
+			<p>Atliko reikalą teip, kaip pamokino žydas, paēmē 100tinę ir, sēdēdamas paskui vienas sau, teip pats su savim kalbėjo:</p>
+			<p>— Žiūrėk, prakeikta sėklą! paviečio viršininkui kiša 25 rublius! Tai šuns drąsumas! Gėda imt. Simtinē tai kas kitas. Nieks nepasakys: Vakkanalij</p>
+			<p>Vziatkovič ima 10tinēmis, ne! Vakkanalij Vziatkovič ima 100tinēmis! Tegul tik viena 100 tins, bet vis-gi 100 tinę, ir tiek paimt tai jau ne gēda...........</p>
+			<p>Neužmiršo pasigirt pačiai, kad jau pradžia yra.</p>
+			<p>Dabar Kruglodurov laimino Matviejevo pamokinimą, savo pačios rodą, laimino Apveizdą, kuri liepē svietui turēt viršininkus, laiminio degtinė, su kuria galima pasidalint džiaugsmą.</p>
+			<p>Vakkanalij Vziatkovič, kaip matēme, nenumanē, ne kas pavietis, nē kokios viršininko pareigos. Vienok tuose dalykuose gaudavo rodą, nuo savo pagalbininko, o reikalus su žydeliais, kurie pradējo lankytis pas viršininką gana tankiai, jau ne tik su savo, bet ir su krikščionių „reikalais“, atlikdavo pats, ypač kad žydai pamokindavo, ką reikia daryt ir kad niekas iš činovninkų apie nieką nežinotų.</p>
+			<p>Tame tarpe atvažiavo į Naupylę Miškagalių valsčiaus raštininkas Pstrumskis.</p>
+			<p>Užbēgęs pas Dinę, užklausē:</p>
+			<p>O ką? kas girdēt?</p>
+			<p>Ui jau pats iš rankos ima — atsake Dine, žinodama, kokia naujiena yra Pstrumskiui reikalinga.</p>
+			<p>Sitaip? Na tai, Dinuke, žiurēk, kad visko užtektų, nes vakare turēsiu svečių.</p>
+			<p>Pasakęs tai, išējo atlikt savo reikalus ir užsikviest pas Dinę biuro činovninkus ką visada darydavo, kada tik atvažiuodavo Į Naupylę.</p>
+			<p>— Tai, vyručiai, pasirodo, kad iš teip didelio dedesio nebuvo ne lašo lytaus — kalbėjo Pstrumskis su činovninkais prie užkandžio.</p>
+			<p>— O jau buvome nusiminę — tarė vienas, tęsdamas išlēto.</p>
+			<p>— Taip jau but buvę striuka — atsiliepē kitas, kraipydamas galvą ir lyg netikėdamas, kad nelaimē jau praslinko.</p>
+			<p>— O ilgai laikēsi — tarē trečias. — Tik ką tu su žydais! neatleido, iki savo nepadarē............</p>
+			<p>— .... ir nedavē mums viršininką tokį, koks reikalingas — perkirto Pstrumskis — E, vyrai, neprapulsime, tiktai laikykimēs! Vivat viršininkas!</p>
+			<p>Gērē per visą naktį.</p>
+			<p>Ant rytojaus Pstrumskis, sugrįžęs namo, nusiuntē savo bičiuliams, teip-gi valščių raštininkams, Dykulių Kuzničkiui ir Zioplių Bavolskiui, tik tokį raštelį: ima. Bičiuliams to buvo gana — suprato.</p>
+			<p>Tas trumpas, o tiek daug reiškiantis žodis „ima“ aplēkē visą pavietį ir sugražino ramumą viesiems, kurie buvo išpradžių nusiminę. Pavietis vēl įstojo į senaisias vēžes, iš kuriu buvo lyg ir iškrypęs.</p>
+		</div>
+		<div type="chapter">
+            <head>II.</head>
+			<p>Reikējo naujam viršininkui pasipažint su savo paviečiu t. y. atlankyt Zydpyles magistratą ir valščių kanceliarija. Pavietyje buvo išviso dešimtis valščių. Tiktai dviejuose valščuose vaitais buvo žmones, suprantantiejie savo pareigas ir patys jas pildē. Kituose-gi valščiuse vaitai vos mokējo pasirašyt, o iš pareigųžinojo tik tiek, kada reikia užsikabint „blekę“. Užtai-gi juose visa valdžia gulējo rastininkų rankose, tankiausiai lenkų atklydusių, kasžin iš kur ir kasžin su kokia sąžine. Darē ką norējo su aklu vaitu. Darē ką norējo su valsčium, žinodami, kad už viską atsakys	vaitas, valščiaus išrinktas. Tik tie rastininkai nesinaudojo pilnai iš savo liuosybēs, kurie neturējo, anot žmonių „galvos“, arba kurių sąžines da nevisai buvo užmigusios. Didžiausiais tarp raštininkų ponais buvo tris, jau mums pažinstami: Miškagalių Pstrumskis, Dykulių Kuzmckis ir Žioplių Bavolskis. Vakkanalij Vziatkovič nežinojo, kam reikalingi valsčiuje vaitai su raštininkais ir ko nuo jų galima reikalaut. Žinojo tik, kad jis pats paviečio viršininkas ir kad vaitai su raštininkais turi jo klausyt. Pirmiausiai Kruglodurov išsirengē į Žydpylę. Burmistras sutiko ji, kaipo viršininką, labai gražiai, parode kanceliariją, ši tą paaiškino ir užsivedē pas savę užkąst. Cia burmistras, didis gudruolius, žinodamas jau su kuo turi reikalą, stačiai sako:</p>
+			<p>— Supažįdinęs poną viršininką su magistrato dalykais, turiu supažįdint ir su tais dalykais, kurių magistrato popierose nerasime, o už kuriuos galite, pons viršininke, kartais mane nekaltai nubart. Miestas sudeda 80 rublių ant metų ugnies pritaisoms taisyt. Ant taisymo išeina kur kas mažiau (kiek nepasakē). tai-gi iš tos sumos šiek-tiek lieka. Lieka teip-gi nuo žiburio liktamoms, nuo samdymo panaktinių ir t. t.</p>
+			<p>Piningus tuos gražint miestui nepritinka — paskui nenorėtų visai jų mokēt. Jau nuo seniau „Įvesta“, kad tuos piningus dalinasi tarp savęs paviečio viršininkas ir burmistras. Dabar štai turiu surinkęs į 30 rublių, kuriuos, pons viršininke, tuotarpu priimkite. Toliau surinksiu daugiau.</p>
+			<p>Kruglodurov, matydamas, kad burmistras teip drąsiai ir atvirai kalba, įtikējo ir nesibjiaurejo priimt 30 rblių, nors iki 100 toli šaukē. Pergulējęs Žydpylsje, anksti išryto nukeliavo į Miškagalių valščių.</p>
+			<p>Pstrumskis, gaudamas vos 180 rublių ant metų, gyveno su savo šeimyna teip puikiai, rodos turēdamas mažin mažiausiai porą tukstančių algos. Pats gražiai pasirėdęs, pati ir duktē šilkuose, gyvenimas puikus. per metus keldavo keletą kartų didelius balius, garsius iš yvairių valgių ir gērymų. Pstrumskis tankiai atlankydavo Naupylę ir kaskart vaišindavo biuro činovninkus, išmesdamas galybę piningų — visada jų turēdavo, visada ištekdavo. Iš kur tiek piningų imdavo? Iš valščiauš. Kokiais keliais? Sunku pasakyt. Mat Pstrumskis turējo „galvą“ — tai viskas. Da budamas raštininku Piktvales valščiuje, tokios galvos neturējęs. Nors ir ten sekēsi, tik nemokējęs da tiek takto. Matote sykį, norēdamas; kad žmones pasigerintų jam su dovanomis, pradsjo naikint pakelēse kryžius, buk tai vyriausbē įsakiusi ir kad jis galįs palikt, tiktai, žinoma, už baimę, už slēpimą................dovanai negalima.</p>
+			<p>Vienok žmones susiprato ir Pstrumskis turējo iš to valsčiaus trauktis. O, dabar jau teip nepadarytu.</p>
+			<p>Laukdamas Kruglodurovo, prisitaisē tam tyčia, kad tik sunaudot jo silpnas puses. Žinojo, kad viršininkas tamsuolis jaučia savo viršininkystę, mēgsta užsitraukt ir „ima“. Parodē kanceliariją, vaitą su „bleke“ nieko nesuprantančiam Kruglodurovui, pasiprašē jį pas save pasilsėt, o vaitui įsake, kad lauktų kuknioje, iki nepašauks. Pstrumskienē apkrovė stalą skaniais užkandžiais ir da skanesniais gērymais, Išgērę vienos degtinēs, pabandę kitos, užsigardavę trečios, pradējo smagiau ir atviriau kalbēt — rodos kad Kruglodurov užmiršo savo viršininkystę. Apsidairęs aplink įžymiai ir matydamas viso ko ištekliu, klausia:</p>
+			<p>— Kiek tamista imi algos?</p>
+			<p>— 180 rublių, pons viršininke, — atsake Pstrumskis, supratęs klausymo siekį, ir kad viršininkas neturētu laiko duot koki nesmagesni kląusymą, skubino toliau:</p>
+			<p>— Teisybe, iš tos algos neišgyventum, tik moki su žmonemis gražiai apšeit...............tai ir pačiam ištenka ir vyriausybes neužmiršti ....</p>
+			<p>Viršininkas dyrstelējo į ji tokiom akim, lyg butų klausęs; na, na, sakyk’ kaip tai vyriausybēs neužmiršti? ir atsiminē Matviejevo pamokinimo.</p>
+			<p>— Delto-gi, pons viršininke, mes galedami išgyvent  be algos, nenorime iš jos bereikalo nē naudotis ir tą algą grynai atiduodame savo viršininkui — tokia jau pas mus „įvesta tvarka“.</p>
+			<p>— Gera tvarka — mane sau Kruglodurov.</p>
+			<p>— Pons viršininkei tarē Pstrumskis, pripildamas vyšnines — štai ir vaitas sutinka pridėt prie to savo algą.</p>
+			<p>Vaitas, pašauktas iš kuknios ir pirmiau Pstrumskio pamokintas, prisiartino prie viršininko, pabučiavo jam ranką ir tarē lietuviškai:</p>
+			<p>— Tai-gi, pons viršininke, priimkite nuo pono Pstrumskio ir mano algą.</p>
+			<p>Pstrumskis tuoj išvertē maskoliškai vaito žodžius ir mirktelējo, kad jis vēl eitu sau i kuknią.</p>
+			<p>Viršininkui, jau įkaitusiam, labai patiko vaito auka ir nusižeminimas prieš vyriausybę.</p>
+			<p>Koki čia geri žmones! kaip jie supranta ir gerbia vyriausybę! — tarē beveik susigraudinęs. — Koki čia geri papročiai! — manė sau, atmindamas Žydpyles burmistrą ir Pstrumskį</p>
+			<p>— Teip, pons viršininke, žmones čia labai geri, visus vyriausybes įsakymus išpildo nesipriešindami, ypač su mokesčiais — rodos nē nesunku jiems mokēt.</p>
+			<p>Tiktai, pons viršininke, yra mus valsčiuje keletas tokių, kurie „buntavoja“ žmones.</p>
+			<p>Pstrumskis kalbējo apie keletą ukininkų, supratusių neteisius raštininko kelius ir garsiai apie tai kalbančių. Norējo užsiundyt juos viršininku, idant ju skundai nebutų kada-nors išklausyti. Viršininkas iš savo puses, žinodamas, kad jam pačiam įsakyta prižiurēt kokius ten. „litvomanus“, kurie „buntavoja“ žmones, ir manydamas, kad Pstrumskis apie tokius-pat kalba, pasakē rimtai:</p>
+			<p>— A, tai litvomanai — O! jie maištdariai, maištdariail Tik mes juos apmalšinsime!</p>
+			<p>Pstrumskiui sumaišymas neapkenciamųjo žmogystų su neapkenčiamais paties viršininko litvomanais buvo labai paranku ir dēlto jisai atsitikusio qai pro quo visai nesistengē nē atitaisyt.</p>
+			<p>Kada, išbandę visokias degtines, ēmēsi prie vyno, prisigretino prie jų ir moters.</p>
+			<p>— Ar pons viršininkas apsivedęs? — užklausė švelniai Pstrcunskiene.</p>
+			<p>— Kurgi, apsivedęs ir vaikučių turiu.</p>
+			<p>— Tai, pons viršininke, neužpykkite, jeigu aš parupinsin jusų gerbiamai šeimininkei šiek-tiek mažmožių, reikalingų prie namų. Aš pati šeimininke, tai žinau, ko reikia. Meldžiu, pons viršininke, jeigu kartais prireiktu ar ko kito, tai tik duokite žinią — pristatysime. Mieste su tokiais dalykais tai, žinoma, sunku, o mums, kaimo gyventojams, labai lengva juos turēt. Busime laimingi, jeigu galēsime ponui viršininkui nors tokiuose mažmožiuose patarnaut.</p>
+			<p>Viršiniukui daugiau nieko neliko, kaip tiktai padekavot už teip gražų pažadējimą, iš kurio tikrai paketino naudotis, už meilų pavaišinimą, vienu žodžiu, už garbę, parodyta vyriausybei.</p>
+			<p>— Dēkui jums, mano mieli, už viską! Aš jusų geros širdies niekad neužmiršiu!	— pasakē, atsisveikindamas.</p>
+			<p>— Pravažiuodami kada pro šalį, neužmirškite, pons viršininke, pas mus pasilsēt — tarė Pstrumskis, sodindamas Kruglodurovą Į vežimą. O ką kalbējome apie algą — pasakē tyliau — tai nesirupinkite, aš pristatysiu.</p>
+			<p>Iš Miškagalių Vakkanalij Vziatkovič nuvažiavo i Dykulius, kur valščiuje viešpatavo Kuznickis. Važiuodamas, per visą kelią negalējo atsigērēt sutiktais žmonēmis:</p>
+			<p>— Koki čia geri žmonės! Kaip jie gerbia savo vyriausybę ir kaip moka tą gerbimą išreikšt! — manē sau. — Bepigu but viršininku! Tai nudžiugs mano Pogoda Nenastjevna, kaip jai viską išpasakosiu! Bus iš ko gyvent, bus...</p>
+			<p>Jeigu apie Pstrumskį kalbējo žmonēs, kad turi „galvą“, tai apie Kuznickį sakoma buvo, kad turi ne tik galvą, bet ir piningus. Jeigu Pstrumski keldavo ant metu kelis balius, tai pas Kuznickį budavo balius kasdien. Kuznickis pats svečius gaudydavo ir, teisybē, mokēdavo gražiai pamylėt, nesigailėdamas svečiui nieko — pakakindavo net išdykiausius svečių norus. Kas galējo Kuznicki nepažint? Kas galējo negerbt jį? Tai žmogus! tai žmogus! — gėrēdavosi činovninkai ir visoki ponpalaikiai. Kuznickio bičiuliai — o jų daug turėjo — matydami kartais žmonių neištikējimą, kad Kuznickis galētu taip puikiai gyventi vien iš savo algos, sakydavo, buk jis atsinešęs čion su savim didesnius piningus. Ar klausantiejie tikējo į tą teisinimą, nežinia, o patys teisinantiejie tikrai netikējo. Ar tai gerai suprasdamas, ar tai tiktai instinktyviškai laikėsi Kuznickis tos filiozofijos: jeigu nori būt teisum akyse žmogaus, pasigerink jo pilvui. Su ta filiozofija buvo jam labai ramu.</p>
+			<p>Galima numanyt kaip Kuznickis mylējo viršininką, kada, peržiūrėję kanceliariją, nējo „pasilsēt..</p>
+			<p>Džiaugėsi Vakkanalij Vziatkovič, gardžiai pavalgęs ir išgēręs, bet neprijautē, kaip da reiks džiaugtis.</p>
+			<p>Pabaigoje pietų užtiesē ant apskrito stalo geležinkelį ir mašina su kava, šnypšdama, atsirito ties viršininku ir sustojo. Paēmus jam kavą, mašina leidosi toliau, sustodama ties kiekvienu paeliui. Nudžiugo Kruglodurov, išvydęs tokį stebuklą, negalējo atsigirt ir atsigērēt, kaip jam ta mašina patinka. Matyt buvo, kad butų malonējęs iškaulyt tą mašina iš Kuznickio. Vienok Kuznickis, nors gerai permanē viršininko norą, bet apismetē nesuprantąs. Jeigu norēsiu atiduot, tai galēsiu padaryt ir kitąkart, ne tik šiandien — mane.</p>
+			<p>Buvo jau vēlus vakaras. Šeimininkas, matydamas, kad svečias užsitraukęs vos tik pasēdi, užsiprašē jį likt ant vakarienes ir nakvynes. Viršiinkas atsisakē nuo vakarienes, o prašē tik pritaisyt lovą.</p>
+			<p>— Na, tai vieton vakarienēs turime ištuštint štai šitą — sušuko Kuznickis, paēmęs bonką krupninko ir vesdamas viršininką gult — smagesni bus sapnai.</p>
+			<p>Kruglodurov pasirodē	esąs tikras	maskolius: juo gere, juo labiau troško.	Tai-gi ištuštino ir krupninką. Sapnavo ištikro smagiai. Rodos, sėdi jis, paviečio viršininkas, karietoje ir žingine važiuoja per savo pavietį. Aplink, kaip tik užmatant, pilna žmonių. Viens per kitą skubina prisiartint prie karietos ir į abi išskēstas jo rankas deda popiereles, vienas tik šimtines. Iš galvos vežiko ima eit dumai, o apačioje karietos ima virt. Jis, viršininkas, žino, kad tai ne dumai, o tik garas nuo kavos, o verda ne kas kita, tik kava. Jis žino, bet niekam to nesako ir tik džiaugiasi, kad žino. Štai vežikas pavirto į kaminą, o karieta pavirto į mažiną, pradējo šnypšt ir greitai bēgt. Jam smagu greit važiuot, bet staiga viena ranka	persisvērē ir ēmē slinkt nuo jos šimtines, o tuotarpu baisu pajudint kitą ranką į pagelbą, nes ir čia pilna šimtinių. Jau jau krinta šimtines į bedugnes.............</p>
+			<p>— Derži, derži, derži! — suriko per miegus Kruglodurov ir pašoko iš lovos su dideliu širdies plakimu.</p>
+			<p>— Kas čia? kur aš? kas aš? — klausia pata save, dairydamasis aplink išsigandusiom akim ir negalēdamas nieko atsimint. Nors ant pirmųjų dviejų klausymų neatrado atsakymo, vienok susiramino, at.. sakęs sau ant trečiojo:</p>
+			<p>— Aš praviečio viršininkas, tas pats Vakkanalij Vziatkovič.</p>
+			<p>Kuznickis, išgirdęs viršininką balsiai šukaujant, atējo atiduot labą rytą, užklausē, ar gerai miegojo ir užprašē ant čajaus.</p>
+			<p>— Kas tai šiandien galva teip sunki ... — skundēsi atsikēlęs Kruglodurov.</p>
+			<p>— Vakar, pons viršininke, turējote pailst — Įspraudę lyg ne kam ko Kuznickis.</p>
+			<p>— Ee, pailsau! Nepailsau, tik tur but pagirioju, ot kas!</p>
+			<p>— Tam dalykui yra vaistas, jau žmonių nuo senovēs išbandytas — tarē šeimininkas, mostelėjęs su galva pasisukusiai prie spintos tarnaitei.</p>
+			<p>— O gal vaistas ne nekenks. Ar šeip, ar teip jau šiandien per kanceliarijas nevažinēsiu — sutingau. Suksiu per Kauną Nemunu, o paskui geležinkeliu ant namų. Kanceliarijas da atlankysiu — nepabēgs.</p>
+			<p>Išsimetus po kelis ypus, šeimininkas prakalbējo švelniai, lyg neišdrįsdamas:</p>
+			<p>— Ponas Pstrumskis turējo ponui viršininkui išpasakot, kokia pas mus nuo senei Įvesta tvarka...</p>
+			<p>— Žinau, žinau — perkirto greit Kruglodurov, tarytum parodydamas, kad viršininko pareigas supranta, viską žino ir ne tik nesipriešina įvestai tvarkai, bet da pagiria ją ir užtvirtina. Reikia pripažint, kad ištikrujų suprato, ką norējo pasakyt Kuznickis.</p>
+			<p>— Ar žinot ką? sapnavau šiąnakt tą mašiną su kava. Tu man šiteip įstrigk į smegenis! — priminē viršininkas.</p>
+			<p>— Atneškite da silkes! — paliepē Kuznickis, pabarškinęs į kuknios duris ir apsimetęs bok viršininko žodžių ne neužtēmyjęs.</p>
+			<p>Kada jau pagirios buvo apveiktos, atsistojo Vak kananij Vziatkovič ir žodžiais, kuriuose taikēsi pažymint savo vertę, rimtumą ir maloningumą žemesniems, padēkavojo Kuznickiui už gražu pamylējimą, pažadējo niekad neužmiršt ir išvažiavo keliu, koki buvo užsirēžę..</p>
+			<p>Sugrįžo namo ir savo pačiai pasakē tik tiek:</p>
+			<p>— Pogoda Nenastjevna, Matviejevas turējo teisybę, ką patyriau dabar išnaujo, bevažinēdamas per kanceliarijas.</p>
+			<p>— Ar-gi visas teip greit apvažiavai?</p>
+			<p>— Da tik dvi, bet jau ir ii to gerai numanau...</p>
+			<p>Po keliu dienų Vakkanalij Vziatkovič vēl išsirengē lankyt valičius.  Šitoje antroje kelionėje pirmiausiai susipažino su Žiopliu Bavolskiu. Bavolskis nemokėdavo teip puikiai pavaišint, kaip ana Pstrumskis, arba Kuznickis, nors nesigailēdavo ne valgio, ne gerymo — nebuvo mat prie to linkēs. Užtai-gi buvo linkęs prie kortų, lošdavo ir namieje ir išvažiavēs. Prie kortu galima buvo patemyt, kad Bavolskiui niekad nepritrukdavo piningą. Pralošdavo dešimtimis, šimtais ir visada užmokēdavo, visada ištekdavo. O tai vis mat iš..............algos 180 rublių.</p>
+			<p>Ypač daug pralošdavo, kada atsilankydavo pas jį vyriausybe. Iš kur imdavo pinigus? Turējo, matoma, galvą. Žinia buvo, kad Bavoiskis išliuosuodavo iš kariumenēs. Tą dalyką atlikdavo labai lengvai. Gavęs į kanceliariją popieras, kad tas ir tas iš jo , valščiaus grįžta iš kariumenes, kaipo netinkantis, skubindavo pas grįžtančio tēvus ir sakydavo.</p>
+			<p>— Jeigu norite, tai aš jus sūnų išliuosuosiu, tikrai išliuosuosiu. Tiktai, žinoma, nemažai kaštuos, bet ką daryt? to už mažą nepadarysi. Ir atminkite, apie tokius dalykus ša, nes viską galima pagadyt: ir jums ir man butų! — baigdavo, paēmęs nuo nudžiugusių tēvų pinigus.</p>
+			<p>Teisybe, nepoilgam sunus grįždavo iš kariumenes ir kad jis pats kas žin kaip teisintų tēvams savo sugrįžimą, tai nieks jam neįtikēs.</p>
+			<p>— Šnekēk tu sau sveikas! Čia tik Bavolskio darbas! kad ne jis, tai butum kas žin kol valkiojęs „ružę“ — manydavo tēvai, nes išakyta apie tai nekalbēt.</p>
+			<p>Snekēdavo vēl, buk Bavolskis, susikalbējęs su pačto viršininku, mokēdavo traukt gerą, pelną iš laiškų su piningais, prisiųstais kaimo žmonelēms iš Amerikos. Iš kariumenes pelnydavo šimtais, iš pačto dešimtimis. Apie kitokius šaltinius uždarbio svietas nekalbēdavo, negalēdamas viso ko patirt,</p>
+			<p>Per nedelią viršininkas atlankē visas valščių kanceliarijas. Nors niekur jau daugiau neužmine jam, kokia-pavietyje „įvesta tvarka“, tai apie tai ne nesirupino, žinodamas, kad tvarkos pavietyje neišdrįs gadint ne vienas vaitas, ne vienas rastininkas.</p>
+			<p>Išskyrus Bavolskį, niekur valščiuje nemokējo priimt paskutiniame laike savo viršininką. Nors ir pasiulydavo, tai teip paprastus dalykus, kad viršininkui net nepritikdavo ragaut, tai-gi ant pasilsėjimo pradējo lankytis pas kunigus ir su. jais susipažint. Patyrē, kad kunigai švelnus žmones, moka svečia priimt, o ypač nesigaili vyno.</p>
+			<p>— Tur but dēlto, kad aš viršininkas — mane Vakkanalij Vziatkovič, gerdamas vyną — kitam kam tik rodos vyno neduotų.</p>
+			<p>Nors vyno nesigailējo, bet ne vienas kunigas neužsiminē apie „įvestą tvarką“. Viršininkas net paklausē vieno kunigo, kiek ima algos, tikēdamas išgirst tą-pat, ką nuo Pstrumskio.</p>
+			<p>— Tai ką su mus alga! menkute.</p>
+			<p>Rodos tik reikējo pridēt: tai-gi ant tos algos ne nežiurime ir t. t. Vienok nepridējo. Tas dalykas viršininkui labai nepatiko.</p>
+			<p>Išsigēręs pusētinai vyno ir lyg užsirustinēs ant kunigų, užvažiavo pas Tauziutų prabaščių, apie kurį žinojo, buk esąs labai turtingas — gulįs ant piningų, anot žmonių pasakos. Prabaščius, jau žmogus senas ir sunkus nuo neišpasakyto sutukimo, kas-žin ką rašē ir nē neužtēmyjo visai įeinančio pas jį viršininko. Tik tada atsikreipē, kada Kruglodurov suriko:</p>
+			<p>— Ar tai tu prabaščius?</p>
+			<p>— Aš — atsakē užklaustasis, keldamas nuo kedēs ir persiprašydamas.</p>
+			<p>— Ar tu žinai, kas aš? Aš paviečio viršininkas!</p>
+			<p>— suriko, negalēdamas susilaikyt iš piktumo Kruglodurov.</p>
+			<p>— Tai, meldžiamas, pons viršininke, prisēsk, busi svečias — tarē prabaščius, nepermanydamas, kas čia darosi.</p>
+			<p>— Viršininkui įeinant, reikia atsistot! — riktelējo Kruglodurov sukandęs dantis.</p>
+			<p>— Prabaščius atsipeikējo ir skaudžiai užgautas atsiliepē:</p>
+			<p>— Zinok, tamista, kad šituose namuose aš šeimininkas ir niekas neturi tiesos mano namuose manę skriaust! Reikalo pas manę neturi ne kokio. O jeigu ate jei ne į svečius, tik ant manęs rēkaut, tai meldžiamas, šelauk! — pasakē ir parode duris.</p>
+			<p>Vakkanalij Vziatkovič, išgirdęs teip netikētą atsakyma, nežinojo ne ką sakyt, ne ką daryt. Nuleidęs ausis, išējo, tik išeidamas per duris pasakē žemu, perkoštu per dantis balsu, bet teip, kad girdētų prabaščius:</p>
+			<p>— Aukso kiaulei</p>
+			<p>Nuo tokart jau to prabaščiaus kitaip ne nevadino.</p>
+			<p>Įsēdo į vežimą ir keliavo namo, perpykęs iki paskutiniujų, ypač ant Tauziutų prabaščiaus.</p>
+			<p>— Palaukkite! tai jus šiteip elgiatēs su vyriausybe? — kalbējo pats sau. — Negana, kad ne vienas neužsiminēte apie „įvestą tvarką“, da drįstate prieš viršininką šiteip kalbēt! Maištdariai! Aukso kiaules! —užbaigē šiek tiek luktelējęs.</p>
+			<p>Išgaravus vynui išgaravo ir rustumas. Užmiršęs kunigus,Vakkanalij Vziatkovič ēmē su visa atyda perkratinēt pasekmēs pirmo susipažinimo su savo paviečiu, pasekmes pirmųjų, kaip pats sake, savo adnunistratyviškų žingsnių.</p>
+			<p>— Viskas klojasi kogeriausiai — protavo bevažiuodamas. — Pavietyje, įvesta, matau, gera tvarka ir da-gi nuo seniai, tai jau bus tvirta ir nē kokių administratyviškų atmainų tame dalyke daryt nereiks. Viršininką visur gerbia, o kaip kur tai matyt prisibijo, tai lengva bus administracija. Na, su aukso kiaulēmis — čia negražiai susiraukē — žinosiu, ką padaryt, tam aš viršininkas! O iš viso geriausiai tai piningēliai. Bus jų ikišiol — tarē, traukdamas su pirštu sau skersai kaklą. — Bus ikišiol! —tarē teip garsiai, kad net vežikas atsigrįžo.</p>
+			<p>— Gerai but viršininku — protavo toliau. — Valdau pavietį vienas sau, kaip Dievas. ... Aš tada gerai save pavadinau.... Ką noriu, galiu daryt, aš liepiu, o manęs turi klausyt.... Jug aš vietininkas augščiausios valdžios, ciecoriaus ... manę tur visi gerbt..........Ačiu vyriausybei, kuri manę čion atsiunti!... Kam manę vyriausybē atsiuntė? But viršininku. Kaip tai būt viršininku? — užklausė save iš netyčių, paleidēs mintis protavimo taikais, ir net persigando savo klausymo, nes pamate, kad neranda ne kokio atsakymo, kad čia pasibaigė visas išteklius jo proto.</p>
+			<p>Kruglodurovo filiozofija apie tai, kas jis, kam jis čia yra, baigėsi ant to: kad jį atsiuntē vyriausybē tik but viršininku ir kad pavietis turi jį už tai gerbt. Jam rodēsi, kad jis yra pastatytas pavietyje, kaipo zerkolas, kuriame turi atsimušt baime ir gerbimas vyriausybēs. Apie tai, kad jis butų atsiųstas prižiurēt pavietį, but užtarytoju jo ir tarpininku, pasipažinus pirmiau su žmonēmis, jų padējimu, jų reikalais, jų dvasia ir tt., mus viršininkui neatējo ne į galvą. Teisybe, nēr ką už tai kaltint jį: ir galva jo tam dalykui buvo per menka, ir buvusiejie prieš jį viršininkai, net su geresne galva, apie tokias viršininko pareigas niekad negirdējo, nesirupino ir nemanē.</p>
+			<p>Nereikalavo to niekad nē augštesnē vyriausybē, skirianti viršininkus. Gerbimą vyriausybēs Vakkanalij Vziatkovič suprato tiktai konkretiškoje formoje t. y. pavidile aukų ir tokioje formoje nematē nieko pikto, ypač, kad tam pavietyje įvesta jau tokia forma nuo senei, o senas paprotys tai beveik lygus su tiesa. Nesusiprato visai, kad toks Pstrumskis ankauja viršininkui ne dēl pagerbimo, o tik dēlto, idant viršininkas žiurētų per pirštus ant jo darbų valščiuje, nebaustų už aukas, kurias pats piešia iš valsčiaus. Zinoma, da toliau buvo mintis, kad, imdamas nuo Pstrumskio aukas, padeda plēšt savo paviečio žmones.</p>
+			<p>Kad Vakanalij Vziatkovič aukas, pašvenčiamas viršininkui, laike per dalyką teisingą, gali paaiškint šitas atsitikimus. Važinēdamas atsilankyt pas dvarponius, pateko pas baroną K., labai turtingą vokietį, kurio sunus kuvo prisirašęs prie Vokietijos. Mirus jaunesniamjam sunui ir neturint kam palikt turtu, K. norējo vyresnyjį sunų prirašyt atgal prie Maskolijos. Žinodamas, kad viršininkas tam reikalui gali būt parankus, tyčia taikēsi ji priimt, ir gražiai pavaišint. Savo dvaruose K. prilaikē veislę arklių lenktynēms ir pats mēddavo jodyt raitas. Užmanē visiems svečiams pajodyt. Kruglodurovui labai patiko paskirtas jam arklys, da labiau beveik už Kuznickio mašiną, ir tiesiog pasakē šeimininkui, kad jį siųstų namon ne karietoje, o tik raitą.</p>
+			<p>— Gerai — atsake K. — galēsi tamista jot. Leisiu sykiu vieną žmogų, tai parves atgal arklį.</p>
+			<p>— Bereikalo man adjutantas, parjosiu vienas.</p>
+			<p>Šeimininkui buvo nesmagu ką nors daugiau sakyt ir sutiko leist viršininką vieną, tikēdamas, kad arklį pats atsiųs. Ne į galvą neatējo, kad galētų atsitikt kitaip. Kruglodurov išjojo. Pereina kelios dienos, nedēlia, antra — arklio nēra. Ant galo per oficijalistą, tyčia nusiųstą į Naupylę, K. primena viršininkui arklį. O viršininkas anē gero.</p>
+			<p>— Primink — sako — savo ponui, kad jo sunų reikia perkelt į mųs pusę.</p>
+			<p>Ant to ir pasibaigē. Arklys liko viršininkui. Paskiau pats Vakkanalij Vziatkovič girdavosi, kokiu budu įgįjo gerą arklį, nieko nē neslēpdamas.</p>
+		</div>
+		<div type="chapter">
+            <head>III.</head>
+			<p>Atlikęs „administratyvišką susipažinimą“ su paviečiu, ilsējosi Kruglodurov namieje ramus ir linksmas. Kaip troške pasigirt tuo „susipažinimu“ Matviejevui! Tik tas beveik nuo laiko pirmosios su Kruglodurovu lekcijos buvo išvažiavęs į gubernijos miestą su reikalais savo bylos ir da buvo nesugrįžęs. Mus viršininkas kasdien eidavo į paviečio kanceliariją pasirašyt ant popierų, o atlikusi laiką visiškai pašventē, kaipo pridera, reikalams savo šeiminos ir draugijos gyvenimui, pažymindamas jį neišpasakytu užsivertimu naikinime degtinēs, ar tai svečiuose, ar tai pas savę kitus vaišinant. Taip tęsēsi gana ilgai. Jau suspējo beveik visi vaitai su raštininkais atsilankyt, parodydami gerbimą savo vyriausybes, jau Pstrumskiene net porą kartų atsilankē su mažmožiaus, jau atsirado keletas naujų reikalų su žydeliais..............tik Gala gaudžių valščiaus vyriausybe nepasirodē. Tas dalykas užpykino Kruglodurovą. Įsake tuojau Galagaudžių vaitui stot tą ir tą dieną pas viršininką. Vaitas stojo.</p>
+			<p>— Ar tu užmiršai, kad yra paviečio viršininkas?</p>
+			<p>— Ne, pons viršininke, neužmiršau — atsake vaitas, nieko nenumanydamas, ko nuo jo reikalauja.</p>
+			<p>— Ir mus kanceliarijoje rodos viskas rasta tvarkoje.</p>
+			<p>— Ne tai! — riktelējo viršininkas ir nsžinojo, ką toliau sakyt. — Ant kelintos aš tau įsakiau stot?</p>
+			<p>— Užklausē pamąstęs.</p>
+			<p>— Ant dešimtos, pons viršininke.</p>
+			<p>— O dabar pusiau vienuoliktai Ką?</p>
+			<p>— Kelias labai šlapias.............— pradējo teisintis vaitas, bet viršininkas nedavę jam užbaigt.</p>
+			<p>— Aš tavę, šuns vaikē, patupdysiu ant kokios nedelios, kitos, tai žinosi, kad yra pavietyje viršininkas! Pašol von! Važiuok ir žiurēk!</p>
+			<p> Vaitelis išvažiavo, jau numanydamas viršininko norus.</p>
+			<p>Galagaudžių vaitas tarnavo jau keletą metu ir spējo pravaitaut gyvatą, nes turējo pilnai išlavintą vaitu ypatybę: be peklines ne guldavo, ne keldavo. Da prie senojo viršininko galējo paaukaut savo algą, kada-gi ant degtines išteko iš namų, o dabar liko tik viena alga, kurios netekęs netuētų už ką gert. Delto-gi nesirodē viršininkui, tikēdamas užslēpt nuo jo savo algą. Pasirodē, kad apsigavo, čia gąsdina viršininkas, o čia nesinori prastot vaitystes.</p>
+			<p>— Ką čia daryt? — klausiasi savo raštininko. — Reiktu pakišt viršininkui, visi teip daro, o nēra piningu.  Ką daryt?</p>
+			<p>— Žinai ką? — tarē gudrus raštininkas. — Paimk iš valščiaus kasos. Iki tą dalyką kas patirs, tai pereis daug laiko, da galima bus į kasą sugražint. O jeigu, Dieve mylēk, patirtų, tai žinosime, kaip teisintis — nebijoki</p>
+			<p>— Gerai tu sakai — pritarė vaitas.</p>
+			<p>Kasoje buvo tuo žygiu penki šimtai rublių. Paēmē iš to viršininkui šimtą.</p>
+			<p>— Na, o man už gerą rodą ir................tylējimą tai nieko? nors penkiasdešimts duoki — atsiliepē raštininkas.</p>
+			<p>— Imk, tegul tave galas! — pasakē vaitas, o valandēlę patylējęs sušuko:</p>
+			<p>— Kad tau penkiasdešimts, tai ir man penkiasdešimts! Jug aš viską darau ir už viską turēsiu atsakyt, ar ne?</p>
+			<p>— Imk ir tu.</p>
+			<p>— Na, jeigu teip, tai pridekime da ir viršininkui penkiasdešimts!</p>
+			<p>— Pridekime — sutiko raštininkas.</p>
+			<p>Vaitas į kelias dienas atsilankē pas Kruglodurovą.</p>
+			<p>Sukako tiktai tiek laiko, kad vaitas spējo pragert anuos penkiasdešimts rublių ir vēl atsilankē pas viršininką su kitais 150 rublių.</p>
+			<p>Viršininkas net nusistebējo, bet priēmē auką, visai neprijausdamas, kokia ji bus jam karti netolymoje ateityje.</p>
+			<p>Tuotarpu atvažiavo į Naupylę apirubēs sudas ant Matviejevo bylos. Matviejevas už visokias aukas, renkamas iš paviečio o ypač už liuosavimą vyrų nuo kariumenēs, tapo iš siustas su bendrais į Siberiją. Kruglodurov su atyda klausē tos bylos, kuri paliko ant jo didi įspudį ir beveik iš pamatų išgriovē ikšiolinę jo filiozofiją.</p>
+			<p>— Tai viršininko padējimas ne toks tvirtas, jeigu ji teip lengvai pasiekia tiesa — protavo dabar Vakkanalij Vziatkovič — Tai aukų negalima imt be peržengimo tiesų...........tai „imt“ dalykas gana slidus... O jau aš esmi ēmęs ir, tiesai patyrus, būt man striuka.... Pasirodo, kad aš pavietyje ne Dievas, jeigu gali manę iš paviečio net į Siberiją išgabent .... Jog aš dabar rankose tų visų, kurie man pakišo, jie galētų mano apskųst ir ... . likk sveiks! Dabar aš visų tarnas, o ne Dievas! .... Bet ką čia daryt toliau? Neimt? Neimt negaliu: prie to pripratau ir be to mau neištektų................O kad ir neimčiau jau, tai gali manę nubaust vis tiek už tai, ką ēmiau.....Ar imsi, ar neimsi, jau dabar ta pati...........Imsiu! Imsiu, tuščia jų! Tik ta tiesa .... ko ji reikalauja nuo viršininkų? .... ko ji prie viršininkų kimba? .... Imsiu!</p>
+			<p>Šitaip nusprendęs nuējo į parubežinį Prūsų miestelį šalia Naupyles, nusipirko stuopą spirito ir, persigabenęs tą krontabandą per rubežių, grįžo per savo sostapyles rinką namo.</p>
+			<p>— Kaip nuo tos tiesos atsigint? — mane — Argi ji neduoda išbēgt?</p>
+			<p>Staiga sustojo, lyg ką atsiminęs, išsitraukē bonką spirito ir, kratydamas su ja augščiau galvos, linksmai sušuko:</p>
+			<p>— O čia tiesa? ka? tiesą? čia tiesa?</p>
+			<p>Vėl įsidējo bonką į kišenių ir nuējo kur kas smarkesniu žingsniu. Vakkanalij Vzictkovič išrišo mat didį klausymą: jeigu jis galējo priešais tiesą parsinešt iš Prusų stuopą spirito, kontrabandą, ir už tai nieko nebus, tai galima priešais tą-pat tiesą imt ir kitokią kontrabandą, tik atsargiai, ir teip-gi nieko nebus. Susiramino ir da syki atkartojo ant drąsos imsiu.</p>
+			<p>Pasitaikē neužilgo geras šaltinis. Tuomet žmones labai bego į Braziliją. Vyriausybe turējo net įsakyt paviečių viršininkams prižiurēt savo gyventojus ir parubežiuose gaudyt bēgančius. Kruglodurov, gyvendamas parubēžyje, sugaudavo partiją beveik kasdien. Žydai, partijų, vadai, nenorēdami nustot savo pelno ir da patekt j kalini, pasiulē Kruglodurovui po keletą rublių, už kiekvieną emigrantą. Sutiko ir, kol bego žmones, buvo ir viršininkui gerai ir žydams ne blogai.</p>
+			<p>Kruglodurovui pasisekē atleist širdį t. y. nubaust kunigus, ant kurių da vis grieže dantį. Zydpyleje numirē prabaščius, visų mylimas žmogus. Ant palaidojimo suvažiavo iš aplinkinių parapijų kunigai, visai nesiklausę viršininko. O gubernatoriaus buvo uždrausta išvažiuot kunigams į svetima parapiją be paso nuo viršininko. Vakkanalij Vziatkovič pasinaudojo iš to ir snkundē visus tuos kunigus. Žinoma, visiems užrašyta tapo koros nuo 25 iki 75 rublių. Šitame atsitikime kunigams buvo labai lengva išsiteisint ir išsivaduot nuo mokesčio. Jug išgavimas nuo viršininko paso, imant visą formališką kelią, ypač toliau nuo Naupyles gyvenantiems kunigams, reikalauja į dvi nedēlias laiko, o jug su palaidojimu tiek laukt negalima. Tai fiziška teisinimo pusē. Iš doriškos-gi puses palaidojimas, paskutinis patarnavimas savo draugui, tai toks išskiriamas iš kitų atsikimas, kuris pro visus, nors ir gubernatoriaus valdžios vagučius, liuosai praeina. Teip buvo ir sutarta: teisintis ir piningų nemokēt. Viršininkas užtaiso tada licitaciją, ketindamas išparduot kunigų daigtus. Kunigai sutarē laikytis, pasiduodami licitacijai, ir teisintis, kad ir kas žin priež ką. Butų išlaimēję ir garbę savo prilaikę, nēs ir vyriausybe pati susiprato, kad bereikalo šiuo žygiu kunigus baudžia. Tik atsirado renegatas, vienas iš turtingiausių kunigų, Še- laukbudžio prabaščius, ir viską sudarkē. Pabugęs, kad kartais vyriausybe neatimtų teip derlingą parapiją, arba nekenktu, jeigu bažnyčios valdžia norētu paskirt į pralotus, pats patylomis užmokējo savo korą. Tada jau vyriausybei butų buvę negražu, jeigu butų atleidusi kunigams, kurie patys nepasitiki ant savo nekaltybes. Prabaščiai nedavē savo pažadētų daiktų ant licitacijos, turēdami iš ko užmokēt, o keleto varguolių vikarijušų pardavē paskutines kedes.</p>
+			<p>Pasisekus nubaust „aukso kiaules“ — kaip pats sakydavo — Vakkanalij Vziatkovič užsimanē nubaust ir Žydpylēs burmistrą, ant kurio teip-gi pyko. Patyrē, kad pirmą kart atlankant Žydpylę, burmistras ne viską pasakē apie „įvestą tvarką“ ir užslēpē daug pašalinio uždarbio, o iš to, ką pasakė, tai didesnę dalį sau pasiliko. Bet kaip pabaust? Tiesiog negalima jug primint. Įsako burmistrui stot prieš savo veidą.</p>
+			<p>— Ar tamista turi kalendorių? — klausia atvažiavusio burmistro.</p>
+			<p>— Turiu.</p>
+			<p>— Ar tamista užtēmyjei ten Naujus metus?</p>
+			<p>— Užtemyjau — atsako burmistras, nesusiprotēdamas.</p>
+			<p>— Dēlko tamista neatvažiavai mane pasveikint? Jug žinai kaip tai eina: pavietis sveikina viršininką, viršininkas tuoj raportuoja gubernatoriui, gubernatorius toliau ir tokiu budu eina iki ciecoriaus. Ciecoriaus ir gubernatorius to mato, kad jo priklausantiejie myli savo vyriausybę, t. y. kad viso blagopolučno, ir šiunčia padekavojimą žemyn iki paviečio viršininko. Supranti taimsta, kaip tai.............. Tai-gi ant kito sykio atsimink tamista, o dabar gali važiuot sau namo.</p>
+			<p>Burmistras, išklausęs viską, sutraukē tik pečiais ir išvažiavo. O ką darys?</p>
+			<p>Atsileidusi viršininko širdis neužilgo turējo sudrebēt. Gavo žinią, kad iš Galagaudžių valsčiaus kasos prapuolē piningai. Tuoj liepē pristatyt vaitą.</p>
+			<p>— Kur dingo valščiaus piningai? — klausia vaito.</p>
+			<p>O vaitas, visai nedrebēdamas, net viršininkui koktu pasidarē, atsako;</p>
+			<p>— Aš paēmiau.</p>
+			<p>— O tu šuns vaike, vagie! Aš tave nusiusiu ten,  kur baltos meškos..............</p>
+			<p>Da butų ką toliau sakęs, tik atsiminē Matviejevo ir rodos imte atēmę žadą.</p>
+			<p>— Tai drauge važiuosime ten, pons viršininke — sako vaitas drąsiai.</p>
+			<p>— Nēr ką teip smarkiai žiurēt į manę, aš tuoj viską papasakosiu. Jus, pons viršininke, reikalavote piningų. Aš žmogus neturtingas, tai iš kur imsiu ? o čia reikia duot, be to gali nustot vaitystes, tai ir paēmiau iš valsčiaus kasos. Pirmą kart paēmiau jums 150, raštininkui daviau 50 už tylėjimą ir sau paēmiau 50. Antrą kart teip-gi teip padariau.</p>
+			<p>— Kaip tu, šuns vaike, gale j ei imt sau? a? — suriko Kruglodurov, nežinodamas jau ne ką sakyt.</p>
+			<p>— Jeigu kiti gali vogt, tai ir aš galiu — rēžia vaitas įsidrąsinęs ir matydamas viršininko nusiminimą.</p>
+			<p>Kruglodurov pamatē visą baisumą savo padėjimo. Aiškus dalykas: jis, viršininkas, bus apskustas sykiu su vaitu, kaipo vagys piningų iš valščiaus kasos.</p>
+			<p>— Štai ir Siberija! .... o aš ne piningų neprisirinkęs............bepigu Matviejevui — kalbējo pusbalsiai viršininkas, vaikščiodamas skubiais žingsniais ir mosudamas rankom — Prakeiktas sutvėrime! tu man šiteip padaryki Na, ką dabar daryt? ką daryt? — prakalbējo garsiau, stodamas prieš vaitą.</p>
+			<p>— Aš žinau, ką daryt — ramino vaitas. — Mudu su raštininku jau apskelbēme, kad kasu išpiešē ir padarēme tam tyčia žymius. Tai-gi jus, pons viršininke, atvažiavę tardyt, nesugadinkite to teisinimo, o viskas bus gerai.</p>
+			<p>Viršininkui rodos kas vežimą šieno nuvertē nuo krutinēs — teip palengvējo. Vienok visai nenurimo, iki neišsipildē viskas pagal vaito rodą ir nepasibaigē tuo, kad nieks iš valščiaus vyriausybēs nekaltas, nes kasą išplēšē nežinomai piktadariai. Nors valsčius atstatē vaitą, bet viršininkas pažadējo paremt jį ant ateinančių rinkimu.</p>
+		</div>
+		<div type="chapter">
+            <head>IV.</head>
+			<p>Ikšiol Vakkanalij Vziatkovič Krudlodurov susi, pažino su savo paviečiu, su įvesta valščiuose „tvarka“-šiek tiek su savo pareigomis kanceliarijoje ir spējo permainyt pažvilgius ant aukų ir tvirtumo viršininko vietos. Vienu žodžiu įsigudrino į visas, reikalingas administratoriui paviečio, ypatybes. Dabar pradējo manyt apie garbe. Girdejo nekartą, tai čia, tat ten paliko atmintį. Pats žinoje, kad yra prisiųstas iš augštesnēs vyriausybes kokios ten popieros, kur vyriausybe reikalauja varyt rusifikaciją, gint maskolių reikalus, gaudyt kokius ten žmoues su išvirkščiomis uuomonemis, litvomanus, socijalistus ir tt. Matoma, parodytas garbes kelias, bet kaip prieit?</p>
+			<p>— Turi įgyt garbę! — nusprendē Vakkanalij Vziatkovič ir nuo tos dienos Smesi jieškot takų, kuriais galima priselint prie garbēs. Vienok sunkiai ējo. Ar po triju nedēlių laužymo galvos, eidamas, per tiltą ir dairydamasis į visas puses, ar nepamatys kur garbē lekiant, užtēmyjo prie tilto lentutę su parašu, visai jam nesuprantamu.</p>
+			<p>— Kas čia parašyta? — klausia, pasišaukęs žemškį.</p>
+			<p>— Tai, vaše visokoblagorodije, parašyta lietuviškai „žingine“, kad žmonēs per tiltą greit nevažiuotu. Musiškai bus „šapom“.</p>
+			<p>— Lietuviškai? Kas tai?. Žiurēk, kad šiandien vieton šito parašo but maskoliškas! Čia ne Lietuva, čia Maskolija.</p>
+			<p>— Klausau, vaše viso koblagorodije.</p>
+			<p>Kruglodurov, apsisukęs, grįžo atgal su tuo persitikrinimu, kad jau nuo jo garbē neišsprus. Jau nieks nepasakys; kad jis yra viršininku tik dēl algos, kad menkas administratorius, nesirupinantis apie valstijos reikalus, kad neatsižymino rusifikacijoje. Kas permainē sitą parašą? — klaus ateityje. O tai Vakkanalij Vziatkovič Kraglodurov — atsakys kiekvienas. Žadino savę tokiomis mintimis ir žengē jau teip, lyg bijodamas, kad nenupultu nuo galvos garbes vainikas.</p>
+			<p>Ant rytojaus, tikēdamas, kad apie jo administratyviška rusifikacijos didžiadarbį žino jau visas miestas, išējo pasivaikščiot ir prisigretino prie vaikščiojančio burelio naupiliečių. Praeinant pro lentutą su nauju parašu ant tilto, Vakkanalij Vziatkovič su didžiu švelnumu kreipēsi prie moteriškių:</p>
+			<p>— Šagam, mesdamos, šagom!</p>
+			<p>Moteriškes nesuprato tų žodžių ir, dyrstelējusios tik į Kruglodurovą, ējo toliau. Grįžtant, vēl administratorius, lyg nurodydamas rankom į parašo pusę, ragino moteriškes, prieš kurias per prievarta norSj.</p>
+			<p>pasigirt.</p>
+			<p>— Šagom, mesdames, šagom!</p>
+			<p>Tada viena moteriškē atrēmē:</p>
+			<p>— Ar tamistai rodosi, kad mes tai eskadronas kareivių? Iš kur tamistai staiga atējo į galva kommanda? Net negražu!</p>
+			<p>Vakkanalij Vziatkovič pamatē, kad ne tik nieks nežino apie jo didžiadarbį, bet ir rodant ji, nieks nežiuri. Ne, iš to garbēs nebus, reiku kitur jieškot. Neprijautē, kad garbē pati pas jį ateis.</p>
+			<p>Vieną nedēldienį, pavakare, jau temstant, važiavo iš bažnyčios su anyta ir bernu Kamdinių kaimo šeimininkē, jauna likusi našle, Gražiene. Pravažiuojant pro Taitaučiznos kordoną, užklupo abiežčikai, štraukē Gražiunę iš vežimo ir nusivilko i laukus, o anyta su bernu, persigandę, parpleškējo namo.............</p>
+			<p>Ką darę abieščikai su nelaiminga moteriške, tai žino tik tie laukai ir tamsi naktis. Anksti ryta vos ne vos parsivilko varguole Gražienē sudraskyta ir sugnaibyta. Persirgusi keletą dienu pasiskundē kaimynui dvarponiui, kuris rodyjo apskųst maskolius, pabaust piktadarius ir išpasakojo, kaip ir ką padaryt. Gražiene padekavojo už rodą ir išējo rengt skundą.</p>
+			<p>— Da eisiu pasirodavot pas kunigą. Ką jis pasakys? — manė moteriškė ir nukako pas Naupylēs prabaščių.</p>
+			<p>— Mano vaikeli — tarē prabaščius — tai baisus atsitikimas. Skųsk, vaikeli, skųsk! Jeigu tu atleistum, tai Dievas tau neatleis, nēs parodytum, kad to dalyko nelaiki nē per nuodēmę.</p>
+			<p>— Tai dēkui, tēveli, už gražią rodą, nēs ponas teip-gi sakē skųst. Skųsiu, nēr ka. Atleisk jiems, tai kitąsyk gali žmogų ir ikismert užganubyt. Ką tu su bjaurybēmis!</p>
+			<p>Taitaučiznos kordono aficieras, patyres apie savo abieščikų darbą ir ketinimą skųst, didei nusigando nes žinoje, kaip skaudžiai prireiks atsakyt. . ką daryt — eina pas saviškį, pas paviečio viršininką, prašyt pagelbos. Pats viršininkas nieko negalējo išprotant, bet jo pagelbininkas, Duževskis, davē tokią roda:</p>
+			<p>— Nesirupinkite, aš pasakysiu, ką daryt. Eikite tiesiog pas prabaščių ir paprašykite, kad nadraustų moteriškę	nuo skundo. Prabaščiaus	ji	tikrai	paklausys.	O kad prabaščius ižpildys	jus prašymą,tai aš duodu sava galvą, Jis dabar laukia užtvirtnimo ant praloto, tai jam paviečio viršininkas labai reikalingas su gerais liudyjimais. Už tą dalyką prabaščias parduotu dušias visos savo parapijos — aš ji gerai pažystu.</p>
+			<p>Ta pačia diena Kruglodurov buvo pas prabaščių ir visai nedaug turējo darbo perkalbēt jį į savo, pusę. Prabaščius pažadējo nutildyt moteriškę, o Kruglodurov nudžiugo, pasisekus užstot maskolių reikalus, teip kaip nori vyriausybe. Garbe rankose — mane Vakkanalij Vziatkovič — o mažių mažiausiai vyriausybes pagyrimas.</p>
+			<p>Da išvakaro prabaščius Įsake špitolninkui  pavadint anksti Gražienę. Žmonele atējo, o prabaščius pradējo teip:</p>
+			<p>— Mano vaikeli! aš per visa nakti mąsčiau apie tavo skundą ir žinai ką, man roclosi geriau bus, jeigu neskųsi. Pati supranti .... kad butum mergina, tai tas atsitikimas kenktų tau, o dabar .... kokia pragaištis? .... Su tuo skundu .... pradėsi, tai daug vargo iki pasibaigs, o ant galo da gali nelaimėt .... Geriau, vaikeli, neskųsk! aš teip rodyjo. Jug kasdien poteriauji: ir atleisk mums, kaip ir mes atleidžiam.	Atsimink, vaikeli!</p>
+			<p>Moteriške prižadējo neskųst tik atsisveikiniusi ir eidama namo, negalējo nē kokiu budu suprast: dēlko tas atsitikimas užvakar buvo baisus, o šiandien nieko nekenkia? Delko užvakar reikējo skųst, o šiandien jau ne? Rado tik vieną išaiškinimą: teip liepē kunigas, tai teip turi but gerai.</p>
+			<p>(Toliaus bus.)</p>
+			<p>Vienok nē šiuo žygiu neteko viršininkui nē garbē, ne vyriausybēs pagyrimas, nieks nepavadino, kad Vakkanalij Vziatkovič apginējas maskolių reikalu, o nuo vyriausybes jug tyčia buvo slepiamas tas atsitikimas su Gražiene.</p>
+			<p>— Da pabandysiu pajieškot pavietyje žmonių su išvirkščiomis nuomonēmis — ramino save Kruglodurov. — Reikia išbandyt visi keliai, išviršaus nurodyti.</p>
+			<p>Tuojau davē išskirstytiems pavietyje žemskiams įpatingą įsakymą, idant žiurētų gerai, ar nepasirodys kur neištikima žmogysta ir apie tai ant tų pėdų praneštų.</p>
+			<p>Į umą laiką gavo du raportu. Viename rašo: Apie Galagaudžius suka kas žin koks žmogus poniškai apsirēdęs  vaikščioja po kalnus dairosi Į visas puses o paskui pasistatęs ant augšto trikojo mašiną prikiša prie jos galvą užsidengia juoda pala ir ką jis ten paskui daro nepatyriau negalēdamas prisiartint, kad neužtēmytų manęs ir nepabēgtų.</p>
+			<p>Kitas raportas toks: Apie Trumpuvą pasirodē kas žin koks ponas, kuris ateina Į kaimus ir mieruoja žmonių galvas. Kam jis teip daro, negalima žinot. Vieni sako, kad rengia lietuvių kariumenę ir mieruoja galvas, idant kepures gerai tiktu kiekvienam. Kiti sako, kad jis neva mieruoja, o tuo tarpu šnabžda Į ausi mokindamas, kaip smaugt maskolius.</p>
+			<p>—A! turiu jau du paukščiui — judošiškai nusišypsojo trokštantis garbes administratorius. — Tai litvomanai, arba socijalistai! Suimsiu juodu!</p>
+			<p>Nesistebēkime: jug administratorius parapijos dēl garbes savo pavedē Į abieščikų rankas jaunos moteriškes garbę, tai dēlko-gi administratorius paviečio negalētu dēl savo garbes pašvęst nekaltų žmonių liuosybę.</p>
+			<p>Įsakyta suimt suskustas raportuose neištikimas žmogystas. Tegul visi žinos dabar, kad Vakkanalij Vziatkovič ant visko turi akį, kaipo tikras administratorius ir naikintojas negeistinų valstijai gaivalų.</p>
+			<p>Jau apie šitą dalyką tik turēs žinot vyriausybē . Bet ir čia Kruglodurov, vieton garbes, sulaukē tik juoku. Pasirodē, kad tuodu ponu buvo atvažiavusiu ant vasaros pasilsēt panemunēse. Vienas buvo mylētojas potografas, o kitas garsus etnoliogas Jau kad nesiseka kam, tai nesiseka!</p>
+			<p>Kruglodurov buvo net užmetęs mintis apie Įgijimą garbēs, tik išgirdo, kad gubernatorius pagyre vieną viršininką už Įtaisymą „ikonos“ ant atminties išlikimo nuo myrio Alexandro III. susikulus ties Borkais mašinai Atgijo mus viršininkas ir su vsa energija tvērēsi prie taisymo tokios-pat „ikonos“. Čia tur pasisekt ir vyriausybe negal neužtemyt. Neilgai laukdamas, pradējo rinkt iš savo paviečio tam dalykui liuosas aukas. Cinovninkai visi turējo duot, nes bijojo, kad nedavę nenustotų vietos; dvarponiams nepritiko neduot, ypač kad jų draugijines ir politiškos nuomonēs sukēsi tik aplink tai: pritinka, ar nepritinka; vaitams, raštininkams ir šaltyšiams buvo Įsakyta duot: jeigu neduosite, tai aš jums parodysiu! Kunigai davē ant „ikonos su didžiu noru. Tokiu budu Į trumpą laiką buvo surinkta ,,liuosų“ aukų iš paviečio arti 800 rbl Grįždamas iš paskutines kelionēs su surinktais piningais, važiavo Kruglodurov panemune per Trumpuvą, tarp neišpasakytai gražių kalnelių, apžēlusių medžiais ir krumais. Vietos gražumas privertē administraturių svajot.</p>
+			<p>— Gerai vienok, kad mašina ties Barkais susikulē .... Gali žmogus nors pakilt vyriausybēs akise .... Kad teip da vienas toks priepuolis, tai da augščiau galētum iškilt .... O kas žin, kad teip ant paviečio viršininko gyvasties pasikēsintų, ar pagarsētų pas vyriausybę? Jug viršininkas yra caro vietininkas, pildo jo valią, gali turēt neapkenčiančius.... taigi ir ant viršininko gali kēsintis...............gali ....</p>
+			<p>Lyg tyčia lekia akmenukas, krinta ant rato ir, atsimušęs, suduoda Į vežimo šoną.</p>
+			<p>— Stok! pasikēsinimas ant gyvastias! — sušuko Kruglodurov nesavu balsu.</p>
+			<p>Tuoj liepē važiuojančiam su juo žemskiui jieškot krumuose galvažudžio, o vežikui paduot tą akmenį, kurs buvo mestas.</p>
+			<p>— Štai šitas, pons viršininke — tars vežikas, paduodamas mažą akmenuką.</p>
+			<p>— Negal but! — riktelējo Kruglodurov. — Su tokiu ant gyvasties nesikēsina! štai šitą paduok — paliepē, parodęs pakelēje įaugusį į žemę akmenį menkiausiai nuo dvidešimts svarų. Vežikas išlupo akmenį, įdējo į vežimą, o viršininkas vertē kogreičiausiai važiuot į Trumpuvos dvarą. Čia padare trukšmą ir suvarē žmones jieškot galvažudžio. Neužilgo atējo žemskis, vesdamas už rankų du verkiančiu vaiku, kuriuodu mētē ant kalno akmenukus, bandydami!, katro geresnė ranka. Mat vienas iš jų dviejų pamētējo smarkiau, pravažiuojant pakalnēje viršininkui, ir pataikē į jo vežimą. Kruglodurov pareikalavo bet-gi nubaust vaikus, surašē protokolą ir nuvažiavo su akmeniu namo, ketindamas parodyt jį, kaipo corpus dėlioti, kad ne tik ant caro, bet ir ant viršininko galvos buvo pasikėsinę. Kada-gi visi pradējo juoktis iš tos Kruglodurovo pasakos ir corpus dēlioti, liepē akmenį išmest, ir užsiēmė vien tik trustis apie „ikona“.</p>
+			<p>	Apskelbē visiems, buk davęs daryt „ikoną“ Peterburge, buk kaštuosianti tiek ir tiek — vos iš-teksę ant apdarų ir altoriaus. O ištikrųjų dirbo ,,ikoną“ Kaune ir viskas kaštavo nedaugiau per 400 rublių. Kur dingo likusiejie piningai, nieks nė neklausē, nes tokiuose atsitikimuose priežiuros jug nēra.</p>
+			<p>Pargabeno „ikoną“ ir vēl pradėjo rinkt piningus ant pašventinimo, o geriau sakant, ant palēbavimo, pabaigus šventinimą. Dabar rinko jau ne nuo visų, tik nuo inteligentų.</p>
+			<p>Dienai pašventinimo prisitaisē, galima sakyt, priderančiai. Palengvinimui-gi kelio savo garbei nepamiršo nē apie korespondentą. Užkvietē vieną mokintoją ir prašē aprašyt pašventinimo ceremoniją ir istoriją atsiradimo „ikonos“. Persergējo vienok korespondentą, kad pats neišdrįstų pavest savo rašto spaudai, iki jis, Kruglodurov, neperžiurēs.</p>
+			<p>Į kelias dienas po pašventinimo „ikonos“ atvažiavo Vakkanalij’ Vziatkovič į Žydpylę, kur gyveno anas mokintojas, korespondepcijai peržiurēt. Autorius skaitē, o korespondencijos didžiavyris klausē. Korespondentas, pripažindamas, kad Kruglodurov vis-gi ne koks menkniekis, o tik paviečio viršininkas, kartais gal užtart, nesigailējo košvelniausių žodžių, papuošiančių didžiavyrio vardą. Tik doblestnij Vakkanalij Vziatkovič ir doblestnij Vakkanalij Vziatkovič — nuolat skambējo. Kruglodurovui tas dalykas labai patiko, bet norēdamas pasirodyt šiek tiek numanančiu ir kad ne yra vertas teip dideles garbes, perkirto:</p>
+			<p>— Tamista, man rodosi štai šitoje vietoje galima būt išmest „doblestnij Vakkanalij Vziatkovįč“. Anoje teip-gi .... galima. Matai, tamista, lyg per tankiai.........jug supranti, tamista ...</p>
+			<p>Autorius skaitē, o Kruglodurov rodē, kokiose vietose galima išbraukt „doblestnij V. V.‘</p>
+			<p>Perskaitē visą korespondencija, luktelējo ir viršininkas pasiulē da kartą perskaityt, kad da geriau padailintų.</p>
+			<p>— Palauk, palauk, tamista! štai šitoje vietoje tai labai tiktų „doblestnij Vakkanalij Vziatkovič“ — targ Kruglodurov, staiga prispaudęs su kaires rankos smilium stalą, lyg rodydamas tą vietą — Mat, ausis to reikalauja — užbaigē, pakreipęs žemyn dešineje ausį ir smulkiai miklindamas palei ją dešines rankos pirštais.</p>
+			<p>Dabar autorius skaitē, o virsininkas rodē, kur butų gerai pridēt doblestnij V. V.“ Pabaigē antrąją korektą ir pasirodē, kad dabar kur kas tankiau atsikartoja „doblestnij V. V.“, ne kaip pirmą kart.</p>
+			<p>Didžiavyris pagyre autorių už gražią plunksną, įsidējo perrašytą išnaujo korespondenciją į kišenių ir išvažiavo. Ar buvo ta korespondencija datalpinta kokiam nors laikraštyje, pasiliko slēpiniu ant visados. Vienok Kruglodurov atkreips ant savęs vyriausybēs akis, nes ant pašventinimo „ikonos“ buvo pats gubernatorius.</p>
+			<p>Nuo to laiko Kruglodurovo širdis buvo pripildyta neapsiliaujančio džiaugsmo. Da labiau nudžiugo, gavęs nuo gubernatoriaus įsakymą atlankyt kaimų mokyklas per teip vadinamus egzaminus ir patirt, ar vaikai moka katekizmą. Mat Vakkanalij Vziatkovič ir prie apšvietimo pridējo ranką.</p>
+			<p>Pirmiausiai atvažiavo į Žydpylę ir, paprašęs mokintojaus paklausinēt vaikus iš katekizmo, klausē atsakymų atsidējęs. Paskui, atsisveikindamas su mokintoju, teip prakalbējo:</p>
+			<p>— Labai tamistai dēkui! vaikai iš tikėjimo dalykų atsako puikiai. Nors aš lietuviškai nesuprantu, bet iš akiu matyt, kad tamistos mokintiniai katekizmą moką gerai. Teip-jau vienas, skaitydamas ciecoriaus šeimyna, suklupo, bet tai, apskritai imant, mokējimą katekizmo tamistos mokykloje da nevisai gadina ... Tikėjimo dalykai didelis daigtas! kas juos moka, tai moka viską! — užbaigē Kruglodurov, dažymindamas paskutinį, žodį ir parodydamas, kad supratime mokslo reikalų ir jo kelines neperžemai.</p>
+			<p>Iš čia nuvažiavo į Pliuškių bažnytkaimį ir užragino mokintoją paklausinēt vaikus poterių. Mokintojas buvo žmogus tamsuolis, bet turintis labai miklią sąžinę. Ta antroji ypatybė duodavo jam progą teip gudriai pasielgt prieš vyriausybę atvirais ir slapčiais keliais, kad žmones negalējo išmest jo nė iš mokyklos, nors kelis kartus buvo bandę. Tai-gi ir dabar, nepasitikēdamas, ar vaikai ant poterių nesuklups, griebēsi, prie savo gudrumo:</p>
+			<p>— Pons viršininke, pavelykite pirmiau užklaust apie ciecoriaus šeimyną!</p>
+			<p>— Gerai, gerai — tiko viršininkas.</p>
+			<p>Vaikiščią net prakaitas išpylē, iki išrentē visą šeimyną nuo pradžios iki galo. Vienok pasakē viską ir da-gi teip gražiai, aiškiai — tarytum riešutą krimto.</p>
+			<p>— Labai gerai, labai gerai — pritarē Vakkanalij Vziatkovič. — O dabar štai šitų vaiką užklausk, tamista, iš poterių!</p>
+			<p>Vaikas atsistojo.</p>
+			<p>— Pavelykite, pons viršininke, aš da jį užklausiu...Pasakyk, kaip augštiname mus poną viršininką? — suskubino mokintojas.</p>
+			<p>— Ne, ne, ne! — perkirto Kruglodurov. — Teip negalima...........pirmiau reikia gubernatorius ....</p>
+			<p>— Na, tai kaip augštiname poną gubernatorių? — klausia mokintojas vaiko.</p>
+			<p>Vaikas išpleškino viską po imeni, otčestvu, činu i ordenam.</p>
+			<p>— Na, o dabar .... kaip poną viršininką?</p>
+			<p>— Jevo visokoblagarodije Vakkanalij Vziatkovič Kruglodurov, štabrotmistr ir tt. ir tt. — atsake vaikas aiškiai ir drąsiai. Matyt buvo, kad ta dalyką girdējo ir atkartojo mokykloje tankiai, tikrai tankiau, ne kaip poterius.</p>
+			<p>Viršininkas atsistojo, ištiesē rankas ir vos ištaręs: — Vaikai! tai jus ir mane pažinstate? — pravirko.</p>
+			<p>Daugiau vaikų jau neklausinējo.</p>
+			<p>Žinoma, viršininkas padekavojo mokintojui už gražų, rupestingą mokinimą vaikų ir perstatē vyriausybei, kaipo pirmiausiąjį jo pavietyje mokintoją, kuris reiktų apdovanot.</p>
+		</div>
+		<div type="chapter">
+            <head>V.</head>
+			<p>Atējo laikas rinkimų vaitų. Jau ne tik šventomis, bet ir šiokiomis dienomis karčiamos pilnos žmonių.</p>
+			<p>Tik geria, tik rēkauja. Tai kandidatai myli savo rinkikus.</p>
+			<p>Mus žmones da nesuprato ne kokių savo tiesų, nelabai numanē ne kam tas vaitas reikalingas. Tam tur but — mane daugumas — kad butų ką rinkt. Dēlto-gi rinkdavoįi vaitus ne tuos, kurie galētų geriau atlikt ir apgint valščiaus reikalus, o tik tuos, kurie galējo pastatyt daugiau degtinės. Iš tokio žmonių aklumo naudojosi visokios erkēs, visoki Pstrumskiai ir Bavolskiai. Jie gali laimēt iš valščiaus tol, iki valsčius pats nepatirs savo tiesų, nesupras savo reikalų ir nepradēs rinkt sau vaitus, galinčius apmalšint raštininkų šunystes, arba ir visai prašalint netikusius. Dabar tokiems Pstrumskiams labai rupējo, kad butų išrinkti į vaitus tik jų pačių paskirti parankus kandidatai. Tame reikale atsilankē jau po kelis kartus pas viršininką, kuris jug pažadējo neužmiršt. Ant galo ir paties viršininko nauda, išpildžius pažadējimą ir prilaikius savo uždarbio šaltinius.</p>
+			<p>Ant rinkimų Į Miškagalius, Dykulius ir Žioplius pasirengē važiuot pats Kruglodurov, o kitus valsčius paskyrē savo pagelbininkui.</p>
+			<p>Paskirtoje rinkimui dienoje atvažiavo Kruglodurov į Žioplius. Bavolskis norējo, kad liktų vaitu tas-pat, kur ikišiol buvo, o valsčius jo visai nenorējo ir statē savo kandidatus. Ką čia daryt? Pasirodavojo Bavolskis su viršininku ir štai ką padare: vieton rinkt paprastu budu, šaukia į kanceliariją po vieną žmogų ir klausia, ką jis nori į vaitus.</p>
+			<p>Gavę atsakymą, įrašo pravardę rinkiko į vieną iš trijų ištiestų ant stalo popierą, į tą butinai, kur neva surašomi balsai paminēto kandidato. Paskui šaukia kitą ir tt. Pasirodē ant galo, kad ant lapo Bavolskio kandidato buvo prirašyta daugiausiai balsų, nors ant jo nesirašē ne vienas valščionis. Bavolskio kandidatas, žinoma, liko vaitu.</p>
+			<p>— Vyrai! kaip tai gal būt? — tarēsi nusistebēję žmones, kurie buvo negirti. — Jug čia ne rinkimai! iš mus’ tik tyčiojasi!</p>
+			<p>— Na, tai ką padarysi? sako kitas.</p>
+			<p>— Galime skųst! — sako pirmasis.</p>
+			<p>— Kam pasiskųsi? — atsiliepia trečias. — O da gali Siberiją pamatyt..............Ant galo. ar ne vis tiek: ar tas vaitu, ar kitas. Mokesčiu jug nesu-mažis ....</p>
+			<p>Teip kalbējosi nuskriausti žmonēs, bet nesutarē gintis, nes nežinojo, kaip gintis ir bijoje pradēt. Valščionys verke, o Bavolskis juokesi Dykuliuose rinkimus atliko da greičiau ir da prastesniu budu. Kruglodurov, išējęs po užkandžio nuo Kuznickio. pasakē tik.</p>
+			<p>— Kas nenori Striukio, tegul išeina priešai!</p>
+			<p>Lengva teip pasakyt, bet nelengva išpildyt. Ne vienam žmogui ne yra smagu pasirodyt, da-gi prieš visus, kad tokio ir tokia nenori, esi lyg jo priešininku. Lengviau pasirodyt keno draugu. Nieks neišdrįso išeit priešai iš minios, nors visi buvo paketinę išmest Striukį iš vaitų.</p>
+			<p>Viršininkas, luktelējęs, trauke toliau:</p>
+			<p>— Tai nēra tokio, kuris nenorētu Striukio? Užrašykite, kad Striukį ižrinko visi! — užbaigē atsigręžęs j raštininką ir nuėjo j vidų.</p>
+			<p>Nora visiems buvo aišku, kad čia negerai pasidarė, kad ne taip renką vaitus, bet nežinojo žmoneles, ką daryt, tik kaltino viens kitą:</p>
+			<p>— Ko tu neišējai?</p>
+			<p>— O tu ko neišējai? Gudruolius koks!</p>
+			<p>— Aš bučiau išējęs, kad tik tu nēbutum kvailas!</p>
+			<p>Žmones kaltino patys save, o Striukis, Kuznickio kandidatas, liko vaitu.</p>
+			<p>Rinkimai Miškągalių valsčiuje buvo teip ypatingi, parode tiek žemų palinkimų, pagedimo, painiojimų, neteisybēs, kad tą dalyką ketinu aprašyt smulkiau, visai skyrium.</p>
+			<p>Da toli prieš rinkimus, beveik už dviejų metų, Miškagalių valščius sutarē rinkt į vaitus iPetrą Svaruną, baigusi universitetą ir buvus inspektorium gimnazijos. Pametęs tarnystę tolymoje šalyje, gyveno dabar Svarunas Lietuvvje pas savo brolį. Jau valsčius norējo išrinkt ji pirmiau ar į vaitus, ar į sudžias, tik jis neapsiemē. Dabar sutiko ir pasidavē į kandidatus. Pasigailējo žmonių ir pasižadējo patarnaut valščiui, ketindamas išrodyt visas neteisybes, daromas ikšiol kanceliarijoje, pastatyt valščionių tiesas teip plačiai nuo rubežių iki rubežių, kaip jos išrodo įstatymuose. Šiandien tos tiesos buvo labai susiaurintos, nes žmones ir patys nieko apie jas nežinojo ir da turējo nelabą vyriausybę. Daugumas valščionių netikēdami galvas kraipē, kada Svarunas užminē jiems syki, kad jie turi tiesą patys tarp savęs pasiskirstyt, kiek kam priguli mokesčių dēt.</p>
+			<p>Raštininkas Pstrumskis iš savo puses teip-gi temyjosi, kas jam butų parankiausiu vaitu. Anksti pavasari, kada da nežinojo apie pasidavimą Svaruno į kandidatus, Pstrumskienē atvirai išpasakojo pačiam Švarunui savo politiką ant ateinančių rinkimų.</p>
+			<p>— Valsčius išrinks ta, kurio mano vyras norēs — sakē ji.</p>
+			<p>— Valščius stengiasi dabar, kaip girdēt, — atsakē Svarunas — išsirinkt vaitą, išmanantį kanceliarijos darba. Rinks arba Kirveli, arba Raibuti.</p>
+			<p>— O kam reik vieto, išmanančio kanceliarijos darbą? Jug mano vyras gerai tą darbą supranta. Jau tiek metų raštininkauja! Viršininkas niekad jo nepapeikia. O Kirvelis, tai girtuoklis, tankiai karčiamoje po suolu guli. Yra vienas šaltyšius, žmogus blaivas, teisingas, kuriam aplinkiniai kaimai paveda mokesčius nunešt i kasą. Jį valščius tikrai išrinks į vaitus, ypač, jeigu da aš prisidēsiu. Be juoko! Piktvales valsčiuje aš teip-gi įtaikiau vieną šaltyšių į vaitus. Ikpat rinkimo ne mane vyras, ne valščius, nS jis pats nežinojo, kad jį kas rinktų. Susiejus žmonēmsant rinkimų, aš apstačiau stalą su bonkomis, padējau užkandžio, pasišaukiau didesnius ukininkus, gražiai pamylējau ir kaip paskui jie išēję suriks: Rēplaitis, Rēplaitis vaitu! Jiems pritarē da kiti ir šaltyšius buvo išrinktas į vaitus. Bus ir čia teip. Aš jau gerai pažįstu žmonus, Pstrumskis, patyręs, kad Svarunas pasiduoda balsavimui į vaitus, užsispyrē visokiais nelabais trukdymais Svaruną prie vaitystes neprileist. Paleido j valščių paskalą, buk valščius turis tukstanti rublių skolos, buk ta skola prie nemokinto vaito užslepiama, o jeigu bus išrinktas Svarunas, tai užslēpt nebus galimo ir reiks skolą užmokēt. O tuotarpu per Klynaitį vaito kandidatą, ir Kirvelį, rodininką, geru abudu girtuokliu padavē žandarams skunda, buk Svarunas turis žemę, užsirašęs tiktai fiktyviškai ir per tai negali but vaitu. Už tai pažadējo Pstrumskis skundikams, padarysęs vieną iš jų vaitų, o kitą vaito kandidatu. Neužilgo padavē skundą kitą buk Svarunas esąs girtuoklis, turįs sumišusį protą ir tt.</p>
+			<p>Bējē! Pstrumskis visai neįrašē Svaruną į kandidatų lapą.</p>
+			<p>Svarunas, patyręs apie viską, nuvažiavo pas paviečio viršininką pasisakyt, kad jo nerašė į kandidatus ir paleido neteisingus skundus. Viršininkas atsakė, kad da kandidatu lapo nematęs, o jeigu rasęs Svaruną neįrašytą, tai liepsęs įrašyt. Skundų-gi nē kokių pas jį neesą, jeigu atsirastų paskiau, tai duosęs Svarunui žinią.</p>
+			<p>Nors Kruglodurov priēmē Svaruną labai švelniai, vienok, susitikęs rejentą, pasakē:</p>
+			<p>— Ar supranti, tamista. kokį Miškagalių valščius renka sau vaitą? Žmogų baigusį universitetą, buvusį inspektorium gimnazijos!</p>
+			<p>— Labai gerai, jeigu toks žmogus apauna patarnaut valščiui — atsakē  rejentas.</p>
+			<p>— Gerai! Bet matyk, tamista, jo cinas augštesnis už mano, tai kaip aš jį pabausiu? Aš turēčiau jį baust per gubernatorių, arba per sudą, o tai man visai neparanku!</p>
+			<p>Reikia žinot, kad Kruglodurov ant činu lipynēs, stovējo trimis laipsniais žemiau už Svaruną. Mate, kad su tokiu vaitu jau negales elgtis „be ceremonijos“, ką buvo papratęs daryt su kitais vaitais. Tai-gi Svaruno kandidatura ir Kruglodurovui buvo negeistina.</p>
+			<p>Pstrumskis nepasitikēdamas skundams, nusiuntē pas viršininkienę savo pačią, žinoma, ne su tuščiomis.</p>
+			<p>Pstrumskiene, įsišnekējusi, pradēje skųstis:</p>
+			<p>— Svarunas da neišrinktas į vaitus, o jau nori mus išmest iš kanceliarijos! Tai, ką jam mes! Jis giriasi, kad ir viršininkas jam menkas daigtas, kad galis jį pamokinti!</p>
+			<p>Viršininkiene įsitēmyjo šitą ir papasakajo savo vyrui. Vyras teip-gi įsitemyjo.</p>
+			<p>Atējo 2 diena gegužio, diena rinkimu.</p>
+			<p>Kandidatai buvo keli, o tarp jų sukriausias Raibutis, kamarninko raštininkas. Jis puldinējo tarp susirinkusiųjų nuo vieno pris kito, save girdamas, kitus peikdamas.</p>
+			<p>— Ką —sako— Svarunas išmano kanceliarijoje? Koks jis bus vaitas? Jis tik vaikus težino mokint!</p>
+			<p>Vienas atsiliepia:</p>
+			<p>O tu ar gali vaikus mokint? Mat, paršas, pusantros kliasos pabaigęs, o šneka ant akademčiko!</p>
+			<p>Raibutis sugėdintas nulindo kas žin kur. Bet jau jo dalykas liko praloštas. Da aršiau, paleido paskalą, buk Raibutis įvesęs Pstrumskio dukterį. To buvo jau perdaug, kad Raibučio kandidatura dingtų neatitaisomai.</p>
+			<p>Visi, matoma, norējo į vaitus Svaruno. Delko norējo? Delto: 1) Tikējosi nuo jo, kaipo išmanančio ir teisingo žmogaus, kad valščiaus neskriaus ir neužsleps šelmystų, raštininko išvien su buvusiu vaitu padirbtų. 2) Svarunas pažadējo gyvent prie kanceliarijos. O tai didelis žmonēms palengvinimas, nes ikšiol tankiai negalēdavo visko su sykiu kanceliarijoje atlikt, tursdami kas žin kurjieškot vaito. 3) Tikējosi, kad Svarumui pastojus į vaitus, turēs išeit Pstrumskis, tinginys ir lupikas, ir kad kanceliarijoje bus užvesta tvarka. 4) Svarunas buvo žmogus, nors angšto mokslo, bet priēinamas, nedidžiuolis.</p>
+			<p>Pstrumskio-gi valščius nenorējo ir labai nekentē. Oi buvo už ką nekęst! Lupdavo žmones kruvinai, be gēdos ir pasigailējimo. Jau nieko ne nedirbdavo, tik, vaikščiodamas po kanceliariją, svarstē, nuo ko kiek galētų išlupt. Imdavo didelius piningus net už tokius dalykus, už kuriuos neprigulėdavo imt ne skatiko. Už išdavimą liudijimo, perkant žemę, nulupdavo po 3, 5, 10 ir 15 rublių; už valančenijas — 10 ir daugiau, už laiškeli, parduodant gyvuolį, imdavo po vieną arba du auksinu; už pasą į Prusus — rubli ir tt. Piešdavo už mažiausią daigtelį. O nuo parējusiu iš Amerikos imdavo šimtais. Įpač pelnydavo gerai, kada žmonēs su jo pagelba atsiimdavo ugnepiningus. Kam vēl. pateko atimt per vaitą piningus nuo skolininko, pagal tiesos nusprendimą, tai Pstrumskiui vis likdavo arti puses visų piningų — kitaip neidavo jų pajieškot. O jeigu da kaltininkas paprašydavo užvilkt sugrąžinimą skolos, tai raštininkēlis ir iš čia pelnydavo, teip kad abi puses turēdavo jam įkišt. Sunku butų išpasakot visas Pstrumskio gudrybes dalykuose piešimo žmonių. Bus gana jau ir to, kas augščiau paminēta. Ir iš to galima matyt, kad valščius galējo nekęst Pstrumskio. Prie šitų visų ypatybių raštininkas mēgdavo da-gi užsitraukt, o žmonių reikalus atlikdavo tada, kada jam pačiam patiko.</p>
+			<p>Ant tokių raštininko darbų valščius ketino per susirinkimą pasiskųst viršininkui ir prašyt, kad jį iškeltų. Bet atsirado keli, kurie sudraudē tai daryt, sakydami: jeigu syki bus išrinktas ismintingas vaitas, tai Pstrumskis pats turēs prasitraukt. Paskui pasirodē, kad valščius padare didelę klaidą, tylēdamas apie atstatymą raštininko.</p>
+			<p>Iš vakaro prieš rinkimus atvažiavo į Benderių kaimą žandarai, klausnēdami pas kaimynus apie Svaruną. Klausinējo, ką jis veikia, ar vaikų nemokina, ar turi savo lauką. Kaimynai, pasakē, kad turis lauką ir triobas Įtaisytas. Veikte, ką veiks, lauko darbo nemokēdamas: skaito, rašo, o kad vaikus mokintų, tai negirdēję. Skundas buvo paduotas be parašų, o skundikai, Kirvelis su Klynaičiu, patys savę pridavē Į liudytojus. Žandarai surinkę kaime apie Svaruną žinias, nesutinkančias su skundu, visai ne neužējo pas liudytojus-skundikus. Tuodu vēl atkartojo savo skundą ir labiausiai spyrē ant to, kad Svarunas skaitąs knygas, laikydami tai per didelį nusidējimą.</p>
+			<p>Nors Pstrumskis kur kas da prieš rinkimus pradējo važinēt po kaimus, vaišint visus, siulydamas savo kandidatą, nors pasikvietē į pagelbą Šlaviku karčiamos žydą, Šmulkį, vienok valščius Pstrumskio prisimeilinimui nepritarē, nes atvažiavus viršininkui ir paraginus rinkt vaitą, visi vienu balsu sušuko: Svarunas! Svarunas!</p>
+			<p>Viršininkui tas priespuolis nepatiko. Jug jis pats nenorējo Svaruno vaitu ir da Pstrumskį reikējo gelbēt. Paliepia Kruglodurov norintiems Svaruno pereit į kitą pusę. Pereina visi, išskyrus 13 pasidavusių Į kandidatus. Tiek daug kandidatų padare Pstrumskis, tikēdamas per tai išskirstyt balsus, idant mažiau tektų Svarunui.</p>
+			<p>Tada viršininkas liepią rinkt vaito kandidatą. Valščius, patemyjęs, kad viršininkas Svaruno nenori, sutarē rinkt į kandidatus toki žmogų, kuris galēto atsisakyt, panorējus viršininkui užvirtint jį vaitu. Išrinko Svainišių pildantį jau ir be to dvi tarnystas, užveizėtojo kanceliarijos ir sąnario priežiuros bažnyčios. Jis gavo į 150 balų. Pats viršininkas skaitē balsus ir atrado jų 270. Visi užtemyjo tą nemokējimą skaityt, bet nieks nieko nesakę, nes Svarunas turējo 480 balsų, o Svainišius buvo pažadējęs atsisakyt.</p>
+			<p>Ant galo Kruglodurov, nežinodamas, ką daryt, liepia rinkt trečią kandidatą. Bet valščius tiesiog pasakē, kad jam trečio kandidato nereikia, kad Į vaitus išrinko Svaruną, o į kandidatus Svainišių.</p>
+			<p>Pasirodžius, kad valščiaus negalima ne kokiu budu priverst rinkt trečią k‘andidatą, nors po kelis syk ragino, pats Kruglodurov Įraše Svaruną į kan-datų lapą, kas da ikšiol visai nebuvo padaryta.</p>
+			<p>Ponia Pstrumskiene! Nebuvo čia teip, kaip pranašavai. Matyt, žmonių nepažįsti.</p>
+			<p>Visą tą dieną landē Pstrumskis tarp žmonių ir klausē, ką šneka. Ta-pat darē Šlaviku Smulkis su savo vaikais. Tur but nelaimingas pagavo žinias, nes Pstrumskis baisiai nusiminē. Išvydęs pavojų, kybantį ant jo galvos, tvērēsi iš paskutiniuju gelbētis. Ikšiol buvo pasitikėjęs pats ant savęs, dabar, nepasisekus, šoko jieškot pagelbos pas kitus. Nuvažiavo pas Virduly nes sudžia, Bandavyčių, gaisu dirbiką painių ir skundų ant savo priešininkų laike kiekvieno rinkimo. Jau jis kartą skunde net Svaruną, kurį buvo paketinę rinkt į sudžias vieton Bandavyčiaus. Dabar teip-gi mielai prisidējo prie Pstrumskio, nes Svaruno vaitavimas jam pačiam buvo neparankus— vaitas greičiau gal but sudžia už kitus kandidatus. Sutarta apskųst Svaruną, kad jis, kaipo užsipelnęs bajorystę, neturi tiesos pirkt valščionišką žemę ir dēlto negal but vaitu.</p>
+			<p>— Atvažiuoja pas Pstrumskį viršininko pagelbininkas, Duževskis. Nelaimingas raštininkas puola prie jo, melsdamas rodos. Duževskis rodyja visada noriai ir gerai. Tuoj sustatē juodu šitokį skundą:	„Svarunas mokina slapčia vaikus, skaito uždraustus užrubežinius laikraščius ir protauja apie tai tarp žmonių. Jis yra pusadvokatis ir stoja į sudą, o kaipo toks negali užimt ne kokios tarnystes. Tai-gi mes, Miškagalių valščius, Svaruno turēt vaitu nenorime ir tt.“</p>
+			<p>Ant to skundo teip-gi nieks nepasirašē.</p>
+			<p>Toki skundai prajuokino liet Kruglodurovą. Valščius vienu balsu išrenka Svaruną, o po kelių dienų tas pat valščius sako Svaruno nenoris!</p>
+			<p>Prie tokio valščiaus užsispyrimo Kruglodurov jau buvo sako pusę apleidęs, bet reikia gelbēt Pstrumskį. Tegul jau Svarunas bus sau vaitu, tegul tik Pstrumskį lieka raštininku, tegul jo Svarunas neišmeta. Pasimatęs su Svarunu, klausia:</p>
+			<p>— Ar tamista galētum su Pstrumskiu sugyvent?</p>
+			<p>— Aš Pstrumskiui ne kokio pikto nedarau — atsake Svarunas — tik jis prieš manę, einą paduodamas per biauriausius girtuoklius skundus ant manęs. Ant galo, nuo Pstrumskio prigulēs, ar galima bus sugyvent, ar ne.</p>
+			<p>— Ar tenai ant vietos galima kur nusisamdyt gyvenimą?</p>
+			<p>— Kur-gi nebus galima.</p>
+			<p>— Svarunas suprato, kad viršininkas nori netik palikt Pstrumskį raštininku, bet ir tame gyvenime, kuri raiščius turējo paskyręs vaitui. Da ilgą valandą juodu kalbējo ir matyt buvo, bent-gi tuo žygiu, viršininko palinkimas jau į Svaruno pusę.</p>
+			<p>Pstrumskis stipriai tikējo, kad Svarunas nebus paskirtas užtvirtinimui, nes ne tik viršininkas buvo tai pažadējęs, bet ir visas biuras jo pusę laike, o viršininkas visada klausydavo savo biuro rodų. Biurui priderējo laikyt Pstrumskio pusę. Kada tik jis atvažiuodavo Į Naupylę, tai visą biurą, anot žydo pasakos, „padarydavo bekojų“: nuo Dines jau rēplomis grįždavo namo.</p>
+			<p>Sukakus dviem, ar trims nedelioms, atvažiavo Pstrumskis su pačia ir dukterim į Naupylę. Patyrē biure, kad jau siunčia pas gubernatorių popieras Svarunui užvirtint. Ta žinia apliejo Pstrumskį tarytum šaltu vandenin. Kaip šuvis nubēgo pas pačią. Pati, pamačiusi atsimainiusį jo veidą, klausia.</p>
+			<p>— Kas atsitiko?</p>
+			<p>— Svaruną užtvirtins! — atsakė trumpai.</p>
+			<p>— O Jezau! — suriko raštininkienē ir parvirtusi ant lovos apalpo teip-gi. Dukte pasižiurējusi ant motinos, apalpo taipo-gi. Bet Pstrumskis su jomdviem nesiglamonējo. Paliepęs pašaukt daktarą, išvažiavo kogreičiausiai namo padaryt kanceliarijojo šiokią tokią tvarką.</p>
+			<p>Valščius, matydamas visas paines ir bijodamas, kad ištikro nepakiltų kliutis su Svaruno lauku, paraše gubernatoriui prašymą, kur išdēstē, kad stato už Svaruną „savo naudą rubežiuose reikalaujamo įstatyme cenzo“. Prie to vienas sodietis statē skyrium dešimts margų su triobomis.</p>
+			<p>Kada prašymas nukako į Suvalkus, nuvažiavo ten ir Svarunas. Pas gubernatorių, kurį tuokart užvadavo vicegubematorius, patyrē, kad valščiaus ir ano sodiečio prašymai nebus pakakinti, nes įstatymuose nēra pasakyta, kad tame dalyke galima butų priimt svetimą užstatymą.</p>
+			<p>— O ant galo — tars vicegubematorius — to užstatymo ne nereikia, dēlto, kad turi, tamista, reikalaujamą cenzą ir gali but užtvirtintas. Jeigu net nuspręstu tą cenzą nuo tamistos atimt, tai vis praeis ilgas metas, o tuotarpu gali tamista įgyt tokią žemę, kokią leidžia įgyt įstatymai. Pasakyk tamista šitai viršininkui.</p>
+			<p>— Ar negalima butų gaut nuo Jusų Mylistos raštelį pas viršininką?</p>
+			<p>— Bereikalo. Ne mano dalykas mokint viršininką — atsake vicegubematorius.</p>
+			<p>Svarunas, parvažiavęs, išpasakojo ir paaiškino viršininkui viską, ką girdējo Suvalkuose.</p>
+			<p>Tuo-pat tarpu Pstrumskis teip-gie nusiuntē į Suvalkus savo bičiulį, Šlavikų Šmulkį. Žydas prieis visur — priėjo ir prie gubernatoriaus kanceliarijos viršininko...........</p>
+			<p>Rodos vēl aptilo. Štai per Petrinių jomarką susitinka Svaruną viršininkas ir rodo jam Raibučio skundą, buk Svarunas kurstąs valēčių. Tik nepasąkyta buvo prieš kokį viešpatį kursto: prieš Pstrumskį, ar prieš Raibuti.</p>
+			<p>Teip klojosi, iki nebuvo namieje viršininko pačios — buvo išvažiavusi ant keliu nedēlių į Vilnių. Ikšiol visos sąlygos teip buvo pakrypusios, kad valščius su Svarunu tikējosi laimēt tikrai. Tik štai parkeliauja Pogoda Nenastjevna ir Pstrumskis pradeda greit atsigaut.</p>
+			<p>Neužilgo po jos parvažiavimo patiria Svarunas nuo viršininko, kad jau jis pats abejojąs apie užtvirtinimą Svaruno, kad turįs apie tą dalyką susirašyt su gubernatorium.</p>
+			<p>Ką rašē Kruglodurov gubernatoriui, nežinia, tik sukakus mēnesiui, ar daugiau, paragino Miškagalių valščių susirinkt 18 Rugsėjo ant paskyrimo vaito.</p>
+			<p>Valščius susirinko įsakytą dieną, bet užraginus viršininkui rinkt vaitą, žmones atsiliepē.</p>
+			<p>— Mes jau turime išsirinkę vaitą Svaruną ir kandidatą Svainišių. Mes kitų nenorime. O jeigu ponui viršininkui Svarunas nepatinka, tai rinkite sau kitą, bet ir algą jam mokėkite nuo savęs. Prašome mus daugiau bereikalo negaišint, nes dabar didelis darbymetis.</p>
+			<p>Teip pasakę, sujudējo namo. Viršininkas vienok sulaikē juos, aiškindamas, kad neprivalo nesusitarę skirstytis.</p>
+			<p>— Svaruną užtvirtint neduoda gubernatorius — teisinosi Kruglodurov — ką tik jus išrinksite kitą, tai bus tikrai užtvirtintas.</p>
+			<p>Bet valščius neatleisdamas šaukē:	Svaruną! Svaruną!</p>
+			<p>Tadą Kruglodurov, pasiprašęs Svaruną j kanceliariją ir likęs su juo vienas, prakalbējo šiteip.</p>
+			<p>— Pons Svarune! Aš tamistos prašau atsisakyt nuo vaitystes. Iš savo puses aš labai norēčiau užtvirtint tamistą, kaipo apšviestą žmogų, tik gubernatorius neduoda. Jis man Įsakė padaryt naujus rinkimus. O jeigu tamista nenorētum atsisakyt . . . tai administracija turēs tvertis savo įrankių................</p>
+			<p>Svarunas, išgirdęs tokią kalbą, pyktelējo ir karštai atsakē.</p>
+			<p>— Ar tamistai, pons viršininke, rodosi, aš pats lendu į vaitus? Ką aš kaltas kad manę valščius renka? Jug aš nevažinējau po valščių, neprašinējau, nepuldinējau, nepapirkau. Jeigu manę skundžia Raibutis, buk aš kurstąs valičių, tai tegul kas nors parodo, kur ir ką kursčiau. Tikras kurstintojas tai štai šita kanceliarija. Kalbekiva atvirai. Ar tamistai rodosi, šitie susirinkusiejie žmones jau nS tiek neturi gudrumo, ne patys negal išmanyt, kaip juos kanceliarija skriaudžia, begēdiškai lupa? Eą mąsto grįždamas iš kanceliarijos toks neturtēlis, kuris jau tris dienos šičion vaikščioja, ir netik ką savo reikalo neatliko, bet netur laimes išgirst nuo pono raštininko, ne kokio atsakymo, o tik dēlto, kad neturējo iš ko raštininkui pasigerint? Tamista, pons viršininke, žinoma, apie tai nežinai — užbaigē su tokiu pažy-minimu balso, kad klausytojas gerai suprato..................</p>
+			<p>— Teip, ir aš numanau, kad jie čia „ima“.</p>
+			<p>— Tai-gi — trauke toliau Svarunas — tikras kurstintojas pati kanceliarija. Kam manę renka? Pasitiki, kad aš jų neskriausiu ir užvesiu kanceliarijoje tvarką. Jie, manę rinkdami, žiuri savo naudos, o ne mano.</p>
+			<p>— Na. teip, teip, žinoma. Vienok aš turiu gubernatoriaus įsakyta rinkt kitą vaitą. Meldžiamas, tamista, paliepk valščionims, tegul renką kitą kandidatą !</p>
+			<p>— Man tai padaryt nesunku, tik netikiu, kad manęs klausytų, jeigu paties viršininko neklauso — atsake ant to Svarunas ir išējęs laukan, pasakė žmonēms:</p>
+			<p>— Ponas viršininkas mane prašē pasakyt jums, kad rinktumēt kitą kandidatą.</p>
+			<p>Pasakęs atsistraukē, o Kruglodurov vēl užragino rinkt kitą vaitą ir pridūrė, kad Svarunui, rinkdami jį, tik duobę kasa. Gerai buvo viršininkas pamokintas, kaip ir ką tur daryt. B andē paeiliui visas rodas, o prie galo turējo pasilikęs „administracijos įrankius“, apie kuriuos jau net užmins Svarunui. Užraginus, du vokiečiai, nutvērē Raibutį už pažastų ir išvedē priešais, saukdami:	  Šitai	šitą mes renkame į vaitus! O kiti atsiliepia: Judu jį renkate, judu ir algą jam mokēsite — mums piemens vaitu nereikia! Rinkikai su savo kandidatu umai išnyko, bet jau nesilaikydami už pažastų.</p>
+			<p>Tuotarpu išnešē puodines, išēmē grebšelį su gilutēmis ir telks mest, kaip paprastai daroma, renkant balsus. Valščius nuo to atsisakē, o Spirgučių. Antaura, pasisēmęs saują slyvų ir rodydamas jas, tarē.</p>
+			<p>— Kad ponas viršininkas mus ant šitokių užkviestu, tai noriai eitume visi.</p>
+			<p>Kruglodurov mato, kad iš to nieko nebus ir kad iš jo pradeda tyčiotis, dēlto lieps nunešt puodines atgal ir lauks, kas bus toliau. Bet jau pradējo nerimt, nes buvo žymu, kad žmones pyksta ir gali kartais padaryt, ko jis visai nesitiki. Valsčiuš pats pertrauke tą neramumo valandą.</p>
+			<p>— Mes žinome, pons viršininke, kas dirba, kad mes negalime turēt kokį norime vaitą. Tai darbas raštininko Pstrumskio! Jis nori, kad vaitas daugiau nemokētų, vos tik ranką pasirašyt, o mes tokio vaito nenorime. Jau mes senei tarSmSs prašyt jus, kad mums duotumēte kitą raštininką, tik ikšiol to ne-padarēme, tikēdamiesi, kad naujas vaitas padarys kanceliarijoje naują tvarką ir įsitaisys gerą raštininką. O dabar mes, pons viršininke, labai jus meldžiame, tuojau, šiandien atstatyt Pstrumskį.</p>
+			<p>— Kuo-gi Pstrumskis teip nusikalto? — klausia Kruglodurov, nusiminęs ir prijausdamas, kad duotų jam pamokinimų gal neištekt, atsiradus netikētoms sąlygoms.</p>
+			<p>Nupasakojo Kruglodurovui, kad Pstrumskis lupa valsčių, reikalaudamas už kiekvieną kanceliarijos darbą didelius piningas, rinkdamas iš valščiaus perdaug mokesčių ir t. t. ir t.t. Vardan valščiaup kalbējo prakilnesniejie vyrai, antai Spirgučių Antaura, Audiku Brazys, Poškakaimio Laužaitis ir Bobrausių Papartis. Brazys tuoj parodē viršininkui laiškelį, raginanti mokesčius nešt:	„ . . . ant sudo, kanceliarijos, vaito ir kitų reikalu. “</p>
+			<p>— Kas tai tie „kiti reikalai?“ — traukia Brazys — Koki čia mokesčiai reikia išmanyt?</p>
+			<p>— Ar knygose teip-gi teip Įrašyta? — klausia Kruglodurov ir pradeda vartyt knygas. Neranda. Braziui parodžius, kur reikia jieškot, atranda tokį-pat įrašymą ir ima Pstrumskį neva baust prie visų.</p>
+			<p>Valščionys buvo jau įpykdinti irteipos-gi pasiryžo varyt savo iki galo, kaip ir viršininkas. Pareikalavo, kad Pstrumskis parašytų ant savęs nuo valščiaus prašymą pas gubernatorių. Pstrumskiui rašyt ant savo galvos tai jau perdidelis nusižeminimas. Nesutiko.</p>
+			<p>— Tu esi valščiaus raštininkas, tai turi išpildyt tą musų reikalavimai — prispyrē.</p>
+			<p>Pstrumskis turējo išbēgt. Tada vertē rašyt antrąjį raštininką, Takuną. Jis atsisakē, nēs nesąs čia užtvirtintu raštininku.</p>
+			<p>— Jei negali atlikt, kas reikia, tai šelauk! Ko čia nžimi kitiems vietą? Daug yra mus vaikinų, kurie į tavo vietą tiks.</p>
+			<p>Ir tas išbēgo.</p>
+			<p>Seikējo rašyt patiems, bet tą dalyką atidējo ant rytojaus, o tuotarpu prašē viršininką, kad tuoj atstatytų Pstrumskį ir užvestų tardymą jo šunysčių ant sušaukto tam tyčia valščiaus susirinkimo. Kruglodurov atsisakē, dabar negalįs palikt kanceliariją be raštininko ir vaito, o šiaip išpildysęs viską, ko prašo. Tąsyk sustatē protokolą susirinkimo ir valščius pareikalavo kopijos su viršininko parašn, pridurdamas, kad kitaip nē vienas nesirašys ant protokolo. Kruglodurov turējo tai išpildyt.</p>
+			<p>Tik vēlai vakare pasibaigē tas garsus susirinkimas, kokio nesitikējo ne vienas Pstrumskio bičiulis; ant kurio pasirodē, kad jau ir valščionys pradeda numanyt savo tiesas ir kad tas tiesas negali sulaužyt ne paviečio viršininkas, eidamas tiesos keliu — gal jas apsukt tik šuntakiais, nes su tais da žmones nepasipažįsta.</p>
+			<p>Pasibaigus susirinkimui, Kruglodurov jau neužējo pas Pstrumskį „pasilsēt,“ o tiesiog nudulino pēsčias pas kordono aficierą netoli nuo kanceliarijos. Teip ir rodēsi visiems, kad jau pas Pstrumskį neužeis. Bet kur tau? Kaip tik visi išsiskirstē ir gerai sutemo, neiškentē neužējęs. čia Pstrumskis su visa savo šeimyna puolē Kruglodurovui į kojas, šaukdami: Neprapuldyk, pons viršininke, neprapuldyk.</p>
+			<p>Voliojosi ant žemes, iki viršininkas nesuramino.</p>
+			<p>— Pažiuresiu, pažiurēsiu!</p>
+			<p>Tada Pstrumskienē pakilusi nubēgo atsinešt gardžių skystimētių. Kruglodurov išpradžių purtēsi, negersęs, bet bausdamas Pstrumskį pajuto sausumą gerklēje ir neiškentē neišgēręs. Paskui nereikē nē verst.</p>
+			<p>Tą vakarą džiaugBsi Miškagalių valščionys, įbaudę savo ponus ir tikēdami greit su jais galą surasę. Antaurą, Brazį, Laužaitį ir Papartį tai ant rankų nešiojo. Vienok matēme, kad ir jų priešininkai kanceliarijoje nepasiliko be vilties.</p>
+			<p>Svarunui vis rupējo Kruglodurovo pasakymas, kad „Svarunui, rinkdami jį į vaitus, tik duobę kasa.“ Būdamas sykį Naupyleje, užėjo pas viršininką ir užklausē, ką tai reiškia.</p>
+			<p>— Ant tamistos yra papuotas didelis skundas ir atsiųstos ant tamistos vardo uždraustos lietuviškos gazietos. Supranti, tamista, kad dakar galim tamista administratyvišku keliu iškelt iš Miškagalių valščiaus — atsake viršininkas ramus, kad Svarunui jau tos baimės užteks.</p>
+			<p>— Aš iškēlimo iš valščiaus nesibijau — kalbējo Svarunas — o išdarkymams yra sudas. — Ar negalētum, tamista, parodyt man ta baisnjį skundą ir tas gazietas? Ag žinau, kad nē kokių uždraustu neparsikviečiu. Jeigu-gi atējo ant mano vardo tokios gazietos, tai pons viršininke, parkviest gazietą ant svetimo vardo gali kiekvienas piktadaris. norēdamas atkeršyt. Jug šiandien tai paprastas pas mus dalykss Nori tulas pasigerint vyriausybei — eina ir skundžia, kad tam ir tam kampe skaito lietuviškas gazietas, o kartais pasako nēt pravardes visai nekaltų žmonių. Kitas nori atkeršyt eina ir apskundžia, kad tas ir tas prilaiko uždraustas knygas. Yra tai labai lengvas budas pabaudimo: už žmogžudystę, vagystę gal sudas išteisint, o čia sudo nera — apskundė ir jau neišsivaduosi, kaltas ar nekaltas. Tiktai nežinau, ar vyriausybe ištikro to dalvko nesupranta, ar apsimeta tik nesuprantanti, ir jeigu gąsdina už tai administratyvišku keliu, tai taip-gi nenumanau, ar iš geros, ar ... iš piktos valios.</p>
+			<p>Kruglodurov, prijausdamas, kad teip bešnekant, gali suirt visi jo plianai ir norēdamas greičiau atsikratyt nuo drąsių Svaruno pažvilgių, pasakē jam, skundas esąs pas žandarų viršininką, o gazietas galima matyt biure pas raštininką Čolovskį, arba pas žemskių viršininką. Svarunas išējo. Vienok ne vienoje, ne kitoje vietoje nē kokių gazietų nebuvo ir nieks negirdējo, kad tokios gazietos butų atējusios. Iš kur paviečio viršininkui galējo ateit i galvą pramanyt tokius melus? Bet Svarunui buvo aišku, kam tas melas pramanytas.</p>
+			<p>Valščionys, nesulaukdami nuo viršininko ne kokios žinios apie Pstrumskį, išleido į Suvalkus savo plenipotentus. Tie padavē gubernatoriui prašymą, idant užtvirtintų Svaruną, atstatytų Pstrumskį ir parleistų savo ypatingą činovninka Pstrumskio prasikaltimams ištirt ir idant ištyrimas butų atliktas, ant tam tyčia sušaukto valsčiaus susirinkimo. Prašyme buvo išaiškinta kelētas Pstrumskio nuodēmių ir pamatas, delko nori vaitu Svaruną, o ne ką kitą. Gubernatorius prašymą priemē ir pasakē, kad raštininkas tai valsčiaus samdininkas ir valsčiui priguli ji laikyt, ar ne, o nežinąs vēl delko negalima butu Svaruną užtvirtint.</p>
+			<p>Svarunas  teip-gi į tą tarpą buvo Suvalkuose. Patyręs gubernijos ,,prisutstvijoje“, kad jam leista turėt valščicnišką žemę, nuējo pas gubernatorių.</p>
+			<p>— Aš pats prieš tamistos užtvirtinimą neturiu nieko — sako gubernatorius —yra mat kitas dalykas: tamistai nepripažinta tiesa valdyt valščionišką žemę.</p>
+			<p>— Jug man gubernijos „prisutsvije“ pripažino tą tiesą — atrēme Svarunas.</p>
+			<p>— Tai padaryta be manęs ir aš ant to netinku.</p>
+			<p>Mat gubernatorius buvo per visą vasaią užrubežyje ir tik tris dienos kaip pargrįžo. Teisybē, be jo išėjo tas pripažnimas, bet reikia atsimint, kad gubernatoriaus paliktas užvaduotojas turējo gubernatoriaus valia. Tik gubernatorius čia parodė savo panaberiją, nes jam nesmagu buvo prieš Svaruną nežinot, ką jo „prisutstvije“ nusprendė.</p>
+			<p>— Ant galo — sako Svarunas — ir be išvelyjimo „prisutstvijos“ galiu laikyt valščionišką žemę pagal naują įstatymą 11 Berželio šių metų.</p>
+			<p>Jeigu toks įstatymas ir butų — atrėmė gubernatorius, kuriam pasidarė da nesmagiau, kad nežino pasirodžiusių naujų įstatymų — tai aš vis-gi busiu priešingas. Jug tokiu budu galėtų ir kunigai tokius lankus pirkt.</p>
+			<p>— Teisybe, bet jeigu geistina, kad kunigai tos tiesos neturētų, tai galima įvest tam tikrą pasergējimą. Kam-gi skriaust tokius, kaip aš, kokių šiandien yra jau gana daug?</p>
+			<p>Gubernatorius, atsakęs ant to ne šiaip, nē taip, nukreipē kalbą, primine Miškagalių valščiaus plenipotentus ir tuo užbaigē.</p>
+			<p>Nuo gubernatoriaus Svarunas nuējo pas žandarų viršininką, išpasakojo viską, kaip Pstrumskis neužleidžia jo į vaitus, kaip paduoda niekiausius skundus, kaip pritraukē į savo pusę paviečio viršininką, kuris pradeda gąsdint „administratyvišku keliu“, neturēdamas nē menkiausios tam priežasties, ir t. t.</p>
+			<p>Saukia viršininkas savo adjutantą ir liepia surast skundus ant Svaruno. Rado vieną, kur kokio ten užsislēpēlio surašyta, buk laukas esąs Svarunui švogerio užrašytas tik tam, kad galima but turēt tiesas įstojimo į vaitus.</p>
+			<p>— Ar tikrai tamista pirkai lauką nuo savo švogerio, Snapo?</p>
+			<p>— Nuo Snapo pirkt negalējau, nes jis niekad lauko neturējo, ne neturi, o pirkau nuo savo brolio, Jurgio Svaruno, ant ko turiu rejento aktą.</p>
+			<p>— Pas mane daugiau ne kokiu skundų nēra. Jeigu paviečio viršininkas sako, kad yra, tai gal but pas paviečio žandarų viršininką. Jeigu vēl paviečio viršininkas sako žodžiais, negalįs tamistos užvirtint dēl svarbių skundų, o oficijališkai rašo, kad dēl lauko, tai geriausiai tamista padarysi, padavęs paviečio viršininkui prašymą, idant ant popieros paaiškintų, delko netvirtina. Su tuo atsakymu paskui galima bus kreiptis prie manęs. Bet tikiuosi, kad jus viršininkas tamistos nenuskriaus, tai žmogus kilčiausios dvasios.</p>
+			<p>— O svieteli — mane Svarunas išeidamas — jeigu šitas kilčiausios dvasios, tai koki tur but kiti viršininkai!</p>
+			<p>Pakeliui užvažiavo Svarunas pas paviečio žandarų viršininką. Tas paaiškino, kad ant Svaruno vardo nēra nē kokių gazietų, tai esąs melas — jug pats tokius dalykus turētų geriausiai žinot — kad jis pats liepęs žandarams tik patirt, pagal skundą, ar Svarunas tikrai, ar tik fiktyviškai valdo žemę.</p>
+			<p>Parvažiavęs namo, Svarunas tuojau padavė paviečio viršininkui prašymą, kad jam išreikštų priežastis, delko nenori jo užtvirtint vaitu.</p>
+			<p>Nelaukk, brolau! atsakymo nesulauksi.</p>
+			<p>Valščiaus plenipotentai, palukēję menesį, ir negalēdami sulaukt iš Suvalkų ant savo prašymo atsakymo, paleido pas gubernatorių telegramą, pasergēję, kad jie lauks atsakymo ant stacijos. Vienok ne tą, nS antrą, ne trečią dieną atsakymo nebuvo. Paskui tik, po dviejų, ar trijų nedelių, gavo per valščiaus kanceliariją apreiškimą, kad dalykas apie užtvirtinimą Svaruno vaitu bus peržiurētas suvisai skyrium. Apie Pstrumskį tame apreiškime nebuvo ne paminēta. Gal but Pstrumskis apie save nenorējo minēt.</p>
+			<p>Pstrumskio bičiuliai ir šalininkai kovoje su Svarunu iš bandē visokias žabangas: painias, liežuvius, skundus, bauginimą ,.administratyvišku keliu“ ir t. t. Betgi negalējo visai išlaimēt. Dabar susitarē apveikt valsčių, išvien ir Svaruną, užvilkimu viso dalyko, trukdymu žmonių. Tas pasisekē pilnai. Darbymečio laike valščius negalējo atsidējęs varyt iki galo reikalą, kuris teip velkasi. Daugumas per ilgą laitą spējo atšalt nuo pirmojo karščio, kiti nustojo vilties išlaimēt ir tik rankomis mostelējo ant visko. Atsirado vēl daug silpnadvasių, kurie pabauginti, arba Pstrumskio pavaišinti, perējo į jo pusę. Užsilikę tvirtais keletas vyrų teip-gi negalējo be valščiaus ką daryt.</p>
+			<p>Da buvo dvl viso ko paleistas šaltyšių su keliais sodiečiais atsišaukimas į vyriausybę, buk plenipotentai buvę nepilni ukininkai (tikras melas!), buk senesniejie sodiečiai su jais neiną iš vieno, buk jiems Pstrumskis tinkąs ir t. t. Bereikalo paleido tą atsišaukimą, nēs valščius ir be to buvo jau visai atsisakęs nuo kovos su Pstrumskiu.</p>
+			<p>Dabar jau lengva tapo viršininkui padaryt vaitu Svainišių, išrinktą Į kandidatus. Nors Svainišius buvo pažadējęs atsisakyt nuo vaitystes, vienok neatsisakē ir per tai palengvino Kruglodurovui darbą rinkime vaito apsieit be valščiaus.</p>
+			<p>Į kelias nedelias šaltyšiai patys, teip-gi nesiklausdami valščiaus, išrinko iš savo tarpo kandidatą ir rinkimai tapo galutinai užbaigti.</p>
+			<p>Valščius tai mate, bet jau nesikišo.</p>
+			<p>Pstrumskis pradējo atsigriebt. Tik sunku dabar, žmones jau ne teip daug neša. Ypač jo pati rugoj a Ar mažai jam kaštavo užsilikimas Miškagalių valsčiuje? Kur tau! Ką privežē Į Naupylę sviesto, surių, kiaušinių, vištų, ančių, žąsų. paršų, rapukų, kviečių ir kitokių aaigtų! O kiek piningų! Ant pašventinimo ,,ikonos“ paukščiai, zuikiai ir stirnos jug tai buvo Pstrumskio pristatyta. Apveikus-gi valščių, reikējo savo geriausiam bičiuliui, Kruglodurovui, iškelt pavaišinimą, kuriam tik vienų gerymu parvilkta iš Prusų už 50 rublių. Kaštavo daug. Kada galima bus tuos piningus iš valščiaus atgriebt.</p>
+			<p>Kaip viršininkas neguldys galvą už Pstrumskį ir kaip Pstrumskis neviešpataus valščiuje, turėdamas tokią paramą.</p>
+			<p>Per Šeštines 1892 m. numirē Svarunas. Pstrumskis visai atgijo. Galējo dabar drasiai už valščiaus piningus kariaut su valsčium.</p>
+         </div>
+         <div type="chapter">
+            <head>VI.</head>
+			<p>Vakkanalij Vziatkovič Kruglodurov, atlikęs, karą su Miškagalių valščium, pradējo jbaisiai gert, o aukų tai jau pats jieškojo.</p>
+			<p>Parg žo syki iš Žydpylēs ir rado vežime pusę svaro surio suvyniota į popiergali. Iškur atsirado tas suris, sunku buvo nuspręst, viršininkas vienok išaiškino sau, ką tai reiškia.</p>
+			<p>— Tą surį įdējo man Zydpylėje — mane Kruglodurov — Tur but turi ten kas koki reikalą pas manę . . . reikia važiuot.</p>
+			<p>Anksti rytą važiuoja vēl Į Žydpylę patirt, kas Įdējo surį, kas turi reikalą, ar negalini a bus uždirbt. Patyrimas pasibaigē tik tuo, kad Vakkanalij Vziatkovič pasigērē ir miegodamas išvažiavo namo. Su juo sykiu važiavo iš Žydpylēs vienas gerai pažįstamas vaikinas. Pusiaukelēje viršininkas pabudo ir, nežinia kas jam atējo į galvą, klausia.</p>
+			<p>— Kaip tamistai rodos, ar aš imu, ar ne?</p>
+			<p>— Man rodosi, kad ne — atsakė vaikinas.</p>
+			<p>— Mat kad imu! — sušuko Kruglodurov, lyg norēdamas pasigirt, ką jis galis. — Imu! tik nemanyk, tamista. kad mažai — melavo. — Ne, aš imu šimtą, du šimtu .... su mažiau neprisileidžiu.</p>
+			<p>— O kaip tamistai rodosi, ar mano činovninkai ima? — užklausē vel.</p>
+			<p>— Rodosi, ne.</p>
+			<p>— Ima, ir da kaip ima! Tiktai aš žiuriu ant to per pirštus ir apsimetu nematąs. Aš žinau, kad jie ima, o jie tuotarpu nežino nieko, kad aš imu.</p>
+			<p>— Jeigu jau kalbēt atvirai — tarē vaikinas — tai aš pasakysiu ponui viršininkui štai ką: činovninkai žino teip-gi, kad pons viršinipkas ima. Tiktai toks skirtumas, kad pons viršininkas nežinote, kiek ima činovninkai, o jie gerai žino, nuo ko, kada ir kiek paima pons viršininkas.</p>
+			<p>— Ar-gi tai gali but?</p>
+			<p>— Tikrai.</p>
+			<p>— Na ...... tegul juos velniai! — užbaigē</p>
+			<p>Vakkanalij Vziatkovič ir vēl taikēs įžsnust. Negalējo.</p>
+			<p>Tą dieną Kruglodurovo dvasioje turėjo darytis kas žin kas, turējo ten jau labai daug prisisunkt, jeigu vēl neiškentē neprakalbējęs apie aukas.</p>
+			<p>— Plynia žino kur mano piningai dingsta? Tiek daug paimu, o nieko neturiu. Ne gubernatoriui, rodos, neperdaug duodu, nē ...</p>
+			<p>Tur but susiprato, kad negerai padare, prasitaręs apie gubernatorių. Staiga nutilo ir jau neatsiliepē iki pat Naupylēs.</p>
+			<p>Teisybė, nebuvo žymu, kad Vakkanalij Vziatkovič turētu piningų. Tegul dabar žydeliai duodavo mažesnes aukas, ne kaip išpradžiē kartais po keletą tik rublelių, bet iš kitu šaltinių eidavo nuolat piningai. Galejo ištekt jų net puikiam gyvenimui. Vienok Kruglodurov neperpuikiai gyveno ir da, įsiskolijęs iš Prusų puses prekejui už visokius daigtus ant kelių šimtų rublių, neturējo iš ko atiduot skolą. Pats liovē vaikščiojęs į Prusų pusę, bijodamas susitikt su anuo prekēju, kada-gi prekejas pradējo vaikščiot pas ji, tai įsakē neleist prekēją į šią pusę, kaipo kurstytoją žmonių prie emigracijos. O bet skolos neužmokējo. Delto, kad neišteko.</p>
+			<p>Nepoilgam atsidarē naujas uždarbio šaltinis: ištiko kolera. Iš to kitiems baime, o viršininkui laime.</p>
+			<p>1892 metuosē, kaip sakiau, ištiko kolera. Visoje Maskolijos valstijoje tapo įrengti sanitariški komitetai gyventojams prižiūrēt, idant nors koleros laike išsižadētą prisirišimo prie nevalumo, parvų ir smarvių, o paskui mat vēl galēsę knistis mēšluose — tegul tik apsimalšins kolera. Nepaklausius kuriam gyventojui sanitariškos rodos, komiteto sąnarys galējo apvalyt užsivertēlio gyvatą jo kašbu ir da toks turēdavo užmokēt per sudą mažiausiai 25 rublius koros. Apart to į rankas paviečio viršininkų buvo prisiųsti iš gubernijų piningai dezinfekcijai daryt.</p>
+			<p>Vakkanalij Vziatkovič iš koleros pasinaudojo daugiau, ne kaip kolera iš žmonių.</p>
+			<p>Iš piningų prisiųstų dezinfekcijai paviečio išleista šiek tiek tik dēl akii o diduma liko dezinfekcijai viršininko kišeniaus. O kiek pelno per sanitariškas peržvalgas! Teisybę sakant, nebuvo jug nė vienos gyvatos, prie kurios negalima butų, prisikabint dalykuose švarumo, kiekviena šeimininką galima buvo pagasdint sudu, o kiekvienas sūdo bijosi, tai reikia gerintis viršiniukui ir t. t.</p>
+			<p>Apčiulbęs pusētinai Naupylēs žydus, atvažiavo Vakkanalij Vziatkovič ant sanitariškos peržvalgos į Žydpylę, žydiškiausią ir per tai nevaliausią miestelį. Rado, žinoma, daug medegos protokolams ir gasdinimams sudu. Žydai ištikrujų nusiminē, pamatę, kad reiks užmokēt tiek daug piningų, vienok, gerai  pažindami savo viršininką, žinojo, kaip išsisukt. Vieton mokēt skyrium po 25 rublius per sudą, jie sudējo po keletą tik rubliu be sudo ir Įkišo juos į visapriimančias viršininko rankas. Tas, gavęs 60 rublių, suplēšē visus protokulus ir leido žydams toliau gērētis savo proza.</p>
+			<p>Prireikējo Kruglodurovui vēl piningų, nes 5 rugsējo atsibaldē į Žydpylę ant sanitariškos peržvalgos. Tą dieną Žydpyles parapijonys rinko sąnarius priežiuros bažnyčios ir buvo apstoję klebonijos prieangę, o burmistras, atsisėdąs už stalelio ant tos pat prieangēs, turējo leistrus ir trauks Į juos pravardes parapi-jonių, tinkančiu į paskirtus sąnarius.</p>
+			<p>Štai atjoja raitas Vakkanalij Vziatkovič, išpradžių žingine, paskui sudilgino arklio pašones ir šuoliu prijojęs, prie susirinkusios minios, staigu sustabdė arklį ir suriko.</p>
+			<p>— Kas tai? atkeliavo paviečio viršininkas, o nieko nēra magistrate !</p>
+			<p>Burmistras atsistojo ir prisiartinęs prie Kruglodurovo paaiškino, kad užimtas čia darbu nēgalējo būt tuopat tarpu magistrate.</p>
+			<p>— Jau tu man senei įsigrisai! Aš tavęs daugiau kęst negaliu, negaliu! Stražninke, rašyk protokolą! — suriko ne savo balsu viršininkas ką tik nenuvirto nuo arklio.</p>
+			<p>Mate burmistras, kad Kruglodurov girtas, nuspiovē ir grįžo prie leistrų. Viršininkas tuotarpu ēmē rēkt ant susirinkusiųjų.</p>
+			<p>— Ko jus čia susirinkote? Tiek jus yra, o nS vienas neišējo pasitikt savo viršininką!</p>
+			<p>Žmones klausē ir tylējo. Iš jų akių buvo matyt, kad nieko o nieko nesupranta. Nepasikakinęs ne čia, nusēdo Vakkanalij Vziatkovič nuo arklio ir nusvyravo pas kunigą, bet tuoj sugrįžo ir atsistojęs ant prieanges nžklause.</p>
+			<p>— Kas čia darosi? Ko čia teip daug žmonių prisirinko?</p>
+			<p>— Pasiremdami ant Augščiausio paliepimo 1864 m., renkame sąnarius priežiuros bažnyčios — atsake burmistras, rodydamas leistrus.</p>
+			<p>— Kaip tai? Viešpats ciecorius palieps 1864 metuose, o jus tik dabar susipratote išpildyt! a? — riktelsjo Vakkanalij Vziatkovič, užsirustinęs, kad teip susivēlino pildyt ciecoriaus įsakymą.</p>
+			<p>Burmistras rodo jam leistrus, aiškindamas.</p>
+			<p>— Turime tiesą rinkt šioje dienoje pagal leidimą gubernatoriaus ir jus pons viršininke.</p>
+			<p>— Da...............! — užkeiks Kruglodurov, prikergęs prie „vašu“ „maita“, ir apsisukęs nuējo pas kunigą. Sugrįžęs vēl neužilgo, prakalbējo į susirinkusią minią:</p>
+			<p>— Bičiuliai! ką viešpats ciecorius yra paliepęs, tai reikia — išpildyt — tarē traukdamas su atyda augštyn nusmukusias kelines. — Aš jus viršininkas, ciecoriaus vietininkas, klausykite tiktai manęs! Jus turite valščiaus vyriausybę, turite burmistrus..............jus tų pašaliniu vyriausybių neklausykite! Ar mokate kas maskoliškai?</p>
+			<p>Atsirado viens toks.</p>
+			<p>— Na tai versk! — liepē viršininkas.</p>
+			<p>— Tai jis sako — pradējo vertikas — kad	  jis mus bičiulis; paskui sako, kad ką ciecorius paliepia, tai reikia išpildyt ir nieko nedaryt prieš valdžią;	da sako, kad mes nieko neklausytume.</p>
+			<p>— O ant galo..................ant viso to galima spiaut! — tarē Vakkanalij Vziatkovič, išklausęs vertimą savo žodžiu ir eidamas pas kunigą. Negalėjo vienok ilgai nurimt, ir sugrįžęs ant prieangēs vėl prakalbējo.</p>
+			<p>— Bičiuliai! aš maskolius ir kalbu maskoliškai, o tai dēlto, kad aš jau tris metai esmi jus viršininku, o da lietuviškai nesuprantu nieko, bet aš žinau, kad jus geri žmonēs. Atkartok! — palieps vertikui.</p>
+			<p>Atkartojo.</p>
+			<p>— O dabar šalin iš čia! nesirašykite ir eikite Į karčiamą! — suriko ant žmonių. Vertikas ta-pat atkartojo. Vieni abejojo, ar eit į karčiamą, ar neit. Kiti, išmintingesni, nesijudino iš vietos, o vienas pamaži atsiliepē:</p>
+			<p>— Plačios maskoliaus kelines, bet jis pats da plačiau girtas.</p>
+			<p>Kitas vėl.</p>
+			<p>— Tai, priputo kacapas ir tik erzina žmones!</p>
+			<p>Burmistras aiškino žmonēms, kad tiktų ir baigtu rinkimus, o viršininkas neleido varydamas į karčiamą ir liepdamas neklausyt burmistro.</p>
+			<p>Tas užpykęs atsistojo ir tarē garsiai, idant visi girdėtų.</p>
+			<p>— Pons viršininke! sugrąžinkite paskutinius savo žodžius, nēs paskui priversti busite juos sugrąžint!</p>
+			<p>— Tu esi kiaule, aš su kiaulēmis kalbėt nenoriu — atsake Vakkanalij Vziatkovič ir nukrapino pas kunigą.</p>
+			<p>Tarp susirinkusiujų pakilo lyg spiečiaus duzgimas. Štai šmakšt žmonių tarpą vienas žydelis, pirmiausias Kruglodurovo rodininkas ir tarpininkas, jieškant aukų, pastate ausis ir tēmyjosi, ką žmones kalbės, kad turėtų paskui ką pranešt viršininkui. Iš minios vienas suriko.</p>
+			<p>— O tu žyde, smarve, ko čia? Mes tariamēs apie katalikų bažnyčios reikalus, o tan kas galvoj? traukkis!</p>
+			<p>Žydas daklausė ir, pamiklinęs kojas, atsidurs ten, iš kur atējo.</p>
+			<p>Neužilgo kunigas išvedē Kruglodurovą kelias dešimtis žingsnių ir paleido ji su stražninkais į miesta. Viršininkas norējo užeit į geresnį viešbutį, pas Keilsoną, tik nepataikė, nes perdaug buvo uždumtos akys, ir įlindo į prastą karčiamą, pas žyda Mozura. Aēėjęs atsisēdo už stalo ir riktelėjo.</p>
+			<p>— Degtinēs!</p>
+			<p>— Žydelis, matydamas pas save pirmąkart tok; augštą svečią, da-gi savo viršininką, nusitebejo ir, nežinodamas, kokią jis degtinę mėgsta, stovėjo tik ir žiopsojo, o užklaust nedrįso.</p>
+			<p>Vakkanalij Vziatkovič, belaukdamas degtines, pakele akis ir pamate priešais save žydą.</p>
+			<p>— Kas tu? — klausia viršininkas.</p>
+			<p>— Aš Mozuras — atsako žydas.</p>
+			<p>— Ką tu sakai?</p>
+			<p>— Aš Mozuras.</p>
+			<p>— Tu, mozuras?</p>
+			<p>— Aš Mozuras.</p>
+			<p>— Tu žydas, ne mozuras!</p>
+			<p>Aš Mozuras.</p>
+			<p> — Tu pažiurek į zerkolą, tai pamatysi, kad tu nuparkelis žydas, o ne mozuras!</p>
+			<p>— Aš Mozuras.</p>
+			<p>Tik paiškinus stražninkui, kad to žydo pravarde Mozuras, viršininkas susiprato ir sykiu užtemyjo, kad ne ten nuējo, kur ketino. Bet reikējo kaip nors ič-sisukt nuo gēdos.</p>
+			<p>— Ar tai juma rodosi, aš čion užkliuvau netyčia? Ne! Aš atējau tyčia. O čia kas? — suriko, rodydamas sienoje plyšį. — Stražninke! rašyk protokolą!</p>
+			<p>Paliepęs tai, nusibaldė pas Keilsoną ir užtaise surinkt žydų deputacija. Susirinko rimčiausi Zydpyles žydai. Pamatęs juos. Kruglodurov sušuko.</p>
+			<p>— Ko juos čia, zydai biaurybes?</p>
+			<p>Ilgą valandą visi tylējo, o paskųs vienas žydelis, stovēdamas užpakalyje kitų, atsake nedrąsiai oficijališku liežuviu.</p>
+			<p>— Mes cia pasiremdami ant pono viršininko įsakymo.</p>
+			<p>Vēl ilgą valandą visi tylējo. Ant galo Kruglodurov, pašaukęs keturias pleškąs degtines, tarē žydams.</p>
+			<p>— Aš geriau už jus sveikatą Tauzintuose, o jus turite gert už mano sveikatą šičia. Gerkite! — suriko, atsistodamas.</p>
+			<p>Žydeliai, nors nepratę turējo išgert visą pašauktą degtinę. Pasibaigus vaišinimui žydu deputacijos, Vakkanalij Vziatkovič iškilmingai ištars.</p>
+			<p>— Dabar eisime apžiuret miestą.</p>
+			<p>Užsēdęs ant arklio, apsuptas susirinkusiu žydų ir žyduku, nujojo per rinką. Prajodamas pro sinagogą, pamate ištolo riogsančią nuošalyje prozos instituciją, sustatytą iš keleto NNN. Išvydo, suspyrē arklį ir kaip meška ant dumų šoko ant tų NNN, surikęs galingu balsu.</p>
+			<p>— Imkite! laužykite!</p>
+			<p>O pats mitrina arklį ir vis šaukia.</p>
+			<p>— Imkite! laužykite!</p>
+			<p>Žydukų minia lakstē iš vienos vietos į kitą, saugodamasi, kad nesumindžiotų arklys. Raitelis, užtemyjęs tai. ramino.</p>
+			<p>— Vaikai! nebegkite nuo manęs! jug aš maskolius!</p>
+			<p>Tur but jam rodēsi, kad jo armija bēga nuo savo gendroliaus. Atsirado minioje ir darbininkai, grįžtan-tiejie su kirviais nuo darbo. Juos stražninkai privarē prie NNN. Sužaibavo kirviai, supyškējo lentos ir institucija griuvo, o žydai sušuko didžiu balsu ura! tarytum griuvo Jerichono sienos. Tada pilkasis gendrolius (Kruglodurov buvo apsivilkęs su balta mandiera, tik labai sujuodusia) sustabdē arklį, iškilmingai apsižvalgē aplinkui ir nusišluostē prakalta nuo išrasojusios kaktos. Venit, vidit, vicit. Žydpyles istorija da buvo neturējusi pažminto teip garsaus didžiadarbio. Jis Zydpylēs kronikose užrašytas šiteip: Podvig Sieravo generala ili vziatije pristupom žydovskich nužnikov v. Žydpylie 5 Sentiabria 1892 goda (pilkojo gendroliaus didžiadarbis arba užemims šturmu žydišku NNN Zydpyleje 5 Ruzsējo 1892 m.).</p>
+			<p>Palukējęs gendrolius atsiliepē į minią.</p>
+			<p>— Ar jums patinka burmistras? Man nepatinka, o jums patinka?</p>
+			<p>— Patinka, patinka! — sušuko iš visų pusių,</p>
+			<p>—Aš nematau, ar viesiems patinka — sako gendrolius — kam patinka, tas tegul iškelia augštyn ranką.</p>
+			<p>Visi žydai ir žydukai iškels tiek rankų, kiek tik katras turējo. Gendrolius, neva matydamas skaitlių iškeltų rankų, pasakē.</p>
+			<p>— Aa! puse iškeltų, o puse ne! tai nepatinka!</p>
+			<p>Visi nutilo, tarytum laukdami pranašo balso.</p>
+			<p>Lyg tyčia išlenda iš minios žydelis ir drebančiu iš baimes balsu sako gendroliui:</p>
+			<p>— Nu, pons viršininke, kas bus? tu pats atnešei mums kolerą! Mus išgąsdinai ir dabar jau visi mes sergamu.</p>
+			<p>Pasakęs tai, įlindo atgal, nereikalaudamas ne garbes, nė plojimo rankomis, kaipo tikras pranašas. Visi vēl tylējo toliau. Tiktai gendrolius, nusiēmęs kepurę, gaudydamas su įaja orą iš šalies naujų griuvēsiu, ir varydamas jį prie nosies, atkartojo švelniu, reiškiančiu didį pasikakinimą, balsu.</p>
+			<p>— Dabar tai smagus oras! tai smagus oras!</p>
+			<p>Tie griuvēsiai, styrintiejie su nusižeminimu po gendroliaus pergalētojo kojomis; tas tylējimas, lyg perlēkus kokiai dvasiai; tas ramumas minios, da nesenei užusios: tas švelnus ir saldus avinėlio balsas, išeinantis iš lupu didžiavyrio, kuris valanda prieš tai turējo balsą įniršusio liuto — viskas sykiu gamino neišreiškiamai didi įspudį. Iškilminga valanda.</p>
+			<p>Gendrolius, akimis atsisveikinęs su pasekmēmis savo garsaus darbo, jojo iš Zydpylēs namo. Vienok likimas paskyrė tą dieną viršininkui buti tik didžiavyriu ir visą savo kelią žymint atminties vertais dalykais.</p>
+			<p>Da neišjojęs iš Žydpyles, narsus gendrolius pats darode, kad sugriauti NNN visai nereikalingi, ka.</p>
+			<p>juos gali užvaduot savo kelines. Tiktai tamsuoliai stražninkai nesuprato augštų siekių savo viršininko ir pasirupino tą „parodymą“ užslēpt. Nusodino gendrolių nuo arklio, neprileido artyn ne vieno žmogaus, o patys, padarę sanitarišką peržvalgą tulų gendroliaus paredų, pasistenge prašalint dalykus, persekiojamus, pagal jų nuomonę, ypač koleros laike. Sudarę viską, kaip reikiant, vēl užsodino gendrolių ant arklio ir lydējo toliau.</p>
+			<p>Likimas nepamiršo apie savo išrinktąjį. Buvo jau vakaras. Beveik ant pusiaukeles, neprieinant prie Taurintų, gendrolius paleido antrą seriją „paro dymų.“ Stražninka nusiminę nežinojo išpradžių, ka daryt, bet tuojau šoko j kaimą, padare trukšmą ir, tiesiog apreiškę, kas atsitiko, „Įsake“ boboms imt spatus, ražus, mazgotes ir bėgt viršininkui gelbėt. Bobos, ižgąsdintos stražninkų pasirodymu, o pripratusios jų balso klausyt, pagriebs kas reikia ir tekinos nubēgo į pagelbą. Sunaudojusios priderančiai visus Įrankius, grižo namo, smarkiai spiaudydamos.</p>
+			<p>Viršininkas nujojo Į Tauzmtu valsčiaus kanceliariją. Pilvas nuskriaustas dēl „parodymų,“ sušuko per lupas savo nešiotojo.</p>
+			<p>— Ar nežinote, kad aš neturiu ne žąsų, ne ančių, ne kiaušinių.............. ..</p>
+			<p>Da nespējo užbaigt, o jau nežinomos rankos prinešē visko............</p>
+			<p>Paskutinis didžiadarbis padare Kruglodurovui, net be pagelbos korespondento, kur kas daugiau garbes, nekaip įtaisymas „ikonos,“ nes į umą laiką pasklido žinia apie tą darbą netik po guberniją, bet pasiekē net Varšavos generalgubematorių.</p>
+			<p>Vyriausybe matydama’, kad Kruglodurov geresnis gendrolius, nekaip paviečio viršininkas, paketino jį nuo viršininkystes atstatyt. Bet Suvalkų gubernatorius, kuris, kalbant matematiškai, teip prilygo prie Kruglodurovo, kaip Kruglodurov prie Pstrumskio pagelbējo ir perkēlē tik Kruglodurovą iš Naupylēs į Pakaušpylēs pavietre,	</p>
+			<p>Atsisveikindamas su savo’ cinovninkais ir pažistamais, ištarė Vakkanalij Vziatkovič atminties vertus žodžius.</p>
+			<p>— Gerai, kad spējo išsiųst manę į Pakaušpylę viršininku, nēs neužilgo bučiau ten patekęs kitokia keliu.</p>
+			<p>Pakaušpylt je yra visiems žinomas kalinys.</p>
+			<p>Buvo tai pirmi ir paskutiniai išmintingi žodžiai, kuriuos Kruglodurovui, viršininkaujant Naupyleje, pasisekē nuo savęs pasakyt. Ant tų žodžiu pabaigsiu  ir pasakojimą apie ji.</p>
+			<p>Skaitytojau! Galėjai patemyt, kad visame pasakojime beveik niekur neminējau, kokiame metu laike tas arba kitas dalykas dējosi. Tai kad ant manęs kartais nerugotum, duosiu trumpą paaiškinimą. Žiemos laiku niekad Kruglodurov iš namų neišvažiuodavo, pasiremdamas ant to, kad jeigu Maskolijoje meška gali per žiemą miegot, tik laižydama delną, tai greičiau šitas pritinka maskoliui činovninkui, ypač jeigu jo delnas buna tankiai suteršiamas. Pavasario ir rudens laike Naupyles pavietyje teip. biaurus keliai, teip biaurus, kad ne davatkos įžadų negal pernešt; tai jau žmogus, žinoma, negales nē praeit, nē pravažiuot. Tai-gi Vakkanalij Vziatkovič Kruglodurov visus savo garsius ir negarsius darbais atliko vien vasaromis.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

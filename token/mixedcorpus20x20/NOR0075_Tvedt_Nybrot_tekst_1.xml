@@ -1,0 +1,3319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="NOR0075" xml:lang="nn" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nybrot ELTeC-utgaven
+    </title>
+    <author ref="270253273 https://www.wikidata.org/wiki/Q1779725">
+     Tvedt, Jens (1857-1935)
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC encoding
+     </resp>
+     <name>
+      Michael Preminger
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     0
+    </measure>
+    <measure unit="pages">
+     0
+    </measure>
+   </extent>
+   <publicationStmt>
+    <p>
+     Incorporated into the ELTeC
+     <date>
+      2022-04-17
+     </date>
+    </p>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2012103106112">
+     </ref>
+     <author>
+      J. Tvedt
+     </author>
+     <title>
+      Nybrot
+     </title>
+     <pubPlace>
+      Bergen
+     </pubPlace>
+     <publisher>
+      Mons Litlerè
+     </publisher>
+     <date>
+      1888
+     </date>
+    </bibl>
+    <bibl type="digitalSource">
+     <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2012103106112">
+      Faksimilie i Bokhylla
+     </ref>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+   <langUsage>
+    <language ident="nn" usage="100"/>
+   </langUsage>
+   <textDesc>
+    <e:authorGender key="M"/>
+    <e:size key="short"/>
+    <reprintCount key="low" xmlns="http://distantreading.net/eltec/ns"/>
+    <e:timeSlot key="T3"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2021-04-09">
+    Converted by checkUp script for new release
+   </change>
+   <change when="2020-11-15">
+    Checked by checkup
+                script
+   </change>
+   <change when="2020-11-13">
+    ran oldCheckUp to update
+   </change>
+   <change when="2006-02">
+    ESO
+                
+                Stilark påbegynt. Første delen av XSL-fil
+                laget
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+  
+  <div type="titlepage">
+ 
+  
+   <p>
+    NYBROT.
+   </p>
+   <p>
+    FORTELIING
+   </p>
+   <p>
+    AV
+   </p>
+   <p>
+    JENS. TVEDT.
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    . &lt; BERG N. I KOMMISSJON HJÅ MONS LITLERE. 1888. 
+   </p>
+   <p>
+    N IV Der POIDID ioteket
+   </p>
+   <!--end of page-->
+   <p>
+    Stavanger. Bethania Valsenhus boktrykkeri.
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+  </div>
+  </front>
+  
+  <body>
+   <div type="chapter">
+    <head>
+     I
+    </head>
+   <p>
+    d:
+   </p>
+   <p>
+    Blåklar himmel låg yver bygdii Bøarne var slegne og bakkarne gule. Berre i sékarne og kring tuni, der det var mest tøda, var det endå grønt. På sume gardar, der dei hadde av det fljota kornet, stod det på staur elder var longe innkomet. Men der dei endå hadde av det gamla, seina kornslaget, för åkrarne til å skjerast. Og i slikt godvedr skulde det ikkje mange dagarne til, fyrr det var takande.
+   </p>
+   <p>
+    1 Ramndal hadde dei av det fljota- slaget, og der var kornet inne. Han Tore og ho Jorrid, dei sjølve på garden, stod tvoeina ned på bøen og breidde ein grand hå, dei endå hadde ute. Gjentungarne sullad heima åleina, og tenararne var i marki på lauving, for der var mykjet ask og raun i Ramndal.
+   </p>
+   <p>
+    Tore var ein høg, strak-vaksen kar med grove andlitsdrag, men kona ei liti, kruksi såta. Ho
+   </p>
+   <!--end of page-->
+   <p>
+    6
+   </p>
+   <p>
+    såg ut som berra barnet på sida av mannen, endå ho var eldre enn han.
+   </p>
+   <p>
+    b&gt;»Eg undrast, korleids da e' på Klyve i dag«, sa' Jorrid, andskygde seg og såg burt imot garden på andra sida av elvi.
+   </p>
+   <p>
+    »Ja, du må so segja«, sa mannen. »Kunde me 'kje senda vesla Jorrid burt å spørja?
+   </p>
+   <p>
+    »Jau, me kann so, når da li'e yve dauren. « Ho gav seg til å breida att.
+   </p>
+   <p>
+    Ein av sønerne på Klyve hadde voret strengt låk den sista vika. Han var ein dag komen gveit heim or fjellet og hadde lagt seg til å sova ut på bakken. Då han vaknad, hadde det sett so hardt til han fyr brjostet og yver livet, at han med naudi kunde grava seg inn. Sidan hadde dei vakt yver han, og det var liti von um, at han vilde stå det. --
+   </p>
+   <p>
+    Det skulde no ikkje vera likt fyr alle her i verdi, sa' Jorrid, då det leid av eit bil. Burt på Klyve hadde dei fenget so mange gutaborn, men hjå dei hadde det berre vortet døtter.
+   </p>
+   <p>
+    »Da ce' vel so laga, sertu«, svarad Tore.
+   </p>
+   <p>
+    Det var ei sanning, han der kom med, som kona ikkje kunde leggja imot. Og so breidde
+   </p>
+   <p>
+    dei tagalle ei stund.
+   </p>
+   <p>
+    Kvat trudde ho, um dei tok til seg ein av
+   </p>
+   <!--end of page-->
+   <p>
+    7
+   </p>
+   <p>
+    Klyve-gutarne? spurde Tore. Det kunde vera so hugnadlegt å ha' ein gutunge til å senda ifrå seg, når det var eitkvart ærendet.
+   </p>
+   <p>
+    Å, ja  drog Jorrid på det; men so visste han det, at det var ikkje deira eigen korso.
+   </p>
+   <p>
+    Det var då ikkje lenger folket ifrå, totte Tore, so det kunde ikkje voret so reint uhøvelegt helder.
+   </p>
+   <p>
+    Nei, det kunde visst ikkje betre høva — soleidsses Men det kunde endå laga seg, at dei fekk ein, sjølve. — — »lKEg trur mest, eg e umhendes, sa' ho.
+   </p>
+   <p>
+    »Ka' segje du! Eg kann ikkje. tru, du fær unga' no? Han såg ikkje vidare blid ut.
+   </p>
+   <p>
+    »Når vårherre legge da på ein, lvte me fudla lita oss med da, so' han vil ha' da. Ikkje kann eg hjelpa da«, sa' ho helder kvasst.
+   </p>
+   <p>
+    Tore svarad ikkje nokot på detta, men vølte med riveskaftet i det, som kjerringi hadde breidt. Det var nokre gule larkar, ho ikkje hadde fenget væl ifrå einannan.
+   </p>
+   <p>
+    So var dei ferduge med breidingi, og han  støyrde riva ned i marki.
+   </p>
+   <p>
+    »Vart da ein gutungje, sku eg endå ikkje segja noko, sertu«, sa han; »men da verte vel
+   </p>
+   <!--end of page-->
+   <p>
+    8 ei gjenta no og. Tå. da slage hev me meir so' nok, tykkj' eg. !
+   </p>
+   <p>
+    Han larkad heim åt husi; men Jorrid sette seg ned på ein stein, mødd og leid: Ho kunde då ikkje hjelpa, at ho var soleids att. Hennar skuld var det ikkje, det var visst. — — Og store tåror kom fram og rann ned yver kinni.
+   </p>
+   <p>
+    At vårherre skulde leggja på henne detta no!  Det var so lenge, sidan ho sist åtte barn, at ho trudde, ho skulde ikkje fenget fleir.  — Han Tore var nokso snild mann, det var synd annat segja. Det var dei, som verre var. Men sume tider kunde han rett vera knokutt. — Og det var urimelegt, at han skulde gjeva henne vondord, uni ho var med barn. Som ho kunde gjera nokot til å venda vårherre sin lagnad!
+   </p>
+   <p>
+    »Å Gud hjelpe meg, arme stakkar!e sutrad ho, »te' bera dei prøvanna, han vil leggja på meg. «
+   </p>
+   <p>
+    Ho turkad tårorne burt med handarbaket, reiste upp og ruslad heim.
+   </p>
+   <p>
+    Ramndals-husi stod på ein fin bakke, som hallad smått imot sør — ned til dalss Kom ein upp vegen og skulde til tuns, hadde ein fyrst fjosen og løda fyr seg. Dei var bygde i hop, men ikkje under sama toka. Fjosdøri var i enden og mottingi midt utfyr. So gjekk ein fram
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    ¹
+   </p>
+   <p>
+   </p>
+   <p>
+    på øvra sida av fjosen og løda, hadde øykjastallen, smalhuset, vedskytja og eldhuset på vinstra hand og kom til stovehusii Stova og bud i eitt, med steintropp upp til døri; det var og dør på andra sida. På stova var det torvtakk men budi var helletekt og høgare, for det var lemstova og til- bygd seinare. Under budi var ein gasta kjellar. Millom løda og stovebygnaden stod stabburet. Og vilde ein åt grishuset, gjekk ein ned smoget imillom løda og stabburet. Same vegen var det og til »vetla-husete, som var bygt attåt nedsta lo'novi.
+   </p>
+   <p>
+    KHit stykkje heimanfyr tunet gjekk den vesla Ramndals-elvr; men ho hadde i tiderne frametter gravet seg djupt ned, og det var store bakkebrot på sidorne, so ein såg ikkje nokot til henne ifrå husi, etter ho nådde bøen. Ho gjekk ut i stor- elvi midt fyr Klyve-skarvi.
+   </p>
+   <p>
+    Il1 Ramndal hadde det voret vælstands folk, lika sidan Torlak i Tola flutte heim der og gifte seg med jordegjentas Han kom med pengar til gards; litt var der vel fyrr og, og han Torlak og ho Mari fekk dei til å--auka. Forrverre prakkarar, enn det var, skulde vandt finnast. Dei svelte mest livet or både seg sjølv og tena- rarne, so det var litet, nokon vilde vera hjå dei.
+   </p>
+   <!--end of page-->
+   <p>
+    10
+   </p>
+   <p>
+    Alt, kvat ytast kunde, vart selt og pengarne gjøymde på kistebotnen. Folk visste ikkje um bankar dei tider. — Men dei låg ikkje alle på kistebotnen. Han sette ein slump i Klyve-jordi. Og so mange var det, at han åtte heila Klyve, då det kom til stykkjet.
+   </p>
+   <p>
+    Torlak visste nok, kvifyr han gjørde det på den visii Han hadde tvo søner, og då den eldste tok Ramndal, fekk den andre Klyve.  Sonen åt han på Klyve gifte seg sidan med frenka si i Ramndal.
+   </p>
+   <p>
+    Soleids var det ifrå gamalt sama folket i Ramndal og på Klyvee Men endå meir innblan-. dad vart dei, då Tore Ramndal og Mons Klyve gjorde hogg: Jorrid Klyve flutte heim til Ramn- dal og Malna Ramndal til Klyve.
+   </p>
+   <p>
+    Etter detta var det rimelegt, totte Tore, at dei tok ein av Klyve-gutarne til seg, sidan dei ingen son hadde sjølve, og lét han få jordi og eldsta dotteriti Dei kunde då sleppa dragast rned nokon framande. Og Tore hadde longe ordat um detta med systeri på Klyve, då han den dagen på bøen slo fram um det med ØJorrid.
+   </p>
+   <p>
+    Men det gjekk ikkje soleids, som det var skipat den gongen. Det vart jordakar i Ramndal
+   </p>
+   <!--end of page-->
+   <p>
+    14
+   </p>
+   <p>
+    og, um han kom nokot seint. For det barnet, ho Jorrid no åtte, var endeleg ein gut.
+   </p>
+   <p>
+    Tore vart so upp i vedret av detta, at han visste snaudt, kvat fot han vilde stå på. Han dreiv att og fram på golvet og små-lo. Og når . han var åleina, talad han med seg sjølv; han lagde i tankarne alt til rettes åt den vesle odels- mannen i Ramndal. )
+   </p>
+   <p>
+    Men gutungen var klen å sjå til. Og let det i han, var det, som når det pistad ei mus. Ho, som nærkona var, ristad på hovudet og trudde ikkje, det hekk liv i han, men sa' ikkje nokot. Morri sjølv hadde helder ikkje stor tru, men. vilde ikkje tenkja på det. Harmelegt vilde det vera, skulde ho havt so mykjet sut og stræv fyr inkjevetta" Og synd i han Tore, som: var so glad i det vesla kræket.
+   </p>
+   <p>
+    Det gjekk då betre, enn voni var. Guten rådde or. Men då vart han so fæl til å skrika, at det var ikkje måte på det. Det var mest, som han vilde riva øyro av folk. Tegja gjorde han ikkje, utan han vart boren kring golvet.  So fekk Tore sjau med det; men utoleg vart han ikkje. Det var nokot annat no, enn det hadde voret, når det var gjentungar. Han både matad og gjorde han rein. Det var just so fjerre, han
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    48
+   </p>
+   <p>
+    vilde, mo 'ri skulde klæ ungen. Hadde han fenget det til, hadde han vel gjort det sjølv, det og.
+   </p>
+   <p>
+    »Da va minst fyre, når fa'ren alltid va' soleids«, sa' kjerringarne, når dei kom med graut og såg, kor annsamt Tore hadde det; »men dei pla helst ikkje vilja sjå på ledi te bodni, med dei e" so småe.«
+   </p>
+   <p>
+    »Å ja  men so e' no detta ein gut«; sa' Jorrid.
+   </p>
+   <p>
+    Då jordakaren i Ramndal var til daupen, vart han uppkallad etter faren og kom soleids til å heita Tore.
+   </p>
+   <p>
+    — x= Dersom folk fær berre eitt barn, vert det mest alltid burtskjemt. Men når foreldri etterpå fleire døtter endeleg på sine gamle dagar fær ein son, er det ikkje ein grand betre. Han vert »gullaknuppen«, som alltid 1yt få viljen sin, og ingen må prikka på han. Og so vert det age etter det.
+   </p>
+   <p>
+    Soleids gjekk det i Ramndal. Gutungen vart ein stor villstyring. Høgt og lågt foör han, var alle stader framme og helst der, han ikkje skulde. Prettor og spikk var han longe ute med, fyrr han var so stor, at ein kunde trutt, han hadde vit til det.
+   </p>
+   <p>
+    Det var nok ikkje nett vondskap, men kjæta
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    13  slik ei undarleg, sjukleg kjæta: Han gret fyr alt slag, men lo med sama. Ein skulde ikkje tru, han var son åt han gamle Tore, for han var ikkje lik han — korkje i hått elder tått.
+   </p>
+   <p>
+    Han vart ingen matmann helder — soleids som faren. Det var ikkje til å tenkja på å få i han sur mjølk attåt grauten. Mijølki laut vera søt, elder det laut vera rjome-mjølk. Fekk han ikkje det, gjekk han helder utan frukost. Men so vart han og smårådsleg av seg  Ilett som ein falke og turr som ei næver-skrukka.
+   </p>
+   <p>
+    Han hadde lett fyr boki og kunde longe reinlesa, då han byrjad i skulen; det stod ikkje på  soleidss Men han vart ei freisting fyr skulemeisteren med det, at han ikkje ein augna- blink kunde sitja i ro. Han fekk knubb-ord, han fekk lusingar, men det hjelpte ikkje. Med sama det small, grét han; men skulemeisteren hadde ikkje fyrr snutt seg, so lo han og gjorde slik ein snodig trut, at hine ungarne gapskrattad. Slo då gamlingen etter han med linjali, smatt han under bordet, og slaget råkad ikkje han, men kann henda den, som sat attmed. Under bordet vart han då verande, til gamlingen vart blid att og godsnakkad med han.
+   </p>
+   <p>
+    Med venskapen millom skulemeisteren og
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    Tore gjekk det so ymist frametter. Best som dei var reint fine vener, vart det gjort eit spikk, so gamlingen kom i ulag, og det var alltid han Tore, som hadde skuldi.
+   </p>
+   <p>
+    Soleids var det ein gong, alle gjentorne hekk i hop, so dei ikkje kunde koma fram ifrå bordet; hårbandi deira var bundne saman og med so mange knutar, at det var mest uråd å få dei ifrå einannan. Dei sa', det var han Tore, som hadde gjort det, og han fekk ein under øyrat med linjali, so ho sprakk. Men når skulemei- steren sidan veiftad med linjali i lausa lufti, var det slik ein løgjen låt, at Tore laut knisa. Då han vart teken i kragen og skulde gjera greida fyr knisingi, sa han, at soleids leét det stundom hjå skulemeisteren og. So knisad det yver heila laget. Skulemeisteren stod der upprådd og laut slå det burt i eitkvart annat.
+   </p>
+   <p>
+    Men um kvelden skar skulemeisteren seg ei hatlesvega. Den skulde Tore få smaka næste gong, han var ute med spikki sine. Og det vart ikkje lenge til.
+   </p>
+   <p>
+    KEin morgon hadde han. teket hanekjuklingen inn med seg, og då skulemeisteren stod og las bøni, slepte Tore kjuklingen. Den uppå bordet og til å flaksa og gala, alt han evladt. Det vart
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    15
+   </p>
+   <p>
+    slutt med bøni. Skulemeisteren vilde vita, kven som hadde dreget kjuklingen inn.
+   </p>
+   <p>
+    »Da e' han vesle Tore«, fislad gjentorne og var so fornøgde, at det skjein av dei; dei håttad det med hårbanai.
+   </p>
+   <p>
+    9 var det fram med hatlekjeppen og til å varma ryggstykki hans. — Men i fristundi lovad Tore, at det skulde gjentorne ha att.
+   </p>
+   <p>
+    Hin gong seinare var det ingen Tore komen åt skulen. Gamlingen spurde etter, men ingen hadde sét han elder visste nokot um han. —
+   </p>
+   <p>
+    Då det leid av eit bil, var det ei gjenta, som
+   </p>
+   <p>
+    skreik yver seg, at eitkvart ilt stakk henne i leggen.
+   </p>
+   <p>
+    Det var vel berre litt sénadrått, - meinte skulemeisteren, ho fekk ikkje skrika fyr so litet.
+   </p>
+   <p>
+    Men ei stund etter var det ei onnor, som skreik. So ei till Og endå ei på rappen. Då dei skulde sjå, låg Tore ander benken og stakk dei i leggjerne med turre brakenåler.
+   </p>
+   <p>
+    Det gjekk ikkje av seg berre med juling den gongen. Han skulde sitja att og, då dei andre fekk gå heim.
+   </p>
+   <p>
+    Nokot so skitlegt hadde pike hendt han fyrr. Og med han sat og hirde yver boki og
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    16
+   </p>
+   <p>
+    lest. lesay grundad han på, korleids han skulde få gjera den gamle kroken ein smeit att.
+   </p>
+   <p>
+    No skulde det nett henda, at med sama skulemeisteren hadde stappat pipa og skulde få seg ein røyk, kom kona i huset inn og bad han utfyr dori til ein, som vilde tala med han. Han lagde pipa ifrå seg på bords-enden og gjekk. — Sveiv det so fyr han Tore, kvat han vilde gjera. Han hadde ein neve minekrut i lumma, som skulde voret til å ha” i lyklebyrsa. Detta tok han og trødde smått under hælen. (ok han so pipa, grov litt tobak utor og hadde krutet i og tobaket uppå att.
+   </p>
+   <p>
+    Då skulemeisteren kom inn att, gådde han inkjevetta.: Gutungen hekk yver boki .og rørde ikkje ein ledt Sette han seg so i høgsætet, kveikte pipa og gav seg til å puffa og røykja. Men han hadde ikkje teket rett mange dragi, fyrr det frøste or pipåa beint upp i syni på han. Pipa datt på golvet, og han slo båe henderne fyr det sotutte andlitet, der augnebrunerne var svidne. Gutungen på dør, det snøggaste han vann, og skulemeisteren etter, men nådde han ikkje.
+   </p>
+   <p>
+    Men skulemeisteren leit seg ikkje med det. Han tok hatten og staven og ruggad heim til
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    17
+   </p>
+   <p>
+    Ramndal i det lag, han var. Og han las rett upp fyr Tore, kvat farre til son han hadde.
+   </p>
+   <p>
+    Vesle Tore hadde aldri fyrr fenget juling hjå far sin; men no fekk han til gagns. Då faren hadde høyrt heila syndelista åt sonen, var han so ifrå seg av illska, at han visste ikkje, kvat han: gjorde. Han bankad han med ein staur. Og so væl vart det gjort, at ei lår-sén vart skamfari, so guten kunde ikkje tepa på eine foten.
+   </p>
+   <p>
+    Fyrste dagen etter låg Tore; men den andre var han uppe. Då kveikte han eld i grishuset, so det stod i ljos loge, og grisen vart so skam- sviden, at han laut slagtast.
+   </p>
+   <p>
+    »Gud fader veit, ka” da ska' verta tå denne gutungjen«, sukkad mori. »Berr ”an var væl sloppen fram fyr presten. — —
+   </p>
+   <p>
+    Kvat som gjorde det elder ei : etter det varpet med grishuset, tok guten seg vit til. Paå skulen vart han so stillfarande, at han ikkje var til å kjenna attt Og då han nådde so langt, han gjekk fyr presten, var han so stød som ein gamall kall.
+   </p>
+   </div>
+   <div type="chapter">
+    <head>
+     I1.
+    </head>
+    
+
+   <quote>
+<l>    Ingen kann vita, kvar haren han gjeng, 
+</l>    
+<l>    han hoppar so lett gjenom skogen : 
+</l>    
+<l>    Kjærleiken spør korkje mann elder dreng, 
+</l>    
+<l>    um fritt han fær leika i hugen.
+</l>   
+<l>    Tullen og tryllt vart so mangen ein svein, 
+</l>   
+<l>   når huldri ho lokkad i lidi:
+</l>   
+<l>    Gjenta kann gjera ditt hjarta eit mein, 
+</l>    
+<l>    som aldri vert godt her i tidi.
+</l>   </quote>
+   <p>
+    Ramndals-gjentorne var alle gifte. Snikkar- Ola'n laut ta den yngsta og fekk Træ-plasset; for han var komen henne væl nær, då han var der og panélad buda-lemen og sette inn nye stove- glas. Men dei andre var komne godt til det med jorder. — No var det då ikkje fleire av borni att heima enn han Tore.
+   </p>
+   <p>
+    Han var vaksen og tok til å få skjegg — ein liten. gul dusk på haka. Medels høg var han, herdabreid, men skrinn og knokutt, som han alltid hadde voret. Av andlit var han ikkje ljot, men det vantad mykjet på, at han var væn.
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    19
+   </p>
+   <p>
+    Kjakebeini og hals-senarne grein nokot mykjet, nosi var klumputt, og haka stod so undarleg avknepi ifrå hitt andlitett. Og den gule skjegg- dusken høvde han ikkje. ⁶
+   </p>
+   <p>
+    Det var vortet slik ein syngjar av han Tore. Var det eit lik, som skulde i jordi, laut aålltid han vera eine syngjaren. Alle dei tonar, som turvtest etter Kingo, kunde han, og fleire til. Han lærde seg dei sjølv på detta langspelet, dei kallar salmodikon. Og so hadde han Lindemann si koralbok. Båe deiler hadde han kjøpt i by'n fyrste gongen, han var med gjødslekalv.
+   </p>
+   <p>
+    Etter han fekk detta spelet, gjorde han ikkje annat heile sundagarne  og mange tider um vyrka med  enn gnikad på det. BSovoret var ikkje nokot fyr ein vaksen kar, totte folk; men når det kunde verta so fjerre til gagns, som det var der, fekk det endå vera. Einkvar laut kunna tonarne og, ellest vart det ingen lik-syngjar i bygdii Smeden på Bru kunde vera væl nok; han hadde god røyst, men var ikkje stød i tonen. Han Tore  det var guten, som var stød, det. Og slik ei røyst!l So rivande kvass, at du kunde missa høyrsla, stod du beint framfyr han. I kyrkja tok han tonen ifrå heile ålmugen, og når
+   </p>
+   <p>
+    ge
+   </p>
+   <!--end of page-->
+   <p>
+    20
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    han fylgde lik, høyrde du han radt ifrå Floti til kyrkje, endå det var ein god mole veg.
+   </p>
+   <p>
+    Det er vænt med fin song, sa' folk.
+   </p>
+   <p>
+    Og Tore stod høgt i bygdi fyr songen sin. Men ellest var han ikkje stort likadt Han var lettare av huglynde enn dei andre, gav kvasse svar og hadde ein svivyrdande lått. Det var helder ingen, han hadde nokot lag med, heldt seg mest åleina og var sprettande snar, når han gjekk eit ærend.
+   </p>
+   <p>
+    Meiningi var den, at det skulde verta par- folk av han og Sisela Klyve, systkinbarnet hans. Sisela var longe heimflutt. Det heitest, at ho skulde tena; dei hadde ikkje onnor tenestgjenta i Ramndal då. Men alle skynad meiningi, so det var ikkje nokot å tala um.
+   </p>
+   <p>
+    Det drog ellest ut, fyrr det vart brudlaup, og detta undradst folk yver. Gamlingarne för til å verta meir kruksne etter kvart, so det kunde turvast, det kom nye krefter til styret. Nokot til å drygja etter fyr dei unge, kunde det ikkje vera.  Og det var sant  soleids.
+   </p>
+   <p>
+    Men tingen var, at Tore hadde ikkje vidare smaul på å gifta seg, når det plent skulde vera med ho Sisela. For henne likad han ikkje. Han tolde snaudt sjå henne fyr augo. Og når dei
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    laut gå sida um sida på arheidet, visste han ikkje alle dei rang-ord, han vilde slengja til henne, elder alle dei prettor, han skulde hitta upp til å gjera henne til meins med. Ho, stak- kar, leit seg med det, for ho visste, det kunde ikkje nytta å kjæra seg. Og so var ho glad i han og  på ei viss For ho hadde fenget det i seg, ifrå ho var so stor, ho fekk ein grand vit, at dei var etlad i hop; hadde difyr aldri tenkt på nokon annan.
+   </p>
+   <p>
+    Nei, det var ei onnor, Tore likadi. EHo Magli Bakken — dotter hans »gamle Bøen«, underoffi- séren  det var slik ei fløgjay og henne hadde han alltid havt eit godt auga till, Han hadde aldri talat til henne, so han kunde ikkje vita nokot; men han ottast fyr, at ho ikkje brydde seg um han. Det var ikkje annat ventande. Det för so mange og smatt kring husnoverne i Bakken, at ho hadde nok å velja i — og det vænare karar enn han. Mest rædd var han denne korporalen ned i Bruosen, at han skulde reisa med henne. Det var slik ein støvar med klædes trøya og svart lippe-skjegg. Og kvinnfolki likar mest alltid »kongens karark. Han Tore var sloppen frii han — fyr dei tærne, som var
+   </p>
+   <!--end of page-->
+   <p>
+    vy
+   </p>
+   <p>
+   </p>
+   <p>
+    22
+   </p>
+   <p>
+    ihopvaksne. Som han ikkje skulde vera lIika god kar fyr det!
+   </p>
+   <p>
+    Når han tenkte seg Magli og Sisela på sida av einannan; elder såg den eina i stolen attum hi i kyrkja, vart han reint sår fyr bringa. Og livet låg so myrkt og kaldt framfyr han, at han snupt kunde ynskja seg under forva.  — Men so kvakk han av den tanken; for han hadde då slett ikkje hug til å døy.  Det fekk helder verta Sisela då.
+   </p>
+   <p>
+    Men kvifyr skulde han bry' seg um, kvat dei vilde heima? Dei hadde aldri spurt, kven han vilde ha', men sett det fast seg imillom, at det skulde vera Sisela. Var slikt rett? Det kom då mest han sjølv ved. Deira vilja var ikkje hans. Dei kunde vera foreldri hans lenge nok: tvinga han hadde dei ingen rett til. Han var vaksen kar og vilde rå' seg sjølv.
+   </p>
+   <p>
+    Og so gjekk han og drøymde um Magli, til han vart mest tullen, miste både mathug og arbeidsdug. Han spelad og song, seint og tidlegt. Mest gravsalmar med dei såraste tonarne, han kunde finna.
+   </p>
+   <p>
+    Gamle Tore undradst yver detta og kunde ikkje skyna, kvat som bilad sonen i det sista. Han skulde vel aldri vera »vakte«?
+   </p>
+   <!--end of page-->
+   <p>
+    12g
+   </p>
+   <p>
+    Mo'ri kunde ikkje tru so galett Han hadde ikkje haldet lag med bønefolk nokor tid, so slikt kunde smitta på han.
+   </p>
+   <p>
+    Nei, det var det, faren tottei men eitkvart vantad det guten, lét han og ristad på hovudet.
+   </p>
+   <p>
+    - Endeleg ein kveld tok Tore seg mann- skap till Han vilde ut og furda etter gjentorne, for det var gagnlaust å gå soleids, berre syngja salmar og tvitlast burt i vonlaus elskk Med det fekk han ikkje Magli,i um ho var aldri so motad. Det dugde ikkje ufreistate Spurde han ikkje framum, kunde han ikkje vita, anten ho vilde elder ei.
+   </p>
+   <p>
+    Han svintad heim dalen dei tider, gjentorne skulde stia kyrna og mjølka. Det var tidlegt på kveld, men myrkt fyr lenge sidan. Godt vedr, månemyrkt, med frosi mark. Iett å koma fram, kvar han vilde, og ingen kunde sjå han. Det kunde ikkje betre vera: Ingen turvte vita, kvar han hadde voret. Difyr sa han og heima, fyrr han gjekk, at han vilde åt Bruosen, til smeden.
+   </p>
+   <p>
+    So lett han var i hamen i kveldl Mest som han ikkje trong tepa på marki eingong. Han kjende seg so frihugad og so sterk. Laut veifta med armarne og gjera eitt og annat bykset  måtte plent bruka seg ei leids.- -
+   </p>
+   <!--end of page-->
+   <p>
+    24
+   </p>
+   <p>
+    Og so fekk han slik ein forgjord hug til å syngja. Ikkje salmar med seig og stød tone, men ei kåt visa. Ei kitlande lett, med elskhug i.
+   </p>
+   <p>
+    Men han kunde ingi visa: Og han torde ikkje helder. Song han, kunde einkvar høyra det og kjenna han på målet.  Han fekk helder finna på eit spikk. — — Hadde han berre visst eitkvart.
+   </p>
+   <p>
+    Jau, der var veg-pålen hans Ola Leite. Den skulde ba' fyre.  Han tok pålen upp, slo ho- vudet av han og sette det på trilt ned brotet imot elvii Pålen sette han nedatt i holeti men upp nedt. Då han det hadde gjort, för han burt- etter vegen, kryll av lått. Men han var snart åt Kroken og laut gå vislegt igjenom tunet, um einkvar skulde sjå han.
+   </p>
+   <p>
+    Det laut ha' eitkvart på seg med denima kjæta hans i kveld, tenkte han.
+   </p>
+   <p>
+    Og då han kom på detta, vart han ålvorleg og stød. Svært til fint vedr det var. Og so stilltt Han såg seg i kring.
+   </p>
+   <p>
+    Fjelll stod myrke på båe sidor av dalen; himmelen høgt uppe med glitrande stjernor i tusundtal, utan ein sky-tarve; midt i dalen elvi breid og still, sume stader blank som himmelen uppyver.  Han hadde ei uklår kjensla av, at
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    25
+   </p>
+   <p>
+   </p>
+   <p>
+    det var vænt; han kjende seg mjuk fyr bringa, og hugen til å syngja kom att. Men det var ingi meining i å syngja kring vegjerne; han var då ikkje ute og fylgde lik helder. Han laut læ åt seg sjølv.
+   </p>
+   <p>
+    Men so tok den tanken han: Fylgja lik — korleids kunde han koma på slikt! Det laut ha' eitkvart på seg. Og han vart mest fælen.  —  Kann henda han var feig. Han hadde voret so undarleg i det sista, havt ei uro i seg, ein otte fyr bringa, som låg og saug og ikkje vilde lata svevnen koma um kveldarne.  Nei, det kunde ikkje vera rimelegt! Både fa'ren og mo'ri var gamle folk, men livde med sterkt liv korso, og han var so ung. i
+   </p>
+   <p>
+    Slike tankart Og han 1o attt Han turvte helder tenkja på, kvat han skulde segja, når han råkad Maglii Men ellest var det vel ikkje so fårlegt:; han fann alltid på eitkvart. Det var verre, dersom han laut banka påt Då måtte han gjera seg eitkvart ærendet til »gamle Bøen«, kvat det skulde vera.
+   </p>
+   <p>
+    Då- han kom i Bø-tunet, gjekk dei med lykt åt fjoset der, so han kunde skyna, han var nett i måta tid.  — Sso bøygde han um lø'novi og tok snøggaste vegen. Bakka-husi stend til skjøns
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    ifrå Bø-tunet, upp under garden. For Bakken er plass under Bø.  Han hadde ikkje voret der fyrr, men det var ikkje vandt å vera kjend korso. Det var berre stova og løda i eitt, med kjellar under, og so eit stabbur.
+   </p>
+   <p>
+    Ho var i kjellaren hjå kyrna, ho Magli. Og då han hadde furdat ut, at ho var åleina, gjekk han beint inn og helsadt Dei var gamalt kjende etter skuledagarne og hadde råkadst sei- nare og nokre gonger.
+   </p>
+   <p>
+    Var det slik framandfolk ute og ruslad ? sa Magli; ho sat på krakken og mjøolkad.
+   </p>
+   <p>
+    Å ja  det var no so fint vedr, sa' Tore. Makalaust og det. — »E du åleina?c« spurde ho.
+   </p>
+   <p>
+    Ja, han var rett dett Han hadde voret eit ærend ned i Bruosen, og so kom han på, han vilde glytta framum, si han såg ljos i kjellaren og ottast, det var ho, som var der. Han hadde helder ikkje voret i Bakka-fjoset fyrr og totte, det kunde vera moro, det og, eingong.
+   </p>
+   <p>
+    Det var just ikkje nokot storvegjes stell. å sjå på der; det var ikkje just som i Ramndal, meinte Mangli.
+   </p>
+   <p>
+    »Da. e' fine kjyre, du heve, sa' han, og so godt dei e' i holdle
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    27
+   </p>
+   <p>
+    Ja, dei var ikkje til å kjæra yver. Og nyt- telegt gav dei bytta og.  Ho var ferdug med mjølkingi, reiste upp og sette krakken til leds.
+   </p>
+   <p>
+    »Du lyte fudla smaka Bakka-mjølki, si' da e' fysste gongense, sa' ho, turkad bytte-trømmi med handi og rette bytta til han.
+   </p>
+   <p>
+    Nei, ho skulde då ikkje  — orsakad han geg. Um han kom soleids vedrande, skulde ho aldri ansa han fyr det. Det gjekk ikkje an, sovoret.
+   </p>
+   <p>
+    »Drikk! — gjer so! — berre du hev brjost fyr spena-varm mjølk; d' e' 'kje adle, so&gt; hev nattur på 'ne.«
+   </p>
+   <p>
+    Jau, det var just ikkje fyr den deil.  Og so tok han imot og drakk  so mykjet, han vætte lipporne.
+   </p>
+   <p>
+    »Du må søkja di lyste, sa' ho, »og ikkje plenta deg soleids. «
+   </p>
+   <p>
+    Det var uventande detta, at han skulde koma åt Bakka-fjoset og drikka mjølk, let han. Og han trudde mest, det var den einaste gongen, han hadde drukket spena-varm mjølk hjå gjen- torne  So drakk han ein sup til og takkad fyr seg. !
+   </p>
+   <p>
+    Magli lo litt. — Han var nok vorten svært stadig, etter han vart vaksen. Det var nokot
+   </p>
+   <!--end of page-->
+   <p>
+    28
+   </p>
+   <p>
+    annat dei tider, han gjekk i skulen. — — »Men da e' rart med da, når dei e' komne so langt, at dei ska' forandra seg«, sa' ho.
+   </p>
+   <p>
+    Det var rett ikkje vitet i vegen  dei tider. Han lo med, endå han kjende seg nokot ustød av det sista, ho hadde sagt. Og so spurde han, kvat ho meinte med det »å forandra segs.
+   </p>
+   <p>
+    Jau, det lyddest då so, at Sisela longe var heimflutt.
+   </p>
+   <p>
+    Dei rørde um so mangt ut i bygdi; det var ikkje alt sætande, meinte han. — —
+   </p>
+   <p>
+    Attum kjellardøri stod ku-stamparne tillagad til morgons med høy og halm ii Medan Tore lagde ut um, at det inkjevetta var i drøset um han og Sisela, fekk han laga det soleids, at dei kom til å sitja på kvar sin stlamp. Og då stamp- arne stod tett i hop, og Tore sette seg på kanten af sin, vart di sitjande so nær einannan, som det var råd med. Eine armen hans låg kring livet hennar, og dei drøste so reint hyggjelegt ei heil æva. Ikkje um nokot sers; berre slikt laust prat um kjenningar, som skulde ha' einannan.
+   </p>
+   <p>
+    Kola hekk i ei vidja under midtarste bjel-  ken og sende ein ustød ljoske ut i kjellaren; det vart nett måta dimt. Upp i stova surrad ein
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    29
+   </p>
+   <p>
+    rokk med fælt-brak, so golvet dirradt Kyrna knaskad og åt, og katten sat burti myrknet i ei krå, glodde fram med tvo gloande augo og 1mol.
+   </p>
+   <p>
+    Tore hadde aldri havt ei so hyggjeleg stund som i kveld. Det varde berre so litet. For det var ikkje lenge, fyrr Magli sa', ho launt upp og sila mjølki, ellest kom mo'ri og leitad etter henne. Då torde ikkje Tore hefta henne lenger, bad væl fara og gjekk.
+   </p>
+   <p>
+    Kor kipen han var!l Um han hadde fenget heila bygdi til gjevings, kunde han ikkje voret kipnare.
+   </p>
+   <p>
+    Då han kom heim, var han so praten, at dei andre laut reint undrast. Og til kvelds hadde han slik ein mathug, at han mest ikkje gådde, det var sild og sur mjølk, men lagde i seg, so det var ei bisn.
+   </p>
+   <p>
+    x7 Den eine gongen drog fleire etter seg. Tore fekk svært ofta ærend nede i dalen. Heima skuldad han snart på eitt og snart på annat.
+   </p>
+   <p>
+    Men det var ikkje lenge, fyrr det spurdest ut i bygdi, at han gjekk etter Magli Bakken. Sume totte, det kunde vera måta, um Ramndals- folket laut taka heim ei husmannsgjenta: Men andre vart forargad yver detta, at Tore gjekk til ei onnor, når den retta longe var heimflutt.
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    g
+   </p>
+   <p>
+    Dei lagde vondt i vegen i Bakken og gjorde »gamle Bøen« so sinnad, at han lovad alt il, dersom dotteri fjasad meir med Tore og ikkje skyssad han ifrå seg, med' tidi var god. Og av di gamlingen vilde vera reint sikker, sende han kona i veg til å stia beisti um kveldarne. Ho Magli laut sitja inne og surla på rokken.
+   </p>
+   <p>
+    Soleids gjekk det til, at næste gong Tore kom og glytte på fjosdøri, fekk han den skitne sopling-stratten i andlitet, so gule reikjorne stod etter. - Det var gjestebodet den kvelden.
+   </p>
+   <p>
+    Han vart håde harm og mødd, kunde ikkje skyna sliktt Men det var ikkje lenge, fyrr han fekk vita, korleids det hekk i hop. »Gamle Bøens kom eins ærend åt Ramndal og greidde ut fyr gamlingen der, at han vilde ikkje ha' nokot flog på dørerne av halvgifte folk. Magli Bakken var ikkje so i vande um friarar, at ho turvte sleikja seg etter Tore, som longe hadde fenget ei onnor heim.
+   </p>
+   <p>
+    1 Ramndal vart det ein heil uppstyr av detta. Men det gjekk stillt — so stillt, at det ikkje spurdest på Klyve eingong.  Tore baud pynten. Han vilde korkje ha' elder sjå Sisela, aum han so skulde gå sveinkall all sin dag.
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    31 Um han då hadde nokot å segja på gjenta ? Nei, ikkje nett det: men han likad henne
+   </p>
+   <p>
+    ikkje; han var ikkje glad i henne.
+   </p>
+   <p>
+    Var det nokot å tala um? meinte gamling- arne. Hadde han ikkje andre grunnar, stod det ikkje på. Men kann henda han var — var nøydd til å taka Magli ?
+   </p>
+   <p>
+    Nøydd? — Nei visst var han ikkje nøydd; det var:ikkje so væli  —.
+   </p>
+   <p>
+    Han grét den kvelden, han Tore  både av møda og illska. Skulde han verta trugad til å gifta seg med Sisela, var lukka hans all her i verdi, totte han.
+   </p>
+   <p>
+    Men dei skulde ikkje få han till Aldri! — kor mykjet dei lagde seg ut um det. Han var so vaksen no, at han vilde rå' seg sjølv i sovoret.
+   </p>
+   <p>
+    Han grundad mykjet på, korleids han burde stella seg. Skulde han drygja og sjå seg fyre? Elder gå beint til gamle Bøen og be um dotteri? — — 5&amp;o galen Bøen var no, vilde det vel litet nytta" Og det var helder ikkje visst, kvat Magli sjølv meinte. For han hadde voret so nauten, at han aldri kom seg til å segja ut meiningi sii Han hadde rett sleget fram um, at ho skulde vera gjenta hans, men nokon lovestad
+   </p>
+   <!--end of page-->
+   <p>
+    var det ikkje vortet till Kor han tregad på, at han ikkje i tidar hadde gjort ålvor av det!
+   </p>
+   <p>
+    Um han freistad skriva?  Han var ikkje nokon kar med pennen; men eit friarbrer kunde han vel alltid maksla i hop so fjerre, at ho skynad meiningii Men korleids skulde han fara åt, so han fekk det til henne, utan det kom i gamlingen sine klør?  Bøen var ikkje god å lura. Og fekk han tak i, det var komet brev til dotteri, vilde han fulla ha' visdom um, kven
+   </p>
+   <p>
+    "det var ifrå; og få fat i det.
+   </p>
+   <p>
+    Det var vel best å tal med henne. Når han vaktad væl på, måtte det lukkast, trudde han. Og han fekk mange ærend heim dalen att -— endå fleir, end han hadde havt.
+   </p>
+   <p>
+    Dei grov og spurde. Mo'ri mest; men han gjorde ingen klok på, kvar han för. Han kom shart att, svarad han berre. Og var han i versta ulaget, kytte han, at det skilde ingen, kvar han skulde.  Det var alltid på sama tidi um kveldarne, so ein kunde mest ottast, kvat han gjekk etter. Men foreldri torde ikkje segja nokot; han var vorten so uvisleg i svari, at det var, som han vilde bita.  — So var dei og mest vane til å tegja i Ramndal  gå og mukka og ikkje tala utt Dei hadde alltid stygg til ei
+   </p>
+   <!--end of page-->
+   <p>
+    383
+   </p>
+   <p>
+    uppgjerd. Vardet eitkvart ubeint, vilde dei helst, det skulde jarnnast av seg sjølv.
+   </p>
+   <p>
+    So lenge för han og larkad og lurrad kring Bakka-husi, til han endeleg ein kveld råkad Magli; ho var åt bekken etter vatn.
+   </p>
+   <p>
+    Det var ikkje .lang stundi, han rødde med henne. Men han fekk då segja, kvat han vilde.
+   </p>
+   <p>
+    Nokor god trøyst gav ho han ikkje. So lenge Sisela var i Ramndal, kunde han ikkje annat venta, enn folk trudde, ho var heimflutt fyr ålvor. Skulde ikkje Magli tru, han berre för med narri, laut han skyssa den andra attende til Klyve. Ei onnor tenestgjenta kunde det ikkje vera vandt å få; det var nok av dei, som baud seg, når det spurdest, dei vilde ha' eit. Og so fekk han tala med gamlingen.
+   </p>
+   <p>
+    Med det gjekk Magli.  Klask, klask, sa” vatnet på steinarne; ho skumplad byttorne, so ho spillte. Han gløymde reint å spørja, kvat fyr ein gamling ho meinte. Ho hadde voret so stutt på det; ikke just som fyrr. Det stod mest som ein kald gufs av henne.
+   </p>
+   <p>
+    For ein tosk!  for ein tosk han hadde voret, som ikkje stellte seg onnorleids, med' tidi var godl No kunde han ha' det so godt.
+   </p>
+   <p>
+    Han kunde ikkje skulda berre på andre, for JENS TVEDT: NYBROT. 3
+   </p>
+   <!--end of page-->
+   <p>
+    - å gnaula fyri⁸ .7
+   </p>
+   <p>
+    han hadde voret so mange gonger i Bakken, at han kunde havt høve til mangt.
+   </p>
+   <p>
+    Det kom no ei tid med myki grunding og range svar. Og huting av Sisela. Alltid var bo i vegen; aldri gjorde ho han til lags. Var det sprunget eit band på ei bytta elder ei kolla, so hadde ho ikkje boret seg skikkelegt åt, men anten slept dei i golvet elder skjåtlat i koll i bekken. Kvifyr kunde ikkje ho gå som eit annat menne- skje og ikkje skjoltra, som ho skulde vera full i eino?  Kunde ho ikkje sjå seg fyre. og ikkje gå og glåpa etter månen i middagsstad? Gjekk ho ikkje der so stiv i nakken som ein kongens kar og glodde app i skyerne!l Ho fekk ha' tan- karne med seg og ikkje berre drøyma um hjå-sveve og gifting, når ho. hadde annat å gjera.  - Og han sa' det; som verre. var. Han kunde vera reint utoen: — ette ho ei bot på broki hans elder bøtte'eit hol på sokken, liknad han det til alt slag; og ho laut meir enn ein gong gjera det uppatt, fyrr. han. leit seg med det.  Kokad ho grauten, var det vatssmak på han. Og soleids med .alt. Inkjevetta dugde ho til, men alt skulde.- ho gjera, so han kunde ha' nokot -til
+   </p>
+   <p>
+    ".: .Nokre. gonger. slo han fram med. mo'ri um,
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    ¹g5
+   </p>
+   <p>
+   </p>
+   <p>
+    at dei fekk høyra etter ny tenestgjenta; han totte, ho Sisela ikkje gjorde likt fyr seg. ; Men morri berre små-lo og meinte, han hadde s fjerre vit på kvinnfolk-arbeid, når haii kunde tala so. Dei kunde aldri få likare gjenta i huset. Sisela kunde ho lita på, som det var henne sjølv. Og det var meir, enn ho kunde segja um dei gjentorne, ho fyrr hadde havt.  Ellest fekk han tala med fa'ren; ho vilde ikkje ha nokot med sovoret, mo'ri.  —
+   </p>
+   <p>
+    Alltid var det desse gamlingarne!
+   </p>
+   <p>
+    Kvar han kom, skulde han snåva i dei. So var det i Bakken, og so var det heima. Gam- lingarne skulde rå', anten det kom dei ved elder eii  Heima vilde fa'ren prakka på han eit kvinnfolk, han hatad som pesten; i Bakken sat gamle Bøen og lagde ilt i vegen hjå Magli. BEin kunde verta vond av minder.
+   </p>
+   <p>
+    Og det låg som eit dult ynskje hjå han, at desse meins-krokarne skulde leggja augo att, so han kunde få gjera, som han vilde.  —
+   </p>
+   <p>
+    Sume tider, når han var altfor leid, tenkte han på Amerika.: Um hugen hadde voret til det, kunde det ikkje vortet korso, for det stod på skilingarne; han åtte ikkje nokot sjølv.
+   </p>
+   <p>
+    Men ellest vilde ikkje hugen koma. Det var so 3
+   </p>
+   <p>
+    )
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    36
+   </p>
+   <p>
+    undarlegt å tenkja — til å vera ein annan stad enn i Kvanndalen. Og um han fekk det. aldri go0 vondt der, kunde han ikkje tenkja seg det betre andre plasser. Bygd og bøle, voner og vane  alt batt han åt heimbygdi.
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   </div>
+   <div type="chapter">
+    <head>
+     III.
+    </head>
+    <quote>
+    
+<l>    Høgt er til himmels 
+</l>    
+<l>    frå heim hernede; 
+</l>    
+<l>    tunge vert tankarne 
+</l>    
+<l>    i tronge bygder. 
+</l>    
+<l>    Skyerne skyggjer 
+</l>    
+<l>    fyr soli tidast;
+</l>    
+<l>     seige gjeng salmarne 
+</l>    
+<l>    i stille kvelden.
+</l>   </quote>
+   <p>
+    Kvanndalen er trong og myrk. Fjelli kjem tett innpå, gjeng bratte upp og stend høge på båe sidor. I høgdi er dei nakne og grå; sume stader er det berre blåa berget, men lenger
+   </p>
+   <p>
+    nede fine bjørkelider og grøne grasbakkar. Sol-
+   </p>
+   <p>
+    gangen er liten. På mange av gardarne er det fleire vikor midtvetters, som dei ikkje fær ein glytt av solaugat.
+   </p>
+   <p>
+    Igjenom dalen krøkjer ei stor elv seg fram. Når ho hev teket imot alle bekkjerne or liderne nedetter, gjeng ho ut i fjorden; han ligg der so myrk og innestengd som eit fjellvatn  i god- vedr, men gjeng med kvite skavlar og rokhestar,
+   </p>
+   <!--end of page-->
+   <p>
+    38
+   </p>
+   <p>
+    når vindflagorne kjem dettande ned or ffjelli. Den, som hev sét Kvanndals-elvi, fyrr ho kjem til dals, skulde ikkje tru, det var den sama. Der uppe er ho reint som ein villstyring, kjem brjotande kåt og kvit og kastar seg utfyr hump og hamar, so roket stend høgt til vedrs; men ned i djupaste dalen, etter ho hev fenget i seg den. vesla Øygards-elvi, sig ho stød og still og veit ikkje, kor fin og bljug ho vil vera.
+   </p>
+   <p>
+    Det er tunglynde folk i Kvanndalen. — Ungdomen samlast aldri til dans elder leik. Slikt er berre som segner ifrå gamall tid; no er det ukjende ting. Kjem folk saman ei kveldsstund elder ein sundag, so er det »guds-ordet« dei hev fyr seg. Song kann ein ofta høyra; men det er tunge salmetonar, som gjev otte fyr bringa og minner um likferd.  Det er mykjet bønefolk i bygdi.
+   </p>
+   <p>
+    Og so hev det voret lenge. Lika sidan Hans Nilsson Hauge sine dagar hev det voret vakte folk i Kvanndalen.
+   </p>
+   <p>
+    Nett nokot sers liv vart det ikkje kring dei fyrste. Einkvar sundagen, når det ikkje var preika med kyrkja, heldt dei »samling« på ein av gardarne. Litet folk møtte, og stillt gjekk det. Hadde dei voret samlad um ordet ein times
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    39
+   </p>
+   <p>
+   </p>
+   <p>
+    tid elder tvo, skildest dei og gjekk kvar til sitt lika stillt, som dei var komne. :
+   </p>
+   <p>
+    Men den tid, me her talar um; vart det onnorleids: Det gjekk eit slikt »pinstid-vedr yver Kvanndalen, at det var, som alt stod på ende. Bønemøter og samlingar, der det gjekk hardt fyr seg med skrål og skrik, høyrde dagen til  og natti med.
+   </p>
+   <p>
+    Folk för, som dei var galne, ifrå gard til gard dalen til endes i store flokkar, gråtande, syngjande, bedande. Mest ungdom — gutar og gjentor i tjugeårs-aldren og nygifte konor. Alle talad dei um den barnetrui, dei hadde mist, um kor store syndarar dei var, og korleids dei hadde spillt nådsens tid i satan si tenesta. So store syndarar som dei fanst det ikkje på Guds grøna jord; fyr dei kunde det aldri vera nåde å vona. —  Og so ylte dei himmelhøgt av fælenskap yver den enden, dei kunde venta seg: at dei skulde verta brende i all æva, aldri sleppa ut or »den forfærdelige pøl og pine«, som var tillagad åt djevelen og hans englar. Og dei uvitad og var ifrå seg longe stunder.
+   </p>
+   <p>
+    Men hadde dei havt ei elder tvo sovorne rider, vart dei vislegare.. Dei kjende »nådens
+   </p>
+   <!--end of page-->
+   <p>
+    40
+   </p>
+   <p>
+    yver seg og song salmar til æra åt lambet, som var slagtat fyr deira skuld.  —
+   </p>
+   <p>
+    Det var ein sers nåde yver Kvanndalen den gongen. Vaårherre hadde sendt ein framifrå reid- skap til å fanga sjæler. Ellest var mannen skomakar.
+   </p>
+   <p>
+    Den tid han var ein syndsens træl, hadde han freistat nokot av kvart og kunde tala med kjennskap um alt det vonda, som regjorde i eit »natturlegtk menneskje. Etter det, han sjølv sa', fanst det ikkje den ukjurskapen til, som han ikkje hadde voret upp i. Han fortalde det alt i hop, dulde ikkje på nokott For det synte so klårt, korleids vårherre drog eit menneskje, til det fekk augo upp og kunde sjå, at det bar lukt åt helvite på slik vis.
+   </p>
+   <p>
+    Slike gåvor han hadde til å leggja ordet ut! Det var, som du såg gloande logen kring deg såg, korleids djevelen grov upp i alle desse brandarne, som aldri skulde verta uppbrende, aldri sleppa ut or eldmørja. g
+   </p>
+   <p>
+    Og slik røyst og armalag! Svpveiten silad og rann, skrauven gjekk um munnen, augo stod som naglar i hausen på han; men han vyrde det ikkje, slo med armarne i lufti og klaskad med flata handi i bibelen, so det small, Han
+   </p>
+   <!--end of page-->
+   <p>
+    41
+   </p>
+   <p>
+    såg inkje, høyrde inkje, endå det ylte og skreik kring han, jamrad og bad; han klemde på sitt sama. Mange fekk ilt og laut utberast, for slik skuring var ingen van med; dei, som ikkje fekk ilt av preikingi hans, fekk det av hiten og den kvevande eimen i dei tettstappad romii Det var, som ein vilde kovna av sveiteluft, litluft av klæde og allslags onnor luft.
+   </p>
+   <p>
+    Når det skulde vera samling ein annan stad, fylgde dei etter han mest heile flokken; vilde ha' meir, meir. Og dei fekk meir. Alltid av sama slaget, på same måten, med sama målet.
+   </p>
+   <p>
+    Gardarne imillom var det syngjing og beding. Kvinnfolki livde etter apostelen og talad ikkje i »forsamlingik. Men ute på vegjerne stod dei upp og »bekjende &amp;: låg på kné og heldt lange, jamrande »bøner«, lagde ut fyr vårherre, kor forfælande låkt slag det var i alle desse menne- skjeborni hans, og lærde han, korleids han skulde kverka og mala dei, til dei vart so små, at han kunde handsama dei som inkjevetta og laga nyttige kjørøld utav dei:  — —
+   </p>
+   <p>
+    Skomakaren sa', at no gjekk det etter profe- ten sitt ord, når han segjer, at sønerne og døt- terne skal ha' syner og profetera: For det var rett dei, som såg syner og. Og endå fleir spådde
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    h)
+   </p>
+   <p>
+    42
+   </p>
+   <p>
+    um alle dei syndsens strafltedomar, som skulde koma. yver jordi, dersom ikkje folk vende um og »klædde seg i sekk og oska just som Ninive, den store staden.
+   </p>
+   <p>
+    Og dei umvende seg.  Kvar dag vart det fleir, som hadde voret med og étet av feite- kalvene. Det var mykjet snakk um å ha” voret utanlands og rotat med svini, men smakat feite- kalven, etter dei kom heimatt.
+   </p>
+   <p>
+    Det fanst ikkje gard i dalen, utan der vart vakt ein elder fleire* So nær som Ramndal — der vilde ikkje ordet bita på. Ingen ventad det med gamlingarne, for dei var kruksne og heldt seg heim i dørerne; men han Tore, som gjekk i samlingarne tidast, var det reint eit under med. Han var lika- verdsleg, som han hadde voret, slengde spit-ord etter bønefolket og talad ikkje væl um dei. I samlingarne gjekk han, berre fyr di han kunde få sjå på gjentorne  sa' han sjølv —, heldt seg burt i krærne og sat og små- flirde, når skomakaren dundrad mest på. Og det hende ein gong, at han lo høgt. Det var, då skomakaren med det fælaste mål, han åtte, og ein dugeleg klask i bibelen skreik ut yver flokken, at hjå dei kvite, var djevelen svart og hjå dei svarte kvit.
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    43
+   </p>
+   <p>
+    Nei — det  tvieggjad sverdet beit ikkje på Tore, endå skomakaren meir enn ein gong siktad beint på han og trudde, han skulde kløyva -den gamle adamen«.  Men fyr kvart hogg vart Tore berre hardare. Han skynad, det var etlat åt han, og hadde ei meining um, kven som hadde leset i skomakaren. No gjekk han i sam- lingarne berre på tråss.
+   </p>
+   <p>
+    Han var galen vorten .på. bønefolkett Det var deira skuld, at han miste all von um å få Magli Bakken. For no var Magli og vakt. Og so gudeleg var ho, at ho visst ikkje vilde ha ein slik som han. Ho såg ikkje eingong til leds, um han strauk seg aldri so nær fram med henne, men flaug berre etter skomakaren  just som alle hine kvinnfolkiti Men då han fekk høyra, at skomakaren ei heil natt hadde leget på kneé framfyr sengi hennar og bedet, med' ho hadde andfektingarne,  då ynskte Tore, at han kunde gjera eitkvart ilt med han.
+   </p>
+   <p>
+    Og han hatad skomakaren og Magli og bøne- folket, so mange dei var. !
+   </p>
+   <p>
+    — Men snart reiste skomakaren og skulde fanga sjæler andre stader. Då vart Snikkar-Ola n, Ramndals-mågen på plasset, fyremannen åt dei vakte. Han var ein av dei, som fyrst tok til å
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    g preika. Og då han hadde gode gåvor med det, kunde han snart skura på likso gildt som sko- makaren sjølv; det var berre det sterka målet og armalaget, som vantad.
+   </p>
+   <p>
+    No var han Ola vorten yppersteprest, sa' verbro'ren i Ramndal og gav han ein og annan gletten, når det høvde so, at dei råkadst. Og det gjorde dei ofta, for han Ola vilde gjerna sjå verbro'r sin »frelste.. Kor mykjet han hadde til å dragast med heima  kona hans stridde endå imot —, kunde han ikkje rolegt sjå på, at Tore turad fram på spottarvegen Kunde han bøygja Tore, vilde det kann henda ogso draga etter med ho Karii Og so kunde dei få gamlingarne med. —  Det skulde vera so vænt, um alt Ramndals- folket vart »frelstk og fekk fylgjast på den tronge vegen.
+   </p>
+   <p>
+    Snikkar-Ola'n var ikkje nokot flogvit; men han kunde gå igjennem eld og vatn, når han trudde, det var rett. Han hadde eit einfeldt hjarta, som ikkje åtte rom åt meir enn ein ting um gongen. I trui var han bergfast, so ingen skulde rikka han der. Då han fekk kona si og næraste folket sitt imot seg fyr bøneskapen, vart han glad. Motburd høyrer til fyr den truande
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    og skal vera til å styrkja han. Og han Ola visste, det var etter ordett at kristendomen skulde setja split og vondt imillom folk.
+   </p>
+   <p>
+    Samlingar hadde det aldri voret i Ramndal fyrr; dei hadde ikkje viljat havt det styret. Ein dag, han Ola var eit ærend på garden, spurde han gamla Jorrid, vermo'r si, um ho ikkje hadde hug til å høyra eit litet guds-ord ei kveldsstund.
+   </p>
+   <p>
+    Det kunde visst ikkje vera for mykjet, totte ho, for ho var væl kruksi no til å taka på seg den lange vegen til kyrkje. Og heima vart det litet set i ei bok; Toreman var so klén på syni no, at det vart ikkje meir enn »vanijiljac, han vann yver um sundagen.
+   </p>
+   <p>
+    Um han då skulde senda bod um samling i Ramndal ein av dagarne?
+   </p>
+   <p>
+    Ja, vermorri visste ikkje nokot å segja. Han fekk høyra med ein av Torarne, trudde ho.
+   </p>
+   <p>
+    Ola'n råkad verbro'ren i vedskytja, der han stod og makslad på ein slede, som skulde lappast. Han signad arbeidet, sette seg på ein kubb-ende og gav seg i prat med Tore. Og då dei hadde rødt eit bil um vedret og sleden og slikt burt- etter, slo han fram um samlingen.
+   </p>
+   <p>
+    Tore var åt og vilde gjeva eit speande svar, men tenkte seg um med sama.
+   </p>
+   <!--end of page-->
+   <p>
+    46
+   </p>
+   <p>
+    Jau, sa han. Det kunde visst laga segmed* det. Det var ikkje for mykjet, um dei lét hus til ein gong i Ramndal og.
+   </p>
+   <p>
+    Det var snildt, totte Ola og vart kipen. Gamla hadde nok og hug til å høyra eit litet :ord, etter som han hadde skynat, sa' han.
+   </p>
+   <p>
+    Ventande det, meinte Tore og var so visleg, åt det var ikkje ein flir å sjå på han.  Ein kunde mest trutt, det tok til å skapa seg med han no. Men sanningi  var, at han stod reint i andre tankar, so han med naudi høyrde,; kvat hin sa. Det hadde svivet fyr han, at han der i samlingen fekk høve til å råka Maglii Han hadde ikkje so godt som sét henne no, sidan skomakaren reiste, for han var sluttad gå i sam- lingarne, etter det berre vart Snikkar-Olan og Vollaren elder einkvar andre slike, som preikad. Sinnet på Magli hadde gjevet seg, då skomakaren foör.
+   </p>
+   <p>
+    »Eg tykkje, du Tore sku' lesa eit lite guss- ord åt folkje ditt ein gong imydlo«, sa'” Ola'n. Det var ikkje so godt fyr dei, stakkar, kruksne som dei var. Ikkje kom dei stort i kyrkja, um det hadde voret nokot til å høyra fyr dei der, og aldri var dei god til å grava seg åt ein sam- ling helder.  »Du gjor' ein god gjerning, um du las litt. Og godt kunde du ha' av da sjølv
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    47
+   </p>
+   <p>
+   </p>
+   <p>
+    og. Ordet skal aldrig vænde tomt tilbage, og gussfrøkt ær nyttig tel alle teng, som skrevet står.
+   </p>
+   <p>
+    Det var visst eit sant ord, det, lét Tore. Men dei kunde ikkje alle ha' slike gåvor som Snikkar-Ola'n til å dyrka. lestren.
+   </p>
+   <p>
+    Han Ola tottest sjå ein glytt av den gamle adamen i augo hans Tore og tenkte, det var ikkje verdt å driva naglen lenger, enn han gjekk. Han fekk vera glad, det var komet so langt, at det kunde verta samling på garden. Slapp fyrst ordet inn, kom det vel til å verka og, vilde han vona.
+   </p>
+   <p>
+    Samlings-kvelden kom.
+   </p>
+   <p>
+    Tore hadde annsamt med å finna til rettes bord og benkjer, for det kom ei old med folk. Ikkje berre den stora stova, men koven og gongen var stappande fulll Det skulde sessar til alt detta, og sveiten tippad av Tore, endå han hadde kastat både trøya og vesten. ⁸ig
+   </p>
+   <p>
+    Men. det för væl alt saman. For Maqli var komii Han hadde råkat henne utfyr døri, og ho hadde helsat  upp i handi!
+   </p>
+   <p>
+    Det måtte tyda eitkvart. Og han kjende seg so bibrande lett fyr bringa, at då salmen vart songen, tok han tonen ifrå dei alle, just som i gamle dagar,- og song so vænt, med slik ei kjensla,
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    48 at alle laut undrast og sjå på han, der han stod i skjurte-ermarne og studde seg uppetter beiteskide, Lampen skjein han beint i andlitet, med' sveite- droparne rann mest som tåror nedetter, hekk ei stund og dirrad i skjeggtopparne og draup so ned på vesten  ei etter ei.
+   </p>
+   <p>
+    Og Snikkar-Olan takkad vårherre med ein lang sukk, fyrdi det byrjad dra' etter med han Tore. For det kunde ikkje vera annat enn »nåden«, som var åt å få tak i han. Han preikad soleids den kvelden, han Ola, at dei hadde aldri høyrt han likare. For no kjende han seg so viss i voni, at det eingong skulde ljosna i Ramndal og.
+   </p>
+   <p>
+    Samlingen varde langt utyver kvelden. Det var mange, som hadde »nokre ord på hjartatse, og alle tøygde dei det langt utt Men mest Vollaren. Det var ikkje fritt, sume var misnøgde med dei lange »bønerne hans, men kunde ikkje segja nokot helder.  — Heitt og kvelt var det i stova, so ein mest ikkje kunde anda, endå ljoren og dørerne stod opne. Ute var det stjerne- klårt og kaldt. Eimen, som för upp igjenom ljoren, vart til fint yr, ringde ned yver dei, som sat under, og lagde seg som dogg på håret.
+   </p>
+   <p>
+    Det lettad fyr bringa på mangekvar, då han
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    49
+   </p>
+   <p>
+    Ola endeleg nemnde, at dei til »beslutning skulde syngja Lov og takk. Den var då ikkje meir enn tvo vers, og dei kunde han »utantil«. —
+   </p>
+   <p>
+    Då det leid på slutt med sista verset, smatt Tore ut og fekk fat i trøya si og hatten. Han gjekk attfyr stabburs-novi, gav seg til å stå der og vilde freistaj um det kunde verta høve til å råka Magli.
+   </p>
+   <p>
+    Flokk etter flokk gjekk fram med. 8So ein  og tvo og ein flokk att Men Magli var ikkje å sjå.
+   </p>
+   <p>
+    På resten trudde han mest, ho måtte vera gjengi fram under — igjenom séki. So 1jost det var, skulde han kjent henne, um ho hadde voret med i ein av flokkarne.
+   </p>
+   <p>
+    Gjekk han so fram fyr novi og vilde inn; han laut fulla hjelpa til og få ut att benkjerne, tenkte han.
+   </p>
+   <p>
+    Då høvde han Magli, og ho var åleina.
+   </p>
+   <p>
+    Gløymde var benkjerne og alt annatt Han snudde og fylgde henne nedetter vegen. Det var ikkje likt til, at ho mislikad det, og han vonad det besta.
+   </p>
+   <p>
+    Dei rødde um preika åt Snikkar-Olan. Båe totte, han talad godt. Tore sa' endå til, at han hadde ikkje ventat det so fjerre på ng veg;
+   </p>
+   <p>
+    JENS TVEDT: NYBROT.
+   </p>
+   <!--end of page-->
+   <p>
+    50
+   </p>
+   <p>
+    men han hadde no helder ikkje høyrt han stort fyrr.
+   </p>
+   <p>
+    Spurde ho då, kvifyr han so lenge ikkje hadde voret i samlingarne.
+   </p>
+   <p>
+    Han visste mest ikkje, kvat han skulde svara. Endeleg sa' han, at det var visst ikkje rett å gå, når ein ikkje hadde meir hugnad av samlingarne enn han.
+   </p>
+   <p>
+    »At ikkje or'e sku' få bugt med deg, Torele
+   </p>
+   <p>
+    sa' Maglii »Du kann ikkje tenkja deg, kor godt da e' å vera frelst. Ein veit ikkje, ka' da e, so lenge væri rår med ein.  Der går ein i syndige tankar og begjæringar dag og natt og gløyme, at kvar stund kann vera den sista. Skunda deg, Tore, og søk nåden, fyrr da e' for seint!e
+   </p>
+   <p>
+    Ho stoggad og stod med henderne hektad framfyr han.
+   </p>
+   <p>
+    »Søgar Harren, medens han findes; kaldar på ham den stund, han ær nærl« sa' ho i preike- tone, lyfte henderne upp fyr bringa og såg til himmels.
+   </p>
+   <p>
+    Tore stod reint klumsad og visste ikkje, kvat han skulde segja.: Detta kom på tvert fyr han. Korleids skulde han no krøkja det til, so dei kom burt på det, han hadde hug til å tala um ?
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    51
+   </p>
+   <p>
+    »Kunde ikkje du hjelpa meg?4 spurde han.  Ingen hadde slik magt yver han som ho. Stod det ikkje i ordet, at dei skulde bera byrd- erne åt einannan? — Han kunde verta eit annat menneskje, berre ho vilde stydja og rettleida han.
+   </p>
+   <p>
+    Ho skulde be"' fyr han, sa' ho; men då flirde Tore; han trudde ikkje, det vilde hjelpa stort på den måten.
+   </p>
+   <p>
+    Då vart ho streng.  «Du skal ikke holde kjød for din arm, Tore!l Eg trur 'kje, du meina da rett med denna hjelpi, du (tala um. Da e' berre kjødets begjæringar, so' får deg te' tala so.  = Bror og syster i herren skulde dei vera, men båe Jesus si brudr. Hadde han andre tan- kar, måtte han slå dei ifrå seg. Kvat skulde dei annat syta fyr i denna verdi? Her var dei framande og pilegrimar, men den rette heimen var i himmelen. Og skulde det vera von um å nå væl heim, fekk ein krossfeste seg sjølv. Det var vel ikkje smakelegt fyr kjøt og blod; men heldt ein ut til enden, fekk han og løni fyr det.
+   </p>
+   <p>
+    E' du go te' gje' væri so reint ifrå deg, du Mangli? «
+   </p>
+   <p>
+    »Jæg formår alt i Kristo, som gjør mig starke, sa ho. Vel ved jæg intet med mig sælv,
+   </p>
+   <p>
+    men Gud ær den, som mig dømmar, segje ; J )
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    52
+   </p>
+   <p>
+    apåsteln. Gje me adle kunde segja da sama.« Ho sukkad.
+   </p>
+   <p>
+    Det lyddest mest, som ho ikkje radt hadde reint mjøl i hiti, totte han Tore og tenkte, det kunde ikkje ska' stort, um han gav henne ein glett um korporalen.
+   </p>
+   <p>
+    «Når da no kom ein skjikkele støvande kar — med dyffels trøya og svart skjegg på yve mu'n  trur du, du kunde skjyss' 'an ifrå deg då?«
+   </p>
+   <p>
+    »Du sku' 'kje gå krok-vegje, Tore. Når da kjeme te' stykkje, va da vel kanskje detta, du vilde meg i kveld?«
+   </p>
+   <p>
+    «Å nei , sa' han og tok mannskap til seg. »Eg vilde beint ut sagt spørja deg, um du vilde ha' meg eld' ei.e
+   </p>
+   <p>
+    Ho stokk av eit so beintfram spursmål og drygde med svaret.
+   </p>
+   <p>
+    »Kann du kkje svara meg, Maglil Eg e' 'kje god te' gå her og pinast med detta lenger. Da gjere meg berre te" eit vondt menneskje. Allslags tankar kjeme fyr meg, når eg ikkje veit, ka' eg ska' tru elde vona. Gje meg då eit rei'ale svar eingong !«
+   </p>
+   <p>
+    Han var berre som eld og glod og tokkad seg innåt henne; men ho tolde han ikkje so nær og gjekk attyver etter.
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    53
+   </p>
+   <p>
+    »Eg trur 'kje, da e' Guss viljee, så&amp; ho.
+   </p>
+   <p>
+    Han visste ikkje, anten ho sa' meir elder ei,  høyrde ikkje, um ho bad væl fara elder gjekk utan. Han stod berre og stirde etter henne. — = Det var uklårt som i ein draum alt saman.
+   </p>
+   <p>
+    Men då ho kom vekk der, som vegjen krøkte, og han ikkje såg henne meir, rådde han or:
+   </p>
+   <p>
+    »Fan han inderle aname heila greial« gsa' han, lo ein stutt, uvitug lått og snudde heimatt.  —
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+  </div>
+  <div type="chapter">
+   <head>
+    IV.
+   </head>
+   
+   <p>
+    Sisela visste ikkje, kvat ho skulde tru. Tore var i det sista vorten reint onnorleids, enn ho fyrr var van med. Aldri so biten. Og jamt gjorde han sjauw med henne. Ein gong elder tvo hadde han endå til klopet burti henne, då han gjekk og skulde leggja seg.
+   </p>
+   <p>
+    Tru han hadde nokor meining med det?
+   </p>
+   <p>
+    Utoen var han sume tider endå. Men det var og på ein annan måte enn fyrr. Det var helst, når dei var tvoeina, og då gjorde det ikkje nokot.
+   </p>
+   <p>
+    Berre han vilde lata vera å banna. Han var vorten so stygg til det, at ein kunde mest fæla til å vera under tak med han. Um kveld- arne, når han lagde seg, kunde ho høyra, kor han lyste sokkebandi nord og ned, av di han i myrknet ikkje fekk knuten upp. Dei låg båe i fjoset ho nede og han i lag med drengen uppå lemen
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    55 — so ho fekk drjugom høyra han. Og det var so undarlegt med det: ho låg mest alltid og lydde med hjartat upp i halsen, som ho ventad på, eitkvart skulde henda.
+   </p>
+   <p>
+    Ho kom stundom i hug, um det skulde vera ordet, som hadde verkat på han. Men når ho tenkte på banningi hans, kunde ho ikkje rett tru det helder.  Visst var det, at han hadde voret soleids sidan samlings-kvelden, då han kom og bar ut benkjerne med henne og gam- lingen. Han bad henne hjelpa seg med å bera i eine enden på dei store langbenkjerne. Og ikkje eit vondt ord sa” han, endå ho den eine gongen rende burti beiteskide og slepte taket.
+   </p>
+   <p>
+    Tore sjølv skynad helder ikkje, korleids han var voren. Han fekk det ikkje rett til å vera uvisleg med Sisela lenger, endå han vilde, det skulde vera med det gamla.
+   </p>
+   <p>
+    Um dagarne, når det høvde soleids, laut han sjå på henne og vart sume tider sitjande heile rider og furda. - — Og tankarne sveiv og dreiv, gjekk og kom att. Tidare og tidare var ho med i deii Kom han inn i stova ein gong, det var rimelegt, at ho kunde voret der, men han ikkje såg henne, undradst han på, kvar ho var. Hende det og, at han spurde, men
+   </p>
+   <!--end of page-->
+   <p>
+    56
+   </p>
+   <p>
+    alltid soleids, at det skulde høyrast, som han ikkje brydde seg um svaret.
+   </p>
+   <p>
+    Ho var ikkje ljot, ho Sisela: Andlitet var ljost og blidlegt, og når ho hamad seg um sun- dagarne, kunde ho mest vera væn. Magli såg vel væl so klødd ut og var meir lubbig og god; men Sisela var lika rak i ryggen.  Og so var ho makalaust snild og godtolug. —
+   </p>
+   <p>
+    Litt am senn vart det til det, at han ikkje kjende nokot, som baud imot, når han tenkte seg Sisela til kona: Men sers glad i henne kunde han ikkje segja, han var, endå han stundom fekk hug til å klypa burti henne. Og til å kitla henne.  Ho var so fælt kitug, at berre han gjorde mine til det, lo ho. Ellest var ho helder tunglynd.
+   </p>
+   <p>
+    Ein kveld kom han åt løda med ei kipa og skulde henta høy åt øyken. Då stod Sisela nett og lagad i ku-stamparne. Han gav seg til å dra' høy or stålet, og det vart ikkje mælt eit ordt Men då ho kom burt og skulde ha' eit høyfang, sa' han, ho kunde ta' av det; han hadde dreget laust.
+   </p>
+   <p>
+    Det var aldri betre enn so, meinte Sisela, bøygde seg ned og skulde fomla i hop i stakken.
+   </p>
+   <!--end of page-->
+   <p>
+    (ho-
+   </p>
+   <p>
+   </p>
+   <p>
+    57
+   </p>
+   <p>
+    Med sama kitlad han henne i båe sidorne, under armarne.
+   </p>
+   <p>
+    Ho seig ende ned, reid seg som ein ål og lo, so ho kunde døytt. Og han kitlad, til ho bad fyr seg. Då sluttad han, men såg med sama, at ho hadde ikkje meir enn ein stakk.
+   </p>
+   <p>
+    Ifrå den kvelden totte Tore, det var liksom nokot meir imillom dei, enn fyrr hadde voret:
+   </p>
+   <p>
+    Seinare ein gong var Sisela lagd, då Tore kom og skulde på lemen. Det var endå ein laurdagskveldi og drengen hadde fenget lov til å reisa heim med helgii Med sama Tore leét att døri, kremtad ho, so han høyrde, ho var vaki.
+   </p>
+   <p>
+    »Hev du longe kurra' deg, morr!« sa” han og var so reint blid i målet.
+   </p>
+   <p>
+    Ja, ho hadde då det.  Det var just so fjerre, ho fekk målet upp, for det kjendest, som eitkvart vilde strupa henne, då ho høyrde, han trivlad etter sengii Myrkt var det, so ein såg ikkje nevarne fyr tennerne.
+   </p>
+   <p>
+    Han sette seg på sengjarstokken.
+   </p>
+   <p>
+    Og so sa' han, at han vilde gjerna tala med henne ein grand, dersom ho ikkje jagad han ifrå seg. Det var sundagen, som stundad til, so det
+   </p>
+   <p>
+    gjorde fulla ikkje nokot, um dei sov frampå litt.
+   </p>
+   <p>
+    Ho kunde ikkje svara eit orde Låg berre
+   </p>
+   <!--end of page-->
+   <p>
+    58
+   </p>
+   <p>
+    og saup etter anden og totte høyra, kor hjartat pikkad. Og det var, liksom ho fraus, endå ho visste, det ikkje var so.
+   </p>
+   <p>
+    Um ho var leid på han? spurde han og trivlad burtetter åklædet.
+   </p>
+   <p>
+    Ikkje eit ord. Berre han no ikkje tok til å kitla!
+   </p>
+   <p>
+    Men han kitlad ikkje.
+   </p>
+   <p>
+    Han visste nok, sa” han, at han hadde voret  stygg med henne mange gonger; men dersom ho kunde, fekk ho ikkje vera ill på han korso. Han hadde voret ein vimring og ei uvyrda, men no vilde han vona, det skulde skapast.
+   </p>
+   <p>
+    Sisela hadde ikkje ventat detta og kom på gråten. Taåra etter tåra kom rennande, og utan ho vilde det, laut ho snykta, so han ottast, kor til stode Han strauk henne med handi yver kinnet og kjende, ho var våt. Mjukhjartad som han var, tok detta han svært.
+   </p>
+   <p>
+    »Stakkar degl, sa” han, bøygde seg ned og kysste henne. Kysste og klappad.
+   </p>
+   <p>
+    Tvo varme armar kom fram under åklædet, lagde seg um halsen hans og drog han innåt ei bankande bringa. Og han kjende, kor sælt det var å eiga ei gjentay mjuk og varm. Han var
+   </p>
+   <!--end of page-->
+   <p>
+    59
+   </p>
+   <p>
+    reint ør og visste snaudt, kvar han var, elder kven som heldt han um halsen.
+   </p>
+   <p>
+    »Ligge du 'kje vondt på stokkjen?« kviskrad ho um ei stund og tokkad seg litt, so det vart betre rom.
+   </p>
+   <p>
+    »Eg hev aldri lege be're«, sa' han og kysste henne på halsen, so det sveidt Slepte med sama trésko'rne av sig og tok føterne upp i sengi.
+   </p>
+   <p>
+    Dei låg stille og tagallee Lydde på hunden, gsom stod utpå bakken og tekslad og gjøydde-. Han høyrde venteleg folk ned på bygdarvegen. Det hadde voret samling i Vågen um kvelden, og det var vel folk ifrå Lid og Øygarden, som skulde heim.
+   </p>
+   <p>
+    Kyrna ruskad litt med seg. Stuten reiste upp og ristad bakføterne, so det small i klauverne. Ei ku vaknad, spratt upp i ein fart og gav seg til å lerpa.: Tvo-tri andre ramlad med bandi og klådde seg.
+   </p>
+   <p>
+    Men so stillnad det att.
+   </p>
+   <p>
+    Tore og Sisela låg og kviskradt Då dei fyrst byrjad, var det utruleg mykjet å røda um. Endå dei hadde gjenget der so mang ein gong og havt høve til å tala, var det i alle desse åri ikkje vortet so mykjet som denna kvelds-stundi. Munnen kjem betre på glid i myrknet; ein vert
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    60
+   </p>
+   <p>
+    meir openhjartad, når ein slepp sjå einannan i augo.
+   </p>
+   <p>
+    Men so tok Tore til å verta svevnug og vilde blunda.
+   </p>
+   <p>
+    Ho var nett måta stor åt tvo  sengi, sa! han; men det var vel best, han grov seg uppå lemen korso.
+   </p>
+   <p>
+    Sisela sa" ikkje nokott Han reiste upp, sette føterne fram på golvet og kjende etter tréskorne. Då han hadde funnet dei, bøygde han seg ned og kysste henne.
+   </p>
+   <p>
+    »Go'natt, gudle' mitt! sa' han og gjekk.
+   </p>
+   <p>
+    Sisela hektad henderne. Ho var so glad som aldri fyrr i sitt liv. — Det var reint urime- legt, at det skulde snu seg soleids til, totte ho. Slik ei sæla hadde ho aldri drøymt um. — Berre det vilde varat sukkad ho. Han var so lunefengen, han Tore.
+   </p>
+   <p>
+    Ho var slett ikkje svevnug. Kven kunde sova no!  Og ho låg og lydde etter Tore, som tuslad med å klæ av seg uppå lemen. Det var ikkje nokon styr med sokkebandi den kvelden, og det var og gildt å høyra.
+   </p>
+   <p>
+    No lagde han seg; ho høyrde, det knerkad i sengjartilet. Og so vart det stillt.
+   </p>
+   <p>
+    Stillt i fjoset og stillt på lemen.
+   </p>
+   <!--end of page-->
+   <p>
+    61
+   </p>
+   <p>
+    Men korso fekk ho ikkje sova.: Ho hadde havt det annsamt med avvasket til helgi, so ho var svært trøytt, då ho lagde seg; men no kjende ho ikkje meir til det.
+   </p>
+   <p>
+    Det vart ikkje svevn av med han Tore helder, var det likt til, for då det leid av eit bil, snudde han på seg. Hostad litt og sputtad. Og um ei stund snudde han seg att.
+   </p>
+   <p>
+    »Siselal sa han. »Søve du?
+   </p>
+   <p>
+    Det varde litt, fyrr ho svarad.
+   </p>
+   <p>
+    Neie, sa! ho; det var nett so fjerre, han høyrde det.
+   </p>
+   <p>
+    rEg fær 'kje sova, eg helder. Da e' so uvant å liggja åleina.
+   </p>
+   <p>
+    Sengi riksad. Sisela høyrde, han reiste upp
+   </p>
+   <p>
+    og steig fram berrføtt.  —
+   </p>
+   <p>
+    Vetteren gjekk og våren med. Då det lydkast i vedret, flutte Sisela or fjoset og låg i budi. Og dei, som kjende til det, sa, at Tore samstundes flutte på buda-lemen — skulde det heitast.
+   </p>
+   <p>
+    So var det ein preikesundag burt imot slåtten.
+   </p>
+   <p>
+    Folk søkte ikkje ofta til kyrkje i Kvann- dalen. Dei gjekk helder i samlingarne, for presten talad berre »av læerdomense; det var ikkje ånden,
+   </p>
+   <!--end of page-->
+   <p>
+    som dreiv han, og han brukad ikkje ordet til å aga syndararne med.
+   </p>
+   <p>
+    Men denne sundagen hadde det fina vedret dreget folk at. Og so hadde det spurdst, at det skulde lysast åt tvo brudrlag. Det kunde vera moro å høyra dei »detta tå' stolen. Brudlaup midt i slåtten var det ikkje, utan det »hastads«. Ellest var vår og haust, når det leid yver onni, den vanlega tidi til å gifta seg.  —
+   </p>
+   <p>
+    Presten var ferdug med preika. Han stod og bledde i ei bok og leitad etter papiri sine. Det var so stillt i kyrkja, at ein kunde høyra kvart blad, han vende. Um det under preika hadde voret aldri so mykjet kremting og hosting, stillnad det alltid, når han skulde til med lysingi. Ingen rørde seg då elder hostady men gjøymde det, til han las bøni åt dei, som skulde giftast.
+   </p>
+   <p>
+    »Kirkens forbøn ær begjæret for dæn syge og sængeliggende koone hær aff menigheden. — —
+   </p>
+   <p>
+    Folk vart litt lange i andlitet, men sat stille
+   </p>
+   <p>
+    og lydde etter namnet. Då presten lagde papiret
+   </p>
+   <p>
+    burt, hektad henderne og tok til med bøni, slapp hosten laus: i koren, i skipet og på trevet — flaga etter flaga, og mest alltid endad det med rækjing og sputting. Dei få, som vilde lyda etter
+   </p>
+   <!--end of page-->
+   <p>
+    63
+   </p>
+   <p>
+    presten, laut leggja øyrat væl til, skulde dei høyra eit og annat ordet.
+   </p>
+   <p>
+    Dei var ellest ikkje mange. Det kunde ikkjo vera stort å lyda på, for det var alltid sama bøni, han brukad — berre med ei liti umvøling etter kvart høve. Og mest ingen kom på, at dei skulde vera med og be.
+   </p>
+   <p>
+    Men då presten sa »rammene og tok upp eit nytt papir, vart det dott i bjølla att. Ein høyrde berre ein og annan liten klask på kara- sida, når einkvar tobaks-tyggjaren aukad bekken under seg med ei ny klysa.
+   </p>
+   <p>
+    &gt;Til ægteskab lyses i dag: anden og tredie gang — — ;
+   </p>
+   <p>
+    Det munde ha' ei svær hast der, tenkte folk nedetter benkjerne og lagde øyrat skikkeleg godt til:
+   </p>
+   <p>
+    b»for ungkarl, korporal Mads Andersen Bru og pige Magli Olsdatter Bø;
+   </p>
+   <p>
+    første gang for ungkarl, gårdmandssøn Tore Toresen Ravndal og pige Sisele Monsdatter
+   </p>
+   <p>
+    "Kløvee"
+   </p>
+   <p>
+    Det var mest skjemslegt å verta Iyst fyr, totte Tore og hadde tenkt å vera heima ifrå kyrkja. Men so var han komen på, at folk kunde segja, han ikkje vågad syna seg. Og ikkje
+   </p>
+   <!--end of page-->
+   <p>
+    64
+   </p>
+   <p>
+    visste han helder nokot likare å få dagen til å gå med  fint vedr som det var. So var han
+   </p>
+   <p>
+    gjengen. No sat han uppå trevet, studde haka i-
+   </p>
+   <p>
+    henderne og hadde dukkat seg so djupt ned, gsom det var råd med.  Det var vel siste gongen, han sat der. Når han vart gift og tok imot jordi, laut han fulla fylgja skikken og sitja i stolen deira ned i skipet.
+   </p>
+   <p>
+    Kor undarlegt det var, at det skulde verta lyst fyr han og Magli på ein gong!  — Han kjende som ein liten agg fyr bringa. Det vilde voret væl so gildt, um han hadde voret i korporalen 'sin plass.
+   </p>
+   <p>
+    Men ellest kunde det just vera slikt slag! Han var vorten reint lika sæl no, etter det kom :80 langt, at det ikkje var meir enn ei venda med det.
+   </p>
+   <p>
+    Han lét det surla og laut skyssast i veg til alt. Endå til med lysingii Gamlingarne laut ta' i og gjera ålvor av det, då det ikkje kunde drygjast lenger fyr Sisela si skuld. — Sjølv totte han, det ingi hast hadde. Skulde han ikkje teket imot jordi til hausten, kunde det mest voret det sama med heila giftingi,  der- :som då ikkje Sisela hadde voret umhende. Men
+   </p>
+   <!--end of page-->
+   <p>
+    65
+   </p>
+   <p>
+    når han fekk jordi til å bala med, laut han fulla ha' ei. kjerring og; han kunde ikkje lita berre på framande.
+   </p>
+   <p>
+    Klokkaren var ferdug med utgangsbøni og gjorde greida fyr, kvat tid det skulde vera preika med Kvanndals-kyrkja attt Ramlad so mann- folki ut og skulde lyda etter, kvat nytt ensmannen hadde til å lesa upp på bakken.
+   </p>
+   <p>
+    Kvinnfolki gav seg betre tider, helsad på kjenningar og spurde,  korleids dei fekk lIiva heima. Flokk etter Flokk stod burtyver kyrkje- garden, med grindi, ut på bakken  alle med ålvorlege sundags-andllit.
+   </p>
+   <p>
+    På flataste bakken midt utfyr grindi stod lensmannen med gul snor um huva og løve- knappar i bringen, fomlad med ein papirbose og lagad seg til å lesa: Kring han stimde folk i hop, lagde øyrat til og skulde lyda. Ein og annan, som hadde voret heft med eitkvart, kom med lange stig og freistad trengja seg innimillom.  Tore hadde voret attum kyrkja som snarast og var den siste, som kom setjande. Han gjekk ikkje igjenom grindi, men slengde seg yver gjerdet.
+   </p>
+   <p>
+    Kor lett han var i hamsen, Ramndals-brud- gumen! sa' ei kona i flokken attmed grindi og
+   </p>
+   <p>
+    såg etter han. JENS TVEDT: NYBROT. 5
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    66
+   </p>
+   <p>
+    Dei andre snudde seg, og det kom ifrå dei, det, dei talad um, so det vart ei liti togn.
+   </p>
+   <p>
+    Det var vel so, det hastad i Ramndal og? spurde ei av dei; ho var ifrå ein utkant av sokni og kjende ikkje so væl til alt upp i dalen.
+   </p>
+   <p>
+    Ja, det skulde vera so, ho ventad seg til lars'ok, svarad ei onnor.
+   </p>
+   <p>
+    Det var ventande, dei laut sjå koma i hop då, totte-hi.
+   </p>
+   <p>
+    I Kvanndalen var det ikkje nokot nytt, at folk ikkje hadde brudlaup, fyrr det var so langt komet, at dei laut skunda seg. Og difyr totte ingen, det var nokot sers galet i det,  »når det ellest var på ein skikkeleg måte.
+   </p>
+   <p>
+    Ho var nok reint på fallande føter, ho Magli, var det ei, som sa”.
+   </p>
+   <p>
+    Dei sa' so. Var det i morgon, brudlaupet skulde vera, longe?
+   </p>
+   <p>
+    Nei, um tysdagen. Han Mats var ventande heim ifrå eksisen i morgon.  Og det vart ei lang leksa um brudlaupet og folket i Bakken, um Magli og Tore, um Tore og Sisela. — Dei hadde so god greida på alt, som um dei skulde ha voret med ifrå fyrst til sist.
+   </p>
+   <p>
+    Burtpå bakken, der lensmannen stod, tok folk til å skitrast. Ein og annan olbogad seg
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    67
+   </p>
+   <p>
+    ut or flokken og tok på heimveg. Fleir og fleir fylgde etter. Tore hadde ikkje hug til å fylgjast med
+   </p>
+   <p>
+    nokon; han ruslad åleina burtetter vegen og gav
+   </p>
+   <p>
+    seg gode tider.  — Einsleg kjende han seg, einsleg vilde han vera: Det var mest, som nokot hadde døytt inn i han. Han var gamall vorten.
+   </p>
+   <p>
+    Inkjevetta hadde han å gleda seg til. Alle voner var sloknad; nokot livsmål, som kunde bera han uppe, hadde han aldri ått  visste ikkje, kvat det var. Eit kveikjande ord, som kunde bleset liv i dei blundande ånds-evnerne  um dei var der , hadde han aldri fenget. Og korleids skulde det komet? —  Ikkje las han blad, ikkje bøker. Aldri hadde han høyrt nokot annet enn tunge, kugande preikor, som gjekk ut på, at alt i han og kring han var synd — synd og djevelsdom. Framande krav, vitlaust framsette i nauti fåkunna og nedarvt trongsyn, var det einaste, som til dessar hadde bodet seg; men dei slo ikkje ned i han, av di han hadde havt hug til å njota livet.
+   </p>
+   <p>
+    Men liva var det nett, han ikkje måtte. Han skulde døy  det var kravet;  døy, at han kunde liva!l  — Ikkje skynad han eit slikt
+   </p>
+   <p>
+    krav, og visst helder ikkje dei, som sette det fram. 5*
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    68
+   </p>
+   <p>
+    Ellest var det just ikkje desse tankarne, som rørde seg i han, då han ranglad heim ifrå kyrkja lysingsdagen sin. Å nei, der var ikkje mange tankarne. Berre uklåre draumar, som flaksad ifrå eitt til hitt og heldt ikkje fast på nokot. Fatige draumar; tronge og myrke, like bygdi, som hadde alet dei.
+   </p>
+   <p>
+    Han stoggad av og til på vegkanten og såg seg i kring:
+   </p>
+   <p>
+    Graset stod fint på marki det året. Det vilde verta eit godt høy-år, dersom detta vedret vilde halda ved. Og ikkje minst i Ramndal. Sékarne deira stod væl so fine som her på Floti, endå Floti skulde vera beste garden i Kvanndalen. Hadde det ikkje voret so våt-lendt i Ramndal, skulde dei nok set, det vart gras der og. Turre sumrar som i år synte det, at det kunde veksa. — = I røyndi var det visst grunn jord på Floti; det skulde ikkje stort til, fyrr marki sveidt Det einaste kunde vera, at det var mest alltid våte sumrar.
+   </p>
+   <p>
+    Når han no tok imot jordi, kunde det vera nokot til å tenkja på å turka ut nedra myri. Det kunde verta ein drusteleg åker der. Og so lagde han att storåkren. Då vilde han sjå det bø-stykkjet, der graset stod tjukkare og finare!
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    69
+   </p>
+   <p>
+    Kunde han so friska det med ein grand møk, når det leid av nokre år, trudde han rett, arbei- det skulde svara seg.
+   </p>
+   <p>
+    Det vart ein tanke, som sette seg fast i han, detta. Og han gjekk forara, enn han vardest. Der var komet nokot, som drog han.
+   </p>
+   <p>
+    I1 Ramndal hadde det i manna minne ikkje voret rikkat anten stein elder stuv. Åkrarne var dei same gamle, som hadde voret, sidan garden vart rudd. Ikkje ei skikkeleg veita fanst det nokon stadt Mann etter mann hadde hjelpt seg berre med å spa' upp nokre torvor her og der til å bægja vekk versta flaumvatnet.
+   </p>
+   <p>
+    Det skulde verta onnorleids, tenkte Tore og gjekk, so sveiten tippad. Soleids, som han hadde set det på Myklestad, vilde han gjera det  med veitor og nye åkerbrot For på Myklestad var dei tekne til åa dyrka på jordi i det sista"- Han skulde taka etter der.
+   </p>
+   <p>
+    Og so forhipen var han, at han ynskte, han kunde byrja strakst.  — Men fyrst laut han få detta rakkars brudlaupet ifrå seg. Og slåt- ten. Men til hausten skulde rett nedra myri ha det !
+   </p>
+   <p>
+    Jau visst skulde vel gamlingen gjera store augo, når han fekk tak i, kvat han stilte på.
+   </p>
+   <p>
+    4
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    70
+   </p>
+   <p>
+    »Da nytta 'kje med ne'ra myri, sertul« vilde han segja og rista på hovudet.
+   </p>
+   <p>
+    Tore laut læ, når han kom det i hug. Dei skulde sjå, det nyttadl Ho var vel ikkje meir botnalaus enn andre myrar.
+   </p>
+   <p>
+    Han slengde seg andpusten i bakken og vilde kvila. Upp til Ramndal ifrå bygdarvegen var det ein tung kneik.  — Vann han yver det, kunde det vera verdt å tenkja på, um det ikkje var råd til å leggja vegen soleids, at han vart lettare.
+   </p>
+   <p>
+    Kjende han seg ikkje som eit nytt Men- neskjel Tankarne på detta, han vilde taka seg til, når han fekk jordi, hadde kveikt han upp. Livet låg ikkje lenger i grå ysma; det var komet nærare og liksom vortet til nokot, han kunde taå på.  : Det stod uklårt fyr han, at han hadde fenget eit livs-yrke.
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+  </div>
+  <div type="chapter">
+   <head>
+    V.
+   </head>
+
+   <p>
+    Ramndals-brudlaupet var likso stillt som alle andre vertskap i Kvanndalen.
+   </p>
+   <p>
+    Endå ingen av vertsfolket høyrde med til dei gudelege, var fleste gjesterne av det slaget. Og det gjorde sitt. Difyr var det ikkje kjøpt stort drikkans-varor helder. Ei tunna øl, ei krukka brennevin og nokre flaskor vin  ikkje dropen meir. Av bønefolket var det mange, som hadde skrivet seg ifrå brennevinet, so det laut vera ein grand vin-sutl åt deii. For dei kunde ikkje sitja og inkje få, når dei andre vart skjenkte. ØI drakk dei alle, for dei tider var det ikkje på- komet detta, at ein skulde skriva seg ifrå allslags drikka, som det er vortet slik mote med no.
+   </p>
+   <p>
+    Ellest hadde dei kaffi og, attåt maten. Det var vortet reint grust å ha kaffi i vertskapi, endå klevekonorne ikkje såg blidt til alt kavet med koppar og kjørøld.
+   </p>
+   <p>
+    Brudlaupet skulde vara berre den eine dagen.
+   </p>
+   <!--end of page-->
+   <p>
+    72
+   </p>
+   <p>
+    Og det var lenge nok. Folk visste ikkje stort, korleids dei skulde faa tidi til å gå. Dei kunde inkjevetta taka seg til med — korkje dansa elder drikka. Snikkar-Ola'n preikad ein grand, og det vart baade songet og lesett. Men det var mest, som det ikkje høvde i eit brudlaup. Det var då ikkje nokor likferd helder.  —
+   </p>
+   <p>
+    Dei få ungdomarne, der var, smette seg ut ein etter ein og samladst udpå bakken. Stod dei so der og hirde, rødde um slått og slåtte- karar, ljå-prisarne det året og dei gode bryni, mannen i Bruosen hadde fenget heim.
+   </p>
+   <p>
+    Men snart vart han, som kjøkemeister og kjellarmann skulde vera, var dei, kom med øl- bollen og minnte dei um, at det sømde seg ikkje å brjota lagett Skulde dei fyrst vera til brud- laups, måtte dei ikkje stå kring bakkarne, men halda seg fram der, det var eitkvart litet å få.
+   </p>
+   <p>
+    Drog dei seg so innatt til gamlingarne, som sat kring bordi og smårødde um smørprisarne elder eitkvart annat inkjevetta, med' dei lét bol- len gå og handtokst med den, dei sende han til.
+   </p>
+   <p>
+    So tidt som bollarne gjekk, skulde ein trut, folk måtte eingong fara til å kjenna ein grand i hovudet, for det var godt øl, og eit par dlammar
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    elder eit glas vin hadde dei og fengett. Men det fanst ikkje ein einaste, som det kunde segjast var høgmælt vorten.  Folk drakk ikkje; dei berre vætte lipporne. Um det var ein og annan i laget, som hadde hug på ein liten lette, so torde han ikkje. Slike karar som Snikkar-Ola'n sat med sovorne augo kring seg, at det var ikkje råd til å blinka eingong.
+   </p>
+   <p>
+    Brudri var litet fyr bordet — meir enn når det skulde étast Ho var ikkje soleids lagad, stakkar.
+   </p>
+   <p>
+    Men brudgumen sat stød og ålvorleg og rødde med dei mest vyrde gjesterne fyr høga- bords-enden. Øvst av dei sat Myklestad-mannen, og kor fåmælt han var, vart det helst han, som styrde pratet korso. For alle kjende seg små- gutar, når Halldor Myklestad var i laget.
+   </p>
+   <p>
+    Han var ikkje Kvanndøling, han Halldor, men komen åt bygdi i sine unge dagar  dei tider han för med skreppa. Men det vart ikkje lenge, fyrr han var den mest vyrde mannen i bygdi. Var det eitkvart, folk skulde ha ei rett- leiding med, so gjekk dei til han. Alltid var han beinsam, snartenkt og aldri rådlaus. Han hadde gåvor, som i andre høve kunde gjort han til ein stor mann.
+   </p>
+   <!--end of page-->
+   <p>
+    74
+   </p>
+   <p>
+    Halldor Myklestad var av dei gamle bøne- mennerne. Han hadde kjent Jon Haugvaldstad og andre av »Hauge-kararne« og var ein god ven til Samson Stuelandg Abraham Mildo og fleire av desse mennerne, som sume stader på Vest- landet hev sett større elder mindre merkje etter seg  alt etter som dei hadde gåvor og høve till: Men Halldor hadde aldri preikatt Han var ikkje vorten so mykjet fyr seg, at han kunde gå fram og læra andre, sa han, når venerne bad han tala i samlingarne.  Alt det, dei fekk han til, var å halda ei liti bøn ender og då.
+   </p>
+   <p>
+    Det var jordarbeid, dei talad um — der fyr høgabords-enden i brudlaupet.
+   </p>
+   <p>
+    Halldor fortalde, kor idigt han hadde gravet med jordi, sidan han kom til Myklestadi Og det kunde turvast. Då han kom til gards, fanst det ikke lang-orv på tunett Dei gjekk der og vassad til knés i myrarne og bankad med stutt- orven og dotten kring stein og stuv.  Det fyrsta, han tok seg til, var å rydja vekk steinen heim på løbakken, og sidan tok han nokot kvart år, etter som han hadde utkoma og høre til.
+   </p>
+   <p>
+    Dei siste vettrarne hadde han havt tvo Hal- lingdølar til å brjota ny åker og grava veitor. Han hadde rett ikkje voret tenkt å gjera meir
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    75
+   </p>
+   <p>
+    med jordi då, enn det longe var gjort; men so kom desse kararne her ein hausten og baud seg. Og då dei ikkje var dyre, totte han, det nyttad ikkje å segja nei helder.  Det hadde sagta ikkje svarat seg endå; men det var likt til, det vilde gjera det med det fyrsta. Fær jordi nokot, gjev ho nokot att og. Og det, han ikkje hadde bate av, kunde koma væl med fyr bornii Ein skulde ikkje i denna verdi berre tenkja på seg sjølv helder, meinte Halldor Myklestad.
+   </p>
+   <p>
+    Brudgumen ordad um, at han var tenkt å turka ut nedra myri deira der i Ramndal, der- som det var råd med det.
+   </p>
+   <p>
+    Gamle Tore, som sat eit stykkje ifrå, høyrde det, ristad på hovudet og lo so smått.
+   </p>
+   <p>
+    Han trudde nok ikkje nokot på nedra myri, gamlingen, sa' brudgumen.
+   </p>
+   <p>
+    »Du når 'kje botn med den lengste konn- staur, sertule tok gamlingen i med sterkt mål. Dei hadde livt i Ramndal fyrr; men vilde dei ta til med sovoret unyttes arbeid og veita ut nedra myri, kunde det vera uvisst, kvat dei kom til å gjera her etter dags.
+   </p>
+   <p>
+    Det kunde vera moro å sjå den myri, meinte Myklestaden, då dei hadde talat att og fram um detta ei stundt Og so gjekk han og brudgumen
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    og nokre andre stad og vilde furda ut, korleids ho var skikkad.
+   </p>
+   <p>
+    Og då folk var trøytte av å sitja og gnura på benkjerne, tynntest det snart i stova. Dei søkte ut og vilde retta seg ein grand. — Sveiv dei so kring i tunet elder lagde seg paa bak- karne og smårødde. Sume dreiv burtetter bøarne og såg på graset og åkrarne. Det stod vænt i Ramndal i år.  —
+   </p>
+   <p>
+    Kjøkemeisteren fekk det annsamt med å sanka gjesterne-i hop att. For då det leid av eit bil, skulde dei til bords og éta brudragrauten. Han hadde slikt kav med å finna dei att alle, at han vart både harm og heit. Og vondt gav han or seg til dei, han vågad seg med: — Endelig hadde han fenget skipat alle til bords, og grauten vart innboren.
+   </p>
+   <p>
+    Den gamla visi med å halda »grautetala« var gjengi reint or moten i Kvanndalen. So lenge var det no, sidan ei skikkeleg grautetala var haldi, at det ikkje lenger fanst nokon, som kunde henne ord til annatt Kjøkemeisteren hadde no ikkje meir på seg enn å beda folk taka skjeiderne upp og gjera seg til godar. Men i dei dagar, han laut tala; kunde det vera møde- samt nok, for det høyrde med til skikken, at
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    gjesterne skulde andgjegla og freista setja han fast. Hadde so stakkaren attåt set for djupt i bollen, kom han ikkje alltid væl ifrå det; men då vår det nett, skjelmarne hadde meste moroen.
+   </p>
+   <p>
+    Som sagt: grautetala vart det ikkje haldet. Då kjøkemeisteren bad gjesterne ta' upp skjeiderne, gjorde dei so. Og det synte snart på fati, at grauten var god. Det var ikkje kvardags-mat å få kveitemjøls mjølkegraut med smør og rosinor på. UmMm ein var aldri so mett fyrr, laut det lagast eit rom åt slik mat!
+   </p>
+   <p>
+    Då grauten var éten, vart gjesterne etter gamall vis og vane sitjande med bordi og let bollarne gå. No var tidi komi, at det nya par- folket skulde traktera gjesterne sine. Brudgumen gjekk kring til alle og skjenkte; brudri fylgde etter og tok or korgi, som ei brudrpika bar på armen, ein grand fint braud, ei osteskiva og ei kringla, som ho gav dei burti handi.  Detta tok ei heil æva og var eit drjugt arbeid, for kvar og ein skulde orsaka seg og vera strengboden.
+   </p>
+   <p>
+    Med' detta stod på, bar klevekonorne dei tome grautefati av bordi og sette innatt uppvar- mat kjøt-sodd i store trefat og ruvad upp flat- braudlefsor attmed smors-stetti. |
+   </p>
+   <p>
+    Detta var sista matmålet. Når det var
+   </p>
+   <!--end of page-->
+   <p>
+    gB 00⁰
+   </p>
+   <p>
+    komet på bordet, visste alle, at det var ikkje meir å få; det var som ei minning um, at no etter kvart fekk gjosterne rusla. Difyr vert og detta soddet sume stader kallat jagesupa.
+   </p>
+   <p>
+    Då det var likt til, at ingen af gjesterne vilde ha meir, kom kjøkemeisteren fram på gol- vet, kremtad og sputtad og lagde henderne i hop.
+   </p>
+   <p>
+    Hadde no folk søkt si lyst i matfatet, sa han, so vilde dei takka vårherre fyr alle dei gode gåvorne hans, som dei hadde fenget so runde- legt av.
+   </p>
+   <p>
+    Sume svarad ja, og alle hektad henderne på bordkanten og såg ned på dei.
+   </p>
+   <p>
+    Las so kjøkemeisteren bøni etter maten og song ein salme. m
+   </p>
+   <p>
+    »Sét i freden, godtfolk!k sluttad han.  »E' da noke i bodl'ane, so ta” dei upp og send ifrå dyke.
+   </p>
+   <p>
+    Brudr og brudgum gjekk no ut i budi. Der skulde dei taka imot skålpengarne og skjenkja gjesterne, fyrr dei gjekk.
+   </p>
+   <p>
+    Det var ellest åt å gå or moten med skål- pengar. Skulde det vera skikkeleg grust, var
+   </p>
+   <p>
+    brudlaupet »kostalaust Men i Ramndal totte
+   </p>
+   <p>
+    dei, dei laut fylgja den gamle skikken, for det var mange, som sstod i skuld« til deii Og so
+   </p>
+   <!--end of page-->
+   <p>
+    79
+   </p>
+   <p>
+    vilde dei aldri vera med dei fyrste til å taka etter ein ny skikk:
+   </p>
+   <p>
+    Gjesterne kom då etter kvart inn og takkad fyr seg. — Og so stakk mannfolki pengarne burti neven åt brudgumen. Halve og heile sylvdalar  ein tri-fira stykkje, når det skulde vera ei såd til folk; det turvte ikkje plent vera sylv, men det var alltid brisnast med det.  Kvinn- folki stakk dei til brudri.
+   </p>
+   <p>
+    Det skulde liksom gå reint dult. Brudr og Brudgum 1ést, som dei var forbinad yver detta, at dei skulde få slike gåvor, og vilde slett ikkje taka imot.  Det var då væl, at folk hadde viljat fylgt dei til kyrkje og heft burt tidi fyr deira skuld, um dei ikkje skulde ha kostnad attåt. —  Og so var det gjesten til å leggja seg ut um å få brudrfolket til å taka imot pengarne. — Uppatt og uppatt det sama. Og alltid vart gjesten av med skilingarne til slutt, um brudrfolket aldri so høgt og dyrt hadde lovat, at det ikkje skulde henda, dei tok nokot av han.
+   </p>
+   <p>
+    Endå dei på båe sidor visste so væl, at alt saman berre var til-skaping, stod dei der med eit ålvor korso, som det kunde voret deira hjartans meining kvart ordet, dei sa. Visi var soleids. Den, som ikkje vilde vera halden fyr eit skjem-
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    80
+   </p>
+   <p>
+    dar-vette, laut gjera som alle hine.  På bonde- bygdi og i kongeborgi er jamt formerne lika stive, kor ulike dei kann vera ellest. —
+   </p>
+   <p>
+    Var folk ferduge og hadde sagt vaæl fara i budi, tok klevekonorne fat på dei ut i døri, ut på tunet, elder kvar det kunde høva, og gav dei sending med heim: uppskoret stumpbraud, oste- skivor og kakor  litt av kvart slag av det, dei hadde havt i brudlaupet.
+   </p>
+   <p>
+    Og so gav folk seg endeleg på heimveg. Snart var det ikkje att andre enn husens folk og ein elder annan av næraste slekti.
+   </p>
+   <p>
+    - I budi sat brudrfolket tvoeina — ho på sengjarstokken og han på ei kista attmed bordet. Eit talgljos i ein eirlagd massingstake stod på bordet og sprakad og brann, med' talgi rann som ein liten bekk ned yver og gjorde ei grågul bræda på bordskiva. Bollar, flaskor og skjenke- glas stod og på bordet, som ellest flaunt med allslags væta. Langs veggjerne stod kistor og på dei dravlefat, kollor med dravlemysn, smør-stett og klingarfat. Her og der var slegen inn i veggen ein spikar elder ein nabb; der hekk då blålitad stakkar med raude liningar, mannfolk- klæde, ein hatt, ei huva  elder ei nystehonk. Alt nett som det høvde, utan ein tanke um
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    81
+   </p>
+   <p>
+    orden. Fyr glaset hekk ein kpvitel, festat med ein pinnasyl i kvart hyrna uppe, at ingen skulde sjå inn. Der var so fullt av brennevinsluft, mat- snik og tobaksrøyk, at ein kunde mest ikkje anda, og brudri var åt å få ilt; ho laut halda seg med båe henderne i sengjarstokken, so ho ikkje skulde siga ned. :
+   </p>
+   <p>
+    Brudgumen gådde ikkje nokott Han sat med nevarne djupt ned i broklumma og triv- lad på pengarne, med' han stirde ned i golvet og tenkte etter, um alle gjesterne hadde gjevet »i skålie.  Ein av dei kunde han slett ikkje hugsa  anten han hadde voret inne i budi elder eii Då han ikkje kunde greida detta sjølv, gåg han burt på Sisela og vilde spørja,y um ho håttad det. Vart han so vis med, at det vantad henne eitkvart; ho var bleik som eit lik.
+   </p>
+   <p>
+    »E' du låk?« spurde han, men røyvde seg ikkje. »Va da 'kje best, du la” deg?«
+   </p>
+   <p>
+    »Her e' so kvælte, sa ho og hektad upp livet. »Eg trur, eg lyte broöta megs.
+   </p>
+   <p>
+    Ho hadde ikkje fyrr sagt det, so stod spruten or henne.  Tore sat lika roleg og ansad henne ikkje. Ho lagde seg ned paa høgjendet og ankad seg. Maåtte so uppatt og gjeva meir
+   </p>
+   <p>
+    ifrå seg. JENS TVEDT: NYBROT, 6
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    82
+   </p>
+   <p>
+    »Da ska” verta fjelgt te snéka på detta i natt«, sa Tore og såg ilislegt burtt Han tok pengarne upp or lumma, lagde dei i ein dunge på bordet og gav seg til å telja.
+   </p>
+   <p>
+    Um ei stund grov ho seg upp, gjekk ut etter sopling og tvoga og gjorde reint etter seg. Ho ankad seg litt endå, men stilltt Døri vart då opi standande og frisk luft fekk sleppa inn. Han Tore sat utan trøya og vest, for han hadde voret so sveitt. No kulsad han litt, rygde seg og såg upp.
+   </p>
+   <p>
+    »Tru da va' 'kje råd lata att døri?« sa han, og då ho ikkje skulde tru, det var seg sjølv, han tenkte på, lagde han til: »Du hev 'kje godt tå den kalde døragufsen.
+   </p>
+   <p>
+    Ho lét døri att og sa' ikkje eit ordi Gjekk ho so burt åt sengi og tok til å klæda av seg — med ryggen til Tore* Då ho var mest fer- dug, snudde ho seg litt og såg på han; han sat endå og talde på pengarne.
+   </p>
+   <p>
+    »Vil du 'kje leggja deg med sama, du og? spurde ho — nokot sutri i målet.
+   </p>
+   <p>
+    Å jau  — med da fysstae.
+   </p>
+   <p>
+    Ein kunde høyra, han var ikkje mykjet ny- fiken. —
+   </p>
+   <!--end of page-->
+  </div>
+   <div type="chapter">
+    <head>
+     V.
+    </head>
+   <quote>
+    
+<l>    Vantar det vilje
+</l>
+<l>    til venskap og sam, 
+</l>    
+<l>    då stutte vert svari 
+</l>    
+<l>    på spurdagen all, 
+</l>    
+<l>    og burte er bandet 
+</l>    
+<l>    det besta i huset.
+</l>  
+<l>    Krusen og kvorven 
+</l>    
+<l>    er kjærleiken stygt, 
+</l>    
+<l>    når hugnaden hautlast, 
+</l>    
+<l>    so heimen vert kald, 
+</l>    
+<l>    og mannen på marki 
+</l>    
+<l>    til myrknet drygjer.
+</l>    
+   </quote>
+    <p>
+    Nedra myri stod fin med korn. Det var »storåkrenk det no; den gamle vart attlagd i fjor og stod og blømde med gul soleia og kvit balderblom. Det var ikkje sått grasfræ i han, og han var seig, fyrr han vilde gro; men fekk han eit år til på seg, vilde det venteleg skapast.
+   </p>
+   <p>
+    Det var teket meir enn eit tungt tak, og mangein sveitedrope hadde runnet, fyrr myri kom i den standt ho no var. Men so var det
+   </p>
+   <p>
+    rett og ei lyst å sjå henne; kornet stod so jamt $ 6*
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    84
+   </p>
+   <p>
+    og fint, som det skulde voret ein gamall åker og ikkje eit nybrot.
+   </p>
+   <p>
+    Og seks lange år var lidne, id dei unge tok imot jordii  Ikkje eldre Ramndals-folket var, hadde desse åri sett djupe merkje på dei.
+   </p>
+   <p>
+    Tore tedde det mest på. Han var rund- ryggjad vorten, hadde fenget store rukkor i skal- len og eit hardt drag um munnvikarne. Skjegg- dusken på haka var vorten tettare og myrkare; ellest let han no skjegget veksa i ein krans ifrå øyro og rundtt I kruna var han mest snaud vorten.
+   </p>
+   <p>
+    Sisela var lika rak i ryggen, men turr som ei fjøll Ho såg alltid ut, som ho fraus. Kald og fåmælt gjorde ho arbeidet sitt, svarad ikkje fyrste gongen, ho vart spurd, og når endeleg svaret kom, stod ho mest alltid med ryggen til. Ho var knipi på handi både med folk og fe, og tauserne hadde ho aldri meir enn året.
+   </p>
+   <p>
+    Ein lang, kvithærd og daudøygd gutunge med mori sitt kalda andlit för og steig i dørerne som ein gamall kalli Han gjekk alltid berrhovad med nevarne i broki og glodde på folk med ga- pande munn. Aldri lo han. Og ikkje var der nokot å læ åt helder. Men han grét helder ikkje, um han fekk aldri so mykjet stryk. Og det
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    85
+   </p>
+   <p>
+    vankad det tidt, når han ikkje kunde gjera det, fa'ren sette han til.
+   </p>
+   <p>
+    Det var nett, som Tore skulde voret forhatig på den ungen; han kallad han mest ikkje annat enn »totnavarenk og var biten og illsken med han stødtt Endå det var einaste barnet, som livde, totte han jamt, det vilde vera best, um
+   </p>
+   <p>
+    vårherre tok han og. Det var likaste vegen åt .
+   </p>
+   <p>
+    slike krypar.
+   </p>
+   <p>
+    Fira born hadde dei fenget gravet ned, strakst dei kom til verdii Og væl var dett Det hadde voret so vesalt med dei, og tvo var helder ikkje rett skapad.
+   </p>
+   <p>
+    Lagnaden var vel so, at dei skulde ingi
+   </p>
+   <p>
+    lukka ha med borni sine, dei. Og då kunde dei
+   </p>
+   <p>
+    ikkje betre fara enn å koma under torva. Ein visste, kvar ein hadde dei dåi Men ellest var det rett tungsamt  detta med bornii Tyngre, enn nokon av dei vilde vera ved. -- Når Tore tenkte på dei knabbarne, som gjekk og brultad heim i Bakken, vart han mest avundsjuk. Kvifyr kunde ikkje hans born vortet slike ramparar som Magli sine? — Det kunde voret livemåte åt dei i Ramndal; uvisst, kvat det var på Bakka-plasset,  helst når det vart so mange; for no gjekk ho med det femta.
+   </p>
+   <!--end of page-->
+   <p>
+    86
+   </p>
+   <p>
+    Han totte, det var ein undarleg lagnad i denna verdi.  So inngrott var detta um lag- naden, at han stødt kom attende til den.
+   </p>
+   <p>
+    0a, det var lange år  desse seks, som var lidne. Liten hugnad hadde det voret, men so mykjet meir tyngsla og møda. Kvart år låke og lik i huset; tri etter einannan det eina: eit
+   </p>
+   <p>
+    barn og båe dei gamle. Dei sluttad  fyrst
+   </p>
+   <p>
+    han, so ho  same hausten. Det var snart fira år no sidan.
+   </p>
+   <p>
+    Skulde han ikkje havt den myri til å grava med, visste han ikkje, korleids han skulde slitet tidii Det var den einaste hugnaden, han hadde havt. Og der hadde han leget og gravet ifrå tidlege morgonen til seine kvelden, når det ikkje nett var midt i onnerne. Um sundagarne kunde han ikkje gjera nokott men då dreiv han med nevarne på ryggen og såg på det, han hadde gjort, og kvat meir skulde gjerast.  Han sky- nad nok ofta, at Sisela ikkje likad alt detta kavet hans; men det fekk ikkje hjelpa. Kvinn- folki hadde ikkje vit paa slikt, dei. —
+   </p>
+   <p>
+    Då han ikkje kunde gjera meir med myri, var han ei stund mest lika vis, kvat han skulde taka til med. Han treivst ikkje med å gå heim i dørerne og stevla og sjå på den sura kjerringi,
+   </p>
+   <!--end of page-->
+   <p>
+    87
+   </p>
+   <p>
+    endå det kunde alltid vera eitkvart å rettleida.  Det kom reint væl med, at både tenestgjenta og Sisela kjærde på bøgarden,  at kyrna braut seg heim, rett som det var. Han gav seg då til å gjerda den ifrå nyom. Og so låg han der og grov likso trutt, som med han heldt til i myri. Mest åleina. Drengen sette han til det andra, som trongst.
+   </p>
+   <p>
+    Men den hugnaden, det var i å slita og slepa med eitkvart ute under berr himmel, hadde ikkje Sisela, og soleids vart det i grunnen verst fyr henne. Kavet med å koka, vaska og fjelga i huset elder bøta og spøta synte so litet etter, at det var ingi lyfting i det. Det einaste, som var litt trivnad med, totte ho, var rokken og veven.
+   </p>
+   <p>
+    Ellest kunde det voret væl nok altsaman, berre ho hadde voret meir fyr mannen og sloppet den gnagande mistrui, at han såg blidare på tenestgjentorne enn naudturvelegt var.
+   </p>
+   <p>
+    Ho hadde ikkje nett nokot å klaga på han ; det var ikkje so, at han var vond med henne. Men han var so reint lika sæl, at han mest korkje talad til henne elder såg til ledsses Han var og mykjet blidare i målet, når han sa eit- kvart til tausi. Og han likad ikkje, når ho vilde festa ei ny. - Men nett difyr bytte ho kvart
+   </p>
+   <!--end of page-->
+   <p>
+    88
+   </p>
+   <p>
+    år. Og ho vilde alltid ha dei styggaste, ho kunde få fat i.
+   </p>
+   <p>
+    Det kom i rider yver henne. Sume tider visste ho ikkje klårt, anten ho var gali elder vis; det sette seg åt hovudett Då för ho um dag- arne og vaktad på tausi og torde snaudt setja henne til arbeids, utan ho sjølv var i nærleiken. Og um næterne låg ho ofta vaki, av di det sveiv fyr henne, at han Tore kunde gå sin veg.
+   </p>
+   <p>
+    Ein gong imillom gjekk ho i samlingarne. Ho trudde, det kunde verta betre, når ho fekk høyra eit gudsordgd Men det vart helder verre. For då sat ho heila tidi og tenkte, at no var han og tausi åleina heima.  Ikkje soleids, at ho kom på, dei skulde gjera nokot galet. Ein gift mann — var det likt segplt Men kvat da?  7a, det visste ho ikkje sjølv.
+   </p>
+   <p>
+    Soleids hadde Ramndals-folket det. — Dei gjekk der og trælad kvar med sine fatige tankar; kjøyrde i ring um det samaj; talad aldri til einannan korkje vondt elder godt — og åtte ikkje nokot, som batt dei i hop.
+   </p>
+   <p>
+    Dei skulde voret eitt, men dei var tvo.
+   </p>
+   <p>
+    Båe hadde ei uklår kjensla av detta og såg, åt det var galett. Men dei vilde ikkje sjå det. Tagde og tolde, med' hjartat fraus. -
+   </p>
+   <!--end of page-->
+   <p>
+    89
+   </p>
+   <p>
+    Borni, som skulde voret eit band imillom dei, skilde dei helder meir. For desse vantriv- ingarne, som det var ei vælgjerd, at vårherre tok, var ei maning um, at det var synd, når dei vilde vera ægtefolk. — Iei kunde skyggja yver detta, so mykjet dei vilde: det låg på bot- nen korso. Folk tok endeleg til å få augo upp og skyna, at det var ikkje, som det skulde vera, når nære skyldfolk gifte seg i hop.
+   </p>
+   <p>
+    For det synte seg ofta, der slekti var saman- gift. Og so var det mange stader i Kvanndalen. Eitkvart vantad det borni, um det ikkje nett var so mykjet. Veike var dei i minsto.
+   </p>
+   <p>
+    Men ingen torde tala um detta. For det vilde vera til å visa, at dei ikkje var »truandesc, og slikt vilde ingen vera ved  fyr bønefolket si skuldt Det var vårherre, som styrde altsaman, og han hadde so mangt å syna. Dei trudde på ein gud, som var lika so lunefengen som dei sjølve. Stod det ikkje skrivet, at han »gjør alt, hvad han behager?  At den allmegtige rett- leidde alt etter visse lovar, var det ingen, som drøymde um. Hadde dei gjort det, var han vorten so mykjet minder fyr dei.  —
+   </p>
+   <p>
+    Bønefolket hadde ellest minkat dei siste åri. Sume var gjengne burt, andre hadde kolnatt Den
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    90
+   </p>
+   <p>
+    eldhug, sont det ei tid hadde voret i so mange, var det ikkje i nokon lenger. Samlingar var det vel endå  både sundagskveldarne og ellest, og gudelegt prat, kvar ein kom. Men einkvar nye var ikkje »frelstee, sidan den stora vekkjingi, då skomakaren foör der.
+   </p>
+   <p>
+    Snikkar-Olan og dei andre fyregangsmenn- erne såg med sorg på detta og ottast, at skulde det lenge vera soleids, måtte Gud taka nåden ifrå dei og sløkkja ljoset, som hadde brunnet so klårt i Kvanndalen. Dei kjende seg ikkje støde sjølve helder. Kor ofta var dei ikkje kalde og likesælel Fyrr dei vardest, gjekk tankarne ut på det verdslega; bøni og ordet var ikkje lenger det fyrsta og sista. — Vårherre var gjen- gen ifrå dei, so dei mest ikkje kunde få fat i han meir.
+   </p>
+   <p>
+    Dei laut vona, det var ein prøve, han sette på dei, og at han snart vilde koma att, varma dei kalde og lunkad og vekkja dei, som sov.
+   </p>
+   <p>
+    Og då fråfallet tok til å syna seg både hjå den eine og den andre; då ungdomen för med leik og lått heim or samlingarne um kveldarne, og då det vart selt brennevin ned i Bruosen, der det no var tvo handlarar,  då kom vårherre.
+   </p>
+   <p>
+    Nokre vikor etter jol stod Tore Ramndal
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    91
+   </p>
+   <p>
+    ein dag ned av tunet og spadde upp  ei veita. Marki var nett tidi, og han vilde nytta høvet til å bægja hevdavatnet ifrå fjosmottingi ned yver ein rabb. Då kom det ein framandkar upp vegen strævande. På ryggen bar han ein liten kasse, elder som eit skrin, i fatle, hadde ein regnfrakkje på armen og krokstav i neven.
+   </p>
+   <p>
+    Tore undradst på, kvat slag kar detta skulde vera; det såg ikkje ut til ein vanleg kramkar helder. Dei var ikkje vane med, at det kom andre langfarande folk åt Ramndal.
+   </p>
+   <p>
+    Då framandkaren vart vis med Tore, krøkte han or vegen og gjekk burt til han på bakken. Helsad og signad arbeidet.
+   </p>
+   <p>
+    Tore rettad seg upp, studde seg på spaden og takkad.  Var det framandfolk ute og ferdadst?
+   </p>
+   <p>
+    Ja, det var so0. Det skulde vel ikkje vera Ola Ramndal? spurde mannen; han såg fram under den vide hattebarden med eit par kvasse, stikkande augo. Tore laut sjå ned, for det var, som dei augo kunde sjå tvert igjenom folk.
+   </p>
+   <p>
+    sNei, da e' nok husma'/n min, so /eite Ola, sa han og karad vekk med spaden litt hevd, som låg på eina tresko-tåii »Han bur der burt i Træ' unde gar'en  der du ser da rawa bor* takjese.
+   </p>
+   <!--end of page-->
+   <p>
+    92
+   </p>
+   <p>
+    »D'et ham di kalder Snikker-Ola'n ? «
+   </p>
+   <p>
+    »Jau, da e' so. Men ka' slag kropp e du då?« spurde Tore og gjorde eit litet kast på hovudet og furdad på den andre. Han ottast ellest, at det laut vera ein bønemann, si' han spurde etter Snikkar-Ola'n.
+   </p>
+   <p>
+    »Jæg er bibelbud og reiser med traktater og andre gudelege skrifterk, sa framandkaren, høgtideleg i målet og med »søradrasse. Han tok skrinet av ryggen med sama. !
+   </p>
+   <p>
+    »Du tar 'kje umaka deg med kramkista di«, sa Tore og grein so smått. »Eg he 'kje pengar på meg. Og so e' da no sagta bøke nok i huse, når ein kunde liva itte deise.
+   </p>
+   <p>
+    Å  det var ingen umak, meinte hin og hadde longe skrinet uppe. Og det kostad no ikkje nokot å sjå på skrifterne helder, sa han. Der var den traktaten til ein halv skilling; der var den  fira fyr skillingen, og her var ein til tvo skilling — — og so frametter, med' han lagde ut um, kor gode skrifter det var.
+   </p>
+   <p>
+    Tore turkad neven på broki, tok imot nokre av dei og las yverskrifti: »Vil du blive frelst? «  »Er du et guds barn?  »Jesus er død for dine Synder«.  »Uden kors ingen krones.
+   </p>
+   <p>
+    »Du skulde vel alder ha Gjest Baardsen
+   </p>
+   <!--end of page-->
+   <p>
+    93
+   </p>
+   <p>
+    Sogndalsfjæren, veit eg? — elde' Mestertyven Ole Høiland ? x spurde Tore, og den gamle adamen glytte fram or augnakrærne.  »Eg he' haurt, da ska vera slike gruse bøke; men eg he' alder fenget klo i deili Kunde du skaffa meg dei, sku' eg gjedna umaka meg heim itte pengepun- gen og dås.
+   </p>
+   <p>
+    Han flidde traktatarne attende.
+   </p>
+   <p>
+    »Me he' so gjilde kakeprestar her i dalen, at me tar' 'kje leggja skilingarne ut i slikt so' detta der. Dei mæle um da i samlingarne både seint og tile, og da kosta 'kje meir enn uma- kjen te' høyra ittes.
+   </p>
+   <p>
+    Framandkaren var nok van med litt av kvart. Han sa ikkje eit ord, men lagde skrif- terne ned i skrinet og lét att.
+   </p>
+   <p>
+    Tore hadde gledd seg til, at den andre skulde vortet illl Då det ikkje gjekk, som han hadde tenkt, vart han reint flat og ynskte det usagt.
+   </p>
+   <p>
+    »Om Gud vil, blir det oppbyggelse på Bru i kveld«, sa mannen, tok skrinet på ryggen og rus- lad burtetter markjerne åt Træ.
+   </p>
+   <p>
+    Men Tore spadde og spadde. Han var leid på seg sjølv, at han hadde boret seg so hynsk åt med ein framande mann, som ikkje
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    94
+   </p>
+   <p>
+    hadde gjort han nokot og ikkje eingong gjevet eit kvasst svar att.
+   </p>
+   <p>
+    Dei kostad ikkje meir, dei papirlapparne; han kunde godt kjøpt eit par av dei. Eitkvart laut dei ha til livemåte, slike stakkarar og, som för og rak kring land og strand; det var vel ikkje alltid so feitt fyr dei.
+   </p>
+   <p>
+    Burt i Træ sat framandkaren og Snikkar- Ola'n og talad um møtet med Tore. Dei var tvoeina i stova, so dei kunde gjera det; det kom ikkje lenger.
+   </p>
+   <p>
+    Han Tore hadde alltid stadet imot nåden, sa Olan. Endå vårherre på so mange måtar hadde leget etter han, var det nett, som han berre vart verre. Og han fortalde um motegan- gen med borni og ellest altt som han totte var herren sin. dragande nåde.
+   </p>
+   <p>
+    Det hadde gjenget so fram med jordi dei siste åri; dei stod seg betre no i Ramndal, enn dei fyrr hadde gjortt Og det kunde nok henda, at det gjorde sittt Avling og drått slo kvart år til; dei kunde fø' eit beist og tvo meir, etter Tore stellte so godt med myri og rabbarne. Tore var ikkje komen til å sjå godleiken åt Gud i alt dettaae Kunde han få augo upp, so han såg,  at detta og var nåden hans, måtte han vel ikkje
+   </p>
+   <!--end of page-->
+   <p>
+    95
+   </p>
+   <p>
+    kunna stå imot lenger. Men no gjekk han og trælad fyr denne verdslege mammon og gløymde det eina naudsynta.
+   </p>
+   <p>
+    Han gjekk aldri i samlingarne helder ? spurde framandkåren.
+   </p>
+   <p>
+    Å nei, ikkje no meir. Ei tid — då den stora vekkjingi var  då gjekk han; men det var nok ikke ordet, som drog. Han var ein spottar då som no.  Han Ola hadde lenge vonat, ordet skulde funnet han. Og han fortalde, kor godt det såg ut den gongen, samlingen var i Ramndal. Sidan hadde dei ofta spurt, um dei kunde få halda samling der, men det var alltid nei.
+   </p>
+   <p>
+    Då nyttad det vel ikkje å spørja no helder?
+   </p>
+   <p>
+    Det gjorde fulla ikkje det; men han Ola vilde rett freista korso. EHin fekk ikkje furta, um det ikke alltid gjekk so beint i denna verdi. Når ein hadde smakat nåden sjølv, måtte -ein ikkje gje' seg, fyrr ein fekk dei andre med.
+   </p>
+   <p>
+    Framandkaren meinte, vårherre fekk nok endå tak i Tore. Dei var ofta nærast til å verta slegne, dei, som stod hardast imott Kunde dei berre få han til å gå i samlingarne att, so lagad
+   </p>
+   <p>
+    det seg gjerna, fyrr nokon vardest. Ordet hadde
+   </p>
+   <p>
+    bøygt hardare hausar enn Tore. Ja, såg ein ikkje, kor det var med Paulusl
+   </p>
+   <!--end of page-->
+   <p>
+    96
+   </p>
+   <p>
+    Snikkar-Ola'n stirde fram fyr seg og smilad; det var, som han no hadde fenget att ei von so viss, at ho kunde aldri meir takast ifrå han: nåden skulde endå finna ålle dei sovande syndar-
+   </p>
+   <p>
+    arne. Det skulde verta ein gledesdag, når han fekk sjå dei frelste — alle desse, som endå stod imot! —
+   </p>
+   <p>
+    Men so kom Kari, kona hans, inn, og dei talad ikkje meir um Tore.  Dei rødde um andre ting og såg på skrifterne.
+   </p>
+   <p>
+    Han Ola hadde unøgjet slike fyrr; heile veggjerne var uthengde med bibelspråk, daglege påminnarar og gudelege bilæte. Men han laut kjøpa eitkvart no og. Det kunde aldri verta for mykjet »gudsord« i ein manns hus.
+   </p>
+   <p>
+    Kari vart nokot snurti, då ho høyrde, det skulde kjøpast meir til å hengja kring veggjerne. Kunde dei liva etter helvti av det, som hekk der fyrr, var det visst væl. Ho såg, det vart ikkje tider til å glana kring veggjerne, skulde dei grava i hop til livemåten. Han var so lika gæl, han Ola, når dei berre hadde or hand i munn; men dei fekk koma i hug borni og, at det kunde vera eitkvart att åt dei.
+   </p>
+   <p>
+    Men Kari saå ikkje nokot; ho hadde freistat det so mange gonger, at ho visste, det nyttad
+   </p>
+   <!--end of page-->
+   <p>
+    m
+   </p>
+   <p>
+   </p>
+   <p>
+    ikkje leggja imot han. Ho tok berre til å bera på bordet det besta, ho åtte; for Ola hadde blinkat til henne, og ho visste, kvat det skulde tyda, når der var einkvar av »venerne«.  -
+   </p>
+   <p>
+    Um kvelden heldt bibelbudet fyrste sam- lingen på Bru. Det møtte mykjet folk — lIika ovan ifrå endegardarne; for det hadde spurdset, at det var ein framande, som skulde preika, og det drog.
+   </p>
+   <p>
+    Han las or testamentet soga um ekkje-sonen, som Jesus vekte upp, gjekk so ut ifrå dei ordi: »Gud har besøgt sitt folk og heldt ei preika, som dei aldri hadde høyrt maken til i Kvann- dalen. Ho var so mykjet onnorleids, enn dei hadde ventatt Der var ein eldhug og vænleik  samstundes nokot sterkt og mjukt, som reint tok folk. Det var ikkje, just som når skomakaren skræmde vitet or dei med det fæla helvite; dei kjende ikkje den steikjande hiten, høyrde ikkje det skjerande ylet ifrå dei fordømte. Nei, ikkje nokot av detta. Men frelsaren, blodig og sår og stygt medfaren, som hekk på krossen og bad fyr fienderne sine, etter han på alle vis hadde gjort godt imot dei stakkararne, som trong til han.
+   </p>
+   <p>
+    Og folk vart synte det soleids, at dei kjende JENS TVEDT: NYBROT. ⁷
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    98
+   </p>
+   <p>
+   </p>
+   <p>
+    seg skuld i denne avrettnaden hans. Det var dei — dei var det, som skulde voret hudflengde, som skulde voret pinte med klungerkruna på det syndige hovudet sitt. Det var dei  ja, dei var
+   </p>
+   <p>
+    det, som skulde voret hengde på krossen og seig-
+   </p>
+   <p>
+    pinte og lidet det, han leid. Nettupp dei  og ikkje han, som var lytelaus som lambet, dei leidde til slagtings. Og slikt kunde dei stå imot? Kunde dei tvila og vera kalde, når dei såg ein sovoren kjærleik? — » Gud har besøgt sitt folk — og endå vilde dei ikkje taka imot han med båe hender!
+   </p>
+   <p>
+    Dei fekk sjå det so klårt  detta, at Gud hadde »besøgt deii Gong etter gong — på denne elder hin måten hadde han »besøgt« dei. Han hadde komet til dei der i dalen, der på garden  ja, der på Bru. Han »besøogte« dei no  bi denne aftenstund«; han stod fyr døri og bankad.
+   </p>
+   <p>
+    Preikaren staukad det inn i dei, der han stod på bordet i Bru-stova og trødde so hardt i, at bordet skrall; han hamrad det inn i dei med knytte nevarne, han slo i lufti med; han brende det inn i dei med dei gloande augo sine.
+   </p>
+   <p>
+    I den store flokken var det ikkje eit turt auga. Dei »frelster kunde ikkje eingong halda
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    99
+   </p>
+   <p>
+    seg, men laut gråta med. Han bløytte dei alle: Ånden var yver han.
+   </p>
+   <p>
+    Ja, i sanning! Herren hadde synt seg att. Han hadde »besøgt sitt folkk.  Det var ikkje meir enn ei meining um det. Og det var, som taket skulde lyftast av stova,y då dei stemde i med salmen. !
+   </p>
+   <p>
+    Etter den kvelden var det nya livet friskat uppatt. Det vart same styren som i den stora vekkjings-tidi, men på ein litt annan måte. Kveld etter kveld var det samling — snart uppe, snart nede i dalen. Og flokkarne, som gjekk til og ifrå møti, för ikkje med leik og lått, men hadde guds ord fyr seg og song salmar; heile dalen stod full av salmesong um kveldarne. Men mange af tonarne var nye og salmarne med; dei var friskare, lettare og gav lengt og 1yfting. Uviting og syner høyrde ein ikkje gjetet.
+   </p>
+   <p>
+    Alle dei, som hadde kolnat, gløddest upp; dei fråfallne fann nåden att — so nær som nokre fåe —, og mange nye kom til; fleire på kvart møte. Det hadde lenge ingi skam voret i Kvann- dalen, um ein var med bønefolket; no vart det reint ei æra, som mange kvar strævad etter. Men bønefolket krevde andfekting fyrst og so
+   </p>
+   <p>
+    [(%
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    100
+   </p>
+   <p>
+    umvending, fyrr dei vilde kannast med ein, og det var ikkje alle, som fekk det til.
+   </p>
+   <p>
+    Tore Ramndal var ikkje med no helder. Han kunde ikkje koma seg til å gå i samling- arne, endå det stundom var nokot, som drog han  helst um kveldarne, når han stod utpå bakken og lydde på songen nedi vegen. Det var so hugtakande, når tonarne låg og dirrad i den kyrra lufti og vart borne ifrå fjell til fjell; den eine tonen møttest med den andre, og dei mengdest i hop til ei darrande tonebåra i Klyve- nuten; sveiv so der ifrå yver Ramndal og kvarv burt i »Konefjelle. — Han kunde stå lange ævor og lyda etter, med' det lagde seg slik ei undar- leg mjuk kjensla yver han: ein uklår otte, ei trå etter nokot, han ikke visste Det var just som i ein væn barnedraum. — —
+   </p>
+   <p>
+    Um dagarne kunde han halda det meir ifrå seg. For då låg han og sleit med nokre gamle steinrøysar, han vilde ha vekk. Dei- låg der so stygge midt på flata marki, at dei var ein utriv- nad å sjå på, og han kunde bruka mykjet av steinen. Det var mest småstein Den kjøyrde han burt ein stad, han hadde etlat seg til å taka upp ei veita, når tiderne vart til det. Men den store steinen, som han ikkje hadde bruk fyr,
+   </p>
+   <!--end of page-->
+   <p>
+    kjøyrde han på elvi.  Etter tidvedret var det komet ein snø-dett; det laut nøytast på, med' den låg.
+   </p>
+   <p>
+    So ein dag, Tore grov med detta, kom Snikkar- Ola'n svintande burt åt røysi til han og signad arbeidet.
+   </p>
+   <p>
+    Å — han skulde so visst ha takk, at han vilde gjera so fjerre æra på det, svarad Tore, slo med votten snøen av ein stein og sette seg.
+   </p>
+   <p>
+    Han kom nok ikkje til å gje' seg, Tore, fyrr heile Ramndal var i ein breidslebakke, sa Ola.
+   </p>
+   <p>
+    Det skulde mykjet til det, meinte Tore. I minsto vart det vel ei stund, fyrr Træ kom so langt.
+   </p>
+   <p>
+    Ola skynad nok, at den andre vilde snerta han, fyrdi han ikkje gjorde nokot med plasset, men tok ikkje under det.  »Me ska' no 'kje berre tenkja på denna veri helde, sa han. » Méeénnesket lever ikke af brød allene, veit dus.
+   </p>
+   <p>
+    »Å nei, da vart vel ein turr kost, veit eg; ein laut i minsto ha vatn attåt«, flirde Tore.
+   </p>
+   <p>
+    Ola beit seg i lippa og lést ikkje vera den same. Far hans hadde  setet« fyr tjuvri; det var det, han no skulde stikkast fyr.
+   </p>
+   <p>
+    Det var eit umlaupande vedr denne vettren, totte han. No såg det ut til å verta brøyte att.
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    102
+   </p>
+   <p>
+    Dei fekk vel meir snø  venteleg, meinte Tore, reiste upp og gav seg til å lessa stein på sleden.
+   </p>
+   <p>
+    Snikkar-Ola'n hjelpte til med nokre store steinar. Og attimillom rødde dei um eitt og annat, justsom det kunde høva. Spurde han so, um ikkje Tore hadde høyrt den framande preik-
+   </p>
+   <p>
+    aren endå. Nei, Tore totte ikkje, han hadde havt ut- koma med det, sa han.  »Da ska' nok vera
+   </p>
+   <p>
+    ein svær kar te' leggja ut, da?«
+   </p>
+   <p>
+    Ja, det var rett ein hugnad å høyra på; det var ein vælsignad mann, lét Ola'n. »Du sku' slita deg laus ein kveld og koma åt sam- lingen. Du tregad 'kje på dae.  Og so lagde han ut fyr Tore, best han kunde, snudde og vende, til han sluttad med å spørja,y um dei skulde få halda samling i Ramndal.
+   </p>
+   <p>
+    Han visste ikkje, kvat han skulde svara på det, sa Tore. Dei fekk tala til Sisela. Vilde ho ha det sabbet i huset, måtte ho væl fyr hans part; han lagde seg ikkje upp i sovoret.
+   </p>
+   <p>
+    Tore var i grunnen glad fyr det, at dei vilde halda samling i Ramndall For det var reint ei skam, at det skulde vera samling alle andre stader, men ikkje hjå han. Men han vilde
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    103
+   </p>
+   <p>
+    ikkje vera ved det fyr seg sjølv eingong og lést, som han var høg som hoven, anten det vart elder ei.
+   </p>
+   <p>
+    Då han kom heim til nons, spurde han, um Ola'n hadde voret der.
+   </p>
+   <p>
+    Jau, han var nok det, svarad Sisela; ho stod med omnen og auste uppvarmd graut og mjølk or gryta upp i eit svart tréfat. Sette ho so fatet på bordet, gjekk burt i hylla og grov etter skjeider.
+   </p>
+   <p>
+    Kvat ho svarad ?
+   </p>
+   <p>
+    »Me kunde vel ikkje negta hus te' sovore? « sa ho berre og kom med skjeiderne.
+   </p>
+   <p>
+    Han fekk sjå etter eitkvart til sessar då, tenkte Tore.
+   </p>
+   <!--end of page-->
+  </div>
+  <div type="chapter">
+   <head>
+    VII.
+   </head>
+  
+   <p>
+    Ingen kunde vera idigare til å møta i sam- lingarne enn Tore Ramndal. Etter han fyrst tok til, saknad dei han ikkje nokon gong, anten det so var uppe elder nede i dalen Og då han alltid var ein av dei fyrste, som kom, vart han sitjande med innarste veggen i nærleiken av bordet, der fyremennernesat. Dei vilde so gjerna ha han der. For når salmen var nemnd, bad dei Tore taka upp tonen og styra songen. Men var det ein av dei nye songarne, som bibelbudet hadde komet med, då tok Gudny Staup tonen upp, for i dei nye tonarne kjende ikkje Tore seg skikkeleg stød.
+   </p>
+   <p>
+    Det vantad mykjet på, at Tore var umvend. Korkje han sjølv elder andre var i tvil i so måte. For nokor andfekting elder sjælenaud hadde han ikkje havt — no meir enn fyrr. Han hadde ingi kjensla av, at han var »fortabt« og trong um frelses«.
+   </p>
+   <p>
+    Men det var eit godt merkje, at han var s0o trottug til å gå i samlingarne, meinte både
+   </p>
+   <!--end of page-->
+   <p>
+    105
+   </p>
+   <p>
+    Snikkar-Ola n og dei andre; det kunde ikkje vara lenge, fyrr ordet fekk tak i han. Og det skulde vera ei hugnadstund, når det hende, for dei gjorde seg store voner um Tore Ramndal.
+   </p>
+   <p>
+    Dei freistad ofta og vilde få han til å setja seg uppmed bordet. Gjorde han fyrst det nokre gonger, kunde dei spørjay um han ikkje hadde »noko på hjarta«, og få han til å »vitnae. Det var ei vælmeint snara, dei lagde ut etter han. Men dei fekk han ikkje till Han berreo ristad på hovudet og vilde sitja, der han sat; han gav ikkje spitige svar helder no, so det synte, at det var i nedgangen med han; den gamle adamen tok til å bogna.
+   </p>
+   <p>
+    Når Tore hadde fenget det so annsamt med å gå i samlingarne, kom det seg mest av det, at han leitad utandørs etter den hyggen;, han saknad i heimen. Og songen drog ikkje litet. Dei nye tonarne hadde fenget slik ei magt yver han, at han gjekk og sullad på dei um dagarne, når han arbeidde. Og Gudny Staup song dei so friskt.  - Attåt kom og hugen til å røyna nokot nytt, sjå folk og høyra eitkvart; heima var so audt og tagalt.
+   </p>
+   <p>
+    Ellest var det Snikkar-Ola'n, som drog han ut or hiet. Han hadde aldri av seg sjølv komet
+   </p>
+   <!--end of page-->
+   <p>
+    106
+   </p>
+   <p>
+    til å ha gjenget i samlingarne, for han var mest mannstygg vorten i det sista Men Ola kom gong etter gong framum, lokkad med han og gpurde, um han ikkje vilde byta brok og taka trøya på og vera medt. Og ein kveld vart han med, utan han sjølv rett visste, korleids det bar till Sidan var han alltid ferdug og stod ut på bakken og ventad, når Ola kom.
+   </p>
+   <p>
+    Det var vortet svært heitt med mågarne no  å sjå till Og når han Ola rødde um det eina naudsynta, kom Tore aldri meir med nokor andgjegling, men sannad med i kvart ordet.
+   </p>
+   <p>
+    Og det kunde råka til, at Tore las ein grand i testamentet; men det vilde han ikkje, nokon skulde sjå. —
+   </p>
+   <p>
+    Unm våren vart dei i legervall fyr tenest- gjenta i Ramndal.
+   </p>
+   <p>
+    Sisela hadde fest ei; men då det kom til stykkjet, kunde dei ikkje få henne. Gjenta var låk vorti, og det var liti von um, at ho skulde koma seg. 59o langt fram på året var det vandt å få nokor att i staden. Dei, som vilde tena, hadde longe fest seg. Kven Sisela spurde, var det alltid det sama: anten skulde dei vera att, der dei var, elder dei hadde lovat seg til einkvar andre.
+   </p>
+   <p>
+    Dei skynad ikkje, korleids detta skulde bera
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    til. Sisela gjekk umhende og ventad seg kvar dag, so det var meiningslaust å vera utan gjenta. — Tore knurrad og meinte, dei kunde fest att henne, dei hadde, med' ho var å få; no fekk dei ha det so godt.
+   </p>
+   <p>
+    Sisela berre tagde, som visi hennar var; men då Tore såg, ho gav seg reint yver, spurde han ein dag, korleids dei skulde laga seg. Han fekk det svarett at han kunde gjera,y som han vilde fyr henne; ho visste ingi å få.
+   </p>
+   <p>
+    Med' han då gjekk og grundad på, kvar han skulde stad og høyra etter eit menneskje, kom det uventande ei og baud seg. Det hadde spurdst, at Ramndals-folket var upprådde vortne.
+   </p>
+   <p>
+    Og Gudny Staup var det, som kom.
+   </p>
+   <p>
+    Tore vart svært fegen. Det var slik ei framifrå gjenta, denna Gudny, at det gjekk ord av henne i bygdii Men han kunde mest ikkje tru, at det var ålvoret, ho vilde tena; for på Staup hadde dei ikkje naud fyr å skikka dotteri ut. Og det sa han då til henne og.
+   </p>
+   <p>
+    Jau, det var rett ålvoret, let ho. Den årsens tid var det ikkje greidt å få fat i nokon, og so hadde ho tott, det var galet, at dei ikkje skulde verta hjelpne, når ho kunde gjera dett Heima på Staup var dei so godt folkad, at det stod ikkje
+   </p>
+   <!--end of page-->
+   <p>
+    på, og systerne hennar kunde turva venja seg til både med stiing og annat.  Det var slikt eit snakkety på Gudny.
+   </p>
+   <p>
+    Det var visst meir enn snildt, meinte Tore. Når dei kunde lita på henne, vilde dei ikkje spørja etter andre då. —
+   </p>
+   <p>
+    Soleids vart det gjort av, at ho Gudny skulde flytja til dei vårfrumessa; då var fluttetidi åt tenararne i Kvanndalen. Tore fann fram pungen og gav henne ein halv daler i gudspengar. Og Sisela bar på bordet åt henne, og det vart eit heilt gjestebodt Dei laut gjera seg fyre, når dei kunde få ei slik taus. —
+   </p>
+   <p>
+    Det var undarlegt,; kor den Gudny kunde få munnarne på los. Vart det ikkje ei røding i Ramndials-stova, som det aldri hadde voret, etter Tore og Sisela vart gifte!l Det synte rett ikkje, at munnen på Sisela so lenge hadde voret i bak- lås; ho både pratad og lo. Og Tore  han sat berre i ein stor smil og lydde på, lagde eit ord inn med ender og då og onnad slett ikkje på å koma ut til arbeidet.
+   </p>
+   <p>
+    Men då han endeleg gjekk, bad Sisela Gudny ut i budi, skjenkte henne og synte henne dei nye åklædi, ho hadde vovet det året.
+   </p>
+   <p>
+   </p>
+   <p>
+    gudspengar = festarløn.
+   </p>
+   <!--end of page-->
+   <p>
+    7
+   </p>
+   <p>
+    109
+   </p>
+   <p>
+    Gudny skrepte yver det fina mynstret og fortalde um eit endå nyare, ho hadde lært i vetter. Og då det visst var svært rart, skulde dei veva det ein annan vetter, for då hadde Sisela tenkt å setja upp ein liten åklædevev att.  = Sso fekk Gudny sjå kvardingarne paa kyr- kjelivet og liningarne på beste-stakken. Ho var so0 reint hendig med sovoret arbeid, Sisela. Gudny vilde gjerna veva sama slaget, og so fann Sisela fram ein ende, ho hadde att, og let henne få til prove.
+   </p>
+   <p>
+    Det var mykjet til høgtid vortet med Sisela og den nya tausi.
+   </p>
+   <p>
+    Berre det vilde vara! tenkte gamle-tausi; ho glytte inn, då ho gjelk fram med den halv-opna budadøri.  Det hadde teket ein skiten ende med henne og matmori, endå det var ikkje helvti so heitt ifrå fyrst av. j
+   </p>
+   <p>
+    —. Same kvelden fekk Sisela vondtt Det kom so hardt og brådt, at det nyttad ikkje henta jordemori, for ho budde ned i Bruosen, og det kunde verta for seint. So sprang Tore stad etter Kari Træ, med' gjenta hengde skirslevatnet yver. : Det gjekk fort og væl. Kari var.ikkje fyrr komi, so åtte Sisela ei dotter, både teleg og trivleg å sjå til.
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    110
+   </p>
+   <p>
+    Skulde det endeleg laga seg no, at dei vart hepne med borni, dei og? —
+   </p>
+   <p>
+    »Gud fader og gud son gjeve, da va” so vællk sukkad Tore, gjekk ut i budi, læste døri att og sette seg til å gråta. — —
+   </p>
+   <p>
+    Fyr kvar tåra, som rann, var det just som nokot tinad upp inn i han, og han vart so undarleg mjuk og lett. Og tankarne låg og ar- beidde med eitkvart, som dei ikkje fekk fast tak i, av di det var so laust i kantarne, so uvisst i midten. Det vasad seg saman i ein uklår floke — mest som ein draum. Daei var med der både Sisela og Magli Bakken og det vesla kræket, som nett var komet til.
+   </p>
+   <p>
+    Og tårorne rann. Det var so lenge, lenge sidan sist, at det var mange av dei.
+   </p>
+   <p>
+    Men då dei sluttad, hadde det dreget seg i hop inn i han til ein mjuk tone. Fyrr han vardest, sat han og song: »Jesu din søde for- ening at smage«. — !
+   </p>
+   <p>
+    Um nattii då Kari kom heim, fortalde ho mannen, at Tore hadde boret seg so undar- legt åt, — stengt seg inn i budi og songe salmar i myrknet; ho laut ropa på han til slutt, for det vilde ikkje taka ende helder.
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    111
+   </p>
+   <p>
+    Då Snikkar-Olan fekk høyra, kvat salme det var, tottest han skyna, kor til stod.
+   </p>
+   <p>
+    Det kunde ikkje vera annat enn »nå- den.
+   </p>
+   <p>
+    Og han Ola vart so glad, at han fekk mest ikkje sova meir den nattil ,
+   </p>
+   <p>
+    Men han visste ikkje, kvat han skulde tru, då han um morgonen tidlegt kom utfyr døri og fekk sjå, at Tore longe stod og grov i stein- røysarne som vanlegt. Det var då aldri råd til å verta klok på den karen!
+   </p>
+   <p>
+    Og vikorne gjekk, utan at det vart onnor- leids med Tore. I samlingarne mødte han endå som fyrr, sat på sin visse plass og styrde songen; men når dei vilde ha han uppfyr bordet, ristad han berre på hovudet og vart sitjande.”
+   </p>
+   <p>
+    — — Den Sumaren, som då kom, vart det svært umlaupande med vedret, og det gjekk seint med slåtten. Skulde ein få eit høylass under tak, laut ein gå og vakta yver det, at det ikkje skulde verta liggjande flatt. For best som det var ein liten glytt, rignde det, so vatnet slo i marki.
+   </p>
+   <p>
+    Dei, som nyttad væl på smogorne og ikkje hadde større vidda, fekk rett høyet inn i nokor- lunde vanleg tid. Det var just ikkje av turraste slaget; men når det var so fjerre, dei kunde bøsa.
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    "112
+   </p>
+   <p>
+    det inne, laut dei vera nøgde; det rotnad då ikkje på roti.
+   </p>
+   <p>
+    Men i Ramndal såg det ikkje rart ut. Féka- bøen og storåkerlægjet hadde dei fenget inn — på den vis det var; men ellest hadde dei det mesta ute  sumt i raude såtor, mykjet låg
+   </p>
+   <p>
+    flatt og gulnad, og resten stod på roti.
+   </p>
+   <p>
+    Tore nyttad ikkje smogorne so væl, som det kunde voret torv till For han var komen til det, at dei turvte ikkje syta fyr turken, men lita på vårherre. Han hadde funnet »nåden« og vyrde ikkje på detta verdslega meir. Guds- ordet og salmeboki tok tankarne hans; alt det andra kunde vera, kvar det vilde, fyr han. Um det skjein elder rignde, kom ikkje han ved. —  Berre han hadde »ordets lys og lygte til at lyse på sin stik og »sandhedens sol at skue hin- sidesk — ja, so var det vandare i: »her var intet blivende sted«.  —
+   </p>
+   <p>
+    Nett sundagen etter jonsok var det, det hende, detta stora underet med Tore, at han
+   </p>
+   <p>
+    fekk sjå sin eigen vesalldom.
+   </p>
+   <p>
+    Lika til dess hadde han stretat imot, gjenget so lika sæl og trygg og drøymt um fred og ingen fåre. Men den sundags-kvelden, han og Snikkar- Olan og Gudny kom or samlingen på Klyve, og
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    113
+   </p>
+   <p>
+    Ola'n hadde bedet so vænt fyr dei, som gjekk og freistad tolmodet åt vårherre og ikkje vilde akta på alle fingerpeiki hans,  då hadde Gudny vortet medelet til å opna augo hans.
+   </p>
+   <p>
+    Kor litet skulde det ikkje til, når store- mannen vilde !
+   </p>
+   <p>
+    » Um du kunde elska frelsaren, Torelk hadde ho sagt.  Han gløymde visst aldri dei ordi, um han so skulde verta hundrad år. Og so hadde ho songet den: »Kom til din frelserk — ein av dei nye, som ho kunde so mange av. -
+   </p>
+   <p>
+    Ifrå den stundi var det mest eit heilt døgr, han visste litet til seg — anten han var på jordi elder eii Snikkar-Olan og Gudny bad og song med han og heldt han i henderne, når det var
+   </p>
+   <p>
+    på det tyngsta.  — Ola'n sa seinare, at han hadde aldri set hardare andfektingar hjå nokon. Ja, det var eit svært døgr!  Kjendest det
+   </p>
+   <p>
+    ikkje fyr han, nett som vårherre longe hadde sagt domen, at han skulde verta kastat utanfyr, i myrknet, der det berre er gråt og gnistr! Det var reint urimelegt, at det kunde vera nokon nåde å vona fyr han, som so lenge og på so mange måtar hadde stadet imot,  endå Snikkar- Ola'n sa, at Gud vil ikkje syndaren sin daude,
+   </p>
+   <p>
+    men at han skal umvenda seg og liva. JENS TVEDT: NYBROT. g.
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    114
+   </p>
+   <p>
+    Skrifti sine ord var visst klåre og greide nok, — berre han kunde taka dei til seg. Kor kunde det vera mogelegt, at Gud vilde gløyma alt det, han hadde syndat og lagt synd til synd, ifrå han var so stor, han kunde minnast? Og ikkje berre det, han hadde gjort, men alle dei vonde tan- karne  alt det, han hadde havt haug til!
+   </p>
+   <p>
+    Best som det kom ein liten ljoske yver han, tok samvitet til å rekna upp att alle udygderne hans. Den vesla voni, han hadde havt, var burte, og det var nett lika tungt og myrkt att.
+   </p>
+   <p>
+    Og kom ikkje djevelenm med vonde tankar og vilde vasa han inn i garnet sitt just som fyrr! Kor fint og løynskt kom ikkje freistaren med det —&amp;: berre hug, ikkje vilje til det vonda.
+   </p>
+   <p>
+    Nei  fyr han kunde det ingen nåderveral!
+   </p>
+   <p>
+    Snikkar-Ola'n meinte, det kunde letta litt fyr han, dersom han skriftad synderne sine.
+   </p>
+   <p>
+    Og Tore til å skrifta.
+   </p>
+   <p>
+    Men djevelen var der og freistad han, so han løynde sumt — gjøymde burt det versta det, som han skjemdest av. Og so vart samvitet meir urolegt og dømde han endå hardare.
+   </p>
+   <p>
+    Åtte skiling hadde han snytt Snikkar-Ola'n fyr på eit kalvskinn, ein gong han var til by'n,  sekstan skiling dei på Klyve og ei heil ort
+   </p>
+   <p>
+    .
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    115
+   </p>
+   <p>
+    på Lid, for dei hadde tri skinn med han. Var det ikkje ei skam? — Men kor kunde han venta å få fred, når han vilde dylja det og ikkje gjeva folk pengarne sinel
+   </p>
+   <p>
+    Og so sa han det, fann pungen fram og talde upp skilingarne. Ola fekk sine og lovad, han skulde bera fram dei andre.
+   </p>
+   <p>
+    Men endå hjelpte det ikkje. Det var alle desse løynde tankarne att  desse, han ikkje hadde haldet nokor rekning med fyrr, men no gtod so klårt fyr han. Og han gav seg til å skrifta dei og —: korleids han hadde gjenget åt samlingarne fyr kvinnfolki si skuld. Ikkje berre med' han var dreng, men endå til etter han var gift mann vorten  ja, korleids djevelen hadde freistat han på sama visi lika til det sista.
+   </p>
+   <p>
+    Nei  ein slik som han kunde ikkje verta frelst. Det var ingen nåde å ventase Han kunde likso godt gå stad og gjera ende på seg med sama, for djevelen åtte han so korso.
+   </p>
+   <p>
+    Sisela var reint yvergjevi; ho gjekk der ut og inn, stellte med barnet og lydde påti Um ho hadde mistrutt Tore sume tider, kunde ho rett aldri tenkt, at det skulde stadet soleids til med han. Men slik ein syndar, som han no
+   </p>
+   <p>
+    skuldad seg fyre, det visste ho, han var då ikkje 8*
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    116
+   </p>
+   <p>
+    helder. Han talad berre yver seg,  det var nokot, kvart vitugt menneskje måtte skyna. Men når ho tok til og vilde orda um detta, slo dei andre henne av, og kom ho fyr augo hans Tore,
+   </p>
+   <p>
+    vittad han berre med handi og vilde ikkje sjå
+   </p>
+   <p>
+    henne. Ho kunde ingi hjelp gjera, let han, ho, som. var ein syndetræl som han sjølv. Då han no talad aum kvitting, kunde ho ikkje bara seg: w
+   </p>
+   <p>
+    »Eg meina, du fær bruka véte ditt, Tores, sa ho, men kom ikkje lenger.
+   </p>
+   <p>
+    »Kvinde, hvad havar jæg med dig at skaffe? « skreik Tore og slo illslegt ifrå seg med eina handi.
+   </p>
+   <p>
+    Ola ledad Sisela vekk og sa til Tore, at han måtte ikkje gjeva djevelen taumarne på den visi og sleppa all von. Han skulde koma i hug David. Han, som var mannen etter Guds hjarta, kvat synd hadde ikkje han gjort, då han horad med Urias si kona og endå til drap Urias etterpå ; men fekk han ikkje nåde, då han umvende seg og tregad syndi?
+   </p>
+   <p>
+    Jau, det var sant — det var sant. Var det nåde fyr Tore og då?
+   </p>
+   <p>
+    Ja visst var det vel nåde, sa Olan. Synderne hans var avvaskad i Jesus sitt blod. Stod det
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    117
+   </p>
+   <p>
+    ikkje skrivet, at um synderne endå til var som purpuret, skulde dei verta kvite som snø; ja, um dei var raude som skarlagen-let, skulde dei korso verta just som kvit ull? : Og so song Gudny: »Toet rén i lammets blod «. !  Då kom det med eitt yver han, at han kjende seg so urimeleg glad, slo henderne i hop og grét og lo samstundes. Djevelen hadde slept taket og gudsenglarne kviskrad fred i hjartat, totte han. »Eg e' frelst, eg e' frelstle sa han og tok til å syngja: »Jeg er frelst og dyrekjøbte«. Snikkar-Ola n slo upp i salmeboki, og han og Gudny stemde i med. Og Sisela sette seg på ein krakk med henderne hektad.  —  I lang tid talad folk um, korleids Tore Ramndal var vorten  frelstk. Ei slik andfekting og ein sovoren nåde spurdest ikkje kvar dag. Og det var til styrkjing fyr mange, som tok til å veikna no, etter det berre vart Snikkar- Olan og dei andre bygde-bønemennerne, som heldt samlingar. Tore vart idig til å »vitnas. Han sat alltid uppmed bordet no. Preikad gjorde han ikkje, for det hadde han ikke gåvor
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    118
+   </p>
+   <p>
+    till. Men mange totte, »bønerne hans var det besta av alt, dei hadde fyr seg i samlingarne. Det høyrdest, at han var ein, som visste, kvat det vilde segja å vera teken til nådar.  — —
+   </p>
+   <p>
+    For ei sæl tid det var fyr han Tore  desse vikornel Han gjekk der so fegen og glad, sullad og song og talad med vårherre i eino. Det var rett nokot annat enn å liggja i myri og grava som ein annan jordmakk og berre træla fyr denne verdslege mammon. Elder når han sleit med steinrøysarne nedpå rabbarne. 0Ja, den veitasteinen, han hadde kjøyrt fram, fekk rett liggja i fred no.
+   </p>
+   <p>
+    Kvat skulde det tena til å gå der og træla! Når ein hadde nok til livemåten, so lenge vår- herre vilde, ein skulde gå her i jammerdalen, var det ikkje til å kava etter meir. Det drog berre tankarne burt ifra det eina naudsynta.
+   </p>
+   <p>
+    Freistaren var vel burt i han ender og då og vilde få han til å tenkja både på veitorne og dei andre ting, han i si syndetid hadde etlat seg til å gjeray men han rådde alltid med han, so han fekk ikkje fast tak. — —
+   </p>
+   <p>
+    Kor mang ei hugnadstund hadde han ikkje no, etter han vart frelst !
+   </p>
+   <p>
+    Når han sat fyr bords-enden um kveldarne,
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    119 -
+   </p>
+   <p>
+    hadde huslyden kring seg og las »betragtningen « og bøni, og dei song salmen etterpå — ja, då var det just som det gildaste gjestebodte Og han laut tenkja på, korleids det skulde verta, når dei  kom til bords med Abraham, Isak og Jakob som skrivet stod.  — — Det var vælsignad stunder; han vilde vona, at dei skulde verta til bate fyr nokon kvar. Nokot merkje på, at vår- herre snart vilde finna Sisela, var det ikkje endå. Men Guds ord skal ikkje vende tomt attende, stod det skrivet, og hennar tid kom nok, just som hans var komii For kven hadde stretat meir imot enn han? —
+   </p>
+   <p>
+    Kor godt kunde dei ikkje havt det — han og Sisela —, når dei kunde fylgst på vegen til det himmelske Sion!
+   </p>
+   <p>
+    Stakkars Siselal — ho hadde det ikkje gildt. - Svært helsig var ho ikkje, og detta vælsignad barnet gav henne ingen nattefred. Men kvat råd var det? — Han kunde berre beda fyr henne, at ho snart måtte finna nåden; det vilde verta lettare alt slag då. Detta, at dei ikkje kunde lika einannan so godt som ynskelegt var, det fekk dei bera som eit »korse, vårherre lagde på deii Gud hadde nok havt si visa meining med, at dei skulde koma i hop, endå det hadde
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+    w-Ö% m— Tow&gt;] . , v⁰ i
+   </p>
+   <p>
+    120
+   </p>
+   <p>
+    voret so imot han Tore ifrå fyrst av.  Var det ! gjenget, som han vilde, og han hadde fenget h Magli Bakken til kona, kunde ingen vita, korleids enden var vorten. Herren sine vegjer er ikkje våre vegjer.
+   </p>
+   <p>
+    Og når Sisela no gjekk og gnaulad med l drengen um slåtten og høyvedret, vilde han taka
+   </p>
+   <p>
+   </p>
+   <p>
+    det som ein »prøver.  Det var ikkje annat ventande, enn ho, som endå var ein mammons træl, måtte tykkja, det gjekk innåt seg, når vår- herre ikkje sende dei høyturk — so væl vane dei hadde voret alle desse åri. Tore fyr sin part visste nok, det lagad seg endå, dersom berre storemannen vilde.
+   </p>
+   <p>
+    Dagarne gjekk. Eit og annat høylasset
+   </p>
+   <p>
+    fekk dei rett inn, men låkt slag var det, og stygt såg det ut. Stor vidda hadde dei, og det var ikkje likt til, det skulde verta avsleget i Ramndal det året. Husbonden dreiv ikkje på, og drengen totte, det var ikke hans, som til gjekk. —
+   </p>
+   <p>
+    Men då det leid yver hundedagarne, vart det endelig ein liten solbolk. Snikkar-Ola'n vart då med og hjelpte til, og resten av høyet kom fint under tak.
+   </p>
+   <p>
+    No kunde dei sjå, meinte Tore, at vårherre narrad ikkje den, som biad etter hans tid og time.
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    121
+   </p>
+   <p>
+    Sisela sagde ikkje nokot imott Men ho tenkte rett, at hadde dei voret um seg i år som hine åri og trutt minder på vårherre, var det
+   </p>
+   <p>
+    vortet væl so- mykjet høy, som dei no fekk; det
+   </p>
+   <p>
+    var so reint forstadett  Og det terrad henne fælt, at Tore gav seg tider til å kvila på fyre- dauren og midt i hardaste onni sette seg til med Snikkar-Olan og song salmar. Ein slik bøneskap gjekk yver alle grensor.
+   </p>
+   <p>
+    Men ho hadde den voni, at det vilde ikkje vara so lenge. Det høvde ikkje Tore å vera soleids.
+   </p>
+   <!--end of page-->
+  </div>
+   <div type="chapter">
+    <head>
+     VIII.
+    </head>
+   <p>
+    Sisela Ramndal åtte endå eit barn til. Det var so vanskapat, at ingen rett visste å segja, korleids det såg ut.  Doktaren laut hentast, for det vilde ikkje verta skilnad av seg sjølv. Men so vart då helder ikkje barnet livande, som væl var.
+   </p>
+   <p>
+    "Tore korsad seg yver alt det, storemannen hadde å syna. Det var ein Guds straffe- dom yver syndi.
+   </p>
+   <p>
+    Kvat fyr ei synd? vilde doktaren vita og var galen. BStoremannen var god til å skulda på, han!
+   </p>
+   <p>
+    »Vi støde alle an i mange ting, står ders, sa Tore og sukkad.  »Å ja, å jal Eg hev vore ein syndsens træl all min dag; eg kann kje adna venta, enn Gud vil tugta meg. Da e' ei synd- sens straff  ei syndsens straff!]«
+   </p>
+   <p>
+    Ja, at han gifte seg inn i si eigi slegt, det var ei synd, og den straffad seg no sjølv, sa'
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    123
+   </p>
+   <p>
+    doktaren. Det minsta, Tore kunde gjera, var å halda seg ifrå kona si fyr framtidi.  —
+   </p>
+   <p>
+    Det vart nokot å tenkja på, detta.
+   </p>
+   <p>
+    Alt det Tore vilde slå tankarne ifrå seg, kom dei alltid att; dei fylgde han, kvar han gjekk. Og di meir han grundad, di meir laut han sanna med, at det kann henda var rettast, som doktaren vilde, endå han lenge totte, det stridde imot »ordete. — —
+   </p>
+   <p>
+    Men um det no var vårherre si meining med barnet, at han vilde syna Tore detta, som dok- taren hadde sagt? — —
+   </p>
+   <p>
+    Denne tanken sette seg fast.
+   </p>
+   <p>
+    Ramndials-folket heldt ikkje sengjarlag meir. Bengi etter dei gamle stod endå i koven. Der var alltid Tore van å liggja, når Sisela åtte born; men når ho var vorti god, flutte dei i hop att. So gjorde dei ikkje denne gongen. Tore vart liggjande i koven; men Sisela låg i storasengi i stova og hadde vesla gjenta med seg.
+   </p>
+   <p>
+    Då detta spurdest ut i bygdi, flirde folk so smått. Dei skulde nok vera just som storfolket no i Ramndal med det, dei hadde kvar si seng. Men spottararne sa, at dei var vel so hei- lage vortne, at dei skulde ikkje koma nær ein-
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    124
+   </p>
+   <p>
+    annan. Og dei ristad på hovudet og meinte, det skulde rett hjelpa so fjerre.  —
+   </p>
+   <p>
+    1 tri år hadde Tore voret bønemann. Og - fyrsta året var det so reint framifråids Han var liksom høgt upp i himmelen, lengst oven um skoddaheimen, so han kjende dei varme strålorne  ifrå nådesolili Då var det or den eine samlingen åt den andre og vitna um synd og nåde og sa- tans magt. Tankarne gjekk berre ut på det eina naudsyntas- Han gløymde både mat og drikka, og når han vart minnt um det, svarad han berre med ein svivyrdsleg smil, at Guds rike var korkje mat elder drikka, men »retfærdighed, fred og glæde i den helligånd.
+   </p>
+   <p>
+    Men so tok det til å sakka: Vengjorne orkad ikkje bera han lika upp ått solii Dei slaknad; det gjekk ikkje upp lenger, men ned. Og lågare etter kvart. Det var endå vind under vengjorne, so han datt ikkje. Berre dalad, fint og stillt.
+   </p>
+   <p>
+    Og ein dag var han komen heilt ned på jordi att og for med spaden og jarnstauren på oksliil  — Han vilde gjera ålvor av det med dei veitornee han hadde kjøyrt fram steinen til.
+   </p>
+   <p>
+    Endå han hadde fenget fast jord under føterne, kjende han seg lukkeleg korso0o Han
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    125
+   </p>
+   <p>
+    hadde det godt : totte vænt um gudsordet, trudde på vårherre og hadde .fred i samvitet. Og etter kvart trongi til å vera apostel gjekk av han, totte han, heimen vart den gildaste.
+   </p>
+   <p>
+    Men no för dei andre bønefolk til å verta kalde imot han og vilde liksom ikkje lenger rekna han i lag med seg. Han var ikkje »brennande i åndene, totte deii Det kunde gå samling etter samling, som dei ikkje fekk han til å vitna. Og ofta møtte han ikkje helder. Vollaren talad då kveld etter kveld um dei, som »forlade sin egen forsamling, som nogle have for skikks. Alle visste, kven det var etlat åt, og totte, det var eit ord i retta tided For det var no klårt fyr alle dei, som hadde »uppletne augo«, at tankarne hans Tore hekk for mykjet i detta verdslega; han var teken til att med jordarbeidet sitt.
+   </p>
+   <p>
+    Men då det kom ut eit ord, som Tore skulde ha sagt, vilde ikkje bønefolket ha meir med han å gjera, men slo henderne i hop og bad vårherre sjå i nåde til han. No var det ikkje tvil lenger; satan hadde vunnet bugti med Tore. For det, han hadde sagt, var detta: »Ein kann tru soleids på vårherre, at ein vert upprådd på resten. «
+   </p>
+   <p>
+    Han sa det den våren, han laut kjøpa so mykjet fo'r og selja fleire av beisti sine, fyrdi
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    126
+   </p>
+   <p>
+    han hadde kjøyrt høyet so rått inn, at det brann i stålet og måttø hevjast på dungen.
+   </p>
+   <p>
+    Det var ellevta året, Tore og Sisela
+   </p>
+   <p>
+    sat med jordi. Slåtten hadde dei gjort ifrå seg; no var det korn-skuren Og dei budde seg til den, slipad sigdarne og lagad staur til.
+   </p>
+   <p>
+    Og dei hadde korntufti til å rydja, for ho låg full av høy, som dei hadde grytt ifrå seg der, med' hardaste onni stod på. No skulde det or tufti åt stålet, ristast utyver, stappast utåt bordtaket og trødast i hop. Og høy-stålet skulde rakast på den sida, som snudde fram til låven, so det ikkje kom høyrusk i kornet, når det vart innkjøyrt.
+   </p>
+   <p>
+    Tok dei so til med detta ein dag og flutte åt løda alle saman. Gutungen og veslegjenta skulde spela seg i hå-svali, men dei andre gjekk til arbeids.
+   </p>
+   <p>
+    ' I korntufti stod Sisela og tenestgjenta og kastad høyet fram på låven. So tok Tore det der ifrå og sende det yver biten til drengen, som stod i stålet, tok imot og kastad innar yver; sidan skulde dei andre vera med og trø' det i hop. Dei arbeidde lenge tagalle; ingen sa eit ord elder såg til leds.
+   </p>
+   <p>
+    Men anten det no meir var med vilje elder ei
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    127
+   </p>
+   <p>
+    det kom eit høyfang beint yver hovudet på Tore, so det druste ette. Han lo og gav kvinnfolki det att utan å sjå etter, kven det kom på. Sende so eit fang uppå stålet, men fekk med sama ein drusing til yver seg or korntufti.
+   </p>
+   <p>
+    Og fyrr dei sjølve vardest, stod dei der just som nokre ungar og lo og sende høy på ein- annan. Kvinnfolki var rappare enn Tore, og best som det var, låg han på låven, hostad og lo og kunde ikkje berga seg. Då sluttad kvinnfolki, slengde seg andpustne burt i høyet og turkad sveiten — Sisela med stakken, men gjenta med skjurte-ermii Drengen hadde sett seg frampå biten og 1o åt dei.
+   </p>
+   <p>
+    So grov Tore seg uppatt, skok seg og triv- lad med neven etter høy-stråi, som var farne nedmed skjurtekragen.
+   </p>
+   <p>
+    »No hev eg 'kje lætt so godt på da, eg kann minnast«, sa Sisela: Ho sat so frisk og raud burt i høyet, at Tore laut radt sjå på henne.
+   </p>
+   <p>
+    »Eg meina, me e' noke store unga', eg«, sa Tore og tok til å senda høy på stålet att.
+   </p>
+   <p>
+    Men mulebandet var av dei gjenget, og etterpå talad dei både um eitt og annat, med' dei stod og arbeidde. Og det var ikkje um det.
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    128
+   </p>
+   <p>
+   </p>
+   <p>
+    eina naudsynta, som Tore hadde havt det so annsamt med fyrr.
+   </p>
+   <p>
+    Var det ikkje nett, som han var vorten onnorleids? tenkte Sisela: For då ho lagde seg burti pratet imillom han og drengen, beit han henne ikkje av, men svarad henne likso vislegt som dei andre.
+   </p>
+   <p>
+    Då høyet endeleg var komet åt stålet, gjekk gjenta etter sopling og skulde gjera tufti rein, Tore klauv uppi til drengen, og. Sisela rettleidde ein grand med borni; det var vortet uvenskap med dei, og det vesla skreik fyr eitkvart, det ikkje fekk. Ho staggad dei snart, klauv so upp skorastongi og vilde åt stålet, ho og.
+   </p>
+   <p>
+    Tore låg på kné og rettleidde med stålbruni.
+   </p>
+   <p>
+    »Akta deg der på biten, Siselalk sa han, reiste seg og hjelpte henne yver. /
+   </p>
+   <p>
+    Det var uvant fyr Sisela, at han var so vyrk fyr hennee Ho sa inkjevetta — hadde ikkje voret god til å segja nokot, um det skulde goldet aldri dett Men det gjekk nokot varmt, mjukt igjenom henne, og ho såg Tore inni augo. Han slo dei ned og tok til med stålbruni att.
+   </p>
+   <p>
+    Men ifrå denne dagen vart det eit umslag i samlivet deira. Dei tok til å tala saman. Og sjå på einannan, når dei sa eitkvart.
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    129
+   </p>
+   <p>
+    bso ein sundag hadde Tore og Sisela gjenget til altars.
+   </p>
+   <p>
+    Det var slikt eit makalaust fint vedr den dagen, og Tore gledde seg til, at det skulde verta god turk på kornet åt folk den hausten; det hadde voret so av og til dei andre årii Og då han hadde étet og kvilt ein grand, tok han hatten på seg og sveiv ut. Han var teken til att med den gamla visi og dreiv kring marki um sun- dagarne og såg på arbeidet.
+   </p>
+   <p>
+    Sisela sat åleina att i stova. Gjenta var ute og stullad med sitt, og borni hadde heile dagen voret i Træ.  Sidan ho hadde gjenget til altars um dagen, totte Sisela, det kunde ikkje vera for mykjet, um ho las ein salme elder tvo. Og ho gjekk burtåt hylla i kråi etter boki, sette seg uppmed bordet og las.
+   </p>
+   <p>
+    Men Tore dreiv burtetter bøarne.
+   </p>
+   <p>
+    Han gjorde ein svint ned på nye-åkren og kjende i korn-staurarne, kor det gjekk med tur- ken.  Det tolde rett ikkje litet endå  inni bandii So stillt det var, gjekk det seint, fyrr det vilde verta skikkeleg gjenomturt. Kunde det laga seg med ei liti vindgræla  —; men det var rett ikkje til å kjæra på — det vedr, som
+   </p>
+   <p>
+    var, helder. JENS TVEDT: NYBROT. 9
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    180 Det var reint utrulegt, at det skulde verta slik åker av nedra myrii Gamlingen hadde ikkje
+   </p>
+   <p>
+    havt nokor tru på myri, han; men han skulde :
+   </p>
+   <p>
+    stét upp nol
+   </p>
+   <p>
+    Folk gjorde for litet av det med å dyrka jordii Fekk ho nokot, gav ho nokot att og, hadde alltid Myklestaden sagt; det var eit sant
+   </p>
+   <p>
+    ord. Detta med dei gamle åkrarne  det var
+   </p>
+   <p>
+    pura uppétingi! Hævdi, ein gav gamall åker, var mest berre burtkastadt Nei, nybrot  det laut ein gjera meir av det med.
+   </p>
+   <p>
+    Sagta mark nok å rota il
+   </p>
+   <p>
+    Han trudde, han laut leiga ein mann elder tvo i haust. Berre det var einkvar å få.  Og han tenkte etter, kven han skulde spørja.
+   </p>
+   <p>
+    Mats i Bakken — »Bruen« dei kallad — var ikkje so kaut på det, etter han fekk avsked or »tenestae. Han gjekk i arbeid, kvar det var ei dagløn å tena, for det var smått fyr dei i Bakken no. So mange born skulde det rett både mat og klæde åt.  Han Mats tok visst på det i fyrsta ordet, han.
+   </p>
+   <p>
+    Stakkars Magli! — ho skulde no koma dp i det og med den sutlaren.
+   </p>
+   <p>
+    Det var løgjet med lagnaden! Men so gjorde det vel og sitt, korleids ein stellte seg.
+   </p>
+   <!--end of page-->
+   <p>
+    131
+   </p>
+   <p>
+    Det vil kavast i denna verdi, skal det væl gå. Mannen hadde voret leid til å sutla og drikka um sumrarne, når han var på »turarnes.
+   </p>
+   <p>
+    Dei hadde voret til altars den dagen, Bakka- folket og. Ho såg ikkje mykjet gladvori ut, Magli. Og ho var både turr og bleikk Det var gsvært, kor ho hadde eldst desse åri.  Men Mats såg tasnast ut korso. Sko'rne var både raude og rivnad, og mest ikkje solar under dei  å kalla.: Munderingsbroki, han gjekk i, var upptasad innanbeins og skjein på knéi.
+   </p>
+   <p>
+    Med' Tore gjekk og tenkte på detta, var han komen uppå »håbakken« dei kallad. Der ifrå kunde ein sjå mest yver heile Ramndal.
+   </p>
+   <p>
+    Han stod der ei god stund og såg.
+   </p>
+   <p>
+    Aldri fyrr hadde han kjent, kor gildt det var å vita, at her var heimen hans, at her låg ar- beidet — både det, som var gjort, og det, som endå kunde gjerast. No kjende han det.
+   </p>
+   <p>
+    Og han såg seg glad i denne flekken, som var hans.
+   </p>
+   <p>
+    Han hadde so lenge tenkt å leggja kalva- hagen i åker. Det var ingen god plass åt kalvarne. Hard mark, med liti livd både fyr sol og regn. »Slevetræe, uppmed elvi, kunde
+   </p>
+   <p>
+    vera høvelegare. 9 *
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    132
+   </p>
+   <p>
+    Han gjekk der burt og furdad på detta.
+   </p>
+   <p>
+    Langs med elvi vaks det bjørnbær. No var dei gjorne; dei stod so fint svarte, at det skjein i dei, og såg so gode ut Han hentad nokre og smakad. Kom han so på, at han skulde henta i hatten og taka heim til  Sisela. Og so gløymde han kalvahagen.
+   </p>
+   <p>
+    Det var nok av bærii og med' han gjekk der og hentad, tenkte han på Sisela, og kor hug- nadlegt dei hadde havt det no ei stund frametter. Men han kunde ikkje rett skyna, korleids det hadde seg.
+   </p>
+   <p>
+    Skulde det vera detta, at dei hadde teket til å tala saman?
+   </p>
+   <p>
+    Han trudde mest, det måtte vera so. Det er undarlegt, når folk gjeng og tegjer; det veks so mykjet imillom, som kann skilja.
+   </p>
+   <p>
+    Det sveiv ikkje fyr han, at eitkvart annat gjorde og sitt.  —
+   </p>
+   <p>
+    Då han hadde fenget hatten mest full, gjekk han heim.
+   </p>
+   <p>
+    Sisela sat endå fyr bordett Ho las ikkje lenger, men studde hovudet i eina handi og strauk katten med den andra. Katten stod på bordet, sette kryllen til og krøkte halen uppyver fyr kvar gong, Sisela strauk han nedetter ryggen. Han
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    133
+   </p>
+   <p>
+    var ikkje ofta van med kjæling. og ein kunde mest tru, han undradst yver det sjølv, kor snilde dei var med han no, for han lagde hovudet på skakke og såg matmor si inni augo, med' han mol av fysna.
+   </p>
+   <p>
+    Med sama Tore kom igjenom døri, reiste ho seg, skudde katten ned av bordet og lagde boki upp i hylla.
+   </p>
+   <p>
+    »Du vart 'kje vis med bodni?« spurde ho.
+   </p>
+   <p>
+    »Nei, eg gjor ikkje da. E' dei 'kje komne att endå?
+   </p>
+   <p>
+    »Nei, dei e' 'kje da. Eg lyte visst burt og få dei heim, fyrr da verte for kaldt fyr den vetle krypen. Han e' kjølen no um kveldarne.«
+   </p>
+   <p>
+    Tore svarad ikkje nokott Det var desse bæri, han vilde gjeva Siselaa Han hadde aldri fyrr gjevet henne sovoret, og han skjemdest sant å segja. Men so vart ho vis med, at han stod med hatten i neven.
+   </p>
+   <p>
+    »Ka” e' da, du hev i hatten din? Eg meina, da e” bjønnbær, egl« sa ho og hjelpte han på 1os.
+   </p>
+   <p>
+    »Jau, da e' rett da slage. Da e' unøgje av dei uppitte Slevetræ i år. Vil du 'kje smaka dei? «
+   </p>
+   <p>
+    »Meina du 'kje, eg hev kome dei i hug fleire gonge. Eg såg, dei blømde so gildt i
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+    134
+   </p>
+   <p>
+    sumar.«  Ho tok nokre i neven.  »Me lyte gjøyma dei åt bodni.
+   </p>
+   <p>
+    »Me sete oss ned og smaka på dei, me og, tenkj ege, sa Tore og sette hatten ifrå seg på bordet.
+   </p>
+   <p>
+    Sisela smilad, og so sette dei seg jamsides på forsetet og knaskad på baæri.
+   </p>
+   <p>
+    Men um ei stund vart Tore vis med, at Sisela greøt. Tåra etter tåra rann ned yver kinnet.
+   </p>
+   <p>
+    »Ka e' da, so vanta deg, Sisela? spurde han; han vart mest rædd, for det var lenge, sidan han hadde set henne på den måten.
+   </p>
+   <p>
+    Ho studde hovudet burtåt oksli hans, men sa inkjevetta — berre greét.
+   </p>
+   <p>
+    »Seg, ka' da e'le bad han og lagde armen kring henne.
+   </p>
+   <p>
+    Men Sisela berre klengde seg innåt han og stridgret, so det skok henne all igjenom. Tok so Tore til å skyna, kvat det var.
+   </p>
+   <p>
+    Endeleg stillnad gråten litt,; men ho studde seg endå attåt han. So sa ho:
+   </p>
+   <p>
+    »Kven kunde trutt, at me sku' få da soleids, me tvo? Og ho såg uppå Tore, då ho hadde
+   </p>
+   <p>
+    sagt det.
+   </p>
+   <p>
+    Han hadde ikkje visst fyrr, at Sisela var so væn. Han tok henne tett innåt seg og
+   </p>
+   <p>
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    135 gav seg til å kyssa henne, so ho laut gjera seg Jaus 1frå”han på resten.
+   </p>
+   <p>
+    Ei stund etter stod dei ut på bakken og ventad på bornii Dei slapp henta dei, for no kom dei leidande hit ifrå Træ — gutungen stiv og stød som ein godfar, men veslegjenta hopp- ande og byksande, so ho mest vilde riva bro'ren i kolll Og når han snåvad, lo ho store skrelle- låttar, so det høyrdest lang veg.
+   </p>
+   <p>
+    »Skjele på, kor vidl ho e', den ungjen! sa Tore og smilad.
+   </p>
+   <p>
+    Ja, ho likjest nok på deg, ho, svarad Sisela.
+   </p>
+   <p>
+    Gjekk dei so og vilde inn attt Men på dørhella stoggad dei og såg ned yver bygdi.
+   </p>
+   <p>
+    Elvi gjekk som eit sylvband midt etter dalen, krøkte seg stillt fram, gjøymde seg attfyr eit kjerr, kom att  og gjekk so til fjords. Båtar rodde yver viki og heldt under Sæheims- landet; det hadde nok voret samling på Rekstra- strandi ein stad. —
+   </p>
+   <p>
+    Tfrå Ramndal kunde ein sjå gardarne ned- etter på andra sida: Klyve, Myklestad, Voll og Sæheim, og alle stader stod kornet på staur. Alle hadde fenget av det fljota slaget no, so dei skar samstundes heile dalen nedetter. Bjørkelidi
+   </p>
+   <!--end of page-->
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    1836
+   </p>
+   <p>
+    ovanfyr Myklestad tok longe til å hausta; det vart gule flekkjer innimillom det grøna. Likeins  var det og uppetter »aksli, millom Ramndal og Kroken, i dei små bjørke-kjosarne der.
+   </p>
+   <p>
+    Yver heile dalen var det so stillt og frede- legt, at ein kunde tru, folk hadde kurrat seg. Men det var nok ikkje so helder, for det rauk or skorsteinarne mest i kvar gardd Dei kokad til kveldss. Og i stilla søkte røyken ende upp og lagde seg just som små skoddedottar yver bygdi.
+   </p>
+   <p>
+    » Han røa so vænt på himmelen i kveld, sa Sisela.
+   </p>
+   <p>
+    Tore såg som snøggast på henne, um det skulde vera ei sers meining i ordi.
+   </p>
+   <p>
+    »Da tore verta ein fin dag i morgo ogs, sa han.
+   </p>
+  
+   </div>
+  </body>
+ </text>
+</TEI>
