@@ -1,0 +1,2063 @@
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" 
+   schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" 
+   schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HR005" xml:lang="hr">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tužna Jele</title>
+				<author ref="viaf:38023914">Mato Vodopić (1816-1893)</author>
+				<respStmt>
+					<resp>ELTEC Conversion</resp>
+					<name>Maja Matijević</name>
+				</respStmt>
+			</titleStmt>
+			<extent>
+				<measure unit="words">24513</measure>
+				<measure unit="pages">83</measure>
+			</extent>
+			<publicationStmt>
+				<p>COST Distant Reading: ELTeC</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="digitalSource">
+					<title>Tužna Jele</title>
+					<author>Mato Vodopić</author>
+					<publisher>Naklada Bulaja</publisher>
+					<date>2011</date>
+				</bibl>
+				<bibl type="printSource">
+					<title>Tužna Jele</title>
+					<author>Mato Vodopić</author>
+					<publisher>Matica hrvatska Dubrovnik</publisher>
+					<pubPlace>Dubrovnik</pubPlace>
+					<date>1993</date>
+				</bibl>
+				<bibl type="firstEdition">
+					<title>Tužna Jele. Povijest gruška</title>
+					<author>Mato Vodopić</author>
+					<publisher>D. Pretner</publisher>
+					<pubPlace>Split - Dubrovnik</pubPlace>
+					<date>1868</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc n="eltec-0">
+			<p/>
+		</encodingDesc>
+		<profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+			<langUsage>
+				<language ident="hr"/>
+			</langUsage>
+			<textDesc>
+				<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+				<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+				<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+				<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+			</textDesc>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2021-02-15"/>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="chapter">
+				<head>I.</head>
+				<p>- Ala junaci! uprite, uprite dobro, neka ovo grebine istegnemo jutros na kraj -
+					ala. - Ovako u prvo jutro jednoga jesenskoga dana vapijaše proto Božo s krme
+					nekakva staroga brika, koji već imajući postavljeno svoje drveno oruđe s
+					debelijem čelom obavitijem oko istezala na škaru ukopana, istezaše se na suho da
+					bude pregledan i popravljen.</p>
+				<p>- Fatte bonora, proto! - odgovori skup majstora i pozvanijeh na pomoć, pak
+					slijediše sokoleći jedan drugoga - Ala braćo! svi zajedno - ala uprimo - ala -
+					he - up - u ime Boga i svetoga Nikole!</p>
+				<p>Četiri su debele palice naprijekrst uvučene u glavu istezala: u svaku čvrsto
+					zapiru četiri žilave i žuljaste ruke gruškijeh majstora i okreću malo po malo
+					istezalom. Pod palicama između majstora sjedi na zemlji jedan manjak i kupi čelo
+					da bi sveđer jednako na tri kolača ostajalo obavito oko istezala koliko god bi
+					se brod približivo i na suho izlazio.</p>
+				<p>Budući proto uporavio poslom, sađe s broda i su dva majstora vladaše otud i
+					odovud, nek drveno oruđe, na kojemu brod istezo se je, sjelo bi na poluge
+					poređene niz škar do u more, put drveni po komu trebuje brodu pomicati se da na
+					suho izađe. Miče se brod pomalo, i jur dopro je do prvijeh poluga; ele sad
+					počinje muka.</p>
+				<p>- Sad, sad uprite - viče opeta proto i okom čas na brod da kuda ne nagne, čas na
+					čelo da ne stane pucati, oblijeće s jedne i s druge strane. - Ala dobro,
+					zahitili su vaši dvije poluge: pomnjivo, meštre Luko, da ta glava poluge ne
+					izleti, udri u nju nek otiđe bolje pod vaše; - udri - još malo - tako dosta. -
+					Ala braćo - uprite. - Mali, pomnjivo kupi čelo.</p>
+				<p>- Ele - ele - ele, - - ide - ide - ide dobro - vape majstori vrteći se oko
+					istezala.</p>
+				<p>- Vraga ti ide, zamrkoće jedan među njima. Vjere mi božije, prije bi se Petka
+					krenula negoli ovo starog greba.</p>
+				<p>- Teško je, moj Pasko, teško je jer je staro, doda drugi majstor: a stare kosti
+					vazda su teške. - Usto paka bit će u njemu vode što Bog dâ.</p>
+				<p>- To znam da ima pô njega vode, ma opeta nigda nijesam ovakoga vraga teška
+					vidio.</p>
+				<p>Lascia parola, vrtimo; evo nas sad ima na arganu dvanesterica, pa da ovakijeh
+					dvanest ne može istegnuti Gléđa na kraj? Hoće bome i Daksu.</p>
+				<p>- Bojim se da ne izleti argan, reče nekakav pomotnjik ondje kod majstora
+					Miha.</p>
+				<p>- Pogleda ga poprijeko Miho, pak mu se izdereči: argan će ti izletjet! - Živino
+					muč, kad ne znaš što govoriš. - Pak obazirući se na družinu povikne sokoleći je:
+					- Ala Paše, Luka, Marine, uprimo: što je ovo, Kristo santo! rekô bi da nijesmo
+					igda broda pomogli istegnuti na kraj. - Ala bolje - ala, eno je uhitio četvrtu
+					polugu.</p>
+				<p>- Ele - ele - ele bolje - pričnu vapiti i pripirati majstori oko istezala.</p>
+				<p>Brod utoliko popinjaše se malo-pomalo na škar, i, pazeći ga kako lijeno miče,
+					pomišljaš: ili zlovoljno ostavlja svoj stari zavičaj, ili more preko volje
+					ispušta ga žaleći jer pouzdani plijen njegovijem valovima otima se.</p>
+				<p>Prošle su osam ura jutra, brodu ne ostaje nego samo nos u moru, kad u crkvi
+					Svetoga Nikole, pomorskoga obranitelja, sagrađenoj na dno škara i prema ušću
+					gruške luke, službenik s prva zazvoni misu, pak nakon malo, stane klecati i
+					udugo.</p>
+				<p>- Oh! što je ovo? - reče proto Božo obraćajući se put crkve, - ali će jutros
+					parok srediti kakva nemotnjika?</p>
+				<p>- Ovo ti je slobodno tužnu Jelu Jozovu - odgovori majstor Miho - čuo sam od žena
+					da je jučer bila baš trudna, i da su noćas slali po popa.</p>
+				<p>- Mlada je jošter, što joj se zove?- priupita proto - koliko ima da je u mene na
+					škaru kupila ošćele? - Ama baš zadnji put kad sam je vidio, činila mi se nješto
+					posve ljohava.</p>
+				<p>- He moj proto - doda Miho - nije zlato sve što sjaje: mlada je, tužnica, ali ih
+					je mnogo podnijela; davala je volju za nevolju, rvala se je dok je mogla, pa na
+					svrhu zgučulala, a ja znam najbolje koji sam joj susjed.</p>
+				<p>- Imaš pravo, Miho, imaš. Danu družino - slijedi proto - da se potpre s
+					tri-četiri puntala ovo brodine. - Ti Vice, uzmi motiku - tu ispod bokâ udri na
+					četir' mjesta: - četverica po puntô u šake pak potprite. - Pasko udri dva klina
+					sprijed od vaša da ne puzu, i pomozi s jednijem puntalom u provu. - A ti Miho
+					abacaj čelo na arganu. - O djeco! čini mi se da ste se podbočili?- Na posô
+					mišiji repovi! - Brzo to čela skupite, drvlje sve na mjesto, raspremite put, ako
+					ovuda proprate sveti sakramenat. - Danu još se obazrite... ako dođem tamo...</p>
+				<p>Čim proto zapovijeda, posô se ispunja i pod njegovijem okom vaši utvrde se, brod
+					stane na svojijem potpiračima, i djeca put raspreme. - A sad, zaglavi proto, nek
+					se ovako cijedi korito, a mi homo štogodi zagristi i napit se, pak neki dio
+					otići će nas otpratit sakramenat do nemotnjice.</p>
+			</div>
+			<div type="chapter">
+				<head>II.</head>
+				<p>Mili Bože, lijepa ti li je gruška luka! nema joj nadaleko slične. Sa sjevera brdo
+					Srđ, koje opuzajući put zapada svršuje s Nuncijatom; sa juga Hladnica, Petka
+					mala i velika s brežuljcima Krvavog brda i Babina Kuka grle u svome kutu ovo
+					mirno pristanište dubrovačkijeh brodova.</p>
+				<p>Kitno borje, viti čempres, pitna maslina rêse vrhe i skuta okolnijeh glavica. S
+					desne i lijeve uzduž igala podižu se kuće marljivijeh stanovnika, more tiho
+					podnožje im je i zrcalo u kojemu, kako vile nad jezerom, odsijevaju njihove
+					slike prevraćene, i, pazeći ih noćno po mjesecu, rekô bi da ti se prekazuje ono
+					podvodeno selo, stan čarobni pjesničkijeh vila. Sjemo i tamo, kako labudovi među
+					utvicama, gospodske polače, ljetno plandovanje dubrovačke vlastele, tjeme k nebu
+					izdižu a sjenu u more upuštaju, tako da sve ovo smiješano sa osjenom dublja
+					Petke i glavicâ, ne znaš što ti je milije gledati, ili istiniti prizor na suhu,
+					ili bjeguću mu sjenu u moru.</p>
+				<p>Tihi i zanimivi ovi prizor bio bi mrtav da ga ne oživljuje, i ogromno oživljuje,
+					brodogradivo i pomorstvo. Škripa pilâ, tesanje bradva, mlat sjekira, krv je koja
+					kuca njegovijem živaljima, palilo i dim škara odihaj je njegovijeh grudi, šala
+					majstorâ, vika mornarâ, grajanje djece, riječ je i besjeda njegova.</p>
+				<p>Rât Šipka sa lijeve Lapadske strane, s desne Kantafik na ušću Rijeke svršuje luku
+					grušku, ali tu ne svršuje vas ovi čarobni prizor; jer odtole do otočića Dakse,
+					kako predluka, otvara se more pod Lozicom. Od Dakse paka put Stona, među kopnom
+					i otocima Koločepom, Lopudom i Šipanom, pruža se oni dugi zaliv koji, sa dno
+					Gruža gledajući, cijeniš ga jedno prostrano jezero bez ušća i bez ishoda u
+					veliko more, tako je zatvoren, tako je tih. Ali pomorac vrlo ga pozna i zna mu
+					vratlo, on mu ime poda Konô od Kalamote; k njemu, kako k pouzdanomu utočištu,
+					kormilo obrće kada s izmorenom plavi, ne moguć se već rvati proti bijesnoj
+					južnoj ili zapadnoj oluji, bježi kroz vratlo Grebeni i Koločepa, i krije se pod
+					zapleće blagodarnijeh otoka.</p>
+				<p>I uzdižući pogled tamo uprav preko Dakse, ono nješto malušno, što vidiš ljuljati
+					se usred mora, plâvi su veljačke osidrane, koje ondje ubjegle s protivnoga
+					vremena, čekaju ugodni dah da odjedre, neke put Carigrada, neke put Španje, neke
+					put Brazilja. Mili Bože, koliko uzdaha pratit će one plavi! Koliko misli za
+					njima letjeti! Uzdasi i misli majke, sestre, zaručnice, gorući jedni, hitne
+					druge, hitnije od istijeh vihara, stizat će svoje mile usred mora, oko njih
+					oblijetat će, prije njih doprijet će do namjerene luke da im dođu na susret i
+					obraduju se cjeć čestita putovanja.</p>
+				<p>Ali, kako veli poslovica »mrnarska večera tad ovadar vesela«, tako i misli pratit
+					će ih u strahu i predanju; ne čudi se, trepte za svoje. Vihar dune - jôh gdje su
+					naši? - Oluja uzbuni valove - Blažena Gospo, ti ih sačuvaj! - Grdna zimska noć
+					tamna kô pakljeni jaz, istijem pokrovom pritisla je more i kopno, val buči, kiša
+					lije, munja sijeva, grom tutnji. - Oh Bože dobri, smiluj se pomorcu! Sveti
+					Nikola, budi im na putu! Gospo od Milosrđa! bosi doći ćemo k tebi, sa zavjetom,
+					s darovima, samo izbavi naše iz pogube, obeseli nas dobrijem glasom. - Mrnarska
+					večera tad ovadar vesela. - Mnoge misli na dobro izađu, ali vaj! koliko kráti
+					nesretnja slutnja s nesretnjijom svrhom zaglavi!</p>
+				<p>Ovako predanje, molba ovaka, gost je obični malo manje neg svijeh gruškijeh kuća.
+					Ljudi stavniji i nedorasla mladost, zabavljeni gradivom plavčica i brodova, malo
+					misle o pomorcu; ali žene, čim posluju kutnjijem poslom, s pameti su na moru za
+					svojijem koje tamo otpravile su. Njeke, sreći obične, doistinu malo predaju, i
+					smolivši rozarije na čast Gospe i pet očenaša svetomu Nikoli, drže da su svoje
+					predali u dobre ruke, i zle kobi ne boje se. Njeke paka sveđ pune straha,
+					neprestano tresu se zla udesa; gdje godi učini kakvo zlo vrijeme, stavno drže da
+					je njihove zateklo. Koliko god mole, sve im se čini ili da je malo ili da je
+					zaludu; i čim od svojijeh knjigu prime, sa predanjem otpečate je, bojeći se
+					kakvagod crna glasa. Ne čudi im se, prijatelju moj, koga je zmija upekla i
+					gušterice se boji. I one negda izgubile su kogagod svoga na pučini morskoj, pak
+					predaju, i predaju, i predat će za ostale dok žive budu.</p>
+				<p>Slutnja paka čudna je u povijesti ljudskijeh strasti. Ondje gdje pamet ne dopire,
+					ondje gdje zastor budućnosti krije čovjeku znatiželjnu ono što mu se svoga žića
+					dotiče, često zbije se da slutnja opomene ga nekoliko prije kakvoj kobi trijeba
+					mu se nadati; i zato vidjet ćeš ga kad radosna, kad zlovoljna, po slutnji koja
+					mu srcem zavlada. Vidiš li ga zlovoljna, upitaj ga: - što ti je? - odgovorit će
+					ti: - evo ni sam ne znam što mi je, ali srce nešto mi zlo sluti, bojim se da me
+					ne zahiti. - Zašto je ovoj tuzi podan čovjek? ne ištimo. Može biti da s ovom
+					tamnom prividnosti Bog hoće na vrijeme pripraviti čovjeka nek lašnje pretrpi
+					sudbu koja hoće da ga udari.</p>
+				<p>Žene gruške drže do vjere za ovu slutnju srca svoga; njima srce gata sve, njima u
+					srcu stoji sve; u svojemu srcu i u notnjoj ljepirici one štiju sve što im se
+					dogoditi ima, dobra ili zla na svijetu.</p>
+			</div>
+			<div type="chapter">
+				<head>III.</head>
+				<p>Uz ulicu iza Krsta trholi jedna ženica, mlada, prosto ali čisto obučena, stasa
+					povećega, pokrivena po glavi bijelijem ubručićem. Trholi, trholi, lijevom drži
+					haljine sprijeda uzdignute da ne stane nogom na njih, desnom maha ko da sije, i
+					kadnokad njom napravi zvrčiće koji s brza hoda napali bi joj na oči. Zamakne iza
+					Krsta, pak nakon kratka puta obrne opeta uz drugu ulicu put čopora malijeh kuća
+					koje više Krsta usred brda bijele se između maslina. Dopre do puca koji svrće na
+					desnu put prvijeh kućicâ, ustavi se i zovne: - O Đive Mihova! jesi li doma?</p>
+				<p>- Ko me zove? - bi glas kojijem iz kuće odjavi se, i ončas za njim na vrata
+					pomoli jedna žena sredovječna, oblijeh i pretilijeh obraza, oči unakrst, stasa
+					kratka i debela. - Oh, Nike Lučina! ti si to; otkle tako? gdje si bila
+					podranila? pita dohodeću Đive otežući niza se ogrnjač i stavljajući ruke s
+					upletenijem prstima na trbuh, kako je običaj pretilijem i malahnijem ženama.</p>
+				<p>- Bila sam ti sestro u S. Nikole. Čula sam jutros zvoniti Misu, pa govorim: kad
+					nemam nekoga posla baš idem ugrabit misu i preporučit moje putnike. Ma sam ti
+					se, sestro, pokajala, prosti mi Bože (i udre se rukom po ustima).</p>
+				<p>- Ha - ha - ha - ha - grohotom smijući se upita Đive, - da što ti se dogodilo, da
+					si se pokajala?</p>
+				<p>- Nemoj se jadna smijati; kad ti pripovijem zašto, i ti ćeš požaliti.</p>
+				<p>- Ma koga, Bože?</p>
+				<p>- Ah moja Đive! iza Mise parok je odnio Sakramenat Jeli Jozovoj. - Ah moja
+					sestro! da vidiš kakva je, protrnula bi.</p>
+				<p>- Muči jadna! nemoj stucat; - Jezus, Marija, Jozef! - a od kad je rđava? - I to
+					rekavši, pusti ruke niza se i zagleda se u Niku, pak slijedi: - A nije istina,
+					to si me prevarila.</p>
+				<p>- Nijesam, jadna, ne, nego evo ti me baš od nje. - Nijesam znala ni da je rđava
+					ni ništa; nego, kad je svršila misa, vidim gdje se spravljaju u crkvi otpratit
+					Viatik. Pitam: - ko je rđav? - govore mi Jele Jozova. Kunem ti se, sestro, udrio
+					mi je klinac u srce. - Htjela sam ne otić, pa opeta govorim, baš hoću; otići ću
+					joj se javiti i s njome oprostit se. Pa kad sam je vidjela, lijepo sam ti se
+					razboljela.</p>
+				<p>- Sestro, reci mi koja je nemoć? Kako to ujedanput tako se prevratila?</p>
+				<p>- A što služi pitat? - znaš koja je - dobra.</p>
+				<p>- I bit će: - Koliko ih je tužnica podnijela! - čudim se da nije pukla odavna! -
+					A reci mi, ima li štogod, ima li kogagod sobom da je pregleda?</p>
+				<p>- U kući pripuklo siromaštvo; a susjedstvo pregleda je.</p>
+				<p>Ma stara Marija Đurova uza nju je vazda; i da nije tako, sa svijem susjedstvom,
+					što bi učinila obnoć sama u kući? Našli bi je mrtvu jedno jutro.</p>
+				<p>- O pusta Jele, vrlo li te nesreće tjeraju! - Koja ljepost! koje zdravlje! - Ko
+					bi joj bio rijet, moj Bože!</p>
+				<p>- A gdje ti je nje veselje, nje špotice?- a i biće nije bilo najgore, - pak sada,
+					križ božiji.</p>
+				<p>- He - he - moja Nike! Sve je negda bila, pak rota vota (i to govoreći obrne Đive
+					dva-trikrat rukom preko ruke, pak obje rastvori put tli, kako da je štogodi
+					vrgla) - i na - i eto ti tu.</p>
+				<p>- Baš rota vota - prida Nike; - A što ćeš sestro! tako ti je sve na svijetu.</p>
+				<p>- Bog vidio i kad si me zazvala na vrata! - nešto mi se ovdje uvalilo (i pokaže
+					ožičicu) - činila si mi oplakat. - Otići ću je vidjet svakako, bile smo
+					prijateljice, trijeba je da se oprostimo.</p>
+				<p>- Hajde Đive, po svaki način, ma nemoj prazna, erbo, o, (i učini prstom
+					palačkijem križ na usnama) - znaš što ti hoću rijet? - i s Bogom.</p>
+				<p>- To je moj poso - Zbogom Nike.</p>
+			</div>
+			<div type="chapter">
+				<head>IV.</head>
+				<p>Više donjega škara pri brdu, ima jedan dobar čopor kuća, k njima vode dvije tri
+					ulice. Prođi ih svijeh, pak uzidi kamenite stepene do pred crkvu S. Nikole;
+					ustavi se, pokloni se pomorskomu obranitelju, pak slijedi naprijed tračkom na
+					desnu. Uzidi opeta do po ulice koja ti je na lijevoj i naći ćeš se pred jednom
+					kućicom malahnom ali spodobnom. Vrata su pritvorena, prozori zatvoreni, u njoj
+					živa duha ne čuje se. Mniš da je pusta? - Nije još, nu će bit dobrzo. - Ako ti
+					nije runjavo srce i znaš se poboljet nevoljom, upri u vrata i uljezi.</p>
+				<p>Stupio si preko praga, razgledaš ima li gdje kogod živ? - Ne vidiš u ulazištu
+					nikoga. Uzidi lagahno na pod, poslušaj... U sobici, na lijevoj, čuje se dihanje
+					spavajućega čeljadeta, - slušaj bolje.... čuje se kadnokad nekoga slabo
+					zaječati; - stupi unutra. - Oh Bože! - gola četiri zida, jedna trpezica u kutu,
+					dva stočića, mali siromašni ali čisti odric u srijedi je, i na njemu ne znaš ili
+					voštena slika, ili živa osoba iznemožena krutom bolesti. Glava joj je do sred
+					pleći naslonjena uz dvije tunđele ruke premetnute tamo i amo po postelji i
+					pokrivene do zašaka rukavima tanahne prtene košuljice; mledne su, osušene,
+					prozračne, bijele su kako slonova kost. Tijelo pruženo nemakljivo, rekô bi da je
+					mrtvo, da ne vidiš na dušniku uzô premićene košulje tresukat se, i da ne čuješ
+					neko jecukanje, kako glasak malahne raspuknute svrdonice.</p>
+				<p>Glava ove osobe pada put desnoga ramena, lice produgo i blijedo ispito je od
+					nemoći, ali negda imalo je biti veoma lijepo; čelo široko i čisto, obrve crne
+					tankovite, oči.... još ne znaš kakve su, er ih veđe pokrivaju - modrijem krugom
+					potprte su, usta malahna i još, pusta!, rumena su: Ovo lice, kako slika
+					zatvorena u crnijem stažicama, kruženo je dugijem crnijem pletenicama,
+					raspuštene kose padajuće niz lica i ramena, čini ti se, gledajući ga, da gledaš
+					sliku kakve svete mučenice.</p>
+				<p>O moj Bože! koja je ovo nemotnjica? - Ovo ti je Jele Jozova, negda vesela žena i
+					majka, a sada udovica sirotna bez igdje ikoga i bez ičesa, koja, da nema onu
+					staru ženu koju vidiš ondje naslonjenu na trpezici spavati izmorenu cjeć
+					notnjega bdijenja, ne bi imala ko bi je privratio, ko bi je napojio, ko bi joj u
+					smrti oči zaklopio.</p>
+				<p>Oh čudne nestalnosti ljudskoga života! Razumijem pasti na nevolju, ali ovako
+					smrtno bit zasječen da od kitnoga bora ostaneš truhla panjina....</p>
+				<p>Pst - pst - ostavimo moralne opaske - eno nemotnjica krenu veđama, otvori ih
+					progovorit će.</p>
+				<p>- Marija - Marija - glasom čelice zovne nemotnjica spavajuću drugaricu. - Ne čuje
+					me tužnica, zaspala je, umorna je - pak uzdižući oči k nebu (ah kakve su one
+					oči! ako i napolu mrtve, uglijen su, kadifa su, crni dragi kamen su: ja ne
+					vidjeh ljepšijeh, nježnijeh, vatrenijeh) - uzdignuvši ih k nebu, velim, zavapi:
+					- Bože dobri, ti joj nadokladi er ja ne mogu. - Stane malahno, pa opeta jačijem
+					glasom zovne - Marija!</p>
+				<p>Prene se stara, skoči na noge i, tarući dlanom oči, odgovori: - Što je Jele moja?
+					- jesi li štogod htjela?</p>
+				<p>Podigne nemotnjica ruku, i pokazivajući žmuo vode na trpezici, reče joj: -
+					Okvasiti usta.</p>
+				<p>Uzme stara žmuo, pak, postavljajući lijevu pod glavu nemotnjice i podižući je
+					malahno, prisloni joj žmuo pred usne; nemotnjica srkne dva-triput i rukom
+					odaleči žmuo od usta. Spusti je opeta Marija na tunđelu, stavi žmuo gdje prije
+					bijaše, vrati se k nemotnjici i, popravljajući pokrivač postelje, upita je:</p>
+				<p>- Jesi li ikoliko pospala?</p>
+				<p>- Jesam malo kako u slabosti; a jesi li ti, tužnico, mrvicu trenula? - Zagleda se
+					u staricu, pomiluši je rukom po obrazu pak slijedi: - Oh moja Marijo! Bog ti
+					platio i s ovoga i s onoga svijeta! Da te nemam, što bih jadna sirota koja
+					sam?</p>
+				<p>- Da, moja Jele! da - muči - o tomu ne govori - na svijetu smo da pomožemo jedan
+					drugoga. - Da nemaš mene bio bi kogod drugi. - Bog koji ne ostavlja tičicu u
+					gori, ne bi ni tebe ostavio bez pomoći.</p>
+				<p>- He... he...: Bog... Bog...</p>
+				<p>- Jele moja! znaš što si jutros učinila? Znaš ko te je pohodio? - Nemojmo sad
+					početi štogod ludo govorit. - Spomeni se riječi parokovijeh, pa skupi srce i
+					preporuči se tvomu Jezusu.</p>
+				<p>- Znam dobro, Marija moja, znam; i da nemam još u sebi malo vjere, tko zna što bi
+					bilo do sad od mene!</p>
+				<p>Uto Marija izvadi ispod tunđele jedno malo propeće, prinese ga k ustima
+					nemotnjice i reče joj: - Poljubi, Jele, ovi sveti križ, zagrli tvoga Jezusa; i
+					on ostavljen od svakoga za nas na križu umro je, pritrpimo dake i mi štogod za
+					njega. - I kad poljubi križ nemotnjica, slijedi starica: - Ha, tako - pak ćeš
+					vidjet kako će te pomoć. - A doći će k večeru i parok; obećo ti je, znaš, pak i
+					on razgovorit će te štogod i utješit svetijem riječima.</p>
+				<p>- Bog mu dô - dobri parok! Oh koliko mi je valjo u mojijem nevoljama! - a jutros
+					napose. - A koje je doba?</p>
+				<p>- Bit će tri ure po podne. Meštri odavna tuku na škaru...</p>
+				<p>Istom ovo izreče ugrize se Marija za donje usne kako da joj se nešto bijaše
+					izmaklo nehotice iz usta.</p>
+				<p>Opetova nemotnjica riječi: - Meštri... tuku... škaru - pak streptje kako riba na
+					ostima, sklopi ruke i pritiskujući ih prsima zavapi rascviljena: - Bož moj! Bože
+					moj!... ah zašto svijeh?... Pak ukoči se i zamukne.</p>
+				<p>Staru Mariju poliju suze videći se uzrok nehoteći zla stanja nemotnjice, i sama
+					sobom najeđena reče, otresajući rukom: - Na, Bog vidio i kad sam spomenula škar
+					i meštre! - Eto ti što sam doradila - a sad što ću sama?</p>
+				<p>U to Jele počne trgati se i mučiti se po postelji, a stara, držeći je, stane joj
+					vikati na uho: - Bože moj pomozi me! - Bože moj u te ufam... prosti mi što sam
+					te uvrijedila...</p>
+				<p>Jele ne čuje riječi starice, slijedi u svomu trganju nekoliko časa, dok izmorena
+					uze govoriti u nesvijesti: - Meštre Jozo... ha - ha - ha! - Meštre Jozo - koji
+					se brod sagradio bez meštra Joza?... Bradva - sjekira - to su mu igrice - ja ga
+					vidim, vidim... Oh Bože moj! nije moguće, ne... doći će... ima doć... ja sam mu
+					rekla da dođe brzo... i rekô mi je da hoće... Ho - ho - ho - i uzdigne se na
+					desni lakat, a s lijevom pruženom kako da nešto pokazuje, slijedi: - Ho - eno
+					jedan brod pozdravlja Gospu. - Evo ti je moj Jozo - Jozo - Jozo! a gdje je tužan
+					Jozo? - I to rekavši poliju je suze i pane kô mrtva na postelju.</p>
+				<p>Ne zna se koja je u većoj muci, ali Jele, ali starica. Muči se tužna Marija oko
+					nemotnjice, tare je octom, zalijeva je vodom, pridrživa je, pokriva je, zove je,
+					spominje joj Jezusa i Mariju, ele muči se na svaku ruku da je povrati u svijest,
+					no sve zaludu. Onda samo kada lijevanjem suzâ oblakša stegnuće duha, umiri se
+					unutrnje trganje nemotnjice; ova uzdahne iz duboka, otvori oči i, kako iza sna,
+					upita: - Je li neko dohodio sadarica?</p>
+				<p>- Nije, Jele moja, niko dohodio - odgovori joj stara. - Ma što si se tako
+					uznemirila? Nemoj, sestro, činiš gore sama sebi.</p>
+				<p>- Nekijem žalostivijem posmijehom odvrati joj Jele: - Ha - ha - ha, a što može mi
+					bit gore! - je li smrt? - nek se puni božija volja. - Ah da smo hoće prije!! -
+					Pak gledajući staricu: - Plačeš ludnico? ne plači nimalo ne, nego, kad me vidiš
+					da sam dospjela, reci: blago njoj, svršila je paćenje na svijetu.</p>
+				<p>- Tako Jele moja, tako, - ma veće dosta; - utuli se malahno jeda se umiriš i
+					zaspiš. Znaš da pred večer sveđ dođe ti kogod; neka barem nađu te mirnu i
+					počinutu, er inačije dodijali bi ti s ispitivanjem: što ti je? ma zašto si taka?
+					i trista drugijeh.</p>
+				<p>- Imaš razlog, Marija, - pritvori mi malahno prozor da mi nije velike svjetlosti.
+					- Tako, nemoj više, ha - a sad i ti hajde počini malo.</p>
+				<p>- Ti za mene ne misli, - čekaj neka te pokrijem i otegnem ovo postelje. - Je li
+					ti ovako dobro? - Da, budi mirna; ako budem ti od potrebe, ovdje sam pred
+					vratima, kucni me stočićem. - I izide starica sklapajući ruke i mrmljajući nešto
+					u sebi, valjada molitvu.</p>
+			</div>
+			<div type="chapter">
+				<head>V.</head>
+				<p>U predsobici bijahu tri četiri stočića naokolo zida; između dva prozora koja
+					gledahu put brežuljastoga Lapada na luku grušku i more put otoka Dakse, bijaše
+					jedna drvena zaklopnica, duga a uska, sa uslonom, podobna i za spremanje stvari
+					i za siđenje. Malo je dubrovačkijeh seoskijeh kuća bez ovoga pokućstva, i ime mu
+					je blanak. Pred njim vazda je trpeza, i tako je kod naše nemotnjice. Trpeza je
+					pokrivena s nešto vethoga ćilima, i na njoj kudjelja Marijina.</p>
+				<p>Vratlo ljestava uz koje se ushodilo na pod, bijaše ograđeno sa dvije strane
+					drvenom rešetkom, a ova, do pole šticama pokrivena, sačinjala je jednu prostranu
+					policu, koja, kako i blanak, malo manje nego u svijem našijem starijem kućama
+					pod imenom pódac trebovala je da bude. Na ovomu pócu bijaše namješteno razliko
+					posuđe: čašice za kafu, žmuli, caklenice, svijetnjak, stupica bronzena sa
+					svojijem tucnjem, imbirčići, itd.</p>
+				<p>U kutu kod poca ima u zidu jedna spremica (običajno kod nas ormarić) sa svojijem
+					vratima, mjesto u malijem kućama za spremanje hrane i piva. Sve što vidiš u ovoj
+					predsobici sve je čisto i uredno sasvijem da odiše prepuklo siromaštvo.</p>
+				<p>Stara Marija, kad ostavi nemotnjicu i izide u presobu, prođe po njoj tamo i amo,
+					zaviri na jedan prozor pak na drugi, dopre do spremice u zidu, otvori je, izvadi
+					caklenicu s vinom, utoči pô žmula, popije ga, spremi jedno i drugo, zavrne
+					vrata, otare usta krajem ogrnjača, pak otide sjesti na blanak i, naslonivši se
+					na trpezu, izvadi kraliješ i počne sama sobom moliti rozarije.</p>
+				<p>Istom se stara namjesti i poče moliti, proviri s najgornjega stepena kroz rešetku
+					jedno malo mače, bijelo ko labud, provuče se, potrči, skokne na trpezu glaseći
+					se nekijem dugijem mr-mrr - što u mačijem jeziku izgovara pitomnost i
+					prijateljstvo, te zaprčenijem repkom stane presti, omiljivat se oko Marije,
+					tuckat je glavom i, na svrhu, s velikoga klanjanja i obrtanja, repkom je po nosu
+					opahnjivati.</p>
+				<p>- Jadna živinice, što si došla ometat mi molitvu? - uze stara govoriti s mačetom;
+					- da da, ja znam što to hoće rijet: čekaj neka prvo vidim imam li ovdje štogod -
+					(I tako veleći, zavuče ruku u špag pod haljine, nešto napipa i izvadi): - Na,
+					evo ti mrva sira, griskaj i miruj. - Pak, gladeći mačku, slijedi starica
+					žalosnijem glasom: - Tužna živinice! ti si bila jedini razgovor svoje gospođe,
+					sveđ si kod nje bila, a sad, kad ti nestane, kuda ćeš! - poskitat se kako pusta,
+					dok te kogod premlati: Lijepa živinice! - zaisto, netom Jele svrši, odnijet ću
+					te ja u mene doma, neću te pustiti ne, moja živinico. - Jesi li izjela? - da, a
+					sad hodi ovdje u skut. - Tako - lezi lijepo, stani mirno i pusti me moliti
+					Boga.</p>
+				<p>Mačka namjesti se staroj u skut, a ova uzmetne se na uslon zaklopnice na kojoj je
+					sidjela, objema rukama potpaše mačku i priuze prekinutu molitvu, promičući
+					zrnima kraliješa niza skuta spuštana. Mačica zažme oči, poprede malahno, pak
+					umukne i zaspi. Marija naslonjena i glavom uzvraćenom put nebesa, da bude,
+					cijenim, skupljenije pameti, zaklopi oči i ona, i počne - Zdrava Marija...; reče
+					jednu pa drugu, treću, četvrtu..., u neko doba stade prekidivat molitvu; dopre
+					do po Zdrave Marije, ustavi se, - uporavi opeta, reče dvije-tri riječi, - zaludu
+					ne da joj se slijediti. - Usiluje se, te iznova: Zdrava... Marija... i već nema
+					ništa: i stara, kako i mače, bijaše slatko zaspala.</p>
+				<p>Bog ti sam zna dokle bi bila tako protegla, da tanahno mačije uho ne bude dočulo
+					da je neko kutnjijem vratima oškrnuo. Otvori živinica oči, napregne uši, naoštri
+					brke i namjesti se na skutu kako bi lašnje đisnula ako joj bude do koje. Mačina
+					priprava na bijaše zaludna, er neko doista uljeze u kuću i poče lagahno ushoditi
+					ljestve od poda. Ushodi lagahno ali teško, jer kadnokad škripne stepen pod
+					uzlazećom nogom. Proz drvenu rešetku jur proviriva nečija glava smeđijem
+					ubruscem pokrivena, proviru ramena i, najpotlje, ukaže se na vrh ljestava lice
+					pretilo Đive Mihove, one ženice s kojom smo se saznali za Krstom. Ukaže se Đive
+					i ispod glasa pozdravi: - Hvaljen Jezus!</p>
+				<p>U dobar čas progovori, er mače, neobično tuđoj čeljadi, istom sagleda lice i
+					dočuje glas, poplašeno prucne se staroj iz skuta na pod, s poda kroz rešetku na
+					stepene, sa stepena ko ti zna gdje. Nu u onomu što se prucne, trijeba je rijeti
+					da staru dohiti čapcima, er se ova prene oda sna, pusti kraliješ na tle i
+					hitno-hitno vrže ruke za se vapeći: - Tamo te đavo odnio, pasija živino! ne znam
+					što se od mene dogodilo, - pak zagledajući desnu šaku - jes' vidio kako me
+					očegrljala, otrovna otrovnice! - Dobro, doći ćeš mi da ti dam štogod. - I to
+					veleći uze trti slinom mačiju brazgotinu, ne opazivši Đivu.</p>
+				<p>Đive s vrh ljestava ne miče se nego gleda staru i duši se od smijeha, a kad se
+					poustavi, opetova: - Hvaljen Jezus!</p>
+				<p>- Ho! - ko je to? - a ti si Đive, - dobro došla, - paček: vazda budi hvaljen! -
+					Hodi naprijed, što si tu zaprla?</p>
+				<p>- Ne znam smijem li od mačaka - odgovori Đive.</p>
+				<p>- A ti si je poplašila! - he - he - er sam se đavlu i čudila, koji joj se bodež
+					dogodio da me ovako očebrškala.</p>
+				<p>Uto Đive stupi na pod noseći nešto zamotano u ručinčiću, koje preda staroj
+					govoreći:</p>
+				<p>- Ovo sam ti jadna donijela mrvicu kafe i cukara, dva tri kunčića kruha tvrda i
+					gostaričicu ulja, - drži s pomnjom, i spremi prije nego kogod dođe. Nemoj se
+					narugati erbo je malo, ma što hoćeš...</p>
+				<p>- Muči moja Đive! ovdje je svega dosta. Bog se od tebe spomenuo na rajskoj
+					trpezi! - A što ćeš da ti rečem u čemu sam; da nema gospara paroka i prijateljâ,
+					bilo bi zaista svašta.</p>
+				<p>- Razumijem te, razumijem. - Ko bi bio igda reko da na ovo ima doć tužna Jele! -
+					ama da - tako Bog je htio. - A reci mi što čini nemotnjica?</p>
+				<p>- Ostavi me, sestro; malo prije bila sam ti s njome na sudu božijemu. - I stara
+					pripovije Đivi trganje i iznesviještenje nemotnjičino, i svoju muku da je
+					povrati. - Pak zaglavi: - A sad promisli malahno kakva sam ti se našla sama bez
+					igdje ikoga.</p>
+				<p>- Marija moja, Bog će ti dat, er s tezijem stvarima, da nema tebe, našli bi je
+					mrtvu. - Ma dobro je obdan, a obnoć? Reci mi dođe li ti kogod da ti
+					pripomože?</p>
+				<p>- Dođe ovo susjedstva i doduše pomože; a stara Lukre Franova i Pave Nikolina
+					izmijene me po koju uru i obnoć.</p>
+				<p>- Neka, jadna, erbo opeta starica si, pa što hoćeš? Neko valja da ti da ruku, er
+					u neko doba, prasla bi i ti uz Jelu.</p>
+				<p>- Kćerce, Bog me drži, ne znam ni sama kako. - Eto tu, hvala Bogu, cijenim da je
+					ovo još za malo.</p>
+				<p>- A bi li mogla vidjeti tužnicu?</p>
+				<p>- Po svaki način, Đive moja. Nego, kako sam ti pripovidjela, nakon muke i
+					trganja, islabljena, hotjela je malo zaspat, ali imala bi se već brzo
+					probudit... ho! eno kreće se. - Znam ti ja nju dobro. - To rekavši ustane,
+					spremi prinos Đivin u spremicu kod póca, i uputi se put sobe Jeline.</p>
+			</div>
+			<div type="chapter">
+				<head>VI.</head>
+				<p>Nemotnjica izmučena i islabljena, kako smo već vidjeli, bijaše požudjela počinuti
+					i zaspati. Nu kakav san hoćeš da bude jedne nemotnjice jur na skončanju života
+					cjeć krute bolesti, uzrokovane od pretrpljenijeh nezgoda koje udariše prvo duh
+					pa i tijelo? Skorila je nemoć, jer neprestavno tiskala je misô prošastijeh tuga,
+					koje razmniva uzmnažala je a samoća vriježila, tako da pamet, sveđ u toj misli
+					zabjena, nevidljivom kosom sve to većma podrezivala je življe zanemarenoga
+					tijela.</p>
+				<p>U ovom položaju isto spanje ne bijaše nemotnjici od pomoći, er razgrijana pamet
+					na san dovodila bi joj izgubljene svoje drage. Kadgod snijevala bi da ih vidi
+					gdje se gube, gdje se rvu s morskijem valovima, gdje izdišu udušeni; i onda u
+					snu istomu vrisla bi vapiti i plakati tako da kô van svijesti ustala bi oblivena
+					suzama, i pričeti plač i uzdisanje slijedila bi razbuđena dok, ne utažena nego
+					iznemožena, oborila bi se polu mrtva na postelju.</p>
+				<p>Kadgod opet snijevala bi lijepe i vesele svoje dane; bila bi sa svojijem drugom u
+					milomu razgovoru; činilo bi joj se kô da svoje sinove s mora pričekiva, - grlila
+					bi ih, ljubila bi ih; - ali uto prevarni san ostavio bi je, probudila bi se još
+					s rukama obavitijem u način zagrljenja - i u ti čas mile snijevane sjene ratrgle
+					bi se, radost iščezla bi, našla bi se opeta pusta i sirotna, pak onda... A što
+					ćeš povijedati, kad sâm možeš promisliti što bi tužnica činila, što li
+					naricala.</p>
+				<p>Slično snijevanje i sada joj se bijaše prikazalo. Ali kako u tijelu izmorenu i
+					obrvanu bolesti i ognjicom miso uredna i stavna ne može slijediti, nego sad tamo
+					sad amo leti smetena, tamna, bjeguća, prekinuta, tako i Jele snijevaše nešto
+					tamno, neredno, prekinuto. - Činilo joj se s prva da na škaru kupijaše treštine
+					i da se razgovara sa svojijem Jozom, koji joj preporučivaše nek zarana spravi
+					večeru.</p>
+				<p>Čim paka vraćaše se na dom s punijem ogrnjačom ošćela i treština, nađe se
+					najedanput u nekakvu brdu među hridima i kapinikama. Penje se - penje sve to
+					veće - kad eto se nahodi na jednoj strmeni, more je pod njom: - gdje je, ne zna;
+					ide da se vrne, ali opuza natrag put mora - more buči, noć je i neko zove. Glas
+					je Joza, zove ručak; - trči doma, trči, trči - a ni stope naprijed; - hoće da
+					zove a ne može. Jozo je došo doma, ona ga vidi, ali k njemu ne može. - Oh moj
+					Bože što ću, kako ću? - Pada joj kako jedan zastor s oči: nema hridi, nema
+					drače, u brdu je više kuće, slazi s malo šume pod pazuhom. - Jedan brod
+					razapinje jedra i uporavlja iz Gruža, neko maha s njega. Vajmeh! ono je Jozo,
+					eno ti mi je otišo, a ja nijesam ga zagrlila. - Čekaj Jozo, čekaj malo! - maha i
+					ona i leti na igalo. - Eto je na igalu: nema broda, nema Joza, a nije ni ona
+					došla na žale da otpravi muža, nego da pričeka sinove, Balda i Paska. - Brod
+					jedan pomolio je iza Dakse, ulazi u Gruž, neko maha svrh prove, ono su oni, moja
+					dva oka. - Hvala ti, Bože, da ih je majka dočekala zagrliti! - samo razbili su
+					se! - utopili su se! - hu zlogodnice! ne bilo vas na svijetu!</p>
+				<p>O da joj se san ovdje hotio prekinuti, nek se barem mirnija probudi! - ali ne -
+					sve je imalo mučiti na svijetu i san i java. - Čim sanja sreću, eto pada nekakva
+					magla gusta, gusta, spravlja se godina; - nemotnjici čini se ne već da je na
+					žalima, nego u kući na prozoru; sluša buku zle godine, čuje žamor i viku na
+					škaru. - Što je? - puca top na moru, pozdravlja Gospu... ne, ište pomoć - jaoh!
+					ko je? - Eno ga kako leti mimo Kalamotu; - more je uzavrelo, jedan val bacio je
+					brod uprav kroz vratlo Dakse i Lapada pod Lozicu - sreća - nije se razbio, nego
+					križa prema vjetru da umlati u Gruž; ne može, ne da mu bura na Rijeci; - eno ga
+					prema Šiškovu - nosi ga nizdoli. - Smrklo se - grmi, - zovu s broda pomoć. -
+					Vajmeh! ono ti je glas Balda i Paska, trčimo pomoć ih. - Čini joj se da je sašla
+					na igalo, da je ugazila u more, ali ne topi se, pod nogom joj je more nešto kako
+					kaša, kako tijesto, u koje upada samo do više šklanjaka. - Po tomu gustilu gazi,
+					gazi, ali koliko bi htjela prije potrčati, toliko veće ometa se; - brod je blizu
+					Vranca. - Maha Jele i viče da se ukloni pogube, niko je ne čuje. - Još malo -
+					sad, sad rastući će se - eno ga - (u to prasne nešto kako zrnje po tlima, i baš
+					bješe kraliješ Marijin kad joj mačka prucne se iz skuta) - brod udari o hrid,
+					raspe se, nestade ga, a Jeli san pretrgne se i nađe se držeći platno od postelje
+					oko sebe saklupljeno, kako čeljade haljinu kada po moru gazi.</p>
+				<p>Sva zapijehana, oblita suzama, više umorena od teškoga klapanja negoli utješena
+					od slaboga sna, ne probudi se sasvijem nemotnjica; ostane u onomu biću koje nije
+					ni san ni java. U temu položaju načuje u predsobi šapat Marijin i Đivin i,
+					cijeneći snijevanje jur prekinuto, ne taštu prikazu svoje razmnive, dali čitavu
+					istinu, mišljaše: sakupiše se ono čeljad, da mi navijeste crnu nesreću koju sam
+					očima svojijem vidjela malo prije. - Drhta joj srce, znoji se od muke, ruke
+					sklapa i čeka, kako ovca nož, glas nemili koji je ima uništiti.</p>
+				<p>Kad Bog ushtije, malo-pomalo razabere se, otvori oči sasvijem, pogleda naokolo
+					sebe, vidje se na postelji, i tad samo pozna da sve ono ne bijaše ino nego
+					nemili san, koji nazad četiri godine bijaše se u svoj prem krutoj istini
+					izvršio. Krene se po postelji, pruži se, pokrije se i napravi razbačenu pokrivku
+					oko sebe, pak izdigne oči put vrata da zazove Mariju, koja baš tada stupi joj na
+					vrata.</p>
+				<p>- Da, vidiš kako si lijepo počinula - počne govoriti stara, približajući se k
+					postelji - jesi li sada mirnija? - he, kako nijesi, - sad si, Bogu hvala!, sve
+					drugo, nego malo prije, - a je li ti štogod od potrebe, moja tužice?</p>
+				<p>- Oh dragi Bože! ti sam vidiš sve - odjavi s uzdahom Jele, i zamisli se neke
+					čase, pak slijedi: - Nije mi ništa od potrebe, nego činilo mi se, da s nekijem
+					tamo govoriš, ali je kogod došo?</p>
+				<p>- Došla ti je Đive Mihova, tvoja stara prijateljica, pa kako si spala nije htjela
+					ulaziti nego amo sa mnom zadržala se.</p>
+				<p>- A gdje je, zašto ne uljeze?</p>
+				<p>- Evo me, Jele moja, evo me k tebi - iza pleći Marijinijeh progovori Đive i ukaže
+					joj se. - Nu kad zagleda nemotnjicu i vidje u što je bijaše sagnala bolest,
+					zažali se, veže joj se u grlu uzô, i, mješte pozdrava i kojegod utješljive
+					riječi, ino ne uzmože nego je zagrli i izljubi oblijevajući je suzama.</p>
+			</div>
+			<div type="chapter">
+				<head>VII.</head>
+				<p>Dvije prijateljice napokon utažiše se i tihijem razgovorom zamjenjivahu spomen
+					nekijeh prošastijeh dana; a Marija bijaše otišla svariti kafu sebi i Đivi prije
+					nego bi joj još kogodi prispio.</p>
+				<p>Sasvijem da počitati s kafom prijatelja koji ti je došo na posijelo, škljan je od
+					vjere u Gružu, starica nije ga opsluživala sa svagdanjijem pohodnicima
+					Jelinijem, er nje siromaštvo nije toga dopuštavalo, i, doduše, niko joj ne
+					zamjeri. Ali Đive bijaše došla prvi put k nemotnjici, i suviše došla s lijepijem
+					prinosom; zato Marija pobrine se u kuhinju, nešto za Đivu, a nešto i za samu
+					sebe: er što hoćeš? - starici bijaše čašica kafe milina božija, pa baš da ih je
+					bilo i deset danas.</p>
+				<p>Što bi udario rukom o ruku, Marija zgotovi je, ponese Đivi, ulije sebi u jednu
+					poveću čašu, nadrobi kruha, pak sjede za trpezu prema prozoru da gleda, kako
+					veljaše, da kakva napast ne bi bahnula iznenada i našla ih na kafi.</p>
+				<p>Istom bijaše se stara namjestila i s nekom sladokusnosti pristala crepati iz
+					čaše, žvatati i premetati zalogaj po bezubnijem desnima, otežući vrat da ga
+					lašnje proždere, dade joj se pogledati preko praga prozorova, pogleda i drugom
+					krati, namrgodi se, pa hiti ožičicom o trpezu veleći osječeno: - Na - eto vraga
+					- nije imo kada doći nego baš sade, kad sam jedva dočekala srknut ovu kap; - ma
+					baš ako si i pop, nećeš danas ni mrce okusit'.</p>
+				<p>To rekavši skoči na noge, uvali u usta ujedanput s časom ono što još bijaše joj
+					ostalo, pa brže bolje turi u spremicu kod póca čašu i imbričić, otere se dobro
+					ogrnjačom, er u naglosti bijahu joj se opuzla dva burka mimo usta niz bradu, pak
+					uljeze k nemotnjici, i:</p>
+				<p>- Evo ti - reče joj - paroka - neka ovo malo poušestam oko tebe. - Daj mi ruku,
+					molim te, Đive; nu prije turni to kikare ondje u škarbicu (i pokaže trpezicu),
+					da ne nađe nas s kafom, er, Bog zna, nemam mu je otkle učiniti.</p>
+				<p>- Jadna Marija, čudim ti se - odjavi joj Jele - ali parok ište ti kafu? - a da i
+					davaš mu je, baš bi ti je uzeo u ovakoj kući?</p>
+				<p>- To je drugi posô, hoćeš li neće li; ma ja neću da nađe nas s kikarom u ruci -
+					zaglavi stara.</p>
+				<p>Uto župnik prispije u kuću i s vrata oglasi se sa - Hvaljen Jezus.</p>
+				<p>Istrče Marija i Đive u predsobu odgovarajući: - Vazda budi! - i pričekaše ga
+					ljubeći mu ruku.</p>
+				<p>Župnik bijaše čovjek stavna obličja i prijateljske ćudi; vlasi polusijede i
+					rijetke na tjemenu kazale su da bremičak godišta teglilo mu je na plećima,
+					sasvijem da po licu ne bi sudio mu istom četrdeset. Pomnjiv svoga držanstva rado
+					bi pohodio nemotnjike, od kojijeh bijaše žuđen i kako otac duhovni i kako
+					utješitelj njihovijeh vremenitijeh potreba.</p>
+				<p>Netom stupi na pod upita za nemotnjicu, na što Marija: - Tako gosparu, kako si je
+					i ostavio, odveće nije ništa. Uzela je malo juhe, mrcu poječala, mrcu
+					podrijemala, a nekoliko i poplakala...</p>
+				<p>- Da da, bit će bila kakva suse, kakva prijateljica stara. Ah Bože moj! i koliko
+					sam ti preporučio, starice moja, da ne puštavaš vele dodijevat joj...</p>
+				<p>- Zaisto, gosparu, osvem ovdje Đive koja je došla ovoga časa, ma nije od jutros
+					kokoš prošla preko kutnjega praga.</p>
+				<p>- Slobodno, gosparu paroče, možeš joj vjerovat - priloži Đive - rekla je i meni
+					sad isto Jele.</p>
+				<p>- Kad dvojica vele, trijeba je vjerovati - reče župnik i, pokaživajući sobu
+					nemotnjice, upita: - Može li se unutra?</p>
+				<p>- Kad god hoćete. - Ona vam se nada - odgovori Marija i uputi se.</p>
+				<p>Župnik pusti je uljesti, pak mahne na Đivu da uljeze i ona, a on slijedi za njom.
+					I buduć pristupio k nemotnjici, tiho je pozdravi i upita kako se ćutijaše.</p>
+				<p>Jele uzdigne ruke k nebu i odgovori: - Tako - kako Oni hoće.</p>
+				<p>- Ćutiš li se štogod teže neg' jutros?</p>
+				<p>- Ginem ti, ginem ti svaki čas; - ovdje mi je (i pokaže prsi) neka tegota koja mi
+					brani ležat mirno.</p>
+				<p>- Sestro moja, nemoj se prepadat. Oni koji je poslô nemoć, podijelit će i
+					ustrpljenstvo, samo zavapi ga. Spomeni se o onome koje jutros govorio sam ti, i
+					vidjet ćeš da i ta tegota bit će ti laka. - A reci mi, jesi li pospala ikoliko
+					danas?</p>
+				<p>- Spuštajući veđe ražaljeno odgovori mu: - Jesam - ali bilo bi bolje da
+					nijesam.</p>
+				<p>- Zašto? - svak želi počinuti, a osobito nemotnjik, a ti veliš: bilo bi bolje da
+					nijesam.</p>
+				<p>- He, oče moj! duga je pripovijest. - I budući to izustila zažari se u licu i
+					polete joj dvije suze niz obraz.</p>
+				<p>Župnik umukne zagledajući se u nemotnjicu; pak kad vidi da joj bijaše oduminulo
+					ono unutrnje krenuće, slijedi:</p>
+				<p>- Sestro, ako te što unutrnje muči, te duše dotiče se, ne daj napasti da te
+					prevari. Evo me ovdje, tvoga oca duhovnoga, otvori mi srce bez straha i, s
+					pomoći Jezusa koji je ista milost, ista dobrota, utješit ću te koliko bolje
+					mogbudem. - Ako je paka svjetovna miso, koja ti ne da mira, vrzi je daleko,
+					sestro, vrzi je daleko: er kad veće od svijeta nijesi, nemoj da svijet ometa te
+					da se uzdigneš i sa svijem združiš sa svojijem Bogom.</p>
+				<p>Čim župnik tiho i lagahno ovo govaraše, Marija i Điva kleknuše podno postelje
+					Jeline i stadoše u sebi moliti za nju.</p>
+				<p>Ista nemotnjica kretaše ustima, bržek i ona moljaše; pak nakon duga mučanja,
+					razvedrena odjavi stavnijem glasom:</p>
+				<p>- Nije, oče moj, nikakvo napastovanje ni trganje duševnosti koje smućuje me, er,
+					hvala momu dobromu Bogu! s te strane mirna sam. - Pridahne pak slijedi: - Kakva
+					svijetovna misô, kakva izvanština, uprav ne mogu rijeti ni to da je. - Ono, oče
+					moj, što me je mučilo u životu, i što me sagnalo u ovo biće koje vidiš -
+					izgubljenje svijeh mojijeh, - to, to srce moje nigda nije moglo zaboraviti; -
+					pak evo i sad šine me miso, srce se ražali, i bolest koja me prihvati, jača je
+					od iste smrti koju vidim pred očima.</p>
+				<p>Na što župnik: - Sestro, i to je napast; - pakljenjaku sve služi da nam ne čini
+					misliti o čemu imamo misliti. Vidiš kako ta misô odbija ti pamet od Boga tvoga i
+					od napokonjega časa ka komu pristupaš; krade ti ovo malo vremena pokajanju i
+					ćućenstvima svete ljubavi i ufanja u božije milosrđe. Ne daj dake toj misli
+					mjesta. Ja znam, velika je, kruta je bolest koju si pritrpjela; ali znaj da bez
+					volje božije to se nije dogodilo. Bog uzeo ti je sve tvoje, pokušo te iskušanjem
+					Jobovijem, pak evo sada zove i tebe neka dođeš zagrliti u raju one koje si
+					toliko ljubila na svijetu, i tu mirovati zauvijeke.</p>
+				<p>Još dobro župnik ne doreče, a nemotnjica prosvijetljena u licu nekom otajnom
+					svjetlosti, rumena, vatrenijeh oči kako u dobra doba svoja, pruži k njemu obje
+					ruke, hvati mu desnu i ljubeći je stade vapiti: - Ah reci - reci opeta da ću ih
+					vidjeti - vidjeti u raju - i zavijeke bit ću š njima; - ah reci, mogu li to
+					ufati? jesu li oni svi u raju? - hoću li ja otići u raj?</p>
+				<p>Lijevom župnik povadi propeće koje skroveno visijaše mu o grlu i, pristavljajući
+					ga k usnama nemotnjice, presiječe - joj riječ veleći: - Evo sestro, - poljubi
+					Ovoga koji se učinio ovaki neka bi otvorio raj tebi i svijem nama. U njega ufaj,
+					njega ljubi, i kad te okupe misli tvojijeh dragijeh, reci mu: - Budi, Bože,
+					volja tvoja! ti kako si htio, tako je meni bilo. - Pak prigrli tvoga Jezusa
+					propeta, moli neka on tebe prigrli, i bit ćeš u raju zajedno s tvojijem.</p>
+				<p>Poljubi Jele propeće pak, uzdižući oči k nebu, pritisne ga k prsima i ostane tako
+					nekoliko časâ. - Što činjaše, što mišljaše tada? Oh, ne pitaj. - Nje pamet
+					bijaše se tisla put raja, nje oko bijaše se zapelo u beskonačnost, a nje duša
+					zadubla se u slatku molitvu; kratka ova bješe, nu vruća, nu izvrsna toliko da
+					duh uzdignut vrh svega što svijet bijaše, počine u svomu Bogu. Milost pokrijepi
+					je, i u ovomu kratkomu zanesenju duha slobodno vidje da viši dio župnikovijeh
+					riječi istinit bijaše, er povraćajući se u se, mirna, mirna vrati propeće i tiho
+					zahvali na podatoj utjesi.</p>
+				<p>Zamijeniše jošter nekoliko riječi, i župnik, obećivajući da će doći opeta
+					pohoditi je, javi se i izide.</p>
+			</div>
+			<div type="chapter">
+				<head>VIII.</head>
+				<p>Župnik izišô je zamišljen iz sobe Jeline. Glavom niza, rukama podvitijem šeće po
+					predsobi, htio bi otići, nu ne da mu se; dopre dvakrat do vrh ljestava, sađe do
+					trećega stepena, pruži nogu na četvrti, pa opeta natrag; stane jedan čas nasred
+					poda, pogleda put vrata nemotnjičinijeh, osluhne, učini dva koraka i sjede kod
+					prozora, sveđ zaduben u svojoj misli.</p>
+				<p>Marija i Đive, budući namirile nemotnjicu, ishodeći van sobe ugledaše župnika,
+					koga cijenjahu jur daleko, začudiše se, pogledaše jedna na drugu i, skupivši
+					usne, zaklimaše glavom s jednijem nijemijem - he - he. - Pak Marija pristupajući
+					k njemu na prstima od noga, upita ga ispod glasa:</p>
+				<p>- Gosparu paroče; dasi se bojiš da Jele noćas ne bude putovat u kojegod doba?</p>
+				<p>Uzdigne župnik glavu, pak: - Ne bojim se toga - odgovori joj, ne čini mi se baš
+					da će noćas. - Drugo me je zadržalo ovdje.</p>
+				<p>- Što, zaboga, gosparu? - priupita pospješno Marija.</p>
+				<p>- Jesi li vidjela koliko se muči ona tužnica? - i ne toliko mukom smrti, koja je,
+					mogu rijet, davi, nego nekakvom unutrnjom strahovitom, kojoj ja ne znam stati na
+					kraj.</p>
+				<p>- Hee, moj gosparu! a što si ti vidio? nijesi ni stoti dio onoga što sam vidjela
+					ja, otkada sam ovdje uza nju. Da ti samo možeš vidjet jedanput neka nje trganja,
+					mučenja, pak plač, pa viku... o moj bože! ježile bi ti se kose, a srce na
+					četvero pucalo od muke i od jada.</p>
+				<p>- Marijo, ova žena, proždrla ih je grkijeh mnogo i mnogo, - Izgubila je muža,
+					izgubila je djecu koju preko načina ljubila je; - to već čuo sam puno puta: -
+					zapla je u teško siromaštvo, - i to znam. - Nu ipak je li samo to uzrok nje
+					smrti i svega onoga što sada kuša? - to niti znam, niti dopirem - Sličnijeh
+					događaja bilo je i prije na svijetu, pak žena opeta razabrala bi se, ugodila
+					voljom božijom, i živjela. Ali ovdje je nešto odviše, - ovdje ima biti nešto
+					koje niko ne zna, nešto...</p>
+				<p>- Nema, gosparu, vjeruj mi, ništa - presiječe Marija. - Ja je poznam otkad se
+					rodila; - hvala ti Bože! - ja sam je podajala, er pokojna majka joj Béle imala
+					je jako malo mlijeka; pak mogu ti rijeti da ja znam vas nje život, i da jedino
+					smrt nesrećna muža i djece u ovo sagnala je.</p>
+				<p>- A reci mi molim te, bi li mi pripovidjela, onako na tvoju, vas život Jelin do
+					danas? - Tako sam željan poznati uzrok pravi nje nemoći i smrti, da i sam ne
+					umijem ti iskazati.</p>
+				<p>Hoću dobrovoljno, ali ne sada.</p>
+				<p>- Da kada?</p>
+				<p>- Ako ćeš i sutra, samo nek budemo sami. Vidiš, suton je; do malo stat će se
+					kupiti susjedstvo, pak doći će ti ženicâ koliko ti duši drago; a ti lijepo znaš
+					da ženica svaka misli na svoju; i kad nas nađu da se razgovaramo o Jelinijem
+					poslima, - ubij je - svaka pristavit će ti svoju. A tada? bilo bi svega: - ja
+					bih rekla štogod, - ti bi se najedio, - pa - dospio poso.</p>
+				<p>- Što ima biti dake?</p>
+				<p>- Ako vidiš da večeras nijesi od potrebe, pa lijepo sutra docnije uvečer, kad
+					ženice otidu doma, dođi kako da ćeš prigledati nemotnjicu, bit ćemo mi dvojica
+					sami, - oli najviše ako, bude Lukre stara Franova, koja ne smeta mi nimalo, - i
+					istocilit ću ti vas Jelin život.</p>
+				<p>- A ti baš tako. - I ako me štogod ne omete, nadaj mi se oko dvije ure noći; - i
+					zbogom! - I to rekavši ustane, poviri na vrata nemotnjice, posluša kako dihće,
+					pak niz ljestve vanka.</p>
+				<p>Nakon župnika otide i Đive Mihova, a Marija ostane sama s nemotnjicom, ali to ne
+					bi zadugo.</p>
+			</div>
+			<div type="chapter">
+				<head>IX.</head>
+				<p>Prestala je zveka i lupanje na škaru, a putnjički žamor gruškijem igalom; tišina
+					i muk zavladali su. Zvonila je odavna u Krstu Zdrava Marija - umračilo se dobro.
+					U prodavaonicama uzduž mora, i ima ih nekoliko, gore svijeće, koje kroz
+					pritvorena vrata, pružajući nešto malo svjetlosti preko puta, čine da je
+					mračnije ono što između njih ostaje. Tamo i amo iz uličica promakne kojagod
+					ženica te, iza kako obazdre se na desnu i na lijevu, lagahno, rek' bi sjena,
+					pohmili putem, ispod kuća, - ustavi se časom za pritvorenijem vratima
+					prodavaonica - osluhne ima li unutrima nepoznanijeh glasova - pak onda stoprv
+					otvori i brže bolje za sobom opet pritvori vrata, i ište u prodavaoca ruku
+					kruha.</p>
+				<p>Dočijem on je služi kruhom, ženica jednom rukom pruža mu pare, a drugom ispod
+					ogrnjača dodava mu praznu caklenicu. Prodavalac veće i ne pita što hoće: on
+					pozna slabost svojijeh ženica kako i obličja, te njekoj toči vinca rumenoga, a
+					njekoj bome nekakve bijele vodice, ili žutkaste, ili nekakve treće, na oblik
+					mrke, a na kus ne umijem ti pripovidjet - ele svakoj po svojoj ćudi. Kruh je za
+					večere, bit će i vince; - a ono drugo? To ne pitaj - to su posli njihovi.</p>
+				<p>U gruškijem kućama večera je oko ure noći; ljudi su umorni s dnevnoga rabotanja,
+					žele to prije otići počinuti da se ujutro na vrijeme nađu na škaru. Stoga žene,
+					iza kako muške namire i pošlju ih spavati, ostanu slobodne činiti što im je za
+					volju. Neke na svomu domu šiju, ču razboj, pletu; a neke uzmu sobom kojugod
+					raboticu, pak u susjedstvo na posijelo. U dugu posijelu i razgovoru počnu često
+					oči teščiti, trijeba se ohrabriti; i eto ti otajnijeh caklenica u igri od skuta
+					do skuta. Zagrize se smokvica, cukne se kapljica, pa Bog. Za to niko ne zna,
+					prodavalac je nijem, ona četiri zida među kojijem se ocijedi ona žarka suzica ne
+					mogu da govore; - pak ni luka jele, ni njime smrdjele.</p>
+				<p>Nu s ovijem, koja sam ti sada povidio, ne cijeni da je naslikovan vas predmet
+					gruškoga prizora: ne, ne - ovo je jedna tanušna crta iščeznuta na udaljenomu
+					njegovu obzorju. Ono što se veli, poglavita slika, što sačinja sprednji prizor -
+					hoo - to je skladno, to lijepo, to je drukčije. Homo da ga vidimo.</p>
+				<p>Mrak je debeli. Marija stara sjedi na blanku kod trpeze, prede i kadnokad šiljkom
+					vretena potiče svijeću, er neće da joj svijetli dobro. Češće ustane poviriti
+					nemotnjicu i, kad ne bi joj trebovala, opet na blanak sjedi i predi. Oko dvije
+					ure noći, večeravši, prične starica od veće micati se po blanku i uskošenije
+					poticati svijeću. Napinje uho, osluhnjiva ide li kogod i, ne čujući nikakva
+					bahata, zaklimala bi glavom, a drnula srdito žicu prediva, dok jednom najpotlje
+					i prekine je. Oslini prste, pristavi žicu, te opeta predi i govori sama sobom: -
+					Ma što je ovo večeras da nema nikoga? - I ti bi se vrag htio da onda kad ne bih
+					htjela biti sama, baš niko ne dođe mi! - hee! - poprede malo pak slijedi: -
+					Lukre Franova ima doći, rekla mi je. - Pave Nikova, istina, ima djece, ma kad ih
+					namiri, može mi pritrknut, - nema joj dva skroka, - preko plota u kupus pak evo
+					ti je tamo i amo. - Oh! - i izdigne vreteno put prozora - evo nekoga, Bože tebi
+					hvala! aah, duh mi se povratio. - Ustane brže-bolje, vrže kudjelju na trpezu,
+					prižeže lojanicu i pošeta na vrh ljestava zasvijetliti prijateljicama, koje već
+					bijahu ušle u kuću.</p>
+				<p>Šestero ih uzide na pod, i stara ih pričeka s veljačkijem: dobre ste mi došle -
+					dobre ste mi došle! - gdje ste mi večeras? - ovako docna?</p>
+				<p>- Stara Lukre odgovori za svijeh: - Marija moja, znaš, gdje ima muškijeh, nije
+					vazda kako se hoće, nego kako se može. Ljudi, djeca, neće razloga; pa dok ih
+					namiriš vrijeme leti, i eto ti posla.</p>
+				<p>- Razumijem, sestro, nu bila sam se prepala da ne ostanem sama kad mi je potreba
+					imati kogagod.</p>
+				<p>- Čudim ti se što si rekla, - doda Pave Nikova. - Znaš da bih bila pritrkla ako i
+					na ponoća da ne budeš sama.</p>
+				<p>- Znam, jadna Pave, ali govorim onako od nevolje.</p>
+				<p>Za ovijem predgovorom susjede se jave nemotnjici, postoje neke čase s njome, pak
+					izidu i zasjedu okolo trpeze.</p>
+				<p>Budući svaka susjeda donijela po koji prinosić, i prije neg uljeze k Jeli turnula
+					ga Mariji, ova, dočim one zadržahu se tamo, ospremajući sve, razvidi i nađe među
+					božijem blagom, što joj naniješe, jednu ljepahnu kokošicu u knjizi zamotanu,
+					čistu i spravnu za lonca. Ganuta starica cjeć tolike ljubavi srčano zahvali
+					dobrijem susjedama kad se vrnuše u predsobu, a napose Niki Lučinoj za kokošicu,
+					od koje ončas ocijepi stegno da ga pripravi svojoj nemotnjici.</p>
+				<p>Ženicâ je šest oko trpeze, svaka ima svoju rabotu: neka švenje, neka bječvu, neka
+					pripredalo, te, kô da su doma, prionu na posô i počnu razgovori.</p>
+				<p>Svaki razgovor među mnogo čeljadi sprva je neznačan, taki je i našijeh susjeda;
+					zamijene po kojugod riječcu o svojoj raboti: - što to činiš ti? - a što je to u
+					tebe? - komu pleteš? - i sličnijeh. Ali kad jednom upute radnju, upute se i
+					riječi do mile volje.</p>
+				<p>Nu kako ženske ne mogu trpjeti da im stoji na jeziku ono što naume izrijeti, tako
+					neće nigda da govore redom; nego sad graknu sve ujedno, sad umuknu, sad razlože
+					dvije i dvije, negda šapnu se, negda brebonje iza zubâ, budući da čestokrati
+					dvije na jednomu kraju posjeda govore o jednoj koja je na drugomu. Naše šest
+					prijateljica žene su kako sve ine, pa i čine kako ine.</p>
+				<p>Razgovaraju se o svojijem pomorcima; svaka povijeda kada je knjigu primila, gdje
+					joj se putnik nahodi, kuda će opeta odjedriti. Ona veli da joj se muž malo nije
+					utopio s jedne zle godine u Crnomu moru; druga kaže o zavjetu; treća o parama
+					koje se nada prvijem brodom primiti iz Marsilje: i ovo sve povijeda se u glas
+					neka svaka razumije. Ispod glasa paka jedna se tuži na muža, ona na svekrvu, ova
+					na susjedu; i tijem protegoše uru vremena, niti se sjetiše da stare Marije
+					bijaše nestalo među njima.</p>
+				<p>A kada se sjetiše, već Marija uzlažaše ljestve lagahno, kako da nešto nošaše s
+					pomnjom, i bahne im na pod s imbričićem svarene kafe u jednoj ruci, a s mlincem
+					i s uljanicom u drugoj.</p>
+				<p>- Moja Marija, jesi li se pomamila? - reče joj, kad je sagleda Lukre Franova. -
+					Otkuda ti je došla ta na pamet, tratiti kafu, ma zašto?</p>
+				<p>- Sestro Lukre, erbo mi je bilo drago. Ima petnest dana da vam nijesam ni
+					kapljice rakije dala, pa večeras, kad ste mi donijele blaga božijega, da vam ne
+					učinim po kikaru kafe? Ma što ćeš vraže, hê - i ta bi se htjela?</p>
+				<p>- Marija moja, to je odveće - priloži Nike Lučina - u ovakijem zgodama je ludost
+					promisliti na neke stvari.</p>
+				<p>- Da - pst - da vas nije čut - špotno doda Marija. - Hoću li je sad prolit? -
+					bome neću. Bilo vam žô, bilo vam drago, imate je posrkat.</p>
+				<p>Čim starica govaraše, čašice ređaše po trpezi sa svojijem komadićem kruha uza
+					svaku, er naše ženice kafe ne piju ako mrvu kruha ne prismoče.</p>
+				<p>Prijateljice poslušaju staricu, pušte rabotu, a uzmu čašicu te stanu kruh
+					zakvašati, griskati i prisrknjivati. Marija, po običajnomu, ulije sebi u veću
+					čašicu, udrobi nekoliko kruha, nasadi se povrh trpeze i prične zakusnjivati se.
+					- Mûk je u predsobi, mješte razgovorâ čuje se samo griskanje i prisrkivanja, ali
+					bijaše suđeno da ni ovu kafu Marija stara mirno ne popije: neko lagahno kucne u
+					vrata.</p>
+				<p>- Puh, ala te belaversi! - zavapi najeđeno Marija s komadom u ustima: - Koji je
+					ovo vrag danas da ne mogu mirno popiti kafu; pobjed parok, sad nekakva druga
+					napast - hê - ma veće, veće...</p>
+				<p>Uto oni s dvora kucne opeta. Žene koje ne bi htjele da iko zna za njihove
+					stvarce, ma ni za kafu koju su popile u Jelinoj kući, brže bolje uliju u grlo
+					ono što im ostajaše u čašicama, te se neka oprli, nekoj se prolije, a nekoj od
+					smijeha udari i na nos. Čim paka Bele kći Lukrina potrči otvoriti pristaši,
+					ostale pokupiše sve kafinsko posuđe i skriše ga u blanak, dušeći još veće smijeh
+					u sebi, er opaziše Mariju u kutu prozora gdje se tuče po prsima da joj sađe
+					komad kruha, koji neprožvatan niz grlo joj poleti i prisjede.</p>
+				<p>Još ne bijahu žene dobro ni posjedale, kad im se za plećima oglasi jedan muški
+					izmukli - Dobar veče, la compagnia.</p>
+				<p>Obazdru se na novodošaoca, pak pogledajući jedna na drugu, bez odjaviti pozdrav,
+					rekoše samo: - Meštar Miho! - kako da su tezijem hotjele rijeti: - Nuti od koga
+					samo se poplašile.</p>
+				<p>- He, meštar Miho - uze ovi govoriti - pa što je zato? ali, erbo vi ste ovdje, ne
+					može doći stari Miho pohoditi svoju susjedu? - A da je na priliku mješte staroga
+					meštra provirio ovdje kakav mladi meštrić, Kristo santo, biste li tada...</p>
+				<p>- Jadan meštre Miho, o čem govoriš? - presiječe mu Lukre Franova: - Ti znaš što
+					su žene; veće je docna, pa se nijesmo nadale nikomu, nego ovdje žugale i u neko
+					doba počele i drijemati, a ti iznenada zakuco, pa malo kô zabušile se, eto ti
+					razloga.</p>
+				<p>- Da da, kuma Lukre, ja znam da ti umiješ dobro okrpit svaki poso. Ostavimo to, a
+					recite mi što je od Jele, kako je večeras?</p>
+				<p>- Kako Bog hoće - odgovori stara Marija iz kuta od prozora.</p>
+				<p>- Ho, Marijo, a tamo si! - Ne vidjeh te, sestro, među ovoliko ih. - Kad si tu,
+					na, primi ovo (i pruži joj komadić govedine): služit će ti za malo juhe
+					nemotnjici.</p>
+				<p>Marija primi, spremi i odvrati mu sa žmulićem vina, koga Miho krhne, pa sjede uz
+					družinu.</p>
+				<p>Ovi bijaše čovjek preko pedeset, pomorac u mladosti, a sada majstor na škaru.
+					Prozvaše ga Gružani »Miho Mazga« cijenim cjeć njegove smeđe pomasti, gustijeh
+					obrva, nezgromna nosa, debelijeh usana i nekoga obraza oštro nacrtana; ali mu
+					srce bijaše dobro, ćud mirna, narav pobožna, govorko po naravi i, kako svaki
+					mrnar, svoj je materinski jezik kvario s pomorskijem talijanštinama. Često bi
+					dolazio k Jeli, koju nazivaše svojom susjedom, baš ako joj i ne bijaše posve
+					blizu s kućom, i u nje nevolji veće je pomagô nego kojigod i bliži i
+					mogućiji.</p>
+				<p>- Meštre Miho, što ti se čini od ovo vremena? - upita Ane Mihova jedna od
+					mlađijeh ženica. - Hoće li naši brzo objavit se iz Lesandrije?</p>
+				<p>- O signora Aneta! a nije ti ništa ljepirica tvoja kazala? - Jadan meštre, nemoj
+					stucat. Ja te pitam o vremenu, a ti mi govoriš o ljepirici - he - dobre si
+					volje.</p>
+				<p>- Para, Bog i duša, da si načela jedit se. - Nemoj ćerce, reko sam ti na božiju,
+					er znaš i sama da žene pomorske vazda stroligavaju ljepirice, žigu na svijeći,
+					prndelje po kući i che so mi, ed altro...</p>
+				<p>- Da, da, meštre Miho - doda Pave Nikova - nijesu same žene, bit će i kojigod
+					pomorac otišo za istijem čarom.</p>
+				<p>- O Kristo santo! svud ima svega, bit će i među pomorcima.</p>
+				<p>- Ho - ho - ho - meštre Miho, nuti je - meštre Miho, nuti je - klikne radosno
+					Bele, ljepahna kćerca Lukre Franove, izdižući lagahno ruku i pokazujući na njoj
+					ljepiricu. - Viđi kako mi je lijepa - zelena s krilima rekô bi od svile.</p>
+				<p>- Veseli mi se, moja Bele. - To ti je knjiga od vjerenika iz Carigrada, kô da je
+					imaš u ruci.</p>
+				<p>Zarumeni se Bele, snimi opeta ruku na skut i zagleda se u ljepiricu, a Miho
+					slijedi: - To su ti sve babuštine, u to nema se vjerovat, nego samo u Boga. A
+					hoćete li da vam ja rečem jednu bez ljepirice i smokava? Sutra nam je drugo
+					vrijeme. Sunce je zašlo u jednu grubu kalatu; sutra, prekosutra bit će
+					equinocia, pak ti se bojim kakve dobre šapantare.</p>
+				<p>- Ajmeh meštre, nemoj zaboga! - prepadeno ozove se Ane Mihova. - Kad god čujem
+					spomenuti ta pusta kvinocija, udre mi klinac u srce, misleći za moje da ih gdje
+					na moru ne sukobe.</p>
+				<p>- Ha - nije trijeba strašit se ni zlo slutjet - odgovori joj Miho, - bit će što
+					Bog da - ti ga moli, pa ne boj se.</p>
+				<p>- A ako ih nađe na moru?</p>
+				<p>- A otkle idu?</p>
+				<p>- Iz Brsalonje (Barcelona) - odjedrili su prvijeh agosta.</p>
+				<p>- He - oni su ti u Lesandriji odavna, i zahvali Bogu.</p>
+				<p>Slijediše susjede i Miho u sličnijem razgovorima do blizu ponoći. Lojanica već
+					bijaše na omaku, stara Marija na maloj postelji, po tlima prostrtoj u Jelinoj
+					sobi, slatko zaspala, a nemotnjica, često pregledana sad od jedne sad od druge
+					prijateljice, zaželi na svrhu da prije neg pođu ća, otegnu joj postelju.</p>
+				<p>Pospješno ustane Lukre stara i Pave Nikolina, i s pomnjom snime nemotnjicu s odra
+					na stolac, a ine brže bolje protresu, promiješaju i naprave, pak opeta lagahno
+					položiše Jelu i namjestiše.</p>
+				<p>Koliko god su Lukre i Pave lagahno i pomnjivo prenosile nemotnjicu, ali ne mogoše
+					zabraniti nesrećnomu kašlju da joj ne skoči. Istom je namjestiše u postelju, a
+					ovi se objavi s takom silom i mukom, da ne dade joj za nekoliko časa ni odušiti,
+					pak napokon ocijepi se, i tužnica sa slinom izmetne i krvi.</p>
+				<p>Stara Lukre i Pave odalečiše sve mlađe, a one same okolo nje pomagahu je dok se
+					umiri: napojiše je vodom, otrše joj znoj zasloniše je bolje, pa ljubeći je kako
+					malo čedo sjedoše joj uz uzglavlje da pobde joštera do koga doba, čim ine i Miho
+					pozdravivši nemotnjicu uporave ka svojijem kućama.</p>
+			</div>
+			<div type="chapter">
+				<head>X.</head>
+				<p>Stari Miho ne bijaše se pravario kad navijesti susjedama zlu godinu sa zapada.
+					Prevalilo bješe ponoći, a s te strane počeše uspinjati se nekakvi debeli crni
+					oblaci, koji rastući i šireći se, oko dvije ure po ponoći priklopiše sve nebo.
+					Nema daha vjetra, mrtva je tišina, ali ubitna i teška; sa udaljenog obzorja na
+					zapadu rijetka munja sjekne te pružajući plamene trakove sjemo i tamo gmiže kroz
+					oblake, prodire ih, za časak, kô za rugo, rasvijetli i pokaže ti kakva se sila
+					otuda sprema, pa te vrže u crnje tamnilo i veći strah. Mnogo nakon sijevanja
+					čuje se tutnjavina, sprva iz duboka pak sve to bliže i bliže, dok napokon jednu
+					uru prije zore, sijevanje i grmljavina sastadoše se zajedno, a vjetar zapadni
+					snažno dune.</p>
+				<p>Još kad tutnjavina bijaše nastala oglasivati se jača tamo preko Šipana, u većemu
+					dijelu kuća od Kantafika do Krsta pojaviše se svijeće, prozori pričnu se
+					otvorati, pa nakon malo bome i kutnja vrata, kroz koja vidiš promicati negdje
+					jedno čeljade negdje dvojicu. Nose svijetnjak, trče pospješno na igalo, drpe
+					čelo, skaču u plavčice, i brzo-brzo one koje su poveće pritvrđivaju ih
+					dvostrukijem svezima za pokrajne stupove i zatežu ih na sidro. One paka koje
+					bijahu manje istežu ih na suho i predavaju kocima u zemlju pobjenijem, da ih ne
+					ugrabi i rastuče uzbunjeno more. Ko prije opravi poso trči bližnjemu na pomoć, i
+					tako, dodavajući si ruku zamjenito, obezbijediše svoje plavčice proć navali zle
+					godine.</p>
+				<p>Jedan koji među prvijem ustane ovu noć, bijaše proto Božo. Otvorivši prozor
+					pogleda sprva otkuda se zla godina spravlja, pak onda zapre očima put broda
+					prije dva dni na škar istegnuta. Na bjeguću svjetlost sijevanja munje razgleda
+					ga: bijaše dobro podaprt, ali jedan brod na suho istegnut sa svijem katargama,
+					prekrstačima, i sa svom onom mrežom čela i konopa, činilo se je protu da bi
+					lasno mogo okušati grđijeh šteta negoli na valjivomu morskomu površju, na kojemu
+					sa svojijem gibanjem pridavajući se vjetru silu otimo bi mu i sebe sačuvo.</p>
+				<p>Razumnomu protu bi dosta to samo promisliti da se sjeti istijem časom što imaše
+					uraditi. Otisne se s prozora, navuče haljinu, pripali svijetnjak, zovne slugu pa
+					iz kuće. U dva koraka na škaru je, te nekijem debelijem glasom, kako iz pomorske
+					trubaljke zaupi: - Oj Gružani, amo na pomoć da nevjera brik ne prevali! -
+					Priduši malahno, pa opeta: - O Gružani! amo brže koliko vas može veće.</p>
+				<p>Sijeva munja, sve to bliže grom tutnji, ali glas protov svu tutnju nathodi, čuše
+					ga Gružani, cknjenja nema. Stari proto, koji sagradi brodova koliko je u godištu
+					dana, proto, čigova obrtnost i nastojanje hranu daje većoj polovici gruškijeh
+					majstora, proto, kod koga malo manje neg sva mladost zanat naučila je, proto,
+					koji sa svom surovosti pomorskom i s nekom opornom ćudi opeta prijatelj je
+					korisni marljivomu radiocu, a oštri ukoritelj lijenčini i pridrtanu; stari,
+					paček najstariji proto gruški, na pomoć viče, a koji je taj koji bi se usudio
+					rijeti: neću, ili, sad ću? - Nema ga.</p>
+				<p>Vikne proto, odjeknu mu protivne glavice, a sa dvadeset mjesta niz igalo zagrmi
+					jedan glas: - Evo nas, proto, ne boj se, - a za glasom vidiš trkimice posukati
+					se dúgu svijetnjaka i tamnijeh sjena put poznatoga mjesta. Što bi udario dlanom
+					o dlan, eto nešto majstora, nešto mladijeh mrnara, za trideset oko svoga prota.
+					- Evo nas, proto, što trebuješ? zapovijedaj - bi jedan glas dohodećijeh. A proto
+					Božo, pronoseći svijetnjak naokolo i sagledajući onu vrijednu mladost kod sebe,
+					razigra mu se srce i on se pomladi pak vikne: - Za mnom! - i upravi k svojoj
+					shrani punoj svakoga drvlja i škaranskoga oruđa.</p>
+				<p>Dođe, otvori je, te slijedi: - Ala braćo! na dvor puntale (potpirače), motike,
+					kline, dva tri malja, sjekiru - svaki po štogod, pa na škar. - Neko svijetli,
+					neko tegli, neko nosi, te svi opeta za protom.</p>
+				<p>- Meštri, vi najprvo - zapovijeda proto - po tri puntala sa svake strane broda. -
+					Gledajte nek su dobro razdijeljeni, i kastanjole dobro i u zdravo zabijene. -
+					Ala, tri-četiri s motikama na posô. - Gdje meštri pokažu vam, spravite rupe u
+					koje imadu sjesti puntali.</p>
+				<p>Naredba izlazi iz protovijeh usta, a rabota iz ruka majstora: motike kopaju,
+					potpirači pristavljaju se, hvatišta pribijaju se. Proto pazi i slijedi:</p>
+				<p>- Pregledajte sve redom puntale; - ako je koji polaško, odgrnite zemlju i
+					pritvrdite ga klinima.</p>
+				<p>I sam proto paka prođe oko broda, zaviri sa svijetnjakom u ruci i popipa trupe na
+					kojijem brod ležaše; pregleda ih jesu li utvrđeni, oli da se nije koji krenuo
+					ili izmetnuo; i, našavši sve kako željaše, izmakne se na stranu pak onda:</p>
+				<p>- A sad mladosti! vaš je poso - zaviče. - Svi gori na brod - pak maina a fasso,
+					arburette, penune sve, - ali vrlo, prije neg skoči nevjera. Pazite, bez omete
+					ve! - Gledajte gdje stajete, da se koji ne slomi: - i maina redom: prvo jedno pa
+					drugo, kako što ide, da se ne ubijete.</p>
+				<p>Grehota da ne bješe vedri dan da se vidi ova trudna i lijepa rabota našijeh
+					vrlijeh mrnara! Istom proto doreče, a šesnest sokolova zbaci sa sebe gornju
+					haljinu, pa, ko ljepiri, eto ih briku na krov, a otole kako vjeverice uz konopne
+					ljestve. Njeki lete do krstačića i razdrješuju najgornje prekrstače, na jedan
+					kraj namiču im čelo, pak niz katargu spuštavaju ih na krov vapeći - aquanta di
+					sotto. Zatijem, ne bez truda, izbijaju kline, te kroz krstačić spuštaju male
+					katarge i vape kako i prvom. Drugi, koji se drže na srednjijem prekrstačima,
+					dočekaju ih i viču onijem koji spuštaju: - Mola, - pak slijede spuštavati ih do
+					krova.</p>
+				<p>Opravivši ovi prvi posô, sađu otkuda bijahu se pripeli, i svi skupa late se teške
+					rabote: snimiti do blizu krova prekrstače velikijeh i poglavitijeh jedara. Teški
+					su, debeli su ovi, vjetar jur pričeo je zapirati u njih, munja sijeva sve to
+					življe, toliko da zablještuje i brani vidjeti gdje nogu nasloniti, gdje rukom
+					uhititi. - Nu opet mladost naša ne prepada se. - Proto sa škara sokoli ih - oni
+					isti jedan drugoga ponukuje: - Ala - svi složno - sad - maina - maina lako - drž
+					dobro - guarda di sotto.</p>
+				<p>A oni koji su jur na krovu odzivaju. - Ne boj se - malo pomalo - lascia che vegna
+					- tako - dobro - aquanta - zucca - i trista drugijeh mrnarskijeh riječi čuješ
+					sad s katarga, sad s krova, dok najposlije bi sve opravljeno kako proto Božo
+					željaše i zapovijedaše.</p>
+				<p>- Živjela mladosti! - zavapi zadovoljni proto, kada svi bijahu poiskakali na
+					škar. - Živjela mladosti! ovo se zove rabota! - Baš hvala vam kô mojijem
+					sinovima. - A sad nos'mo što ne treba u magazin (shrana drvlja i majstorskoga
+					oruđa), i hote svi amo er će sad rđava godina. - Eto uhitila je Šiškovo.</p>
+				<p>I tako bi. Istom oni uljegoše u pokriveno, a munja sjekne i ujedno grom pukne oko
+					Babina Kuka; za njim vjetar, dažd, sugradica, sve namah navali sa zapada, tako
+					da u malo časa more uzavri i prične plakati škar do blizu protovijeh vrata.</p>
+				<p>Stoji klopot drvlja po škarima, stoji zvižd čela i konopa na brodima osidranijem
+					u luci, stoji sjemo i tamo kršidba stabara po obližnijem vrtima. Kad sine munja,
+					nadazireš kod jedne pulake, vezane pod kućom Vilenika, gdje mrnari u plavčici na
+					šest vesala voze veljačko sidro da pripomognu drugo koje bijaše pooralo od sile
+					vihra.</p>
+				<p>U kućama već niko ne spava, svak je na nogama. Ljudi pritvrđuju zatvore prozora
+					da ih vihar ne uvali u kuću; žene Boga mole, užižu svijeću od tri Marije, krope
+					vodom krštenom proć nevjeri, kade tamnjanom i pômom blagosovljenom; djeca skviče
+					cjeć straha, majke plaču misleći na svoje pomorce, starci ih karaju da se ne
+					mame, nego nek šute i Boga mole.</p>
+				<p>Vanka huka, buka, lomnjava, grom trijeska, kiša lije, a u shrani prota Boža šala
+					i razgovor. Vas se je oni skup posadio na klupe i drvlje kojijem bijaše shrana
+					zavaljena, metne svijetnjake u srijedu, te svi mirni kô pečeni zapale njeki
+					lulicu, a njeki smotku, kako koji nađe uza se. Proto, kad vidje da najveća sila
+					onoga urnebesa bijaše premetla, a brod na škaru održo se kako mrkjenta usred
+					mora, smiri se sasvijem i čini sluzi kroz unutrnji prohod donijeti iz kuće dobre
+					rakije i mlade mantale te postavi izobilna pred družinu nek se ponapije.</p>
+				<p>Družina pije i razgovara se. Jedni kroz uzrok ove strašne oluje pripovijedaju
+					kakvijeh su crnijeh podnijeli tamo u velikijem morima, jedreći put Brzilja,
+					Ingleske, Kalkuta i što ti ja znam kuda. Drugi, ne mareći za oluju, šaljivo
+					dodavaju se pod bok, protresaju grinje sad ovomu sad onomu, dok njeki dođe do
+					Mare B... te uze kazivati kako bijaše napela udati se po drugi put, i to - veli
+					ovi - vrazi je nosili! ona preko četrdeset godina za nekakva golobrada gradskoga
+					mušteriju, koji će joj opaliti haholjak, pa onda, sluga brodaru!</p>
+				<p>- Da - Mare B...! A što biste rekli o staromu Takiri? - zapita Vice Ivov, mladić
+					koji istom ono godište bijaše pristô uz majstore.</p>
+				<p>- Što? - odjavi Frano Mihov.</p>
+				<p>- Da se ženi za Maru Kulicu.</p>
+				<p>- Haj, đavli ih nosili obu dvojicu.</p>
+				<p>- Baci vraga, Vice - prida majstor Paše - onaki će se ženit?... Takiri vise noge
+					nad grobom, a Mari vazda kiša, haj, vjere ti, ne stucaj!</p>
+				<p>- Ma jest, sreće mi - priglavi opeta Vice. - Nema desetak dana, ja sam ga susrio
+					kad je hodio u paroka za proglašenja te slavne ženidbe; ali, kako sam obazno,
+					namjerio se je na ošuo gvožđe, er parok opeli ga dobro, pak posvjetuje i posla
+					ga puhajući u šake.</p>
+				<p>- Što će svjeti onakomu - reče Frano - imo je dat mu dvije noge, to je bilo za
+					njega. - Stara ćorava vjera! - Oh da sam bio tu, Bog i duša, bio bi mu...</p>
+				<p>Ne doreče, er u jedan mah zasvijetli sva shrana ko da se bijaše upalila, i grom
+					tresne ondje negdje blizu. Svi se zabušiše: njeki se zakloni rukama, njeki se
+					krsti, njeki vapi - Jezus -, njeki - Sveta Barbaro, moli za nas - kako je došlo
+					komu što prije na usta. Proto pouči na vrata vidjeti da po nesreći grom ne
+					bijaše udario u brod; i kad ga spazi čitava, vrne se zahvaljivajući Bogu.</p>
+				<p>Kad strah prođe, uze govoriti Antun Božov: - Ovaka mi noć spominje neku
+					strahovitu, kad sam bio s kapetanom Radmili. Uhitilo nas je na Bonifačiam, na
+					sam Badnji večer. Grdan ti mi li dođe, braćo moja! Bili smo odjedrili iz Kartage
+					- ne puni žita put Livorna. Ispočetka vremena ne bijahu rđava, - punentini, -
+					punente-maistro, vrijeme za jedrenje; malo nas je pozdravila liunada, ma ništa;
+					poteži do Sardenje.</p>
+				<p>Tu na Spartiventu počne nam bacigat, čas od levanta čas od punenta, dok na svrhu
+					osvoji punenat; dobro - ala da se jedri ispod Sardenje do Tavulare. - Noć je
+					mrkla i oblačna, osam ura su - straža renđiva se. - Kapetan stoji, na vrh krme i
+					pogleda na Boku Binifačija, otkuda se diže nekakva crnjavina. Gledam i ja; sva
+					je prilika rđave godine, a noć zimska - treba se spravit navrijeme. Baš zinuh da
+					rečem kapetanu da pregledamo jedra, kad ovi zovne: - Nostromo! - Šjor! - Hodi
+					amo. - Dotrčo sam, a on pokaže rukom na Boku, pak mi veli: - Odonle prijeti:
+					danu, prije neg se rendi straža, neka se siguraju jedra. Zatvori kontra,
+					papafige i majstru; čini uhititi po dvije ruke trcarula na gabijama, a dvije na
+					randi, pak, ako vidimo da bude štogod potreba, zvat ćemo svijeh.</p>
+				<p>Bilo nas je dvanest drúga, dvanest lâva. U pô ure sve bi učinjeno. - He pomozi
+					Bože! - Polovica družine otišla je počinut, a ja sam s kapetanovom stražom.</p>
+				<p>Kapetan postoji malo na kuvijerti, razgleda svud naokolo, pak veleći mi: - Nek
+					brod ide ovako - ja idem dolje, bude li potreba, zovi me. - Sađe u kamaru.</p>
+				<p>Brod jedri. Prošli smo Tavularu, otvorili Bonifačija. Aha - govorim sam sobom -
+					evo nas - dobro smo došli.</p>
+				<p>- Baš dobro došli, sad će bit posla - oglasi se majstor Miho - poznam ti ga vrlo
+					dobro, điso sam i ja tuda negda.</p>
+				<p>- Bome điso, meštre Miho, ala i mi smo ti, sad ćeš čuti. Netom smo otvorili boke,
+					vjetar udari jači i skarsiji, i prijeti grđe. Mislim: ako je ovo na početku, što
+					će biti kad dođemo prema njima? - Slazim u kapetana i pripovijedam mu. Kapetan,
+					istom izide na kuvijertu i pogleda, vikne uglas: Suzo da baso. Viknuh i ja još
+					bolje. - Poskakaše svi. - Ala - viče kapetan: - sera floco, i treću ruku
+					trcarula na gabije.</p>
+				<p>- A zašto ne zatvora randu kad je flok zatvorio? - opomene proto Božo.</p>
+				<p>- Polako, proto moj! Randu nije mogo zatvoriti, er je služila brodu onomu da ne
+					ide na pođu. - Utoliko vjetar podžiže sve to jače, crnjavina stiskuje - baš ne
+					vidi se. - Velim kapetanu: - Šjor, kud ćemo? - Per tramontana odgovori kapetan.
+					- Brod fila četiri milja. - Ponoći je, ura da se promjeni straža, ali ne ide
+					niko doli. - Kad, što ćeš ti vidjet? - sjekne munja i zagrmi sve jednaga, - pak
+					- puhne vjetar kô iz mijeha, i karga brod s kavobandom na more: - Jesi li take
+					kad čuo, s brodom bez jedara?...</p>
+				<p>- Hem - bome baš mu sila bijaše pritužila - reče proto Božo.</p>
+				<p>- Ne pitaj, brate. - He - skočih na timun vikajući timunijeru: pođa. - Viče
+					kapetan: - Pođa, da ne polomi - i fila randu, fila dobro - i maina pik de fora.
+					- Bog dade, prođe plata, brod upravi se, ali kapetan neda još orcat nego potegne
+					nekoliko na pođu, pak zapovidje: - Orca! - Uputismo se opeta. - More i vjetar
+					sve žešće. Oko ure po ponoći, mili Bože, ima li ga gdje više! Nema drugo nego
+					munja za munjom, puca grom, svaki kolap (val) kako Petka plače preko nas s jedne
+					strane na drugu, a brod đisa. - Oko dvije po ponoći, dođe ti nam jedan trećak
+					te, moj brate! - hljup - u kvartijer od krme, slomi gruete - odnese vrag pasaru
+					- prolije po kuvijerti i nalije je do pole mora.</p>
+				<p>- A - oh jada! - zavapi majstor Frano - ima li gdje - sjekira, za Boga!</p>
+				<p>- Hmuća se more po kuvijerti, plutaju drvlja, bačve neke prazne, jedna puna vode,
+					ne smiješ stupiti da te štogod ne ubije, er ima nam mora do niže koljena.
+					Ostadosmo za čas kô smeteni, ali kapetan - hee, pomalo je onakijeh - tisne se s
+					krme, podbije nešto drva što mu pod ruku dođe i poleti put kavobande. Kad to
+					vidje družina, skoči za njim; neko napipa ašpu, neko sjekiru, te onda udri tamo,
+					krhati onamo, dok prolomiše na nekoliko mjesta operu mortu, i na Boga! izlije se
+					more navrijeme, er da ne, u zo čas po nas! - stiže nas drugi - nalijeva nas i,
+					ove mi svijeće - svi a piko.</p>
+				<p>Kapetan sokoli nas: - Ne bojte se, djeco, još malo ovako pak će nam dricat i more
+					i vjetar. - Nostromo, - veli mi - pomnjivo na more; ako vidiš kakav jaki kolap,
+					pripođaj, pa kad prođe, opeta u rotu.</p>
+				<p>Na to ja: - A šjor, kako će nam ostat Formige? - Mahne rukom i odgovori mi: - Ha
+					- za njih ne misli, ostat će nam dobro tramontana kvarta grego. - Na tri ure po
+					ponoći, kako bijaše reko kapetan, riunda nam more i vjetar u po krme. - Hee,
+					pomozi Bože! - Brod leti - ni svi đavoli - bit će cijenim, kakve deset milja na
+					uru. I tako smo ti lihali do pred zoru, s očima izbečenijem gledajući sprijeda
+					da na što ne udarimo. - Kad Bog dade, svane se, i eto ti nam Pjanoze sotavento
+					da prova. Povrati se svijem duh, - zahvalismo Bogu te naprijed; pa obrni između
+					Elbe i Kaprare put Livorna, i dođi na zdravlje na sami Božić.</p>
+				<p>- Bome, meštre Antune, cijeno ste je imali! - zaglavi majstor Miho. - I meni se
+					čini, da smo je i mi noćaske imali cijeno. Nego znaš li koja je? - Homo se mi
+					bacit na jedro: čini mi se da je nadvoru dosta manje.</p>
+				<p>- A bi li Miho još kapljicu? - upita ga proto zagledajući caklenicu prema
+					svijeći. - Grehota je da ovo oštane, moglo bi izvjetrit. - Hajde de, po čašicu -
+					pa ako je prestalo, otidite.</p>
+				<p>- Prestalo je, prestalo - odgovori s vrata majstor Paše, koji bijaše baš otišo
+					vidjeti kako je nadvoru.</p>
+				<p>- A ti, kad je prestalo, daj nam baš po tu kapljicu - prida stari Miho. - Svaka
+					sila prokleta, a ta blagosovljena: - Napijmo se, braćo, pak hajdemo.</p>
+				<p>Napiju se svi redom po jedanput, i zahvaljivajući protu, a proto njima, uzme
+					svaki svoj svijetnjak i put kuće.</p>
+			</div>
+			<div type="chapter">
+				<head>XI.</head>
+				<p>S ove noćne oluje, koja nas je do sada zadržala, naša nemotnjica imala je
+					oćutjeti neku promjenu u svomu sasvijem padenomu životu. Zrak, s prva zategnut i
+					težak, a poslije s munjevinom i s vihrom isparan, otančan i očišćen, prodre i do
+					sobice Jeline. Radi česa odmah po ponoći ona počne ćutjeti neku osobitu priduhu
+					u prsima, kašalj uzavri joj i trebovaše da je Marija uzdigne na uzglavlje,
+					zasloni, te sad vodom, sad nekakvijem ljekarskijem prahovima da joj gasi kašalj
+					i da joj krijepi iznemoženi život. Treska gromova, paka i urnebes oluje zadrhta
+					tako nje slabijem življima da pred zoru baš cijenjaše se sasvijem izginuti.</p>
+				<p>Stara Marija nađe se u nevolji. Za nesreću višu sama je u kući, što će sada?
+					Trknuti se do susjedstva, iskati kogagod da otiđe po župnika? - Bojala se je da,
+					dok se vrne, ne nađe Jelu mrtvu. Tada ko bi osto od bruke u selu da je pustila
+					umrijeti kako živinicu. - Viknuti s prozora da joj potrči kogodi na pomoć? A ko
+					bi je čuo s onakom talanbukom nadvoru? - Ele tužna starica ne zna što li će,
+					kako li će.</p>
+				<p>Nu kad Bog dade da pane zla godina i utaži se vrijeme, umiri se po nešto i
+					nemotnjica, ali ostane tako slaba da je jedva odisala. Mahne na Mariju i rukom
+					bilježi joj da otvori prozor u predsobi; nu i to malo joj pomože, er uzduh po
+					sve otančan ne mogaše napunit dovoljno one bolesne grudi. Hlad samo, koji
+					promaši s dvora u sobu, osvijesti je malahno i ništa više.</p>
+				<p>Tako trajaše nemotnjica i uza nju Marija dok dobro rasvane; i tada se stara usudi
+					trknuti iz kuće, i koje joj se prvo dijete namjeri tisne ga po župnika s narukom
+					da prije podne javi se nemotnjici.</p>
+				<p>Još ne bijaše devet ura jutra kad se župnik nađe kod Jele, i, u stanju u kome je
+					bila, razgovori je, pokrijepi je svetijem riječima, pomoli joj Boga, pak joj
+					reče:</p>
+				<p>- Neću te sestro vele moriti molitvom, počini, pa kad htjed budeš, priuzet ću. -
+					Za sad neću otići nikuda, - ako ti budem od potrebe, evo me u predsobi.</p>
+				<p>Nemotnjica krene glavom da je razumjela i sklopi ruke izdižući pogled k nebu kako
+					u zahvalu, a u isto doba i molbu da je ne ostavi.</p>
+				<p>U predsobi župnik nađe Mariju suzama oblivenu. - Plačeš starico - reče joj krenut
+					od onijeh suza, - plačeš tužnu Jelu!... he moja starice, ura se toči!... a u
+					neko doba, blažen Bog koji je uzimlje i skraća joj muke koje trpi. Mnogo je
+					podnijela i ustrpljeno, ufam zato...</p>
+				<p>- Oo mnogo, mnogo, gosparu paroče, i baš mnogo podnijela je, a zaisto ustrpljeno.
+					- Bog ima joj dat dobro na onomu... - i tako govoreći otiraše suze i iskaše
+					utažiti svoju žalost.</p>
+				<p>- Hoće, er je milostiv i pravedan; nakon tugovanja udijelit će krunu.</p>
+				<p>Marija se obrne tamo i amo po kući, kako da štogod ište, pak pristupivši k
+					župniku reče mu istiha:</p>
+				<p>- Gosparu paroče, sad ovdje nema nikoga, niti je ovo doba da kogodi dođe; ako
+					imaš vremena, hoćeš li da ti sad pripovijem ono o čemu smo govorili jučera? -
+					Što ja znam što se može dogoditi večeras?...</p>
+				<p>- Starice moja, ako se ćutiš, nikud bolje. - Zasad neću nikuda odovle, er
+					nemotnjicu ne mislim ostaviti do podne, a od podne, vladat ću se kako vidim.</p>
+				<p>- Da kad je tako, to je najbolje. - Evo me ončas, sad ću biti s tobom; poustrpi
+					se malahno, neka samo prigledam nešto doli na ognju.</p>
+				<p>Marija Đurova bijaše od onijeh starijeh žena kojijeh danas rijetko ima. Srca
+					veljačkoga, naravi ljupke ako malo i osorne, kutnjica, na zgodu rječita i
+					otvorena, znala je poboljeti se nevoljom, nu umjela je napasti na bestužanstvo;
+					izučila se bijaše iskustvom ono što neukomu trudno nazivalo se je - poznati
+					ljudsko srce. - Vas nje svijet biješe Gruž i Grad; ali u ovomu prem tijesnu
+					okolišu tako se je premetala, tako je znala paziti na najmanje slučaje ljudskoga
+					života i njihove posljedice, da čestokrati sjetila bi se zamjere onoga s kojijem
+					bi posla imala, s jedne njegove riječi ili pogleda, a kadgod cjeć samoga
+					nadvornjega odnošenja.</p>
+				<p>Župnik je pozno staricu i koliko vrijedi. Netom dakle uvidi s kolikom ljubavi
+					pristajaše uz nemotnjicu, i čuje da je pozna iz djetinjstva, promisli da takoj
+					ženi neće biti skrivene ni otajnosti srca Jelina, ni nje strasti ni stradanja. I
+					promisli dobro.</p>
+				<p>Zapita radi toga Mariju o životu Jelinu, a ona mu ga pripovije u svojoj prostoti,
+					ali tako naravno i živo, da ne mogu ni ja bolje ovdje iskitit ga, nego baš onako
+					kako ga je stara kitila.</p>
+				<p>Kad opravi svoj poso u ognjištu, vrati se Marija, poviri na vrata od sobice
+					nemotnjicu, pak sjede kod prozora uz trpezu proć župniku koji sjeđaše s druge
+					strane, i počne:</p>
+				<p>- Imaš znati, gosparu paroče, da Jele ne bijaše ni othranjena ni odgojena kako
+					današnja dječetina u Gružu. Eto vidiš kakva su ova danas, a ti znaš najbolje:
+					netom ti se dobave noga, gdje ćeš ih naći? Po putima, na škaru, zanovetati oko
+					meštara, zakidivati starad. - Majka ih zove, otac kara - a ha - haju ti oni za
+					to! S noge na nogu pak niz škar, kako vragulići iz veriga.</p>
+				<p>U ona doba nije tako bilo. Pokojna majka Jelina, dobra Bele Paskova, vladala se
+					drugačije. Iznejaka obikla bi svoju dječicu posluhu i molitvi; kad bi podrasli,
+					radnji i kutnjemu poslu. Jele bijaše jedinica među dva brata, koja zarana
+					umriješe i ostaviše nju samu majci svojoj osladiti rane i napuniti joj prazni
+					skut.</p>
+				<p>Otac joj Pasko, kako svaki pomorac, malo se je na domu nahodio, radi česa sama
+					majka bavila se je razvićem Jelinijem. Ljubavi i pomnjom svakojakom njegovala je
+					svoju jedinicu, u kojoj također nahodila je odziv srčani i potpuni svojoj
+					ljubežljivoj brižljivosti. Iz djetinjstva Jele, tako spojena s materom, bila je
+					ona materi a mati njoj sve.</p>
+				<p>Nu ova suviša ljubav i tako življenje da jedno bez drugoga ne mogaše ni časa
+					ostati, držim u mojoj pameti, ne bijaše zdravo Jeli; er, kako sam mogla još onda
+					osjetiti se, budilo je u njoj neku osobitu ćutljivost i, mješte krijepiti srce
+					djetinjsko i pripravljat ga za suprotiva i nedragosti kojijem imamo se nadati,
+					činilo ga je slaba i netrpeća. I uz ti uzrok za najmanju nedragost eto suzâ, eto
+					plača; i, vjeruj mi, gosparu paroče, ne ni radi zloće ni nje tvrdoglavstva, nego
+					radi samoga straha: - ajmeh da mi se majci štogod ne dogodi! - ajmeh da mi ne
+					reče kogod štogodi! - ajmeh to - ajmeh ovo - hee, sluga ti sam, kad počmemo tako
+					iz djetinjstva, što će biti poslije?</p>
+				<p>I da nijesam se privarila o ovomu, pamti, a vidjet ćeš. Kad joj otac vrati se
+					sasvijem doma, Jele bit će imala kakvijeh petnest godišta. Djevojčica već dobro
+					razrasla, lijepa kako cvijet i vrsna kutnjica. Znala je svako švenje, umjela je
+					tkati razboj, i vješta je bila trista drugijem malijem ženskijem posalcima, koji
+					su je koristili i na domu i iz daljega. Znala je jošter, što u ono doba bilo je
+					jako rijetko u ženskijem, malo crna po bijelu, er majka bijaše nastojala da je i
+					to nauči.</p>
+				<p>Kad dake dođe Pasko doma, pravo veleći, nađe svoju kćercu dobro uporavljenu, ali
+					kako čovjek vješt svijetu i opazljiv, odmah stavi se da Jele bijaše mu nešto
+					spućena, knjezuša i odviše majci pod koretom, što nije mu hodilo po ćudi. Uzme
+					je zato sobom, te gdjegod u prijatelja, kadgod u Rijeku; uvečer jednom oni u
+					susjeda, drugom susjed u njih; malo tamo, malo amo, dok bome, Jele otrese ti se,
+					steče svijeta, narav utajana probudi se, i nastane biti žuđena u boljijem
+					kućama, veseljačica u družini, pomoćnica u nevolji, svud dobro primljena s nje
+					skladnosti, poštenja i umjerenosti.</p>
+				<p>Što je najveće paka, s ovakijem povodenjem, Pasko nauči i ženu i kćer življeti
+					jednu bez druge, poslovati svaku o sebi, i pripravi ih na rastanak, koji,
+					kadli-tadli, imo je negda doći.</p>
+				<p>Utoliko, gosparu moj, došli smo do osamnest godišta. Jele već djevojčica velika,
+					trijeba je za nju nešto promisliti. Je li procaptio cvijet? - beri ga! - kad
+					opane, ne služi nikomu.</p>
+				<p>Bio je u ono doba u Gružu jedan mladić koga ti, moj paroče ne poznaš, mladić koji
+					se spominje i danas, Jozo Baldov. Bijaše cvijet mladosti, visok, kose i oči kako
+					ugljen, jak kako grom, bješe mu dvadesti i pet godišta, - meštar prvi na škaru;
+					proti grabili bi se na njemu kada bi s mora došo doma počinuti.</p>
+				<p>Budući osto bez oca i bez matere, sam bez ikoga svoga nije mogo živjeti, i stara
+					je riječ »Bog samu ne pomaga«. Zato najzadnji put kad se vrne s mora, namisli
+					oženiti se, i zamjeri našu Jelu. Bome, kud će suza neg na oko? - Jele vrsna,
+					lijepa - svidi mu se do tamo - a srce mu učini kuc - kuc - te je stane
+					zakrajati.</p>
+				<p>Bome gosparu, što hoćeš da ti rečem? - Nije ni Jele bila luda, - a znaš onu našu
+					pjesnicu:</p>
+				<p>
+					<l>Dušo i srce moje</l>
+					<l>Moj cv'jetu gizdavi</l>
+					<l>Oči su početak</l>
+					<l>Od naše jubavi</l>
+				</p>
+				<p>Tako ti je bilo i ovdi. Pogleda Jozo Jelu, pogleda Jele Joza; isprva, kad bi ga
+					susrela, zarumenila bi se; poslije posmjehnula; a napokon pozdravila. Gdjegod
+					našli bi se na posjedu zajedno, tu bi se i pošapurili. - Stari Pasko nije to ne
+					vidio, lukav stari pomorac! - vidio je i nije mu žo bilo. On pozno je Joza i
+					ćutio ga je, zato s njime sasto bi se kadgod i na neki način slobodio ga da
+					pristupi k svojoj Jeli.</p>
+				<p>Kad je Bog htio, Jozo ti se naperi, pak jedno večer uprav u Paska: - Dobar večer!
+					- dobar večer! - Kako ste? - Što činite? - Što te imamo, Jozo, večeras? - i
+					takijeh sličnijeh, dok se otisnu od kraja. - Kad se jednom otisnuše, zavezoše
+					dobro, i tvoj ti Jozo lijepo zaprosi Jelu. Pasko pokloni mu je dobre volje. -
+					Mati poplače od žalosti, a kći od radosti, i sve bi sklopljeno u ljubavi.</p>
+				<p>Sada moj dragi paroče, drugačiji život počme Jeli. Ona, kako ti rekoh, sprva bila
+					je upita sva u majku. Pasko svede je na razložitu mjeru i, bez odložiti
+					materinskoj ljubavi, pripravi srce svoga djeteta da bude i inu poprimiti kad bi
+					došlo vrijeme u svijet upratit je. Jele, istina je, s očevom pomoći pusti se iz
+					trakova materinijeh, ali narav je narav - ona ćućenstva koja iz nejaka bijahu se
+					u njoj zalegla i zamalo utajala, opeta sada razviju se i, može biti, s većijem
+					naporom. Majku i oca sveđer ljubila je kako svoje roditelje, ali ono što u srcu
+					ćutjela je za Jozom, bilo je nešto drugo, nešto veće, koje silovalo je da
+					privrgne se k zaručniku onijem načinom kako prije k materi.</p>
+				<p>Kako u Gružu ne bijaše nigda nestašice dobrijeh jezika, tako ti i nju popeckaše
+					nekoliko za vremena vjeridbe, što da bi prekinuli i smirili je, Jozo i Pasko
+					pospiješiše pir, i prva muka Jelina dovrši.</p>
+				<p>A - ha - evo ti ih sada u svojoj kućici, Jele udata je i majka je. Ima dva
+					sinčića, Balda i Paska. Jozo ostane na domu pet-šest godišta, pak budući
+					ponestalo rabote na škaru, opeta zajedri, er ženu i djecu trijeba je
+					hraniti.</p>
+				<p>Ovo odjeljenje bi teško srcu Jelinu. - Nigda utažit se. - Sakupila bi ono djece
+					oko sebe, pak udri kukat i plakat više njih kô da je izgubila baš sasvijem muža.
+					- Ko ti je razgovori i uvede u pamet? Otac. - Ljubežljivo, ali oštro pokara i
+					posvjetuje; uglavi je da plačem posli ne krpe se i da žena jednoga pomorca ima
+					bit i čovjek i žena u potrebi, koja držana je obrnuti se i paziti kuću i biće
+					dok muža doma nije. - Nešto otac, a nešto djeca, i to cijenim poglavito, er onu
+					nje veliku ljubav, koja je bila sva u Jozu, bijaše počela dijeliti s djecom,
+					povrate je i opeta dođe čeljade.</p>
+				<p>Jozo brodio je po morskoj pučini, a Jele muški vladala je kućom i djecom, i tako
+					ih je gojila skladno i upravljala, da nakon šest godišta, kad se Jozo vrati,
+					nađe sinove mladiće, poslušne, otresene, koji znali su napamet Santa Croce i
+					Gjosafatta, i sa škarom zbiknute ne najgore.</p>
+				<p>Jozo doma je, djeca oko nje su, eto ti već naše Jele čestite. - Sve što joj je
+					milo, kod nje je; majka i otac blizu su; ima u kući svakom potrebom; ne preda za
+					nikoga: - O moj Bože je li što veće? - Vesela je, u veselju obrtna, svoj kutnjoj
+					službi sama dopire, ljubav dava joj snagu. - Ah, moj dragi paroče! ko bi reko da
+					sva ova čestitost imala je biti veoma kratka! da doskora imala se oboriti na nju
+					navala jadâ i nevoljâ, koja bi je sagnala u ovo u čemu je vidiš? - He, Bože
+					dobri, veliki su sudi tvoji! a mi stvorenje tvoje prah i pepeo.</p>
+				<p>Ujedanput starica ustavi svoje povijedanje i zagleda se u župnika koji bijaše
+					napeo uho i nešto osluhivô. Napenje uho i ona, ali ne čujući ičesa, zapita: -
+					Što slušaš gosparu?</p>
+				<p>Župnik metne prst preko usta, pak ustane lagahno i na prstima od noga uputi se
+					put sobice, poviri na vrata, uljeze, postoji neke čase, pak vrati se na svoje
+					mjesto i reče Mariji: - Slijedi.</p>
+				<p>- Ma prvo reci mi što je tamo, ali je pridošlo štogod odviše Jeli?</p>
+				<p>- Sad joj nije ništa, - sad spi; malo prije dihaj bijaše joj se uzdrhto, - bit će
+					snijevala štogod grubo; - sada umirila se; slijedi tvoju pripovijest bez
+					straha.</p>
+				<p>- Bit će tako, bit. - Ni pusti san ne da tužnici mira! - pa ne zna se što se je
+					grđe ili kad spi ili kad ne spi. - Prosti mi Bože i ovaki život više... hee...;
+					zatrese stara glavom i proždere s trudom slinu kô da bijaše gorka riječ koju
+					htijaše izustiti.</p>
+				<p>Župnik razumivši staricu reče joj s posmjehom: - Da, Marijo, mrvu prije svjesno
+					dovršila si, nemoj sada početi ludo.</p>
+				<p>- Neću, gosparu paroče, ma što hoćeš? u jeziku kosti nema, pa gdjegod potrči što
+					i ne bih htjela; - ha - hvala Bogu! - Pokrmješa se malo po stočiću, pak
+					slijedi:</p>
+				<p>- A sad - gdje smo stali ono? - čekaj - neka mi dođe na pamet, - a ha - govorila
+					sam kako tužnica molo vremena potrajala je mirno. - E tako je.</p>
+				<p>Čestitost Jelina nije trajala nego uprav dva godišta, pak pričeše jadi i
+					tugovanja. Najprvo ucvijeli je smrt materina, pak, nakon godište, očina. - Smrt
+					njihova pojavi u srcu Jelinu staru materinsku ljubav; i toliko razuzdana bi
+					žalost da ih je izgubila, da Jozo u neko doba ozubi se malahno i prikori je sa
+					svojom ljubavi i dječinom.</p>
+				<p>Utaži se, ali, kako ja cijenim, baš otada zavrže joj se u prsima ova bolest koja
+					je skončava. I evo ti razloga. Ona ćućela je mater i oca može li se više! a
+					ljubila je muža i djecu priko svake mjere. Sada, neka Jozo ne bi promislio samo,
+					da su joj više roditelji nego on i djeca, satirala se je koliko je mogla. Sama u
+					kući, isplakala bi se do mile volje. Bi li stupili na kutnji prag Jozo i djeca,
+					kô da nije ništa, veselo i rado pričekala bi ih i poslovala kako i vazda. Nu,
+					ovoj unutrnjoj borbi nje srce ne bješe obiknuto; te lomi danas, lomi sutra na
+					svrhu slaba i nelagodna složi se u postelju.</p>
+				<p>Priskoči Jozo sa svom brižljivosti čovjeka zaljubljena u svoju obitelj; te stari
+					liječnik Grgurević, te prijateljice, te na svrhu i ispovjednik, dok jedva
+					privedoše je na svijest; i nakon kruta i duga bolovanja digoše je, ali već nigda
+					onako zdravu, onako veselu kako prije.</p>
+			</div>
+			<div type="chapter">
+				<head>XII.</head>
+				<p>Odahne malo starica, pak priuze:</p>
+				<p>- Kako vidiš, dragi paroče, u našemu Gružu nema drugo van škara i mora. Dok je
+					radnje na škaru, dobro je, a kad ponestane, trijeba je obrnut se na more,
+					inačije gladovati. Uz ti uzrok dake Jozo hotio je da mu sinovi osvem škarana
+					budu i pomorci. Priviđo je koliko trudno bit će majci razdijeliti se sa svojom
+					djecom, otpuštit ih od sebe, ali život Gružana ne dopuštavaše drukčije: majka će
+					poplakat, veljaše, ali opet će se i razgovoriti.</p>
+				<p>Nu ovdi varo se je. Jozo, Baldo i Pasko imali su sve srce Jelino, svaki njegov
+					odlomak ne mogaše biti popunjen nego s onijem čigovo bijaše. - Ne bješe li
+					jednoga, ostajaše oni dio prazan, veho bi, usahnuo bi, - a Jeli nazadak u
+					zdravlju i u životu.</p>
+				<p>Svane primaljeće, brodi spremaju se iz Gruža, Baldo jur na petnestomu godištu,
+					krca se s kapetanom Beutom i zajedri put Carigrada. Nakon dva godišta odjedri i
+					Pasko s kapetanom Kavovićem. Što ću ti pripovijedat kakvi bijahu ti rastanci;
+					iskinuše se joj dva dijela srca, uvehnuše; - ali u onemu koji joj još ostane
+					nađe toliko snage i života da se uzdrži radi miloga svoga Joza.</p>
+				<p>Jozo tužan u ovijem prigodama trojio se je oko Jele, kuću je napunjô i isko svaki
+					način kako bi popunio sa svojom ljubavi ljubav udaljenijeh sinova. Jele paka sa
+					svoje strane tajala je dobro svoju pečal, da ne bi Jozo nje žalost cijenio
+					prijekor praznoga materinskog skuta. - Ali kad napas hoće umetnuti svoju, ma ti
+					je umetne na kojimudrago način. Ovdi nije mogla drugo nego jedno večer, kad Jele
+					sama moljaše Boga za djecu, turne nekakvu vražiju ljepiričinu crnu, koja - pras
+					- doleti na svijeću i udune je.</p>
+				<p>A sad, moj dragi paroče, niko joj izbiti iz glave: - ovo mi se dogodilo nešto
+					djeci, - ovo ti mi ih je proždrla morska pučina, i majka svoja nigda ih neće
+					vidjeti.</p>
+				<p>Za to sam ja sama znala, i Bog mi je svjedok da sam činila što sam umjela:
+					svjetovala, korila, molila, ali sve u tampas. Zabila ti je bila čavo, i tako se
+					je najposlije izvršilo. - Hee, ono nje srce iz djetinjstva kaživalo je, a rekla
+					sam ti da će je u zlu kožu navestiti.</p>
+				<p>Išlo je četvrto godište otkada je ovo slijedilo, i nešto knjige dječine, nešto
+					rogatije, a nešto isto vrijeme, razabraše Jelu, i nastade biti bolja i zdravljem
+					i odnošenjem. Kad eto ti braće Senkića da se gradi brod, za veliku nesreću svega
+					Gruža. Proto Božo digne ga na svomu škaru. - Jozo je uza nj, to se zna. -
+					Velikijem veseljem gradio se je brod, a još većijem porinuo se je pust. Tako
+					porinuće niti je bilo, niti će biti igda u Gružu. Sve što je gospode u Gradu
+					bješe se sastalo na škaru, te s klikom, s pjesnima, s vijencima, s pucanjem
+					pridaše ga moru i nadjedoše mu ime Bete.</p>
+				<p>Spravan je odjedriti; kupe družinu. - Ko će za meštra? - Svak uglas: Jozo Baldov!
+					- Na onakomu brodu drugi nije podoban. - Senkići ištu ga, ali, trijeba je rijeti
+					po duši, Jozo otimlje se, er obraća se na Jelu. Ali plata dobra je, veće neg
+					igda plaćalo se meštru; - grehota je izgubiti ovaku sreću. - Stisne jadnik srce
+					te jedno večer uze govoriti Jeli kako ga zovu Senkići na Betu, kako mu davaju
+					dvaes' peča na mjesec plate, kako takijeh sreća bijaše rijetko. Zato, velio je,
+					muka mi je izgubiti, a žô mi je tebe ostaviti samu. - Ali opeta sam promislio da
+					ne bi vele ni samovala, er po zadnjijem knjigama dječinijem znamo da Baldo i
+					Pasko sastat će se u Carigradu, otkuda zajedno ukrcali bi se za Dubrovnik, i oko
+					Svijeh svetijeh bili bi doma. Reci mi dake, Jele moja, hoću li uhiti se Bete,
+					hoćeš li ti ostati bez mene dok dođu djeca?</p>
+				<p>Jele od muke naduta za puknut i s uzlom u grlu jedva odgovori mu: - Ostat ću -
+					Bog će pomoć... i rasplače se.</p>
+				<p>Tužan čovjek stane je tažiti, obećivajući joj da nakon tri godišta došo bi doma
+					sasvijem, er s onakom dobrom platom uzdo se prikupiti ne najgore za živukati
+					mirno doma i ne misliti veće o moru. - Jele pristane uz razloge, Jozo meni je
+					priporuči i zamoli me da bi koji dan postajala s njome nek ne bude sama, i s
+					prvijem vjetrom zajedri s Betom iz Gruža, za veće ne vratit se.</p>
+				<p>Od toga dana sasvijem udre ti nazada, er sve rane srca jednaga otvoriše se joj.
+					Objavi joj se nekakav suhi kašalj, polije je bljedilo a namaknu se dva rumena
+					pečata na jagodicama; hrana bješe joj mala, spanje rđavo a bdenje i još gore.
+					Moje taženje i razgovori bijahu joj ko lanjski snijeg, er, ne budući već Joza,
+					radi koga samo silovala bi se prije uzdržati, pusti se jadu da je sasvijem
+					prebije.</p>
+				<p>O tankoj dlaci držalo je jošter uhvanje: - doći će djeca oko Svijeh svetijeh. - I
+					primila bijaše knjigu da su se uputili iz Carigrada s kapetanom Bratićem; kad
+					puče nesrećni glas da se razbiše negdje u Arćipeligu i svi potopiše.</p>
+				<p>A sad, tužna Marijo! što ćeš i kako ćeš? - Ko to sad njome smije rijeti? Eh mili
+					Bože, jada i nevolje! - Bojim se da ne obazna prije vremena; - mučim se, ne
+					ostavljam je samu, zagovaram, pripovijedam, ludujem..., kô majka oko luda
+					djeteta samo da miruje. - Utoliko, za višu nesreću, dođe jedan Oraščanin koji
+					bijaše s Bratićem i sam između svijeh na brodu živ izmače. Ovi pripovije kako
+					Baldo bijaše zajedno s njime isplivo na suho, nu, videć brata Paska gdje rve se
+					s valovima i u pogubi da se uduši, skoči opeta u more da ga izbavi, ali veće ne
+					ispliva ni jedan ni drugi.</p>
+				<p>Kada se to prospe, vas Gruž proplače; a meni ne bijaše druge neg da joj se
+					navijesti taj crni glas prije neg bi ga sama obaznala. Kupe se prijatelji,
+					dohodi susjedstvo, te od tamo od amo, dok joj pusto navijestiše. Ja mišljah
+					rijet joj i ubit je, svejedno. I doistine, za čas ostane skamenjena, - pak na
+					jedan mah vrisne, bljusne krvi na usta, prevali se - i eto ti je tu. - Zavikah;
+					- dospjela je, - trčite po popa.</p>
+				<p>Stavimo je na postelju; - neko otrči po popa, neko po liječnika, i domalo stani
+					se jedan i drugi. Liječnik viđe što je, te odmah ubode žilu i oduši krv; -
+					tezijem ožive je, nu bilo bi bolje da nije. Naredi jošter nekakvijeh posala,
+					preporuči muk i mirnoću, pa otiđe. Parok, er kad bijaše se razabrala, ona ga
+					ista zapita, ispovidje je, i tako u dvojicu liječiše joj tijelo i dušu.</p>
+				<p>Muke i trganja Jelina nakon ovega prvoga udarca ja ti ne umijem pripovidjet. Nu
+					zamisli samo jednu majku, onake ćutljivosti kakve ona bijaše, na jedan mah, kada
+					se nadala zagrliti sinove nakon toliko godišta i s njima popuniti praznoću kojoj
+					muž bijaše je ostavio, naći se bez nijednoga, čuti kojom smrti dospjeli su,
+					znati da za spasiti jedan drugoga oba se izgubiše, - hee - čuj me, ako si i
+					božiji sveštenik, to bijaše odveće ne Jeli, nego Sansunu!</p>
+				<p>Ali homo naprijeda, homo, nek mi je svršiti ovu nesrećnu i plačnu pripovijest; er
+					kunem ti se, - samo što je spominjem, cijepa mi se srce i hita me mala
+					snaga.</p>
+				<p>- Marijo moja! odahni malahno, odahni - reče župnik, pazeći staricu kako bijaše
+					se zanijela, - ja mogu pričekat, niko nas ne ćera. - Kad počineš, lašnje ćeš
+					dovršiti što si počela.</p>
+				<p>Skloni starica glavu u šake, a laktima podupre se na trpezu; postoji neke čase
+					zadubena, pak izdignuvši lice, kako iza sna, reče župniku: - Čuješ jadan! - a bi
+					li da ti svarim kaficu? Nemoj se strašiti, znaš, ništa; - ono čijem se služi
+					nemotnjica, sve je napose; - a što je za prijatelja, ondi je, - pruži ruku i
+					pokaže spremicu u miru.</p>
+				<p>Župnik, znajući da staroj veće bijaše do sebe neg' li do njega, odjavi joj s
+					posmijehom: - Kad te je volja popiti kaficu, a ti je učini.</p>
+				<p>Oh, Bože moj! ne velim ti ja za mene: - ja za kafu malo hajem. - Ma ti od jutra
+					ovdi si; ko zna dokle još stati ćeš, i to bez išta okusiti, - ah - to nikako, -
+					uzet ćeš kafu, po svaki način. I tako razložeći, Marija uputi se k spremici.</p>
+				<p>- Hajde hajde moja starico, kad je tako, svari je za mene i za tebe - zaglavi
+					župnik, i ustane.</p>
+			</div>
+			<div type="chapter">
+				<head>XIII.</head>
+				<p>Dočim Marija otiđe učiniti što bijaše namislila, župnik prigleda nemotnjicu,
+					otegne nogama tamo i amo po predsobi, pak sjede opeta i, izvadivši listak knjige
+					i olovku, zabilježi neke opomene života Jelina. Po toj knjižici, koja među
+					starijem župničkijem knjižetinama nađe se u Mihajlu, složena je ova pripovijest,
+					u koju umetnute su male crte kutnjega gruškoga žića ne svakomu poznata. - Neke
+					stvarce koje sam otkrio ovdje, ako obaznadu moje ženice, vjeru ti dajem, stat će
+					ih kvika da do Boga čut će se i, što je grđa, ako me susretu igdje sama putem,
+					zapučit će me kamenjem. - Opora je - nu kako im drago: - do kvike i bune ženske
+					nije mi stalo. Stalo mi je paček do toga da ti ugodim, mili štioče, i zabavim te
+					dovoljno malo časa. - To je moj cilj. - Stignem li ga, - nikud bolje. - Ne
+					stignem li, - hee - štioče, nemoj me pohuliti: - duh bijaše bo spravan, ali
+					izdade telesina.</p>
+				<p>Ovo htijah opomenuti, da ne dangubimo dok župnik i Marija popiju kafu koja je već
+					pred njima. Sreća božija, da staroj ovom krati ne prisije; - popije je na mirnu;
+					- i još mumajući zadnji komadić kruha, spremi posuđe, pa slijedi prekinutu
+					pripovijest:</p>
+				<p>- Crna kob i zlo stanje Jelino navijesti se po knjizi nesrećnomu ocu. Parok
+					iskiti pustu knjigu, i u njoj priporuči mu da to prije se doma poteži. Odgovor
+					stigne iz Tangaroka pa iako ponovi rane Jeline, ali opeta utješi je malahno s
+					obećanjem da kad iz Đenove bude brod prolaziti put Triješća svrnuo bi pod
+					Kalamotu, i Jozo ostanuo bi doma.</p>
+				<p>Proskili tužnica kako svijeća kad joj ulja dodaš, i ta sama nada žlje i gore
+					život joj je uzdržala. - Nakon dva mjeseca primi knjigu s Malte, pak dvije iz
+					Đenove, i uprav jednu kad bijaše brod spravan uporaviti put amo.</p>
+				<p>Ah da ti je bilo vidjeti je brojiti dane! kako željeti da prolete, neka bi svanuo
+					prije oni koji bi je zagrlio sa milijem svojijem drugom, na čigovu srcu jedino
+					mogla bi se izjadati i naći neku utjehu ljutoj rani koja je klala! Nu bješe
+					upisano drugačije.</p>
+				<p>Prođe mjesec, nema Joza; - prođe drugi - treći - četvrti - ni Joza ni Jozova
+					glasa. - A sad? Već Jeli ne sviću neg dani skončanja. Cvili crna kukavica, svija
+					se kako zmija oko kamena; - prijatelji, susjede, razlozi, taženja, sve zaludu. -
+					Nema Joza! - Gdje je Jozo? - to joj je vas odgovor. Ne misli o inomu nego o
+					Jozu, ne čeka inoga nego Joza. - Puca li kakav brod u pučini? - Ovo Jozo
+					pozdravlja Gospu, sad će mi doći. - Ulazi li kakav brod pod Kalamotu? - Ovo je
+					on. - Zakuca kogodi na vrata? - trči vidjeti da nije on. - Pak nahodeći se
+					prevarena, eto ti je u novijem mukama i skončanjima.</p>
+				<p>Često otišla bi na goricu S. Vlaha izgledati put pučine, kako da će ga nategnuti
+					očima; tu okamenila bi se urâ i urâ na vjetru, na zimi, na daždu; k nebu ruke
+					uzdizala bi moleći da joj ga iznese, mahala bi kô da ga je ugledala; - ali sve
+					bijaše joj gluho, sve nijemo, odnikle glasa ni utjehe.</p>
+				<p>Usiljena narav uzdržala je donekle Jelino tijelo na nogama, ali nakon osam
+					mjeseca takoga rvanja bolest pridobije narav: leže u postelju. - Bolovala je pô
+					godišta, izmetne krv mnogo puta, er lijeci malo pomagahu joj. Mladost sama održa
+					je, te na početak ljeta štogodi popravi se.</p>
+				<p>Otada, i ovo je treće godište, lutala je sveđer, kad boja kad gora, dok na svrhu,
+					o prošastoj Gospi Velikoj, složi ti se sasvijem u postelju. - I evo ti je sada
+					same u kući; - nema svoga da je pregleda i prevrati na postelji; - potrebna
+					svake stvari, er tri godišta nemoći, bez prinosa, pozobali su ako je štogod i
+					imala.</p>
+				<p>Dok je mogla, na stanu i na švenju dobila bi neku rutinu da se prihrani; ali kad
+					se proćuka da je zla nemoć na njoj, svak bome ustruča se dati joj rabote, i tako
+					ostane o samoj milostinji, očima proseći a usta ne otvorajući.</p>
+				<p>A sad reci mi, dragi paroče, je li je mala dopala? - Ha - ha. - Tebi je za čudo
+					gdje si uvidio nešto neredna u riječima nemotnjice i u savišoj hlepnji da se
+					združi sa svojijem dragijem? - Ne čudi se tomu, nego čudi se da nije sasvijem
+					prevrnula svijesti, ili štogod od života učinila. - Ljubav muža i djece na ovo
+					dovela je; nemoj joj dake uzet u grijeh ako i izdušući o njima misli i njih
+					spominje.</p>
+				<p>Svrši Marija svoju pripovijest, a župnik naslonjene glave na dlanu od ruke,
+					laktom ne trpezu poduprtijem, ostane zamišljen i mučeći.</p>
+				<p>Nakon nekoliko izdigne glavu s uzdahom i upita Mariju: - Nigda, dake, išta od
+					ikud ne obazna se za Joza?</p>
+				<p>- Nigda, ni od Joza ni od inijeh koji bijahu na pustomu Beti. - Tri godišta
+					prošli su mađa mjeseca da iz Đenove pođe a amo ne dođe, nit igdje objavi se.
+					Drže pomorci da gdjegod usred pučine bit će otvorio vodu, pa otišô na dno kako
+					stoji.</p>
+				<p>- Zla udesa! - ali mi je za čudo da barem mačka, što reče se, nije gdje
+					isplivala, ili kakav biljeg našo se izgubljenoga broda.</p>
+				<p>- Nikakav! - pisalo se na sve strane, stavilo se na konsule - pa sve zaludu. -
+					Nesta ga, i nesta ga sve ujedanput.</p>
+				<p>- Ko zna kako!</p>
+				<p>Župnik zamrči opeta nešto olovkom na knjizi, pak otide k nemotnjici.</p>
+				<p>Ova svejednako slijedila je dihati tanko u nekomu mrtvilu i zapuštanju koje nije
+					slutilo ništa dobra. Kapljice znoja po čelu joj prosute i kadnokad jedno
+					slabahno ječanje bijahu biljezi unutrnje muke; vrh svega bljedila dva goruća
+					pečata na jagodicama i pospješno kucanje duhatnice kazalo je ne malu ognjicu
+					koja bijaše pridošla. Župnik zagleda se u nemotnjicu, pomnjivo osluhne nje
+					dihanje, pogleda na nokte od ruka, lako-lako da se ne osjeti, dotegne joj
+					duhatnicu, i kada se osvjedoči od svega, sklopi ruke, reče kratku molitvu,
+					blagosovi ju propećem, okropi stan, i otide da se opeta na večer prijavi.</p>
+				<p>Ištom kad župnik otide, Marija oćutje da joj nešto škraba po utrobi i da je
+					lačna. U dugu pripovijedanju bijaše zaboravila da nije objedovala; zato brže
+					bolje pripravi, blaguje zadovoljno, napije se sita, pak otide k nemotnjici i
+					sjede joj kod postelje.</p>
+				<p>Tri ure su popodne; Marija zadrijemala je, a nemotnjica stala se kretati. Obrne
+					se s jedne strane na drugu, uzdahne iz duboka kako da se je probudila iz tvrda i
+					slatka sna, i premetajući rukama tegne u nešto glatko i studeno (u tjeme
+					Marijino). Đahne se, udilj uzmakne ruku a izdigne glavu i pogleda u što bijaše
+					taknula; nu kad sagleda staricu spavajuću, pruži opeta ruku i pomiluši je po
+					obrazu.</p>
+				<p>Na to milovanje Jelino stara prene oda sna, uze joj ruku i ljubeći je: - Kako si
+					moja tužico? - upita je - jesi li pospala, jesi li ikoliko odahla?</p>
+				<p>- Jesam, s Božijom pomoći baš danas kako nijesam odavna - odgovori Jele
+					zadovoljnijem glasom, - pak slijedi: - Je li otišo parok?</p>
+				<p>- Otišo je, nema vele, nu obećo mi je da će se pojaviti k večeru.</p>
+				<p>- Hvala Bogu kad je otišo: ali draže bi mi dosta bilo da sam ga našla sada kod
+					mene.</p>
+				<p>- Zašto?</p>
+				<p>- Bila bi mu pripovidjela nešto lijepo. - I tako veleći posmjehne se.</p>
+				<p>Marija začuđena da Jele nije po nje običaju probudila se s novijem uzdasima i
+					ječanjem, nego paček mirna i zadovoljna, izvali oči na nju, te stane gledati,
+					ili ono veljaše u snu i izvan sebe, ili zbilja.</p>
+				<p>- Što me gledaš začuđena? - upita je Jele istijem posmijehom.</p>
+				<p>- Kćerce, gledam te, er te nešto vidim drugovačiju.</p>
+				<p>- U čemu vidiš me drugovačiju?</p>
+				<p>- Vidim te mirnu - posmjehivaš mi se - imaš pripovidjet nešto lijepo paroku, -
+					hem, - Bog zna, kćerce, ja te ne razumijem.</p>
+				<p>- Ne razumiješ me? - he - ja znam da me ne razumiješ, ali kada bi ti pripovidjela
+					što mi se lijepo snjelo, što sam u momu snu čula i vidjela, ooh Marijo moja!
+					kako bi tada dobro me razumjela.</p>
+				<p>Stara sve to većma cijeni da je Jele izvan svijesti, i zato ne odgovara joj
+					ičesa, neg svejednako gleda je začuđena.</p>
+				<p>Radi šta slijedi Jele: - Ja znam za koji uzrok tako si se zapiždrila u me - ti
+					cijeniš da se meni trambuni, nu varaš se; - ja dobro znam što govorim, i odviše
+					ćutim da život povratio mi se je, - i da se ne varam, reci mi ti ista kakvu
+					nahodiš me sadara?</p>
+				<p>Mariji se s manje ne mogaše, ustane, pristupi, zagleda se u Jelu pak odjavi joj:
+					- Bome kakvu? - kakva nijesi bila od kada si se razboljela. - Lica mirna i
+					vedra, oči živijeh, usta na smijeh upravljenijeh, - blijeda si, ma ne kako
+					prije... U ime Oca i Sina i Duha Svetoga, (i starica prekrsti se) - reci mi
+					kćerce, da nijesi po kojoj sreći uskrsla?</p>
+				<p>- Nijesam uskrsla, nego paček dobrzo umrijet ću ti, ali prije neg umrem, vidjet
+					ću moga Joza.</p>
+				<p>Marija s oba dlana pokrije joj obraz, da joj omete riječ, te ljubeći je u čelo i
+					malo manje neg plačući, zavapi: - Nemoj moje dijete! nemoj da te pakô napastuje;
+					- preporuči se Bogu i vrzi ća te varave misli koje ti mogu činiti lasno Boga
+					uvrijediti.</p>
+				<p>- Nije, Marijo, napast, ne, - odgovori Jele vadeći glavu ispod ruka Marijinijeh,
+					- nije napas, nego ovako kako ti ja govorim: - a vidjet ćeš kad malo starija
+					budeš. - Kako i zašto? to ću samomu paroku pripovidjet. - Pak uzdišući iz duboka
+					slijedi: - Hee - Bog moj čuo me je, smilovo mi se je na svrhu, - svakako mu
+					hvala!</p>
+				<p>- Tako, Jele moja, tako, zahvali Bogu, nu utoliko nemoj o tomu misliti nego o
+					Bogu tvomu i njemu se preporuči. - Pak za promijeniti razgovor upita je: - Reci
+					mi, hoćeš li štogod uzeti?</p>
+				<p>Uzmičući nemotnjica ramenima, kako preko volje, odgovori: - Pe... a ti mi donesi
+					kaplju juhe, ma udrobi u nju malo tvrda kruha.</p>
+				<p>Stara otiđe, a Jele izvadi jednu medaljicu koja joj visijaše o vratu, poljubi je,
+					prekrsti se s njome i uze moliti.</p>
+			</div>
+			<div type="chapter">
+				<head>XIV.</head>
+				<p>O stanju duha našega čestokrati zavisi i telesno naše stanje. Radost,
+					zadovoljnost duše capti nam na licu, i svijem tijelom svjedočimo unutrnje naše
+					dobro stanje; žalosti, pečionosti, duhovni nemiri rade telesnu zlovoljnost, i
+					omušeno lice znak je nevaravi unutrnjega dreselja. A pak, cjeć onogâ prem tvrda
+					i tajna spojenja duše s tijelom i još otajnijega djelovanja prve vrh drugoga,
+					često se događa da iste telesne nemoći uzrokovane su od tuga koje na duh navale
+					i moralno ga tako pobijede da telesni čini zaustave se, živalji oslabe,
+					neurednost u unutrnjemu ustrojenju objavi se, i nemoćno tijelo u postelju položi
+					se.</p>
+				<p>Ovakomu nemotnjiku poboljšanje duhovnoga stanja kadgod obrati na bolje telesnu
+					nelagodnost; i, ako ufanjem buduće čestitosti duh izdigne se iz dubine pečali,
+					mnogo puta i tijelo povrati se i zdravo ustane s postelje, na kojoj dugotrajno
+					bolovalo je neznanom bolesti.</p>
+				<p>Ah da našoj tužnoj nemotnjici, koja već do smrti bijaše sašla cjeć samoga
+					zlostanja duha uzrokovanoga od crnijeh pretrpljenijeh jada; ah! velim, da ovaki
+					pretvor htijaše joj se zbiti nazad dvije godine, i da oni san koji malo prije
+					pokrijepi je htijaše, dok jošter u snazi bješe, izdignuti joj duh i probudit joj
+					nekakvo prem čudno ufanje da će opeta vidjeti i zagrliti živa svoga druga;
+					uvjeren sam da bi bila dobrzo ustala zdrava s postelje svoje. - Ali prem docna
+					dođe utjeha, prem docna duh se opojavi; njezino tijelo iskopnjeno, pozobana od
+					nemoći, živalji prekinuti, uništen telesni ustroj, koju korist mogaše poprimiti
+					s ovoga poznoga ufanja?</p>
+				<p>Za trenutak oživje, oči otvori, provedri, progovori, zaboravi svoju muku i
+					bolest; ali niti napredova u poboljišanju, niti tužnica ozdravi. To bijaše munja
+					koja sred grdne tamne noći sjekne u oblaku, rasvijetli časom put i putnika, da
+					ga opeta ostavi u dubljemu mraku.</p>
+				<p>Večer se približa. - Jele nakon kratkoga pojavljenja iznova slabi, prehita je
+					drijemanje, - rve se sa svojom slabosti, - sad oči otvora, sad ih sklapa, - sad
+					pita okvasiti osušena usta, - sad ište da se namjesti na jednu stranu, sad na
+					drugu; - progovara, nu lijeno, - moli Boga, ali prekinuto. - Marija je oko nje,
+					kako mati oko djeteta, ljupko joj pogađa na svako zahtijevanje.</p>
+				<p>U Krstu zvoni »Zdrava Marija« - stara prekrsti se i pozdravi Majku božiju; -
+					spravi svijeću u sobici nemotnjice i namjesti je tako da joj ne smeta očima; -
+					uzme najposlje kudjelju i sjede presti kod svijeće.</p>
+				<p>Malo vremena prođoše ova dvojica u samoći er Lukre Franova prva, pak župnik,
+					prispješe im u družbu. Jele sjeti se župnika, obraduje mu se i zaželi ostati s
+					njime samijem.</p>
+				<p>Izidoše obje starice van sobe i, dočijem župnik zadrža se s nemotnjicom, one
+					prorazgovore se o svojijem poslima. - Marija potuži se da joj već pukoše noge
+					oko nemotnjice: - Ne mogu ti, moja sestro, vragut bata na jednu nogu naprijet, -
+					eto se i sama čudim kako se već držim i ovako, - znaš li, Lukre, da su mi
+					sedamdeset na vratu?</p>
+				<p>- Pa što mi pripovijedaš? - ali ne znaš da smo vrsnice? - I ja ti sam sestro baš
+					grohnula; - prekodan čantram po kući, ali uvečer, amo preko krsta, (i zaječi
+					stara čim govoraše) nešto me šine, da ti se jedva mogu pružiti kad sjedem.</p>
+				<p>- Čigovo ti je to bječava što pleteš? Čini mi se nešto debelo.</p>
+				<p>- Ovo ti je onamo u Lapad, muškijem za baštine. Imam ih splesti tri para. -
+					Uharno je ovako između posala uhitit koji dinar za našijeh potreba.</p>
+				<p>- I kako, moja Lukre! - i meni je tu skoro, Pera Krtičina poslala knjigu lana i
+					poručila hoću li joj moć opresti ovu i kojugod za domaćega postava. Po svaki
+					način, gospo Pera, kad god ti zapoviješ, pošlji mi, ja to Boga i molim. - Teško
+					ti meni po mojijem kad ja ne bih imala moja dva - dnara.</p>
+				<p>- To ti je prava istina; kako tebi tako svakoj tvojoj drúgi. Naši muški ne
+					razumijedu neke stvari, a nama staricama od potrebe su... pak već znaš što ti
+					hoću rijet... basta - ako nemaš u svom tobocu, kapljice naćeš ni okusit.</p>
+				<p>Starice bijahu zavezle i htijahu slijediti ko zna dokle, ali župnik prekine im
+					razmišljanja o tobocu i kapljici, zazivajući Mariju kod Jele. On izide iz sobe
+					zamišljen i zamućenijeh oči: prođe se dva-trikrat po predsobi, te sjede na
+					običajno svoje mjesto, sudeć ga po licu, zaduben u nekakvoj žalosnoj misli.</p>
+				<p>Uto povrati se i Marija, priuze predivo veleći sama sobom: - Bože moj! što se
+					danas tužnica uzmučila! Evo sam je peset puta namjestila sad na jedan način, sad
+					na drugi, pa nigdje mira, nikako joj se ne grije.</p>
+				<p>- Tako ti je - odjavi župnik - kad smo na skončanju. - A pak dobri Bože! ne bi
+					joj dosta grozna muka od smrti, nego trebovaše da joj se probudi nekakva tašta
+					nada i da je smete nevrijeme....</p>
+				<p>- E - e baš tako, gosparu dragi - prisiječe Marija nekom naglosti. - E - jesi li
+					vidio? - Je li ti pripovidjela što je čula i vidjela?</p>
+				<p>- O tomu ne govorimo - odvrati stavno župnik - slaba pamet svašta snijeva. San je
+					klapa, a Bog je sam istina. Temu nje snu nimalo se ne čudim; nu ovo mi je čudo
+					koga ne mogu da doprem. Prije neg sam je ostavio, požudjela je da pomolim kod
+					nje Boga. Uzeh moliti, i ona slijedijaše me ispod glasa; kad na jedan mah pruži
+					ruku put svijeće, veleći mi: - Nuti! nuti! - viđi brzo, - viđi! - Obazrem se i
+					pitam je: što? - Onu bijelu ljepiricu oko svijeće?... - Jele moja! ostavi
+					ljepiricu, er te ljepirica u ovijem časima ne pomaga: misli o Bogu, a ne gubi se
+					u ludostima. - Ona me pogleda, te, kô da si joj svuko jednu koprenu s lica,
+					prosvijetli, pomladi se, i s nekom unutrnjom vjerom: - He - odjavi mi - što će
+					mi ljepirica? - danas onaki san... večeras ova bijela ljepirica... pamti - Jozo
+					je kod mene prije nego izdahnem. - Ostadoh, starice moje, ni na nebu ni na
+					zemlji; preda mnom za čas, ne bijaše već lice izdišuće nemotnjice, nego mladice
+					od dvaest godišta - svetice - nešto što već nije se zemlje doticalo: suze same
+					polećeše mi niz obraz, sklopih ruke i zavapih: Bože! ako je ovo po tebi, punila
+					se tvoja volja! - toli nije, pokrijepi je da se ne izgubi. - Blagosovih je i
+					izidoh iz sobice.</p>
+				<p>- Nato stara Lukre među strahom i čudom zavapi: - O gosparu paroče, zaklinjem te
+					Bogom! može li se to izvršiti? - mogu li mrtvi uskrsnuti?</p>
+				<p>- A je li Jozo baš umro?</p>
+				<p>- Eto bome tri godišta da su partili (odjedrili) iz Đenove, a još nikakva se
+					kraja nijesu uhitili. Što ćeš više?</p>
+				<p>- Ko zna? Bilo je čeljadi za koju po dvadesti godišta išta se nije znalo, pa su
+					opeta svoju kuću pohodili.</p>
+				<p>- Može biti svega na svijetu - zaglavi Lukre uzmičući ramenima i sklanjajući
+					glavu.</p>
+				<p>Oko neke ure noći počme prilaziti susjestvo i, znajući da je župnik uz nemotnjicu
+					i ova trudnija, prikupi se čeljadi veće neg prošastijeh večeri. Osvem ženskijeh
+					dođe poznati nam meštar Miho, s njime Frano Mihov i još kojigod drugi.</p>
+				<p>Iza kako posidješe i porazgovaraše se, župnik navijesti molitvu za nemotnjicu, i
+					ustajući počme je, a za njime svi pobožno smoliše dio rozarija (krunice).</p>
+				<p>Pred ponoća Jele teže se ustrudi, lapat uzraste, grudi silovito odisahu,
+					duhatnica odeblja i zaigra žestoko. Župnik promisli da jedan novi bljus krvi ne
+					bijaše daleko, nu bojeći se da s tijem i ne svrši, uze tihijem glasom moliti
+					molitve umrućijeh. Sve muško i žensko ondi sakupljeno kleknuvši odgovaraše, ne
+					bez suza, »moli se za nj.« Prođe malo časa toga stanja, kad nemotnjica jednijem
+					mahom sjede na postelju i rukama pokazujući da će joj krv na usta, iskaše kakav
+					sud.</p>
+				<p>Pritrči jedna ženska sa sudom i nevoljnica izmetne mnogo, nu ne zaduši je: živa
+					ostane, ali živa tako da samo dihala je.</p>
+				<p>Položiše je opeta na postelju, te mazajući je ostom, zalijevajući je vodom od
+					naranče i mučeći se nekoliko oko nje, oživješe je. Tada, ćuteći se oslobođena od
+					one tegote u prsima i štogod lakša, otvori oči, povede ih oko sebe i ustavi ih
+					na župnika i, zagledavši se u nj, pruži ruku na propeće koje on držaše, dohvati
+					ga, poljubi - i vraćajući mu ga, reče mu:</p>
+				<p>- Ne boj se oče... neću jošter umrijet... znaš što sam ti rekla? - Onako ima
+					bit... - Sad sam lakša, i malo ću počinut... Hajde i ti počini... gledaj me
+					sutra... oko... ne - kad on dođe.</p>
+				<p>- Bit će sestro što Bog ushtjedbude - odgovori joj stavno župnik. - Ti u toliko
+					uzdigni pamet i srce k Jezusu propetomu, ere čas se približa.</p>
+				<p>- Jele sklapajući ruke odgovori jednu riječ »spravna sam« pak spusti veđe - jali
+					na san, jali na bešćutljivo sanesenje izmorenoga duha - ne znam; i tako traja do
+					pred zoru.</p>
+				<p>Župnik još neko vrijeme slijedi molitvu, pak uzme stolac, sjede uz prozor kod
+					sobnijeh vrata, skloni glavu na naslon istoga prozora i zadrijema.</p>
+				<p>Ženice nadute s velikoga mučanja, videći se već slobodne, odriješiše jezik, te
+					šaptom udri da se izgovore česa bijahu pune. Marija i Lukre istociliše im do
+					kraja sve što Jele, što li župnik pripovidjeli bijahu, i baš vrhu toga šapat se
+					dijelio.</p>
+				<p>Kako paka naše ženice dijeljahu svoje mnijenje o ovemu poslu, ne umijem
+					pripovidjet. Znam samo da ne bijaše među njima sloge, er jedna vjerovala je da
+					tako sve može biti, - druga nikako, nego da je klapa. Nike Lučina govorila je da
+					i prije takijeh stvari bilo je na svijetu, zato da može i opeta. Lukre stara ne
+					dâ o temu ni opepelit, ona drugoga razloga nije znala nego - mrtvi uskrsnut ne
+					mogu, i ino nije htjela čuti.</p>
+				<p>Videći žene nepogodne, umiješa se među njih i meštar Miho, te mudrujući s
+					nekakvijem njegovijem izgledima kojijeh bijaše vidio na Žmirnam, s nekom
+					pripovijesti o Miždraku s Vrbice koji, kako on veljaše, nazad pet stotina
+					godišta bijaše izišo iz groba, prikazo se svojoj ženi, s njom večero i opeta
+					vratio se u grob; i su pet-šest njegovijeh - Kristo santo - zabuši žensku pamet
+					tako da one, ako i silom, proždriješe Mihovo mudrovanje, te zamuknuše kako
+					oparene.</p>
+			</div>
+			<div type="chapter">
+				<head>XV.</head>
+				<p>Iza Žarkovice istom-istom pucaše zora; od po neba put zapada joštera sjajahu
+					zvijezde i, na oni sumnjivi zdračak koji nije ni tmina ni vidjelo, joštera tvari
+					pred okom igrahu u magli mutne i nerazabrane, a dvojica jur putovahu ispod Petke
+					kroz baštinu Điva Vraga. - Kuda će u to doba i tijem putem? - Eno ih mimo kuću
+					gospodarevu. - Eno ih na vrh glavice - okrenuše na desno. - Dobro - idu na
+					Goricu S. Vlaha.</p>
+				<p>Ko su? - Po hodu, ljudi su srjedovječni: jedan je visok i tankovit, a drugi niska
+					stasa i širokijeh pleća. Po razgovoru i nošnji pomorci su. Kad ih dostigosmo,
+					manji veljaše većemu:</p>
+				<p>- Oni se imadu bit noćas bacili a traverso i držali se de fora Lokruma, a pak u
+					zoru s ovo bave (daha) do kraj a uporavit će put Gruža.</p>
+				<p>- A sinoć kad si ih ugledo, gdje su se nahodili? - upita visoki.</p>
+				<p>- Ja sam ih ugledo s Tocila na zahod sunca, i bili su... jedno sedam-osam milja
+					nadvoru prema Mrkanu.</p>
+				<p>- Ama jesi li ti pozno dobro pulaku?</p>
+				<p>- Bogati, kapetane, što govoriš? Jedan brod s kojijem sam navego (brodio) deset
+					godišta za nostroma nećeš da ga poznam? Bih ga, ovega mi mora! pozno petnes
+					milja nadvoru, samo da mu vidim arburatu (jedrila).</p>
+				<p>Ovijem razgovorom dopriješe pred crkvicu S. Vlaha. Tu najprvo kleknuše i pomoliše
+					se Bogu i dubrovačkom parcu, pak se okrenuše k moru i upriješe očima put
+					obzorja.</p>
+				<p>Lijepo ti li je o svanuću obzorje sa Gorice! - Nad tobom je čisto jugoslavljansko
+					nebo bez oblaka: zlatno - rudo na istoku, gasi se i plavi pomalo kako odmiče put
+					visine; na srijedi razlijeva se u modro, koje opeta, na zapad slazeći,
+					tamni-tamni pri dnu gdje s morom grli se, sinje ostaje s rubom crvenkastijem. -
+					Pod tobom je Jadransko more; od istoka preko juga do zapada kraja mu ne dosižeš,
+					a na jutrnjoj tišini val za valom tiho gibajući, krasno odsijeva ti svu nebesku
+					boju. - Od sjevera do istoka brda ustavljaju ti pogled, ali pobrđom sela
+					namještena, čarobno izgledaju kroz vlažnu maglu od sunca još nerastrgnutu. Tuda
+					Trsteno divi se sa svojijem gorostasnijem javorima; - Orašac s dubravom maslina;
+					- Petrovo selo sa svojom zavjetnom crkvicom Gospe od Vodica i ledenijem vrutkom
+					žlijebi; - Srđ s ubavijem svojijem Konalom; - Varoš Pile sa svojijem perivojima.
+					- Vidiš pod tobom komad Dubrovnika i ogromnu Minčetu; vidiš otok Lokrum i za
+					njime otočiće Mrkan i Bobaru; na lijevu im je Captat, a priko njega gube se
+					Konavle sa vrsima Kotorskijeh planina.</p>
+				<p>I naša dva pomorca zanese divota ovega prizora, te i nehotice okrenuše tamo i amo
+					oči i po više krati, dok ih ustaviše napokon tamo negdje mimo Lokrum na nešto
+					veliko, bijelo, usred mora napereno, reko bi labud razastrtijeh krila.</p>
+				<p>Oštro je pomorsko oko, ono daleko stiže i vješto je na pučini razaznati brod od
+					broda i poznati ga koji je. Stoga oni visoki, budući se neke čase zagledo, reče
+					manjemu: - Jesu naši.</p>
+				<p>Pulaku, koju izgledaše i koja već s punijem jedrima približaše se ka gradu,
+					bijaše hvaljeni brod stare gruške kuće Vilenikâ. Svršivši svoj četverogodišnji
+					put, vraćo se sretnji brod k domaćoj luci, ono što se reče rušan i krušan, da
+					zimuje i ponapravi se.</p>
+				<p>Oni visoki, koji ga izgleda, Vice je Vilenik, stari kapetan, koji pridavši
+					sinovima zapovijed broda, zamjenjivaše s domaćijem pokojom pomorska stradanja.
+					Oni manji bijaše nostromo Krile, vještiji moru negli suhu, kojemu od Kalikuta do
+					Brzilja bijaše kako inijem od Tangaroka do Marsilje.</p>
+				<p>Sunce je pomolilo iza Žarkovice i zdrakom sjajnijem udarajući u jedra pulaki,
+					pozlati ih. Reko bi da drijevo bijaše oćutjelo sunčani pozdrav; er pod dahom
+					istočnoga vjetra, naperi se s prva uvis, kô da bolje ogleda sunce, pak onda
+					zaronivši se nosom u valove u slap oko sebe rastjera ih, i čim naprijed zaplovi,
+					gibne malo na desnu pak na lijevu i odvrati mu pozdrav.</p>
+				<p>Doprla je na rat Lokruma i upravila već pulaka mimo Grad. Glavni stijeg vije se
+					na krmi; sve tri katarge nose na vrhuncu razvite različne stjegove; okitila se,
+					uresila se, neka bi ljepšta na dom prispjela. - Eto je već prema Gradu. -
+					Neviđenom rukom donja velika jedra na jedan mah sakupljaju se, pak kroz bok
+					žicne plam, za plamom oblak dima, za dimom jekne top, a kopno mu odjekne. Jedan
+					pukne, pak drugi do sedam - bijaše pozdrav Dubrovniku.</p>
+				<p>Stari pozdrav! mili pozdrav ondašnijeh vremena! koji napunjo je veseljem srca
+					starijeh Dubrovčana, koji je suze radosti otisnivo niz obraz majkama i
+					zaručnicama, koji podigo bi i malo i veliko da trče na Pile gledati putnika gdje
+					sretno kroz morske pogube zdrav vraća se zagrliti svoje. - Ondar obilnost na
+					moru plovila je, pak se u Dubrovnik slijevala, i glasila se je u svome dolasku;
+					a danas lakoma ruka brodarskijeh gospodara i nemarnost mladijeh kapetana
+					zanemarila je ovi veseli pozdrav. Gluho odlazi drijevo sa domaćijeh žala, a još
+					glušije dolazi; za njega niko ne zna razmi sama mu gospodara, koji s ubitnom
+					radosti dočekuje ga i ne svjetla lica dok ne vidi da je dobit nadišla trošak i
+					koja mu tisuća upala pod gvozdeni zatvor. Oj lakoma nevoljo, niđe te ne
+					bilo!</p>
+				<p>Pulaka dojedri prema Gospi od Milosrđa i tu opeta su pet žestokijeh hitaca
+					pozdravi Božiju Majku i svoga parca S. Vlaha na Gorici; pak onda, razapinjući
+					sakupljena jedra, uporavi veselo put gruškijeh žala.</p>
+				<p>Ostavimo staroga Vicu i nostroma na Gorici da gledaju pulaku koliko im drago. Kad
+					se je nagledaju i bez nas na dom će se vratiti; a mi sađimo prije neg brod
+					ujedri u luku, i viđimo utoliko što se radi u sobi naše nemotnjice.</p>
+				<p>Veće krati do zore župnik prene se oda sna i pregleda Jelu; u svanuće paka,
+					budući je našo s malijem duhom, užeže svijeću blagosovljenu i stane moliti
+					crkovne molitve. Marija, koja je spala u istoj sobici, ustane i klekne podno
+					postelje; pristupe također dvije tri susjede i meštar Miho (er ini bijahu otišli
+					svojijem kućama) i kleknu oko postelje.</p>
+				<p>Jele je već bijela voštanica: vezi su joj upadeni, oči upite i modrijem krugom
+					opstrte, nos osukan, lice izdubljeno, usni puste, jošter malo rumenjahne, k
+					zubima prionule su; desna ruka leži joj na srcu, lijeva spuštana je niz
+					postelju; diha, ali tako tiho da istom grudi podižu se.</p>
+				<p>Dan je, i sunce ogrijalo po Babinu kuku, kad u sobi zatutnji, reg bi jaki hitac
+					topa s mora, pak nakon časa drugi. Svi koji bijahu oko nemotnjice prenuše,
+					izdigoše glave i prikidajući molitvu stadoše osluhnjivati; - slijedi treći
+					hitac, nu prije nego četvrti izduši, Jele počme se rumeniti, krene ustima,
+					uzmakne lijevu ruku i k desnoj prilagajući je, reko bi da ih jače k srcu
+					pritisne. - Na peti i šesti hitac oči otvori, povede ih okolo sebe, jak da je
+					iza sna; pak na najposljedni obrati ih k župniku, i pokazivši rukom put mora,
+					upita glasom čelice: - Je li ovo brod?</p>
+				<p>Na nenadani ovi glasak, ženice, koje prid hicima topova bijahu pozaboravile i
+					Jelu i molitvu, sjeknuše kako obodene i, ciljeći nemakrijivom zenicom
+					nemotnjicu, mnijahu iznebušene da mrtvi progovaraju; isti meštar Miho, spametna
+					pomorska mrkijenta, đahne se malahno i izmače mu se jedan njegovobičajni - o
+					Kristo santo!</p>
+				<p>Župnik, sasvijem da pomnjiv motrijaše Jelu, i na tutnjavu topova sjeti se ončas
+					da nekakva promjena opravljaše se u njoj, ništa ne manje smuti se s neobičajnoga
+					slučaja, i ustresenijem glasom odjavi joj: - Ne znam; - pak brže bolje oporaveći
+					se, slijedi neke pobožne uzdahe k Jezusu i Majci božijoj. Žene opetovaše uglas
+					molitvu, i Jele kretaše usnima.</p>
+				<p>- Uz koju svrhu? - Bog znaše i ona.</p>
+				<p>Nu kad brod prične pozdravljati Gospu, a topovi bliže i jače odjeknivati u sobi,
+					nemotnjica oživje sasvijem, pruži ruke put strane otkuda joj jek dohodijaše, i
+					reče župniku: - Jesam li ti rekla?... evo ide... vjeruješ li mi sada?</p>
+				<p>Na što župnik: - Bit će što Bog ushtije; - ali, sestro moja, nemoj se veoma
+					zanositi, moli tvoga Jezusa, ufaj u njega, on je sam moguć zadovoljiti čiste
+					požude srca našega.</p>
+				<p>Jele, sveđ poslušna svjetu župnikovu, sakupi se neke čase na vruću unutrnju
+					molitvu; pak, budući da joj postelja bijaše tako namještena da se nje kroz
+					prozor mogaše vidjeti more do Dakse i Koločepa, svršivši molitvu, hotije da je
+					uzdignu na postelju i zaslone, zatijem da joj rastvore prozor neka bi gledala
+					ulazeći brod u luku.</p>
+				<p>Niko ne vjeruje ono što ona vjeruje, niko se ne nada onemu čemu se ona nada, nu
+					ipak sve joj se pogodi kako djetetu koje ne zna što hoće. Žene se odstrane da
+					joj je slobodno gledati na prozor i zametnu šapur. - Župnik sjede kod uzglavlja
+					Jelina i pored s njome oči na more upire, ali more ne gleda, nego primeće po
+					pameti, jeda li je moguće da se spodobi snijevanje jedne razgrijane razmnive s
+					istinom? - jeda li je moguće jednomu srcu, koje malo časa prije umiraše, na
+					jedan mah začeti ne slutnju, ne nadu, nego tvrdu vjeru da će vidjeti ono što
+					bezufano do tog časa izgledalo je? - A pak, ako je moguće, može li se to zbiti
+					bez božijega prsta, ili po samoj kakvoj otajnoj moći u nami skrovenoj, koja
+					izdižući duh vrh jedne jur iskopnjene i uništene puti, turi ga u beskrajne
+					prostore da traži ono što tijelom svezan zaman je želio, zaman je tražio? - A ko
+					bi mogo doći na kraj tomu? - Razmi Boga koji sazda čovjeka i u njemu namjesti
+					ljubav i mržnju, strah i nadu, sumnju i vjeru s hiljadu inijeh protivnoborećijeh
+					se strasti, niko, niko ne istomači ljudsko srce. Zanesen ovijem mislima i župnik
+					čeko je vidjeti kojom svrhom imahu se sva ova zaglaviti.</p>
+				<p>Devet ura su jutra; - ćuh s kraja, koji po malo tjero je pulaku Vilenika put
+					Gruža, otiđe, što reku pomorci, za suncem s česa, kad ona dolazuka prema
+					Grebenima, stigne je vjetrić poludnevni i tisne je veselo put unutrašnje luke.
+					Jedri ona sa svijem jedrima, i istom pomoli između Dakse i Lapada, a Jele, koja
+					nepomično držaše oči uprte na to vratlo, izdižući obje ruke k nebu zavapi: - Evo
+					ga! - pak sklapajući ih, pritisne srce u grudima i iznemože.</p>
+				<p>Utoliko jedri pulaka mimo Daksu pak, okretajući kormilom na lijevu, divno zavije
+					put Kantafika. Na glas kapetanov dio mrnara leti uz pripredane ljestvice do vrh
+					katarga i spušta i kupi gornja jedra, a dio s krova duši donja, neka bi plav s
+					umaljenom silom uljegla u luku i pristupila k žuđenomu počivalu. Množ plavčica,
+					punijeh gruške mladosti, zaveze na susret dobrodošle pomorkinje; u njima voze
+					jedni da to prije pozdrave svoje, voze drugi da bi joj pomogli osidrati se i za
+					kraj se vezati.</p>
+				<p>Prošla je Kantafik, mimošla je prve škare, plovi do pred kuću Vilenika, pak onda
+					pljusne u more sidro ogromno, jedra se prevrnu, a vještijem činom brod se okrene
+					krmom put igala i kroz oka ispušti debela čela, koja prihvatajući, pridošle
+					plavčice vuku ih i svežuju oko kamenitijeh stupova.</p>
+				<p>Usklik je na igalu, vika je na brodu, viju se kape, mahaju ubručići, grmu
+					čestitanja i pozdravi, ali sasvijem tijem poso se ne ostavlja. Kapetan
+					zapovijeda s krme, nostromo s prove odjekuje; - škripe prekrstači čim se niže
+					snimaju, graju po njima mrnari čim jedra savezuju, kamarot levénta se na piku i
+					randu zavija; - štucaju čela po krovu, ono veživa se, ovo u kolač sakuplja se,
+					ino priteže se da ne vjetre prekrstači. Svaki zna što čini, i rabota tako leti
+					da u malo doba sve je na svome mjestu, a pulaka umorna s igre po morskijem
+					valovima, poljulja se još malo, pak sjede odmoriti se utegnuta na sidru i
+					svezima, kako ubava gospođica nakon notnjega plesa na domaćemu svilen-divanu
+					uzmetnuta.</p>
+				<p>Niz bok osidranoga broda, spuštena je ljestvica, - niza nju hitro omiče jedan
+					mrnar, - dočekuje ga i prima plavčica koju na veslima oprtu drži jedan sam
+					vozar. - Netom sađe u nju mrnar, a ona otisne put donjega škara.</p>
+				<p>Mrnar je visoka stasa; gledajući mu na gusti crni brk i na gavran-kosu, po
+					kojijem tamo i amo promicahu bijeli pramci, sudio bi mu blizu pedeset godina;
+					ali nije tako, on je čovjek u cijeloj snazi, čvrst, upravan, širokijeh pleći i
+					zagorjena ali jošter krasna lica. Oči crne i ognjevite ispod nabjene kape
+					odsijevaju mu dušu posve jaku, okaljenu u pomorskijem pogubama i trudima; - Usni
+					stisnute, sakupljeno čelo i obrve znak su zamišljene mu pameti; - pogled čas
+					upravljen nekud put Nikoline crkve, čas put mjesta gdje ga imaše izmetnuti
+					vozar, kaže želju tamo prije preletjeti; i da je baš tako svjedoči mu ruka koja
+					češće pripomaga vozaru neka bi jače i naglije tiskô.</p>
+				<p>Sukne plavčica kako jegulja mimo donji škar. Proto Božo i meštri, koji rabotahu
+					oko istegnutoga brika, nadazrješe stranoga mrnara, ali niti ga poznaju, niti se
+					domišljaju ko bi mogo biti: - a plavčica vozi, vozi do pristupa pod Nikolinoj
+					crkvi i tu se ustavi.</p>
+				<p>Bijaše isteklo vremena otkad pulaka pomoli ispod Dakse, dok se osidra i namjesti;
+					ali kolikogod bijaše dugo to vrijeme Jele Jozova otkako je ugleda i iznemože,
+					veće tužnica ne opojavi se. - Priklopljena mrtvilom, sklonjene glave,
+					spuštanijeh ruka, samo duhopira, ali joj je srce živo i tako tuče da pokrivku na
+					grudima odiže. - Mni župnik, i s razlogom, da su najzadnji časi, i pripre s
+					okolo stojećijem na molitvu.</p>
+				<p>Muk duboki u svoj kući: - kadnokad čuješ uzdignuti se jedan glas i pobožni
+					kojigod uzdah, pak opeta muk dublji i dublji. - Niko u onoj sobi ne kreće se,
+					niko ne diha; - bržek boji se omestiti napokonji odihaj umiruće nemotnjice? -
+					Nije ne! - ondi pri onoj postelji, gdje duh s tijelom bori se, život sa smrti,
+					gdje vrijeme prekida se, i on o sebi promišlja i na tu miso kosa mu se ježi, duh
+					mu se uspregne, nemakljiv upanji se, ere u isto doba i vrh njega smrt ploveći
+					mraznijem prstom dotiče ga i veli mu - uči!</p>
+				<p>Makne nemotnjica glavom, uzdahne jekom, rekô bi vjetric priko utegnute tanke žice
+					obješene gudnice, suza na desno oko obori, - sad će izdahnuti... evo je...</p>
+				<p>Žamor čuje se uz ulicu i grede to bliže: - vrata kutnja rastvaruju se - bahat
+					mnogijeh noga u ulazištu je, - nadno ljestve borba je mala, ko će prije, - neko
+					omakne i korakom od tri do četiri stepena ujedno uzleti na pod.</p>
+				<p>Župnik oštrijem licem obazre se k vratima sobice da dočeka onoga koji tako smjelo
+					pohita ometati oni užasni čas nemotnjice, a prije nego on riječ izusti, usrne
+					oni strani mrnar i bacajući se na koljena uz siromašnu postelju, zagrli ono jur
+					studeno tijelo i, groznijem suzama polit, zavapi:</p>
+				<p>- Joh Jele moja! - moja ljubljena Jele!... evo ti tvoga Joza; - docna sam, vidim
+					- ali evo me: - otvori oči, pogledaj me, - poznaj me, - tvoj sam Jozo! - Ah
+					jadna mene, - ne čuješ me? Dakle, Bože, nikoga da zagrlim neg mrtvo tijelo moje
+					nesrećen Jele?... ah Bože... Bože... - I dalje ne dade mu se zajada se, skloni
+					obraz svoj vrh obraza mile svoje supruge, u nj zagleda se natapajući ga vrelijem
+					suzama.</p>
+				<p>Na ovi bolesni prizor Marija stara i žene ine ciknuše plakati uglase, župnik
+					riječi ne progovara, nu paček, videći izvršenu Jelinu nadu, oči k nebu izdiže i
+					ražaljen otire suze koje niz stavni obraz mu same se sipahu. Proto Božo, koji
+					budući pozno Joza kad na suho iz plavčice iskoči i, ostavljajući rabotu sa
+					svijem meštrima potrči mu na susret, okupi ga i gredom pripravi na nenadanu i
+					udesnu ovu namjeru, stajaše u vratima sobe s inijem, i vidjela se koja debela
+					suza gdje se ukradom opuzuje niz oporna njihova lica. - Kad srce gruškijeh
+					meštara plače - hee, to znači štogod veliko.</p>
+				<p>Ali nut čuda neviđena! Jozove vrele suze bijahu stoplile Jelino mramorno lice;
+					uzdasi njegovi bijahu susreli duh ishodeći joj na usnima: - ustaviše ga, -
+					natrag ga povrnuše; - Jele malo pomalo vraćajući se u se, prične biti ćutljiva:
+					- usnima krene - oživje - oči otvori, - vidje nad svojijem jedno lice zajadano -
+					zagleda se - pozna ga - uzdigne polumrtve ruke - zagrli ga, i glasom u kojemu
+					napokonja sila života, strast, ljubav, sve sakupljeno bijaše, zavapi: - Ah
+					Jozo!!... Bože dobri hvala ti! - Eto sam ga vidjela prije smrti! - i celova
+					ljubljenoga svoga druga.</p>
+				<p>Pritisne Jozo svoje usni k usnima svoje Jele, niti veće ih ocjepiva; hoće da joj
+					udahne dio svoje duše, da je sa svojom oživi, da je sebi povrati. - Mnogo čudesa
+					je opravila jedna čista ljubav, ali ovdi izgubi i ona svoju moć: - žešći je zub
+					smrtni, nego celov najgoruće ljubavi.</p>
+				<p>Otrgne se Jele s usni Jozovijeh, otpusti ruke kojijem ga držaše zagrljena, pak
+					tiho-tiho reče mu: - Jozo mili zbogom... Bog mi bijaše objavio da ću te zagrliti
+					prije nego umrem; - to mi je uzdržalo dušu na ustima; - eto sam te vidjela...
+					celivala... celivo si me. - Ja idem... Baldo i Pasko zovu me... vidim ih... idem
+					s njima čekat te gori... pritisni me bolje k srcu... zbogom, Jozo moj!... Bože
+					primi dušu mo... - i ne doreče, er izdahne na srcu svoga druga.</p>
+				<p>Prhne duh put rajskijeh dvora ostavljajući na usnima mrtve jedan andioski
+					osmijeh. - Čemu ti smrtni osmijeh? Da li je u izdahnuću vidjela svoju djecu gdje
+					joj iđahu na susret, i osmjehne im se materinskijem posmijehom - ili je stega
+					usione smrti koja podrugljivijem osmijehom odgovori na vas ovi prem plačni i
+					žalosni prizor? - Neka gata ko hoće, ja za mene dogatô sam.</p>
+			</div>
+			<div type="chapter">
+				<head>XVI.</head>
+				<p> Svaku povijest trebuje nekako zaglaviti; moja je zaglavljena sa žalosnom smrti
+					Jelinom, i tamo preko smrti što ćeš veće tražiti? - Nu znam da mnozijem činit će
+					se ovo nenadno bahnuće Jozovo na samo izdahnuće svoje zaručnice izvanredno,
+					nedomak istine. - Ako ćeš mi vjerovat, rijet ću ti prijatelju moj, da ovo bijaše
+					stvar posve naravna i da je jedan od onijeh raznijeh slučaja koji tjeraju naše
+					tužne pomorce. Evo me da ti ga kažem.</p>
+				<p>Kad najposljedni put jedrijaše nesrećni Bete iz Đenove put našega zamorja, budući
+					dopro na pogled otoka Maritima, susrete ga južni vjetar koji mu se je protivio
+					da prevali u Malteško zalivo. Na zapovijed kapetanovu uze tada jedriti na
+					izvitak protiva vjetru; s večera ončas užeže se svijetnjak veljački na provi,
+					znak pomorski da se ubjegne kobno susretanje broda s brodom po mrklom tmini
+					sjemo-tamo jedrećijem.</p>
+				<p>Ta noć za nesreću pane tamna bez zvijezde na nebu, vjetar pripiraše i ćeraše brod
+					svojom stazom; kad pred ponoća vikne straža s prove: - Brod na nas. - Skočiše
+					svikolici. - Kapetan viče: - Kako nasu dohodi? - Straža odgovara: - Uprav po
+					boku desnomu. - Kapetan slijedi: - Kormilo na desno i sakupi randu.</p>
+				<p>Ali prije nego se išta izvrši, silovito jekne nenadani brod u bok Betin,
+					presiječe ga, poduši, preko njega pregazi, i naprijed. - Začu se užasni vapaj na
+					tonućemu Beti, pak sve jednaga iščezne sred morskijeh ponora. Noć brani vidjeti
+					ostade ili ikakva živa duša na površju valova, samo iza kako već projedri
+					nastupni brod, opazi družina mu gdje jedna osoba slazaše sa kljuna na krov. To
+					bijaše jedan mrnar koji je sreću imo, kad udari brod o brod, uhititi se za čelo
+					katarge preko kljuna pružene i, viseći vrh ponora, jedini on spasit se između
+					dvanest nesrećnijeh Betinijeh drugova.</p>
+				<p>Prihvati spasenoga družina nepoznatoga broda i, pokrijepivši ga malahno pićem,
+					odvede ga kapetanu, koji nakon tankoga ispita i teške zakletve da ikomu neće se
+					odati za mrnara podušenoga Bete, zapiše ga za meštra među svoje.</p>
+				<p>Spaseni mrnar ne bješe ini nego Jozo Baldov, a nastupni brod jedna veljačka
+					španjolska trokatarga, koja iz Mesine i Palerma puna voćija i raznijeh trgovina
+					jedrijaše put Novoga Orleansa i Avane.</p>
+				<p>Putovaše do tamo cijela tri mjeseca, pak iskrcavši voćija u Novom Orleansu,
+					otpraviše k Avani gdje iskrcaše inu trgovinu, i nakrcavši se paka duhanom,
+					uporaviše na trag put Španije.</p>
+				<p>Kod S. Tome od Antila, u jednoj oluji, kakva samo sred Antila može uzbijesniti,
+					slomiju se španjolcu glavna i sprednja katarga, pak onda, premetan sjemo-tamo od
+					bjesnoće valova, nabode se na svrhu na nekakve podmorske hridi, gdje i ostane.
+					Bog i more osvetiše Betu.</p>
+				<p>Kapetan su nekoliko druga vrže se u veliku lađu da ište spasenje, vozeći na sreću
+					put kakva igala; nu zaludu, er se potopi. Jozo sa drugom dvojicom ostade na
+					brodu među hridima ukovanu, i to je bilo njihovo spasenje. Er iza kako održaše
+					se na njemu, i dan i noć čamiše gledajući na svak čas smrt pred očima, na jutro
+					opazi ih jedna portugeska plav i spasi ih.</p>
+				<p>S Portugezom odjedri Jozo put istočnijeh Indija, otkuda, nakon dvije godine i
+					više, vrate se u Lizbonu. Tu nađe pulaku Vilenika, s kojom otide prvo na Maltu,
+					gdje kapetan hotije učiniti svoju četrdeseticu i očistiti družinu i brod od
+					svake sumnje od nemoći, pak onda u petnest dana dojedri u Gruž, i zateče na
+					izdahnuću svoju plačnu Jelu.</p>
+				<p>Po smrti Jelinoj osamljena na pustu domu ne htje ga ostaviti proto Božo, dali,
+					ljubeći ga kako svoje dijete, uze ga k sebi, gdje i doživje.</p>
+				<p>Kad ja dođoh u Mihajlo, nađoh joštera žive Mariju staru i meštra Miha. Marija
+					bijaše održala riječ mačetu Jelinu, er po smrti tužnice, uze je sobom i sa
+					svijem njornjotanjem neke nje glasovite nevjeste, koja žive do danas, njegovaše
+					i bludijaše malo mače dokle od starosti završi. Oplaka je starica žestoko, er s
+					njom izgubi jedinu spomenu koja joj ostajaše od zaljubljene svoje
+					nemotnjice.</p>
+				<p>Meštar Miho u starosti svojoj, kada već ponestane rabote na gruškijem škarima, u
+					lađici, njegovom rukom građenom, prevažaše po luci do Rijeke i Zatona mještane.
+					I mene je često prevažo i, vozeći me, povijedo bi mi prošla svoja pomorska
+					stradanja.</p>
+				<p>Jednom, ne znam ni sam kako, razgovarajući se s njime slučajno spomenuh Betu. Na
+					što starac kô da sam ga u kakvu ranu uvrijedio, zaječi, pušti veslo, preksti
+					ruke i klimajući glavom zavapi: - O gosparu paroče! da ti znaš koliko je kuća
+					nesrećni Bete u crno zavio, ne bi, Kristo santo! nigda ga spomenuo! - Vaskolik
+					Gruž oplaka s njega. - Pak okretajući se i pokaživajući prstom, slijedi: - A
+					vidiš li onu kuću ondje?</p>
+				<p>Puštih starca nek mu malo oduši naduto srce, te ga zapitah uzrok svega tega, i u
+					toj prigodi pripovije mi, na njegov način, smrt svoje susjede Jele i Jozova
+					stradanja nakon Betina izgubljenja. - Smrt Jelinu, reče mi, gledo sam mojijem
+					očima; - a kako izgubi se Bete, i Jozo sam samcat skapula (spasi se), i nakon
+					tri godišta prispije kô iz nebesa na smrt ženinu, od istoga Joza čuo sam
+					pripovijedat.</p>
+				<p>A ja jedno i drugo, moj mili štioče, priopćio sam ti malo prije.</p>
+				<p>U Gružu, na Krstov dan 1868.</p>
+			</div>
+		</body>
+	</text>
+</TEI>
