@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:e="http://distantreading.net/eltec/ns"
+     xml:lang="it"
+     xml:id="IT18711">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Lucifero  Fantasia romantica : edizion ELTeC</title>
+            <author ref="viaf:88997390 ">Barbieri, Ulisse (1842-1899)</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Fabio Ciotti</name>
+            </respStmt>
+         </titleStmt>
+         <extent>
+            <measure unit="words">20253</measure>
+         </extent>
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for
+					European Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2005-05-11"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!--Published as part of ELTeC : -->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="firstEdition">
+               <title>Lucifero : Fantasia romantica</title>
+               <author>Barbieri, Ulisse</author>
+               <date>1871</date>
+               <pubPlace>Milano</pubPlace>
+               <publisher>Emilio Croci Editore</publisher>
+               <note>In appendice il racconto "ADELIA"</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc n="eltec-1">
+         <p/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="it">Italiano</language>
+         </langUsage>
+         <textDesc>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <e:reprintCount key="unspecified"/>
+            <e:timeSlot key="T2"/>
+         </textDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022">FC: ELtec encoding revision</change>
+         <change when="2005">Original encoding: Milena Corbellini</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:id="IT010">
+      <body>
+         <div xml:id="SEC1">
+            <head> Luce e Tenebre </head>
+            <div xml:id="IT01001">
+               <head>UNO STRANO MAESTRO</head>
+               <p>Erano scorsi trecento e più mila anni dacchè il mondo non era più. - Nel
+						vortice dei secoli erano state travolte cose ed eventi, e l'uomo e le
+						memorie delle infinite colpe e di qualcuna virtù, che nella tenebra dei
+						tempi splendette come stella in notte procellosa.</p>
+               <p>Colle tante ceneri sparse sulla terra riposavano le mie, e certo all'alito
+						increscioso della vita non avrei creduto si ridestassero; ma vedi stranezza
+						o potenza dei fati, come ciò più ti piacerà chiamare!... Io mi sentii vivo,
+						quando meno me lo pensavo.... tanto che, trovatomi molto incomodo sotto ad
+						un mondezzajo, dove stavo probabilmente per tramutarmi in chi sa qual sorta
+						d'animale, o forse dato, era concime, a pastura di qualche angolo
+						d'ortaglia, mi agitai da ispiritato cercando modo d'uscirne. Ma facil cosa
+						non era, che sebbene mi sentissi vivo, mi sentiva vivo in modo da non esser
+						come prima composto di stinchi ben architettati così da fare del corpo un
+						discreto arnese. Ben mi sentivo in quella vece come una cosa indefinita....
+						mi sentivo far parte della materia sotto cui mi giacevo.... mi parea che ad
+						ogni movimento più mi vi addentrassi, nè potessi trarmi a parte, e che a
+						forza di spingere, (come potessi spinger non so che) non avessi nè braccia,
+						nè gambe, nè capo: tanta era la forza della volontà. Mi sentiva intanto
+						vagare dentro a quella materia, e correr lunghi tratti di spazio, come chi
+						nuoti sott'acqua.... ond'io forza aggiungeva a forza, nè mai a capo venèa di
+						nulla, che sempre mi sentiva immedesimato colla materia, come fosservi in me
+						tante molecole smembrate sparse per tutta la vastità del globo.... Mi parea
+						d'aver percorse così centinaja e centinaja di miglia. Mi parea coll'esser
+						mio d'aver abbracciato tutto quel tratto di spazio.... S'io dovessi così
+						errare sotterra o giungere a un punto dove sbucar fuora, era quello che mi
+						chiedevo impensierito da quello strano caso, che mi facea trovare così
+						all'improvviso, vivo, sotterra e con tal smania d'uscirne, da farmi parere
+						ogni attimo di tempo la continuazione d'un'agonia, a cui desse vita non so
+						che stramba fantasticheria di speranza, che io ben non sapeva
+						comprendere.</p>
+               <p>Amico lettore!... sei tu disposto a tenermi dietro, per quanto ti sembri che
+						la mia matta fantasia abbia voglia d'imbizzarrire?...</p>
+               <p>La gran bella cosa, dissi un giorno fra un lieto crocchio d'amici, saria
+						quella di morire ultimo e spettatore della distruzione dell'universo
+						scorrerne poi la deserta scena!... interrogando come già Amleto la scienza
+						della vita, la farsi-comico-tragedia mondiale!...</p>
+               <p>nè ciò ti sorprenda lettor mio, perchè se mai ti capitò per mano qualche mia
+						cianfrusaglia gettata là.... nel turbine dell'oceano letterario a farvi la
+						sua comparsa d'un giorno, vi avrai traveduta questa matta idea, che anzi ti
+						vo' dire aver terminata una mia poesia con questi versi alquanto strambi e
+						non troppo belli da citare ad esempio.... cosa che non avrei fatta se non vi
+						si annodasse il filo di questo mio racconto.</p>
+               <l>E quando l'uman genere</l>
+               <l>Sia sfracellato e sperso,</l>
+               <l> In una tomba putrida</l>
+               <l>Converto l'universo,</l>
+               <l>Poi schiusa la voragine</l>
+               <l>Che tutto inabissì</l>
+               <l>Gigante fra quei lugubri</l>
+               <l>E sconquassati avanzi</l>
+               <l>Delle viltà, dei triboli</l>
+               <l>Che sussistéro dianzi,</l>
+               <l>Ultimo alla catastrofe</l>
+               <l>Un brindisi alzerò!</l>
+               <p>Dice un proverbio tradizionale dei villici - Se le orecchie dei santi
+						rifuggono da certi voti e da certe parole, appunto per questo le raccoglie
+						il Diavolo. - Cosa per cui essi aran dritto, nè si permettono voli di
+						fantasia, che potessero farli inciampare nel temuto messere che fa far tanto
+						d'occhi, quando dal buon lor pievano se lo sentono dipingere colle corna di
+						fuoco, colle lunghe unghie ricurve, col petto irto di pelo, e colla terribil
+						forca che brandisce a guisa di scettro. nè stramberie siffatte io le pensai
+						nemmeno, seppur le dicessi tanto per far scappare qualche vecchia intenta
+						alla sua rocca in casa di mio zio, che si fù più d'una volta, al vedermi, il
+						segno della croce come se davvero io fossi il diavolo. Bisogna però dire che
+						l'accennato messere mi desse retta e che sul suo libro scrivesse questo mio
+						voto.... ed è ciò che vengo a narrarvi.</p>
+               <div xml:id="IT01002" type="chapter" n="2">
+                  <milestone unit="poem"/>
+                  <head>CORO DI SPIRITI INFERNALI.</head>
+                  <l>Satan, satan!!... da queste bolgie eterne</l>
+                  <l>S'alzi di gioja un canto!...</l>
+                  <l>Alfin ruine e pianto</l>
+                  <l>è la terra, e i viventi, e le superne</l>
+                  <l>Volte del Ciel nel vorticoso impeto</l>
+                  <l>Oscillan negli spazj. La Divina</l>
+                  <l>Fra tutto distrugge!...</l>
+                  <l>Ne' gorghi suoi rimugge</l>
+                  <l>L'onda dell'oceano; di lor luce</l>
+                  <l>Son scemate le stelle: è cupa notte,</l>
+                  <l>Notte profonda che nel nulla adduce</l>
+                  <l>Tutte cose quaggiù!...</l>
+                  <l>Satan! Satano!...</l>
+                  <l>Nella lotta feral degli elementi</l>
+                  <l>Cui sol distrugger dato</l>
+                  <l>è dal cenno terribil dell'Eterno,</l>
+                  <l>O tutti voi d'Averno</l>
+                  <l>Spiriti abitatori, all'opra uscite!...</l>
+                  <l>Distruggete, straziate!... è larga preda</l>
+                  <l>Offerta a voi!... Non riboccar mai tanto</l>
+                  <l>Le vostre bolgie popolose e tetre</l>
+                  <l>Di turba sì infinita!...</l>
+                  <l>Si svolgono le pietre</l>
+                  <l>Delle vette eminenti, e sibilando</l>
+                  <l>Fendono l'aer cieco!...</l>
+                  <l>Nei torrenti</l>
+                  <l>Precipitan le quercie, ed ululando</l>
+                  <l>Fugge dal bosco la smarrita belva!...</l>
+                  <l>Rugge il leon nella spelonca o muore</l>
+                  <l>Sotto quella schiacciato; si rinselva</l>
+                  <l>Invan la tigre e l'upupa il ferale</l>
+                  <l>Lungo suo strido innalza, e nel fatale</l>
+                  <l>Decomporsi di quanto ebbe pria vita,</l>
+                  <l>D'un gemito infinito</l>
+                  <l>Echeggian gli spazj!.... Al seno stretta</l>
+                  <l>La pargoletta sua, fugge la madre</l>
+                  <l>Dal tetto elle rovescia, e le si affonda</l>
+                  <l>Sotto ai piedi il terren; sovra la bionda</l>
+                  <l>Chioma depone un bacio,</l>
+                  <l>E l'ultimo sospiro</l>
+                  <l>Scioglie, maledicendo col deliro</l>
+                  <l>Convulso della mente, a chi dal nulla</l>
+                  <l>sol la trasse a soffrir, nè gli fu letto</l>
+                  <l>Di morte pria, la culla!...</l>
+                  <l>L'amplesso estremo scambiasi il fratello;</l>
+                  <l>Il micidial coltello</l>
+                  <l>Stringe il nemico a vibrar pronto, e muore</l>
+                  <l>La minaccia sul labbro, che, dar morte</l>
+                  <l>Inutil opra vede, ora che incede</l>
+                  <l>Fantasima imponente,</l>
+                  <l>Inalterabil, cupa, e nella forte,</l>
+                  <l>Destra brandendo la fatal bandiera,</l>
+                  <l>Sulle ruine stassi del Creato</l>
+                  <l>A sieder pronta!... La tremenda sera</l>
+                  <l>Senz'alba più, è venuta!...</l>
+                  <l>E trepidante, muta</l>
+                  <l>L'universa famiglia il capo inchina</l>
+                  <l>Nell'impossibil lotta!... La divina</l>
+                  <l>Tra tutto distrugge!...</l>
+                  <l>Ne' gorghi suoi rimugge</l>
+                  <l>L'onda dell'oceano!... di lor luce</l>
+                  <l>Son scemate le stelle!... è cupa notte,</l>
+                  <l>Notte profonda che nel nulla adduce</l>
+                  <l>Tutte cose quaggiù.... Satan!... Satano!...</l>
+                  <l>Dall'ime vostre viscere</l>
+                  <l>Scatenatevi o venti!... Ripercuota</l>
+                  <l>L'eco a noi, negli spazj ogni lamento</l>
+                  <l>Della terra e del Cielo!... Sovra i monti</l>
+                  <l>S'accavallino i monti!... I mondi infrangansi</l>
+                  <l>Balestrati nell'alto!... e stole e scettri</l>
+                  <l>E quanti emblemi fur, d'empie e di stolte</l>
+                  <l>Ipocrisie sparisca!...</l>
+                  <l>E tutto nella prisca</l>
+                  <l>Tenebria del nulla, al nulla nato</l>
+                  <l>Torni il Creato!...</l>
+                  <p>Al frastuono infernale di questo orribile canto che empieva le vaste
+							latitudini dello spazio, io sentì di rifarmi. Pareami che tutta intorno
+							a me si stringesse la terrea materia dentro cui mi trovavo e che a poco
+							a poco mi venissi ricomponendo.... e fattomi corpo d'incorporea cosa
+							qual m'era, urtai coi piedi contro una specie di coperchio resistente
+							che cedette: Sorgi!... gridò una voce che parevami venisse dalle
+							profonde viscere della terra ed abbracciasse tutta l'immensità di quel
+							caos tenebroso, dentro cui stava ogni cosa.... E fu tal voce onde tutto
+							tremò a me d'intorno.</p>
+                  <p>Io non so come, mi trovai ritto ed immobile sovra una immensa pianura che
+							doveva essere la terra, dacchè sentì che su essa poggiavano i miei
+							piedi; un'aria fredda fredda mi intirizzì le membra, una cupa oscurità
+							mi avvolgeva. Cercai il Cielo, sul mio capo non si stendeva che un nero
+							ammasso di tenebre. Tenebre a me d'intorno, tenebre e silenzio; un
+							orrido silenzio glaciale, più orrido della tomba. Era solo sulla tomba
+							del mondo, dacchè il mondo era tomba e tutto.</p>
+                  <p>Dopo un istante l'armonia disordinata, selvaggia, di quel canto che prima
+							aveva udito, riprese, e la sentiva scendermi al cuore col brivido della
+							paura. Era un urrà satanico di mille voci inneggianti alla distruzione
+							che imponente dominava intorno a me.</p>
+                  <p>Un vivo lampo eruttato come dal cratere di cento vulcani che ne
+							formassero uno solo, mi accerchiò colle mille sue lingue di fuoco, ed in
+							mezzo a questa vampa che tosto disparve, mi si mostrò una figura d'uomo,
+							gigante e fiero; aveva l'occhio fulmineo, la chioma nera e ricciuta,
+							tarchiato e snello, era lui complesso di forme maschie e in un
+							dilicate.... Avea sulla fronte l'impronta dell'arditezza; sulle labbra
+							erravagli un sorriso di beffa.</p>
+                  <p>Che fosse il diavolo in persona il personaggio che mi stava davanti? Fu
+							questo il primo pensiero che mi colpì, appena la mia mente rinvenne da
+							quell'atonia in cui suole cadere lo spirito quando subisce l'impressione
+							d'un avvenimento qualunque che si stacchi dal corso regolare
+							dell'esistenza.</p>
+                  <p>Pensai allora che Milton e Byron, affù!... non ebber torto dipingendolo
+							quale l'hanno evocato dalle sue bolgie, e ben diverso da quello che han
+							per vezzo di dipingere gli associati alla santa congrega, quasi a
+							scenario della ridicola commedia del Cattolicismo!...</p>
+                  <p>Era Satana difatti!... e ti confesso lettore che mi sarei sentito
+							trasportare verso lui da un senso di simpatia, so non m'avesse dato
+							qualche pensiero quel suo sogghignar di sotto a quelle nere e folte
+							palpebre animate da un moto oscillante, tal che il suo sguardo mi parve
+							un lampo che uscisse dagl'imi recessi d'un abisso, onde ne avevo
+							abbaglio e sgomento!...</p>
+                  <p>Ei si trasse dal seno una carta e silenzioso me la porse. Immaginatevi
+							cosa vi lessi, e come strabiliassi in leggere, più che non si sgomentò
+							Machbet, quando sul suo trono vidde assidersi l'ombra di Banco, o come
+							la regina Antonietta d'Austria, quando richiesto un cavaliere mentre
+							attraversava Parigi in poco propizi momenti, cosa intendesse fare il
+							popolo per la guarentigia de' suoi diritti, questi gli mostrò infitta ad
+							un palo la testa di un ministro, talchè dicesi prendesse odio alla
+							parola libertà, che gli fu insegnata in sì strano modo, e non ci volle
+							credere, malafede che trapelata al popolo pare lo persuadesse che non
+							essendo bastato mostrargliene una, fosse bene tagliargliela, onde
+							convincerla pienamente!...</p>
+                  <p>Erano nientemeno che miei versacci scritti in non so qual matto
+							ghiribizzo e dicevano così.... </p>
+                  <l>Al Diavol vorrei darmi e mi darei</l>
+                  <l>Se quel ch'or m'è mistero ancor, potessi</l>
+                  <l>Mercè dell'opra sua, che dicon s'abbia</l>
+                  <l>Un talento precal; novello Fausto</l>
+                  <l>Nei misteri del Cielo e nelle strane</l>
+                  <l>Vicende della terra e degli uomini</l>
+                  <l>Gettar lo sguardo e interrogar d'impunto</l>
+                  <l>Quanti ha portenti il mondo.</l>
+                  <l>E poi questi altri:</l>
+                  <l>è in me morta ogni fede; tutto è caso,</l>
+                  <l>Quanto qui s'avvicenda, ed ove e fosse</l>
+                  <l>Da un supremo pensiero il mondo retto,</l>
+                  <l>Il crederlo fia colpa, che sul labbro</l>
+                  <l>A Lui che del mal vive, alta bestemmia</l>
+                  <l>Sol ne verrebbe!...</l>
+                  <p>Eccomi!... queste sole parole proferirono le sue labbra, che ripresero
+							quel lor ghigno che tutto mi rimescolava il sangue nelle vene.</p>
+                  <p>Io mi stetti confuso a riguardarlo, ed ei scorta quella mia trepidanza mi
+							disse con far gajo; ti faccio io forse paura messer poeta?... Devo dirti
+							che a quanti mi richieser dell'opera mia risposi sempre da compito
+							gentiluomo, e a molti il puoi chiedere che più d'un discepolo m'ebbi, e
+							a più d'uno dirozzai la cervice da matte fantasie che li facea tornar
+							fanciulli e peggio che rimbambiti da aver paura degli orchi con cui la
+							nutrice li addormentò nella culla!...</p>
+                  <p>"Statemi un po' a sentire, maestro!... ribattei io, datemi un po di
+							coraggio.... ben vedendo come all'incalzar suo dovessi opporre sagacia e
+							fermezza. Dacchè siamo a questo incontro, sta bene quanto voi dite, e vi
+							chiamo uomo d'affare compito, perchè vi munite di buoni materiali!...
+							Ma.... stia pur ch'io abbia ciò scritto!... ed è stampato lo vedo.... ma
+							è poi tutto Vangelo quello che si stampa, maestro mio!...</p>
+                  <p>Io vi so citare di tante fanfaluche che dovreste avere un ben ampio
+							registro da scrivervele, e non le capireste.</p>
+                  <p>E poi!... vi state a credere sul serio che i versi d'un poeta, valgano
+							come una scritta da mercante?... Siete uomo troppo esperto maestro,
+							perchè possiate pensar ciò, e sapete bene che la mente detta come si
+							sente di dettare, in un dato momento, e che un po' di fede l'ebbi
+							anch'io, sebbene matte parole mi sien sfuggite qualche volta!..."</p>
+                  <p>Dià in un riso Lucifero.... che m'arrestò sulle labbra la parola. - E
+							che!... vorresti; mi disse egli, darmi a creder che tu fossi sì
+							fanciullo?... se il facesti non fu certo per convinzione, o ti direi più
+							che stolto!... ma per quel vezzo che avete voi altri poeti di
+							affastellar tutto insieme per formare la tavolozza dei vostri colori,
+							così che dite bianco al nero, e date per buono oggi quello che
+							svillaneggiate domani!... E di che fede vai tu parlando che non sia
+							parola vuota di senso, peggio che cicalar di vecchia scema per gli
+							anni!... Volgiti intorno, interroga il passato.... il mondo in cui
+							vivesti!... le creature che la popolarono, le vicende che lo
+							agitarono!... Guarda scorrere rivi di sangue e da quelle onde vermiglie,
+							gigante elevarsi il fantasima del dolore, dello spavento!... della
+							desolazione!... là il moribondo agonizzante, là il martire spirante
+							sull'aculeo, là la madre priva di pane pei suoi figli, là l'eroe
+							languente sotto il peso della calunnia, e traditori e traditi, e glorie
+							e infamie, alternarsi sulla scena del mondo!... Guarda popoli che
+							passarono come ombre nello spazio abbracciato dai secoli, come il bue
+							trascinato al macello a cui solo basterebbe conoscersi!... turbe di
+							scettrati fantasmi gavazzare nel sangue, e strano impasto di sozzi vizi
+							e sublimi virtù.... tutto questo osserva, e sovra questo oceano di cose,
+							metti un'ombra immota, cupa, impassibile, che tutto vede, tutto ascolta,
+							come nulla vedesse, nulla ascoltasse, che annienta e ricrea e alterna la
+							morte a scherno della vita. Ecco Dio!... ascolta un sommesso piagnolio
+							di gemiti che si perdono per lo spazio, ecco la preghiera!... L'urlo
+							disperato della bestemmia, un po' più lontano oscilla, poi.... Cos'è che
+							domina su tutto ciò?... Il nulla che è il tutto!... che a tutto
+							risponde, perchè non ha risposta!... fantasma dell'infinito, immagine
+							fatua dell'immensità nel cui grembo maturano cose ed eventi!... Giuochi
+							d'ottica nella gran lanterna magica del Creato, sviluppo di forme
+							animate dal tempo, follie e grandezze a seconda del modo con cui si
+							vedono le cose; sinonimi e figure, ombre e luce, finchè cade la tela
+							dell'ultimo atto, finchè il passato si sprofonda nell'avvenire, e
+							l'avvenire si perde, ombra pur esso, nelle tenebre di quel vasto abisso
+							che è il nulla di tutto ciò che fu!...</p>
+                  <p>"Ella è una strana filosofia la vostra, maestro!... replicai io
+							sbalordito da quella foga di dire, e come affascinato da quello slancio,
+							da cui mi sentivo tutto rapire oltre i confini all'umana mente
+							segnati!...</p>
+                  <p>"E quale ne avete voi?... continuò egli con sdegnoso disprezzo, che
+							audacemente il fù ridere a fior di labbro. "Larve bugiarde, bugiarde
+							promesse, risentite sempre e che sempre mentiranno. A che andar in
+							traccia del domani, quando è dell'oggi che si vive?... Delirò matti di
+							cui vi formate una corona di spine!... Egli è allora che vi sognate
+							d'esser grandi, quando siete da meno che fanciulli assisi su piedestalli
+							di neve!... Cos'è il fanatismo che crea gli eroi?... un cieco delirio
+							della mente, un'insana menzogna del pensiero, un barbaro egoismo che si
+							fa un mantello di sangue per ravvolgervisi e dire al mondo sono
+							grande!... è sovra un monte di cadaveri che l'eroe cinge la corona
+							d'alloro ed è salutato dall'applauso delle turbe che saranno domani
+							sgozzate e sul cui scempio altri applaudiranno sollevando lo sgozzatore,
+							che subirà poi l'istessa sorte!... è l'altalena della vita!... togliete
+							il prestigio dell'idea che è la bandiera innalzata grido di guerra tra
+							genti e genti, l'eroe sarò un assassino, perchè avrò assassinato
+							fratelli!... il conquistatore coperto di gloria, sarò un ladro perchè
+							avrò steso l'artiglio rapinante su ciò che era diritto de' suoi
+							fratelli, che chiamò nemici, onde aver titolo a spogliarli!... Metti una
+							mano nelle tombe, risuscita le ceneri di quanti morirono e morirono
+							colla coscienza di compiere dei doveri ed altro non hanno commesso che
+							delitti!...</p>
+                  <p>Il grido di Patria che seminè la terra di cadaveri, e impinguò la borsa
+							dell'agricoltore, che fece buon concime ai suoi solchi colle putrefatte
+							membra, che fu egli mai?... Una pazza fantasia di cervelli malati!...
+							Dio non diede patria all'uomo!... Creò il mondo e l'uomo. L'uno poi
+							l'altro!... Il mondo è dell'uomo!... L'uomo è del mondo!... L'egoismo ne
+							trasse arma a popolare la terra delle sue cento maschere, la forza se ne
+							ammanò per regnare, svellete le maschere, fissate in volto chi vi si
+							asconde ed avrete vinto!... Dio volle esser solo e lo fu, ed è
+							despota!... ma lo è compiendo anch'egli il delitto dell'egoista: Diede e
+							tolse, perchè sentì il bisogno di abbattere per esser solo ed eterno sul
+							suo trono di folgori!... Io sconobbi il potere che gravava sovra di me e
+							volli essere ciò che egli era, e che imponea che io non fossi; lottai e
+							caddi, e dell'eredità della mia maledizione fu fulminata la schiatta dei
+							deboli!... è d'uopo essere tutto o nulla!... Meglio quello che ora sono
+							di quello che ero pria!..."</p>
+                  <p>Lucifero splendeva di tutta l'affascinante bellezza che mortale può
+							ideare a render l'immagine, di quel suo atto di fiera e nobile
+							indipendenza!... di quella sfida, gagliardamente da lui lanciata contro
+							quel potere da cui se si sentiva dominato, non era vinto, se gli restava
+							tanta forza da sconoscerlo!... Per poco io non stetti per cadergli ai
+							piedi.... mi ritenni però e pur piccato a non darmi vinto, dopo aver
+							malignato alquanto sul dir suo.... parvemi aver trovato di che dargli ad
+							uncinare con zigogoli indiavolati e gli buttai là, come una sfida,
+							queste parole....</p>
+                  <p>"Maestro!... vi so dir che mai avria creduto foste sì dotto delle cose
+							umane, e ben m'avveggo che v'hanno grossolanamente fatto l'abito
+							laggiù.... ma se ben parmi v'ha qualche cosa di vago in mezzo a quel
+							vostro matto devastator d'ogni cosa!... qualcosa a cui passaste sopra
+							per tema forse d'inciamparvi..." Io sorrisi.... Ei mi rispose con un
+							sogghigno.</p>
+                  <p>"L'amore!... vorresti tu dire, Poeta mio!..."</p>
+                  <p>Io non seppi come ribatter parola al vedermi così di botto sorpreso nel
+							mio pensiero, a cui ei di rimbocco seguitò "E che avete voi fatto della
+							donna?... Affù io credo che Iddio diseredandovi dell'Eden, a scanso di
+							rimorsi, per aver giocato coll'umanità, come un fanciullo colla
+							pupattola datagli in dono dalla befana, creò sulla terra la donna, che
+							si assise regina tra le genti, quando erano men barbare e meno
+							civili!... e dalle quali s'ebbe almeno il culto dell'adorazione!... e
+							parea stendere sul creato una catena di fiori, di fratello in fratello,
+							prodigando il vergine bacio che dalla culla alla culla doveva stringere
+							il soave nodo della comune fratellanza!... Poi.... che se ne fece?... Il
+							fratello invidiò a quel bacio, guardò a quell'esile fiore col sogghigno
+							della cupidezza, e disse; lo voglio mio!... ed il comando imposto al
+							cuore abbisognevole di libertà, fu il primo scoglio contro cui cadde
+							sanguinante la spennacchiata ala dell'amore!... Di quella creatura che
+							come un mito doveva essere una personificazione del bello, se n' fece
+							una cosa, che si diede, si donè, si vendette, ed ebbe padroni che la
+							possedettero, non cuori che la compresero!... Le braccia che potevano
+							stringerla al serto per darla al confidente abbraccio del fratello, si
+							armarono del ferro omicida per difendere una proprietà; il ferro invido
+							d'uno sguardo amoroso troncò il palpito del cuore attratto dal fascino
+							della bellezza; l'armonia si ruppe!... La donna si sentì amata, ma trovò
+							l'amore un peso che non ora più il libero e vago sogno della sua
+							mente!... strumento di diletto scese di gradino in gradino sino
+							all'abiezione del mercato!... Cercò l'uomo, l'idolo!... e trovò un
+							despota che annodandosi alla sua esistenza le ripetè ancora: sei mia!...
+							Il folle egoismo dell'uomo evocò allora il fantasma della colpa, e dalla
+							sconoscenza della coscienza di sì stessi, nacque il matrimonio, e si
+							chiamò il Cielo a complice delle umane follie!...."</p>
+                  <p>"Affù!... io mormorai, sgomentato da quella sprezzante ironia e da quel
+							cinico celiar su tutto!... mentre in me sentiva il veleno delle sue
+							parole far fosca la luce del mio pensiero; affù!... maestro, ben tristo
+							dono ci fù Dio allora della vita, se a tanto male non seppe o non volle
+							por argine."</p>
+                  <p>"Meglio avesse lasciato dormire il creato nel sonno eterno dei
+							secoli!...</p>
+                  <p>"E qual miglior cosa ne sarìa sorta?...</p>
+                  <p>"Chi lo sa?... forse un diverso soffio, diverse materie avrebbe
+							animate!... Meglio forse, sarebbe stato ciò, al fare della vita un sogno
+							che passa e più non te ne ricordi!...</p>
+                  <p>"E che prometti tu... che a nulla credi?...</p>
+                  <p>"L'oggi prometto!... il godimento!.... A che seguir le larve che si
+							perdono nel bujo!... Vita, suona godere!... Pazzia almanaccar sogni da
+							bimbi!... e brancolar nel vuoto!...</p>
+                  <p>"Ma cesserò dunque l'esistenza colla morte?</p>
+                  <p>"Si commuterà forse!... Ma che importa ch'ella si commuti, quando colla
+							vita ogni ricordanza svanisca di ciò che fu?... Ma molte cose avrei a
+							dirti che a te suonerebbero strane, e ti sarien pur sempre mistero...
+							seguimi, Poeta, ascolta, guarda, e medita; mi dirai dopo se molte cose
+							io t'abbia fatto vedere a cui forse non pensasti, o che confuse ti
+							balenarono alla mente, e ch'io ti farò note perchè tu possa smentire a
+							coloro che disser corna di me e de' fatti miei, e mi faccia fede che non
+							tanto grullo mi sono quale vollero farmi parere laggiù!....</p>
+                  <p>---</p>
+               </div>
+            </div>
+         </div>
+         <div xml:id="SEC2">
+            <head> L'Ergastolo </head>
+            <milestone unit="speaker"/>
+            <p> IO. Abbiamo fatto molta strada, dove mi conducete, maestro?...</p>
+            <milestone unit="speaker"/>
+            <p> LUCIFERO. Seguimi e vedrai.</p>
+            <milestone unit="speaker"/>
+            <p> IO. Che posso io Vedere?... è tutta un'immensità di tenebre che mi circonda,
+					dentro cui parmi che noi nuotiamo, come in uno stagno paludoso. - Maestro; il
+					mondo mi diceste è scomparso, eppure vedo laggiù d'innanzi a noi un fosco
+					ammasso di pietre; mi sembra un palazzo, ma parmi ben tetro per esser tale; un
+					terribil fragore di catene mi percuote l'orecchio: dove siamo?...</p>
+            <milestone unit="speaker"/>
+            <p> LUCIFERO. Dimmi; non vedesti mai da ragazzo dentro a certe lanterne portate
+					intorno da girovaghi incaponiti nel farla da dottori, riprodursi sulle preparate
+					pareti, uomini e cose che ti passavan d'innanzi come per opera d'incanto?... fa
+					conto che io ti rinnovi quello spettacolo; guarda ed osserva.</p>
+            <milestone unit="speaker"/>
+            <p> IO. Veggo volti sparuti e minacciosi, ma noi passiamo inosservati in mezzo ad
+					essi, maestro; chi sono costoro?...</p>
+            <milestone unit="speaker"/>
+            <p> LUCIFERO. Esseri animati, uomini creati perchè avessero la loro parte dei
+					diritti della vita.</p>
+            <milestone unit="speaker"/>
+            <p> IO. è l'ergastolo questo?...</p>
+            <milestone unit="speaker"/>
+            <p> LUCIFERO. Lo è!...</p>
+            <milestone unit="speaker"/>
+            <p> IO. E che altro avvi qui se non gente lorda di colpa?... le loro mani sono tinte
+					di sangue, allontaniamoci tosto.</p>
+            <milestone unit="speaker"/>
+            <p>LUCIFERO. E chi tali li rese?... quale ei nacque, visse l'uomo!... e fu opera che
+					violentò le leggi di natura il voler ch'ei fosse diverso da ciò che in sì
+					sentivasi, per addattarsi alle forme delle sociali costituzioni. Messer poeta,
+					avresti tu mandato al diavolo il sartore che t'avesse mal adattato un abito?...
+					o ti terresti istecchite le membra per capirvi dentro?....</p>
+            <milestone unit="speaker"/>
+            <p>IO. è quesito questo un po' strambo, maestro, e ben non so quanto s'attagli alla
+					bisogna!...</p>
+            <milestone unit="speaker"/>
+            <p> LUCIFERO. Tant'è che ci s'attaglia, che tu non sai trartene fuori che assai
+					impacciato nella risposta!... Hai tu mai interrogato questo tetro edificio che
+					si chiama la Galera?... Ben tristi invero ei ti parlerebbe, e compassionevoli
+					storie, assai più di quelle che sentisti magnificar dalla storia piaggiatrice
+					dei grandi delinquenti, che si chiamarono tanto più grandi in ragione dei
+					maggiori delitti che posero per piedestallo della loro grandezza!... Guarda;
+					vedi tu quella figura altera che squassa quasi con orgoglio la sua catena?...
+					guarda l'occhio intelligente, la fronte aperta, le membra erculee, il petto
+					ampio, che abbondevole di vita la respira colla vigorìa della sua costituzione;
+					che ti sembra egli?...</p>
+            <milestone unit="speaker"/>
+            <p> IO. Nol saprei davvero; quella fisonomia ha una tale espressione di sprezzante
+					fierezza, che mal s'addice parmi alla sua posizione.</p>
+            <milestone unit="speaker"/>
+            <p> LUCIFERO. E ben dicesti; ella è difatti la sprezzante fierezza di chi sia
+					soggetto al peso di una posizione che non dovrebbe essere la sua.</p>
+            <milestone unit="speaker"/>
+            <p> IO. Pure tale è la sua sorte!...</p>
+            <milestone unit="speaker"/>
+            <p> LUCIFERO. Tale ti sembra; ma uno stato parziale è egli mai sicura caparra di ciò
+					che esser dovrebbe?... La tirannide che spense migliaja di uomini ha ella mai
+					spenta l'idea di cui l'uomo si è armato per insorgere contro di essa?...</p>
+            <p>Il corpo può ben essere inceppato come Prometeo sulla rupe, scoglio fatale su cui
+					l'ardimento del pensiero, Prometeo eterno, è condannato dalla umana perversità,
+					ma l'anima anche coll'ultimo fremito dell'agonia vive la vita potente delle sue
+					convinzioni!...</p>
+            <p>Quale il vedi, quell'uomo, messer Poeta, sa d'essere superiore al suo stato, e lo
+					disdegna, e guata orgoglioso dietro a lui come il gigante alla pietra nella
+					quale inciampò per via, e per caso lo fù cadere.</p>
+            <p>Guai a chi si faccia guida sino all'abisso in cui si vuol trascinare una vittima.
+					è là che essa può concepire l'idea della sua forza, dacchè sia la disperazione
+					quella che fa compiere i più alti atti, o colpevoli od eroici a seconda del
+					principio da cui hanno origine. Quando mai i popoli più arditi sollevarono il
+					grido della ribellione e vinsero?... Quando nelle loro carni più s'addentrò il
+					morso del dispotismo, a dirgli: sei mia preda!... Allora s'accorsero che ciò era
+					diffatti!... e guardatisi nella convulsione dell'ira, dissero: non sempre
+					l'agnello resta agnello!...</p>
+            <milestone unit="speaker"/>
+            <p>IO. Scusate maestro, se vi tronco a mezzo questa cicalata, ma non capisco cosa
+					abbia a che far ciò, con quanto stavate per dimostrarmi!... parmi volevate
+					persuadermi esser quell'uomo quasi un grand'uomo e che vestì per ischerzo quella
+					casacca da galeotto!...</p>
+            <milestone unit="speaker"/>
+            <p>LUCIFERO. E non manco certo d'affermarlo; sol mi fa ridere quel tuo poggiar da
+					pretenzioso su quella parola grand'uomo, larga come le maniche d'un frate, da
+					cui passano tanti peccati, quanti ei ne sappia condurre a fine, esperimentando
+					sin dove possa arrivare la debolezza della carne!... Voi volete un gigante che
+					conosciutivi pigmei, vi gridi sghignazzando sotto ai baffi arruffati:
+					adoratemi!... e voi incensandolo, dei vostri corpi gli fate comodo sgabello,
+					ond'egli vi monti sopra, e vi ghigni sul naso dicendovi: sono grande, perchè
+					sono sopra di voi!...</p>
+            <p>Stupenda cosa davvero!</p>
+            <p>Anche Cesare seduto sul suo trono lordo del sangue di cittadini sgozzati,
+					abbronzato il volto dal fuoco di arse città, era grande, quanto il più spudorato
+					degli assassini può esserlo!... Anche Scilla era grande, a cui mancò la carta
+					per segnar proscrizioni. Anche Domiziano che stancò il braccio de' suoi
+					carnefici!... Anche Bruto il magnificato!... che dannando i proprj figli altro
+					non dimostrò se non che, muta è ogni voce di natura dove non v'ha che stupida
+					sete d'orgoglio!... e più vile libidine di potere!...</p>
+            <milestone unit="speaker"/>
+            <p> IO.Eh, eh!... voi correte di galoppo, maestro!... e che?... non dovressimo noi
+					forse rispettare le antiche tradizioni dei nostri padri?...</p>
+            <milestone unit="speaker"/>
+            <p> LUCIFERO. E far di cappello!... e frustare il lombo delle vostre schiene innanzi
+					a chi nacque leone o tigre, o lupo!... per svillaneggiare chi nacque coniglio od
+					agnello!... Tant'è!... fu la morale del vostro secolo!... e tu attientivi a tuo
+					bel agio!... Io per me dico che da bandito a guerriero non metto altra
+					differenza, tranne quella che l'uno è pagato lautamente per cacciar l'altro,
+					differenza di mestiere, che ciascuno fa per proprio conto!... al leone la selva,
+					alla pecora l'ovile; l'uomo non pensì a ciò!... Impose a legge il proprio
+					capriccio; ridottosi a stato sociale, disse; qui sta il retto, qui il disonesto,
+					qui l'eroismo, qui la colpa!... qui il delitto, qui la virtù!... ah, ah, ah!...
+					baje!... e chi vi dice quanta virtù abbia chi per adempiere a fatali esigenze
+					della sua posizione, per dar pane ai figli che piangono, per vendicare un torto
+					di ricevuta offesa, pone in non cale ogni dover suo.... ed onorato... o compreso
+					di questo sentimento, si lancia nel delitto, per la strada della virtù?... Cos'è
+					questa società che si è innalzata dettatrice di leggi?... L'unione di una classe
+					che fattasi un diritto della forza, si impose perchè trovò chi ne ha accettata
+					l'ascendenza!... che impose il tributo della devozione, e che impastata come è
+					di pregiudizi ridicoli, stolti o malvagi, volle il sacrificio dei gonzi!... e
+					dei creduli!.... Metti quattro persone legate per la vita e per la morte a
+					massacrare ed a rubare, e costituiranno anch'essi una società, e ve ne sono
+					tante quanti v'hanno bisogni turpi e buoni, che tendano ad unirsi per formare
+					una massa, spiegando la bandiera d'un principio qualunque!... comoda cosa a
+					farsi!...</p>
+            <p>Gli uomini dicono, costituitisi in famiglia abjurarono alla selvaggia lor
+					ferocia, all'apatia dell'indole loro.... Menzogna!... l'uomo vestì un diverso
+					uniforme, ma rimase sempre qual nacque.... e camminè dove, lo trasse una
+					pulsazione più o meno violenta di sangue!... e agì come lo fece agire lo scatto
+					del suo meccanico organismo durante lo sviluppo della sua vegetazione!... Quando
+					si disse delitto l'assassinio, e l'uomo vidde a sì d'innanzi il patibolo, da
+					tigre si fe' volpe; trovò che la civilizzazione bandiva il pugnale, come troppo
+					rozzo arnese, e si servì dell'ingegno.... ma tra la meta ed il pensiero fissì
+					l'ostacolo che doveva sparire, e se sulla via che doveva percorrere non rimase
+					un cadavere materiale, si compiù in quella vece l'assassinio morale a mille
+					doppi peggiore in viltà ed infamia! L'assassinio che consiglia il tradimento, e
+					permise il bacio di Giuda pagato in moneta! Ma or basta.... che su ciò più a
+					lungo non vorrei tediarti, e vorrei solo toglierti dal capo certo tuo modo di
+					veder le cose, che mio non è certamente, e che appunto per ciò ti tenne, parmi,
+					lontano dall'apprendere... e parmi che ancora ben a genio non ti vada!... Fatti
+					dunque ben a considerare quell'uomo quale il vedi!... Ei vagò bambino nella sua
+					culla, ed ebbe un sorriso tenero per la madre sua, saltellò pei verdi prati e
+					colse fiori per la sua bella.... Egli ha ucciso!... Un uomo solo egli ha ucciso,
+					ed è condannato da una legge che è confermata da un Re, che avrà ucciso migliaia
+					di uomini, e che condanna chi ne ha dato morte ad un solo!... Eppure, vedi,
+					stranezza!... Anche uccidendone uno solo, sarebbe un eroe forse, se avesse
+					ucciso un Re, quel Re istesso a cui i popoli lasciaron uccidere tanta gente,
+					credendo ch'ei ne avesse il diritto, e che lo tengono per giusto, colla stessa
+					facilità colla quale per giusto terrebbero chi l'uccidesse!...</p>
+            <p>Con qual diritto condanna il giudice?... sa egli se i torti della società non
+					davan diritto al colpevole di fare ciò ch'egli fece?... colla legge alla mano
+					può egli farsi giudice della coscienza di chi abbia commesso un atto che può
+					esser colpa, solo perchè fu stabilito che si dovesse chiamare così?...</p>
+            <p>Delitto è punire.... o meglio ancora fu stoltezza classificare la colpa.... che
+					può essere una giustizia, ad onta di quanti vi sieno codici che altrimenti la
+					qualifichino!...</p>
+            <p>Ogni azione ha la sua causa, a cui ascende l'azione istessa da cui parte, mentre
+					l'atto non è qualche volta che una passiva conseguenza!...</p>
+            <p>I romani veduti i sabini abbondare di donne, mentre essi ne erano privi, le
+					rapirono!... Le avrebbero essi rapite se ne avessero avuta la loro parte, in
+					modo che lor fosse bastata?...</p>
+            <p>Quella rapina istessa ammetteva un abuso, la cui conseguenza era una mancanza, a
+					cui quel fatto poneva una soluzione. Rapirono perchè non avevano altro mezzo
+					d'avere quello che altri avevan più di essi, e che a loro parea non avesser
+					diritto d'avere!...</p>
+            <p>Prevenire devonsi i bisogni se non si vuole che generino violenze. Ma siccome
+					questo non si farò mai, così non saravvi mai cosa più ridicola del codice; è il
+					più stupido dei libri, che crede poter ridurre a cifre le umane passioni, e non
+					fa che istupidire quelli che vi metton mano!...</p>
+            <milestone unit="speaker"/>
+            <p>IO. Ma cosa ha a che far tutto questo con ciò che avete a mostrarmi?...</p>
+            <milestone unit="speaker"/>
+            <p> LUCIFERO. Ha che fare come cosa che si collega a cosa, dacchè la vita altro non
+					è che una concatenazione di tanti piccoli fatti che ne formano le anella, e che
+					si rompono poi per riannodarsi altrimenti!... e stringere altre catene, finchè
+					questa macchina animata che è il mondo, non compirà la sua decomposizione, se
+					pure è possibile che si decomponga senza rifarsi!... Io t'ho mostrato un ladro,
+					un galeotto che poteva esser forse uno Spartaco od un Leonida!... che commise
+					cosa che gli uomini chiamarono delitto, perchè i tempi, oppure anche
+					l'occasione, non gli concessero dà far cosa che fosse in quella vece un
+					eroismo!...</p>
+            <p>Guardane la culla!... lo vedi?... E un vispo fanciullino saltellante pei prati,
+					come la cingallegra saltella di ramo in ramo!... cosa chiedeva egli?...
+					Vivere!... E vivea come glielo consentiva il suo organismo... Chi gli ha
+					misurati i palpiti del cuore?... chi lo animò di sensazioni?... Egli è quale
+					è.... poteva egli esser diverso se tale lo fece la natura nella sua
+					costruzione?...</p>
+            <p>Sai cosa fece la società?... creò obblighi d'ogni sorta e ogni sorta di
+					pregiudizi, quali non potevano non crearsi dall'unione di tanti disparati
+					elementi che si unirono per mettere il codice al posto del cuore, la legge come
+					surrogato all'istinto, alla coscienza, al movimento umano, come più la voglia
+					chiamare ciò che voi avete vestito di matte foggie!... e si mise fuori della
+					legge come i Re!... si crearono degli obblighi e non se ne volle la
+					responsabilità!... si crearono dei diritti per una casta, e si distrusser quelli
+					dell'umanità!... si disse e si proclamò: si deve fare in tal modo!... e sai tu
+					chi disse così?... coloro cui costava ben poca fatica il farlo?... Io trovo un
+					caso grande che non rubi chi non ha nulla, mentre vede altri aver più del
+					superfluo, mentre egli non ha neppure il bisognevole.... tristo consigliero è il
+					bisogno!... il bisogno è mancanza assoluta di qualche cosa.... mancanza, e
+					desiderio di conseguire, stanno insieme come terra a terra!... Desiderio è
+					dolore, ed è cattivo compagno che s'infiltra nell'animo e lo rode come il tarlo
+					rode i panni!...</p>
+            <p>Tutto ha una logica conseguenza nella vita!...</p>
+            <p>I fatti sono la conseguenza di altri fatti. L'azione buona o malvagia, è una
+					susta che scatta dal meccanismo umano!... bisogna perchè scatti che un'altra
+					azione vi abbia dato impulso. Se fosse diversamente si rimarrebbe inerti, ed è
+					all'origine della colpa che è d'uopo sempre di risalire, onde giudicare chi sia
+					il colpevole!...</p>
+         </div>
+         <div xml:id="SEC3">
+            <head>I condannati della Corsia</head>
+            <p>Io stava tutto intento ad ascoltarlo e non mi peritava dargli risposta,
+					sbalordito com'era da quel suo concitato imbizzarrire di pensieri, a cui dopo
+					tutto nè potea, nè voleva dar di rimando, quando egli mi fù segno di volger la
+					mia attenzione sovra uno strano quadro che mi si presentì d'innanzi, e che mi
+					fece rimaner là tutto ammutolito dalla sorpresa.</p>
+            <p>In una di quelle larghe cameraccie, chiamate negli ergastoli Corsie, stavano
+					occupati al loro lavoro circa una cinquantina di galeotti. Chi era intento a
+					filar canapo, chi lavorava corpetti e chi se ne stava pensoso, meditabondo in
+					qualche angolo della camera. Molti di questi camminavano nel mezzo della Corsia.
+					Si sentiva con un orribile fragor di catene, rintronare le volte del carcere. I
+					ceppi cigolavano urtandosi. Le anella ne erano lucenti come brunito acciajo.</p>
+            <p>Tutto ad un tratto fuvvi sotto a quelle tetre volte un tafferuglio indiavolato;
+					non si sentì che un urlare di voci minacciose; un fragore più assordante ancora
+					di catene... i guardiani accorsero spaventati da tutte lo parti; e traevano
+					dalla folla uno dei condannati, pesto, malconcio, pallido di spavento e che la
+					turba invelenita minacciava colle pugna inarcate, scagliandogli contro con tutto
+					il sarcasmo dello sprezzo, una parola che mi parve un ben strano controsenso
+					sulle labbra di quei condannati: Ladro!...</p>
+            <p>- Morte al ladro!... alle segrete il ladro!...</p>
+            <p>Tali erano le grida che minacciose prorompevano fra quella turba di ladri!...</p>
+            <p>Il mal capitato fu ben bene inceppato alle mani, dai pronti carcerieri serrate
+					entro due cerchi di ferro, che gliele congiunsero sul petto con forzata
+					contrizione. Egli fu tratto fuor dalla Corsia, alle segrete di castigo.</p>
+            <p>Davvero!... che a strane cose mi fece riflettere quella bizzarra scena e non
+					potei che a stento rifarmi della sorpresa.</p>
+            <p>Lucifero stava intento a guardarmi con quel suo piglio di beffa, e pareva mi
+					dicesse: vedi mo' se non ho ragione?...</p>
+            <p>Io ancor non voleva darmi per vinto, e a dir vero non lo potea, che se bizzarri
+					pensieri mi frullassero nel cervello, attonito come io m'era per sì strana cosa
+					che sarebbe apparsa impossibile, ove non ne fossi stato testimone, pur di quella
+					non mi persuadeva e sol mi dava la prova d'una di quelle tante bizzarrie che si
+					riscontrano nella vita, ad ogni tratto che vi si cacci dentro il naso a
+					guardarvi un po' da vicino.</p>
+            <p>"Non v'ha maggior scrupolo di probità che nelle galere!.. ghignè il mio originale
+					di maestro, in tuono stridulo e mordente!... non v'ha maggior fratellanza di
+					quella che regna in una banda!...</p>
+            <p>"Maestro, maestro!... saltai su io un po' piccato; con che sorta di paragoni mi
+					saltate fuori adesso?... Sta bene che m'abbia tanto sconvolta la fantasia da
+					poter farmi pigliare la cupola di san Pietro, per la Piazza d'armi di Milano!...
+					ma davvero che non avrei mai sognato, che mi voleste mostrar una cameraccia di
+					galeotti per darmi un'idea della probità, nè che mi citaste una banda, per farmi
+					un quadro della fratellanza!...</p>
+            <p>"Il fatto sta però, mi ribattè egli, che ogni cosa piglia forma e colore dal modo
+					con cui la si voglia vedere, o dal modo con cui la si vesta.</p>
+            <p>Tanti dotti a cui si fù un giorno di cappello, furono arsi e disprezzati in altri
+					tempi, e tenuti come la peggior feccia!... La cortigiana che siede sui morbidi
+					velluti, più baldracca di quante baldracche abbia il più vil postribolo, è
+					rispettata quanto una onesta donna, sol perchè i suoi titoli di duchessa o di
+					marchesa, od altro le danno licenza di vendersi o darsi come più le piaccia;
+					mentre una sgraziata fanciulla, cui scivoli il piede lungo la via e dia uno
+					scapuccio, si sente gridar la croce adosso e chiamar per tale, da dover
+					soffrirne tutta la vita.</p>
+            <p>V'han tanti ladri camuffati da galantuomini, Poeta mio!... che si dovrebbero
+					fabbricar più galere che palazzi, se si volesse guardarli a vista!...</p>
+            <p>Sai perchè coloro che tu vedesti in sì tristo luogo, gridan ladro!... con accento
+					di sprezzo a un lor compagno, che per galantuomo non fu certo condannato, e che
+					com'essi, fece le fiche a monna giustizia, che gli mise sopra le grinfe,
+					aggiustandolo per le feste?...</p>
+            <p>perchè qua dentro essi si sentono legati da un certo qual vincolo di fratellanza
+					alla lor foggia!... Da questo lor carcere lanciati in mezzo al mondo che li paga
+					di sogghigni, di beffe e d'insulto, essi andran fiutando come bracchi, ove siavi
+					miglior scrigno più mal guardato sul quale metter le mani.</p>
+            <p>Quello che non si vuol capire è appunto questo, che gettando il disprezzo sulla
+					colpa lasciandola al suo abbandono, la si costringe a dare frutti amari d'odio e
+					di rancore motivo per cui chi ne è fatto scopo, se prima fece il male per errore
+					o per bisogno, vi si dà per rappresaglia, e giustifica in certo qual modo le sue
+					azioni col paragone di altre che arrovellano il suo animo esacerbato.</p>
+            <p>Da ciò quella lotta eterna degli oppressi e degli oppressori che genera la guerra
+					delle Nazioni, stolta e perversa come quella degli individui!</p>
+            <p>Tutto è di tutti!... ciò era in natura... Gli uomini non appena si trovarono
+					forti chi più sugli altri, dissero ciò esser assurdo, e si tolsero la briga di
+					dimostrare essere per loro la maggior parte dei comuni diritti.</p>
+            <p>ciò fu vero!... sai perchè?... perchè trovarono chi se li lasciò prendere!...
+					Ebbe ragione la loro teoria, solo perciò furono più bricconi, e seppero imporla
+					agli altri che furono tanto imbecilli di accettarla.</p>
+            <p>L'orgoglio umano trasse argomento dall'altrui accondiscendenza o dall'altrui
+					paura, per stabilire la tirannia.</p>
+            <p>Io.... per me!... dico tanto ladro a chi ruba una moneta d'oro, come a chi se
+					l'appropriò prima togliendola ad altri.</p>
+            <p>è questa la storia delle prigioni e degli ergastoli, Poeta mio!... storie empie,
+					ma che sono la conseguenza di altre storie più empie ancora, per narrare le
+					quali è d'uopo ascendere ben più in alto, ed interrogare i sogni agitati che
+					s'aggirano intorno a guanciali di porpora, come è d'uopo ascendere negli spazi,
+					per trovare dove si formi il fulmine che compie sulla terra la sua opera di
+					distruzione.</p>
+            <p>La diversità poi delle posizioni sociali generò la diversità delle colpe; ond'è
+					che l'uomo che t'ho mostrato, armato di coltello pretese sulla via il pane che
+					chiese cinque o sei volte, finchè gli venne meno la pazienza per arrivare fino
+					alla settima!... Altri arrivò forse anche alla decima!... ad altri forse bastò
+					la prima!... e ne ebbe addirittura la persuasione che fosse vana cosa di
+					domandare! - Questioni d'organismo!...</p>
+            <p>L'altro che vedi in atto pensoso aggomitolato in fondo alla Corsia, trasse frutto
+					dalla mente e fu reo di frode compiuta per la bonomia altrui, onde si dice
+					truffatore.... Quell'altro scassinè una serratura, questi fabbricò monete,
+					quando vidde di non poter avere di quelle che fabbricava il governo, e così a
+					norma dei caratteri, degli istinti, e delle posizioni, mutano di veste le colpe,
+					ma tali rimangono nella loro essenza, e le carceri non mancarono mai di ospiti,
+					sebbene altra peggior feccia vi sta lontana, che però dovrebbe venirvi per
+					comunanza di principi e per diritto di merito!...</p>
+            <p>E sai tu perchè in maggior numero sianvi bricconi? ed in minore i saggi, e in
+					buona parte i giustiziati, che son sempre i gonzi?...</p>
+            <p>perchè il male si strinse in una forza compatta per imporsi, ragunando intorno a
+					lui quanto male potè, onde farsi forte.... Si unirono i disonesti, per
+					persuadersi che l'onestà dia buon frutto!... bisognava quindi convincere che
+					l'onestà non dà frutti che di sagrifici!... Si persuase il male, provando essere
+					il bene la più ridicola delle cose?... La virtù si disse goffaggine, e
+					scaltrezza il mal fare!... ed il dizionario guadagnè molti sinonimi.... in
+					ragione che il mondo perdette quel po' di buono che v'era!...</p>
+            <div type="group">
+               <milestone unit="speaker"/>
+               <p> IO. Converrete dunque maestro che in mezzo a tanta corruzione era più che
+						necessario che si stabilissero leggi a tutela dell'ordine, o che tutto
+						sarebbe andata a rovescio.</p>
+               <milestone unit="speaker"/>
+               <p> LUCIFERO. Non ne convengo certamente!... mi ribattè sogghignando Lucifero, e
+						ti dico anzi che prima cagione di colpa, furono le leggi che si tolsero
+						appunto la briga di classificare le umane azioni, togliendole alla loro
+						libertà. Cos'era la colpa prima che tale si chiamasse, come lo vollero le
+						mattezze umane?... nulla!... Un fatto qualunque che era scaturito da una
+						qualunque causa!... Cosa produssero le vostre leggi?... Condannano il
+						fatto!... ma la causa?... l'anima che dà vita a quest'azione, che si chiama
+						poi virtù o delitto?... Parmi che la si lasci nelle nubi e non s'allambicchi
+						tanto il cervello a snidarla fuori!... Stupenda cosa sarìa condannare il
+						sasso che ti rompe la testa, e non cercar la mano che lo ha scagliato!... ed
+						è ciò appunto che succede tra voi!... Vuoi tu darmi ascolto alcun poco?...
+						ti vo' narrar su ciò un ameno racconto che s'attaglia al caso, come abito
+						addossato dal sartore. Non vorrei però che tu mi dassi del pedante, per
+						questo mio filosofare imbizzarrito, ma a modo mio vedrai che ti farà meglio
+						parer chiara la cosa.</p>
+               <milestone unit="speaker"/>
+               <p>IO. Vi sto a sentire tutto orecchi, maestro.</p>
+            </div>
+         </div>
+         <div xml:id="SEC4">
+            <head>Il racconto di Lucifero</head>
+            <p>La carcere e tutti i suoi inquilini era sparita a noi d'innanzi; mi sentii tratto
+					per lo spazio, come, a volo. Sul volto sentiva soffiarmi un alito freddo freddo;
+					calammo a poco a poco e ci trovammo sulla vetta d'un alto monte, di cui non
+					vedeva le fondamenta tant'era fitta la nebbia che ci stava d'intorno.</p>
+            <p>Sediamo qui a bel agio, e stammi attento, mi disse Lucifero lasciandosi cadere
+					sovra un masso come uomo stanco dalla fatica: in mezzo a questa nebbia era dura
+					da fendersi l'aria.</p>
+            <p>Io volea ribattergli che si potea stare dove eravamo senza torsi la briga di far
+					tanta strada, ma stava formando tal pensiero quando ei lo ruppe a mezzo e
+					cominciò:</p>
+            <p>"Devi sapere ch'io me ne stava un dì a diporto sulle rive dello Stige!... è la
+					mia passeggiata prediletta.</p>
+            <p>Figurati quel fiume dalle acque nere, gravi, imponenti, che via corrono senza
+					suono. - Una turba di alati vampiri vi si aggira intorno, ed empie di strida
+					bizzarre le vaste latitudini di uno spazio fitto di tenebre. - Da ogni lato
+					selvaggi dirupi, nelle cui gole l'eco ripete il gemer dei venti che vi irrompono
+					sibilando. Per sette strade si fa capo al mio palazzo, ch'io feci scavare
+					coll'ugne delle mie arpie nella più interna gola della più alta montagna, ed
+					intorno al quale misi al lavoro quanti dannati mi capitarono laggiù, tanto da
+					farne la più splendida reggia che non invidia al cielo altro che la sua luce a
+					far più scintillante la sua dovizia di gemme!... Cerbero latrava innanzi alla
+					gran porta d'acciajo, scuotendo le sue sette teste.... Era quello il segnale
+					d'avviso che mi dava Caronte ogni qualvolta stava traghettando qualche nuovo
+					ospite....</p>
+            <p>Veniva diffatti la pesante barca verso la destra riva del fiume, ed entro quella
+					eravi un'ombra che a malincuore si lasciava traghettare; mesta e pensosa ella
+					guardava in volto il fatal battelliere e parea gli chiedesse venia, parola
+					stolta a cui egli faceva orecchie da mercante, come buon usurajo che sente
+					strillare lo spennato merlotto colto in pania a buon tiro!...</p>
+            <p>Se tu lo vedi, è un caro compare Caronte.... e ti sa dire più lepidezze con quel
+					suo labbro raggrinzato, che non dicano corbellerie i vostri deputati, quando
+					voglion far pompa di spirito!...</p>
+            <p>Egli ha imparato tutti i gerghi, e tutte le lingue, onde intendersi meglio co'
+					suoi avventori, e più d'un'ombra me ne fece le lodi, quando si fu un po'
+					accomodata laggiù....</p>
+            <p>Hai da vederlo quando noleggia la barca per le corse di piacere, che si danno lo
+					scambio talora sullo Stige, ove si fa gazzarra di risa e di tripudi.</p>
+            <p>Lo diresti il più matto ed allegro compare che veste panni di battelliere!... e
+					come vi dà dentro!... e come voga!... e come s'ubbriaca!... abbiamo del vino
+					laggiù da far ballar la zucca a più d'un morto, che talora, credo, non rimpiange
+					affatto la vita.... massime s'io il fo per caso guardiano alla mia cantina o lo
+					metto a coltivare ne' miei vigneti!...</p>
+            <p>Caronte era quel giorno più che mai in vena di far follie e facea girare la barca
+					su pel fiume, ond'io vedutolo a far tal gioco, lo chiamai e fattolo appressare
+					montai seco in barca.</p>
+            <p>L'ombra ch'ei traghettava era d'uno che era finito in tal posto dove pochi hanno
+					gusto di finire!... Aveva lasciata la testa in mano di poco urbano compare, il
+					quale sebbene dovesse fargli un brutto tiro, lo baciò prima di spiccargliela dal
+					busto!... Egli se la teneva tra le mani.... e quei due occhi che si roteavano
+					nell'orbita, stavano guardando il corpo in modo ancora da trasognato, e parea
+					non sapessero capacitarsi che loro fosse dato guardarsi spiccati così come
+					erano.</p>
+            <p>Vedutolo in sì mal'agio e sì mal concio, mi prese compassione di quel disgraziato
+					e toltagli la testa di mano gliela accomodai sulle spalle. Egli mi sorrise, ed
+					il suo sorriso aveva un tal che di dolce, che m'invogliò d'una strana
+					idea....</p>
+            <p>"Vorresti tu dirmi, gli dissi, perchè ti hanno fatto tal servizio da spedirti qui
+					con sì ratta corsa?..."</p>
+            <p>Egli mi fe' cenno che ben di buon grado assentiva: ordinai a Caronte che ci
+					menasse un po' a diporto e mi feci tutto orecchi.... l'ombra incominciò:</p>
+            <p>"Io nacqui a Roma... è d'uopo sappiate che io aveva una sorella, un padre ed una
+					madre; mio padre era un buon mercante che se la campava alla meglio col frutto
+					del suo lavoro; mia sorella Adele viveva in famiglia.... si campava
+					discretamente.... Ma siccome non si fa mosto senza tinozza, anche il nostro
+					malanno c'era in casa! e questo malanno era un giovinastro rotto ad ogni buon
+					costume, che bazzicava intorno all'Adele.... e le prodigava cortesie, come una
+					donna di mondo vi prodiga baci per mungervi il taschino!... Scusate messere, mi
+					diss'egli sorridendomi: ma v'è un proverbio lassì ed è che quando in qualche
+					affare ci si caccian le corna del diavolo, quell'affare non c'è verso da
+					raddrizzarlo!...</p>
+            <p>"Son dunque tenuto in qualche conto! risposi io per nulla affatto piccato della
+					stima che mi era dimostrata."</p>
+            <p>"Vi s'era proprio cacciata la coda del diavolo, seguitò egli. Io amavo mia
+					sorella come è dovere che s'ami, e s'anco non fosse dovere, chè io non sono già
+					dotto di cose da sapienti!... so che io l'amavo e vedeva di mal occhio che quel
+					suo damerino gli facesse intorno la ronda.</p>
+            <p>Ma sì! fattevi a sbizzarrire il matto cervello di caparbia fanciulla!... Tanto
+					varrebbe pestar l'acqua nel mortajo.</p>
+            <p>Lei lo teneva per la perla dei galantuomini; egli voleva venire al suo punto, e
+					ci veniva, sfido io!.... senza tanti rovesci! Non c'era che da illudere una
+					bonacciona! e da giuocar un tiro da galeotto sopra gente che s'intestardiva a
+					crederlo pasta da galantuomo. Non v'era amico più di lui assiduo nella famiglia;
+					mio padre e mia madre lo tenevano come un figlio.</p>
+            <p>L'Adele però non l'amava e doveva farsi sposa con un banchiere di città.... Paolo
+					lasciò che le cose camminassero pel loro verso; non se ne diede per inteso, e
+					sotto vento macchinava intanto come sventare quelle nozze che gli erano una
+					spina al cuore.</p>
+            <p>Mio padre che da qualche tempo si lanciava nel campo azzardoso della
+					speculazione, aveva un consigliere... era Paolo. La fortuna gli arrise più
+					volte.... ma a forza di tentar il malanno, una volta o l'altra finisce col
+					capitarci adosso.... e ciò avvenne diffatti. L'ultima impresa in cui aveva
+					giuocato per posta, quasi tutto il fatto suo, gli fallò. Il sinistro aspetto
+					della rovina si cacciò in mezzo alla nostra famiglia. Si dovette sagrificare la
+					dote di Adele per uscirne onorati, ed il matrimonio com'è naturale andò in
+					fumo.</p>
+            <p>Gli amici tutti della famiglia si allontanarono tosto, come frotta di rondini al
+					sorvenire del verno; non così Paolo, che ci si fe' più attorno, prodigo più che
+					mai di consigli, di conforti, sì che parea che l'animo suo dividesse tutta la
+					sventura che c'era toccata."</p>
+            <p>Come prostrata sotto l'incubo d'un penoso sogno, l'ombra stette per alcuni
+					istanti assorta in doloroso atteggiamento. La testa gli ricadde sul petto
+					oppresso; nelle pupille immote tremolò una lagrima; trasse un profondo sospiro,
+					come uomo che si svegli a mezzo della strada che fece sonnecchiando, e
+					continuò:</p>
+            <p>"Di fronte a questo attaccamento che sorviveva alla sventura, e che pareva farsi
+					più forte col crescer dei nostri affanni, io mi pentii d'aver sospettato;
+					cancellai dal mio cuore un tal qual senso di antipatia che senza darmene ragione
+					sentivo in me verso colui, e come succede quando coll'animo retto si vuol
+					rimediare ad un colpa che si crede d'avere commessa, pagai il suo affetto con
+					tutto lo slancio della stima che gli aveva prima ricusata.</p>
+            <p>Ahimò!... i frutti dell'opera sua non dovevano tardare a maturarsi, e ben tristi,
+					come tristo ne era il germe, non essendo l'ostentato attaccamento del vile,
+					altro che giuoco d'astuzia e di infame scaltrezza che la vinceva a posta sicura
+					sulla buona fede.</p>
+            <p>Nell'animo della mia povera sorella quelle premure che le erano prova di cuore
+					cortese e gentile, accesero ben presto uno di quegli affetti che vivono
+					dell'abbandono della confidenza. Essa lo amò con tutto quello slancio di cui
+					sentivasi capace nella ingenua credulità del suo pensiero.... L'istante era
+					giunto! egli aveva aspettato pazientemente al varco la vittima, come l'assassino
+					che s'apposta ad un crocivia!... L'amore ha i suoi momenti d'espansione a cui
+					l'anima della donna non sa resistere, ove il libertinaggio se ne faccia
+					strumento!... Saper indovinare quell'ora di prostramento che ha bisogno d'una
+					carezza! quella carezza che provoca il bacio, ecco la scuola di codesti pigmei
+					di carne, che fanno consistere il loro eroismo da gabinetto nel calpestare
+					quanto vittime possono sul loro sentiero parassita!... e che camminano a fronte
+					alta in mezzo al fango con cui insozzano ogni virtù, che non sa leggere la
+					menzogna sotto al cinismo delle loro labbra impure!...</p>
+            <p>Mia sorella cadde, e dopo il disonore, venne l'abbandono!... invano ella pregò;
+					pianse invano; un giorno coll'angoscia nel cuore mi si gettò ai piedi
+					confessandomi tutto l'orribile tradimento, tutta l'insania di quell'arte
+					scaltrita per cui egli era giunto a compiere l'opera sua.... Io uscii di casa
+					pazzo, furente....</p>
+            <p>Lo incontrai, trassi il pugnale dalla cintura e lo lasciai morto sulla
+					via!...</p>
+            <p>Ho pagato col mio capo questo delitto!... le leggi almeno dissero che era un
+					delitto!... mormorò egli, mentre sulle sue labbra correva un disdegnoso
+					sorriso."</p>
+            <p>L'ombra si tacque; eravamo giunti alla riva, io pensavo tuttora assorto in
+					strambe astrazioni allo strano racconto, quando l'asta della barca che battea
+					contro la sponda mi trasse da quel mio fantasticar bizzarro. Seguii collo
+					sguardo quello spetro di dolore che s'allontanè muto ed assorto per la buja
+					spiaggia, e rifletteva che stupida cosa siano le leggi che colpiscono sempre
+					l'atto che sta loro d'innanzi e quasi mai ascendono a trovarne la causa!...</p>
+            <p>"Orbene!... dimmi tu adesso.... non fu delitto forse quella giustizia, e non fu
+					invece giustizia quel delitto?...</p>
+            <p>Cosa rimase dopo quell'atto legale che, punè un atto che era per sì stesso una
+					punizione?</p>
+            <p>Il dolore d'una donna, l'onta d'una famiglia!... la disperazione d'un
+					vecchio!...</p>
+            <p>Dolore, dolore e dolore!... solo retaggio che venne all'umanità dalle sue
+					istituzioni sociali, che vincolarono l'uomo agli infiniti pregiudizi, che lo
+					resero un bamboccio incapace d'alcun atto di indipendente volontà."</p>
+            <p>Io non seppi che rispondere, e chinai la fronte impensierito; egli mi trasse da
+					quel mio smarrimento; ed alzatomi pel bavero del soprabito di sopra alla vetta
+					dove c'eravam posati, sentii che mi trascinava tuttavia per lo spazio dentro cui
+					ci addentravamo, soli in mezzo a quella vasta immensità, che non aveva confine e
+					che si popolava di tutti i fantasmi evocati dall'orgasmo dell'immaginazione.</p>
+            <p>---</p>
+         </div>
+         <div xml:id="SEC5">
+            <head>Il Mondo</head>
+            <p>"Seguimi che altre cose ti vo' far vedere, mi diss'egli, e statti pur certo che
+					sebbene librati nell'aere, staremo più saldi che nol fossimo sulla più salda
+					rocca di granito!...</p>
+            <p>- Si può sapere, maestro, dove ci troviamo?...</p>
+            <p>- E che t'importa il dove?... guarda solamente sotto te; che vedi?...</p>
+            <p>- Un abisso in cui l'occhio si perde....</p>
+            <p>- Fu il Caos prima d'essere il mondo.... Or guarda bene e m'ascolta, Poeta,
+					dacchè più nulla avrò dopo questo a dirti. Tutto ora noi dominiamo, dacchè il
+					mondo che fu è sotto noi.... tu non vedi che tenebre, ma da quelle tenebre io
+					non ho che ad evocare delle tradizioni per rivelartele; fissavi dunque lo
+					sguardo e discerni. Eccoti l'Italia, la terra delle melodie. La terra dei fiori
+					brutta di sangue; la Maddalena, come la disse un dotto alemanno, la quale colle
+					chiome sparse sugli eburnei omeri, piange sovra sì stessa, troppo tardi pentita
+					de' suoi errori. La Spagna, la terra delle favolose tradizioni; la Grecia, la
+					terra dei giganteschi sagrifici, delle eroiche abnegazioni. L'Alemagna, il suolo
+					delle fantasmagorie e dei sogni, il paese delle leggende. L'Oriente, la culla
+					delle vergini. L'India, la terra dei miti... Nel turbinoso vortice dei secoli
+					guarda come immani fantasimi passare la storia di tutte le nazioni; cosa che ne
+					raccogli se non un solo gemito, confuso con un grido d'orgoglio?... Popoli ed
+					individui che muojono, memorie e cose che si accavallano, che si succedono,
+					virtù e colpe che si confondono, e dapertutto non v'è che la stessa armonia di
+					disordine.... Il creato sin dal suo nascere col primo palpito dell'esistenza,
+					inneggiù il mesto preludio de' suoi mali, e l'osanna delle sue glorie. Tutto si
+					alterna; la vita ha bisogno di tramonto e d'aurora, il tempo di notti e di
+					giorni; nella variazione è il prolungamento, la vita dei regni come quella degli
+					individui ha i suoi punti estremi di contrasto.</p>
+            <p>Sulle atterrate città della Grecia, guarda sventolare la mezzaluna del Musulmano;
+					sui vasti campi dell'Oriente, sulle sponde del Gange!... sovra il cadavere
+					dell'Arabo feroce che sollevò ardito l'urrah! delle battaglie vedi battere
+					l'ugna ferrata il cavallo del Crociato, che si disse guerriero di Cristo,
+					inalberando la croce emblema di pace e di perdono a stendardo di scempi e di
+					carneficine... Chi è più colpevole d'un'armata che in nome di una religione di
+					fratellanza apporta la morte su terra non sua, oppure chi a prezzo di sangue
+					difendeva il suo tetto, e la sua religione, quale essa si fosse?... Ogni
+					avventatezza di principi degenera in pazzia. Pazzia dà frutto di colpa; da
+					fanatismo di parte che bandisce un grido di libertà allorchè la tirannide vuol
+					spegnerla nelle sue spire non v'è che un sol sasso e la tirannide briaca di
+					sangue, vuol sangue, come l'ebbro il quale mal reggendosi in piedi stende
+					l'avida mano all'ultimo bicchiere che terminerà il suo abbrutimento. Contempla
+					la terra seminata di fratelli che armò l'uno contro l'altro la erroneità d'un
+					idea, o la sagacia di pochi, che si fecero delle masse strumenti ciechi e
+					formarsi un piedestallo di grandezza, e dimmi se più ti viene da ridere o da
+					fremere sulle umane stranezze!... Dall'una parte astuti che comandano,
+					dall'altra stolti che chinano la fronte ed obbediscono. Del sogno d'una notte
+					l'uomo formò un simulacro, e disse: è d'uopo adorarlo. Vi furono gonzi che
+					credettero, e sorsero le mille religioni che popolarono la terra di riti; altri
+					risero, ma a guisa del mercante che tirato il conto di due somme piglia la
+					migliore, pensarono quale utile ne potrebbe venire, e la menzogna patteggiando
+					colla ipocrisia scrisse le favolose tradizioni che accettò il fanatismo. Il
+					tiranno per conservarsi sul suo seggio ebbe bisogno di servirsene; la religione
+					comprese d'esser forte, e coloro che si fecero suoi ministri armatisi del
+					prestigio della loro posizione, la vestirono a pompa, come la prostituta, per
+					vendersi a maggior prezzo o per sedurre più agevolmente, si adorna di ricchi
+					abiti e sfavilla di diamanti. Sorse allora un potere fuori del potere, un mondo
+					fuori del mondo, che fu gettato fardello pesante sulle spalle dei creduli,
+					perchè si curvassero in modo che sui loro dorsi gli altri salissero a dettare la
+					legge. Il capriccio, statuò le basi di vincoli positivi; la follia vestì il
+					manto della verità, perchè la verità era falsata o perduta nel bujo delle
+					tradizioni; i potenti vi si arrancarono, come il naufrago all'antenna
+					galleggiante dell'infranto naviglio, ed una turba d'uomini si disse
+					rappresentante di un Dio qualunque, alzando la bandiera della propria idea, che
+					ebbero martiri, e vittime ed evocato come l'orco, il Cielo fu chiamato a
+					patteggiare coi delitti e colle matezze umane.</p>
+            <p>Interroga le stragi di Messene e di Sparta, del Portogallo e dell'Africa; guarda
+					gli altari dell'India su cui la vergine veniva sgozzata dal sacerdote, agli
+					altari della Grecia sui quali la vittima cadeva incoronata di fiori. Guarda alle
+					ecatombe di Roma, ai martiri caduti sotto il dente delle belve affamate e
+					spiranti nelle carceri, e sugli aculei, o sotto la scure dei carnefici. Sotto le
+					mura di Gerusalemme, cerca i mutilati avanzi di due popoli; interroga i gemiti
+					delle orbe madri, delle spose derelitte, dei figli piangenti. Da dove vennero
+					tutti questi mali? Da dove sorse questo grido foriero di tanta strage? di tanto
+					furore, di tanta insania?... Dai misteriosi vaticini dell'antro di Delfo, ai
+					responsi della sibilla romana, tutto è menzogna. Come un branco di augelli che
+					seguono gli eserciti attendendo impazienti la notte che offrirì loro lauto
+					banchetto di cadaveri, si divisero pochi eletti il frutto sanguinolento di tanto
+					esterminio, e sui gemiti dei fratelli, rise il fiero riso della cupidigia chi
+					all'ombra d'una larva si fabbricò un trono a rassodò l'edificio del suo potere.
+					Ingiustizia e ingratitudine, barbarie e colpa dovunque.... Catone si immerse nel
+					petto il ferro che impugnè per la comune libertà, quando sentì il trionfo di
+					Augusto... Gli Ateniesi offrirono veleno al più virtuoso degli uomini.... La
+					virtù è condannata al sagrificio perenne, perchè l'empietà ha troppi proseliti.
+					Tarquinio invece passì col cocchio impudente sul cadavere di suo padre, e regnè,
+					vero è che fu poi assassinato anch'egli.... Poichè fiore dà frutto.... colpa
+					genera colpa.... ed il dispotismo evocato dall'io superbo del suo potere che
+					crede d'andar diritto, è come il cieco che dà di cozzo in una parete e cade al
+					suolo sanguinolento, tanto è vero che Alboino quando credette aver tocco il
+					sommo della dispotica sua potestà, imponendo a Rosmunda di bere nel teschio del
+					padre, segnè con quell'atto la sua rovina, e non si svegliò dal suo sogno di
+					superba grandezza se non che per vedere la mano che gli cacciava un pugnale nel
+					petto, ed Oloferne quando disse: è mia Betulia, e ne vagheggiù feroce l'ultimo
+					scempio, fu allora che ebbe a fare un serio conto colla spada di Giuditta.</p>
+            <p>- Maestro, io ho sentito sempre dire che al diavolo abbrucia la lingua nominando
+					santi....</p>
+            <p>- Ed io credo vi siano diavoli che valgano assai meglio di tutti i santi che
+					registrò ne' suoi elenchi la Chiesa... La santificazione è una merce a buon
+					mercato mi pare.... ed affù che se santa fosse invero Giuditta, sarebbe come
+					trovare una perla in mezzo al fango.</p>
+            <p>- Mi pare paragone troppo sconcio parlando di santi, maestro....</p>
+            <p>- Ti capisco.... ma fa che torni lo stesso.... Sono fanfalucche come la storia
+					del fico, e del diluvio.... e tante altre storie che si danno a bere a chi le
+					vuole, io le butto di rimando, da cui mi vengono.</p>
+            <p>- Maestro!... Maestro!...</p>
+            <p>- Tutto è menzogna!... e che? vorresti tu darmi a credere di prestare fede a
+					queste fiabe?...</p>
+            <p>- Io non ci credo.... Ma sento che il tuo sarcasmo mi fa rabbrividire.... il
+					mondo che tu mi mostrasti è ben orrendo.... Vi sono ancora sublimi virtù nel
+					mondo... Vi sono i sagrifici del genio.... le nazioni che di volo mi mostrasti
+					nel loro nulla materiale, hanno anche splendide glorie.</p>
+            <p>- E vuoi tu vedere ove scompajono.... ove tocchi il fine di tutto?</p>
+            <p>- Maestro, lasciatemi....</p>
+            <p>- No. Vieni....</p>
+            <p>---</p>
+         </div>
+         <div xml:id="SEC6">
+            <head>Il Cimitero.</head>
+            <p>- In quale ameno luogo mi conducete, in verità che mi date allegra compagnia di
+					scheletri d'ossa, e di tombe.... ella è ben poco attraente.</p>
+            <p>- Luogo più che adatto e comodo al nostro essere, messer Poeta. Interroga le
+					tombe e ti risponderò la vita, il passato, dacchè la morte ne sia l'arcana
+					tradizione.</p>
+            <p>- Quello scheletro ritto sul terreno m'incute terrore.</p>
+            <p>- Ah, ah, dimmi un poco; quando ti stringesti sul seno la donna amata pensasti
+					mai che in arido stinco si commuterebbe un giorno, e che i suoi occhi
+					perderebbero la luce? che le sue scarne guancie si infosserebbero; che il suo
+					cuore pasto sarebbe dei vermi.... e che la putredine stenderebbe il suo potere
+					su quel corpo rigoglioso scopo alla concupiscente brama della pupilla?... Dì, a
+					questo non pensasti mai?...</p>
+            <p>- Maestro mio, in che ben tetro umore v'approfondite!...</p>
+            <p>- Immutabile io sono, e da tale guardo le cose che mi circondano.... Fatto è che
+					quello scheletro fu donna.</p>
+            <p>- Ma che è ora?...</p>
+            <p>- E che eri tu?... Tutto ha fine nella tomba! Ah, ah!... Poeta mio; or eccoti a
+					che si riduce la nobile creazione del tuo pensiero; la passeggiera silfide che
+					ti getta un fiore e sparisce nel nulla di tutte le cose, travolta nell'oceano
+					turbinoso del tempo.... Ti spaventano le tombe? Eppure è qui che cadde ogni
+					frutto terreno. Qui l'oratore accanto all'opulento; il re accanto allo schiavo;
+					è da qui che sorge altiera una voce a segnare il nulla delle umane grandezze,
+					mentre una zolla di terreno affratella tutto ciò che vive il palpito doloroso o
+					felice dell'esistenza!... Cerchi la donna, o Poeta, eccola!... Stringilo al seno
+					quello scheletro biancheggiante, bello un giorno di vita.... Poeta, cerchi la
+					verità? qual miglior verità della morte?... La sua anima ti narrerebbe una lunga
+					storia di patimenti... Essa è qui; qual via percorse?... E su tutti questi varj
+					sentieri, poniti ed interroga chi tragitta; ben molto avresti a scrivere. Fissa
+					il palazzo ove fervettero danze avvolte dal fasto dell'opulenza; ivi s'aggirò la
+					donna mentitrice di giuri, ed ingannata, si fece serpente perchè il serpente non
+					la soffocasse nelle sue spire. Fissa il postribolo; essa vi gemò talvolta
+					santificata col martirio crudele dell'anima che l'oppresse col sagrificio d'ogni
+					giorno.</p>
+            <p>- Maestro, e non vi par egli un'insulto alla santa reverenza di questo luogo di
+					morte, il sarcasmo che vi corre sul labbro?...</p>
+            <p>- Ah, ah! messere, affù che io credo che gli uomini, sentita la favola del
+					coccodrillo, ne avessero tanta invidia che si forzarono d'imitarlo. Stupenda
+					cosa infatti aver sacre le tombe, e torturare le esistenze. Guarda il figlio che
+					di dolore in dolore spinge verso la tomba i propri genitori, poi scioglie sulla
+					loro urna la lagrima ipocrita che faccia fede al mondo del suo sviscerato amore
+					per essi; guarda lo sposo che chiude il feretro della donna e sognando le
+					novelle faci d'altro imeneo, mente un affanno che non provò mai ed infiora la
+					tomba ove giace colei, a cui vivente di aspra corona di spine recinse la giovine
+					fronte. Impostura è la vita, e sulle tombe si perpetua; solo nella tomba cessa.
+					Qui una croce nuda, ti segna il luogo ove giace il povero cui più delle pompose
+					pantomime che creò l'uomo con funebri riti, seguì il gemito segreto dell'anima,
+					tributo solo dello affetto. là avvi un superbo monumento!... ma che v'è dentro
+					ognuna di queste tombe?... Un fracido carcame, od un pugno di polvere!...
+					Interroga la vita; ti risponderanno le follie onde l'uomo si intreccia il suo
+					sentiero. La tomba ti rivelerò il nulla di tutto.... Qui d'un sonno uguale,
+					eterno, dormono tutte le cose.... Qui hanno tregua i gemiti e le lagrime.... Qui
+					s'accomunano principj, genti e religioni. Fu grembo che maturò il frutto
+					dell'uomo la terra, e la voce istessa che lo animò ve lo chiama. Dalla culla
+					alla bara non v'è che un passo; si sveglia l'uomo per un giorno, s'addorme per
+					sempre. Guarda quel teschio.... Entro quello s'aggirarono già sogni di
+					conquista, guarda quel piede, egli premette la porpora regale del trono e guarda
+					quella mano che sorge da quella tomba, bandì la spada o suonè l'arpa del
+					poeta.... Ora la più meschina creatura può farsi gioccatolo di tutto ciò....</p>
+            <p>- Maestro.... il vostro quadro è orribile.... queste tombe mi fanno spavento, le
+					vostre parole mi passano l'animo, fredde come la nebbia della notte in paludosa
+					valle; che volete voi dirmi con ciò?...</p>
+            <p>- Spiegarti la scienza della vita. Guarda i mille atomi animati che passano
+					compiendo il loro triste pellegrinaggio; raduna tutto l'immenso quadro della
+					vita, poi interroga il cimitero e ti risponderò il nulla di tutto ciò che
+					fu!...</p>
+            <div type="group">
+               <milestone unit="speaker"/>
+               <p> IO. Apostolo delle tenebre, tu mi sgomenti!... se il silenzio è morte, cosa
+						persuade allora la tua dottrina?...</p>
+               <milestone unit="speaker"/>
+               <p> LUCIFERO. Il nulla!...</p>
+               <milestone unit="speaker"/>
+               <p> IO. Ma se tutto è nulla?...</p>
+               <milestone unit="speaker"/>
+               <p> LUCIFERO .Vi è la vita dell'oggi!... Vita suona godere!... tutto ciò che gli
+						è d'ostacolo è male!... è dolore!... è d'uopo dunque camminare sopra tutto,
+						per arrivare al bene!...</p>
+               <milestone unit="speaker"/>
+               <p> IO. Nell'egoismo dunque si trova la felicità?...</p>
+               <milestone unit="speaker"/>
+               <p> LUCIFERO. Nell'egoismo è il diletto!...</p>
+               <milestone unit="speaker"/>
+               <p> IO. Ma l'egoismo è bruttura!...</p>
+            </div>
+            <div type="group">
+               <p>Lucifero gli sogghignè stranamente. L'egoismo è egoismo!... mi disse egli,
+						col suo accento sarcastico e motteggiatore. Due sono gli elementi che
+						costituiscono la vita. La debolezza e la forza. Il vento schianta la
+						quercia.... la quercia abbatte l'alberello. Il boa uccide il leone.... il
+						leone sbrana il lupo.... è una gradazione delle diverse forze.... Anche
+						l'astuzia è una forza, dacchè s'ingegna a vincere. Sia essa lotta di tigre o
+						di serpente, di leone o di lupo, di volpe o d'aquila, è sempre lotta!... E
+						chi perde ha torto!... perchè se non altro ha il torto d'aver perduto per
+						non aver saputo vincere!... O vittime, o carnefici!... Per la vittima;
+						nulla!... pei carnefici la preda,... poi vittime e carnefici spariscono
+						dalla scena, ed il tetro fantasima del nulla stende il suo manto sugli uni e
+						sugli altri.</p>
+               <p>Chi ha creato il dolore?...l'uomo; innanzi a lui egli rizzò dei fantasimi, si
+						fù schiavo di ombre, poi si provò a distruggere, ma talentò ad altri tener
+						ritti quei simulacri ed egli si trovò impotente ad atterrare quanto aveva
+						prima edificato.</p>
+            </div>
+            <div type="group">
+               <milestone unit="speaker"/>
+               <p> IO. No, no, meglio la menzogna della fede che il cupo positivismo del
+						nulla.</p>
+               <milestone unit="speaker"/>
+               <p> LUCIFERO. Ed a che prò mentire a te stesso?...</p>
+               <milestone unit="speaker"/>
+               <p> IO. Nell'illusione sta la vita.</p>
+               <milestone unit="speaker"/>
+               <p> LUCIFERO. L'illusione è ignoranza, perchè è inscienza della verità, e
+						l'ignoranza è stupidezza morale che abbassa e deturpa....</p>
+               <milestone unit="speaker"/>
+               <p> IO. Ed è forse bene la scienza, quando la conoscenza della verità sia il
+						disinganno di tutto?... cosa ne avviene dopo ciò?...</p>
+               <milestone unit="speaker"/>
+               <p> LUCIFERO. L'egoismo!... esclamò egli con orgoglio beffardo;... l'egoismo
+						cammina ed arriva alla propria meta.... nulla è per esso fuori di lui. Fissa
+						un punto e di' a te stesso: voglio esser là.... Mettiti in via e ci
+						sarai!... Il fulmine parte e giunge!...</p>
+               <milestone unit="speaker"/>
+               <p> IO. Ma abbatte quanto incontra... Egli distrugge per giungere.</p>
+               <milestone unit="speaker"/>
+               <p> LUCIFERO. Fanciullo!... e cos'è che non sia distruzione nell'elemento vitale
+						dell'esistenza? Distruzione è riedificazione!... Tutto tramuta, nulla
+						scema!... tutto sta nel vincere o nell'esser vinto!... e nell'assumere la
+						propria parte in questa ridicola commedia!... posare da vittima, e far da
+						serpente.</p>
+            </div>
+            <div type="group">
+               <p> Bello della sua fiera imponenza egli fissava in me quel fulmine a sguardo
+						che mi ricercava le più intime latebre del cuore.</p>
+               <p>"Io ho tenuto il mio patto, mi disse egli poscia. Vuoi tu la vita che ti
+						offro?...</p>
+               <p>"Taci Satana, non mi tentare.... mormorai io ancora, perplesso e dominato da
+						uno strano fascino.</p>
+               <p>"Eccoti la tua scritta, messer Poeta, ti ritrarresti?...</p>
+               <p>"Ti chieggo un po' di tempo ancora a riflettere. - I suoi sguardi erano fissi
+						in me come due raggi di fuoco; parevami che l'aria si facesse grave intorno
+						a me.... che la terra oscillasse sotto ai miei piedi.</p>
+               <p>"In che credi tu ancora?... mi sogghignè egli all'orecchio, mentre sentiva
+						l'adunco artiglio serrarmi al braccio intirizzito come da gelo mortale.</p>
+               <p>"Un pensiero rapido come lampo mi scattò dal cervello... Nell'avvenire!...
+						gridai coll'affannosa ansia del naufrago che veda a lui dinnanzi fuggire la
+						sponda, e si senta smarrire nell'immensità dell'oceano. Non avevano ancora
+						le mie labbra terminato di articolare la magica parola... che un armonioso
+						concento intesi fremermi dolcemente d'intorno, e viddi empirsi di luce le
+						tenebrose latitudini dello spazio.</p>
+               <p>Cercai il mio maestro, come per richiederlo di quel portento improvviso. Egli
+						era sparito, e sentiva il suono lontano della sua beffa, fatto appena
+						intelliggibile e che si perdeva in un mormorio confuso coperto dall'armonia
+						che inneggiava sul mio capo a quella nuova alba di cui mi trovavo sorpreso
+						spettatore.</p>
+            </div>
+            <div type="group">
+               <milestone unit="poem"/>
+               <l>Alleluja! alleluja!</l>
+               <p>(così diceva quel canto di spiriti celesti, - che vidi poi distintamente
+						carolare per lo spazio innondato di luce).</p>
+               <l>Alleluja! alleluja!</l>
+               <l>Ancor la buja</l>
+               <l>Lotta del male e combattuta e vinta.</l>
+               <l>Alleluja alleluja!...</l>
+               <l>Di novello splendor, uomo recinta</l>
+               <l>Leva la fronte e nell'eterno vero</l>
+               <l>La fede ingigantisci onde il pensiero</l>
+               <l>Arda fiamma immortale!...</l>
+               <l>E verso i campi arditi della scienza</l>
+               <l>Spiega l'ale!...</l>
+               <l>Alleluja! alleluja!...</l>
+               <l>Gli astri esultino!...</l>
+               <l>De' più leggiadri fiori s'orni il prato!...</l>
+               <l>E il cherubino alato</l>
+               <l>Al trono dell'Eterno il più devoto</l>
+               <l>Sciolga degli inni suoi!...</l>
+               <l>Della sua luce</l>
+               <l>Per l'eterea magion la tromba squilli!...</l>
+               <l>Che le glorie dei ciel canta al Signore,</l>
+               <l>E il santo amore!...</l>
+               <p>Rapito dalla melodia di quel canto io stavami tutto assorto, e viddi farmisi
+						incontro una splendida figura. Il suo aspetto era d'angelo; bionde ed in
+						copiose anella scendevangli le chiome d'oro sugli omeri d'alabastro!... Un
+						sidereo serto raggiavagli sulla fronte.</p>
+               <p>"Sono il genio del mondo, mi parlò lo spirito!... Io sono l'avvenire che hai
+						invocato e sorgo dal passato, come la luce che ti circonda successe alle
+						tenebre che prima li avvolgevano.</p>
+               <p>Io sono l'avvenire e passeggio sulle rovine del mondo che fu, e traggo dai
+						suoi errori la scienza del progresso umano, che cammina gigante coi secoli
+						che a lui d'innanzi gli appianano la via!...</p>
+               <p>Io ascolto la voce della donna, noto il gemito dei popoli!... guardo la
+						tresca dei re; numero le fatiche dell'operajo, e le orgie dell'egoista;
+						ascolto la preghiera del fanciullo e la bestemmia dell'uomo...</p>
+               <p>Vivo nelle sudate pagine del filosofo come nelle creazioni del poeta!...
+						Analizzo il male per trarne la fonte del bene; raccolgo memorie e tradizioni
+						e cammino verso la mia meta che non ha confine! Atterro la bandiera d'un
+						mondo che agonizza e su cui sta scritto: arbitrio, ignoranza, menzogna, per
+						innalzarne un'altra su cui scrivo: emancipazione, libertà, amore!...
+						l'emancipazione della persona, la fratellanza delle genti, l'amore anima
+						dell'universo!... La corruzione della famiglia ha prodotto la corruzione dei
+						popoli!... la condanna della donna, la servilità dell'uomo!... Le ire dei
+						popoli mostrarono l'ingiustizia della tirannide. Crollerà questa per la sua
+						impossibilità, si spegneranno i pregiudizj affogati nel male istesso che
+						essi crearono!... La tradizione del passato preparerà l'avvenire!...
+						l'errore distruggerà l'errore, perchè è l'errore che insegna il dogma eterno
+						della verità.... scrivi dunque, Poeta, e porta tu pure la tua pietra alla
+						riedificazione di questo vasto edificio che è la ricostituzione
+						sociale."</p>
+               <p>La visione scomparve.... Io scrissi, il perchè non lo saprei.... con quale
+						scopo?... non me lo sono chiesto!... In ogni caso l'avrò fatto perchè se a
+						caso fra trecento e tanti mila anni dovessi imbattermi in un mondo che fosse
+						diverso da quello che ora è, non abbia a rendergli conto d'una
+						trasgressione.</p>
+               <p>Ma davvero che, guardandomi ben attorno ne ho poca fiducia, onde meglio
+						sarebbe forse stato che morto com'era non mi fossi più destato!... Ma tanto
+						fa!... quello che ho detto ho detto, e chi non mi crede lo domandi al
+						diavolo...; è un cortese compare e non gli tarderò la risposta.</p>
+            </div>
+            <trailer> FINE. </trailer>
+         </div>
+         <div type="liminal">
+            <head>ADELIA</head>
+            <div xml:id="IT0100" type="chapter" n="1">
+               <head>CAPITOLO I.</head>
+               <quote>
+                  <l>Comune storia che finge pur il vero,</l>
+                  <l>A voi fanciulle io narro!...</l>
+               </quote>
+               <p>Spuntava il sole d'un bel giorno di giugno. Le tremolanti cime degli alti
+						pioppi che imboscano le valli del mantovano erano avvolte in un'oncia di
+						luce e si disegnavano nello spazio in bizzarri frastagli.</p>
+               <p>Appoggiato al parapetto del ponte di S. Giorgio, vedeasi un giovane dalle
+						sembianze dilicate, dalla pupilla animata, dai capelli che a lunghe ciocche
+						scendevangli intorno alla fronte alta e serena.</p>
+               <p>Egli seguiva astrattamente l'incresparsi delle calme acque del lago, sul cui
+						dorso vedeasi guizzare qualche gaio pesciolino che le solcava d'una bella
+						striscia d'argento, mentre il sole che innalzavasi a poco a poco imperlava i
+						verdi ligustri bagnati ancora dalla notturna rugiada.</p>
+               <p>Fra quella folta selva di giunchi che si estende sulla riva sinistra del
+						lago, l'usignuolo modulava la sua mesta nota; il gardello dalla cima di
+						qualche antico pioppo trillava il suo armonioso gorgheggio; gaie villanelle
+						passavano il ponte adorne del loro più bell'abito festivo; da lungi udivasi
+						lo schioppettòo allegro delle fruste agitate dai merciajoli che spingevano
+						le loro rozze alla piazza, che s'ingrossava di rivenduglioli.</p>
+               <p>Era insomma una mattina d'un bel giorno di festa, ed il pensiero ti si
+						esilarava nel contemplare quella scena così poetica nella sua amena
+						semplicità.</p>
+               <p>Il giovane che erasi recato a diporto lasciando errare intanto il volo del
+						suo pensiero intorno a chi sa quante illusioni che leggiadramente andava
+						forse accarezzando, ritornè sopra a' suoi passi, e cacciatosi sotto al
+						portico dei Mercanti, movea difilato verso la chiesa di Sant'Andrea.</p>
+               <p>Era l'ora della messa; il comico teatro rituale rigurgita di spettatori pel
+						solo scopo che lo spettacolo si dà gratis!</p>
+               <p>La piccola piazzetta detta del Bocchetto era ingombra d'ogni sorta di gente;
+						l'occhio avido ed impaziente del giovane ben s'internava tra quella folla
+						compatta, ben egli si rizzava sulle punte dei piedi per guardare al disopra
+						delle teste, che rasentava collo sguardo, e bestemmiava contro la devozione
+						cattolica col maggior garbo possibile!...</p>
+               <p>perchè un fremito l'investe in tutta la persona?... perchè i suoi occhi
+						mandano un così vivo lampo di gioia?...</p>
+               <p>- è già tardi, mamma, disse una voce dolce e soave a pochi passi da lui, e la
+						leggiadra giovinetta dalla cui bocca erano usciti quegli accenti, trascinava
+						dietro a sì verso il tempio una donna d'aspetto posato, per un lembo della
+						sua veste di seta nera.</p>
+               <p>Carlo fece un atto di sorpresa e guardò la folla che gli serrava il passo
+						come guerriero che misuri d'un colpo d'occhio la forza del nemico; strinse i
+						gomiti e si dispose a farsi largo. Dal tempio si udì un modulato tintinnir
+						di campanello... a quel suono la folla cadde ginocchioni, ed egli si vide
+						ritto e come piantato in mezzo ad un livello orizzontale di larghi
+						cappelloni di paglia e di cuffie a nastri rossi che gli si incurvarono
+						dinanzi come capi di spiche al soffiare d'improvviso vento.</p>
+               <p>Datemi un punto d'appoggio e solleverò il mondo, disse Archimede... A Carlo
+						mancò invece il punto d'appoggio; egli spinse i suoi due pugni inarcati nel
+						vuoto e brancolò urtando contro qualche cosa che faceva parte del corpo
+						d'una vecchia ottantenne, ed a cui la troppa divozione dava una prominenza
+						troppo indiscreta!...</p>
+               <p>Egli vide però... la vide salire la larga gradinata, la vide volgergli uno
+						sguardo; arrossire ed entrare, e fu questa credo la prima volta che egli
+						trovò che il sanctus potesse servire a qualche cosa!...</p>
+               <p>Adelia, che tale era il nome della giovinetta, erasi inginocchiata accanto
+						alla madre, egli era entrato in chiesa e potè a tutto suo agio contemplarla
+						per qualche istante; i loro sguardi s'incontrarono... S'erano detti mille
+						cose!...</p>
+               <p>Amarsi!... come è bella la vita!... quando la si comprenda in questa soave
+						aspirazione dell'anima!... aspirazione santa!... come tutto ciò che è
+						fede!... perchè fede è amore!... amore è giovinezza!... Vivere l'uno per
+						l'altro!... poter ridirsi questa magica parola di tutti i cuori!... Correre
+						insieme le fiorite alee d'un giardino, ascoltare il canto di un augello,
+						darsi un fiore, scambiare un bacio, mormorarsi strane parole, palpitare di
+						fremiti soavi, guardare il cielo che si adorna di un manto più fulgido di
+						stelle per farsi più bello ai nostri occhi!... Il sole che sfavilla di
+						maggior luce!... far proprio ogni volger d'attimo che concatena il tempo
+						all'eternità, di cui si ama tutto! Le gioie che prodiga, i dolori che
+						prepara... quelle belle giornate di primavera in cui si respira l'olezzo
+						delle viole raccolte sul margine d'un fiumicello; quelle triste giornate di
+						pioggia durante le quali vi raccogliete leggendo un libro, ridicendovi le
+						mille volte quell'eterno ritornello che è il grido eterno della vostra
+						anima, sempre nuovo perchè veste sempre le diverse forme delle impressioni
+						che gli danno la vita!...</p>
+               <p>Ecco cos'era l'amore per Adelia!... era un fuggevole inseguirsi di giorni
+						sereni e felici!... era un immergersi nella voluttà dell'oggi!... era un
+						sorridere alla speranza del domani!...</p>
+               <p>Povero fiore avido di luce e di rugiada che appena schiude i suoi petali
+						olezzanti, essa aveva ben ragione di chiedere alla vita il suo caro sogno di
+						fanciulla!...</p>
+               <p>perchè il dubbio, questo aspide dalla bava velenosa che s'avviticchia al
+						verde tronco e ne sugge il miele, avrebbe dovuto tingerle l'aurora coi
+						foschi colori del tramonto?...</p>
+               <p>No!... ridi e folleggia, o fanciulla, finchè ha un sorriso il tuo vergine
+						cuore!... Ama e canta come la rondine che ti saluta il mattino dal trave
+						ospitale dove ha fabbricato il diletto suo nido!...</p>
+               <p>Il capriccio innocente od un desiderio di rapina, un giorno glielo
+						distruggerò, ed ella andrà poi gemendo per gli spazj raccontando all'aria la
+						sua sventura e la triste storia dei diletti che generano le colpe!... Ridi e
+						folleggia prima che il dolore impallidisca il bel vermiglio della tua
+						guancia!... Prima che il pensiero appanni la tua fronte!... Spendi i palpiti
+						del tuo giovane cuore prima che la disillusione te li inaridisca nel
+						petto!...</p>
+               <p>Godi, fanciulla!... finchè il tuo ciglio ha un lampo sereno; il mondo è
+						tuo!... cogline i diletti, come il fiore che cògli attira un tuo sguardo.
+						Ape leggiadra, aggirati pel giardino della vita ornato d'altari e di
+						croci!... Canta alla vita ed alla morte la tua canzone, poi fenice dalle ali
+						dorate, fatti un rogo di vimini olezzanti e coll'ultimo tuo canto prelòditi
+						la tomba!...</p>
+            </div>
+            <div xml:id="IT01000" type="chapter" n="2">
+               <head>CAPITOLO II.</head>
+               <milestone unit="poem"/>
+               <l>Bello è il riso degli astri, e allor che splende</l>
+               <l>La compagna dell'ombre, e l'armonia</l>
+               <l>Del creato sfavilla a me discende</l>
+               <l>Dolce nell'alma una tristezza pia.</l>
+               <l>Caro è l'amplesso d'una madre, e santa</l>
+               <l>La parola che al cor parla la fede!...</l>
+               <l>Ma tutto tace se dal duolo affranta,</l>
+               <l>Ebbra d'amor.... non ha d'amor mercede,</l>
+               <l>L'alma che solo in lei sente la vita,</l>
+               <l>Nel delirio gentil con te rapita!...</l>
+               <l>Sol'io ramingo ricercando vado</l>
+               <l>Un cor che al grido del mio cor risponda!...</l>
+               <l>E d'una cara illusìon suado</l>
+               <l>L'alma d'amor digiuna e sitibonda!...</l>
+               <p>L'argenteo raggio d'una pallida luna baciava le nere chiome d'una pensosa
+						giovinetta seduta sola e raccolta al piccolo tavolino da lavoro della sua
+						stanza, allora che dalla strada s'intese il suono della mesta canzone.</p>
+               <p>Ne erano le note dolci come un sospiro e parea non domandassero all'eco che
+						un altro sospiro ad intrecciarne l'armonia.</p>
+               <p>Quella giovinetta era Adelia.... si scosse.... tese l'orecchio con avida
+						ansia.... i suoi begli occhi celesti scintillarono ardenti ed animati.... un
+						incitato anelito le sollevò il petto ansante, colla leggiadra sua mano si
+						compresse la fronte come se volesse frenare l'inquieta danza dei pensieri
+						che dentro vi turbinava, si alzò tacita, accostossi al balcone che stava
+						aperto.... forse per lasciar adito alla fresca aria della sera....</p>
+               <p>Ristette immota.... Un giovane svoltava l'angolo della vicina via; la
+						giovinetta non potè udir altro che l'allontanarsi de' suoi passi.</p>
+               <p>Pure aspettò.... quel rumore tornè a farsi più distinto; vide un bel giovane
+						dalla corporatura snella, dal volto pallido, dai capelli neri e lucidi, che
+						ripassì senza levare lo sguardo, poi più nulla!...</p>
+               <p>Essa era ancor là.... guardava una stella il cui raggio le tremolava sul
+						capo, e parevale che favellasse arcane parole alla sua anima che chiedeva
+						alla vita il suo mistero!...</p>
+               <p>Come era bella! appoggiata a quel balcone, illuminata da quella mistica luce,
+						che ne inargentava le chiome d'ebano!</p>
+               <p>Era pur bella!... china la fronte sul suo seno d'alabastro, simile alla
+						Margherita di Ghoète, che sfoglia il fiore della rivelazione, sfogliava essa
+						i fiori del suo pensiero cercandovi il più bello ed il più olezzante!...</p>
+               <p>Come si disegnava bello il suo corpiccino di gazzella sotto alla sua veste
+						bianca!</p>
+               <p>Essa non sapea ancora che nome avesse.... chi fosse il pallido giovinetto che
+						aveva cantato sotto al suo balcone la romanza del sospiro!...</p>
+               <p>Ma che importa al cuore che ama di un nome?... Si sovvenne della prima parola
+						colla quale l'aveva chiamata baciandola sua madre, e la mormorò stemperando
+						la sua anima in un sorriso. Mio Angiolo!...</p>
+               <p>Povera Adelia!</p>
+               <p>è mezzanotte!... la luna che ha irraggiata quella scena, ha nascosta la sua
+						faccia luminosa in seno a fosche nubi. Da che ritorse inorridita il suo
+						raggio?... Dalle socchiuse griglie di un'altra casa s'ode un tintinnio di
+						bicchieri... grida.... un nome.... poi uno scoppio di risa... poi una parola
+						mormorata da due labbra nello scambio di un bacio: Povera Adelia!</p>
+            </div>
+            <div xml:id="IT01003">
+               <head> Spiegazioni </head>
+               <p>Insomma!... l'amava o non l'amava?... mi domanderà il lettore.</p>
+               <p>O che bel vezzo è mè questo di tradurci innanzi il vostro protagonista mentre
+						aspetta il sole che nasce, che poi fa quasi a pugni d'innanzi ad una chiesa
+						per veder in viso la sua bella!... per mandarcelo ad un tratto chi sa
+						dove... a profanare in un'orgia chi sa qual nome... Signor novelliere!...
+						l'è questo un andar a sbalzi che non ci garba gran che!... E poi... chi è
+						questo signor Carlo che sta guardando i pesciolini che guizzano, come uno
+						scolaro del Seminario!... che canta delle romanze che sono andate già di
+						moda, e che dato poi uno scappellotto a tanta ingenuità preadamitica ci fate
+						smarrir d'innanzi, lasciando a noi da lambiccare il dove abbia potuto
+						cacciarsi....</p>
+               <p>Affù, dico io.... cosa importano mè a voi, belle lettrici, giacchè è per voi
+						che butto già questa novelluccia da strapazzo! cosa importano a voi i
+						connotati più o meno speciali e fotografici dell'eroe di questo racconto?...
+						prima di tutto.... disse, ed a ragione, un nostro chiaro scrittore, che al
+						dà d'oggi quest'ufficio che altra volta era un privilegio dei romanzieri, se
+						l'han preso certe persone che hanno tanto a che fare colla poesia come il
+						Patio nel Corano!... sebbene sia merce dell'istessa stoffa!...</p>
+               <p>D'altronde, sapete perchè v'ho accennato il suono de' suoi passi, invece di
+						disegnarvelo, spendendovi dietro una dozzina di paginette?... prima di tutto
+						perchè si vuole che io faccia presto!... in secondo luogo ho pochissima
+						voglia di scriver molto!... e poi, perchè credo che l'uno per l'altro il
+						suono dei passi lo rendano tutti con una certa qual prossimitività
+						d'uguaglianza, dalla quale voglio trarre pressochè una norma
+						dell'uguaglianza dei difetti e delle virtù, di bene e di male, onde
+						s'informa questo ammasso d'ossa e di carne, di sangue e di vene, che
+						costituisce il meccanismo di questo logogrifo ambulante che dicesi uomo,
+						mentre agisce su questo vasto teatro che dicesi mondo!... rappresentando
+						questa farsa comico-tragica che dicesi vita!...</p>
+               <p>Tutt'al più sarò obbligato a dirvi l'espressione esterna dei suoi lineamenti,
+						e se ben non m'inganno sembrami avervi detto che era bello, pallido, così
+						come un ritratto al dagherotipo esposto alla curiosità dello sguardo.</p>
+               <p>Guardava i canneti indorati dal sole, cantava una romanza sentimentale
+						passando sentimentalmente sotto ad una finestra, poi andava ad orgiare
+						salutando con un brindisi l'idea conquistatrice del bollente suo
+						spirito!...</p>
+               <p>Lo faceva così.... perchè tutti gli uomini hanno vari momenti nella loro vita
+						che prendono tinte analoghe dalla loro posizione, come le acque riflettono i
+						colori del cielo, e subiscono lo stato degli elementi!... Oggi si piange,
+						domani si ride!... oggi si dorme, domani si muore; differenza di
+						posizione!... Giuoco d'ottica!... Uno dei fili arcani da cui sono mosse le
+						suste delle marionette terrestri subisce una oscillazione, un altro si
+						spezza, ed eccovi perchè chi è sano s'ammala, chi è vivo muore, chi è ricco
+						diventa povero, chi è onesto si fa ladro!...</p>
+               <p>Cambiamento di luce nella gran lanterna magica del creato!... Sviluppo di
+						forme partorite dallo sconvolgersi degli eventi sul terreno del
+						tempo!...</p>
+               <p>Bah!... follie o grandezze a seconda del modo con cui si vedono le cose.
+						Sinonimi e figure, ombra e luce, finchè cade la tela dell'ultimo atto,
+						finchè il passato si confonde coll'avvenire, e l'avvenire si sperda ombra
+						fatua nelle tenebre del nulla!...</p>
+               <p>Ma lasciamo queste oziose digressioni!</p>
+               <p>Erano scorsi varii giorni dall'incontro dei due giovani tra la folla che li
+						divise.</p>
+               <p>La giovinetta seguendo la buona madre era uscita dal tempio, e Carlo l'aveva
+						occhieggiata a suo bell'agio; s'eran scambiati un sorriso, poi allegramente
+						s'era recato a stanare un gajo crocchio d'amici, coi quali passì la
+						giornata, impiegando di cuore tutta la sua volontà in un buon achitto al
+						bigliardo del caffè Partenope, quanta ne adoprò per dare ai suoi sguardi
+						un'espressione che rivelasse all'ingenua donzella il ritornello a metro
+						obbligato di tutti gli amanti, più o meno amanti od amati! Circostanze che
+						non si presentano due volte, e che non bisogna mai lasciar sfuggire alla
+						prima!...</p>
+               <p>Davasi una cena; una gaja brigata d'amici erasi raccolta innanzi ad un buon
+						fuoco, da cui era riscaldata un'allegra sala da pranzo!...</p>
+               <p>- Ebbene?... cosa c'è di nuovo a questo vecchio mondo? diceva un giovane
+						attillato, arricciandosi sulla fronte una ciocca di capelli che gli davano
+						un'aria più che poetica.</p>
+               <p>- Bah!... sempre la stessa storia, rispondevagli dalla sua seggiola a
+						bracciuoli un uomo che poteva prendersi a prima vista per quello che voleva
+						mostrar d'essere, mentre vuotava un colmo bicchiere di nebiolo; la storia
+						del lupo e della volpe!... ingannati e ingannatori!...</p>
+               <p>- E ingannatrici.... soggiungeva un altro.</p>
+               <p>- Bravo! nessuna eccezione, ribattè Arturo.</p>
+               <p>- Libertà ed eguaglianza.... confermò l'uomo che poteva parer giovane.</p>
+               <p>- E tu Carlo?... non fai eco?... cos'hai?... I diavoli neri ti frullano in
+						capo?</p>
+               <p>- Credo che sia un demonietto roseo, saltò su a dire ridendo Arturo.</p>
+               <p>- Nulla, rispose Carlo: cosa volete che abbia! sono annojato, ecco tutto.</p>
+               <p>- Bevi!... inauguro un brindisi col rondò della Traviata!...</p>
+               <p>- Per carità, Adolfo, esclamò Carlo sbadigliando, non mi parlare di
+						traviate!...</p>
+               <p>- Hai ragione, sono troppe!... Abbondanza nel numero e nella specie!...
+						questo però non toglie che Verdi abbia scritto della musica sublime.</p>
+               <p>- Evviva Verdi!</p>
+               <p>Adolfo si empiù il bicchiere e lo vuotò lasciandosi andare sovra una sedia
+						canticchiando ad onta dei.... sss!... degli amici un brano della sua opera
+						favorita.</p>
+               <p>- Ma silenzio! che il diavolo ti porti! sento rumore nell'anticamera, disse
+						Arturo alzandosi.</p>
+               <p>- Sarò l'invitato di questa sera.</p>
+               <p>- Ah!... l'amico Enrico! grida Arturo; e slanciandosi fuor della sala
+						ricomparisce presentando all'adunanza il fratello di Adelia, che vi fu
+						accolto con tutti quegli onori pieni di confidenza che si prodigano in tali
+						circostanze.</p>
+               <p>Il fratello di Adelia era un bel giovane dalla fisonomia franca ed aperta;
+						vero tipo di studente</p>
+               <quote>
+                  <l>Che studia poco e non impara niente!</l>
+               </quote>
+               <p>come dice Fusinato.</p>
+               <p>Non è a dirsi che in un momento egli fu l'amico di tutti, tutti furono suoi
+						amici. Non è a dirsi come Carlo gli fosse prodigo di delicatezze e di
+						cortesie.... come gli offerisse tutto sì stesso.</p>
+               <p>L'indomani per tempo, Carlo batteva alla porta della sua casa, saliva con
+						qualche trepidazione le scale....</p>
+               <p>- C'è il signor Enrico? domandava ad una fantesca che era venuta ad
+						aprirgli.</p>
+               <p>- Oh, benvenuto l'amico Carlo!... esclamava una voce allegra a pochi passi da
+						lui.... Enrico gli veniva incontro tutto cuore ed espansione.</p>
+               <p>- Mio caro Enrico, mantengo la mia promessa, rispondevagli Carlo con aria un
+						po' imbarazzata.</p>
+               <p>Enrico l'introduce in un elegante salotto, alla stanza da lavoro, dove sua
+						madre stava allestendo quei tanti nonnulla che occupano tutta la vita della
+						donna di famiglia.</p>
+               <p>- Mia madre.... ti presento il signor Carlo T.... mio amico, ottimo giovine
+						della cui conoscenza mi chiamo fortunatissimo!...</p>
+               <p>La madre di Enrico si alzò contraccambiando. Carlo vi rispose con una
+						modestia che colmò d'ammirazione la buona signora.</p>
+               <p>Da una vicina stanzetta, forse dal nido dell'innocente colomba che allegrava
+						col suo sorriso quel soave albergo della pace, s'intese un lieve
+						rumore....</p>
+               <p>All'orecchio di Carlo non sfuggì un piccol grido soffocato che suonè dietro
+						alle cortine che adornavano la porta.</p>
+               <p>Un volto pallido ed animato si mostrò nello stesso istante tra la fenditura
+						della tenda.</p>
+               <p>- Mia sorella.... disse Enrico volgendosi a Carlo.</p>
+               <p>Carlo fisso in quell'angelica apparizione, appena seppe trovare qualche
+						parola che nascondesse agli occhi che lo guardavano il segreto del suo
+						cuore!...</p>
+            </div>
+            <div xml:id="IT01004" type="chapter" n="4">
+               <head>. . . . . . ? !</head>
+               <p>Carlo diffatti col frequentare la casa durante la dimora che vi fece Enrico,
+						s'era acquistata quella domestica intimità alla quale agognava in pensiero.
+						Andavano le cose per tal modo che se era per lui ardente brama toccare la
+						soglia diletta, era abitudine in quei di casa vederlo, talchè se a caso
+						mancava ad alcuna di quelle riunioni ove solea trovarsi, chiedevasi dalla
+						buona madre di Adelia, dove fosse.... e cosa ne potesse essere avvenuto....
+						Era insomma come suol dirsi della famiglia!...</p>
+               <p>Adelia dal canto suo ne era beata; a lei la fronte splendeva animata da una
+						gioja che prometteva di durare eterna!... Ma quante promesse non mentono?...
+						incominciando dai programmi dei giornali, fino ai dispacci dell'Agenzia
+						Stefani?...</p>
+               <p>Se l'amore che si svolgeva nella sua anima gentile e pura, ne aveva
+						accarezzati gli infantili abbandoni.... le patetiche meditazioni.... le
+						malinconie incomprese.... aveva anche rivelata la donna nella fanciulla: se
+						coltivava con più cura il suo giardino.... prediligeva anche il nastro che
+						dava più eleganza al suo corpiccino; la pettinatura che faceva spiccare di
+						più il suo occhio di gazzella.... la sua fronte d'alabastro.... le sue gote
+						rosee, fresche, come se dormiente il bacio d'un angelo gliele imperlasse coi
+						colori del giglio e del melagrano!...</p>
+               <p>Sul suo terrazzino cresceva la sua prediletta famiglia di fiori; ella era
+						sollecita d'inaffiarli appena credeva che potessero essere offesi da un
+						raggio troppo ardente di sole!...</p>
+               <p>Come li amava i suoi fiori!...</p>
+               <p>Erano ben essi i soli testimoni de' suoi dolci colloqui!... sentivano
+						sol'essi il suono del bacio furtivo che sfiorava le sue labbra di
+						corallo....</p>
+               <p>Era sopra a quel piccolo e leggiadro terrazzino che soleva recarsi anelante,
+						tremebonda, ad aspettare una parola che alimentasse la vita del suo cuore,
+						come essi aspettavano la rugiada della sera per aprirsi rigogliosi col
+						mattino.</p>
+               <p>La buona signora Caterina.... la madre della fanciulla, notava quello
+						sviluppo del cuore e dell'intelligenza e ne gioiva, come gioiva Adelia
+						quando vedeva sul suo cespo sbucciar la rosa che aveva fatta germogliare con
+						tanta cura!...</p>
+               <p>Era il frutto della sua educazione semplice e pura, che aprivale innanzi i
+						suoi tesori.... Povera madre!... Credo che gli angeli, che la sublime poesia
+						del cristianesimo ha simboleggiati con immortali simulacri, sorridessero del
+						suo sorriso ma non sempre sul ramo della rosa canta l'usignuolo!... Anche
+						tra i pruni egli modula la sua canzone d'amore!... Povera Adelia!... In
+						faccia alla buona madre era così modesta la parola dà Carlo!...</p>
+               <p>Quando si stringeva al petto l'innocente fanciulla, baciandola sulla fronte,
+						era così commossa la sua voce....</p>
+               <p>La menzogna può ella vestire una forma così turpe?</p>
+               <p>L'anima può ella insudiciarsi nel lezzo della colpa, quando espande dalle
+						labbra un profumo di cielo?...</p>
+               <p>Era una sera.... la madre incomodata lievemente, erasi coricata; Adelia che
+						intenta la vegliò sino ad ora piuttosta tarda, dià a lei la felice notte con
+						un bacio, poi si ritrasse nella sua cameretta.</p>
+               <p>Poco vi stette; tacita tacita s'avviò verso il terrazzo....</p>
+               <p>perchè trema così la sua mano che si appoggia alla spalliera di marmo dei
+						suoi fiori?... è un fremito dolce che investe le sue fibre.... è l'ansia
+						d'un cuore per cui non è vita che tra le braccia dell'essere a cui ha
+						consacrati tutti i suoi palpiti!... un istante!... un altro ne trascorre
+						accelerando le pulsazioni febbrili.... un supremo!... poi.... il paradiso
+						d'un amplesso!...</p>
+               <p>Carlo è là.... bello.... sorridente.... La sua voce non ebbe mai così soave
+						accento!... la sua mano non fu mai così ardente!... La sua pupilla non mandò
+						mai lampi di un tanto amore!... Era ben amore quello che dentro vi
+						raggiava!... Era un fuoco sottile, struggitore, che s'infiltrava nell'animo
+						della giovinetta sino a farle smarrir la ragione!...</p>
+               <p>Essi erano là.... assisi l'uno presso all'altra!... il cielo era gemmato di
+						stelle.... i neri e folti capelli della giovinetta le cadevano in abbandono
+						sugli omeri di neve.... l'aria tiepida della notte scherzava tra essi, e
+						pareva che mormorasse al loro orecchio una parola soave d'amore che essi
+						solo comprendevano.</p>
+               <p>Carlo intrecciava le sue braccia al collo della fanciulla.... e la guardava
+						con uno di quegli sguardi lunghi.... ansii.... pieni d'inebriante
+						voluttà.... di domande a cui non si risponde, ma che si sentono dominarci...
+						Ammutoliti entrambi tacevano.... eppur tacendo parlavansi strane parole. Il
+						cuore della fanciulla si sentì serrato; il suo pensiero ebbe una vertigine.
+						Il giovine la strinse al seno, non vide più che quel volto raggiante
+						d'amore!... non aspirò che l'alito infuocato che gli usciva dalle labbra
+						curve sovra le sue nell'atto d'un bacio.... Se la terra le si fosse
+						sprofondata sotto ai piedi, ella non avrebbe amato di meglio che disfarsi
+						nel nulla nella foga delirante di quell'ora d'amore!...</p>
+            </div>
+            <div xml:id="IT01005" type="chapter" n="5">
+               <head> Sempre così . . . . . . </head>
+               <p>Abbandono!... suona ben trista sul labbro questa parola.... Quante memorie di
+						piaceri, di speranze.... di gioje sfumate, di desideri incompiuti.... che
+						passano dinnanzi allo sguardo lasciando nell'animo lo sconforto ed il
+						dolore!...</p>
+               <p>Se l'autunno è la più mesta stagione dell'anno, se l'Ave Maria è l'ora più
+						mesta della sera.... l'abbandono è la più mesta parola che amareggi anima
+						mortale nell'ora dell'affanno, quando egli batte inesorabile alla nostra
+						porta chiedendo ad ognuno la sua quota di lagrime.</p>
+               <p>Era sparito il roseo incarnato che faceva così belle le guancie della
+						fanciulla.... i suoi occhi hanno perduta la loro gioviale vivacità, eppure
+						quanto sono ancor belli!...</p>
+               <p>Invano la buona madre le sta intorno con affannose domande: - inginocchiata
+						innanzi ad un'immagine di Maria che imparò a pregare sin dall'infanzia, essa
+						prega.... e confonde alle parole rotti singulti. Per chi prega essa?...</p>
+               <p>Carlo non frequenta più così assiduo la famiglia.</p>
+               <p>- La nostra posizione ha bisogno di riguardi - susurra egli all'orecchio
+						della giovinetta.</p>
+               <p>Un sinistro presentimento getta la tempesta in quel povero cuore; un
+						terribile pensiero la spaventa; nelle angoscie del dubbio ella si strugge
+						sotto gli occhi di colei che daria la vita per veder rifiorire sul suo volto
+						quel sorriso che la faceva tanto beata!</p>
+               <p>Passano i mesi, e col rapido fuggire di essi, cresce la cupa melanconia di
+						Adelia. Un non so che di vago, di indefinibile, la agita, la turba.</p>
+               <p>Quasi con timore ella fissa i suoi occhi in quelli di Carlo.... le dolci
+						parole di sua madre la conturbano.... Ella china il capo quando favellandole
+						amorosa le siede appresso.</p>
+               <p>- Forse che più non m'ami?... Egli mi deve amare!... mormorò un giorno fra
+						sì, come reagisse disperatamente contro l'immagine d'un pensiero!... Che....
+						che.... debba avvenire.... è d'uopo che egli sappia.... E non finè; un
+						singhiozzo convulso le soffocò la parola nella strozza, si coperse il volto
+						colle mani e pianse.</p>
+               <p>E' raccolta la famigliuola nella saletta da lavoro, il fratello di Adelia che
+						era ritornato da qualche giorno, è ripartito per Padova.</p>
+               <p>Una zia di Adelia, sorella della signora Caterina venne dalla campagna in
+						quella vece a romper la noja per qualche giorno. Le due donne lavorano;
+						Adelia pure trappunta; le sue mani piccole, bianche, agili, scrivono un nome
+						sulla fina tela!... un nome che le suona così dolce sul labbro!... che gli
+						echeggia così caro nel cuore!...</p>
+               <p>Carlo arriva.... egli è più gajo del solito; il sorriso di Adelia si anima
+						tosto della sua gioja.... egli se ne impronta rapido come il cristallo che
+						riceve la luce e che la spande d'intorno.</p>
+               <p>Eppure tutto ciò ha una forma vaga.... assomiglia la calma del mare quando
+						vicina freme la tempesta; tutti sono muti e sono tristi pensieri al certo
+						che concentrano intorno a quel crocchio domestico quel silenzio sì cupo.</p>
+               <p>Adelia ha trascurato i suoi fiori, poi ha pianto per qualche esile
+						pianticella che trovò appassita; le sembrò che fosse una speranza di meno
+						che si sfrondava dall'albero delle sue illusioni!</p>
+               <p>chè chè avesse però fissato.... venne il giorno che nel suo pensiero Adelia
+						ebbe fisso.</p>
+               <p>Carlo era secolei sul terrazzino; ve l'aveva tratto con dolce violenza;
+						pareva che la fanciulla sentisse il bisogno d'annodarlo al suo passato,
+						evocandone la dolce memoria.</p>
+               <p>Egli pareva fuggire con ogni studio quel colloquio....</p>
+               <p>Cosa si dissero?... che avvenne?... Un grido disperato d'angoscia.... come il
+						singulto di un'anima che franga i suoi vincoli di carne, ha eccheggiato
+						lungo i deserti appartamenti ed arrivò fino all'orecchio delle due donne che
+						lavoravano.</p>
+               <p>Esse accorsero.... trovarono la fanciulla sola sul terrazzo.... teneva gli
+						occhi fissi sovra la scala dalla quale qualcuno era sceso.... quando si
+						riscosse si gettò singhiozzando nelle braccia della madre.</p>
+               <p>Povero cuore!... quanto doveva aver sofferto. . . . . . . . . . . .</p>
+               <p>è una fredda mattina di febbrajo; una fitta nebbia fa argine ai pallidi raggi
+						di un sole senza calore. Il passero se ne sta rattrapito sulle grondaje e
+						par restìo di spiegare il suo volo agile e leggiero. Il funebre rintocco di
+						una squilla vaga mestamente per l'aria pesante, umida, bassa.</p>
+               <p>Adelia curva la fronte dal dolore, eppure calma e serena nella coscienza di
+						sì stessa attende l'ora funesta che gli aleggia intorno.</p>
+               <p>Pallida più che le bianche cortine del suo letto, ella giace là.... e nel suo
+						sguardo fisso, quasi immoto, nuotano ancora le memorie dei giorni troppo
+						presto trascorsi!...</p>
+               <p>Tutto è silenzio.... e soltanto il soffocato singulto della povera madre che
+						veglia al capezzale della giacente, turba quella quiete solenne.</p>
+               <p>La giovinetta si scosse; il suo occhio incontrù quello della madre umido di
+						lagrime.... colla scarna mano si strinse al seno quella fronte amata!... Le
+						loro labbra si toccarono.... mandarono un sospiro... non dissero una
+						parola!... qual incomparabile poema d'affetti!... quante pagine del cuore
+						umano svoltesi in un attimo!... quante rivelazioni arcane comprese in un
+						fremito!... qual domanda di perdono!... o qual risposta di
+						adorazione!...</p>
+               <p>- Ancora non venne!... mormorò ella, distogliendo lo sguardo dalla porta che
+						rimanevasi chiusa.... Sempre chiusa!...</p>
+               <p>La povera madre non le fù risposta: e sì che aveva tante cose a dirle!... La
+						poveretta comprese quel suo pensiero; le sorrise.... le sorrise con
+						quell'abbandono straziante che indovina il riposo della tomba!... e solo gli
+						increbbe di lei.... di quella povera donna che lasciava sola, con un
+						pensiero da accarezzare, con una memoria da amare, con un sepolcro su cui
+						piangere!...</p>
+               <p>Sorgeva il sole del domani: una donna raccolta in uno di quei profondi dolori
+						per cui la parola non ha conforto, per cui il labbro non ha nome, pregava
+						sovra una fossa appena scavata nel cimitero. Intrecciava pochi fiori ad una
+						croce, li baciava e sembravagli che col loro olezzo le parlassero l'ultimo
+						addio del suo povero angelo.</p>
+               <p>L'istessa sera i vetri di una casa riflettevano la luce di dorati doppieri.
+						Carlo volteggiava con una vispa donzella tra le melodie d'un valtzer, e
+						mormorava all'orecchio della sua danzatrice la solita menzogna di tutti, e
+						di tutti i giorni: t'amo!...</p>
+            </div>
+            <trailer>FINE</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
